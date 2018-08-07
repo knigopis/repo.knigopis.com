@@ -1,4 +1,16 @@
 {
+    "A1Dy87HFXB": {
+        "id": "A1Dy87HFXB",
+        "title": "Искусство цвета",
+        "author": "Иоханнес Иттен",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/138454818/",
+        "createdAt": "2018-08-07 21:34:40",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 173
+        }
+    },
     "vb4cKoQMUh": {
         "id": "vb4cKoQMUh",
         "title": "Искусство формы. Мой форкурс в Баухаузе",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 45
-        }
-    },
-    "q1owozGjjz": {
-        "id": "q1owozGjjz",
-        "title": "Одноклассница",
-        "author": "Смиян Вадим",
-        "notes": "Концовка слита безбожно.",
-        "createdAt": "2018-07-18 07:28:02",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 133
         }
     }
 }

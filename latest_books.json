@@ -1,4 +1,16 @@
 {
+    "A1Dy87HFXB": {
+        "id": "A1Dy87HFXB",
+        "title": "Искусство цвета",
+        "author": "Иоханнес Иттен",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/138454818/",
+        "createdAt": "2018-08-07 21:34:40",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 173
+        }
+    },
     "vb4cKoQMUh": {
         "id": "vb4cKoQMUh",
         "title": "Искусство формы. Мой форкурс в Баухаузе",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 187
-        }
-    },
-    "TYX1laez9T": {
-        "id": "TYX1laez9T",
-        "title": "Гром победы, раздавайся!",
-        "author": "Акунин Борис",
-        "notes": "ISBN: 978-5-17-072929-6",
-        "createdAt": "2018-08-01 10:55:07",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 77
         }
     }
 }
