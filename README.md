@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>132</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>67</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Vyrdalak](users/114/1148882455236791-facebook)<sup>1</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>131</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>100</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>63</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aaaLina](users/103/103442381288654151085-google)<sup>22</sup> 
 
 
-_07.08.2018 05:38:51_
+_07.08.2018 11:55:03_

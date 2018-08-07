@@ -1,4 +1,16 @@
 {
+    "DG_PaNIFzv": {
+        "id": "DG_PaNIFzv",
+        "title": "Мемуары гейши",
+        "author": "Артур Голден",
+        "notes": "",
+        "createdAt": "2018-08-07 11:55:02",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 132
+        }
+    },
     "d9ppnMImRx": {
         "id": "d9ppnMImRx",
         "title": "У самого синего моря  и Против часовой стрелки",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 26
-        }
-    },
-    "PC2pY6ANyA": {
-        "id": "PC2pY6ANyA",
-        "title": "Молния",
-        "author": "Дин Кунц",
-        "notes": "",
-        "createdAt": "2018-08-01 04:26:02",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 25
         }
     }
 }
