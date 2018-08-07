@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* У самого синего моря  и Против часовой стрелки ~ [Chiffi](users/105/105831994080785626680-google)<sup>67</sup>
+    > Семейная сага. очень трогательная и пронзительная.
+
 * Портрет Дориана Грея ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
     > 8/10
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-17-071215-1, 978-5-271-32295-2
 
 * Chickenhawk ~ [exulted](users/100/100599204551896265722-google)<sup>78</sup>
-    > Kindle
-    > ASIN: B0097AX6EQ
 
 * Коралина ~ [Garka](users/115/115753719718250012620-google)<sup>188</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * A Troublesome Inheritance: Genes, Race and Human History ~ [exulted](users/100/100599204551896265722-google)<sup>76</sup>
 
-* Пирамиды ~ [Garka](users/115/115753719718250012620-google)<sup>186</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>67</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>658</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fir137](users/176/176805114-yandex)<sup>1</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>12</sup> 
 [aaaLina](users/103/103442381288654151085-google)<sup>22</sup> 
-[stanislas.morosow](users/104/104253979-vkontakte)<sup>0</sup> 
 
 
-_07.08.2018 04:21:15_
+_07.08.2018 05:38:51_

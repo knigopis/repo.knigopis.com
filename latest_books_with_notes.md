@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* У самого синего моря  и Против часовой стрелки ~ [Chiffi](users/105/105831994080785626680-google)<sup>67</sup>
 * Портрет Дориана Грея ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
 * «Мария», Мария… ~ [exulted](users/100/100599204551896265722-google)<sup>79</sup>
 * Chickenhawk ~ [exulted](users/100/100599204551896265722-google)<sup>78</sup>
@@ -30,7 +31,6 @@
 * Утопия ~ [Rainbow](users/109/109787328219839805802-google)<sup>45</sup>
 * Одноклассница ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>133</sup>
 * 81 миля ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>130</sup>
-* Баллада о гибкой пуле ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>129</sup>
 
 
-_06.08.2018 20:49:41_
+_07.08.2018 05:38:51_
