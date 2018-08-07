@@ -1,7 +1,12 @@
-# List of books read by [fire_ejik](http://vk.com/id32903202)<sup>1</sup>
+# List of books read by [fire_ejik](http://vk.com/id32903202)<sup>2</sup>
 ---
 
 ## 2018
+
+### Ключ из желтого металла (аудио)
+Макс Фрай
+> [2018-08-06] 
+
 
 ### Кот без прикрас (аудио)
 Терри Пратчетт

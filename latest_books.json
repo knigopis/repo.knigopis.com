@@ -1,4 +1,16 @@
 {
+    "qrT1fafDrg": {
+        "id": "qrT1fafDrg",
+        "title": "Ключ из желтого металла (аудио)",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2018-08-07 04:21:15",
+        "user": {
+            "id": "32903202-vkontakte",
+            "nickname": "fire_ejik",
+            "booksCount": 2
+        }
+    },
     "V3nin06aOw": {
         "id": "V3nin06aOw",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 24
-        }
-    },
-    "-wNareZR0J": {
-        "id": "-wNareZR0J",
-        "title": "Горе от ума",
-        "author": "Александр Сергеевич Грибоедов",
-        "notes": "",
-        "createdAt": "2018-07-31 22:07:00",
-        "user": {
-            "id": "683897597-yandex",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
