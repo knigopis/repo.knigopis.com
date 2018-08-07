@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бунтующий человек. Недоразумение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>174</sup>
 * Искусство цвета ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>173</sup>
 * Искусство формы. Мой форкурс в Баухаузе ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>172</sup>
 * У самого синего моря  и Против часовой стрелки ~ [Chiffi](users/105/105831994080785626680-google)<sup>67</sup>
@@ -30,7 +31,6 @@
 * Убийства на улице Морг ~ [fox_mi](users/220/220022778-vkontakte)<sup>11</sup>
 * Гиперион. Падение Гипериона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup>
 * Skin in the Game: Hidden Asymmetries in Daily Life ~ [exulted](users/100/100599204551896265722-google)<sup>72</sup>
-* Утопия ~ [Rainbow](users/109/109787328219839805802-google)<sup>45</sup>
 
 
-_07.08.2018 21:34:40_
+_07.08.2018 21:39:11_
