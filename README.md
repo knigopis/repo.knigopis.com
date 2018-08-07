@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Искусство формы. Мой форкурс в Баухаузе ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>172</sup>
+    > Редкий случай книги, которая, будучи вроде бы чисто художественной и про рисование, да к тому же очень лаконичной, раскрывает мощные грани правого полушария. Достаточно не просто читать ее и смотреть иллюстрации, а примерять на себя описанные задания, приемы и методики. Очень круто.
+    > 
+    > https://www.ozon.ru/context/detail/id/139252844/
+
 * У самого синего моря  и Против часовой стрелки ~ [Chiffi](users/105/105831994080785626680-google)<sup>67</sup>
     > Семейная сага. очень трогательная и пронзительная.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > 8/10
 
 * «Мария», Мария… ~ [exulted](users/100/100599204551896265722-google)<sup>79</sup>
-    > ISBN: 978-5-17-071215-1, 978-5-271-32295-2
 
 * Chickenhawk ~ [exulted](users/100/100599204551896265722-google)<sup>78</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Демиан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>53</sup>
 
-* A Troublesome Inheritance: Genes, Race and Human History ~ [exulted](users/100/100599204551896265722-google)<sup>76</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>172</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>659</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>132</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>67</sup> 
@@ -58,11 +61,10 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>54</sup> 
 [Екатерина Сиротко](users/129/12938426389063796955-mailru)<sup>0</sup> 
 [Dima](users/898/898596459291098424-mailru)<sup>1</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup> 
 [Alis](users/387/38760741-vkontakte)<sup>21</sup> 
 [fir137](users/176/176805114-yandex)<sup>1</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>12</sup> 
 [aaaLina](users/103/103442381288654151085-google)<sup>22</sup> 
 
 
-_07.08.2018 11:59:21_
+_07.08.2018 21:34:07_
