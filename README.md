@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>659</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>132</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>67</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>658</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>321</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>79</sup> 
 [alexander.khanov](users/117/117259947-yandex)<sup>5</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aaaLina](users/103/103442381288654151085-google)<sup>22</sup> 
 
 
-_07.08.2018 11:55:03_
+_07.08.2018 11:59:21_
