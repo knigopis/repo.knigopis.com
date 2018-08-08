@@ -1,4 +1,16 @@
 {
+    "3Y-JSlxvuS": {
+        "id": "3Y-JSlxvuS",
+        "title": "Как обрести уверенность и силу в общении с людьми",
+        "author": "Том Батлер-Боудон",
+        "notes": "Обзор книги",
+        "createdAt": "2018-08-08 19:30:08",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 4
+        }
+    },
     "72w7Jx0jtB": {
         "id": "72w7Jx0jtB",
         "title": "Хроники Средиземья",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 657
-        }
-    },
-    "3hhw7nGLuJ": {
-        "id": "3hhw7nGLuJ",
-        "title": "Ночь в Лиссабоне",
-        "author": "Э. Ремарк",
-        "notes": "",
-        "createdAt": "2018-08-05 09:40:00",
-        "user": {
-            "id": "117259947-yandex",
-            "nickname": "alexander.khanov",
-            "booksCount": 5
         }
     }
 }
