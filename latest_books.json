@@ -1,4 +1,16 @@
 {
+    "fmmj7UPiJs": {
+        "id": "fmmj7UPiJs",
+        "title": "Феномен Инстаграмма",
+        "author": "Любовь Соболева",
+        "notes": "",
+        "createdAt": "2018-08-08 19:30:47",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 5
+        }
+    },
     "3Y-JSlxvuS": {
         "id": "3Y-JSlxvuS",
         "title": "Как обрести уверенность и силу в общении с людьми",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 78
-        }
-    },
-    "M9oH11Wtxc": {
-        "id": "M9oH11Wtxc",
-        "title": "Аня из Инглсайда",
-        "author": "Люси Мод Монтгомери",
-        "notes": "",
-        "createdAt": "2018-08-06 09:17:34",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 657
         }
     }
 }
