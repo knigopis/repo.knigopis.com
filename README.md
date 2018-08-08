@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mfevralev](users/140/140966150-vkontakte)<sup>33</sup> 
+[mfevralev](users/140/140966150-vkontakte)<sup>32</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>43</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [lucius](users/838/83820536-yandex)<sup>146</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dima](users/898/898596459291098424-mailru)<sup>1</sup> 
 
 
-_08.08.2018 11:50:46_
+_08.08.2018 11:51:03_
