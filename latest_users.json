@@ -1,4 +1,10 @@
 {
+    "21574100-vkontakte": {
+        "id": "21574100-vkontakte",
+        "nickname": "yn4k_wert",
+        "booksCount": 0,
+        "updatedAt": "2018-08-08 17:44:57"
+    },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
         "nickname": "mfevralev",
@@ -172,11 +178,5 @@
         "nickname": "Екатерина Сиротко",
         "booksCount": 0,
         "updatedAt": "2018-07-30 10:15:19"
-    },
-    "898596459291098424-mailru": {
-        "id": "898596459291098424-mailru",
-        "nickname": "Dima",
-        "booksCount": 1,
-        "updatedAt": "2018-07-30 07:53:31"
     }
 }
