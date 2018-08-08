@@ -1,4 +1,16 @@
 {
+    "a47GQq07oI": {
+        "id": "a47GQq07oI",
+        "title": "ВСЯ ОБЛАСТЬ ВОЙСКА ДОНСКОГО 1899",
+        "author": "Нейфельд",
+        "notes": "Есть про Сальский Казачий округ.",
+        "createdAt": "2018-08-08 11:48:11",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 30
+        }
+    },
     "pck7q60nWv": {
         "id": "pck7q60nWv",
         "title": "ПЕРЕПИСЬ ЧЕРКАСАМ В ВОЙСКЕ ДОНСКОМ 1763-1764",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 185
-        }
-    },
-    "iEwrZcgYjv": {
-        "id": "iEwrZcgYjv",
-        "title": "Способный ученик",
-        "author": "Стивен Кинг",
-        "notes": "очень пронзительная история",
-        "createdAt": "2018-07-21 10:05:26",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 42
         }
     }
 }

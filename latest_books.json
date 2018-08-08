@@ -1,4 +1,16 @@
 {
+    "a47GQq07oI": {
+        "id": "a47GQq07oI",
+        "title": "ВСЯ ОБЛАСТЬ ВОЙСКА ДОНСКОГО 1899",
+        "author": "Нейфельд",
+        "notes": "Есть про Сальский Казачий округ.",
+        "createdAt": "2018-08-08 11:48:11",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 30
+        }
+    },
     "pck7q60nWv": {
         "id": "pck7q60nWv",
         "title": "ПЕРЕПИСЬ ЧЕРКАСАМ В ВОЙСКЕ ДОНСКОМ 1763-1764",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 188
-        }
-    },
-    "j3KmZq3HOT": {
-        "id": "j3KmZq3HOT",
-        "title": "Кот без прикрас (аудио)",
-        "author": "Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2018-08-03 16:17:19",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 1
         }
     }
 }

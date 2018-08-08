@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* ВСЯ ОБЛАСТЬ ВОЙСКА ДОНСКОГО 1899 ~ [mfevralev](users/140/140966150-vkontakte)<sup>30</sup>
 * ПЕРЕПИСЬ ЧЕРКАСАМ В ВОЙСКЕ ДОНСКОМ 1763-1764 ~ [mfevralev](users/140/140966150-vkontakte)<sup>29</sup>
 * СВЯТОСЛАВ. БОЛГАРИЯ ~ [mfevralev](users/140/140966150-vkontakte)<sup>28</sup>
 * Степные рыцыри, Сыны донских степей ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
@@ -30,7 +31,6 @@
 * Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>49</sup>
 * Хлев с ветчиной ~ [Chiffi](users/105/105831994080785626680-google)<sup>66</sup>
 * Граф Монте-Кристо ~ [Garka](users/115/115753719718250012620-google)<sup>185</sup>
-* Способный ученик ~ [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup>
 
 
-_08.08.2018 11:42:07_
+_08.08.2018 11:48:12_
