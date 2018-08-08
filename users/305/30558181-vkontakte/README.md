@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>152</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>153</sup>
 ---
 
 ## 2018
+
+### Некрономикон
+Говард Филлипс Лавкрафт
+> [2018-08-08] 
+
 
 ### 100+ хаков для интернет-маркетологов
 Евгения Крюкова и Денис Савельев
