@@ -1,4 +1,16 @@
 {
+    "daa-9ChRYb": {
+        "id": "daa-9ChRYb",
+        "title": "СВЯТОСЛАВ. БОЛГАРИЯ",
+        "author": "ВАЛЕНТИН ГНАТЮК, ЮЛИЯ ГНАТЮК",
+        "notes": "Хорошая книга",
+        "createdAt": "2018-08-08 11:41:04",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 28
+        }
+    },
     "dLKc8l7GQZ": {
         "id": "dLKc8l7GQZ",
         "title": "Степные рыцыри, Сыны донских степей",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 41
-        }
-    },
-    "x7ZRSCvaih": {
-        "id": "x7ZRSCvaih",
-        "title": "Убийства на улице Морг",
-        "author": "Эдгар Аллан По",
-        "notes": "-Метценгерштейн\n-Рукопись, найденная в бутылке\n-Лягушонок",
-        "createdAt": "2018-07-20 23:02:45",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 11
         }
     }
 }

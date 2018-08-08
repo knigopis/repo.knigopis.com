@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* СВЯТОСЛАВ. БОЛГАРИЯ ~ [mfevralev](users/140/140966150-vkontakte)<sup>28</sup>
+    > Хорошая книга
+
 * Степные рыцыри, Сыны донских степей ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
     > Хорошая детская книга
 
@@ -13,11 +16,6 @@ Do not use pull requests to make changes here.
     > Текст сложный, но читать интересно;
 
 * Бунтующий человек. Недоразумение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>174</sup>
-    > Очень вдумчиво и неспешно, по строчкам. Философия потому что.
-    > 
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/140024923/
 
 * Искусство цвета ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>173</sup>
 
@@ -31,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Chickenhawk ~ [exulted](users/100/100599204551896265722-google)<sup>78</sup>
 
-* Коралина ~ [Garka](users/115/115753719718250012620-google)<sup>188</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mfevralev](users/140/140966150-vkontakte)<sup>27</sup> 
+[mfevralev](users/140/140966150-vkontakte)<sup>28</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>43</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [lucius](users/838/83820536-yandex)<sup>146</sup> 
@@ -70,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dima](users/898/898596459291098424-mailru)<sup>1</sup> 
 
 
-_08.08.2018 11:37:48_
+_08.08.2018 11:41:04_

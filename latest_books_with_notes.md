@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* СВЯТОСЛАВ. БОЛГАРИЯ ~ [mfevralev](users/140/140966150-vkontakte)<sup>28</sup>
 * Степные рыцыри, Сыны донских степей ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
 * Голос неба ~ [lucius](users/838/83820536-yandex)<sup>146</sup>
 * Бунтующий человек. Недоразумение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>174</sup>
@@ -30,7 +31,6 @@
 * Граф Монте-Кристо ~ [Garka](users/115/115753719718250012620-google)<sup>185</sup>
 * Способный ученик ~ [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup>
 * Побег из Шоушенка ~ [kempinsky](users/171/1717865441574584-facebook)<sup>41</sup>
-* Убийства на улице Морг ~ [fox_mi](users/220/220022778-vkontakte)<sup>11</sup>
 
 
-_08.08.2018 11:37:48_
+_08.08.2018 11:41:04_
