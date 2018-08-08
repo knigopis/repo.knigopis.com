@@ -40,7 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>153</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [lucius](users/838/83820536-yandex)<sup>146</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>174</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>659</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [fir137](users/176/176805114-yandex)<sup>1</sup> 
 
 
-_08.08.2018 09:40:22_
+_08.08.2018 09:42:10_
