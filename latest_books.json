@@ -1,4 +1,16 @@
 {
+    "ClRNdxsgWn": {
+        "id": "ClRNdxsgWn",
+        "title": "Капитанская дочка",
+        "author": "Александр Пушкин",
+        "notes": "",
+        "createdAt": "2018-08-08 19:37:26",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 11
+        }
+    },
     "QK0Gthp7Gj": {
         "id": "QK0Gthp7Gj",
         "title": "Горе от ума",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 2
-        }
-    },
-    "V3nin06aOw": {
-        "id": "V3nin06aOw",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "8/10",
-        "createdAt": "2018-08-06 20:49:41",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 89
         }
     }
 }
