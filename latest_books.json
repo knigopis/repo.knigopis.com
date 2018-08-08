@@ -1,4 +1,16 @@
 {
+    "HbEG7rQiuv": {
+        "id": "HbEG7rQiuv",
+        "title": "Робинзон Крузо",
+        "author": "Даниэль Дефо",
+        "notes": "",
+        "createdAt": "2018-08-08 19:38:33",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 12
+        }
+    },
     "ClRNdxsgWn": {
         "id": "ClRNdxsgWn",
         "title": "Капитанская дочка",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 67
-        }
-    },
-    "qrT1fafDrg": {
-        "id": "qrT1fafDrg",
-        "title": "Ключ из желтого металла (аудио)",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2018-08-07 04:21:15",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 2
         }
     }
 }
