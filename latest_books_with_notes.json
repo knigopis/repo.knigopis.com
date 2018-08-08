@@ -1,4 +1,16 @@
 {
+    "dLKc8l7GQZ": {
+        "id": "dLKc8l7GQZ",
+        "title": "Степные рыцыри, Сыны донских степей",
+        "author": "Дмитрий Петров - Бирюк",
+        "notes": "Хорошая детская книга",
+        "createdAt": "2018-08-08 11:37:48",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 27
+        }
+    },
     "F2VIUISNHt": {
         "id": "F2VIUISNHt",
         "title": "Голос неба",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 11
-        }
-    },
-    "nyHHAnmaKx": {
-        "id": "nyHHAnmaKx",
-        "title": "Гиперион. Падение Гипериона",
-        "author": "Дэн Симмонс",
-        "notes": "Дошли наконец руки до классики :)\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/29599801/",
-        "createdAt": "2018-07-19 12:06:14",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 170
         }
     }
 }

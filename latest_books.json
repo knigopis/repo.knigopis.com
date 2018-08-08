@@ -1,4 +1,16 @@
 {
+    "dLKc8l7GQZ": {
+        "id": "dLKc8l7GQZ",
+        "title": "Степные рыцыри, Сыны донских степей",
+        "author": "Дмитрий Петров - Бирюк",
+        "notes": "Хорошая детская книга",
+        "createdAt": "2018-08-08 11:37:48",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 27
+        }
+    },
     "Tq5wELseEP": {
         "id": "Tq5wELseEP",
         "title": "Сила настоящего",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 318
-        }
-    },
-    "8CgsVRgYAD": {
-        "id": "8CgsVRgYAD",
-        "title": "Будущеее",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-08-02 20:41:08",
-        "user": {
-            "id": "481406511-vkontakte",
-            "nickname": "azzi",
-            "booksCount": 1
         }
     }
 }

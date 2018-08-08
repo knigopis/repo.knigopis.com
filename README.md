@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Степные рыцыри, Сыны донских степей ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
+    > Хорошая детская книга
+
 * Голос неба ~ [lucius](users/838/83820536-yandex)<sup>146</sup>
     > Философская книга. В ней рассказываются о том, как будет вести себя человечество при получении сигнала из космоса. О незрелости человечества для общения с более высокоразвитыми цивилизациями, а так же есть намётки путей для отправки такого сигнала самим человечеством.
     > Текст сложный, но читать интересно;
@@ -17,9 +20,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/140024923/
 
 * Искусство цвета ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>173</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/138454818/
 
 * Искусство формы. Мой форкурс в Баухаузе ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>172</sup>
 
@@ -33,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Коралина ~ [Garka](users/115/115753719718250012620-google)<sup>188</sup>
 
-* Побег из Шоушенка ~ [Garka](users/115/115753719718250012620-google)<sup>187</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>27</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>43</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [lucius](users/838/83820536-yandex)<sup>146</sup> 
@@ -69,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>54</sup> 
 [Екатерина Сиротко](users/129/12938426389063796955-mailru)<sup>0</sup> 
 [Dima](users/898/898596459291098424-mailru)<sup>1</sup> 
-[Alis](users/387/38760741-vkontakte)<sup>21</sup> 
 
 
-_08.08.2018 10:48:44_
+_08.08.2018 11:37:48_
