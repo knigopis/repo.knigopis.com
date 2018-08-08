@@ -1,5 +1,13 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>1</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>2</sup>
 ---
+
+## 2018
+
+### Лис Улисс и долгая зима
+Адра Фред
+> [2018-08-13] 
+
+
 
 ## 2017
 

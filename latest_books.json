@@ -1,4 +1,16 @@
 {
+    "FeUcGfaTwY": {
+        "id": "FeUcGfaTwY",
+        "title": "Лис Улисс и долгая зима",
+        "author": "Адра Фред",
+        "notes": "",
+        "createdAt": "2018-08-08 19:28:30",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 2
+        }
+    },
     "p003NIextr": {
         "id": "p003NIextr",
         "title": "Вычеркнутая из жизни",
@@ -345,18 +357,6 @@
             "id": "117259947-yandex",
             "nickname": "alexander.khanov",
             "booksCount": 4
-        }
-    },
-    "D909Z7XrMC": {
-        "id": "D909Z7XrMC",
-        "title": "Жизнь взаймы",
-        "author": "Э. Ремарк",
-        "notes": "",
-        "createdAt": "2018-08-05 09:39:25",
-        "user": {
-            "id": "117259947-yandex",
-            "nickname": "alexander.khanov",
-            "booksCount": 3
         }
     }
 }
