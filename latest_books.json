@@ -1,4 +1,16 @@
 {
+    "72w7Jx0jtB": {
+        "id": "72w7Jx0jtB",
+        "title": "Хроники Средиземья",
+        "author": "Джон Толкиен",
+        "notes": "",
+        "createdAt": "2018-08-08 19:29:02",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 3
+        }
+    },
     "FeUcGfaTwY": {
         "id": "FeUcGfaTwY",
         "title": "Лис Улисс и долгая зима",
@@ -345,18 +357,6 @@
             "id": "117259947-yandex",
             "nickname": "alexander.khanov",
             "booksCount": 5
-        }
-    },
-    "ylTQg21np_": {
-        "id": "ylTQg21np_",
-        "title": "Три товарища",
-        "author": "Э. Ремарк",
-        "notes": "",
-        "createdAt": "2018-08-05 09:39:39",
-        "user": {
-            "id": "117259947-yandex",
-            "nickname": "alexander.khanov",
-            "booksCount": 4
         }
     }
 }

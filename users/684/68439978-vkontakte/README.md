@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>2</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>3</sup>
 ---
 
 ## 2018
@@ -6,6 +6,10 @@
 ### Лис Улисс и долгая зима
 Адра Фред
 > [2018-08-13] 
+
+
+### Хроники Средиземья
+Джон Толкиен
 
 
 
