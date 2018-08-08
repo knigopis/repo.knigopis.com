@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Голос неба ~ [lucius](users/838/83820536-yandex)<sup>146</sup>
 * Бунтующий человек. Недоразумение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>174</sup>
 * Искусство цвета ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>173</sup>
 * Искусство формы. Мой форкурс в Баухаузе ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>172</sup>
@@ -30,7 +31,6 @@
 * Побег из Шоушенка ~ [kempinsky](users/171/1717865441574584-facebook)<sup>41</sup>
 * Убийства на улице Морг ~ [fox_mi](users/220/220022778-vkontakte)<sup>11</sup>
 * Гиперион. Падение Гипериона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup>
-* Skin in the Game: Hidden Asymmetries in Daily Life ~ [exulted](users/100/100599204551896265722-google)<sup>72</sup>
 
 
-_07.08.2018 21:39:11_
+_08.08.2018 02:57:38_

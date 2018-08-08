@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 146,
+        "updatedAt": "2018-08-08 02:57:38"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "fox_mi",
         "booksCount": 12,
         "updatedAt": "2018-07-25 14:00:54"
-    },
-    "103442381288654151085-google": {
-        "id": "103442381288654151085-google",
-        "nickname": "aaaLina",
-        "booksCount": 22,
-        "updatedAt": "2018-07-25 12:04:16"
     }
 }

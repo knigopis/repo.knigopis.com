@@ -1,4 +1,16 @@
 {
+    "F2VIUISNHt": {
+        "id": "F2VIUISNHt",
+        "title": "Голос неба",
+        "author": "Станислав Лем",
+        "notes": "Философская книга. В ней рассказываются о том, как будет вести себя человечество при получении сигнала из космоса. О незрелости человечества для общения с более высокоразвитыми цивилизациями, а так же есть намётки путей для отправки такого сигнала самим человечеством.\nТекст сложный, но читать интересно;",
+        "createdAt": "2018-08-08 02:57:38",
+        "user": {
+            "id": "83820536-yandex",
+            "nickname": "lucius",
+            "booksCount": 146
+        }
+    },
     "k_03IpTug2": {
         "id": "k_03IpTug2",
         "title": "Бунтующий человек. Недоразумение",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 170
-        }
-    },
-    "zLOsyaiRXt": {
-        "id": "zLOsyaiRXt",
-        "title": "Skin in the Game: Hidden Asymmetries in Daily Life",
-        "author": "Nassim Nicholas Taleb",
-        "notes": "Kindle\nASIN: B077QY23RV",
-        "createdAt": "2018-07-18 19:59:20",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 72
         }
     }
 }
