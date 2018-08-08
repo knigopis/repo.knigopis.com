@@ -1,4 +1,16 @@
 {
+    "PAFZfP2DjD": {
+        "id": "PAFZfP2DjD",
+        "title": "СВЯТОСЛАВ. ВОЗМУЖАНИЕ ВАЛЕНТИН ГНАТЮК, ЮЛИЯ ГНАТЮК",
+        "author": "ВАЛЕНТИН ГНАТЮК, ЮЛИЯ ГНАТЮК",
+        "notes": "",
+        "createdAt": "2018-08-08 11:49:34",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 32
+        }
+    },
     "YEf0oimJMC": {
         "id": "YEf0oimJMC",
         "title": "СВЯТОСЛАВ. ХАЗАРИЯ ВАЛЕНТИН ГНАТЮК, ЮЛИЯ ГНАТЮК",
@@ -345,18 +357,6 @@
             "id": "22332048-vkontakte",
             "nickname": "Бесенок",
             "booksCount": 1
-        }
-    },
-    "soinHI0aNV": {
-        "id": "soinHI0aNV",
-        "title": "Анин Дом Мечты",
-        "author": "Люси Мод Монтгомери",
-        "notes": "",
-        "createdAt": "2018-08-04 08:00:27",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 656
         }
     }
 }
