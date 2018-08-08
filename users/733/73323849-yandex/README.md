@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>42</sup>
+# List of books read by inna.besprozvannykh<sup>43</sup>
 ---
 
 ## 2018
+
+### Сила настоящего
+Экхарт Толле
+> [2018-07] 
+
 
 ### Источник
 Айн Рэнд

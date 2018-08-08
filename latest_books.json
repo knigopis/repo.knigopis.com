@@ -1,4 +1,16 @@
 {
+    "Tq5wELseEP": {
+        "id": "Tq5wELseEP",
+        "title": "Сила настоящего",
+        "author": "Экхарт Толле",
+        "notes": "",
+        "createdAt": "2018-08-08 10:48:44",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 43
+        }
+    },
     "DBgnpv2jHU": {
         "id": "DBgnpv2jHU",
         "title": "Маленькая книга Hugge. Секрет датского счастья",
@@ -344,18 +356,6 @@
         "user": {
             "id": "481406511-vkontakte",
             "nickname": "azzi",
-            "booksCount": 1
-        }
-    },
-    "5iIuLk9ukf": {
-        "id": "5iIuLk9ukf",
-        "title": "Айвенго",
-        "author": "В.Скотт",
-        "notes": "",
-        "createdAt": "2018-08-02 14:32:23",
-        "user": {
-            "id": "142558461-vkontakte",
-            "nickname": "jenamarchisio",
             "booksCount": 1
         }
     }
