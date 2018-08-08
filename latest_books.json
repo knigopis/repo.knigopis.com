@@ -1,4 +1,16 @@
 {
+    "p003NIextr": {
+        "id": "p003NIextr",
+        "title": "Вычеркнутая из жизни",
+        "author": "Альбина Нури",
+        "notes": "",
+        "createdAt": "2018-08-08 19:27:38",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 1
+        }
+    },
     "SFdMhq5Hmv": {
         "id": "SFdMhq5Hmv",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "117259947-yandex",
             "nickname": "alexander.khanov",
             "booksCount": 3
-        }
-    },
-    "_kWpn-Uayj": {
-        "id": "_kWpn-Uayj",
-        "title": "На западном фронте без перемен",
-        "author": "Э. Ремарк",
-        "notes": "",
-        "createdAt": "2018-08-05 09:39:03",
-        "user": {
-            "id": "117259947-yandex",
-            "nickname": "alexander.khanov",
-            "booksCount": 2
         }
     }
 }
