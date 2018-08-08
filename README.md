@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ПЕРЕПИСЬ ЧЕРКАСАМ В ВОЙСКЕ ДОНСКОМ 1763-1764 ~ [mfevralev](users/140/140966150-vkontakte)<sup>29</sup>
+    > стр  269 казак Алексей Февралев, Текучев, Авчинников,Жеребятников.
+
 * СВЯТОСЛАВ. БОЛГАРИЯ ~ [mfevralev](users/140/140966150-vkontakte)<sup>28</sup>
     > Хорошая книга
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Хорошая детская книга
 
 * Голос неба ~ [lucius](users/838/83820536-yandex)<sup>146</sup>
-    > Философская книга. В ней рассказываются о том, как будет вести себя человечество при получении сигнала из космоса. О незрелости человечества для общения с более высокоразвитыми цивилизациями, а так же есть намётки путей для отправки такого сигнала самим человечеством.
-    > Текст сложный, но читать интересно;
 
 * Бунтующий человек. Недоразумение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>174</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * «Мария», Мария… ~ [exulted](users/100/100599204551896265722-google)<sup>79</sup>
 
-* Chickenhawk ~ [exulted](users/100/100599204551896265722-google)<sup>78</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mfevralev](users/140/140966150-vkontakte)<sup>28</sup> 
+[mfevralev](users/140/140966150-vkontakte)<sup>29</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>43</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [lucius](users/838/83820536-yandex)<sup>146</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dima](users/898/898596459291098424-mailru)<sup>1</sup> 
 
 
-_08.08.2018 11:41:04_
+_08.08.2018 11:42:07_
