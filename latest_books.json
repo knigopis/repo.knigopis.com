@@ -1,4 +1,16 @@
 {
+    "DflnWNTQai": {
+        "id": "DflnWNTQai",
+        "title": "Нахальное минирование",
+        "author": "Николай Берг",
+        "notes": "",
+        "createdAt": "2018-08-08 19:32:42",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 7
+        }
+    },
     "6ywKborw20": {
         "id": "6ywKborw20",
         "title": "Моё дерево Апельсина-лима",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 320
-        }
-    },
-    "kq2nq6168N": {
-        "id": "kq2nq6168N",
-        "title": "«Мария», Мария…",
-        "author": "Акунин Борис",
-        "notes": "ISBN: 978-5-17-071215-1, 978-5-271-32295-2",
-        "createdAt": "2018-08-06 11:08:27",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 79
         }
     }
 }

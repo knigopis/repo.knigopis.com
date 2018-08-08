@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kissamasya](users/684/68439978-vkontakte)<sup>6</sup> 
+[kissamasya](users/684/68439978-vkontakte)<sup>7</sup> 
 [yn4k_wert](users/215/21574100-vkontakte)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>32</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>43</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>54</sup> 
 
 
-_08.08.2018 19:31:52_
+_08.08.2018 19:32:42_
