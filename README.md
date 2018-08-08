@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* КАЗАЧЬЯ НАДЕЖДА 1971 ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
+    > №1 нет нечего интересного 1972 №2 стр 8 генерал Быкадоров И.Ф о поражении казачества стр 12 про казачьи сословия. 1972№ 3 стр 12 историч трагедия казачества стр 17 случай с гимнами -Лазарев
+
 * ВСЯ ОБЛАСТЬ ВОЙСКА ДОНСКОГО 1899 ~ [mfevralev](users/140/140966150-vkontakte)<sup>30</sup>
     > Есть про Сальский Казачий округ.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > стр  269 казак Алексей Февралев, Текучев, Авчинников,Жеребятников.
 
 * СВЯТОСЛАВ. БОЛГАРИЯ ~ [mfevralev](users/140/140966150-vkontakte)<sup>28</sup>
-    > Хорошая книга
 
 * Степные рыцыри, Сыны донских степей ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * У самого синего моря  и Против часовой стрелки ~ [Chiffi](users/105/105831994080785626680-google)<sup>67</sup>
 
-* Портрет Дориана Грея ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mfevralev](users/140/140966150-vkontakte)<sup>32</sup> 
+[mfevralev](users/140/140966150-vkontakte)<sup>33</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>43</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [lucius](users/838/83820536-yandex)<sup>146</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dima](users/898/898596459291098424-mailru)<sup>1</sup> 
 
 
-_08.08.2018 11:49:34_
+_08.08.2018 11:50:46_
