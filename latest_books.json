@@ -1,4 +1,16 @@
 {
+    "SFdMhq5Hmv": {
+        "id": "SFdMhq5Hmv",
+        "title": "",
+        "author": "А. Буревой",
+        "notes": "Отличное фентези, читается в захлеб, динамичный сюжет, яркие персонажи. Ярко выраженная романтическая линия, уникальная вселенная. 10/10 как по мне",
+        "createdAt": "2018-08-08 17:49:24",
+        "user": {
+            "id": "21574100-vkontakte",
+            "nickname": "yn4k_wert",
+            "booksCount": 1
+        }
+    },
     "wmv7El-cKU": {
         "id": "wmv7El-cKU",
         "title": "КАЗАЧЬЯ НАДЕЖДА 1971",
@@ -345,18 +357,6 @@
             "id": "117259947-yandex",
             "nickname": "alexander.khanov",
             "booksCount": 2
-        }
-    },
-    "WOE1Nf9Aab": {
-        "id": "WOE1Nf9Aab",
-        "title": "А зори здесь тихие",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-08-05 09:37:45",
-        "user": {
-            "id": "117259947-yandex",
-            "nickname": "alexander.khanov",
-            "booksCount": 1
         }
     }
 }
