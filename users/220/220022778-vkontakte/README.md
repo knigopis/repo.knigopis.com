@@ -1,7 +1,11 @@
-# List of books read by [fox_mi](http://vk.com/id220022778)<sup>12</sup>
+# List of books read by [fox_mi](http://vk.com/id220022778)<sup>13</sup>
 ---
 
 ## Other years
+
+### История одного города
+Михаил Салтыков(Щедрин)
+
 
 ### Записки старого козла
 Чарльз Буковски

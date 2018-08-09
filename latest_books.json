@@ -1,4 +1,16 @@
 {
+    "KjFxNAOT_g": {
+        "id": "KjFxNAOT_g",
+        "title": "История одного города",
+        "author": "Михаил Салтыков(Щедрин)",
+        "notes": "",
+        "createdAt": "2018-08-09 22:53:11",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 13
+        }
+    },
     "fogg2VSVv-": {
         "id": "fogg2VSVv-",
         "title": "Стигмалион",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 6
-        }
-    },
-    "fmmj7UPiJs": {
-        "id": "fmmj7UPiJs",
-        "title": "Феномен Инстаграмма",
-        "author": "Любовь Соболева",
-        "notes": "",
-        "createdAt": "2018-08-08 19:30:47",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 5
         }
     }
 }

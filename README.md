@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fox_mi](users/220/220022778-vkontakte)<sup>13</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>15</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>3</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>101</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>27</sup> 
 [stue_schwarz](users/286/28663381-vkontakte)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
-[Vyrdalak](users/114/1148882455236791-facebook)<sup>1</sup> 
 
 
-_09.08.2018 21:26:29_
+_09.08.2018 22:53:11_

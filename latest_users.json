@@ -1,4 +1,10 @@
 {
+    "220022778-vkontakte": {
+        "id": "220022778-vkontakte",
+        "nickname": "fox_mi",
+        "booksCount": 13,
+        "updatedAt": "2018-08-09 22:53:11"
+    },
     "87639392-vkontakte": {
         "id": "87639392-vkontakte",
         "nickname": "veronika_vaha",
@@ -172,11 +178,5 @@
         "nickname": "me",
         "booksCount": 44,
         "updatedAt": "2018-08-01 06:17:58"
-    },
-    "1148882455236791-facebook": {
-        "id": "1148882455236791-facebook",
-        "nickname": "Vyrdalak",
-        "booksCount": 1,
-        "updatedAt": "2018-07-31 21:04:00"
     }
 }
