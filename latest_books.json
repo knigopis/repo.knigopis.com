@@ -1,4 +1,16 @@
 {
+    "Klajx42xCG": {
+        "id": "Klajx42xCG",
+        "title": "Война и мир",
+        "author": "Лев Николаевич Толстой",
+        "notes": "",
+        "createdAt": "2018-08-09 22:59:49",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 22
+        }
+    },
     "O8TCYz0BYJ": {
         "id": "O8TCYz0BYJ",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 14
-        }
-    },
-    "ltRbL485_N": {
-        "id": "ltRbL485_N",
-        "title": "Худеющий",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2018-08-09 08:19:54",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 13
         }
     }
 }
