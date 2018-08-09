@@ -1,7 +1,11 @@
-# List of books read by [fox_mi](http://vk.com/id220022778)<sup>16</sup>
+# List of books read by [fox_mi](http://vk.com/id220022778)<sup>17</sup>
 ---
 
 ## Other years
+
+### Герой нашего времени
+Лермонтов
+
 
 ### Обломов
 Иван Гончаров
