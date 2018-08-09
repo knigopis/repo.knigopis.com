@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>16</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>17</sup>
 ---
 
 ## 2018
@@ -87,6 +87,13 @@
 
 ### Сказка для девушек за тридцать
 Елена Глушенко
+
+
+
+## 2007
+
+### Семья Вампиров
+Б. Олшеври
 
 
 
