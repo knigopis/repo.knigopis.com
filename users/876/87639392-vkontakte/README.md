@@ -1,5 +1,13 @@
-# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>14</sup>
+# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>15</sup>
 ---
+
+## 2018
+
+### Стигмалион
+Кристина Старк
+> [2018-08-09] Прикосновения причиняют боль
+
+
 
 ## 2017
 

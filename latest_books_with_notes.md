@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Стигмалион ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>15</sup>
 * КАЗАЧЬЯ НАДЕЖДА 1971 ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
 * ВСЯ ОБЛАСТЬ ВОЙСКА ДОНСКОГО 1899 ~ [mfevralev](users/140/140966150-vkontakte)<sup>30</sup>
 * ПЕРЕПИСЬ ЧЕРКАСАМ В ВОЙСКЕ ДОНСКОМ 1763-1764 ~ [mfevralev](users/140/140966150-vkontakte)<sup>29</sup>
@@ -30,7 +31,6 @@
 * На кого упало яблоко ~ [Saamy](users/115/115226508-vkontakte)<sup>51</sup>
 * Иллюзия 2 ~ [En](users/333/333646551-vkontakte)<sup>50</sup>
 * Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>49</sup>
-* Хлев с ветчиной ~ [Chiffi](users/105/105831994080785626680-google)<sup>66</sup>
 
 
-_08.08.2018 11:50:46_
+_09.08.2018 21:26:29_
