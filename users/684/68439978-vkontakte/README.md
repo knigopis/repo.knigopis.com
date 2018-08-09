@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>17</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>18</sup>
 ---
 
 ## 2018
@@ -80,6 +80,12 @@
 
 ### Тёмная страсть
 Ларисса Айон
+
+
+
+## 2011
+
+### Тёмное благословение
 
 
 
