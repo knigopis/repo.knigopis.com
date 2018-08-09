@@ -1,4 +1,16 @@
 {
+    "CV_4cr5ijD": {
+        "id": "CV_4cr5ijD",
+        "title": "Пять четвертинок апельсина (аудио)",
+        "author": "Джоанн Харрис",
+        "notes": "",
+        "createdAt": "2018-08-09 19:35:09",
+        "user": {
+            "id": "32903202-vkontakte",
+            "nickname": "fire_ejik",
+            "booksCount": 3
+        }
+    },
     "_ZbwGlUkhl": {
         "id": "_ZbwGlUkhl",
         "title": "Дневник книготорговца",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 4
-        }
-    },
-    "72w7Jx0jtB": {
-        "id": "72w7Jx0jtB",
-        "title": "Хроники Средиземья",
-        "author": "Джон Толкиен",
-        "notes": "",
-        "createdAt": "2018-08-08 19:29:02",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 3
         }
     }
 }
