@@ -1,7 +1,11 @@
-# List of books read by [fox_mi](http://vk.com/id220022778)<sup>20</sup>
+# List of books read by [fox_mi](http://vk.com/id220022778)<sup>21</sup>
 ---
 
 ## Other years
+
+### Мастер и Маргарита
+Михаил Афанасьевич Булгаков
+
 
 ### Вишнёвый сад
 Антон Павлович Чехов
