@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>27</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>28</sup>
 ---
 
 ## 2018
@@ -74,6 +74,10 @@
 
 
 ## 2014
+
+### В ожидании любви
+И.Семина
+
 
 ### Робинзон Крузо
 Даниэль Дефо

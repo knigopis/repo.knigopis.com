@@ -1,4 +1,16 @@
 {
+    "WV7X2zcl-k": {
+        "id": "WV7X2zcl-k",
+        "title": "В ожидании любви",
+        "author": "И.Семина",
+        "notes": "",
+        "createdAt": "2018-08-09 09:50:58",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 28
+        }
+    },
     "NMq9KH32pm": {
         "id": "NMq9KH32pm",
         "title": "Варни вампир",
@@ -345,18 +357,6 @@
             "id": "21574100-vkontakte",
             "nickname": "yn4k_wert",
             "booksCount": 1
-        }
-    },
-    "wmv7El-cKU": {
-        "id": "wmv7El-cKU",
-        "title": "КАЗАЧЬЯ НАДЕЖДА 1971",
-        "author": "брошура",
-        "notes": "№1 нет нечего интересного 1972 №2 стр 8 генерал Быкадоров И.Ф о поражении казачества стр 12 про казачьи сословия. 1972№ 3 стр 12 историч трагедия казачества стр 17 случай с гимнами -Лазарев",
-        "createdAt": "2018-08-08 11:50:46",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 33
         }
     }
 }
