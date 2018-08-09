@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>25</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>26</sup>
 ---
 
 ## 2018
@@ -136,6 +136,13 @@
 
 ### Чудовище
 Альфред Ван Вогт
+
+
+
+## 2000
+
+### В склепе
+Х.Лавкрафт
 
 
 
