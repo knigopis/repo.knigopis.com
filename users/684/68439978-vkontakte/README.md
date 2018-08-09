@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>23</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>24</sup>
 ---
 
 ## 2018
@@ -122,6 +122,10 @@
 
 
 ## 2005
+
+### Из моря
+Джон Уиндэм
+
 
 ### Логово белого червя
 Брэм Стокер
