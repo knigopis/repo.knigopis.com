@@ -1,7 +1,12 @@
-# List of books read by [darb_el](http://vk.com/id184135339)<sup>11</sup>
+# List of books read by [darb_el](http://vk.com/id184135339)<sup>12</sup>
 ---
 
 ## 2018
+
+### Бог как иллюзия
+Ричард Докинз
+> [2018-08-08] 
+
 
 ### Есть ли что-нибудь более невероятное, чем Бог?
 Ричард Докинз
