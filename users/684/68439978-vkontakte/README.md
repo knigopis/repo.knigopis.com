@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>19</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>20</sup>
 ---
 
 ## 2018
@@ -77,6 +77,10 @@
 
 
 ## 2013
+
+### Золото
+Кэтрин Остен
+
 
 ### Тёмная страсть
 Ларисса Айон
