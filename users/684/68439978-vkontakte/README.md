@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>26</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>27</sup>
 ---
 
 ## 2018
@@ -115,6 +115,10 @@
 
 
 ## 2007
+
+### Варни вампир
+Т. Прест
+
 
 ### Семья Вампиров
 Б. Олшеври

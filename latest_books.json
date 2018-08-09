@@ -1,4 +1,16 @@
 {
+    "NMq9KH32pm": {
+        "id": "NMq9KH32pm",
+        "title": "Варни вампир",
+        "author": "Т. Прест",
+        "notes": "",
+        "createdAt": "2018-08-09 09:48:19",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 27
+        }
+    },
     "6OHKBz6fR9": {
         "id": "6OHKBz6fR9",
         "title": "В склепе",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 33
-        }
-    },
-    "PAFZfP2DjD": {
-        "id": "PAFZfP2DjD",
-        "title": "СВЯТОСЛАВ. ВОЗМУЖАНИЕ ВАЛЕНТИН ГНАТЮК, ЮЛИЯ ГНАТЮК",
-        "author": "ВАЛЕНТИН ГНАТЮК, ЮЛИЯ ГНАТЮК",
-        "notes": "",
-        "createdAt": "2018-08-08 11:49:34",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 32
         }
     }
 }
