@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>24</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>25</sup>
 ---
 
 ## 2018
@@ -129,6 +129,13 @@
 
 ### Логово белого червя
 Брэм Стокер
+
+
+
+## 2004
+
+### Чудовище
+Альфред Ван Вогт
 
 
 
