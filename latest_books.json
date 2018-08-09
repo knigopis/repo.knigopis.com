@@ -1,4 +1,16 @@
 {
+    "NmsiCCW8GW": {
+        "id": "NmsiCCW8GW",
+        "title": "Вампиры замка Карди",
+        "author": "Барон Олшеври-младший",
+        "notes": "",
+        "createdAt": "2018-08-09 08:40:17",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 19
+        }
+    },
     "CzdJi7aF1y": {
         "id": "CzdJi7aF1y",
         "title": "Тёмное благословение",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 154
-        }
-    },
-    "rwegVj9cMT": {
-        "id": "rwegVj9cMT",
-        "title": "Некрономикон",
-        "author": "Говард Филлипс Лавкрафт",
-        "notes": "",
-        "createdAt": "2018-08-08 09:40:22",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 153
         }
     }
 }

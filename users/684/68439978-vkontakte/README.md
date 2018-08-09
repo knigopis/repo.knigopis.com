@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>18</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>19</sup>
 ---
 
 ## 2018
@@ -84,6 +84,10 @@
 
 
 ## 2011
+
+### Вампиры замка Карди
+Барон Олшеври-младший
+
 
 ### Тёмное благословение
 
