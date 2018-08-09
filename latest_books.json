@@ -1,4 +1,16 @@
 {
+    "8kMJyh9PUQ": {
+        "id": "8kMJyh9PUQ",
+        "title": "Тёмная страсть",
+        "author": "Ларисса Айон",
+        "notes": "",
+        "createdAt": "2018-08-09 08:22:13",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 14
+        }
+    },
     "ltRbL485_N": {
         "id": "ltRbL485_N",
         "title": "Худеющий",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 172
-        }
-    },
-    "fNJ1yMxZBl": {
-        "id": "fNJ1yMxZBl",
-        "title": "Рилла из Инглсайда",
-        "author": "Люси Мод Монтгомери",
-        "notes": "",
-        "createdAt": "2018-08-07 11:59:20",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 659
         }
     }
 }
