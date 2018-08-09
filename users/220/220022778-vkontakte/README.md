@@ -1,7 +1,11 @@
-# List of books read by [fox_mi](http://vk.com/id220022778)<sup>22</sup>
+# List of books read by [fox_mi](http://vk.com/id220022778)<sup>23</sup>
 ---
 
 ## Other years
+
+### Собачье сердце
+Михаил Афанасьевич Булгаков
+
 
 ### Война и мир
 Лев Николаевич Толстой

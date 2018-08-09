@@ -1,4 +1,16 @@
 {
+    "Ayvp0yUmK1": {
+        "id": "Ayvp0yUmK1",
+        "title": "Собачье сердце",
+        "author": "Михаил Афанасьевич Булгаков",
+        "notes": "",
+        "createdAt": "2018-08-09 23:00:32",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 23
+        }
+    },
     "Klajx42xCG": {
         "id": "Klajx42xCG",
         "title": "Война и мир",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 15
-        }
-    },
-    "8kMJyh9PUQ": {
-        "id": "8kMJyh9PUQ",
-        "title": "Тёмная страсть",
-        "author": "Ларисса Айон",
-        "notes": "",
-        "createdAt": "2018-08-09 08:22:13",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 14
         }
     }
 }
