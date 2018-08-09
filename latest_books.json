@@ -1,4 +1,16 @@
 {
+    "zD8Zb8qFTz": {
+        "id": "zD8Zb8qFTz",
+        "title": "Город лестниц",
+        "author": "Роберт Джексон Беннет",
+        "notes": "",
+        "createdAt": "2018-08-09 17:37:48",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 46
+        }
+    },
     "ZdJUma3IBL": {
         "id": "ZdJUma3IBL",
         "title": "Дом с аистами",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 2
-        }
-    },
-    "p003NIextr": {
-        "id": "p003NIextr",
-        "title": "Вычеркнутая из жизни",
-        "author": "Альбина Нури",
-        "notes": "",
-        "createdAt": "2018-08-08 19:27:38",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 1
         }
     }
 }

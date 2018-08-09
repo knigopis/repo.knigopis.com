@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>45</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>46</sup>
 ---
 
 ## 2018
+
+### Город лестниц
+Роберт Джексон Беннет
+> [2018-08-09] 
+
 
 ### Браслеты Скорби (Серия: Двурожденные 3/3?)
 Брендон Сандерсон
