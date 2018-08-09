@@ -1,4 +1,16 @@
 {
+    "_ZbwGlUkhl": {
+        "id": "_ZbwGlUkhl",
+        "title": "Дневник книготорговца",
+        "author": "Шон Байтелл",
+        "notes": "",
+        "createdAt": "2018-08-09 19:09:13",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 101
+        }
+    },
     "zD8Zb8qFTz": {
         "id": "zD8Zb8qFTz",
         "title": "Город лестниц",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 3
-        }
-    },
-    "FeUcGfaTwY": {
-        "id": "FeUcGfaTwY",
-        "title": "Лис Улисс и долгая зима",
-        "author": "Адра Фред",
-        "notes": "",
-        "createdAt": "2018-08-08 19:28:30",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 2
         }
     }
 }

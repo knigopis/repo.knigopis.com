@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>100</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>101</sup>
 ---
 
 ## 2018
+
+### Дневник книготорговца
+Шон Байтелл
+> [2018-08-04] 
+
 
 ### Скелет под колоколом
 Роберт ван Гулик

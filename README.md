@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>101</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>46</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>29</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>12</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Vyrdalak](users/114/1148882455236791-facebook)<sup>1</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>100</sup> 
 
 
-_09.08.2018 17:37:48_
+_09.08.2018 19:09:13_
