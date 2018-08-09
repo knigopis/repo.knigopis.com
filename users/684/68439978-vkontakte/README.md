@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>12</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>13</sup>
 ---
 
 ## 2018
@@ -26,6 +26,10 @@
 ### Моё дерево Апельсина-лима
 Хосе Васконселос
 > [2018-07] 
+
+
+### Худеющий
+Стивен Кинг
 
 
 ### Анжелика

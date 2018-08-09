@@ -1,4 +1,16 @@
 {
+    "ltRbL485_N": {
+        "id": "ltRbL485_N",
+        "title": "Худеющий",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2018-08-09 08:19:54",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 13
+        }
+    },
     "Di0VlshMza": {
         "id": "Di0VlshMza",
         "title": "Бог как иллюзия",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 659
-        }
-    },
-    "DG_PaNIFzv": {
-        "id": "DG_PaNIFzv",
-        "title": "Мемуары гейши",
-        "author": "Артур Голден",
-        "notes": "",
-        "createdAt": "2018-08-07 11:55:02",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 132
         }
     }
 }
