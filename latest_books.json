@@ -1,4 +1,16 @@
 {
+    "cxICEh9fHv": {
+        "id": "cxICEh9fHv",
+        "title": "Маленькие трагедии",
+        "author": "Александр",
+        "notes": "",
+        "createdAt": "2018-08-09 22:53:35",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 14
+        }
+    },
     "KjFxNAOT_g": {
         "id": "KjFxNAOT_g",
         "title": "История одного города",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 7
-        }
-    },
-    "6ywKborw20": {
-        "id": "6ywKborw20",
-        "title": "Моё дерево Апельсина-лима",
-        "author": "Хосе Васконселос",
-        "notes": "",
-        "createdAt": "2018-08-08 19:31:52",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 6
         }
     }
 }
