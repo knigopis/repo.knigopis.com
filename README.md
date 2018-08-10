@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>660</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>133</sup> 
 [mrs.Ekilei](users/104/104505053912561500571-google)<sup>1</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>23</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [lucius](users/838/83820536-yandex)<sup>146</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>174</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>659</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>67</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>321</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stue_schwarz](users/286/28663381-vkontakte)<sup>0</sup> 
 
 
-_10.08.2018 09:23:33_
+_10.08.2018 15:00:58_
