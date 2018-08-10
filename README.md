@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>660</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>661</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>133</sup> 
 [mrs.Ekilei](users/104/104505053912561500571-google)<sup>1</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stue_schwarz](users/286/28663381-vkontakte)<sup>0</sup> 
 
 
-_10.08.2018 15:00:58_
+_10.08.2018 15:35:38_
