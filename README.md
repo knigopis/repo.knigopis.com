@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Поселок ~ [Chiffi](users/105/105831994080785626680-google)<sup>68</sup>
+    > А я всегда думала  что Булычев писал только про Алису
+
 * Стигмалион ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>15</sup>
     > Прикосновения причиняют боль
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > №1 нет нечего интересного 1972 №2 стр 8 генерал Быкадоров И.Ф о поражении казачества стр 12 про казачьи сословия. 1972№ 3 стр 12 историч трагедия казачества стр 17 случай с гимнами -Лазарев
 
 * ВСЯ ОБЛАСТЬ ВОЙСКА ДОНСКОГО 1899 ~ [mfevralev](users/140/140966150-vkontakte)<sup>30</sup>
-    > Есть про Сальский Казачий округ.
 
 * ПЕРЕПИСЬ ЧЕРКАСАМ В ВОЙСКЕ ДОНСКОМ 1763-1764 ~ [mfevralev](users/140/140966150-vkontakte)<sup>29</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Искусство цвета ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>173</sup>
 
-* Искусство формы. Мой форкурс в Баухаузе ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>172</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>68</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>661</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>133</sup> 
 [mrs.Ekilei](users/104/104505053912561500571-google)<sup>1</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [lucius](users/838/83820536-yandex)<sup>146</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>174</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>67</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>321</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>79</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stue_schwarz](users/286/28663381-vkontakte)<sup>0</sup> 
 
 
-_10.08.2018 15:35:38_
+_10.08.2018 18:27:23_
