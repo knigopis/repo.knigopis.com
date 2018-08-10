@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 133,
+        "updatedAt": "2018-08-10 09:23:33"
+    },
     "104505053912561500571-google": {
         "id": "104505053912561500571-google",
         "nickname": "mrs.Ekilei",
@@ -88,12 +94,6 @@
         "nickname": "Janet",
         "booksCount": 659,
         "updatedAt": "2018-08-07 11:59:20"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 132,
-        "updatedAt": "2018-08-07 11:55:02"
     },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
