@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mrs.Ekilei](users/104/104505053912561500571-google)<sup>0</sup> 
+[mrs.Ekilei](users/104/104505053912561500571-google)<sup>1</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>23</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>15</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stue_schwarz](users/286/28663381-vkontakte)<sup>0</sup> 
 
 
-_10.08.2018 06:22:41_
+_10.08.2018 06:23:31_
