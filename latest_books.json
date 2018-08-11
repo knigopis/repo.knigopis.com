@@ -1,4 +1,16 @@
 {
+    "TIF1k344i0": {
+        "id": "TIF1k344i0",
+        "title": "Все мы творения на день и другие истории",
+        "author": "Ирвин Ялом",
+        "notes": "",
+        "createdAt": "2018-08-11 09:07:27",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 662
+        }
+    },
     "M5QOL8bAbg": {
         "id": "M5QOL8bAbg",
         "title": "Поселок",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 21
-        }
-    },
-    "F_MnxYJOdP": {
-        "id": "F_MnxYJOdP",
-        "title": "Золото",
-        "author": "Кэтрин Остен",
-        "notes": "",
-        "createdAt": "2018-08-09 08:45:23",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 20
         }
     }
 }
