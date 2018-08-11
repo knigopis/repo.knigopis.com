@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* To Die in Vienna ~ [exulted](users/100/100599204551896265722-google)<sup>80</sup>
+    > Kindle
+    > ASIN: B077GSNV52
+
 * Поселок ~ [Chiffi](users/105/105831994080785626680-google)<sup>68</sup>
     > А я всегда думала  что Булычев писал только про Алису
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Прикосновения причиняют боль
 
 * КАЗАЧЬЯ НАДЕЖДА 1971 ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
-    > №1 нет нечего интересного 1972 №2 стр 8 генерал Быкадоров И.Ф о поражении казачества стр 12 про казачьи сословия. 1972№ 3 стр 12 историч трагедия казачества стр 17 случай с гимнами -Лазарев
 
 * ВСЯ ОБЛАСТЬ ВОЙСКА ДОНСКОГО 1899 ~ [mfevralev](users/140/140966150-vkontakte)<sup>30</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Бунтующий человек. Недоразумение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>174</sup>
 
-* Искусство цвета ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>173</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>80</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 [fir137](users/176/176805114-yandex)<sup>2</sup> 
 [Natalia Avramchuk](users/945/945973022276722-facebook)<sup>0</sup> 
@@ -55,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>174</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>321</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>79</sup> 
 [alexander.khanov](users/117/117259947-yandex)<sup>5</sup> 
 [asdf](users/683/683897597-yandex)<sup>1</sup> 
 [Бесенок](users/223/22332048-vkontakte)<sup>1</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [jenamarchisio](users/142/142558461-vkontakte)<sup>1</sup> 
 
 
-_11.08.2018 17:03:54_
+_11.08.2018 17:47:46_

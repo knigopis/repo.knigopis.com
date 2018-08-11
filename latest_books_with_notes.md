@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* To Die in Vienna ~ [exulted](users/100/100599204551896265722-google)<sup>80</sup>
 * Поселок ~ [Chiffi](users/105/105831994080785626680-google)<sup>68</sup>
 * Стигмалион ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>15</sup>
 * КАЗАЧЬЯ НАДЕЖДА 1971 ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
@@ -30,7 +31,6 @@
 * The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
 * Обреченные ~ [Saamy](users/115/115226508-vkontakte)<sup>52</sup>
 * На кого упало яблоко ~ [Saamy](users/115/115226508-vkontakte)<sup>51</sup>
-* Иллюзия 2 ~ [En](users/333/333646551-vkontakte)<sup>50</sup>
 
 
-_10.08.2018 18:27:23_
+_11.08.2018 17:47:46_

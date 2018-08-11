@@ -1,4 +1,16 @@
 {
+    "v5wIWdpn-A": {
+        "id": "v5wIWdpn-A",
+        "title": "To Die in Vienna",
+        "author": "Kevin Wignall",
+        "notes": "Kindle\nASIN: B077GSNV52",
+        "createdAt": "2018-08-11 17:47:46",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 80
+        }
+    },
     "M5QOL8bAbg": {
         "id": "M5QOL8bAbg",
         "title": "Поселок",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 51
-        }
-    },
-    "4rnpHwCnE8": {
-        "id": "4rnpHwCnE8",
-        "title": "Иллюзия 2",
-        "author": "Тармашев С.С.",
-        "notes": "немного однобока и затянута, концовка скомкана на 20 последних страничках. среднячковая книга по сравнению с остальными",
-        "createdAt": "2018-07-23 10:20:51",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 50
         }
     }
 }
