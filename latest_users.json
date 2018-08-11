@@ -1,4 +1,10 @@
 {
+    "176805114-yandex": {
+        "id": "176805114-yandex",
+        "nickname": "fir137",
+        "booksCount": 2,
+        "updatedAt": "2018-08-11 14:15:37"
+    },
     "945973022276722-facebook": {
         "id": "945973022276722-facebook",
         "nickname": "Natalia Avramchuk",
@@ -172,11 +178,5 @@
         "nickname": "Veroni",
         "booksCount": 1,
         "updatedAt": "2018-08-02 12:40:27"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 27,
-        "updatedAt": "2018-08-02 04:40:45"
     }
 }

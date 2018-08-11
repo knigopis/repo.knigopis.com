@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>2</sup> 
 [Natalia Avramchuk](users/945/945973022276722-facebook)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>662</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>68</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [azzi](users/481/481406511-vkontakte)<sup>1</sup> 
 [jenamarchisio](users/142/142558461-vkontakte)<sup>1</sup> 
 [Veroni](users/108/108917296610037809565-google)<sup>1</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>27</sup> 
 
 
-_11.08.2018 11:15:03_
+_11.08.2018 14:15:37_
