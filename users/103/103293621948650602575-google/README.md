@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>126</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>125</sup>
 ---
 
 ## 2018
@@ -309,10 +309,6 @@ Blake Pierce
 
 
 ## 2014
-
-### Звёздная пыль
-Нил Гейман
-
 
 ### Дракула
 Брэм Стокер
