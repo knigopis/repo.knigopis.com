@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lost in Frost](users/103/103293621948650602575-google)<sup>126</sup> 
 [fir137](users/176/176805114-yandex)<sup>2</sup> 
 [Natalia Avramchuk](users/945/945973022276722-facebook)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>662</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>188</sup> 
 [azzi](users/481/481406511-vkontakte)<sup>1</sup> 
 [jenamarchisio](users/142/142558461-vkontakte)<sup>1</sup> 
-[Veroni](users/108/108917296610037809565-google)<sup>1</sup> 
 
 
-_11.08.2018 14:15:37_
+_11.08.2018 17:02:47_
