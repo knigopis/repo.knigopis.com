@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Natalia Avramchuk](users/945/945973022276722-facebook)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>662</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>68</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>133</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [jenamarchisio](users/142/142558461-vkontakte)<sup>1</sup> 
 [Veroni](users/108/108917296610037809565-google)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>27</sup> 
-[stue_schwarz](users/286/28663381-vkontakte)<sup>0</sup> 
 
 
-_11.08.2018 09:07:27_
+_11.08.2018 11:15:03_
