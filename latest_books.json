@@ -1,4 +1,16 @@
 {
+    "Nr_MVwIxUh": {
+        "id": "Nr_MVwIxUh",
+        "title": "Коллекционер",
+        "author": "Джон Фаулз",
+        "notes": "10 из 10, книга захватывающая!",
+        "createdAt": "2018-08-12 19:07:06",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 11
+        }
+    },
     "-fMJiqJFx9": {
         "id": "-fMJiqJFx9",
         "title": "Женское достоинство - сила притяжения мужчин",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 3
-        }
-    },
-    "_ZbwGlUkhl": {
-        "id": "_ZbwGlUkhl",
-        "title": "Дневник книготорговца",
-        "author": "Шон Байтелл",
-        "notes": "",
-        "createdAt": "2018-08-09 19:09:13",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 101
         }
     }
 }

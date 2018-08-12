@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Коллекционер ~ [violet_velva](users/116/116961712580551399099-google)<sup>11</sup>
 * Женское достоинство - сила притяжения мужчин ~ [violet_velva](users/116/116961712580551399099-google)<sup>10</sup>
 * Stories ~ [violet_velva](users/116/116961712580551399099-google)<sup>9</sup>
 * На дороге ~ [violet_velva](users/116/116961712580551399099-google)<sup>8</sup>
@@ -30,7 +31,6 @@
 * Демиан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>53</sup>
 * A Troublesome Inheritance: Genes, Race and Human History ~ [exulted](users/100/100599204551896265722-google)<sup>76</sup>
 * Пирамиды ~ [Garka](users/115/115753719718250012620-google)<sup>186</sup>
-* Записки невесты программиста ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup>
 
 
-_12.08.2018 19:06:02_
+_12.08.2018 19:07:06_
