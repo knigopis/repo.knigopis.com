@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Правила. Как выйти замуж за Мужчину своей мечты ~ [violet_velva](users/116/116961712580551399099-google)<sup>7</sup>
+    > Всего лишь придерживайся правил и все будет отлично!
+
 * Трава поет ~ [violet_velva](users/116/116961712580551399099-google)<sup>6</sup>
     > Самая лучшая из всех книг Дорис Лессинг, что я прочитала. Очень понравилась и реабилитировала этого автора в моих глазах.
 
@@ -14,8 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/30787696/
 
 * To Die in Vienna ~ [exulted](users/100/100599204551896265722-google)<sup>80</sup>
-    > Kindle
-    > ASIN: B077GSNV52
 
 * Поселок ~ [Chiffi](users/105/105831994080785626680-google)<sup>68</sup>
 
@@ -29,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * СВЯТОСЛАВ. БОЛГАРИЯ ~ [mfevralev](users/140/140966150-vkontakte)<sup>28</sup>
 
-* Степные рыцыри, Сыны донских степей ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[violet_velva](users/116/116961712580551399099-google)<sup>6</sup> 
+[violet_velva](users/116/116961712580551399099-google)<sup>7</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>663</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup> 
@@ -68,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>188</sup> 
 
 
-_12.08.2018 18:55:14_
+_12.08.2018 18:57:06_

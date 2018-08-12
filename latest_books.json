@@ -1,4 +1,16 @@
 {
+    "KKuEk9Qq97": {
+        "id": "KKuEk9Qq97",
+        "title": "Правила. Как выйти замуж за Мужчину своей мечты",
+        "author": "Эллен Фейн и Шерри Шнайдер",
+        "notes": "Всего лишь придерживайся правил и все будет отлично!",
+        "createdAt": "2018-08-12 18:57:06",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 7
+        }
+    },
     "o0Zb8WNV1l": {
         "id": "o0Zb8WNV1l",
         "title": "Трава поет",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 28
-        }
-    },
-    "NMq9KH32pm": {
-        "id": "NMq9KH32pm",
-        "title": "Варни вампир",
-        "author": "Т. Прест",
-        "notes": "",
-        "createdAt": "2018-08-09 09:48:19",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 27
         }
     }
 }
