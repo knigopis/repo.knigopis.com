@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бог-скорпион. Клонк-клонк. Чрезвычайный посол (сборник) ~ [violet_velva](users/116/116961712580551399099-google)<sup>12</sup>
+    > Рассказы очень колоритные. Проглотила и не заметила. Оставили след.
+
 * Коллекционер ~ [violet_velva](users/116/116961712580551399099-google)<sup>11</sup>
     > 10 из 10, книга захватывающая!
 
@@ -12,15 +15,6 @@ Do not use pull requests to make changes here.
     > Много спорных моментов для меня, но одно осталось без вопросов - нужно быть женственной до мозга костей. И не забывать любить себя, это так приятно!
 
 * Stories ~ [violet_velva](users/116/116961712580551399099-google)<sup>9</sup>
-    > The woman 
-    > The habit of loving
-    > Pleasure
-    > Through the tunnel 
-    > The witness 
-    > Wine 
-    > He 
-    > ****
-    > Не впечатлилась рассказами. Из огромной толстой книги одолела только 7 рассказов, несмотря на достаточно доступный язык
 
 * На дороге ~ [violet_velva](users/116/116961712580551399099-google)<sup>8</sup>
 
@@ -34,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Поселок ~ [Chiffi](users/105/105831994080785626680-google)<sup>68</sup>
 
-* Стигмалион ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[violet_velva](users/116/116961712580551399099-google)<sup>11</sup> 
+[violet_velva](users/116/116961712580551399099-google)<sup>12</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>663</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup> 
@@ -73,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>188</sup> 
 
 
-_12.08.2018 19:07:06_
+_12.08.2018 19:09:08_
