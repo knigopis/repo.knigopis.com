@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [azzi](users/481/481406511-vkontakte)<sup>1</sup> 
 
 
-_12.08.2018 14:09:09_
+_12.08.2018 14:12:29_
