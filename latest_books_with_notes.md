@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* На дороге ~ [violet_velva](users/116/116961712580551399099-google)<sup>8</sup>
 * Правила. Как выйти замуж за Мужчину своей мечты ~ [violet_velva](users/116/116961712580551399099-google)<sup>7</sup>
 * Трава поет ~ [violet_velva](users/116/116961712580551399099-google)<sup>6</sup>
 * Эндимион. Восход Эндимиона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup>
@@ -30,7 +31,6 @@
 * Записки невесты программиста ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup>
 * Обломов ~ [exulted](users/100/100599204551896265722-google)<sup>75</sup>
 * Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation ~ [exulted](users/100/100599204551896265722-google)<sup>74</sup>
-* Научиться быть счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup>
 
 
-_12.08.2018 18:57:06_
+_12.08.2018 19:01:53_
