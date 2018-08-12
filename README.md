@@ -36,13 +36,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>663</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>80</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 [fir137](users/176/176805114-yandex)<sup>2</sup> 
 [Natalia Avramchuk](users/945/945973022276722-facebook)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>662</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>68</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>133</sup> 
 [mrs.Ekilei](users/104/104505053912561500571-google)<sup>1</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [azzi](users/481/481406511-vkontakte)<sup>1</sup> 
 
 
-_12.08.2018 14:22:48_
+_12.08.2018 16:06:07_

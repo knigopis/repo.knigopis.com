@@ -1,4 +1,16 @@
 {
+    "k_II2dz_rd": {
+        "id": "k_II2dz_rd",
+        "title": "Как я стал собой. Воспоминания",
+        "author": "Ирвин Ялом",
+        "notes": "",
+        "createdAt": "2018-08-12 16:06:07",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 663
+        }
+    },
     "4CgcAwaufZ": {
         "id": "4CgcAwaufZ",
         "title": "Эндимион. Восход Эндимиона",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 26
-        }
-    },
-    "al_pcM7UKA": {
-        "id": "al_pcM7UKA",
-        "title": "Чудовище",
-        "author": "Альфред Ван Вогт",
-        "notes": "",
-        "createdAt": "2018-08-09 09:44:30",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 25
         }
     }
 }
