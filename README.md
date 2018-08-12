@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[violet_velva](users/116/116961712580551399099-google)<sup>12</sup> 
+[violet_velva](users/116/116961712580551399099-google)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>663</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>188</sup> 
 
 
-_12.08.2018 19:09:08_
+_12.08.2018 19:12:54_

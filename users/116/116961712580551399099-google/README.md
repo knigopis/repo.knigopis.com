@@ -1,4 +1,4 @@
-# List of books read by violet_velva<sup>12</sup>
+# List of books read by violet_velva<sup>13</sup>
 ---
 
 ## 2018
@@ -75,6 +75,11 @@ Doris Lessing
 ### Бог-скорпион. Клонк-клонк. Чрезвычайный посол (сборник)
 Уильям Голдинг
 > [2017-05] Рассказы очень колоритные. Проглотила и не заметила. Оставили след.
+
+
+### Shantaram
+Gregory David Roberts
+> [2017-04] 
 
 
 ### Повелитель мух
