@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Эндимион. Восход Эндимиона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/30787696/
+
 * To Die in Vienna ~ [exulted](users/100/100599204551896265722-google)<sup>80</sup>
     > Kindle
     > ASIN: B077GSNV52
@@ -13,7 +18,6 @@ Do not use pull requests to make changes here.
     > А я всегда думала  что Булычев писал только про Алису
 
 * Стигмалион ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>15</sup>
-    > Прикосновения причиняют боль
 
 * КАЗАЧЬЯ НАДЕЖДА 1971 ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
 
@@ -27,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Голос неба ~ [lucius](users/838/83820536-yandex)<sup>146</sup>
 
-* Бунтующий человек. Недоразумение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>174</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>80</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 [fir137](users/176/176805114-yandex)<sup>2</sup> 
@@ -54,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>43</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [lucius](users/838/83820536-yandex)<sup>146</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>174</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>321</sup> 
 [alexander.khanov](users/117/117259947-yandex)<sup>5</sup> 
@@ -66,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [jenamarchisio](users/142/142558461-vkontakte)<sup>1</sup> 
 
 
-_11.08.2018 17:47:46_
+_12.08.2018 14:06:15_

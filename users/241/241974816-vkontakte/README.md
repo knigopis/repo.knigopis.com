@@ -1,7 +1,14 @@
-# List of books read by [Ник Литвинов](http://litvinov.spb.ru/)<sup>174</sup>
+# List of books read by [Ник Литвинов](http://litvinov.spb.ru/)<sup>175</sup>
 ---
 
 ## 2018
+
+### Эндимион. Восход Эндимиона
+Дэн Симмонс
+> [2018-08-12] в процессе
+> 
+> https://www.ozon.ru/context/detail/id/30787696/
+
 
 ### Гиперион. Падение Гипериона
 Дэн Симмонс
