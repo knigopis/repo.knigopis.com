@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Женское достоинство - сила притяжения мужчин ~ [violet_velva](users/116/116961712580551399099-google)<sup>10</sup>
+    > Много спорных моментов для меня, но одно осталось без вопросов - нужно быть женственной до мозга костей. И не забывать любить себя, это так приятно!
+
 * Stories ~ [violet_velva](users/116/116961712580551399099-google)<sup>9</sup>
     > The woman 
     > The habit of loving
@@ -30,7 +33,6 @@ Do not use pull requests to make changes here.
     > Что ж, какое поколение, такая и библия.
 
 * Правила. Как выйти замуж за Мужчину своей мечты ~ [violet_velva](users/116/116961712580551399099-google)<sup>7</sup>
-    > Всего лишь придерживайся правил и все будет отлично!
 
 * Трава поет ~ [violet_velva](users/116/116961712580551399099-google)<sup>6</sup>
 
@@ -44,14 +46,12 @@ Do not use pull requests to make changes here.
 
 * КАЗАЧЬЯ НАДЕЖДА 1971 ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
 
-* ВСЯ ОБЛАСТЬ ВОЙСКА ДОНСКОГО 1899 ~ [mfevralev](users/140/140966150-vkontakte)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[violet_velva](users/116/116961712580551399099-google)<sup>9</sup> 
+[violet_velva](users/116/116961712580551399099-google)<sup>10</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>663</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>188</sup> 
 
 
-_12.08.2018 19:04:26_
+_12.08.2018 19:06:02_
