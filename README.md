@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[me1](users/381/381417697-yandex)<sup>44</sup> 
+[me](users/381/381417697-yandex)<sup>44</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>80</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [azzi](users/481/481406511-vkontakte)<sup>1</sup> 
 
 
-_12.08.2018 14:14:29_
+_12.08.2018 14:14:41_
