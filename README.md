@@ -5,6 +5,17 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Stories ~ [violet_velva](users/116/116961712580551399099-google)<sup>9</sup>
+    > The woman 
+    > The habit of loving
+    > Pleasure
+    > Through the tunnel 
+    > The witness 
+    > Wine 
+    > He 
+    > ****
+    > Не впечатлилась рассказами. Из огромной толстой книги одолела только 7 рассказов, несмотря на достаточно доступный язык
+
 * На дороге ~ [violet_velva](users/116/116961712580551399099-google)<sup>8</sup>
     > Что может не понравиться.
     > 
@@ -22,7 +33,6 @@ Do not use pull requests to make changes here.
     > Всего лишь придерживайся правил и все будет отлично!
 
 * Трава поет ~ [violet_velva](users/116/116961712580551399099-google)<sup>6</sup>
-    > Самая лучшая из всех книг Дорис Лессинг, что я прочитала. Очень понравилась и реабилитировала этого автора в моих глазах.
 
 * Эндимион. Восход Эндимиона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup>
 
@@ -36,14 +46,12 @@ Do not use pull requests to make changes here.
 
 * ВСЯ ОБЛАСТЬ ВОЙСКА ДОНСКОГО 1899 ~ [mfevralev](users/140/140966150-vkontakte)<sup>30</sup>
 
-* ПЕРЕПИСЬ ЧЕРКАСАМ В ВОЙСКЕ ДОНСКОМ 1763-1764 ~ [mfevralev](users/140/140966150-vkontakte)<sup>29</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[violet_velva](users/116/116961712580551399099-google)<sup>8</sup> 
+[violet_velva](users/116/116961712580551399099-google)<sup>9</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>663</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup> 
@@ -75,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>188</sup> 
 
 
-_12.08.2018 19:01:53_
+_12.08.2018 19:04:26_

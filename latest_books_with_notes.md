@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Stories ~ [violet_velva](users/116/116961712580551399099-google)<sup>9</sup>
 * На дороге ~ [violet_velva](users/116/116961712580551399099-google)<sup>8</sup>
 * Правила. Как выйти замуж за Мужчину своей мечты ~ [violet_velva](users/116/116961712580551399099-google)<sup>7</sup>
 * Трава поет ~ [violet_velva](users/116/116961712580551399099-google)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Пирамиды ~ [Garka](users/115/115753719718250012620-google)<sup>186</sup>
 * Записки невесты программиста ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup>
 * Обломов ~ [exulted](users/100/100599204551896265722-google)<sup>75</sup>
-* Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation ~ [exulted](users/100/100599204551896265722-google)<sup>74</sup>
 
 
-_12.08.2018 19:01:53_
+_12.08.2018 19:04:26_
