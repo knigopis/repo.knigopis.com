@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 44,
+        "updatedAt": "2018-08-12 14:09:08"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "azzi",
         "booksCount": 1,
         "updatedAt": "2018-08-02 20:41:08"
-    },
-    "142558461-vkontakte": {
-        "id": "142558461-vkontakte",
-        "nickname": "jenamarchisio",
-        "booksCount": 1,
-        "updatedAt": "2018-08-02 14:32:23"
     }
 }
