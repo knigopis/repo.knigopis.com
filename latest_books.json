@@ -1,4 +1,16 @@
 {
+    "o0Zb8WNV1l": {
+        "id": "o0Zb8WNV1l",
+        "title": "Трава поет",
+        "author": "Дорис Лессинг",
+        "notes": "Самая лучшая из всех книг Дорис Лессинг, что я прочитала. Очень понравилась и реабилитировала этого автора в моих глазах.",
+        "createdAt": "2018-08-12 18:55:14",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 6
+        }
+    },
     "k_II2dz_rd": {
         "id": "k_II2dz_rd",
         "title": "Как я стал собой. Воспоминания",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 27
-        }
-    },
-    "6OHKBz6fR9": {
-        "id": "6OHKBz6fR9",
-        "title": "В склепе",
-        "author": "Х.Лавкрафт",
-        "notes": "",
-        "createdAt": "2018-08-09 09:47:04",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 26
         }
     }
 }

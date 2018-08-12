@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Трава поет ~ [violet_velva](users/116/116961712580551399099-google)<sup>6</sup>
+    > Самая лучшая из всех книг Дорис Лессинг, что я прочитала. Очень понравилась и реабилитировала этого автора в моих глазах.
+
 * Эндимион. Восход Эндимиона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup>
     > в процессе
     > 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > ASIN: B077GSNV52
 
 * Поселок ~ [Chiffi](users/105/105831994080785626680-google)<sup>68</sup>
-    > А я всегда думала  что Булычев писал только про Алису
 
 * Стигмалион ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>15</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Степные рыцыри, Сыны донских степей ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
 
-* Голос неба ~ [lucius](users/838/83820536-yandex)<sup>146</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>6</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>663</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Бесенок](users/223/22332048-vkontakte)<sup>1</sup> 
 [desperator](users/108/108317735556264947555-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>188</sup> 
-[azzi](users/481/481406511-vkontakte)<sup>1</sup> 
 
 
-_12.08.2018 16:06:07_
+_12.08.2018 18:55:14_

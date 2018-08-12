@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>5</sup>
+# List of books read by violet_velva<sup>6</sup>
 ---
 
 ## 2018
+
+### Трава поет
+Дорис Лессинг
+> [2018-08] Самая лучшая из всех книг Дорис Лессинг, что я прочитала. Очень понравилась и реабилитировала этого автора в моих глазах.
+
 
 ### The Fifth Child
 Doris Lessing

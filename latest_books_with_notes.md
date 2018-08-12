@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Трава поет ~ [violet_velva](users/116/116961712580551399099-google)<sup>6</sup>
 * Эндимион. Восход Эндимиона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup>
 * To Die in Vienna ~ [exulted](users/100/100599204551896265722-google)<sup>80</sup>
 * Поселок ~ [Chiffi](users/105/105831994080785626680-google)<sup>68</sup>
@@ -30,7 +31,6 @@
 * Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation ~ [exulted](users/100/100599204551896265722-google)<sup>74</sup>
 * Научиться быть счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup>
 * The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
-* Обреченные ~ [Saamy](users/115/115226508-vkontakte)<sup>52</sup>
 
 
-_12.08.2018 14:06:15_
+_12.08.2018 18:55:14_
