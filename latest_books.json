@@ -1,4 +1,16 @@
 {
+    "SGiCuW2lGv": {
+        "id": "SGiCuW2lGv",
+        "title": "Дневники мотоциклиста",
+        "author": "Эрнесто Че Гевара",
+        "notes": "",
+        "createdAt": "2018-08-13 06:01:40",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 28
+        }
+    },
     "AdSE1P_sIs": {
         "id": "AdSE1P_sIs",
         "title": "Трое в лодке не считая собаки",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 16
-        }
-    },
-    "MHEuk2g9f-": {
-        "id": "MHEuk2g9f-",
-        "title": "Если я останусь",
-        "author": "Гейл Форман",
-        "notes": "",
-        "createdAt": "2018-08-09 22:54:23",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 15
         }
     }
 }

@@ -1,7 +1,11 @@
-# List of books read by German<sup>27</sup>
+# List of books read by German<sup>28</sup>
 ---
 
 ## 2018
+
+### Дневники мотоциклиста
+Эрнесто Че Гевара
+
 
 ### Трое в лодке не считая собаки
 Джером Клапка Джером

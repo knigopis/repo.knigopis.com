@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[German](users/112/112254248549638795343-google)<sup>27</sup> 
+[German](users/112/112254248549638795343-google)<sup>28</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>322</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>663</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [desperator](users/108/108317735556264947555-google)<sup>0</sup> 
 
 
-_13.08.2018 06:01:11_
+_13.08.2018 06:01:40_
