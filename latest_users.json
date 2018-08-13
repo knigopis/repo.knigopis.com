@@ -1,4 +1,10 @@
 {
+    "143278479-vkontakte": {
+        "id": "143278479-vkontakte",
+        "nickname": "Лина Кауфман",
+        "booksCount": 25,
+        "updatedAt": "2018-08-13 11:54:01"
+    },
     "112254248549638795343-google": {
         "id": "112254248549638795343-google",
         "nickname": "German",
@@ -172,11 +178,5 @@
         "nickname": "Бесенок",
         "booksCount": 1,
         "updatedAt": "2018-08-04 12:07:14"
-    },
-    "108317735556264947555-google": {
-        "id": "108317735556264947555-google",
-        "nickname": "desperator",
-        "booksCount": 0,
-        "updatedAt": "2018-08-04 12:05:21"
     }
 }
