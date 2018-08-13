@@ -42,7 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Лина Кауфман](users/143/143278479-vkontakte)<sup>26</sup> 
+[Лина Кауфман](users/143/143278479-vkontakte)<sup>25</sup> 
 [German](users/112/112254248549638795343-google)<sup>28</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>322</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>13</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Бесенок](users/223/22332048-vkontakte)<sup>1</sup> 
 
 
-_13.08.2018 12:10:35_
+_13.08.2018 12:11:57_
