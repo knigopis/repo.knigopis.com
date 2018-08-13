@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>322</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>663</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [lucius](users/838/83820536-yandex)<sup>146</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>321</sup> 
 [alexander.khanov](users/117/117259947-yandex)<sup>5</sup> 
 [asdf](users/683/683897597-yandex)<sup>1</sup> 
 [Бесенок](users/223/22332048-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>188</sup> 
 
 
-_12.08.2018 19:12:54_
+_13.08.2018 04:57:38_
