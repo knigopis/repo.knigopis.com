@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>27</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>28</sup>
 ---
 
 ## 2018
+
+### Чужаая страна
+Чарльз Камминг
+> [2018-08] 
+
 
 ### Человек, который  не пожимал рук
 Стивен Кинг

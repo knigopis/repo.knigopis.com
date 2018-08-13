@@ -1,4 +1,16 @@
 {
+    "jLa-87OBWk": {
+        "id": "jLa-87OBWk",
+        "title": "Чужаая страна",
+        "author": "Чарльз Камминг",
+        "notes": "",
+        "createdAt": "2018-08-13 16:41:38",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 28
+        }
+    },
     "9btrRIE4-E": {
         "id": "9btrRIE4-E",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 19
-        }
-    },
-    "tW_kXmlgq6": {
-        "id": "tW_kXmlgq6",
-        "title": "Отцы и дети",
-        "author": "Иван Тургенев",
-        "notes": "",
-        "createdAt": "2018-08-09 22:58:00",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 18
         }
     }
 }
