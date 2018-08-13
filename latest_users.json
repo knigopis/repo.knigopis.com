@@ -1,4 +1,10 @@
 {
+    "112254248549638795343-google": {
+        "id": "112254248549638795343-google",
+        "nickname": "German",
+        "booksCount": 27,
+        "updatedAt": "2018-08-13 06:01:11"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "desperator",
         "booksCount": 0,
         "updatedAt": "2018-08-04 12:05:21"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 188,
-        "updatedAt": "2018-08-03 17:51:55"
     }
 }

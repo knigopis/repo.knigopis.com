@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[German](users/112/112254248549638795343-google)<sup>27</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>322</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>663</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [asdf](users/683/683897597-yandex)<sup>1</sup> 
 [Бесенок](users/223/22332048-vkontakte)<sup>1</sup> 
 [desperator](users/108/108317735556264947555-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>188</sup> 
 
 
-_13.08.2018 04:57:38_
+_13.08.2018 06:01:11_

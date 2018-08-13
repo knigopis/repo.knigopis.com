@@ -1,7 +1,11 @@
-# List of books read by German<sup>26</sup>
+# List of books read by German<sup>27</sup>
 ---
 
 ## 2018
+
+### Трое в лодке не считая собаки
+Джером Клапка Джером
+
 
 ### Ведьма
 Оноре Де Бальзак

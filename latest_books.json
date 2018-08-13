@@ -1,4 +1,16 @@
 {
+    "AdSE1P_sIs": {
+        "id": "AdSE1P_sIs",
+        "title": "Трое в лодке не считая собаки",
+        "author": "Джером Клапка Джером",
+        "notes": "",
+        "createdAt": "2018-08-13 06:01:11",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 27
+        }
+    },
     "2kA5Re0Lim": {
         "id": "2kA5Re0Lim",
         "title": "На пределе. Неделя без жалости к себе",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 15
-        }
-    },
-    "cxICEh9fHv": {
-        "id": "cxICEh9fHv",
-        "title": "Маленькие трагедии",
-        "author": "Александр",
-        "notes": "",
-        "createdAt": "2018-08-09 22:53:35",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 14
         }
     }
 }
