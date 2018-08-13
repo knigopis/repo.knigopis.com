@@ -42,7 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[anyutka_kozlova92](users/223/22376066-vkontakte)<sup>0</sup> 
+[anyutka_kozlova92](users/223/22376066-vkontakte)<sup>1</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>25</sup> 
 [German](users/112/112254248549638795343-google)<sup>28</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>322</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [asdf](users/683/683897597-yandex)<sup>1</sup> 
 
 
-_13.08.2018 13:19:37_
+_13.08.2018 13:22:01_
