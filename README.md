@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexeyNovikov](users/170/170278332-vkontakte)<sup>55</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>28</sup> 
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>1</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>25</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [lucius](users/838/83820536-yandex)<sup>146</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
-[alexander.khanov](users/117/117259947-yandex)<sup>5</sup> 
 
 
-_13.08.2018 16:41:38_
+_14.08.2018 04:37:59_

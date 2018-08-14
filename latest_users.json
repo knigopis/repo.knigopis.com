@@ -1,4 +1,10 @@
 {
+    "170278332-vkontakte": {
+        "id": "170278332-vkontakte",
+        "nickname": "AlexeyNovikov",
+        "booksCount": 55,
+        "updatedAt": "2018-08-14 04:37:59"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 89,
         "updatedAt": "2018-08-06 20:49:41"
-    },
-    "117259947-yandex": {
-        "id": "117259947-yandex",
-        "nickname": "alexander.khanov",
-        "booksCount": 5,
-        "updatedAt": "2018-08-05 09:40:00"
     }
 }
