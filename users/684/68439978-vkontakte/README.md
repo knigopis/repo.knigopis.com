@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>29</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>30</sup>
 ---
 
 ## 2018
@@ -51,6 +51,10 @@
 ### Вычеркнутая из жизни
 Альбина Нури
 > [2017-05-09] 
+
+
+### Анна Каренина
+Лев Толстой
 
 
 ### Капитанская дочка

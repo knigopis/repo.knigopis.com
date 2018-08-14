@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>30</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>55</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>28</sup> 
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fire_ejik](users/329/32903202-vkontakte)<sup>3</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>101</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>46</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>29</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>12</sup> 
 [yn4k_wert](users/215/21574100-vkontakte)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>32</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 
 
-_14.08.2018 04:37:59_
+_14.08.2018 17:44:10_
