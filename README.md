@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Стартап-гайд. Как начать… и не закрыть свой интернет-бизнес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>176</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/30262981/
+
 * Сказка о самоубийстве ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>26</sup>
     > ну что сказать по поводу этой книги? Короче если вы собрались ее читать, то не делайте этого, я вас  умолю!
     >  куча стилистических ошибок. полнейшее отсутсвие верной пунктуации  и огромный пафос пустих ванильно-гламурных заголовков......
@@ -21,7 +26,6 @@ Do not use pull requests to make changes here.
     > Рассказы очень колоритные. Проглотила и не заметила. Оставили след.
 
 * Коллекционер ~ [violet_velva](users/116/116961712580551399099-google)<sup>11</sup>
-    > 10 из 10, книга захватывающая!
 
 * Женское достоинство - сила притяжения мужчин ~ [violet_velva](users/116/116961712580551399099-google)<sup>10</sup>
 
@@ -35,13 +39,12 @@ Do not use pull requests to make changes here.
 
 * Эндимион. Восход Эндимиона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup>
 
-* To Die in Vienna ~ [exulted](users/100/100599204551896265722-google)<sup>80</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>176</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>30</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>55</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>28</sup> 
@@ -52,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>663</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>80</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 [fir137](users/176/176805114-yandex)<sup>2</sup> 
@@ -74,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 
 
-_14.08.2018 17:44:10_
+_14.08.2018 19:47:20_

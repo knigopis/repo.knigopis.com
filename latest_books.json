@@ -1,4 +1,16 @@
 {
+    "drm1Rbe0Hu": {
+        "id": "drm1Rbe0Hu",
+        "title": "Стартап-гайд. Как начать… и не закрыть свой интернет-бизнес",
+        "author": "",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/30262981/",
+        "createdAt": "2018-08-14 19:47:20",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 176
+        }
+    },
     "UqgjMYsi1U": {
         "id": "UqgjMYsi1U",
         "title": "Анна Каренина",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 22
-        }
-    },
-    "O8TCYz0BYJ": {
-        "id": "O8TCYz0BYJ",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Афанасьевич Булгаков",
-        "notes": "",
-        "createdAt": "2018-08-09 22:59:23",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 21
         }
     }
 }
