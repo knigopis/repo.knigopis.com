@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Скотный двор ~ [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup>
+    > 10/10
+
 * Стартап-гайд. Как начать… и не закрыть свой интернет-бизнес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>176</sup>
     > в процессе
     > 
@@ -23,7 +26,6 @@ Do not use pull requests to make changes here.
     > у меня все!
 
 * Бог-скорпион. Клонк-клонк. Чрезвычайный посол (сборник) ~ [violet_velva](users/116/116961712580551399099-google)<sup>12</sup>
-    > Рассказы очень колоритные. Проглотила и не заметила. Оставили след.
 
 * Коллекционер ~ [violet_velva](users/116/116961712580551399099-google)<sup>11</sup>
 
@@ -37,13 +39,12 @@ Do not use pull requests to make changes here.
 
 * Трава поет ~ [violet_velva](users/116/116961712580551399099-google)<sup>6</sup>
 
-* Эндимион. Восход Эндимиона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>90</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>176</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>30</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>55</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>43</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [lucius](users/838/83820536-yandex)<sup>146</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 
 
-_14.08.2018 19:47:20_
+_15.08.2018 07:10:32_

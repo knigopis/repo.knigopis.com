@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>89</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>90</sup>
 ---
 
 ## 2018
+
+### Скотный двор
+Джордж Оруэлл
+> [2018-08-14] 10/10
+
 
 ### Портрет Дориана Грея
 Оскар Уайльд
