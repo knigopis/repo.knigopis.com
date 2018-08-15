@@ -1,4 +1,4 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>5</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>6</sup>
 ---
 
 ## 2018
@@ -26,6 +26,11 @@
 ### Марсианские хроники
 Рэй Брэдбери
 > [2018-06] 
+
+
+### Аэлита
+А. Н. Толстой
+> [2018-02] 
 
 
 
