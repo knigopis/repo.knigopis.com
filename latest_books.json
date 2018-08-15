@@ -1,4 +1,16 @@
 {
+    "AJlKcUU-f_": {
+        "id": "AJlKcUU-f_",
+        "title": "Страшные сказки",
+        "author": "Нил Гейман и др.",
+        "notes": "",
+        "createdAt": "2018-08-15 19:10:59",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 4
+        }
+    },
     "6fqFQ9bRFe": {
         "id": "6fqFQ9bRFe",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 2
-        }
-    },
-    "TIF1k344i0": {
-        "id": "TIF1k344i0",
-        "title": "Все мы творения на день и другие истории",
-        "author": "Ирвин Ялом",
-        "notes": "",
-        "createdAt": "2018-08-11 09:07:27",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 662
         }
     }
 }

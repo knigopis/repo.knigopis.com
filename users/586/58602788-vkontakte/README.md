@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>3</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>4</sup>
 ---
 
 ## 2018
+
+### Страшные сказки
+Нил Гейман и др.
+> [2018-08] 
+
 
 ### Цветы для Элджернона
 Дэниел Киз
