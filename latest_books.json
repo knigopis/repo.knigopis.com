@@ -1,4 +1,16 @@
 {
+    "bJGHWyBxke": {
+        "id": "bJGHWyBxke",
+        "title": "Никогде",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2018-08-15 19:10:02",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 2
+        }
+    },
     "AXnwG1oYCV": {
         "id": "AXnwG1oYCV",
         "title": "Марсианские хроники",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 68
-        }
-    },
-    "uP6XLrRYHe": {
-        "id": "uP6XLrRYHe",
-        "title": "Старик и море",
-        "author": "Эрнест Хемингуэй",
-        "notes": "",
-        "createdAt": "2018-08-10 15:35:37",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 661
         }
     }
 }
