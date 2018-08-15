@@ -1,4 +1,10 @@
 {
+    "471364154-yandex": {
+        "id": "471364154-yandex",
+        "nickname": "submerged fish",
+        "booksCount": 18,
+        "updatedAt": "2018-08-15 15:29:07"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "yn4k_wert",
         "booksCount": 1,
         "updatedAt": "2018-08-08 17:49:24"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 32,
-        "updatedAt": "2018-08-08 11:51:03"
     }
 }

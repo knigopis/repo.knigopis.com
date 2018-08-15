@@ -1,7 +1,11 @@
-# List of books read by [submerged fish](http://openid.yandex.ru/submerged.in/)<sup>17</sup>
+# List of books read by [submerged fish](http://openid.yandex.ru/submerged.in/)<sup>18</sup>
 ---
 
 ## 2018
+
+### Игры Немезиды
+Джеймс Кори
+
 
 ### За бортом по своей воле
 Ален Бомбар
