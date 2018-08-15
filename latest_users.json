@@ -1,4 +1,10 @@
 {
+    "356097243-vkontakte": {
+        "id": "356097243-vkontakte",
+        "nickname": "ann.rouls",
+        "booksCount": 0,
+        "updatedAt": "2018-08-15 07:46:17"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 154,
         "updatedAt": "2018-08-08 09:42:10"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 146,
-        "updatedAt": "2018-08-08 02:57:38"
     }
 }
