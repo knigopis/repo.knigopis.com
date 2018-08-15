@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>155</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [DgeMer](users/100/100222681156940260683-google)<sup>0</sup> 
 [ann.rouls](users/356/356097243-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>32</sup> 
 
 
-_15.08.2018 12:28:26_
+_15.08.2018 12:29:08_
