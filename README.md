@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dolphin_e](users/420/42041301-vkontakte)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>6</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>189</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>18</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [veronika_vaha](users/876/87639392-vkontakte)<sup>15</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>3</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>101</sup> 
-[kasikandriena](users/152/152488954-vkontakte)<sup>46</sup> 
 
 
-_15.08.2018 19:17:06_
+_15.08.2018 20:08:17_
