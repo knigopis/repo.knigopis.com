@@ -1,4 +1,16 @@
 {
+    "C62RRUfUOy": {
+        "id": "C62RRUfUOy",
+        "title": "Якутия",
+        "author": "Евгений Федотов",
+        "notes": "Манга",
+        "createdAt": "2018-08-15 12:28:26",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 155
+        }
+    },
     "gA5KO2n5oB": {
         "id": "gA5KO2n5oB",
         "title": "Скотный двор",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 187
-        }
-    },
-    "TYX1laez9T": {
-        "id": "TYX1laez9T",
-        "title": "Гром победы, раздавайся!",
-        "author": "Акунин Борис",
-        "notes": "ISBN: 978-5-17-072929-6",
-        "createdAt": "2018-08-01 10:55:07",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 77
         }
     }
 }

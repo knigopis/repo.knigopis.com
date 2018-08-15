@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Якутия ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
+    > Манга
+
 * Скотный двор ~ [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup>
     > 10/10
 
@@ -14,16 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/30262981/
 
 * Сказка о самоубийстве ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>26</sup>
-    > ну что сказать по поводу этой книги? Короче если вы собрались ее читать, то не делайте этого, я вас  умолю!
-    >  куча стилистических ошибок. полнейшее отсутсвие верной пунктуации  и огромный пафос пустих ванильно-гламурных заголовков......
-    > и это писалось три года? Серьезно блядь? да сука! любой нормальный, адекватный человек  написал бы это за неделю! 
-    > похоже что я наткнулась на чьи то черновики а не на полноценную книгу 
-    > и честно сказать. вот я ничего обиднее не видела чем  вот этот пиздец!
-    > Хорошая бумага твердая обложка,  рисунки
-    > надо ли говорить как мне обидно.............
-    > Да, это истинная сказка о самоубийстве потому то блядь после того как ты прочтешь 
-    > ее полностью, умереть в страшных муках уже будет  не так страшно
-    > у меня все!
 
 * Бог-скорпион. Клонк-клонк. Чрезвычайный посол (сборник) ~ [violet_velva](users/116/116961712580551399099-google)<sup>12</sup>
 
@@ -37,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Правила. Как выйти замуж за Мужчину своей мечты ~ [violet_velva](users/116/116961712580551399099-google)<sup>7</sup>
 
-* Трава поет ~ [violet_velva](users/116/116961712580551399099-google)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>155</sup> 
 [DgeMer](users/100/100222681156940260683-google)<sup>0</sup> 
 [ann.rouls](users/356/356097243-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup> 
@@ -73,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>12</sup> 
 [yn4k_wert](users/215/21574100-vkontakte)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>32</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>43</sup> 
 
 
-_15.08.2018 09:44:21_
+_15.08.2018 12:28:26_

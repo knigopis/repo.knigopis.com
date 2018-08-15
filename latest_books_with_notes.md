@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Якутия ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
 * Скотный двор ~ [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup>
 * Стартап-гайд. Как начать… и не закрыть свой интернет-бизнес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>176</sup>
 * Сказка о самоубийстве ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Chickenhawk ~ [exulted](users/100/100599204551896265722-google)<sup>78</sup>
 * Коралина ~ [Garka](users/115/115753719718250012620-google)<sup>188</sup>
 * Побег из Шоушенка ~ [Garka](users/115/115753719718250012620-google)<sup>187</sup>
-* Гром победы, раздавайся! ~ [exulted](users/100/100599204551896265722-google)<sup>77</sup>
 
 
-_15.08.2018 07:10:32_
+_15.08.2018 12:28:26_

@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>154</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>155</sup>
 ---
 
 ## 2018
+
+### Якутия
+Евгений Федотов
+> [2018-08-14] Манга
+
 
 ### Некрономикон
 Говард Филлипс Лавкрафт
