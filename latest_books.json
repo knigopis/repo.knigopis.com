@@ -1,4 +1,16 @@
 {
+    "AXnwG1oYCV": {
+        "id": "AXnwG1oYCV",
+        "title": "Марсианские хроники",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2018-08-15 19:09:30",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 1
+        }
+    },
     "D5fyAQA1F_": {
         "id": "D5fyAQA1F_",
         "title": "Стража! Стража!",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 661
-        }
-    },
-    "3rvrAgbYeF": {
-        "id": "3rvrAgbYeF",
-        "title": "Авонлейские хроники",
-        "author": "Люси Мод Монтгомери",
-        "notes": "",
-        "createdAt": "2018-08-10 15:00:58",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 660
         }
     }
 }
