@@ -1,4 +1,16 @@
 {
+    "livKxWnZ6T": {
+        "id": "livKxWnZ6T",
+        "title": "Вино из одуванчиков",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2018-08-15 19:11:31",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 5
+        }
+    },
     "AJlKcUU-f_": {
         "id": "AJlKcUU-f_",
         "title": "Страшные сказки",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 126
-        }
-    },
-    "-tAY71LLW5": {
-        "id": "-tAY71LLW5",
-        "title": "",
-        "author": "Тургенев",
-        "notes": "",
-        "createdAt": "2018-08-11 14:15:37",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 2
         }
     }
 }

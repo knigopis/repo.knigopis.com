@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>4</sup> 
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>189</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>18</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>46</sup> 
 
 
-_15.08.2018 19:10:59_
+_15.08.2018 19:11:31_
