@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[DgeMer](users/100/100222681156940260683-google)<sup>0</sup> 
 [ann.rouls](users/356/356097243-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>176</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [yn4k_wert](users/215/21574100-vkontakte)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>32</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>43</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 
 
-_15.08.2018 07:46:20_
+_15.08.2018 09:44:21_
