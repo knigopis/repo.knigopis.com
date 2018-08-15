@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 189,
+        "updatedAt": "2018-08-15 16:20:11"
+    },
     "471364154-yandex": {
         "id": "471364154-yandex",
         "nickname": "submerged fish",
@@ -172,11 +178,5 @@
         "nickname": "darb_el",
         "booksCount": 12,
         "updatedAt": "2018-08-09 04:11:25"
-    },
-    "21574100-vkontakte": {
-        "id": "21574100-vkontakte",
-        "nickname": "yn4k_wert",
-        "booksCount": 1,
-        "updatedAt": "2018-08-08 17:49:24"
     }
 }

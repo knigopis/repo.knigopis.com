@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Стража! Стража! ~ [Garka](users/115/115753719718250012620-google)<sup>189</sup>
+    > По сравнению с Пирамидами очень даже ничего. Вернулся здоровый сарказм и параллели с нашей реальностью.
+
 * Якутия ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
     > Манга
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * Стартап-гайд. Как начать… и не закрыть свой интернет-бизнес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>176</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/30262981/
 
 * Сказка о самоубийстве ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>26</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * На дороге ~ [violet_velva](users/116/116961712580551399099-google)<sup>8</sup>
 
-* Правила. Как выйти замуж за Мужчину своей мечты ~ [violet_velva](users/116/116961712580551399099-google)<sup>7</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>189</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>18</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [DgeMer](users/100/100222681156940260683-google)<sup>0</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>101</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>46</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>12</sup> 
-[yn4k_wert](users/215/21574100-vkontakte)<sup>1</sup> 
 
 
-_15.08.2018 15:29:07_
+_15.08.2018 16:20:12_
