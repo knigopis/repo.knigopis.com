@@ -1,4 +1,16 @@
 {
+    "uNwOsuJMxN": {
+        "id": "uNwOsuJMxN",
+        "title": "У тебя все получится, дорогая моя",
+        "author": "Аньес Мартен-Люган",
+        "notes": "",
+        "createdAt": "2018-08-16 05:17:15",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 33
+        }
+    },
     "CUD1o81Tlt": {
         "id": "CUD1o81Tlt",
         "title": "Большие надежды",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 6
-        }
-    },
-    "k_II2dz_rd": {
-        "id": "k_II2dz_rd",
-        "title": "Как я стал собой. Воспоминания",
-        "author": "Ирвин Ялом",
-        "notes": "",
-        "createdAt": "2018-08-12 16:06:07",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 663
         }
     }
 }
