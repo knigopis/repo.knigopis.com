@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Victoria](users/113/113794223924688167852-google)<sup>33</sup> 
+[Victoria](users/113/113794223924688167852-google)<sup>34</sup> 
 [dolphin_e](users/420/42041301-vkontakte)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>6</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>189</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [fire_ejik](users/329/32903202-vkontakte)<sup>3</sup> 
 
 
-_16.08.2018 05:17:15_
+_16.08.2018 05:18:01_
