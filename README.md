@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115826717712507836033-google)<sup>118</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>1</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>34</sup> 
 [dolphin_e](users/420/42041301-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>133</sup> 
 [mrs.Ekilei](users/104/104505053912561500571-google)<sup>1</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>23</sup> 
-[veronika_vaha](users/876/87639392-vkontakte)<sup>15</sup> 
 
 
-_16.08.2018 09:33:20_
+_16.08.2018 12:43:41_
