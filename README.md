@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Окс](users/102/102536471289425216982-google)<sup>0</sup> 
+[Окс](users/102/102536471289425216982-google)<sup>1</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>34</sup> 
 [dolphin_e](users/420/42041301-vkontakte)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>6</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [veronika_vaha](users/876/87639392-vkontakte)<sup>15</sup> 
 
 
-_16.08.2018 09:32:16_
+_16.08.2018 09:33:20_
