@@ -1,4 +1,10 @@
 {
+    "102536471289425216982-google": {
+        "id": "102536471289425216982-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2018-08-16 09:31:14"
+    },
     "113794223924688167852-google": {
         "id": "113794223924688167852-google",
         "nickname": "Victoria",
@@ -172,11 +178,5 @@
         "nickname": "veronika_vaha",
         "booksCount": 15,
         "updatedAt": "2018-08-09 21:26:28"
-    },
-    "32903202-vkontakte": {
-        "id": "32903202-vkontakte",
-        "nickname": "fire_ejik",
-        "booksCount": 3,
-        "updatedAt": "2018-08-09 19:35:09"
     }
 }
