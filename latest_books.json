@@ -1,4 +1,16 @@
 {
+    "CUD1o81Tlt": {
+        "id": "CUD1o81Tlt",
+        "title": "Большие надежды",
+        "author": "Ч. Диккенс",
+        "notes": "",
+        "createdAt": "2018-08-16 05:16:22",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 32
+        }
+    },
     "-iyO9lKU_6": {
         "id": "-iyO9lKU_6",
         "title": "Ночной дозор",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 663
-        }
-    },
-    "4CgcAwaufZ": {
-        "id": "4CgcAwaufZ",
-        "title": "Эндимион. Восход Эндимиона",
-        "author": "Дэн Симмонс",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/30787696/",
-        "createdAt": "2018-08-12 14:06:15",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 175
         }
     }
 }
