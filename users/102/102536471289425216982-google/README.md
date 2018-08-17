@@ -1,4 +1,4 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>5</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>6</sup>
 ---
 
 ## 2018
@@ -6,6 +6,11 @@
 ### Бамбарбия Кергуду
 САРКИСОВА-КУАМЕ Влада
 > [2018-08] О жизни в Кот-д'Ивуаре. ТРЭШ
+
+
+### Правила. Как выйти замуж за мужчину своей мечты
+ФЕЙН Эллен, ШНАЙДЕР Шерри
+> [2018-07] 
 
 
 ### L'élégance du hérisson
