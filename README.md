@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[govorova.tatia](users/500/500014724-vkontakte)<sup>0</sup> 
+[govorova.tatia](users/500/500014724-vkontakte)<sup>1</sup> 
 [selivanov](users/104/104491677658529528381-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>8</sup> 
 [](users/115/115826717712507836033-google)<sup>119</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>133</sup> 
 
 
-_17.08.2018 18:37:22_
+_17.08.2018 18:44:39_
