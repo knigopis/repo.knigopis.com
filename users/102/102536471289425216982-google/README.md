@@ -1,4 +1,4 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>7</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>8</sup>
 ---
 
 ## 2018
@@ -21,6 +21,11 @@
 ### L'élégance du hérisson
 BARBERY Muriel
 > [2018-07] 
+
+
+### Ты - богиня. Как сводить мужчин с ума
+ФОРЛЕО Мари
+> [2018-06] 
 
 
 ### Похитители бриллиантов
