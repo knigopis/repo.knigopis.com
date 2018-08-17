@@ -1,4 +1,10 @@
 {
+    "500014724-vkontakte": {
+        "id": "500014724-vkontakte",
+        "nickname": "govorova.tatia",
+        "booksCount": 0,
+        "updatedAt": "2018-08-17 18:37:13"
+    },
     "104491677658529528381-google": {
         "id": "104491677658529528381-google",
         "nickname": "selivanov",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 133,
         "updatedAt": "2018-08-10 09:23:33"
-    },
-    "104505053912561500571-google": {
-        "id": "104505053912561500571-google",
-        "nickname": "mrs.Ekilei",
-        "booksCount": 1,
-        "updatedAt": "2018-08-10 06:23:31"
     }
 }
