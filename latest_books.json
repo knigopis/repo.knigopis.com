@@ -1,4 +1,16 @@
 {
+    "TcdHwPeTnf": {
+        "id": "TcdHwPeTnf",
+        "title": "Женское достоинство - сила притяжения мужчин",
+        "author": "ЛЕВЧУК Мила",
+        "notes": "",
+        "createdAt": "2018-08-17 10:08:50",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 7
+        }
+    },
     "Hk8IbqLnXp": {
         "id": "Hk8IbqLnXp",
         "title": "Правила. Как выйти замуж за мужчину своей мечты",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 27
-        }
-    },
-    "2kA5Re0Lim": {
-        "id": "2kA5Re0Lim",
-        "title": "На пределе. Неделя без жалости к себе",
-        "author": "Эрик Ларсен",
-        "notes": "",
-        "createdAt": "2018-08-13 04:57:37",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 322
         }
     }
 }
