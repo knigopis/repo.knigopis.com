@@ -1,4 +1,16 @@
 {
+    "SqL7pKzgmk": {
+        "id": "SqL7pKzgmk",
+        "title": "Думай как миллионер. 17 уроков состоятельности для тех, кто готов разбогатеть",
+        "author": "Харв Т. Экер",
+        "notes": "Еще одна мощная книга из серии Наполеона Хилла и Норбекова. Из тех, что переворачивает внутреннюю систему ценностей. Польза неоспорима, будет ли результат - увидим :)\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/27451555/",
+        "createdAt": "2018-08-17 20:44:31",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 177
+        }
+    },
     "0UkaaKCVKn": {
         "id": "0UkaaKCVKn",
         "title": "Алхимик",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 28
-        }
-    },
-    "9btrRIE4-E": {
-        "id": "9btrRIE4-E",
-        "title": "Три товарища",
-        "author": "Эрих Мария Ремарк",
-        "notes": "Очень интересная и проникновенная книга.",
-        "createdAt": "2018-08-13 13:22:01",
-        "user": {
-            "id": "22376066-vkontakte",
-            "nickname": "anyutka_kozlova92",
-            "booksCount": 1
         }
     }
 }

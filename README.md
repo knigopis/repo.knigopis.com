@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Думай как миллионер. 17 уроков состоятельности для тех, кто готов разбогатеть ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup>
+    > Еще одна мощная книга из серии Наполеона Хилла и Норбекова. Из тех, что переворачивает внутреннюю систему ценностей. Польза неоспорима, будет ли результат - увидим :)
+    > 
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/27451555/
+
 * Стража! Стража! ~ [Garka](users/115/115753719718250012620-google)<sup>189</sup>
     > По сравнению с Пирамидами очень даже ничего. Вернулся здоровый сарказм и параллели с нашей реальностью.
 
@@ -12,7 +19,6 @@ Do not use pull requests to make changes here.
     > Манга
 
 * Скотный двор ~ [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup>
-    > 10/10
 
 * Стартап-гайд. Как начать… и не закрыть свой интернет-бизнес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>176</sup>
 
@@ -26,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Stories ~ [violet_velva](users/116/116961712580551399099-google)<sup>9</sup>
 
-* На дороге ~ [violet_velva](users/116/116961712580551399099-google)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup> 
 [govorova.tatia](users/500/500014724-vkontakte)<sup>1</sup> 
 [selivanov](users/104/104491677658529528381-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>8</sup> 
@@ -46,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [DgeMer](users/100/100222681156940260683-google)<sup>0</sup> 
 [ann.rouls](users/356/356097243-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>176</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>30</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>55</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>28</sup> 
@@ -65,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>133</sup> 
 
 
-_17.08.2018 18:44:39_
+_17.08.2018 20:44:31_

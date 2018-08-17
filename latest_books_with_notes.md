@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Думай как миллионер. 17 уроков состоятельности для тех, кто готов разбогатеть ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup>
 * Стража! Стража! ~ [Garka](users/115/115753719718250012620-google)<sup>189</sup>
 * Якутия ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
 * Скотный двор ~ [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup>
@@ -30,7 +31,6 @@
 * Портрет Дориана Грея ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
 * «Мария», Мария… ~ [exulted](users/100/100599204551896265722-google)<sup>79</sup>
 * Chickenhawk ~ [exulted](users/100/100599204551896265722-google)<sup>78</sup>
-* Коралина ~ [Garka](users/115/115753719718250012620-google)<sup>188</sup>
 
 
-_15.08.2018 16:20:12_
+_17.08.2018 20:44:31_
