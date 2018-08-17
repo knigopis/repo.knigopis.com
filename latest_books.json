@@ -1,4 +1,16 @@
 {
+    "tGqo1mCfLe": {
+        "id": "tGqo1mCfLe",
+        "title": "Beautiful Architecture (Идеальная Архитектура)",
+        "author": "Diomidis Spinellis (Диомидис Спинеллис), Georgios Gousios (Георгиос Гусиос)",
+        "notes": "Архитектура",
+        "createdAt": "2018-08-17 14:47:10",
+        "user": {
+            "id": "104491677658529528381-google",
+            "nickname": "selivanov",
+            "booksCount": 1
+        }
+    },
     "EZpgOUl21U": {
         "id": "EZpgOUl21U",
         "title": "Ты - богиня. Как сводить мужчин с ума",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 26
-        }
-    },
-    "SGiCuW2lGv": {
-        "id": "SGiCuW2lGv",
-        "title": "Дневники мотоциклиста",
-        "author": "Эрнесто Че Гевара",
-        "notes": "",
-        "createdAt": "2018-08-13 06:01:40",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 28
         }
     }
 }
