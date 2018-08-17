@@ -1,4 +1,16 @@
 {
+    "4MkWjcqe6z": {
+        "id": "4MkWjcqe6z",
+        "title": "Похитители бриллиантов",
+        "author": "БУССЕНАР Луи",
+        "notes": "",
+        "createdAt": "2018-08-17 09:47:23",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 5
+        }
+    },
     "hQGDLBowx3": {
         "id": "hQGDLBowx3",
         "title": "BARBERY Muriel",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 13
-        }
-    },
-    "eaIYNGYHMM": {
-        "id": "eaIYNGYHMM",
-        "title": "Бог-скорпион. Клонк-клонк. Чрезвычайный посол (сборник)",
-        "author": "Уильям Голдинг",
-        "notes": "Рассказы очень колоритные. Проглотила и не заметила. Оставили след.",
-        "createdAt": "2018-08-12 19:09:08",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 12
         }
     }
 }
