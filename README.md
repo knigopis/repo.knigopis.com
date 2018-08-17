@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[govorova.tatia](users/500/500014724-vkontakte)<sup>0</sup> 
 [selivanov](users/104/104491677658529528381-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>8</sup> 
 [](users/115/115826717712507836033-google)<sup>119</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Natalia Avramchuk](users/945/945973022276722-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>68</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>133</sup> 
-[mrs.Ekilei](users/104/104505053912561500571-google)<sup>1</sup> 
 
 
-_17.08.2018 14:47:40_
+_17.08.2018 18:37:22_
