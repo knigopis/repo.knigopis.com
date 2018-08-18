@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup> 
 [govorova.tatia](users/500/500014724-vkontakte)<sup>1</sup> 
 [selivanov](users/104/104491677658529528381-google)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fir137](users/176/176805114-yandex)<sup>2</sup> 
 [Natalia Avramchuk](users/945/945973022276722-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>68</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>133</sup> 
 
 
-_17.08.2018 20:44:31_
+_18.08.2018 02:21:05_

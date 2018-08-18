@@ -1,7 +1,12 @@
-# List of books read by [Артур Вольнов](http://vk.com/id225880893)<sup>14</sup>
+# List of books read by [Артур Вольнов](http://vk.com/id225880893)<sup>15</sup>
 ---
 
 ## 2018
+
+### Principia Discordia
+Malaclypse the Younger
+> [2018-08-15] 
+
 
 ### Алиса в зазеркалье
 Льюис Кэррол

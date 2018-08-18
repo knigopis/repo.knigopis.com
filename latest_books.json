@@ -1,4 +1,16 @@
 {
+    "vYlvoD1Qc6": {
+        "id": "vYlvoD1Qc6",
+        "title": "Principia Discordia",
+        "author": "Malaclypse the Younger",
+        "notes": "",
+        "createdAt": "2018-08-18 02:21:05",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 15
+        }
+    },
     "SqL7pKzgmk": {
         "id": "SqL7pKzgmk",
         "title": "Думай как миллионер. 17 уроков состоятельности для тех, кто готов разбогатеть",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 55
-        }
-    },
-    "jLa-87OBWk": {
-        "id": "jLa-87OBWk",
-        "title": "Чужаая страна",
-        "author": "Чарльз Камминг",
-        "notes": "",
-        "createdAt": "2018-08-13 16:41:38",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 28
         }
     }
 }
