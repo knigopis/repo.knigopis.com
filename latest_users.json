@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 58,
+        "updatedAt": "2018-08-18 20:28:35"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "fir137",
         "booksCount": 2,
         "updatedAt": "2018-08-11 14:15:37"
-    },
-    "945973022276722-facebook": {
-        "id": "945973022276722-facebook",
-        "nickname": "Natalia Avramchuk",
-        "booksCount": 0,
-        "updatedAt": "2018-08-11 11:15:00"
     }
 }
