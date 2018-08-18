@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дама из сугроба ~ [Chiffi](users/105/105831994080785626680-google)<sup>69</sup>
+    > очень мило. как всегда красивый язык. Нужно будет попробовать блины с селедкой и сметаной и вареники с гречкой)
+
 * Думай как миллионер. 17 уроков состоятельности для тех, кто готов разбогатеть ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup>
     > Еще одна мощная книга из серии Наполеона Хилла и Норбекова. Из тех, что переворачивает внутреннюю систему ценностей. Польза неоспорима, будет ли результат - увидим :)
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > По сравнению с Пирамидами очень даже ничего. Вернулся здоровый сарказм и параллели с нашей реальностью.
 
 * Якутия ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
-    > Манга
 
 * Скотный двор ~ [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Женское достоинство - сила притяжения мужчин ~ [violet_velva](users/116/116961712580551399099-google)<sup>10</sup>
 
-* Stories ~ [violet_velva](users/116/116961712580551399099-google)<sup>9</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>69</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup> 
 [govorova.tatia](users/500/500014724-vkontakte)<sup>1</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 [fir137](users/176/176805114-yandex)<sup>2</sup> 
 [Natalia Avramchuk](users/945/945973022276722-facebook)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>68</sup> 
 
 
-_18.08.2018 02:21:05_
+_18.08.2018 05:51:47_

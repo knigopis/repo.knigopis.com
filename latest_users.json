@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 69,
+        "updatedAt": "2018-08-18 05:51:47"
+    },
     "225880893-vkontakte": {
         "id": "225880893-vkontakte",
         "nickname": "Артур Вольнов",
@@ -172,11 +178,5 @@
         "nickname": "Natalia Avramchuk",
         "booksCount": 0,
         "updatedAt": "2018-08-11 11:15:00"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 68,
-        "updatedAt": "2018-08-10 18:27:23"
     }
 }
