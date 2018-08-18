@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Дама из сугроба ~ [Chiffi](users/105/105831994080785626680-google)<sup>69</sup>
+* Дама из сугроба ~ [Chiffi](users/105/105831994080785626680-google)<sup>70</sup>
     > очень мило. как всегда красивый язык. Нужно будет попробовать блины с селедкой и сметаной и вареники с гречкой)
 
 * Думай как миллионер. 17 уроков состоятельности для тех, кто готов разбогатеть ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup>
@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>69</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>70</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup> 
 [govorova.tatia](users/500/500014724-vkontakte)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Natalia Avramchuk](users/945/945973022276722-facebook)<sup>0</sup> 
 
 
-_18.08.2018 05:51:47_
+_18.08.2018 05:51:59_
