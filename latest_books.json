@@ -1,4 +1,16 @@
 {
+    "cfGqM9pVl9": {
+        "id": "cfGqM9pVl9",
+        "title": "Самый сердитый гном",
+        "author": "Денис Юрин",
+        "notes": "",
+        "createdAt": "2018-08-19 09:58:58",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 83
+        }
+    },
     "-qUFDvSJAO": {
         "id": "-qUFDvSJAO",
         "title": "Мегаморф",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 34
-        }
-    },
-    "uNwOsuJMxN": {
-        "id": "uNwOsuJMxN",
-        "title": "У тебя все получится, дорогая моя",
-        "author": "Аньес Мартен-Люган",
-        "notes": "",
-        "createdAt": "2018-08-16 05:17:15",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 33
         }
     }
 }

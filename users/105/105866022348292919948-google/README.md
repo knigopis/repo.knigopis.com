@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>82</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>83</sup>
 ---
 
 ## 2018
@@ -82,6 +82,10 @@
 
 
 ## 2016
+
+### Самый сердитый гном
+Денис Юрин
+
 
 ### Цикл книг "Одиннадцатый Легион"
 Денис Юрин
