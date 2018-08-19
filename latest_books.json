@@ -1,4 +1,16 @@
 {
+    "Dm0MiLM02T": {
+        "id": "Dm0MiLM02T",
+        "title": "Логово врага",
+        "author": "Денис Юрин",
+        "notes": "",
+        "createdAt": "2018-08-19 10:00:43",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 89
+        }
+    },
     "fCmYbZj8X5": {
         "id": "fCmYbZj8X5",
         "title": "Призраки подземелий",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 5
-        }
-    },
-    "hQGDLBowx3": {
-        "id": "hQGDLBowx3",
-        "title": "BARBERY Muriel",
-        "author": "L'élégance du hérisson",
-        "notes": "",
-        "createdAt": "2018-08-17 09:45:36",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 4
         }
     }
 }
