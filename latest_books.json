@@ -1,4 +1,16 @@
 {
+    "mTwtBrz44P": {
+        "id": "mTwtBrz44P",
+        "title": "Чёрная сила",
+        "author": "Василий Головачев",
+        "notes": "",
+        "createdAt": "2018-08-19 09:52:37",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 74
+        }
+    },
     "OfR0pKEWJL": {
         "id": "OfR0pKEWJL",
         "title": "Инферно",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 189
-        }
-    },
-    "MyMtU_Ovlc": {
-        "id": "MyMtU_Ovlc",
-        "title": "Игры Немезиды",
-        "author": "Джеймс Кори",
-        "notes": "",
-        "createdAt": "2018-08-15 15:29:07",
-        "user": {
-            "id": "471364154-yandex",
-            "nickname": "submerged fish",
-            "booksCount": 18
         }
     }
 }
