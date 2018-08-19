@@ -1,4 +1,16 @@
 {
+    "NHWCyjUkyK": {
+        "id": "NHWCyjUkyK",
+        "title": "Игра престолов",
+        "author": "Джордж Мартин",
+        "notes": "Цикл \"Песнь льда и огня\"",
+        "createdAt": "2018-08-19 10:03:28",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 93
+        }
+    },
     "ITDqCxpN3V": {
         "id": "ITDqCxpN3V",
         "title": "Забавы агрессоров",
@@ -345,18 +357,6 @@
             "id": "104491677658529528381-google",
             "nickname": "selivanov",
             "booksCount": 1
-        }
-    },
-    "EZpgOUl21U": {
-        "id": "EZpgOUl21U",
-        "title": "Ты - богиня. Как сводить мужчин с ума",
-        "author": "ФОРЛЕО Мари",
-        "notes": "",
-        "createdAt": "2018-08-17 10:10:59",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 8
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Игра престолов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>93</sup>
 * Мегаморф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>83</sup>
 * Абсолютный игрок ~ [Chandravadana](users/105/105866022348292919948-google)<sup>82</sup>
 * Закон перемен ~ [Chandravadana](users/105/105866022348292919948-google)<sup>81</sup>
@@ -30,7 +31,6 @@
 * Стигмалион ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>15</sup>
 * КАЗАЧЬЯ НАДЕЖДА 1971 ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
 * ВСЯ ОБЛАСТЬ ВОЙСКА ДОНСКОГО 1899 ~ [mfevralev](users/140/140966150-vkontakte)<sup>30</sup>
-* ПЕРЕПИСЬ ЧЕРКАСАМ В ВОЙСКЕ ДОНСКОМ 1763-1764 ~ [mfevralev](users/140/140966150-vkontakte)<sup>29</sup>
 
 
-_19.08.2018 09:56:23_
+_19.08.2018 10:03:29_

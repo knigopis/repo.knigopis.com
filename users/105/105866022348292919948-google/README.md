@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>92</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>93</sup>
 ---
 
 ## 2018
@@ -82,6 +82,11 @@
 
 
 ## 2016
+
+### Игра престолов
+Джордж Мартин
+> Цикл "Песнь льда и огня"
+
 
 ### Забавы агрессоров
 Денис Юрин
