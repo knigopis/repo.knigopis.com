@@ -1,4 +1,16 @@
 {
+    "K3KlJ4ZCe9": {
+        "id": "K3KlJ4ZCe9",
+        "title": "Турнир",
+        "author": "Денис Юрин",
+        "notes": "",
+        "createdAt": "2018-08-19 09:59:37",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 85
+        }
+    },
     "vv4bMS8ziV": {
         "id": "vv4bMS8ziV",
         "title": "Воскрешение",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 118
-        }
-    },
-    "LSTkdqqjIr": {
-        "id": "LSTkdqqjIr",
-        "title": "Бамбарбия Кергуду",
-        "author": "Саркисова-Куаме Влада",
-        "notes": "О жизни в Кот-д'Ивуаре. ТРЭШ",
-        "createdAt": "2018-08-16 09:33:20",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 1
         }
     }
 }
