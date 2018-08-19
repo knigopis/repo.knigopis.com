@@ -1,4 +1,16 @@
 {
+    "NvNkdduuW2": {
+        "id": "NvNkdduuW2",
+        "title": "Битва королей",
+        "author": "Джордж Мартин",
+        "notes": "Цикл \"Песнь льда и огня\"",
+        "createdAt": "2018-08-19 10:03:55",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 94
+        }
+    },
     "NHWCyjUkyK": {
         "id": "NHWCyjUkyK",
         "title": "Игра престолов",
@@ -344,18 +356,6 @@
         "user": {
             "id": "500014724-vkontakte",
             "nickname": "govorova.tatia",
-            "booksCount": 1
-        }
-    },
-    "tGqo1mCfLe": {
-        "id": "tGqo1mCfLe",
-        "title": "Beautiful Architecture (Идеальная Архитектура)",
-        "author": "Diomidis Spinellis (Диомидис Спинеллис), Georgios Gousios (Георгиос Гусиос)",
-        "notes": "Архитектура",
-        "createdAt": "2018-08-17 14:47:10",
-        "user": {
-            "id": "104491677658529528381-google",
-            "nickname": "selivanov",
             "booksCount": 1
         }
     }

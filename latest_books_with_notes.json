@@ -1,4 +1,16 @@
 {
+    "NvNkdduuW2": {
+        "id": "NvNkdduuW2",
+        "title": "Битва королей",
+        "author": "Джордж Мартин",
+        "notes": "Цикл \"Песнь льда и огня\"",
+        "createdAt": "2018-08-19 10:03:55",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 94
+        }
+    },
     "NHWCyjUkyK": {
         "id": "NHWCyjUkyK",
         "title": "Игра престолов",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 33
-        }
-    },
-    "a47GQq07oI": {
-        "id": "a47GQq07oI",
-        "title": "ВСЯ ОБЛАСТЬ ВОЙСКА ДОНСКОГО 1899",
-        "author": "Нейфельд",
-        "notes": "Есть про Сальский Казачий округ.",
-        "createdAt": "2018-08-08 11:48:11",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 30
         }
     }
 }
