@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пушка Ньютона ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
 * Танец с драконами ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
 * Пир стервятников ~ [Chandravadana](users/105/105866022348292919948-google)<sup>96</sup>
 * Буря мечей ~ [Chandravadana](users/105/105866022348292919948-google)<sup>95</sup>
@@ -30,7 +31,6 @@
 * Правила. Как выйти замуж за Мужчину своей мечты ~ [violet_velva](users/116/116961712580551399099-google)<sup>7</sup>
 * Трава поет ~ [violet_velva](users/116/116961712580551399099-google)<sup>6</sup>
 * Эндимион. Восход Эндимиона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>175</sup>
-* To Die in Vienna ~ [exulted](users/100/100599204551896265722-google)<sup>80</sup>
 
 
-_19.08.2018 10:05:11_
+_19.08.2018 10:06:26_

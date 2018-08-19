@@ -1,4 +1,16 @@
 {
+    "q2LX6VblEL": {
+        "id": "q2LX6VblEL",
+        "title": "Пушка Ньютона",
+        "author": "Грегори Киз",
+        "notes": "Цикл \"Век безумия\"",
+        "createdAt": "2018-08-19 10:06:25",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 97
+        }
+    },
     "QnCsvMn0zP": {
         "id": "QnCsvMn0zP",
         "title": "Танец с драконами",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 175
-        }
-    },
-    "v5wIWdpn-A": {
-        "id": "v5wIWdpn-A",
-        "title": "To Die in Vienna",
-        "author": "Kevin Wignall",
-        "notes": "Kindle\nASIN: B077GSNV52",
-        "createdAt": "2018-08-11 17:47:46",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 80
         }
     }
 }
