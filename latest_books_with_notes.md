@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Буря мечей ~ [Chandravadana](users/105/105866022348292919948-google)<sup>95</sup>
 * Битва королей ~ [Chandravadana](users/105/105866022348292919948-google)<sup>94</sup>
 * Игра престолов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>93</sup>
 * Мегаморф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>83</sup>
@@ -30,7 +31,6 @@
 * To Die in Vienna ~ [exulted](users/100/100599204551896265722-google)<sup>80</sup>
 * Поселок ~ [Chiffi](users/105/105831994080785626680-google)<sup>68</sup>
 * Стигмалион ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>15</sup>
-* КАЗАЧЬЯ НАДЕЖДА 1971 ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
 
 
-_19.08.2018 10:03:55_
+_19.08.2018 10:04:22_

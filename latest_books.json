@@ -1,4 +1,16 @@
 {
+    "wP3kB8tgTR": {
+        "id": "wP3kB8tgTR",
+        "title": "Буря мечей",
+        "author": "Джордж Мартин",
+        "notes": "Цикл \"Песнь льда и огня\"",
+        "createdAt": "2018-08-19 10:04:22",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 95
+        }
+    },
     "NvNkdduuW2": {
         "id": "NvNkdduuW2",
         "title": "Битва королей",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 177
-        }
-    },
-    "0UkaaKCVKn": {
-        "id": "0UkaaKCVKn",
-        "title": "Алхимик",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2018-08-17 18:44:39",
-        "user": {
-            "id": "500014724-vkontakte",
-            "nickname": "govorova.tatia",
-            "booksCount": 1
         }
     }
 }

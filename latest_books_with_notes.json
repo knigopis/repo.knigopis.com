@@ -1,4 +1,16 @@
 {
+    "wP3kB8tgTR": {
+        "id": "wP3kB8tgTR",
+        "title": "Буря мечей",
+        "author": "Джордж Мартин",
+        "notes": "Цикл \"Песнь льда и огня\"",
+        "createdAt": "2018-08-19 10:04:22",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 95
+        }
+    },
     "NvNkdduuW2": {
         "id": "NvNkdduuW2",
         "title": "Битва королей",
@@ -345,18 +357,6 @@
             "id": "87639392-vkontakte",
             "nickname": "veronika_vaha",
             "booksCount": 15
-        }
-    },
-    "wmv7El-cKU": {
-        "id": "wmv7El-cKU",
-        "title": "КАЗАЧЬЯ НАДЕЖДА 1971",
-        "author": "брошура",
-        "notes": "№1 нет нечего интересного 1972 №2 стр 8 генерал Быкадоров И.Ф о поражении казачества стр 12 про казачьи сословия. 1972№ 3 стр 12 историч трагедия казачества стр 17 случай с гимнами -Лазарев",
-        "createdAt": "2018-08-08 11:50:46",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 33
         }
     }
 }
