@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тени Бога ~ [Chandravadana](users/105/105866022348292919948-google)<sup>100</sup>
+    > Цикл "Век безумия"
+
 * Империя хаоса ~ [Chandravadana](users/105/105866022348292919948-google)<sup>99</sup>
     > Цикл "Век безумия"
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Цикл "Век безумия"
 
 * Пушка Ньютона ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
-    > Цикл "Век безумия"
 
 * Танец с драконами ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мегаморф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>83</sup>
 
-* Абсолютный игрок ~ [Chandravadana](users/105/105866022348292919948-google)<sup>82</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>99</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>100</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>70</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 
 
-_19.08.2018 10:07:29_
+_19.08.2018 10:07:48_

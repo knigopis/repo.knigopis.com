@@ -1,4 +1,16 @@
 {
+    "jdPq8KW-Jt": {
+        "id": "jdPq8KW-Jt",
+        "title": "Тени Бога",
+        "author": "Грегори Киз",
+        "notes": "Цикл \"Век безумия\"",
+        "createdAt": "2018-08-19 10:07:48",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 100
+        }
+    },
     "7VvzHsfZGQ": {
         "id": "7VvzHsfZGQ",
         "title": "Империя хаоса",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 73
-        }
-    },
-    "1spjvBhZmA": {
-        "id": "1spjvBhZmA",
-        "title": "Утраченный символ",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2018-08-19 09:34:56",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 72
         }
     }
 }
