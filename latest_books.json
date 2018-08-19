@@ -1,4 +1,16 @@
 {
+    "8P2AhppLWx": {
+        "id": "8P2AhppLWx",
+        "title": "Имперские истории",
+        "author": "Денис Юрин",
+        "notes": "",
+        "createdAt": "2018-08-19 10:01:10",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 91
+        }
+    },
     "Ds8PxFSLL5": {
         "id": "Ds8PxFSLL5",
         "title": "Наследие орков",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 7
-        }
-    },
-    "Hk8IbqLnXp": {
-        "id": "Hk8IbqLnXp",
-        "title": "Правила. Как выйти замуж за мужчину своей мечты",
-        "author": "ФЕЙН Эллен, ШНАЙДЕР Шерри",
-        "notes": "",
-        "createdAt": "2018-08-17 10:08:02",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 6
         }
     }
 }
