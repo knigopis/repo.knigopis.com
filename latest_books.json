@@ -1,4 +1,16 @@
 {
+    "YfF4avwjZ6": {
+        "id": "YfF4avwjZ6",
+        "title": "Чёрное время",
+        "author": "Василий Головачев",
+        "notes": "",
+        "createdAt": "2018-08-19 09:52:56",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 75
+        }
+    },
     "mTwtBrz44P": {
         "id": "mTwtBrz44P",
         "title": "Чёрная сила",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 1
-        }
-    },
-    "D5fyAQA1F_": {
-        "id": "D5fyAQA1F_",
-        "title": "Стража! Стража!",
-        "author": "Пратчетт, Терри",
-        "notes": "По сравнению с Пирамидами очень даже ничего. Вернулся здоровый сарказм и параллели с нашей реальностью.",
-        "createdAt": "2018-08-15 16:20:11",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 189
         }
     }
 }
