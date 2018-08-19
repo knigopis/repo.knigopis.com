@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[me1](users/381/381417697-yandex)<sup>44</sup> 
+[me](users/381/381417697-yandex)<sup>44</sup> 
 [Villiriana](users/220/2204910936245631-facebook)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>81</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>105</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>663</sup> 
 
 
-_19.08.2018 22:17:04_
+_19.08.2018 22:17:12_
