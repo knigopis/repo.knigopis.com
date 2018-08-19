@@ -15,6 +15,9 @@ Dmitry Jemerov, Svetlana Isakova
 Уолтер Гратцер
 > Об ученых и их открытиях
 
+### `41` Гтгт
+Тнниго
+
 ### `38` Learn You a Haskell for Great Good
 Miran Lipovača
 
@@ -47,23 +50,20 @@ Joel Spolsky
 ### `` A Briefer History of Time
 Stephen Hawking
 
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
-
 ### `` Три товарища
 Эрих Мария Ремарк
-
-### `` Мертвые души
-Николай Гоголь
 
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
 
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
+
+### `` Мертвые души
+Николай Гоголь
+
 ### `` Братья Карамазовы
 Фёдор Достоевский
-
-### `` Овод
-Этель Лилиан Войнич
 
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
@@ -75,11 +75,15 @@ Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes
 Linus Torvalds, David Diamond
 > The Story of an Accidental Revolutionary
 
+### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
+Dafydd Stuttard, Marcus Pinto
+> В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
+
+### `` Овод
+Этель Лилиан Войнич
+
 ### `` Повелитель мух
 Уильям Голдинг
-
-### `` Льлььльлльль
-Оьгьгьль
 
 ### `` Hacking: Art of Exploitation
 Jon Erickson
@@ -89,12 +93,11 @@ Jon Erickson
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
 
-### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
-Dafydd Stuttard, Marcus Pinto
-> В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
-
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
+
+### `` Льлььльлльль
+Оьгьгьль
 
 ### `` Герой нашего времени
 Михаил Лермонтов
