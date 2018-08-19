@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>104</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>105</sup>
 ---
 
 ## 2018
@@ -181,6 +181,10 @@
 
 
 ## 2014
+
+### Гарри Поттер и Принц-полукровка
+Джоан Роулинг
+
 
 ### Гарри Поттер и Орден Феникса
 Джоан Роулинг
