@@ -52,6 +52,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chandravadana](users/105/105866022348292919948-google)<sup>71</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>70</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
@@ -81,7 +82,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>80</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
-[fir137](users/176/176805114-yandex)<sup>2</sup> 
 
 
-_18.08.2018 20:28:35_
+_19.08.2018 09:34:20_

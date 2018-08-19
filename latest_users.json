@@ -1,4 +1,10 @@
 {
+    "105866022348292919948-google": {
+        "id": "105866022348292919948-google",
+        "nickname": "Chandravadana",
+        "booksCount": 71,
+        "updatedAt": "2018-08-19 09:34:20"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "Lost in Frost",
         "booksCount": 125,
         "updatedAt": "2018-08-11 17:03:54"
-    },
-    "176805114-yandex": {
-        "id": "176805114-yandex",
-        "nickname": "fir137",
-        "booksCount": 2,
-        "updatedAt": "2018-08-11 14:15:37"
     }
 }

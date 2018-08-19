@@ -1,4 +1,16 @@
 {
+    "C0vgGQms5a": {
+        "id": "C0vgGQms5a",
+        "title": "Ангелы и демоны",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2018-08-19 09:34:20",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 71
+        }
+    },
     "RWmXaEFUWn": {
         "id": "RWmXaEFUWn",
         "title": "Чужие сны и другие истории",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 90
-        }
-    },
-    "drm1Rbe0Hu": {
-        "id": "drm1Rbe0Hu",
-        "title": "Стартап-гайд. Как начать… и не закрыть свой интернет-бизнес",
-        "author": "",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/30262981/",
-        "createdAt": "2018-08-14 19:47:20",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 176
         }
     }
 }
