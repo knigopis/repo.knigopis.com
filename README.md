@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пир стервятников ~ [Chandravadana](users/105/105866022348292919948-google)<sup>96</sup>
+    > Цикл "Песнь льда и огня"
+
 * Буря мечей ~ [Chandravadana](users/105/105866022348292919948-google)<sup>95</sup>
     > Цикл "Песнь льда и огня"
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Цикл "Песнь льда и огня"
 
 * Игра престолов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>93</sup>
-    > Цикл "Песнь льда и огня"
 
 * Мегаморф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>83</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Возвращение блудного Конструктора ~ [Chandravadana](users/105/105866022348292919948-google)<sup>78</sup>
 
-* Пришествие ~ [Chandravadana](users/105/105866022348292919948-google)<sup>77</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>95</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>96</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>70</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 
 
-_19.08.2018 10:04:22_
+_19.08.2018 10:04:46_
