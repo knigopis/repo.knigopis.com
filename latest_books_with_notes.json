@@ -1,4 +1,16 @@
 {
+    "zXwmH5GCks": {
+        "id": "zXwmH5GCks",
+        "title": "Контрразведка",
+        "author": "Василий Головачев",
+        "notes": "Хроники Реликта",
+        "createdAt": "2018-08-19 09:55:36",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 80
+        }
+    },
     "bLZRGieH8V": {
         "id": "bLZRGieH8V",
         "title": "Дети Вечности",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 146
-        }
-    },
-    "k_03IpTug2": {
-        "id": "k_03IpTug2",
-        "title": "Бунтующий человек. Недоразумение",
-        "author": "Альбер Камю",
-        "notes": "Очень вдумчиво и неспешно, по строчкам. Философия потому что.\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/140024923/",
-        "createdAt": "2018-08-07 21:39:11",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 174
         }
     }
 }
