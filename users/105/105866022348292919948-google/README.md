@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>85</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>86</sup>
 ---
 
 ## 2018
@@ -82,6 +82,10 @@
 
 
 ## 2016
+
+### Разведка боем
+Денис Юрин
+
 
 ### Турнир
 Денис Юрин
