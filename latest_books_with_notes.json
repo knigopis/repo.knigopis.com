@@ -1,4 +1,16 @@
 {
+    "bLZRGieH8V": {
+        "id": "bLZRGieH8V",
+        "title": "Дети Вечности",
+        "author": "Василий Головачев",
+        "notes": "Хроники Реликта",
+        "createdAt": "2018-08-19 09:55:17",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 79
+        }
+    },
     "3A2hAfgn73": {
         "id": "3A2hAfgn73",
         "title": "Возвращение блудного Конструктора",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 174
-        }
-    },
-    "A1Dy87HFXB": {
-        "id": "A1Dy87HFXB",
-        "title": "Искусство цвета",
-        "author": "Иоханнес Иттен",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/138454818/",
-        "createdAt": "2018-08-07 21:34:40",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 173
         }
     }
 }

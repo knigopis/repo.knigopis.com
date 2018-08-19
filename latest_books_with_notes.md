@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дети Вечности ~ [Chandravadana](users/105/105866022348292919948-google)<sup>79</sup>
 * Возвращение блудного Конструктора ~ [Chandravadana](users/105/105866022348292919948-google)<sup>78</sup>
 * Пришествие ~ [Chandravadana](users/105/105866022348292919948-google)<sup>77</sup>
 * Непредвиденные встречи ~ [Chandravadana](users/105/105866022348292919948-google)<sup>76</sup>
@@ -30,7 +31,6 @@
 * Степные рыцыри, Сыны донских степей ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
 * Голос неба ~ [lucius](users/838/83820536-yandex)<sup>146</sup>
 * Бунтующий человек. Недоразумение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>174</sup>
-* Искусство цвета ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>173</sup>
 
 
-_19.08.2018 09:55:01_
+_19.08.2018 09:55:18_
