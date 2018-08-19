@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>97</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>98</sup>
 ---
 
 ## 2018
@@ -154,6 +154,11 @@
 
 
 ## 2015
+
+### Исчисление ангелов
+Грегори Киз
+> Цикл "Век безумия"
+
 
 ### Пушка Ньютона
 Грегори Киз
