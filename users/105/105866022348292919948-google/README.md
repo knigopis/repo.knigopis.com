@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>77</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>78</sup>
 ---
 
 ## 2018
@@ -27,6 +27,11 @@
 
 
 ## 2017
+
+### Возвращение блудного Конструктора
+Василий Головачев
+> Хроники Реликта
+
 
 ### Пришествие
 Василий Головачев
