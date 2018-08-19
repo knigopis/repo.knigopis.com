@@ -1,4 +1,16 @@
 {
+    "ivfmkTklMM": {
+        "id": "ivfmkTklMM",
+        "title": "Закон перемен",
+        "author": "Василий Головачев",
+        "notes": "Хроники Реликта",
+        "createdAt": "2018-08-19 09:55:52",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 81
+        }
+    },
     "zXwmH5GCks": {
         "id": "zXwmH5GCks",
         "title": "Контрразведка",
@@ -345,18 +357,6 @@
             "id": "42041301-vkontakte",
             "nickname": "dolphin_e",
             "booksCount": 1
-        }
-    },
-    "nRS_FprHzL": {
-        "id": "nRS_FprHzL",
-        "title": "Аэлита",
-        "author": "А. Н. Толстой",
-        "notes": "",
-        "createdAt": "2018-08-15 19:17:06",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 6
         }
     }
 }

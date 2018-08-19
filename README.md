@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Закон перемен ~ [Chandravadana](users/105/105866022348292919948-google)<sup>81</sup>
+    > Хроники Реликта
+
 * Контрразведка ~ [Chandravadana](users/105/105866022348292919948-google)<sup>80</sup>
     > Хроники Реликта
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хроники Реликта
 
 * Возвращение блудного Конструктора ~ [Chandravadana](users/105/105866022348292919948-google)<sup>78</sup>
-    > Хроники Реликта
 
 * Пришествие ~ [Chandravadana](users/105/105866022348292919948-google)<sup>77</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Стража! Стража! ~ [Garka](users/115/115753719718250012620-google)<sup>189</sup>
 
-* Якутия ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>80</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>81</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>70</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 
 
-_19.08.2018 09:55:36_
+_19.08.2018 09:55:52_
