@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>81</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>82</sup>
 ---
 
 ## 2018
@@ -27,6 +27,11 @@
 
 
 ## 2017
+
+### Абсолютный игрок
+Василий Головачев
+> Хроники Реликта
+
 
 ### Закон перемен
 Василий Головачев

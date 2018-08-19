@@ -1,4 +1,16 @@
 {
+    "l1CyRzlwbs": {
+        "id": "l1CyRzlwbs",
+        "title": "Абсолютный игрок",
+        "author": "Василий Головачев",
+        "notes": "Хроники Реликта",
+        "createdAt": "2018-08-19 09:56:07",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 82
+        }
+    },
     "ivfmkTklMM": {
         "id": "ivfmkTklMM",
         "title": "Закон перемен",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 32
-        }
-    },
-    "-iyO9lKU_6": {
-        "id": "-iyO9lKU_6",
-        "title": "Ночной дозор",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-08-15 20:08:53",
-        "user": {
-            "id": "42041301-vkontakte",
-            "nickname": "dolphin_e",
-            "booksCount": 1
         }
     }
 }

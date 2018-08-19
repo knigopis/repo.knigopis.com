@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Абсолютный игрок ~ [Chandravadana](users/105/105866022348292919948-google)<sup>82</sup>
+    > Хроники Реликта
+
 * Закон перемен ~ [Chandravadana](users/105/105866022348292919948-google)<sup>81</sup>
     > Хроники Реликта
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хроники Реликта
 
 * Дети Вечности ~ [Chandravadana](users/105/105866022348292919948-google)<sup>79</sup>
-    > Хроники Реликта
 
 * Возвращение блудного Конструктора ~ [Chandravadana](users/105/105866022348292919948-google)<sup>78</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Думай как миллионер. 17 уроков состоятельности для тех, кто готов разбогатеть ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup>
 
-* Стража! Стража! ~ [Garka](users/115/115753719718250012620-google)<sup>189</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>81</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>82</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>70</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 
 
-_19.08.2018 09:55:52_
+_19.08.2018 09:56:07_

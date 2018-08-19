@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Абсолютный игрок ~ [Chandravadana](users/105/105866022348292919948-google)<sup>82</sup>
 * Закон перемен ~ [Chandravadana](users/105/105866022348292919948-google)<sup>81</sup>
 * Контрразведка ~ [Chandravadana](users/105/105866022348292919948-google)<sup>80</sup>
 * Дети Вечности ~ [Chandravadana](users/105/105866022348292919948-google)<sup>79</sup>
@@ -30,7 +31,6 @@
 * ВСЯ ОБЛАСТЬ ВОЙСКА ДОНСКОГО 1899 ~ [mfevralev](users/140/140966150-vkontakte)<sup>30</sup>
 * ПЕРЕПИСЬ ЧЕРКАСАМ В ВОЙСКЕ ДОНСКОМ 1763-1764 ~ [mfevralev](users/140/140966150-vkontakte)<sup>29</sup>
 * СВЯТОСЛАВ. БОЛГАРИЯ ~ [mfevralev](users/140/140966150-vkontakte)<sup>28</sup>
-* Степные рыцыри, Сыны донских степей ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
 
 
-_19.08.2018 09:55:52_
+_19.08.2018 09:56:07_
