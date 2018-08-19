@@ -1,4 +1,16 @@
 {
+    "Ds8PxFSLL5": {
+        "id": "Ds8PxFSLL5",
+        "title": "Наследие орков",
+        "author": "Денис Юрин",
+        "notes": "",
+        "createdAt": "2018-08-19 10:00:56",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 90
+        }
+    },
     "Dm0MiLM02T": {
         "id": "Dm0MiLM02T",
         "title": "Логово врага",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 6
-        }
-    },
-    "4MkWjcqe6z": {
-        "id": "4MkWjcqe6z",
-        "title": "Похитители бриллиантов",
-        "author": "БУССЕНАР Луи",
-        "notes": "",
-        "createdAt": "2018-08-17 09:47:23",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 5
         }
     }
 }
