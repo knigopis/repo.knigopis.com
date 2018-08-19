@@ -1,4 +1,16 @@
 {
+    "vv4bMS8ziV": {
+        "id": "vv4bMS8ziV",
+        "title": "Воскрешение",
+        "author": "Денис Юрин",
+        "notes": "",
+        "createdAt": "2018-08-19 09:59:16",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 84
+        }
+    },
     "cfGqM9pVl9": {
         "id": "cfGqM9pVl9",
         "title": "Самый сердитый гном",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 1
-        }
-    },
-    "JUVm-U_r2v": {
-        "id": "JUVm-U_r2v",
-        "title": "Счастливые люди читают книжки и пьют кофе",
-        "author": "Аньес Мартен-Люган",
-        "notes": "",
-        "createdAt": "2018-08-16 05:18:01",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 34
         }
     }
 }

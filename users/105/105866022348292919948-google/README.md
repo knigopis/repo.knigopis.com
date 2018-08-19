@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>83</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>84</sup>
 ---
 
 ## 2018
@@ -82,6 +82,10 @@
 
 
 ## 2016
+
+### Воскрешение
+Денис Юрин
+
 
 ### Самый сердитый гном
 Денис Юрин
