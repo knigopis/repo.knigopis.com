@@ -1,4 +1,16 @@
 {
+    "ITDqCxpN3V": {
+        "id": "ITDqCxpN3V",
+        "title": "Забавы агрессоров",
+        "author": "Денис Юрин",
+        "notes": "",
+        "createdAt": "2018-08-19 10:01:29",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 92
+        }
+    },
     "8P2AhppLWx": {
         "id": "8P2AhppLWx",
         "title": "Имперские истории",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 8
-        }
-    },
-    "TcdHwPeTnf": {
-        "id": "TcdHwPeTnf",
-        "title": "Женское достоинство - сила притяжения мужчин",
-        "author": "ЛЕВЧУК Мила",
-        "notes": "",
-        "createdAt": "2018-08-17 10:08:50",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 7
         }
     }
 }
