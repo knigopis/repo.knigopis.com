@@ -1,4 +1,16 @@
 {
+    "EjAGmZzXfr": {
+        "id": "EjAGmZzXfr",
+        "title": "Зимняя дорога. Генерал А. Н. Пепеляев и анархист И. Я. Строд в Якутии. 1922–1923",
+        "author": "Юзефович Леонид",
+        "notes": "",
+        "createdAt": "2018-08-19 12:11:45",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 81
+        }
+    },
     "9POe4qM7yV": {
         "id": "9POe4qM7yV",
         "title": "Гарри Поттер и Дары Смерти",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 81
-        }
-    },
-    "zXwmH5GCks": {
-        "id": "zXwmH5GCks",
-        "title": "Контрразведка",
-        "author": "Василий Головачев",
-        "notes": "Хроники Реликта",
-        "createdAt": "2018-08-19 09:55:36",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 80
         }
     }
 }
