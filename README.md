@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Империя хаоса ~ [Chandravadana](users/105/105866022348292919948-google)<sup>99</sup>
+    > Цикл "Век безумия"
+
 * Исчисление ангелов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>98</sup>
     > Цикл "Век безумия"
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Цикл "Век безумия"
 
 * Танец с драконами ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
-    > Цикл "Песнь льда и огня"
 
 * Пир стервятников ~ [Chandravadana](users/105/105866022348292919948-google)<sup>96</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Абсолютный игрок ~ [Chandravadana](users/105/105866022348292919948-google)<sup>82</sup>
 
-* Закон перемен ~ [Chandravadana](users/105/105866022348292919948-google)<sup>81</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>98</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>99</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>70</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 
 
-_19.08.2018 10:06:51_
+_19.08.2018 10:07:29_

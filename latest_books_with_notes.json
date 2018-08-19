@@ -1,4 +1,16 @@
 {
+    "7VvzHsfZGQ": {
+        "id": "7VvzHsfZGQ",
+        "title": "Империя хаоса",
+        "author": "Грегори Киз",
+        "notes": "Цикл \"Век безумия\"",
+        "createdAt": "2018-08-19 10:07:29",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 99
+        }
+    },
     "a2GCZBt00I": {
         "id": "a2GCZBt00I",
         "title": "Исчисление ангелов",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 7
-        }
-    },
-    "o0Zb8WNV1l": {
-        "id": "o0Zb8WNV1l",
-        "title": "Трава поет",
-        "author": "Дорис Лессинг",
-        "notes": "Самая лучшая из всех книг Дорис Лессинг, что я прочитала. Очень понравилась и реабилитировала этого автора в моих глазах.",
-        "createdAt": "2018-08-12 18:55:14",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 6
         }
     }
 }

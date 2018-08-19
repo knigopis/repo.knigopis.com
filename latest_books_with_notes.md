@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Империя хаоса ~ [Chandravadana](users/105/105866022348292919948-google)<sup>99</sup>
 * Исчисление ангелов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>98</sup>
 * Пушка Ньютона ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
 * Танец с драконами ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
@@ -30,7 +31,6 @@
 * Stories ~ [violet_velva](users/116/116961712580551399099-google)<sup>9</sup>
 * На дороге ~ [violet_velva](users/116/116961712580551399099-google)<sup>8</sup>
 * Правила. Как выйти замуж за Мужчину своей мечты ~ [violet_velva](users/116/116961712580551399099-google)<sup>7</sup>
-* Трава поет ~ [violet_velva](users/116/116961712580551399099-google)<sup>6</sup>
 
 
-_19.08.2018 10:06:51_
+_19.08.2018 10:07:29_
