@@ -18,15 +18,19 @@ Dmitry Jemerov, Svetlana Isakova
 ### `38` Learn You a Haskell for Great Good
 Miran Lipovača
 
+### `20` 1984о
+Инин
+> Н
+
 ### `20` Слово живое и мертвое
 Нора Галь
-
-### `12` Совершенный код
-Стив Макконнелл
 
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
+
+### `12` Совершенный код
+Стив Макконнелл
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
@@ -38,26 +42,26 @@ Randall Munroe
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Портной из Панамы
-Джон Ле Карре
-
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` A Briefer History of Time
-Stephen Hawking
-
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
+### `1` Портной из Панамы
+Джон Ле Карре
 
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Мертвые души
-Николай Гоголь
-
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
+
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
+
+### `` A Briefer History of Time
+Stephen Hawking
+
+### `` Мертвые души
+Николай Гоголь
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
