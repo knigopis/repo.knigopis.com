@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>76</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>77</sup>
 ---
 
 ## 2018
@@ -27,6 +27,11 @@
 
 
 ## 2017
+
+### Пришествие
+Василий Головачев
+> Хроники реликта
+
 
 ### Непредвиденные встречи
 Василий Головачев

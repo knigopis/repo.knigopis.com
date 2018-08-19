@@ -1,4 +1,16 @@
 {
+    "Fu5foNIbc5": {
+        "id": "Fu5foNIbc5",
+        "title": "Пришествие",
+        "author": "Василий Головачев",
+        "notes": "Хроники реликта",
+        "createdAt": "2018-08-19 09:54:43",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 77
+        }
+    },
     "zDlibxDR7i": {
         "id": "zDlibxDR7i",
         "title": "Непредвиденные встречи",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 172
-        }
-    },
-    "d9ppnMImRx": {
-        "id": "d9ppnMImRx",
-        "title": "У самого синего моря  и Против часовой стрелки",
-        "author": "Катишонок Елена",
-        "notes": "Семейная сага. очень трогательная и пронзительная.",
-        "createdAt": "2018-08-07 05:38:51",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 67
         }
     }
 }

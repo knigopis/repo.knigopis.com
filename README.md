@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пришествие ~ [Chandravadana](users/105/105866022348292919948-google)<sup>77</sup>
+    > Хроники реликта
+
 * Непредвиденные встречи ~ [Chandravadana](users/105/105866022348292919948-google)<sup>76</sup>
     > Хроники Реликта
 
@@ -27,7 +30,6 @@ Do not use pull requests to make changes here.
     > Гюнтер Грасс: король торговцев игрушками
 
 * Дама из сугроба ~ [Chiffi](users/105/105831994080785626680-google)<sup>70</sup>
-    > очень мило. как всегда красивый язык. Нужно будет попробовать блины с селедкой и сметаной и вареники с гречкой)
 
 * Думай как миллионер. 17 уроков состоятельности для тех, кто готов разбогатеть ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup>
 
@@ -41,14 +43,12 @@ Do not use pull requests to make changes here.
 
 * Сказка о самоубийстве ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>26</sup>
 
-* Бог-скорпион. Клонк-клонк. Чрезвычайный посол (сборник) ~ [violet_velva](users/116/116961712580551399099-google)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>76</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>77</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>70</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
@@ -80,4 +80,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 
 
-_19.08.2018 09:54:13_
+_19.08.2018 09:54:43_
