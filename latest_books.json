@@ -1,4 +1,16 @@
 {
+    "1spjvBhZmA": {
+        "id": "1spjvBhZmA",
+        "title": "Утраченный символ",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2018-08-19 09:34:56",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 72
+        }
+    },
     "C0vgGQms5a": {
         "id": "C0vgGQms5a",
         "title": "Ангелы и демоны",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 155
-        }
-    },
-    "gA5KO2n5oB": {
-        "id": "gA5KO2n5oB",
-        "title": "Скотный двор",
-        "author": "Джордж Оруэлл",
-        "notes": "10/10",
-        "createdAt": "2018-08-15 07:10:32",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 90
         }
     }
 }
