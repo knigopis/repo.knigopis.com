@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Непредвиденные встречи ~ [Chandravadana](users/105/105866022348292919948-google)<sup>76</sup>
+    > Хроники Реликта
+
 * Чужие сны и другие истории ~ [sonics](users/588/5880221-vkontakte)<sup>58</sup>
     > Воспоминания автора
     > Спасая Пигги Снида - неплохой рассказ
@@ -27,11 +30,6 @@ Do not use pull requests to make changes here.
     > очень мило. как всегда красивый язык. Нужно будет попробовать блины с селедкой и сметаной и вареники с гречкой)
 
 * Думай как миллионер. 17 уроков состоятельности для тех, кто готов разбогатеть ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup>
-    > Еще одна мощная книга из серии Наполеона Хилла и Норбекова. Из тех, что переворачивает внутреннюю систему ценностей. Польза неоспорима, будет ли результат - увидим :)
-    > 
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/27451555/
 
 * Стража! Стража! ~ [Garka](users/115/115753719718250012620-google)<sup>189</sup>
 
@@ -45,14 +43,12 @@ Do not use pull requests to make changes here.
 
 * Бог-скорпион. Клонк-клонк. Чрезвычайный посол (сборник) ~ [violet_velva](users/116/116961712580551399099-google)<sup>12</sup>
 
-* Коллекционер ~ [violet_velva](users/116/116961712580551399099-google)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>75</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>76</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>70</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
@@ -84,4 +80,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 
 
-_19.08.2018 09:52:56_
+_19.08.2018 09:54:13_

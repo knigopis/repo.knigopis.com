@@ -1,4 +1,16 @@
 {
+    "zDlibxDR7i": {
+        "id": "zDlibxDR7i",
+        "title": "Непредвиденные встречи",
+        "author": "Василий Головачев",
+        "notes": "Хроники Реликта",
+        "createdAt": "2018-08-19 09:54:12",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 76
+        }
+    },
     "RWmXaEFUWn": {
         "id": "RWmXaEFUWn",
         "title": "Чужие сны и другие истории",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 67
-        }
-    },
-    "V3nin06aOw": {
-        "id": "V3nin06aOw",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "8/10",
-        "createdAt": "2018-08-06 20:49:41",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 89
         }
     }
 }
