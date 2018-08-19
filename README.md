@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>44</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>81</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>105</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>322</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>663</sup> 
-[me](users/381/381417697-yandex)<sup>44</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 
 
-_19.08.2018 12:11:46_
+_19.08.2018 15:11:20_
