@@ -1,4 +1,16 @@
 {
+    "S0mnI2LbPf": {
+        "id": "S0mnI2LbPf",
+        "title": "Война",
+        "author": "Денис Юрин",
+        "notes": "",
+        "createdAt": "2018-08-19 10:00:17",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 87
+        }
+    },
     "yOrgAYtO4c": {
         "id": "yOrgAYtO4c",
         "title": "Разведка боем",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 3
-        }
-    },
-    "VumvDh_H1F": {
-        "id": "VumvDh_H1F",
-        "title": "Гудаутские груши",
-        "author": "Людмила Улицкая",
-        "notes": "",
-        "createdAt": "2018-08-16 12:45:44",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 119
         }
     }
 }
