@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [German](users/112/112254248549638795343-google)<sup>28</sup> 
 
 
-_20.08.2018 19:42:46_
+_20.08.2018 19:42:58_
