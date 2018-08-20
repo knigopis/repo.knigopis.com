@@ -1,4 +1,16 @@
 {
+    "uGw9J5hl9w": {
+        "id": "uGw9J5hl9w",
+        "title": "Игры, в которые играют люди",
+        "author": "Эрик Берн",
+        "notes": "",
+        "createdAt": "2018-08-20 12:11:29",
+        "user": {
+            "id": "100001578234748-facebook",
+            "nickname": "itoolru",
+            "booksCount": 1
+        }
+    },
     "X4p3POfh9G": {
         "id": "X4p3POfh9G",
         "title": "Дом секретов. Столкновение миров",
@@ -341,18 +353,6 @@
         "author": "Денис Юрин",
         "notes": "",
         "createdAt": "2018-08-19 09:58:58",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 83
-        }
-    },
-    "-qUFDvSJAO": {
-        "id": "-qUFDvSJAO",
-        "title": "Мегаморф",
-        "author": "Василий Головачев",
-        "notes": "Хроники Реликта",
-        "createdAt": "2018-08-19 09:56:23",
         "user": {
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",

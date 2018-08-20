@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[itoolru](users/100/100001578234748-facebook)<sup>0</sup> 
+[itoolru](users/100/100001578234748-facebook)<sup>1</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>7</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Villiriana](users/220/2204910936245631-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>13</sup> 
 
 
-_20.08.2018 12:09:54_
+_20.08.2018 12:11:29_
