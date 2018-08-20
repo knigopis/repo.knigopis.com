@@ -1,4 +1,16 @@
 {
+    "sp_csjgKlk": {
+        "id": "sp_csjgKlk",
+        "title": "Новая инквизиция",
+        "author": "Роберт Антон Уилсон",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/32121727/",
+        "createdAt": "2018-08-20 17:42:16",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 178
+        }
+    },
     "7o_XhFUcXQ": {
         "id": "7o_XhFUcXQ",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 11
-        }
-    },
-    "-fMJiqJFx9": {
-        "id": "-fMJiqJFx9",
-        "title": "Женское достоинство - сила притяжения мужчин",
-        "author": "Мила Левчук",
-        "notes": "Много спорных моментов для меня, но одно осталось без вопросов - нужно быть женственной до мозга костей. И не забывать любить себя, это так приятно!",
-        "createdAt": "2018-08-12 19:06:02",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 10
         }
     }
 }

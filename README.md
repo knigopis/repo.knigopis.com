@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Новая инквизиция ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/32121727/
+
 *  ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
     > Жизнь - это приключение, а не прогулка. Потому-то это и трудно.
     > Алекс, Сэм, Джоди Дэн, Изобел.
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > Алекс, Сэм, Джоди Дэн, Изобел.
 
 * Тени Бога ~ [Chandravadana](users/105/105866022348292919948-google)<sup>100</sup>
-    > Цикл "Век безумия"
 
 * Империя хаоса ~ [Chandravadana](users/105/105866022348292919948-google)<sup>99</sup>
 
@@ -28,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Буря мечей ~ [Chandravadana](users/105/105866022348292919948-google)<sup>95</sup>
 
-* Битва королей ~ [Chandravadana](users/105/105866022348292919948-google)<sup>94</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>126</sup> 
 [itoolru](users/100/100001578234748-facebook)<sup>1</sup> 
@@ -46,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>70</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup> 
 [govorova.tatia](users/500/500014724-vkontakte)<sup>1</sup> 
 [selivanov](users/104/104491677658529528381-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>8</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [German](users/112/112254248549638795343-google)<sup>28</sup> 
 
 
-_20.08.2018 17:32:24_
+_20.08.2018 17:42:16_
