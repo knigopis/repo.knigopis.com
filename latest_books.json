@@ -1,4 +1,16 @@
 {
+    "WPnrLLUQsb": {
+        "id": "WPnrLLUQsb",
+        "title": "Большой и добрый великан",
+        "author": "Роальд Даль",
+        "notes": "",
+        "createdAt": "2018-08-20 22:39:22",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "foreverobito",
+            "booksCount": 15
+        }
+    },
     "xyMsNB_UAb": {
         "id": "xyMsNB_UAb",
         "title": "Гарри Поттер и философский камень",
@@ -341,18 +353,6 @@
         "author": "Джоан Роулинг",
         "notes": "",
         "createdAt": "2018-08-19 10:09:03",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 100
-        }
-    },
-    "jdPq8KW-Jt": {
-        "id": "jdPq8KW-Jt",
-        "title": "Тени Бога",
-        "author": "Грегори Киз",
-        "notes": "Цикл \"Век безумия\"",
-        "createdAt": "2018-08-19 10:07:48",
         "user": {
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",

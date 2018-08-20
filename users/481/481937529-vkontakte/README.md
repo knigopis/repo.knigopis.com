@@ -1,4 +1,4 @@
-# List of books read by [foreverobito](http://vk.com/id481937529)<sup>14</sup>
+# List of books read by [foreverobito](http://vk.com/id481937529)<sup>15</sup>
 ---
 
 ## 2018
@@ -49,6 +49,10 @@
 
 
 ## 2017
+
+### Большой и добрый великан
+Роальд Даль
+
 
 ### Гарри Поттер и философский камень
 Джоан Роулинг
