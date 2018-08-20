@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>6</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>7</sup>
 ---
 
 ## 2018
+
+### Дом секретов. Столкновение миров
+Крис Коламбус, Нед Виззини, Крис Райландер
+> [2018-08] 
+
 
 ### Вино из одуванчиков
 Рэй Брэдбери

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>7</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Villiriana](users/220/2204910936245631-facebook)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>81</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>119</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>34</sup> 
 [dolphin_e](users/420/42041301-vkontakte)<sup>0</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>6</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>189</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>18</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>663</sup> 
 
 
-_19.08.2018 22:17:12_
+_20.08.2018 10:46:22_

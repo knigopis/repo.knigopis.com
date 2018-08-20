@@ -1,4 +1,16 @@
 {
+    "X4p3POfh9G": {
+        "id": "X4p3POfh9G",
+        "title": "Дом секретов. Столкновение миров",
+        "author": "Крис Коламбус, Нед Виззини, Крис Райландер",
+        "notes": "",
+        "createdAt": "2018-08-20 10:46:21",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 7
+        }
+    },
     "84pHMbpbaR": {
         "id": "84pHMbpbaR",
         "title": "Черный красавчик",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 83
-        }
-    },
-    "l1CyRzlwbs": {
-        "id": "l1CyRzlwbs",
-        "title": "Абсолютный игрок",
-        "author": "Василий Головачев",
-        "notes": "Хроники Реликта",
-        "createdAt": "2018-08-19 09:56:07",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 82
         }
     }
 }
