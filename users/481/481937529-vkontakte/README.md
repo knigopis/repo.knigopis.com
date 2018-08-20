@@ -1,7 +1,11 @@
-# List of books read by [foreverobito](http://vk.com/id481937529)<sup>9</sup>
+# List of books read by [foreverobito](http://vk.com/id481937529)<sup>10</sup>
 ---
 
 ## 2018
+
+### Битва на шпиле ледяной короны
+Мышей
+
 
 ### Путь шамана. Начало пути
 Василий Маханенко
