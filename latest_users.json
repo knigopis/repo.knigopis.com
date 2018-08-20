@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 44,
+        "updatedAt": "2018-08-20 19:42:38"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -28,12 +34,6 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 7,
         "updatedAt": "2018-08-20 10:46:21"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 44,
-        "updatedAt": "2018-08-19 22:17:11"
     },
     "2204910936245631-facebook": {
         "id": "2204910936245631-facebook",
