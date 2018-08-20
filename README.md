@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup> 
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>126</sup> 
 [itoolru](users/100/100001578234748-facebook)<sup>1</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>7</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [German](users/112/112254248549638795343-google)<sup>28</sup> 
 
 
-_20.08.2018 17:32:04_
+_20.08.2018 17:32:24_
