@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
+    > Жизнь - это приключение, а не прогулка. Потому-то это и трудно.
+    > Алекс, Сэм, Джоди Дэн, Изобел.
+
 * Мальчик сделанный из кубиков ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup>
     > Жизнь - это приключение, а не прогулка. Потому-то это и трудно.
     > Алекс, Сэм, Джоди Дэн, Изобел.
@@ -13,7 +17,6 @@ Do not use pull requests to make changes here.
     > Цикл "Век безумия"
 
 * Империя хаоса ~ [Chandravadana](users/105/105866022348292919948-google)<sup>99</sup>
-    > Цикл "Век безумия"
 
 * Исчисление ангелов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>98</sup>
 
@@ -27,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Битва королей ~ [Chandravadana](users/105/105866022348292919948-google)<sup>94</sup>
 
-* Игра престолов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>93</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup> 
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>126</sup> 
 [itoolru](users/100/100001578234748-facebook)<sup>1</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>7</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [German](users/112/112254248549638795343-google)<sup>28</sup> 
 
 
-_20.08.2018 17:30:38_
+_20.08.2018 17:32:04_

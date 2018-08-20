@@ -1,4 +1,16 @@
 {
+    "7o_XhFUcXQ": {
+        "id": "7o_XhFUcXQ",
+        "title": "",
+        "author": "",
+        "notes": "Жизнь - это приключение, а не прогулка. Потому-то это и трудно.\nАлекс, Сэм, Джоди Дэн, Изобел.",
+        "createdAt": "2018-08-20 17:32:03",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 56
+        }
+    },
     "Q3eq8q0_IB": {
         "id": "Q3eq8q0_IB",
         "title": "Мальчик сделанный из кубиков",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 86
-        }
-    },
-    "K3KlJ4ZCe9": {
-        "id": "K3KlJ4ZCe9",
-        "title": "Турнир",
-        "author": "Денис Юрин",
-        "notes": "",
-        "createdAt": "2018-08-19 09:59:37",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 85
         }
     }
 }

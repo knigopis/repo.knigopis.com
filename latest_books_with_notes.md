@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
 * Мальчик сделанный из кубиков ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup>
 * Тени Бога ~ [Chandravadana](users/105/105866022348292919948-google)<sup>100</sup>
 * Империя хаоса ~ [Chandravadana](users/105/105866022348292919948-google)<sup>99</sup>
@@ -30,7 +31,6 @@
 * Бог-скорпион. Клонк-клонк. Чрезвычайный посол (сборник) ~ [violet_velva](users/116/116961712580551399099-google)<sup>12</sup>
 * Коллекционер ~ [violet_velva](users/116/116961712580551399099-google)<sup>11</sup>
 * Женское достоинство - сила притяжения мужчин ~ [violet_velva](users/116/116961712580551399099-google)<sup>10</sup>
-* Stories ~ [violet_velva](users/116/116961712580551399099-google)<sup>9</sup>
 
 
-_20.08.2018 17:30:38_
+_20.08.2018 17:32:04_
