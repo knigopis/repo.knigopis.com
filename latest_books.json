@@ -1,4 +1,16 @@
 {
+    "qKM_H8miBf": {
+        "id": "qKM_H8miBf",
+        "title": "Семь языков бога",
+        "author": "Тимоти Лири",
+        "notes": "",
+        "createdAt": "2018-08-20 22:29:46",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "foreverobito",
+            "booksCount": 12
+        }
+    },
     "ntVil8tYJc": {
         "id": "ntVil8tYJc",
         "title": "Дао Хаоса",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 98
-        }
-    },
-    "q2LX6VblEL": {
-        "id": "q2LX6VblEL",
-        "title": "Пушка Ньютона",
-        "author": "Грегори Киз",
-        "notes": "Цикл \"Век безумия\"",
-        "createdAt": "2018-08-19 10:06:25",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 97
         }
     }
 }
