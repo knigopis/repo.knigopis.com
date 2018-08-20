@@ -1,4 +1,4 @@
-# List of books read by [foreverobito](http://vk.com/id481937529)<sup>12</sup>
+# List of books read by [foreverobito](http://vk.com/id481937529)<sup>13</sup>
 ---
 
 ## 2018
@@ -49,6 +49,10 @@
 
 
 ## 2017
+
+### Области тьмы
+Алан Глинн
+
 
 ### Дарт Пейн. Путь разрушения
 Дрю Карпишин

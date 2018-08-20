@@ -1,4 +1,16 @@
 {
+    "ltxiQx6Uap": {
+        "id": "ltxiQx6Uap",
+        "title": "Области тьмы",
+        "author": "Алан Глинн",
+        "notes": "",
+        "createdAt": "2018-08-20 22:36:12",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "foreverobito",
+            "booksCount": 13
+        }
+    },
     "qKM_H8miBf": {
         "id": "qKM_H8miBf",
         "title": "Семь языков бога",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 99
-        }
-    },
-    "a2GCZBt00I": {
-        "id": "a2GCZBt00I",
-        "title": "Исчисление ангелов",
-        "author": "Грегори Киз",
-        "notes": "Цикл \"Век безумия\"",
-        "createdAt": "2018-08-19 10:06:51",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 98
         }
     }
 }
