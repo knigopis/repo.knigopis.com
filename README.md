@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[foreverobito](users/481/481937529-vkontakte)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>28</sup> 
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>1</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>25</sup> 
-[German](users/112/112254248549638795343-google)<sup>28</sup> 
 
 
-_20.08.2018 19:49:58_
+_20.08.2018 22:16:48_
