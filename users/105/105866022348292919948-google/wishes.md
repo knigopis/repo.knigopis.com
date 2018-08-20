@@ -1,6 +1,9 @@
 # Wish list of books by [Chandravadana](https://plus.google.com/105866022348292919948)
 ---
 
+### `70` Горменгаст
+Мервин Пик
+
 ### `50` Средний пол
 Джеффри Евгенидис
 
