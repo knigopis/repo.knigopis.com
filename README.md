@@ -37,12 +37,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>44</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>126</sup> 
 [itoolru](users/100/100001578234748-facebook)<sup>1</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>7</sup> 
-[me](users/381/381417697-yandex)<sup>44</sup> 
 [Villiriana](users/220/2204910936245631-facebook)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>81</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>105</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [German](users/112/112254248549638795343-google)<sup>28</sup> 
 
 
-_20.08.2018 17:42:16_
+_20.08.2018 19:42:46_
