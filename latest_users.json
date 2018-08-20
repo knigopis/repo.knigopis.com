@@ -1,4 +1,10 @@
 {
+    "64251996-vkontakte": {
+        "id": "64251996-vkontakte",
+        "nickname": "~ARHANGEL~",
+        "booksCount": 55,
+        "updatedAt": "2018-08-20 17:30:38"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -172,11 +178,5 @@
         "nickname": "German",
         "booksCount": 28,
         "updatedAt": "2018-08-13 06:01:40"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 322,
-        "updatedAt": "2018-08-13 04:57:37"
     }
 }

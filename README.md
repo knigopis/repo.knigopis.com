@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мальчик сделанный из кубиков ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup>
+    > Жизнь - это приключение, а не прогулка. Потому-то это и трудно.
+    > Алекс, Сэм, Джоди Дэн, Изобел.
+
 * Тени Бога ~ [Chandravadana](users/105/105866022348292919948-google)<sup>100</sup>
     > Цикл "Век безумия"
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Цикл "Век безумия"
 
 * Исчисление ангелов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>98</sup>
-    > Цикл "Век безумия"
 
 * Пушка Ньютона ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Игра престолов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>93</sup>
 
-* Мегаморф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>83</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>126</sup> 
 [itoolru](users/100/100001578234748-facebook)<sup>1</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>7</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>1</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>25</sup> 
 [German](users/112/112254248549638795343-google)<sup>28</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>322</sup> 
 
 
-_20.08.2018 12:21:19_
+_20.08.2018 17:30:38_

@@ -1,4 +1,16 @@
 {
+    "Q3eq8q0_IB": {
+        "id": "Q3eq8q0_IB",
+        "title": "Мальчик сделанный из кубиков",
+        "author": "Стюарт Кит",
+        "notes": "Жизнь - это приключение, а не прогулка. Потому-то это и трудно.\nАлекс, Сэм, Джоди Дэн, Изобел.",
+        "createdAt": "2018-08-20 17:30:38",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 55
+        }
+    },
     "UpUYc0TMKF": {
         "id": "UpUYc0TMKF",
         "title": "Пандемия",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 85
-        }
-    },
-    "vv4bMS8ziV": {
-        "id": "vv4bMS8ziV",
-        "title": "Воскрешение",
-        "author": "Денис Юрин",
-        "notes": "",
-        "createdAt": "2018-08-19 09:59:16",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 84
         }
     }
 }
