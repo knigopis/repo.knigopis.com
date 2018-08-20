@@ -1,4 +1,16 @@
 {
+    "kYskhyJVZt": {
+        "id": "kYskhyJVZt",
+        "title": "Гробница Саргераса",
+        "author": "Брукс Роберт",
+        "notes": "",
+        "createdAt": "2018-08-20 22:26:43",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "foreverobito",
+            "booksCount": 8
+        }
+    },
     "VB7-V6vLsV": {
         "id": "VB7-V6vLsV",
         "title": "Тысяча лет войны",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 95
-        }
-    },
-    "NvNkdduuW2": {
-        "id": "NvNkdduuW2",
-        "title": "Битва королей",
-        "author": "Джордж Мартин",
-        "notes": "Цикл \"Песнь льда и огня\"",
-        "createdAt": "2018-08-19 10:03:55",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 94
         }
     }
 }
