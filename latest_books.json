@@ -1,4 +1,16 @@
 {
+    "ntVil8tYJc": {
+        "id": "ntVil8tYJc",
+        "title": "Дао Хаоса",
+        "author": "Стефен Валински",
+        "notes": "",
+        "createdAt": "2018-08-20 22:28:34",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "foreverobito",
+            "booksCount": 11
+        }
+    },
     "BUZ50pSCFJ": {
         "id": "BUZ50pSCFJ",
         "title": "Битва на шпиле ледяной короны",
@@ -341,18 +353,6 @@
         "author": "Грегори Киз",
         "notes": "Цикл \"Век безумия\"",
         "createdAt": "2018-08-19 10:06:25",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 97
-        }
-    },
-    "QnCsvMn0zP": {
-        "id": "QnCsvMn0zP",
-        "title": "Танец с драконами",
-        "author": "Джордж Мартин",
-        "notes": "Цикл \"Песнь льда и огня\"",
-        "createdAt": "2018-08-19 10:05:11",
         "user": {
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",

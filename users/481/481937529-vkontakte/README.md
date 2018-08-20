@@ -1,7 +1,11 @@
-# List of books read by [foreverobito](http://vk.com/id481937529)<sup>10</sup>
+# List of books read by [foreverobito](http://vk.com/id481937529)<sup>11</sup>
 ---
 
 ## 2018
+
+### Дао Хаоса
+Стефен Валински
+
 
 ### Битва на шпиле ледяной короны
 Мышей
