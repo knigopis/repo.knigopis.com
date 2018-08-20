@@ -1,4 +1,16 @@
 {
+    "dZs68aMLX5": {
+        "id": "dZs68aMLX5",
+        "title": "Путь шамана. Начало пути",
+        "author": "Василий Маханенко",
+        "notes": "",
+        "createdAt": "2018-08-20 22:27:23",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "foreverobito",
+            "booksCount": 9
+        }
+    },
     "kYskhyJVZt": {
         "id": "kYskhyJVZt",
         "title": "Гробница Саргераса",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 96
-        }
-    },
-    "wP3kB8tgTR": {
-        "id": "wP3kB8tgTR",
-        "title": "Буря мечей",
-        "author": "Джордж Мартин",
-        "notes": "Цикл \"Песнь льда и огня\"",
-        "createdAt": "2018-08-19 10:04:22",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 95
         }
     }
 }

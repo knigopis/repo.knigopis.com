@@ -1,7 +1,11 @@
-# List of books read by [foreverobito](http://vk.com/id481937529)<sup>8</sup>
+# List of books read by [foreverobito](http://vk.com/id481937529)<sup>9</sup>
 ---
 
 ## 2018
+
+### Путь шамана. Начало пути
+Василий Маханенко
+
 
 ### Гробница Саргераса
 Брукс Роберт
