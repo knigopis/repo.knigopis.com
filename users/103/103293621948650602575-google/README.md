@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>125</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>126</sup>
 ---
 
 ## 2018
+
+### Пандемия
+Франк Тилье
+> [2018-08-20] 
+
 
 ### Before he Kills
 Blake Pierce
