@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 8,
+        "updatedAt": "2018-08-21 10:21:01"
+    },
     "113571576628170899835-google": {
         "id": "113571576628170899835-google",
         "nickname": "severnyy_olen",
@@ -40,12 +46,6 @@
         "nickname": "itoolru",
         "booksCount": 1,
         "updatedAt": "2018-08-20 12:11:29"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 7,
-        "updatedAt": "2018-08-20 10:46:21"
     },
     "2204910936245631-facebook": {
         "id": "2204910936245631-facebook",

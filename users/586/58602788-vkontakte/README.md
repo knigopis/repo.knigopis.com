@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>7</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>8</sup>
 ---
 
 ## 2018
+
+### Сон в летнюю ночь (A Midsummer Night's Dream)
+Уильям Шекспир
+> [2018-08] Ад бывает раем, коль от руки любимой умираем.
+
 
 ### Дом секретов. Столкновение миров
 Крис Коламбус, Нед Виззини, Крис Райландер

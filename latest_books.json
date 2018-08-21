@@ -1,4 +1,16 @@
 {
+    "eCOqAp2Aui": {
+        "id": "eCOqAp2Aui",
+        "title": "Сон в летнюю ночь (A Midsummer Night's Dream)",
+        "author": "Уильям Шекспир",
+        "notes": "Ад бывает раем, коль от руки любимой умираем.",
+        "createdAt": "2018-08-21 10:21:01",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 8
+        }
+    },
     "KtqyUxgW_L": {
         "id": "KtqyUxgW_L",
         "title": "Боги среди людей",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 103
-        }
-    },
-    "WHIUieA9UY": {
-        "id": "WHIUieA9UY",
-        "title": "Гарри Поттер и узник Азкабана",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2018-08-19 10:09:35",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 102
         }
     }
 }
