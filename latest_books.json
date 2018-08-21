@@ -1,4 +1,16 @@
 {
+    "KtqyUxgW_L": {
+        "id": "KtqyUxgW_L",
+        "title": "Боги среди людей",
+        "author": "Кейт Аткинсон",
+        "notes": "",
+        "createdAt": "2018-08-21 09:12:03",
+        "user": {
+            "id": "113571576628170899835-google",
+            "nickname": "severnyy_olen",
+            "booksCount": 1
+        }
+    },
     "r2rwQE6nmk": {
         "id": "r2rwQE6nmk",
         "title": "Зеленая миля",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 102
-        }
-    },
-    "7uulwjg_M3": {
-        "id": "7uulwjg_M3",
-        "title": "Гарри Поттер и Тайная комната",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2018-08-19 10:09:20",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 101
         }
     }
 }
