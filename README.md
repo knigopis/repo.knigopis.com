@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ionian.wind](users/144/144458-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>323</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>8</sup> 
 [severnyy_olen](users/113/113571576628170899835-google)<sup>1</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>30</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>55</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>28</sup> 
 
 
-_21.08.2018 10:34:02_
+_21.08.2018 20:19:08_
