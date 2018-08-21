@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 323,
+        "updatedAt": "2018-08-21 10:34:01"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": "le_brouillard",
         "booksCount": 28,
         "updatedAt": "2018-08-13 16:41:38"
-    },
-    "22376066-vkontakte": {
-        "id": "22376066-vkontakte",
-        "nickname": "anyutka_kozlova92",
-        "booksCount": 1,
-        "updatedAt": "2018-08-13 13:22:01"
     }
 }

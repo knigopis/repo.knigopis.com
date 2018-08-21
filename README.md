@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>323</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>8</sup> 
 [severnyy_olen](users/113/113571576628170899835-google)<sup>1</sup> 
 [foreverobito](users/481/481937529-vkontakte)<sup>16</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>30</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>55</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>28</sup> 
-[anyutka_kozlova92](users/223/22376066-vkontakte)<sup>1</sup> 
 
 
-_21.08.2018 10:21:01_
+_21.08.2018 10:34:02_
