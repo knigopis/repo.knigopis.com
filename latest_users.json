@@ -1,4 +1,10 @@
 {
+    "57062183-vkontakte": {
+        "id": "57062183-vkontakte",
+        "nickname": "syringa",
+        "booksCount": 0,
+        "updatedAt": "2018-08-22 11:58:42"
+    },
     "144458-vkontakte": {
         "id": "144458-vkontakte",
         "nickname": "ionian.wind",
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 30,
         "updatedAt": "2018-08-14 17:44:10"
-    },
-    "170278332-vkontakte": {
-        "id": "170278332-vkontakte",
-        "nickname": "AlexeyNovikov",
-        "booksCount": 55,
-        "updatedAt": "2018-08-14 04:37:59"
     }
 }
