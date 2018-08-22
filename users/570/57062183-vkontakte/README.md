@@ -1,7 +1,11 @@
-# List of books read by [syringa](http://vk.com/id57062183)<sup>6</sup>
+# List of books read by [syringa](http://vk.com/id57062183)<sup>7</sup>
 ---
 
 ## 2016
+
+### Эмансипированные женщины
+Болеслав Прус
+
 
 ### Жизнь некрасивой женщины
 Екатерина Мещерская

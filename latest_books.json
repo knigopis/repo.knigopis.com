@@ -1,4 +1,16 @@
 {
+    "WyKUlsc2dN": {
+        "id": "WyKUlsc2dN",
+        "title": "Эмансипированные женщины",
+        "author": "Болеслав Прус",
+        "notes": "",
+        "createdAt": "2018-08-22 12:04:37",
+        "user": {
+            "id": "57062183-vkontakte",
+            "nickname": "syringa",
+            "booksCount": 7
+        }
+    },
     "hsW-eX7Auq": {
         "id": "hsW-eX7Auq",
         "title": "Жизнь некрасивой женщины",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 126
-        }
-    },
-    "uGw9J5hl9w": {
-        "id": "uGw9J5hl9w",
-        "title": "Игры, в которые играют люди",
-        "author": "Эрик Берн",
-        "notes": "",
-        "createdAt": "2018-08-20 12:11:29",
-        "user": {
-            "id": "100001578234748-facebook",
-            "nickname": "itoolru",
-            "booksCount": 1
         }
     }
 }
