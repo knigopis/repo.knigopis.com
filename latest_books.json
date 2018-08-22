@@ -1,4 +1,16 @@
 {
+    "oJq5MdOv1_": {
+        "id": "oJq5MdOv1_",
+        "title": "Замок Броуди",
+        "author": "Арчибальд Кронин",
+        "notes": "",
+        "createdAt": "2018-08-22 12:03:02",
+        "user": {
+            "id": "57062183-vkontakte",
+            "nickname": "syringa",
+            "booksCount": 4
+        }
+    },
     "3DzZ4PXH88": {
         "id": "3DzZ4PXH88",
         "title": "Вальс на прощание",
@@ -345,18 +357,6 @@
             "id": "2204910936245631-facebook",
             "nickname": "Villiriana",
             "booksCount": 1
-        }
-    },
-    "EjAGmZzXfr": {
-        "id": "EjAGmZzXfr",
-        "title": "Зимняя дорога. Генерал А. Н. Пепеляев и анархист И. Я. Строд в Якутии. 1922–1923",
-        "author": "Юзефович Леонид",
-        "notes": "",
-        "createdAt": "2018-08-19 12:11:45",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 81
         }
     }
 }
