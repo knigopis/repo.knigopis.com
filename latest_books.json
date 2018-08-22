@@ -1,4 +1,16 @@
 {
+    "7yM0o2EahB": {
+        "id": "7yM0o2EahB",
+        "title": "Большие надежды",
+        "author": "Чарльз Диккенс",
+        "notes": "",
+        "createdAt": "2018-08-22 12:01:55",
+        "user": {
+            "id": "57062183-vkontakte",
+            "nickname": "syringa",
+            "booksCount": 2
+        }
+    },
     "whHNALmoYn": {
         "id": "whHNALmoYn",
         "title": "Сыновья и любовники",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 106
-        }
-    },
-    "oYt6VsPe-3": {
-        "id": "oYt6VsPe-3",
-        "title": "Гарри Поттер и Принц-полукровка",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2018-08-19 10:10:23",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 105
         }
     }
 }
