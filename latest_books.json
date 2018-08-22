@@ -1,4 +1,16 @@
 {
+    "cfkdfusQqo": {
+        "id": "cfkdfusQqo",
+        "title": "Выбор Софи",
+        "author": "Уильям Стайрон",
+        "notes": "",
+        "createdAt": "2018-08-22 12:09:09",
+        "user": {
+            "id": "57062183-vkontakte",
+            "nickname": "syringa",
+            "booksCount": 12
+        }
+    },
     "bAdvbgL1OZ": {
         "id": "bAdvbgL1OZ",
         "title": "Цвет пурпурный",
@@ -345,18 +357,6 @@
             "id": "481937529-vkontakte",
             "nickname": "foreverobito",
             "booksCount": 2
-        }
-    },
-    "0agjfJAkWd": {
-        "id": "0agjfJAkWd",
-        "title": "Иллидан. Ярость Бури",
-        "author": "Кинг Уильям",
-        "notes": "",
-        "createdAt": "2018-08-20 22:18:19",
-        "user": {
-            "id": "481937529-vkontakte",
-            "nickname": "foreverobito",
-            "booksCount": 1
         }
     }
 }

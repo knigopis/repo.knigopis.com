@@ -1,7 +1,11 @@
-# List of books read by [syringa](http://vk.com/id57062183)<sup>11</sup>
+# List of books read by [syringa](http://vk.com/id57062183)<sup>12</sup>
 ---
 
 ## 2016
+
+### Выбор Софи
+Уильям Стайрон
+
 
 ### Цвет пурпурный
 Элис Уокер
