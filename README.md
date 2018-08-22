@@ -5,6 +5,15 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рассказы, упомянутые в "Эшер II" Рэя Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
+    > Падение дома Ашеров (The Fall of the House of Usher)
+    > Маска Красной Смерти (The Masque of the Red Death)
+    > Сердце-обличитель (The Tell-Tale Heart)
+    > Убийство на улице Морг (The Murders in the Rue Morgue)
+    > Колодец и маятник (The Pit and the Pendulum)
+    > Преждевременное погребение (The Premature Burial)
+    > Бочонок амонтильядо (The Cask of Amontillado)
+
 * Новая инквизиция ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup>
     > в процессе
     > 
@@ -15,8 +24,6 @@ Do not use pull requests to make changes here.
     > Алекс, Сэм, Джоди Дэн, Изобел.
 
 * Мальчик сделанный из кубиков ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup>
-    > Жизнь - это приключение, а не прогулка. Потому-то это и трудно.
-    > Алекс, Сэм, Джоди Дэн, Изобел.
 
 * Тени Бога ~ [Chandravadana](users/105/105866022348292919948-google)<sup>100</sup>
 
@@ -30,20 +37,18 @@ Do not use pull requests to make changes here.
 
 * Пир стервятников ~ [Chandravadana](users/105/105866022348292919948-google)<sup>96</sup>
 
-* Буря мечей ~ [Chandravadana](users/105/105866022348292919948-google)<sup>95</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup> 
 [A_lex_S](users/104/104452088751111617579-google)<sup>0</sup> 
 [goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>102</sup> 
 [syringa](users/570/57062183-vkontakte)<sup>13</sup> 
 [ionian.wind](users/144/144458-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>323</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>8</sup> 
 [severnyy_olen](users/113/113571576628170899835-google)<sup>1</sup> 
 [foreverobito](users/481/481937529-vkontakte)<sup>16</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
@@ -69,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [DgeMer](users/100/100222681156940260683-google)<sup>0</sup> 
 
 
-_22.08.2018 17:54:32_
+_22.08.2018 20:21:36_

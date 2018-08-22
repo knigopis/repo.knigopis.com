@@ -1,4 +1,16 @@
 {
+    "8m_BSRqc95": {
+        "id": "8m_BSRqc95",
+        "title": "Рассказы, упомянутые в \"Эшер II\" Рэя Брэдбери",
+        "author": "Эдгар Аллан По",
+        "notes": "Падение дома Ашеров (The Fall of the House of Usher)\nМаска Красной Смерти (The Masque of the Red Death)\nСердце-обличитель (The Tell-Tale Heart)\nУбийство на улице Морг (The Murders in the Rue Morgue)\nКолодец и маятник (The Pit and the Pendulum)\nПреждевременное погребение (The Premature Burial)\nБочонок амонтильядо (The Cask of Amontillado)",
+        "createdAt": "2018-08-22 20:21:36",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 10
+        }
+    },
     "jzsHGuUD7R": {
         "id": "jzsHGuUD7R",
         "title": "Сага о живых кораблях (1) Волшебный корабль",
@@ -345,18 +357,6 @@
             "id": "481937529-vkontakte",
             "nickname": "foreverobito",
             "booksCount": 5
-        }
-    },
-    "MrxLek3FMY": {
-        "id": "MrxLek3FMY",
-        "title": "Дарт Пейн. Путь разрушения",
-        "author": "Дрю Карпишин",
-        "notes": "",
-        "createdAt": "2018-08-20 22:20:25",
-        "user": {
-            "id": "481937529-vkontakte",
-            "nickname": "foreverobito",
-            "booksCount": 4
         }
     }
 }

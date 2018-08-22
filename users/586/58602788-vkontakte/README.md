@@ -1,7 +1,29 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>8</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>10</sup>
 ---
 
 ## 2018
+
+### Рассказы, упомянутые в "Август 2005. Эшер II" Рэя Брэдбери
+Эдгар Аллан По
+> [2018-08] Падение дома Ашеров (The Fall of the House of Usher)
+> Маска Красной Смерти (The Masque of the Red Death)
+> Сердце-обличитель (The Tell-Tale Heart)
+> Убийство на улице Морг (The Murders in the Rue Morgue)
+> Колодец и маятник (The Pit and the Pendulum)
+> Преждевременное погребение (The Premature Burial)
+> Бочонок амонтильядо (The Cask of Amontillado)
+
+
+### Рассказы, упомянутые в "Эшер II" Рэя Брэдбери
+Эдгар Аллан По
+> [2018-08] Падение дома Ашеров (The Fall of the House of Usher)
+> Маска Красной Смерти (The Masque of the Red Death)
+> Сердце-обличитель (The Tell-Tale Heart)
+> Убийство на улице Морг (The Murders in the Rue Morgue)
+> Колодец и маятник (The Pit and the Pendulum)
+> Преждевременное погребение (The Premature Burial)
+> Бочонок амонтильядо (The Cask of Amontillado)
+
 
 ### Сон в летнюю ночь (A Midsummer Night's Dream)
 Уильям Шекспир
