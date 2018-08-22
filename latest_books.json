@@ -1,4 +1,16 @@
 {
+    "bAdvbgL1OZ": {
+        "id": "bAdvbgL1OZ",
+        "title": "Цвет пурпурный",
+        "author": "Элис Уокер",
+        "notes": "",
+        "createdAt": "2018-08-22 12:08:42",
+        "user": {
+            "id": "57062183-vkontakte",
+            "nickname": "syringa",
+            "booksCount": 11
+        }
+    },
     "4w7UnE4uTx": {
         "id": "4w7UnE4uTx",
         "title": "Отверженные",
@@ -345,18 +357,6 @@
             "id": "481937529-vkontakte",
             "nickname": "foreverobito",
             "booksCount": 1
-        }
-    },
-    "sp_csjgKlk": {
-        "id": "sp_csjgKlk",
-        "title": "Новая инквизиция",
-        "author": "Роберт Антон Уилсон",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/32121727/",
-        "createdAt": "2018-08-20 17:42:16",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 178
         }
     }
 }
