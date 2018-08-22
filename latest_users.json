@@ -1,4 +1,10 @@
 {
+    "113297173414505455315-google": {
+        "id": "113297173414505455315-google",
+        "nickname": "goodangrybro",
+        "booksCount": 0,
+        "updatedAt": "2018-08-22 17:19:23"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "ann.rouls",
         "booksCount": 0,
         "updatedAt": "2018-08-15 07:46:17"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 90,
-        "updatedAt": "2018-08-15 07:10:32"
     }
 }
