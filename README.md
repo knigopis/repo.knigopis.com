@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>102</sup> 
 [syringa](users/570/57062183-vkontakte)<sup>13</sup> 
 [ionian.wind](users/144/144458-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>323</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [DgeMer](users/100/100222681156940260683-google)<sup>0</sup> 
 [ann.rouls](users/356/356097243-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>30</sup> 
 
 
-_22.08.2018 12:10:54_
+_22.08.2018 16:28:28_

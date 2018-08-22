@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>101</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>102</sup>
 ---
 
 ## 2018
+
+### Сага о живых кораблях (1) Волшебный корабль
+Робин Хобб
+> [2018-08-17] 
+
 
 ### Дневник книготорговца
 Шон Байтелл
