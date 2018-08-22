@@ -42,7 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup> 
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>9</sup> 
 [A_lex_S](users/104/104452088751111617579-google)<sup>0</sup> 
 [goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>102</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [DgeMer](users/100/100222681156940260683-google)<sup>0</sup> 
 
 
-_22.08.2018 20:21:36_
+_22.08.2018 20:23:09_
