@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[A_lex_S](users/104/104452088751111617579-google)<sup>0</sup> 
 [goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>102</sup> 
 [syringa](users/570/57062183-vkontakte)<sup>13</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>18</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 [DgeMer](users/100/100222681156940260683-google)<sup>0</sup> 
-[ann.rouls](users/356/356097243-vkontakte)<sup>0</sup> 
 
 
-_22.08.2018 17:19:26_
+_22.08.2018 17:54:32_
