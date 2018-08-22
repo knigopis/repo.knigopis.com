@@ -1,4 +1,16 @@
 {
+    "4w7UnE4uTx": {
+        "id": "4w7UnE4uTx",
+        "title": "Отверженные",
+        "author": "Виктор Гюго",
+        "notes": "",
+        "createdAt": "2018-08-22 12:08:11",
+        "user": {
+            "id": "57062183-vkontakte",
+            "nickname": "syringa",
+            "booksCount": 10
+        }
+    },
     "P_VRi5gi6_": {
         "id": "P_VRi5gi6_",
         "title": "Обрыв",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 178
-        }
-    },
-    "7o_XhFUcXQ": {
-        "id": "7o_XhFUcXQ",
-        "title": "",
-        "author": "",
-        "notes": "Жизнь - это приключение, а не прогулка. Потому-то это и трудно.\nАлекс, Сэм, Джоди Дэн, Изобел.",
-        "createdAt": "2018-08-20 17:32:03",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 56
         }
     }
 }
