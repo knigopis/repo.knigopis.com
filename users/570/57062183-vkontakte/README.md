@@ -1,7 +1,11 @@
-# List of books read by [syringa](http://vk.com/id57062183)<sup>12</sup>
+# List of books read by [syringa](http://vk.com/id57062183)<sup>13</sup>
 ---
 
 ## 2016
+
+### Двое из 20 миллионов
+Алексей Каплер
+
 
 ### Выбор Софи
 Уильям Стайрон
