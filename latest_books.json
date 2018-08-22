@@ -1,4 +1,16 @@
 {
+    "whHNALmoYn": {
+        "id": "whHNALmoYn",
+        "title": "Сыновья и любовники",
+        "author": "Дэвид Лоуренс",
+        "notes": "",
+        "createdAt": "2018-08-22 12:00:58",
+        "user": {
+            "id": "57062183-vkontakte",
+            "nickname": "syringa",
+            "booksCount": 1
+        }
+    },
     "KDL46ea3Lm": {
         "id": "KDL46ea3Lm",
         "title": "t",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 105
-        }
-    },
-    "68I98iFt4c": {
-        "id": "68I98iFt4c",
-        "title": "Гарри Поттер и Орден Феникса",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2018-08-19 10:10:08",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 104
         }
     }
 }
