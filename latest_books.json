@@ -1,4 +1,16 @@
 {
+    "XIeihskBIf": {
+        "id": "XIeihskBIf",
+        "title": "Кандидат на выбраковку",
+        "author": "Антон Борисов",
+        "notes": "",
+        "createdAt": "2018-08-22 12:05:11",
+        "user": {
+            "id": "57062183-vkontakte",
+            "nickname": "syringa",
+            "booksCount": 8
+        }
+    },
     "WyKUlsc2dN": {
         "id": "WyKUlsc2dN",
         "title": "Эмансипированные женщины",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 55
-        }
-    },
-    "UpUYc0TMKF": {
-        "id": "UpUYc0TMKF",
-        "title": "Пандемия",
-        "author": "Франк Тилье",
-        "notes": "",
-        "createdAt": "2018-08-20 12:21:19",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 126
         }
     }
 }

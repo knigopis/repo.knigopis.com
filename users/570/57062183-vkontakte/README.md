@@ -1,7 +1,11 @@
-# List of books read by [syringa](http://vk.com/id57062183)<sup>7</sup>
+# List of books read by [syringa](http://vk.com/id57062183)<sup>8</sup>
 ---
 
 ## 2016
+
+### Кандидат на выбраковку
+Антон Борисов
+
 
 ### Эмансипированные женщины
 Болеслав Прус
