@@ -1,7 +1,11 @@
-# List of books read by [syringa](http://vk.com/id57062183)<sup>4</sup>
+# List of books read by [syringa](http://vk.com/id57062183)<sup>5</sup>
 ---
 
 ## 2016
+
+### Хладнокровное убийство
+Трумен Капоте
+
 
 ### Замок Броуди
 Арчибальд Кронин
