@@ -1,4 +1,16 @@
 {
+    "hsW-eX7Auq": {
+        "id": "hsW-eX7Auq",
+        "title": "Жизнь некрасивой женщины",
+        "author": "Екатерина Мещерская",
+        "notes": "",
+        "createdAt": "2018-08-22 12:04:00",
+        "user": {
+            "id": "57062183-vkontakte",
+            "nickname": "syringa",
+            "booksCount": 6
+        }
+    },
     "0-2zehkFTv": {
         "id": "0-2zehkFTv",
         "title": "Хладнокровное убийство",
@@ -345,18 +357,6 @@
             "id": "100001578234748-facebook",
             "nickname": "itoolru",
             "booksCount": 1
-        }
-    },
-    "X4p3POfh9G": {
-        "id": "X4p3POfh9G",
-        "title": "Дом секретов. Столкновение миров",
-        "author": "Крис Коламбус, Нед Виззини, Крис Райландер",
-        "notes": "",
-        "createdAt": "2018-08-20 10:46:21",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 7
         }
     }
 }

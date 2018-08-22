@@ -1,7 +1,11 @@
-# List of books read by [syringa](http://vk.com/id57062183)<sup>5</sup>
+# List of books read by [syringa](http://vk.com/id57062183)<sup>6</sup>
 ---
 
 ## 2016
+
+### Жизнь некрасивой женщины
+Екатерина Мещерская
+
 
 ### Хладнокровное убийство
 Трумен Капоте
