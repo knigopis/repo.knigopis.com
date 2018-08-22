@@ -1,4 +1,16 @@
 {
+    "P_VRi5gi6_": {
+        "id": "P_VRi5gi6_",
+        "title": "Обрыв",
+        "author": "Иван Гончаров",
+        "notes": "",
+        "createdAt": "2018-08-22 12:07:52",
+        "user": {
+            "id": "57062183-vkontakte",
+            "nickname": "syringa",
+            "booksCount": 9
+        }
+    },
     "XIeihskBIf": {
         "id": "XIeihskBIf",
         "title": "Кандидат на выбраковку",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 56
-        }
-    },
-    "Q3eq8q0_IB": {
-        "id": "Q3eq8q0_IB",
-        "title": "Мальчик сделанный из кубиков",
-        "author": "Стюарт Кит",
-        "notes": "Жизнь - это приключение, а не прогулка. Потому-то это и трудно.\nАлекс, Сэм, Джоди Дэн, Изобел.",
-        "createdAt": "2018-08-20 17:30:38",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 55
         }
     }
 }
