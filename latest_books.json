@@ -1,4 +1,16 @@
 {
+    "3DzZ4PXH88": {
+        "id": "3DzZ4PXH88",
+        "title": "Вальс на прощание",
+        "author": "Милан Кундера",
+        "notes": "",
+        "createdAt": "2018-08-22 12:02:35",
+        "user": {
+            "id": "57062183-vkontakte",
+            "nickname": "syringa",
+            "booksCount": 3
+        }
+    },
     "7yM0o2EahB": {
         "id": "7yM0o2EahB",
         "title": "Большие надежды",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 81
-        }
-    },
-    "9POe4qM7yV": {
-        "id": "9POe4qM7yV",
-        "title": "Гарри Поттер и Дары Смерти",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2018-08-19 10:10:35",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 106
         }
     }
 }
