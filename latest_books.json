@@ -1,4 +1,16 @@
 {
+    "z33idH8t_B": {
+        "id": "z33idH8t_B",
+        "title": "Пес, бегущий краем моря",
+        "author": "Чингиз Айтматов",
+        "notes": "",
+        "createdAt": "2018-08-23 10:29:32",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 32
+        }
+    },
     "ebh6382hBs": {
         "id": "ebh6382hBs",
         "title": "Белый пароход",
@@ -345,18 +357,6 @@
             "id": "57062183-vkontakte",
             "nickname": "syringa",
             "booksCount": 5
-        }
-    },
-    "oJq5MdOv1_": {
-        "id": "oJq5MdOv1_",
-        "title": "Замок Броуди",
-        "author": "Арчибальд Кронин",
-        "notes": "",
-        "createdAt": "2018-08-22 12:03:02",
-        "user": {
-            "id": "57062183-vkontakte",
-            "nickname": "syringa",
-            "booksCount": 4
         }
     }
 }

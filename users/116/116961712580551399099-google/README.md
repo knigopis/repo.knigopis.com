@@ -1,4 +1,4 @@
-# List of books read by violet_velva<sup>31</sup>
+# List of books read by violet_velva<sup>32</sup>
 ---
 
 ## 2018
@@ -76,6 +76,11 @@ Doris Lessing
 
 
 ## 2017
+
+### Пес, бегущий краем моря
+Чингиз Айтматов
+> [2017-11] 
+
 
 ### Белый пароход
 Чингиз Айтматов
