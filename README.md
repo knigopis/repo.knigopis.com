@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Vita Nostra ~ [Chiffi](users/105/105831994080785626680-google)<sup>71</sup>
+    > интересно, завораживающе, но непонятно))) Интересно , а я - слово или нет?
+
 * Над кукушкиным гнездом ~ [violet_velva](users/116/116961712580551399099-google)<sup>44</sup>
     > Отличное произведение. Герои очень яркие и интересные. Вложена очень глубокая идея в книгу. Герои вызывают много эмоций.
 
@@ -16,13 +19,6 @@ Do not use pull requests to make changes here.
     > L'Enfant fantôme
 
 * Рассказы, упомянутые в "Эшер II" Рэя Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
-    > Падение дома Ашеров (The Fall of the House of Usher)
-    > Маска Красной Смерти (The Masque of the Red Death)
-    > Сердце-обличитель (The Tell-Tale Heart)
-    > Убийство на улице Морг (The Murders in the Rue Morgue)
-    > Колодец и маятник (The Pit and the Pendulum)
-    > Преждевременное погребение (The Premature Burial)
-    > Бочонок амонтильядо (The Cask of Amontillado)
 
 * Новая инквизиция ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup>
 
@@ -36,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Исчисление ангелов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>98</sup>
 
-* Пушка Ньютона ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 [Илья](users/116/116129929397924954448-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>44</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>9</sup> 
@@ -63,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>81</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>105</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>70</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
 [govorova.tatia](users/500/500014724-vkontakte)<sup>1</sup> 
 [selivanov](users/104/104491677658529528381-google)<sup>0</sup> 
@@ -75,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>18</sup> 
 
 
-_23.08.2018 13:01:16_
+_23.08.2018 16:59:50_

@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>70</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>71</sup>
 ---
 
 ## 2018
+
+### Vita Nostra
+Дяченко
+> [2018-08] интересно, завораживающе, но непонятно))) Интересно , а я - слово или нет?
+
 
 ### Дама из сугроба
 Вильмонт Екатерина
