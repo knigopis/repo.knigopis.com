@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-google": {
+        "id": "116961712580551399099-google",
+        "nickname": "violet_velva",
+        "booksCount": 14,
+        "updatedAt": "2018-08-23 10:01:33"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 154,
         "updatedAt": "2018-08-15 12:29:07"
-    },
-    "100222681156940260683-google": {
-        "id": "100222681156940260683-google",
-        "nickname": "DgeMer",
-        "booksCount": 0,
-        "updatedAt": "2018-08-15 09:44:17"
     }
 }
