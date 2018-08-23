@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дарвинизм в XX веке ~ [Garka](users/115/115753719718250012620-google)<sup>190</sup>
+    > Книга, в которой доказывается теория Дарвина с точки зрения генетика. О генетика узнала много интересного, освежила школьные знания. Книга вышла в 1975г., естественно, многое в ней уже не актуально. Забавляли бесконечные ссылки на Маркса и Энгельса (ну куда без них в 75м-то). На уровне царств растений и животных естественный отбор Дарвина в книге выглядит очень стройно и логично, а вот как добрались до происхождения homo sapiens... Заметно, что автору очень хочется доказать теорию происхождения видов и применить ее к человеку, но данных не хватает и под конец книги логика уступает место эмоциям
+
 * Vita Nostra ~ [Chiffi](users/105/105831994080785626680-google)<sup>71</sup>
     > интересно, завораживающе, но непонятно))) Интересно , а я - слово или нет?
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > Отличное произведение. Герои очень яркие и интересные. Вложена очень глубокая идея в книгу. Герои вызывают много эмоций.
 
 * Les deux messieurs de Bruxelles ~ [violet_velva](users/116/116961712580551399099-google)<sup>43</sup>
-    > Кроме этого рассказа в книге еще были 
-    > Le Chien
-    > Ménage à trois
-    > Un cœur sur la cendre
-    > L'Enfant fantôme
 
 * Рассказы, упомянутые в "Эшер II" Рэя Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
 
@@ -30,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Империя хаоса ~ [Chandravadana](users/105/105866022348292919948-google)<sup>99</sup>
 
-* Исчисление ангелов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>190</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 [Илья](users/116/116129929397924954448-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>44</sup> 
@@ -65,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>119</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>34</sup> 
 [dolphin_e](users/420/42041301-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>189</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>18</sup> 
 
 
-_23.08.2018 16:59:50_
+_23.08.2018 19:45:57_
