@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Илья](users/116/116129929397924954448-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>44</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>9</sup> 
 [A_lex_S](users/104/104452088751111617579-google)<sup>0</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dolphin_e](users/420/42041301-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>189</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>18</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 
 
-_23.08.2018 10:48:12_
+_23.08.2018 13:01:16_
