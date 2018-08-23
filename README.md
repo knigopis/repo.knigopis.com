@@ -42,7 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[violet_velva](users/116/116961712580551399099-google)<sup>14</sup> 
+[violet_velva](users/116/116961712580551399099-google)<sup>15</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>9</sup> 
 [A_lex_S](users/104/104452088751111617579-google)<sup>0</sup> 
 [goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 
 
-_23.08.2018 10:01:33_
+_23.08.2018 10:02:48_
