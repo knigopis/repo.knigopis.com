@@ -1,4 +1,16 @@
 {
+    "sjZM02hOpI": {
+        "id": "sjZM02hOpI",
+        "title": "Les deux messieurs de Bruxelles",
+        "author": "Eric-Emmanuel Schmitt",
+        "notes": "Кроме этого рассказа в книге еще были \nLe Chien\nMénage à trois\nUn cœur sur la cendre\nL'Enfant fantôme",
+        "createdAt": "2018-08-23 10:45:36",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 43
+        }
+    },
     "zc_0NLS8gg": {
         "id": "zc_0NLS8gg",
         "title": "Джен Эйр",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 14
-        }
-    },
-    "8m_BSRqc95": {
-        "id": "8m_BSRqc95",
-        "title": "Рассказы, упомянутые в \"Эшер II\" Рэя Брэдбери",
-        "author": "Эдгар Аллан По",
-        "notes": "Падение дома Ашеров (The Fall of the House of Usher)\nМаска Красной Смерти (The Masque of the Red Death)\nСердце-обличитель (The Tell-Tale Heart)\nУбийство на улице Морг (The Murders in the Rue Morgue)\nКолодец и маятник (The Pit and the Pendulum)\nПреждевременное погребение (The Premature Burial)\nБочонок амонтильядо (The Cask of Amontillado)",
-        "createdAt": "2018-08-22 20:21:36",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 10
         }
     }
 }

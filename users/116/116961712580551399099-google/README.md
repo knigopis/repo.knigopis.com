@@ -1,4 +1,4 @@
-# List of books read by violet_velva<sup>42</sup>
+# List of books read by violet_velva<sup>43</sup>
 ---
 
 ## 2018
@@ -95,6 +95,15 @@ Jennyfer Niven
 ### Жизнь
 Ги де Мопассан
 > [2017-08] 
+
+
+### Les deux messieurs de Bruxelles
+Eric-Emmanuel Schmitt
+> [2017-05] Кроме этого рассказа в книге еще были 
+> Le Chien
+> Ménage à trois
+> Un cœur sur la cendre
+> L'Enfant fantôme
 
 
 ### Бог-скорпион. Клонк-клонк. Чрезвычайный посол (сборник)

@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Les deux messieurs de Bruxelles ~ [violet_velva](users/116/116961712580551399099-google)<sup>43</sup>
+    > Кроме этого рассказа в книге еще были 
+    > Le Chien
+    > Ménage à trois
+    > Un cœur sur la cendre
+    > L'Enfant fantôme
+
 * Рассказы, упомянутые в "Эшер II" Рэя Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
     > Падение дома Ашеров (The Fall of the House of Usher)
     > Маска Красной Смерти (The Masque of the Red Death)
@@ -20,8 +27,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/32121727/
 
 *  ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
-    > Жизнь - это приключение, а не прогулка. Потому-то это и трудно.
-    > Алекс, Сэм, Джоди Дэн, Изобел.
 
 * Мальчик сделанный из кубиков ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup>
 
@@ -35,14 +40,12 @@ Do not use pull requests to make changes here.
 
 * Танец с драконами ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
 
-* Пир стервятников ~ [Chandravadana](users/105/105866022348292919948-google)<sup>96</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[violet_velva](users/116/116961712580551399099-google)<sup>42</sup> 
+[violet_velva](users/116/116961712580551399099-google)<sup>43</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>9</sup> 
 [A_lex_S](users/104/104452088751111617579-google)<sup>0</sup> 
 [goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
@@ -74,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 
 
-_23.08.2018 10:39:51_
+_23.08.2018 10:45:36_

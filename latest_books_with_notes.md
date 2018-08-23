@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Les deux messieurs de Bruxelles ~ [violet_velva](users/116/116961712580551399099-google)<sup>43</sup>
 * Рассказы, упомянутые в "Эшер II" Рэя Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
 * Новая инквизиция ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup>
 *  ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
@@ -30,7 +31,6 @@
 * Скотный двор ~ [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup>
 * Стартап-гайд. Как начать… и не закрыть свой интернет-бизнес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>176</sup>
 * Сказка о самоубийстве ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>26</sup>
-* Бог-скорпион. Клонк-клонк. Чрезвычайный посол (сборник) ~ [violet_velva](users/116/116961712580551399099-google)<sup>12</sup>
 
 
-_22.08.2018 20:21:36_
+_23.08.2018 10:45:36_

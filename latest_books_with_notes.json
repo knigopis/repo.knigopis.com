@@ -1,4 +1,16 @@
 {
+    "sjZM02hOpI": {
+        "id": "sjZM02hOpI",
+        "title": "Les deux messieurs de Bruxelles",
+        "author": "Eric-Emmanuel Schmitt",
+        "notes": "Кроме этого рассказа в книге еще были \nLe Chien\nMénage à trois\nUn cœur sur la cendre\nL'Enfant fantôme",
+        "createdAt": "2018-08-23 10:45:36",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 43
+        }
+    },
     "8m_BSRqc95": {
         "id": "8m_BSRqc95",
         "title": "Рассказы, упомянутые в \"Эшер II\" Рэя Брэдбери",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 26
-        }
-    },
-    "eaIYNGYHMM": {
-        "id": "eaIYNGYHMM",
-        "title": "Бог-скорпион. Клонк-клонк. Чрезвычайный посол (сборник)",
-        "author": "Уильям Голдинг",
-        "notes": "Рассказы очень колоритные. Проглотила и не заметила. Оставили след.",
-        "createdAt": "2018-08-12 19:09:08",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 12
         }
     }
 }
