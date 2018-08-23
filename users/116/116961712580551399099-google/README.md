@@ -1,4 +1,4 @@
-# List of books read by violet_velva<sup>39</sup>
+# List of books read by violet_velva<sup>40</sup>
 ---
 
 ## 2018
@@ -108,6 +108,11 @@ Gregory David Roberts
 
 
 ## 2016
+
+### Великий Гэтсби
+Фрэнсис Скотт Фицджеральд
+> [2016-06] 
+
 
 ### Таинственная история Билли Миллигана
 Дэниел Киз

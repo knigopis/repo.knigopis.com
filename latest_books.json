@@ -1,4 +1,16 @@
 {
+    "nGcLKECn4g": {
+        "id": "nGcLKECn4g",
+        "title": "Великий Гэтсби",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2018-08-23 10:38:06",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 40
+        }
+    },
     "uJTu5ys22F": {
         "id": "uJTu5ys22F",
         "title": "Парфюмер",
@@ -345,18 +357,6 @@
             "id": "57062183-vkontakte",
             "nickname": "syringa",
             "booksCount": 13
-        }
-    },
-    "cfkdfusQqo": {
-        "id": "cfkdfusQqo",
-        "title": "Выбор Софи",
-        "author": "Уильям Стайрон",
-        "notes": "",
-        "createdAt": "2018-08-22 12:09:09",
-        "user": {
-            "id": "57062183-vkontakte",
-            "nickname": "syringa",
-            "booksCount": 12
         }
     }
 }
