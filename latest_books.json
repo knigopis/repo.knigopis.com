@@ -1,4 +1,16 @@
 {
+    "ZRcLglnNZq": {
+        "id": "ZRcLglnNZq",
+        "title": "Жизнь",
+        "author": "Ги де Мопассан",
+        "notes": "",
+        "createdAt": "2018-08-23 10:31:08",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 34
+        }
+    },
     "F0tjgBnlke": {
         "id": "F0tjgBnlke",
         "title": "Таинственный остров",
@@ -345,18 +357,6 @@
             "id": "57062183-vkontakte",
             "nickname": "syringa",
             "booksCount": 7
-        }
-    },
-    "hsW-eX7Auq": {
-        "id": "hsW-eX7Auq",
-        "title": "Жизнь некрасивой женщины",
-        "author": "Екатерина Мещерская",
-        "notes": "",
-        "createdAt": "2018-08-22 12:04:00",
-        "user": {
-            "id": "57062183-vkontakte",
-            "nickname": "syringa",
-            "booksCount": 6
         }
     }
 }

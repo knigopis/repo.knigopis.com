@@ -1,4 +1,4 @@
-# List of books read by violet_velva<sup>33</sup>
+# List of books read by violet_velva<sup>34</sup>
 ---
 
 ## 2018
@@ -85,6 +85,11 @@ Doris Lessing
 ### Белый пароход
 Чингиз Айтматов
 > [2017-10] 
+
+
+### Жизнь
+Ги де Мопассан
+> [2017-08] 
 
 
 ### Бог-скорпион. Клонк-клонк. Чрезвычайный посол (сборник)
