@@ -1,4 +1,16 @@
 {
+    "7zIC2ckw07": {
+        "id": "7zIC2ckw07",
+        "title": "Скалолазка",
+        "author": "Олег Синицын",
+        "notes": "",
+        "createdAt": "2018-08-23 10:20:44",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 26
+        }
+    },
     "x6DdmmR2u-": {
         "id": "x6DdmmR2u-",
         "title": "Гарри Поттер и Дары Смерти",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 8
-        }
-    },
-    "KtqyUxgW_L": {
-        "id": "KtqyUxgW_L",
-        "title": "Боги среди людей",
-        "author": "Кейт Аткинсон",
-        "notes": "",
-        "createdAt": "2018-08-21 09:12:03",
-        "user": {
-            "id": "113571576628170899835-google",
-            "nickname": "severnyy_olen",
-            "booksCount": 1
         }
     }
 }
