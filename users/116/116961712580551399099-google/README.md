@@ -1,4 +1,4 @@
-# List of books read by violet_velva<sup>27</sup>
+# List of books read by violet_velva<sup>28</sup>
 ---
 
 ## 2018
@@ -106,6 +106,11 @@ Gregory David Roberts
 
 
 ## 2009
+
+### Скалолазка и камень судеб
+Олег Синицын
+> [2009-07] 
+
 
 ### Скалолазка и мертвая вода
 Олег Синицын
