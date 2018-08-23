@@ -1,4 +1,4 @@
-# List of books read by violet_velva<sup>24</sup>
+# List of books read by violet_velva<sup>25</sup>
 ---
 
 ## 2018
@@ -102,6 +102,14 @@ Gregory David Roberts
 ### Цветы для Элджернона
 Дэниел Киз
 > [2016-04] 
+
+
+
+## 2007
+
+### Гарри Поттер и Дары Смерти
+Джоан Роулинг
+> [2007-07] 
 
 
 
