@@ -1,4 +1,4 @@
-# List of books read by violet_velva<sup>40</sup>
+# List of books read by violet_velva<sup>41</sup>
 ---
 
 ## 2018
@@ -85,6 +85,11 @@ Doris Lessing
 ### Белый пароход
 Чингиз Айтматов
 > [2017-10] 
+
+
+### Velva Jean learns to drive
+Jennyfer Niven
+> [2017-09] 
 
 
 ### Жизнь
