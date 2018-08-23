@@ -1,4 +1,16 @@
 {
+    "Tlagc9yDV_": {
+        "id": "Tlagc9yDV_",
+        "title": "Скалолазка и мировое древо",
+        "author": "Олег Синицын",
+        "notes": "",
+        "createdAt": "2018-08-23 10:24:55",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 29
+        }
+    },
     "pzDCx6NTri": {
         "id": "pzDCx6NTri",
         "title": "Скалолазка и камень судеб",
@@ -345,18 +357,6 @@
             "id": "57062183-vkontakte",
             "nickname": "syringa",
             "booksCount": 2
-        }
-    },
-    "whHNALmoYn": {
-        "id": "whHNALmoYn",
-        "title": "Сыновья и любовники",
-        "author": "Дэвид Лоуренс",
-        "notes": "",
-        "createdAt": "2018-08-22 12:00:58",
-        "user": {
-            "id": "57062183-vkontakte",
-            "nickname": "syringa",
-            "booksCount": 1
         }
     }
 }
