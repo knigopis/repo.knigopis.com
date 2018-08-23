@@ -1,4 +1,16 @@
 {
+    "OLoN2mvS_v": {
+        "id": "OLoN2mvS_v",
+        "title": "Волкодав",
+        "author": "Мария Семенова",
+        "notes": "",
+        "createdAt": "2018-08-23 10:32:04",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 35
+        }
+    },
     "ZRcLglnNZq": {
         "id": "ZRcLglnNZq",
         "title": "Жизнь",
@@ -345,18 +357,6 @@
             "id": "57062183-vkontakte",
             "nickname": "syringa",
             "booksCount": 8
-        }
-    },
-    "WyKUlsc2dN": {
-        "id": "WyKUlsc2dN",
-        "title": "Эмансипированные женщины",
-        "author": "Болеслав Прус",
-        "notes": "",
-        "createdAt": "2018-08-22 12:04:37",
-        "user": {
-            "id": "57062183-vkontakte",
-            "nickname": "syringa",
-            "booksCount": 7
         }
     }
 }
