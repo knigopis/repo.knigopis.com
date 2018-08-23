@@ -1,4 +1,4 @@
-# List of books read by violet_velva<sup>35</sup>
+# List of books read by violet_velva<sup>36</sup>
 ---
 
 ## 2018
@@ -125,6 +125,14 @@ Gregory David Roberts
 ### Поющие в терновнике
 Колин Маккалоу
 > [2013-09] 
+
+
+
+## 2012
+
+### La solitude du vainqueur
+Paulo Coelho
+> [2012-05] 
 
 
 
