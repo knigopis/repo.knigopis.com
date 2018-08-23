@@ -1,4 +1,16 @@
 {
+    "ebh6382hBs": {
+        "id": "ebh6382hBs",
+        "title": "Белый пароход",
+        "author": "Чингиз Айтматов",
+        "notes": "",
+        "createdAt": "2018-08-23 10:29:04",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 31
+        }
+    },
     "I_vURerV6M": {
         "id": "I_vURerV6M",
         "title": "Поющие в терновнике",
@@ -345,18 +357,6 @@
             "id": "57062183-vkontakte",
             "nickname": "syringa",
             "booksCount": 4
-        }
-    },
-    "3DzZ4PXH88": {
-        "id": "3DzZ4PXH88",
-        "title": "Вальс на прощание",
-        "author": "Милан Кундера",
-        "notes": "",
-        "createdAt": "2018-08-22 12:02:35",
-        "user": {
-            "id": "57062183-vkontakte",
-            "nickname": "syringa",
-            "booksCount": 3
         }
     }
 }

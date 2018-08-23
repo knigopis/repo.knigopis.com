@@ -1,4 +1,4 @@
-# List of books read by violet_velva<sup>30</sup>
+# List of books read by violet_velva<sup>31</sup>
 ---
 
 ## 2018
@@ -76,6 +76,11 @@ Doris Lessing
 
 
 ## 2017
+
+### Белый пароход
+Чингиз Айтматов
+> [2017-10] 
+
 
 ### Бог-скорпион. Клонк-клонк. Чрезвычайный посол (сборник)
 Уильям Голдинг
