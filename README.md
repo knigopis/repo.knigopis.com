@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Над кукушкиным гнездом ~ [violet_velva](users/116/116961712580551399099-google)<sup>44</sup>
+    > Отличное произведение. Герои очень яркие и интересные. Вложена очень глубокая идея в книгу. Герои вызывают много эмоций.
+
 * Les deux messieurs de Bruxelles ~ [violet_velva](users/116/116961712580551399099-google)<sup>43</sup>
     > Кроме этого рассказа в книге еще были 
     > Le Chien
@@ -22,9 +25,6 @@ Do not use pull requests to make changes here.
     > Бочонок амонтильядо (The Cask of Amontillado)
 
 * Новая инквизиция ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/32121727/
 
 *  ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
 
@@ -38,14 +38,12 @@ Do not use pull requests to make changes here.
 
 * Пушка Ньютона ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
 
-* Танец с драконами ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[violet_velva](users/116/116961712580551399099-google)<sup>43</sup> 
+[violet_velva](users/116/116961712580551399099-google)<sup>44</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>9</sup> 
 [A_lex_S](users/104/104452088751111617579-google)<sup>0</sup> 
 [goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
@@ -77,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>154</sup> 
 
 
-_23.08.2018 10:45:36_
+_23.08.2018 10:48:12_

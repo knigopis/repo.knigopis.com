@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Над кукушкиным гнездом ~ [violet_velva](users/116/116961712580551399099-google)<sup>44</sup>
 * Les deux messieurs de Bruxelles ~ [violet_velva](users/116/116961712580551399099-google)<sup>43</sup>
 * Рассказы, упомянутые в "Эшер II" Рэя Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
 * Новая инквизиция ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup>
@@ -30,7 +31,6 @@
 * Якутия ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
 * Скотный двор ~ [Apprentice ](users/528/52821952-vkontakte)<sup>90</sup>
 * Стартап-гайд. Как начать… и не закрыть свой интернет-бизнес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>176</sup>
-* Сказка о самоубийстве ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>26</sup>
 
 
-_23.08.2018 10:45:36_
+_23.08.2018 10:48:12_
