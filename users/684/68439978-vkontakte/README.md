@@ -1,7 +1,12 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>30</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>31</sup>
 ---
 
 ## 2018
+
+### Драгоценность,которая была нашей
+Декстер К.
+> [2018-09] 
+
 
 ### Лис Улисс и долгая зима
 Адра Фред

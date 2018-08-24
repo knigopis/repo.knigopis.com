@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>31</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>190</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 [Илья](users/116/116129929397924954448-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>119</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>34</sup> 
 [dolphin_e](users/420/42041301-vkontakte)<sup>0</sup> 
-[submerged fish](users/471/471364154-yandex)<sup>18</sup> 
 
 
-_23.08.2018 19:45:57_
+_24.08.2018 14:20:02_

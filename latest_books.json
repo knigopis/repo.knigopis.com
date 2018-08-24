@@ -1,4 +1,16 @@
 {
+    "jsKIIrcOI5": {
+        "id": "jsKIIrcOI5",
+        "title": "Драгоценность,которая была нашей",
+        "author": "Декстер К.",
+        "notes": "",
+        "createdAt": "2018-08-24 14:20:01",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 31
+        }
+    },
     "Yw0OMz-Wog": {
         "id": "Yw0OMz-Wog",
         "title": "Дарвинизм в XX веке",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 18
-        }
-    },
-    "26a90Rbd6e": {
-        "id": "26a90Rbd6e",
-        "title": "Сестра Керри",
-        "author": "Теодор Драйзер",
-        "notes": "",
-        "createdAt": "2018-08-23 10:04:23",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 17
         }
     }
 }
