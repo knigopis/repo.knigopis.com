@@ -1,4 +1,16 @@
 {
+    "lXohOklHYW": {
+        "id": "lXohOklHYW",
+        "title": "Кем быть? Секреты выбора профессии",
+        "author": "Дмитрий Парнов",
+        "notes": "",
+        "createdAt": "2018-08-24 14:20:53",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 32
+        }
+    },
     "jsKIIrcOI5": {
         "id": "jsKIIrcOI5",
         "title": "Драгоценность,которая была нашей",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 19
-        }
-    },
-    "XZkJDRjOe4": {
-        "id": "XZkJDRjOe4",
-        "title": "Гений",
-        "author": "Теодор Драйзер",
-        "notes": "",
-        "createdAt": "2018-08-23 10:04:56",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 18
         }
     }
 }

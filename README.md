@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kissamasya](users/684/68439978-vkontakte)<sup>31</sup> 
+[kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>190</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 [Илья](users/116/116129929397924954448-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dolphin_e](users/420/42041301-vkontakte)<sup>0</sup> 
 
 
-_24.08.2018 14:20:02_
+_24.08.2018 14:20:53_
