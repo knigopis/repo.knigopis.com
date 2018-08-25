@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сильнее страха ~ [fire_ejik](users/329/32903202-vkontakte)<sup>25</sup>
 * Виноваты звезды ~ [fire_ejik](users/329/32903202-vkontakte)<sup>24</sup>
 * Уйти, чтобы вернуться ~ [fire_ejik](users/329/32903202-vkontakte)<sup>23</sup>
 * Ведьма-хранительница и кусок Верховная ведьма ~ [fire_ejik](users/329/32903202-vkontakte)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Новая инквизиция ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup>
 *  ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
 * Мальчик сделанный из кубиков ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup>
-* Тени Бога ~ [Chandravadana](users/105/105866022348292919948-google)<sup>100</sup>
 
 
-_25.08.2018 10:13:44_
+_25.08.2018 10:14:07_
