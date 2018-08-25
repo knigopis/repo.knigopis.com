@@ -1,4 +1,16 @@
 {
+    "_-uziNDYNR": {
+        "id": "_-uziNDYNR",
+        "title": "Алессандро Барикко",
+        "author": "Такая история",
+        "notes": "",
+        "createdAt": "2018-08-25 08:16:05",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 29
+        }
+    },
     "lXohOklHYW": {
         "id": "lXohOklHYW",
         "title": "Кем быть? Секреты выбора профессии",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 20
-        }
-    },
-    "uetXxfAmtK": {
-        "id": "uetXxfAmtK",
-        "title": "Гарри Поттер и философский камень",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2018-08-23 10:05:48",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 19
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>28</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>29</sup>
 ---
 
 ## 2018
+
+### Алессандро Барикко
+Такая история
+> [2018-08] 
+
 
 ### Чужая страна
 Чарльз Камминг
