@@ -1,4 +1,16 @@
 {
+    "e6He6f0gTJ": {
+        "id": "e6He6f0gTJ",
+        "title": "Мор, ученик Смерти",
+        "author": "Терри Пратчетт",
+        "notes": "Прекрасно :з Язык написания восхитителен, задумка и ее исполнение впечатлило. Очень интересная история ♥",
+        "createdAt": "2018-08-25 10:16:15",
+        "user": {
+            "id": "32903202-vkontakte",
+            "nickname": "fire_ejik",
+            "booksCount": 32
+        }
+    },
     "dmAWttCA_U": {
         "id": "dmAWttCA_U",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 43
-        }
-    },
-    "8m_BSRqc95": {
-        "id": "8m_BSRqc95",
-        "title": "Рассказы, упомянутые в \"Эшер II\" Рэя Брэдбери",
-        "author": "Эдгар Аллан По",
-        "notes": "Падение дома Ашеров (The Fall of the House of Usher)\nМаска Красной Смерти (The Masque of the Red Death)\nСердце-обличитель (The Tell-Tale Heart)\nУбийство на улице Морг (The Murders in the Rue Morgue)\nКолодец и маятник (The Pit and the Pendulum)\nПреждевременное погребение (The Premature Burial)\nБочонок амонтильядо (The Cask of Amontillado)",
-        "createdAt": "2018-08-22 20:21:36",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 10
         }
     }
 }
