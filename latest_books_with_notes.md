@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Похититель теней ~ [fire_ejik](users/329/32903202-vkontakte)<sup>19</sup>
 * Пособие для начинающей ведьмы (1/2 книги) ~ [fire_ejik](users/329/32903202-vkontakte)<sup>18</sup>
 * Хорошо быть тихоней ~ [fire_ejik](users/329/32903202-vkontakte)<sup>17</sup>
 * Триумфальная арка ~ [fire_ejik](users/329/32903202-vkontakte)<sup>16</sup>
@@ -30,7 +31,6 @@
 * Исчисление ангелов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>98</sup>
 * Пушка Ньютона ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
 * Танец с драконами ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
-* Пир стервятников ~ [Chandravadana](users/105/105866022348292919948-google)<sup>96</sup>
 
 
-_25.08.2018 10:11:41_
+_25.08.2018 10:12:00_
