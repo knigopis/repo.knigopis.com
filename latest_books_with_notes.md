@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Трое в лодке, не считая собаки ~ [fire_ejik](users/329/32903202-vkontakte)<sup>30</sup>
 * Жизнь взаймы ~ [fire_ejik](users/329/32903202-vkontakte)<sup>28</sup>
 * Сильнее страха ~ [fire_ejik](users/329/32903202-vkontakte)<sup>25</sup>
 * Виноваты звезды ~ [fire_ejik](users/329/32903202-vkontakte)<sup>24</sup>
@@ -30,7 +31,6 @@
 * Les deux messieurs de Bruxelles ~ [violet_velva](users/116/116961712580551399099-google)<sup>43</sup>
 * Рассказы, упомянутые в "Эшер II" Рэя Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
 * Новая инквизиция ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup>
-*  ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
 
 
-_25.08.2018 10:14:56_
+_25.08.2018 10:15:34_
