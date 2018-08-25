@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Космоолухи ~ [fire_ejik](users/329/32903202-vkontakte)<sup>13</sup>
 * Сказка о самоубийстве ~ [fire_ejik](users/329/32903202-vkontakte)<sup>12</sup>
 * Цветы для Элджернона ~ [fire_ejik](users/329/32903202-vkontakte)<sup>11</sup>
 * На западном фронте без перемен ~ [fire_ejik](users/329/32903202-vkontakte)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Игра престолов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>93</sup>
 * Мегаморф ~ [Chandravadana](users/105/105866022348292919948-google)<sup>83</sup>
 * Абсолютный игрок ~ [Chandravadana](users/105/105866022348292919948-google)<sup>82</sup>
-* Закон перемен ~ [Chandravadana](users/105/105866022348292919948-google)<sup>81</sup>
 
 
-_25.08.2018 10:09:37_
+_25.08.2018 10:09:53_
