@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Три товарища ~ [fire_ejik](users/329/32903202-vkontakte)<sup>9</sup>
+    > ❤❤❤❤❤
+    > Не зря я начала знакомство с Ремарком именно с этой книги. Только самые положительные впечатления. Буря эмоций накрыла меня в процессе прочтения всей книги. Были и улыбки, и слезы, и переживания, и даже не знаю что еще. Восхитительная книга. Если и начинать читать Ремарка, то только с нее, учитывая то, что я в процессе чтения только третий книги написанной им.
+
 * Гордость и предубеждение ~ [fire_ejik](users/329/32903202-vkontakte)<sup>8</sup>
     > ❤❤❤❤❤
     > И снова погружение в великолепие Англии 19 века. Невероятная книга. Смело могу записать ее в топ самых любимых книг. Тут надо читать, а не говорить.
@@ -13,8 +17,6 @@ Do not use pull requests to make changes here.
     > Орпоо
 
 * Архив Шерлока Холмса ~ [fire_ejik](users/329/32903202-vkontakte)<sup>7</sup>
-    > ❤❤❤❤
-    > Случайно взятая книга в библиотеке по совету. Просто мне хотелось Англии 19 века и я ее получила. Полное погружение в мир той эпохи. Потрясающее расследование гениального Шерлока Холмса о котором известно во всем мире. Думаю, тут даже добавлять мало что стоит.
 
 * 451 градус по Фаренгейту ~ [fire_ejik](users/329/32903202-vkontakte)<sup>6</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Над кукушкиным гнездом ~ [violet_velva](users/116/116961712580551399099-google)<sup>44</sup>
 
-* Les deux messieurs de Bruxelles ~ [violet_velva](users/116/116961712580551399099-google)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[fire_ejik](users/329/32903202-vkontakte)<sup>8</sup> 
+[fire_ejik](users/329/32903202-vkontakte)<sup>9</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>8</sup> 
 
 
-_25.08.2018 10:08:12_
+_25.08.2018 10:08:33_
