@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 451 градус по Фаренгейту ~ [fire_ejik](users/329/32903202-vkontakte)<sup>6</sup>
 * Портрет Дориана Грея ~ [fire_ejik](users/329/32903202-vkontakte)<sup>5</sup>
 * Мастер и Маргарита ~ [fire_ejik](users/329/32903202-vkontakte)<sup>4</sup>
 * Дарвинизм в XX веке ~ [Garka](users/115/115753719718250012620-google)<sup>190</sup>
@@ -30,7 +31,6 @@
 * Непредвиденные встречи ~ [Chandravadana](users/105/105866022348292919948-google)<sup>76</sup>
 * Чужие сны и другие истории ~ [sonics](users/588/5880221-vkontakte)<sup>58</sup>
 * Дама из сугроба ~ [Chiffi](users/105/105831994080785626680-google)<sup>70</sup>
-* Думай как миллионер. 17 уроков состоятельности для тех, кто готов разбогатеть ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup>
 
 
-_25.08.2018 09:57:37_
+_25.08.2018 09:59:46_
