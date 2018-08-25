@@ -1,4 +1,16 @@
 {
+    "lYmk6cryco": {
+        "id": "lYmk6cryco",
+        "title": "Уйти, чтобы вернуться",
+        "author": "Марк Леви",
+        "notes": "Великолепно. Совершенно неожиданные повороты событий. Завораживает и затягивает.",
+        "createdAt": "2018-08-25 10:13:22",
+        "user": {
+            "id": "32903202-vkontakte",
+            "nickname": "fire_ejik",
+            "booksCount": 23
+        }
+    },
     "UbJtvnRnbb": {
         "id": "UbJtvnRnbb",
         "title": "Ведьма-хранительница и кусок Верховная ведьма",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 99
-        }
-    },
-    "a2GCZBt00I": {
-        "id": "a2GCZBt00I",
-        "title": "Исчисление ангелов",
-        "author": "Грегори Киз",
-        "notes": "Цикл \"Век безумия\"",
-        "createdAt": "2018-08-19 10:06:51",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 98
         }
     }
 }

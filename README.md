@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Уйти, чтобы вернуться ~ [fire_ejik](users/329/32903202-vkontakte)<sup>23</sup>
+    > Великолепно. Совершенно неожиданные повороты событий. Завораживает и затягивает.
+
 * Ведьма-хранительница и кусок Верховная ведьма ~ [fire_ejik](users/329/32903202-vkontakte)<sup>21</sup>
     > Перечитала только "Профессия ведьма" и "Ведьма-хранительница" полностью. На "Верховную ведьму" меня не хватило. любимый писатель, но все же я перечитывала... По сути, просто лень дочитать. Но всем советую цикл о Вольхе Редной и другие книги Ольги Громыко
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ❤️❤️❤️❤️❤️ Даже перечитывая, эмоции неповторимы. Не передать словами как я люблю книги Ольги Громыко.
 
 * Похититель теней ~ [fire_ejik](users/329/32903202-vkontakte)<sup>19</sup>
-    > ПРЕКРАСНО! ❤❤❤❤❤ Очень рада, что эта книга в моем личном пользовании и я смогу дать её своим друзьям чтобы поделиться прекрасным :з Про неё не надо рассказывать, её надо прочесть.
 
 * Пособие для начинающей ведьмы (1/2 книги) ~ [fire_ejik](users/329/32903202-vkontakte)<sup>18</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Космоолухи ~ [fire_ejik](users/329/32903202-vkontakte)<sup>13</sup>
 
-* Сказка о самоубийстве ~ [fire_ejik](users/329/32903202-vkontakte)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[fire_ejik](users/329/32903202-vkontakte)<sup>22</sup> 
+[fire_ejik](users/329/32903202-vkontakte)<sup>23</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>8</sup> 
 
 
-_25.08.2018 10:13:01_
+_25.08.2018 10:13:22_
