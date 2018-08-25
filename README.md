@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* На западном фронте без перемен ~ [fire_ejik](users/329/32903202-vkontakte)<sup>10</sup>
+    > Тяжеловато пошла. Но только из-за того, что про войну. Однозначно стоит прочесть.
+
 * Три товарища ~ [fire_ejik](users/329/32903202-vkontakte)<sup>9</sup>
     > ❤❤❤❤❤
     > Не зря я начала знакомство с Ремарком именно с этой книги. Только самые положительные впечатления. Буря эмоций накрыла меня в процессе прочтения всей книги. Были и улыбки, и слезы, и переживания, и даже не знаю что еще. Восхитительная книга. Если и начинать читать Ремарка, то только с нее, учитывая то, что я в процессе чтения только третий книги написанной им.
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > И снова погружение в великолепие Англии 19 века. Невероятная книга. Смело могу записать ее в топ самых любимых книг. Тут надо читать, а не говорить.
 
 * О ~ [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup>
-    > Орпоо
 
 * Архив Шерлока Холмса ~ [fire_ejik](users/329/32903202-vkontakte)<sup>7</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Vita Nostra ~ [Chiffi](users/105/105831994080785626680-google)<sup>71</sup>
 
-* Над кукушкиным гнездом ~ [violet_velva](users/116/116961712580551399099-google)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[fire_ejik](users/329/32903202-vkontakte)<sup>9</sup> 
+[fire_ejik](users/329/32903202-vkontakte)<sup>10</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>8</sup> 
 
 
-_25.08.2018 10:08:33_
+_25.08.2018 10:08:52_

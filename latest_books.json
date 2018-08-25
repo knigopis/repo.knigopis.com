@@ -1,4 +1,16 @@
 {
+    "7E0Uyex8ZN": {
+        "id": "7E0Uyex8ZN",
+        "title": "На западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "notes": "Тяжеловато пошла. Но только из-за того, что про войну. Однозначно стоит прочесть.",
+        "createdAt": "2018-08-25 10:08:52",
+        "user": {
+            "id": "32903202-vkontakte",
+            "nickname": "fire_ejik",
+            "booksCount": 10
+        }
+    },
     "1mRCrP7w7j": {
         "id": "1mRCrP7w7j",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 29
-        }
-    },
-    "pzDCx6NTri": {
-        "id": "pzDCx6NTri",
-        "title": "Скалолазка и камень судеб",
-        "author": "Олег Синицын",
-        "notes": "",
-        "createdAt": "2018-08-23 10:24:18",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 28
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "7E0Uyex8ZN": {
+        "id": "7E0Uyex8ZN",
+        "title": "На западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "notes": "Тяжеловато пошла. Но только из-за того, что про войну. Однозначно стоит прочесть.",
+        "createdAt": "2018-08-25 10:08:52",
+        "user": {
+            "id": "32903202-vkontakte",
+            "nickname": "fire_ejik",
+            "booksCount": 10
+        }
+    },
     "1mRCrP7w7j": {
         "id": "1mRCrP7w7j",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 79
-        }
-    },
-    "3A2hAfgn73": {
-        "id": "3A2hAfgn73",
-        "title": "Возвращение блудного Конструктора",
-        "author": "Василий Головачев",
-        "notes": "Хроники Реликта",
-        "createdAt": "2018-08-19 09:55:01",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 78
         }
     }
 }
