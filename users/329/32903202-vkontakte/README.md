@@ -1,4 +1,4 @@
-# List of books read by [fire_ejik](http://vk.com/id32903202)<sup>33</sup>
+# List of books read by [fire_ejik](http://vk.com/id32903202)<sup>34</sup>
 ---
 
 ## 2018
@@ -20,6 +20,11 @@
 
 
 ## 2017
+
+### Похороните меня за плинтусом
+Павел Санаев
+> [2017-07-27] 
+
 
 ### Мрачный Жнец
 Терри Пратчетт
