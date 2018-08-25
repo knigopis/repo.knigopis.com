@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[le_brouillard](users/133/13330781-vkontakte)<sup>29</sup> 
+[le_brouillard](users/133/13330781-vkontakte)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>190</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>34</sup> 
 
 
-_25.08.2018 08:16:05_
+_25.08.2018 08:16:57_

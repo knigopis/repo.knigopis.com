@@ -1,4 +1,16 @@
 {
+    "Z35OiT8nFc": {
+        "id": "Z35OiT8nFc",
+        "title": "Таинственная история Билли Миллигана",
+        "author": "Даниел Киз",
+        "notes": "",
+        "createdAt": "2018-08-25 08:16:57",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 30
+        }
+    },
     "_-uziNDYNR": {
         "id": "_-uziNDYNR",
         "title": "Алессандро Барикко",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 21
-        }
-    },
-    "01OnqzuevK": {
-        "id": "01OnqzuevK",
-        "title": "Гарри Поттер и тайная комната",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2018-08-23 10:06:17",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 20
         }
     }
 }
