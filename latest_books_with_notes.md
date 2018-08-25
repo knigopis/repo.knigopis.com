@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Архив Шерлока Холмса ~ [fire_ejik](users/329/32903202-vkontakte)<sup>7</sup>
 * 451 градус по Фаренгейту ~ [fire_ejik](users/329/32903202-vkontakte)<sup>6</sup>
 * Портрет Дориана Грея ~ [fire_ejik](users/329/32903202-vkontakte)<sup>5</sup>
 * Мастер и Маргарита ~ [fire_ejik](users/329/32903202-vkontakte)<sup>4</sup>
@@ -30,7 +31,6 @@
 * Пришествие ~ [Chandravadana](users/105/105866022348292919948-google)<sup>77</sup>
 * Непредвиденные встречи ~ [Chandravadana](users/105/105866022348292919948-google)<sup>76</sup>
 * Чужие сны и другие истории ~ [sonics](users/588/5880221-vkontakte)<sup>58</sup>
-* Дама из сугроба ~ [Chiffi](users/105/105831994080785626680-google)<sup>70</sup>
 
 
-_25.08.2018 09:59:46_
+_25.08.2018 10:02:17_
