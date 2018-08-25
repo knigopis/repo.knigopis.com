@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ведьма-хранительница и кусок Верховная ведьма ~ [fire_ejik](users/329/32903202-vkontakte)<sup>21</sup>
 * Профессия: ведьма ~ [fire_ejik](users/329/32903202-vkontakte)<sup>20</sup>
 * Похититель теней ~ [fire_ejik](users/329/32903202-vkontakte)<sup>19</sup>
 * Пособие для начинающей ведьмы (1/2 книги) ~ [fire_ejik](users/329/32903202-vkontakte)<sup>18</sup>
@@ -30,7 +31,6 @@
 * Тени Бога ~ [Chandravadana](users/105/105866022348292919948-google)<sup>100</sup>
 * Империя хаоса ~ [Chandravadana](users/105/105866022348292919948-google)<sup>99</sup>
 * Исчисление ангелов ~ [Chandravadana](users/105/105866022348292919948-google)<sup>98</sup>
-* Пушка Ньютона ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
 
 
-_25.08.2018 10:12:21_
+_25.08.2018 10:12:40_
