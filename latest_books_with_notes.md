@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Машина времени ~ [fire_ejik](users/329/32903202-vkontakte)<sup>39</sup>
 * Дети лампы. Книга вторая. ~ [fire_ejik](users/329/32903202-vkontakte)<sup>38</sup>
 * Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [fire_ejik](users/329/32903202-vkontakte)<sup>37</sup>
 * Мрачный Жнец ~ [fire_ejik](users/329/32903202-vkontakte)<sup>33</sup>
@@ -30,7 +31,6 @@
 * 451 градус по Фаренгейту ~ [fire_ejik](users/329/32903202-vkontakte)<sup>6</sup>
 * Портрет Дориана Грея ~ [fire_ejik](users/329/32903202-vkontakte)<sup>5</sup>
 * Мастер и Маргарита ~ [fire_ejik](users/329/32903202-vkontakte)<sup>4</sup>
-* Дарвинизм в XX веке ~ [Garka](users/115/115753719718250012620-google)<sup>190</sup>
 
 
-_25.08.2018 10:18:09_
+_25.08.2018 10:18:33_

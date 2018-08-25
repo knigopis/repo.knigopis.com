@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Машина времени ~ [fire_ejik](users/329/32903202-vkontakte)<sup>39</sup>
+    > Рассчитывала дня на три, но что-то пошло не так
+
 * Дети лампы. Книга вторая. ~ [fire_ejik](users/329/32903202-vkontakte)<sup>38</sup>
     > Из-за сессии не могла долго дочитать. Забросила на месяц, а потом пол книги за пару дней фьють
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Подростковая литература. Но мне интересно. Догоняю то что упустила в детстве. То есть любовь к книгам.
 
 * Мрачный Жнец ~ [fire_ejik](users/329/32903202-vkontakte)<sup>33</sup>
-    > Время... Смерть... Слишком много о чём можно подумать после её прочтения
 
 * Мор, ученик Смерти ~ [fire_ejik](users/329/32903202-vkontakte)<sup>32</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Виноваты звезды ~ [fire_ejik](users/329/32903202-vkontakte)<sup>24</sup>
 
-* Уйти, чтобы вернуться ~ [fire_ejik](users/329/32903202-vkontakte)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[fire_ejik](users/329/32903202-vkontakte)<sup>38</sup> 
+[fire_ejik](users/329/32903202-vkontakte)<sup>39</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>8</sup> 
 
 
-_25.08.2018 10:18:09_
+_25.08.2018 10:18:33_
