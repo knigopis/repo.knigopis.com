@@ -1,4 +1,4 @@
-# List of books read by [fire_ejik](http://vk.com/id32903202)<sup>35</sup>
+# List of books read by [fire_ejik](http://vk.com/id32903202)<sup>36</sup>
 ---
 
 ## 2018
@@ -20,6 +20,11 @@
 
 
 ## 2017
+
+### 1984
+Джордж Оруэлл
+> [2017-10-31] 
+
 
 ### Дом, в котором...
 Мариам Петросян
