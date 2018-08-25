@@ -1,4 +1,16 @@
 {
+    "dmAWttCA_U": {
+        "id": "dmAWttCA_U",
+        "title": "Над пропастью во ржи",
+        "author": "J. D. Salinger",
+        "notes": "Скажем, очень странная книга. Но читается очень легко. На 4 звезды из 5, как по мне.",
+        "createdAt": "2018-08-25 10:15:55",
+        "user": {
+            "id": "32903202-vkontakte",
+            "nickname": "fire_ejik",
+            "booksCount": 31
+        }
+    },
     "HiOHJRhrDx": {
         "id": "HiOHJRhrDx",
         "title": "Трое в лодке, не считая собаки",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 30
-        }
-    },
-    "_-uziNDYNR": {
-        "id": "_-uziNDYNR",
-        "title": "Алессандро Барикко",
-        "author": "Такая история",
-        "notes": "",
-        "createdAt": "2018-08-25 08:16:05",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 29
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Над пропастью во ржи ~ [fire_ejik](users/329/32903202-vkontakte)<sup>31</sup>
 * Трое в лодке, не считая собаки ~ [fire_ejik](users/329/32903202-vkontakte)<sup>30</sup>
 * Жизнь взаймы ~ [fire_ejik](users/329/32903202-vkontakte)<sup>28</sup>
 * Сильнее страха ~ [fire_ejik](users/329/32903202-vkontakte)<sup>25</sup>
@@ -30,7 +31,6 @@
 * Над кукушкиным гнездом ~ [violet_velva](users/116/116961712580551399099-google)<sup>44</sup>
 * Les deux messieurs de Bruxelles ~ [violet_velva](users/116/116961712580551399099-google)<sup>43</sup>
 * Рассказы, упомянутые в "Эшер II" Рэя Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
-* Новая инквизиция ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup>
 
 
-_25.08.2018 10:15:34_
+_25.08.2018 10:15:56_
