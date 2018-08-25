@@ -1,4 +1,16 @@
 {
+    "anVvCxEVSM": {
+        "id": "anVvCxEVSM",
+        "title": "Жизнь взаймы",
+        "author": "Эрих Мария Ремарк",
+        "notes": "Нудновато. Не пошла книга и поэтому только половина (целая половина!)",
+        "createdAt": "2018-08-25 10:14:56",
+        "user": {
+            "id": "32903202-vkontakte",
+            "nickname": "fire_ejik",
+            "booksCount": 28
+        }
+    },
     "YlEHoxTCRY": {
         "id": "YlEHoxTCRY",
         "title": "Сильнее страха",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 56
-        }
-    },
-    "Q3eq8q0_IB": {
-        "id": "Q3eq8q0_IB",
-        "title": "Мальчик сделанный из кубиков",
-        "author": "Стюарт Кит",
-        "notes": "Жизнь - это приключение, а не прогулка. Потому-то это и трудно.\nАлекс, Сэм, Джоди Дэн, Изобел.",
-        "createdAt": "2018-08-20 17:30:38",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 55
         }
     }
 }

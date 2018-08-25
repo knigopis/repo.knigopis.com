@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Жизнь взаймы ~ [fire_ejik](users/329/32903202-vkontakte)<sup>28</sup>
 * Сильнее страха ~ [fire_ejik](users/329/32903202-vkontakte)<sup>25</sup>
 * Виноваты звезды ~ [fire_ejik](users/329/32903202-vkontakte)<sup>24</sup>
 * Уйти, чтобы вернуться ~ [fire_ejik](users/329/32903202-vkontakte)<sup>23</sup>
@@ -30,7 +31,6 @@
 * Рассказы, упомянутые в "Эшер II" Рэя Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
 * Новая инквизиция ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup>
 *  ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
-* Мальчик сделанный из кубиков ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup>
 
 
-_25.08.2018 10:14:07_
+_25.08.2018 10:14:56_

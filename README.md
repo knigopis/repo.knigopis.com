@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жизнь взаймы ~ [fire_ejik](users/329/32903202-vkontakte)<sup>28</sup>
+    > Нудновато. Не пошла книга и поэтому только половина (целая половина!)
+
 * Сильнее страха ~ [fire_ejik](users/329/32903202-vkontakte)<sup>25</sup>
     > В общем, начало скучное, особенно после эмоций в предыдущей книги. К середине книги становится уже лучше, две трети ещё лучше, а под конец реально затягивает. Исторический детектив в плане затрагивания политики около 50 лет назад. Стоит читать. Но есть книги затягиващие больше. Похититель теней например хд ну, хотя с тенями эта серия не сравнится. Но опять же, читать стоит. Просто ради интереса даже. Вот.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Сильная книга.
 
 * Уйти, чтобы вернуться ~ [fire_ejik](users/329/32903202-vkontakte)<sup>23</sup>
-    > Великолепно. Совершенно неожиданные повороты событий. Завораживает и затягивает.
 
 * Ведьма-хранительница и кусок Верховная ведьма ~ [fire_ejik](users/329/32903202-vkontakte)<sup>21</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Триумфальная арка ~ [fire_ejik](users/329/32903202-vkontakte)<sup>16</sup>
 
-* Великий Гетсби ~ [fire_ejik](users/329/32903202-vkontakte)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[fire_ejik](users/329/32903202-vkontakte)<sup>27</sup> 
+[fire_ejik](users/329/32903202-vkontakte)<sup>28</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>8</sup> 
 
 
-_25.08.2018 10:14:37_
+_25.08.2018 10:14:56_
