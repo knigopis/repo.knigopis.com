@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Путь к финансовой независимости ~ [darb_el](users/184/184135339-vkontakte)<sup>13</sup>
+    > Довольно банальная книга.
+
 * Машина времени ~ [fire_ejik](users/329/32903202-vkontakte)<sup>39</sup>
     > Рассчитывала дня на три, но что-то пошло не так
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Из-за сессии не могла долго дочитать. Забросила на месяц, а потом пол книги за пару дней фьють
 
 * Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [fire_ejik](users/329/32903202-vkontakte)<sup>37</sup>
-    > Подростковая литература. Но мне интересно. Догоняю то что упустила в детстве. То есть любовь к книгам.
 
 * Мрачный Жнец ~ [fire_ejik](users/329/32903202-vkontakte)<sup>33</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сильнее страха ~ [fire_ejik](users/329/32903202-vkontakte)<sup>25</sup>
 
-* Виноваты звезды ~ [fire_ejik](users/329/32903202-vkontakte)<sup>24</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darb_el](users/184/184135339-vkontakte)<sup>13</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>40</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>43</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>30</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
 [govorova.tatia](users/500/500014724-vkontakte)<sup>1</sup> 
 [selivanov](users/104/104491677658529528381-google)<sup>0</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>8</sup> 
 
 
-_25.08.2018 10:20:33_
+_25.08.2018 11:22:13_
