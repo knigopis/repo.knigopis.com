@@ -1,4 +1,16 @@
 {
+    "zEJq09FiOU": {
+        "id": "zEJq09FiOU",
+        "title": "Гарри Поттер и тайная комната",
+        "author": "Дж. К. Роулинг",
+        "notes": "",
+        "createdAt": "2018-08-25 10:14:37",
+        "user": {
+            "id": "32903202-vkontakte",
+            "nickname": "fire_ejik",
+            "booksCount": 27
+        }
+    },
     "yTZlz9jJJk": {
         "id": "yTZlz9jJJk",
         "title": "Гарри Поттер и философский камень",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 190
-        }
-    },
-    "1_bLvMcBQS": {
-        "id": "1_bLvMcBQS",
-        "title": "Vita Nostra",
-        "author": "Дяченко",
-        "notes": "интересно, завораживающе, но непонятно))) Интересно , а я - слово или нет?",
-        "createdAt": "2018-08-23 16:59:50",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 71
         }
     }
 }
