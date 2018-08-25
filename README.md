@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[fire_ejik](users/329/32903202-vkontakte)<sup>25</sup> 
+[fire_ejik](users/329/32903202-vkontakte)<sup>26</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>8</sup> 
 
 
-_25.08.2018 10:14:07_
+_25.08.2018 10:14:19_

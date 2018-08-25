@@ -1,4 +1,4 @@
-# List of books read by [fire_ejik](http://vk.com/id32903202)<sup>25</sup>
+# List of books read by [fire_ejik](http://vk.com/id32903202)<sup>26</sup>
 ---
 
 ## 2018
@@ -20,6 +20,11 @@
 
 
 ## 2016
+
+### Гарри Поттер и философский камень
+Дж. К. Ролинг
+> [2016-12-10] 
+
 
 ### Сильнее страха
 Марк Леви

@@ -1,4 +1,16 @@
 {
+    "yTZlz9jJJk": {
+        "id": "yTZlz9jJJk",
+        "title": "Гарри Поттер и философский камень",
+        "author": "Дж. К. Ролинг",
+        "notes": "",
+        "createdAt": "2018-08-25 10:14:19",
+        "user": {
+            "id": "32903202-vkontakte",
+            "nickname": "fire_ejik",
+            "booksCount": 26
+        }
+    },
     "YlEHoxTCRY": {
         "id": "YlEHoxTCRY",
         "title": "Сильнее страха",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 71
-        }
-    },
-    "qH03HYrvGo": {
-        "id": "qH03HYrvGo",
-        "title": "Над кукушкиным гнездом",
-        "author": "Кен Кизи",
-        "notes": "Отличное произведение. Герои очень яркие и интересные. Вложена очень глубокая идея в книгу. Герои вызывают много эмоций.",
-        "createdAt": "2018-08-23 10:48:12",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 44
         }
     }
 }
