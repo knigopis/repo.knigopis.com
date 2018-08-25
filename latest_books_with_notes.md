@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мастер и Маргарита ~ [fire_ejik](users/329/32903202-vkontakte)<sup>4</sup>
 * Дарвинизм в XX веке ~ [Garka](users/115/115753719718250012620-google)<sup>190</sup>
 * Vita Nostra ~ [Chiffi](users/105/105831994080785626680-google)<sup>71</sup>
 * Над кукушкиным гнездом ~ [violet_velva](users/116/116961712580551399099-google)<sup>44</sup>
@@ -30,7 +31,6 @@
 * Дама из сугроба ~ [Chiffi](users/105/105831994080785626680-google)<sup>70</sup>
 * Думай как миллионер. 17 уроков состоятельности для тех, кто готов разбогатеть ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>177</sup>
 * Стража! Стража! ~ [Garka](users/115/115753719718250012620-google)<sup>189</sup>
-* Якутия ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
 
 
-_23.08.2018 19:45:57_
+_25.08.2018 09:51:27_
