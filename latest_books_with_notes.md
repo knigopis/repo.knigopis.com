@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хорошо быть тихоней ~ [fire_ejik](users/329/32903202-vkontakte)<sup>17</sup>
 * Триумфальная арка ~ [fire_ejik](users/329/32903202-vkontakte)<sup>16</sup>
 * Великий Гетсби ~ [fire_ejik](users/329/32903202-vkontakte)<sup>15</sup>
 * Случайная вакансия ~ [fire_ejik](users/329/32903202-vkontakte)<sup>14</sup>
@@ -30,7 +31,6 @@
 * Танец с драконами ~ [Chandravadana](users/105/105866022348292919948-google)<sup>97</sup>
 * Пир стервятников ~ [Chandravadana](users/105/105866022348292919948-google)<sup>96</sup>
 * Буря мечей ~ [Chandravadana](users/105/105866022348292919948-google)<sup>95</sup>
-* Битва королей ~ [Chandravadana](users/105/105866022348292919948-google)<sup>94</sup>
 
 
-_25.08.2018 10:10:51_
+_25.08.2018 10:11:20_
