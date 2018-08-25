@@ -1,4 +1,16 @@
 {
+    "m9JKD5tDKp": {
+        "id": "m9JKD5tDKp",
+        "title": "Человек-невидимка",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2018-08-25 10:18:50",
+        "user": {
+            "id": "32903202-vkontakte",
+            "nickname": "fire_ejik",
+            "booksCount": 40
+        }
+    },
     "JX65x0Y_FF": {
         "id": "JX65x0Y_FF",
         "title": "Машина времени",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 11
-        }
-    },
-    "7E0Uyex8ZN": {
-        "id": "7E0Uyex8ZN",
-        "title": "На западном фронте без перемен",
-        "author": "Эрих Мария Ремарк",
-        "notes": "Тяжеловато пошла. Но только из-за того, что про войну. Однозначно стоит прочесть.",
-        "createdAt": "2018-08-25 10:08:52",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 10
         }
     }
 }
