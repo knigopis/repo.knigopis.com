@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Виноваты звезды ~ [fire_ejik](users/329/32903202-vkontakte)<sup>24</sup>
+    > +к любимым книгам. Эта книга должна стоять у меня на полке. Да и не только у меня с:
+    > Сильная книга.
+
 * Уйти, чтобы вернуться ~ [fire_ejik](users/329/32903202-vkontakte)<sup>23</sup>
     > Великолепно. Совершенно неожиданные повороты событий. Завораживает и затягивает.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Перечитала только "Профессия ведьма" и "Ведьма-хранительница" полностью. На "Верховную ведьму" меня не хватило. любимый писатель, но все же я перечитывала... По сути, просто лень дочитать. Но всем советую цикл о Вольхе Редной и другие книги Ольги Громыко
 
 * Профессия: ведьма ~ [fire_ejik](users/329/32903202-vkontakte)<sup>20</sup>
-    > ❤️❤️❤️❤️❤️ Даже перечитывая, эмоции неповторимы. Не передать словами как я люблю книги Ольги Громыко.
 
 * Похититель теней ~ [fire_ejik](users/329/32903202-vkontakte)<sup>19</sup>
 
@@ -26,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Случайная вакансия ~ [fire_ejik](users/329/32903202-vkontakte)<sup>14</sup>
 
-* Космоолухи ~ [fire_ejik](users/329/32903202-vkontakte)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[fire_ejik](users/329/32903202-vkontakte)<sup>23</sup> 
+[fire_ejik](users/329/32903202-vkontakte)<sup>24</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>8</sup> 
 
 
-_25.08.2018 10:13:22_
+_25.08.2018 10:13:44_
