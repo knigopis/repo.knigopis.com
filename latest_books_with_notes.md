@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [fire_ejik](users/329/32903202-vkontakte)<sup>37</sup>
 * Мрачный Жнец ~ [fire_ejik](users/329/32903202-vkontakte)<sup>33</sup>
 * Мор, ученик Смерти ~ [fire_ejik](users/329/32903202-vkontakte)<sup>32</sup>
 * Над пропастью во ржи ~ [fire_ejik](users/329/32903202-vkontakte)<sup>31</sup>
@@ -30,7 +31,6 @@
 * Мастер и Маргарита ~ [fire_ejik](users/329/32903202-vkontakte)<sup>4</sup>
 * Дарвинизм в XX веке ~ [Garka](users/115/115753719718250012620-google)<sup>190</sup>
 * Vita Nostra ~ [Chiffi](users/105/105831994080785626680-google)<sup>71</sup>
-* Над кукушкиным гнездом ~ [violet_velva](users/116/116961712580551399099-google)<sup>44</sup>
 
 
-_25.08.2018 10:16:34_
+_25.08.2018 10:17:46_
