@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гордость и предубеждение ~ [fire_ejik](users/329/32903202-vkontakte)<sup>8</sup>
+    > ❤❤❤❤❤
+    > И снова погружение в великолепие Англии 19 века. Невероятная книга. Смело могу записать ее в топ самых любимых книг. Тут надо читать, а не говорить.
+
 * О ~ [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup>
     > Орпоо
 
@@ -13,8 +17,6 @@ Do not use pull requests to make changes here.
     > Случайно взятая книга в библиотеке по совету. Просто мне хотелось Англии 19 века и я ее получила. Полное погружение в мир той эпохи. Потрясающее расследование гениального Шерлока Холмса о котором известно во всем мире. Думаю, тут даже добавлять мало что стоит.
 
 * 451 градус по Фаренгейту ~ [fire_ejik](users/329/32903202-vkontakte)<sup>6</sup>
-    > ❤❤❤❤❤
-    > А вот эту книгу стоит читать всегда во все времена, хоть написана всего пол века назад. Книга о значимости Книги. Очень много мыслей внутри не такой уж толстой книжки. После нее я стала читать "взахлеб". Она действительно многое для меня значит. Очень много писать о ней, но как показала практика, именно тут можно лишь 1000 символов. Комментировать можно бесконечно. Но лучше просто взять и прочитать.
 
 * Портрет Дориана Грея ~ [fire_ejik](users/329/32903202-vkontakte)<sup>5</sup>
 
@@ -28,15 +30,13 @@ Do not use pull requests to make changes here.
 
 * Les deux messieurs de Bruxelles ~ [violet_velva](users/116/116961712580551399099-google)<sup>43</sup>
 
-* Рассказы, упомянутые в "Эшер II" Рэя Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fire_ejik](users/329/32903202-vkontakte)<sup>8</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup> 
-[fire_ejik](users/329/32903202-vkontakte)<sup>7</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>190</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>8</sup> 
 
 
-_25.08.2018 10:07:08_
+_25.08.2018 10:08:12_

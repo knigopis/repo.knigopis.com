@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гордость и предубеждение ~ [fire_ejik](users/329/32903202-vkontakte)<sup>8</sup>
 * О ~ [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup>
 * Архив Шерлока Холмса ~ [fire_ejik](users/329/32903202-vkontakte)<sup>7</sup>
 * 451 градус по Фаренгейту ~ [fire_ejik](users/329/32903202-vkontakte)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Дети Вечности ~ [Chandravadana](users/105/105866022348292919948-google)<sup>79</sup>
 * Возвращение блудного Конструктора ~ [Chandravadana](users/105/105866022348292919948-google)<sup>78</sup>
 * Пришествие ~ [Chandravadana](users/105/105866022348292919948-google)<sup>77</sup>
-* Непредвиденные встречи ~ [Chandravadana](users/105/105866022348292919948-google)<sup>76</sup>
 
 
-_25.08.2018 10:07:08_
+_25.08.2018 10:08:12_
