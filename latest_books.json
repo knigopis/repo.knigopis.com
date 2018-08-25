@@ -1,4 +1,16 @@
 {
+    "ppwUuwE1-N": {
+        "id": "ppwUuwE1-N",
+        "title": "Бытие",
+        "author": "Библия",
+        "notes": "",
+        "createdAt": "2018-08-25 10:15:15",
+        "user": {
+            "id": "32903202-vkontakte",
+            "nickname": "fire_ejik",
+            "booksCount": 29
+        }
+    },
     "anVvCxEVSM": {
         "id": "anVvCxEVSM",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 32
-        }
-    },
-    "jsKIIrcOI5": {
-        "id": "jsKIIrcOI5",
-        "title": "Драгоценность,которая была нашей",
-        "author": "Декстер К.",
-        "notes": "",
-        "createdAt": "2018-08-24 14:20:01",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 31
         }
     }
 }

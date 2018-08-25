@@ -1,4 +1,4 @@
-# List of books read by [fire_ejik](http://vk.com/id32903202)<sup>28</sup>
+# List of books read by [fire_ejik](http://vk.com/id32903202)<sup>29</sup>
 ---
 
 ## 2018
@@ -20,6 +20,11 @@
 
 
 ## 2017
+
+### Бытие
+Библия
+> [2017-02-25] 
+
 
 ### Жизнь взаймы
 Эрих Мария Ремарк
