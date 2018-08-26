@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Marzhan](users/110/110565754199715103002-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>324</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>81</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>105</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
 
 
-_26.08.2018 10:54:21_
+_26.08.2018 11:34:41_
