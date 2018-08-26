@@ -1,4 +1,10 @@
 {
+    "110565754199715103002-google": {
+        "id": "110565754199715103002-google",
+        "nickname": "Marzhan",
+        "booksCount": 0,
+        "updatedAt": "2018-08-26 11:34:41"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "sonics",
         "booksCount": 58,
         "updatedAt": "2018-08-18 20:28:35"
-    },
-    "225880893-vkontakte": {
-        "id": "225880893-vkontakte",
-        "nickname": "Артур Вольнов",
-        "booksCount": 15,
-        "updatedAt": "2018-08-18 02:21:05"
     }
 }
