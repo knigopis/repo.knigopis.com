@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>72</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 [Tonya](users/107/107653618864404586169-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>13</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>40</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [govorova.tatia](users/500/500014724-vkontakte)<sup>1</sup> 
 
 
-_26.08.2018 07:19:18_
+_26.08.2018 07:22:25_
