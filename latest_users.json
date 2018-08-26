@@ -1,4 +1,10 @@
 {
+    "107653618864404586169-google": {
+        "id": "107653618864404586169-google",
+        "nickname": "Tonya",
+        "booksCount": 0,
+        "updatedAt": "2018-08-26 04:03:29"
+    },
     "184135339-vkontakte": {
         "id": "184135339-vkontakte",
         "nickname": "darb_el",
@@ -172,11 +178,5 @@
         "nickname": "govorova.tatia",
         "booksCount": 1,
         "updatedAt": "2018-08-17 18:44:39"
-    },
-    "104491677658529528381-google": {
-        "id": "104491677658529528381-google",
-        "nickname": "selivanov",
-        "booksCount": 0,
-        "updatedAt": "2018-08-17 14:47:39"
     }
 }
