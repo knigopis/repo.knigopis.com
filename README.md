@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Harry Potter and the Sorcerer's Stone ~ [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup>
+    > 10/10
+
 * Замуж с осложнениями ~ [Chiffi](users/105/105831994080785626680-google)<sup>72</sup>
     > Очень симпатичный женский роман. Приятный язык и  ми-ми-ми))) Мне понравилось
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Довольно банальная книга.
 
 * Машина времени ~ [fire_ejik](users/329/32903202-vkontakte)<sup>39</sup>
-    > Рассчитывала дня на три, но что-то пошло не так
 
 * Дети лампы. Книга вторая. ~ [fire_ejik](users/329/32903202-vkontakte)<sup>38</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Трое в лодке, не считая собаки ~ [fire_ejik](users/329/32903202-vkontakte)<sup>30</sup>
 
-* Жизнь взаймы ~ [fire_ejik](users/329/32903202-vkontakte)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>91</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>324</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 [Tonya](users/107/107653618864404586169-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>105</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
-[govorova.tatia](users/500/500014724-vkontakte)<sup>1</sup> 
 
 
-_26.08.2018 09:29:47_
+_26.08.2018 10:54:21_

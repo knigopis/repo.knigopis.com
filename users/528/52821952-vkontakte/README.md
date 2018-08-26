@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>90</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>91</sup>
 ---
 
 ## 2018
+
+### Harry Potter and the Sorcerer's Stone
+J. K. Rowling
+> [2018-08-25] 10/10
+
 
 ### Скотный двор
 Джордж Оруэлл

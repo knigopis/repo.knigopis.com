@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 91,
+        "updatedAt": "2018-08-26 10:54:21"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "Артур Вольнов",
         "booksCount": 15,
         "updatedAt": "2018-08-18 02:21:05"
-    },
-    "500014724-vkontakte": {
-        "id": "500014724-vkontakte",
-        "nickname": "govorova.tatia",
-        "booksCount": 1,
-        "updatedAt": "2018-08-17 18:44:39"
     }
 }
