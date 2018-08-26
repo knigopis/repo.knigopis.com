@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>324</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 [Tonya](users/107/107653618864404586169-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>13</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>102</sup> 
 [syringa](users/570/57062183-vkontakte)<sup>13</sup> 
 [ionian.wind](users/144/144458-vkontakte)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>323</sup> 
 [severnyy_olen](users/113/113571576628170899835-google)<sup>1</sup> 
 [foreverobito](users/481/481937529-vkontakte)<sup>16</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [govorova.tatia](users/500/500014724-vkontakte)<sup>1</sup> 
 
 
-_26.08.2018 07:22:25_
+_26.08.2018 09:29:47_
