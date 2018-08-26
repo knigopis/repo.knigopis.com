@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Военная стратегия. Подготовка и ведение войн Нового и Новейшего времени ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup>
+    > в процессе
+
 * Harry Potter and the Sorcerer's Stone ~ [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup>
     > 10/10
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Альтернативное будущее, в котором людям удалось прорваться в космос и плотно там обосноваться. Народы Земли расселились по далеким галактикам и проводят отпуска на курортных планетах. И кто бы мог подумать, что, казалось бы, простой полет, всего лишь сопровождение группы детишек на курорт, обернется для героини таким приключением. Страшные инопланетные пираты, захват в плен и предательство соотечественников. Чужая, незнакомая культура, для которой земляне нечто особенное, приравненное к богам. И суровый капитан космических пиратов, который при ближайшем рассмотрении оказался не таким уж суровым и совсем не пиратом
 
 * Путь к финансовой независимости ~ [darb_el](users/184/184135339-vkontakte)<sup>13</sup>
-    > Довольно банальная книга.
 
 * Машина времени ~ [fire_ejik](users/329/32903202-vkontakte)<sup>39</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Над пропастью во ржи ~ [fire_ejik](users/329/32903202-vkontakte)<sup>31</sup>
 
-* Трое в лодке, не считая собаки ~ [fire_ejik](users/329/32903202-vkontakte)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup> 
 [Marzhan](users/110/110565754199715103002-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>324</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [severnyy_olen](users/113/113571576628170899835-google)<sup>1</sup> 
 [foreverobito](users/481/481937529-vkontakte)<sup>16</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>178</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>126</sup> 
 [itoolru](users/100/100001578234748-facebook)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
 
 
-_26.08.2018 11:34:41_
+_26.08.2018 19:53:15_

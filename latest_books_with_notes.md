@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Военная стратегия. Подготовка и ведение войн Нового и Новейшего времени ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup>
 * Harry Potter and the Sorcerer's Stone ~ [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup>
 * Замуж с осложнениями ~ [Chiffi](users/105/105831994080785626680-google)<sup>72</sup>
 * Путь к финансовой независимости ~ [darb_el](users/184/184135339-vkontakte)<sup>13</sup>
@@ -30,7 +31,6 @@
 * Три товарища ~ [fire_ejik](users/329/32903202-vkontakte)<sup>9</sup>
 * Гордость и предубеждение ~ [fire_ejik](users/329/32903202-vkontakte)<sup>8</sup>
 * О ~ [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup>
-* Архив Шерлока Холмса ~ [fire_ejik](users/329/32903202-vkontakte)<sup>7</sup>
 
 
-_26.08.2018 10:54:21_
+_26.08.2018 19:53:15_
