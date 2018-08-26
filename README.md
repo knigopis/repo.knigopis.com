@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tonya](users/107/107653618864404586169-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>13</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>40</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>43</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>58</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>15</sup> 
 [govorova.tatia](users/500/500014724-vkontakte)<sup>1</sup> 
-[selivanov](users/104/104491677658529528381-google)<sup>0</sup> 
 
 
-_25.08.2018 11:22:13_
+_26.08.2018 04:03:36_
