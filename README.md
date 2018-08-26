@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Замуж с осложнениями ~ [Chiffi](users/105/105831994080785626680-google)<sup>72</sup>
+    > Очень симпатичный женский роман. Приятный язык и  ми-ми-ми))) Мне понравилось
+    > 
+    > Альтернативное будущее, в котором людям удалось прорваться в космос и плотно там обосноваться. Народы Земли расселились по далеким галактикам и проводят отпуска на курортных планетах. И кто бы мог подумать, что, казалось бы, простой полет, всего лишь сопровождение группы детишек на курорт, обернется для героини таким приключением. Страшные инопланетные пираты, захват в плен и предательство соотечественников. Чужая, незнакомая культура, для которой земляне нечто особенное, приравненное к богам. И суровый капитан космических пиратов, который при ближайшем рассмотрении оказался не таким уж суровым и совсем не пиратом
+
 * Путь к финансовой независимости ~ [darb_el](users/184/184135339-vkontakte)<sup>13</sup>
     > Довольно банальная книга.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Рассчитывала дня на три, но что-то пошло не так
 
 * Дети лампы. Книга вторая. ~ [fire_ejik](users/329/32903202-vkontakte)<sup>38</sup>
-    > Из-за сессии не могла долго дочитать. Забросила на месяц, а потом пол книги за пару дней фьють
 
 * Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [fire_ejik](users/329/32903202-vkontakte)<sup>37</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Жизнь взаймы ~ [fire_ejik](users/329/32903202-vkontakte)<sup>28</sup>
 
-* Сильнее страха ~ [fire_ejik](users/329/32903202-vkontakte)<sup>25</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>72</sup> 
 [Tonya](users/107/107653618864404586169-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>13</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>40</sup> 
@@ -40,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>190</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 [Илья](users/116/116129929397924954448-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>44</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>9</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [govorova.tatia](users/500/500014724-vkontakte)<sup>1</sup> 
 
 
-_26.08.2018 04:03:36_
+_26.08.2018 07:19:18_

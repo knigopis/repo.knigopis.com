@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Замуж с осложнениями ~ [Chiffi](users/105/105831994080785626680-google)<sup>72</sup>
 * Путь к финансовой независимости ~ [darb_el](users/184/184135339-vkontakte)<sup>13</sup>
 * Машина времени ~ [fire_ejik](users/329/32903202-vkontakte)<sup>39</sup>
 * Дети лампы. Книга вторая. ~ [fire_ejik](users/329/32903202-vkontakte)<sup>38</sup>
@@ -30,7 +31,6 @@
 * О ~ [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup>
 * Архив Шерлока Холмса ~ [fire_ejik](users/329/32903202-vkontakte)<sup>7</sup>
 * 451 градус по Фаренгейту ~ [fire_ejik](users/329/32903202-vkontakte)<sup>6</sup>
-* Портрет Дориана Грея ~ [fire_ejik](users/329/32903202-vkontakte)<sup>5</sup>
 
 
-_25.08.2018 11:22:13_
+_26.08.2018 07:19:18_
