@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 10,
+        "updatedAt": "2018-08-28 14:52:31"
+    },
     "208969292-yandex": {
         "id": "208969292-yandex",
         "nickname": "elena-gagina2014",
@@ -94,12 +100,6 @@
         "nickname": "violet_velva",
         "booksCount": 44,
         "updatedAt": "2018-08-23 10:48:12"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 9,
-        "updatedAt": "2018-08-22 20:23:08"
     },
     "104452088751111617579-google": {
         "id": "104452088751111617579-google",

@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Момо ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
+    > "Momo, oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte"
+    > Глава 12. В том краю, откуда приходит время
+    > ISBN 978-5-389-06428-7 (рус.)
+    > ISBN 978-3-522-17750-4 (нем.)
+
 * Заложница ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
     > Роман, из библиотеки ИНЖ. (отец проиграл в карты и его обязывают одну из дочерей отдать замуж, соглашается неприметная младшая дочь,которая затем покоряет всех). В целом интересно, в конце пустовато.
 
@@ -12,7 +18,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Harry Potter and the Sorcerer's Stone ~ [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup>
-    > 10/10
 
 * Замуж с осложнениями ~ [Chiffi](users/105/105831994080785626680-google)<sup>72</sup>
 
@@ -26,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Мрачный Жнец ~ [fire_ejik](users/329/32903202-vkontakte)<sup>33</sup>
 
-* Мор, ученик Смерти ~ [fire_ejik](users/329/32903202-vkontakte)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>1</sup> 
 [Валентина Каверина](users/282/2824946827022425099-mailru)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup> 
@@ -49,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>190</sup> 
 [Илья](users/116/116129929397924954448-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>44</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>9</sup> 
 [A_lex_S](users/104/104452088751111617579-google)<sup>0</sup> 
 [goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>102</sup> 
@@ -65,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>81</sup> 
 
 
-_28.08.2018 06:54:59_
+_28.08.2018 14:52:32_

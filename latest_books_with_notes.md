@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Момо ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
 * Заложница ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
 * Военная стратегия. Подготовка и ведение войн Нового и Новейшего времени ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup>
 * Harry Potter and the Sorcerer's Stone ~ [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup>
@@ -30,7 +31,6 @@
 * Цветы для Элджернона ~ [fire_ejik](users/329/32903202-vkontakte)<sup>11</sup>
 * На западном фронте без перемен ~ [fire_ejik](users/329/32903202-vkontakte)<sup>10</sup>
 * Три товарища ~ [fire_ejik](users/329/32903202-vkontakte)<sup>9</sup>
-* Гордость и предубеждение ~ [fire_ejik](users/329/32903202-vkontakte)<sup>8</sup>
 
 
-_28.08.2018 06:53:44_
+_28.08.2018 14:52:32_

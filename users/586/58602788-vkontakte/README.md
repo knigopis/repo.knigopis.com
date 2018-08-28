@@ -1,7 +1,15 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>9</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>10</sup>
 ---
 
 ## 2018
+
+### Момо
+Михаэль Энде
+> [2018-08] "Momo, oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte"
+> Глава 12. В том краю, откуда приходит время
+> ISBN 978-5-389-06428-7 (рус.)
+> ISBN 978-3-522-17750-4 (нем.)
+
 
 ### Рассказы, упомянутые в "Август 2005. Эшер II" Рэя Брэдбери
 Эдгар Аллан По
