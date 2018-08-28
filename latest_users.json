@@ -1,4 +1,10 @@
 {
+    "2824946827022425099-mailru": {
+        "id": "2824946827022425099-mailru",
+        "nickname": "Валентина Каверина",
+        "booksCount": 0,
+        "updatedAt": "2018-08-28 06:43:02"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "Chandravadana",
         "booksCount": 105,
         "updatedAt": "2018-08-19 10:11:04"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 58,
-        "updatedAt": "2018-08-18 20:28:35"
     }
 }
