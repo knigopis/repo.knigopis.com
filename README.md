@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Защита Лужина ~ [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup>
+    > 10/10 
+    > Лучшее из прочитанного за год.
+
 * Момо ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
     > "Momo, oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte"
     > Глава 12. В том краю, откуда приходит время
@@ -15,7 +19,6 @@ Do not use pull requests to make changes here.
     > Роман, из библиотеки ИНЖ. (отец проиграл в карты и его обязывают одну из дочерей отдать замуж, соглашается неприметная младшая дочь,которая затем покоряет всех). В целом интересно, в конце пустовато.
 
 * Военная стратегия. Подготовка и ведение войн Нового и Новейшего времени ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup>
-    > в процессе
 
 * Harry Potter and the Sorcerer's Stone ~ [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup>
 
@@ -29,19 +32,17 @@ Do not use pull requests to make changes here.
 
 * Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [fire_ejik](users/329/32903202-vkontakte)<sup>37</sup>
 
-* Мрачный Жнец ~ [fire_ejik](users/329/32903202-vkontakte)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>92</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>1</sup> 
 [Валентина Каверина](users/282/2824946827022425099-mailru)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup> 
 [Marzhan](users/110/110565754199715103002-google)<sup>0</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>91</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>324</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 [Tonya](users/107/107653618864404586169-google)<sup>0</sup> 
@@ -68,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>81</sup> 
 
 
-_28.08.2018 14:52:32_
+_28.08.2018 19:57:51_

@@ -1,7 +1,13 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>91</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>92</sup>
 ---
 
 ## 2018
+
+### Защита Лужина
+Владимир Набоков
+> [2018-08-28] 10/10 
+> Лучшее из прочитанного за год.
+
 
 ### Harry Potter and the Sorcerer's Stone
 J. K. Rowling
