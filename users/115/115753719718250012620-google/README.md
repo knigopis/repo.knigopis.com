@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>190</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>191</sup>
 ---
 
 ## 2018
+
+### Остров Сокровищ
+Стивенсон, Роберт Льюис
+> [2018-08-28] 
+
 
 ### Дарвинизм в XX веке
 Медников, Борис Михайлович

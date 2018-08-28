@@ -1,4 +1,16 @@
 {
+    "KGqBA8qwE_": {
+        "id": "KGqBA8qwE_",
+        "title": "Остров Сокровищ",
+        "author": "Стивенсон, Роберт Льюис",
+        "notes": "",
+        "createdAt": "2018-08-28 20:06:46",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 191
+        }
+    },
     "phAo1fKB9z": {
         "id": "phAo1fKB9z",
         "title": "Защита Лужина",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 23
-        }
-    },
-    "QyruuyymsR": {
-        "id": "QyruuyymsR",
-        "title": "Космоолухи: до, между, после",
-        "author": "Ольга Громыко",
-        "notes": "",
-        "createdAt": "2018-08-25 10:13:01",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 22
         }
     }
 }
