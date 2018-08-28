@@ -1,4 +1,10 @@
 {
+    "208969292-yandex": {
+        "id": "208969292-yandex",
+        "nickname": "elena-gagina2014",
+        "booksCount": 1,
+        "updatedAt": "2018-08-28 06:52:55"
+    },
     "2824946827022425099-mailru": {
         "id": "2824946827022425099-mailru",
         "nickname": "Валентина Каверина",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 81,
         "updatedAt": "2018-08-19 12:11:45"
-    },
-    "105866022348292919948-google": {
-        "id": "105866022348292919948-google",
-        "nickname": "Chandravadana",
-        "booksCount": 105,
-        "updatedAt": "2018-08-19 10:11:04"
     }
 }
