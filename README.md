@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[elena-gagina2014](users/208/208969292-yandex)<sup>2</sup> 
+[elena-gagina2014](users/208/208969292-yandex)<sup>1</sup> 
 [Валентина Каверина](users/282/2824946827022425099-mailru)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup> 
 [Marzhan](users/110/110565754199715103002-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>81</sup> 
 
 
-_28.08.2018 06:53:44_
+_28.08.2018 06:54:59_
