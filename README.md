@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Валентина Каверина](users/282/2824946827022425099-mailru)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup> 
 [Marzhan](users/110/110565754199715103002-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Villiriana](users/220/2204910936245631-facebook)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>81</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>105</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>58</sup> 
 
 
-_26.08.2018 19:53:15_
+_28.08.2018 06:43:06_
