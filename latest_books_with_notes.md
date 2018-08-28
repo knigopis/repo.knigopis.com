@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Заложница ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
 * Военная стратегия. Подготовка и ведение войн Нового и Новейшего времени ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup>
 * Harry Potter and the Sorcerer's Stone ~ [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup>
 * Замуж с осложнениями ~ [Chiffi](users/105/105831994080785626680-google)<sup>72</sup>
@@ -30,7 +31,6 @@
 * На западном фронте без перемен ~ [fire_ejik](users/329/32903202-vkontakte)<sup>10</sup>
 * Три товарища ~ [fire_ejik](users/329/32903202-vkontakte)<sup>9</sup>
 * Гордость и предубеждение ~ [fire_ejik](users/329/32903202-vkontakte)<sup>8</sup>
-* О ~ [Eji_tyan](users/235/2352103981-twitter)<sup>41</sup>
 
 
-_26.08.2018 19:53:15_
+_28.08.2018 06:53:44_
