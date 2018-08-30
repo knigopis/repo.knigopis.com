@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anyutka_kozlova92](users/223/22376066-vkontakte)<sup>2</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>64</sup> 
 [En](users/333/333646551-vkontakte)<sup>51</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>664</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [foreverobito](users/481/481937529-vkontakte)<sup>16</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>126</sup> 
 
 
-_30.08.2018 07:11:23_
+_30.08.2018 09:28:03_

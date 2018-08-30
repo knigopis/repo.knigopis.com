@@ -1,4 +1,4 @@
-# List of books read by [anyutka_kozlova92](http://vk.com/id22376066)<sup>1</sup>
+# List of books read by [anyutka_kozlova92](http://vk.com/id22376066)<sup>2</sup>
 ---
 
 ## 2018
@@ -6,6 +6,10 @@
 ### Три товарища
 Эрих Мария Ремарк
 > [2018-08-13] Очень интересная и проникновенная книга.
+
+
+### Голодные игры
+> [2018-08] 
 
 
 
