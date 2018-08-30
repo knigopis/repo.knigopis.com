@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Таинственная история Билли Миллигана ~ [Euphoria](users/106/106304994652616315178-google)<sup>64</sup>
+    > Интересная книга о множественной личности. Прочла быстро, читается довольно легко. Написано о реальном человеке, что более интересно читать.
+
 * Защита Лужина ~ [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup>
     > 10/10 
     > Лучшее из прочитанного за год.
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > ISBN 978-3-522-17750-4 (нем.)
 
 * Заложница ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
-    > Роман, из библиотеки ИНЖ. (отец проиграл в карты и его обязывают одну из дочерей отдать замуж, соглашается неприметная младшая дочь,которая затем покоряет всех). В целом интересно, в конце пустовато.
 
 * Военная стратегия. Подготовка и ведение войн Нового и Новейшего времени ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Дети лампы. Книга вторая. ~ [fire_ejik](users/329/32903202-vkontakte)<sup>38</sup>
 
-* Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [fire_ejik](users/329/32903202-vkontakte)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>64</sup> 
 [En](users/333/333646551-vkontakte)<sup>51</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>664</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>191</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>126</sup> 
-[itoolru](users/100/100001578234748-facebook)<sup>1</sup> 
 
 
-_30.08.2018 06:11:37_
+_30.08.2018 07:11:23_

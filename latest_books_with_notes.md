@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Таинственная история Билли Миллигана ~ [Euphoria](users/106/106304994652616315178-google)<sup>64</sup>
 * Защита Лужина ~ [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup>
 * Момо ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
 * Заложница ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
@@ -30,7 +31,6 @@
 * Космоолухи ~ [fire_ejik](users/329/32903202-vkontakte)<sup>13</sup>
 * Сказка о самоубийстве ~ [fire_ejik](users/329/32903202-vkontakte)<sup>12</sup>
 * Цветы для Элджернона ~ [fire_ejik](users/329/32903202-vkontakte)<sup>11</sup>
-* На западном фронте без перемен ~ [fire_ejik](users/329/32903202-vkontakte)<sup>10</sup>
 
 
-_28.08.2018 19:57:51_
+_30.08.2018 07:11:23_
