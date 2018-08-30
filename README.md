@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>51</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>664</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>191</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>126</sup> 
 [itoolru](users/100/100001578234748-facebook)<sup>1</sup> 
-[Villiriana](users/220/2204910936245631-facebook)<sup>1</sup> 
 
 
-_29.08.2018 19:36:33_
+_30.08.2018 06:11:37_

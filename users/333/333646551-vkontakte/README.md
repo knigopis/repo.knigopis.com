@@ -1,7 +1,12 @@
-# List of books read by [En](http://vk.com/id333646551)<sup>50</sup>
+# List of books read by [En](http://vk.com/id333646551)<sup>51</sup>
 ---
 
 ## 2018
+
+### Мертвый ноль
+Макс Фрай
+> [2018-08-24] 
+
 
 ### Иллюзия 2
 Тармашев С.С.

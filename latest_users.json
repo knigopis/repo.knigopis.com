@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 51,
+        "updatedAt": "2018-08-30 06:11:37"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "itoolru",
         "booksCount": 1,
         "updatedAt": "2018-08-20 12:11:29"
-    },
-    "2204910936245631-facebook": {
-        "id": "2204910936245631-facebook",
-        "nickname": "Villiriana",
-        "booksCount": 1,
-        "updatedAt": "2018-08-19 19:05:14"
     }
 }
