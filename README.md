@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бесы ~ [anvonamore](users/595/5957175-vkontakte)<sup>115</sup>
+    > 5/10
+
 * Таинственная история Билли Миллигана ~ [Euphoria](users/106/106304994652616315178-google)<sup>64</sup>
     > Интересная книга о множественной личности. Прочла быстро, читается довольно легко. Написано о реальном человеке, что более интересно читать.
 
@@ -13,10 +16,6 @@ Do not use pull requests to make changes here.
     > Лучшее из прочитанного за год.
 
 * Момо ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
-    > "Momo, oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte"
-    > Глава 12. В том краю, откуда приходит время
-    > ISBN 978-5-389-06428-7 (рус.)
-    > ISBN 978-3-522-17750-4 (нем.)
 
 * Заложница ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
 
@@ -30,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Машина времени ~ [fire_ejik](users/329/32903202-vkontakte)<sup>39</sup>
 
-* Дети лампы. Книга вторая. ~ [fire_ejik](users/329/32903202-vkontakte)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>115</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>74</sup> 
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>2</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>64</sup> 
@@ -66,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ionian.wind](users/144/144458-vkontakte)<sup>0</sup> 
 [severnyy_olen](users/113/113571576628170899835-google)<sup>1</sup> 
 [foreverobito](users/481/481937529-vkontakte)<sup>16</sup> 
-[me](users/381/381417697-yandex)<sup>44</sup> 
 
 
-_30.08.2018 17:05:29_
+_30.08.2018 17:09:16_

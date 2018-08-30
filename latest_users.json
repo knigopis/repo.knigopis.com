@@ -1,4 +1,10 @@
 {
+    "5957175-vkontakte": {
+        "id": "5957175-vkontakte",
+        "nickname": "anvonamore",
+        "booksCount": 115,
+        "updatedAt": "2018-08-30 17:09:16"
+    },
     "219259003-vkontakte": {
         "id": "219259003-vkontakte",
         "nickname": "victoria_spilioti",
@@ -172,11 +178,5 @@
         "nickname": "foreverobito",
         "booksCount": 16,
         "updatedAt": "2018-08-20 22:41:37"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 44,
-        "updatedAt": "2018-08-20 19:49:57"
     }
 }

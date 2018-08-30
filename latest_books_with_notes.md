@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бесы ~ [anvonamore](users/595/5957175-vkontakte)<sup>115</sup>
 * Таинственная история Билли Миллигана ~ [Euphoria](users/106/106304994652616315178-google)<sup>64</sup>
 * Защита Лужина ~ [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup>
 * Момо ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Случайная вакансия ~ [fire_ejik](users/329/32903202-vkontakte)<sup>14</sup>
 * Космоолухи ~ [fire_ejik](users/329/32903202-vkontakte)<sup>13</sup>
 * Сказка о самоубийстве ~ [fire_ejik](users/329/32903202-vkontakte)<sup>12</sup>
-* Цветы для Элджернона ~ [fire_ejik](users/329/32903202-vkontakte)<sup>11</sup>
 
 
-_30.08.2018 07:11:23_
+_30.08.2018 17:09:16_
