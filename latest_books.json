@@ -1,4 +1,16 @@
 {
+    "gjnEOCzO2c": {
+        "id": "gjnEOCzO2c",
+        "title": "Пнин",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2018-08-30 17:05:29",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 74
+        }
+    },
     "7h2U4uw-ik": {
         "id": "7h2U4uw-ik",
         "title": "Финансист",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 29
-        }
-    },
-    "anVvCxEVSM": {
-        "id": "anVvCxEVSM",
-        "title": "Жизнь взаймы",
-        "author": "Эрих Мария Ремарк",
-        "notes": "Нудновато. Не пошла книга и поэтому только половина (целая половина!)",
-        "createdAt": "2018-08-25 10:14:56",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 28
         }
     }
 }
