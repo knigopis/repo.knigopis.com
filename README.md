@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Любовница французского лейтенанта ~ [anvonamore](users/595/5957175-vkontakte)<sup>117</sup>
+    > 7/10
+
 * Что делать ~ [anvonamore](users/595/5957175-vkontakte)<sup>116</sup>
     > 9/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10
 
 * Таинственная история Билли Миллигана ~ [Euphoria](users/106/106304994652616315178-google)<sup>64</sup>
-    > Интересная книга о множественной личности. Прочла быстро, читается довольно легко. Написано о реальном человеке, что более интересно читать.
 
 * Защита Лужина ~ [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Замуж с осложнениями ~ [Chiffi](users/105/105831994080785626680-google)<sup>72</sup>
 
-* Путь к финансовой независимости ~ [darb_el](users/184/184135339-vkontakte)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[anvonamore](users/595/5957175-vkontakte)<sup>116</sup> 
+[anvonamore](users/595/5957175-vkontakte)<sup>117</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>74</sup> 
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>2</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>64</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [foreverobito](users/481/481937529-vkontakte)<sup>16</sup> 
 
 
-_30.08.2018 17:10:22_
+_30.08.2018 17:11:24_

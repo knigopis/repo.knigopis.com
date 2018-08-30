@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Любовница французского лейтенанта ~ [anvonamore](users/595/5957175-vkontakte)<sup>117</sup>
 * Что делать ~ [anvonamore](users/595/5957175-vkontakte)<sup>116</sup>
 * Бесы ~ [anvonamore](users/595/5957175-vkontakte)<sup>115</sup>
 * Таинственная история Билли Миллигана ~ [Euphoria](users/106/106304994652616315178-google)<sup>64</sup>
@@ -30,7 +31,6 @@
 * Триумфальная арка ~ [fire_ejik](users/329/32903202-vkontakte)<sup>16</sup>
 * Великий Гетсби ~ [fire_ejik](users/329/32903202-vkontakte)<sup>15</sup>
 * Случайная вакансия ~ [fire_ejik](users/329/32903202-vkontakte)<sup>14</sup>
-* Космоолухи ~ [fire_ejik](users/329/32903202-vkontakte)<sup>13</sup>
 
 
-_30.08.2018 17:10:22_
+_30.08.2018 17:11:24_
