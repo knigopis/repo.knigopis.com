@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[victoria_spilioti](users/219/219259003-vkontakte)<sup>73</sup> 
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>2</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>64</sup> 
 [En](users/333/333646551-vkontakte)<sup>51</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [severnyy_olen](users/113/113571576628170899835-google)<sup>1</sup> 
 [foreverobito](users/481/481937529-vkontakte)<sup>16</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>55</sup> 
 
 
-_30.08.2018 09:28:03_
+_30.08.2018 17:05:00_

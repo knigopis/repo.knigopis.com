@@ -1,4 +1,16 @@
 {
+    "7h2U4uw-ik": {
+        "id": "7h2U4uw-ik",
+        "title": "Финансист",
+        "author": "Теодор Драйзер",
+        "notes": "",
+        "createdAt": "2018-08-30 17:05:00",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 73
+        }
+    },
     "pntl5KmMXz": {
         "id": "pntl5KmMXz",
         "title": "Голодные игры",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 28
-        }
-    },
-    "zEJq09FiOU": {
-        "id": "zEJq09FiOU",
-        "title": "Гарри Поттер и тайная комната",
-        "author": "Дж. К. Роулинг",
-        "notes": "",
-        "createdAt": "2018-08-25 10:14:37",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 27
         }
     }
 }
