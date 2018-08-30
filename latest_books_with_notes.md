@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Что делать ~ [anvonamore](users/595/5957175-vkontakte)<sup>116</sup>
 * Бесы ~ [anvonamore](users/595/5957175-vkontakte)<sup>115</sup>
 * Таинственная история Билли Миллигана ~ [Euphoria](users/106/106304994652616315178-google)<sup>64</sup>
 * Защита Лужина ~ [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup>
@@ -30,7 +31,6 @@
 * Великий Гетсби ~ [fire_ejik](users/329/32903202-vkontakte)<sup>15</sup>
 * Случайная вакансия ~ [fire_ejik](users/329/32903202-vkontakte)<sup>14</sup>
 * Космоолухи ~ [fire_ejik](users/329/32903202-vkontakte)<sup>13</sup>
-* Сказка о самоубийстве ~ [fire_ejik](users/329/32903202-vkontakte)<sup>12</sup>
 
 
-_30.08.2018 17:09:16_
+_30.08.2018 17:10:22_

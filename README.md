@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Что делать ~ [anvonamore](users/595/5957175-vkontakte)<sup>116</sup>
+    > 9/10
+
 * Бесы ~ [anvonamore](users/595/5957175-vkontakte)<sup>115</sup>
     > 5/10
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Интересная книга о множественной личности. Прочла быстро, читается довольно легко. Написано о реальном человеке, что более интересно читать.
 
 * Защита Лужина ~ [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup>
-    > 10/10 
-    > Лучшее из прочитанного за год.
 
 * Момо ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Путь к финансовой независимости ~ [darb_el](users/184/184135339-vkontakte)<sup>13</sup>
 
-* Машина времени ~ [fire_ejik](users/329/32903202-vkontakte)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[anvonamore](users/595/5957175-vkontakte)<sup>115</sup> 
+[anvonamore](users/595/5957175-vkontakte)<sup>116</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>74</sup> 
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>2</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>64</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [foreverobito](users/481/481937529-vkontakte)<sup>16</sup> 
 
 
-_30.08.2018 17:09:16_
+_30.08.2018 17:10:22_
