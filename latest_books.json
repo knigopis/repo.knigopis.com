@@ -1,4 +1,16 @@
 {
+    "fhfHf_p4np": {
+        "id": "fhfHf_p4np",
+        "title": "Властелин колец",
+        "author": "Джон Р. Р. Толкин",
+        "notes": "",
+        "createdAt": "2018-08-30 17:26:01",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 64
+        }
+    },
     "IJwAuZKPSG": {
         "id": "IJwAuZKPSG",
         "title": "Любовница французского лейтенанта",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 33
-        }
-    },
-    "e6He6f0gTJ": {
-        "id": "e6He6f0gTJ",
-        "title": "Мор, ученик Смерти",
-        "author": "Терри Пратчетт",
-        "notes": "Прекрасно :з Язык написания восхитителен, задумка и ее исполнение впечатлило. Очень интересная история ♥",
-        "createdAt": "2018-08-25 10:16:15",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 32
         }
     }
 }

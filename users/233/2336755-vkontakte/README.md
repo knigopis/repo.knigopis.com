@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>63</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>64</sup>
 ---
 
 ## 2018
+
+### Властелин колец
+Джон Р. Р. Толкин
+> [2018-08-17] 
+
 
 ### Хоббит, или туда и обратно
 Джон Р.Р. Толкиен

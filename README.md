@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>64</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>117</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>74</sup> 
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [syringa](users/570/57062183-vkontakte)<sup>13</sup> 
 [ionian.wind](users/144/144458-vkontakte)<sup>0</sup> 
 [severnyy_olen](users/113/113571576628170899835-google)<sup>1</sup> 
-[foreverobito](users/481/481937529-vkontakte)<sup>16</sup> 
 
 
-_30.08.2018 17:11:24_
+_30.08.2018 17:26:01_
