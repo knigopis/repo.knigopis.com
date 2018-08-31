@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>665</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>134</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>127</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>2</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>64</sup> 
 [En](users/333/333646551-vkontakte)<sup>51</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>664</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>191</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [syringa](users/570/57062183-vkontakte)<sup>13</sup> 
 
 
-_31.08.2018 15:51:54_
+_31.08.2018 18:27:03_

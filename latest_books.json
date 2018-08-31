@@ -1,4 +1,16 @@
 {
+    "RGiA4iPkqx": {
+        "id": "RGiA4iPkqx",
+        "title": "Я пережила Освенцем",
+        "author": "Кристина Живульская",
+        "notes": "",
+        "createdAt": "2018-08-31 18:27:02",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 665
+        }
+    },
     "oeHVjVVyjx": {
         "id": "oeHVjVVyjx",
         "title": "Если хочешь быть счастливым",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 37
-        }
-    },
-    "gHSxvbcPOn": {
-        "id": "gHSxvbcPOn",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2018-08-25 10:17:27",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 36
         }
     }
 }

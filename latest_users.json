@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 665,
+        "updatedAt": "2018-08-31 18:27:02"
+    },
     "208969292-yandex": {
         "id": "208969292-yandex",
         "nickname": "elena-gagina2014",
@@ -52,12 +58,6 @@
         "nickname": "En",
         "booksCount": 51,
         "updatedAt": "2018-08-30 06:11:37"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 664,
-        "updatedAt": "2018-08-29 19:36:32"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
