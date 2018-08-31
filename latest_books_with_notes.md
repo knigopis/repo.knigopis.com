@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Если хочешь быть счастливым ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
 * Любовница французского лейтенанта ~ [anvonamore](users/595/5957175-vkontakte)<sup>117</sup>
 * Что делать ~ [anvonamore](users/595/5957175-vkontakte)<sup>116</sup>
 * Бесы ~ [anvonamore](users/595/5957175-vkontakte)<sup>115</sup>
@@ -30,7 +31,6 @@
 * Хорошо быть тихоней ~ [fire_ejik](users/329/32903202-vkontakte)<sup>17</sup>
 * Триумфальная арка ~ [fire_ejik](users/329/32903202-vkontakte)<sup>16</sup>
 * Великий Гетсби ~ [fire_ejik](users/329/32903202-vkontakte)<sup>15</sup>
-* Случайная вакансия ~ [fire_ejik](users/329/32903202-vkontakte)<sup>14</sup>
 
 
-_30.08.2018 17:11:24_
+_31.08.2018 15:51:54_

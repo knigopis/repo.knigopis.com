@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Если хочешь быть счастливым ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
+    > книга из библио, интересная, но немного сложна для понимания людям ранее не изучавшим психологию. памятка:  У каждого человека три инстинкта - пищевой, оборонительный и сексуальный. Я (отношение к себе),вы (отношение к близким), они (отношение к людям вообще. Амортизация - непосредственная (пример, вы отлично выглядите, спасибо я действительно отлично выгляжу); оставленная (признать все что якобы думает про вас другой человек и те действия, которые он принимает по отношению к вам); профилактическая (я не заслужил). Родитель, взрослый, дитя.
+
 * Любовница французского лейтенанта ~ [anvonamore](users/595/5957175-vkontakte)<sup>117</sup>
     > 7/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10
 
 * Бесы ~ [anvonamore](users/595/5957175-vkontakte)<sup>115</sup>
-    > 5/10
 
 * Таинственная история Билли Миллигана ~ [Euphoria](users/106/106304994652616315178-google)<sup>64</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Harry Potter and the Sorcerer's Stone ~ [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup>
 
-* Замуж с осложнениями ~ [Chiffi](users/105/105831994080785626680-google)<sup>72</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[elena-gagina2014](users/208/208969292-yandex)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>134</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>127</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>64</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>191</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup> 
-[elena-gagina2014](users/208/208969292-yandex)<sup>1</sup> 
 [Валентина Каверина](users/282/2824946827022425099-mailru)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup> 
 [Marzhan](users/110/110565754199715103002-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [syringa](users/570/57062183-vkontakte)<sup>13</sup> 
 
 
-_31.08.2018 11:46:32_
+_31.08.2018 15:51:54_

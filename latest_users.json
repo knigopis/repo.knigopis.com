@@ -1,4 +1,10 @@
 {
+    "208969292-yandex": {
+        "id": "208969292-yandex",
+        "nickname": "elena-gagina2014",
+        "booksCount": 2,
+        "updatedAt": "2018-08-31 15:51:54"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -70,12 +76,6 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 10,
         "updatedAt": "2018-08-28 14:52:31"
-    },
-    "208969292-yandex": {
-        "id": "208969292-yandex",
-        "nickname": "elena-gagina2014",
-        "booksCount": 1,
-        "updatedAt": "2018-08-28 06:54:59"
     },
     "2824946827022425099-mailru": {
         "id": "2824946827022425099-mailru",
