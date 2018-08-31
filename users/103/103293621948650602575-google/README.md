@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>126</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>127</sup>
 ---
 
 ## 2018
+
+### Тараканы
+Ю Несбё
+> [2018-08-31] 
+
 
 ### Пандемия
 Франк Тилье

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lost in Frost](users/103/103293621948650602575-google)<sup>127</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>64</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>117</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>74</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>102</sup> 
 [syringa](users/570/57062183-vkontakte)<sup>13</sup> 
 [ionian.wind](users/144/144458-vkontakte)<sup>0</sup> 
-[severnyy_olen](users/113/113571576628170899835-google)<sup>1</sup> 
 
 
-_30.08.2018 17:26:01_
+_31.08.2018 11:36:57_
