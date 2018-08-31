@@ -1,4 +1,16 @@
 {
+    "R0IE2O-jWl": {
+        "id": "R0IE2O-jWl",
+        "title": "Уловка-22",
+        "author": "Джозеф Хеллер",
+        "notes": "",
+        "createdAt": "2018-08-31 11:46:31",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 134
+        }
+    },
     "kTmqKhuoGI": {
         "id": "kTmqKhuoGI",
         "title": "Тараканы",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 35
-        }
-    },
-    "fwWQkIh7ap": {
-        "id": "fwWQkIh7ap",
-        "title": "Похороните меня за плинтусом",
-        "author": "Павел Санаев",
-        "notes": "",
-        "createdAt": "2018-08-25 10:16:48",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 34
         }
     }
 }
