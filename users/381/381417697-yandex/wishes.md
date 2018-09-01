@@ -21,12 +21,12 @@ Miran Lipovača
 ### `20` Слово живое и мертвое
 Нора Галь
 
-### `12` Совершенный код
-Стив Макконнелл
-
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
+
+### `12` Совершенный код
+Стив Макконнелл
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
@@ -44,20 +44,23 @@ Randall Munroe
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` A Briefer History of Time
-Stephen Hawking
-
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
+
+### `` Посторонний
+Камю
+
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Мертвые души
-Николай Гоголь
-
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
+
+### `` Мертвые души
+Николай Гоголь
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
