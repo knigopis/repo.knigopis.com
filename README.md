@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>32</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>82</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>31</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>665</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>134</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>102</sup> 
 
 
-_02.09.2018 17:36:47_
+_02.09.2018 18:47:25_

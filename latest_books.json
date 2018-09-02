@@ -1,4 +1,16 @@
 {
+    "ZMOsNxzSB1": {
+        "id": "ZMOsNxzSB1",
+        "title": "Год кролика",
+        "author": "Паасилинна Арто",
+        "notes": "",
+        "createdAt": "2018-09-02 18:47:25",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 32
+        }
+    },
     "24i8xspknv": {
         "id": "24i8xspknv",
         "title": "Sapiens: A Brief History of Humankind",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 40
-        }
-    },
-    "JX65x0Y_FF": {
-        "id": "JX65x0Y_FF",
-        "title": "Машина времени",
-        "author": "Герберт Уэллс",
-        "notes": "Рассчитывала дня на три, но что-то пошло не так",
-        "createdAt": "2018-08-25 10:18:33",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 39
         }
     }
 }

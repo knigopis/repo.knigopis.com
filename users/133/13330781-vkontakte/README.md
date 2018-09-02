@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>31</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>32</sup>
 ---
 
 ## 2018
+
+### Год кролика
+Паасилинна Арто
+> [2018-09-02] 
+
 
 ### Цветы для Элжернона
 Дэниел Киз
