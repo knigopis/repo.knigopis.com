@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Осиная фабрика ~ [Saamy](users/115/115226508-vkontakte)<sup>55</sup>
+    > Книга с ошеломляющим концом и не самым приятным сюжетом. Где-то мне было даже мерзко читать
+
 * Двойной язык ~ [Saamy](users/115/115226508-vkontakte)<sup>54</sup>
     > Книга про молодую пифию  любопытная и ставит многие сложные вопросы, но не особо сильно меня зацепила
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > книга буквально погружает в воспоминания Марины Влади, ей и сочувствуешь, и страдаешь вместе с ней, и радуешься. Ужасно берет за душу
 
 * Sapiens: A Brief History of Humankind ~ [exulted](users/100/100599204551896265722-google)<sup>82</sup>
-    > Amazon
-    > ASIN: B00ICN066A
 
 * Если хочешь быть счастливым ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Защита Лужина ~ [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup>
 
-* Момо ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Saamy](users/115/115226508-vkontakte)<sup>54</sup> 
+[Saamy](users/115/115226508-vkontakte)<sup>55</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>32</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>82</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>665</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
 
 
-_02.09.2018 20:17:58_
+_02.09.2018 20:19:30_

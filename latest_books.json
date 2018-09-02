@@ -1,4 +1,16 @@
 {
+    "JPwtlEvs3z": {
+        "id": "JPwtlEvs3z",
+        "title": "Осиная фабрика",
+        "author": "Иэн Бэнкс",
+        "notes": "Книга с ошеломляющим концом и не самым приятным сюжетом. Где-то мне было даже мерзко читать",
+        "createdAt": "2018-09-02 20:19:30",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 55
+        }
+    },
     "s-QJ7QD8PU": {
         "id": "s-QJ7QD8PU",
         "title": "Двойной язык",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 43
-        }
-    },
-    "OP6krxWL8_": {
-        "id": "OP6krxWL8_",
-        "title": "О дивный новый мир. (аудио)",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2018-08-25 10:19:38",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 42
         }
     }
 }

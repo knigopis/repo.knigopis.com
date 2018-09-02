@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Осиная фабрика ~ [Saamy](users/115/115226508-vkontakte)<sup>55</sup>
 * Двойной язык ~ [Saamy](users/115/115226508-vkontakte)<sup>54</sup>
 * Владимир, или Прерванный полет ~ [Saamy](users/115/115226508-vkontakte)<sup>53</sup>
 * Sapiens: A Brief History of Humankind ~ [exulted](users/100/100599204551896265722-google)<sup>82</sup>
@@ -30,7 +31,6 @@
 * Ведьма-хранительница и кусок Верховная ведьма ~ [fire_ejik](users/329/32903202-vkontakte)<sup>21</sup>
 * Профессия: ведьма ~ [fire_ejik](users/329/32903202-vkontakte)<sup>20</sup>
 * Похититель теней ~ [fire_ejik](users/329/32903202-vkontakte)<sup>19</sup>
-* Пособие для начинающей ведьмы (1/2 книги) ~ [fire_ejik](users/329/32903202-vkontakte)<sup>18</sup>
 
 
-_02.09.2018 20:17:58_
+_02.09.2018 20:19:30_
