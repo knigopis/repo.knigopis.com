@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Секреты спокойствия "ленивой мамы" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
+    > Хорошая такая и добрая прикладная психология. По мне так многовато воды, но женская книжка-то. Однако, вынес из неё много хорошего и полезного. Что-то уже знал, но подтвердил с нового угла, что-то новое совсем, а что-то даже и неожиданное. Век живи - век учись, становись совершенней и вкушай дзен ;)
+
 * Тайна выеденного яйца, или Смерть Шалтая ~ [Saamy](users/115/115226508-vkontakte)<sup>56</sup>
     > Легкая, пародийная книга с запутанным сюжетом. Непредсказуемый и забавный сказочный детектив
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга с ошеломляющим концом и не самым приятным сюжетом. Где-то мне было даже мерзко читать
 
 * Двойной язык ~ [Saamy](users/115/115226508-vkontakte)<sup>54</sup>
-    > Книга про молодую пифию  любопытная и ставит многие сложные вопросы, но не особо сильно меня зацепила
 
 * Владимир, или Прерванный полет ~ [Saamy](users/115/115226508-vkontakte)<sup>53</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Бесы ~ [anvonamore](users/595/5957175-vkontakte)<sup>115</sup>
 
-* Таинственная история Билли Миллигана ~ [Euphoria](users/106/106304994652616315178-google)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>56</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>32</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>82</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup> 
 [Валентина Каверина](users/282/2824946827022425099-mailru)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup> 
 [Marzhan](users/110/110565754199715103002-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>324</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
 
 
-_02.09.2018 20:22:03_
+_02.09.2018 21:07:52_
