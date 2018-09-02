@@ -1,4 +1,16 @@
 {
+    "s-QJ7QD8PU": {
+        "id": "s-QJ7QD8PU",
+        "title": "Двойной язык",
+        "author": "Уильям Голдинг",
+        "notes": "Книга про молодую пифию  любопытная и ставит многие сложные вопросы, но не особо сильно меня зацепила",
+        "createdAt": "2018-09-02 20:17:58",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 54
+        }
+    },
     "_XH1vFvXF_": {
         "id": "_XH1vFvXF_",
         "title": "Владимир, или Прерванный полет",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 42
-        }
-    },
-    "nKb8PNpiPy": {
-        "id": "nKb8PNpiPy",
-        "title": "Прокотиков. Сборник рассказов",
-        "author": "Макс Фрай и др. авторы",
-        "notes": "",
-        "createdAt": "2018-08-25 10:19:04",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 41
         }
     }
 }

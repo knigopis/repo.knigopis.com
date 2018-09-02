@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Двойной язык ~ [Saamy](users/115/115226508-vkontakte)<sup>54</sup>
 * Владимир, или Прерванный полет ~ [Saamy](users/115/115226508-vkontakte)<sup>53</sup>
 * Sapiens: A Brief History of Humankind ~ [exulted](users/100/100599204551896265722-google)<sup>82</sup>
 * Если хочешь быть счастливым ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
@@ -30,7 +31,6 @@
 * Профессия: ведьма ~ [fire_ejik](users/329/32903202-vkontakte)<sup>20</sup>
 * Похититель теней ~ [fire_ejik](users/329/32903202-vkontakte)<sup>19</sup>
 * Пособие для начинающей ведьмы (1/2 книги) ~ [fire_ejik](users/329/32903202-vkontakte)<sup>18</sup>
-* Хорошо быть тихоней ~ [fire_ejik](users/329/32903202-vkontakte)<sup>17</sup>
 
 
-_02.09.2018 20:15:11_
+_02.09.2018 20:17:58_
