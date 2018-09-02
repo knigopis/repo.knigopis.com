@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тайна выеденного яйца, или Смерть Шалтая ~ [Saamy](users/115/115226508-vkontakte)<sup>56</sup>
 * Осиная фабрика ~ [Saamy](users/115/115226508-vkontakte)<sup>55</sup>
 * Двойной язык ~ [Saamy](users/115/115226508-vkontakte)<sup>54</sup>
 * Владимир, или Прерванный полет ~ [Saamy](users/115/115226508-vkontakte)<sup>53</sup>
@@ -30,7 +31,6 @@
 * Уйти, чтобы вернуться ~ [fire_ejik](users/329/32903202-vkontakte)<sup>23</sup>
 * Ведьма-хранительница и кусок Верховная ведьма ~ [fire_ejik](users/329/32903202-vkontakte)<sup>21</sup>
 * Профессия: ведьма ~ [fire_ejik](users/329/32903202-vkontakte)<sup>20</sup>
-* Похититель теней ~ [fire_ejik](users/329/32903202-vkontakte)<sup>19</sup>
 
 
-_02.09.2018 20:19:30_
+_02.09.2018 20:22:03_

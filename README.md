@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайна выеденного яйца, или Смерть Шалтая ~ [Saamy](users/115/115226508-vkontakte)<sup>56</sup>
+    > Легкая, пародийная книга с запутанным сюжетом. Непредсказуемый и забавный сказочный детектив
+
 * Осиная фабрика ~ [Saamy](users/115/115226508-vkontakte)<sup>55</sup>
     > Книга с ошеломляющим концом и не самым приятным сюжетом. Где-то мне было даже мерзко читать
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга про молодую пифию  любопытная и ставит многие сложные вопросы, но не особо сильно меня зацепила
 
 * Владимир, или Прерванный полет ~ [Saamy](users/115/115226508-vkontakte)<sup>53</sup>
-    > книга буквально погружает в воспоминания Марины Влади, ей и сочувствуешь, и страдаешь вместе с ней, и радуешься. Ужасно берет за душу
 
 * Sapiens: A Brief History of Humankind ~ [exulted](users/100/100599204551896265722-google)<sup>82</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Таинственная история Билли Миллигана ~ [Euphoria](users/106/106304994652616315178-google)<sup>64</sup>
 
-* Защита Лужина ~ [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Saamy](users/115/115226508-vkontakte)<sup>55</sup> 
+[Saamy](users/115/115226508-vkontakte)<sup>56</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>32</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>82</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>665</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
 
 
-_02.09.2018 20:19:30_
+_02.09.2018 20:22:03_
