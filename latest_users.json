@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 53,
+        "updatedAt": "2018-09-02 20:15:11"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -172,11 +178,5 @@
         "nickname": "goodangrybro",
         "booksCount": 0,
         "updatedAt": "2018-08-22 17:19:23"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 102,
-        "updatedAt": "2018-08-22 16:28:28"
     }
 }

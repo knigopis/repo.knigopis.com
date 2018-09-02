@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Владимир, или Прерванный полет ~ [Saamy](users/115/115226508-vkontakte)<sup>53</sup>
+    > книга буквально погружает в воспоминания Марины Влади, ей и сочувствуешь, и страдаешь вместе с ней, и радуешься. Ужасно берет за душу
+
 * Sapiens: A Brief History of Humankind ~ [exulted](users/100/100599204551896265722-google)<sup>82</sup>
     > Amazon
     > ASIN: B00ICN066A
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > книга из библио, интересная, но немного сложна для понимания людям ранее не изучавшим психологию. памятка:  У каждого человека три инстинкта - пищевой, оборонительный и сексуальный. Я (отношение к себе),вы (отношение к близким), они (отношение к людям вообще. Амортизация - непосредственная (пример, вы отлично выглядите, спасибо я действительно отлично выгляжу); оставленная (признать все что якобы думает про вас другой человек и те действия, которые он принимает по отношению к вам); профилактическая (я не заслужил). Родитель, взрослый, дитя.
 
 * Любовница французского лейтенанта ~ [anvonamore](users/595/5957175-vkontakte)<sup>117</sup>
-    > 7/10
 
 * Что делать ~ [anvonamore](users/595/5957175-vkontakte)<sup>116</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Заложница ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
 
-* Военная стратегия. Подготовка и ведение войн Нового и Новейшего времени ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>53</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>32</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>82</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>665</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>44</sup> 
 [A_lex_S](users/104/104452088751111617579-google)<sup>0</sup> 
 [goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>102</sup> 
 
 
-_02.09.2018 18:47:25_
+_02.09.2018 20:15:11_

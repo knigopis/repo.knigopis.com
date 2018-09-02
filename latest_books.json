@@ -1,4 +1,16 @@
 {
+    "_XH1vFvXF_": {
+        "id": "_XH1vFvXF_",
+        "title": "Владимир, или Прерванный полет",
+        "author": "Марина Влади",
+        "notes": "книга буквально погружает в воспоминания Марины Влади, ей и сочувствуешь, и страдаешь вместе с ней, и радуешься. Ужасно берет за душу",
+        "createdAt": "2018-09-02 20:15:11",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 53
+        }
+    },
     "ZMOsNxzSB1": {
         "id": "ZMOsNxzSB1",
         "title": "Год кролика",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 41
-        }
-    },
-    "m9JKD5tDKp": {
-        "id": "m9JKD5tDKp",
-        "title": "Человек-невидимка",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2018-08-25 10:18:50",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 40
         }
     }
 }
