@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Sapiens: A Brief History of Humankind ~ [exulted](users/100/100599204551896265722-google)<sup>82</sup>
 * Если хочешь быть счастливым ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
 * Любовница французского лейтенанта ~ [anvonamore](users/595/5957175-vkontakte)<sup>117</sup>
 * Что делать ~ [anvonamore](users/595/5957175-vkontakte)<sup>116</sup>
@@ -30,7 +31,6 @@
 * Пособие для начинающей ведьмы (1/2 книги) ~ [fire_ejik](users/329/32903202-vkontakte)<sup>18</sup>
 * Хорошо быть тихоней ~ [fire_ejik](users/329/32903202-vkontakte)<sup>17</sup>
 * Триумфальная арка ~ [fire_ejik](users/329/32903202-vkontakte)<sup>16</sup>
-* Великий Гетсби ~ [fire_ejik](users/329/32903202-vkontakte)<sup>15</sup>
 
 
-_31.08.2018 15:51:54_
+_02.09.2018 17:36:47_

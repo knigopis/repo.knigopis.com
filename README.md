@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Sapiens: A Brief History of Humankind ~ [exulted](users/100/100599204551896265722-google)<sup>82</sup>
+    > Amazon
+    > ASIN: B00ICN066A
+
 * Если хочешь быть счастливым ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
     > книга из библио, интересная, но немного сложна для понимания людям ранее не изучавшим психологию. памятка:  У каждого человека три инстинкта - пищевой, оборонительный и сексуальный. Я (отношение к себе),вы (отношение к близким), они (отношение к людям вообще. Амортизация - непосредственная (пример, вы отлично выглядите, спасибо я действительно отлично выгляжу); оставленная (признать все что якобы думает про вас другой человек и те действия, которые он принимает по отношению к вам); профилактическая (я не заслужил). Родитель, взрослый, дитя.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Что делать ~ [anvonamore](users/595/5957175-vkontakte)<sup>116</sup>
-    > 9/10
 
 * Бесы ~ [anvonamore](users/595/5957175-vkontakte)<sup>115</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Военная стратегия. Подготовка и ведение войн Нового и Новейшего времени ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup>
 
-* Harry Potter and the Sorcerer's Stone ~ [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>82</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>31</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>665</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [A_lex_S](users/104/104452088751111617579-google)<sup>0</sup> 
 [goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>102</sup> 
-[syringa](users/570/57062183-vkontakte)<sup>13</sup> 
 
 
-_02.09.2018 06:05:38_
+_02.09.2018 17:36:47_

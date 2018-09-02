@@ -1,4 +1,16 @@
 {
+    "24i8xspknv": {
+        "id": "24i8xspknv",
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "notes": "Amazon\nASIN: B00ICN066A",
+        "createdAt": "2018-09-02 17:36:47",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 82
+        }
+    },
     "nQoPV8yKTs": {
         "id": "nQoPV8yKTs",
         "title": "Цветы для Элжерноа",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 39
-        }
-    },
-    "U1VS85ldkv": {
-        "id": "U1VS85ldkv",
-        "title": "Дети лампы. Книга вторая.",
-        "author": "Ф. Б. Керр",
-        "notes": "Из-за сессии не могла долго дочитать. Забросила на месяц, а потом пол книги за пару дней фьють",
-        "createdAt": "2018-08-25 10:18:09",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 38
         }
     }
 }

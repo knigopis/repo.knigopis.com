@@ -1,4 +1,16 @@
 {
+    "24i8xspknv": {
+        "id": "24i8xspknv",
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "notes": "Amazon\nASIN: B00ICN066A",
+        "createdAt": "2018-09-02 17:36:47",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 82
+        }
+    },
     "oeHVjVVyjx": {
         "id": "oeHVjVVyjx",
         "title": "Если хочешь быть счастливым",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 16
-        }
-    },
-    "VG-uR_78CQ": {
-        "id": "VG-uR_78CQ",
-        "title": "Великий Гетсби",
-        "author": "Френсис Скотт Фицджеральд",
-        "notes": "Смутные чувства. Вроде и понравилась, но как-то одноразово, хотя и стоит внимания. На самом деле я ожидала от этой книги чего-то большего, учитывая как ее \"рекламируют\" повсеместно.",
-        "createdAt": "2018-08-25 10:10:28",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 15
         }
     }
 }
