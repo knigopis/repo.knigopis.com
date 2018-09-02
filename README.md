@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>180</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>56</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>32</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>82</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
 
 
-_02.09.2018 21:07:52_
+_02.09.2018 21:08:03_
