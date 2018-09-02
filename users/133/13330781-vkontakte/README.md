@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>30</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>31</sup>
 ---
 
 ## 2018
+
+### Цветы для Элжерноа
+Дэниел Киз
+> [2018-09-02] 
+
 
 ### Таинственная история Билли Миллигана
 Даниел Киз

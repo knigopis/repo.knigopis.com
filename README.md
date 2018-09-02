@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>31</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>665</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>134</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>13</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>40</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>43</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>30</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
 [Илья](users/116/116129929397924954448-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [syringa](users/570/57062183-vkontakte)<sup>13</sup> 
 
 
-_31.08.2018 18:27:03_
+_02.09.2018 06:05:38_
