@@ -1,4 +1,16 @@
 {
+    "xOnBf4Urdj": {
+        "id": "xOnBf4Urdj",
+        "title": "Коллекционер",
+        "author": "ФАУЛЗ Джон",
+        "notes": "",
+        "createdAt": "2018-09-03 19:59:25",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 9
+        }
+    },
     "7EO0G8APZb": {
         "id": "7EO0G8APZb",
         "title": "Моя бабушка и королева Елизавета",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 91
-        }
-    },
-    "mmTOs_1pEe": {
-        "id": "mmTOs_1pEe",
-        "title": "Неприятие перемен. Как преодолеть сопротивление изменениям",
-        "author": "Лайза Лейхи",
-        "notes": "",
-        "createdAt": "2018-08-26 09:29:47",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 324
         }
     }
 }

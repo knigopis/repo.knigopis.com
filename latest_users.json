@@ -1,4 +1,10 @@
 {
+    "102536471289425216982-google": {
+        "id": "102536471289425216982-google",
+        "nickname": "Окс",
+        "booksCount": 9,
+        "updatedAt": "2018-09-03 19:59:25"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 44,
         "updatedAt": "2018-08-23 10:48:12"
-    },
-    "104452088751111617579-google": {
-        "id": "104452088751111617579-google",
-        "nickname": "A_lex_S",
-        "booksCount": 0,
-        "updatedAt": "2018-08-22 17:54:31"
     }
 }
