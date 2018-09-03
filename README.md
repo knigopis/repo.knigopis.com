@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115826717712507836033-google)<sup>120</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>180</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>56</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>32</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Илья](users/116/116129929397924954448-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>44</sup> 
 [A_lex_S](users/104/104452088751111617579-google)<sup>0</sup> 
-[goodangrybro](users/113/113297173414505455315-google)<sup>0</sup> 
 
 
-_02.09.2018 21:08:03_
+_03.09.2018 08:33:10_
