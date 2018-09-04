@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>13</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>14</sup>
 ---
 
 ## 2018
+
+### Fish!-революция
+Лундин Стивен, Пол Гарри, Кристенсен Джон
+> [2018-09-04] 
+
 
 ### Разбогатей!
 Эм-Джей ДеМарко

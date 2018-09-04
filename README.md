@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>14</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>9</sup> 
 [](users/115/115826717712507836033-google)<sup>120</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>180</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fire_ejik](users/329/32903202-vkontakte)<sup>43</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
 [Илья](users/116/116129929397924954448-google)<sup>0</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>44</sup> 
 
 
-_03.09.2018 19:59:25_
+_04.09.2018 17:07:20_
