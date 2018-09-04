@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Баяндин Анатолий Денисович ~ [exulted](users/100/100599204551896265722-google)<sup>83</sup>
 * Секреты спокойствия "ленивой мамы" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
 * Тайна выеденного яйца, или Смерть Шалтая ~ [Saamy](users/115/115226508-vkontakte)<sup>56</sup>
 * Осиная фабрика ~ [Saamy](users/115/115226508-vkontakte)<sup>55</sup>
@@ -30,7 +31,6 @@
 * Сильнее страха ~ [fire_ejik](users/329/32903202-vkontakte)<sup>25</sup>
 * Виноваты звезды ~ [fire_ejik](users/329/32903202-vkontakte)<sup>24</sup>
 * Уйти, чтобы вернуться ~ [fire_ejik](users/329/32903202-vkontakte)<sup>23</sup>
-* Ведьма-хранительница и кусок Верховная ведьма ~ [fire_ejik](users/329/32903202-vkontakte)<sup>21</sup>
 
 
-_02.09.2018 21:07:52_
+_04.09.2018 19:02:52_

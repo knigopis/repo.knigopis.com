@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Баяндин Анатолий Денисович ~ [exulted](users/100/100599204551896265722-google)<sup>83</sup>
+    > Самая сильная книга про Сталинград
+
 * Секреты спокойствия "ленивой мамы" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
     > Хорошая такая и добрая прикладная психология. По мне так многовато воды, но женская книжка-то. Однако, вынес из неё много хорошего и полезного. Что-то уже знал, но подтвердил с нового угла, что-то новое совсем, а что-то даже и неожиданное. Век живи - век учись, становись совершенней и вкушай дзен ;)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Легкая, пародийная книга с запутанным сюжетом. Непредсказуемый и забавный сказочный детектив
 
 * Осиная фабрика ~ [Saamy](users/115/115226508-vkontakte)<sup>55</sup>
-    > Книга с ошеломляющим концом и не самым приятным сюжетом. Где-то мне было даже мерзко читать
 
 * Двойной язык ~ [Saamy](users/115/115226508-vkontakte)<sup>54</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Что делать ~ [anvonamore](users/595/5957175-vkontakte)<sup>116</sup>
 
-* Бесы ~ [anvonamore](users/595/5957175-vkontakte)<sup>115</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>83</sup> 
 [youno](users/302/302928912-vkontakte)<sup>14</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>9</sup> 
 [](users/115/115826717712507836033-google)<sup>120</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>180</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>56</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>32</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>82</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>665</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>134</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Илья](users/116/116129929397924954448-google)<sup>0</sup> 
 
 
-_04.09.2018 17:07:20_
+_04.09.2018 19:02:52_

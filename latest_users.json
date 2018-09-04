@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 83,
+        "updatedAt": "2018-09-04 19:02:52"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -34,12 +40,6 @@
         "nickname": "le_brouillard",
         "booksCount": 32,
         "updatedAt": "2018-09-02 18:47:25"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 82,
-        "updatedAt": "2018-09-02 17:36:47"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
