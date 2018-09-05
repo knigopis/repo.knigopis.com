@@ -1,4 +1,10 @@
 {
+    "113832328425673061200-google": {
+        "id": "113832328425673061200-google",
+        "nickname": "Rimanec",
+        "booksCount": 0,
+        "updatedAt": "2018-09-05 17:59:15"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "fire_ejik",
         "booksCount": 43,
         "updatedAt": "2018-08-25 10:19:51"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 32,
-        "updatedAt": "2018-08-24 14:20:53"
     }
 }
