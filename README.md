@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>325</sup> 
 [lucius](users/838/83820536-yandex)<sup>147</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>83</sup> 
 [youno](users/302/302928912-vkontakte)<sup>14</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup> 
 [Валентина Каверина](users/282/2824946827022425099-mailru)<sup>0</sup> 
 [Marzhan](users/110/110565754199715103002-google)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>324</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 [Tonya](users/107/107653618864404586169-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>13</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
 
 
-_05.09.2018 05:49:40_
+_05.09.2018 07:39:09_

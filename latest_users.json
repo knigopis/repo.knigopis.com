@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 325,
+        "updatedAt": "2018-09-05 07:39:09"
+    },
     "83820536-yandex": {
         "id": "83820536-yandex",
         "nickname": "lucius",
@@ -136,12 +142,6 @@
         "nickname": "Marzhan",
         "booksCount": 0,
         "updatedAt": "2018-08-26 11:34:41"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 324,
-        "updatedAt": "2018-08-26 09:29:47"
     },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
