@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kissamasya](users/684/68439978-vkontakte)<sup>33</sup> 
+[kissamasya](users/684/68439978-vkontakte)<sup>34</sup> 
 [Rimanec](users/113/113832328425673061200-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>325</sup> 
 [lucius](users/838/83820536-yandex)<sup>147</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>40</sup> 
 
 
-_05.09.2018 19:24:42_
+_05.09.2018 19:25:18_

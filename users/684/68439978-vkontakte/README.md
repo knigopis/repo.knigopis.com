@@ -1,7 +1,12 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>33</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>34</sup>
 ---
 
 ## 2018
+
+### Роман Грачёв
+Томка. Топониная,13
+> [2018-09-16] 
+
 
 ### Страсть по понятиям
 Владимир Колычев
