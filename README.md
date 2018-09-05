@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Rimanec](users/113/113832328425673061200-google)<sup>0</sup> 
+[Rimanec](users/113/113832328425673061200-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>325</sup> 
 [lucius](users/838/83820536-yandex)<sup>147</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>83</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [fire_ejik](users/329/32903202-vkontakte)<sup>43</sup> 
 
 
-_05.09.2018 17:59:23_
+_05.09.2018 18:05:30_

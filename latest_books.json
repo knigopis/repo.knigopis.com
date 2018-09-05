@@ -1,4 +1,16 @@
 {
+    "9HG4faN5tf": {
+        "id": "9HG4faN5tf",
+        "title": "Психология влияния",
+        "author": "Чалдини",
+        "notes": "",
+        "createdAt": "2018-09-05 18:05:30",
+        "user": {
+            "id": "113832328425673061200-google",
+            "nickname": "Rimanec",
+            "booksCount": 1
+        }
+    },
     "NMa9RSBG7I": {
         "id": "NMa9RSBG7I",
         "title": "Книга о власти над собой",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 191
-        }
-    },
-    "phAo1fKB9z": {
-        "id": "phAo1fKB9z",
-        "title": "Защита Лужина",
-        "author": "Владимир Набоков",
-        "notes": "10/10 \nЛучшее из прочитанного за год.",
-        "createdAt": "2018-08-28 19:57:51",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 92
         }
     }
 }
