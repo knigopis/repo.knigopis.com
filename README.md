@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Прощание с Матёрой ~ [lucius](users/838/83820536-yandex)<sup>147</sup>
+    > 2 раза начинал и бросал потом, очень грустная книга. В третий раз прочитал, скорее всего буду еще перечитывать. Очень понравилось, язык хороший, читать приятно.
+    > Повесть про старое и новое, про смену поколений, о том что человек - песчинка, которую несет река.
+
 * Баяндин Анатолий Денисович ~ [exulted](users/100/100599204551896265722-google)<sup>83</sup>
     > Самая сильная книга про Сталинград
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Хорошая такая и добрая прикладная психология. По мне так многовато воды, но женская книжка-то. Однако, вынес из неё много хорошего и полезного. Что-то уже знал, но подтвердил с нового угла, что-то новое совсем, а что-то даже и неожиданное. Век живи - век учись, становись совершенней и вкушай дзен ;)
 
 * Тайна выеденного яйца, или Смерть Шалтая ~ [Saamy](users/115/115226508-vkontakte)<sup>56</sup>
-    > Легкая, пародийная книга с запутанным сюжетом. Непредсказуемый и забавный сказочный детектив
 
 * Осиная фабрика ~ [Saamy](users/115/115226508-vkontakte)<sup>55</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Любовница французского лейтенанта ~ [anvonamore](users/595/5957175-vkontakte)<sup>117</sup>
 
-* Что делать ~ [anvonamore](users/595/5957175-vkontakte)<sup>116</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>147</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>83</sup> 
 [youno](users/302/302928912-vkontakte)<sup>14</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>9</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>40</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>43</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>32</sup> 
-[Илья](users/116/116129929397924954448-google)<sup>0</sup> 
 
 
-_04.09.2018 19:02:52_
+_05.09.2018 05:49:40_
