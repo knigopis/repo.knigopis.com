@@ -1,7 +1,12 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>32</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>33</sup>
 ---
 
 ## 2018
+
+### Страсть по понятиям
+Владимир Колычев
+> [2018-09-04] 
+
 
 ### Драгоценность,которая была нашей
 Декстер К.

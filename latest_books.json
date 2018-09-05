@@ -1,4 +1,16 @@
 {
+    "bHxxYvVz5L": {
+        "id": "bHxxYvVz5L",
+        "title": "Страсть по понятиям",
+        "author": "Владимир Колычев",
+        "notes": "",
+        "createdAt": "2018-09-05 19:24:42",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 33
+        }
+    },
     "9HG4faN5tf": {
         "id": "9HG4faN5tf",
         "title": "Психология влияния",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 664
-        }
-    },
-    "KGqBA8qwE_": {
-        "id": "KGqBA8qwE_",
-        "title": "Остров Сокровищ",
-        "author": "Стивенсон, Роберт Льюис",
-        "notes": "",
-        "createdAt": "2018-08-28 20:06:46",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 191
         }
     }
 }
