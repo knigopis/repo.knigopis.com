@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Таинственная история Билли Миллигана ~ [anvonamore](users/595/5957175-vkontakte)<sup>118</sup>
 * Прощание с Матёрой ~ [lucius](users/838/83820536-yandex)<sup>147</sup>
 * Баяндин Анатолий Денисович ~ [exulted](users/100/100599204551896265722-google)<sup>83</sup>
 * Секреты спокойствия "ленивой мамы" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
@@ -30,7 +31,6 @@
 * Трое в лодке, не считая собаки ~ [fire_ejik](users/329/32903202-vkontakte)<sup>30</sup>
 * Жизнь взаймы ~ [fire_ejik](users/329/32903202-vkontakte)<sup>28</sup>
 * Сильнее страха ~ [fire_ejik](users/329/32903202-vkontakte)<sup>25</sup>
-* Виноваты звезды ~ [fire_ejik](users/329/32903202-vkontakte)<sup>24</sup>
 
 
-_05.09.2018 05:49:40_
+_07.09.2018 13:02:47_

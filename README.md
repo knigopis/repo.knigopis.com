@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Таинственная история Билли Миллигана ~ [anvonamore](users/595/5957175-vkontakte)<sup>118</sup>
+    > 7/10
+
 * Прощание с Матёрой ~ [lucius](users/838/83820536-yandex)<sup>147</sup>
     > 2 раза начинал и бросал потом, очень грустная книга. В третий раз прочитал, скорее всего буду еще перечитывать. Очень понравилось, язык хороший, читать приятно.
     > Повесть про старое и новое, про смену поколений, о том что человек - песчинка, которую несет река.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Самая сильная книга про Сталинград
 
 * Секреты спокойствия "ленивой мамы" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
-    > Хорошая такая и добрая прикладная психология. По мне так многовато воды, но женская книжка-то. Однако, вынес из неё много хорошего и полезного. Что-то уже знал, но подтвердил с нового угла, что-то новое совсем, а что-то даже и неожиданное. Век живи - век учись, становись совершенней и вкушай дзен ;)
 
 * Тайна выеденного яйца, или Смерть Шалтая ~ [Saamy](users/115/115226508-vkontakte)<sup>56</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Если хочешь быть счастливым ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
 
-* Любовница французского лейтенанта ~ [anvonamore](users/595/5957175-vkontakte)<sup>117</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>118</sup> 
 [Maxsad](users/129/1299452270136652-facebook)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>34</sup> 
 [Rimanec](users/113/113832328425673061200-google)<sup>1</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>134</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>127</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>64</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>117</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>74</sup> 
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>2</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>64</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>13</sup> 
 
 
-_07.09.2018 12:58:05_
+_07.09.2018 13:02:47_
