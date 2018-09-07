@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Maxsad](users/129/1299452270136652-facebook)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>34</sup> 
 [Rimanec](users/113/113832328425673061200-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>325</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 [Tonya](users/107/107653618864404586169-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>13</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>40</sup> 
 
 
-_05.09.2018 19:25:18_
+_07.09.2018 12:58:05_
