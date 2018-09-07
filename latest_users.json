@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 11,
+        "updatedAt": "2018-09-07 18:52:42"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -142,12 +148,6 @@
         "nickname": "Apprentice ",
         "booksCount": 92,
         "updatedAt": "2018-08-28 19:57:51"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 10,
-        "updatedAt": "2018-08-28 14:52:31"
     },
     "2824946827022425099-mailru": {
         "id": "2824946827022425099-mailru",

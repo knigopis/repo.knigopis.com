@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лето, прощай ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup>
+    > Стр. 85, 128, 179-181. Глава 31.
+    > Покажи мне хоть что-нибудь хорошее, чему не приходит конец, и у меня на радостях крыша съедет.
+    > ISBN 978-5-699-37471-7
+
 * Таинственная история Билли Миллигана ~ [anvonamore](users/595/5957175-vkontakte)<sup>118</sup>
     > 7/10
 
@@ -13,7 +18,6 @@ Do not use pull requests to make changes here.
     > Повесть про старое и новое, про смену поколений, о том что человек - песчинка, которую несет река.
 
 * Баяндин Анатолий Денисович ~ [exulted](users/100/100599204551896265722-google)<sup>83</sup>
-    > Самая сильная книга про Сталинград
 
 * Секреты спокойствия "ленивой мамы" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
 
@@ -27,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Sapiens: A Brief History of Humankind ~ [exulted](users/100/100599204551896265722-google)<sup>82</sup>
 
-* Если хочешь быть счастливым ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>118</sup> 
 [Maxsad](users/129/1299452270136652-facebook)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>34</sup> 
@@ -58,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>51</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>191</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup> 
 [Валентина Каверина](users/282/2824946827022425099-mailru)<sup>0</sup> 
 [Marzhan](users/110/110565754199715103002-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
@@ -66,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>13</sup> 
 
 
-_07.09.2018 13:02:47_
+_07.09.2018 18:52:42_
