@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/118041836581529110049)<sup>10</sup>
+# List of books read by [](https://plus.google.com/118041836581529110049)<sup>9</sup>
 ---
 
 ## 2018
@@ -17,10 +17,6 @@
 ## Other years
 
 ### За миллиард лет до конца света
-А. и Б. Стругацкие
-
-
-### Отель "У погибшего альпиниста"
 А. и Б. Стругацкие
 
 
