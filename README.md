@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>74</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>326</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>118</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Marzhan](users/110/110565754199715103002-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 [Tonya](users/107/107653618864404586169-google)<sup>0</sup> 
-[darb_el](users/184/184135339-vkontakte)<sup>13</sup> 
 
 
-_08.09.2018 04:52:19_
+_08.09.2018 09:11:51_

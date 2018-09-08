@@ -1,4 +1,16 @@
 {
+    "hBirO992uZ": {
+        "id": "hBirO992uZ",
+        "title": "Творцы заклинаний",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2018-09-08 09:11:51",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "joan789",
+            "booksCount": 74
+        }
+    },
     "xc__nCRFRK": {
         "id": "xc__nCRFRK",
         "title": "Шляхціч Завальня або Беларусь у фантастычных апавяданнях",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 74
-        }
-    },
-    "7h2U4uw-ik": {
-        "id": "7h2U4uw-ik",
-        "title": "Финансист",
-        "author": "Теодор Драйзер",
-        "notes": "",
-        "createdAt": "2018-08-30 17:05:00",
-        "user": {
-            "id": "219259003-vkontakte",
-            "nickname": "victoria_spilioti",
-            "booksCount": 73
         }
     }
 }
