@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/118041836581529110049)<sup>6</sup>
+# List of books read by [](https://plus.google.com/118041836581529110049)<sup>7</sup>
 ---
 
 ## 2018
@@ -15,6 +15,10 @@
 
 
 ## Other years
+
+### Пикник на обочине
+А. и Б. Стругацкие
+
 
 ### Понедельник начинается в субботу
 А. и Б. Стругацкие

@@ -1,4 +1,16 @@
 {
+    "65JujkcuNK": {
+        "id": "65JujkcuNK",
+        "title": "Пикник на обочине",
+        "author": "А. и Б. Стругацкие",
+        "notes": "",
+        "createdAt": "2018-09-08 14:08:28",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": null,
+            "booksCount": 7
+        }
+    },
     "hhT7cF1F5N": {
         "id": "hhT7cF1F5N",
         "title": "Понедельник начинается в субботу",
@@ -345,18 +357,6 @@
             "id": "208969292-yandex",
             "nickname": "elena-gagina2014",
             "booksCount": 2
-        }
-    },
-    "R0IE2O-jWl": {
-        "id": "R0IE2O-jWl",
-        "title": "Уловка-22",
-        "author": "Джозеф Хеллер",
-        "notes": "",
-        "createdAt": "2018-08-31 11:46:31",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 134
         }
     }
 }
