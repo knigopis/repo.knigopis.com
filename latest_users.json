@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 103,
+        "updatedAt": "2018-09-08 19:45:30"
+    },
     "203857348-vkontakte": {
         "id": "203857348-vkontakte",
         "nickname": "shurayuki-hime",
@@ -172,11 +178,5 @@
         "nickname": "Валентина Каверина",
         "booksCount": 0,
         "updatedAt": "2018-08-28 06:43:02"
-    },
-    "110565754199715103002-google": {
-        "id": "110565754199715103002-google",
-        "nickname": "Marzhan",
-        "booksCount": 0,
-        "updatedAt": "2018-08-26 11:34:41"
     }
 }
