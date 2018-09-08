@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/118041836581529110049)<sup>4</sup>
+# List of books read by [](https://plus.google.com/118041836581529110049)<sup>5</sup>
 ---
 
 ## 2018
@@ -15,6 +15,10 @@
 
 
 ## Other years
+
+### Трудно быть богом
+А. и Б. Стругацкие
+
 
 ### Повелитель мух
 Уильям Голдинг

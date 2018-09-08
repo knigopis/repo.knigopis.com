@@ -1,4 +1,16 @@
 {
+    "FR6RsP7Yi4": {
+        "id": "FR6RsP7Yi4",
+        "title": "Трудно быть богом",
+        "author": "А. и Б. Стругацкие",
+        "notes": "",
+        "createdAt": "2018-09-08 14:03:31",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": null,
+            "booksCount": 5
+        }
+    },
     "kLdmMTfqYj": {
         "id": "kLdmMTfqYj",
         "title": "Поправка 22",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 127
-        }
-    },
-    "fhfHf_p4np": {
-        "id": "fhfHf_p4np",
-        "title": "Властелин колец",
-        "author": "Джон Р. Р. Толкин",
-        "notes": "",
-        "createdAt": "2018-08-30 17:26:01",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 64
         }
     }
 }
