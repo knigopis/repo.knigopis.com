@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[shurayuki-hime](users/203/203857348-vkontakte)<sup>0</sup> 
 [](users/118/118041836581529110049-google)<sup>25</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>74</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>326</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup> 
 [Валентина Каверина](users/282/2824946827022425099-mailru)<sup>0</sup> 
 [Marzhan](users/110/110565754199715103002-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 
 
-_08.09.2018 14:39:41_
+_08.09.2018 16:44:00_
