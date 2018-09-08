@@ -1,4 +1,16 @@
 {
+    "aHXdQ8geSp": {
+        "id": "aHXdQ8geSp",
+        "title": "11/22/63",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2018-09-08 14:39:41",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": null,
+            "booksCount": 25
+        }
+    },
     "mBAqzuZT-N": {
         "id": "mBAqzuZT-N",
         "title": "Американские боги",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 83
-        }
-    },
-    "R45OGIIqO2": {
-        "id": "R45OGIIqO2",
-        "title": "Fish!-революция",
-        "author": "Лундин Стивен, Пол Гарри, Кристенсен Джон",
-        "notes": "",
-        "createdAt": "2018-09-04 17:07:20",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 14
         }
     }
 }
