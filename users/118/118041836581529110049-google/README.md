@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/118041836581529110049)<sup>19</sup>
+# List of books read by [](https://plus.google.com/118041836581529110049)<sup>20</sup>
 ---
 
 ## 2018
@@ -15,6 +15,10 @@
 
 
 ## Other years
+
+### Зов Ктулху
+Говард Лавкрафт
+
 
 ### Три товарища
 Эрих Мария Ремарк
