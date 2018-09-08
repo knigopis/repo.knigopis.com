@@ -1,4 +1,16 @@
 {
+    "mOVI-Z1bDG": {
+        "id": "mOVI-Z1bDG",
+        "title": "Автостопом по галактике",
+        "author": "Дуглас Адамс",
+        "notes": "",
+        "createdAt": "2018-09-08 13:56:34",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "hBirO992uZ": {
         "id": "hBirO992uZ",
         "title": "Творцы заклинаний",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 115
-        }
-    },
-    "gjnEOCzO2c": {
-        "id": "gjnEOCzO2c",
-        "title": "Пнин",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2018-08-30 17:05:29",
-        "user": {
-            "id": "219259003-vkontakte",
-            "nickname": "victoria_spilioti",
-            "booksCount": 74
         }
     }
 }
