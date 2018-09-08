@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/118041836581529110049)<sup>16</sup>
+# List of books read by [](https://plus.google.com/118041836581529110049)<sup>17</sup>
 ---
 
 ## 2018
@@ -15,6 +15,10 @@
 
 
 ## Other years
+
+### Мартин Иден
+Джек Лондон
+
 
 ### Дюна
 Фрэнк Герберт
