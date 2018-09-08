@@ -36,12 +36,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>326</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>118</sup> 
 [Maxsad](users/129/1299452270136652-facebook)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>34</sup> 
 [Rimanec](users/113/113832328425673061200-google)<sup>1</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>325</sup> 
 [lucius](users/838/83820536-yandex)<sup>147</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>83</sup> 
 [youno](users/302/302928912-vkontakte)<sup>14</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>13</sup> 
 
 
-_07.09.2018 18:52:42_
+_08.09.2018 04:52:19_

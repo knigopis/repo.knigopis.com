@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 326,
+        "updatedAt": "2018-09-08 04:52:19"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -28,12 +34,6 @@
         "nickname": "Rimanec",
         "booksCount": 1,
         "updatedAt": "2018-09-05 18:05:30"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 325,
-        "updatedAt": "2018-09-05 07:39:09"
     },
     "83820536-yandex": {
         "id": "83820536-yandex",

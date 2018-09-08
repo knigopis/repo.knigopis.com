@@ -1,4 +1,16 @@
 {
+    "xc__nCRFRK": {
+        "id": "xc__nCRFRK",
+        "title": "Шляхціч Завальня або Беларусь у фантастычных апавяданнях",
+        "author": "Ян Баршчэўскі",
+        "notes": "",
+        "createdAt": "2018-09-08 04:52:19",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 326
+        }
+    },
     "knMKWo-D78": {
         "id": "knMKWo-D78",
         "title": "Лето, прощай",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 73
-        }
-    },
-    "pntl5KmMXz": {
-        "id": "pntl5KmMXz",
-        "title": "Голодные игры",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-08-30 09:28:03",
-        "user": {
-            "id": "22376066-vkontakte",
-            "nickname": "anyutka_kozlova92",
-            "booksCount": 2
         }
     }
 }
