@@ -1,4 +1,4 @@
-# List of books read by [](https://plus.google.com/118041836581529110049)<sup>9</sup>
+# List of books read by [](https://plus.google.com/118041836581529110049)<sup>15</sup>
 ---
 
 ## 2018
@@ -15,6 +15,10 @@
 
 
 ## Other years
+
+### Град обреченный
+А. и Б. Стругацкие
+
 
 ### За миллиард лет до конца света
 А. и Б. Стругацкие

@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/118/118041836581529110049-google)<sup>9</sup> 
+[](users/118/118041836581529110049-google)<sup>15</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>74</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>326</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>71</sup> 
 
 
-_08.09.2018 14:20:06_
+_08.09.2018 14:25:16_

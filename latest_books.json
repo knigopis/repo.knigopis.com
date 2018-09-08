@@ -1,4 +1,16 @@
 {
+    "VcyOguF-Db": {
+        "id": "VcyOguF-Db",
+        "title": "Град обреченный",
+        "author": "А. и Б. Стругацкие",
+        "notes": "",
+        "createdAt": "2018-09-08 14:25:16",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": null,
+            "booksCount": 15
+        }
+    },
     "6w-6t2k8WE": {
         "id": "6w-6t2k8WE",
         "title": "За миллиард лет до конца света",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 82
-        }
-    },
-    "nQoPV8yKTs": {
-        "id": "nQoPV8yKTs",
-        "title": "Цветы для Элжерноа",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2018-09-02 06:05:38",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 31
         }
     }
 }
