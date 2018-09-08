@@ -1,4 +1,16 @@
 {
+    "mBAqzuZT-N": {
+        "id": "mBAqzuZT-N",
+        "title": "Американские боги",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2018-09-08 14:38:45",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": null,
+            "booksCount": 24
+        }
+    },
     "zO8jPBz0qU": {
         "id": "zO8jPBz0qU",
         "title": "Книжный вор",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 14
-        }
-    },
-    "xOnBf4Urdj": {
-        "id": "xOnBf4Urdj",
-        "title": "Коллекционер",
-        "author": "ФАУЛЗ Джон",
-        "notes": "",
-        "createdAt": "2018-09-03 19:59:25",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 9
         }
     }
 }
