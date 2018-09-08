@@ -1,4 +1,16 @@
 {
+    "kYYnBYOJdy": {
+        "id": "kYYnBYOJdy",
+        "title": "Путешествие Гулливера",
+        "author": "Джонатан Свифт",
+        "notes": "",
+        "createdAt": "2018-09-08 14:30:24",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": null,
+            "booksCount": 18
+        }
+    },
     "IUwaeNHXWH": {
         "id": "IUwaeNHXWH",
         "title": "Мартин Иден",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 54
-        }
-    },
-    "_XH1vFvXF_": {
-        "id": "_XH1vFvXF_",
-        "title": "Владимир, или Прерванный полет",
-        "author": "Марина Влади",
-        "notes": "книга буквально погружает в воспоминания Марины Влади, ей и сочувствуешь, и страдаешь вместе с ней, и радуешься. Ужасно берет за душу",
-        "createdAt": "2018-09-02 20:15:11",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 53
         }
     }
 }
