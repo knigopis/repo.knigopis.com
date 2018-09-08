@@ -1,4 +1,16 @@
 {
+    "nvcT9vzmzA": {
+        "id": "nvcT9vzmzA",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2018-09-08 13:57:37",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "mOVI-Z1bDG": {
         "id": "mOVI-Z1bDG",
         "title": "Автостопом по галактике",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 116
-        }
-    },
-    "nKVB39v2l2": {
-        "id": "nKVB39v2l2",
-        "title": "Бесы",
-        "author": "Достоевский Ф.М.",
-        "notes": "5/10",
-        "createdAt": "2018-08-30 17:09:16",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 115
         }
     }
 }
