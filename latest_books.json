@@ -1,4 +1,16 @@
 {
+    "VVFeYpVN08": {
+        "id": "VVFeYpVN08",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2018-09-08 14:31:42",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": null,
+            "booksCount": 19
+        }
+    },
     "kYYnBYOJdy": {
         "id": "kYYnBYOJdy",
         "title": "Путешествие Гулливера",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 55
-        }
-    },
-    "s-QJ7QD8PU": {
-        "id": "s-QJ7QD8PU",
-        "title": "Двойной язык",
-        "author": "Уильям Голдинг",
-        "notes": "Книга про молодую пифию  любопытная и ставит многие сложные вопросы, но не особо сильно меня зацепила",
-        "createdAt": "2018-09-02 20:17:58",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 54
         }
     }
 }
