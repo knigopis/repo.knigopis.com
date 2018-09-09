@@ -1,4 +1,10 @@
 {
+    "444030981-vkontakte": {
+        "id": "444030981-vkontakte",
+        "nickname": "Maryana",
+        "booksCount": 0,
+        "updatedAt": "2018-09-09 13:30:43"
+    },
     "118041836581529110049-google": {
         "id": "118041836581529110049-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 92,
         "updatedAt": "2018-08-28 19:57:51"
-    },
-    "2824946827022425099-mailru": {
-        "id": "2824946827022425099-mailru",
-        "nickname": "Валентина Каверина",
-        "booksCount": 0,
-        "updatedAt": "2018-08-28 06:43:02"
     }
 }
