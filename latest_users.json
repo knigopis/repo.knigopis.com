@@ -1,4 +1,10 @@
 {
+    "118041836581529110049-google": {
+        "id": "118041836581529110049-google",
+        "nickname": null,
+        "booksCount": 26,
+        "updatedAt": "2018-09-09 08:51:20"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -10,12 +16,6 @@
         "nickname": "shurayuki-hime",
         "booksCount": 0,
         "updatedAt": "2018-09-08 16:43:55"
-    },
-    "118041836581529110049-google": {
-        "id": "118041836581529110049-google",
-        "nickname": null,
-        "booksCount": 25,
-        "updatedAt": "2018-09-08 14:39:41"
     },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",
