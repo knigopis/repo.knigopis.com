@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bagefro](users/346/346316791-vkontakte)<sup>0</sup> 
 [Maryana](users/444/444030981-vkontakte)<sup>0</sup> 
 [](users/118/118041836581529110049-google)<sup>26</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>103</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>64</sup> 
 [En](users/333/333646551-vkontakte)<sup>51</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>191</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>92</sup> 
 
 
-_09.09.2018 13:30:49_
+_10.09.2018 07:06:24_
