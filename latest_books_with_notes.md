@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чашка Цукаты ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
 * Лето, прощай ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup>
 * Таинственная история Билли Миллигана ~ [anvonamore](users/595/5957175-vkontakte)<sup>118</sup>
 * Прощание с Матёрой ~ [lucius](users/838/83820536-yandex)<sup>147</sup>
@@ -30,7 +31,6 @@
 * Мор, ученик Смерти ~ [fire_ejik](users/329/32903202-vkontakte)<sup>32</sup>
 * Над пропастью во ржи ~ [fire_ejik](users/329/32903202-vkontakte)<sup>31</sup>
 * Трое в лодке, не считая собаки ~ [fire_ejik](users/329/32903202-vkontakte)<sup>30</sup>
-* Жизнь взаймы ~ [fire_ejik](users/329/32903202-vkontakte)<sup>28</sup>
 
 
-_07.09.2018 18:52:42_
+_10.09.2018 13:27:59_

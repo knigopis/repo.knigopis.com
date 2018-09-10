@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чашка Цукаты ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
+    > Хорошая книга.
+
 * Лето, прощай ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup>
     > Стр. 85, 128, 179-181. Глава 31.
     > Покажи мне хоть что-нибудь хорошее, чему не приходит конец, и у меня на радостях крыша съедет.
@@ -14,8 +17,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Прощание с Матёрой ~ [lucius](users/838/83820536-yandex)<sup>147</sup>
-    > 2 раза начинал и бросал потом, очень грустная книга. В третий раз прочитал, скорее всего буду еще перечитывать. Очень понравилось, язык хороший, читать приятно.
-    > Повесть про старое и новое, про смену поколений, о том что человек - песчинка, которую несет река.
 
 * Баяндин Анатолий Денисович ~ [exulted](users/100/100599204551896265722-google)<sup>83</sup>
 
@@ -29,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Владимир, или Прерванный полет ~ [Saamy](users/115/115226508-vkontakte)<sup>53</sup>
 
-* Sapiens: A Brief History of Humankind ~ [exulted](users/100/100599204551896265722-google)<sup>82</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>33</sup> 
 [bagefro](users/346/346316791-vkontakte)<sup>0</sup> 
 [Maryana](users/444/444030981-vkontakte)<sup>0</sup> 
 [](users/118/118041836581529110049-google)<sup>26</sup> 
@@ -65,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>2</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>64</sup> 
 [En](users/333/333646551-vkontakte)<sup>51</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>191</sup> 
 
 
-_10.09.2018 07:06:24_
+_10.09.2018 13:27:59_

@@ -1,4 +1,16 @@
 {
+    "kPWSLF5Gdo": {
+        "id": "kPWSLF5Gdo",
+        "title": "Чашка Цукаты",
+        "author": "А.Домбровский",
+        "notes": "Хорошая книга.",
+        "createdAt": "2018-09-10 13:27:59",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 33
+        }
+    },
     "zQe3QLZqOU": {
         "id": "zQe3QLZqOU",
         "title": "Дэвид Копперфильд",
@@ -345,18 +357,6 @@
             "id": "113832328425673061200-google",
             "nickname": "Rimanec",
             "booksCount": 1
-        }
-    },
-    "NMa9RSBG7I": {
-        "id": "NMa9RSBG7I",
-        "title": "Книга о власти над собой",
-        "author": "Энтони Роббинс",
-        "notes": "",
-        "createdAt": "2018-09-05 07:39:09",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 325
         }
     }
 }

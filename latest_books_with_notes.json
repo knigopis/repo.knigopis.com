@@ -1,4 +1,16 @@
 {
+    "kPWSLF5Gdo": {
+        "id": "kPWSLF5Gdo",
+        "title": "Чашка Цукаты",
+        "author": "А.Домбровский",
+        "notes": "Хорошая книга.",
+        "createdAt": "2018-09-10 13:27:59",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 33
+        }
+    },
     "knMKWo-D78": {
         "id": "knMKWo-D78",
         "title": "Лето, прощай",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 30
-        }
-    },
-    "anVvCxEVSM": {
-        "id": "anVvCxEVSM",
-        "title": "Жизнь взаймы",
-        "author": "Эрих Мария Ремарк",
-        "notes": "Нудновато. Не пошла книга и поэтому только половина (целая половина!)",
-        "createdAt": "2018-08-25 10:14:56",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 28
         }
     }
 }
