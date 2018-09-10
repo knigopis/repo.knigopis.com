@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Охота на овец ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
 * Чашка Цукаты ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
 * Лето, прощай ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup>
 * Таинственная история Билли Миллигана ~ [anvonamore](users/595/5957175-vkontakte)<sup>118</sup>
@@ -30,7 +31,6 @@
 * Мрачный Жнец ~ [fire_ejik](users/329/32903202-vkontakte)<sup>33</sup>
 * Мор, ученик Смерти ~ [fire_ejik](users/329/32903202-vkontakte)<sup>32</sup>
 * Над пропастью во ржи ~ [fire_ejik](users/329/32903202-vkontakte)<sup>31</sup>
-* Трое в лодке, не считая собаки ~ [fire_ejik](users/329/32903202-vkontakte)<sup>30</sup>
 
 
-_10.09.2018 13:27:59_
+_10.09.2018 13:42:42_

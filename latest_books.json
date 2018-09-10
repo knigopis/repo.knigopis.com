@@ -1,4 +1,16 @@
 {
+    "JtCJCbfPjF": {
+        "id": "JtCJCbfPjF",
+        "title": "Охота на овец",
+        "author": "Харуки Мураками",
+        "notes": "Крыса, девушка с ушами, Джо, человек-овца, профессор-овца, сенсей, секретарь.",
+        "createdAt": "2018-09-10 13:42:42",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 56
+        }
+    },
     "kPWSLF5Gdo": {
         "id": "kPWSLF5Gdo",
         "title": "Чашка Цукаты",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 33
-        }
-    },
-    "9HG4faN5tf": {
-        "id": "9HG4faN5tf",
-        "title": "Психология влияния",
-        "author": "Чалдини",
-        "notes": "",
-        "createdAt": "2018-09-05 18:05:30",
-        "user": {
-            "id": "113832328425673061200-google",
-            "nickname": "Rimanec",
-            "booksCount": 1
         }
     }
 }

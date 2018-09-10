@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Охота на овец ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
+    > Крыса, девушка с ушами, Джо, человек-овца, профессор-овца, сенсей, секретарь.
+
 * Чашка Цукаты ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
     > Хорошая книга.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > ISBN 978-5-699-37471-7
 
 * Таинственная история Билли Миллигана ~ [anvonamore](users/595/5957175-vkontakte)<sup>118</sup>
-    > 7/10
 
 * Прощание с Матёрой ~ [lucius](users/838/83820536-yandex)<sup>147</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Двойной язык ~ [Saamy](users/115/115226508-vkontakte)<sup>54</sup>
 
-* Владимир, или Прерванный полет ~ [Saamy](users/115/115226508-vkontakte)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>33</sup> 
 [bagefro](users/346/346316791-vkontakte)<sup>0</sup> 
 [Maryana](users/444/444030981-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>74</sup> 
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>2</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>64</sup> 
-[En](users/333/333646551-vkontakte)<sup>51</sup> 
 
 
-_10.09.2018 13:27:59_
+_10.09.2018 13:42:42_
