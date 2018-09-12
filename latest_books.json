@@ -1,4 +1,16 @@
 {
+    "MhOKfxuMlL": {
+        "id": "MhOKfxuMlL",
+        "title": "Мир Софии",
+        "author": "Юстейн Гордер",
+        "notes": "",
+        "createdAt": "2018-09-12 12:56:40",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 135
+        }
+    },
     "cFiaPXpWl6": {
         "id": "cFiaPXpWl6",
         "title": "Роковая музыка",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 326
-        }
-    },
-    "knMKWo-D78": {
-        "id": "knMKWo-D78",
-        "title": "Лето, прощай",
-        "author": "Рэй Брэдбери",
-        "notes": "Стр. 85, 128, 179-181. Глава 31.\nПокажи мне хоть что-нибудь хорошее, чему не приходит конец, и у меня на радостях крыша съедет.\nISBN 978-5-699-37471-7",
-        "createdAt": "2018-09-07 18:52:42",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 11
         }
     }
 }
