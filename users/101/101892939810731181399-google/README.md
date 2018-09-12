@@ -1,4 +1,4 @@
-# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>45</sup>
+# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>46</sup>
 ---
 
 ## 2018
@@ -11,6 +11,11 @@
 ### Помутнение
 Ф.Дик
 > [2018-08] 
+
+
+### Роковая музыка
+Т. Пратчетт
+> [2018-06] 
 
 
 ### Над пропастью во ржи

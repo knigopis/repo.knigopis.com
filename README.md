@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[M.Schwan ](users/101/101892939810731181399-google)<sup>45</sup> 
+[M.Schwan ](users/101/101892939810731181399-google)<sup>46</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>33</sup> 
 [bagefro](users/346/346316791-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anyutka_kozlova92](users/223/22376066-vkontakte)<sup>2</sup> 
 
 
-_12.09.2018 11:56:27_
+_12.09.2018 11:57:41_
