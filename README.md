@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mad_nk](users/411/4117164-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>135</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>46</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>127</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>64</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>74</sup> 
-[anyutka_kozlova92](users/223/22376066-vkontakte)<sup>2</sup> 
 
 
-_12.09.2018 12:56:40_
+_12.09.2018 13:38:37_
