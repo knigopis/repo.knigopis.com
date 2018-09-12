@@ -1,4 +1,16 @@
 {
+    "id60v2Bbme": {
+        "id": "id60v2Bbme",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-09-12 22:25:12",
+        "user": {
+            "id": "134553023-vkontakte",
+            "nickname": "ooowlll",
+            "booksCount": 1
+        }
+    },
     "MhOKfxuMlL": {
         "id": "MhOKfxuMlL",
         "title": "Мир Софии",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 74
-        }
-    },
-    "xc__nCRFRK": {
-        "id": "xc__nCRFRK",
-        "title": "Шляхціч Завальня або Беларусь у фантастычных апавяданнях",
-        "author": "Ян Баршчэўскі",
-        "notes": "",
-        "createdAt": "2018-09-08 04:52:19",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 326
         }
     }
 }

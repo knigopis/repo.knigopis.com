@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ooowlll](users/134/134553023-vkontakte)<sup>0</sup> 
+[ooowlll](users/134/134553023-vkontakte)<sup>1</sup> 
 [mad_nk](users/411/4117164-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>135</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>46</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>64</sup> 
 
 
-_12.09.2018 22:18:03_
+_12.09.2018 22:25:12_
