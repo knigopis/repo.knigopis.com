@@ -1,4 +1,10 @@
 {
+    "4117164-vkontakte": {
+        "id": "4117164-vkontakte",
+        "nickname": "mad_nk",
+        "booksCount": 0,
+        "updatedAt": "2018-09-12 13:38:29"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "victoria_spilioti",
         "booksCount": 74,
         "updatedAt": "2018-08-30 17:05:29"
-    },
-    "22376066-vkontakte": {
-        "id": "22376066-vkontakte",
-        "nickname": "anyutka_kozlova92",
-        "booksCount": 2,
-        "updatedAt": "2018-08-30 09:28:03"
     }
 }
