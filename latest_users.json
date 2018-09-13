@@ -1,4 +1,10 @@
 {
+    "564177817-yandex": {
+        "id": "564177817-yandex",
+        "nickname": "Svecha6742",
+        "booksCount": 0,
+        "updatedAt": "2018-09-13 23:27:53"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "elena-gagina2014",
         "booksCount": 2,
         "updatedAt": "2018-08-31 15:51:54"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Lost in Frost",
-        "booksCount": 127,
-        "updatedAt": "2018-08-31 11:36:57"
     }
 }
