@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>327</sup> 
 [ooowlll](users/134/134553023-vkontakte)<sup>1</sup> 
 [mad_nk](users/411/4117164-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>135</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>103</sup> 
 [shurayuki-hime](users/203/203857348-vkontakte)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>74</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>326</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>118</sup> 
 [Maxsad](users/129/1299452270136652-facebook)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>64</sup> 
 
 
-_12.09.2018 22:25:12_
+_13.09.2018 13:02:41_
