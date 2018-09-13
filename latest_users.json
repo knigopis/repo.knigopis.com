@@ -1,4 +1,10 @@
 {
+    "190036346-vkontakte": {
+        "id": "190036346-vkontakte",
+        "nickname": "donat6",
+        "booksCount": 0,
+        "updatedAt": "2018-09-13 23:32:56"
+    },
     "118041836581529110049-google": {
         "id": "118041836581529110049-google",
         "nickname": "Svecha",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 665,
         "updatedAt": "2018-08-31 18:27:02"
-    },
-    "208969292-yandex": {
-        "id": "208969292-yandex",
-        "nickname": "elena-gagina2014",
-        "booksCount": 2,
-        "updatedAt": "2018-08-31 15:51:54"
     }
 }
