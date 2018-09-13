@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>192</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>193</sup>
 ---
 
 ## 2018
@@ -478,6 +478,10 @@
 
 
 ## Other years
+
+### Таинственная история Билли Миллигана
+Дэниел Киз
+
 
 ### Множественные умы Билли Миллигана
 Дэниел Киз

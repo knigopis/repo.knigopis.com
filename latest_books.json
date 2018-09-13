@@ -1,4 +1,16 @@
 {
+    "2h12u1J-ux": {
+        "id": "2h12u1J-ux",
+        "title": "Таинственная история Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2018-09-13 19:41:33",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 193
+        }
+    },
     "fdRTcJC5QC": {
         "id": "fdRTcJC5QC",
         "title": "Запретная археология",
@@ -345,18 +357,6 @@
             "id": "118041836581529110049-google",
             "nickname": null,
             "booksCount": 4
-        }
-    },
-    "QhX6ixchjY": {
-        "id": "QhX6ixchjY",
-        "title": "К востоку от Эдема",
-        "author": "Джон Стейнбек",
-        "notes": "",
-        "createdAt": "2018-09-08 13:58:30",
-        "user": {
-            "id": "118041836581529110049-google",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }
