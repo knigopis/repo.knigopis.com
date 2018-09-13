@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Svecha](users/118/118041836581529110049-google)<sup>27</sup> 
 [Svecha6742](users/564/564177817-yandex)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>192</sup> 
-[](users/118/118041836581529110049-google)<sup>27</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>327</sup> 
 [ooowlll](users/134/134553023-vkontakte)<sup>1</sup> 
 [mad_nk](users/411/4117164-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup> 
 
 
-_13.09.2018 23:28:00_
+_13.09.2018 23:28:37_
