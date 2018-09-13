@@ -1,4 +1,10 @@
 {
+    "118041836581529110049-google": {
+        "id": "118041836581529110049-google",
+        "nickname": "Svecha",
+        "booksCount": 27,
+        "updatedAt": "2018-09-13 23:28:36"
+    },
     "564177817-yandex": {
         "id": "564177817-yandex",
         "nickname": "Svecha6742",
@@ -10,12 +16,6 @@
         "nickname": "Garka",
         "booksCount": 192,
         "updatedAt": "2018-09-13 19:41:55"
-    },
-    "118041836581529110049-google": {
-        "id": "118041836581529110049-google",
-        "nickname": null,
-        "booksCount": 27,
-        "updatedAt": "2018-09-13 16:45:56"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
