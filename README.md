@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Запретная археология ~ [Garka](users/115/115753719718250012620-google)<sup>192</sup>
+    > Впервые прочла книгу около 10ти лет назад, многое стерлось из памяти, но впечатления оставались, решила перечитать. Первая часть книга (о времени происхождение человека, о реликтовых животных и т.д.) понравилась очень. Вторая часть для меня стала чуть скучной, скорее даже из-за того, что многое из написанного давно известно (во всяком случае мне) и не раз обсуждалось в других изданиях.
+
 * Охота на овец ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
     > Крыса, девушка с ушами, Джо, человек-овца, профессор-овца, сенсей, секретарь.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Хорошая книга.
 
 * Лето, прощай ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup>
-    > Стр. 85, 128, 179-181. Глава 31.
-    > Покажи мне хоть что-нибудь хорошее, чему не приходит конец, и у меня на радостях крыша съедет.
-    > ISBN 978-5-699-37471-7
 
 * Таинственная история Билли Миллигана ~ [anvonamore](users/595/5957175-vkontakte)<sup>118</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Осиная фабрика ~ [Saamy](users/115/115226508-vkontakte)<sup>55</sup>
 
-* Двойной язык ~ [Saamy](users/115/115226508-vkontakte)<sup>54</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>192</sup> 
 [](users/118/118041836581529110049-google)<sup>27</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>327</sup> 
 [ooowlll](users/134/134553023-vkontakte)<sup>1</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>665</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>127</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>64</sup> 
 
 
-_13.09.2018 16:45:56_
+_13.09.2018 19:40:40_
