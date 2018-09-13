@@ -1,4 +1,10 @@
 {
+    "118041836581529110049-google": {
+        "id": "118041836581529110049-google",
+        "nickname": null,
+        "booksCount": 27,
+        "updatedAt": "2018-09-13 16:45:56"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -52,12 +58,6 @@
         "nickname": "Maryana",
         "booksCount": 0,
         "updatedAt": "2018-09-09 13:30:43"
-    },
-    "118041836581529110049-google": {
-        "id": "118041836581529110049-google",
-        "nickname": null,
-        "booksCount": 26,
-        "updatedAt": "2018-09-09 08:51:20"
     },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",

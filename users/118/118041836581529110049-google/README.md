@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/118041836581529110049)<sup>26</sup>
+# List of books read by [](https://plus.google.com/118041836581529110049)<sup>27</sup>
 ---
 
 ## 2018
+
+### Сирены Титана
+Курт Воннегут
+> [2018-09-13] 
+
 
 ### К востоку от Эдема
 Джон Стейнбек
