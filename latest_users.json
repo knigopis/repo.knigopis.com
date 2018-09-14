@@ -1,4 +1,10 @@
 {
+    "13593377682489824605-mailru": {
+        "id": "13593377682489824605-mailru",
+        "nickname": "Яков Апанович",
+        "booksCount": 0,
+        "updatedAt": "2018-09-14 19:35:55"
+    },
     "190036346-vkontakte": {
         "id": "190036346-vkontakte",
         "nickname": "donat6",
@@ -172,11 +178,5 @@
         "nickname": "le_brouillard",
         "booksCount": 32,
         "updatedAt": "2018-09-02 18:47:25"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 665,
-        "updatedAt": "2018-08-31 18:27:02"
     }
 }
