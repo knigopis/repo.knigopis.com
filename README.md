@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Яков Апанович](users/135/13593377682489824605-mailru)<sup>0</sup> 
 [donat6](users/190/190036346-vkontakte)<sup>0</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>27</sup> 
 [Svecha6742](users/564/564177817-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>180</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>56</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>32</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>665</sup> 
 
 
-_13.09.2018 23:32:57_
+_14.09.2018 19:36:04_
