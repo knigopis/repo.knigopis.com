@@ -1,7 +1,12 @@
-# List of books read by [SadGarnet](http://vk.com/id169135125)<sup>1</sup>
+# List of books read by [SadGarnet](http://vk.com/id169135125)<sup>2</sup>
 ---
 
 ## 2017
+
+### Лолита
+Вледимир Набоков
+> [2017-08-26] 
+
 
 ### Великий Гэтсби
 Френсис Скотт Фицджеральд

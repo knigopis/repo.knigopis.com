@@ -1,4 +1,16 @@
 {
+    "jhKD9IVplf": {
+        "id": "jhKD9IVplf",
+        "title": "Лолита",
+        "author": "Вледимир Набоков",
+        "notes": "",
+        "createdAt": "2018-09-15 12:09:20",
+        "user": {
+            "id": "169135125-vkontakte",
+            "nickname": "SadGarnet",
+            "booksCount": 2
+        }
+    },
     "XjFPszYxLN": {
         "id": "XjFPszYxLN",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "118041836581529110049-google",
             "nickname": null,
             "booksCount": 7
-        }
-    },
-    "hhT7cF1F5N": {
-        "id": "hhT7cF1F5N",
-        "title": "Понедельник начинается в субботу",
-        "author": "А. и Б. Стругацкие",
-        "notes": "",
-        "createdAt": "2018-09-08 14:05:35",
-        "user": {
-            "id": "118041836581529110049-google",
-            "nickname": null,
-            "booksCount": 6
         }
     }
 }
