@@ -1,4 +1,4 @@
-# List of books read by [SadGarnet](http://vk.com/id169135125)<sup>6</sup>
+# List of books read by [SadGarnet](http://vk.com/id169135125)<sup>7</sup>
 ---
 
 ## 2017
@@ -20,6 +20,10 @@
 
 
 ## 2015
+
+### Око Озириса
+Ричард Остин Фример
+
 
 ### Опасная бритва
 Дороти Сэйерс

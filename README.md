@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[SadGarnet](users/169/169135125-vkontakte)<sup>6</sup> 
+[SadGarnet](users/169/169135125-vkontakte)<sup>7</sup> 
 [enoch](users/135/13593377682489824605-mailru)<sup>1</sup> 
 [donat6](users/190/190036346-vkontakte)<sup>0</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>27</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>56</sup> 
 
 
-_15.09.2018 12:14:42_
+_15.09.2018 12:16:45_

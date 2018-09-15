@@ -1,4 +1,16 @@
 {
+    "EH8FbMpv6v": {
+        "id": "EH8FbMpv6v",
+        "title": "Око Озириса",
+        "author": "Ричард Остин Фример",
+        "notes": "",
+        "createdAt": "2018-09-15 12:16:45",
+        "user": {
+            "id": "169135125-vkontakte",
+            "nickname": "SadGarnet",
+            "booksCount": 7
+        }
+    },
     "RDj0GOohAw": {
         "id": "RDj0GOohAw",
         "title": "Опасная бритва",
@@ -345,18 +357,6 @@
             "id": "118041836581529110049-google",
             "nickname": null,
             "booksCount": 17
-        }
-    },
-    "q73KMjeSWW": {
-        "id": "q73KMjeSWW",
-        "title": "Дюна",
-        "author": "Фрэнк Герберт",
-        "notes": "",
-        "createdAt": "2018-09-08 14:28:16",
-        "user": {
-            "id": "118041836581529110049-google",
-            "nickname": null,
-            "booksCount": 16
         }
     }
 }
