@@ -1,7 +1,12 @@
-# List of books read by [SadGarnet](http://vk.com/id169135125)<sup>2</sup>
+# List of books read by [SadGarnet](http://vk.com/id169135125)<sup>3</sup>
 ---
 
 ## 2017
+
+### Собачье сердце
+Михаил Булгаков
+> [2017-08-28] 
+
 
 ### Лолита
 Вледимир Набоков
