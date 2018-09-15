@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>104</sup> 
 [SadGarnet](users/169/169135125-vkontakte)<sup>8</sup> 
 [enoch](users/135/13593377682489824605-mailru)<sup>1</sup> 
 [donat6](users/190/190036346-vkontakte)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>33</sup> 
 [bagefro](users/346/346316791-vkontakte)<sup>0</sup> 
 [Maryana](users/444/444030981-vkontakte)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>103</sup> 
 [shurayuki-hime](users/203/203857348-vkontakte)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>74</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>56</sup> 
 
 
-_15.09.2018 12:16:50_
+_15.09.2018 17:23:42_
