@@ -1,4 +1,16 @@
 {
+    "XjFPszYxLN": {
+        "id": "XjFPszYxLN",
+        "title": "Великий Гэтсби",
+        "author": "Френсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2018-09-15 12:08:47",
+        "user": {
+            "id": "169135125-vkontakte",
+            "nickname": "SadGarnet",
+            "booksCount": 1
+        }
+    },
     "BVIJPPn8Q7": {
         "id": "BVIJPPn8Q7",
         "title": "Мальвиль",
@@ -345,18 +357,6 @@
             "id": "118041836581529110049-google",
             "nickname": null,
             "booksCount": 6
-        }
-    },
-    "FR6RsP7Yi4": {
-        "id": "FR6RsP7Yi4",
-        "title": "Трудно быть богом",
-        "author": "А. и Б. Стругацкие",
-        "notes": "",
-        "createdAt": "2018-09-08 14:03:31",
-        "user": {
-            "id": "118041836581529110049-google",
-            "nickname": null,
-            "booksCount": 5
         }
     }
 }
