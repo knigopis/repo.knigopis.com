@@ -1,4 +1,4 @@
-# List of books read by [SadGarnet](http://vk.com/id169135125)<sup>5</sup>
+# List of books read by [SadGarnet](http://vk.com/id169135125)<sup>6</sup>
 ---
 
 ## 2017
@@ -20,6 +20,10 @@
 
 
 ## 2015
+
+### Опасная бритва
+Дороти Сэйерс
+
 
 
 

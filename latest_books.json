@@ -1,4 +1,16 @@
 {
+    "RDj0GOohAw": {
+        "id": "RDj0GOohAw",
+        "title": "Опасная бритва",
+        "author": "Дороти Сэйерс",
+        "notes": "",
+        "createdAt": "2018-09-15 12:14:42",
+        "user": {
+            "id": "169135125-vkontakte",
+            "nickname": "SadGarnet",
+            "booksCount": 6
+        }
+    },
     "pwz6FyCr6j": {
         "id": "pwz6FyCr6j",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "118041836581529110049-google",
             "nickname": null,
             "booksCount": 16
-        }
-    },
-    "VcyOguF-Db": {
-        "id": "VcyOguF-Db",
-        "title": "Град обреченный",
-        "author": "А. и Б. Стругацкие",
-        "notes": "",
-        "createdAt": "2018-09-08 14:25:16",
-        "user": {
-            "id": "118041836581529110049-google",
-            "nickname": null,
-            "booksCount": 15
         }
     }
 }
