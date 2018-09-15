@@ -1,4 +1,10 @@
 {
+    "169135125-vkontakte": {
+        "id": "169135125-vkontakte",
+        "nickname": "SadGarnet",
+        "booksCount": 0,
+        "updatedAt": "2018-09-15 12:06:39"
+    },
     "13593377682489824605-mailru": {
         "id": "13593377682489824605-mailru",
         "nickname": "enoch",
@@ -172,11 +178,5 @@
         "nickname": "Saamy",
         "booksCount": 56,
         "updatedAt": "2018-09-02 20:22:03"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 32,
-        "updatedAt": "2018-09-02 18:47:25"
     }
 }
