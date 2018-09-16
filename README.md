@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>45</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>75</sup> 
 [naumi_s](users/136/136955863-vkontakte)<sup>2</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>147</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>83</sup> 
 [youno](users/302/302928912-vkontakte)<sup>14</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>9</sup> 
 
 
-_16.09.2018 21:23:19_
+_16.09.2018 22:44:32_

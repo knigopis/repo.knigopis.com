@@ -1,7 +1,12 @@
-# List of books read by [me](http://www.knigopis.com/#/user/books?u=381417697-yandex)<sup>44</sup>
+# List of books read by [me]( )<sup>45</sup>
 ---
 
 ## 2018
+
+### Kotlin in Action
+Dmitry Jemerov, Svetlana Isakova
+> [2018-09-17] 
+
 
 ### Git from the Bottom Up
 John Wiegley
