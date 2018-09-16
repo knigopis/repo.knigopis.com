@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Похождения бравого солдата Швейка ~ [violet_velva](users/116/116961712580551399099-google)<sup>45</sup>
 * Путь князя ~ [Chiffi](users/105/105831994080785626680-google)<sup>75</sup>
 * Запретная археология ~ [Garka](users/115/115753719718250012620-google)<sup>192</sup>
 * Охота на овец ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
@@ -30,7 +31,6 @@
 * Машина времени ~ [fire_ejik](users/329/32903202-vkontakte)<sup>39</sup>
 * Дети лампы. Книга вторая. ~ [fire_ejik](users/329/32903202-vkontakte)<sup>38</sup>
 * Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [fire_ejik](users/329/32903202-vkontakte)<sup>37</sup>
-* Мрачный Жнец ~ [fire_ejik](users/329/32903202-vkontakte)<sup>33</sup>
 
 
-_16.09.2018 18:08:29_
+_16.09.2018 21:13:41_
