@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>72</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>104</sup> 
 [SadGarnet](users/169/169135125-vkontakte)<sup>8</sup> 
 [enoch](users/135/13593377682489824605-mailru)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>9</sup> 
 [](users/115/115826717712507836033-google)<sup>120</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>180</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>56</sup> 
 
 
-_15.09.2018 17:23:42_
+_16.09.2018 05:57:57_
