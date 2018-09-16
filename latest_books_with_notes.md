@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Путь князя ~ [Chiffi](users/105/105831994080785626680-google)<sup>73</sup>
 * Запретная археология ~ [Garka](users/115/115753719718250012620-google)<sup>192</sup>
 * Охота на овец ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
 * Чашка Цукаты ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
@@ -30,7 +31,6 @@
 * Дети лампы. Книга вторая. ~ [fire_ejik](users/329/32903202-vkontakte)<sup>38</sup>
 * Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [fire_ejik](users/329/32903202-vkontakte)<sup>37</sup>
 * Мрачный Жнец ~ [fire_ejik](users/329/32903202-vkontakte)<sup>33</sup>
-* Мор, ученик Смерти ~ [fire_ejik](users/329/32903202-vkontakte)<sup>32</sup>
 
 
-_13.09.2018 19:40:40_
+_16.09.2018 06:20:41_
