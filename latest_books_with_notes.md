@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Путь князя ~ [Chiffi](users/105/105831994080785626680-google)<sup>74</sup>
+* Путь князя ~ [Chiffi](users/105/105831994080785626680-google)<sup>75</sup>
 * Запретная археология ~ [Garka](users/115/115753719718250012620-google)<sup>192</sup>
 * Охота на овец ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
 * Чашка Цукаты ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
@@ -33,4 +33,4 @@
 * Мрачный Жнец ~ [fire_ejik](users/329/32903202-vkontakte)<sup>33</sup>
 
 
-_16.09.2018 18:03:40_
+_16.09.2018 18:08:29_
