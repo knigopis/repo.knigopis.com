@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>35</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>73</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>104</sup> 
 [SadGarnet](users/169/169135125-vkontakte)<sup>8</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>118</sup> 
 [Maxsad](users/129/1299452270136652-facebook)<sup>0</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>34</sup> 
 [Rimanec](users/113/113832328425673061200-google)<sup>1</sup> 
 [lucius](users/838/83820536-yandex)<sup>147</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>83</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>180</sup> 
 
 
-_16.09.2018 06:20:41_
+_16.09.2018 10:34:56_

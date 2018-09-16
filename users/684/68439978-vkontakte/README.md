@@ -1,7 +1,12 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>34</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>35</sup>
 ---
 
 ## 2018
+
+### Полковнику никто не пишет
+Г.Г.Маркес
+> [2018-09-24] 
+
 
 ### Роман Грачёв
 Томка. Тополиная,13

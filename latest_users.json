@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 35,
+        "updatedAt": "2018-09-16 10:34:55"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -130,12 +136,6 @@
         "nickname": "Maxsad",
         "booksCount": 0,
         "updatedAt": "2018-09-07 12:58:01"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 34,
-        "updatedAt": "2018-09-05 19:25:18"
     },
     "113832328425673061200-google": {
         "id": "113832328425673061200-google",
