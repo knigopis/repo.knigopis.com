@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[naumi_s](users/136/136955863-vkontakte)<sup>1</sup> 
+[naumi_s](users/136/136955863-vkontakte)<sup>2</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>35</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>73</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>120</sup> 
 
 
-_16.09.2018 15:05:02_
+_16.09.2018 15:05:45_

@@ -1,4 +1,16 @@
 {
+    "GfMuDpVkJA": {
+        "id": "GfMuDpVkJA",
+        "title": "Бесшабашный 1 часть",
+        "author": "Корнелия Функе",
+        "notes": "",
+        "createdAt": "2018-09-16 15:05:45",
+        "user": {
+            "id": "136955863-vkontakte",
+            "nickname": "naumi_s",
+            "booksCount": 2
+        }
+    },
     "r3UquEM5c0": {
         "id": "r3UquEM5c0",
         "title": "Бесшабашный 2-3 часть",
@@ -345,18 +357,6 @@
             "id": "118041836581529110049-google",
             "nickname": null,
             "booksCount": 23
-        }
-    },
-    "UjN3OcCqSB": {
-        "id": "UjN3OcCqSB",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2018-09-08 14:36:36",
-        "user": {
-            "id": "118041836581529110049-google",
-            "nickname": null,
-            "booksCount": 22
         }
     }
 }
