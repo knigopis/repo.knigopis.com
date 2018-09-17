@@ -39,8 +39,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me1](users/381/381417697-yandex)<sup>45</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>157</sup> 
-[me](users/381/381417697-yandex)<sup>45</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>75</sup> 
 [naumi_s](users/136/136955863-vkontakte)<sup>2</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>83</sup> 
 
 
-_17.09.2018 11:08:26_
+_17.09.2018 20:13:52_
