@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Baśnie ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
 * Скотный двор ~ [violet_velva](users/116/116961712580551399099-google)<sup>46</sup>
 * Похождения бравого солдата Швейка ~ [violet_velva](users/116/116961712580551399099-google)<sup>45</sup>
 * Путь князя ~ [Chiffi](users/105/105831994080785626680-google)<sup>75</sup>
@@ -30,7 +31,6 @@
 * Замуж с осложнениями ~ [Chiffi](users/105/105831994080785626680-google)<sup>72</sup>
 * Путь к финансовой независимости ~ [darb_el](users/184/184135339-vkontakte)<sup>13</sup>
 * Машина времени ~ [fire_ejik](users/329/32903202-vkontakte)<sup>39</sup>
-* Дети лампы. Книга вторая. ~ [fire_ejik](users/329/32903202-vkontakte)<sup>38</sup>
 
 
-_16.09.2018 21:23:19_
+_17.09.2018 11:03:39_

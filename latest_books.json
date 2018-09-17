@@ -1,4 +1,16 @@
 {
+    "DzfpI79NvI": {
+        "id": "DzfpI79NvI",
+        "title": "Baśnie",
+        "author": "Hans Christian Andersen",
+        "notes": "Сказки на польском языке",
+        "createdAt": "2018-09-17 11:03:39",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 155
+        }
+    },
     "sCq1wjB6KH": {
         "id": "sCq1wjB6KH",
         "title": "Kotlin in Action",
@@ -345,18 +357,6 @@
             "id": "118041836581529110049-google",
             "nickname": null,
             "booksCount": 26
-        }
-    },
-    "M3XWbEaQDo": {
-        "id": "M3XWbEaQDo",
-        "title": "Ведьмина служба доставки",
-        "author": "Эйко Кадоно",
-        "notes": "",
-        "createdAt": "2018-09-08 19:45:30",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 103
         }
     }
 }

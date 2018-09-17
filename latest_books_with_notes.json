@@ -1,4 +1,16 @@
 {
+    "DzfpI79NvI": {
+        "id": "DzfpI79NvI",
+        "title": "Baśnie",
+        "author": "Hans Christian Andersen",
+        "notes": "Сказки на польском языке",
+        "createdAt": "2018-09-17 11:03:39",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 155
+        }
+    },
     "bt0GEP9cCZ": {
         "id": "bt0GEP9cCZ",
         "title": "Скотный двор",
@@ -345,18 +357,6 @@
             "id": "32903202-vkontakte",
             "nickname": "fire_ejik",
             "booksCount": 39
-        }
-    },
-    "U1VS85ldkv": {
-        "id": "U1VS85ldkv",
-        "title": "Дети лампы. Книга вторая.",
-        "author": "Ф. Б. Керр",
-        "notes": "Из-за сессии не могла долго дочитать. Забросила на месяц, а потом пол книги за пару дней фьють",
-        "createdAt": "2018-08-25 10:18:09",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 38
         }
     }
 }

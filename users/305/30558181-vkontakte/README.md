@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>154</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>155</sup>
 ---
 
 ## 2018
@@ -16,6 +16,11 @@
 ### Маленькая книга Hugge. Секрет датского счастья
 Майк Викинг
 > [2018-07-28] 
+
+
+### Baśnie
+Hans Christian Andersen
+> [2018-07-26] Сказки на польском языке
 
 
 ### 100+ хаков для интернет-маркетологов
