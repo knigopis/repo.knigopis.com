@@ -1,4 +1,16 @@
 {
+    "VvlyLqzini": {
+        "id": "VvlyLqzini",
+        "title": "Взлом маркетинга",
+        "author": "Фил Барден",
+        "notes": "",
+        "createdAt": "2018-09-17 11:08:26",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 157
+        }
+    },
     "GYg1NJuB6f": {
         "id": "GYg1NJuB6f",
         "title": "Skarbiec najpiękniejszych baśni",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 56
-        }
-    },
-    "kPWSLF5Gdo": {
-        "id": "kPWSLF5Gdo",
-        "title": "Чашка Цукаты",
-        "author": "А.Домбровский",
-        "notes": "Хорошая книга.",
-        "createdAt": "2018-09-10 13:27:59",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 33
         }
     }
 }

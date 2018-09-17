@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>156</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>157</sup>
 ---
 
 ## 2018
+
+### Взлом маркетинга
+Фил Барден
+> [2018-09-07] 
+
 
 ### Якутия
 Евгений Федотов
