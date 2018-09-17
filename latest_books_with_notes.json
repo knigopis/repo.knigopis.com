@@ -1,4 +1,16 @@
 {
+    "GYg1NJuB6f": {
+        "id": "GYg1NJuB6f",
+        "title": "Skarbiec najpiękniejszych baśni",
+        "author": "",
+        "notes": "Сказка на польском языке",
+        "createdAt": "2018-09-17 11:07:33",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 156
+        }
+    },
     "DzfpI79NvI": {
         "id": "DzfpI79NvI",
         "title": "Baśnie",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 13
-        }
-    },
-    "JX65x0Y_FF": {
-        "id": "JX65x0Y_FF",
-        "title": "Машина времени",
-        "author": "Герберт Уэллс",
-        "notes": "Рассчитывала дня на три, но что-то пошло не так",
-        "createdAt": "2018-08-25 10:18:33",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 39
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "GYg1NJuB6f": {
+        "id": "GYg1NJuB6f",
+        "title": "Skarbiec najpiękniejszych baśni",
+        "author": "",
+        "notes": "Сказка на польском языке",
+        "createdAt": "2018-09-17 11:07:33",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 156
+        }
+    },
     "DzfpI79NvI": {
         "id": "DzfpI79NvI",
         "title": "Baśnie",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 33
-        }
-    },
-    "zQe3QLZqOU": {
-        "id": "zQe3QLZqOU",
-        "title": "Дэвид Копперфильд",
-        "author": "Чарльз Диккенс",
-        "notes": "",
-        "createdAt": "2018-09-09 08:51:20",
-        "user": {
-            "id": "118041836581529110049-google",
-            "nickname": null,
-            "booksCount": 26
         }
     }
 }

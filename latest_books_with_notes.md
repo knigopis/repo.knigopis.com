@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Skarbiec najpiękniejszych baśni ~ [EsterHani](users/305/30558181-vkontakte)<sup>156</sup>
 * Baśnie ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
 * Скотный двор ~ [violet_velva](users/116/116961712580551399099-google)<sup>46</sup>
 * Похождения бравого солдата Швейка ~ [violet_velva](users/116/116961712580551399099-google)<sup>45</sup>
@@ -30,7 +31,6 @@
 * Harry Potter and the Sorcerer's Stone ~ [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup>
 * Замуж с осложнениями ~ [Chiffi](users/105/105831994080785626680-google)<sup>72</sup>
 * Путь к финансовой независимости ~ [darb_el](users/184/184135339-vkontakte)<sup>13</sup>
-* Машина времени ~ [fire_ejik](users/329/32903202-vkontakte)<sup>39</sup>
 
 
-_17.09.2018 11:03:39_
+_17.09.2018 11:07:33_

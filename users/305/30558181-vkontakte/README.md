@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>155</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>156</sup>
 ---
 
 ## 2018
@@ -41,6 +41,10 @@ Hans Christian Andersen
 ### Minne, или Память по-шведски
 Идриз Зогай
 > [2018-06-30] 
+
+
+### Skarbiec najpiękniejszych baśni
+> [2018-05-24] Сказка на польском языке
 
 
 ### Пиши, сокращай

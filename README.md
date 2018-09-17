@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Skarbiec najpiękniejszych baśni ~ [EsterHani](users/305/30558181-vkontakte)<sup>156</sup>
+    > Сказка на польском языке
+
 * Baśnie ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
     > Сказки на польском языке
 
@@ -18,8 +21,6 @@ Do not use pull requests to make changes here.
     > Что-то в этом есть. Что-то, что можно увидеть на протяжении всех веков истории человеческого существования. Что-то, что в любом государстве, в любом человеческом обществе сразу же можно узнать . Всегда и везде будут те, кто работает, и те, кто руководит теми, кто работает. И никогда люди не были и не будут равными, как ни крути.
 
 * Похождения бравого солдата Швейка ~ [violet_velva](users/116/116961712580551399099-google)<sup>45</sup>
-    > Швейк бесподобен! Очень жаль, что произведение неоконченное. Я не знала, что автор умер, не закончив написание книги. 
-    > Теперь Швейк один из моих любимых литературных персонажей.
 
 * Путь князя ~ [Chiffi](users/105/105831994080785626680-google)<sup>75</sup>
 
@@ -33,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Таинственная история Билли Миллигана ~ [anvonamore](users/595/5957175-vkontakte)<sup>118</sup>
 
-* Прощание с Матёрой ~ [lucius](users/838/83820536-yandex)<sup>147</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>155</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>156</sup> 
 [me](users/381/381417697-yandex)<sup>45</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>75</sup> 
@@ -72,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>83</sup> 
 
 
-_17.09.2018 11:03:39_
+_17.09.2018 11:07:33_
