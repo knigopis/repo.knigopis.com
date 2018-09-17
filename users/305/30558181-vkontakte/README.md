@@ -44,7 +44,7 @@ Hans Christian Andersen
 
 
 ### Skarbiec najpiękniejszych baśni
-> [2018-05-24] Сказка на польском языке
+> [2018-05-24] Сказки на польском языке
 
 
 ### Пиши, сокращай
