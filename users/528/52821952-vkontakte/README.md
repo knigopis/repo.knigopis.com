@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>92</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>93</sup>
 ---
 
 ## 2018
+
+### Лунный камень
+Уилки Коллинз
+> [2018-09-18] 8/10
+
 
 ### Защита Лужина
 Владимир Набоков

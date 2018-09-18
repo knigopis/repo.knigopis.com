@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лунный камень ~ [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup>
+    > 8/10
+
 * Зеленая Миля ~ [Garka](users/115/115753719718250012620-google)<sup>193</sup>
     > Очень сильная книга. На моменте описания казни Коффи реально слезы на глазах навернулись.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сказка на польском языке
 
 * Baśnie ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
-    > Сказки на польском языке
 
 * Скотный двор ~ [violet_velva](users/116/116961712580551399099-google)<sup>46</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чашка Цукаты ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
 
-* Лето, прощай ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>93</sup> 
 [Lena](users/433/433159683731186-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>193</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>128</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>74</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>118</sup> 
-[Maxsad](users/129/1299452270136652-facebook)<sup>0</sup> 
 
 
-_18.09.2018 20:45:52_
+_18.09.2018 21:08:44_

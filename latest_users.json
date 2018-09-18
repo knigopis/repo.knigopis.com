@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 93,
+        "updatedAt": "2018-09-18 21:08:44"
+    },
     "433159683731186-facebook": {
         "id": "433159683731186-facebook",
         "nickname": "Lena",
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 118,
         "updatedAt": "2018-09-07 13:02:47"
-    },
-    "1299452270136652-facebook": {
-        "id": "1299452270136652-facebook",
-        "nickname": "Maxsad",
-        "booksCount": 0,
-        "updatedAt": "2018-09-07 12:58:01"
     }
 }
