@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Зеленая Миля ~ [Garka](users/115/115753719718250012620-google)<sup>193</sup>
 * Skarbiec najpiękniejszych baśni ~ [EsterHani](users/305/30558181-vkontakte)<sup>156</sup>
 * Baśnie ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
 * Скотный двор ~ [violet_velva](users/116/116961712580551399099-google)<sup>46</sup>
@@ -30,7 +31,6 @@
 * Военная стратегия. Подготовка и ведение войн Нового и Новейшего времени ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup>
 * Harry Potter and the Sorcerer's Stone ~ [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup>
 * Замуж с осложнениями ~ [Chiffi](users/105/105831994080785626680-google)<sup>72</sup>
-* Путь к финансовой независимости ~ [darb_el](users/184/184135339-vkontakte)<sup>13</sup>
 
 
-_17.09.2018 11:07:33_
+_18.09.2018 16:35:21_
