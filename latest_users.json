@@ -1,4 +1,10 @@
 {
+    "1985354221526581-facebook": {
+        "id": "1985354221526581-facebook",
+        "nickname": "Граф ",
+        "booksCount": 0,
+        "updatedAt": "2018-09-18 00:54:29"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me2",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 147,
         "updatedAt": "2018-09-05 05:49:40"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 83,
-        "updatedAt": "2018-09-04 19:02:52"
     }
 }
