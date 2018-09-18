@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lena](users/433/433159683731186-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>193</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>128</sup> 
 [Граф ](users/198/1985354221526581-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>118</sup> 
 [Maxsad](users/129/1299452270136652-facebook)<sup>0</sup> 
-[Rimanec](users/113/113832328425673061200-google)<sup>1</sup> 
 
 
-_18.09.2018 16:35:21_
+_18.09.2018 20:45:52_
