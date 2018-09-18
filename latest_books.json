@@ -1,4 +1,16 @@
 {
+    "nSSI9UuIDw": {
+        "id": "nSSI9UuIDw",
+        "title": "Адский поезд для Красного Ангела",
+        "author": "Франк Тилье",
+        "notes": "",
+        "createdAt": "2018-09-18 08:10:31",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 128
+        }
+    },
     "VvlyLqzini": {
         "id": "VvlyLqzini",
         "title": "Взлом маркетинга",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 44
-        }
-    },
-    "JtCJCbfPjF": {
-        "id": "JtCJCbfPjF",
-        "title": "Охота на овец",
-        "author": "Харуки Мураками",
-        "notes": "Крыса, девушка с ушами, Джо, человек-овца, профессор-овца, сенсей, секретарь.",
-        "createdAt": "2018-09-10 13:42:42",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 56
         }
     }
 }

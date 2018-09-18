@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>127</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>128</sup>
 ---
 
 ## 2018
+
+### Адский поезд для Красного Ангела
+Франк Тилье
+> [2018-09-18] 
+
 
 ### Тараканы
 Ю Несбё

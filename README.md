@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lost in Frost](users/103/103293621948650602575-google)<sup>128</sup> 
 [Граф ](users/198/1985354221526581-facebook)<sup>0</sup> 
 [me2](users/381/381417697-yandex)<sup>45</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>157</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>118</sup> 
 [Maxsad](users/129/1299452270136652-facebook)<sup>0</sup> 
 [Rimanec](users/113/113832328425673061200-google)<sup>1</sup> 
-[lucius](users/838/83820536-yandex)<sup>147</sup> 
 
 
-_18.09.2018 00:54:34_
+_18.09.2018 08:10:31_
