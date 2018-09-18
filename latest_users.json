@@ -1,4 +1,10 @@
 {
+    "433159683731186-facebook": {
+        "id": "433159683731186-facebook",
+        "nickname": "Lena",
+        "booksCount": 0,
+        "updatedAt": "2018-09-18 20:45:50"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Maxsad",
         "booksCount": 0,
         "updatedAt": "2018-09-07 12:58:01"
-    },
-    "113832328425673061200-google": {
-        "id": "113832328425673061200-google",
-        "nickname": "Rimanec",
-        "booksCount": 1,
-        "updatedAt": "2018-09-05 18:05:30"
     }
 }
