@@ -1,4 +1,16 @@
 {
+    "DAVV0t-Cjt": {
+        "id": "DAVV0t-Cjt",
+        "title": "История банковского и биржевого дела",
+        "author": "Соколов Е.",
+        "notes": "",
+        "createdAt": "2018-09-19 09:45:18",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 37
+        }
+    },
     "z7tV2LRHcJ": {
         "id": "z7tV2LRHcJ",
         "title": "Пряник с чёрной икрой",
@@ -345,18 +357,6 @@
             "id": "134553023-vkontakte",
             "nickname": "ooowlll",
             "booksCount": 1
-        }
-    },
-    "MhOKfxuMlL": {
-        "id": "MhOKfxuMlL",
-        "title": "Мир Софии",
-        "author": "Юстейн Гордер",
-        "notes": "",
-        "createdAt": "2018-09-12 12:56:40",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 135
         }
     }
 }
