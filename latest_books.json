@@ -1,4 +1,16 @@
 {
+    "CmDgrVd1Vd": {
+        "id": "CmDgrVd1Vd",
+        "title": "Игры,в которые мы все играем",
+        "author": "Дугласс Мосс",
+        "notes": "",
+        "createdAt": "2018-09-19 09:46:07",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 38
+        }
+    },
     "DAVV0t-Cjt": {
         "id": "DAVV0t-Cjt",
         "title": "История банковского и биржевого дела",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 327
-        }
-    },
-    "id60v2Bbme": {
-        "id": "id60v2Bbme",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-09-12 22:25:12",
-        "user": {
-            "id": "134553023-vkontakte",
-            "nickname": "ooowlll",
-            "booksCount": 1
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kissamasya](users/684/68439978-vkontakte)<sup>37</sup> 
+[kissamasya](users/684/68439978-vkontakte)<sup>38</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup> 
 [Lena](users/433/433159683731186-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>193</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>118</sup> 
 
 
-_19.09.2018 09:45:18_
+_19.09.2018 09:46:07_
