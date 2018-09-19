@@ -1,10 +1,6 @@
 # Wish list of books by [me]( )
 ---
 
-### `96` Kotlin in Action
-Dmitry Jemerov, Svetlana Isakova
-> Пропустил с 37% по 40%
-
 ### `60` Тайм-драйв
 Глеб Архангельский
 
@@ -21,12 +17,12 @@ Miran Lipovača
 ### `20` Слово живое и мертвое
 Нора Галь
 
+### `12` Совершенный код
+Стив Макконнелл
+
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
-
-### `12` Совершенный код
-Стив Макконнелл
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
@@ -44,14 +40,14 @@ Randall Munroe
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
-
 ### `` Посторонний
 Камю
 
 ### `` A Briefer History of Time
 Stephen Hawking
+
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
 
 ### `` Три товарища
 Эрих Мария Ремарк
@@ -92,6 +88,9 @@ Jon Erickson
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
 > В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
+
+### `` 97 этюдов для программистов
+Пит Гудлиф, Роберт Мартин, Диомидис Спинеллис, Кевлин Хенни и др.
 
 ### `` Братья Карамазовы
 Фёдор Достоевский
