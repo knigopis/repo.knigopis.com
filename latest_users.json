@@ -1,4 +1,10 @@
 {
+    "140020294-vkontakte": {
+        "id": "140020294-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2018-09-19 13:52:11"
+    },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
         "nickname": "kissamasya",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 11,
         "updatedAt": "2018-09-07 18:52:42"
-    },
-    "5957175-vkontakte": {
-        "id": "5957175-vkontakte",
-        "nickname": "anvonamore",
-        "booksCount": 118,
-        "updatedAt": "2018-09-07 13:02:47"
     }
 }
