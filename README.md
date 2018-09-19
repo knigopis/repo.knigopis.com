@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>36</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup> 
 [Lena](users/433/433159683731186-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>193</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>75</sup> 
 [naumi_s](users/136/136955863-vkontakte)<sup>2</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>35</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>104</sup> 
 [SadGarnet](users/169/169135125-vkontakte)<sup>8</sup> 
 [enoch](users/135/13593377682489824605-mailru)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>118</sup> 
 
 
-_18.09.2018 21:08:44_
+_19.09.2018 09:43:47_
