@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/140/140020294-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>38</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup> 
 [Lena](users/433/433159683731186-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shurayuki-hime](users/203/203857348-vkontakte)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>74</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>118</sup> 
 
 
-_19.09.2018 09:46:07_
+_19.09.2018 13:52:16_
