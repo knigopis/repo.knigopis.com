@@ -1,4 +1,10 @@
 {
+    "227369437-yandex": {
+        "id": "227369437-yandex",
+        "nickname": "meregal",
+        "booksCount": 0,
+        "updatedAt": "2018-09-20 07:59:07"
+    },
     "140020294-vkontakte": {
         "id": "140020294-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "joan789",
         "booksCount": 74,
         "updatedAt": "2018-09-08 09:11:51"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 11,
-        "updatedAt": "2018-09-07 18:52:42"
     }
 }
