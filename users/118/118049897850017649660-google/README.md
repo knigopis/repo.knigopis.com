@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>104</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>105</sup>
 ---
 
 ## 2018
+
+### Сага о живых кораблях (2) Безумный корабль
+Робин Хобб
+> [2018-09-20] 
+
 
 ### История с кладбищем
 Нил Гейман

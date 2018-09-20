@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>105</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>136</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>39</sup> 
 [meregal](users/227/227369437-yandex)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>75</sup> 
 [naumi_s](users/136/136955863-vkontakte)<sup>2</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>104</sup> 
 [SadGarnet](users/169/169135125-vkontakte)<sup>8</sup> 
 [enoch](users/135/13593377682489824605-mailru)<sup>1</sup> 
 [donat6](users/190/190036346-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>74</sup> 
 
 
-_20.09.2018 12:10:22_
+_20.09.2018 16:49:44_
