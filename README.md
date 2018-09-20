@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>39</sup> 
 [meregal](users/227/227369437-yandex)<sup>0</sup> 
 [](users/140/140020294-vkontakte)<sup>1</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>38</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup> 
 [Lena](users/433/433159683731186-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>193</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>74</sup> 
 
 
-_20.09.2018 07:59:15_
+_20.09.2018 10:55:05_
