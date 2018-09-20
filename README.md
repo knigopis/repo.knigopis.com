@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>136</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>39</sup> 
 [meregal](users/227/227369437-yandex)<sup>0</sup> 
 [](users/140/140020294-vkontakte)<sup>1</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>327</sup> 
 [ooowlll](users/134/134553023-vkontakte)<sup>1</sup> 
 [mad_nk](users/411/4117164-vkontakte)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>135</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>46</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>74</sup> 
 
 
-_20.09.2018 10:55:05_
+_20.09.2018 12:10:22_
