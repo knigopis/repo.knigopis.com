@@ -1,9 +1,9 @@
 {
     "id": "381417697-yandex",
     "lang": "en",
-    "nickname": "me2",
+    "nickname": "me3",
     "photo": "https://avatars.yandex.net/get-yapic/0/0-0/islands-retina-50",
-    "profile": "https://vk.com/id11829734",
+    "profile": "http://www.knigopis.com/#/user/books?u=381417697-yandex",
     "identity": "http://openid.yandex.ru/knigopis/",
     "booksCount": 45,
     "subscriptions": {
@@ -76,5 +76,5 @@
         "241974816-vkontakte": 177
     },
     "createdAt": "2016-04-30 02:41:33",
-    "updatedAt": "2018-09-17 20:27:13"
+    "updatedAt": "2018-09-20 20:20:29"
 }
