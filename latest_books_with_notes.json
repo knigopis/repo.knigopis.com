@@ -1,4 +1,16 @@
 {
+    "ujcRxOtUo_": {
+        "id": "ujcRxOtUo_",
+        "title": "48 законов власти",
+        "author": "Роберт Грин",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/21211375/",
+        "createdAt": "2018-09-20 20:06:53",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 181
+        }
+    },
     "RK5ct8Y3Sd": {
         "id": "RK5ct8Y3Sd",
         "title": "Лунный камень",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 179
-        }
-    },
-    "0xw9Cy5Js2": {
-        "id": "0xw9Cy5Js2",
-        "title": "Harry Potter and the Sorcerer's Stone",
-        "author": "J. K. Rowling",
-        "notes": "10/10",
-        "createdAt": "2018-08-26 10:54:21",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 91
         }
     }
 }

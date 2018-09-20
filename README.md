@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 48 законов власти ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/21211375/
+
 * Лунный камень ~ [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup>
     > 8/10
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Очень сильная книга. На моменте описания казни Коффи реально слезы на глазах навернулись.
 
 * Skarbiec najpiękniejszych baśni ~ [EsterHani](users/305/30558181-vkontakte)<sup>156</sup>
-    > Сказка на польском языке
 
 * Baśnie ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Охота на овец ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
 
-* Чашка Цукаты ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>105</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>136</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>39</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bagefro](users/346/346316791-vkontakte)<sup>0</sup> 
 [Maryana](users/444/444030981-vkontakte)<sup>0</sup> 
 [shurayuki-hime](users/203/203857348-vkontakte)<sup>0</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>74</sup> 
 
 
-_20.09.2018 16:49:44_
+_20.09.2018 20:06:54_

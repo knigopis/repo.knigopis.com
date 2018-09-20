@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 48 законов власти ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
 * Лунный камень ~ [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup>
 * Зеленая Миля ~ [Garka](users/115/115753719718250012620-google)<sup>193</sup>
 * Skarbiec najpiękniejszych baśni ~ [EsterHani](users/305/30558181-vkontakte)<sup>156</sup>
@@ -30,7 +31,6 @@
 * Момо ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
 * Заложница ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
 * Военная стратегия. Подготовка и ведение войн Нового и Новейшего времени ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>179</sup>
-* Harry Potter and the Sorcerer's Stone ~ [Apprentice ](users/528/52821952-vkontakte)<sup>91</sup>
 
 
-_18.09.2018 21:08:44_
+_20.09.2018 20:06:54_

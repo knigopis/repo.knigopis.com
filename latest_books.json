@@ -1,4 +1,16 @@
 {
+    "ujcRxOtUo_": {
+        "id": "ujcRxOtUo_",
+        "title": "48 законов власти",
+        "author": "Роберт Грин",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/21211375/",
+        "createdAt": "2018-09-20 20:06:53",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 181
+        }
+    },
     "NZuiGutdEn": {
         "id": "NZuiGutdEn",
         "title": "Сага о живых кораблях (2) Безумный корабль",
@@ -344,18 +356,6 @@
         "user": {
             "id": "169135125-vkontakte",
             "nickname": "SadGarnet",
-            "booksCount": 1
-        }
-    },
-    "BVIJPPn8Q7": {
-        "id": "BVIJPPn8Q7",
-        "title": "Мальвиль",
-        "author": "Робер Мерль",
-        "notes": "",
-        "createdAt": "2018-09-14 19:37:28",
-        "user": {
-            "id": "13593377682489824605-mailru",
-            "nickname": "enoch",
             "booksCount": 1
         }
     }
