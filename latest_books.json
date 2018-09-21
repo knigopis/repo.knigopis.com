@@ -1,4 +1,16 @@
 {
+    "ePnDqBbbVQ": {
+        "id": "ePnDqBbbVQ",
+        "title": "Лес повегенных лисиц",
+        "author": "Фрто Паасилинна",
+        "notes": "",
+        "createdAt": "2018-09-21 05:28:17",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 33
+        }
+    },
     "ujcRxOtUo_": {
         "id": "ujcRxOtUo_",
         "title": "48 законов власти",
@@ -345,18 +357,6 @@
             "id": "169135125-vkontakte",
             "nickname": "SadGarnet",
             "booksCount": 2
-        }
-    },
-    "XjFPszYxLN": {
-        "id": "XjFPszYxLN",
-        "title": "Великий Гэтсби",
-        "author": "Френсис Скотт Фицджеральд",
-        "notes": "",
-        "createdAt": "2018-09-15 12:08:47",
-        "user": {
-            "id": "169135125-vkontakte",
-            "nickname": "SadGarnet",
-            "booksCount": 1
         }
     }
 }
