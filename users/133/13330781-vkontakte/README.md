@@ -1,4 +1,4 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>33</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>34</sup>
 ---
 
 ## 2018
@@ -11,6 +11,11 @@
 ### Цветы для Элжернона
 Дэниел Киз
 > [2018-09-02] 
+
+
+### Чудесное озараене мистера Бадда
+Сэйрес Дороти
+> [2018-09] 
 
 
 ### Лес повегенных лисиц

@@ -1,4 +1,16 @@
 {
+    "4KvWqO_Q4n": {
+        "id": "4KvWqO_Q4n",
+        "title": "Чудесное озараене мистера Бадда",
+        "author": "Сэйрес Дороти",
+        "notes": "",
+        "createdAt": "2018-09-21 05:29:57",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 34
+        }
+    },
     "ePnDqBbbVQ": {
         "id": "ePnDqBbbVQ",
         "title": "Лес повегенных лисиц",
@@ -345,18 +357,6 @@
             "id": "169135125-vkontakte",
             "nickname": "SadGarnet",
             "booksCount": 3
-        }
-    },
-    "jhKD9IVplf": {
-        "id": "jhKD9IVplf",
-        "title": "Лолита",
-        "author": "Вледимир Набоков",
-        "notes": "",
-        "createdAt": "2018-09-15 12:09:20",
-        "user": {
-            "id": "169135125-vkontakte",
-            "nickname": "SadGarnet",
-            "booksCount": 2
         }
     }
 }
