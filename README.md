@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>158</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>49</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>28</sup> 
 [acharnamys](users/102/102502018294958404491-google)<sup>1</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>128</sup> 
 [Граф ](users/198/1985354221526581-facebook)<sup>0</sup> 
 [me2](users/381/381417697-yandex)<sup>45</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>157</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>75</sup> 
 [naumi_s](users/136/136955863-vkontakte)<sup>2</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup> 
 
 
-_23.09.2018 15:39:20_
+_23.09.2018 18:41:57_

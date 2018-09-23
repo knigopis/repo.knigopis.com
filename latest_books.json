@@ -1,4 +1,16 @@
 {
+    "h6b0CEWGB_": {
+        "id": "h6b0CEWGB_",
+        "title": "Жареные зеленые помидоры в кафе «Полустанок»",
+        "author": "Фэнни Флэгг",
+        "notes": "",
+        "createdAt": "2018-09-23 18:41:56",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 158
+        }
+    },
     "bGa9WqBSes": {
         "id": "bGa9WqBSes",
         "title": "Видоизмененный углерод (1/3)",
@@ -345,18 +357,6 @@
             "id": "136955863-vkontakte",
             "nickname": "naumi_s",
             "booksCount": 1
-        }
-    },
-    "y3_TS_dtEM": {
-        "id": "y3_TS_dtEM",
-        "title": "Полковнику никто не пишет",
-        "author": "Г.Г.Маркес",
-        "notes": "",
-        "createdAt": "2018-09-16 10:34:55",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 35
         }
     }
 }
