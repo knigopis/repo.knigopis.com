@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darb_el](users/184/184135339-vkontakte)<sup>14</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>35</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>105</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>33</sup> 
 [bagefro](users/346/346316791-vkontakte)<sup>0</sup> 
-[Maryana](users/444/444030981-vkontakte)<sup>0</sup> 
 
 
-_21.09.2018 05:30:52_
+_23.09.2018 06:38:20_

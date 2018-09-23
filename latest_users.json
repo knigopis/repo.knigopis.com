@@ -1,4 +1,10 @@
 {
+    "184135339-vkontakte": {
+        "id": "184135339-vkontakte",
+        "nickname": "darb_el",
+        "booksCount": 14,
+        "updatedAt": "2018-09-23 06:38:20"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -172,11 +178,5 @@
         "nickname": "bagefro",
         "booksCount": 0,
         "updatedAt": "2018-09-10 07:06:15"
-    },
-    "444030981-vkontakte": {
-        "id": "444030981-vkontakte",
-        "nickname": "Maryana",
-        "booksCount": 0,
-        "updatedAt": "2018-09-09 13:30:43"
     }
 }
