@@ -1,4 +1,4 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>48</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>49</sup>
 ---
 
 ## 2018
@@ -11,6 +11,11 @@
 ### Украденный трон (DA: 1/3)
 Девил Гейдер
 > [2018-09-03] 
+
+
+### Видоизмененный углерод (1/3)
+Ричард Морган
+> [2018-08-20] 
 
 
 ### Город лестниц
