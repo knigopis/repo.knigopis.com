@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>47</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>48</sup>
 ---
 
 ## 2018
+
+### Призыв (DA:2/3)
+Девид Гейдер
+> [2018-09-18] 
+
 
 ### Украденный трон (DA: 1/3)
 Девил Гейдер
