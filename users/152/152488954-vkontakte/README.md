@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>46</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>47</sup>
 ---
 
 ## 2018
+
+### Украденный трон (DA: 1/3)
+Девил Гейдер
+> [2018-09-03] 
+
 
 ### Город лестниц
 Роберт Джексон Беннет
