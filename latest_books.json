@@ -1,4 +1,16 @@
 {
+    "sdW2THvi8o": {
+        "id": "sdW2THvi8o",
+        "title": "Наполеон. Исповедь императора",
+        "author": "Эдвард Радзинский",
+        "notes": "",
+        "createdAt": "2018-09-23 10:07:12",
+        "user": {
+            "id": "102502018294958404491-google",
+            "nickname": "acharnamys",
+            "booksCount": 1
+        }
+    },
     "FmvPS-VfK1": {
         "id": "FmvPS-VfK1",
         "title": "Герои, злодеи и конформисты отечественной науки.",
@@ -345,18 +357,6 @@
             "id": "169135125-vkontakte",
             "nickname": "SadGarnet",
             "booksCount": 7
-        }
-    },
-    "RDj0GOohAw": {
-        "id": "RDj0GOohAw",
-        "title": "Опасная бритва",
-        "author": "Дороти Сэйерс",
-        "notes": "",
-        "createdAt": "2018-09-15 12:14:42",
-        "user": {
-            "id": "169135125-vkontakte",
-            "nickname": "SadGarnet",
-            "booksCount": 6
         }
     }
 }
