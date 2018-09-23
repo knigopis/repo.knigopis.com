@@ -1,4 +1,10 @@
 {
+    "102502018294958404491-google": {
+        "id": "102502018294958404491-google",
+        "nickname": "acharnamys",
+        "booksCount": 0,
+        "updatedAt": "2018-09-23 10:05:47"
+    },
     "184135339-vkontakte": {
         "id": "184135339-vkontakte",
         "nickname": "darb_el",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 33,
         "updatedAt": "2018-09-10 13:27:59"
-    },
-    "346316791-vkontakte": {
-        "id": "346316791-vkontakte",
-        "nickname": "bagefro",
-        "booksCount": 0,
-        "updatedAt": "2018-09-10 07:06:15"
     }
 }
