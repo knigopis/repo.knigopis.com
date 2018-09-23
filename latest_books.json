@@ -1,4 +1,16 @@
 {
+    "9h-8SINoX_": {
+        "id": "9h-8SINoX_",
+        "title": "Колыбель для кошки",
+        "author": "Курт Воннегут",
+        "notes": "",
+        "createdAt": "2018-09-23 11:02:55",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": "Svecha",
+            "booksCount": 28
+        }
+    },
     "sdW2THvi8o": {
         "id": "sdW2THvi8o",
         "title": "Наполеон. Исповедь императора",
@@ -345,18 +357,6 @@
             "id": "169135125-vkontakte",
             "nickname": "SadGarnet",
             "booksCount": 8
-        }
-    },
-    "EH8FbMpv6v": {
-        "id": "EH8FbMpv6v",
-        "title": "Око Озириса",
-        "author": "Ричард Остин Фример",
-        "notes": "",
-        "createdAt": "2018-09-15 12:16:45",
-        "user": {
-            "id": "169135125-vkontakte",
-            "nickname": "SadGarnet",
-            "booksCount": 7
         }
     }
 }

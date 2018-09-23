@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/118041836581529110049)<sup>27</sup>
+# List of books read by [Svecha](http://www.knigopis.com/#/user/books?u=118041836581529110049-google)<sup>28</sup>
 ---
 
 ## 2018
+
+### Колыбель для кошки
+Курт Воннегут
+> [2018-09-23] 
+
 
 ### Сирены Титана
 Курт Воннегут

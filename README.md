@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Svecha](users/118/118041836581529110049-google)<sup>28</sup> 
 [acharnamys](users/102/102502018294958404491-google)<sup>1</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>14</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>35</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SadGarnet](users/169/169135125-vkontakte)<sup>8</sup> 
 [enoch](users/135/13593377682489824605-mailru)<sup>1</sup> 
 [donat6](users/190/190036346-vkontakte)<sup>0</sup> 
-[Svecha](users/118/118041836581529110049-google)<sup>27</sup> 
 [Svecha6742](users/564/564177817-yandex)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>327</sup> 
 [ooowlll](users/134/134553023-vkontakte)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>33</sup> 
 
 
-_23.09.2018 10:07:13_
+_23.09.2018 11:02:56_
