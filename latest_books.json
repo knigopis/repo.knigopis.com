@@ -1,4 +1,16 @@
 {
+    "YLzuv5RAZL": {
+        "id": "YLzuv5RAZL",
+        "title": "Air America",
+        "author": "Christopher Robbins",
+        "notes": "Kindle\nASIN: B007TNY0GQ",
+        "createdAt": "2018-09-24 08:11:58",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 84
+        }
+    },
     "h6b0CEWGB_": {
         "id": "h6b0CEWGB_",
         "title": "Жареные зеленые помидоры в кафе «Полустанок»",
@@ -345,18 +357,6 @@
             "id": "136955863-vkontakte",
             "nickname": "naumi_s",
             "booksCount": 2
-        }
-    },
-    "r3UquEM5c0": {
-        "id": "r3UquEM5c0",
-        "title": "Бесшабашный 2-3 часть",
-        "author": "Корнелия Функе",
-        "notes": "",
-        "createdAt": "2018-09-16 15:05:02",
-        "user": {
-            "id": "136955863-vkontakte",
-            "nickname": "naumi_s",
-            "booksCount": 1
         }
     }
 }

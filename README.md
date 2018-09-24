@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Air America ~ [exulted](users/100/100599204551896265722-google)<sup>84</sup>
+    > Kindle
+    > ASIN: B007TNY0GQ
+
 * 48 законов власти ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
     > в процессе
     > 
@@ -14,7 +18,6 @@ Do not use pull requests to make changes here.
     > 8/10
 
 * Зеленая Миля ~ [Garka](users/115/115753719718250012620-google)<sup>193</sup>
-    > Очень сильная книга. На моменте описания казни Коффи реально слезы на глазах навернулись.
 
 * Skarbiec najpiękniejszych baśni ~ [EsterHani](users/305/30558181-vkontakte)<sup>156</sup>
 
@@ -28,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Запретная археология ~ [Garka](users/115/115753719718250012620-google)<sup>192</sup>
 
-* Охота на овец ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>84</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>158</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>49</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>28</sup> 
@@ -64,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ooowlll](users/134/134553023-vkontakte)<sup>1</sup> 
 [mad_nk](users/411/4117164-vkontakte)<sup>0</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>46</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup> 
 
 
-_23.09.2018 18:41:57_
+_24.09.2018 08:11:59_

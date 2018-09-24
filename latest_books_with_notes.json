@@ -1,4 +1,16 @@
 {
+    "YLzuv5RAZL": {
+        "id": "YLzuv5RAZL",
+        "title": "Air America",
+        "author": "Christopher Robbins",
+        "notes": "Kindle\nASIN: B007TNY0GQ",
+        "createdAt": "2018-09-24 08:11:58",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 84
+        }
+    },
     "ujcRxOtUo_": {
         "id": "ujcRxOtUo_",
         "title": "48 законов власти",
@@ -345,18 +357,6 @@
             "id": "208969292-yandex",
             "nickname": "elena-gagina2014",
             "booksCount": 2
-        }
-    },
-    "cJ46_-RzCW": {
-        "id": "cJ46_-RzCW",
-        "title": "Военная стратегия. Подготовка и ведение войн Нового и Новейшего времени",
-        "author": "С.Н. Михалев",
-        "notes": "в процессе",
-        "createdAt": "2018-08-26 19:53:15",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 179
         }
     }
 }
