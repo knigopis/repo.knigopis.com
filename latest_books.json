@@ -1,4 +1,16 @@
 {
+    "FVk2X0qP91": {
+        "id": "FVk2X0qP91",
+        "title": "Рассвет",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2018-09-25 22:07:17",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 140
+        }
+    },
     "w28TZDmTGO": {
         "id": "w28TZDmTGO",
         "title": "Новолуние",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 128
-        }
-    },
-    "VvlyLqzini": {
-        "id": "VvlyLqzini",
-        "title": "Взлом маркетинга",
-        "author": "Фил Барден",
-        "notes": "",
-        "createdAt": "2018-09-17 11:08:26",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 157
         }
     }
 }
