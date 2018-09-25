@@ -1,4 +1,16 @@
 {
+    "TZZO5GDdhV": {
+        "id": "TZZO5GDdhV",
+        "title": "Коробка в форме сердца",
+        "author": "Джо Хилл",
+        "notes": "",
+        "createdAt": "2018-09-25 23:08:16",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 145
+        }
+    },
     "QniVER8E0P": {
         "id": "QniVER8E0P",
         "title": "Фотография класса за этот год",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 38
-        }
-    },
-    "DAVV0t-Cjt": {
-        "id": "DAVV0t-Cjt",
-        "title": "История банковского и биржевого дела",
-        "author": "Соколов Е.",
-        "notes": "",
-        "createdAt": "2018-09-19 09:45:18",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 37
         }
     }
 }
