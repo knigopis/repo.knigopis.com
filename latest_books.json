@@ -1,4 +1,16 @@
 {
+    "QniVER8E0P": {
+        "id": "QniVER8E0P",
+        "title": "Фотография класса за этот год",
+        "author": "Симмонс Дэн",
+        "notes": "",
+        "createdAt": "2018-09-25 22:51:37",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 144
+        }
+    },
     "ed10BI6W7j": {
         "id": "ed10BI6W7j",
         "title": "Мистер Слоттер",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 37
-        }
-    },
-    "z7tV2LRHcJ": {
-        "id": "z7tV2LRHcJ",
-        "title": "Пряник с чёрной икрой",
-        "author": "Д.Донцова",
-        "notes": "",
-        "createdAt": "2018-09-19 09:43:47",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 36
         }
     }
 }
