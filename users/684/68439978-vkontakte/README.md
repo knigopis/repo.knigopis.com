@@ -1,12 +1,7 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>39</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>38</sup>
 ---
 
 ## 2018
-
-### Гобсек
-Оноре да Бальзак
-> [2018-09-30] 
-
 
 ### Пряник с чёрной икрой
 Д.Донцова
