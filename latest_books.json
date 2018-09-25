@@ -1,4 +1,16 @@
 {
+    "w28TZDmTGO": {
+        "id": "w28TZDmTGO",
+        "title": "Новолуние",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2018-09-25 22:06:47",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 139
+        }
+    },
     "Pg8XRxU1Qn": {
         "id": "Pg8XRxU1Qn",
         "title": "Затмение",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 157
-        }
-    },
-    "GYg1NJuB6f": {
-        "id": "GYg1NJuB6f",
-        "title": "Skarbiec najpiękniejszych baśni",
-        "author": "",
-        "notes": "Сказка на польском языке",
-        "createdAt": "2018-09-17 11:07:33",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 156
         }
     }
 }
