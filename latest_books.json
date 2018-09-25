@@ -1,4 +1,16 @@
 {
+    "ed10BI6W7j": {
+        "id": "ed10BI6W7j",
+        "title": "Мистер Слоттер",
+        "author": "Роберт Маккаммон",
+        "notes": "",
+        "createdAt": "2018-09-25 22:36:19",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 143
+        }
+    },
     "QazaS0qdpt": {
         "id": "QazaS0qdpt",
         "title": "Голос ночной птицы",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 36
-        }
-    },
-    "RK5ct8Y3Sd": {
-        "id": "RK5ct8Y3Sd",
-        "title": "Лунный камень",
-        "author": "Уилки Коллинз",
-        "notes": "8/10",
-        "createdAt": "2018-09-18 21:08:44",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 93
         }
     }
 }
