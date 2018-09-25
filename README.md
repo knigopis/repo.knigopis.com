@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>328</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>84</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>158</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>49</sup> 
@@ -62,10 +63,9 @@ _More notes [here](latest_books_with_notes.md)._
 [enoch](users/135/13593377682489824605-mailru)<sup>1</sup> 
 [donat6](users/190/190036346-vkontakte)<sup>0</sup> 
 [Svecha6742](users/564/564177817-yandex)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>327</sup> 
 [ooowlll](users/134/134553023-vkontakte)<sup>1</sup> 
 [mad_nk](users/411/4117164-vkontakte)<sup>0</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>46</sup> 
 
 
-_24.09.2018 08:11:59_
+_25.09.2018 07:19:51_
