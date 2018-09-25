@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>136</sup> 
 [youno](users/302/302928912-vkontakte)<sup>15</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>39</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>328</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [donat6](users/190/190036346-vkontakte)<sup>0</sup> 
 [Svecha6742](users/564/564177817-yandex)<sup>0</sup> 
 [ooowlll](users/134/134553023-vkontakte)<sup>1</sup> 
-[mad_nk](users/411/4117164-vkontakte)<sup>0</sup> 
 
 
-_25.09.2018 17:04:02_
+_25.09.2018 22:05:59_
