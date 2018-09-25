@@ -1,4 +1,16 @@
 {
+    "40hu7AwYoy": {
+        "id": "40hu7AwYoy",
+        "title": "Королева Бедлама",
+        "author": "Роберт Маккаммон",
+        "notes": "",
+        "createdAt": "2018-09-25 22:33:54",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 141
+        }
+    },
     "FVk2X0qP91": {
         "id": "FVk2X0qP91",
         "title": "Рассвет",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 193
-        }
-    },
-    "nSSI9UuIDw": {
-        "id": "nSSI9UuIDw",
-        "title": "Адский поезд для Красного Ангела",
-        "author": "Франк Тилье",
-        "notes": "",
-        "createdAt": "2018-09-18 08:10:31",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 128
         }
     }
 }
