@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Богатый папа, бедный папа ~ [youno](users/302/302928912-vkontakte)<sup>15</sup>
 * Air America ~ [exulted](users/100/100599204551896265722-google)<sup>84</sup>
 * 48 законов власти ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
 * Лунный камень ~ [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup>
@@ -30,7 +31,6 @@
 * Таинственная история Билли Миллигана ~ [Euphoria](users/106/106304994652616315178-google)<sup>64</sup>
 * Защита Лужина ~ [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup>
 * Момо ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
-* Заложница ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
 
 
-_24.09.2018 08:11:59_
+_25.09.2018 17:04:02_

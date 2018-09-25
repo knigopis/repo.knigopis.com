@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Богатый папа, бедный папа ~ [youno](users/302/302928912-vkontakte)<sup>15</sup>
+    > Перечитать. Купить как настольную книгу. Мастхэв.
+
 * Air America ~ [exulted](users/100/100599204551896265722-google)<sup>84</sup>
     > Kindle
     > ASIN: B007TNY0GQ
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/21211375/
 
 * Лунный камень ~ [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup>
-    > 8/10
 
 * Зеленая Миля ~ [Garka](users/115/115753719718250012620-google)<sup>193</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Путь князя ~ [Chiffi](users/105/105831994080785626680-google)<sup>75</sup>
 
-* Запретная археология ~ [Garka](users/115/115753719718250012620-google)<sup>192</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>15</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>39</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>328</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>84</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Svecha6742](users/564/564177817-yandex)<sup>0</sup> 
 [ooowlll](users/134/134553023-vkontakte)<sup>1</sup> 
 [mad_nk](users/411/4117164-vkontakte)<sup>0</sup> 
-[M.Schwan ](users/101/101892939810731181399-google)<sup>46</sup> 
 
 
-_25.09.2018 09:43:15_
+_25.09.2018 17:04:02_
