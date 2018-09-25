@@ -1,4 +1,16 @@
 {
+    "Pg8XRxU1Qn": {
+        "id": "Pg8XRxU1Qn",
+        "title": "Затмение",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2018-09-25 22:06:35",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 138
+        }
+    },
     "6Ft7J08QIA": {
         "id": "6Ft7J08QIA",
         "title": "Солнце полуночи",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 156
-        }
-    },
-    "DzfpI79NvI": {
-        "id": "DzfpI79NvI",
-        "title": "Baśnie",
-        "author": "Hans Christian Andersen",
-        "notes": "Сказки на польском языке",
-        "createdAt": "2018-09-17 11:03:39",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 155
         }
     }
 }
