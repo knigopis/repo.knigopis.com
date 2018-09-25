@@ -1,7 +1,12 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>38</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>39</sup>
 ---
 
 ## 2018
+
+### Странная история доктора Джекила и мистера Хайда
+Роберт Льюис Стивенсон
+> [2018-09-25] 
+
 
 ### Пряник с чёрной икрой
 Д.Донцова

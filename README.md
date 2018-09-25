@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kissamasya](users/684/68439978-vkontakte)<sup>38</sup> 
+[kissamasya](users/684/68439978-vkontakte)<sup>39</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>328</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>84</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>158</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [M.Schwan ](users/101/101892939810731181399-google)<sup>46</sup> 
 
 
-_25.09.2018 09:38:35_
+_25.09.2018 09:43:15_
