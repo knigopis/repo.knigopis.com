@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 38,
+        "updatedAt": "2018-09-25 09:38:33"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -64,12 +70,6 @@
         "nickname": "borodach",
         "booksCount": 136,
         "updatedAt": "2018-09-20 12:10:21"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 39,
-        "updatedAt": "2018-09-20 10:55:05"
     },
     "227369437-yandex": {
         "id": "227369437-yandex",
