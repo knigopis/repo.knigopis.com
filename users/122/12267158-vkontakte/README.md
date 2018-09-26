@@ -1,4 +1,4 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>12</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>13</sup>
 ---
 
 ## 2018
@@ -31,6 +31,10 @@
 
 
 ## 2016
+
+### Вектор угрозы
+Виктор Ночкин
+
 
 ### Сурвариум
 Андрей Ливицкий
