@@ -1,4 +1,16 @@
 {
+    "CUk8AR_DkC": {
+        "id": "CUk8AR_DkC",
+        "title": "Превращение",
+        "author": "Франц Кафка",
+        "notes": "Истории о неблагодарности окружающих (Превращение). \nГлупости (мост)\nБеспомощности (доктор)\nТвердолобости (аппарат)",
+        "createdAt": "2018-09-26 15:57:03",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "vladforpeople",
+            "booksCount": 2
+        }
+    },
     "gScM_JUqex": {
         "id": "gScM_JUqex",
         "title": "Алхимик",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 105
-        }
-    },
-    "CWk2AjkSzL": {
-        "id": "CWk2AjkSzL",
-        "title": "Мэр Кэстербриджа",
-        "author": "Томас Гарди",
-        "notes": "",
-        "createdAt": "2018-09-20 12:10:21",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 136
         }
     }
 }
