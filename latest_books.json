@@ -1,4 +1,16 @@
 {
+    "_gXLr1cDJm": {
+        "id": "_gXLr1cDJm",
+        "title": "Цикл романов КЫСЯ",
+        "author": "Владимир Кунин",
+        "notes": "5 томов юморных детективов от лица кота.",
+        "createdAt": "2018-09-26 16:01:03",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 3
+        }
+    },
     "CUk8AR_DkC": {
         "id": "CUk8AR_DkC",
         "title": "Превращение",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 181
-        }
-    },
-    "NZuiGutdEn": {
-        "id": "NZuiGutdEn",
-        "title": "Сага о живых кораблях (2) Безумный корабль",
-        "author": "Робин Хобб",
-        "notes": "",
-        "createdAt": "2018-09-20 16:49:43",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 105
         }
     }
 }
