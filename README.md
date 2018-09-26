@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[elvie_vlg](users/483/48331025-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>40</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>329</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>144</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [enoch](users/135/13593377682489824605-mailru)<sup>1</sup> 
 [donat6](users/190/190036346-vkontakte)<sup>0</sup> 
 [Svecha6742](users/564/564177817-yandex)<sup>0</sup> 
-[ooowlll](users/134/134553023-vkontakte)<sup>1</sup> 
 
 
-_26.09.2018 08:08:35_
+_26.09.2018 11:02:07_
