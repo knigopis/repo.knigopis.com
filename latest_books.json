@@ -1,4 +1,16 @@
 {
+    "eli3Kn15sJ": {
+        "id": "eli3Kn15sJ",
+        "title": "Война и мир",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2018-09-26 16:28:29",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 7
+        }
+    },
     "q1uX7IKYAD": {
         "id": "q1uX7IKYAD",
         "title": "Серия книг Хранитель мечей или Летописи разлома",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 14
-        }
-    },
-    "PiSxxHizOE": {
-        "id": "PiSxxHizOE",
-        "title": "Белые гвоздики",
-        "author": "Квентин Патрик",
-        "notes": "",
-        "createdAt": "2018-09-21 05:30:52",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 35
         }
     }
 }
