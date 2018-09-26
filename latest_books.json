@@ -1,4 +1,16 @@
 {
+    "jCTOib-N0O": {
+        "id": "jCTOib-N0O",
+        "title": "Таинственный остров",
+        "author": "Жуль Верн",
+        "notes": "",
+        "createdAt": "2018-09-26 16:33:08",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 8
+        }
+    },
     "eli3Kn15sJ": {
         "id": "eli3Kn15sJ",
         "title": "Война и мир",
@@ -345,18 +357,6 @@
             "id": "102502018294958404491-google",
             "nickname": "acharnamys",
             "booksCount": 1
-        }
-    },
-    "FmvPS-VfK1": {
-        "id": "FmvPS-VfK1",
-        "title": "Герои, злодеи и конформисты отечественной науки.",
-        "author": "Шноль",
-        "notes": "",
-        "createdAt": "2018-09-23 06:38:20",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 14
         }
     }
 }
