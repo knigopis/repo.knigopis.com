@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladforpeople](users/122/12267158-vkontakte)<sup>0</sup> 
 [elvie_vlg](users/483/48331025-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>40</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>329</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SadGarnet](users/169/169135125-vkontakte)<sup>8</sup> 
 [enoch](users/135/13593377682489824605-mailru)<sup>1</sup> 
 [donat6](users/190/190036346-vkontakte)<sup>0</sup> 
-[Svecha6742](users/564/564177817-yandex)<sup>0</sup> 
 
 
-_26.09.2018 11:02:07_
+_26.09.2018 15:50:59_
