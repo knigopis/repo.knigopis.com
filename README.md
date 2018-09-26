@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>5</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>6</sup> 
 [elvie_vlg](users/483/48331025-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>40</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>329</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [donat6](users/190/190036346-vkontakte)<sup>0</sup> 
 
 
-_26.09.2018 16:14:38_
+_26.09.2018 16:20:45_

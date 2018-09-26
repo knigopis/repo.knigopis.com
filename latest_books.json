@@ -1,4 +1,16 @@
 {
+    "q1uX7IKYAD": {
+        "id": "q1uX7IKYAD",
+        "title": "Серия книг Хранитель мечей или Летописи разлома",
+        "author": "Ник Перумов",
+        "notes": "Увлекательные путешествия некроманта по мирам и пространствам.",
+        "createdAt": "2018-09-26 16:20:45",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 6
+        }
+    },
     "Pz5Qm5DrNL": {
         "id": "Pz5Qm5DrNL",
         "title": "Цикл книг Меч Истины",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 35
-        }
-    },
-    "4KvWqO_Q4n": {
-        "id": "4KvWqO_Q4n",
-        "title": "Чудесное озараене мистера Бадда",
-        "author": "Сэйрес Дороти",
-        "notes": "",
-        "createdAt": "2018-09-21 05:29:57",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 34
         }
     }
 }
