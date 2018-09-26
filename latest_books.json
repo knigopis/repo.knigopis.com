@@ -1,4 +1,16 @@
 {
+    "qxwE1s3nyV": {
+        "id": "qxwE1s3nyV",
+        "title": "Собор парижской богоматери",
+        "author": "Виктор Гюго",
+        "notes": "",
+        "createdAt": "2018-09-26 16:54:17",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 15
+        }
+    },
     "Ze6VKQEyBg": {
         "id": "Ze6VKQEyBg",
         "title": "Мумитролли",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 328
-        }
-    },
-    "YLzuv5RAZL": {
-        "id": "YLzuv5RAZL",
-        "title": "Air America",
-        "author": "Christopher Robbins",
-        "notes": "Kindle\nASIN: B007TNY0GQ",
-        "createdAt": "2018-09-24 08:11:58",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 84
         }
     }
 }
