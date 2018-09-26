@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Svecha](users/118/118041836581529110049-google)<sup>29</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>15</sup> 
 [elvie_vlg](users/483/48331025-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>40</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>84</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>158</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>49</sup> 
-[Svecha](users/118/118041836581529110049-google)<sup>28</sup> 
 [acharnamys](users/102/102502018294958404491-google)<sup>1</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>14</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>35</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [donat6](users/190/190036346-vkontakte)<sup>0</sup> 
 
 
-_26.09.2018 16:54:17_
+_26.09.2018 17:32:10_

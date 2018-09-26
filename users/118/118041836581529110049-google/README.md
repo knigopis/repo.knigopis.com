@@ -1,7 +1,12 @@
-# List of books read by [Svecha](http://www.knigopis.com/#/user/books?u=118041836581529110049-google)<sup>28</sup>
+# List of books read by [Svecha](http://www.knigopis.com/#/user/books?u=118041836581529110049-google)<sup>29</sup>
 ---
 
 ## 2018
+
+### Мечтают ли андроиды об электроовцах
+Филип Киндред Дик
+> [2018-09-26] 
+
 
 ### Колыбель для кошки
 Курт Воннегут
