@@ -1,4 +1,16 @@
 {
+    "Ze6VKQEyBg": {
+        "id": "Ze6VKQEyBg",
+        "title": "Мумитролли",
+        "author": "Туве Янсон",
+        "notes": "Весьма оригинальная сказка",
+        "createdAt": "2018-09-26 16:48:15",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 14
+        }
+    },
     "XQBNFD1FXi": {
         "id": "XQBNFD1FXi",
         "title": "Вектор угрозы",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 84
-        }
-    },
-    "h6b0CEWGB_": {
-        "id": "h6b0CEWGB_",
-        "title": "Жареные зеленые помидоры в кафе «Полустанок»",
-        "author": "Фэнни Флэгг",
-        "notes": "",
-        "createdAt": "2018-09-23 18:41:56",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 158
         }
     }
 }
