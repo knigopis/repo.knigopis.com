@@ -1,4 +1,10 @@
 {
+    "12267158-vkontakte": {
+        "id": "12267158-vkontakte",
+        "nickname": "vladforpeople",
+        "booksCount": 0,
+        "updatedAt": "2018-09-26 15:50:53"
+    },
     "48331025-vkontakte": {
         "id": "48331025-vkontakte",
         "nickname": "elvie_vlg",
@@ -172,11 +178,5 @@
         "nickname": "donat6",
         "booksCount": 0,
         "updatedAt": "2018-09-13 23:32:56"
-    },
-    "564177817-yandex": {
-        "id": "564177817-yandex",
-        "nickname": "Svecha6742",
-        "booksCount": 0,
-        "updatedAt": "2018-09-13 23:27:53"
     }
 }
