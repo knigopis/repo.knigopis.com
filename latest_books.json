@@ -1,4 +1,16 @@
 {
+    "-nuoVME1Mg": {
+        "id": "-nuoVME1Mg",
+        "title": "Евангилие",
+        "author": "От матфея",
+        "notes": "",
+        "createdAt": "2018-09-26 16:33:53",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 9
+        }
+    },
     "jCTOib-N0O": {
         "id": "jCTOib-N0O",
         "title": "Таинственный остров",
@@ -345,18 +357,6 @@
             "id": "118041836581529110049-google",
             "nickname": "Svecha",
             "booksCount": 28
-        }
-    },
-    "sdW2THvi8o": {
-        "id": "sdW2THvi8o",
-        "title": "Наполеон. Исповедь императора",
-        "author": "Эдвард Радзинский",
-        "notes": "",
-        "createdAt": "2018-09-23 10:07:12",
-        "user": {
-            "id": "102502018294958404491-google",
-            "nickname": "acharnamys",
-            "booksCount": 1
         }
     }
 }
