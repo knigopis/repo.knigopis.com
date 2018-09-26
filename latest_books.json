@@ -1,4 +1,16 @@
 {
+    "-EfDua4ofY": {
+        "id": "-EfDua4ofY",
+        "title": "1939 год і Беларусь: забытая вайна",
+        "author": "Анатоль Трафімчык",
+        "notes": "",
+        "createdAt": "2018-09-26 04:20:06",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 329
+        }
+    },
     "TZZO5GDdhV": {
         "id": "TZZO5GDdhV",
         "title": "Коробка в форме сердца",
@@ -345,18 +357,6 @@
             "id": "140020294-vkontakte",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "CmDgrVd1Vd": {
-        "id": "CmDgrVd1Vd",
-        "title": "Игры,в которые мы все играем",
-        "author": "Дугласс Мосс",
-        "notes": "",
-        "createdAt": "2018-09-19 09:46:07",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 38
         }
     }
 }
