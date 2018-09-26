@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Великие православные святые ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup>
 * Богатый папа, бедный папа ~ [youno](users/302/302928912-vkontakte)<sup>15</sup>
 * Air America ~ [exulted](users/100/100599204551896265722-google)<sup>84</sup>
 * 48 законов власти ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
@@ -30,7 +31,6 @@
 * Бесы ~ [anvonamore](users/595/5957175-vkontakte)<sup>115</sup>
 * Таинственная история Билли Миллигана ~ [Euphoria](users/106/106304994652616315178-google)<sup>64</sup>
 * Защита Лужина ~ [Apprentice ](users/528/52821952-vkontakte)<sup>92</sup>
-* Момо ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>10</sup>
 
 
-_25.09.2018 17:04:02_
+_26.09.2018 23:15:09_

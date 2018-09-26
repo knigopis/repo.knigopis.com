@@ -1,4 +1,16 @@
 {
+    "agbxglxasY": {
+        "id": "agbxglxasY",
+        "title": "Великие православные святые",
+        "author": "Светлана Рудзневская",
+        "notes": "Книга нехитрая, но очень добрая и, не знаю, \"намоленная\" что ли... Во всяком случае, меня почти каждая история того или иного святого сразу заставляла примерять какие-то вещи на себя, оценивать свое несовершенство и вспоминать то светлое ощущение, когда прикасаешься к Божественному в своей душе. Хорошая книга для неспешного душевного чтения по вечерам, без суеты.",
+        "createdAt": "2018-09-26 23:15:09",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 182
+        }
+    },
     "fJB_Pe02iN": {
         "id": "fJB_Pe02iN",
         "title": "Богатый папа, бедный папа",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 92
-        }
-    },
-    "-_fnFNaFEp": {
-        "id": "-_fnFNaFEp",
-        "title": "Момо",
-        "author": "Михаэль Энде",
-        "notes": "\"Momo, oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte\"\nГлава 12. В том краю, откуда приходит время\nISBN 978-5-389-06428-7 (рус.)\nISBN 978-3-522-17750-4 (нем.)",
-        "createdAt": "2018-08-28 14:52:31",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 10
         }
     }
 }

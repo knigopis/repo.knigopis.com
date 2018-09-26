@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Великие православные святые ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup>
+    > Книга нехитрая, но очень добрая и, не знаю, "намоленная" что ли... Во всяком случае, меня почти каждая история того или иного святого сразу заставляла примерять какие-то вещи на себя, оценивать свое несовершенство и вспоминать то светлое ощущение, когда прикасаешься к Божественному в своей душе. Хорошая книга для неспешного душевного чтения по вечерам, без суеты.
+
 * Богатый папа, бедный папа ~ [youno](users/302/302928912-vkontakte)<sup>15</sup>
     > Перечитать. Купить как настольную книгу. Мастхэв.
 
@@ -13,9 +16,6 @@ Do not use pull requests to make changes here.
     > ASIN: B007TNY0GQ
 
 * 48 законов власти ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/21211375/
 
 * Лунный камень ~ [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup>
 
@@ -29,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Похождения бравого солдата Швейка ~ [violet_velva](users/116/116961712580551399099-google)<sup>45</sup>
 
-* Путь князя ~ [Chiffi](users/105/105831994080785626680-google)<sup>75</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup> 
 [nadya_aksenova](users/295/295951913-vkontakte)<sup>0</sup> 
 [adin](users/348/348471867-vkontakte)<sup>0</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>29</sup> 
@@ -51,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [acharnamys](users/102/102502018294958404491-google)<sup>1</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>14</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>35</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>105</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>136</sup> 
 [meregal](users/227/227369437-yandex)<sup>0</sup> 
@@ -68,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [SadGarnet](users/169/169135125-vkontakte)<sup>8</sup> 
 
 
-_26.09.2018 19:53:21_
+_26.09.2018 23:15:09_
