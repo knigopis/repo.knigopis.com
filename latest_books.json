@@ -1,4 +1,16 @@
 {
+    "iPFQIIjY6X": {
+        "id": "iPFQIIjY6X",
+        "title": "Танцующий гном",
+        "author": "Мураками Харуки",
+        "notes": "",
+        "createdAt": "2018-09-26 08:08:35",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 40
+        }
+    },
     "-EfDua4ofY": {
         "id": "-EfDua4ofY",
         "title": "1939 год і Беларусь: забытая вайна",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 39
-        }
-    },
-    "gF41p4bFKu": {
-        "id": "gF41p4bFKu",
-        "title": "Унесенные ветром",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-09-19 13:53:43",
-        "user": {
-            "id": "140020294-vkontakte",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

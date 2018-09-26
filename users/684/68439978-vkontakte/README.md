@@ -1,7 +1,12 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>39</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>40</sup>
 ---
 
 ## 2018
+
+### Танцующий гном
+Мураками Харуки
+> [2018-09-26] 
+
 
 ### Странная история доктора Джекила и мистера Хайда
 Роберт Льюис Стивенсон

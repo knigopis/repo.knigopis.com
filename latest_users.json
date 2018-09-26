@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 40,
+        "updatedAt": "2018-09-26 08:08:35"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -16,12 +22,6 @@
         "nickname": "youno",
         "booksCount": 15,
         "updatedAt": "2018-09-25 17:04:02"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 39,
-        "updatedAt": "2018-09-25 09:43:15"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
