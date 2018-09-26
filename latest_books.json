@@ -1,4 +1,16 @@
 {
+    "Pz5Qm5DrNL": {
+        "id": "Pz5Qm5DrNL",
+        "title": "Цикл книг Меч Истины",
+        "author": "Терри Гудкайнд",
+        "notes": "2011-2013 годы, захватывающие истории с напряженным сюжетом и очень быстрым концом.",
+        "createdAt": "2018-09-26 16:14:38",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 5
+        }
+    },
     "2Q5MzeRheM": {
         "id": "2Q5MzeRheM",
         "title": "Серии книг о Дзирте До'Урдене",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 34
-        }
-    },
-    "ePnDqBbbVQ": {
-        "id": "ePnDqBbbVQ",
-        "title": "Лес повегенных лисиц",
-        "author": "Фрто Паасилинна",
-        "notes": "",
-        "createdAt": "2018-09-21 05:28:17",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 33
         }
     }
 }
