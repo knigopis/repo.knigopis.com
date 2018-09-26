@@ -1,4 +1,16 @@
 {
+    "2Q5MzeRheM": {
+        "id": "2Q5MzeRheM",
+        "title": "Серии книг о Дзирте До'Урдене",
+        "author": "Роберт Сальваторе",
+        "notes": "Весьма интересные истории о темном эльфе и не только.",
+        "createdAt": "2018-09-26 16:04:16",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 4
+        }
+    },
     "_gXLr1cDJm": {
         "id": "_gXLr1cDJm",
         "title": "Цикл романов КЫСЯ",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 33
-        }
-    },
-    "ujcRxOtUo_": {
-        "id": "ujcRxOtUo_",
-        "title": "48 законов власти",
-        "author": "Роберт Грин",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/21211375/",
-        "createdAt": "2018-09-20 20:06:53",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 181
         }
     }
 }
