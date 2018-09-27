@@ -1,4 +1,10 @@
 {
+    "2262103690484511-facebook": {
+        "id": "2262103690484511-facebook",
+        "nickname": "Amberkit",
+        "booksCount": 0,
+        "updatedAt": "2018-09-27 14:55:20"
+    },
     "2709231-vkontakte": {
         "id": "2709231-vkontakte",
         "nickname": "shishkinmark",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 75,
         "updatedAt": "2018-09-16 18:08:29"
-    },
-    "136955863-vkontakte": {
-        "id": "136955863-vkontakte",
-        "nickname": "naumi_s",
-        "booksCount": 2,
-        "updatedAt": "2018-09-16 15:05:45"
     }
 }
