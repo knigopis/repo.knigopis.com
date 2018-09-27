@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Vladas](users/107/107621344637148469804-google)<sup>0</sup> 
+[Vladas](users/107/107621344637148469804-google)<sup>1</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>16</sup> 
 [Amberkit](users/226/2262103690484511-facebook)<sup>0</sup> 
 [shishkinmark](users/270/2709231-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>46</sup> 
 
 
-_27.09.2018 19:05:07_
+_27.09.2018 19:11:08_
