@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Amberkit](users/226/2262103690484511-facebook)<sup>0</sup> 
 [shishkinmark](users/270/2709231-vkontakte)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>15</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me2](users/381/381417697-yandex)<sup>45</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>75</sup> 
-[naumi_s](users/136/136955863-vkontakte)<sup>2</sup> 
 
 
-_27.09.2018 11:13:10_
+_27.09.2018 14:55:24_
