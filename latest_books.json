@@ -1,4 +1,16 @@
 {
+    "_-gokOPpu8": {
+        "id": "_-gokOPpu8",
+        "title": "Рисунок с Ленина. (Рассказ).",
+        "author": "Константин Федин",
+        "notes": "Молодого художника Сергея Шумилина посылают на Конгресс Корминтерна и поручают нарисовать В.И. Ленина.",
+        "createdAt": "2018-09-27 19:22:40",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 3
+        }
+    },
     "ePP3N8g5Nx": {
         "id": "ePP3N8g5Nx",
         "title": "Кухтеринские бриллианты",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 140
-        }
-    },
-    "w28TZDmTGO": {
-        "id": "w28TZDmTGO",
-        "title": "Новолуние",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2018-09-25 22:06:47",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 139
         }
     }
 }
