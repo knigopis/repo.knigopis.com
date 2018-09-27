@@ -1,4 +1,10 @@
 {
+    "107621344637148469804-google": {
+        "id": "107621344637148469804-google",
+        "nickname": "Vladas",
+        "booksCount": 0,
+        "updatedAt": "2018-09-27 19:05:01"
+    },
     "12267158-vkontakte": {
         "id": "12267158-vkontakte",
         "nickname": "Quaff",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 46,
         "updatedAt": "2018-09-16 21:23:19"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 75,
-        "updatedAt": "2018-09-16 18:08:29"
     }
 }
