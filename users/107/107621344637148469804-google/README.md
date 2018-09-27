@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>4</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>5</sup>
 ---
 
 ## 2018
@@ -26,6 +26,10 @@
 
 
 ## 1973
+
+### Приключения Чиполино
+Джанни Родари
+
 
 ### Золотой ключик, или Приключения Буратино.
 Алексей Толстой
