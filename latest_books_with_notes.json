@@ -1,4 +1,16 @@
 {
+    "1OlFuzE2sQ": {
+        "id": "1OlFuzE2sQ",
+        "title": "Важные годы",
+        "author": "Мэг Джей",
+        "notes": "Неплохо, выводы подкреплены данными, свежие мысли о важном.",
+        "createdAt": "2018-09-27 05:55:37",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 15
+        }
+    },
     "agbxglxasY": {
         "id": "agbxglxasY",
         "title": "Великие православные святые",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 64
-        }
-    },
-    "phAo1fKB9z": {
-        "id": "phAo1fKB9z",
-        "title": "Защита Лужина",
-        "author": "Владимир Набоков",
-        "notes": "10/10 \nЛучшее из прочитанного за год.",
-        "createdAt": "2018-08-28 19:57:51",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 92
         }
     }
 }

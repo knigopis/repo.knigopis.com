@@ -1,4 +1,16 @@
 {
+    "1OlFuzE2sQ": {
+        "id": "1OlFuzE2sQ",
+        "title": "Важные годы",
+        "author": "Мэг Джей",
+        "notes": "Неплохо, выводы подкреплены данными, свежие мысли о важном.",
+        "createdAt": "2018-09-27 05:55:37",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 15
+        }
+    },
     "agbxglxasY": {
         "id": "agbxglxasY",
         "title": "Великие православные святые",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 136
-        }
-    },
-    "fJB_Pe02iN": {
-        "id": "fJB_Pe02iN",
-        "title": "Богатый папа, бедный папа",
-        "author": "Роберт Кийосаки",
-        "notes": "Перечитать. Купить как настольную книгу. Мастхэв.",
-        "createdAt": "2018-09-25 17:04:02",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 15
         }
     }
 }

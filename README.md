@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Важные годы ~ [darb_el](users/184/184135339-vkontakte)<sup>15</sup>
+    > Неплохо, выводы подкреплены данными, свежие мысли о важном.
+
 * Великие православные святые ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup>
     > Книга нехитрая, но очень добрая и, не знаю, "намоленная" что ли... Во всяком случае, меня почти каждая история того или иного святого сразу заставляла примерять какие-то вещи на себя, оценивать свое несовершенство и вспоминать то светлое ощущение, когда прикасаешься к Божественному в своей душе. Хорошая книга для неспешного душевного чтения по вечерам, без суеты.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Перечитать. Купить как настольную книгу. Мастхэв.
 
 * Air America ~ [exulted](users/100/100599204551896265722-google)<sup>84</sup>
-    > Kindle
-    > ASIN: B007TNY0GQ
 
 * 48 законов власти ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Скотный двор ~ [violet_velva](users/116/116961712580551399099-google)<sup>46</sup>
 
-* Похождения бравого солдата Швейка ~ [violet_velva](users/116/116961712580551399099-google)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darb_el](users/184/184135339-vkontakte)<sup>15</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup> 
 [nadya_aksenova](users/295/295951913-vkontakte)<sup>0</sup> 
 [adin](users/348/348471867-vkontakte)<sup>0</sup> 
@@ -48,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>158</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>49</sup> 
 [acharnamys](users/102/102502018294958404491-google)<sup>1</sup> 
-[darb_el](users/184/184135339-vkontakte)<sup>14</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>35</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>105</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>136</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [SadGarnet](users/169/169135125-vkontakte)<sup>8</sup> 
 
 
-_26.09.2018 23:15:09_
+_27.09.2018 05:55:37_
