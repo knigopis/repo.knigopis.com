@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nitrin_x](users/122/122404030-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>41</sup> 
 [uvertura88](users/514/5146266-vkontakte)<sup>0</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>193</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>128</sup> 
 [Граф ](users/198/1985354221526581-facebook)<sup>0</sup> 
-[me2](users/381/381417697-yandex)<sup>45</sup> 
 
 
-_28.09.2018 11:57:37_
+_28.09.2018 12:10:18_
