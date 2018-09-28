@@ -1,4 +1,16 @@
 {
+    "IRVdLeYiGG": {
+        "id": "IRVdLeYiGG",
+        "title": "",
+        "author": "Кийосаки",
+        "notes": "",
+        "createdAt": "2018-09-28 21:03:23",
+        "user": {
+            "id": "114821747301663688800-google",
+            "nickname": "Татьяна",
+            "booksCount": 1
+        }
+    },
     "4bGjcomJuJ": {
         "id": "4bGjcomJuJ",
         "title": "Первый учитель. (Повесть).",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 40
-        }
-    },
-    "-EfDua4ofY": {
-        "id": "-EfDua4ofY",
-        "title": "1939 год і Беларусь: забытая вайна",
-        "author": "Анатоль Трафімчык",
-        "notes": "",
-        "createdAt": "2018-09-26 04:20:06",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 329
         }
     }
 }
