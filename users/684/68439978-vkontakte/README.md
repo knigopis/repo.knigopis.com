@@ -1,7 +1,12 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>40</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>41</sup>
 ---
 
 ## 2018
+
+### Ночная смена
+Стивен Кинг
+> [2018-09-28] 
+
 
 ### Танцующий гном
 Мураками Харуки

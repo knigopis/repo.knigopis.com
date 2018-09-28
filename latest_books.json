@@ -1,4 +1,16 @@
 {
+    "SsrrD_2Yhe": {
+        "id": "SsrrD_2Yhe",
+        "title": "Ночная смена",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2018-09-28 11:57:37",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 41
+        }
+    },
     "O9Z4fsQtgT": {
         "id": "O9Z4fsQtgT",
         "title": "Приключения Чиполино",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 143
-        }
-    },
-    "QazaS0qdpt": {
-        "id": "QazaS0qdpt",
-        "title": "Голос ночной птицы",
-        "author": "Робер Маккаммон",
-        "notes": "",
-        "createdAt": "2018-09-25 22:34:45",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 142
         }
     }
 }
