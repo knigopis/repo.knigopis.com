@@ -1,4 +1,10 @@
 {
+    "122404030-vkontakte": {
+        "id": "122404030-vkontakte",
+        "nickname": "nitrin_x",
+        "booksCount": 0,
+        "updatedAt": "2018-09-28 12:10:17"
+    },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
         "nickname": "kissamasya",
@@ -172,11 +178,5 @@
         "nickname": "Граф ",
         "booksCount": 0,
         "updatedAt": "2018-09-18 00:54:29"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me2",
-        "booksCount": 45,
-        "updatedAt": "2018-09-17 20:16:27"
     }
 }
