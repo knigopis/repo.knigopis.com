@@ -1,7 +1,12 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>5</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>6</sup>
 ---
 
 ## 2018
+
+### Первый учитель. (Повесть).
+Чингиз Айтматов
+> [2018-09-28] 
+
 
 ### Рисунок с Ленина. (Рассказ).
 Константин Федин

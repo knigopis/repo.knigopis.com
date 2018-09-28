@@ -1,4 +1,16 @@
 {
+    "4bGjcomJuJ": {
+        "id": "4bGjcomJuJ",
+        "title": "Первый учитель. (Повесть).",
+        "author": "Чингиз Айтматов",
+        "notes": "",
+        "createdAt": "2018-09-28 17:06:35",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 6
+        }
+    },
     "hilrdC5wMF": {
         "id": "hilrdC5wMF",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 329
-        }
-    },
-    "TZZO5GDdhV": {
-        "id": "TZZO5GDdhV",
-        "title": "Коробка в форме сердца",
-        "author": "Джо Хилл",
-        "notes": "",
-        "createdAt": "2018-09-25 23:08:16",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 145
         }
     }
 }
