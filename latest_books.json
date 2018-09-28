@@ -1,4 +1,16 @@
 {
+    "9LcoS92B31": {
+        "id": "9LcoS92B31",
+        "title": "Пролетая над гнездом кукушки",
+        "author": "Кен Кизи",
+        "notes": "",
+        "createdAt": "2018-09-28 14:56:33",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": "Svecha",
+            "booksCount": 30
+        }
+    },
     "SsrrD_2Yhe": {
         "id": "SsrrD_2Yhe",
         "title": "Ночная смена",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 144
-        }
-    },
-    "ed10BI6W7j": {
-        "id": "ed10BI6W7j",
-        "title": "Мистер Слоттер",
-        "author": "Роберт Маккаммон",
-        "notes": "",
-        "createdAt": "2018-09-25 22:36:19",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 143
         }
     }
 }

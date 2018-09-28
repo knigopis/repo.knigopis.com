@@ -1,4 +1,4 @@
-# List of books read by [Svecha](http://www.knigopis.com/#/user/books?u=118041836581529110049-google)<sup>29</sup>
+# List of books read by [Svecha](http://www.knigopis.com/#/user/books?u=118041836581529110049-google)<sup>30</sup>
 ---
 
 ## 2018
@@ -26,6 +26,11 @@
 ### Поправка 22
 Джозеф Хеллер
 > [2018-08] 
+
+
+### Пролетая над гнездом кукушки
+Кен Кизи
+> [2018-06] 
 
 
 

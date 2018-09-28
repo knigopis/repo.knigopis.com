@@ -1,4 +1,10 @@
 {
+    "118041836581529110049-google": {
+        "id": "118041836581529110049-google",
+        "nickname": "Svecha",
+        "booksCount": 30,
+        "updatedAt": "2018-09-28 14:56:33"
+    },
     "122404030-vkontakte": {
         "id": "122404030-vkontakte",
         "nickname": "nitrin_x",
@@ -64,12 +70,6 @@
         "nickname": "adin",
         "booksCount": 0,
         "updatedAt": "2018-09-26 18:08:24"
-    },
-    "118041836581529110049-google": {
-        "id": "118041836581529110049-google",
-        "nickname": "Svecha",
-        "booksCount": 29,
-        "updatedAt": "2018-09-26 17:32:10"
     },
     "48331025-vkontakte": {
         "id": "48331025-vkontakte",
