@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[uvertura88](users/514/5146266-vkontakte)<sup>0</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>5</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>16</sup> 
 [Amberkit](users/226/2262103690484511-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>128</sup> 
 [Граф ](users/198/1985354221526581-facebook)<sup>0</sup> 
 [me2](users/381/381417697-yandex)<sup>45</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>46</sup> 
 
 
-_27.09.2018 20:54:25_
+_28.09.2018 11:35:07_
