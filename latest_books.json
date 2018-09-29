@@ -1,4 +1,16 @@
 {
+    "SU8DYsCSNG": {
+        "id": "SU8DYsCSNG",
+        "title": "Стихи и сказки",
+        "author": "Александр Сергеевич Пушкин",
+        "notes": "",
+        "createdAt": "2018-09-29 13:44:20",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 25
+        }
+    },
     "bDmhj8kUer": {
         "id": "bDmhj8kUer",
         "title": "Шёл по городу волшебник",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 1
-        }
-    },
-    "QrHqJRKHX5": {
-        "id": "QrHqJRKHX5",
-        "title": "Думай и богатей",
-        "author": "Наполеон Хилл",
-        "notes": "Мотиватор по жизни, то что надо прочитать еще и еще раз.",
-        "createdAt": "2018-09-27 15:26:57",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 16
         }
     }
 }

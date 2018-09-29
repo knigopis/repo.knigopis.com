@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>24</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>25</sup>
 ---
 
 ## 2018
@@ -31,6 +31,10 @@
 
 
 ## 1975
+
+### Стихи и сказки
+Александр Сергеевич Пушкин
+
 
 ### Шёл по городу волшебник
 Юрий Томин
