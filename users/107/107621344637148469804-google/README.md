@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>30</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>31</sup>
 ---
 
 ## 2018
@@ -31,6 +31,10 @@
 
 
 ## 1975
+
+### Витя Малеев в школе и дома
+> [1975-09] 
+
 
 ### Для детей
 Лев Николаевич Толстой
