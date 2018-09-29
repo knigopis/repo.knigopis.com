@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>10</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>11</sup>
 ---
 
 ## 2018
@@ -31,6 +31,10 @@
 
 
 ## 1974
+
+### Урфин Джюс и его деревянные солдаты
+Александр Волков
+
 
 ### Волшебник Изумрудного города
 Александр Волков
