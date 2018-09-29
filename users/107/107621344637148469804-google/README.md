@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>18</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>19</sup>
 ---
 
 ## 2018
@@ -31,6 +31,10 @@
 
 
 ## 1974
+
+### Незнайка в Солнечном городе
+Николай Носов
+
 
 ### Приключения Незнайки и его друзей
 Николай Носов
