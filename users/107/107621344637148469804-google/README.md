@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>29</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>30</sup>
 ---
 
 ## 2018
@@ -31,6 +31,11 @@
 
 
 ## 1975
+
+### Для детей
+Лев Николаевич Толстой
+> Сказки, рассказы
+
 
 ### Алиса в Стране чудес
 Льюис Кэрролл
