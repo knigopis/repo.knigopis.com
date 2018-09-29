@@ -1,4 +1,16 @@
 {
+    "zv6qY2ck3H": {
+        "id": "zv6qY2ck3H",
+        "title": "Робинзон Крузо.",
+        "author": "Даниель Дефо",
+        "notes": "",
+        "createdAt": "2018-09-29 14:04:03",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 39
+        }
+    },
     "LEQDfvTYLC": {
         "id": "LEQDfvTYLC",
         "title": "Идет война народная",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 9
-        }
-    },
-    "re4SdlxPI7": {
-        "id": "re4SdlxPI7",
-        "title": "Знакомьтесь \"СП\"",
-        "author": "Анатолий Членов",
-        "notes": "Текст Анатолия Членова ; Фото В. Грищенко и Н. Шестакова. - М. : Детская литература, 1972. - 25 с. : ил.;",
-        "createdAt": "2018-09-29 13:09:24",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 8
         }
     }
 }

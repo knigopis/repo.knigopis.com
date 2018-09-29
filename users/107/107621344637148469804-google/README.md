@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>38</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>39</sup>
 ---
 
 ## 2018
@@ -51,6 +51,10 @@
 ### Витя Малеев в школе и дома
 Николай Носов
 > [1975-09] 
+
+
+### Робинзон Крузо.
+Даниель Дефо
 
 
 ### Басни
