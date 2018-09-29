@@ -1,4 +1,16 @@
 {
+    "LEQDfvTYLC": {
+        "id": "LEQDfvTYLC",
+        "title": "Идет война народная",
+        "author": "Сергей Алексеев",
+        "notes": "Рассказы о Великой Отечественной войне.",
+        "createdAt": "2018-09-29 14:02:51",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 38
+        }
+    },
     "ro-lvKiVEz": {
         "id": "ro-lvKiVEz",
         "title": "Маугли",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 8
-        }
-    },
-    "9eSqDKzgzR": {
-        "id": "9eSqDKzgzR",
-        "title": "Вторая тайна золотого ключика. (Сказка)",
-        "author": "Александр Кумма, Сакко Рунге",
-        "notes": "Продолжением книги \"Золотой ключик, или Приключения Буратино\".",
-        "createdAt": "2018-09-29 13:05:48",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 7
         }
     }
 }
