@@ -1,4 +1,16 @@
 {
+    "O4MG0RFQru": {
+        "id": "O4MG0RFQru",
+        "title": "Желтый туман",
+        "author": "Александр Волков",
+        "notes": "",
+        "createdAt": "2018-09-29 13:16:39",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 13
+        }
+    },
     "ILo3Sc6hYv": {
         "id": "ILo3Sc6hYv",
         "title": "Семь подземных королей",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 8
-        }
-    },
-    "eli3Kn15sJ": {
-        "id": "eli3Kn15sJ",
-        "title": "Война и мир",
-        "author": "Лев Толстой",
-        "notes": "",
-        "createdAt": "2018-09-26 16:28:29",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 7
         }
     }
 }
