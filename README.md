@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Vladas](users/107/107621344637148469804-google)<sup>55</sup> 
+[Vladas](users/107/107621344637148469804-google)<sup>56</sup> 
 [lelsteny](users/163/163047065-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>330</sup> 
 [Татьяна](users/114/114821747301663688800-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>193</sup> 
 
 
-_29.09.2018 14:32:31_
+_29.09.2018 14:34:37_
