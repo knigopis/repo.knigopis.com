@@ -1,4 +1,16 @@
 {
+    "t-1Fhs9bPL": {
+        "id": "t-1Fhs9bPL",
+        "title": "Привычки успешных людей",
+        "author": "Кинг Бернард",
+        "notes": "",
+        "createdAt": "2018-09-29 08:20:32",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 330
+        }
+    },
     "IRVdLeYiGG": {
         "id": "IRVdLeYiGG",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "vladforpeople",
             "booksCount": 1
-        }
-    },
-    "iPFQIIjY6X": {
-        "id": "iPFQIIjY6X",
-        "title": "Танцующий гном",
-        "author": "Мураками Харуки",
-        "notes": "",
-        "createdAt": "2018-09-26 08:08:35",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 40
         }
     }
 }

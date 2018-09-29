@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>330</sup> 
 [Татьяна](users/114/114821747301663688800-google)<sup>1</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>6</sup> 
 [](users/140/140020294-vkontakte)<sup>2</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nadya_aksenova](users/295/295951913-vkontakte)<sup>0</sup> 
 [adin](users/348/348471867-vkontakte)<sup>0</sup> 
 [elvie_vlg](users/483/48331025-vkontakte)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>329</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>144</sup> 
 [youno](users/302/302928912-vkontakte)<sup>15</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>84</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>128</sup> 
 
 
-_28.09.2018 21:03:23_
+_29.09.2018 08:20:33_
