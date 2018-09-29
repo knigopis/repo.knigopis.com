@@ -1,4 +1,16 @@
 {
+    "DV4majWSsj": {
+        "id": "DV4majWSsj",
+        "title": "На Садовой большое движение",
+        "author": "Виктор Драгунский",
+        "notes": "",
+        "createdAt": "2018-09-29 13:56:22",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 34
+        }
+    },
     "trOvprBQPy": {
         "id": "trOvprBQPy",
         "title": "Четвёртая высота",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 6
-        }
-    },
-    "hilrdC5wMF": {
-        "id": "hilrdC5wMF",
-        "title": "Мастер и Маргарита",
-        "author": "Булгаков",
-        "notes": "",
-        "createdAt": "2018-09-28 16:49:48",
-        "user": {
-            "id": "140020294-vkontakte",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
