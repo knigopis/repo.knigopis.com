@@ -1,4 +1,16 @@
 {
+    "MvEKP__pZ4": {
+        "id": "MvEKP__pZ4",
+        "title": "Алиса в Стране чудес",
+        "author": "Льюис Кэрролл",
+        "notes": "",
+        "createdAt": "2018-09-29 13:47:35",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 29
+        }
+    },
     "0MxyQuqLTV": {
         "id": "0MxyQuqLTV",
         "title": "Сказки",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 4
-        }
-    },
-    "_-gokOPpu8": {
-        "id": "_-gokOPpu8",
-        "title": "Рисунок с Ленина. (Рассказ).",
-        "author": "Константин Федин",
-        "notes": "Молодого художника Сергея Шумилина посылают на Конгресс Корминтерна и поручают нарисовать В.И. Ленина.",
-        "createdAt": "2018-09-27 19:22:40",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 3
         }
     }
 }
