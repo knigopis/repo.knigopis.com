@@ -1,4 +1,16 @@
 {
+    "F82CMZIlRW": {
+        "id": "F82CMZIlRW",
+        "title": "Волшебник Изумрудного города",
+        "author": "Александр Волков",
+        "notes": "",
+        "createdAt": "2018-09-29 13:14:11",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 10
+        }
+    },
     "Ge9q-FBjzC": {
         "id": "Ge9q-FBjzC",
         "title": "Черемыш - брат героя",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 5
-        }
-    },
-    "2Q5MzeRheM": {
-        "id": "2Q5MzeRheM",
-        "title": "Серии книг о Дзирте До'Урдене",
-        "author": "Роберт Сальваторе",
-        "notes": "Весьма интересные истории о темном эльфе и не только.",
-        "createdAt": "2018-09-26 16:04:16",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 4
         }
     }
 }
