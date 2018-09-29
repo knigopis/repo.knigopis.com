@@ -1,4 +1,16 @@
 {
+    "rWOIyOaSaM": {
+        "id": "rWOIyOaSaM",
+        "title": "Три толстяка",
+        "author": "Юрий Олеша",
+        "notes": "",
+        "createdAt": "2018-09-29 13:37:12",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 22
+        }
+    },
     "IL5ktTfBA0": {
         "id": "IL5ktTfBA0",
         "title": "Три повести о Малыше и Карлсоне",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 182
-        }
-    },
-    "jU_-mQwKtk": {
-        "id": "jU_-mQwKtk",
-        "title": "Мечтают ли андроиды об электроовцах",
-        "author": "Филип Киндред Дик",
-        "notes": "",
-        "createdAt": "2018-09-26 17:32:10",
-        "user": {
-            "id": "118041836581529110049-google",
-            "nickname": "Svecha",
-            "booksCount": 29
         }
     }
 }

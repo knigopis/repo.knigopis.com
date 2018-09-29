@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>21</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>22</sup>
 ---
 
 ## 2018
@@ -31,6 +31,10 @@
 
 
 ## 1975
+
+### Три толстяка
+Юрий Олеша
+
 
 ### Три повести о Малыше и Карлсоне
 Астрид Линдгрен
