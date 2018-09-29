@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>46</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>47</sup>
 ---
 
 ## 2018
@@ -46,6 +46,10 @@
 ### Сын полка
 Валентин Катаев
 > [1975-09] 
+
+
+### Кортик. Бронзовая птица.
+Анатолий Рыбаков
 
 
 ### Остров сокровищ.
