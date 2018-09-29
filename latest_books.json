@@ -1,4 +1,16 @@
 {
+    "2iMx17CbMF": {
+        "id": "2iMx17CbMF",
+        "title": "Остров сокровищ.",
+        "author": "Роберт Стивенсон.",
+        "notes": "Роман. М. Детская литература, (Библиотека приключений и научной фантастики).",
+        "createdAt": "2018-09-29 14:10:19",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 46
+        }
+    },
     "JdN697DA5W": {
         "id": "JdN697DA5W",
         "title": "Приключения Одиссея",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 16
-        }
-    },
-    "RNBwPYugsn": {
-        "id": "RNBwPYugsn",
-        "title": "Крокодил Гена и его друзья",
-        "author": "Эдуард Успенский",
-        "notes": "",
-        "createdAt": "2018-09-29 13:20:49",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 15
         }
     }
 }
