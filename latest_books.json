@@ -1,4 +1,16 @@
 {
+    "IL5ktTfBA0": {
+        "id": "IL5ktTfBA0",
+        "title": "Три повести о Малыше и Карлсоне",
+        "author": "Астрид Линдгрен",
+        "notes": "",
+        "createdAt": "2018-09-29 13:36:46",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 21
+        }
+    },
     "Lijp9Oxl95": {
         "id": "Lijp9Oxl95",
         "title": "Незнайка на Луне",
@@ -345,18 +357,6 @@
             "id": "118041836581529110049-google",
             "nickname": "Svecha",
             "booksCount": 29
-        }
-    },
-    "qxwE1s3nyV": {
-        "id": "qxwE1s3nyV",
-        "title": "Собор парижской богоматери",
-        "author": "Виктор Гюго",
-        "notes": "",
-        "createdAt": "2018-09-26 16:54:17",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 15
         }
     }
 }

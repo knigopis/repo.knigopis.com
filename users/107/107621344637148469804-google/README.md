@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>20</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>21</sup>
 ---
 
 ## 2018
@@ -31,6 +31,10 @@
 
 
 ## 1975
+
+### Три повести о Малыше и Карлсоне
+Астрид Линдгрен
+
 
 ### Незнайка на Луне
 Николай Носов
