@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>49</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>50</sup>
 ---
 
 ## 2018
@@ -146,6 +146,10 @@
 ### Витя Малеев в школе и дома
 Николай Носов
 > [1974-09] 
+
+
+### Жизнь Ленина
+Мария Прилежаева
 
 
 ### Старик Хоттабыч
