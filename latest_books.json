@@ -1,4 +1,16 @@
 {
+    "V4e6LmyAbK": {
+        "id": "V4e6LmyAbK",
+        "title": "Дикая собака Динго, или Повесть о первой любви.",
+        "author": "Рувим Фраерман",
+        "notes": "",
+        "createdAt": "2018-09-29 14:30:42",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 53
+        }
+    },
     "_maK1cgZS0": {
         "id": "_maK1cgZS0",
         "title": "Республика ШКИД.",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 23
-        }
-    },
-    "rWOIyOaSaM": {
-        "id": "rWOIyOaSaM",
-        "title": "Три толстяка",
-        "author": "Юрий Олеша",
-        "notes": "",
-        "createdAt": "2018-09-29 13:37:12",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 22
         }
     }
 }
