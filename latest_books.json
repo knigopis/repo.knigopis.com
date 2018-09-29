@@ -1,4 +1,16 @@
 {
+    "J82wHVQ1Rw": {
+        "id": "J82wHVQ1Rw",
+        "title": "Твои друзья - мои товарищи",
+        "author": "Сергей Баруздин",
+        "notes": "",
+        "createdAt": "2018-09-29 14:05:55",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 42
+        }
+    },
     "EOAVdd4cSa": {
         "id": "EOAVdd4cSa",
         "title": "Кладовая солнца.",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 12
-        }
-    },
-    "RiKgZ261x9": {
-        "id": "RiKgZ261x9",
-        "title": "Урфин Джюс и его деревянные солдаты",
-        "author": "Александр Волков",
-        "notes": "",
-        "createdAt": "2018-09-29 13:15:02",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 11
         }
     }
 }
