@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>63</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>64</sup>
 ---
 
 ## 2018
@@ -290,6 +290,10 @@
 
 
 ## 1972
+
+### Конёк-Горбунок
+Пётр Ершов
+
 
 ### Крокодил Гена и его друзья
 Эдуард Успенский
