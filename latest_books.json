@@ -1,4 +1,16 @@
 {
+    "_maK1cgZS0": {
+        "id": "_maK1cgZS0",
+        "title": "Республика ШКИД.",
+        "author": "Леонид Пантелеев, Григорий Белых",
+        "notes": "",
+        "createdAt": "2018-09-29 14:29:08",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 52
+        }
+    },
     "HkUWoZm1Cp": {
         "id": "HkUWoZm1Cp",
         "title": "Приключения Тома Сойера. Приключения Гекльберри Финна.",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 22
-        }
-    },
-    "IL5ktTfBA0": {
-        "id": "IL5ktTfBA0",
-        "title": "Три повести о Малыше и Карлсоне",
-        "author": "Астрид Линдгрен",
-        "notes": "",
-        "createdAt": "2018-09-29 13:36:46",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 21
         }
     }
 }
