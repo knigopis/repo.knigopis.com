@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>16</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>17</sup>
 ---
 
 ## 2018
@@ -31,6 +31,10 @@
 
 
 ## 1974
+
+### Фердинанд Великолепный
+Людовиг Ежи Керн
+
 
 ### Винни-Пух и все-все-все
 Алан Милн

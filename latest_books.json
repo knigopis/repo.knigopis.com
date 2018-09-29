@@ -1,4 +1,16 @@
 {
+    "CKPE8cQtFL": {
+        "id": "CKPE8cQtFL",
+        "title": "Фердинанд Великолепный",
+        "author": "Людовиг Ежи Керн",
+        "notes": "",
+        "createdAt": "2018-09-29 13:32:29",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 17
+        }
+    },
     "sDZpJtzfAZ": {
         "id": "sDZpJtzfAZ",
         "title": "Винни-Пух и все-все-все",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 12
-        }
-    },
-    "WKjspbocaY": {
-        "id": "WKjspbocaY",
-        "title": "Отверженные",
-        "author": "Виктор Гюго",
-        "notes": "Стагнация и рост души одного мужа, тернистым путем шедшего о каторги к святости.",
-        "createdAt": "2018-09-26 16:40:35",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 11
         }
     }
 }
