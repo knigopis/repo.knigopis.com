@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>14</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>15</sup>
 ---
 
 ## 2018
@@ -31,6 +31,10 @@
 
 
 ## 1974
+
+### Крокодил Гена и его друзья
+Эдуард Успенский
+
 
 ### Огненный бог Марранов
 Александр Волков

@@ -1,4 +1,16 @@
 {
+    "RNBwPYugsn": {
+        "id": "RNBwPYugsn",
+        "title": "Крокодил Гена и его друзья",
+        "author": "Эдуард Успенский",
+        "notes": "",
+        "createdAt": "2018-09-29 13:20:49",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 15
+        }
+    },
     "pQIv6mKXks": {
         "id": "pQIv6mKXks",
         "title": "Огненный бог Марранов",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 10
-        }
-    },
-    "-nuoVME1Mg": {
-        "id": "-nuoVME1Mg",
-        "title": "Евангилие",
-        "author": "От матфея",
-        "notes": "",
-        "createdAt": "2018-09-26 16:33:53",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 9
         }
     }
 }
