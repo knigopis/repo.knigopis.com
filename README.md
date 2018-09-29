@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lelsteny](users/163/163047065-vkontakte)<sup>0</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>15</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>330</sup> 
 [Татьяна](users/114/114821747301663688800-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup> 
 [Lena](users/433/433159683731186-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>193</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>128</sup> 
 
 
-_29.09.2018 13:20:49_
+_29.09.2018 13:31:08_
