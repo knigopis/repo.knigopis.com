@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дерьмо ~ [anvonamore](users/595/5957175-vkontakte)<sup>119</sup>
+    > 5/10
+
 * Важные годы ~ [darb_el](users/184/184135339-vkontakte)<sup>15</sup>
     > Неплохо, выводы подкреплены данными, свежие мысли о важном.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга нехитрая, но очень добрая и, не знаю, "намоленная" что ли... Во всяком случае, меня почти каждая история того или иного святого сразу заставляла примерять какие-то вещи на себя, оценивать свое несовершенство и вспоминать то светлое ощущение, когда прикасаешься к Божественному в своей душе. Хорошая книга для неспешного душевного чтения по вечерам, без суеты.
 
 * Богатый папа, бедный папа ~ [youno](users/302/302928912-vkontakte)<sup>15</sup>
-    > Перечитать. Купить как настольную книгу. Мастхэв.
 
 * Air America ~ [exulted](users/100/100599204551896265722-google)<sup>84</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Baśnie ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
 
-* Скотный двор ~ [violet_velva](users/116/116961712580551399099-google)<sup>46</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>119</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>64</sup> 
 [lelsteny](users/163/163047065-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>330</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [meregal](users/227/227369437-yandex)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup> 
 [Lena](users/433/433159683731186-facebook)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>193</sup> 
 
 
-_29.09.2018 15:03:43_
+_29.09.2018 18:04:48_
