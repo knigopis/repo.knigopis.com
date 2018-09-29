@@ -1,4 +1,16 @@
 {
+    "J9PVnJcFC4": {
+        "id": "J9PVnJcFC4",
+        "title": "Сказки об Италии",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2018-09-29 14:40:32",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 60
+        }
+    },
     "cMAuokrj93": {
         "id": "cMAuokrj93",
         "title": "Зоопарк в моём багаже",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 31
-        }
-    },
-    "BH_hIOlPOA": {
-        "id": "BH_hIOlPOA",
-        "title": "Для детей",
-        "author": "Лев Николаевич Толстой",
-        "notes": "Сказки, рассказы",
-        "createdAt": "2018-09-29 13:48:20",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 30
         }
     }
 }
