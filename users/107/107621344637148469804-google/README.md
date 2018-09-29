@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>15</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>16</sup>
 ---
 
 ## 2018
@@ -31,6 +31,9 @@
 
 
 ## 1974
+
+### Винни-Пух и все-все-все
+
 
 ### Крокодил Гена и его друзья
 Эдуард Успенский
