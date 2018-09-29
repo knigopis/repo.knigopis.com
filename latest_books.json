@@ -1,4 +1,16 @@
 {
+    "EiqGX0AbAd": {
+        "id": "EiqGX0AbAd",
+        "title": "Басни",
+        "author": "Иван Андреевич Крылов",
+        "notes": "",
+        "createdAt": "2018-09-29 14:00:09",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 36
+        }
+    },
     "jiRU4Q_wuJ": {
         "id": "jiRU4Q_wuJ",
         "title": "Мореплавание Солнышкина.",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 330
-        }
-    },
-    "IRVdLeYiGG": {
-        "id": "IRVdLeYiGG",
-        "title": "",
-        "author": "Кийосаки",
-        "notes": "",
-        "createdAt": "2018-09-28 21:03:23",
-        "user": {
-            "id": "114821747301663688800-google",
-            "nickname": "Татьяна",
-            "booksCount": 1
         }
     }
 }
