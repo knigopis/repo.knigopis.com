@@ -1,4 +1,16 @@
 {
+    "vldQ74Te22": {
+        "id": "vldQ74Te22",
+        "title": "Охотники на мамонтов. Поселок на озере.",
+        "author": "Сергей Покровский",
+        "notes": "Исторические повести.",
+        "createdAt": "2018-09-29 14:07:19",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 43
+        }
+    },
     "J82wHVQ1Rw": {
         "id": "J82wHVQ1Rw",
         "title": "Твои друзья - мои товарищи",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 13
-        }
-    },
-    "ILo3Sc6hYv": {
-        "id": "ILo3Sc6hYv",
-        "title": "Семь подземных королей",
-        "author": "Александр Волков",
-        "notes": "",
-        "createdAt": "2018-09-29 13:15:31",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 12
         }
     }
 }
