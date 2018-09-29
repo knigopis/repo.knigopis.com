@@ -1,4 +1,16 @@
 {
+    "EOAVdd4cSa": {
+        "id": "EOAVdd4cSa",
+        "title": "Кладовая солнца.",
+        "author": "Михаил Пришвин",
+        "notes": "",
+        "createdAt": "2018-09-29 14:05:17",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 41
+        }
+    },
     "RDSQORkNFw": {
         "id": "RDSQORkNFw",
         "title": "Динка. Динка прощается с детством.",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 11
-        }
-    },
-    "F82CMZIlRW": {
-        "id": "F82CMZIlRW",
-        "title": "Волшебник Изумрудного города",
-        "author": "Александр Волков",
-        "notes": "",
-        "createdAt": "2018-09-29 13:14:11",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 10
         }
     }
 }
