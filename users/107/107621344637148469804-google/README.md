@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>26</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>27</sup>
 ---
 
 ## 2018
@@ -31,6 +31,10 @@
 
 
 ## 1975
+
+### Сказки
+Ганс Христиан Андерсен
+
 
 ### Иван крестьянский сын
 Русские народные сказки
