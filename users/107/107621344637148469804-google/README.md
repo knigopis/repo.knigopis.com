@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>36</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>37</sup>
 ---
 
 ## 2018
@@ -109,6 +109,10 @@
 
 
 ## 1974
+
+### Маугли
+Редьярд Киплинг
+
 
 ### Незнайка в Солнечном городе
 Николай Носов

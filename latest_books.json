@@ -1,4 +1,16 @@
 {
+    "ro-lvKiVEz": {
+        "id": "ro-lvKiVEz",
+        "title": "Маугли",
+        "author": "Редьярд Киплинг",
+        "notes": "",
+        "createdAt": "2018-09-29 14:01:52",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 37
+        }
+    },
     "EiqGX0AbAd": {
         "id": "EiqGX0AbAd",
         "title": "Басни",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 7
-        }
-    },
-    "t-1Fhs9bPL": {
-        "id": "t-1Fhs9bPL",
-        "title": "Привычки успешных людей",
-        "author": "Кинг Бернард",
-        "notes": "",
-        "createdAt": "2018-09-29 08:20:32",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 330
         }
     }
 }
