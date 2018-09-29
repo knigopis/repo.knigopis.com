@@ -1,4 +1,16 @@
 {
+    "bDmhj8kUer": {
+        "id": "bDmhj8kUer",
+        "title": "Шёл по городу волшебник",
+        "author": "Юрий Томин",
+        "notes": "",
+        "createdAt": "2018-09-29 13:43:40",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 24
+        }
+    },
     "Uulz5ZysjE": {
         "id": "Uulz5ZysjE",
         "title": "Мэри Поппинс",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 16
-        }
-    },
-    "1OlFuzE2sQ": {
-        "id": "1OlFuzE2sQ",
-        "title": "Важные годы",
-        "author": "Мэг Джей",
-        "notes": "Неплохо, выводы подкреплены данными, свежие мысли о важном.",
-        "createdAt": "2018-09-27 05:55:37",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 15
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>23</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>24</sup>
 ---
 
 ## 2018
@@ -31,6 +31,10 @@
 
 
 ## 1975
+
+### Шёл по городу волшебник
+Юрий Томин
+
 
 ### Мэри Поппинс
 Памела Трэверс
