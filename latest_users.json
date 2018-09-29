@@ -1,4 +1,10 @@
 {
+    "163047065-vkontakte": {
+        "id": "163047065-vkontakte",
+        "nickname": "lelsteny",
+        "booksCount": 0,
+        "updatedAt": "2018-09-29 13:31:03"
+    },
     "107621344637148469804-google": {
         "id": "107621344637148469804-google",
         "nickname": "Vladas",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 193,
         "updatedAt": "2018-09-18 16:35:20"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Lost in Frost",
-        "booksCount": 128,
-        "updatedAt": "2018-09-18 08:10:31"
     }
 }
