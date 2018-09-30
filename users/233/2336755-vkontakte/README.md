@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>64</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>65</sup>
 ---
 
 ## 2018
+
+### Сильмариллион
+Джон Р. Р. Толкин
+> [2018-09-29] 
+
 
 ### Властелин колец
 Джон Р. Р. Толкин
