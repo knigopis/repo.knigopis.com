@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>46</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>119</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>64</sup> 
 [lelsteny](users/163/163047065-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>136</sup> 
 [meregal](users/227/227369437-yandex)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup> 
-[Lena](users/433/433159683731186-facebook)<sup>0</sup> 
 
 
-_29.09.2018 18:04:48_
+_30.09.2018 16:58:45_
