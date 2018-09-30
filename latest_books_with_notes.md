@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мастер и Маргарита ~ [Garka](users/115/115753719718250012620-google)<sup>194</sup>
 * Дерьмо ~ [anvonamore](users/595/5957175-vkontakte)<sup>119</sup>
 * Важные годы ~ [darb_el](users/184/184135339-vkontakte)<sup>15</sup>
 * Великие православные святые ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup>
@@ -30,7 +31,6 @@
 * Если хочешь быть счастливым ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
 * Любовница французского лейтенанта ~ [anvonamore](users/595/5957175-vkontakte)<sup>117</sup>
 * Что делать ~ [anvonamore](users/595/5957175-vkontakte)<sup>116</sup>
-* Бесы ~ [anvonamore](users/595/5957175-vkontakte)<sup>115</sup>
 
 
-_29.09.2018 18:04:48_
+_30.09.2018 17:02:59_

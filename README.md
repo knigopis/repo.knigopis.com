@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мастер и Маргарита ~ [Garka](users/115/115753719718250012620-google)<sup>194</sup>
+    > Не помню какой раз перечитываю... 5 или 6. Любимая книга никогда не надоедает.
+
 * Дерьмо ~ [anvonamore](users/595/5957175-vkontakte)<sup>119</sup>
     > 5/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Неплохо, выводы подкреплены данными, свежие мысли о важном.
 
 * Великие православные святые ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup>
-    > Книга нехитрая, но очень добрая и, не знаю, "намоленная" что ли... Во всяком случае, меня почти каждая история того или иного святого сразу заставляла примерять какие-то вещи на себя, оценивать свое несовершенство и вспоминать то светлое ощущение, когда прикасаешься к Божественному в своей душе. Хорошая книга для неспешного душевного чтения по вечерам, без суеты.
 
 * Богатый папа, бедный папа ~ [youno](users/302/302928912-vkontakte)<sup>15</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Skarbiec najpiękniejszych baśni ~ [EsterHani](users/305/30558181-vkontakte)<sup>156</sup>
 
-* Baśnie ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>194</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>46</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>119</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>64</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>105</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>136</sup> 
 [meregal](users/227/227369437-yandex)<sup>0</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>93</sup> 
 
 
-_30.09.2018 16:58:45_
+_30.09.2018 17:02:59_
