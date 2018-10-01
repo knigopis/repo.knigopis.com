@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>128</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>129</sup>
 ---
 
 ## 2018
+
+### Север и Юг
+Элизабет Гаскелл
+> [2018-10-01] 
+
 
 ### Адский поезд для Красного Ангела
 Франк Тилье
