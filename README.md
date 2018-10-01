@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tuganatuga](users/596/59644626-vkontakte)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>65</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>194</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>46</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [acharnamys](users/102/102502018294958404491-google)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>35</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>105</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>136</sup> 
 
 
-_30.09.2018 17:33:29_
+_01.10.2018 05:30:48_
