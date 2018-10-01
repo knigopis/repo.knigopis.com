@@ -1,7 +1,12 @@
-# List of books read by [En](http://vk.com/id333646551)<sup>51</sup>
+# List of books read by [En](http://vk.com/id333646551)<sup>52</sup>
 ---
 
 ## 2018
+
+### Атомный сон
+Лукьяненко
+> [2018-09-25] 
+
 
 ### Мертвый ноль
 Макс Фрай

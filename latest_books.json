@@ -1,4 +1,16 @@
 {
+    "9RnO6XpFzV": {
+        "id": "9RnO6XpFzV",
+        "title": "Атомный сон",
+        "author": "Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-10-01 07:06:25",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 52
+        }
+    },
     "uTkiYSdFqS": {
         "id": "uTkiYSdFqS",
         "title": "Север и Юг",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 41
-        }
-    },
-    "RDSQORkNFw": {
-        "id": "RDSQORkNFw",
-        "title": "Динка. Динка прощается с детством.",
-        "author": "Валентина Осеева",
-        "notes": "",
-        "createdAt": "2018-09-29 14:04:40",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 40
         }
     }
 }
