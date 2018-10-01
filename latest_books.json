@@ -1,4 +1,16 @@
 {
+    "PlpXkR5V0R": {
+        "id": "PlpXkR5V0R",
+        "title": "",
+        "author": "Джоан",
+        "notes": "",
+        "createdAt": "2018-10-01 20:53:46",
+        "user": {
+            "id": "348527473-vkontakte",
+            "nickname": "i.hamatshin1",
+            "booksCount": 1
+        }
+    },
     "9RnO6XpFzV": {
         "id": "9RnO6XpFzV",
         "title": "Атомный сон",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 42
-        }
-    },
-    "EOAVdd4cSa": {
-        "id": "EOAVdd4cSa",
-        "title": "Кладовая солнца.",
-        "author": "Михаил Пришвин",
-        "notes": "",
-        "createdAt": "2018-09-29 14:05:17",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 41
         }
     }
 }
