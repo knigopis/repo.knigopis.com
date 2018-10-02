@@ -1,4 +1,16 @@
 {
+    "xES5K6wrOV": {
+        "id": "xES5K6wrOV",
+        "title": "Богатый папа, бедный папа",
+        "author": "Роберт Кийосаки",
+        "notes": "Доходчиво о финансовой грамотности.",
+        "createdAt": "2018-10-02 16:47:10",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 17
+        }
+    },
     "SCYU9K_dnu": {
         "id": "SCYU9K_dnu",
         "title": "Пиковая дама",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 46
-        }
-    },
-    "JdN697DA5W": {
-        "id": "JdN697DA5W",
-        "title": "Приключения Одиссея",
-        "author": "",
-        "notes": "Прозаический пересказ Е. Тудоровской.",
-        "createdAt": "2018-09-29 14:08:39",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 45
         }
     }
 }
