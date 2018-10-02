@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>41</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>42</sup>
 ---
 
 ## 2018
@@ -81,6 +81,10 @@
 ### Моё дерево Апельсина-лима
 Хосе Васконселос
 > [2018-07] 
+
+
+### Пиковая дама
+А.Пушкин
 
 
 ### Худеющий

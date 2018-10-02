@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>137</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>67</sup> 
 [i.hamatshin1](users/348/348527473-vkontakte)<sup>1</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/140/140020294-vkontakte)<sup>2</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>30</sup> 
 [nitrin_x](users/122/122404030-vkontakte)<sup>0</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>41</sup> 
 [uvertura88](users/514/5146266-vkontakte)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>16</sup> 
 [Amberkit](users/226/2262103690484511-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>84</sup> 
 
 
-_02.10.2018 09:45:27_
+_02.10.2018 15:14:10_
