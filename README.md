@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>67</sup> 
 [i.hamatshin1](users/348/348527473-vkontakte)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>52</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>129</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>15</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>84</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>158</sup> 
-[kasikandriena](users/152/152488954-vkontakte)<sup>49</sup> 
 
 
-_01.10.2018 20:53:46_
+_02.10.2018 06:34:35_

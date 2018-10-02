@@ -1,4 +1,16 @@
 {
+    "OQIECBLHSD": {
+        "id": "OQIECBLHSD",
+        "title": "Обитаемый остров",
+        "author": "Братья Стругацкие",
+        "notes": "",
+        "createdAt": "2018-10-02 06:34:35",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 67
+        }
+    },
     "PlpXkR5V0R": {
         "id": "PlpXkR5V0R",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 43
-        }
-    },
-    "J82wHVQ1Rw": {
-        "id": "J82wHVQ1Rw",
-        "title": "Твои друзья - мои товарищи",
-        "author": "Сергей Баруздин",
-        "notes": "",
-        "createdAt": "2018-09-29 14:05:55",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 42
         }
     }
 }
