@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>17</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>18</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>137</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>67</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>84</sup> 
 
 
-_02.10.2018 16:47:10_
+_02.10.2018 16:48:05_
