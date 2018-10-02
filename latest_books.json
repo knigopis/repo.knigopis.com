@@ -1,4 +1,16 @@
 {
+    "kNdEtHf0dS": {
+        "id": "kNdEtHf0dS",
+        "title": "Обитатели холмов",
+        "author": "Ричард Адамс",
+        "notes": "",
+        "createdAt": "2018-10-02 09:45:27",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 137
+        }
+    },
     "OQIECBLHSD": {
         "id": "OQIECBLHSD",
         "title": "Обитаемый остров",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 44
-        }
-    },
-    "vldQ74Te22": {
-        "id": "vldQ74Te22",
-        "title": "Охотники на мамонтов. Поселок на озере.",
-        "author": "Сергей Покровский",
-        "notes": "Исторические повести.",
-        "createdAt": "2018-09-29 14:07:19",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 43
         }
     }
 }

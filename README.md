@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>137</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>67</sup> 
 [i.hamatshin1](users/348/348527473-vkontakte)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>52</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>144</sup> 
 [youno](users/302/302928912-vkontakte)<sup>15</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>84</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>158</sup> 
 
 
-_02.10.2018 06:34:35_
+_02.10.2018 09:45:27_
