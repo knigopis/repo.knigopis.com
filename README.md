@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[volodya130994](users/392/39260715-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>195</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>85</sup> 
 [wonhosha](users/623/62393441-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nadya_aksenova](users/295/295951913-vkontakte)<sup>0</sup> 
 [adin](users/348/348471867-vkontakte)<sup>0</sup> 
 [elvie_vlg](users/483/48331025-vkontakte)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>144</sup> 
 
 
-_03.10.2018 17:29:18_
+_03.10.2018 21:41:52_
