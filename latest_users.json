@@ -1,4 +1,10 @@
 {
+    "39260715-vkontakte": {
+        "id": "39260715-vkontakte",
+        "nickname": "volodya130994",
+        "booksCount": 0,
+        "updatedAt": "2018-10-03 21:41:46"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "elvie_vlg",
         "booksCount": 0,
         "updatedAt": "2018-09-26 11:02:00"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 144,
-        "updatedAt": "2018-09-25 23:08:59"
     }
 }
