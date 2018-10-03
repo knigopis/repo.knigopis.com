@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хочу и буду ~ [Garka](users/115/115753719718250012620-google)<sup>195</sup>
+    > Никогда не читала книги по психологии, различные тренинги и прочее "поверь в себя, будь счастлив, как стать богатым". Эту книгу посоветовала подруга, решила почитать и обалдела. Реально интересно, просто и по делу написано. Рекомендую к прочтению всем: и тем кто хочет что-то поменять в жизни, но не знает как; и тем у кого реальные проблемы; и тем у кого все отлично - последнем просто для порции позитива
+
 * Ничего святого ~ [exulted](users/100/100599204551896265722-google)<sup>85</sup>
     > ISBN: 978-5-17-071215-1, 978-5-271-32295-2
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не помню какой раз перечитываю... 5 или 6. Любимая книга никогда не надоедает.
 
 * Дерьмо ~ [anvonamore](users/595/5957175-vkontakte)<sup>119</sup>
-    > 5/10
 
 * Важные годы ~ [darb_el](users/184/184135339-vkontakte)<sup>15</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Лунный камень ~ [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup>
 
-* Зеленая Миля ~ [Garka](users/115/115753719718250012620-google)<sup>193</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>195</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>85</sup> 
 [wonhosha](users/623/62393441-vkontakte)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>18</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>129</sup> 
 [Tuganatuga](users/596/59644626-vkontakte)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>65</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>194</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>46</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>119</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>64</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>144</sup> 
 
 
-_03.10.2018 16:12:25_
+_03.10.2018 17:29:18_
