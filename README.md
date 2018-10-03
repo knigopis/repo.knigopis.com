@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[wonhosha](users/623/62393441-vkontakte)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>18</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>137</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [elvie_vlg](users/483/48331025-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>144</sup> 
 [youno](users/302/302928912-vkontakte)<sup>15</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>84</sup> 
 
 
-_02.10.2018 16:48:05_
+_03.10.2018 11:11:25_
