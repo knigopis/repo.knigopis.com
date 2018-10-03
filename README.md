@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ничего святого ~ [exulted](users/100/100599204551896265722-google)<sup>85</sup>
+    > ISBN: 978-5-17-071215-1, 978-5-271-32295-2
+
 * Мастер и Маргарита ~ [Garka](users/115/115753719718250012620-google)<sup>194</sup>
     > Не помню какой раз перечитываю... 5 или 6. Любимая книга никогда не надоедает.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10
 
 * Важные годы ~ [darb_el](users/184/184135339-vkontakte)<sup>15</sup>
-    > Неплохо, выводы подкреплены данными, свежие мысли о важном.
 
 * Великие православные святые ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Зеленая Миля ~ [Garka](users/115/115753719718250012620-google)<sup>193</sup>
 
-* Skarbiec najpiękniejszych baśni ~ [EsterHani](users/305/30558181-vkontakte)<sup>156</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>85</sup> 
 [wonhosha](users/623/62393441-vkontakte)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>18</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [adin](users/348/348471867-vkontakte)<sup>0</sup> 
 [elvie_vlg](users/483/48331025-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>144</sup> 
-[youno](users/302/302928912-vkontakte)<sup>15</sup> 
 
 
-_03.10.2018 11:11:25_
+_03.10.2018 16:12:25_

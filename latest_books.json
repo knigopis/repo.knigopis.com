@@ -1,4 +1,16 @@
 {
+    "HbYLO9AreR": {
+        "id": "HbYLO9AreR",
+        "title": "Ничего святого",
+        "author": "Акунин Борис",
+        "notes": "ISBN: 978-5-17-071215-1, 978-5-271-32295-2",
+        "createdAt": "2018-10-03 16:12:25",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 85
+        }
+    },
     "4Ue9gfI42E": {
         "id": "4Ue9gfI42E",
         "title": "Заповедник",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 48
-        }
-    },
-    "FDo4bLi78f": {
-        "id": "FDo4bLi78f",
-        "title": "Кортик. Бронзовая птица.",
-        "author": "Анатолий Рыбаков",
-        "notes": "",
-        "createdAt": "2018-09-29 14:21:47",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 47
         }
     }
 }
