@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>10</sup> 
 [volodya130994](users/392/39260715-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>195</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>85</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup> 
 [nadya_aksenova](users/295/295951913-vkontakte)<sup>0</sup> 
 [adin](users/348/348471867-vkontakte)<sup>0</sup> 
-[elvie_vlg](users/483/48331025-vkontakte)<sup>0</sup> 
 
 
-_03.10.2018 21:41:52_
+_04.10.2018 06:46:32_

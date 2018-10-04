@@ -1,7 +1,12 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>9</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>10</sup>
 ---
 
 ## 2018
+
+### Как правильно ошибаться. Большая книга мануалов
+КЕТРО Марта
+> [2018-10-04] 
+
 
 ### Коллекционер
 ФАУЛЗ Джон
