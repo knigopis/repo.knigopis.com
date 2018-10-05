@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Аэлита ~ [kissamasya](users/684/68439978-vkontakte)<sup>41</sup>
 * Хочу и буду ~ [Garka](users/115/115753719718250012620-google)<sup>195</sup>
 * Ничего святого ~ [exulted](users/100/100599204551896265722-google)<sup>85</sup>
 * Мастер и Маргарита ~ [Garka](users/115/115753719718250012620-google)<sup>194</sup>
@@ -30,7 +31,6 @@
 * Двойной язык ~ [Saamy](users/115/115226508-vkontakte)<sup>54</sup>
 * Владимир, или Прерванный полет ~ [Saamy](users/115/115226508-vkontakte)<sup>53</sup>
 * Sapiens: A Brief History of Humankind ~ [exulted](users/100/100599204551896265722-google)<sup>82</sup>
-* Если хочешь быть счастливым ~ [elena-gagina2014](users/208/208969292-yandex)<sup>2</sup>
 
 
-_03.10.2018 17:29:18_
+_05.10.2018 09:15:47_
