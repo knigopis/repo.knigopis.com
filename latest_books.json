@@ -1,4 +1,16 @@
 {
+    "bQ6C3RGQGv": {
+        "id": "bQ6C3RGQGv",
+        "title": "Оценка готовности стран к созданию валютного союза с Россией",
+        "author": "Кнобель А.Ю.",
+        "notes": "",
+        "createdAt": "2018-10-05 08:16:34",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 43
+        }
+    },
     "JKVvkdlae4": {
         "id": "JKVvkdlae4",
         "title": "Как правильно ошибаться. Большая книга мануалов",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 51
-        }
-    },
-    "-rglYE5M4u": {
-        "id": "-rglYE5M4u",
-        "title": "Жизнь Ленина",
-        "author": "Мария Прилежаева",
-        "notes": "",
-        "createdAt": "2018-09-29 14:25:24",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 50
         }
     }
 }
