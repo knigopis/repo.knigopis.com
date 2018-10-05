@@ -1,4 +1,16 @@
 {
+    "8fzKPITZDD": {
+        "id": "8fzKPITZDD",
+        "title": "Афганочка",
+        "author": "Д. Драгунский",
+        "notes": "",
+        "createdAt": "2018-10-05 17:07:41",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 121
+        }
+    },
     "1SASFjVaIF": {
         "id": "1SASFjVaIF",
         "title": "Аэлита",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 54
-        }
-    },
-    "V4e6LmyAbK": {
-        "id": "V4e6LmyAbK",
-        "title": "Дикая собака Динго, или Повесть о первой любви.",
-        "author": "Рувим Фраерман",
-        "notes": "",
-        "createdAt": "2018-09-29 14:30:42",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 53
         }
     }
 }
