@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kissamasya](users/684/68439978-vkontakte)<sup>43</sup> 
+[kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>10</sup> 
 [volodya130994](users/392/39260715-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>195</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [adin](users/348/348471867-vkontakte)<sup>0</sup> 
 
 
-_05.10.2018 08:16:34_
+_05.10.2018 08:17:21_
