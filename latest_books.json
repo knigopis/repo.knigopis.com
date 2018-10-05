@@ -1,4 +1,16 @@
 {
+    "1N0r9xFYic": {
+        "id": "1N0r9xFYic",
+        "title": "История банковского и биржевого дела",
+        "author": "Соколов Е.",
+        "notes": "",
+        "createdAt": "2018-10-05 08:18:52",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 43
+        }
+    },
     "bQ6C3RGQGv": {
         "id": "bQ6C3RGQGv",
         "title": "Оценка готовности стран к созданию валютного союза с Россией",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 52
-        }
-    },
-    "HkUWoZm1Cp": {
-        "id": "HkUWoZm1Cp",
-        "title": "Приключения Тома Сойера. Приключения Гекльберри Финна.",
-        "author": "Марк Твен",
-        "notes": "",
-        "createdAt": "2018-09-29 14:27:36",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 51
         }
     }
 }
