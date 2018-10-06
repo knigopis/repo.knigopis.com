@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/106/106794273725577737811-googleplus)<sup>0</sup> 
 [mgirl1994@mail.ru](users/156/15641244064688722584-mailru)<sup>3</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>47</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>94</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [uvertura88](users/514/5146266-vkontakte)<sup>0</sup> 
 [Amberkit](users/226/2262103690484511-facebook)<sup>0</sup> 
 [shishkinmark](users/270/2709231-vkontakte)<sup>0</sup> 
-[darb_el](users/184/184135339-vkontakte)<sup>15</sup> 
 
 
-_06.10.2018 20:07:19_
+_06.10.2018 21:07:44_
