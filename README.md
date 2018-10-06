@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>47</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>94</sup> 
 [](users/115/115826717712507836033-google)<sup>125</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>41</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>129</sup> 
 [Tuganatuga](users/596/59644626-vkontakte)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>65</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>46</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>119</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>64</sup> 
 [lelsteny](users/163/163047065-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup> 
 
 
-_06.10.2018 07:09:28_
+_06.10.2018 16:03:25_
