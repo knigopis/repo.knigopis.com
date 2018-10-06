@@ -1,4 +1,16 @@
 {
+    "_GS5VW9Mf7": {
+        "id": "_GS5VW9Mf7",
+        "title": "Письма к друзьям",
+        "author": "Винсент Ван Гог",
+        "notes": "9/10",
+        "createdAt": "2018-10-06 07:09:28",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 94
+        }
+    },
     "1SASFjVaIF": {
         "id": "1SASFjVaIF",
         "title": "Аэлита",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 53
-        }
-    },
-    "24i8xspknv": {
-        "id": "24i8xspknv",
-        "title": "Sapiens: A Brief History of Humankind",
-        "author": "Yuval Noah Harari",
-        "notes": "Amazon\nASIN: B00ICN066A",
-        "createdAt": "2018-09-02 17:36:47",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 82
         }
     }
 }

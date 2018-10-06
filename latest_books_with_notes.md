@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Письма к друзьям ~ [Apprentice ](users/528/52821952-vkontakte)<sup>94</sup>
 * Аэлита ~ [kissamasya](users/684/68439978-vkontakte)<sup>41</sup>
 * Хочу и буду ~ [Garka](users/115/115753719718250012620-google)<sup>195</sup>
 * Ничего святого ~ [exulted](users/100/100599204551896265722-google)<sup>85</sup>
@@ -30,7 +31,6 @@
 * Осиная фабрика ~ [Saamy](users/115/115226508-vkontakte)<sup>55</sup>
 * Двойной язык ~ [Saamy](users/115/115226508-vkontakte)<sup>54</sup>
 * Владимир, или Прерванный полет ~ [Saamy](users/115/115226508-vkontakte)<sup>53</sup>
-* Sapiens: A Brief History of Humankind ~ [exulted](users/100/100599204551896265722-google)<sup>82</sup>
 
 
-_05.10.2018 09:15:47_
+_06.10.2018 07:09:28_

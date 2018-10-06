@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>93</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>94</sup>
 ---
 
 ## 2018
+
+### Письма к друзьям
+Винсент Ван Гог
+> [2018-10-05] 9/10
+
 
 ### Лунный камень
 Уилки Коллинз

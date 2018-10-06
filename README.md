@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Письма к друзьям ~ [Apprentice ](users/528/52821952-vkontakte)<sup>94</sup>
+    > 9/10
+
 * Аэлита ~ [kissamasya](users/684/68439978-vkontakte)<sup>41</sup>
     > Земляне попадают на Марс, обнаруживают там цивилизацию гуманоидов и становятся катализаторами социального взрыва. Дочь главы Высшего совета Аэлита влюбляется в земного инженера. Однако спровоцированная землянами революция терпит поражение, и они возвращаются на Землю.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Никогда не читала книги по психологии, различные тренинги и прочее "поверь в себя, будь счастлив, как стать богатым". Эту книгу посоветовала подруга, решила почитать и обалдела. Реально интересно, просто и по делу написано. Рекомендую к прочтению всем: и тем кто хочет что-то поменять в жизни, но не знает как; и тем у кого реальные проблемы; и тем у кого все отлично - последнем просто для порции позитива
 
 * Ничего святого ~ [exulted](users/100/100599204551896265722-google)<sup>85</sup>
-    > ISBN: 978-5-17-071215-1, 978-5-271-32295-2
 
 * Мастер и Маргарита ~ [Garka](users/115/115753719718250012620-google)<sup>194</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Air America ~ [exulted](users/100/100599204551896265722-google)<sup>84</sup>
 
-* 48 законов власти ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>94</sup> 
 [](users/115/115826717712507836033-google)<sup>125</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>41</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>10</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shishkinmark](users/270/2709231-vkontakte)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>15</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup> 
-[nadya_aksenova](users/295/295951913-vkontakte)<sup>0</sup> 
 
 
-_05.10.2018 17:12:24_
+_06.10.2018 07:09:28_

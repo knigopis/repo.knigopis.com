@@ -1,4 +1,16 @@
 {
+    "_GS5VW9Mf7": {
+        "id": "_GS5VW9Mf7",
+        "title": "Письма к друзьям",
+        "author": "Винсент Ван Гог",
+        "notes": "9/10",
+        "createdAt": "2018-10-06 07:09:28",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 94
+        }
+    },
     "BuKjTtmho0": {
         "id": "BuKjTtmho0",
         "title": "Роза",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 59
-        }
-    },
-    "U7rxvdAsfr": {
-        "id": "U7rxvdAsfr",
-        "title": "Путешествия Лемюэля Гулливера",
-        "author": "Джонатан Свифт",
-        "notes": "",
-        "createdAt": "2018-09-29 14:39:02",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 58
         }
     }
 }
