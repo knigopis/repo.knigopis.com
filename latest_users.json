@@ -1,4 +1,10 @@
 {
+    "15641244064688722584-mailru": {
+        "id": "15641244064688722584-mailru",
+        "nickname": "mgirl1994@mail.ru",
+        "booksCount": 3,
+        "updatedAt": "2018-10-06 20:07:19"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "darb_el",
         "booksCount": 15,
         "updatedAt": "2018-09-27 05:55:37"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 182,
-        "updatedAt": "2018-09-26 23:15:09"
     }
 }

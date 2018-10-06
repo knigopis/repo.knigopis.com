@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Брошенная в бездну ~ [mgirl1994@mail.ru](users/156/15641244064688722584-mailru)<sup>3</sup>
 * Письма к друзьям ~ [Apprentice ](users/528/52821952-vkontakte)<sup>94</sup>
 * Аэлита ~ [kissamasya](users/684/68439978-vkontakte)<sup>41</sup>
 * Хочу и буду ~ [Garka](users/115/115753719718250012620-google)<sup>195</sup>
@@ -30,7 +31,6 @@
 * Тайна выеденного яйца, или Смерть Шалтая ~ [Saamy](users/115/115226508-vkontakte)<sup>56</sup>
 * Осиная фабрика ~ [Saamy](users/115/115226508-vkontakte)<sup>55</sup>
 * Двойной язык ~ [Saamy](users/115/115226508-vkontakte)<sup>54</sup>
-* Владимир, или Прерванный полет ~ [Saamy](users/115/115226508-vkontakte)<sup>53</sup>
 
 
-_06.10.2018 07:09:28_
+_06.10.2018 20:07:19_
