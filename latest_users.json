@@ -1,4 +1,10 @@
 {
+    "106794273725577737811-googleplus": {
+        "id": "106794273725577737811-googleplus",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2018-10-06 21:07:41"
+    },
     "15641244064688722584-mailru": {
         "id": "15641244064688722584-mailru",
         "nickname": "mgirl1994@mail.ru",
@@ -172,11 +178,5 @@
         "nickname": "shishkinmark",
         "booksCount": 0,
         "updatedAt": "2018-09-27 11:13:02"
-    },
-    "184135339-vkontakte": {
-        "id": "184135339-vkontakte",
-        "nickname": "darb_el",
-        "booksCount": 15,
-        "updatedAt": "2018-09-27 05:55:37"
     }
 }
