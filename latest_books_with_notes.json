@@ -1,4 +1,16 @@
 {
+    "3V4wnR7sUZ": {
+        "id": "3V4wnR7sUZ",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "10 из 10",
+        "createdAt": "2018-10-07 18:37:45",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 47
+        }
+    },
     "6laNPx9o85": {
         "id": "6laNPx9o85",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 56
-        }
-    },
-    "JPwtlEvs3z": {
-        "id": "JPwtlEvs3z",
-        "title": "Осиная фабрика",
-        "author": "Иэн Бэнкс",
-        "notes": "Книга с ошеломляющим концом и не самым приятным сюжетом. Где-то мне было даже мерзко читать",
-        "createdAt": "2018-09-02 20:19:30",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 55
         }
     }
 }

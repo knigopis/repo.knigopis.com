@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 1984 ~ [violet_velva](users/116/116961712580551399099-google)<sup>47</sup>
 * Маленький принц ~ [kissamasya](users/684/68439978-vkontakte)<sup>42</sup>
 * Брошенная в бездну ~ [mgirl1994@mail.ru](users/156/15641244064688722584-mailru)<sup>3</sup>
 * Письма к друзьям ~ [Apprentice ](users/528/52821952-vkontakte)<sup>94</sup>
@@ -30,7 +31,6 @@
 * Баяндин Анатолий Денисович ~ [exulted](users/100/100599204551896265722-google)<sup>83</sup>
 * Секреты спокойствия "ленивой мамы" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
 * Тайна выеденного яйца, или Смерть Шалтая ~ [Saamy](users/115/115226508-vkontakte)<sup>56</sup>
-* Осиная фабрика ~ [Saamy](users/115/115226508-vkontakte)<sup>55</sup>
 
 
-_07.10.2018 09:53:13_
+_07.10.2018 18:37:45_

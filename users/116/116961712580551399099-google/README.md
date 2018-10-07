@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>46</sup>
+# List of books read by violet_velva<sup>47</sup>
 ---
 
 ## 2018
+
+### 1984
+Джордж Оруэлл
+> [2018-09] 10 из 10
+
 
 ### Похождения бравого солдата Швейка
 Ярослав Гашек

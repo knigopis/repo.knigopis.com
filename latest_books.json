@@ -1,4 +1,16 @@
 {
+    "3V4wnR7sUZ": {
+        "id": "3V4wnR7sUZ",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "10 из 10",
+        "createdAt": "2018-10-07 18:37:45",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 47
+        }
+    },
     "6laNPx9o85": {
         "id": "6laNPx9o85",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 64
-        }
-    },
-    "AiSh5cUe2Z": {
-        "id": "AiSh5cUe2Z",
-        "title": "Алые паруса",
-        "author": "Александр Грин",
-        "notes": "",
-        "createdAt": "2018-09-29 15:00:25",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 63
         }
     }
 }
