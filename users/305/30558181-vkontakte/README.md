@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>158</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>159</sup>
 ---
 
 ## 2018
+
+### Harry Potter and the Sorcerer's Stone
+Джоан Роулинг
+> [2018-09-28] 
+
 
 ### Жареные зеленые помидоры в кафе «Полустанок»
 Фэнни Флэгг

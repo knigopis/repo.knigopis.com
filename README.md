@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>159</sup> 
 [](users/106/106794273725577737811-googleplus)<sup>0</sup> 
 [mgirl1994@mail.ru](users/156/15641244064688722584-mailru)<sup>3</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>47</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nitrin_x](users/122/122404030-vkontakte)<sup>0</sup> 
 [uvertura88](users/514/5146266-vkontakte)<sup>0</sup> 
 [Amberkit](users/226/2262103690484511-facebook)<sup>0</sup> 
-[shishkinmark](users/270/2709231-vkontakte)<sup>0</sup> 
 
 
-_06.10.2018 21:07:44_
+_07.10.2018 05:43:04_

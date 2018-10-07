@@ -1,4 +1,16 @@
 {
+    "qv1bDVzifx": {
+        "id": "qv1bDVzifx",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2018-10-07 05:43:03",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 159
+        }
+    },
     "h-jdy-lnzm": {
         "id": "h-jdy-lnzm",
         "title": "Брошенная в бездну",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 62
-        }
-    },
-    "uDGZidgVXe": {
-        "id": "uDGZidgVXe",
-        "title": "Белый Клык",
-        "author": "Джек Лондон",
-        "notes": "Книга рассказывает о судьбе прирученного волка во время золотой лихорадки на Аляске в конце XIX века. При этом довольно большая часть произведения показана глазами животных и, в частности, самого Белого Клыка. В повести описывается разное поведение и отношение людей к животным.",
-        "createdAt": "2018-09-29 14:44:03",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 61
         }
     }
 }
