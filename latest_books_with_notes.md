@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Маленький принц ~ [kissamasya](users/684/68439978-vkontakte)<sup>42</sup>
 * Брошенная в бездну ~ [mgirl1994@mail.ru](users/156/15641244064688722584-mailru)<sup>3</sup>
 * Письма к друзьям ~ [Apprentice ](users/528/52821952-vkontakte)<sup>94</sup>
 * Аэлита ~ [kissamasya](users/684/68439978-vkontakte)<sup>41</sup>
@@ -30,7 +31,6 @@
 * Секреты спокойствия "ленивой мамы" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
 * Тайна выеденного яйца, или Смерть Шалтая ~ [Saamy](users/115/115226508-vkontakte)<sup>56</sup>
 * Осиная фабрика ~ [Saamy](users/115/115226508-vkontakte)<sup>55</sup>
-* Двойной язык ~ [Saamy](users/115/115226508-vkontakte)<sup>54</sup>
 
 
-_06.10.2018 20:07:19_
+_07.10.2018 09:53:13_
