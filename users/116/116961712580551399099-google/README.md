@@ -1,7 +1,14 @@
-# List of books read by violet_velva<sup>47</sup>
+# List of books read by violet_velva<sup>48</sup>
 ---
 
 ## 2018
+
+### Кошки
+Дорис Лессинг
+> [2018-09] О кошках подробно
+> Руфус, который выжил
+> Вельможа в старости
+
 
 ### 1984
 Джордж Оруэлл
