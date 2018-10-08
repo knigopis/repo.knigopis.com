@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 34,
+        "updatedAt": "2018-10-08 17:41:27"
+    },
     "109779224099137306597-google": {
         "id": "109779224099137306597-google",
         "nickname": "Камушек",
@@ -172,11 +178,5 @@
         "nickname": "Svecha",
         "booksCount": 30,
         "updatedAt": "2018-09-28 14:56:33"
-    },
-    "122404030-vkontakte": {
-        "id": "122404030-vkontakte",
-        "nickname": "nitrin_x",
-        "booksCount": 0,
-        "updatedAt": "2018-09-28 12:10:17"
     }
 }
