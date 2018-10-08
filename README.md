@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>66</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>48</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>159</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>52</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>129</sup> 
 [Tuganatuga](users/596/59644626-vkontakte)<sup>0</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>65</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>119</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>64</sup> 
 [lelsteny](users/163/163047065-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [uvertura88](users/514/5146266-vkontakte)<sup>0</sup> 
 
 
-_07.10.2018 18:38:39_
+_08.10.2018 11:16:10_

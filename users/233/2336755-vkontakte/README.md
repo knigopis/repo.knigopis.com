@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>65</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>66</sup>
 ---
 
 ## 2018
+
+### Чужекровка
+Аффинити Конар
+> [2018-10-07] 
+
 
 ### Сильмариллион
 Джон Р. Р. Толкин
