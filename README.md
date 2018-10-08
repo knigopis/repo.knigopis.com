@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Камушек](users/109/109779224099137306597-google)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>66</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>48</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/140/140020294-vkontakte)<sup>2</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>30</sup> 
 [nitrin_x](users/122/122404030-vkontakte)<sup>0</sup> 
-[uvertura88](users/514/5146266-vkontakte)<sup>0</sup> 
 
 
-_08.10.2018 11:16:10_
+_08.10.2018 15:08:06_
