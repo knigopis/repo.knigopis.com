@@ -1,4 +1,10 @@
 {
+    "109779224099137306597-google": {
+        "id": "109779224099137306597-google",
+        "nickname": "Камушек",
+        "booksCount": 0,
+        "updatedAt": "2018-10-08 15:08:00"
+    },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
         "nickname": "katrinvredina",
@@ -172,11 +178,5 @@
         "nickname": "nitrin_x",
         "booksCount": 0,
         "updatedAt": "2018-09-28 12:10:17"
-    },
-    "5146266-vkontakte": {
-        "id": "5146266-vkontakte",
-        "nickname": "uvertura88",
-        "booksCount": 0,
-        "updatedAt": "2018-09-28 11:35:03"
     }
 }
