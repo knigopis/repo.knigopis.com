@@ -68,6 +68,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Andrej](users/652/65291742-vkontakte)<sup>0</sup> 
 [williams_ro](users/304/304635299-vkontakte)<sup>3</sup> 
 [batman230299](users/144/144443310-vkontakte)<sup>0</sup> 
 [black2018](users/248/24828980-yandex)<sup>0</sup> 
@@ -97,7 +98,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>119</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>64</sup> 
 [lelsteny](users/163/163047065-vkontakte)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>330</sup> 
 
 
-_09.10.2018 19:08:29_
+_09.10.2018 19:25:54_
