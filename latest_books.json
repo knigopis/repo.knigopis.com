@@ -1,4 +1,16 @@
 {
+    "QkCOFgtLK1": {
+        "id": "QkCOFgtLK1",
+        "title": "она и он",
+        "author": "марк леви",
+        "notes": "",
+        "createdAt": "2018-10-09 19:07:34",
+        "user": {
+            "id": "304635299-vkontakte",
+            "nickname": "williams_ro",
+            "booksCount": 2
+        }
+    },
     "tPFXYKkyoK": {
         "id": "tPFXYKkyoK",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 129
-        }
-    },
-    "UL7_aiqwJC": {
-        "id": "UL7_aiqwJC",
-        "title": "Сильмариллион",
-        "author": "Джон Р. Р. Толкин",
-        "notes": "",
-        "createdAt": "2018-09-30 17:33:29",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 65
         }
     }
 }
