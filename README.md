@@ -68,6 +68,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[black2018](users/248/24828980-yandex)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>34</sup> 
 [Камушек](users/109/109779224099137306597-google)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>66</sup> 
@@ -97,7 +98,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>330</sup> 
 [Татьяна](users/114/114821747301663688800-google)<sup>1</sup> 
 [](users/140/140020294-vkontakte)<sup>2</sup> 
-[Svecha](users/118/118041836581529110049-google)<sup>30</sup> 
 
 
-_08.10.2018 17:41:27_
+_09.10.2018 08:01:39_
