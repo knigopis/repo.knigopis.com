@@ -1,4 +1,10 @@
 {
+    "144443310-vkontakte": {
+        "id": "144443310-vkontakte",
+        "nickname": "batman230299",
+        "booksCount": 0,
+        "updatedAt": "2018-10-09 10:16:41"
+    },
     "24828980-yandex": {
         "id": "24828980-yandex",
         "nickname": "black2018",
@@ -172,11 +178,5 @@
         "nickname": "Татьяна",
         "booksCount": 1,
         "updatedAt": "2018-09-28 21:03:23"
-    },
-    "140020294-vkontakte": {
-        "id": "140020294-vkontakte",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2018-09-28 16:49:48"
     }
 }
