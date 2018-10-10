@@ -1,7 +1,12 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>10</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>11</sup>
 ---
 
 ## 2018
+
+### Вы просто ему не нравитесь: вся правда о мужчинах
+БЕРЕНДТ Грег, ТУЧЧИЛЛО Лиз
+> [2018-10-10] 
+
 
 ### Как правильно ошибаться. Большая книга мануалов
 КЕТРО Марта

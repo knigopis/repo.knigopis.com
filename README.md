@@ -68,6 +68,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>11</sup> 
 [Andrej](users/652/65291742-vkontakte)<sup>0</sup> 
 [williams_ro](users/304/304635299-vkontakte)<sup>3</sup> 
 [batman230299](users/144/144443310-vkontakte)<sup>0</sup> 
@@ -83,7 +84,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>47</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>94</sup> 
 [](users/115/115826717712507836033-google)<sup>125</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>10</sup> 
 [volodya130994](users/392/39260715-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>195</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>85</sup> 
@@ -100,4 +100,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lelsteny](users/163/163047065-vkontakte)<sup>0</sup> 
 
 
-_09.10.2018 19:25:54_
+_10.10.2018 06:03:03_
