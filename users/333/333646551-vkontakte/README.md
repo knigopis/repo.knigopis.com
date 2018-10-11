@@ -1,7 +1,12 @@
-# List of books read by [En](http://vk.com/id333646551)<sup>52</sup>
+# List of books read by [En](http://vk.com/id333646551)<sup>53</sup>
 ---
 
 ## 2018
+
+### Звезды - холодные игрушки
+Лукьяненко
+> [2018-10-01] 
+
 
 ### Атомный сон
 Лукьяненко

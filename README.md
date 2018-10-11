@@ -68,6 +68,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>53</sup> 
 [idkismrr](users/138/138871653-vkontakte)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
 [servl](users/169/169209490-vkontakte)<sup>0</sup> 
@@ -95,9 +96,8 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>137</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>67</sup> 
 [i.hamatshin1](users/348/348527473-vkontakte)<sup>1</sup> 
-[En](users/333/333646551-vkontakte)<sup>52</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>129</sup> 
 [Tuganatuga](users/596/59644626-vkontakte)<sup>0</sup> 
 
 
-_11.10.2018 12:46:50_
+_11.10.2018 15:18:05_
