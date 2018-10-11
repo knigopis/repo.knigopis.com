@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хиппи ~ [youno](users/302/302928912-vkontakte)<sup>16</sup>
 * 🧙🏻‍♂️Гарри Поттер и узник Азкабана ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>48</sup>
 * Дьявол среди людей ~ [En](users/333/333646551-vkontakte)<sup>54</sup>
 * За закрытыми дверями ~ [kissamasya](users/684/68439978-vkontakte)<sup>42</sup>
@@ -30,7 +31,6 @@
 * Запретная археология ~ [Garka](users/115/115753719718250012620-google)<sup>192</sup>
 * Охота на овец ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>56</sup>
 * Чашка Цукаты ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
-* Лето, прощай ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup>
 
 
-_11.10.2018 16:35:12_
+_11.10.2018 18:26:36_

@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 16,
+        "updatedAt": "2018-10-11 18:26:36"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "Lost in Frost",
         "booksCount": 129,
         "updatedAt": "2018-10-01 06:06:19"
-    },
-    "59644626-vkontakte": {
-        "id": "59644626-vkontakte",
-        "nickname": "Tuganatuga",
-        "booksCount": 0,
-        "updatedAt": "2018-10-01 05:30:39"
     }
 }
