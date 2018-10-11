@@ -1,4 +1,16 @@
 {
+    "RNXRmaoJ94": {
+        "id": "RNXRmaoJ94",
+        "title": "волшебный корабль",
+        "author": "Робин Хобб",
+        "notes": "",
+        "createdAt": "2018-10-11 12:46:50",
+        "user": {
+            "id": "138871653-vkontakte",
+            "nickname": "idkismrr",
+            "booksCount": 1
+        }
+    },
     "y52AXZ1CfE": {
         "id": "y52AXZ1CfE",
         "title": "За закрытыми дверями",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 137
-        }
-    },
-    "OQIECBLHSD": {
-        "id": "OQIECBLHSD",
-        "title": "Обитаемый остров",
-        "author": "Братья Стругацкие",
-        "notes": "",
-        "createdAt": "2018-10-02 06:34:35",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 67
         }
     }
 }
