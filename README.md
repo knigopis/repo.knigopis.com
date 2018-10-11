@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ryaboy](users/221/2211667252441320-facebook)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>16</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>48</sup> 
 [En](users/333/333646551-vkontakte)<sup>54</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>137</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>67</sup> 
 [i.hamatshin1](users/348/348527473-vkontakte)<sup>1</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>129</sup> 
 
 
-_11.10.2018 18:26:36_
+_11.10.2018 20:10:25_
