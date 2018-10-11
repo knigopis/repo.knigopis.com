@@ -68,6 +68,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[servl](users/169/169209490-vkontakte)<sup>0</sup> 
 [vlater](users/323/3237887-vkontakte)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>11</sup> 
 [Andrej](users/652/65291742-vkontakte)<sup>0</sup> 
@@ -97,7 +98,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>129</sup> 
 [Tuganatuga](users/596/59644626-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>119</sup> 
-[Vladas](users/107/107621344637148469804-google)<sup>64</sup> 
 
 
-_10.10.2018 11:53:38_
+_11.10.2018 03:43:27_
