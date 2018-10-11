@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дьявол среди людей ~ [En](users/333/333646551-vkontakte)<sup>54</sup>
 * За закрытыми дверями ~ [kissamasya](users/684/68439978-vkontakte)<sup>42</sup>
 * Родимый Край 1960-1963 ~ [mfevralev](users/140/140966150-vkontakte)<sup>34</sup>
 * Кошки ~ [violet_velva](users/116/116961712580551399099-google)<sup>48</sup>
@@ -30,7 +31,6 @@
 * Чашка Цукаты ~ [mfevralev](users/140/140966150-vkontakte)<sup>33</sup>
 * Лето, прощай ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>11</sup>
 * Таинственная история Билли Миллигана ~ [anvonamore](users/595/5957175-vkontakte)<sup>118</sup>
-* Прощание с Матёрой ~ [lucius](users/838/83820536-yandex)<sup>147</sup>
 
 
-_11.10.2018 12:02:31_
+_11.10.2018 15:20:29_
