@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ryaboy](users/221/2211667252441320-facebook)<sup>1</sup> 
+[ryaboy](users/221/2211667252441320-facebook)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>16</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>48</sup> 
 [En](users/333/333646551-vkontakte)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [i.hamatshin1](users/348/348527473-vkontakte)<sup>1</sup> 
 
 
-_11.10.2018 20:14:09_
+_11.10.2018 20:16:53_
