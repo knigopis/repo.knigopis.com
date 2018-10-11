@@ -68,6 +68,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>41</sup> 
 [servl](users/169/169209490-vkontakte)<sup>0</sup> 
 [vlater](users/323/3237887-vkontakte)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>11</sup> 
@@ -79,7 +80,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Камушек](users/109/109779224099137306597-google)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>66</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>48</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>159</sup> 
 [](users/106/106794273725577737811-googleplus)<sup>0</sup> 
 [mgirl1994@mail.ru](users/156/15641244064688722584-mailru)<sup>3</sup> 
@@ -100,4 +100,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>119</sup> 
 
 
-_11.10.2018 03:43:27_
+_11.10.2018 12:00:31_
