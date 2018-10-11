@@ -1,4 +1,10 @@
 {
+    "169209490-vkontakte": {
+        "id": "169209490-vkontakte",
+        "nickname": "servl",
+        "booksCount": 0,
+        "updatedAt": "2018-10-11 03:43:19"
+    },
     "3237887-vkontakte": {
         "id": "3237887-vkontakte",
         "nickname": "vlater",
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 119,
         "updatedAt": "2018-09-29 18:04:47"
-    },
-    "107621344637148469804-google": {
-        "id": "107621344637148469804-google",
-        "nickname": "Vladas",
-        "booksCount": 64,
-        "updatedAt": "2018-09-29 15:03:43"
     }
 }
