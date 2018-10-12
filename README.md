@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Главные секреты абсолютной уверенности в себе ~ [elena-gagina2014](users/208/208969292-yandex)<sup>4</sup>
+    > прочитать еще раз позже, интересные мысли автора
+
 * Хиппи ~ [youno](users/302/302928912-vkontakte)<sup>16</sup>
     > Заключительная часть ничего такая, а в целом - слабо.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Лучшая книга серии!
 
 * Дьявол среди людей ~ [En](users/333/333646551-vkontakte)<sup>54</sup>
-    > книга о последствиях войны для людей и конкретного человека
 
 * За закрытыми дверями ~ [kissamasya](users/684/68439978-vkontakte)<sup>42</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Брошенная в бездну ~ [mgirl1994@mail.ru](users/156/15641244064688722584-mailru)<sup>3</sup>
 
-* Письма к друзьям ~ [Apprentice ](users/528/52821952-vkontakte)<sup>94</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[elena-gagina2014](users/208/208969292-yandex)<sup>3</sup> 
+[elena-gagina2014](users/208/208969292-yandex)<sup>4</sup> 
 [ryaboy](users/221/2211667252441320-facebook)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>16</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>48</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>67</sup> 
 
 
-_12.10.2018 11:54:23_
+_12.10.2018 11:55:19_

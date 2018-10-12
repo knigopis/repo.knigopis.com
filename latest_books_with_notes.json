@@ -1,4 +1,16 @@
 {
+    "ix0iYEb6W5": {
+        "id": "ix0iYEb6W5",
+        "title": "Главные секреты абсолютной уверенности в себе",
+        "author": "Роберт Энтони",
+        "notes": "прочитать еще раз позже, интересные мысли автора",
+        "createdAt": "2018-10-12 11:55:19",
+        "user": {
+            "id": "208969292-yandex",
+            "nickname": "elena-gagina2014",
+            "booksCount": 4
+        }
+    },
     "f7nqNy2uPc": {
         "id": "f7nqNy2uPc",
         "title": "Хиппи",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 56
-        }
-    },
-    "kPWSLF5Gdo": {
-        "id": "kPWSLF5Gdo",
-        "title": "Чашка Цукаты",
-        "author": "А.Домбровский",
-        "notes": "Хорошая книга.",
-        "createdAt": "2018-09-10 13:27:59",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 33
         }
     }
 }
