@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Stacy](users/309/30902475-vkontakte)<sup>0</sup> 
+[Stacy](users/309/30902475-vkontakte)<sup>1</sup> 
 [eldar@unie.kz](users/113/1130000026816813-yandex)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>5</sup> 
 [ryaboy](users/221/2211667252441320-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>18</sup> 
 
 
-_12.10.2018 19:17:54_
+_12.10.2018 19:21:29_
