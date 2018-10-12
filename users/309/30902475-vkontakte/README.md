@@ -1,5 +1,12 @@
-# List of books read by [Stacy](http://vk.com/id30902475)<sup>1</sup>
+# List of books read by [Stacy](http://vk.com/id30902475)<sup>2</sup>
 ---
+
+## 2018
+
+Анджей Сапковский
+> [2018-10] «Сезон гроз»
+
+
 
 ## 2017
 
