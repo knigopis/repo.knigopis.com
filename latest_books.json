@@ -1,4 +1,16 @@
 {
+    "XyR7MlO4F6": {
+        "id": "XyR7MlO4F6",
+        "title": "Мужчины с Марса, Женщины с Венеры",
+        "author": "Джон Грэй",
+        "notes": "",
+        "createdAt": "2018-10-12 11:56:19",
+        "user": {
+            "id": "208969292-yandex",
+            "nickname": "elena-gagina2014",
+            "booksCount": 5
+        }
+    },
     "ix0iYEb6W5": {
         "id": "ix0iYEb6W5",
         "title": "Главные секреты абсолютной уверенности в себе",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 41
-        }
-    },
-    "1N0r9xFYic": {
-        "id": "1N0r9xFYic",
-        "title": "История банковского и биржевого дела",
-        "author": "Соколов Е.",
-        "notes": "",
-        "createdAt": "2018-10-05 08:18:52",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 43
         }
     }
 }
