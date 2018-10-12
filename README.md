@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[elena-gagina2014](users/208/208969292-yandex)<sup>3</sup> 
 [ryaboy](users/221/2211667252441320-facebook)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>16</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>48</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>18</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>137</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>67</sup> 
-[i.hamatshin1](users/348/348527473-vkontakte)<sup>1</sup> 
 
 
-_11.10.2018 20:16:53_
+_12.10.2018 11:54:23_

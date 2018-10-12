@@ -1,4 +1,16 @@
 {
+    "Odt37CCL2v": {
+        "id": "Odt37CCL2v",
+        "title": "Луна над Каролиной",
+        "author": "Нора Робертс",
+        "notes": "",
+        "createdAt": "2018-10-12 11:54:23",
+        "user": {
+            "id": "208969292-yandex",
+            "nickname": "elena-gagina2014",
+            "booksCount": 3
+        }
+    },
     "8COQRkpdTv": {
         "id": "8COQRkpdTv",
         "title": "Стрелок",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 43
-        }
-    },
-    "JKVvkdlae4": {
-        "id": "JKVvkdlae4",
-        "title": "Как правильно ошибаться. Большая книга мануалов",
-        "author": "КЕТРО Марта",
-        "notes": "",
-        "createdAt": "2018-10-04 06:46:32",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 10
         }
     }
 }

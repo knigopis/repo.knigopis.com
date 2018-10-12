@@ -1,4 +1,10 @@
 {
+    "208969292-yandex": {
+        "id": "208969292-yandex",
+        "nickname": "elena-gagina2014",
+        "booksCount": 3,
+        "updatedAt": "2018-10-12 11:54:23"
+    },
     "2211667252441320-facebook": {
         "id": "2211667252441320-facebook",
         "nickname": "ryaboy",
@@ -172,11 +178,5 @@
         "nickname": "ODINSY",
         "booksCount": 67,
         "updatedAt": "2018-10-02 06:34:35"
-    },
-    "348527473-vkontakte": {
-        "id": "348527473-vkontakte",
-        "nickname": "i.hamatshin1",
-        "booksCount": 1,
-        "updatedAt": "2018-10-01 20:53:46"
     }
 }
