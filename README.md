@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Внимание: Ахи! ~ [Vladas](users/107/107621344637148469804-google)<sup>68</sup>
+    > Фантастические памфлеты, пародии, юморески. М., Молодая гвардия, 1970 Серия "Библиотека советской фантастики".
+    > В сборник входят разделы "Дешёвая распродажа", "Из невыдуманных рассказов заслуженного водителя времяходов дальнего следования Николая Ложкина", Как погасло солнце, или История тысячелетней диктатории Огогондии, которая существовала 13 лет, 5 месяцев, 7 дней".
+
 * Открытое пространство ~ [Vladas](users/107/107621344637148469804-google)<sup>67</sup>
     > Стихи. М. Советский писатель, 1980, 152 с.
     > Сборник выдающегося петербургского поэта и переводчика. 
@@ -14,7 +18,6 @@ Do not use pull requests to make changes here.
     > Повести и рассказы. М. Художественная литература. Серия: "Классики и современники".
 
 * Главные секреты абсолютной уверенности в себе ~ [elena-gagina2014](users/208/208969292-yandex)<sup>4</sup>
-    > прочитать еще раз позже, интересные мысли автора
 
 * Хиппи ~ [youno](users/302/302928912-vkontakte)<sup>16</sup>
 
@@ -28,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Кошки ~ [violet_velva](users/116/116961712580551399099-google)<sup>48</sup>
 
-* 1984 ~ [violet_velva](users/116/116961712580551399099-google)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Vladas](users/107/107621344637148469804-google)<sup>67</sup> 
+[Vladas](users/107/107621344637148469804-google)<sup>68</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>2</sup> 
 [eldar@unie.kz](users/113/1130000026816813-yandex)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>5</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [wonhosha](users/623/62393441-vkontakte)<sup>0</sup> 
 
 
-_13.10.2018 14:25:40_
+_13.10.2018 14:30:24_

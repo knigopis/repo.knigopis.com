@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Внимание: Ахи! ~ [Vladas](users/107/107621344637148469804-google)<sup>68</sup>
 * Открытое пространство ~ [Vladas](users/107/107621344637148469804-google)<sup>67</sup>
 * Очарованный странник ~ [Vladas](users/107/107621344637148469804-google)<sup>66</sup>
 * Главные секреты абсолютной уверенности в себе ~ [elena-gagina2014](users/208/208969292-yandex)<sup>4</sup>
@@ -30,7 +31,6 @@
 * Baśnie ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
 * Скотный двор ~ [violet_velva](users/116/116961712580551399099-google)<sup>46</sup>
 * Похождения бравого солдата Швейка ~ [violet_velva](users/116/116961712580551399099-google)<sup>45</sup>
-* Путь князя ~ [Chiffi](users/105/105831994080785626680-google)<sup>75</sup>
 
 
-_13.10.2018 14:25:40_
+_13.10.2018 14:30:24_
