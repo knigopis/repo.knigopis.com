@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[playmaker](users/102/102577946792501089209-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>196</sup> 
 [synthesist](users/117/117240097965375539693-google)<sup>2</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>68</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>94</sup> 
 [](users/115/115826717712507836033-google)<sup>125</sup> 
 [volodya130994](users/392/39260715-vkontakte)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>85</sup> 
 
 
-_13.10.2018 16:10:51_
+_13.10.2018 17:01:19_
