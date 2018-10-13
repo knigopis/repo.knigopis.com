@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[synthesist](users/117/117240097965375539693-google)<sup>1</sup> 
+[synthesist](users/117/117240097965375539693-google)<sup>2</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>68</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>2</sup> 
 [eldar@unie.kz](users/113/1130000026816813-yandex)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>85</sup> 
 
 
-_13.10.2018 14:51:52_
+_13.10.2018 14:54:36_

@@ -1,4 +1,16 @@
 {
+    "fF9BAoNO7n": {
+        "id": "fF9BAoNO7n",
+        "title": "test",
+        "author": "test",
+        "notes": "test",
+        "createdAt": "2018-10-13 14:54:36",
+        "user": {
+            "id": "117240097965375539693-google",
+            "nickname": "synthesist",
+            "booksCount": 2
+        }
+    },
     "hv11Num7ve": {
         "id": "hv11Num7ve",
         "title": "Jack London",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 47
-        }
-    },
-    "_GS5VW9Mf7": {
-        "id": "_GS5VW9Mf7",
-        "title": "Письма к друзьям",
-        "author": "Винсент Ван Гог",
-        "notes": "9/10",
-        "createdAt": "2018-10-06 07:09:28",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 94
         }
     }
 }
