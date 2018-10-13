@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Крестный отец ~ [Garka](users/115/115753719718250012620-google)<sup>196</sup>
 * Внимание: Ахи! ~ [Vladas](users/107/107621344637148469804-google)<sup>68</sup>
 * Открытое пространство ~ [Vladas](users/107/107621344637148469804-google)<sup>67</sup>
 * Очарованный странник ~ [Vladas](users/107/107621344637148469804-google)<sup>66</sup>
@@ -30,7 +31,6 @@
 * Skarbiec najpiękniejszych baśni ~ [EsterHani](users/305/30558181-vkontakte)<sup>156</sup>
 * Baśnie ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
 * Скотный двор ~ [violet_velva](users/116/116961712580551399099-google)<sup>46</sup>
-* Похождения бравого солдата Швейка ~ [violet_velva](users/116/116961712580551399099-google)<sup>45</sup>
 
 
-_13.10.2018 14:30:24_
+_13.10.2018 16:10:51_
