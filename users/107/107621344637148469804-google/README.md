@@ -1,4 +1,4 @@
-# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>64</sup>
+# List of books read by [Vladas](https://plus.google.com/107621344637148469804)<sup>65</sup>
 ---
 
 ## 2018
@@ -17,6 +17,13 @@
 
 ### На Садовой большое движение
 Виктор Драгунский
+
+
+
+## 1998
+
+### Мастер и Маргарита
+Михаил Булгаков
 
 
 

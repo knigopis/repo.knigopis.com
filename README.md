@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Vladas](users/107/107621344637148469804-google)<sup>65</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>2</sup> 
 [eldar@unie.kz](users/113/1130000026816813-yandex)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>195</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>85</sup> 
 [wonhosha](users/623/62393441-vkontakte)<sup>0</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>18</sup> 
 
 
-_12.10.2018 19:24:26_
+_13.10.2018 14:18:02_

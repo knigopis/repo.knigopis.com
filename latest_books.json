@@ -1,4 +1,16 @@
 {
+    "0MmDzT6kMG": {
+        "id": "0MmDzT6kMG",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2018-10-13 14:18:02",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 65
+        }
+    },
     "bURlMbjYfX": {
         "id": "bURlMbjYfX",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 122
-        }
-    },
-    "8fzKPITZDD": {
-        "id": "8fzKPITZDD",
-        "title": "Афганочка",
-        "author": "Д. Драгунский",
-        "notes": "",
-        "createdAt": "2018-10-05 17:07:41",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 121
         }
     }
 }
