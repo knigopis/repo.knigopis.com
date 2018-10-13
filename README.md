@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Очарованный странник ~ [Vladas](users/107/107621344637148469804-google)<sup>66</sup>
+    > Повести и рассказы. М. Художественная литература. Серия: "Классики и современники".
+
 * Главные секреты абсолютной уверенности в себе ~ [elena-gagina2014](users/208/208969292-yandex)<sup>4</sup>
     > прочитать еще раз позже, интересные мысли автора
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Заключительная часть ничего такая, а в целом - слабо.
 
 * 🧙🏻‍♂️Гарри Поттер и узник Азкабана ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>48</sup>
-    > Лучшая книга серии!
 
 * Дьявол среди людей ~ [En](users/333/333646551-vkontakte)<sup>54</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Маленький принц ~ [kissamasya](users/684/68439978-vkontakte)<sup>42</sup>
 
-* Брошенная в бездну ~ [mgirl1994@mail.ru](users/156/15641244064688722584-mailru)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Vladas](users/107/107621344637148469804-google)<sup>65</sup> 
+[Vladas](users/107/107621344637148469804-google)<sup>66</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>2</sup> 
 [eldar@unie.kz](users/113/1130000026816813-yandex)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>5</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [wonhosha](users/623/62393441-vkontakte)<sup>0</sup> 
 
 
-_13.10.2018 14:18:02_
+_13.10.2018 14:19:54_

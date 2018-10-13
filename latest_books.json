@@ -1,4 +1,16 @@
 {
+    "MRhKeX9NnB": {
+        "id": "MRhKeX9NnB",
+        "title": "Очарованный странник",
+        "author": "Н.С. Лесков",
+        "notes": "Повести и рассказы. М. Художественная литература. Серия: \"Классики и современники\".",
+        "createdAt": "2018-10-13 14:19:54",
+        "user": {
+            "id": "107621344637148469804-google",
+            "nickname": "Vladas",
+            "booksCount": 66
+        }
+    },
     "0MmDzT6kMG": {
         "id": "0MmDzT6kMG",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 123
-        }
-    },
-    "qhwkj0N_um": {
-        "id": "qhwkj0N_um",
-        "title": "Бабель в Париже",
-        "author": "Е. Шкловский",
-        "notes": "",
-        "createdAt": "2018-10-05 17:08:49",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 122
         }
     }
 }
