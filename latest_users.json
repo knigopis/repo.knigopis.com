@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 86,
+        "updatedAt": "2018-10-15 07:35:47"
+    },
     "102577946792501089209-google": {
         "id": "102577946792501089209-google",
         "nickname": "playmaker",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 125,
         "updatedAt": "2018-10-05 17:12:23"
-    },
-    "39260715-vkontakte": {
-        "id": "39260715-vkontakte",
-        "nickname": "volodya130994",
-        "booksCount": 0,
-        "updatedAt": "2018-10-03 21:41:46"
     }
 }

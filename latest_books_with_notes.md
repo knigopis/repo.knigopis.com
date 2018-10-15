@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Двести лет вместе. Часть I. В дореволюционной России ~ [exulted](users/100/100599204551896265722-google)<sup>86</sup>
 * Крестный отец ~ [Garka](users/115/115753719718250012620-google)<sup>196</sup>
 * Внимание: Ахи! ~ [Vladas](users/107/107621344637148469804-google)<sup>68</sup>
 * Открытое пространство ~ [Vladas](users/107/107621344637148469804-google)<sup>67</sup>
@@ -30,7 +31,6 @@
 * Зеленая Миля ~ [Garka](users/115/115753719718250012620-google)<sup>193</sup>
 * Skarbiec najpiękniejszych baśni ~ [EsterHani](users/305/30558181-vkontakte)<sup>156</sup>
 * Baśnie ~ [EsterHani](users/305/30558181-vkontakte)<sup>155</sup>
-* Скотный двор ~ [violet_velva](users/116/116961712580551399099-google)<sup>46</sup>
 
 
-_13.10.2018 16:10:51_
+_15.10.2018 07:35:47_
