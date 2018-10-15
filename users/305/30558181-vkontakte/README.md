@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>159</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>160</sup>
 ---
 
 ## 2018
+
+### Пикник на обочине
+Аркадий и Борис Стругацкие
+> [2018-10-15] 
+
 
 ### Harry Potter and the Sorcerer's Stone
 Джоан Роулинг
