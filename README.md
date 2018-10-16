@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[barenc](users/129/1291654-vkontakte)<sup>0</sup> 
+[barenc](users/129/1291654-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>160</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>86</sup> 
 [playmaker](users/102/102577946792501089209-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>94</sup> 
 
 
-_16.10.2018 05:10:17_
+_16.10.2018 05:10:36_
