@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Расщелина ~ [violet_velva](users/116/116961712580551399099-google)<sup>49</sup>
+    > Отличная книга. В основе лежит утверждение, что женщины первичнее мужчин. На основе этого пересказывается развитие истории и появление мужчины в древние времена. 
+    > Легко читается и вполне интересный сюжет.
+
 * Двести лет вместе. Часть I. В дореволюционной России ~ [exulted](users/100/100599204551896265722-google)<sup>86</sup>
     > ISBN: 978-5-9691-1375-6
 
@@ -12,8 +16,6 @@ Do not use pull requests to make changes here.
     > В полном восторге от книги! Фильм почему-то такого впечатления не произвел, так ни разу и не посмотрела его с начала до конца, а вот книга совсем другое дело, очень интересно написана.
 
 * Внимание: Ахи! ~ [Vladas](users/107/107621344637148469804-google)<sup>68</sup>
-    > Фантастические памфлеты, пародии, юморески. М., Молодая гвардия, 1970 Серия "Библиотека советской фантастики".
-    > В сборник входят разделы "Дешёвая распродажа", "Из невыдуманных рассказов заслуженного водителя времяходов дальнего следования Николая Ложкина", Как погасло солнце, или История тысячелетней диктатории Огогондии, которая существовала 13 лет, 5 месяцев, 7 дней".
 
 * Открытое пространство ~ [Vladas](users/107/107621344637148469804-google)<sup>67</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Дьявол среди людей ~ [En](users/333/333646551-vkontakte)<sup>54</sup>
 
-* За закрытыми дверями ~ [kissamasya](users/684/68439978-vkontakte)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>49</sup> 
 [vlater](users/323/3237887-vkontakte)<sup>1</sup> 
 [barenc](users/129/1291654-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>160</sup> 
@@ -60,10 +61,9 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>34</sup> 
 [Камушек](users/109/109779224099137306597-google)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>66</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>48</sup> 
 [](users/106/106794273725577737811-googleplus)<sup>0</sup> 
 [mgirl1994@mail.ru](users/156/15641244064688722584-mailru)<sup>3</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>94</sup> 
 
 
-_16.10.2018 08:51:41_
+_16.10.2018 21:09:50_
