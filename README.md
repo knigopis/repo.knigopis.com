@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vlater](users/323/3237887-vkontakte)<sup>1</sup> 
 [barenc](users/129/1291654-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>160</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>86</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idkismrr](users/138/138871653-vkontakte)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
 [servl](users/169/169209490-vkontakte)<sup>0</sup> 
-[vlater](users/323/3237887-vkontakte)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>11</sup> 
 [Andrej](users/652/65291742-vkontakte)<sup>0</sup> 
 [williams_ro](users/304/304635299-vkontakte)<sup>3</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>94</sup> 
 
 
-_16.10.2018 05:10:36_
+_16.10.2018 08:51:41_

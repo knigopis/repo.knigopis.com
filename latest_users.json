@@ -1,4 +1,10 @@
 {
+    "3237887-vkontakte": {
+        "id": "3237887-vkontakte",
+        "nickname": "vlater",
+        "booksCount": 1,
+        "updatedAt": "2018-10-16 08:51:41"
+    },
     "1291654-vkontakte": {
         "id": "1291654-vkontakte",
         "nickname": "barenc",
@@ -100,12 +106,6 @@
         "nickname": "servl",
         "booksCount": 0,
         "updatedAt": "2018-10-11 03:43:19"
-    },
-    "3237887-vkontakte": {
-        "id": "3237887-vkontakte",
-        "nickname": "vlater",
-        "booksCount": 0,
-        "updatedAt": "2018-10-10 11:53:32"
     },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
