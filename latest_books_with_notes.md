@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* О дивный новы мир! ~ [violet_velva](users/116/116961712580551399099-google)<sup>50</sup>
 * Расщелина ~ [violet_velva](users/116/116961712580551399099-google)<sup>49</sup>
 * Двести лет вместе. Часть I. В дореволюционной России ~ [exulted](users/100/100599204551896265722-google)<sup>86</sup>
 * Крестный отец ~ [Garka](users/115/115753719718250012620-google)<sup>196</sup>
@@ -30,7 +31,6 @@
 * 48 законов власти ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
 * Лунный камень ~ [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup>
 * Зеленая Миля ~ [Garka](users/115/115753719718250012620-google)<sup>193</sup>
-* Skarbiec najpiękniejszych baśni ~ [EsterHani](users/305/30558181-vkontakte)<sup>156</sup>
 
 
-_16.10.2018 21:09:50_
+_16.10.2018 21:12:08_
