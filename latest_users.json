@@ -1,4 +1,10 @@
 {
+    "2016951838374499-facebook": {
+        "id": "2016951838374499-facebook",
+        "nickname": "Vincent",
+        "booksCount": 0,
+        "updatedAt": "2018-10-17 18:43:45"
+    },
     "1789646794497980-facebook": {
         "id": "1789646794497980-facebook",
         "nickname": "Елена",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 66,
         "updatedAt": "2018-10-08 11:16:09"
-    },
-    "106794273725577737811-googleplus": {
-        "id": "106794273725577737811-googleplus",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2018-10-06 21:07:41"
     }
 }
