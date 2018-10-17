@@ -1,4 +1,10 @@
 {
+    "105942926153263024342-google": {
+        "id": "105942926153263024342-google",
+        "nickname": "KKK",
+        "booksCount": 0,
+        "updatedAt": "2018-10-17 20:11:37"
+    },
     "2016951838374499-facebook": {
         "id": "2016951838374499-facebook",
         "nickname": "Vincent",
@@ -172,11 +178,5 @@
         "nickname": "Камушек",
         "booksCount": 0,
         "updatedAt": "2018-10-08 15:08:00"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 66,
-        "updatedAt": "2018-10-08 11:16:09"
     }
 }
