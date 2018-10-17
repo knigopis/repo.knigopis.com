@@ -1,4 +1,16 @@
 {
+    "DWt9XAyRIL": {
+        "id": "DWt9XAyRIL",
+        "title": "Приключения Оливера Твиста",
+        "author": "Чарльз Диккенс",
+        "notes": "",
+        "createdAt": "2018-10-17 20:15:21",
+        "user": {
+            "id": "105942926153263024342-google",
+            "nickname": "KKK",
+            "booksCount": 1
+        }
+    },
     "kbrcP2r2S6": {
         "id": "kbrcP2r2S6",
         "title": "Обладать",
@@ -345,18 +357,6 @@
             "id": "304635299-vkontakte",
             "nickname": "williams_ro",
             "booksCount": 2
-        }
-    },
-    "tPFXYKkyoK": {
-        "id": "tPFXYKkyoK",
-        "title": "Мы",
-        "author": "Замятин",
-        "notes": "",
-        "createdAt": "2018-10-09 19:07:06",
-        "user": {
-            "id": "304635299-vkontakte",
-            "nickname": "williams_ro",
-            "booksCount": 1
         }
     }
 }
