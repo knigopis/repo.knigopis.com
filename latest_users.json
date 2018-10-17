@@ -1,4 +1,10 @@
 {
+    "1789646794497980-facebook": {
+        "id": "1789646794497980-facebook",
+        "nickname": "Елена",
+        "booksCount": 0,
+        "updatedAt": "2018-10-17 17:51:36"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2018-10-06 21:07:41"
-    },
-    "15641244064688722584-mailru": {
-        "id": "15641244064688722584-mailru",
-        "nickname": "mgirl1994@mail.ru",
-        "booksCount": 3,
-        "updatedAt": "2018-10-06 20:07:19"
     }
 }
