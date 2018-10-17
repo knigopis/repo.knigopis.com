@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[KKK](users/105/105942926153263024342-google)<sup>0</sup> 
 [Vincent](users/201/2016951838374499-facebook)<sup>0</sup> 
 [Елена](users/178/1789646794497980-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>138</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [black2018](users/248/24828980-yandex)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>34</sup> 
 [Камушек](users/109/109779224099137306597-google)<sup>0</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>66</sup> 
 
 
-_17.10.2018 18:43:47_
+_17.10.2018 20:11:40_
