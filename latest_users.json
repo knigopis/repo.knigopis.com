@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 138,
+        "updatedAt": "2018-10-17 08:53:06"
+    },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
         "nickname": "violet_velva",
@@ -172,11 +178,5 @@
         "nickname": "mgirl1994@mail.ru",
         "booksCount": 3,
         "updatedAt": "2018-10-06 20:07:19"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 94,
-        "updatedAt": "2018-10-06 07:09:28"
     }
 }

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>138</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>50</sup> 
 [vlater](users/323/3237887-vkontakte)<sup>1</sup> 
 [barenc](users/129/1291654-vkontakte)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>66</sup> 
 [](users/106/106794273725577737811-googleplus)<sup>0</sup> 
 [mgirl1994@mail.ru](users/156/15641244064688722584-mailru)<sup>3</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>94</sup> 
 
 
-_16.10.2018 21:12:08_
+_17.10.2018 08:53:06_
