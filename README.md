@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>144</sup> 
 [KKK](users/105/105942926153263024342-google)<sup>1</sup> 
 [Vincent](users/201/2016951838374499-facebook)<sup>0</sup> 
 [Елена](users/178/1789646794497980-facebook)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>34</sup> 
 
 
-_18.10.2018 04:10:08_
+_18.10.2018 04:10:44_
