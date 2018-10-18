@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 4-я Донская казачья  Дивизия в Русско японской войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>35</sup>
+    > Есть Февралёв Иван Иванович
+
 * О дивный новы мир! ~ [violet_velva](users/116/116961712580551399099-google)<sup>50</sup>
     > Ну тут можно и не писать примечания. Слава идет далеко перед ней. Просто еще одна антиутопия, очень интересное изложение.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Легко читается и вполне интересный сюжет.
 
 * Двести лет вместе. Часть I. В дореволюционной России ~ [exulted](users/100/100599204551896265722-google)<sup>86</sup>
-    > ISBN: 978-5-9691-1375-6
 
 * Крестный отец ~ [Garka](users/115/115753719718250012620-google)<sup>196</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Хиппи ~ [youno](users/302/302928912-vkontakte)<sup>16</sup>
 
-* 🧙🏻‍♂️Гарри Поттер и узник Азкабана ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>48</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>35</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>144</sup> 
 [KKK](users/105/105942926153263024342-google)<sup>1</sup> 
 [Vincent](users/201/2016951838374499-facebook)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [williams_ro](users/304/304635299-vkontakte)<sup>3</sup> 
 [batman230299](users/144/144443310-vkontakte)<sup>0</sup> 
 [black2018](users/248/24828980-yandex)<sup>0</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>34</sup> 
 
 
-_18.10.2018 04:10:44_
+_18.10.2018 10:40:26_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 4-я Донская казачья  Дивизия в Русско японской войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>35</sup>
 * О дивный новы мир! ~ [violet_velva](users/116/116961712580551399099-google)<sup>50</sup>
 * Расщелина ~ [violet_velva](users/116/116961712580551399099-google)<sup>49</sup>
 * Двести лет вместе. Часть I. В дореволюционной России ~ [exulted](users/100/100599204551896265722-google)<sup>86</sup>
@@ -30,7 +31,6 @@
 * Air America ~ [exulted](users/100/100599204551896265722-google)<sup>84</sup>
 * 48 законов власти ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>181</sup>
 * Лунный камень ~ [Apprentice ](users/528/52821952-vkontakte)<sup>93</sup>
-* Зеленая Миля ~ [Garka](users/115/115753719718250012620-google)<sup>193</sup>
 
 
-_16.10.2018 21:12:08_
+_18.10.2018 10:40:26_
