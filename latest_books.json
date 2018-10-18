@@ -1,4 +1,16 @@
 {
+    "E8O0_A6KOC": {
+        "id": "E8O0_A6KOC",
+        "title": "",
+        "author": "Ширли Джексон",
+        "notes": "",
+        "createdAt": "2018-10-18 04:10:07",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 145
+        }
+    },
     "DWt9XAyRIL": {
         "id": "DWt9XAyRIL",
         "title": "Приключения Оливера Твиста",
@@ -345,18 +357,6 @@
             "id": "304635299-vkontakte",
             "nickname": "williams_ro",
             "booksCount": 3
-        }
-    },
-    "QkCOFgtLK1": {
-        "id": "QkCOFgtLK1",
-        "title": "она и он",
-        "author": "марк леви",
-        "notes": "",
-        "createdAt": "2018-10-09 19:07:34",
-        "user": {
-            "id": "304635299-vkontakte",
-            "nickname": "williams_ro",
-            "booksCount": 2
         }
     }
 }
