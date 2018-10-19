@@ -34,12 +34,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>139</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>35</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>144</sup> 
 [KKK](users/105/105942926153263024342-google)<sup>1</sup> 
 [Vincent](users/201/2016951838374499-facebook)<sup>0</sup> 
 [Елена](users/178/1789646794497980-facebook)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>138</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>50</sup> 
 [vlater](users/323/3237887-vkontakte)<sup>1</sup> 
 [barenc](users/129/1291654-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [black2018](users/248/24828980-yandex)<sup>0</sup> 
 
 
-_18.10.2018 10:40:26_
+_19.10.2018 09:38:48_

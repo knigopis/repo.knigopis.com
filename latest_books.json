@@ -1,4 +1,16 @@
 {
+    "c-No3rUAdl": {
+        "id": "c-No3rUAdl",
+        "title": "Осиная фабрика",
+        "author": "Иэн Бэнкс",
+        "notes": "",
+        "createdAt": "2018-10-19 09:38:48",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 139
+        }
+    },
     "s9A6YtEUBr": {
         "id": "s9A6YtEUBr",
         "title": "4-я Донская казачья  Дивизия в Русско японской войне",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 42
-        }
-    },
-    "XnSnWMRsQ4": {
-        "id": "XnSnWMRsQ4",
-        "title": "Вы просто ему не нравитесь: вся правда о мужчинах",
-        "author": "БЕРЕНДТ Грег, ТУЧЧИЛЛО Лиз",
-        "notes": "",
-        "createdAt": "2018-10-10 06:03:02",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 11
         }
     }
 }
