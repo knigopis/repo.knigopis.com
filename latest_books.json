@@ -1,4 +1,16 @@
 {
+    "Kv_EVqMwPn": {
+        "id": "Kv_EVqMwPn",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2018-10-19 16:02:45",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 17
+        }
+    },
     "EGgCQRF8-u": {
         "id": "EGgCQRF8-u",
         "title": "Властели́н коле́ц: Бра́тство Кольца́",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 53
-        }
-    },
-    "RNXRmaoJ94": {
-        "id": "RNXRmaoJ94",
-        "title": "волшебный корабль",
-        "author": "Робин Хобб",
-        "notes": "",
-        "createdAt": "2018-10-11 12:46:50",
-        "user": {
-            "id": "138871653-vkontakte",
-            "nickname": "idkismrr",
-            "booksCount": 1
         }
     }
 }
