@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-googleplus)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>139</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>35</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>144</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Andrej](users/652/65291742-vkontakte)<sup>0</sup> 
 [williams_ro](users/304/304635299-vkontakte)<sup>3</sup> 
 [batman230299](users/144/144443310-vkontakte)<sup>0</sup> 
-[black2018](users/248/24828980-yandex)<sup>0</sup> 
 
 
-_19.10.2018 09:38:48_
+_19.10.2018 11:03:34_
