@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-googleplus": {
+        "id": "116961712580551399099-googleplus",
+        "nickname": "violet_velva",
+        "booksCount": 0,
+        "updatedAt": "2018-10-19 11:03:30"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "batman230299",
         "booksCount": 0,
         "updatedAt": "2018-10-09 10:16:41"
-    },
-    "24828980-yandex": {
-        "id": "24828980-yandex",
-        "nickname": "black2018",
-        "booksCount": 0,
-        "updatedAt": "2018-10-09 08:01:34"
     }
 }
