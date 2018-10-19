@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Повелитель мух ~ [Garka](users/115/115753719718250012620-google)<sup>197</sup>
+    > Нуууу.... Как-то так себе
+
 * 4-я Донская казачья  Дивизия в Русско японской войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>35</sup>
     > Есть Февралёв Иван Иванович
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Ну тут можно и не писать примечания. Слава идет далеко перед ней. Просто еще одна антиутопия, очень интересное изложение.
 
 * Расщелина ~ [violet_velva](users/116/116961712580551399099-google)<sup>49</sup>
-    > Отличная книга. В основе лежит утверждение, что женщины первичнее мужчин. На основе этого пересказывается развитие истории и появление мужчины в древние времена. 
-    > Легко читается и вполне интересный сюжет.
 
 * Двести лет вместе. Часть I. В дореволюционной России ~ [exulted](users/100/100599204551896265722-google)<sup>86</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Главные секреты абсолютной уверенности в себе ~ [elena-gagina2014](users/208/208969292-yandex)<sup>4</sup>
 
-* Хиппи ~ [youno](users/302/302928912-vkontakte)<sup>16</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>197</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>17</sup> 
 [violet_velva](users/116/116961712580551399099-googleplus)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>139</sup> 
@@ -48,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>160</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>86</sup> 
 [playmaker](users/102/102577946792501089209-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>196</sup> 
 [synthesist](users/117/117240097965375539693-google)<sup>2</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>68</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>2</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [williams_ro](users/304/304635299-vkontakte)<sup>3</sup> 
 
 
-_19.10.2018 16:02:45_
+_19.10.2018 19:26:18_

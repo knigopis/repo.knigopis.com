@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 197,
+        "updatedAt": "2018-10-19 19:26:18"
+    },
     "225880893-vkontakte": {
         "id": "225880893-vkontakte",
         "nickname": "Артур Вольнов",
@@ -82,12 +88,6 @@
         "nickname": "playmaker",
         "booksCount": 0,
         "updatedAt": "2018-10-13 17:01:15"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 196,
-        "updatedAt": "2018-10-13 16:10:51"
     },
     "117240097965375539693-google": {
         "id": "117240097965375539693-google",
