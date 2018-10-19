@@ -1,4 +1,10 @@
 {
+    "225880893-vkontakte": {
+        "id": "225880893-vkontakte",
+        "nickname": "Артур Вольнов",
+        "booksCount": 16,
+        "updatedAt": "2018-10-19 16:01:31"
+    },
     "116961712580551399099-googleplus": {
         "id": "116961712580551399099-googleplus",
         "nickname": "violet_velva",
@@ -172,11 +178,5 @@
         "nickname": "williams_ro",
         "booksCount": 3,
         "updatedAt": "2018-10-09 19:08:29"
-    },
-    "144443310-vkontakte": {
-        "id": "144443310-vkontakte",
-        "nickname": "batman230299",
-        "booksCount": 0,
-        "updatedAt": "2018-10-09 10:16:41"
     }
 }

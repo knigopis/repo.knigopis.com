@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>16</sup> 
 [violet_velva](users/116/116961712580551399099-googleplus)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>139</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>35</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>11</sup> 
 [Andrej](users/652/65291742-vkontakte)<sup>0</sup> 
 [williams_ro](users/304/304635299-vkontakte)<sup>3</sup> 
-[batman230299](users/144/144443310-vkontakte)<sup>0</sup> 
 
 
-_19.10.2018 11:03:34_
+_19.10.2018 16:01:31_

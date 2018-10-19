@@ -1,7 +1,12 @@
-# List of books read by [Артур Вольнов](http://vk.com/id225880893)<sup>15</sup>
+# List of books read by [Артур Вольнов](http://vk.com/id225880893)<sup>16</sup>
 ---
 
 ## 2018
+
+### Властели́н коле́ц: Бра́тство Кольца́
+Дж. Р. Р. Толкин
+> [2018-10-19] 
+
 
 ### Principia Discordia
 Malaclypse the Younger
