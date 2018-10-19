@@ -1,4 +1,10 @@
 {
+    "101616587824797254055-google": {
+        "id": "101616587824797254055-google",
+        "nickname": "Neylo",
+        "booksCount": 0,
+        "updatedAt": "2018-10-19 23:52:25"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Andrej",
         "booksCount": 0,
         "updatedAt": "2018-10-09 19:25:50"
-    },
-    "304635299-vkontakte": {
-        "id": "304635299-vkontakte",
-        "nickname": "williams_ro",
-        "booksCount": 3,
-        "updatedAt": "2018-10-09 19:08:29"
     }
 }
