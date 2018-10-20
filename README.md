@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[marshallerr](users/125/125449982-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>36</sup> 
 [Neylo](users/101/101616587824797254055-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>197</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idkismrr](users/138/138871653-vkontakte)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
 [servl](users/169/169209490-vkontakte)<sup>0</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>11</sup> 
 
 
-_20.10.2018 11:55:08_
+_20.10.2018 20:13:47_
