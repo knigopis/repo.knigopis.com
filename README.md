@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>36</sup> 
 [Neylo](users/101/101616587824797254055-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>197</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>17</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
 [servl](users/169/169209490-vkontakte)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>11</sup> 
-[Andrej](users/652/65291742-vkontakte)<sup>0</sup> 
 
 
-_19.10.2018 23:52:31_
+_20.10.2018 11:55:08_

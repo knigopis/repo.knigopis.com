@@ -1,4 +1,16 @@
 {
+    "Rem4G0fUdt": {
+        "id": "Rem4G0fUdt",
+        "title": "Крепкий орешек",
+        "author": "Дин Кунц",
+        "notes": "",
+        "createdAt": "2018-10-20 11:55:08",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 36
+        }
+    },
     "IilG4JGVNr": {
         "id": "IilG4JGVNr",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 48
-        }
-    },
-    "Iz4f81GjMk": {
-        "id": "Iz4f81GjMk",
-        "title": "Дьявол среди людей",
-        "author": "А. и Б. Стругацкие",
-        "notes": "книга о последствиях войны для людей и конкретного человека",
-        "createdAt": "2018-10-11 15:20:29",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 54
         }
     }
 }

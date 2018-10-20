@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>35</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>36</sup>
 ---
 
 ## 2018
+
+### Крепкий орешек
+Дин Кунц
+> [2018-10] 
+
 
 ### Год кролика
 Паасилинна Арто
