@@ -1,4 +1,10 @@
 {
+    "30902475-vkontakte": {
+        "id": "30902475-vkontakte",
+        "nickname": "Stacy",
+        "booksCount": 3,
+        "updatedAt": "2018-10-21 15:27:04"
+    },
     "125449982-vkontakte": {
         "id": "125449982-vkontakte",
         "nickname": "marshallerr",
@@ -118,12 +124,6 @@
         "nickname": "Vladas",
         "booksCount": 68,
         "updatedAt": "2018-10-13 14:30:24"
-    },
-    "30902475-vkontakte": {
-        "id": "30902475-vkontakte",
-        "nickname": "Stacy",
-        "booksCount": 2,
-        "updatedAt": "2018-10-12 19:24:26"
     },
     "1130000026816813-yandex": {
         "id": "1130000026816813-yandex",

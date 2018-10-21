@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Stacy](users/309/30902475-vkontakte)<sup>3</sup>
+    > Дорога без возврата
+    > Что-то кончается, что-то начинается
+
 * Повелитель мух ~ [Garka](users/115/115753719718250012620-google)<sup>197</sup>
     > Нуууу.... Как-то так себе
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Есть Февралёв Иван Иванович
 
 * О дивный новы мир! ~ [violet_velva](users/116/116961712580551399099-google)<sup>50</sup>
-    > Ну тут можно и не писать примечания. Слава идет далеко перед ней. Просто еще одна антиутопия, очень интересное изложение.
 
 * Расщелина ~ [violet_velva](users/116/116961712580551399099-google)<sup>49</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Очарованный странник ~ [Vladas](users/107/107621344637148469804-google)<sup>66</sup>
 
-* Главные секреты абсолютной уверенности в себе ~ [elena-gagina2014](users/208/208969292-yandex)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Stacy](users/309/30902475-vkontakte)<sup>3</sup> 
 [marshallerr](users/125/125449982-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>36</sup> 
 [Neylo](users/101/101616587824797254055-google)<sup>0</sup> 
@@ -53,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [playmaker](users/102/102577946792501089209-google)<sup>0</sup> 
 [synthesist](users/117/117240097965375539693-google)<sup>2</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>68</sup> 
-[Stacy](users/309/30902475-vkontakte)<sup>2</sup> 
 [eldar@unie.kz](users/113/1130000026816813-yandex)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>5</sup> 
 [ryaboy](users/221/2211667252441320-facebook)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [servl](users/169/169209490-vkontakte)<sup>0</sup> 
 
 
-_20.10.2018 20:13:47_
+_21.10.2018 15:27:04_

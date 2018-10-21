@@ -1,4 +1,16 @@
 {
+    "NsAgNAVyMQ": {
+        "id": "NsAgNAVyMQ",
+        "title": "",
+        "author": "Анджей Сапковский",
+        "notes": "Дорога без возврата\nЧто-то кончается, что-то начинается",
+        "createdAt": "2018-10-21 15:27:04",
+        "user": {
+            "id": "30902475-vkontakte",
+            "nickname": "Stacy",
+            "booksCount": 3
+        }
+    },
     "IilG4JGVNr": {
         "id": "IilG4JGVNr",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 84
-        }
-    },
-    "ujcRxOtUo_": {
-        "id": "ujcRxOtUo_",
-        "title": "48 законов власти",
-        "author": "Роберт Грин",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/21211375/",
-        "createdAt": "2018-09-20 20:06:53",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 181
         }
     }
 }
