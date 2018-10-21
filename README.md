@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ADeus](users/100/100065468278098668934-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>161</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>3</sup> 
 [marshallerr](users/125/125449982-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>54</sup> 
 [idkismrr](users/138/138871653-vkontakte)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
-[servl](users/169/169209490-vkontakte)<sup>0</sup> 
 
 
-_21.10.2018 19:35:12_
+_21.10.2018 22:45:00_
