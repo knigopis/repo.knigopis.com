@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>160</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>161</sup>
 ---
 
 ## 2018
+
+### Кваzи
+Сергей Лукьяненко
+> [2018-10-21] 
+
 
 ### Пикник на обочине
 Аркадий и Борис Стругацкие

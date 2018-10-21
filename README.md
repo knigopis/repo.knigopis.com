@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>161</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>3</sup> 
 [marshallerr](users/125/125449982-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>36</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>50</sup> 
 [vlater](users/323/3237887-vkontakte)<sup>1</sup> 
 [barenc](users/129/1291654-vkontakte)<sup>1</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>160</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>86</sup> 
 [playmaker](users/102/102577946792501089209-google)<sup>0</sup> 
 [synthesist](users/117/117240097965375539693-google)<sup>2</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [servl](users/169/169209490-vkontakte)<sup>0</sup> 
 
 
-_21.10.2018 15:27:04_
+_21.10.2018 19:35:12_
