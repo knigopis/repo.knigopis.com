@@ -1,4 +1,10 @@
 {
+    "313791142506683-facebook": {
+        "id": "313791142506683-facebook",
+        "nickname": "Леди Ветра",
+        "booksCount": 0,
+        "updatedAt": "2018-10-22 20:50:16"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ",
         "booksCount": 48,
         "updatedAt": "2018-10-11 16:35:12"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 54,
-        "updatedAt": "2018-10-11 15:20:29"
     }
 }
