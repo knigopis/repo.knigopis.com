@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 106,
+        "updatedAt": "2018-10-22 17:16:18"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 54,
         "updatedAt": "2018-10-11 15:20:29"
-    },
-    "138871653-vkontakte": {
-        "id": "138871653-vkontakte",
-        "nickname": "idkismrr",
-        "booksCount": 1,
-        "updatedAt": "2018-10-11 12:46:50"
     }
 }

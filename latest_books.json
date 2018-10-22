@@ -1,4 +1,16 @@
 {
+    "U9xSvhdO6s": {
+        "id": "U9xSvhdO6s",
+        "title": "Поворот винта",
+        "author": "Джеймс Генри",
+        "notes": "",
+        "createdAt": "2018-10-22 17:16:18",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 106
+        }
+    },
     "JgTiRJkEFu": {
         "id": "JgTiRJkEFu",
         "title": "К черту всё! Берись и делай!",
@@ -341,18 +353,6 @@
         "author": "Стивен Кинг",
         "notes": "",
         "createdAt": "2018-10-11 20:14:09",
-        "user": {
-            "id": "2211667252441320-facebook",
-            "nickname": "ryaboy",
-            "booksCount": 1
-        }
-    },
-    "SdAcc197HG": {
-        "id": "SdAcc197HG",
-        "title": "",
-        "author": "стивен кинг",
-        "notes": "",
-        "createdAt": "2018-10-11 20:11:17",
         "user": {
             "id": "2211667252441320-facebook",
             "nickname": "ryaboy",

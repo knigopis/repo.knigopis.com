@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>106</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup> 
 [ADeus](users/100/100065468278098668934-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>161</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>16</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>48</sup> 
 [En](users/333/333646551-vkontakte)<sup>54</sup> 
-[idkismrr](users/138/138871653-vkontakte)<sup>1</sup> 
 
 
-_22.10.2018 07:24:32_
+_22.10.2018 17:16:19_
