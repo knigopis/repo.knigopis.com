@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* К черту всё! Берись и делай! ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup>
 *  ~ [Stacy](users/309/30902475-vkontakte)<sup>3</sup>
 * Повелитель мух ~ [Garka](users/115/115753719718250012620-google)<sup>197</sup>
 * 4-я Донская казачья  Дивизия в Русско японской войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>35</sup>
@@ -30,7 +31,6 @@
 * Важные годы ~ [darb_el](users/184/184135339-vkontakte)<sup>15</sup>
 * Великие православные святые ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup>
 * Богатый папа, бедный папа ~ [youno](users/302/302928912-vkontakte)<sup>15</sup>
-* Air America ~ [exulted](users/100/100599204551896265722-google)<sup>84</sup>
 
 
-_21.10.2018 15:27:04_
+_22.10.2018 07:24:32_

@@ -1,4 +1,16 @@
 {
+    "JgTiRJkEFu": {
+        "id": "JgTiRJkEFu",
+        "title": "К черту всё! Берись и делай!",
+        "author": "Ричард Брэнсон",
+        "notes": "Деньги существуют для того, чтобы что-то делалось.",
+        "createdAt": "2018-10-22 07:24:32",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 44
+        }
+    },
     "tqlGvUfVIG": {
         "id": "tqlGvUfVIG",
         "title": "Кваzи",
@@ -345,18 +357,6 @@
             "id": "2211667252441320-facebook",
             "nickname": "ryaboy",
             "booksCount": 1
-        }
-    },
-    "f7nqNy2uPc": {
-        "id": "f7nqNy2uPc",
-        "title": "Хиппи",
-        "author": "Пауло Коэльо",
-        "notes": "Заключительная часть ничего такая, а в целом - слабо.",
-        "createdAt": "2018-10-11 18:26:36",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 16
         }
     }
 }

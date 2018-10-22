@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* К черту всё! Берись и делай! ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup>
+    > Деньги существуют для того, чтобы что-то делалось.
+
 *  ~ [Stacy](users/309/30902475-vkontakte)<sup>3</sup>
     > Дорога без возврата
     > Что-то кончается, что-то начинается
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Нуууу.... Как-то так себе
 
 * 4-я Донская казачья  Дивизия в Русско японской войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>35</sup>
-    > Есть Февралёв Иван Иванович
 
 * О дивный новы мир! ~ [violet_velva](users/116/116961712580551399099-google)<sup>50</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Открытое пространство ~ [Vladas](users/107/107621344637148469804-google)<sup>67</sup>
 
-* Очарованный странник ~ [Vladas](users/107/107621344637148469804-google)<sup>66</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup> 
 [ADeus](users/100/100065468278098668934-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>161</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>3</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>48</sup> 
 [En](users/333/333646551-vkontakte)<sup>54</sup> 
 [idkismrr](users/138/138871653-vkontakte)<sup>1</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>42</sup> 
 
 
-_21.10.2018 22:45:00_
+_22.10.2018 07:24:32_

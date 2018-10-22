@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>43</sup>
+# List of books read by inna.besprozvannykh<sup>44</sup>
 ---
 
 ## 2018
+
+### К черту всё! Берись и делай!
+Ричард Брэнсон
+> [2018-10-23] Деньги существуют для того, чтобы что-то делалось.
+
 
 ### Сила настоящего
 Экхарт Толле
