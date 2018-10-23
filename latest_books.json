@@ -1,4 +1,16 @@
 {
+    "-gx9B-GAZ8": {
+        "id": "-gx9B-GAZ8",
+        "title": "Тайны лучших секретарей",
+        "author": "Илья Мельников",
+        "notes": "",
+        "createdAt": "2018-10-23 16:31:44",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 45
+        }
+    },
     "CXd2HfHynR": {
         "id": "CXd2HfHynR",
         "title": "Спасти президента",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 65
-        }
-    },
-    "XyR7MlO4F6": {
-        "id": "XyR7MlO4F6",
-        "title": "Мужчины с Марса, Женщины с Венеры",
-        "author": "Джон Грэй",
-        "notes": "",
-        "createdAt": "2018-10-12 11:56:19",
-        "user": {
-            "id": "208969292-yandex",
-            "nickname": "elena-gagina2014",
-            "booksCount": 5
         }
     }
 }
