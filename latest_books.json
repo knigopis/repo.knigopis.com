@@ -1,4 +1,16 @@
 {
+    "7h7QDL6T45": {
+        "id": "7h7QDL6T45",
+        "title": "Контрибуция",
+        "author": "Леонид Юзефович",
+        "notes": "",
+        "createdAt": "2018-10-23 16:28:37",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 43
+        }
+    },
     "pJJj-l921i": {
         "id": "pJJj-l921i",
         "title": "Hardboiled / Hard luck",
@@ -345,18 +357,6 @@
             "id": "208969292-yandex",
             "nickname": "elena-gagina2014",
             "booksCount": 4
-        }
-    },
-    "Odt37CCL2v": {
-        "id": "Odt37CCL2v",
-        "title": "Луна над Каролиной",
-        "author": "Нора Робертс",
-        "notes": "",
-        "createdAt": "2018-10-12 11:54:23",
-        "user": {
-            "id": "208969292-yandex",
-            "nickname": "elena-gagina2014",
-            "booksCount": 3
         }
     }
 }

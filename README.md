@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>43</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>107</sup> 
 [Леди Ветра](users/313/313791142506683-facebook)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>5</sup> 
 [ryaboy](users/221/2211667252441320-facebook)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>16</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>48</sup> 
 
 
-_23.10.2018 04:15:22_
+_23.10.2018 16:28:37_
