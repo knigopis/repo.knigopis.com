@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>106</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>107</sup>
 ---
 
 ## 2018
+
+### Hardboiled / Hard luck
+Банана Есимото
+> [2018-10-23] 
+
 
 ### Поворот винта
 Джеймс Генри

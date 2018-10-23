@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>107</sup> 
 [Леди Ветра](users/313/313791142506683-facebook)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>106</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup> 
 [ADeus](users/100/100065468278098668934-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>161</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>48</sup> 
 
 
-_22.10.2018 20:50:22_
+_23.10.2018 04:15:22_
