@@ -1,4 +1,16 @@
 {
+    "98VmdrkKZL": {
+        "id": "98VmdrkKZL",
+        "title": "Автостопом по галактике",
+        "author": "Дуглас Адамс",
+        "notes": "",
+        "createdAt": "2018-10-23 19:56:34",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "joan789",
+            "booksCount": 75
+        }
+    },
     "dMZQWO8VhU": {
         "id": "dMZQWO8VhU",
         "title": "Раскол/Маска призрака (DA",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 67
-        }
-    },
-    "MRhKeX9NnB": {
-        "id": "MRhKeX9NnB",
-        "title": "Очарованный странник",
-        "author": "Н.С. Лесков",
-        "notes": "Повести и рассказы. М. Художественная литература. Серия: \"Классики и современники\".",
-        "createdAt": "2018-10-13 14:19:54",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 66
         }
     }
 }
