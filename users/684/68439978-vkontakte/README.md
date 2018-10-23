@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>43</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>44</sup>
 ---
 
 ## 2018
@@ -6,6 +6,11 @@
 ### Контрибуция
 Леонид Юзефович
 > [2018-10-18] 
+
+
+### Спасти президента
+Гера Фотич
+> [2018-10-17] 
 
 
 ### За закрытыми дверями

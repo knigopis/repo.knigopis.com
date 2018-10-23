@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kissamasya](users/684/68439978-vkontakte)<sup>43</sup> 
+[kissamasya](users/684/68439978-vkontakte)<sup>44</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>107</sup> 
 [Леди Ветра](users/313/313791142506683-facebook)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>16</sup> 
 
 
-_23.10.2018 16:28:37_
+_23.10.2018 16:29:50_

@@ -1,4 +1,16 @@
 {
+    "CXd2HfHynR": {
+        "id": "CXd2HfHynR",
+        "title": "Спасти президента",
+        "author": "Гера Фотич",
+        "notes": "",
+        "createdAt": "2018-10-23 16:29:50",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 44
+        }
+    },
     "7h7QDL6T45": {
         "id": "7h7QDL6T45",
         "title": "Контрибуция",
@@ -345,18 +357,6 @@
             "id": "208969292-yandex",
             "nickname": "elena-gagina2014",
             "booksCount": 5
-        }
-    },
-    "ix0iYEb6W5": {
-        "id": "ix0iYEb6W5",
-        "title": "Главные секреты абсолютной уверенности в себе",
-        "author": "Роберт Энтони",
-        "notes": "прочитать еще раз позже, интересные мысли автора",
-        "createdAt": "2018-10-12 11:55:19",
-        "user": {
-            "id": "208969292-yandex",
-            "nickname": "elena-gagina2014",
-            "booksCount": 4
         }
     }
 }
