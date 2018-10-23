@@ -1,4 +1,16 @@
 {
+    "dMZQWO8VhU": {
+        "id": "dMZQWO8VhU",
+        "title": "Раскол/Маска призрака (DA",
+        "author": "Девид Гейдер",
+        "notes": "",
+        "createdAt": "2018-10-23 19:23:29",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 50
+        }
+    },
     "-gx9B-GAZ8": {
         "id": "-gx9B-GAZ8",
         "title": "Тайны лучших секретарей",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 66
-        }
-    },
-    "0MmDzT6kMG": {
-        "id": "0MmDzT6kMG",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2018-10-13 14:18:02",
-        "user": {
-            "id": "107621344637148469804-google",
-            "nickname": "Vladas",
-            "booksCount": 65
         }
     }
 }

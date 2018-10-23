@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>49</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>50</sup>
 ---
 
 ## 2018
+
+### Раскол/Маска призрака (DA
+Девид Гейдер
+> [2018-10-17] 
+
 
 ### Призыв (DA:2/3)
 Девид Гейдер
