@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 87,
+        "updatedAt": "2018-10-24 14:59:29"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -148,12 +154,6 @@
         "nickname": "barenc",
         "booksCount": 1,
         "updatedAt": "2018-10-16 05:10:36"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 86,
-        "updatedAt": "2018-10-15 07:35:47"
     },
     "102577946792501089209-google": {
         "id": "102577946792501089209-google",

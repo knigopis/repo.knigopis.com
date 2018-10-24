@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 1916. Война и Мир ~ [exulted](users/100/100599204551896265722-google)<sup>87</sup>
+    > ISBN: 978-5-17-108058-7
+
 * К черту всё! Берись и делай! ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup>
     > Деньги существуют для того, чтобы что-то делалось.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Что-то кончается, что-то начинается
 
 * Повелитель мух ~ [Garka](users/115/115753719718250012620-google)<sup>197</sup>
-    > Нуууу.... Как-то так себе
 
 * 4-я Донская казачья  Дивизия в Русско японской войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>35</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Внимание: Ахи! ~ [Vladas](users/107/107621344637148469804-google)<sup>68</sup>
 
-* Открытое пространство ~ [Vladas](users/107/107621344637148469804-google)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>87</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>331</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>75</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>50</sup> 
@@ -59,11 +60,10 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>50</sup> 
 [vlater](users/323/3237887-vkontakte)<sup>1</sup> 
 [barenc](users/129/1291654-vkontakte)<sup>1</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>86</sup> 
 [playmaker](users/102/102577946792501089209-google)<sup>0</sup> 
 [synthesist](users/117/117240097965375539693-google)<sup>2</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>68</sup> 
 [eldar@unie.kz](users/113/1130000026816813-yandex)<sup>0</sup> 
 
 
-_24.10.2018 06:51:02_
+_24.10.2018 14:59:29_

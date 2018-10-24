@@ -1,4 +1,16 @@
 {
+    "NYdAT6_LN6": {
+        "id": "NYdAT6_LN6",
+        "title": "1916. Война и Мир",
+        "author": "Миропольский Дмитрий",
+        "notes": "ISBN: 978-5-17-108058-7",
+        "createdAt": "2018-10-24 14:59:29",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 87
+        }
+    },
     "JgTiRJkEFu": {
         "id": "JgTiRJkEFu",
         "title": "К черту всё! Берись и делай!",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 182
-        }
-    },
-    "fJB_Pe02iN": {
-        "id": "fJB_Pe02iN",
-        "title": "Богатый папа, бедный папа",
-        "author": "Роберт Кийосаки",
-        "notes": "Перечитать. Купить как настольную книгу. Мастхэв.",
-        "createdAt": "2018-09-25 17:04:02",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 15
         }
     }
 }
