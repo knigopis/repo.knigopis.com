@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>331</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>75</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>50</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>45</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [synthesist](users/117/117240097965375539693-google)<sup>2</sup> 
 [Vladas](users/107/107621344637148469804-google)<sup>68</sup> 
 [eldar@unie.kz](users/113/1130000026816813-yandex)<sup>0</sup> 
-[elena-gagina2014](users/208/208969292-yandex)<sup>5</sup> 
 
 
-_23.10.2018 19:56:35_
+_24.10.2018 06:51:02_
