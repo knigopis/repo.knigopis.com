@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Эрик, а также Ночная Стража, ведьмы и Коэн-Варвар ~ [Garka](users/115/115753719718250012620-google)<sup>198</sup>
 * 1916. Война и Мир ~ [exulted](users/100/100599204551896265722-google)<sup>87</sup>
 * К черту всё! Берись и делай! ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup>
 *  ~ [Stacy](users/309/30902475-vkontakte)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Мастер и Маргарита ~ [Garka](users/115/115753719718250012620-google)<sup>194</sup>
 * Дерьмо ~ [anvonamore](users/595/5957175-vkontakte)<sup>119</sup>
 * Важные годы ~ [darb_el](users/184/184135339-vkontakte)<sup>15</sup>
-* Великие православные святые ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>182</sup>
 
 
-_24.10.2018 14:59:29_
+_25.10.2018 20:22:39_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Эрик, а также Ночная Стража, ведьмы и Коэн-Варвар ~ [Garka](users/115/115753719718250012620-google)<sup>198</sup>
+    > Книга состоит из 4х рассказов - основной "Эрик" (главный герой Ринсвинд) и 3 небольших про стражу, матушку Ветровоск и Коэна-варвара. Про стражу слабовато, остальные три очень даже ничего.
+
 * 1916. Война и Мир ~ [exulted](users/100/100599204551896265722-google)<sup>87</sup>
     > ISBN: 978-5-17-108058-7
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Деньги существуют для того, чтобы что-то делалось.
 
 *  ~ [Stacy](users/309/30902475-vkontakte)<sup>3</sup>
-    > Дорога без возврата
-    > Что-то кончается, что-то начинается
 
 * Повелитель мух ~ [Garka](users/115/115753719718250012620-google)<sup>197</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Крестный отец ~ [Garka](users/115/115753719718250012620-google)<sup>196</sup>
 
-* Внимание: Ахи! ~ [Vladas](users/107/107621344637148469804-google)<sup>68</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>198</sup> 
 [varvarix_v](users/133/133591628-vkontakte)<sup>1</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>69</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>1</sup> 
@@ -51,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [marshallerr](users/125/125449982-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>36</sup> 
 [Neylo](users/101/101616587824797254055-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>197</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>17</sup> 
 [violet_velva](users/116/116961712580551399099-googleplus)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>139</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [playmaker](users/102/102577946792501089209-google)<sup>0</sup> 
 
 
-_25.10.2018 19:32:52_
+_25.10.2018 20:22:39_
