@@ -1,4 +1,16 @@
 {
+    "bkUQyLkHPo": {
+        "id": "bkUQyLkHPo",
+        "title": "Спонтанность сознания",
+        "author": "Василий Налимов",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/5818508/",
+        "createdAt": "2018-10-25 21:59:25",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 183
+        }
+    },
     "C8586dnqcd": {
         "id": "C8586dnqcd",
         "title": "Эрик, а также Ночная Стража, ведьмы и Коэн-Варвар",
@@ -344,18 +356,6 @@
         "user": {
             "id": "3237887-vkontakte",
             "nickname": "vlater",
-            "booksCount": 1
-        }
-    },
-    "I6KSuR4NrP": {
-        "id": "I6KSuR4NrP",
-        "title": "бард 3",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-10-16 05:10:36",
-        "user": {
-            "id": "1291654-vkontakte",
-            "nickname": "barenc",
             "booksCount": 1
         }
     }

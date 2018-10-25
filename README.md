@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Спонтанность сознания ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>183</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/5818508/
+
 * Эрик, а также Ночная Стража, ведьмы и Коэн-Варвар ~ [Garka](users/115/115753719718250012620-google)<sup>198</sup>
     > Книга состоит из 4х рассказов - основной "Эрик" (главный герой Ринсвинд) и 3 небольших про стражу, матушку Ветровоск и Коэна-варвара. Про стражу слабовато, остальные три очень даже ничего.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-17-108058-7
 
 * К черту всё! Берись и делай! ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup>
-    > Деньги существуют для того, чтобы что-то делалось.
 
 *  ~ [Stacy](users/309/30902475-vkontakte)<sup>3</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Двести лет вместе. Часть I. В дореволюционной России ~ [exulted](users/100/100599204551896265722-google)<sup>86</sup>
 
-* Крестный отец ~ [Garka](users/115/115753719718250012620-google)<sup>196</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>183</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>198</sup> 
 [varvarix_v](users/133/133591628-vkontakte)<sup>1</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>69</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>50</sup> 
 [vlater](users/323/3237887-vkontakte)<sup>1</sup> 
 [barenc](users/129/1291654-vkontakte)<sup>1</sup> 
-[playmaker](users/102/102577946792501089209-google)<sup>0</sup> 
 
 
-_25.10.2018 20:22:39_
+_25.10.2018 21:59:26_
