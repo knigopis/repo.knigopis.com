@@ -1,4 +1,10 @@
 {
+    "133591628-vkontakte": {
+        "id": "133591628-vkontakte",
+        "nickname": "varvarix_v",
+        "booksCount": 0,
+        "updatedAt": "2018-10-25 19:32:06"
+    },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",
         "nickname": "ODINSY",
@@ -172,11 +178,5 @@
         "nickname": "playmaker",
         "booksCount": 0,
         "updatedAt": "2018-10-13 17:01:15"
-    },
-    "117240097965375539693-google": {
-        "id": "117240097965375539693-google",
-        "nickname": "synthesist",
-        "booksCount": 2,
-        "updatedAt": "2018-10-13 14:54:36"
     }
 }
