@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Александр Погодин](users/625/6259590452259030261-mailru)<sup>0</sup> 
+[Александр Погодин](users/625/6259590452259030261-mailru)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>87</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>331</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>75</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vladas](users/107/107621344637148469804-google)<sup>68</sup> 
 
 
-_25.10.2018 08:40:19_
+_25.10.2018 09:53:43_
