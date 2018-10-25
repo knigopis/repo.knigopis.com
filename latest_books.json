@@ -1,4 +1,16 @@
 {
+    "Er6wxkN8_v": {
+        "id": "Er6wxkN8_v",
+        "title": "Жук в муравейнике",
+        "author": "АЬС",
+        "notes": "",
+        "createdAt": "2018-10-25 15:24:31",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 68
+        }
+    },
     "JU1V0PxrtL": {
         "id": "JU1V0PxrtL",
         "title": "Изгнание",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 196
-        }
-    },
-    "fF9BAoNO7n": {
-        "id": "fF9BAoNO7n",
-        "title": "test",
-        "author": "test",
-        "notes": "test",
-        "createdAt": "2018-10-13 14:54:36",
-        "user": {
-            "id": "117240097965375539693-google",
-            "nickname": "synthesist",
-            "booksCount": 2
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "100978570902186865324-google": {
+        "id": "100978570902186865324-google",
+        "nickname": "ODINSY",
+        "booksCount": 68,
+        "updatedAt": "2018-10-25 15:24:31"
+    },
     "6259590452259030261-mailru": {
         "id": "6259590452259030261-mailru",
         "nickname": "Александр Погодин",
@@ -172,11 +178,5 @@
         "nickname": "synthesist",
         "booksCount": 2,
         "updatedAt": "2018-10-13 14:54:36"
-    },
-    "107621344637148469804-google": {
-        "id": "107621344637148469804-google",
-        "nickname": "Vladas",
-        "booksCount": 68,
-        "updatedAt": "2018-10-13 14:30:24"
     }
 }

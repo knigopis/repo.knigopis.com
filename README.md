@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>68</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>87</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>331</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [barenc](users/129/1291654-vkontakte)<sup>1</sup> 
 [playmaker](users/102/102577946792501089209-google)<sup>0</sup> 
 [synthesist](users/117/117240097965375539693-google)<sup>2</sup> 
-[Vladas](users/107/107621344637148469804-google)<sup>68</sup> 
 
 
-_25.10.2018 09:53:43_
+_25.10.2018 15:24:31_
