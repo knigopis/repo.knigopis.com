@@ -1,4 +1,16 @@
 {
+    "3NIJrOv8K-": {
+        "id": "3NIJrOv8K-",
+        "title": "О дивный новый мир!",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2018-10-25 19:32:52",
+        "user": {
+            "id": "133591628-vkontakte",
+            "nickname": "varvarix_v",
+            "booksCount": 1
+        }
+    },
     "YuN_i9II_T": {
         "id": "YuN_i9II_T",
         "title": "Prometheus: Up & Running",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 160
-        }
-    },
-    "S_raeFcCIN": {
-        "id": "S_raeFcCIN",
-        "title": "Двести лет вместе. Часть I. В дореволюционной России",
-        "author": "Солженицын Александр",
-        "notes": "ISBN: 978-5-9691-1375-6",
-        "createdAt": "2018-10-15 07:35:47",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 86
         }
     }
 }
