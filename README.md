@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[olalightning](users/273/273251135-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>183</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>198</sup> 
 [varvarix_v](users/133/133591628-vkontakte)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Елена](users/178/1789646794497980-facebook)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>50</sup> 
 [vlater](users/323/3237887-vkontakte)<sup>1</sup> 
-[barenc](users/129/1291654-vkontakte)<sup>1</sup> 
 
 
-_25.10.2018 21:59:26_
+_26.10.2018 09:48:35_
