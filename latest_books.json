@@ -1,4 +1,16 @@
 {
+    "_d_pW6_lTL": {
+        "id": "_d_pW6_lTL",
+        "title": "Корабль судьбы. Том 1",
+        "author": "Робин Хобб",
+        "notes": "",
+        "createdAt": "2018-10-28 16:18:12",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 108
+        }
+    },
     "bkUQyLkHPo": {
         "id": "bkUQyLkHPo",
         "title": "Спонтанность сознания",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 49
-        }
-    },
-    "eOHuLGxxgr": {
-        "id": "eOHuLGxxgr",
-        "title": "Миссия бизнеса",
-        "author": "Коносуке Мацусита",
-        "notes": "",
-        "createdAt": "2018-10-16 08:51:41",
-        "user": {
-            "id": "3237887-vkontakte",
-            "nickname": "vlater",
-            "booksCount": 1
         }
     }
 }

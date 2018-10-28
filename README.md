@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>108</sup> 
 [Тата](users/257/257428895-vkontakte)<sup>0</sup> 
 [olalightning](users/273/273251135-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>183</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>75</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>50</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>45</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>107</sup> 
 [Леди Ветра](users/313/313791142506683-facebook)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup> 
 [ADeus](users/100/100065468278098668934-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>50</sup> 
 
 
-_28.10.2018 15:40:59_
+_28.10.2018 16:18:13_

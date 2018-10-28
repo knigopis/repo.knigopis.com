@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>107</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>108</sup>
 ---
 
 ## 2018
+
+### Корабль судьбы. Том 1
+Робин Хобб
+> [2018-10-28] 
+
 
 ### Hardboiled / Hard luck
 Банана Есимото
