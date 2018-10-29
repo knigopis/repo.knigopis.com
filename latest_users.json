@@ -1,4 +1,10 @@
 {
+    "86840822-vkontakte": {
+        "id": "86840822-vkontakte",
+        "nickname": "katrinzhitnikova",
+        "booksCount": 0,
+        "updatedAt": "2018-10-29 13:15:17"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "Елена",
         "booksCount": 0,
         "updatedAt": "2018-10-17 17:51:36"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 50,
-        "updatedAt": "2018-10-16 21:12:08"
     }
 }
