@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinzhitnikova](users/868/86840822-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>108</sup> 
 [Тата](users/257/257428895-vkontakte)<sup>0</sup> 
 [olalightning](users/273/273251135-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [KKK](users/105/105942926153263024342-google)<sup>1</sup> 
 [Vincent](users/201/2016951838374499-facebook)<sup>0</sup> 
 [Елена](users/178/1789646794497980-facebook)<sup>0</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>50</sup> 
 
 
-_28.10.2018 16:18:13_
+_29.10.2018 13:15:21_
