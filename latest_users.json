@@ -1,4 +1,10 @@
 {
+    "115902526849562271887-google": {
+        "id": "115902526849562271887-google",
+        "nickname": "Asiar",
+        "booksCount": 0,
+        "updatedAt": "2018-10-29 18:09:44"
+    },
     "86840822-vkontakte": {
         "id": "86840822-vkontakte",
         "nickname": "katrinzhitnikova",
@@ -172,11 +178,5 @@
         "nickname": "Vincent",
         "booksCount": 0,
         "updatedAt": "2018-10-17 18:43:45"
-    },
-    "1789646794497980-facebook": {
-        "id": "1789646794497980-facebook",
-        "nickname": "Елена",
-        "booksCount": 0,
-        "updatedAt": "2018-10-17 17:51:36"
     }
 }
