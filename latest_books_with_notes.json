@@ -1,4 +1,16 @@
 {
+    "fAf4pD9wp-": {
+        "id": "fAf4pD9wp-",
+        "title": "Кто сказал, что слоны не умеют танцевать?",
+        "author": "Луис Герстнер",
+        "notes": "в процессе\n\nhttps://e-libra.ru/read/150841-kto-skazal-chto-slony-ne-umeyut-tancevat-vozrozhdenie-korporacii-ibm-vzglyad-iznutri.html",
+        "createdAt": "2018-10-29 21:51:50",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 184
+        }
+    },
     "bkUQyLkHPo": {
         "id": "bkUQyLkHPo",
         "title": "Спонтанность сознания",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 194
-        }
-    },
-    "g_FCWTuWUT": {
-        "id": "g_FCWTuWUT",
-        "title": "Дерьмо",
-        "author": "Герберт Уэлш",
-        "notes": "5/10",
-        "createdAt": "2018-09-29 18:04:47",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 119
         }
     }
 }

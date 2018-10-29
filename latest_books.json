@@ -1,4 +1,16 @@
 {
+    "fAf4pD9wp-": {
+        "id": "fAf4pD9wp-",
+        "title": "Кто сказал, что слоны не умеют танцевать?",
+        "author": "Луис Герстнер",
+        "notes": "в процессе\n\nhttps://e-libra.ru/read/150841-kto-skazal-chto-slony-ne-umeyut-tancevat-vozrozhdenie-korporacii-ibm-vzglyad-iznutri.html",
+        "createdAt": "2018-10-29 21:51:50",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 184
+        }
+    },
     "_d_pW6_lTL": {
         "id": "_d_pW6_lTL",
         "title": "Корабль судьбы. Том 1",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 50
-        }
-    },
-    "-4f2K1zyRA": {
-        "id": "-4f2K1zyRA",
-        "title": "Расщелина",
-        "author": "Дорис Лессинг",
-        "notes": "Отличная книга. В основе лежит утверждение, что женщины первичнее мужчин. На основе этого пересказывается развитие истории и появление мужчины в древние времена. \nЛегко читается и вполне интересный сюжет.",
-        "createdAt": "2018-10-16 21:09:50",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 49
         }
     }
 }

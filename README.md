@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кто сказал, что слоны не умеют танцевать? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>184</sup>
+    > в процессе
+    > 
+    > https://e-libra.ru/read/150841-kto-skazal-chto-slony-ne-umeyut-tancevat-vozrozhdenie-korporacii-ibm-vzglyad-iznutri.html
+
 * Спонтанность сознания ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>183</sup>
     > в процессе
     > 
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > Книга состоит из 4х рассказов - основной "Эрик" (главный герой Ринсвинд) и 3 небольших про стражу, матушку Ветровоск и Коэна-варвара. Про стражу слабовато, остальные три очень даже ничего.
 
 * 1916. Война и Мир ~ [exulted](users/100/100599204551896265722-google)<sup>87</sup>
-    > ISBN: 978-5-17-108058-7
 
 * К черту всё! Берись и делай! ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup>
 
@@ -28,19 +32,17 @@ Do not use pull requests to make changes here.
 
 * Расщелина ~ [violet_velva](users/116/116961712580551399099-google)<sup>49</sup>
 
-* Двести лет вместе. Часть I. В дореволюционной России ~ [exulted](users/100/100599204551896265722-google)<sup>86</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>184</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>0</sup> 
 [katrinzhitnikova](users/868/86840822-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>108</sup> 
 [Тата](users/257/257428895-vkontakte)<sup>0</sup> 
 [olalightning](users/273/273251135-vkontakte)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>183</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>198</sup> 
 [varvarix_v](users/133/133591628-vkontakte)<sup>1</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>69</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vincent](users/201/2016951838374499-facebook)<sup>0</sup> 
 
 
-_29.10.2018 18:09:48_
+_29.10.2018 21:51:50_
