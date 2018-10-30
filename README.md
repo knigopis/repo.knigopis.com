@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Slava](users/190/1905624049550842-facebook)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>184</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>0</sup> 
 [katrinzhitnikova](users/868/86840822-vkontakte)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>35</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>144</sup> 
 [KKK](users/105/105942926153263024342-google)<sup>1</sup> 
-[Vincent](users/201/2016951838374499-facebook)<sup>0</sup> 
 
 
-_29.10.2018 21:51:50_
+_30.10.2018 05:03:46_
