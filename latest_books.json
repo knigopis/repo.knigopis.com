@@ -1,4 +1,16 @@
 {
+    "kFunv8_6DY": {
+        "id": "kFunv8_6DY",
+        "title": "Смирительная рубашка",
+        "author": "Джек Лондон",
+        "notes": "Роман `Смирительная рубашка` - фантазии на исторические темы, не претендующие на точность и достоверность, повествование о приключениях предков главного героя в далеком прошлом. \nПодробнее на livelib.ru:\nhttps://www.livelib.ru/author/2082/top/listview/biglist/~3",
+        "createdAt": "2018-10-30 18:16:39",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "raikiya",
+            "booksCount": 15
+        }
+    },
     "PEu_yre6Qz": {
         "id": "PEu_yre6Qz",
         "title": "Время-не-ждет",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 44
-        }
-    },
-    "7h7QDL6T45": {
-        "id": "7h7QDL6T45",
-        "title": "Контрибуция",
-        "author": "Леонид Юзефович",
-        "notes": "",
-        "createdAt": "2018-10-23 16:28:37",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 43
         }
     }
 }
