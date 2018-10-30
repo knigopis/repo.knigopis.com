@@ -1,4 +1,16 @@
 {
+    "M-uwwphB58": {
+        "id": "M-uwwphB58",
+        "title": "Гарри Поттер и философский камень",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2018-10-30 05:05:20",
+        "user": {
+            "id": "1905624049550842-facebook",
+            "nickname": "Slava",
+            "booksCount": 1
+        }
+    },
     "fAf4pD9wp-": {
         "id": "fAf4pD9wp-",
         "title": "Кто сказал, что слоны не умеют танцевать?",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 138
-        }
-    },
-    "HlTnK8Jpic": {
-        "id": "HlTnK8Jpic",
-        "title": "О дивный новы мир!",
-        "author": "Олдос Хаксли",
-        "notes": "Ну тут можно и не писать примечания. Слава идет далеко перед ней. Просто еще одна антиутопия, очень интересное изложение.",
-        "createdAt": "2018-10-16 21:12:08",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 50
         }
     }
 }
