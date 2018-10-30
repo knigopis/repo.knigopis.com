@@ -1,4 +1,16 @@
 {
+    "bsWxX5Mp4Q": {
+        "id": "bsWxX5Mp4Q",
+        "title": "Гарри Поттер (1-8 части)",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2018-10-30 18:22:18",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "raikiya",
+            "booksCount": 20
+        }
+    },
     "5jzHy3U19G": {
         "id": "5jzHy3U19G",
         "title": "Отелло",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 87
-        }
-    },
-    "8DKNkHXLzI": {
-        "id": "8DKNkHXLzI",
-        "title": "Трансформатор",
-        "author": "Дмитрий Палагин",
-        "notes": "",
-        "createdAt": "2018-10-24 06:51:01",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 331
         }
     }
 }
