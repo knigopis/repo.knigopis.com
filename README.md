@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[raikiya](users/117/117835844513813219393-google)<sup>7</sup> 
+[raikiya](users/117/117835844513813219393-google)<sup>8</sup> 
 [kokoshechka](users/100/100559461588498718704-google)<sup>0</sup> 
 [Slava](users/190/1905624049550842-facebook)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>184</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>35</sup> 
 
 
-_30.10.2018 18:05:58_
+_30.10.2018 18:07:10_
