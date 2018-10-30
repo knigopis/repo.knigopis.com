@@ -1,4 +1,10 @@
 {
+    "100559461588498718704-google": {
+        "id": "100559461588498718704-google",
+        "nickname": "kokoshechka",
+        "booksCount": 0,
+        "updatedAt": "2018-10-30 10:26:14"
+    },
     "1905624049550842-facebook": {
         "id": "1905624049550842-facebook",
         "nickname": "Slava",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 144,
         "updatedAt": "2018-10-18 04:10:41"
-    },
-    "105942926153263024342-google": {
-        "id": "105942926153263024342-google",
-        "nickname": "KKK",
-        "booksCount": 1,
-        "updatedAt": "2018-10-17 20:15:21"
     }
 }
