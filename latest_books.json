@@ -1,4 +1,16 @@
 {
+    "0Adl8CXUhO": {
+        "id": "0Adl8CXUhO",
+        "title": "Хроники Нарнии",
+        "author": "Клайв Стейплз Льюис",
+        "notes": "",
+        "createdAt": "2018-10-30 18:23:59",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "raikiya",
+            "booksCount": 21
+        }
+    },
     "bsWxX5Mp4Q": {
         "id": "bsWxX5Mp4Q",
         "title": "Гарри Поттер (1-8 части)",
@@ -345,18 +357,6 @@
             "id": "6259590452259030261-mailru",
             "nickname": "Александр Погодин",
             "booksCount": 1
-        }
-    },
-    "NYdAT6_LN6": {
-        "id": "NYdAT6_LN6",
-        "title": "1916. Война и Мир",
-        "author": "Миропольский Дмитрий",
-        "notes": "ISBN: 978-5-17-108058-7",
-        "createdAt": "2018-10-24 14:59:29",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 87
         }
     }
 }
