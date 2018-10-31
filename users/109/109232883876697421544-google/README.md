@@ -1,7 +1,12 @@
-# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>29</sup>
+# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>30</sup>
 ---
 
 ## 2018
+
+### Harry Potter and the Deathly Hallows
+Joanne Rowling
+> [2018-10-29] 
+
 
 ### Harry Potter and the Half-Blood Prince
 Joanne Rowling

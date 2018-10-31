@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Andry-Bal](users/109/109232883876697421544-google)<sup>30</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>1</sup> 
 [Апрелька](users/102/10204987254158701-facebook)<sup>0</sup> 
 [raikiya](users/117/117835844513813219393-google)<sup>32</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Neylo](users/101/101616587824797254055-google)<sup>0</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>17</sup> 
 [violet_velva](users/116/116961712580551399099-googleplus)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>139</sup> 
 
 
-_31.10.2018 13:57:19_
+_31.10.2018 17:02:15_
