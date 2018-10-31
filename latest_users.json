@@ -1,4 +1,10 @@
 {
+    "10204987254158701-facebook": {
+        "id": "10204987254158701-facebook",
+        "nickname": "Апрелька",
+        "booksCount": 0,
+        "updatedAt": "2018-10-31 13:20:02"
+    },
     "117835844513813219393-google": {
         "id": "117835844513813219393-google",
         "nickname": "raikiya",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 139,
         "updatedAt": "2018-10-19 09:38:48"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 35,
-        "updatedAt": "2018-10-18 10:40:26"
     }
 }
