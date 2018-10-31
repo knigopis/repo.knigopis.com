@@ -37,12 +37,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Asiar](users/115/115902526849562271887-google)<sup>1</sup> 
 [Апрелька](users/102/10204987254158701-facebook)<sup>0</sup> 
 [raikiya](users/117/117835844513813219393-google)<sup>32</sup> 
 [kokoshechka](users/100/100559461588498718704-google)<sup>0</sup> 
 [Slava](users/190/1905624049550842-facebook)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>184</sup> 
-[Asiar](users/115/115902526849562271887-google)<sup>0</sup> 
 [katrinzhitnikova](users/868/86840822-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>108</sup> 
 [Тата](users/257/257428895-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>139</sup> 
 
 
-_31.10.2018 13:20:05_
+_31.10.2018 13:57:19_

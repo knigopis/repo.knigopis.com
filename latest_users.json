@@ -1,4 +1,10 @@
 {
+    "115902526849562271887-google": {
+        "id": "115902526849562271887-google",
+        "nickname": "Asiar",
+        "booksCount": 1,
+        "updatedAt": "2018-10-31 13:57:19"
+    },
     "10204987254158701-facebook": {
         "id": "10204987254158701-facebook",
         "nickname": "Апрелька",
@@ -28,12 +34,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 184,
         "updatedAt": "2018-10-29 21:51:50"
-    },
-    "115902526849562271887-google": {
-        "id": "115902526849562271887-google",
-        "nickname": "Asiar",
-        "booksCount": 0,
-        "updatedAt": "2018-10-29 18:09:44"
     },
     "86840822-vkontakte": {
         "id": "86840822-vkontakte",
