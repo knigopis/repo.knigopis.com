@@ -37,10 +37,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Aleks](users/117/117835844513813219393-google)<sup>32</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>30</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>1</sup> 
 [Апрелька](users/102/10204987254158701-facebook)<sup>0</sup> 
-[raikiya](users/117/117835844513813219393-google)<sup>32</sup> 
 [kokoshechka](users/100/100559461588498718704-google)<sup>0</sup> 
 [Slava](users/190/1905624049550842-facebook)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>184</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-googleplus)<sup>0</sup> 
 
 
-_31.10.2018 17:02:15_
+_01.11.2018 13:18:15_
