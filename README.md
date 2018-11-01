@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Aleks](users/117/117835844513813219393-google)<sup>32</sup> 
+[Aleks](users/117/117835844513813219393-google)<sup>33</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>30</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>1</sup> 
 [Апрелька](users/102/10204987254158701-facebook)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-googleplus)<sup>0</sup> 
 
 
-_01.11.2018 13:18:15_
+_01.11.2018 14:00:29_
