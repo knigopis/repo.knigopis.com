@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 666,
+        "updatedAt": "2018-11-02 19:43:08"
+    },
     "237559775-vkontakte": {
         "id": "237559775-vkontakte",
         "nickname": "Yoite Hikaru",
@@ -172,11 +178,5 @@
         "nickname": "Neylo",
         "booksCount": 0,
         "updatedAt": "2018-10-19 23:52:25"
-    },
-    "225880893-vkontakte": {
-        "id": "225880893-vkontakte",
-        "nickname": "Артур Вольнов",
-        "booksCount": 17,
-        "updatedAt": "2018-10-19 16:02:45"
     }
 }
