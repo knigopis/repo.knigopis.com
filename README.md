@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[masterpiece131313](users/107/107362372244131361011-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>666</sup> 
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>1</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>33</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Stacy](users/309/30902475-vkontakte)<sup>3</sup> 
 [marshallerr](users/125/125449982-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>36</sup> 
-[Neylo](users/101/101616587824797254055-google)<sup>0</sup> 
 
 
-_02.11.2018 19:43:10_
+_02.11.2018 21:43:47_
