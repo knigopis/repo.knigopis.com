@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Yoite Hikaru](users/237/237559775-vkontakte)<sup>1</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>33</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>30</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>1</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>36</sup> 
 [Neylo](users/101/101616587824797254055-google)<sup>0</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>17</sup> 
-[violet_velva](users/116/116961712580551399099-googleplus)<sup>0</sup> 
 
 
-_01.11.2018 14:00:29_
+_02.11.2018 16:26:31_
