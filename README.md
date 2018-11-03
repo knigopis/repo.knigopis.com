@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 🧙🏻‍♂️Гарри Поттер и Орден Феникса ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>50</sup>
+    > Самая эмоциональная и насыщенная часть
+
 * Кто сказал, что слоны не умеют танцевать? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>184</sup>
     > в процессе
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/5818508/
 
 * Эрик, а также Ночная Стража, ведьмы и Коэн-Варвар ~ [Garka](users/115/115753719718250012620-google)<sup>198</sup>
-    > Книга состоит из 4х рассказов - основной "Эрик" (главный герой Ринсвинд) и 3 небольших про стражу, матушку Ветровоск и Коэна-варвара. Про стражу слабовато, остальные три очень даже ничего.
 
 * 1916. Война и Мир ~ [exulted](users/100/100599204551896265722-google)<sup>87</sup>
 
@@ -30,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * О дивный новы мир! ~ [violet_velva](users/116/116961712580551399099-google)<sup>50</sup>
 
-* Расщелина ~ [violet_velva](users/116/116961712580551399099-google)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[GvenVivar ](users/158/158266434925901-facebook)<sup>49</sup> 
+[GvenVivar ](users/158/158266434925901-facebook)<sup>50</sup> 
 [masterpiece131313](users/107/107362372244131361011-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>666</sup> 
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [marshallerr](users/125/125449982-vkontakte)<sup>0</sup> 
 
 
-_03.11.2018 15:30:22_
+_03.11.2018 15:31:36_
