@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шикаста ~ [violet_velva](users/116/116961712580551399099-google)<sup>51</sup>
+    > Это первая книга из космического цикла Дорис Лессинг. Книга интересная, но некоторые моменты мне совсем непонятны остались. Думаю, почитаю и другие книги из этого же цикла хотя бы для того, чтобы у меня целостная картина. 
+    > Любопытная теория о том, как произошла жизнь на Земле. Земля - колония Канопуса, жизнь завезли искусственно. Поначалу были гигинты, которые существовали в гармонии с природой и жили по нескольку тысяч лет. Затем население начало постепенно изменяться, мутировать, вырождаться. И выродилось с людей. Таких, какими мы стали сейчас. Описывается период вплоть до того периода, когда люди пережили Третью мировую войну и неожиданным образом вернулись к первоначальному укладу, как было при гигантах.
+
 * Понедельник начинается в субботу ~ [Garka](users/115/115753719718250012620-google)<sup>199</sup>
     > НИИЧАВО конечно дааа, научно обоснованная магия
 
@@ -12,9 +16,6 @@ Do not use pull requests to make changes here.
     > Самая эмоциональная и насыщенная часть
 
 * Кто сказал, что слоны не умеют танцевать? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>184</sup>
-    > в процессе
-    > 
-    > https://e-libra.ru/read/150841-kto-skazal-chto-slony-ne-umeyut-tancevat-vozrozhdenie-korporacii-ibm-vzglyad-iznutri.html
 
 * Спонтанность сознания ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>183</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Повелитель мух ~ [Garka](users/115/115753719718250012620-google)<sup>197</sup>
 
-* 4-я Донская казачья  Дивизия в Русско японской войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>35</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>51</sup> 
 [Катерина](users/297/297475825919701688-mailru)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>199</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>50</sup> 
@@ -64,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup> 
 [ADeus](users/100/100065468278098668934-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>161</sup> 
-[Stacy](users/309/30902475-vkontakte)<sup>3</sup> 
 
 
-_03.11.2018 17:57:56_
+_03.11.2018 20:13:03_

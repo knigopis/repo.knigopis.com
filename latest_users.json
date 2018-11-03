@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-google": {
+        "id": "116961712580551399099-google",
+        "nickname": "violet_velva",
+        "booksCount": 51,
+        "updatedAt": "2018-11-03 20:13:03"
+    },
     "297475825919701688-mailru": {
         "id": "297475825919701688-mailru",
         "nickname": "Катерина",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 161,
         "updatedAt": "2018-10-21 19:35:12"
-    },
-    "30902475-vkontakte": {
-        "id": "30902475-vkontakte",
-        "nickname": "Stacy",
-        "booksCount": 3,
-        "updatedAt": "2018-10-21 15:27:04"
     }
 }
