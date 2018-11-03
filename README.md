@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Катерина](users/297/297475825919701688-mailru)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>199</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>50</sup> 
 [masterpiece131313](users/107/107362372244131361011-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ADeus](users/100/100065468278098668934-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>161</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>3</sup> 
-[marshallerr](users/125/125449982-vkontakte)<sup>0</sup> 
 
 
-_03.11.2018 17:49:34_
+_03.11.2018 17:50:04_
