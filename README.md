@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>49</sup> 
 [masterpiece131313](users/107/107362372244131361011-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>666</sup> 
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>1</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>161</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>3</sup> 
 [marshallerr](users/125/125449982-vkontakte)<sup>0</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>36</sup> 
 
 
-_02.11.2018 21:43:47_
+_03.11.2018 15:30:22_

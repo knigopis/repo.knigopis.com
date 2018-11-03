@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 49,
+        "updatedAt": "2018-11-03 15:30:22"
+    },
     "107362372244131361011-google": {
         "id": "107362372244131361011-google",
         "nickname": "masterpiece131313",
@@ -172,11 +178,5 @@
         "nickname": "marshallerr",
         "booksCount": 0,
         "updatedAt": "2018-10-20 20:13:37"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 36,
-        "updatedAt": "2018-10-20 11:55:08"
     }
 }
