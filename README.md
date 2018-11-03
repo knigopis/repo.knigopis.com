@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Понедельник начинается в субботу ~ [Garka](users/115/115753719718250012620-google)<sup>199</sup>
+    > НИИЧАВО конечно дааа, научно обоснованная магия
+
 * 🧙🏻‍♂️Гарри Поттер и Орден Феникса ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>50</sup>
     > Самая эмоциональная и насыщенная часть
 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > https://e-libra.ru/read/150841-kto-skazal-chto-slony-ne-umeyut-tancevat-vozrozhdenie-korporacii-ibm-vzglyad-iznutri.html
 
 * Спонтанность сознания ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>183</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/5818508/
 
 * Эрик, а также Ночная Стража, ведьмы и Коэн-Варвар ~ [Garka](users/115/115753719718250012620-google)<sup>198</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * 4-я Донская казачья  Дивизия в Русско японской войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>35</sup>
 
-* О дивный новы мир! ~ [violet_velva](users/116/116961712580551399099-google)<sup>50</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>199</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>50</sup> 
 [masterpiece131313](users/107/107362372244131361011-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>666</sup> 
@@ -52,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>108</sup> 
 [Тата](users/257/257428895-vkontakte)<sup>0</sup> 
 [olalightning](users/273/273251135-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>198</sup> 
 [varvarix_v](users/133/133591628-vkontakte)<sup>1</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>69</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>1</sup> 
@@ -69,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [marshallerr](users/125/125449982-vkontakte)<sup>0</sup> 
 
 
-_03.11.2018 15:31:36_
+_03.11.2018 17:49:34_
