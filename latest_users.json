@@ -1,4 +1,10 @@
 {
+    "297475825919701688-mailru": {
+        "id": "297475825919701688-mailru",
+        "nickname": "Катерина",
+        "booksCount": 0,
+        "updatedAt": "2018-11-03 17:50:04"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Stacy",
         "booksCount": 3,
         "updatedAt": "2018-10-21 15:27:04"
-    },
-    "125449982-vkontakte": {
-        "id": "125449982-vkontakte",
-        "nickname": "marshallerr",
-        "booksCount": 0,
-        "updatedAt": "2018-10-20 20:13:37"
     }
 }
