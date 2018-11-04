@@ -1,4 +1,10 @@
 {
+    "2073442752706226-facebook": {
+        "id": "2073442752706226-facebook",
+        "nickname": "Chiffi",
+        "booksCount": 0,
+        "updatedAt": "2018-11-04 08:20:36"
+    },
     "117259947-yandex": {
         "id": "117259947-yandex",
         "nickname": "BigKhan",
@@ -172,11 +178,5 @@
         "nickname": "Леди Ветра",
         "booksCount": 0,
         "updatedAt": "2018-10-22 20:50:16"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 44,
-        "updatedAt": "2018-10-22 07:24:32"
     }
 }
