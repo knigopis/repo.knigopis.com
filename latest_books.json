@@ -1,4 +1,16 @@
 {
+    "fSjY5l0r3E": {
+        "id": "fSjY5l0r3E",
+        "title": "Повесть о господине Зоммере",
+        "author": "Патрик Зюскинд",
+        "notes": "7/10",
+        "createdAt": "2018-11-04 12:03:33",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 95
+        }
+    },
     "_K44Fp_XiM": {
         "id": "_K44Fp_XiM",
         "title": "Отражение,  Искажение",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "raikiya",
             "booksCount": 21
-        }
-    },
-    "bsWxX5Mp4Q": {
-        "id": "bsWxX5Mp4Q",
-        "title": "Гарри Поттер (1-8 части)",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2018-10-30 18:22:18",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "raikiya",
-            "booksCount": 20
         }
     }
 }

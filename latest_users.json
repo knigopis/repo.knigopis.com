@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 95,
+        "updatedAt": "2018-11-04 12:03:33"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "kasikandriena",
         "booksCount": 50,
         "updatedAt": "2018-10-23 19:23:29"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 45,
-        "updatedAt": "2018-10-23 16:31:44"
     }
 }
