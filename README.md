@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[rNix](users/115/115622071-twitter)<sup>65</sup> 
+[rNix](users/115/115622071-twitter)<sup>64</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>51</sup> 
 [Катерина](users/297/297475825919701688-mailru)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>199</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ADeus](users/100/100065468278098668934-google)<sup>0</sup> 
 
 
-_04.11.2018 07:34:45_
+_04.11.2018 07:35:21_
