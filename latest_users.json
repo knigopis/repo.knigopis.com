@@ -1,4 +1,10 @@
 {
+    "117259947-yandex": {
+        "id": "117259947-yandex",
+        "nickname": "BigKhan",
+        "booksCount": 6,
+        "updatedAt": "2018-11-04 08:01:37"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 44,
         "updatedAt": "2018-10-22 07:24:32"
-    },
-    "100065468278098668934-google": {
-        "id": "100065468278098668934-google",
-        "nickname": "ADeus",
-        "booksCount": 0,
-        "updatedAt": "2018-10-21 22:44:53"
     }
 }

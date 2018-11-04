@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[BigKhan](users/117/117259947-yandex)<sup>6</sup> 
 [rNix](users/115/115622071-twitter)<sup>64</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>51</sup> 
 [Катерина](users/297/297475825919701688-mailru)<sup>5</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>45</sup> 
 [Леди Ветра](users/313/313791142506683-facebook)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup> 
-[ADeus](users/100/100065468278098668934-google)<sup>0</sup> 
 
 
-_04.11.2018 07:35:21_
+_04.11.2018 08:01:37_

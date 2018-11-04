@@ -1,7 +1,12 @@
-# List of books read by alexander.khanov<sup>5</sup>
+# List of books read by BigKhan<sup>6</sup>
 ---
 
 ## 2018
+
+### 12 стульев
+Ильф и Петров
+> [2018-11-04] 
+
 
 ### Ночь в Лиссабоне
 Э. Ремарк
