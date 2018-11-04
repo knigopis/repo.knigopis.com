@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Музыкантша](users/107/107210896927993390084-google)<sup>0</sup> 
+[Музыкантша](users/107/107210896927993390084-google)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>95</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>76</sup> 
 [Chiffi](users/207/2073442752706226-facebook)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>75</sup> 
 
 
-_04.11.2018 13:19:01_
+_04.11.2018 13:19:30_
