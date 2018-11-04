@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>75</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>76</sup>
 ---
 
 ## 2018
+
+### Отражение,  Искажение
+Панов Вадим
+> [2018-10] 
+
 
 ### Путь князя
 Злотников Роман

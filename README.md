@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>76</sup> 
 [Chiffi](users/207/2073442752706226-facebook)<sup>0</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>6</sup> 
 [rNix](users/115/115622071-twitter)<sup>64</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>75</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>50</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>45</sup> 
-[Леди Ветра](users/313/313791142506683-facebook)<sup>0</sup> 
 
 
-_04.11.2018 08:20:36_
+_04.11.2018 08:21:24_
