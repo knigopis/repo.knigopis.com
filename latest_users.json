@@ -1,4 +1,10 @@
 {
+    "107210896927993390084-google": {
+        "id": "107210896927993390084-google",
+        "nickname": "Музыкантша",
+        "booksCount": 0,
+        "updatedAt": "2018-11-04 13:19:00"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "joan789",
         "booksCount": 75,
         "updatedAt": "2018-10-23 19:56:34"
-    },
-    "152488954-vkontakte": {
-        "id": "152488954-vkontakte",
-        "nickname": "kasikandriena",
-        "booksCount": 50,
-        "updatedAt": "2018-10-23 19:23:29"
     }
 }
