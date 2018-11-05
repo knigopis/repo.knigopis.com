@@ -1,7 +1,12 @@
-# List of books read by [Asiar](https://plus.google.com/115902526849562271887)<sup>2</sup>
+# List of books read by [Asiar](https://plus.google.com/115902526849562271887)<sup>3</sup>
 ---
 
 ## 2018
+
+### World of Warcraft. Багровый круг
+Симонсон, люллаби, хоуп
+> [2018-11-05] Типичный сёнен про Вариана.
+
 
 ### Choice theory. a very short introduction
 Michael Allingham

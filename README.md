@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Asiar](users/115/115902526849562271887-google)<sup>2</sup> 
+[Asiar](users/115/115902526849562271887-google)<sup>3</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [Мышь Тэки](users/200/2000052600056325-facebook)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>96</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>331</sup> 
 
 
-_05.11.2018 10:55:19_
+_05.11.2018 12:00:24_
