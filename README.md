@@ -34,12 +34,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [Мышь Тэки](users/200/2000052600056325-facebook)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>96</sup> 
 [Музыкантша](users/107/107210896927993390084-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>76</sup> 
 [Chiffi](users/207/2073442752706226-facebook)<sup>0</sup> 
-[BigKhan](users/117/117259947-yandex)<sup>6</sup> 
 [rNix](users/115/115622071-twitter)<sup>64</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>51</sup> 
 [Катерина](users/297/297475825919701688-mailru)<sup>5</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>331</sup> 
 
 
-_05.11.2018 03:25:51_
+_05.11.2018 09:44:25_

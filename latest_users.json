@@ -1,4 +1,10 @@
 {
+    "117259947-yandex": {
+        "id": "117259947-yandex",
+        "nickname": "BigKhan",
+        "booksCount": 7,
+        "updatedAt": "2018-11-05 09:44:25"
+    },
     "2000052600056325-facebook": {
         "id": "2000052600056325-facebook",
         "nickname": "Мышь Тэки",
@@ -28,12 +34,6 @@
         "nickname": "Chiffi",
         "booksCount": 0,
         "updatedAt": "2018-11-04 08:20:36"
-    },
-    "117259947-yandex": {
-        "id": "117259947-yandex",
-        "nickname": "BigKhan",
-        "booksCount": 6,
-        "updatedAt": "2018-11-04 08:01:37"
     },
     "115622071-twitter": {
         "id": "115622071-twitter",
