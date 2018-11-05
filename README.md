@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Мышь Тэки](users/200/2000052600056325-facebook)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>96</sup> 
 [Музыкантша](users/107/107210896927993390084-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>76</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>87</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>331</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>75</sup> 
 
 
-_04.11.2018 13:36:00_
+_05.11.2018 03:25:01_
