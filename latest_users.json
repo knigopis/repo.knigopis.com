@@ -1,4 +1,10 @@
 {
+    "115902526849562271887-google": {
+        "id": "115902526849562271887-google",
+        "nickname": "Asiar",
+        "booksCount": 2,
+        "updatedAt": "2018-11-05 10:55:19"
+    },
     "117259947-yandex": {
         "id": "117259947-yandex",
         "nickname": "BigKhan",
@@ -94,12 +100,6 @@
         "nickname": "Andry-Bal",
         "booksCount": 30,
         "updatedAt": "2018-10-31 17:02:15"
-    },
-    "115902526849562271887-google": {
-        "id": "115902526849562271887-google",
-        "nickname": "Asiar",
-        "booksCount": 1,
-        "updatedAt": "2018-10-31 13:57:19"
     },
     "10204987254158701-facebook": {
         "id": "10204987254158701-facebook",

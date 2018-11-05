@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Asiar](users/115/115902526849562271887-google)<sup>2</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [Мышь Тэки](users/200/2000052600056325-facebook)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>96</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>1</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>33</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>30</sup> 
-[Asiar](users/115/115902526849562271887-google)<sup>1</sup> 
 [Апрелька](users/102/10204987254158701-facebook)<sup>0</sup> 
 [kokoshechka](users/100/100559461588498718704-google)<sup>0</sup> 
 [Slava](users/190/1905624049550842-facebook)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>331</sup> 
 
 
-_05.11.2018 09:44:25_
+_05.11.2018 10:55:19_
