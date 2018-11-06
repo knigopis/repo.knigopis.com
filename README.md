@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Наследие великанов ~ [Chiffi](users/105/105831994080785626680-google)<sup>77</sup>
+    > даже с амёбой нужно хитрить, хотя она умеет только делиться. ......толпа…  Не показывайте, что вы её презираете, но не позволяйте себе испытывать к ней уважение, потому что толпа  – это не сумма собранных в одном месте интеллектов, а тупая и грязная глина, из которой вы должны слепить то, что вам нужно.
+
 * Маленькие тролли и большое наводнение ~ [joan789](users/240/2401650-vkontakte)<sup>76</sup>
     > Первая книга о муми-троллях.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Тест ~ [rNix](users/115/115622071-twitter)<sup>65</sup>
-    > тестовое
 
 * Шикаста ~ [violet_velva](users/116/116961712580551399099-google)<sup>51</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Эрик, а также Ночная Стража, ведьмы и Коэн-Варвар ~ [Garka](users/115/115753719718250012620-google)<sup>198</sup>
 
-* 1916. Война и Мир ~ [exulted](users/100/100599204551896265722-google)<sup>87</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>77</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>76</sup> 
 [MixMax](users/101/101518605191036306948-google)<sup>0</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>3</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Мышь Тэки](users/200/2000052600056325-facebook)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>96</sup> 
 [Музыкантша](users/107/107210896927993390084-google)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>76</sup> 
 [Chiffi](users/207/2073442752706226-facebook)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>64</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>51</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>1</sup> 
 
 
-_06.11.2018 16:49:01_
+_06.11.2018 18:35:56_

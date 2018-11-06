@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Наследие великанов ~ [Chiffi](users/105/105831994080785626680-google)<sup>77</sup>
 * Маленькие тролли и большое наводнение ~ [joan789](users/240/2401650-vkontakte)<sup>76</sup>
 * Повесть о господине Зоммере ~ [Apprentice ](users/528/52821952-vkontakte)<sup>95</sup>
 * Тест ~ [rNix](users/115/115622071-twitter)<sup>65</sup>
@@ -30,7 +31,6 @@
 * Родимый Край 1960-1963 ~ [mfevralev](users/140/140966150-vkontakte)<sup>34</sup>
 * Кошки ~ [violet_velva](users/116/116961712580551399099-google)<sup>48</sup>
 * 1984 ~ [violet_velva](users/116/116961712580551399099-google)<sup>47</sup>
-* Маленький принц ~ [kissamasya](users/684/68439978-vkontakte)<sup>42</sup>
 
 
-_06.11.2018 16:49:01_
+_06.11.2018 18:35:56_
