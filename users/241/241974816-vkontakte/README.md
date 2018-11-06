@@ -3,6 +3,13 @@
 
 ## 2018
 
+### Кто сказал, что слоны не умеют танцевать?
+Луис Герстнер
+> [2018-11-06] Хорошие мемуары, интересно почитать, на что и как обращали внимание при спасении IBM.
+> 
+> https://e-libra.ru/read/150841-kto-skazal-chto-slony-ne-umeyut-tancevat-vozrozhdenie-korporacii-ibm-vzglyad-iznutri.html
+
+
 ### Спонтанность сознания
 Василий Налимов
 > [2018-11-06] Очень глубокая, задумчивая философия с математикой. Для истинных ценителей Налимова.
@@ -19,13 +26,6 @@
 > в процессе
 > 
 > http://www.ozon.ru/context/detail/id/1563014/
-
-
-### Кто сказал, что слоны не умеют танцевать?
-Луис Герстнер
-> [2018-10-30] в процессе
-> 
-> https://e-libra.ru/read/150841-kto-skazal-chto-slony-ne-umeyut-tancevat-vozrozhdenie-korporacii-ibm-vzglyad-iznutri.html
 
 
 ### 48 законов власти
