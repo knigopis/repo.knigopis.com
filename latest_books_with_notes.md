@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Маленькие тролли и большое наводнение ~ [joan789](users/240/2401650-vkontakte)<sup>76</sup>
 * Повесть о господине Зоммере ~ [Apprentice ](users/528/52821952-vkontakte)<sup>95</sup>
 * Тест ~ [rNix](users/115/115622071-twitter)<sup>65</sup>
 * Шикаста ~ [violet_velva](users/116/116961712580551399099-google)<sup>51</sup>
@@ -30,7 +31,6 @@
 * Кошки ~ [violet_velva](users/116/116961712580551399099-google)<sup>48</sup>
 * 1984 ~ [violet_velva](users/116/116961712580551399099-google)<sup>47</sup>
 * Маленький принц ~ [kissamasya](users/684/68439978-vkontakte)<sup>42</sup>
-* Брошенная в бездну ~ [mgirl1994@mail.ru](users/156/15641244064688722584-mailru)<sup>3</sup>
 
 
-_04.11.2018 12:03:33_
+_06.11.2018 16:49:01_
