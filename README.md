@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[MixMax](users/101/101518605191036306948-google)<sup>0</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>3</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [Мышь Тэки](users/200/2000052600056325-facebook)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>69</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>87</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>331</sup> 
 
 
-_05.11.2018 12:00:24_
+_06.11.2018 04:00:37_
