@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>332</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>77</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>76</sup> 
 [MixMax](users/101/101518605191036306948-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [olalightning](users/273/273251135-vkontakte)<sup>0</sup> 
 [varvarix_v](users/133/133591628-vkontakte)<sup>1</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>69</sup> 
-[Александр Погодин](users/625/6259590452259030261-mailru)<sup>1</sup> 
 
 
-_06.11.2018 18:35:56_
+_07.11.2018 05:31:54_

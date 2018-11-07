@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 332,
+        "updatedAt": "2018-11-07 05:31:53"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "ODINSY",
         "booksCount": 69,
         "updatedAt": "2018-10-25 15:25:47"
-    },
-    "6259590452259030261-mailru": {
-        "id": "6259590452259030261-mailru",
-        "nickname": "Александр Погодин",
-        "booksCount": 1,
-        "updatedAt": "2018-10-25 09:53:43"
     }
 }
