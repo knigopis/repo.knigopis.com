@@ -1,4 +1,10 @@
 {
+    "102536471289425216982-google": {
+        "id": "102536471289425216982-google",
+        "nickname": "Окс",
+        "booksCount": 12,
+        "updatedAt": "2018-11-08 15:40:24"
+    },
     "684095007-yandex": {
         "id": "684095007-yandex",
         "nickname": "Leonid280497",
@@ -172,11 +178,5 @@
         "nickname": "Тата",
         "booksCount": 0,
         "updatedAt": "2018-10-28 15:40:53"
-    },
-    "273251135-vkontakte": {
-        "id": "273251135-vkontakte",
-        "nickname": "olalightning",
-        "booksCount": 0,
-        "updatedAt": "2018-10-26 09:48:31"
     }
 }
