@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>161</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>162</sup>
 ---
 
 ## 2018
+
+### Семь зверей Райлега. Тёрн
+Ник Перумов
+> [2018-11-08] Книга 1
+
 
 ### Кваzи
 Сергей Лукьяненко

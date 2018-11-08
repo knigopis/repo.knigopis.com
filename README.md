@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Семь зверей Райлега. Тёрн ~ [EsterHani](users/305/30558181-vkontakte)<sup>162</sup>
+    > Книга 1
+
 * Наследие великанов ~ [Chiffi](users/105/105831994080785626680-google)<sup>77</sup>
     > даже с амёбой нужно хитрить, хотя она умеет только делиться. ......толпа…  Не показывайте, что вы её презираете, но не позволяйте себе испытывать к ней уважение, потому что толпа  – это не сумма собранных в одном месте интеллектов, а тупая и грязная глина, из которой вы должны слепить то, что вам нужно.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Первая книга о муми-троллях.
 
 * Повесть о господине Зоммере ~ [Apprentice ](users/528/52821952-vkontakte)<sup>95</sup>
-    > 7/10
 
 * Тест ~ [rNix](users/115/115622071-twitter)<sup>65</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Спонтанность сознания ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>183</sup>
 
-* Эрик, а также Ночная Стража, ведьмы и Коэн-Варвар ~ [Garka](users/115/115753719718250012620-google)<sup>198</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>162</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>77</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>332</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>77</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Тата](users/257/257428895-vkontakte)<sup>0</sup> 
 [olalightning](users/273/273251135-vkontakte)<sup>0</sup> 
 [varvarix_v](users/133/133591628-vkontakte)<sup>1</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>69</sup> 
 
 
-_08.11.2018 10:54:50_
+_08.11.2018 14:01:20_
