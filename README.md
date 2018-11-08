@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[joan789](users/240/2401650-vkontakte)<sup>79</sup> 
+[joan789](users/240/2401650-vkontakte)<sup>80</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>12</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>162</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Тата](users/257/257428895-vkontakte)<sup>0</sup> 
 
 
-_08.11.2018 23:17:49_
+_08.11.2018 23:24:06_
