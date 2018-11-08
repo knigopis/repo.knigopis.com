@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Leonid280497](users/684/684095007-yandex)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>162</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>77</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>332</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>108</sup> 
 [Тата](users/257/257428895-vkontakte)<sup>0</sup> 
 [olalightning](users/273/273251135-vkontakte)<sup>0</sup> 
-[varvarix_v](users/133/133591628-vkontakte)<sup>1</sup> 
 
 
-_08.11.2018 14:01:20_
+_08.11.2018 14:23:35_
