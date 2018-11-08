@@ -1,4 +1,16 @@
 {
+    "37Chwaj2Aa": {
+        "id": "37Chwaj2Aa",
+        "title": "Падение дома Ашеров",
+        "author": "Эдгар По",
+        "notes": "Мрачный рассказ. Не хватает объяснения. 6/10 - чисто за вайб",
+        "createdAt": "2018-11-08 14:26:03",
+        "user": {
+            "id": "684095007-yandex",
+            "nickname": "Leonid280497",
+            "booksCount": 1
+        }
+    },
     "uF-x1Q7d-T": {
         "id": "uF-x1Q7d-T",
         "title": "Семь зверей Райлега. Тёрн",
@@ -345,18 +357,6 @@
             "id": "115902526849562271887-google",
             "nickname": "Asiar",
             "booksCount": 1
-        }
-    },
-    "1Ry7dFiGck": {
-        "id": "1Ry7dFiGck",
-        "title": "Поджигатели  Подробнее на livelib.ru: https://www.livelib.ru/book/1000290807-podzhigateli-kris-kliv",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-10-30 18:42:52",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "raikiya",
-            "booksCount": 32
         }
     }
 }
