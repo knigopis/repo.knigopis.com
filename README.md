@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105680958948790479255-google)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>86</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>12</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>184</sup> 
 [katrinzhitnikova](users/868/86840822-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>108</sup> 
-[Тата](users/257/257428895-vkontakte)<sup>0</sup> 
 
 
-_08.11.2018 23:56:08_
+_08.11.2018 23:56:11_
