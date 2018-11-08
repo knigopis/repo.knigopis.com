@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>77</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>332</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>77</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>76</sup> 
 [MixMax](users/101/101518605191036306948-google)<sup>0</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>3</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>69</sup> 
 
 
-_07.11.2018 05:31:54_
+_08.11.2018 10:54:50_
