@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Муми-тролль и комета ~ [joan789](users/240/2401650-vkontakte)<sup>78</sup>
 * Семь зверей Райлега. Тёрн ~ [EsterHani](users/305/30558181-vkontakte)<sup>162</sup>
 * Наследие великанов ~ [Chiffi](users/105/105831994080785626680-google)<sup>77</sup>
 * Маленькие тролли и большое наводнение ~ [joan789](users/240/2401650-vkontakte)<sup>76</sup>
@@ -30,7 +31,6 @@
 * Дьявол среди людей ~ [En](users/333/333646551-vkontakte)<sup>54</sup>
 * За закрытыми дверями ~ [kissamasya](users/684/68439978-vkontakte)<sup>42</sup>
 * Родимый Край 1960-1963 ~ [mfevralev](users/140/140966150-vkontakte)<sup>34</sup>
-* Кошки ~ [violet_velva](users/116/116961712580551399099-google)<sup>48</sup>
 
 
-_08.11.2018 14:01:20_
+_08.11.2018 22:20:35_
