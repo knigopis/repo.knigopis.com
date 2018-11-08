@@ -1,4 +1,16 @@
 {
+    "cwQoV2eZef": {
+        "id": "cwQoV2eZef",
+        "title": "Маска Красной смерти (рассказ)",
+        "author": "Эдгар А. По",
+        "notes": "",
+        "createdAt": "2018-11-08 23:58:58",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "joan789",
+            "booksCount": 87
+        }
+    },
     "V2acLVtkR8": {
         "id": "V2acLVtkR8",
         "title": "Бес противоречия",
@@ -345,18 +357,6 @@
             "id": "297475825919701688-mailru",
             "nickname": "Катерина",
             "booksCount": 4
-        }
-    },
-    "H1EEsZBzJJ": {
-        "id": "H1EEsZBzJJ",
-        "title": "Предендентка номер девять",
-        "author": "Кароль Елена",
-        "notes": "Первая книга",
-        "createdAt": "2018-11-03 17:56:13",
-        "user": {
-            "id": "297475825919701688-mailru",
-            "nickname": "Катерина",
-            "booksCount": 3
         }
     }
 }
