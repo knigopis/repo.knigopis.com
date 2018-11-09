@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>44</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>45</sup>
 ---
 
 ## 2018
+
+### Гробовое молчание
+Тесс Герритсен
+> [2018-11] 
+
 
 ### Паутина смерти
 > [2018-11] 

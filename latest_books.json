@@ -1,4 +1,16 @@
 {
+    "2VaDt-zUNp": {
+        "id": "2VaDt-zUNp",
+        "title": "Гробовое молчание",
+        "author": "Тесс Герритсен",
+        "notes": "",
+        "createdAt": "2018-11-09 04:51:56",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 45
+        }
+    },
     "a37fEe3SkG": {
         "id": "a37fEe3SkG",
         "title": "Паутина смерти",
@@ -345,18 +357,6 @@
             "id": "115902526849562271887-google",
             "nickname": "Asiar",
             "booksCount": 2
-        }
-    },
-    "rug-Uc7UAP": {
-        "id": "rug-Uc7UAP",
-        "title": "Воскресение",
-        "author": "Толстой",
-        "notes": "",
-        "createdAt": "2018-11-05 09:44:25",
-        "user": {
-            "id": "117259947-yandex",
-            "nickname": "BigKhan",
-            "booksCount": 7
         }
     }
 }
