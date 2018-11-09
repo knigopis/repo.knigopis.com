@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>41</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>42</sup>
 ---
 
 ## 2018
+
+### Хранитель смерти
+Тесс Герритсен
+> [2018-11] 
+
 
 ### Клуб Мефисто
 Тесс Герритсен

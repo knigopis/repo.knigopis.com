@@ -1,4 +1,16 @@
 {
+    "-PvA3ETluU": {
+        "id": "-PvA3ETluU",
+        "title": "Хранитель смерти",
+        "author": "Тесс Герритсен",
+        "notes": "",
+        "createdAt": "2018-11-09 04:50:50",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 42
+        }
+    },
     "0N0PB2F9kQ": {
         "id": "0N0PB2F9kQ",
         "title": "Клуб Мефисто",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 96
-        }
-    },
-    "y4P8ctVo5k": {
-        "id": "y4P8ctVo5k",
-        "title": "Сердце отдаю детям",
-        "author": "Шалва Амонашвили",
-        "notes": "",
-        "createdAt": "2018-11-04 13:19:30",
-        "user": {
-            "id": "107210896927993390084-google",
-            "nickname": "Музыкантша",
-            "booksCount": 1
         }
     }
 }
