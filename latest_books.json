@@ -1,4 +1,16 @@
 {
+    "opoeZiwUrx": {
+        "id": "opoeZiwUrx",
+        "title": "Лихорадка",
+        "author": "Тесс Герритсен",
+        "notes": "",
+        "createdAt": "2018-11-09 04:53:16",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 47
+        }
+    },
     "bbgeL4Xqmy": {
         "id": "bbgeL4Xqmy",
         "title": "Неопознанное тело",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 76
-        }
-    },
-    "0IFAkSEKLZ": {
-        "id": "0IFAkSEKLZ",
-        "title": "World of Warcraft. Багровый круг",
-        "author": "Симонсон, люллаби, хоуп",
-        "notes": "Типичный сёнен про Вариана.",
-        "createdAt": "2018-11-05 12:00:24",
-        "user": {
-            "id": "115902526849562271887-google",
-            "nickname": "Asiar",
-            "booksCount": 3
         }
     }
 }
