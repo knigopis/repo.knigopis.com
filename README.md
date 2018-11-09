@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[le_brouillard](users/133/13330781-vkontakte)<sup>42</sup> 
+[le_brouillard](users/133/13330781-vkontakte)<sup>43</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>89</sup> 
 [](users/105/105680958948790479255-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>12</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinzhitnikova](users/868/86840822-vkontakte)<sup>0</sup> 
 
 
-_09.11.2018 04:50:50_
+_09.11.2018 04:51:09_

@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>42</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>43</sup>
 ---
 
 ## 2018
+
+### Гиблое место
+Тесс Герритсен
+> [2018-11] 
+
 
 ### Хранитель смерти
 Тесс Герритсен
