@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>48</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>49</sup>
 ---
 
 ## 2018
+
+### Смерть под ножом хирурга
+Тесс Герритсен
+> [2018-11] 
+
 
 ### Бешенство
 Тесс Герритсен
