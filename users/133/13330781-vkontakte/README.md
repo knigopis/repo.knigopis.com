@@ -1,7 +1,11 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>43</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>44</sup>
 ---
 
 ## 2018
+
+### Паутина смерти
+> [2018-11] 
+
 
 ### Гиблое место
 Тесс Герритсен

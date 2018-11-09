@@ -1,4 +1,16 @@
 {
+    "a37fEe3SkG": {
+        "id": "a37fEe3SkG",
+        "title": "Паутина смерти",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-11-09 04:51:34",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 44
+        }
+    },
     "QoOndwPrg2": {
         "id": "QoOndwPrg2",
         "title": "Гиблое место",
@@ -345,18 +357,6 @@
             "id": "117259947-yandex",
             "nickname": "BigKhan",
             "booksCount": 7
-        }
-    },
-    "-tkMvOGnJi": {
-        "id": "-tkMvOGnJi",
-        "title": "Вокзал потерянных снов",
-        "author": "Чайна Мьевилль",
-        "notes": "",
-        "createdAt": "2018-11-05 03:25:51",
-        "user": {
-            "id": "2000052600056325-facebook",
-            "nickname": "Мышь Тэки",
-            "booksCount": 1
         }
     }
 }
