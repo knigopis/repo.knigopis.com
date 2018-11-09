@@ -1,4 +1,16 @@
 {
+    "FdFJbPQnYV": {
+        "id": "FdFJbPQnYV",
+        "title": "Дары волхвов",
+        "author": "О. Генри",
+        "notes": "",
+        "createdAt": "2018-11-09 16:54:46",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 128
+        }
+    },
     "KlLPtjG9vY": {
         "id": "KlLPtjG9vY",
         "title": "Яйцо",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 78
-        }
-    },
-    "XJHz2RRfO6": {
-        "id": "XJHz2RRfO6",
-        "title": "Мужчины с Марса, женщины с Венеры",
-        "author": "ГРЭЙ Джон",
-        "notes": "",
-        "createdAt": "2018-11-08 15:40:24",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 12
         }
     }
 }
