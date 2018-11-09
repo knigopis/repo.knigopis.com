@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>49</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>50</sup>
 ---
 
 ## 2018
+
+### Бизнес есть бизнес. 60 правдивых историй о том, как простые люди начали свое дело.
+Игорь Гансвинд
+> [2018-11] 
+
 
 ### Смерть под ножом хирурга
 Тесс Герритсен

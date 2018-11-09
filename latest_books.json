@@ -1,4 +1,16 @@
 {
+    "KweT8m03CO": {
+        "id": "KweT8m03CO",
+        "title": "Бизнес есть бизнес. 60 правдивых историй о том, как простые люди начали свое дело.",
+        "author": "Игорь Гансвинд",
+        "notes": "",
+        "createdAt": "2018-11-09 04:55:33",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 50
+        }
+    },
     "IFu7Fh2gFz": {
         "id": "IFu7Fh2gFz",
         "title": "Смерть под ножом хирурга",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 77
-        }
-    },
-    "KLScum_SmJ": {
-        "id": "KLScum_SmJ",
-        "title": "Sapiens. Краткая история человечества",
-        "author": "Йовадь ноэй хари",
-        "notes": "",
-        "createdAt": "2018-11-07 05:31:53",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 332
         }
     }
 }
