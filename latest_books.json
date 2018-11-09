@@ -1,4 +1,16 @@
 {
+    "KlLPtjG9vY": {
+        "id": "KlLPtjG9vY",
+        "title": "Яйцо",
+        "author": "Энди Вейер",
+        "notes": "",
+        "createdAt": "2018-11-09 16:54:17",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 127
+        }
+    },
     "QyAVvR0k48": {
         "id": "QyAVvR0k48",
         "title": "Зелёная дверь",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 12
-        }
-    },
-    "37Chwaj2Aa": {
-        "id": "37Chwaj2Aa",
-        "title": "Падение дома Ашеров",
-        "author": "Эдгар По",
-        "notes": "Мрачный рассказ. Не хватает объяснения. 6/10 - чисто за вайб",
-        "createdAt": "2018-11-08 14:26:03",
-        "user": {
-            "id": "684095007-yandex",
-            "nickname": "Leonid280497",
-            "booksCount": 1
         }
     }
 }
