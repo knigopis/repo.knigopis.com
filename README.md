@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115826717712507836033-google)<sup>126</sup> 
 [lalalalay](users/840/8405096-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>50</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>89</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Апрелька](users/102/10204987254158701-facebook)<sup>0</sup> 
 [kokoshechka](users/100/100559461588498718704-google)<sup>0</sup> 
 [Slava](users/190/1905624049550842-facebook)<sup>1</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>184</sup> 
 
 
-_09.11.2018 09:26:02_
+_09.11.2018 15:18:33_

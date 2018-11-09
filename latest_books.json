@@ -1,4 +1,16 @@
 {
+    "vDdzGeSBg-": {
+        "id": "vDdzGeSBg-",
+        "title": "Ветер",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2018-11-09 15:18:32",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 126
+        }
+    },
     "KweT8m03CO": {
         "id": "KweT8m03CO",
         "title": "Бизнес есть бизнес. 60 правдивых историй о том, как простые люди начали свое дело.",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 162
-        }
-    },
-    "pYWEQk4QRm": {
-        "id": "pYWEQk4QRm",
-        "title": "Волшебная зима",
-        "author": "Туве Янссон",
-        "notes": "",
-        "createdAt": "2018-11-08 10:54:50",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 77
         }
     }
 }
