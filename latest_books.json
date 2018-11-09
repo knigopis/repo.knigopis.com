@@ -1,4 +1,16 @@
 {
+    "0N0PB2F9kQ": {
+        "id": "0N0PB2F9kQ",
+        "title": "Клуб Мефисто",
+        "author": "Тесс Герритсен",
+        "notes": "",
+        "createdAt": "2018-11-09 04:50:19",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 41
+        }
+    },
     "iqsVLlOPex": {
         "id": "iqsVLlOPex",
         "title": "Смертницы",
@@ -345,18 +357,6 @@
             "id": "107210896927993390084-google",
             "nickname": "Музыкантша",
             "booksCount": 1
-        }
-    },
-    "fSjY5l0r3E": {
-        "id": "fSjY5l0r3E",
-        "title": "Повесть о господине Зоммере",
-        "author": "Патрик Зюскинд",
-        "notes": "7/10",
-        "createdAt": "2018-11-04 12:03:33",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 95
         }
     }
 }
