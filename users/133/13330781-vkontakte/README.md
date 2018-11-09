@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>39</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>40</sup>
 ---
 
 ## 2018
+
+### Смертницы
+Тесс Герритсен
+> [2018-11] 
+
 
 ### Двойник
 Тесс Герритсен
