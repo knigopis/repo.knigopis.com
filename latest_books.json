@@ -1,4 +1,16 @@
 {
+    "7NLNoMTfcN": {
+        "id": "7NLNoMTfcN",
+        "title": "Обломов",
+        "author": "Гончаров Иван",
+        "notes": "",
+        "createdAt": "2018-11-09 00:11:37",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "joan789",
+            "booksCount": 89
+        }
+    },
     "h4fDFOmjYA": {
         "id": "h4fDFOmjYA",
         "title": "Человек с пятью «не», или Исповедь простодушного (повесть)",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 51
-        }
-    },
-    "M5jaNB_NoR": {
-        "id": "M5jaNB_NoR",
-        "title": "Академия Ранмарн",
-        "author": "Звездная Елена",
-        "notes": "",
-        "createdAt": "2018-11-03 17:57:56",
-        "user": {
-            "id": "297475825919701688-mailru",
-            "nickname": "Катерина",
-            "booksCount": 5
         }
     }
 }
