@@ -38,9 +38,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Leonid280497](users/684/684095007-yandex)<sup>5</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>32</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>12</sup> 
-[Leonid280497](users/684/684095007-yandex)<sup>4</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>90</sup> 
 [](users/115/115826717712507836033-google)<sup>129</sup> 
 [lalalalay](users/840/8405096-vkontakte)<sup>0</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kokoshechka](users/100/100559461588498718704-google)<sup>0</sup> 
 
 
-_10.11.2018 19:57:44_
+_10.11.2018 22:08:29_

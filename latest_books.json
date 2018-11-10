@@ -1,4 +1,16 @@
 {
+    "dkMAY4QUCg": {
+        "id": "dkMAY4QUCg",
+        "title": "Лигейа",
+        "author": "Эдгар По",
+        "notes": "Хорошее описание. Видно, что По постарался, когда писал рассказ. Немного затянуто, но мне кажется, что это пока лучший из его рассказов. 7/10",
+        "createdAt": "2018-11-10 22:08:29",
+        "user": {
+            "id": "684095007-yandex",
+            "nickname": "Leonid280497",
+            "booksCount": 5
+        }
+    },
     "E0ltnRBlsU": {
         "id": "E0ltnRBlsU",
         "title": "Дневник памяти",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 84
-        }
-    },
-    "iTU3IFTBa8": {
-        "id": "iTU3IFTBa8",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2018-11-08 23:29:09",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 83
         }
     }
 }
