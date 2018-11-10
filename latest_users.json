@@ -1,4 +1,10 @@
 {
+    "684095007-yandex": {
+        "id": "684095007-yandex",
+        "nickname": "Leonid280497",
+        "booksCount": 3,
+        "updatedAt": "2018-11-10 09:04:18"
+    },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",
         "nickname": "joan789",
@@ -10,12 +16,6 @@
         "nickname": null,
         "booksCount": 129,
         "updatedAt": "2018-11-09 17:15:09"
-    },
-    "684095007-yandex": {
-        "id": "684095007-yandex",
-        "nickname": "Leonid280497",
-        "booksCount": 2,
-        "updatedAt": "2018-11-09 16:31:21"
     },
     "8405096-vkontakte": {
         "id": "8405096-vkontakte",
