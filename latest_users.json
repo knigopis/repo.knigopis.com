@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 12,
+        "updatedAt": "2018-11-10 19:52:46"
+    },
     "684095007-yandex": {
         "id": "684095007-yandex",
         "nickname": "Leonid280497",
@@ -172,11 +178,5 @@
         "nickname": "kokoshechka",
         "booksCount": 0,
         "updatedAt": "2018-10-30 10:26:14"
-    },
-    "1905624049550842-facebook": {
-        "id": "1905624049550842-facebook",
-        "nickname": "Slava",
-        "booksCount": 1,
-        "updatedAt": "2018-10-30 05:05:20"
     }
 }
