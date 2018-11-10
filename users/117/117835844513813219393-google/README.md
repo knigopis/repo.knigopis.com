@@ -1,11 +1,7 @@
-# List of books read by Aleks<sup>33</sup>
+# List of books read by Aleks<sup>32</sup>
 ---
 
 ## Other years
-
-### «Большие надежды»
-Чарльз Диккенс
-
 
 ### Поджигатели
 Крис Клив
