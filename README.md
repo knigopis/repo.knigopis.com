@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Aleks](users/117/117835844513813219393-google)<sup>32</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>12</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>4</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>90</sup> 
@@ -64,10 +65,9 @@ _More notes [here](latest_books_with_notes.md)._
 [masterpiece131313](users/107/107362372244131361011-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>666</sup> 
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>1</sup> 
-[Aleks](users/117/117835844513813219393-google)<sup>33</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>30</sup> 
 [Апрелька](users/102/10204987254158701-facebook)<sup>0</sup> 
 [kokoshechka](users/100/100559461588498718704-google)<sup>0</sup> 
 
 
-_10.11.2018 19:52:46_
+_10.11.2018 19:57:44_
