@@ -1,4 +1,10 @@
 {
+    "108403801502461688284-google": {
+        "id": "108403801502461688284-google",
+        "nickname": "Blomkvist",
+        "booksCount": 0,
+        "updatedAt": "2018-11-10 23:14:18"
+    },
     "684095007-yandex": {
         "id": "684095007-yandex",
         "nickname": "Leonid280497",
@@ -172,11 +178,5 @@
         "nickname": "Апрелька",
         "booksCount": 0,
         "updatedAt": "2018-10-31 13:20:02"
-    },
-    "100559461588498718704-google": {
-        "id": "100559461588498718704-google",
-        "nickname": "kokoshechka",
-        "booksCount": 0,
-        "updatedAt": "2018-10-30 10:26:14"
     }
 }
