@@ -1,4 +1,10 @@
 {
+    "115902526849562271887-google": {
+        "id": "115902526849562271887-google",
+        "nickname": "Asiar",
+        "booksCount": 4,
+        "updatedAt": "2018-11-11 14:38:33"
+    },
     "98355385-vkontakte": {
         "id": "98355385-vkontakte",
         "nickname": "niler",
@@ -94,12 +100,6 @@
         "nickname": "MixMax",
         "booksCount": 0,
         "updatedAt": "2018-11-06 04:00:32"
-    },
-    "115902526849562271887-google": {
-        "id": "115902526849562271887-google",
-        "nickname": "Asiar",
-        "booksCount": 3,
-        "updatedAt": "2018-11-05 12:00:24"
     },
     "117259947-yandex": {
         "id": "117259947-yandex",

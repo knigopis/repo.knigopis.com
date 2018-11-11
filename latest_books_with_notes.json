@@ -1,4 +1,16 @@
 {
+    "m2AoyEQYUR": {
+        "id": "m2AoyEQYUR",
+        "title": "Ёцуба том 1",
+        "author": "Адзума Киёхико",
+        "notes": "Забавно, надо прочесть всё",
+        "createdAt": "2018-11-11 14:38:33",
+        "user": {
+            "id": "115902526849562271887-google",
+            "nickname": "Asiar",
+            "booksCount": 4
+        }
+    },
     "p1K16Lyzc5": {
         "id": "p1K16Lyzc5",
         "title": "Тайны мозга. Почему мы во всё верим.",
@@ -345,18 +357,6 @@
             "id": "107621344637148469804-google",
             "nickname": "Vladas",
             "booksCount": 66
-        }
-    },
-    "ix0iYEb6W5": {
-        "id": "ix0iYEb6W5",
-        "title": "Главные секреты абсолютной уверенности в себе",
-        "author": "Роберт Энтони",
-        "notes": "прочитать еще раз позже, интересные мысли автора",
-        "createdAt": "2018-10-12 11:55:19",
-        "user": {
-            "id": "208969292-yandex",
-            "nickname": "elena-gagina2014",
-            "booksCount": 4
         }
     }
 }

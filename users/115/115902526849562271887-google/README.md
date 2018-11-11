@@ -1,7 +1,12 @@
-# List of books read by [Asiar](https://plus.google.com/115902526849562271887)<sup>3</sup>
+# List of books read by [Asiar](https://plus.google.com/115902526849562271887)<sup>4</sup>
 ---
 
 ## 2018
+
+### Ёцуба том 1
+Адзума Киёхико
+> [2018-11-11] Забавно, надо прочесть всё
+
 
 ### World of Warcraft. Багровый круг
 Симонсон, люллаби, хоуп
