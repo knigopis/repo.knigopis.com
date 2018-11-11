@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 🧙🏻‍♂️ Гарри Поттер и Принц-полукровка ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>51</sup>
+    > Больше любви!
+
 * Свадьба в стране грибов ~ [Asiar](users/115/115902526849562271887-google)<sup>5</sup>
     > Забавно, научпоп вставки. Малая адаптация под "грибное" царство и ранние государства
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Забавно, надо прочесть всё
 
 * Тайны мозга. Почему мы во всё верим. ~ [darb_el](users/184/184135339-vkontakte)<sup>18</sup>
-    > Много новых примеров и убедительно изложено.
 
 * Путеводитель по миру тёмных искусств ~ [darb_el](users/184/184135339-vkontakte)<sup>17</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Семь зверей Райлега. Тёрн ~ [EsterHani](users/305/30558181-vkontakte)<sup>162</sup>
 
-* Наследие великанов ~ [Chiffi](users/105/105831994080785626680-google)<sup>77</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>51</sup> 
 [](users/846/846890718375-odnoklassniki)<sup>0</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>5</sup> 
 [niler](users/983/98355385-vkontakte)<sup>0</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>51</sup> 
 [Катерина](users/297/297475825919701688-mailru)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>199</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>50</sup> 
 [masterpiece131313](users/107/107362372244131361011-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>666</sup> 
 
 
-_11.11.2018 19:18:41_
+_11.11.2018 21:38:12_
