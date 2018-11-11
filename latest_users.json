@@ -1,4 +1,10 @@
 {
+    "184135339-vkontakte": {
+        "id": "184135339-vkontakte",
+        "nickname": "darb_el",
+        "booksCount": 16,
+        "updatedAt": "2018-11-11 02:40:09"
+    },
     "108403801502461688284-google": {
         "id": "108403801502461688284-google",
         "nickname": "Blomkvist",
@@ -172,11 +178,5 @@
         "nickname": "Andry-Bal",
         "booksCount": 30,
         "updatedAt": "2018-10-31 17:02:15"
-    },
-    "10204987254158701-facebook": {
-        "id": "10204987254158701-facebook",
-        "nickname": "Апрелька",
-        "booksCount": 0,
-        "updatedAt": "2018-10-31 13:20:02"
     }
 }
