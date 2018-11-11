@@ -1,4 +1,16 @@
 {
+    "JISoa7N3EQ": {
+        "id": "JISoa7N3EQ",
+        "title": "Путеводитель по миру тёмных искусств",
+        "author": "Александр Панчин",
+        "notes": "Нового мало. Хорошо изложено.",
+        "createdAt": "2018-11-11 02:57:33",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 17
+        }
+    },
     "gI5Mww7xT0": {
         "id": "gI5Mww7xT0",
         "title": "Язык химии",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 86
-        }
-    },
-    "K53PJG3WZM": {
-        "id": "K53PJG3WZM",
-        "title": "Ворон",
-        "author": "Эдгар А. По",
-        "notes": "",
-        "createdAt": "2018-11-08 23:53:23",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 85
         }
     }
 }
