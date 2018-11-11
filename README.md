@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/846/846890718375-odnoklassniki)<sup>0</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>5</sup> 
 [niler](users/983/98355385-vkontakte)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>18</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>50</sup> 
 [masterpiece131313](users/107/107362372244131361011-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>666</sup> 
-[Yoite Hikaru](users/237/237559775-vkontakte)<sup>1</sup> 
 
 
-_11.11.2018 16:22:28_
+_11.11.2018 19:18:41_
