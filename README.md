@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Свадьба в стране грибов ~ [Asiar](users/115/115902526849562271887-google)<sup>5</sup>
+    > Забавно, научпоп вставки. Малая адаптация под "грибное" царство и ранние государства
+
 * Ёцуба том 1 ~ [Asiar](users/115/115902526849562271887-google)<sup>4</sup>
     > Забавно, надо прочесть всё
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Много новых примеров и убедительно изложено.
 
 * Путеводитель по миру тёмных искусств ~ [darb_el](users/184/184135339-vkontakte)<sup>17</sup>
-    > Нового мало. Хорошо изложено.
 
 * Дневник памяти ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>12</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Наследие великанов ~ [Chiffi](users/105/105831994080785626680-google)<sup>77</sup>
 
-* Маленькие тролли и большое наводнение ~ [joan789](users/240/2401650-vkontakte)<sup>76</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Asiar](users/115/115902526849562271887-google)<sup>4</sup> 
+[Asiar](users/115/115902526849562271887-google)<sup>5</sup> 
 [niler](users/983/98355385-vkontakte)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>18</sup> 
 [Blomkvist](users/108/108403801502461688284-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>1</sup> 
 
 
-_11.11.2018 14:38:33_
+_11.11.2018 16:22:28_
