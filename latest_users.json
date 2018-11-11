@@ -1,4 +1,10 @@
 {
+    "846890718375-odnoklassniki": {
+        "id": "846890718375-odnoklassniki",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2018-11-11 19:18:38"
+    },
     "115902526849562271887-google": {
         "id": "115902526849562271887-google",
         "nickname": "Asiar",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 666,
         "updatedAt": "2018-11-02 19:43:08"
-    },
-    "237559775-vkontakte": {
-        "id": "237559775-vkontakte",
-        "nickname": "Yoite Hikaru",
-        "booksCount": 1,
-        "updatedAt": "2018-11-02 16:26:31"
     }
 }
