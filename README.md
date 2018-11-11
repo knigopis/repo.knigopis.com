@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайны мозга. Почему мы во всё верим. ~ [darb_el](users/184/184135339-vkontakte)<sup>18</sup>
+    > Много новых примеров и убедительно изложено.
+
 * Путеводитель по миру тёмных искусств ~ [darb_el](users/184/184135339-vkontakte)<sup>17</sup>
     > Нового мало. Хорошо изложено.
 
@@ -16,8 +19,6 @@ Do not use pull requests to make changes here.
     > ISBN 978-5-17-107279-7
 
 * Праздник, который всегда с тобой ~ [joan789](users/240/2401650-vkontakte)<sup>90</sup>
-    > Запоминающееся произведение, ещё раз демонстрирующее, как со временем прошлое начинает казаться золотым, почти что райским. Даже если нечего было есть, даже если плоды твоих трудов многократно отвергались (здесь издателями). Конечно, молодость кажется светлым пожилому человеку с насыщенной жизнью.
-    > Но следует помнить о том, что в настоящем, как правило, всем нелегко :) Особенно, если ты - человек с принципами.
 
 * Человек с пятью «не», или Исповедь простодушного (повесть) ~ [joan789](users/240/2401650-vkontakte)<sup>88</sup>
 
@@ -31,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Повесть о господине Зоммере ~ [Apprentice ](users/528/52821952-vkontakte)<sup>95</sup>
 
-* Тест ~ [rNix](users/115/115622071-twitter)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[darb_el](users/184/184135339-vkontakte)<sup>17</sup> 
+[darb_el](users/184/184135339-vkontakte)<sup>18</sup> 
 [Blomkvist](users/108/108403801502461688284-google)<sup>0</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>5</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>32</sup> 
@@ -70,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Andry-Bal](users/109/109232883876697421544-google)<sup>30</sup> 
 
 
-_11.11.2018 02:57:33_
+_11.11.2018 02:58:50_

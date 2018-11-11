@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тайны мозга. Почему мы во всё верим. ~ [darb_el](users/184/184135339-vkontakte)<sup>18</sup>
 * Путеводитель по миру тёмных искусств ~ [darb_el](users/184/184135339-vkontakte)<sup>17</sup>
 * Дневник памяти ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>12</sup>
 * Праздник, который всегда с тобой ~ [joan789](users/240/2401650-vkontakte)<sup>90</sup>
@@ -30,7 +31,6 @@
 * Открытое пространство ~ [Vladas](users/107/107621344637148469804-google)<sup>67</sup>
 * Очарованный странник ~ [Vladas](users/107/107621344637148469804-google)<sup>66</sup>
 * Главные секреты абсолютной уверенности в себе ~ [elena-gagina2014](users/208/208969292-yandex)<sup>4</sup>
-* Хиппи ~ [youno](users/302/302928912-vkontakte)<sup>16</sup>
 
 
-_11.11.2018 02:57:33_
+_11.11.2018 02:58:50_
