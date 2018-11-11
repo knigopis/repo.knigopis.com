@@ -1,5 +1,13 @@
-# List of books read by [](https://plus.google.com/+СергейКухарский)<sup>1</sup>
+# List of books read by [](https://plus.google.com/+СергейКухарский)<sup>2</sup>
 ---
+
+## 2018
+
+### Кто нашёл, берёт себе
+Кинг Стивен
+> [2018-10-30] 
+
+
 
 ## 2017
 
