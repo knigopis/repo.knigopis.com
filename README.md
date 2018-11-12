@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ikatatsumuri](users/551/55184516-vkontakte)<sup>0</sup> 
 [](users/106/106006402120489140078-google)<sup>3</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>51</sup> 
 [](users/846/846890718375-odnoklassniki)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>51</sup> 
 [Катерина](users/297/297475825919701688-mailru)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>199</sup> 
-[masterpiece131313](users/107/107362372244131361011-google)<sup>0</sup> 
 
 
-_11.11.2018 22:40:22_
+_12.11.2018 07:38:55_
