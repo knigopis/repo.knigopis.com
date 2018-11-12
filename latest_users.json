@@ -1,4 +1,10 @@
 {
+    "108346258937611636820-google": {
+        "id": "108346258937611636820-google",
+        "nickname": "SCOTOMOR",
+        "booksCount": 0,
+        "updatedAt": "2018-11-12 13:44:08"
+    },
     "55184516-vkontakte": {
         "id": "55184516-vkontakte",
         "nickname": "Ikatatsumuri",
@@ -172,11 +178,5 @@
         "nickname": "Катерина",
         "booksCount": 5,
         "updatedAt": "2018-11-03 17:57:56"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 199,
-        "updatedAt": "2018-11-03 17:49:34"
     }
 }
