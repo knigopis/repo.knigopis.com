@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>91</sup> 
 [SCOTOMOR](users/108/108346258937611636820-google)<sup>1</sup> 
 [Ikatatsumuri](users/551/55184516-vkontakte)<sup>0</sup> 
 [](users/106/106006402120489140078-google)<sup>3</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Leonid280497](users/684/684095007-yandex)<sup>5</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>32</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>12</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>90</sup> 
 [](users/115/115826717712507836033-google)<sup>129</sup> 
 [lalalalay](users/840/8405096-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>50</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Катерина](users/297/297475825919701688-mailru)<sup>5</sup> 
 
 
-_12.11.2018 13:45:22_
+_12.11.2018 15:21:17_
