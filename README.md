@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[SCOTOMOR](users/108/108346258937611636820-google)<sup>0</sup> 
+[SCOTOMOR](users/108/108346258937611636820-google)<sup>1</sup> 
 [Ikatatsumuri](users/551/55184516-vkontakte)<sup>0</sup> 
 [](users/106/106006402120489140078-google)<sup>3</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>51</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Катерина](users/297/297475825919701688-mailru)<sup>5</sup> 
 
 
-_12.11.2018 13:44:11_
+_12.11.2018 13:45:22_
