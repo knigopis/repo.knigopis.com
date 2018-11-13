@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[blood_witcher](users/158/158994213-vkontakte)<sup>1</sup> 
+[blood_witcher](users/158/158994213-vkontakte)<sup>2</sup> 
 [eugenia_vasil](users/155/155589403-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>334</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>667</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/207/2073442752706226-facebook)<sup>0</sup> 
 
 
-_13.11.2018 13:35:20_
+_13.11.2018 13:35:59_

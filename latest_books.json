@@ -1,4 +1,16 @@
 {
+    "1pliNAZcib": {
+        "id": "1pliNAZcib",
+        "title": "Последнее желание",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2018-11-13 13:35:59",
+        "user": {
+            "id": "158994213-vkontakte",
+            "nickname": "blood_witcher",
+            "booksCount": 2
+        }
+    },
     "SeE7XiazqX": {
         "id": "SeE7XiazqX",
         "title": "Меч предназначения",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 48
-        }
-    },
-    "opoeZiwUrx": {
-        "id": "opoeZiwUrx",
-        "title": "Лихорадка",
-        "author": "Тесс Герритсен",
-        "notes": "",
-        "createdAt": "2018-11-09 04:53:16",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 47
         }
     }
 }
