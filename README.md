@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>333</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>667</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>91</sup> 
 [SCOTOMOR](users/108/108346258937611636820-google)<sup>1</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105680958948790479255-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>12</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>162</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>332</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>77</sup> 
 [MixMax](users/101/101518605191036306948-google)<sup>0</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>51</sup> 
 
 
-_12.11.2018 20:59:01_
+_13.11.2018 04:00:26_
