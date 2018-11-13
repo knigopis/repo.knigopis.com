@@ -1,4 +1,10 @@
 {
+    "106006402120489140078-google": {
+        "id": "106006402120489140078-google",
+        "nickname": "kukharski",
+        "booksCount": 4,
+        "updatedAt": "2018-11-13 17:22:36"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -46,12 +52,6 @@
         "nickname": "Ikatatsumuri",
         "booksCount": 0,
         "updatedAt": "2018-11-12 07:38:52"
-    },
-    "106006402120489140078-google": {
-        "id": "106006402120489140078-google",
-        "nickname": null,
-        "booksCount": 3,
-        "updatedAt": "2018-11-11 22:40:22"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",

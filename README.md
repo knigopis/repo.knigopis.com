@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kukharski](users/106/106006402120489140078-google)<sup>4</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>51</sup> 
 [blood_witcher](users/158/158994213-vkontakte)<sup>2</sup> 
 [eugenia_vasil](users/155/155589403-vkontakte)<sup>1</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>91</sup> 
 [SCOTOMOR](users/108/108346258937611636820-google)<sup>1</sup> 
 [Ikatatsumuri](users/551/55184516-vkontakte)<sup>0</sup> 
-[](users/106/106006402120489140078-google)<sup>3</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>51</sup> 
 [](users/846/846890718375-odnoklassniki)<sup>0</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>5</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/207/2073442752706226-facebook)<sup>0</sup> 
 
 
-_13.11.2018 17:22:33_
+_13.11.2018 17:22:37_
