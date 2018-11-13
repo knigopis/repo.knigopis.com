@@ -1,4 +1,16 @@
 {
+    "oJQc_F5tWk": {
+        "id": "oJQc_F5tWk",
+        "title": "Я - посланник",
+        "author": "Маркус Зузак",
+        "notes": "",
+        "createdAt": "2018-11-13 17:22:33",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 51
+        }
+    },
     "1pliNAZcib": {
         "id": "1pliNAZcib",
         "title": "Последнее желание",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 49
-        }
-    },
-    "i_jkZsoamC": {
-        "id": "i_jkZsoamC",
-        "title": "Бешенство",
-        "author": "Тесс Герритсен",
-        "notes": "",
-        "createdAt": "2018-11-09 04:53:36",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 48
         }
     }
 }

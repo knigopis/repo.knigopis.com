@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>51</sup> 
 [blood_witcher](users/158/158994213-vkontakte)<sup>2</sup> 
 [eugenia_vasil](users/155/155589403-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>334</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>12</sup> 
 [](users/115/115826717712507836033-google)<sup>129</sup> 
 [lalalalay](users/840/8405096-vkontakte)<sup>0</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>50</sup> 
 [](users/105/105680958948790479255-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>12</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>162</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/207/2073442752706226-facebook)<sup>0</sup> 
 
 
-_13.11.2018 13:35:59_
+_13.11.2018 17:22:33_

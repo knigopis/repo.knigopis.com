@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>50</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>51</sup>
 ---
 
 ## 2018
+
+### Я - посланник
+Маркус Зузак
+> [2018-11] 
+
 
 ### Бизнес есть бизнес. 60 правдивых историй о том, как простые люди начали свое дело.
 Игорь Гансвинд
