@@ -1,4 +1,16 @@
 {
+    "4bGtbEJLA6": {
+        "id": "4bGtbEJLA6",
+        "title": "Гарри Поттер",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2018-11-13 09:14:16",
+        "user": {
+            "id": "155589403-vkontakte",
+            "nickname": "eugenia_vasil",
+            "booksCount": 1
+        }
+    },
     "EUOKxo8gMP": {
         "id": "EUOKxo8gMP",
         "title": "Чистовик",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 46
-        }
-    },
-    "2VaDt-zUNp": {
-        "id": "2VaDt-zUNp",
-        "title": "Гробовое молчание",
-        "author": "Тесс Герритсен",
-        "notes": "",
-        "createdAt": "2018-11-09 04:51:56",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 45
         }
     }
 }

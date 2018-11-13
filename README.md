@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[eugenia_vasil](users/155/155589403-vkontakte)<sup>0</sup> 
+[eugenia_vasil](users/155/155589403-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>334</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>667</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>91</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>64</sup> 
 
 
-_13.11.2018 09:12:35_
+_13.11.2018 09:14:16_
