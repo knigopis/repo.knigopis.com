@@ -1,4 +1,16 @@
 {
+    "kCXxsLdIcH": {
+        "id": "kCXxsLdIcH",
+        "title": "Трудно быть богом",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2018-11-13 17:28:07",
+        "user": {
+            "id": "106006402120489140078-google",
+            "nickname": "kukharski",
+            "booksCount": 5
+        }
+    },
     "teNjOlqgwb": {
         "id": "teNjOlqgwb",
         "title": "Пост сдал",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 126
-        }
-    },
-    "KweT8m03CO": {
-        "id": "KweT8m03CO",
-        "title": "Бизнес есть бизнес. 60 правдивых историй о том, как простые люди начали свое дело.",
-        "author": "Игорь Гансвинд",
-        "notes": "",
-        "createdAt": "2018-11-09 04:55:33",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 50
         }
     }
 }
