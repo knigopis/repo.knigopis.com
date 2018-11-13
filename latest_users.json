@@ -1,4 +1,10 @@
 {
+    "155589403-vkontakte": {
+        "id": "155589403-vkontakte",
+        "nickname": "eugenia_vasil",
+        "booksCount": 0,
+        "updatedAt": "2018-11-13 09:12:28"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "rNix",
         "booksCount": 64,
         "updatedAt": "2018-11-04 07:35:21"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 51,
-        "updatedAt": "2018-11-03 20:13:03"
     }
 }
