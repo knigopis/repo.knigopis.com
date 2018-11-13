@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[eugenia_vasil](users/155/155589403-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>334</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>667</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>91</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Музыкантша](users/107/107210896927993390084-google)<sup>1</sup> 
 [Chiffi](users/207/2073442752706226-facebook)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>64</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>51</sup> 
 
 
-_13.11.2018 04:01:04_
+_13.11.2018 09:12:35_
