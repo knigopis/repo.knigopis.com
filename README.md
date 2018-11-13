@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kukharski](users/106/106006402120489140078-google)<sup>7</sup> 
+[kukharski](users/106/106006402120489140078-google)<sup>8</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>51</sup> 
 [blood_witcher](users/158/158994213-vkontakte)<sup>2</sup> 
 [eugenia_vasil](users/155/155589403-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/207/2073442752706226-facebook)<sup>0</sup> 
 
 
-_13.11.2018 17:30:49_
+_13.11.2018 17:32:05_
