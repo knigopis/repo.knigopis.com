@@ -1,4 +1,16 @@
 {
+    "SeE7XiazqX": {
+        "id": "SeE7XiazqX",
+        "title": "Меч предназначения",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2018-11-13 13:35:20",
+        "user": {
+            "id": "158994213-vkontakte",
+            "nickname": "blood_witcher",
+            "booksCount": 1
+        }
+    },
     "4bGtbEJLA6": {
         "id": "4bGtbEJLA6",
         "title": "Гарри Поттер",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 47
-        }
-    },
-    "bbgeL4Xqmy": {
-        "id": "bbgeL4Xqmy",
-        "title": "Неопознанное тело",
-        "author": "Тесс Герритсен",
-        "notes": "",
-        "createdAt": "2018-11-09 04:52:24",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 46
         }
     }
 }
