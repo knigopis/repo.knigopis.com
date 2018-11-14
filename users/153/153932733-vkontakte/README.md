@@ -1,7 +1,11 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>42</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>43</sup>
 ---
 
 ## 2018
+
+### Благословите короля, или Характер скверный, не женат!
+Анна Гаврилова
+
 
 ### Большая и грязная любовь *
 Гаврилова Анна
