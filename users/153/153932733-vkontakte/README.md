@@ -1,7 +1,12 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>61</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>62</sup>
 ---
 
 ## 2018
+
+### Новогодние праздники у монстров *
+Косухина Наталья
+> СЛФР
+
 
 ### Мужчина из научной фантастики
 Косухина Наталья
