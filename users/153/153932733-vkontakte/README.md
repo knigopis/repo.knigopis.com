@@ -1,7 +1,12 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>68</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>69</sup>
 ---
 
 ## 2018
+
+### Анна Стриковская
+> Профессия Королева
+> Тело архимага *
+
 
 ### У удачи два лица
 Кузнецова Дарья

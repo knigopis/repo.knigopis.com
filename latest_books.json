@@ -1,4 +1,16 @@
 {
+    "jUb6cDWUhg": {
+        "id": "jUb6cDWUhg",
+        "title": "Анна Стриковская",
+        "author": "",
+        "notes": "Профессия Королева\nТело архимага *",
+        "createdAt": "2018-11-14 05:58:43",
+        "user": {
+            "id": "153932733-vkontakte",
+            "nickname": "YungEva",
+            "booksCount": 69
+        }
+    },
     "nrI-1UyaTj": {
         "id": "nrI-1UyaTj",
         "title": "У удачи два лица",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 38
-        }
-    },
-    "MLmQeKmHF4": {
-        "id": "MLmQeKmHF4",
-        "title": "Семия Вайтман",
-        "author": "Владимирова Екатерина",
-        "notes": "1 Я так хочу *",
-        "createdAt": "2018-11-14 05:12:13",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 37
         }
     }
 }
