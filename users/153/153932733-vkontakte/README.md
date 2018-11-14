@@ -1,7 +1,14 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>65</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>66</sup>
 ---
 
 ## 2018
+
+### Офицерские дети
+Кузнецова Дарья
+> 1 Во имя чести
+> 2 Во имя долга
+> 3 Во имя жизни
+
 
 ### космос
 Кузнецова Дарья
