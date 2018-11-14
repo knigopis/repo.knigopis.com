@@ -1,7 +1,12 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>36</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>37</sup>
 ---
 
 ## 2018
+
+### Семия Вайтман
+Владимирова Екатерина
+> 1 Я так хочу *
+
 
 ### Испытательный срок
 Колесова Наталья
