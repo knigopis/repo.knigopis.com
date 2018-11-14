@@ -1,7 +1,12 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>66</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>67</sup>
 ---
 
 ## 2018
+
+### Слово Императора *
+Кузнецова Дарья
+> ФЛР оборотни
+
 
 ### Офицерские дети
 Кузнецова Дарья
