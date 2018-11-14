@@ -1,7 +1,12 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>32</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>33</sup>
 ---
 
 ## 2018
+
+### СРЛ
+Риз Катя
+> 1 Квартирный вопрос 2 Мы играем в пистолеты 3 Тебе назло
+
 
 ### Спаси меня
 Ольчинка
