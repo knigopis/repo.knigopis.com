@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>163</sup> 
 [En](users/333/333646551-vkontakte)<sup>55</sup> 
 [YungEva](users/153/153932733-vkontakte)<sup>71</sup> 
 [kukharski](users/106/106006402120489140078-google)<sup>9</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lalalalay](users/840/8405096-vkontakte)<sup>0</sup> 
 [](users/105/105680958948790479255-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>12</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>162</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>77</sup> 
 [MixMax](users/101/101518605191036306948-google)<sup>0</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>96</sup> 
 
 
-_14.11.2018 06:10:10_
+_14.11.2018 16:35:41_

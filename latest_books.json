@@ -1,4 +1,16 @@
 {
+    "xHb0ygFtOs": {
+        "id": "xHb0ygFtOs",
+        "title": "Логика. Учебное пособие",
+        "author": "Дмитрий Гусев",
+        "notes": "",
+        "createdAt": "2018-11-14 16:35:41",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 163
+        }
+    },
     "0zmRcsZAn0": {
         "id": "0zmRcsZAn0",
         "title": "Каждому свое 3",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 42
-        }
-    },
-    "spUph6ExxR": {
-        "id": "spUph6ExxR",
-        "title": "Завидная невеста *",
-        "author": "Inka",
-        "notes": "средневиковье Принцесса переодевается в разные роли чтобы оценить и выбрать достойного мужа из кандидатов одобренных отцом",
-        "createdAt": "2018-11-14 05:18:53",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 41
         }
     }
 }

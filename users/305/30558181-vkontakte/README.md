@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>162</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>163</sup>
 ---
 
 ## 2018
+
+### Логика. Учебное пособие
+Дмитрий Гусев
+> [2018-11-14] 
+
 
 ### Семь зверей Райлега. Тёрн
 Ник Перумов
