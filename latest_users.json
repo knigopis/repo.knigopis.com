@@ -1,4 +1,10 @@
 {
+    "100671409-vkontakte": {
+        "id": "100671409-vkontakte",
+        "nickname": "dota2andsweets",
+        "booksCount": 0,
+        "updatedAt": "2018-11-14 23:48:19"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "MixMax",
         "booksCount": 0,
         "updatedAt": "2018-11-06 04:00:32"
-    },
-    "117259947-yandex": {
-        "id": "117259947-yandex",
-        "nickname": "BigKhan",
-        "booksCount": 7,
-        "updatedAt": "2018-11-05 09:44:25"
     }
 }
