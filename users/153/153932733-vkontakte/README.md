@@ -1,7 +1,14 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>46</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>47</sup>
 ---
 
 ## 2018
+
+Кай Ольга
+> Невеста императора *
+> Ведьмина тропа *
+> Сказка о музыканте
+> Городская ромашка
+
 
 ### Эмелис
 Гаврилова Анна
