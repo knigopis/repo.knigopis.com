@@ -1,4 +1,16 @@
 {
+    "3xqL3vLgrW": {
+        "id": "3xqL3vLgrW",
+        "title": "Невеста по завещанию",
+        "author": "Куно Ольга",
+        "notes": "1 - Невеста по завещанию\n(Романтическое фэнтези)\n2 - Жена по призванию\n(Романтическое фэнтези)",
+        "createdAt": "2018-11-14 05:40:46",
+        "user": {
+            "id": "153932733-vkontakte",
+            "nickname": "YungEva",
+            "booksCount": 48
+        }
+    },
     "I9NfMbhYEJ": {
         "id": "I9NfMbhYEJ",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 19
-        }
-    },
-    "Lkktpzvtr2": {
-        "id": "Lkktpzvtr2",
-        "title": "Лорды Триалина *",
-        "author": "Никольская Ева",
-        "notes": "1 - Золушка для снежного лорда (Романтическое фэнтези) 2 - Белоснежка для его светлости (Романтическое фэнтези) 3 - Фея для лорда тьмы",
-        "createdAt": "2018-11-14 02:40:54",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 18
         }
     }
 }
