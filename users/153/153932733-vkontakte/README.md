@@ -1,7 +1,12 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>63</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>64</sup>
 ---
 
 ## 2018
+
+### Мисс Лешая
+Алекс Регул
+> СЛР
+
 
 ### Другой мир
 Косухина Наталья
