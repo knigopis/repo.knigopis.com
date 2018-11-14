@@ -1,4 +1,16 @@
 {
+    "Lkktpzvtr2": {
+        "id": "Lkktpzvtr2",
+        "title": "Лорды Триалина *",
+        "author": "Никольская Ева",
+        "notes": "1 - Золушка для снежного лорда (Романтическое фэнтези) 2 - Белоснежка для его светлости (Романтическое фэнтези) 3 - Фея для лорда тьмы",
+        "createdAt": "2018-11-14 02:40:54",
+        "user": {
+            "id": "153932733-vkontakte",
+            "nickname": "YungEva",
+            "booksCount": 18
+        }
+    },
     "8lpDmKVA6z": {
         "id": "8lpDmKVA6z",
         "title": "Чужая невеста *",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 333
-        }
-    },
-    "rX7t2NVO7Q": {
-        "id": "rX7t2NVO7Q",
-        "title": "Год скачка",
-        "author": "Хелен Рассел",
-        "notes": "",
-        "createdAt": "2018-11-12 20:59:00",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 667
         }
     }
 }
