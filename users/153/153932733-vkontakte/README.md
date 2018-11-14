@@ -1,7 +1,11 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>60</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>61</sup>
 ---
 
 ## 2018
+
+### Мужчина из научной фантастики
+Косухина Наталья
+
 
 ### Однажды тихой, темной ночью
 Косухина Наталья

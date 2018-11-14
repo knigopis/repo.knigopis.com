@@ -1,4 +1,16 @@
 {
+    "cxlygdDWNF": {
+        "id": "cxlygdDWNF",
+        "title": "Мужчина из научной фантастики",
+        "author": "Косухина Наталья",
+        "notes": "",
+        "createdAt": "2018-11-14 05:52:04",
+        "user": {
+            "id": "153932733-vkontakte",
+            "nickname": "YungEva",
+            "booksCount": 61
+        }
+    },
     "M1WQAD052N": {
         "id": "M1WQAD052N",
         "title": "Однажды тихой, темной ночью",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 30
-        }
-    },
-    "J2vAw15qgv": {
-        "id": "J2vAw15qgv",
-        "title": "Три девицы под окном",
-        "author": "Шульгина Анна",
-        "notes": "1 Золушка нового тысячелетия 2 Песок, оазис, два верблюда (отпуск, на море, жертва воров, курортный роман) 3 Недетские игры",
-        "createdAt": "2018-11-14 03:21:15",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 29
         }
     }
 }
