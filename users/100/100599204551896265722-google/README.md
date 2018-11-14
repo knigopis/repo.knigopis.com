@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>87</sup>
+# Список прочитанных книг пользователя exulted<sup>88</sup>
 ---
 
 ## 2018
+
+### Ship of Fools: An Anthology of Learned Nonsense about Primitive Society
+C.R. Hallpike
+> [2018-11-14] ASIN: B07HX4188K
+
 
 ### 1916. Война и Мир
 Миропольский Дмитрий

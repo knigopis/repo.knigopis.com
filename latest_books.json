@@ -1,4 +1,16 @@
 {
+    "KRsMlMLpVB": {
+        "id": "KRsMlMLpVB",
+        "title": "Ship of Fools: An Anthology of Learned Nonsense about Primitive Society",
+        "author": "C.R. Hallpike",
+        "notes": "ASIN: B07HX4188K",
+        "createdAt": "2018-11-14 18:43:29",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 88
+        }
+    },
     "xHb0ygFtOs": {
         "id": "xHb0ygFtOs",
         "title": "Логика. Учебное пособие",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 43
-        }
-    },
-    "Dff4wAzdDg": {
-        "id": "Dff4wAzdDg",
-        "title": "Большая и грязная любовь *",
-        "author": "Гаврилова Анна",
-        "notes": "изменение реальности СЛФР инкуб",
-        "createdAt": "2018-11-14 05:22:44",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 42
         }
     }
 }

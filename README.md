@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>88</sup>
+    > ASIN: B07HX4188K
+
 * 🧙🏻‍♂️ Гарри Поттер и Принц-полукровка ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>51</sup>
     > Больше любви!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Забавно, научпоп вставки. Малая адаптация под "грибное" царство и ранние государства
 
 * Ёцуба том 1 ~ [Asiar](users/115/115902526849562271887-google)<sup>4</sup>
-    > Забавно, надо прочесть всё
 
 * Тайны мозга. Почему мы во всё верим. ~ [darb_el](users/184/184135339-vkontakte)<sup>18</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Муми-тролль и комета ~ [joan789](users/240/2401650-vkontakte)<sup>78</sup>
 
-* Семь зверей Райлега. Тёрн ~ [EsterHani](users/305/30558181-vkontakte)<sup>162</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>88</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>163</sup> 
 [En](users/333/333646551-vkontakte)<sup>55</sup> 
 [YungEva](users/153/153932733-vkontakte)<sup>71</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [MixMax](users/101/101518605191036306948-google)<sup>0</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [Мышь Тэки](users/200/2000052600056325-facebook)<sup>1</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>96</sup> 
 
 
-_14.11.2018 16:35:41_
+_14.11.2018 18:43:29_
