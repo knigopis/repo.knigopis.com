@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лекции по психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/3811224/
+
 * Заставьте свои сильные стороны работать ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>185</sup>
     > в процессе
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > ASIN: B005MZN2B2
 
 * Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>88</sup>
-    > ASIN: B07HX4188K
 
 * 🧙🏻‍♂️ Гарри Поттер и Принц-полукровка ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>51</sup>
 
@@ -26,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Дневник памяти ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>12</sup>
 
-* Праздник, который всегда с тобой ~ [joan789](users/240/2401650-vkontakte)<sup>90</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>185</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>89</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>163</sup> 
 [En](users/333/333646551-vkontakte)<sup>55</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 
 
-_14.11.2018 20:39:19_
+_14.11.2018 20:40:41_

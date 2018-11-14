@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лекции по психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup>
 * Заставьте свои сильные стороны работать ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>185</sup>
 * The Man in the High Castle ~ [exulted](users/100/100599204551896265722-google)<sup>89</sup>
 * Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>88</sup>
@@ -30,7 +31,6 @@
 * Повелитель мух ~ [Garka](users/115/115753719718250012620-google)<sup>197</sup>
 * 4-я Донская казачья  Дивизия в Русско японской войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>35</sup>
 * О дивный новы мир! ~ [violet_velva](users/116/116961712580551399099-google)<sup>50</sup>
-* Расщелина ~ [violet_velva](users/116/116961712580551399099-google)<sup>49</sup>
 
 
-_14.11.2018 20:39:19_
+_14.11.2018 20:40:41_

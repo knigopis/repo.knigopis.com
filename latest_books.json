@@ -1,4 +1,16 @@
 {
+    "Zj42RaqsQ6": {
+        "id": "Zj42RaqsQ6",
+        "title": "Лекции по психологии",
+        "author": "Петр Гальперин",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/3811224/",
+        "createdAt": "2018-11-14 20:40:40",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 186
+        }
+    },
     "4TN5GiULew": {
         "id": "4TN5GiULew",
         "title": "Заставьте свои сильные стороны работать",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 46
-        }
-    },
-    "4UaSawFyyk": {
-        "id": "4UaSawFyyk",
-        "title": "Соули",
-        "author": "Гаврилова Анна",
-        "notes": "1 - Соули. Девушка из грёз\n(Романтическое фэнтези)\n2 - Соули. В объятиях мечты\n(Романтическое фэнтези)",
-        "createdAt": "2018-11-14 05:27:22",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 45
         }
     }
 }
