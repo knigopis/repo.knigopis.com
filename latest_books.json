@@ -1,4 +1,16 @@
 {
+    "b3OS2oBtd_": {
+        "id": "b3OS2oBtd_",
+        "title": "Охота на невесту",
+        "author": "Никольская Ева",
+        "notes": "1 - Охота на невесту (Романтическое фэнтези) 2 - Сбежавшая невеста",
+        "createdAt": "2018-11-14 02:41:42",
+        "user": {
+            "id": "153932733-vkontakte",
+            "nickname": "YungEva",
+            "booksCount": 20
+        }
+    },
     "KjjvT2NSL1": {
         "id": "KjjvT2NSL1",
         "title": "Почему бы и нет?",
@@ -345,18 +357,6 @@
             "id": "155589403-vkontakte",
             "nickname": "eugenia_vasil",
             "booksCount": 1
-        }
-    },
-    "EUOKxo8gMP": {
-        "id": "EUOKxo8gMP",
-        "title": "Чистовик",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-11-13 04:01:03",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 334
         }
     }
 }
