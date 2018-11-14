@@ -1,4 +1,16 @@
 {
+    "KjjvT2NSL1": {
+        "id": "KjjvT2NSL1",
+        "title": "Почему бы и нет?",
+        "author": "Никольская Ева",
+        "notes": "1 - Зачарованный город N (Романтическое фэнтези) 2 - Свобода на троих (Романтическое фэнтези)",
+        "createdAt": "2018-11-14 02:41:14",
+        "user": {
+            "id": "153932733-vkontakte",
+            "nickname": "YungEva",
+            "booksCount": 19
+        }
+    },
     "Lkktpzvtr2": {
         "id": "Lkktpzvtr2",
         "title": "Лорды Триалина *",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 334
-        }
-    },
-    "M_nTzzdBQU": {
-        "id": "M_nTzzdBQU",
-        "title": "Заправляй кровать",
-        "author": "Уильям макрейвен",
-        "notes": "",
-        "createdAt": "2018-11-13 04:00:26",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 333
         }
     }
 }
