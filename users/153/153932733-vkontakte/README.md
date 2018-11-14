@@ -1,7 +1,12 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>67</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>68</sup>
 ---
 
 ## 2018
+
+### У удачи два лица
+Кузнецова Дарья
+> драконы и оборотни
+
 
 ### Слово Императора *
 Кузнецова Дарья
