@@ -1,7 +1,14 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>45</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>46</sup>
 ---
 
 ## 2018
+
+### Эмелис
+Гаврилова Анна
+> 1 - Путь магии и сердца
+> (Романтическое фэнтези)
+> 2 - Путь долга и любви
+
 
 ### Соули
 Гаврилова Анна
