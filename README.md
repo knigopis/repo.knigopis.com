@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dota2andsweets](users/100/100671409-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>89</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>163</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>12</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>77</sup> 
 [MixMax](users/101/101518605191036306948-google)<sup>0</sup> 
-[BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 
 
-_14.11.2018 20:40:41_
+_14.11.2018 23:48:28_
