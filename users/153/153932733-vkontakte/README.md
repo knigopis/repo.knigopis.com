@@ -1,7 +1,13 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>54</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>55</sup>
 ---
 
 ## 2018
+
+### ЛФР
+Наталья Ручей
+> Любовь в облаках
+> К черту, но если вы сделали все эти глупости
+
 
 ### Жена на полставки
 Зимняя Кристина
