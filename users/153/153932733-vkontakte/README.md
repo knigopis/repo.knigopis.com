@@ -1,7 +1,11 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>57</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>58</sup>
 ---
 
 ## 2018
+
+### Слеза некроманта
+Одиссева Пенелопа
+
 
 ### Видящая
 Одиссева Пенелопа
