@@ -1,7 +1,11 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>24</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>25</sup>
 ---
 
 ## 2018
+
+### Обжигающая спираль
+Горова Ольга
+
 
 ### Мелодии Осени
 Горова Ольга
