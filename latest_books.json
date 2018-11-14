@@ -1,4 +1,16 @@
 {
+    "plXHFYroos": {
+        "id": "plXHFYroos",
+        "title": "Черный ЯНГАР *",
+        "author": "Демина Карина",
+        "notes": "",
+        "createdAt": "2018-11-14 02:33:40",
+        "user": {
+            "id": "153932733-vkontakte",
+            "nickname": "YungEva",
+            "booksCount": 11
+        }
+    },
     "lJ1bqmuLyp": {
         "id": "lJ1bqmuLyp",
         "title": "Мир камня и железа",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 51
-        }
-    },
-    "YdlPYrgCHk": {
-        "id": "YdlPYrgCHk",
-        "title": "Свадьба в стране грибов",
-        "author": "Кэй мураяма",
-        "notes": "Забавно, научпоп вставки. Малая адаптация под \"грибное\" царство и ранние государства",
-        "createdAt": "2018-11-11 16:22:28",
-        "user": {
-            "id": "115902526849562271887-google",
-            "nickname": "Asiar",
-            "booksCount": 5
         }
     }
 }
