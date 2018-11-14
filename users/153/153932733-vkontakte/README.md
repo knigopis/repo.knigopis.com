@@ -1,7 +1,12 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>25</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>26</sup>
 ---
 
 ## 2018
+
+### Нежно зеленый
+Горова Ольга
+> Весь мир его окрашен в цвет ее глаз зеленых
+
 
 ### Обжигающая спираль
 Горова Ольга
