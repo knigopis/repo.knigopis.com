@@ -1,7 +1,15 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>64</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>65</sup>
 ---
 
 ## 2018
+
+### космос
+Кузнецова Дарья
+> Боги глубокого космоса
+> Абсолютное оружие
+> XXI век не той эры
+> Родные миры
+
 
 ### Мисс Лешая
 Алекс Регул
