@@ -1,4 +1,16 @@
 {
+    "QHBFjlXcl0": {
+        "id": "QHBFjlXcl0",
+        "title": "Видящая",
+        "author": "Одиссева Пенелопа",
+        "notes": "",
+        "createdAt": "2018-11-14 05:49:39",
+        "user": {
+            "id": "153932733-vkontakte",
+            "nickname": "YungEva",
+            "booksCount": 57
+        }
+    },
     "Teop3Y6n3z": {
         "id": "Teop3Y6n3z",
         "title": "Клятва или выйти замуж за первого встречного",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 26
-        }
-    },
-    "I0y0cyr56r": {
-        "id": "I0y0cyr56r",
-        "title": "Обжигающая спираль",
-        "author": "Горова Ольга",
-        "notes": "",
-        "createdAt": "2018-11-14 02:55:10",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 25
         }
     }
 }
