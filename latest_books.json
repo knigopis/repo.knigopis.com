@@ -1,4 +1,16 @@
 {
+    "kmmfiT5ZuU": {
+        "id": "kmmfiT5ZuU",
+        "title": "Остольская Дарья",
+        "author": "",
+        "notes": "Об условиях социальных взаимоотношений ведьмаков, магов и инквизиторов",
+        "createdAt": "2018-11-14 05:59:56",
+        "user": {
+            "id": "153932733-vkontakte",
+            "nickname": "YungEva",
+            "booksCount": 70
+        }
+    },
     "jUb6cDWUhg": {
         "id": "jUb6cDWUhg",
         "title": "Анна Стриковская",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 39
-        }
-    },
-    "WIbfMW-HG2": {
-        "id": "WIbfMW-HG2",
-        "title": "На пути к звездам или девушки с Земли",
-        "author": "Гусейнова Ольга Медведева Алена",
-        "notes": "",
-        "createdAt": "2018-11-14 05:14:32",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 38
         }
     }
 }
