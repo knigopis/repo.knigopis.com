@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Man in the High Castle ~ [exulted](users/100/100599204551896265722-google)<sup>89</sup>
+    > ASIN: B005MZN2B2
+
 * Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>88</sup>
     > ASIN: B07HX4188K
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Больше любви!
 
 * Свадьба в стране грибов ~ [Asiar](users/115/115902526849562271887-google)<sup>5</sup>
-    > Забавно, научпоп вставки. Малая адаптация под "грибное" царство и ранние государства
 
 * Ёцуба том 1 ~ [Asiar](users/115/115902526849562271887-google)<sup>4</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Человек с пятью «не», или Исповедь простодушного (повесть) ~ [joan789](users/240/2401650-vkontakte)<sup>88</sup>
 
-* Муми-тролль и комета ~ [joan789](users/240/2401650-vkontakte)<sup>78</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>88</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>89</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>163</sup> 
 [En](users/333/333646551-vkontakte)<sup>55</sup> 
 [YungEva](users/153/153932733-vkontakte)<sup>71</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Мышь Тэки](users/200/2000052600056325-facebook)<sup>1</sup> 
 
 
-_14.11.2018 18:43:29_
+_14.11.2018 18:45:57_

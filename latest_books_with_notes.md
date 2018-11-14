@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The Man in the High Castle ~ [exulted](users/100/100599204551896265722-google)<sup>89</sup>
 * Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>88</sup>
 * 🧙🏻‍♂️ Гарри Поттер и Принц-полукровка ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>51</sup>
 * Свадьба в стране грибов ~ [Asiar](users/115/115902526849562271887-google)<sup>5</sup>
@@ -30,7 +31,6 @@
 * О дивный новы мир! ~ [violet_velva](users/116/116961712580551399099-google)<sup>50</sup>
 * Расщелина ~ [violet_velva](users/116/116961712580551399099-google)<sup>49</sup>
 * Двести лет вместе. Часть I. В дореволюционной России ~ [exulted](users/100/100599204551896265722-google)<sup>86</sup>
-* Крестный отец ~ [Garka](users/115/115753719718250012620-google)<sup>196</sup>
 
 
-_14.11.2018 18:43:29_
+_14.11.2018 18:45:57_

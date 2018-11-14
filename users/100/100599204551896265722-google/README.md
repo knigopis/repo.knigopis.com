@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>88</sup>
+# Список прочитанных книг пользователя exulted<sup>89</sup>
 ---
 
 ## 2018
@@ -6,6 +6,11 @@
 ### Ship of Fools: An Anthology of Learned Nonsense about Primitive Society
 C.R. Hallpike
 > [2018-11-14] ASIN: B07HX4188K
+
+
+### The Man in the High Castle
+Philip K. Dick
+> [2018-11-07] ASIN: B005MZN2B2
 
 
 ### 1916. Война и Мир

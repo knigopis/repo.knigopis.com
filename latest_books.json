@@ -1,4 +1,16 @@
 {
+    "N-ct_QDWZU": {
+        "id": "N-ct_QDWZU",
+        "title": "The Man in the High Castle",
+        "author": "Philip K. Dick",
+        "notes": "ASIN: B005MZN2B2",
+        "createdAt": "2018-11-14 18:45:57",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 89
+        }
+    },
     "KRsMlMLpVB": {
         "id": "KRsMlMLpVB",
         "title": "Ship of Fools: An Anthology of Learned Nonsense about Primitive Society",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 44
-        }
-    },
-    "N9rR6Z5btc": {
-        "id": "N9rR6Z5btc",
-        "title": "Благословите короля, или Характер скверный, не женат!",
-        "author": "Анна Гаврилова",
-        "notes": "",
-        "createdAt": "2018-11-14 05:25:24",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 43
         }
     }
 }
