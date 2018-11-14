@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>55</sup> 
 [YungEva](users/153/153932733-vkontakte)<sup>71</sup> 
 [kukharski](users/106/106006402120489140078-google)<sup>9</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>51</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [Мышь Тэки](users/200/2000052600056325-facebook)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>96</sup> 
-[Музыкантша](users/107/107210896927993390084-google)<sup>1</sup> 
 
 
-_14.11.2018 06:02:28_
+_14.11.2018 06:10:10_
