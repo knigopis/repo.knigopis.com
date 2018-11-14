@@ -1,4 +1,16 @@
 {
+    "Oy97MB4ewr": {
+        "id": "Oy97MB4ewr",
+        "title": "Азартные игры волшебников",
+        "author": "Никольская Ева",
+        "notes": "1 - Азартные игры волшебников (Героическое фэнтези) 2 - Пять разбитых сердец (Героическое фэнтези) 3 - Девушка для дракона",
+        "createdAt": "2018-11-14 02:39:38",
+        "user": {
+            "id": "153932733-vkontakte",
+            "nickname": "YungEva",
+            "booksCount": 16
+        }
+    },
     "ZwnWgJjB3r": {
         "id": "ZwnWgJjB3r",
         "title": "Подарок из преисподней",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 91
-        }
-    },
-    "LgK5bpjrfx": {
-        "id": "LgK5bpjrfx",
-        "title": "Чип Блейза",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-11-12 13:45:22",
-        "user": {
-            "id": "108346258937611636820-google",
-            "nickname": "SCOTOMOR",
-            "booksCount": 1
         }
     }
 }
