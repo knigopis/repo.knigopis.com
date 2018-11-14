@@ -1,7 +1,12 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>5</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>6</sup>
 ---
 
 ## 2018
+
+### Княжна из клана куницы.
+Чиркова Вера
+> 4 книги
+
 
 ### Астра.Шустрое счастье или воспитание дракона
 Гаврилова Анна
