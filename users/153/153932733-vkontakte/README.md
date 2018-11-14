@@ -1,7 +1,11 @@
-# List of books read by [YungEva](http://vk.com/id153932733)<sup>2</sup>
+# List of books read by [YungEva](http://vk.com/id153932733)<sup>3</sup>
 ---
 
 ## 2018
+
+### Астра.Счастье вдруг или история одного дракона
+Гаврилова Анна
+
 
 ### Сказки должны заканчиваться свадьбой
 Стрельникова Юлия
