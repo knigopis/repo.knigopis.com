@@ -1,4 +1,16 @@
 {
+    "4TN5GiULew": {
+        "id": "4TN5GiULew",
+        "title": "Заставьте свои сильные стороны работать",
+        "author": "Бакингем Маркус",
+        "notes": "в процессе",
+        "createdAt": "2018-11-14 20:39:18",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 185
+        }
+    },
     "N-ct_QDWZU": {
         "id": "N-ct_QDWZU",
         "title": "The Man in the High Castle",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 49
-        }
-    },
-    "S_raeFcCIN": {
-        "id": "S_raeFcCIN",
-        "title": "Двести лет вместе. Часть I. В дореволюционной России",
-        "author": "Солженицын Александр",
-        "notes": "ISBN: 978-5-9691-1375-6",
-        "createdAt": "2018-10-15 07:35:47",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 86
         }
     }
 }

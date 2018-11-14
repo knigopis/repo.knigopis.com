@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Заставьте свои сильные стороны работать ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>185</sup>
+    > в процессе
+
 * The Man in the High Castle ~ [exulted](users/100/100599204551896265722-google)<sup>89</sup>
     > ASIN: B005MZN2B2
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN: B07HX4188K
 
 * 🧙🏻‍♂️ Гарри Поттер и Принц-полукровка ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>51</sup>
-    > Больше любви!
 
 * Свадьба в стране грибов ~ [Asiar](users/115/115902526849562271887-google)<sup>5</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Праздник, который всегда с тобой ~ [joan789](users/240/2401650-vkontakte)<sup>90</sup>
 
-* Человек с пятью «не», или Исповедь простодушного (повесть) ~ [joan789](users/240/2401650-vkontakte)<sup>88</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>185</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>89</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>163</sup> 
 [En](users/333/333646551-vkontakte)<sup>55</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>77</sup> 
 [MixMax](users/101/101518605191036306948-google)<sup>0</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
-[Мышь Тэки](users/200/2000052600056325-facebook)<sup>1</sup> 
 
 
-_14.11.2018 18:45:57_
+_14.11.2018 20:39:19_
