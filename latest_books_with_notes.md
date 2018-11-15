@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чёрный кот ~ [Leonid280497](users/684/684095007-yandex)<sup>6</sup>
 * Краткая история почти всего на свете ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>75</sup>
 * Лекции по психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup>
 * Заставьте свои сильные стороны работать ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>185</sup>
@@ -30,7 +31,6 @@
 * К черту всё! Берись и делай! ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>44</sup>
 *  ~ [Stacy](users/309/30902475-vkontakte)<sup>3</sup>
 * Повелитель мух ~ [Garka](users/115/115753719718250012620-google)<sup>197</sup>
-* 4-я Донская казачья  Дивизия в Русско японской войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>35</sup>
 
 
-_15.11.2018 18:11:42_
+_15.11.2018 20:45:18_

@@ -1,4 +1,16 @@
 {
+    "nEiu8QTnAT": {
+        "id": "nEiu8QTnAT",
+        "title": "Чёрный кот",
+        "author": "Эдгар По",
+        "notes": "Рассказ-хоррор. В целом, неплохо, но есть куда лучше. 7/10",
+        "createdAt": "2018-11-15 20:45:18",
+        "user": {
+            "id": "684095007-yandex",
+            "nickname": "Leonid280497",
+            "booksCount": 6
+        }
+    },
     "rmCJ6WcpMS": {
         "id": "rmCJ6WcpMS",
         "title": "Краткая история почти всего на свете",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 197
-        }
-    },
-    "s9A6YtEUBr": {
-        "id": "s9A6YtEUBr",
-        "title": "4-я Донская казачья  Дивизия в Русско японской войне",
-        "author": "Федор Ростовцев",
-        "notes": "Есть Февралёв Иван Иванович",
-        "createdAt": "2018-10-18 10:40:26",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 35
         }
     }
 }

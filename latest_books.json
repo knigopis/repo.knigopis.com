@@ -1,4 +1,16 @@
 {
+    "nEiu8QTnAT": {
+        "id": "nEiu8QTnAT",
+        "title": "Чёрный кот",
+        "author": "Эдгар По",
+        "notes": "Рассказ-хоррор. В целом, неплохо, но есть куда лучше. 7/10",
+        "createdAt": "2018-11-15 20:45:18",
+        "user": {
+            "id": "684095007-yandex",
+            "nickname": "Leonid280497",
+            "booksCount": 6
+        }
+    },
     "rmCJ6WcpMS": {
         "id": "rmCJ6WcpMS",
         "title": "Краткая история почти всего на свете",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 50
-        }
-    },
-    "H0PrFmvfPX": {
-        "id": "H0PrFmvfPX",
-        "title": "В полушаге от любви",
-        "author": "Куно Ольга",
-        "notes": "",
-        "createdAt": "2018-11-14 05:41:06",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 49
         }
     }
 }
