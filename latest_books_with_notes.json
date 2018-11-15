@@ -1,4 +1,16 @@
 {
+    "rmCJ6WcpMS": {
+        "id": "rmCJ6WcpMS",
+        "title": "Краткая история почти всего на свете",
+        "author": "Билл Брайсон",
+        "notes": "Одна планета, один эксперимент",
+        "createdAt": "2018-11-15 18:11:42",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 75
+        }
+    },
     "Zj42RaqsQ6": {
         "id": "Zj42RaqsQ6",
         "title": "Лекции по психологии",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 35
-        }
-    },
-    "HlTnK8Jpic": {
-        "id": "HlTnK8Jpic",
-        "title": "О дивный новы мир!",
-        "author": "Олдос Хаксли",
-        "notes": "Ну тут можно и не писать примечания. Слава идет далеко перед ней. Просто еще одна антиутопия, очень интересное изложение.",
-        "createdAt": "2018-10-16 21:12:08",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 50
         }
     }
 }

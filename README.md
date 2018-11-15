@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Краткая история почти всего на свете ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>75</sup>
+    > Одна планета, один эксперимент
+
 * Лекции по психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup>
     > в процессе
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * The Man in the High Castle ~ [exulted](users/100/100599204551896265722-google)<sup>89</sup>
-    > ASIN: B005MZN2B2
 
 * Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>88</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Путеводитель по миру тёмных искусств ~ [darb_el](users/184/184135339-vkontakte)<sup>17</sup>
 
-* Дневник памяти ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[victoria_spilioti](users/219/219259003-vkontakte)<sup>75</sup> 
 [npodgaysky](users/331/3318941-vkontakte)<sup>0</sup> 
 [dota2andsweets](users/100/100671409-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lalalalay](users/840/8405096-vkontakte)<sup>0</sup> 
 [](users/105/105680958948790479255-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>12</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>77</sup> 
 
 
-_15.11.2018 18:05:20_
+_15.11.2018 18:11:42_

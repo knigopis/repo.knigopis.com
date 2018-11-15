@@ -1,4 +1,16 @@
 {
+    "rmCJ6WcpMS": {
+        "id": "rmCJ6WcpMS",
+        "title": "Краткая история почти всего на свете",
+        "author": "Билл Брайсон",
+        "notes": "Одна планета, один эксперимент",
+        "createdAt": "2018-11-15 18:11:42",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 75
+        }
+    },
     "im42zZyW3k": {
         "id": "im42zZyW3k",
         "title": "Язык С",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 49
-        }
-    },
-    "3xqL3vLgrW": {
-        "id": "3xqL3vLgrW",
-        "title": "Невеста по завещанию",
-        "author": "Куно Ольга",
-        "notes": "1 - Невеста по завещанию\n(Романтическое фэнтези)\n2 - Жена по призванию\n(Романтическое фэнтези)",
-        "createdAt": "2018-11-14 05:40:46",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 48
         }
     }
 }

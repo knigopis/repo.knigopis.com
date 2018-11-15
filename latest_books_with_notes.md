@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Краткая история почти всего на свете ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>75</sup>
 * Лекции по психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup>
 * Заставьте свои сильные стороны работать ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>185</sup>
 * The Man in the High Castle ~ [exulted](users/100/100599204551896265722-google)<sup>89</sup>
@@ -30,7 +31,6 @@
 *  ~ [Stacy](users/309/30902475-vkontakte)<sup>3</sup>
 * Повелитель мух ~ [Garka](users/115/115753719718250012620-google)<sup>197</sup>
 * 4-я Донская казачья  Дивизия в Русско японской войне ~ [mfevralev](users/140/140966150-vkontakte)<sup>35</sup>
-* О дивный новы мир! ~ [violet_velva](users/116/116961712580551399099-google)<sup>50</sup>
 
 
-_14.11.2018 20:40:41_
+_15.11.2018 18:11:42_

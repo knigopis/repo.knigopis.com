@@ -1,4 +1,10 @@
 {
+    "219259003-vkontakte": {
+        "id": "219259003-vkontakte",
+        "nickname": "victoria_spilioti",
+        "booksCount": 75,
+        "updatedAt": "2018-11-15 18:11:42"
+    },
     "3318941-vkontakte": {
         "id": "3318941-vkontakte",
         "nickname": "npodgaysky",
@@ -172,11 +178,5 @@
         "nickname": "Окс",
         "booksCount": 12,
         "updatedAt": "2018-11-08 15:40:24"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 77,
-        "updatedAt": "2018-11-06 18:35:56"
     }
 }
