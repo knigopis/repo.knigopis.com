@@ -1,4 +1,16 @@
 {
+    "im42zZyW3k": {
+        "id": "im42zZyW3k",
+        "title": "Язык С",
+        "author": "Брайан Керниган, Деннис Ритчи",
+        "notes": "Книга для лучшего освоения языка С, посоветованная Н.Е. Подгайским",
+        "createdAt": "2018-11-15 10:57:27",
+        "user": {
+            "id": "100671409-vkontakte",
+            "nickname": "dota2andsweets",
+            "booksCount": 1
+        }
+    },
     "Zj42RaqsQ6": {
         "id": "Zj42RaqsQ6",
         "title": "Лекции по психологии",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 48
-        }
-    },
-    "kX991u5J4c": {
-        "id": "kX991u5J4c",
-        "title": "Эмелис",
-        "author": "Гаврилова Анна",
-        "notes": "1 - Путь магии и сердца\n(Романтическое фэнтези)\n2 - Путь долга и любви",
-        "createdAt": "2018-11-14 05:27:45",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 46
         }
     }
 }
