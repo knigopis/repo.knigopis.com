@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ Наталья Паутова](users/850/8505581439164914115-mailru)<sup>1</sup> 
+[ Наталья Паутова](users/850/8505581439164914115-mailru)<sup>2</sup> 
 [idpiratessoul](users/462/462695837-vkontakte)<sup>0</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>6</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>75</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lalalalay](users/840/8405096-vkontakte)<sup>0</sup> 
 
 
-_16.11.2018 15:39:16_
+_16.11.2018 15:39:27_
