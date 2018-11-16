@@ -1,4 +1,16 @@
 {
+    "OzDKYtQtc-": {
+        "id": "OzDKYtQtc-",
+        "title": "Ангелы и демоны",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2018-11-16 20:45:00",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 228
+        }
+    },
     "Y6wKB4UTxH": {
         "id": "Y6wKB4UTxH",
         "title": "гарри поттер",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 53
-        }
-    },
-    "4FRnZSFZzP": {
-        "id": "4FRnZSFZzP",
-        "title": "",
-        "author": "Туманова Анна",
-        "notes": "1 Женское счастье (поподанка, переселение душ) 2 Леди для одинокого лорда",
-        "createdAt": "2018-11-14 05:43:53",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 51
         }
     }
 }

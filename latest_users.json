@@ -1,4 +1,10 @@
 {
+    "10848515355906827860-mailru": {
+        "id": "10848515355906827860-mailru",
+        "nickname": "Оля-перекати-поле",
+        "booksCount": 228,
+        "updatedAt": "2018-11-16 20:45:00"
+    },
     "8505581439164914115-mailru": {
         "id": "8505581439164914115-mailru",
         "nickname": " Наталья Паутова",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 129,
         "updatedAt": "2018-11-09 17:15:09"
-    },
-    "8405096-vkontakte": {
-        "id": "8405096-vkontakte",
-        "nickname": "lalalalay",
-        "booksCount": 0,
-        "updatedAt": "2018-11-09 09:25:57"
     }
 }
