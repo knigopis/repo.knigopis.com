@@ -1,4 +1,10 @@
 {
+    "462695837-vkontakte": {
+        "id": "462695837-vkontakte",
+        "nickname": "idpiratessoul",
+        "booksCount": 0,
+        "updatedAt": "2018-11-16 12:20:56"
+    },
     "684095007-yandex": {
         "id": "684095007-yandex",
         "nickname": "Leonid280497",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2018-11-08 23:56:10"
-    },
-    "102536471289425216982-google": {
-        "id": "102536471289425216982-google",
-        "nickname": "Окс",
-        "booksCount": 12,
-        "updatedAt": "2018-11-08 15:40:24"
     }
 }
