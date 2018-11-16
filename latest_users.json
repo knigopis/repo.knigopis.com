@@ -1,4 +1,10 @@
 {
+    "8505581439164914115-mailru": {
+        "id": "8505581439164914115-mailru",
+        "nickname": " Наталья Паутова",
+        "booksCount": 0,
+        "updatedAt": "2018-11-16 15:38:35"
+    },
     "462695837-vkontakte": {
         "id": "462695837-vkontakte",
         "nickname": "idpiratessoul",
@@ -172,11 +178,5 @@
         "nickname": "lalalalay",
         "booksCount": 0,
         "updatedAt": "2018-11-09 09:25:57"
-    },
-    "105680958948790479255-google": {
-        "id": "105680958948790479255-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2018-11-08 23:56:10"
     }
 }
