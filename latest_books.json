@@ -1,4 +1,16 @@
 {
+    "sRUVtn2CXA": {
+        "id": "sRUVtn2CXA",
+        "title": "гарри поттер",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-11-16 15:39:16",
+        "user": {
+            "id": "8505581439164914115-mailru",
+            "nickname": " Наталья Паутова",
+            "booksCount": 1
+        }
+    },
     "nEiu8QTnAT": {
         "id": "nEiu8QTnAT",
         "title": "Чёрный кот",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 51
-        }
-    },
-    "l5D3nqaxjH": {
-        "id": "l5D3nqaxjH",
-        "title": "Избранная по контракту",
-        "author": "",
-        "notes": "1 - Избранная по контракту  2 - Коммандос из демиургов 3 - Мужчина ее мечты",
-        "createdAt": "2018-11-14 05:42:18",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 50
         }
     }
 }
