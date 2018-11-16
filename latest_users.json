@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 78,
+        "updatedAt": "2018-11-16 21:00:11"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 12,
         "updatedAt": "2018-11-10 19:52:46"
-    },
-    "115826717712507836033-google": {
-        "id": "115826717712507836033-google",
-        "nickname": null,
-        "booksCount": 129,
-        "updatedAt": "2018-11-09 17:15:09"
     }
 }

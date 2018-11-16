@@ -1,4 +1,16 @@
 {
+    "d9rvBTyrEx": {
+        "id": "d9rvBTyrEx",
+        "title": "Под знаком мантикоры",
+        "author": "Пехов Алексей",
+        "notes": "фантастика. почти исторический детектив",
+        "createdAt": "2018-11-16 21:00:11",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 78
+        }
+    },
     "xLJPDcpLsB": {
         "id": "xLJPDcpLsB",
         "title": "Сомнительные удовольствия",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 55
-        }
-    },
-    "7dU9c4LC7H": {
-        "id": "7dU9c4LC7H",
-        "title": "Жена на полставки",
-        "author": "Зимняя Кристина",
-        "notes": "",
-        "createdAt": "2018-11-14 05:47:02",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 54
         }
     }
 }

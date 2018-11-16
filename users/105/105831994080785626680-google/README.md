@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>77</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>78</sup>
 ---
 
 ## 2018
+
+### Под знаком мантикоры
+Пехов Алексей
+> [2018-11] фантастика. почти исторический детектив
+
 
 ### Наследие великанов
 Панов Вадим

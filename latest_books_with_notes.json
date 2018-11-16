@@ -1,4 +1,16 @@
 {
+    "d9rvBTyrEx": {
+        "id": "d9rvBTyrEx",
+        "title": "Под знаком мантикоры",
+        "author": "Пехов Алексей",
+        "notes": "фантастика. почти исторический детектив",
+        "createdAt": "2018-11-16 21:00:11",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 78
+        }
+    },
     "nEiu8QTnAT": {
         "id": "nEiu8QTnAT",
         "title": "Чёрный кот",
@@ -345,18 +357,6 @@
             "id": "30902475-vkontakte",
             "nickname": "Stacy",
             "booksCount": 3
-        }
-    },
-    "IilG4JGVNr": {
-        "id": "IilG4JGVNr",
-        "title": "Повелитель мух",
-        "author": "Голдинг, Уильям",
-        "notes": "Нуууу.... Как-то так себе",
-        "createdAt": "2018-10-19 19:26:18",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 197
         }
     }
 }

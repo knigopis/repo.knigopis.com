@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Под знаком мантикоры ~ [Chiffi](users/105/105831994080785626680-google)<sup>78</sup>
+    > фантастика. почти исторический детектив
+
 * Чёрный кот ~ [Leonid280497](users/684/684095007-yandex)<sup>6</sup>
     > Рассказ-хоррор. В целом, неплохо, но есть куда лучше. 7/10
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Одна планета, один эксперимент
 
 * Лекции по психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/3811224/
 
 * Заставьте свои сильные стороны работать ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>185</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ёцуба том 1 ~ [Asiar](users/115/115902526849562271887-google)<sup>4</sup>
 
-* Тайны мозга. Почему мы во всё верим. ~ [darb_el](users/184/184135339-vkontakte)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>78</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>228</sup> 
 [ Наталья Паутова](users/850/8505581439164914115-mailru)<sup>2</sup> 
 [idpiratessoul](users/462/462695837-vkontakte)<sup>0</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Blomkvist](users/108/108403801502461688284-google)<sup>0</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>32</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>12</sup> 
-[](users/115/115826717712507836033-google)<sup>129</sup> 
 
 
-_16.11.2018 20:46:44_
+_16.11.2018 21:00:11_
