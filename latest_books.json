@@ -1,4 +1,16 @@
 {
+    "BjlB7QSMEn": {
+        "id": "BjlB7QSMEn",
+        "title": "Зов Ктулху",
+        "author": "Говард Лавкрафт",
+        "notes": "Вводный рассказ про Ктулху. Представляет из себя три главы о разных источниках, связанных между собой древним божеством. 8/10 - ждал немного большего.",
+        "createdAt": "2018-11-17 20:56:57",
+        "user": {
+            "id": "684095007-yandex",
+            "nickname": "Leonid280497",
+            "booksCount": 7
+        }
+    },
     "f3x2nwkJC5": {
         "id": "f3x2nwkJC5",
         "title": "Стать викингом",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 60
-        }
-    },
-    "j7XTMbC-wn": {
-        "id": "j7XTMbC-wn",
-        "title": "Верь в сказки",
-        "author": "Одиссева Пенелопа",
-        "notes": "",
-        "createdAt": "2018-11-14 05:50:19",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 59
         }
     }
 }
