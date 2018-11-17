@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[violet_velva](users/116/116961712580551399099-google)<sup>52</sup> 
+[violet_velva](users/116/116961712580551399099-google)<sup>53</sup> 
 [SadDante](users/106/106542587075125362464-google)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>52</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>78</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Blomkvist](users/108/108403801502461688284-google)<sup>0</sup> 
 
 
-_17.11.2018 17:58:03_
+_17.11.2018 18:00:02_

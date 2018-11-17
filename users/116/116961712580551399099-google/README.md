@@ -1,4 +1,4 @@
-# List of books read by violet_velva<sup>52</sup>
+# List of books read by violet_velva<sup>53</sup>
 ---
 
 ## 2018
@@ -200,6 +200,11 @@ Gregory David Roberts
 ### Поющие в терновнике
 Колин Маккалоу
 > [2013-09] 
+
+
+### Тысяча сияющих солнц
+Халед Хоссейни
+> [2013-05] 
 
 
 
