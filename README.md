@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[SadDante](users/106/106542587075125362464-google)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>52</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>78</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>228</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>18</sup> 
 [Blomkvist](users/108/108403801502461688284-google)<sup>0</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>32</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>12</sup> 
 
 
-_17.11.2018 07:29:07_
+_17.11.2018 12:38:00_
