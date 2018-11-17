@@ -1,4 +1,16 @@
 {
+    "Yd0CjLyGKP": {
+        "id": "Yd0CjLyGKP",
+        "title": "Считать виновной",
+        "author": "Тесс Герритсен",
+        "notes": "",
+        "createdAt": "2018-11-17 07:29:07",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 52
+        }
+    },
     "d9rvBTyrEx": {
         "id": "d9rvBTyrEx",
         "title": "Под знаком мантикоры",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 56
-        }
-    },
-    "pk1I8GxEfL": {
-        "id": "pk1I8GxEfL",
-        "title": "ЛФР",
-        "author": "Наталья Ручей",
-        "notes": "Любовь в облаках\nК черту, но если вы сделали все эти глупости",
-        "createdAt": "2018-11-14 05:47:46",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 55
         }
     }
 }
