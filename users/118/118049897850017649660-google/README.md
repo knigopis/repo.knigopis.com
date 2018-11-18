@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>108</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>109</sup>
 ---
 
 ## 2018
+
+### Сага о живых кораблях (3) Корабль судьбы. Том 2
+Робин Хобб
+> [2018-11-18] 
+
 
 ### Сага о живых кораблях (3) Корабль судьбы. Том 1
 Робин Хобб
