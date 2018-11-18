@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>669</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>6</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>109</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>18</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>7</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>668</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>53</sup> 
 [SadDante](users/106/106542587075125362464-google)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>52</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Asiar](users/115/115902526849562271887-google)<sup>5</sup> 
 
 
-_18.11.2018 20:32:41_
+_18.11.2018 22:03:43_

@@ -1,4 +1,16 @@
 {
+    "RaQsPOF5VR": {
+        "id": "RaQsPOF5VR",
+        "title": "После тебя",
+        "author": "Джойо Мойес",
+        "notes": "",
+        "createdAt": "2018-11-18 22:03:42",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 669
+        }
+    },
     "ZjWUpQzN_5": {
         "id": "ZjWUpQzN_5",
         "title": "Леди не движется",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 68
-        }
-    },
-    "PyIaM3cwN4": {
-        "id": "PyIaM3cwN4",
-        "title": "Слово Императора *",
-        "author": "Кузнецова Дарья",
-        "notes": "ФЛР оборотни",
-        "createdAt": "2018-11-14 05:56:37",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 67
         }
     }
 }
