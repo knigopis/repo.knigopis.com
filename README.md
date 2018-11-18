@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>18</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>7</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>668</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>53</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Asiar](users/115/115902526849562271887-google)<sup>5</sup> 
 [niler](users/983/98355385-vkontakte)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>18</sup> 
-[Blomkvist](users/108/108403801502461688284-google)<sup>0</sup> 
 
 
-_17.11.2018 20:56:57_
+_18.11.2018 04:19:04_

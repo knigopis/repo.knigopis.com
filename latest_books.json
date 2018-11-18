@@ -1,4 +1,16 @@
 {
+    "WGvZti_0Qg": {
+        "id": "WGvZti_0Qg",
+        "title": "Танатонавты",
+        "author": "Бернард Вербер",
+        "notes": "",
+        "createdAt": "2018-11-18 04:19:04",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 18
+        }
+    },
     "BjlB7QSMEn": {
         "id": "BjlB7QSMEn",
         "title": "Зов Ктулху",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 61
-        }
-    },
-    "M1WQAD052N": {
-        "id": "M1WQAD052N",
-        "title": "Однажды тихой, темной ночью",
-        "author": "Косухина Наталья",
-        "notes": "СЛФР",
-        "createdAt": "2018-11-14 05:51:22",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 60
         }
     }
 }
