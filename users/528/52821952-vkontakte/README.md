@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>96</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>97</sup>
 ---
 
 ## 2018
+
+### Азазель
+Борис Акунин
+> [2018-11-19] 8/10
+
 
 ### Ведьмак
 Анджей Сапковский

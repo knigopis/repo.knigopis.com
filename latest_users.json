@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 97,
+        "updatedAt": "2018-11-19 21:06:18"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "SCOTOMOR",
         "booksCount": 1,
         "updatedAt": "2018-11-12 13:45:22"
-    },
-    "55184516-vkontakte": {
-        "id": "55184516-vkontakte",
-        "nickname": "Ikatatsumuri",
-        "booksCount": 0,
-        "updatedAt": "2018-11-12 07:38:52"
     }
 }
