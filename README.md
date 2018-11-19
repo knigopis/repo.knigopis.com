@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Leonid280497](users/684/684095007-yandex)<sup>8</sup> 
+[Leonid280497](users/684/684095007-yandex)<sup>7</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>52</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>45</sup> 
 [En](users/333/333646551-vkontakte)<sup>56</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/846/846890718375-odnoklassniki)<sup>0</sup> 
 
 
-_19.11.2018 11:23:57_
+_19.11.2018 11:24:17_
