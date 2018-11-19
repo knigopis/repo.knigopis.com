@@ -1,4 +1,16 @@
 {
+    "MG3Oht4idH": {
+        "id": "MG3Oht4idH",
+        "title": "Отверженные",
+        "author": "Виктор Гюго",
+        "notes": "",
+        "createdAt": "2018-11-19 13:16:58",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 140
+        }
+    },
     "-sYNgCDmgg": {
         "id": "-sYNgCDmgg",
         "title": "Зелёная дверь",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 88
-        }
-    },
-    "xHb0ygFtOs": {
-        "id": "xHb0ygFtOs",
-        "title": "Логика. Учебное пособие",
-        "author": "Дмитрий Гусев",
-        "notes": "",
-        "createdAt": "2018-11-14 16:35:41",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 163
         }
     }
 }

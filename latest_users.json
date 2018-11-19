@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 140,
+        "updatedAt": "2018-11-19 13:16:58"
+    },
     "684095007-yandex": {
         "id": "684095007-yandex",
         "nickname": "Leonid280497",
@@ -172,11 +178,5 @@
         "nickname": "Ikatatsumuri",
         "booksCount": 0,
         "updatedAt": "2018-11-12 07:38:52"
-    },
-    "846890718375-odnoklassniki": {
-        "id": "846890718375-odnoklassniki",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2018-11-11 19:18:38"
     }
 }

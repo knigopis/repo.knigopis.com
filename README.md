@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>140</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>3</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>52</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>45</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>91</sup> 
 [SCOTOMOR](users/108/108346258937611636820-google)<sup>1</sup> 
 [Ikatatsumuri](users/551/55184516-vkontakte)<sup>0</sup> 
-[](users/846/846890718375-odnoklassniki)<sup>0</sup> 
 
 
-_19.11.2018 11:32:58_
+_19.11.2018 13:16:59_
