@@ -1,4 +1,16 @@
 {
+    "-sYNgCDmgg": {
+        "id": "-sYNgCDmgg",
+        "title": "Зелёная дверь",
+        "author": "О. Генри",
+        "notes": "Интересный рассказ о том, как человек рискнул и нашёл свою судьбу: свою возлюбленную. 8/10",
+        "createdAt": "2018-11-19 11:32:58",
+        "user": {
+            "id": "684095007-yandex",
+            "nickname": "Leonid280497",
+            "booksCount": 3
+        }
+    },
     "sCOU7oi1Ue": {
         "id": "sCOU7oi1Ue",
         "title": "Рассказы",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 163
-        }
-    },
-    "0zmRcsZAn0": {
-        "id": "0zmRcsZAn0",
-        "title": "Каждому свое 3",
-        "author": "Тармашев С.С.",
-        "notes": "",
-        "createdAt": "2018-11-14 06:10:10",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 55
         }
     }
 }

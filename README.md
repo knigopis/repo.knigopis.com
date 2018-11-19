@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зелёная дверь ~ [Leonid280497](users/684/684095007-yandex)<sup>3</sup>
+    > Интересный рассказ о том, как человек рискнул и нашёл свою судьбу: свою возлюбленную. 8/10
+
 * Рассказы ~ [Leonid280497](users/684/684095007-yandex)<sup>8</sup>
     > Сердце-обличитель: рассказ про мужчину, который убил и расчленил соседа-старика. Он спрятал его под пол, но его безумие вынудило его сознаться во всём полиции. 9/10
     > Чёрный кот:  Рассказ-хоррор про пьяного хозяина, который убил кота и жену. 7/10
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > - ПОСЛЕ СТОЛЬКИХ ЛЕТ? - ВСЕГДА.
 
 * Человеческий улей ~ [En](users/333/333646551-vkontakte)<sup>56</sup>
-    > первая книга серии СТИКС, интересная задумка мира, чем то напомнило сталкера, немного бесят повторения какого-либо факта, но в целом вполне не плохо.
 
 * Леди не движется ~ [Александр Погодин](users/625/6259590452259030261-mailru)<sup>6</sup>
 
@@ -31,14 +33,12 @@ Do not use pull requests to make changes here.
 
 * Зов Ктулху ~ [Leonid280497](users/684/684095007-yandex)<sup>7</sup>
 
-* Через много лет ~ [violet_velva](users/116/116961712580551399099-google)<sup>52</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Leonid280497](users/684/684095007-yandex)<sup>2</sup> 
+[Leonid280497](users/684/684095007-yandex)<sup>3</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>52</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>45</sup> 
 [En](users/333/333646551-vkontakte)<sup>56</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/846/846890718375-odnoklassniki)<sup>0</sup> 
 
 
-_19.11.2018 11:31:10_
+_19.11.2018 11:32:58_
