@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Судьба короля. Хроники странного королевства ~ [Chiffi](users/105/105831994080785626680-google)<sup>79</sup>
+    > Пересекая границы
+
 * Зелёная дверь ~ [Leonid280497](users/684/684095007-yandex)<sup>3</sup>
     > Интересный рассказ о том, как человек рискнул и нашёл свою судьбу: свою возлюбленную. 8/10
 
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > Падение дома Ашеров: Мрачный рассказ о помешательстве мистера Ашера. В конце его дом рушится, а в месте с ним и погибают его неулыбчивые жители. 6,10 за атмосферу.
 
 * 🧙🏻‍♂️ Гарри Поттер и Дары Смерти ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>52</sup>
-    > - ПОСЛЕ СТОЛЬКИХ ЛЕТ? - ВСЕГДА.
 
 * Человеческий улей ~ [En](users/333/333646551-vkontakte)<sup>56</sup>
 
@@ -31,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Корсары Леванта ~ [Александр Погодин](users/625/6259590452259030261-mailru)<sup>2</sup>
 
-* Зов Ктулху ~ [Leonid280497](users/684/684095007-yandex)<sup>7</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>79</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>140</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>3</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>52</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>53</sup> 
 [SadDante](users/106/106542587075125362464-google)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>52</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>78</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>228</sup> 
 [ Наталья Паутова](users/850/8505581439164914115-mailru)<sup>2</sup> 
 [idpiratessoul](users/462/462695837-vkontakte)<sup>0</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ikatatsumuri](users/551/55184516-vkontakte)<sup>0</sup> 
 
 
-_19.11.2018 13:16:59_
+_19.11.2018 17:14:09_

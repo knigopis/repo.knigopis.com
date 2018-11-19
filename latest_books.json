@@ -1,4 +1,16 @@
 {
+    "qlSD7tfEGm": {
+        "id": "qlSD7tfEGm",
+        "title": "Судьба короля. Хроники странного королевства",
+        "author": "Панкеева Оксана",
+        "notes": "Пересекая границы",
+        "createdAt": "2018-11-19 17:14:09",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 79
+        }
+    },
     "MG3Oht4idH": {
         "id": "MG3Oht4idH",
         "title": "Отверженные",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 89
-        }
-    },
-    "KRsMlMLpVB": {
-        "id": "KRsMlMLpVB",
-        "title": "Ship of Fools: An Anthology of Learned Nonsense about Primitive Society",
-        "author": "C.R. Hallpike",
-        "notes": "ASIN: B07HX4188K",
-        "createdAt": "2018-11-14 18:43:29",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 88
         }
     }
 }
