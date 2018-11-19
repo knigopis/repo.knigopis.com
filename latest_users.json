@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 45,
+        "updatedAt": "2018-11-19 09:56:22"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2018-11-11 19:18:38"
-    },
-    "115902526849562271887-google": {
-        "id": "115902526849562271887-google",
-        "nickname": "Asiar",
-        "booksCount": 5,
-        "updatedAt": "2018-11-11 16:22:28"
     }
 }

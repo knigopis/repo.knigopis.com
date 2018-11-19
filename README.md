@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>45</sup> 
 [En](users/333/333646551-vkontakte)<sup>56</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>669</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>6</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ikatatsumuri](users/551/55184516-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>51</sup> 
 [](users/846/846890718375-odnoklassniki)<sup>0</sup> 
-[Asiar](users/115/115902526849562271887-google)<sup>5</sup> 
 
 
-_19.11.2018 09:33:25_
+_19.11.2018 09:56:22_

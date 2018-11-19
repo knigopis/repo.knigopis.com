@@ -1,4 +1,16 @@
 {
+    "BRozGa7W5j": {
+        "id": "BRozGa7W5j",
+        "title": "Гарри потер и методы рационального мышления",
+        "author": "Элиезер Юдковский",
+        "notes": "",
+        "createdAt": "2018-11-19 09:56:22",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 45
+        }
+    },
     "FzBF-KhZn7": {
         "id": "FzBF-KhZn7",
         "title": "Человеческий улей",
@@ -345,18 +357,6 @@
             "id": "153932733-vkontakte",
             "nickname": "YungEva",
             "booksCount": 70
-        }
-    },
-    "jUb6cDWUhg": {
-        "id": "jUb6cDWUhg",
-        "title": "Анна Стриковская",
-        "author": "",
-        "notes": "Профессия Королева\nТело архимага *",
-        "createdAt": "2018-11-14 05:58:43",
-        "user": {
-            "id": "153932733-vkontakte",
-            "nickname": "YungEva",
-            "booksCount": 69
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>44</sup>
+# List of books read by inna.besprozvannykh<sup>45</sup>
 ---
 
 ## 2018
+
+### Гарри потер и методы рационального мышления
+Элиезер Юдковский
+> [2018-11-18] 
+
 
 ### К черту всё! Берись и делай!
 Ричард Брэнсон
