@@ -1,4 +1,16 @@
 {
+    "Ybj8N8k-k0": {
+        "id": "Ybj8N8k-k0",
+        "title": "Анна Каренина",
+        "author": "Лев Николаевич Толстой",
+        "notes": "",
+        "createdAt": "2018-11-20 22:41:53",
+        "user": {
+            "id": "109787328219839805802-google",
+            "nickname": "Rainbow",
+            "booksCount": 46
+        }
+    },
     "_r3H8m3Dnl": {
         "id": "_r3H8m3Dnl",
         "title": "Красная таблетка",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 75
-        }
-    },
-    "im42zZyW3k": {
-        "id": "im42zZyW3k",
-        "title": "Язык С",
-        "author": "Брайан Керниган, Деннис Ритчи",
-        "notes": "Книга для лучшего освоения языка С, посоветованная Н.Е. Подгайским",
-        "createdAt": "2018-11-15 10:57:27",
-        "user": {
-            "id": "100671409-vkontakte",
-            "nickname": "dota2andsweets",
-            "booksCount": 1
         }
     }
 }

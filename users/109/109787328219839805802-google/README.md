@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>45</sup>
+# List of books read by Rainbow<sup>46</sup>
 ---
 
 ## 2018
+
+### Анна Каренина
+Лев Николаевич Толстой
+> [2018-11-18] 
+
 
 ### Утопия
 Томас Мор

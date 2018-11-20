@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>46</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>76</sup> 
 [SCOTOMOR](users/108/108346258937611636820-google)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [blood_witcher](users/158/158994213-vkontakte)<sup>2</sup> 
 [eugenia_vasil](users/155/155589403-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>334</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>91</sup> 
 
 
-_20.11.2018 20:24:29_
+_20.11.2018 22:41:53_
