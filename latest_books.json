@@ -1,4 +1,16 @@
 {
+    "_r3H8m3Dnl": {
+        "id": "_r3H8m3Dnl",
+        "title": "Красная таблетка",
+        "author": "Андрей Курпатов",
+        "notes": "",
+        "createdAt": "2018-11-20 20:24:28",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 76
+        }
+    },
     "h1vTeCKmIA": {
         "id": "h1vTeCKmIA",
         "title": "Чип Блейза. Статус",
@@ -345,18 +357,6 @@
             "id": "100671409-vkontakte",
             "nickname": "dota2andsweets",
             "booksCount": 1
-        }
-    },
-    "Zj42RaqsQ6": {
-        "id": "Zj42RaqsQ6",
-        "title": "Лекции по психологии",
-        "author": "Петр Гальперин",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/3811224/",
-        "createdAt": "2018-11-14 20:40:40",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 186
         }
     }
 }

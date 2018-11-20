@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[victoria_spilioti](users/219/219259003-vkontakte)<sup>76</sup> 
 [SCOTOMOR](users/108/108346258937611636820-google)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>79</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>228</sup> 
 [ Наталья Паутова](users/850/8505581439164914115-mailru)<sup>2</sup> 
 [idpiratessoul](users/462/462695837-vkontakte)<sup>0</sup> 
-[victoria_spilioti](users/219/219259003-vkontakte)<sup>75</sup> 
 [npodgaysky](users/331/3318941-vkontakte)<sup>0</sup> 
 [dota2andsweets](users/100/100671409-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>91</sup> 
 
 
-_20.11.2018 12:47:41_
+_20.11.2018 20:24:29_
