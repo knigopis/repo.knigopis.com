@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[SCOTOMOR](users/108/108346258937611636820-google)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>79</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>140</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [eugenia_vasil](users/155/155589403-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>334</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>91</sup> 
-[SCOTOMOR](users/108/108346258937611636820-google)<sup>1</sup> 
 
 
-_19.11.2018 21:06:18_
+_20.11.2018 12:47:41_

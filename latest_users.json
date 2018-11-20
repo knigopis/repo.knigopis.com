@@ -1,4 +1,10 @@
 {
+    "108346258937611636820-google": {
+        "id": "108346258937611636820-google",
+        "nickname": "SCOTOMOR",
+        "booksCount": 2,
+        "updatedAt": "2018-11-20 12:47:40"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "joan789",
         "booksCount": 91,
         "updatedAt": "2018-11-12 15:21:17"
-    },
-    "108346258937611636820-google": {
-        "id": "108346258937611636820-google",
-        "nickname": "SCOTOMOR",
-        "booksCount": 1,
-        "updatedAt": "2018-11-12 13:45:22"
     }
 }

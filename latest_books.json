@@ -1,4 +1,16 @@
 {
+    "h1vTeCKmIA": {
+        "id": "h1vTeCKmIA",
+        "title": "Чип Блейза. Статус",
+        "author": "Элиан Тарс",
+        "notes": "",
+        "createdAt": "2018-11-20 12:47:40",
+        "user": {
+            "id": "108346258937611636820-google",
+            "nickname": "SCOTOMOR",
+            "booksCount": 2
+        }
+    },
     "b4IkrxEK_y": {
         "id": "b4IkrxEK_y",
         "title": "Азазель",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 186
-        }
-    },
-    "4TN5GiULew": {
-        "id": "4TN5GiULew",
-        "title": "Заставьте свои сильные стороны работать",
-        "author": "Бакингем Маркус",
-        "notes": "в процессе",
-        "createdAt": "2018-11-14 20:39:18",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 185
         }
     }
 }
