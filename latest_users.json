@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 670,
+        "updatedAt": "2018-11-21 19:33:33"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -70,12 +76,6 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 45,
         "updatedAt": "2018-11-19 09:56:22"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 669,
-        "updatedAt": "2018-11-18 22:03:42"
     },
     "6259590452259030261-mailru": {
         "id": "6259590452259030261-mailru",
