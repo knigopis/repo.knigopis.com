@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[HXT](users/100/100002563462782-facebook)<sup>335</sup> 
+[HXT](users/100/100002563462782-facebook)<sup>336</sup> 
 [](users/672/6726760-vkontakte)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>46</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>76</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [blood_witcher](users/158/158994213-vkontakte)<sup>2</sup> 
 
 
-_21.11.2018 04:21:42_
+_21.11.2018 04:22:48_
