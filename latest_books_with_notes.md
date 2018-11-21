@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Человек с котом ~ [En](users/333/333646551-vkontakte)<sup>57</sup>
 * Азазель ~ [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup>
 * Судьба короля. Хроники странного королевства ~ [Chiffi](users/105/105831994080785626680-google)<sup>79</sup>
 * Зелёная дверь ~ [Leonid280497](users/684/684095007-yandex)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Праздник, который всегда с тобой ~ [joan789](users/240/2401650-vkontakte)<sup>90</sup>
 * Человек с пятью «не», или Исповедь простодушного (повесть) ~ [joan789](users/240/2401650-vkontakte)<sup>88</sup>
 * Муми-тролль и комета ~ [joan789](users/240/2401650-vkontakte)<sup>78</sup>
-* Семь зверей Райлега. Тёрн ~ [EsterHani](users/305/30558181-vkontakte)<sup>162</sup>
 
 
-_19.11.2018 21:06:18_
+_21.11.2018 06:51:07_

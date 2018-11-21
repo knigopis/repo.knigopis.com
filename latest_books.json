@@ -1,4 +1,16 @@
 {
+    "BUqRzhyCP-": {
+        "id": "BUqRzhyCP-",
+        "title": "Человек с котом",
+        "author": "А.Каменистый",
+        "notes": "2 часть серии СТИКС, не занудно, много событий, интересный сюжет.",
+        "createdAt": "2018-11-21 06:51:07",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 57
+        }
+    },
     "EYbQc065dj": {
         "id": "EYbQc065dj",
         "title": "Шестёрка воронов",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 228
-        }
-    },
-    "Y6wKB4UTxH": {
-        "id": "Y6wKB4UTxH",
-        "title": "гарри поттер",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-11-16 15:39:27",
-        "user": {
-            "id": "8505581439164914115-mailru",
-            "nickname": " Наталья Паутова",
-            "booksCount": 2
         }
     }
 }

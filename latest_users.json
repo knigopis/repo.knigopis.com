@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 57,
+        "updatedAt": "2018-11-21 06:51:07"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -64,12 +70,6 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 45,
         "updatedAt": "2018-11-19 09:56:22"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 56,
-        "updatedAt": "2018-11-19 09:33:25"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Человек с котом ~ [En](users/333/333646551-vkontakte)<sup>57</sup>
+    > 2 часть серии СТИКС, не занудно, много событий, интересный сюжет.
+
 * Азазель ~ [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup>
     > 8/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Пересекая границы
 
 * Зелёная дверь ~ [Leonid280497](users/684/684095007-yandex)<sup>3</sup>
-    > Интересный рассказ о том, как человек рискнул и нашёл свою судьбу: свою возлюбленную. 8/10
 
 * Рассказы ~ [Leonid280497](users/684/684095007-yandex)<sup>8</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Юджин - поелитель времени. Высокий Глерд. ~ [Александр Погодин](users/625/6259590452259030261-mailru)<sup>4</sup>
 
-* Гном ~ [Александр Погодин](users/625/6259590452259030261-mailru)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>57</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>336</sup> 
 [](users/672/6726760-vkontakte)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>46</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Leonid280497](users/684/684095007-yandex)<sup>3</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>52</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>45</sup> 
-[En](users/333/333646551-vkontakte)<sup>56</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>669</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>6</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>109</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [blood_witcher](users/158/158994213-vkontakte)<sup>2</sup> 
 
 
-_21.11.2018 04:22:48_
+_21.11.2018 06:51:07_
