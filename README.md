@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>92</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>670</sup> 
 [En](users/333/333646551-vkontakte)<sup>57</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>336</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>163</sup> 
 [YungEva](users/153/153932733-vkontakte)<sup>71</sup> 
 [kukharski](users/106/106006402120489140078-google)<sup>9</sup> 
-[blood_witcher](users/158/158994213-vkontakte)<sup>2</sup> 
 
 
-_21.11.2018 19:33:33_
+_21.11.2018 22:17:18_

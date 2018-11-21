@@ -1,4 +1,10 @@
 {
+    "2401650-vkontakte": {
+        "id": "2401650-vkontakte",
+        "nickname": "joan789",
+        "booksCount": 92,
+        "updatedAt": "2018-11-21 22:17:17"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "kukharski",
         "booksCount": 9,
         "updatedAt": "2018-11-13 17:33:34"
-    },
-    "158994213-vkontakte": {
-        "id": "158994213-vkontakte",
-        "nickname": "blood_witcher",
-        "booksCount": 2,
-        "updatedAt": "2018-11-13 13:35:59"
     }
 }
