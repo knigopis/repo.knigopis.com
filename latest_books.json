@@ -1,4 +1,16 @@
 {
+    "XSzX8wrdpk": {
+        "id": "XSzX8wrdpk",
+        "title": "Отцы и дети",
+        "author": "Иван Тургенев",
+        "notes": "",
+        "createdAt": "2018-11-22 09:21:53",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 141
+        }
+    },
     "mlPUraMhYd": {
         "id": "mlPUraMhYd",
         "title": "Вещие сестрички",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 52
-        }
-    },
-    "d9rvBTyrEx": {
-        "id": "d9rvBTyrEx",
-        "title": "Под знаком мантикоры",
-        "author": "Пехов Алексей",
-        "notes": "фантастика. почти исторический детектив",
-        "createdAt": "2018-11-16 21:00:11",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 78
         }
     }
 }

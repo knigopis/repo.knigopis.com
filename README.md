@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>141</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>92</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>670</sup> 
 [En](users/333/333646551-vkontakte)<sup>57</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SCOTOMOR](users/108/108346258937611636820-google)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>79</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>140</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>3</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>52</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>45</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kukharski](users/106/106006402120489140078-google)<sup>9</sup> 
 
 
-_21.11.2018 22:17:18_
+_22.11.2018 09:21:53_
