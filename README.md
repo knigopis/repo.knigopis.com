@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>110</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>141</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>92</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>670</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>52</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>45</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>6</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>109</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>18</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>53</sup> 
 [SadDante](users/106/106542587075125362464-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kukharski](users/106/106006402120489140078-google)<sup>9</sup> 
 
 
-_22.11.2018 09:21:53_
+_22.11.2018 19:30:31_

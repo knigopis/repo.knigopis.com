@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 110,
+        "updatedAt": "2018-11-22 19:30:30"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -88,12 +94,6 @@
         "nickname": "Александр Погодин",
         "booksCount": 6,
         "updatedAt": "2018-11-18 20:32:41"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 109,
-        "updatedAt": "2018-11-18 14:50:44"
     },
     "225880893-vkontakte": {
         "id": "225880893-vkontakte",
