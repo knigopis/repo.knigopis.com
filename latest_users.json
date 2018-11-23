@@ -1,4 +1,10 @@
 {
+    "152488954-vkontakte": {
+        "id": "152488954-vkontakte",
+        "nickname": "kasikandriena",
+        "booksCount": 51,
+        "updatedAt": "2018-11-23 07:50:20"
+    },
     "684095007-yandex": {
         "id": "684095007-yandex",
         "nickname": "Leonid280497",
@@ -172,11 +178,5 @@
         "nickname": "YungEva",
         "booksCount": 71,
         "updatedAt": "2018-11-14 06:02:28"
-    },
-    "106006402120489140078-google": {
-        "id": "106006402120489140078-google",
-        "nickname": "kukharski",
-        "booksCount": 9,
-        "updatedAt": "2018-11-13 17:33:34"
     }
 }

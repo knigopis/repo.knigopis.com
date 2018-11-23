@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>50</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>51</sup>
 ---
 
 ## 2018
+
+### Око мира
+Роберт Джордан
+> [2018-11-10] 
+
 
 ### Раскол/Маска призрака (DA:3/3+)
 Девид Гейдер
