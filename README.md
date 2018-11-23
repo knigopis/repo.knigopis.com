@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Anastasya](users/107/107465811742840830795-google)<sup>0</sup> 
 [tanechka_23](users/820/8207458-vkontakte)<sup>0</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>52</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dota2andsweets](users/100/100671409-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>89</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>163</sup> 
 
 
-_23.11.2018 13:01:50_
+_23.11.2018 15:05:23_
