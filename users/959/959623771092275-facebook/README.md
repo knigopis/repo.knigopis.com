@@ -1,4 +1,4 @@
-# List of books read by [millmari](http://www.knigopis.com/#/user/books?u=959623771092275-facebook)<sup>5</sup>
+# List of books read by [millmari](http://www.knigopis.com/#/user/books?u=959623771092275-facebook)<sup>6</sup>
 ---
 
 ## 2018
@@ -6,6 +6,11 @@
 ### Старик и море
 Эрнест Хемингуэй
 > [2018-11] 
+
+
+### Лолита
+Набоков
+> [2018-10] 
 
 
 ### Кармен
