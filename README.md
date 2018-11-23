@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тень над Инсмутом ~ [Leonid280497](users/684/684095007-yandex)<sup>4</sup>
+    > Повесть из цикла "Мифы Ктулху". События разворачиваются в вымышленном городе Инсмуте, куда ГГ приехал осмотреть достопримечательности и познакомиться с городом. Но, оказалось, что жители поклоняются Дагону, а также сношаются с головоногими (мурлоки у Лавкрафта). Вот. У каждого жителя города присутствуют мутации , а также иной уровень интеллектуального развития. ГГ узнав это, пытается бежать, у него это удаётся. В конце повести он узнаёт, что сам является потомком головоногих, и решает присоединиться к своим предкам, живущим в морских глубинах. Читается суперлегко и в целом явных минусов нет. 9/10.
+
 * Человек с котом ~ [En](users/333/333646551-vkontakte)<sup>57</sup>
     > 2 часть серии СТИКС, не занудно, много событий, интересный сюжет.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10
 
 * Судьба короля. Хроники странного королевства ~ [Chiffi](users/105/105831994080785626680-google)<sup>79</sup>
-    > Пересекая границы
 
 * Зелёная дверь ~ [Leonid280497](users/684/684095007-yandex)<sup>3</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Локвуд и компания. Крадущаяся тень. ~ [Александр Погодин](users/625/6259590452259030261-mailru)<sup>5</sup>
 
-* Юджин - поелитель времени. Высокий Глерд. ~ [Александр Погодин](users/625/6259590452259030261-mailru)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Leonid280497](users/684/684095007-yandex)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>110</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>141</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>92</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SCOTOMOR](users/108/108346258937611636820-google)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>79</sup> 
-[Leonid280497](users/684/684095007-yandex)<sup>3</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>52</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>45</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>6</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kukharski](users/106/106006402120489140078-google)<sup>9</sup> 
 
 
-_22.11.2018 19:30:31_
+_23.11.2018 07:01:19_

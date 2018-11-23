@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тень над Инсмутом ~ [Leonid280497](users/684/684095007-yandex)<sup>4</sup>
 * Человек с котом ~ [En](users/333/333646551-vkontakte)<sup>57</sup>
 * Азазель ~ [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup>
 * Судьба короля. Хроники странного королевства ~ [Chiffi](users/105/105831994080785626680-google)<sup>79</sup>
@@ -30,7 +31,6 @@
 * Дневник памяти ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>12</sup>
 * Праздник, который всегда с тобой ~ [joan789](users/240/2401650-vkontakte)<sup>90</sup>
 * Человек с пятью «не», или Исповедь простодушного (повесть) ~ [joan789](users/240/2401650-vkontakte)<sup>88</sup>
-* Муми-тролль и комета ~ [joan789](users/240/2401650-vkontakte)<sup>78</sup>
 
 
-_21.11.2018 06:51:07_
+_23.11.2018 07:01:19_
