@@ -1,4 +1,10 @@
 {
+    "10215916712927427-facebook": {
+        "id": "10215916712927427-facebook",
+        "nickname": "Iryna",
+        "booksCount": 0,
+        "updatedAt": "2018-11-23 16:41:59"
+    },
     "107465811742840830795-google": {
         "id": "107465811742840830795-google",
         "nickname": "Anastasya",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 186,
         "updatedAt": "2018-11-14 20:40:40"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 89,
-        "updatedAt": "2018-11-14 18:45:57"
     }
 }
