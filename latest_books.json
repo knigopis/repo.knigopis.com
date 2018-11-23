@@ -1,4 +1,16 @@
 {
+    "Ds0ZfqUmC6": {
+        "id": "Ds0ZfqUmC6",
+        "title": "Палата номер 6",
+        "author": "Антон Чехов",
+        "notes": "",
+        "createdAt": "2018-11-23 17:13:51",
+        "user": {
+            "id": "959623771092275-facebook",
+            "nickname": "millmari",
+            "booksCount": 3
+        }
+    },
     "vURqVGZSA-": {
         "id": "vURqVGZSA-",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "6259590452259030261-mailru",
             "nickname": "Александр Погодин",
             "booksCount": 2
-        }
-    },
-    "ZAjsFTra6C": {
-        "id": "ZAjsFTra6C",
-        "title": "Сага о живых кораблях (3) Корабль судьбы. Том 2",
-        "author": "Робин Хобб",
-        "notes": "",
-        "createdAt": "2018-11-18 14:50:44",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 109
         }
     }
 }
