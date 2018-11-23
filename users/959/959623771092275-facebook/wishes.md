@@ -1,6 +1,5 @@
-# Wish list of books by [](https://www.facebook.com/profile.php?id=959623771092275)
+# Wish list of books by [millmari](http://www.knigopis.com/#/user/books?u=959623771092275-facebook)
 ---
 
-### `` Анна Каренина
-Лев Толстой
+### `` Старик и море
 
