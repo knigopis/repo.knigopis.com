@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/959/959623771092275-facebook)<sup>0</sup> 
 [Iryna](users/102/10215916712927427-facebook)<sup>0</sup> 
 [Anastasya](users/107/107465811742840830795-google)<sup>0</sup> 
 [tanechka_23](users/820/8207458-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idpiratessoul](users/462/462695837-vkontakte)<sup>0</sup> 
 [npodgaysky](users/331/3318941-vkontakte)<sup>0</sup> 
 [dota2andsweets](users/100/100671409-vkontakte)<sup>1</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup> 
 
 
-_23.11.2018 16:41:59_
+_23.11.2018 17:09:40_
