@@ -1,4 +1,16 @@
 {
+    "CMf94d4b2V": {
+        "id": "CMf94d4b2V",
+        "title": "Великая охота (Серия: Колесо времени 2/14)",
+        "author": "Роберт Джордан",
+        "notes": "",
+        "createdAt": "2018-11-23 07:52:38",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 52
+        }
+    },
     "8xef8C58XU": {
         "id": "8xef8C58XU",
         "title": "Око мира",
@@ -345,18 +357,6 @@
             "id": "684095007-yandex",
             "nickname": "Leonid280497",
             "booksCount": 7
-        }
-    },
-    "f3x2nwkJC5": {
-        "id": "f3x2nwkJC5",
-        "title": "Стать викингом",
-        "author": "Хелен Рассел",
-        "notes": "",
-        "createdAt": "2018-11-17 20:36:17",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 668
         }
     }
 }

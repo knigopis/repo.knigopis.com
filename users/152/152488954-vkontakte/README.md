@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>51</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>52</sup>
 ---
 
 ## 2018
+
+### Великая охота (Серия: Колесо времени 2/14)
+Роберт Джордан
+> [2018-11-23] 
+
 
 ### Око мира (Серия: Колесо времени 1/14)
 Роберт Джордан
