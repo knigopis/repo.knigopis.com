@@ -1,4 +1,16 @@
 {
+    "vURqVGZSA-": {
+        "id": "vURqVGZSA-",
+        "title": "Старик и море",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2018-11-23 17:13:07",
+        "user": {
+            "id": "959623771092275-facebook",
+            "nickname": "millmari",
+            "booksCount": 2
+        }
+    },
     "n5xIxRxhdd": {
         "id": "n5xIxRxhdd",
         "title": "Анна Каренина",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 109
-        }
-    },
-    "WGvZti_0Qg": {
-        "id": "WGvZti_0Qg",
-        "title": "Танатонавты",
-        "author": "Бернард Вербер",
-        "notes": "",
-        "createdAt": "2018-11-18 04:19:04",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 18
         }
     }
 }
