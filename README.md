@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dota2andsweets](users/100/100671409-vkontakte)<sup>1</sup> 
 
 
-_23.11.2018 17:11:36_
+_23.11.2018 17:11:39_
