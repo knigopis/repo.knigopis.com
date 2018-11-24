@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>93</sup> 
 [millmari](users/959/959623771092275-facebook)<sup>6</sup> 
 [Iryna](users/102/10215916712927427-facebook)<sup>0</sup> 
 [Anastasya](users/107/107465811742840830795-google)<sup>0</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Leonid280497](users/684/684095007-yandex)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>110</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>141</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>92</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>670</sup> 
 [En](users/333/333646551-vkontakte)<sup>57</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>336</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dota2andsweets](users/100/100671409-vkontakte)<sup>1</sup> 
 
 
-_23.11.2018 17:44:16_
+_24.11.2018 11:59:02_

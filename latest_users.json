@@ -1,4 +1,10 @@
 {
+    "2401650-vkontakte": {
+        "id": "2401650-vkontakte",
+        "nickname": "joan789",
+        "booksCount": 93,
+        "updatedAt": "2018-11-24 11:59:02"
+    },
     "959623771092275-facebook": {
         "id": "959623771092275-facebook",
         "nickname": "millmari",
@@ -46,12 +52,6 @@
         "nickname": "borodach",
         "booksCount": 141,
         "updatedAt": "2018-11-22 09:21:53"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 92,
-        "updatedAt": "2018-11-21 22:17:17"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
