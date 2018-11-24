@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[joan789](users/240/2401650-vkontakte)<sup>94</sup> 
+[joan789](users/240/2401650-vkontakte)<sup>95</sup> 
 [millmari](users/959/959623771092275-facebook)<sup>6</sup> 
 [Iryna](users/102/10215916712927427-facebook)<sup>0</sup> 
 [Anastasya](users/107/107465811742840830795-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dota2andsweets](users/100/100671409-vkontakte)<sup>1</sup> 
 
 
-_24.11.2018 11:59:46_
+_24.11.2018 12:02:23_
