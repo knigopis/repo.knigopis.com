@@ -1,4 +1,16 @@
 {
+    "oTYBTZG4MK": {
+        "id": "oTYBTZG4MK",
+        "title": "Дерево растет в Бруклине",
+        "author": "Бетти Смит",
+        "notes": "",
+        "createdAt": "2018-11-25 15:29:52",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 67
+        }
+    },
     "PIa_naTR-h": {
         "id": "PIa_naTR-h",
         "title": "Охота на Снарка",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 45
-        }
-    },
-    "FzBF-KhZn7": {
-        "id": "FzBF-KhZn7",
-        "title": "Человеческий улей",
-        "author": "А.Каменистый",
-        "notes": "первая книга серии СТИКС, интересная задумка мира, чем то напомнило сталкера, немного бесят повторения какого-либо факта, но в целом вполне не плохо.",
-        "createdAt": "2018-11-19 09:33:25",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 56
         }
     }
 }

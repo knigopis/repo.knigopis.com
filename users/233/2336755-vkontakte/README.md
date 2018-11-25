@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>66</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>67</sup>
 ---
 
 ## 2018
+
+### Дерево растет в Бруклине
+Бетти Смит
+> [2018-11-24] 
+
 
 ### Чужекровка
 Аффинити Конар

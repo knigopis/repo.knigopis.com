@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>67</sup> 
 [joyash](users/208/2089677811258257-facebook)<sup>0</sup> 
 [Wardist](users/141/1416601771804229-facebook)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>95</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>52</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>228</sup> 
 [ Наталья Паутова](users/850/8505581439164914115-mailru)<sup>2</sup> 
-[idpiratessoul](users/462/462695837-vkontakte)<sup>0</sup> 
 
 
-_25.11.2018 13:53:21_
+_25.11.2018 15:29:52_
