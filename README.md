@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>671</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>67</sup> 
 [joyash](users/208/2089677811258257-facebook)<sup>0</sup> 
 [Wardist](users/141/1416601771804229-facebook)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Leonid280497](users/684/684095007-yandex)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>110</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>141</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>670</sup> 
 [En](users/333/333646551-vkontakte)<sup>57</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>336</sup> 
 [](users/672/6726760-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ Наталья Паутова](users/850/8505581439164914115-mailru)<sup>2</sup> 
 
 
-_25.11.2018 15:29:52_
+_25.11.2018 15:55:12_

@@ -1,4 +1,16 @@
 {
+    "hslam9quKZ": {
+        "id": "hslam9quKZ",
+        "title": "Подходящее время",
+        "author": "Мадлен Л’Энгл",
+        "notes": "",
+        "createdAt": "2018-11-25 15:55:11",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 671
+        }
+    },
     "oTYBTZG4MK": {
         "id": "oTYBTZG4MK",
         "title": "Дерево растет в Бруклине",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 52
-        }
-    },
-    "BRozGa7W5j": {
-        "id": "BRozGa7W5j",
-        "title": "Гарри потер и методы рационального мышления",
-        "author": "Элиезер Юдковский",
-        "notes": "",
-        "createdAt": "2018-11-19 09:56:22",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 45
         }
     }
 }
