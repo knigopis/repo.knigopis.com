@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* За гранью времен / вне времени ~ [Leonid280497](users/684/684095007-yandex)<sup>5</sup>
 * Тень над Инсмутом ~ [Leonid280497](users/684/684095007-yandex)<sup>4</sup>
 * Человек с котом ~ [En](users/333/333646551-vkontakte)<sup>57</sup>
 * Азазель ~ [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup>
@@ -30,7 +31,6 @@
 * Путеводитель по миру тёмных искусств ~ [darb_el](users/184/184135339-vkontakte)<sup>17</sup>
 * Дневник памяти ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>12</sup>
 * Праздник, который всегда с тобой ~ [joan789](users/240/2401650-vkontakte)<sup>90</sup>
-* Человек с пятью «не», или Исповедь простодушного (повесть) ~ [joan789](users/240/2401650-vkontakte)<sup>88</sup>
 
 
-_23.11.2018 07:01:19_
+_25.11.2018 18:14:25_
