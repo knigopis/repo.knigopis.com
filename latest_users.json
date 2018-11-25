@@ -1,4 +1,10 @@
 {
+    "1416601771804229-facebook": {
+        "id": "1416601771804229-facebook",
+        "nickname": "Wardist",
+        "booksCount": 0,
+        "updatedAt": "2018-11-25 11:42:28"
+    },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",
         "nickname": "joan789",
@@ -172,11 +178,5 @@
         "nickname": "npodgaysky",
         "booksCount": 0,
         "updatedAt": "2018-11-15 18:05:13"
-    },
-    "100671409-vkontakte": {
-        "id": "100671409-vkontakte",
-        "nickname": "dota2andsweets",
-        "booksCount": 1,
-        "updatedAt": "2018-11-15 10:57:27"
     }
 }
