@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[info@knigopis.com](users/113/1130000014309088-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>671</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>67</sup> 
 [joyash](users/208/2089677811258257-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SadDante](users/106/106542587075125362464-google)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>52</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>228</sup> 
-[ Наталья Паутова](users/850/8505581439164914115-mailru)<sup>2</sup> 
 
 
-_25.11.2018 15:55:12_
+_25.11.2018 17:58:11_
