@@ -1,4 +1,10 @@
 {
+    "1130000014309088-yandex": {
+        "id": "1130000014309088-yandex",
+        "nickname": "info@knigopis.com",
+        "booksCount": 0,
+        "updatedAt": "2018-11-25 17:58:11"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Оля-перекати-поле",
         "booksCount": 228,
         "updatedAt": "2018-11-16 20:46:40"
-    },
-    "8505581439164914115-mailru": {
-        "id": "8505581439164914115-mailru",
-        "nickname": " Наталья Паутова",
-        "booksCount": 2,
-        "updatedAt": "2018-11-16 15:39:27"
     }
 }
