@@ -1,4 +1,16 @@
 {
+    "mCcdzRiqay": {
+        "id": "mCcdzRiqay",
+        "title": "Зулейха открывает глаза",
+        "author": "Гузель Яхина",
+        "notes": "",
+        "createdAt": "2018-11-26 16:44:00",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 53
+        }
+    },
     "pnt_mK3uS9": {
         "id": "pnt_mK3uS9",
         "title": "Территория везучих",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 97
-        }
-    },
-    "qlSD7tfEGm": {
-        "id": "qlSD7tfEGm",
-        "title": "Судьба короля. Хроники странного королевства",
-        "author": "Панкеева Оксана",
-        "notes": "Пересекая границы",
-        "createdAt": "2018-11-19 17:14:09",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 79
         }
     }
 }

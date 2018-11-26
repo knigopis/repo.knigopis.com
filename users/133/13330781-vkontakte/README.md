@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>52</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>53</sup>
 ---
 
 ## 2018
+
+### Зулейха открывает глаза
+Гузель Яхина
+> [2018-11] 
+
 
 ### Считать виновной
 Тесс Герритсен
