@@ -1,4 +1,10 @@
 {
+    "109363476104569140915-google": {
+        "id": "109363476104569140915-google",
+        "nickname": "ShvedAn",
+        "booksCount": 0,
+        "updatedAt": "2018-11-26 12:07:34"
+    },
     "118041836581529110049-google": {
         "id": "118041836581529110049-google",
         "nickname": "Svecha",
@@ -172,11 +178,5 @@
         "nickname": "SadDante",
         "booksCount": 0,
         "updatedAt": "2018-11-17 12:37:51"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 52,
-        "updatedAt": "2018-11-17 07:29:07"
     }
 }
