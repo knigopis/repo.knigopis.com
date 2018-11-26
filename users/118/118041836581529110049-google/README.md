@@ -1,4 +1,4 @@
-# List of books read by [Svecha](http://www.knigopis.com/#/user/books?u=118041836581529110049-google)<sup>31</sup>
+# List of books read by [Svecha](http://www.knigopis.com/#/user/books?u=118041836581529110049-google)<sup>32</sup>
 ---
 
 ## 2018
@@ -6,6 +6,11 @@
 ### Мастер снов
 Роджер Желязны
 > [2018-11-14] 
+
+
+### Межзвёздный скиталец
+Джек Лондон
+> [2018-10-25] 
 
 
 ### Мечтают ли андроиды об электроовцах

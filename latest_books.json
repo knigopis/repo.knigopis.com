@@ -1,4 +1,16 @@
 {
+    "xrdE3I0Hj0": {
+        "id": "xrdE3I0Hj0",
+        "title": "Межзвёздный скиталец",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2018-11-26 09:23:20",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": "Svecha",
+            "booksCount": 32
+        }
+    },
     "TqLZn1xlqk": {
         "id": "TqLZn1xlqk",
         "title": "Мастер сноведений",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 140
-        }
-    },
-    "-sYNgCDmgg": {
-        "id": "-sYNgCDmgg",
-        "title": "Зелёная дверь",
-        "author": "О. Генри",
-        "notes": "Интересный рассказ о том, как человек рискнул и нашёл свою судьбу: свою возлюбленную. 8/10",
-        "createdAt": "2018-11-19 11:32:58",
-        "user": {
-            "id": "684095007-yandex",
-            "nickname": "Leonid280497",
-            "booksCount": 3
         }
     }
 }

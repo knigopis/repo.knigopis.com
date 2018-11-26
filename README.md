@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Svecha](users/118/118041836581529110049-google)<sup>31</sup> 
+[Svecha](users/118/118041836581529110049-google)<sup>32</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>5</sup> 
 [info@knigopis.com](users/113/1130000014309088-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>671</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>52</sup> 
 
 
-_26.11.2018 09:20:23_
+_26.11.2018 09:23:20_
