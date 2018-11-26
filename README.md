@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ShvedAn](users/109/109363476104569140915-google)<sup>0</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>32</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>5</sup> 
 [info@knigopis.com](users/113/1130000014309088-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>18</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>53</sup> 
 [SadDante](users/106/106542587075125362464-google)<sup>0</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>52</sup> 
 
 
-_26.11.2018 09:23:20_
+_26.11.2018 12:07:35_
