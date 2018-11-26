@@ -1,4 +1,10 @@
 {
+    "118041836581529110049-google": {
+        "id": "118041836581529110049-google",
+        "nickname": "Svecha",
+        "booksCount": 31,
+        "updatedAt": "2018-11-26 09:20:23"
+    },
     "684095007-yandex": {
         "id": "684095007-yandex",
         "nickname": "Leonid280497",
@@ -172,11 +178,5 @@
         "nickname": "le_brouillard",
         "booksCount": 52,
         "updatedAt": "2018-11-17 07:29:07"
-    },
-    "10848515355906827860-mailru": {
-        "id": "10848515355906827860-mailru",
-        "nickname": "Оля-перекати-поле",
-        "booksCount": 228,
-        "updatedAt": "2018-11-16 20:46:40"
     }
 }
