@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>672</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>53</sup> 
 [En](users/333/333646551-vkontakte)<sup>58</sup> 
 [ShvedAn](users/109/109363476104569140915-google)<sup>0</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>32</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>5</sup> 
 [info@knigopis.com](users/113/1130000014309088-yandex)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>671</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>67</sup> 
 [joyash](users/208/2089677811258257-facebook)<sup>0</sup> 
 [Wardist](users/141/1416601771804229-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>53</sup> 
 
 
-_26.11.2018 16:44:00_
+_26.11.2018 21:19:33_

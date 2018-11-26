@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 672,
+        "updatedAt": "2018-11-26 21:19:32"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -34,12 +40,6 @@
         "nickname": "info@knigopis.com",
         "booksCount": 0,
         "updatedAt": "2018-11-25 17:58:11"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 671,
-        "updatedAt": "2018-11-25 15:55:11"
     },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
