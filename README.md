@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Kellen](users/105/105810168027266329605-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>672</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>53</sup> 
 [En](users/333/333646551-vkontakte)<sup>58</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>45</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>6</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>18</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>53</sup> 
 
 
-_26.11.2018 21:19:33_
+_27.11.2018 07:02:51_
