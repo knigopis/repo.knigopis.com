@@ -1,4 +1,10 @@
 {
+    "578596810-yandex": {
+        "id": "578596810-yandex",
+        "nickname": "Lika.Rybalko",
+        "booksCount": 0,
+        "updatedAt": "2018-11-27 19:57:08"
+    },
     "59793548-vkontakte": {
         "id": "59793548-vkontakte",
         "nickname": "anyutka_karpan",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ",
         "booksCount": 52,
         "updatedAt": "2018-11-19 11:18:48"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 45,
-        "updatedAt": "2018-11-19 09:56:22"
     }
 }
