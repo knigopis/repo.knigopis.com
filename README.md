@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>229</sup> 
 [aaz_](users/102/102095378349287834268-google)<sup>0</sup> 
 [Lika.Rybalko](users/578/578596810-yandex)<sup>0</sup> 
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>76</sup> 
 [SCOTOMOR](users/108/108346258937611636820-google)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>79</sup> 
 
 
-_27.11.2018 20:08:54_
+_27.11.2018 22:22:42_

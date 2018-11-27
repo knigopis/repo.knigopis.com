@@ -1,4 +1,16 @@
 {
+    "dalfHts9E5": {
+        "id": "dalfHts9E5",
+        "title": "Шантарам",
+        "author": "Грегори Дэвид Робертс",
+        "notes": "",
+        "createdAt": "2018-11-27 22:22:42",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 229
+        }
+    },
     "TTQ3IRVmri": {
         "id": "TTQ3IRVmri",
         "title": "Как быть евреем",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 76
-        }
-    },
-    "h1vTeCKmIA": {
-        "id": "h1vTeCKmIA",
-        "title": "Чип Блейза. Статус",
-        "author": "Элиан Тарс",
-        "notes": "",
-        "createdAt": "2018-11-20 12:47:40",
-        "user": {
-            "id": "108346258937611636820-google",
-            "nickname": "SCOTOMOR",
-            "booksCount": 2
         }
     }
 }
