@@ -1,4 +1,10 @@
 {
+    "59793548-vkontakte": {
+        "id": "59793548-vkontakte",
+        "nickname": "anyutka_karpan",
+        "booksCount": 0,
+        "updatedAt": "2018-11-27 15:15:30"
+    },
     "266358429-vkontakte": {
         "id": "266358429-vkontakte",
         "nickname": "mr.malachi",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 45,
         "updatedAt": "2018-11-19 09:56:22"
-    },
-    "6259590452259030261-mailru": {
-        "id": "6259590452259030261-mailru",
-        "nickname": "Александр Погодин",
-        "booksCount": 6,
-        "updatedAt": "2018-11-18 20:32:41"
     }
 }
