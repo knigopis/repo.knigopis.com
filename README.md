@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lika.Rybalko](users/578/578596810-yandex)<sup>0</sup> 
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>0</sup> 
 [mr.malachi](users/266/266358429-vkontakte)<sup>0</sup> 
 [Kellen](users/105/105810168027266329605-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>79</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>52</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>45</sup> 
 
 
-_27.11.2018 15:15:30_
+_27.11.2018 19:57:11_
