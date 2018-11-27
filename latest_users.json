@@ -1,4 +1,10 @@
 {
+    "266358429-vkontakte": {
+        "id": "266358429-vkontakte",
+        "nickname": "mr.malachi",
+        "booksCount": 0,
+        "updatedAt": "2018-11-27 14:59:19"
+    },
     "105810168027266329605-google": {
         "id": "105810168027266329605-google",
         "nickname": "Kellen",
@@ -172,11 +178,5 @@
         "nickname": "Александр Погодин",
         "booksCount": 6,
         "updatedAt": "2018-11-18 20:32:41"
-    },
-    "225880893-vkontakte": {
-        "id": "225880893-vkontakte",
-        "nickname": "Артур Вольнов",
-        "booksCount": 18,
-        "updatedAt": "2018-11-18 04:19:04"
     }
 }
