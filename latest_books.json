@@ -1,4 +1,16 @@
 {
+    "-9-52u3boU": {
+        "id": "-9-52u3boU",
+        "title": "Рассказы о Родине",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2018-11-28 11:22:39",
+        "user": {
+            "id": "100392194383735458813-google",
+            "nickname": "denser",
+            "booksCount": 1
+        }
+    },
     "TO_Udo8XuT": {
         "id": "TO_Udo8XuT",
         "title": "Отель \"Оюнсу\"",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 335
-        }
-    },
-    "Ybj8N8k-k0": {
-        "id": "Ybj8N8k-k0",
-        "title": "Анна Каренина",
-        "author": "Лев Николаевич Толстой",
-        "notes": "",
-        "createdAt": "2018-11-20 22:41:53",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 46
         }
     }
 }

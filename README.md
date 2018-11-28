@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[denser](users/100/100392194383735458813-google)<sup>0</sup> 
+[denser](users/100/100392194383735458813-google)<sup>1</sup> 
 [Jonash](users/105/105002693864893-facebook)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>59</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>229</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>76</sup> 
 
 
-_28.11.2018 11:21:25_
+_28.11.2018 11:22:39_
