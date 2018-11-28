@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Jonash](users/105/105002693864893-facebook)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>59</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>229</sup> 
 [aaz_](users/102/102095378349287834268-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>46</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>76</sup> 
 [SCOTOMOR](users/108/108346258937611636820-google)<sup>2</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>97</sup> 
 
 
-_28.11.2018 08:45:25_
+_28.11.2018 11:07:16_
