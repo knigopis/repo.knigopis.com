@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 59,
+        "updatedAt": "2018-11-28 08:45:25"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -46,12 +52,6 @@
         "nickname": "le_brouillard",
         "booksCount": 53,
         "updatedAt": "2018-11-26 16:44:00"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 58,
-        "updatedAt": "2018-11-26 12:44:27"
     },
     "109363476104569140915-google": {
         "id": "109363476104569140915-google",

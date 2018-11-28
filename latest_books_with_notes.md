@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Отель "Оюнсу" ~ [En](users/333/333646551-vkontakte)<sup>59</sup>
 * Территория везучих ~ [En](users/333/333646551-vkontakte)<sup>58</sup>
 * За гранью времен / вне времени ~ [Leonid280497](users/684/684095007-yandex)<sup>5</sup>
 * Тень над Инсмутом ~ [Leonid280497](users/684/684095007-yandex)<sup>4</sup>
@@ -30,7 +31,6 @@
 * Ёцуба том 1 ~ [Asiar](users/115/115902526849562271887-google)<sup>4</sup>
 * Тайны мозга. Почему мы во всё верим. ~ [darb_el](users/184/184135339-vkontakte)<sup>18</sup>
 * Путеводитель по миру тёмных искусств ~ [darb_el](users/184/184135339-vkontakte)<sup>17</sup>
-* Дневник памяти ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>12</sup>
 
 
-_26.11.2018 12:44:27_
+_28.11.2018 08:45:25_
