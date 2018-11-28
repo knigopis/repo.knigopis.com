@@ -1,4 +1,10 @@
 {
+    "100392194383735458813-google": {
+        "id": "100392194383735458813-google",
+        "nickname": "denser",
+        "booksCount": 0,
+        "updatedAt": "2018-11-28 11:21:24"
+    },
     "105002693864893-facebook": {
         "id": "105002693864893-facebook",
         "nickname": "Jonash",
@@ -172,11 +178,5 @@
         "nickname": "victoria_spilioti",
         "booksCount": 76,
         "updatedAt": "2018-11-20 20:24:28"
-    },
-    "108346258937611636820-google": {
-        "id": "108346258937611636820-google",
-        "nickname": "SCOTOMOR",
-        "booksCount": 2,
-        "updatedAt": "2018-11-20 12:47:40"
     }
 }
