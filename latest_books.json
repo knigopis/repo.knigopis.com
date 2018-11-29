@@ -1,4 +1,16 @@
 {
+    "WW9k0x7E_C": {
+        "id": "WW9k0x7E_C",
+        "title": "Похвала тени",
+        "author": "Танидзаки",
+        "notes": "",
+        "createdAt": "2018-11-29 16:28:26",
+        "user": {
+            "id": "166726857-vkontakte",
+            "nickname": "Makoi",
+            "booksCount": 1
+        }
+    },
     "mLoniNIv90": {
         "id": "mLoniNIv90",
         "title": "Пляж",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 92
-        }
-    },
-    "JzvcKnEwA5": {
-        "id": "JzvcKnEwA5",
-        "title": "Все еще я",
-        "author": "Джойо Мойес",
-        "notes": "",
-        "createdAt": "2018-11-21 19:33:32",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 670
         }
     }
 }
