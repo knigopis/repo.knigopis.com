@@ -1,7 +1,11 @@
-# List of books read by [Makoi](http://vk.com/id166726857)<sup>1</sup>
+# List of books read by [Makoi](http://vk.com/id166726857)<sup>2</sup>
 ---
 
 ## 2018
+
+### Чайная церемония в Японии
+Окакура
+
 
 ### Похвала тени
 Танидзаки

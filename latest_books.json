@@ -1,4 +1,16 @@
 {
+    "f7cIAXfmF1": {
+        "id": "f7cIAXfmF1",
+        "title": "Чайная церемония в Японии",
+        "author": "Окакура",
+        "notes": "",
+        "createdAt": "2018-11-29 16:58:21",
+        "user": {
+            "id": "166726857-vkontakte",
+            "nickname": "Makoi",
+            "booksCount": 2
+        }
+    },
     "WW9k0x7E_C": {
         "id": "WW9k0x7E_C",
         "title": "Похвала тени",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 141
-        }
-    },
-    "mlPUraMhYd": {
-        "id": "mlPUraMhYd",
-        "title": "Вещие сестрички",
-        "author": "Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2018-11-21 22:17:17",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 92
         }
     }
 }
