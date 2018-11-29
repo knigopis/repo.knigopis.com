@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>672</sup>
+# List of books read by Janet<sup>673</sup>
 ---
 
 ## 2018
+
+### Самый глупый ангел
+Кристофер Мур
+> [2018-11] 
+
 
 ### Как быть евреем
 Джеймс Кугел
