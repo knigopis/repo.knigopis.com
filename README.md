@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ComeSomeAll](users/544/544940552621006-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>142</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>13</sup> 
 [komelfo](users/112/112876960272897812283-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>52</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>110</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>336</sup> 
-[](users/672/6726760-vkontakte)<sup>0</sup> 
 
 
-_29.11.2018 11:44:10_
+_29.11.2018 14:36:35_
