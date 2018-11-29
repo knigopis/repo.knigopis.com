@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[komelfo](users/112/112876960272897812283-google)<sup>0</sup> 
 [denser](users/100/100392194383735458813-google)<sup>0</sup> 
 [Jonash](users/105/105002693864893-facebook)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>59</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>336</sup> 
 [](users/672/6726760-vkontakte)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>46</sup> 
-[victoria_spilioti](users/219/219259003-vkontakte)<sup>76</sup> 
 
 
-_28.11.2018 11:23:04_
+_29.11.2018 05:46:32_
