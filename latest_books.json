@@ -1,4 +1,16 @@
 {
+    "pupj4ZZoOb": {
+        "id": "pupj4ZZoOb",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2018-11-29 05:48:12",
+        "user": {
+            "id": "112876960272897812283-google",
+            "nickname": "komelfo",
+            "booksCount": 1
+        }
+    },
     "-9-52u3boU": {
         "id": "-9-52u3boU",
         "title": "Рассказы о Родине",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 336
-        }
-    },
-    "UzwZJeml7u": {
-        "id": "UzwZJeml7u",
-        "title": "Час сэканд-хэнд",
-        "author": "Святлана Алексіевіч",
-        "notes": "",
-        "createdAt": "2018-11-21 04:21:41",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 335
         }
     }
 }
