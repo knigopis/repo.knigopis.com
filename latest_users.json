@@ -1,4 +1,10 @@
 {
+    "112876960272897812283-google": {
+        "id": "112876960272897812283-google",
+        "nickname": "komelfo",
+        "booksCount": 0,
+        "updatedAt": "2018-11-29 05:46:29"
+    },
     "100392194383735458813-google": {
         "id": "100392194383735458813-google",
         "nickname": "denser",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 46,
         "updatedAt": "2018-11-20 22:41:53"
-    },
-    "219259003-vkontakte": {
-        "id": "219259003-vkontakte",
-        "nickname": "victoria_spilioti",
-        "booksCount": 76,
-        "updatedAt": "2018-11-20 20:24:28"
     }
 }
