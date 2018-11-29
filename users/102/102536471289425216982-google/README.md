@@ -1,7 +1,12 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>12</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>13</sup>
 ---
 
 ## 2018
+
+### Get the Guy. Как найти и влюбить в себя мужчину твоей мечты
+ХАССИ Мэтью
+> [2018-11] 
+
 
 ### Мужчины с Марса, женщины с Венеры
 ГРЭЙ Джон

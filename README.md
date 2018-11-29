@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>13</sup> 
 [komelfo](users/112/112876960272897812283-google)<sup>0</sup> 
 [denser](users/100/100392194383735458813-google)<sup>0</sup> 
 [Jonash](users/105/105002693864893-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>141</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>336</sup> 
 [](users/672/6726760-vkontakte)<sup>0</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>46</sup> 
 
 
-_29.11.2018 05:48:57_
+_29.11.2018 07:10:46_

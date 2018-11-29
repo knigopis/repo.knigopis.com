@@ -1,4 +1,16 @@
 {
+    "kcI-6DWnRg": {
+        "id": "kcI-6DWnRg",
+        "title": "Get the Guy. Как найти и влюбить в себя мужчину твоей мечты",
+        "author": "ХАССИ Мэтью",
+        "notes": "",
+        "createdAt": "2018-11-29 07:10:46",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 13
+        }
+    },
     "pupj4ZZoOb": {
         "id": "pupj4ZZoOb",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 57
-        }
-    },
-    "EYbQc065dj": {
-        "id": "EYbQc065dj",
-        "title": "Шестёрка воронов",
-        "author": "Ли Бардуго",
-        "notes": "",
-        "createdAt": "2018-11-21 04:22:48",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 336
         }
     }
 }
