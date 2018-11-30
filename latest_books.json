@@ -1,4 +1,16 @@
 {
+    "_cKfzwdNXU": {
+        "id": "_cKfzwdNXU",
+        "title": "Цикл «Невеста»",
+        "author": "Жильцова Наталья",
+        "notes": "«Обрученные кровью. Отбор»\n«Обрученные кровью. Выбор»",
+        "createdAt": "2018-11-30 13:42:55",
+        "user": {
+            "id": "107312597267727612108-google",
+            "nickname": "Ксения",
+            "booksCount": 3
+        }
+    },
     "mRRGzZswP8": {
         "id": "mRRGzZswP8",
         "title": "Цикл «Порядок и Хаос»",
@@ -345,18 +357,6 @@
             "id": "959623771092275-facebook",
             "nickname": "millmari",
             "booksCount": 3
-        }
-    },
-    "vURqVGZSA-": {
-        "id": "vURqVGZSA-",
-        "title": "Старик и море",
-        "author": "Эрнест Хемингуэй",
-        "notes": "",
-        "createdAt": "2018-11-23 17:13:07",
-        "user": {
-            "id": "959623771092275-facebook",
-            "nickname": "millmari",
-            "booksCount": 2
         }
     }
 }
