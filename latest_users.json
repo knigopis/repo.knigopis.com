@@ -1,4 +1,10 @@
 {
+    "107312597267727612108-google": {
+        "id": "107312597267727612108-google",
+        "nickname": "Ксения",
+        "booksCount": 0,
+        "updatedAt": "2018-11-30 13:37:00"
+    },
     "22240417-vkontakte": {
         "id": "22240417-vkontakte",
         "nickname": "Ольга ",
@@ -172,11 +178,5 @@
         "nickname": "tanechka_23",
         "booksCount": 0,
         "updatedAt": "2018-11-23 13:01:47"
-    },
-    "152488954-vkontakte": {
-        "id": "152488954-vkontakte",
-        "nickname": "kasikandriena",
-        "booksCount": 52,
-        "updatedAt": "2018-11-23 07:52:38"
     }
 }
