@@ -1,4 +1,10 @@
 {
+    "1351730041518487-facebook": {
+        "id": "1351730041518487-facebook",
+        "nickname": "Anastasia",
+        "booksCount": 0,
+        "updatedAt": "2018-11-30 16:14:05"
+    },
     "107312597267727612108-google": {
         "id": "107312597267727612108-google",
         "nickname": "Ксения",
@@ -172,11 +178,5 @@
         "nickname": "Anastasya",
         "booksCount": 0,
         "updatedAt": "2018-11-23 15:05:22"
-    },
-    "8207458-vkontakte": {
-        "id": "8207458-vkontakte",
-        "nickname": "tanechka_23",
-        "booksCount": 0,
-        "updatedAt": "2018-11-23 13:01:47"
     }
 }
