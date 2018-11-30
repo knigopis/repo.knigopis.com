@@ -1,12 +1,7 @@
-# Список прочитанных книг пользователя [Ольга ](http://www.knigopis.com/#/user/books?u=22240417-vkontakte)<sup>40</sup>
+# Список прочитанных книг пользователя [Ольга ](http://www.knigopis.com/#/user/books?u=22240417-vkontakte)<sup>39</sup>
 ---
 
 ## 2018
-
-### Чек-лист. Как избежать глупых ошибок, ведущих к фатальным последствиям
-Атул Гаванде
-> [2018-11-30] http://www.smartreading.ru/biblioteka/knigi_po_menedzhmentu/the_checklist_manifesto/
-
 
 ### Не делай это. Тайм-менеджмент для творческих людей
 Дональд Росс
