@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>110</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>111</sup>
 ---
 
 ## 2018
+
+### Локвуд и компания (5) Пустая могила
+Джонатан Страуд
+> [2018-11-30] Спасибо, что без розовых соплей (почти). В целом - довольно скучно (особенно концовка).
+
 
 ### Наследие. Возвращение домой
 Робин Хобб
