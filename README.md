@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чек-лист. Как избежать глупых ошибок, ведущих к фатальным последствиям ~ [Ольга ](users/222/22240417-vkontakte)<sup>40</sup>
+    > http://www.smartreading.ru/biblioteka/knigi_po_menedzhmentu/the_checklist_manifesto/
+
 * Не делай это. Тайм-менеджмент для творческих людей ~ [Ольга Отрыванова](users/222/22240417-vkontakte)<sup>39</sup>
     > Идея понравилась. Нужно расстанавливать приоритеты и максимально ограничивать задачи, касается всех сфер жизни.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > не страшно, но мерзковато. рассказано 2 истории, современное время и 7 тысяч лет назад. хотелось бы отмотать еще на 3 тысячи лет и узнать как в долине оюнсу завелся злой дух, погубивший столько народа.
 
 * Территория везучих ~ [En](users/333/333646551-vkontakte)<sup>58</sup>
-    > продолжаются похождения Карата, не менее интересна чем первые 2.
 
 * За гранью времен / вне времени ~ [Leonid280497](users/684/684095007-yandex)<sup>5</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Зелёная дверь ~ [Leonid280497](users/684/684095007-yandex)<sup>3</sup>
 
-* Рассказы ~ [Leonid280497](users/684/684095007-yandex)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ольга ](users/222/22240417-vkontakte)<sup>39</sup> 
+[Ольга ](users/222/22240417-vkontakte)<sup>40</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>673</sup> 
 [Makoi](users/166/166726857-vkontakte)<sup>2</sup> 
 [ComeSomeAll](users/544/544940552621006-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>52</sup> 
 
 
-_30.11.2018 07:27:52_
+_30.11.2018 07:30:35_
