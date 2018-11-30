@@ -1,4 +1,16 @@
 {
+    "VJG4Sjtn7p": {
+        "id": "VJG4Sjtn7p",
+        "title": "Цикл «Академия черного дракона»",
+        "author": "Жильцова Наталья",
+        "notes": "«Академия Черного дракона. Ведьма темного пламени»\n«Академия Черного дракона. Ставка на ведьму»",
+        "createdAt": "2018-11-30 13:43:44",
+        "user": {
+            "id": "107312597267727612108-google",
+            "nickname": "Ксения",
+            "booksCount": 4
+        }
+    },
     "_cKfzwdNXU": {
         "id": "_cKfzwdNXU",
         "title": "Цикл «Невеста»",
@@ -345,18 +357,6 @@
             "id": "959623771092275-facebook",
             "nickname": "millmari",
             "booksCount": 4
-        }
-    },
-    "Ds0ZfqUmC6": {
-        "id": "Ds0ZfqUmC6",
-        "title": "Палата номер 6",
-        "author": "Антон Чехов",
-        "notes": "",
-        "createdAt": "2018-11-23 17:13:51",
-        "user": {
-            "id": "959623771092275-facebook",
-            "nickname": "millmari",
-            "booksCount": 3
         }
     }
 }
