@@ -1,4 +1,10 @@
 {
+    "22240417-vkontakte": {
+        "id": "22240417-vkontakte",
+        "nickname": "Ольга Отрыванова",
+        "booksCount": 39,
+        "updatedAt": "2018-11-30 07:17:42"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "kasikandriena",
         "booksCount": 52,
         "updatedAt": "2018-11-23 07:52:38"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 110,
-        "updatedAt": "2018-11-22 19:30:30"
     }
 }
