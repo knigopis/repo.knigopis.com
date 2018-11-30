@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Anastasia](users/135/1351730041518487-facebook)<sup>0</sup> 
 [Ксения](users/107/107312597267727612108-google)<sup>12</sup> 
 [Ольга ](users/222/22240417-vkontakte)<sup>39</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>673</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [millmari](users/959/959623771092275-facebook)<sup>6</sup> 
 [Iryna](users/102/10215916712927427-facebook)<sup>0</sup> 
 [Anastasya](users/107/107465811742840830795-google)<sup>0</sup> 
-[tanechka_23](users/820/8207458-vkontakte)<sup>0</sup> 
 
 
-_30.11.2018 13:48:46_
+_30.11.2018 16:14:06_
