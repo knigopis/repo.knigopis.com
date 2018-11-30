@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>674</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>231</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>111</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Anastasia](users/135/1351730041518487-facebook)<sup>0</sup> 
 [Ксения](users/107/107312597267727612108-google)<sup>12</sup> 
 [Ольга ](users/222/22240417-vkontakte)<sup>39</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>673</sup> 
 [Makoi](users/166/166726857-vkontakte)<sup>2</sup> 
 [ComeSomeAll](users/544/544940552621006-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>142</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>95</sup> 
 
 
-_30.11.2018 21:12:16_
+_30.11.2018 21:55:16_
