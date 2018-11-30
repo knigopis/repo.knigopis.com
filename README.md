@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>230</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>111</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>200</sup> 
 [Anastasia](users/135/1351730041518487-facebook)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [denser](users/100/100392194383735458813-google)<sup>0</sup> 
 [Jonash](users/105/105002693864893-facebook)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>59</sup> 
-[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>229</sup> 
 [aaz_](users/102/102095378349287834268-google)<sup>0</sup> 
 [Lika.Rybalko](users/578/578596810-yandex)<sup>0</sup> 
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [millmari](users/959/959623771092275-facebook)<sup>6</sup> 
 
 
-_30.11.2018 18:39:15_
+_30.11.2018 19:43:02_
