@@ -1,4 +1,16 @@
 {
+    "D3_NMCrq_N": {
+        "id": "D3_NMCrq_N",
+        "title": "Цикл \"Иржина\"",
+        "author": "Милена Завойчинская",
+        "notes": "1.\t«Иржина. Всё не так, как кажется!» \n2.\t«Иржина. Случайное – не случайно»",
+        "createdAt": "2018-11-30 13:46:59",
+        "user": {
+            "id": "107312597267727612108-google",
+            "nickname": "Ксения",
+            "booksCount": 8
+        }
+    },
     "3u8liQvBjL": {
         "id": "3u8liQvBjL",
         "title": "Цикл \"Высшая Школа Библиотекарей\"",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 94
-        }
-    },
-    "8jlG-IJ7qw": {
-        "id": "8jlG-IJ7qw",
-        "title": "Приключения Алисы в Стране чудес",
-        "author": "Льюис Кэрролл",
-        "notes": "",
-        "createdAt": "2018-11-24 11:59:02",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 93
         }
     }
 }
