@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ольга Отрыванова](users/222/22240417-vkontakte)<sup>39</sup> 
+[Ольга ](users/222/22240417-vkontakte)<sup>39</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>673</sup> 
 [Makoi](users/166/166726857-vkontakte)<sup>2</sup> 
 [ComeSomeAll](users/544/544940552621006-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>52</sup> 
 
 
-_30.11.2018 07:17:42_
+_30.11.2018 07:27:52_
