@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 13,
+        "updatedAt": "2018-11-30 21:12:16"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -172,11 +178,5 @@
         "nickname": "joan789",
         "booksCount": 95,
         "updatedAt": "2018-11-24 12:02:23"
-    },
-    "959623771092275-facebook": {
-        "id": "959623771092275-facebook",
-        "nickname": "millmari",
-        "booksCount": 6,
-        "updatedAt": "2018-11-23 17:44:16"
     }
 }

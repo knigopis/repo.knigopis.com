@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Посвящение Рэю Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup>
+    > https://vk.com/@galleryfuture-posvyaschenie-reu-bredberi
+
 * Локвуд и компания (5) Пустая могила ~ [Sky](users/118/118049897850017649660-google)<sup>111</sup>
     > Спасибо, что без розовых соплей (почти). В целом - довольно скучно (особенно концовка).
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Но книга понравилась, а больше всего понравилась безысходность. Даже после практически тотального уничтожения, человечество начинает совершать те же ошибки, которые привели к гибели практически всех людей.
 
 * Чек-лист. Как избежать глупых ошибок, ведущих к фатальным последствиям ~ [Ольга ](users/222/22240417-vkontakte)<sup>40</sup>
-    > http://www.smartreading.ru/biblioteka/knigi_po_menedzhmentu/the_checklist_manifesto/
 
 * Не делай это. Тайм-менеджмент для творческих людей ~ [Ольга Отрыванова](users/222/22240417-vkontakte)<sup>39</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Человек с котом ~ [En](users/333/333646551-vkontakte)<sup>57</sup>
 
-* Азазель ~ [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>231</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>111</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>200</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joyash](users/208/2089677811258257-facebook)<sup>0</sup> 
 [Wardist](users/141/1416601771804229-facebook)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>95</sup> 
-[millmari](users/959/959623771092275-facebook)<sup>6</sup> 
 
 
-_30.11.2018 19:44:16_
+_30.11.2018 21:12:16_

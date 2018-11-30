@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>12</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>13</sup>
 ---
 
 ## 2018
+
+### Посвящение Рэю Брэдбери
+Роман Рогов
+> [2018-11-30] https://vk.com/@galleryfuture-posvyaschenie-reu-bredberi
+
 
 ### Дневник памяти
 Николас Спаркс
