@@ -1,4 +1,16 @@
 {
+    "SR99bS9tJX": {
+        "id": "SR99bS9tJX",
+        "title": "Проклятье некроманта",
+        "author": "Жильцова Наталья",
+        "notes": "",
+        "createdAt": "2018-11-30 13:38:47",
+        "user": {
+            "id": "107312597267727612108-google",
+            "nickname": "Ксения",
+            "booksCount": 1
+        }
+    },
     "l9mzv6bJTk": {
         "id": "l9mzv6bJTk",
         "title": "Чек-лист. Как избежать глупых ошибок, ведущих к фатальным последствиям",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 52
-        }
-    },
-    "8xef8C58XU": {
-        "id": "8xef8C58XU",
-        "title": "Око мира",
-        "author": "Роберт Джордан",
-        "notes": "",
-        "createdAt": "2018-11-23 07:50:20",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 51
         }
     }
 }
