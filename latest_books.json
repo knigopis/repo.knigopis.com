@@ -1,4 +1,40 @@
 {
+    "TL8clByOuv": {
+        "id": "TL8clByOuv",
+        "title": "Оранжевый цвет радуги",
+        "author": "Милена Завойчинская",
+        "notes": "",
+        "createdAt": "2018-11-30 13:48:46",
+        "user": {
+            "id": "107312597267727612108-google",
+            "nickname": "Ксения",
+            "booksCount": 12
+        }
+    },
+    "4bZ51BVWCj": {
+        "id": "4bZ51BVWCj",
+        "title": "Цикл \"Струны волшебства\"",
+        "author": "Милена Завойчинская",
+        "notes": "1. \"Страшные сказки закрытого королевства\" \n2. \"Цветная музыка сидхе\"",
+        "createdAt": "2018-11-30 13:48:12",
+        "user": {
+            "id": "107312597267727612108-google",
+            "nickname": "Ксения",
+            "booksCount": 11
+        }
+    },
+    "TMw0DW-0kc": {
+        "id": "TMw0DW-0kc",
+        "title": "Цикл \"Дом на перекрестке\"",
+        "author": "Милена Завойчинская",
+        "notes": "1.\t«Дом на перекрестке» \n2.\t«Дом на перекрестке. Резиденция феи» \n3.\t«Дом на перекрестке. Под небом четырех миров»",
+        "createdAt": "2018-11-30 13:47:30",
+        "user": {
+            "id": "107312597267727612108-google",
+            "nickname": "Ксения",
+            "booksCount": 10
+        }
+    },
     "D3_NMCrq_N": {
         "id": "D3_NMCrq_N",
         "title": "Цикл \"Иржина\"",
@@ -321,42 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 671
-        }
-    },
-    "oTYBTZG4MK": {
-        "id": "oTYBTZG4MK",
-        "title": "Дерево растет в Бруклине",
-        "author": "Бетти Смит",
-        "notes": "",
-        "createdAt": "2018-11-25 15:29:52",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 67
-        }
-    },
-    "PIa_naTR-h": {
-        "id": "PIa_naTR-h",
-        "title": "Охота на Снарка",
-        "author": "Льюис Кэрролл",
-        "notes": "",
-        "createdAt": "2018-11-24 12:02:23",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 95
-        }
-    },
-    "iKYYJQnNQH": {
-        "id": "iKYYJQnNQH",
-        "title": "Алиса в Зазеркалье",
-        "author": "Льюис Кэрролл",
-        "notes": "",
-        "createdAt": "2018-11-24 11:59:46",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 94
         }
     }
 }
