@@ -1,4 +1,16 @@
 {
+    "4OUyCH6oRQ": {
+        "id": "4OUyCH6oRQ",
+        "title": "подцикл Тень",
+        "author": "Жильцова Наталья",
+        "notes": "",
+        "createdAt": "2018-11-30 13:39:54",
+        "user": {
+            "id": "107312597267727612108-google",
+            "nickname": "Ксения",
+            "booksCount": 2
+        }
+    },
     "SR99bS9tJX": {
         "id": "SR99bS9tJX",
         "title": "Проклятье некроманта",
@@ -345,18 +357,6 @@
             "id": "959623771092275-facebook",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "CMf94d4b2V": {
-        "id": "CMf94d4b2V",
-        "title": "Великая охота (Серия: Колесо времени 2/14)",
-        "author": "Роберт Джордан",
-        "notes": "",
-        "createdAt": "2018-11-23 07:52:38",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 52
         }
     }
 }
