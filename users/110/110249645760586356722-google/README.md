@@ -1,7 +1,12 @@
-# List of books read by [AngelXL](https://plus.google.com/110249645760586356722)<sup>1</sup>
+# List of books read by [AngelXL](https://plus.google.com/110249645760586356722)<sup>2</sup>
 ---
 
 ## 2018
+
+### Римский орел
+Мазин Александр Владимирович
+> [2018-10] 
+
 
 ### Варвары
 Мазин Александр Владимирович

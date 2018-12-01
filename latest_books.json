@@ -1,4 +1,16 @@
 {
+    "bNCAB08EKn": {
+        "id": "bNCAB08EKn",
+        "title": "Римский орел",
+        "author": "Мазин Александр Владимирович",
+        "notes": "",
+        "createdAt": "2018-12-01 21:57:14",
+        "user": {
+            "id": "110249645760586356722-google",
+            "nickname": "AngelXL",
+            "booksCount": 2
+        }
+    },
     "1MmjGy9W4n": {
         "id": "1MmjGy9W4n",
         "title": "Варвары",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 59
-        }
-    },
-    "dalfHts9E5": {
-        "id": "dalfHts9E5",
-        "title": "Шантарам",
-        "author": "Грегори Дэвид Робертс",
-        "notes": "",
-        "createdAt": "2018-11-27 22:22:42",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 229
         }
     }
 }

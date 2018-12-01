@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[AngelXL](users/110/110249645760586356722-google)<sup>1</sup> 
+[AngelXL](users/110/110249645760586356722-google)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>674</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>231</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Wardist](users/141/1416601771804229-facebook)<sup>0</sup> 
 
 
-_01.12.2018 21:56:54_
+_01.12.2018 21:57:14_
