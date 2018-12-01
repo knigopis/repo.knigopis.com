@@ -1,4 +1,16 @@
 {
+    "1MmjGy9W4n": {
+        "id": "1MmjGy9W4n",
+        "title": "Варвары",
+        "author": "Мазин Александр Владимирович",
+        "notes": "",
+        "createdAt": "2018-12-01 21:56:54",
+        "user": {
+            "id": "110249645760586356722-google",
+            "nickname": "AngelXL",
+            "booksCount": 1
+        }
+    },
     "4_AuM6jk_B": {
         "id": "4_AuM6jk_B",
         "title": "Время всегда хорошее",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 229
-        }
-    },
-    "TTQ3IRVmri": {
-        "id": "TTQ3IRVmri",
-        "title": "Как быть евреем",
-        "author": "Джеймс Кугел",
-        "notes": "",
-        "createdAt": "2018-11-26 21:19:32",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 672
         }
     }
 }
