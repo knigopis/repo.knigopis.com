@@ -1,4 +1,4 @@
-# List of books read by [Asiar](https://plus.google.com/115902526849562271887)<sup>6</sup>
+# List of books read by [Asiar](https://plus.google.com/115902526849562271887)<sup>5</sup>
 ---
 
 ## 2018
@@ -26,10 +26,6 @@ Michael Allingham
 ### Жесты и мимика в общении японцев
 П. С. Тумаркин
 > [2018-10-31] Надо будет перепрочесть пару лет спустя
-
-
-### О
-О
 
 
 
