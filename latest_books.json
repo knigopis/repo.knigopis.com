@@ -1,4 +1,16 @@
 {
+    "b9Lbc_e8Xw": {
+        "id": "b9Lbc_e8Xw",
+        "title": "Вясна барбараў",
+        "author": "Ёнас Люшэр",
+        "notes": "",
+        "createdAt": "2018-12-02 07:32:47",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 338
+        }
+    },
     "e9JZo3qXWE": {
         "id": "e9JZo3qXWE",
         "title": "Продажные королевство",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 13
-        }
-    },
-    "pupj4ZZoOb": {
-        "id": "pupj4ZZoOb",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2018-11-29 05:48:12",
-        "user": {
-            "id": "112876960272897812283-google",
-            "nickname": "komelfo",
-            "booksCount": 1
         }
     }
 }
