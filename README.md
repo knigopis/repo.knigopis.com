@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Asiar](users/115/115902526849562271887-google)<sup>6</sup> 
+[Asiar](users/115/115902526849562271887-google)<sup>5</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>338</sup> 
 [AngelXL](users/110/110249645760586356722-google)<sup>3</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>674</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>67</sup> 
 
 
-_02.12.2018 10:59:41_
+_02.12.2018 10:59:55_
