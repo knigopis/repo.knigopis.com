@@ -1,4 +1,16 @@
 {
+    "Fpbmt_SzUT": {
+        "id": "Fpbmt_SzUT",
+        "title": "Мы",
+        "author": "Евгений Замятин",
+        "notes": "",
+        "createdAt": "2018-12-02 23:26:11",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 232
+        }
+    },
     "k9G90qQgua": {
         "id": "k9G90qQgua",
         "title": "Подвешенный язык",
@@ -345,18 +357,6 @@
             "id": "166726857-vkontakte",
             "nickname": "Makoi",
             "booksCount": 2
-        }
-    },
-    "WW9k0x7E_C": {
-        "id": "WW9k0x7E_C",
-        "title": "Похвала тени",
-        "author": "Танидзаки",
-        "notes": "",
-        "createdAt": "2018-11-29 16:28:26",
-        "user": {
-            "id": "166726857-vkontakte",
-            "nickname": "Makoi",
-            "booksCount": 1
         }
     }
 }

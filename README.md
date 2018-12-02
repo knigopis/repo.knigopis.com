@@ -34,13 +34,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>232</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>54</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>5</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>338</sup> 
 [AngelXL](users/110/110249645760586356722-google)<sup>3</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>674</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup> 
-[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>231</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>111</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>200</sup> 
 [Anastasia](users/135/1351730041518487-facebook)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>67</sup> 
 
 
-_02.12.2018 17:06:42_
+_02.12.2018 23:26:12_
