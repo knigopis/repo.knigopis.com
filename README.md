@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Asiar](users/115/115902526849562271887-google)<sup>6</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>338</sup> 
 [AngelXL](users/110/110249645760586356722-google)<sup>3</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>674</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Leonid280497](users/684/684095007-yandex)<sup>5</sup> 
 [info@knigopis.com](users/113/1130000014309088-yandex)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>67</sup> 
-[joyash](users/208/2089677811258257-facebook)<sup>0</sup> 
 
 
-_02.12.2018 07:32:48_
+_02.12.2018 10:59:41_
