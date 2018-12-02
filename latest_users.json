@@ -1,4 +1,10 @@
 {
+    "13330781-vkontakte": {
+        "id": "13330781-vkontakte",
+        "nickname": "le_brouillard",
+        "booksCount": 54,
+        "updatedAt": "2018-12-02 17:06:42"
+    },
     "115902526849562271887-google": {
         "id": "115902526849562271887-google",
         "nickname": "Asiar",
@@ -142,12 +148,6 @@
         "nickname": "Kellen",
         "booksCount": 0,
         "updatedAt": "2018-11-27 07:02:47"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 53,
-        "updatedAt": "2018-11-26 16:44:00"
     },
     "109363476104569140915-google": {
         "id": "109363476104569140915-google",

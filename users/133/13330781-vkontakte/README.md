@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>53</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>54</sup>
 ---
 
 ## 2018
+
+### Подвешенный язык
+Борис Литвак
+> [2018-12] 
+
 
 ### Зулейха открывает глаза
 Гузель Яхина

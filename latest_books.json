@@ -1,4 +1,16 @@
 {
+    "k9G90qQgua": {
+        "id": "k9G90qQgua",
+        "title": "Подвешенный язык",
+        "author": "Борис Литвак",
+        "notes": "",
+        "createdAt": "2018-12-02 17:06:42",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 54
+        }
+    },
     "hePcbMhG2A": {
         "id": "hePcbMhG2A",
         "title": "О",
@@ -345,18 +357,6 @@
             "id": "166726857-vkontakte",
             "nickname": "Makoi",
             "booksCount": 1
-        }
-    },
-    "mLoniNIv90": {
-        "id": "mLoniNIv90",
-        "title": "Пляж",
-        "author": "Алекс Гарленд",
-        "notes": "",
-        "createdAt": "2018-11-29 11:44:10",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 142
         }
     }
 }

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>54</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>5</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>338</sup> 
 [AngelXL](users/110/110249645760586356722-google)<sup>3</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>0</sup> 
 [mr.malachi](users/266/266358429-vkontakte)<sup>0</sup> 
 [Kellen](users/105/105810168027266329605-google)<sup>0</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>53</sup> 
 [ShvedAn](users/109/109363476104569140915-google)<sup>0</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>32</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>5</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>67</sup> 
 
 
-_02.12.2018 10:59:55_
+_02.12.2018 17:06:42_
