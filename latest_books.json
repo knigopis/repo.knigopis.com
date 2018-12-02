@@ -1,4 +1,16 @@
 {
+    "e9JZo3qXWE": {
+        "id": "e9JZo3qXWE",
+        "title": "Продажные королевство",
+        "author": "Ли Бардуго",
+        "notes": "",
+        "createdAt": "2018-12-02 07:31:58",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 337
+        }
+    },
     "BVF-7MkCuP": {
         "id": "BVF-7MkCuP",
         "title": "Цена империи",
@@ -344,18 +356,6 @@
         "user": {
             "id": "112876960272897812283-google",
             "nickname": "komelfo",
-            "booksCount": 1
-        }
-    },
-    "-9-52u3boU": {
-        "id": "-9-52u3boU",
-        "title": "Рассказы о Родине",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2018-11-28 11:22:39",
-        "user": {
-            "id": "100392194383735458813-google",
-            "nickname": "denser",
             "booksCount": 1
         }
     }
