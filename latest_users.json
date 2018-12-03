@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 36,
+        "updatedAt": "2018-12-03 08:54:45"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -172,11 +178,5 @@
         "nickname": "info@knigopis.com",
         "booksCount": 0,
         "updatedAt": "2018-11-25 17:58:11"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 67,
-        "updatedAt": "2018-11-25 15:29:52"
     }
 }

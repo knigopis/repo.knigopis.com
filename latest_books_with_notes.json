@@ -1,4 +1,16 @@
 {
+    "VemneQtNKB": {
+        "id": "VemneQtNKB",
+        "title": "Суворов и казаки в Италии",
+        "author": "Вильпиус Х.А",
+        "notes": "Не чего хорошо.",
+        "createdAt": "2018-12-03 08:54:45",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 36
+        }
+    },
     "9lumzb1vLg": {
         "id": "9lumzb1vLg",
         "title": "Посвящение Рэю Брэдбери",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 89
-        }
-    },
-    "KRsMlMLpVB": {
-        "id": "KRsMlMLpVB",
-        "title": "Ship of Fools: An Anthology of Learned Nonsense about Primitive Society",
-        "author": "C.R. Hallpike",
-        "notes": "ASIN: B07HX4188K",
-        "createdAt": "2018-11-14 18:43:29",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 88
         }
     }
 }

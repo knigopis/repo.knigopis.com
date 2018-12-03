@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Суворов и казаки в Италии ~ [mfevralev](users/140/140966150-vkontakte)<sup>36</sup>
 * Посвящение Рэю Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup>
 * Локвуд и компания (5) Пустая могила ~ [Sky](users/118/118049897850017649660-google)<sup>111</sup>
 * Противостояние ~ [Garka](users/115/115753719718250012620-google)<sup>200</sup>
@@ -30,7 +31,6 @@
 * Лекции по психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup>
 * Заставьте свои сильные стороны работать ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>185</sup>
 * The Man in the High Castle ~ [exulted](users/100/100599204551896265722-google)<sup>89</sup>
-* Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>88</sup>
 
 
-_30.11.2018 21:12:16_
+_03.12.2018 08:54:45_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Суворов и казаки в Италии ~ [mfevralev](users/140/140966150-vkontakte)<sup>36</sup>
+    > Не чего хорошо.
+
 * Посвящение Рэю Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup>
     > https://vk.com/@galleryfuture-posvyaschenie-reu-bredberi
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Спасибо, что без розовых соплей (почти). В целом - довольно скучно (особенно концовка).
 
 * Противостояние ~ [Garka](users/115/115753719718250012620-google)<sup>200</sup>
-    > Версия апокалипсиса от Кинга. Тут все: и военные с убийственными разработками (в прямом смысле), и правительство выгораживающие себя любой ценой (даже ценой гибели 99% населения Земли), и безответственность (даже тупость я бы сказала) отдельных людей, и мистика с телепатией, и религия с Богом и Дьяволом, и даже атомная бомба.
-    > Но книга понравилась, а больше всего понравилась безысходность. Даже после практически тотального уничтожения, человечество начинает совершать те же ошибки, которые привели к гибели практически всех людей.
 
 * Чек-лист. Как избежать глупых ошибок, ведущих к фатальным последствиям ~ [Ольга ](users/222/22240417-vkontakte)<sup>40</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тень над Инсмутом ~ [Leonid280497](users/684/684095007-yandex)<sup>4</sup>
 
-* Человек с котом ~ [En](users/333/333646551-vkontakte)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>36</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>232</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>54</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>5</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Svecha](users/118/118041836581529110049-google)<sup>32</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>5</sup> 
 [info@knigopis.com](users/113/1130000014309088-yandex)<sup>0</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>67</sup> 
 
 
-_02.12.2018 23:26:12_
+_03.12.2018 08:54:45_
