@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>36</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>232</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>54</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ShvedAn](users/109/109363476104569140915-google)<sup>0</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>32</sup> 
 [Leonid280497](users/684/684095007-yandex)<sup>5</sup> 
-[info@knigopis.com](users/113/1130000014309088-yandex)<sup>0</sup> 
 
 
-_03.12.2018 08:54:45_
+_03.12.2018 20:55:27_
