@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[4apa](users/117/117392596378069249667-google)<sup>0</sup> 
+[4apa](users/117/117392596378069249667-google)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>36</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>232</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Leonid280497](users/684/684095007-yandex)<sup>5</sup> 
 
 
-_03.12.2018 20:55:27_
+_03.12.2018 20:57:28_
