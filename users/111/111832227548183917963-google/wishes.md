@@ -1,6 +1,6 @@
 # Wish list of books by [](https://plus.google.com/111832227548183917963)
 ---
 
-### `` Изучаем Python
+### `36` Изучаем Python
 Марк Лутц
 
