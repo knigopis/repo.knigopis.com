@@ -10,7 +10,7 @@
 
 ### The Man in the High Castle
 Philip K. Dick
-> [2018-11-30] ASIN: B005MZN2B2
+> [2018-11-27] ASIN: B005MZN2B2
 
 
 ### Ship of Fools: An Anthology of Learned Nonsense about Primitive Society
