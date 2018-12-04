@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 90,
+        "updatedAt": "2018-12-04 18:18:58"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "Kellen",
         "booksCount": 0,
         "updatedAt": "2018-11-27 07:02:47"
-    },
-    "109363476104569140915-google": {
-        "id": "109363476104569140915-google",
-        "nickname": "ShvedAn",
-        "booksCount": 0,
-        "updatedAt": "2018-11-26 12:07:34"
     }
 }

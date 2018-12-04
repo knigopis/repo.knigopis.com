@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>90</sup>
+    > ASIN: B07HX4188K
+
 * Вегетарианка ~ [Sky](users/118/118049897850017649660-google)<sup>112</sup>
     > -___-
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не чего хорошо.
 
 * Посвящение Рэю Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup>
-    > https://vk.com/@galleryfuture-posvyaschenie-reu-bredberi
 
 * Локвуд и компания (5) Пустая могила ~ [Sky](users/118/118049897850017649660-google)<sup>111</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Территория везучих ~ [En](users/333/333646551-vkontakte)<sup>58</sup>
 
-* За гранью времен / вне времени ~ [Leonid280497](users/684/684095007-yandex)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>90</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>113</sup> 
 [Sybera](users/106/106106657896266616567-google)<sup>0</sup> 
 [Sybera](users/139/13958783-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>0</sup> 
 [mr.malachi](users/266/266358429-vkontakte)<sup>0</sup> 
 [Kellen](users/105/105810168027266329605-google)<sup>0</sup> 
-[ShvedAn](users/109/109363476104569140915-google)<sup>0</sup> 
 
 
-_04.12.2018 18:10:09_
+_04.12.2018 18:18:59_

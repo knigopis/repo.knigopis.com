@@ -1,4 +1,16 @@
 {
+    "hLx19grgE2": {
+        "id": "hLx19grgE2",
+        "title": "Ship of Fools: An Anthology of Learned Nonsense about Primitive Society",
+        "author": "C.R. Hallpike",
+        "notes": "ASIN: B07HX4188K",
+        "createdAt": "2018-12-04 18:18:58",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 90
+        }
+    },
     "ew47yGBjeQ": {
         "id": "ew47yGBjeQ",
         "title": "Джекаби",
@@ -345,18 +357,6 @@
             "id": "107312597267727612108-google",
             "nickname": "Ксения",
             "booksCount": 2
-        }
-    },
-    "SR99bS9tJX": {
-        "id": "SR99bS9tJX",
-        "title": "Проклятье некроманта",
-        "author": "Жильцова Наталья",
-        "notes": "",
-        "createdAt": "2018-11-30 13:38:47",
-        "user": {
-            "id": "107312597267727612108-google",
-            "nickname": "Ксения",
-            "booksCount": 1
         }
     }
 }
