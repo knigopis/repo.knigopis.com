@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>112</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>113</sup> 
 [Sybera](users/106/106106657896266616567-google)<sup>0</sup> 
 [Sybera](users/139/13958783-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ShvedAn](users/109/109363476104569140915-google)<sup>0</sup> 
 
 
-_04.12.2018 18:09:37_
+_04.12.2018 18:10:09_

@@ -1,4 +1,16 @@
 {
+    "ew47yGBjeQ": {
+        "id": "ew47yGBjeQ",
+        "title": "Джекаби",
+        "author": "Уильям Риттер",
+        "notes": "",
+        "createdAt": "2018-12-04 18:10:09",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 113
+        }
+    },
     "LmKKmggKBd": {
         "id": "LmKKmggKBd",
         "title": "Вегетарианка",
@@ -345,18 +357,6 @@
             "id": "107312597267727612108-google",
             "nickname": "Ксения",
             "booksCount": 1
-        }
-    },
-    "l9mzv6bJTk": {
-        "id": "l9mzv6bJTk",
-        "title": "Чек-лист. Как избежать глупых ошибок, ведущих к фатальным последствиям",
-        "author": "Атул Гаванде",
-        "notes": "http://www.smartreading.ru/biblioteka/knigi_po_menedzhmentu/the_checklist_manifesto/",
-        "createdAt": "2018-11-30 07:30:35",
-        "user": {
-            "id": "22240417-vkontakte",
-            "nickname": "Ольга ",
-            "booksCount": 40
         }
     }
 }
