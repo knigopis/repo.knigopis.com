@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The Man in the High Castle ~ [exulted](users/100/100599204551896265722-google)<sup>91</sup>
 * Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>90</sup>
 * Вегетарианка ~ [Sky](users/118/118049897850017649660-google)<sup>112</sup>
 * Суворов и казаки в Италии ~ [mfevralev](users/140/140966150-vkontakte)<sup>36</sup>
@@ -30,7 +31,6 @@
 * Под знаком мантикоры ~ [Chiffi](users/105/105831994080785626680-google)<sup>78</sup>
 * Чёрный кот ~ [Leonid280497](users/684/684095007-yandex)<sup>6</sup>
 * Краткая история почти всего на свете ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>75</sup>
-* Лекции по психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>186</sup>
 
 
-_04.12.2018 18:18:59_
+_04.12.2018 18:19:42_

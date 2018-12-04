@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Man in the High Castle ~ [exulted](users/100/100599204551896265722-google)<sup>91</sup>
+    > ASIN: B005MZN2B2
+
 * Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>90</sup>
     > ASIN: B07HX4188K
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > -___-
 
 * Суворов и казаки в Италии ~ [mfevralev](users/140/140966150-vkontakte)<sup>36</sup>
-    > Не чего хорошо.
 
 * Посвящение Рэю Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Отель "Оюнсу" ~ [En](users/333/333646551-vkontakte)<sup>59</sup>
 
-* Территория везучих ~ [En](users/333/333646551-vkontakte)<sup>58</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>90</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>91</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>113</sup> 
 [Sybera](users/106/106106657896266616567-google)<sup>0</sup> 
 [Sybera](users/139/13958783-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Kellen](users/105/105810168027266329605-google)<sup>0</sup> 
 
 
-_04.12.2018 18:18:59_
+_04.12.2018 18:19:42_

@@ -1,4 +1,16 @@
 {
+    "5CeqxT18hp": {
+        "id": "5CeqxT18hp",
+        "title": "The Man in the High Castle",
+        "author": "Philip K. Dick",
+        "notes": "ASIN: B005MZN2B2",
+        "createdAt": "2018-12-04 18:19:42",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 91
+        }
+    },
     "hLx19grgE2": {
         "id": "hLx19grgE2",
         "title": "Ship of Fools: An Anthology of Learned Nonsense about Primitive Society",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 75
-        }
-    },
-    "Zj42RaqsQ6": {
-        "id": "Zj42RaqsQ6",
-        "title": "Лекции по психологии",
-        "author": "Петр Гальперин",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/3811224/",
-        "createdAt": "2018-11-14 20:40:40",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 186
         }
     }
 }
