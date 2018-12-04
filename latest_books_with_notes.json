@@ -1,4 +1,16 @@
 {
+    "LmKKmggKBd": {
+        "id": "LmKKmggKBd",
+        "title": "Вегетарианка",
+        "author": "Ган Хан",
+        "notes": "-___-",
+        "createdAt": "2018-12-04 18:09:37",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 112
+        }
+    },
     "VemneQtNKB": {
         "id": "VemneQtNKB",
         "title": "Суворов и казаки в Италии",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 185
-        }
-    },
-    "N-ct_QDWZU": {
-        "id": "N-ct_QDWZU",
-        "title": "The Man in the High Castle",
-        "author": "Philip K. Dick",
-        "notes": "ASIN: B005MZN2B2",
-        "createdAt": "2018-11-14 18:45:57",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 89
         }
     }
 }

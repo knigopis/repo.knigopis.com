@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вегетарианка ~ [Sky](users/118/118049897850017649660-google)<sup>112</sup>
+    > -___-
+
 * Суворов и казаки в Италии ~ [mfevralev](users/140/140966150-vkontakte)<sup>36</sup>
     > Не чего хорошо.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > https://vk.com/@galleryfuture-posvyaschenie-reu-bredberi
 
 * Локвуд и компания (5) Пустая могила ~ [Sky](users/118/118049897850017649660-google)<sup>111</sup>
-    > Спасибо, что без розовых соплей (почти). В целом - довольно скучно (особенно концовка).
 
 * Противостояние ~ [Garka](users/115/115753719718250012620-google)<sup>200</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * За гранью времен / вне времени ~ [Leonid280497](users/684/684095007-yandex)<sup>5</sup>
 
-* Тень над Инсмутом ~ [Leonid280497](users/684/684095007-yandex)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>112</sup> 
 [Sybera](users/106/106106657896266616567-google)<sup>0</sup> 
 [Sybera](users/139/13958783-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>1</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AngelXL](users/110/110249645760586356722-google)<sup>3</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>674</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>111</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>200</sup> 
 [Anastasia](users/135/1351730041518487-facebook)<sup>0</sup> 
 [Ксения](users/107/107312597267727612108-google)<sup>12</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ShvedAn](users/109/109363476104569140915-google)<sup>0</sup> 
 
 
-_04.12.2018 17:08:44_
+_04.12.2018 18:09:37_

@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>111</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>112</sup>
 ---
 
 ## 2018
+
+### Вегетарианка
+Ган Хан
+> [2018-12-02] -___-
+
 
 ### Локвуд и компания (5) Пустая могила
 Джонатан Страуд
