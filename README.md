@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/111/111832227548183917963-google)<sup>0</sup> 
+[](users/111/111832227548183917963-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>91</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>113</sup> 
 [Sybera](users/106/106106657896266616567-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mr.malachi](users/266/266358429-vkontakte)<sup>0</sup> 
 
 
-_04.12.2018 18:39:08_
+_04.12.2018 19:02:18_
