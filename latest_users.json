@@ -1,4 +1,10 @@
 {
+    "106106657896266616567-google": {
+        "id": "106106657896266616567-google",
+        "nickname": "Sybera",
+        "booksCount": 0,
+        "updatedAt": "2018-12-04 17:08:43"
+    },
     "13958783-vkontakte": {
         "id": "13958783-vkontakte",
         "nickname": "Sybera",
@@ -172,11 +178,5 @@
         "nickname": "ShvedAn",
         "booksCount": 0,
         "updatedAt": "2018-11-26 12:07:34"
-    },
-    "118041836581529110049-google": {
-        "id": "118041836581529110049-google",
-        "nickname": "Svecha",
-        "booksCount": 32,
-        "updatedAt": "2018-11-26 09:23:20"
     }
 }
