@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sybera](users/139/13958783-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>36</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>232</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Kellen](users/105/105810168027266329605-google)<sup>0</sup> 
 [ShvedAn](users/109/109363476104569140915-google)<sup>0</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>32</sup> 
-[Leonid280497](users/684/684095007-yandex)<sup>5</sup> 
 
 
-_03.12.2018 20:57:28_
+_04.12.2018 16:30:56_
