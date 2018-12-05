@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>2</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>9</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>114</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>143</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>91</sup> 
 [Sybera](users/106/106106657896266616567-google)<sup>0</sup> 
 [Sybera](users/139/13958783-vkontakte)<sup>0</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>36</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>232</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>0</sup> 
 
 
-_05.12.2018 19:42:31_
+_05.12.2018 20:08:40_

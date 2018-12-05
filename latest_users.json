@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 2,
+        "updatedAt": "2018-12-05 20:08:40"
+    },
     "6259590452259030261-mailru": {
         "id": "6259590452259030261-mailru",
         "nickname": "Александр Погодин",
@@ -40,12 +46,6 @@
         "nickname": "Sybera",
         "booksCount": 0,
         "updatedAt": "2018-12-04 16:30:55"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 1,
-        "updatedAt": "2018-12-03 20:57:28"
     },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",

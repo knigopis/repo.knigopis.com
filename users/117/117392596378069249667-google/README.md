@@ -1,7 +1,12 @@
-# List of books read by [4apa](https://plus.google.com/117392596378069249667)<sup>1</sup>
+# List of books read by 4apa<sup>2</sup>
 ---
 
 ## 2018
+
+### Тайные виды на гору Фудзи
+В. Пелевин
+> [2018-12-05] 
+
 
 ### Верхом на ракете
 М. Маллейн
