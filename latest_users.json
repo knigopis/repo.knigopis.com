@@ -1,4 +1,10 @@
 {
+    "6259590452259030261-mailru": {
+        "id": "6259590452259030261-mailru",
+        "nickname": "Александр Погодин",
+        "booksCount": 7,
+        "updatedAt": "2018-12-05 19:17:03"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "anyutka_karpan",
         "booksCount": 0,
         "updatedAt": "2018-11-27 15:15:30"
-    },
-    "266358429-vkontakte": {
-        "id": "266358429-vkontakte",
-        "nickname": "mr.malachi",
-        "booksCount": 0,
-        "updatedAt": "2018-11-27 14:59:19"
     }
 }
