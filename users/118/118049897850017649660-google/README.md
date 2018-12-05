@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>113</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>114</sup>
 ---
 
 ## 2018
+
+### Фрида Кало. Биография в комиксах
+Мария Хессе
+> [2018-12-05] 
+
 
 ### Джекаби
 Уильям Риттер
