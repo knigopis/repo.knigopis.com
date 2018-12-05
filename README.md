@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>143</sup> 
 [](users/111/111832227548183917963-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>91</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>113</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ольга ](users/222/22240417-vkontakte)<sup>39</sup> 
 [Makoi](users/166/166726857-vkontakte)<sup>2</sup> 
 [ComeSomeAll](users/544/544940552621006-facebook)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>142</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>13</sup> 
 [komelfo](users/112/112876960272897812283-google)<sup>0</sup> 
 [denser](users/100/100392194383735458813-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mr.malachi](users/266/266358429-vkontakte)<sup>0</sup> 
 
 
-_04.12.2018 19:02:18_
+_05.12.2018 07:43:07_

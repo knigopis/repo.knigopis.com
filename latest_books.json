@@ -1,4 +1,16 @@
 {
+    "AhtXnHTZKb": {
+        "id": "AhtXnHTZKb",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2018-12-05 07:43:07",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 143
+        }
+    },
     "TvVMsO7iOT": {
         "id": "TvVMsO7iOT",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "107312597267727612108-google",
             "nickname": "Ксения",
             "booksCount": 5
-        }
-    },
-    "VJG4Sjtn7p": {
-        "id": "VJG4Sjtn7p",
-        "title": "Цикл «Академия черного дракона»",
-        "author": "Жильцова Наталья",
-        "notes": "«Академия Черного дракона. Ведьма темного пламени»\n«Академия Черного дракона. Ставка на ведьму»",
-        "createdAt": "2018-11-30 13:43:44",
-        "user": {
-            "id": "107312597267727612108-google",
-            "nickname": "Ксения",
-            "booksCount": 4
         }
     }
 }
