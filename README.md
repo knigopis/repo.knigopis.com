@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[4apa](users/117/117392596378069249667-google)<sup>3</sup> 
+[4apa](users/117/117392596378069249667-google)<sup>2</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>9</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>114</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>143</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>0</sup> 
 
 
-_05.12.2018 20:17:59_
+_05.12.2018 20:18:13_
