@@ -10,7 +10,6 @@
 >     1942—1951 «Основание» (Foundation);
 >     1944—1952 «Основание и Империя» (Foundation and Empire);
 >     1948—1953 «Второе Основание» (Second Foundation);
-> 
 > Продолжение:
 >     1982 «Кризис Основания» (Foundation's Edge);
 >     1986 «Основание и Земля» (Foundation and Earth).
