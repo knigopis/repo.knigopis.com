@@ -1,4 +1,16 @@
 {
+    "sip7DcdzMF": {
+        "id": "sip7DcdzMF",
+        "title": "Моя семья и другие звери",
+        "author": "Джеральд Даррел",
+        "notes": "",
+        "createdAt": "2018-12-06 07:10:33",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 675
+        }
+    },
     "0wskAZeZW-": {
         "id": "0wskAZeZW-",
         "title": "Джекаби 2. Кости зверя",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 200
-        }
-    },
-    "TL8clByOuv": {
-        "id": "TL8clByOuv",
-        "title": "Оранжевый цвет радуги",
-        "author": "Милена Завойчинская",
-        "notes": "",
-        "createdAt": "2018-11-30 13:48:46",
-        "user": {
-            "id": "107312597267727612108-google",
-            "nickname": "Ксения",
-            "booksCount": 12
         }
     }
 }

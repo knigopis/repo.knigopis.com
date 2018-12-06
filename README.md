@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>675</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>115</sup> 
 [idharin](users/207/20762954-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>2</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Asiar](users/115/115902526849562271887-google)<sup>5</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>338</sup> 
 [AngelXL](users/110/110249645760586356722-google)<sup>3</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>674</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>200</sup> 
 [Anastasia](users/135/1351730041518487-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lika.Rybalko](users/578/578596810-yandex)<sup>0</sup> 
 
 
-_06.12.2018 06:43:18_
+_06.12.2018 07:10:34_
