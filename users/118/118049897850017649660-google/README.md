@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>114</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>115</sup>
 ---
 
 ## 2018
+
+### Джекаби 2. Кости зверя
+Уильям Риттер
+> [2018-12-06] 
+
 
 ### Фрида Кало. Биография в комиксах
 Мария Хессе
