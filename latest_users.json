@@ -1,4 +1,10 @@
 {
+    "20762954-vkontakte": {
+        "id": "20762954-vkontakte",
+        "nickname": "idharin",
+        "booksCount": 0,
+        "updatedAt": "2018-12-06 06:24:06"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "Lika.Rybalko",
         "booksCount": 0,
         "updatedAt": "2018-11-27 19:57:08"
-    },
-    "59793548-vkontakte": {
-        "id": "59793548-vkontakte",
-        "nickname": "anyutka_karpan",
-        "booksCount": 0,
-        "updatedAt": "2018-11-27 15:15:30"
     }
 }
