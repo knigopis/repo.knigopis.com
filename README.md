@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[idharin](users/207/20762954-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>2</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>9</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>114</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>59</sup> 
 [aaz_](users/102/102095378349287834268-google)<sup>0</sup> 
 [Lika.Rybalko](users/578/578596810-yandex)<sup>0</sup> 
-[anyutka_karpan](users/597/59793548-vkontakte)<sup>0</sup> 
 
 
-_05.12.2018 20:18:13_
+_06.12.2018 06:24:10_
