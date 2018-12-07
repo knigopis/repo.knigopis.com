@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>97</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>98</sup>
 ---
 
 ## 2018
+
+### Понедельник начинается в субботу
+Борис Стругацкий
+> [2018-12-07] 9/10
+
 
 ### Азазель
 Борис Акунин

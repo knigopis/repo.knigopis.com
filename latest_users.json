@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 98,
+        "updatedAt": "2018-12-07 10:40:01"
+    },
     "44904905-vkontakte": {
         "id": "44904905-vkontakte",
         "nickname": "valikhanp",
@@ -172,11 +178,5 @@
         "nickname": "Jonash",
         "booksCount": 0,
         "updatedAt": "2018-11-28 11:07:16"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 59,
-        "updatedAt": "2018-11-28 08:45:25"
     }
 }
