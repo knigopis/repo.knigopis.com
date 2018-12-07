@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[valikhanp](users/449/44904905-vkontakte)<sup>0</sup> 
 [Aleks](users/483/48371894-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>675</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>115</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [denser](users/100/100392194383735458813-google)<sup>0</sup> 
 [Jonash](users/105/105002693864893-facebook)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>59</sup> 
-[aaz_](users/102/102095378349287834268-google)<sup>0</sup> 
 
 
-_06.12.2018 19:51:26_
+_07.12.2018 09:17:33_
