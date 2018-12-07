@@ -1,4 +1,10 @@
 {
+    "225880893-vkontakte": {
+        "id": "225880893-vkontakte",
+        "nickname": "Артур Вольнов",
+        "booksCount": 19,
+        "updatedAt": "2018-12-07 22:59:34"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "denser",
         "booksCount": 0,
         "updatedAt": "2018-11-28 11:23:03"
-    },
-    "105002693864893-facebook": {
-        "id": "105002693864893-facebook",
-        "nickname": "Jonash",
-        "booksCount": 0,
-        "updatedAt": "2018-11-28 11:07:16"
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>19</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>98</sup> 
 [valikhanp](users/449/44904905-vkontakte)<sup>0</sup> 
 [Aleks](users/483/48371894-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>13</sup> 
 [komelfo](users/112/112876960272897812283-google)<sup>0</sup> 
 [denser](users/100/100392194383735458813-google)<sup>0</sup> 
-[Jonash](users/105/105002693864893-facebook)<sup>0</sup> 
 
 
-_07.12.2018 10:40:01_
+_07.12.2018 22:59:35_
