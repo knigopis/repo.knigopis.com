@@ -1,4 +1,10 @@
 {
+    "45043410-vkontakte": {
+        "id": "45043410-vkontakte",
+        "nickname": "leaderom",
+        "booksCount": 0,
+        "updatedAt": "2018-12-08 01:38:15"
+    },
     "225880893-vkontakte": {
         "id": "225880893-vkontakte",
         "nickname": "Артур Вольнов",
@@ -172,11 +178,5 @@
         "nickname": "komelfo",
         "booksCount": 0,
         "updatedAt": "2018-11-29 05:48:57"
-    },
-    "100392194383735458813-google": {
-        "id": "100392194383735458813-google",
-        "nickname": "denser",
-        "booksCount": 0,
-        "updatedAt": "2018-11-28 11:23:03"
     }
 }
