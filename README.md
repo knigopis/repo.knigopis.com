@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>676</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>677</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>6</sup> 
 [YUrij](users/108/108412189296732059814-google)<sup>0</sup> 
 [leaderom](users/450/45043410-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>13</sup> 
 
 
-_08.12.2018 18:13:54_
+_08.12.2018 21:22:57_

@@ -1,4 +1,16 @@
 {
+    "Fgsf1bKclc": {
+        "id": "Fgsf1bKclc",
+        "title": "Рубашка",
+        "author": "Евгений Гришковец",
+        "notes": "",
+        "createdAt": "2018-12-08 21:22:56",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 677
+        }
+    },
     "gHHROPEVWV": {
         "id": "gHHROPEVWV",
         "title": "Чайная книга",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 674
-        }
-    },
-    "9lumzb1vLg": {
-        "id": "9lumzb1vLg",
-        "title": "Посвящение Рэю Брэдбери",
-        "author": "Роман Рогов",
-        "notes": "https://vk.com/@galleryfuture-posvyaschenie-reu-bredberi",
-        "createdAt": "2018-11-30 21:12:16",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 13
         }
     }
 }
