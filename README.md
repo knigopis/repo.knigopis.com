@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>676</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>6</sup> 
 [YUrij](users/108/108412189296732059814-google)<sup>0</sup> 
 [leaderom](users/450/45043410-vkontakte)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>98</sup> 
 [valikhanp](users/449/44904905-vkontakte)<sup>0</sup> 
 [Aleks](users/483/48371894-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>675</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>115</sup> 
 [idharin](users/207/20762954-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>13</sup> 
 
 
-_08.12.2018 15:19:57_
+_08.12.2018 18:13:54_

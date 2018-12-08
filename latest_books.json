@@ -1,4 +1,16 @@
 {
+    "gHHROPEVWV": {
+        "id": "gHHROPEVWV",
+        "title": "Чайная книга",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2018-12-08 18:13:53",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 676
+        }
+    },
     "ey0BVwCaA6": {
         "id": "ey0BVwCaA6",
         "title": "Беседы о диалектике",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 13
-        }
-    },
-    "myQmzmDptz": {
-        "id": "myQmzmDptz",
-        "title": "Пять травм, которые мешают быть самим собой",
-        "author": "Лиз Бурбо",
-        "notes": "",
-        "createdAt": "2018-11-30 19:44:16",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 231
         }
     }
 }
