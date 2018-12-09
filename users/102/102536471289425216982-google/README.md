@@ -1,4 +1,4 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>13</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>14</sup>
 ---
 
 ## 2018
@@ -51,6 +51,11 @@ BARBERY Muriel
 ### Ты - богиня. Как сводить мужчин с ума
 ФОРЛЕО Мари
 > [2018-06] 
+
+
+### Как роман
+ПЕННАК Даниэль
+> [2018-05-31] 
 
 
 ### Похитители бриллиантов

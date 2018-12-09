@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>14</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>677</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>6</sup> 
 [YUrij](users/108/108412189296732059814-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ольга ](users/222/22240417-vkontakte)<sup>39</sup> 
 [Makoi](users/166/166726857-vkontakte)<sup>2</sup> 
 [ComeSomeAll](users/544/544940552621006-facebook)<sup>0</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>13</sup> 
 
 
-_08.12.2018 21:22:57_
+_09.12.2018 00:56:46_
