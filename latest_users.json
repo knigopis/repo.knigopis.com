@@ -1,4 +1,10 @@
 {
+    "180542392-vkontakte": {
+        "id": "180542392-vkontakte",
+        "nickname": "zav.96",
+        "booksCount": 0,
+        "updatedAt": "2018-12-09 07:27:59"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -172,11 +178,5 @@
         "nickname": "Makoi",
         "booksCount": 2,
         "updatedAt": "2018-11-29 16:58:21"
-    },
-    "544940552621006-facebook": {
-        "id": "544940552621006-facebook",
-        "nickname": "ComeSomeAll",
-        "booksCount": 0,
-        "updatedAt": "2018-11-29 14:36:35"
     }
 }
