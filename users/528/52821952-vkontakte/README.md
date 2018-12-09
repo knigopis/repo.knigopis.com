@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>98</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>99</sup>
 ---
 
 ## 2018
+
+### Собачье сердце
+Михаил Булгаков
+> [2018-12-09] 8,5/10
+
 
 ### Понедельник начинается в субботу
 Аркадий и Борис Стругацкие

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Собачье сердце ~ [Apprentice ](users/528/52821952-vkontakte)<sup>99</sup>
+    > 8,5/10
+
 * Беседы о диалектике ~ [Asiar](users/115/115902526849562271887-google)<sup>6</sup>
     > Диалектично. Сначала автор что то утверждает, вроде всеобщности законов развития, а затем громит как эклектику и идеализм
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10
 
 * Майя Фокс. Начало ~ [Александр Погодин](users/625/6259590452259030261-mailru)<sup>9</sup>
-    > Книга о 17-летней девушке Майе, которая потеряла своего отца. Психопат, убивший ее отца вырвался на свободу и решил убить Майю, как наказание для ее матери Меган. Книга написана очень легко и читается на ура. Именно это и смущало меня всю книгу. В конце книги, в примечаниях я увидел истинную причину моего смущения) Книга как оказалось предназначена для среднего и старшего школьного возраста!) Книга и правда написана именно для подростков и скорее всего именно для девочек. Здесь и подростковое неприятие опеки родителей, и первая любовь, и близкие подруги... Девочки, я думаю вам эта книга, а скорее всего и все книги о Майе вам понравятся)
 
 * Леди не движется - 2 ~ [Александр Погодин](users/625/6259590452259030261-mailru)<sup>8</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Суворов и казаки в Италии ~ [mfevralev](users/140/140966150-vkontakte)<sup>36</sup>
 
-* Посвящение Рэю Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>99</sup> 
 [repkin81](users/107/107838184695967300213-google)<sup>0</sup> 
 [fir137](users/176/176805114-yandex)<sup>3</sup> 
 [zav.96](users/180/180542392-vkontakte)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [YUrij](users/108/108412189296732059814-google)<sup>0</sup> 
 [leaderom](users/450/45043410-vkontakte)<sup>0</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>19</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>98</sup> 
 [valikhanp](users/449/44904905-vkontakte)<sup>0</sup> 
 [Aleks](users/483/48371894-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>115</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ксения](users/107/107312597267727612108-google)<sup>12</sup> 
 
 
-_09.12.2018 12:58:15_
+_09.12.2018 13:17:28_

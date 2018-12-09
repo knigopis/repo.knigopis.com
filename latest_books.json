@@ -1,4 +1,16 @@
 {
+    "JTjWGxqnZ8": {
+        "id": "JTjWGxqnZ8",
+        "title": "Собачье сердце",
+        "author": "Михаил Булгаков",
+        "notes": "8,5/10",
+        "createdAt": "2018-12-09 13:17:28",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 99
+        }
+    },
     "NobWcQekfq": {
         "id": "NobWcQekfq",
         "title": "X",
@@ -345,18 +357,6 @@
             "id": "110249645760586356722-google",
             "nickname": "AngelXL",
             "booksCount": 3
-        }
-    },
-    "bNCAB08EKn": {
-        "id": "bNCAB08EKn",
-        "title": "Римский орел",
-        "author": "Мазин Александр Владимирович",
-        "notes": "",
-        "createdAt": "2018-12-01 21:57:14",
-        "user": {
-            "id": "110249645760586356722-google",
-            "nickname": "AngelXL",
-            "booksCount": 2
         }
     }
 }
