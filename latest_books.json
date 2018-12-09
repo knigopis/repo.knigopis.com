@@ -1,4 +1,16 @@
 {
+    "8i_DzNeqJx": {
+        "id": "8i_DzNeqJx",
+        "title": "Хладнокровное убийство",
+        "author": "Капо́те Тру́мен Гарси́я",
+        "notes": "",
+        "createdAt": "2018-12-09 13:21:12",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 4
+        }
+    },
     "JTjWGxqnZ8": {
         "id": "JTjWGxqnZ8",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 337
-        }
-    },
-    "BVF-7MkCuP": {
-        "id": "BVF-7MkCuP",
-        "title": "Цена империи",
-        "author": "Мазин Александр Владимирович",
-        "notes": "",
-        "createdAt": "2018-12-01 21:57:35",
-        "user": {
-            "id": "110249645760586356722-google",
-            "nickname": "AngelXL",
-            "booksCount": 3
         }
     }
 }

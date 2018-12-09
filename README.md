@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>4</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>99</sup> 
 [repkin81](users/107/107838184695967300213-google)<sup>0</sup> 
-[fir137](users/176/176805114-yandex)<sup>3</sup> 
 [zav.96](users/180/180542392-vkontakte)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>14</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>677</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ксения](users/107/107312597267727612108-google)<sup>12</sup> 
 
 
-_09.12.2018 13:17:28_
+_09.12.2018 13:21:12_
