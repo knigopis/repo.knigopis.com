@@ -1,4 +1,16 @@
 {
+    "NobWcQekfq": {
+        "id": "NobWcQekfq",
+        "title": "X",
+        "author": "Кристи Агата",
+        "notes": "",
+        "createdAt": "2018-12-09 08:55:20",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 3
+        }
+    },
     "4XNn2LXYht": {
         "id": "4XNn2LXYht",
         "title": "Как роман",
@@ -345,18 +357,6 @@
             "id": "110249645760586356722-google",
             "nickname": "AngelXL",
             "booksCount": 2
-        }
-    },
-    "1MmjGy9W4n": {
-        "id": "1MmjGy9W4n",
-        "title": "Варвары",
-        "author": "Мазин Александр Владимирович",
-        "notes": "",
-        "createdAt": "2018-12-01 21:56:54",
-        "user": {
-            "id": "110249645760586356722-google",
-            "nickname": "AngelXL",
-            "booksCount": 1
         }
     }
 }
