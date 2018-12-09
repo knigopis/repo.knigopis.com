@@ -1,4 +1,10 @@
 {
+    "117662687202998325024-google": {
+        "id": "117662687202998325024-google",
+        "nickname": "dvolkhonskiy",
+        "booksCount": 0,
+        "updatedAt": "2018-12-09 13:28:39"
+    },
     "176805114-yandex": {
         "id": "176805114-yandex",
         "nickname": "fir137",
@@ -172,11 +178,5 @@
         "nickname": "Anastasia",
         "booksCount": 0,
         "updatedAt": "2018-11-30 16:14:05"
-    },
-    "107312597267727612108-google": {
-        "id": "107312597267727612108-google",
-        "nickname": "Ксения",
-        "booksCount": 12,
-        "updatedAt": "2018-11-30 13:48:46"
     }
 }
