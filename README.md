@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[repkin81](users/107/107838184695967300213-google)<sup>0</sup> 
 [fir137](users/176/176805114-yandex)<sup>3</sup> 
 [zav.96](users/180/180542392-vkontakte)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>14</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>200</sup> 
 [Anastasia](users/135/1351730041518487-facebook)<sup>0</sup> 
 [Ксения](users/107/107312597267727612108-google)<sup>12</sup> 
-[Ольга ](users/222/22240417-vkontakte)<sup>39</sup> 
 
 
-_09.12.2018 08:55:20_
+_09.12.2018 12:58:15_
