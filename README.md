@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Загадочный противник ~ [fir137](users/176/176805114-yandex)<sup>6</sup>
+    > Динамично захватывающе
+
 * Почему никто не рассказал мне это в 20? ~ [darb_el](users/184/184135339-vkontakte)<sup>19</sup>
     > Неплохие примеры, но в целом обычная книга про то, как быть успешным.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8,5/10
 
 * Беседы о диалектике ~ [Asiar](users/115/115902526849562271887-google)<sup>6</sup>
-    > Диалектично. Сначала автор что то утверждает, вроде всеобщности законов развития, а затем громит как эклектику и идеализм
 
 * Понедельник начинается в субботу ~ [Apprentice ](users/528/52821952-vkontakte)<sup>98</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>90</sup>
 
-* Вегетарианка ~ [Sky](users/118/118049897850017649660-google)<sup>112</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>6</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>68</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>20</sup> 
 [dvolkhonskiy](users/117/117662687202998325024-google)<sup>0</sup> 
-[fir137](users/176/176805114-yandex)<sup>5</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>99</sup> 
 [repkin81](users/107/107838184695967300213-google)<sup>0</sup> 
 [zav.96](users/180/180542392-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup> 
 
 
-_10.12.2018 19:07:35_
+_10.12.2018 21:24:50_

@@ -1,4 +1,16 @@
 {
+    "FcaH-Tb7p3": {
+        "id": "FcaH-Tb7p3",
+        "title": "Загадочный противник",
+        "author": "Кристи Агата",
+        "notes": "Динамично захватывающе",
+        "createdAt": "2018-12-10 21:24:50",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 6
+        }
+    },
     "7PzpyUF-cg": {
         "id": "7PzpyUF-cg",
         "title": "Linkin Park. Руководство пользователя",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 36
-        }
-    },
-    "Fpbmt_SzUT": {
-        "id": "Fpbmt_SzUT",
-        "title": "Мы",
-        "author": "Евгений Замятин",
-        "notes": "",
-        "createdAt": "2018-12-02 23:26:11",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 232
         }
     }
 }
