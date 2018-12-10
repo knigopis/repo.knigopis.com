@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Почему никто не рассказал мне это в 20? ~ [darb_el](users/184/184135339-vkontakte)<sup>19</sup>
+    > Неплохие примеры, но в целом обычная книга про то, как быть успешным.
+
 * Собачье сердце ~ [Apprentice ](users/528/52821952-vkontakte)<sup>99</sup>
     > 8,5/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Диалектично. Сначала автор что то утверждает, вроде всеобщности законов развития, а затем громит как эклектику и идеализм
 
 * Понедельник начинается в субботу ~ [Apprentice ](users/528/52821952-vkontakte)<sup>98</sup>
-    > 9/10
 
 * Майя Фокс. Начало ~ [Александр Погодин](users/625/6259590452259030261-mailru)<sup>9</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Вегетарианка ~ [Sky](users/118/118049897850017649660-google)<sup>112</sup>
 
-* Суворов и казаки в Италии ~ [mfevralev](users/140/140966150-vkontakte)<sup>36</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darb_el](users/184/184135339-vkontakte)<sup>19</sup> 
 [dvolkhonskiy](users/117/117662687202998325024-google)<sup>0</sup> 
 [fir137](users/176/176805114-yandex)<sup>5</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>99</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AngelXL](users/110/110249645760586356722-google)<sup>3</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>200</sup> 
-[Anastasia](users/135/1351730041518487-facebook)<sup>0</sup> 
 
 
-_09.12.2018 13:28:40_
+_10.12.2018 07:23:37_
