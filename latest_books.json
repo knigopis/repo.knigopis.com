@@ -1,4 +1,16 @@
 {
+    "yihg-XICmF": {
+        "id": "yihg-XICmF",
+        "title": "Метро 2035",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2018-12-10 07:33:30",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 20
+        }
+    },
     "ypKNDJWm0P": {
         "id": "ypKNDJWm0P",
         "title": "Почему никто не рассказал мне это в 20?",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 54
-        }
-    },
-    "hePcbMhG2A": {
-        "id": "hePcbMhG2A",
-        "title": "О",
-        "author": "О",
-        "notes": "",
-        "createdAt": "2018-12-02 10:59:41",
-        "user": {
-            "id": "115902526849562271887-google",
-            "nickname": "Asiar",
-            "booksCount": 6
         }
     }
 }

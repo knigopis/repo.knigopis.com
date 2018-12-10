@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[darb_el](users/184/184135339-vkontakte)<sup>19</sup> 
+[darb_el](users/184/184135339-vkontakte)<sup>20</sup> 
 [dvolkhonskiy](users/117/117662687202998325024-google)<sup>0</sup> 
 [fir137](users/176/176805114-yandex)<sup>5</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>99</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>200</sup> 
 
 
-_10.12.2018 07:23:37_
+_10.12.2018 07:33:30_
