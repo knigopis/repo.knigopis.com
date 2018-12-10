@@ -1,4 +1,16 @@
 {
+    "7PzpyUF-cg": {
+        "id": "7PzpyUF-cg",
+        "title": "Linkin Park. Руководство пользователя",
+        "author": "Нил Дэниелс",
+        "notes": "",
+        "createdAt": "2018-12-10 19:07:34",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 68
+        }
+    },
     "yihg-XICmF": {
         "id": "yihg-XICmF",
         "title": "Метро 2035",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 232
-        }
-    },
-    "k9G90qQgua": {
-        "id": "k9G90qQgua",
-        "title": "Подвешенный язык",
-        "author": "Борис Литвак",
-        "notes": "",
-        "createdAt": "2018-12-02 17:06:42",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 54
         }
     }
 }

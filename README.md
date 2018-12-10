@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>68</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>20</sup> 
 [dvolkhonskiy](users/117/117662687202998325024-google)<sup>0</sup> 
 [fir137](users/176/176805114-yandex)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>338</sup> 
 [AngelXL](users/110/110249645760586356722-google)<sup>3</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>200</sup> 
 
 
-_10.12.2018 07:33:30_
+_10.12.2018 19:07:35_

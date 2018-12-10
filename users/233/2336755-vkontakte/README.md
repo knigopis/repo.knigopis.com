@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>67</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>68</sup>
 ---
 
 ## 2018
+
+### Linkin Park. Руководство пользователя
+Нил Дэниелс
+> [2018-12-09] 
+
 
 ### Дерево растет в Бруклине
 Бетти Смит
