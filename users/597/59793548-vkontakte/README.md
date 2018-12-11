@@ -1,7 +1,11 @@
-# List of books read by [anyutka_karpan](http://vk.com/id59793548)<sup>6</sup>
+# List of books read by [anyutka_karpan](http://vk.com/id59793548)<sup>7</sup>
 ---
 
 ## 2018
+
+### Мефодий Буслаев. Лед и пламя Тартара
+Дмитрий Емец
+
 
 ### Мефодий Буслаев. Тайная магия Депресняка
 Дмитрий Емец

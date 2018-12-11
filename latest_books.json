@@ -1,4 +1,16 @@
 {
+    "WRbdmRdGaT": {
+        "id": "WRbdmRdGaT",
+        "title": "Мефодий Буслаев. Лед и пламя Тартара",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2018-12-11 14:32:14",
+        "user": {
+            "id": "59793548-vkontakte",
+            "nickname": "anyutka_karpan",
+            "booksCount": 7
+        }
+    },
     "Z9nA6Iz7Pk": {
         "id": "Z9nA6Iz7Pk",
         "title": "Мефодий Буслаев. Тайная магия Депресняка",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 143
-        }
-    },
-    "TvVMsO7iOT": {
-        "id": "TvVMsO7iOT",
-        "title": "",
-        "author": "Марк Лутц",
-        "notes": "",
-        "createdAt": "2018-12-04 19:02:18",
-        "user": {
-            "id": "111832227548183917963-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
