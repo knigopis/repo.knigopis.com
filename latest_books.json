@@ -1,4 +1,16 @@
 {
+    "AeRVStLEc5": {
+        "id": "AeRVStLEc5",
+        "title": "Мефодий Буслаев. Месть валькирий",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2018-12-11 14:28:46",
+        "user": {
+            "id": "59793548-vkontakte",
+            "nickname": "anyutka_karpan",
+            "booksCount": 5
+        }
+    },
     "hLS2HSPeNV": {
         "id": "hLS2HSPeNV",
         "title": "Мефодий Буслаев. Билет на Лысую гору",
@@ -341,18 +353,6 @@
         "author": "Солженицын А.С.",
         "notes": "",
         "createdAt": "2018-12-04 18:23:06",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 91
-        }
-    },
-    "5CeqxT18hp": {
-        "id": "5CeqxT18hp",
-        "title": "The Man in the High Castle",
-        "author": "Philip K. Dick",
-        "notes": "ASIN: B005MZN2B2",
-        "createdAt": "2018-12-04 18:19:42",
         "user": {
             "id": "100599204551896265722-google",
             "nickname": "exulted",
