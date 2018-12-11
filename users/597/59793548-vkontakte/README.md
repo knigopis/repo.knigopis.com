@@ -1,7 +1,11 @@
-# List of books read by [anyutka_karpan](http://vk.com/id59793548)<sup>2</sup>
+# List of books read by [anyutka_karpan](http://vk.com/id59793548)<sup>3</sup>
 ---
 
 ## 2018
+
+### Мефодий Буслаев. Третий всадник мрака
+Дмитрий Емец
+
 
 ### Мефодий Буслаев. Свиток желаний
 Дмитрий Емец
