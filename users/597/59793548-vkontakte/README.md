@@ -1,7 +1,11 @@
-# List of books read by [anyutka_karpan](http://vk.com/id59793548)<sup>5</sup>
+# List of books read by [anyutka_karpan](http://vk.com/id59793548)<sup>6</sup>
 ---
 
 ## 2018
+
+### Мефодий Буслаев. Тайная магия Депресняка
+Дмитрий Емец
+
 
 ### Мефодий Буслаев. Месть валькирий
 Дмитрий Емец
