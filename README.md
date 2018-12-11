@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кафе на краю земли ~ [youno](users/302/302928912-vkontakte)<sup>17</sup>
+    > Хорошая книга
+
 * Загадочный противник ~ [fir137](users/176/176805114-yandex)<sup>6</sup>
     > Динамично захватывающе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Неплохие примеры, но в целом обычная книга про то, как быть успешным.
 
 * Собачье сердце ~ [Apprentice ](users/528/52821952-vkontakte)<sup>99</sup>
-    > 8,5/10
 
 * Беседы о диалектике ~ [Asiar](users/115/115902526849562271887-google)<sup>6</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * The Man in the High Castle ~ [exulted](users/100/100599204551896265722-google)<sup>91</sup>
 
-* Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>90</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>17</sup> 
 [fir137](users/176/176805114-yandex)<sup>6</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>68</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>20</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>54</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>338</sup> 
 [AngelXL](users/110/110249645760586356722-google)<sup>3</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup> 
 
 
-_10.12.2018 21:24:50_
+_11.12.2018 10:10:53_

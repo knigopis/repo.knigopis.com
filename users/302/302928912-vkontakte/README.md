@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>16</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>17</sup>
 ---
 
 ## 2018
+
+### Кафе на краю земли
+Джон Стрелки
+> [2018-12-11] Хорошая книга
+
 
 ### Хиппи
 Пауло Коэльо

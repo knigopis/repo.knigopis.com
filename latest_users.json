@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 17,
+        "updatedAt": "2018-12-11 10:10:53"
+    },
     "176805114-yandex": {
         "id": "176805114-yandex",
         "nickname": "fir137",
@@ -172,11 +178,5 @@
         "nickname": "AngelXL",
         "booksCount": 3,
         "updatedAt": "2018-12-01 21:57:35"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 13,
-        "updatedAt": "2018-11-30 21:12:16"
     }
 }

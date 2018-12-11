@@ -1,4 +1,16 @@
 {
+    "HlF3GJWadR": {
+        "id": "HlF3GJWadR",
+        "title": "Кафе на краю земли",
+        "author": "Джон Стрелки",
+        "notes": "Хорошая книга",
+        "createdAt": "2018-12-11 10:10:53",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 17
+        }
+    },
     "FcaH-Tb7p3": {
         "id": "FcaH-Tb7p3",
         "title": "Загадочный противник",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 1
-        }
-    },
-    "VemneQtNKB": {
-        "id": "VemneQtNKB",
-        "title": "Суворов и казаки в Италии",
-        "author": "Вильпиус Х.А",
-        "notes": "Не чего хорошо.",
-        "createdAt": "2018-12-03 08:54:45",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 36
         }
     }
 }
