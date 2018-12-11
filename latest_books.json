@@ -1,4 +1,16 @@
 {
+    "hLS2HSPeNV": {
+        "id": "hLS2HSPeNV",
+        "title": "Мефодий Буслаев. Билет на Лысую гору",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2018-12-11 14:28:23",
+        "user": {
+            "id": "59793548-vkontakte",
+            "nickname": "anyutka_karpan",
+            "booksCount": 4
+        }
+    },
     "0gVAx5efuk": {
         "id": "0gVAx5efuk",
         "title": "Мефодий Буслаев. Третий всадник мрака",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 91
-        }
-    },
-    "hLx19grgE2": {
-        "id": "hLx19grgE2",
-        "title": "Ship of Fools: An Anthology of Learned Nonsense about Primitive Society",
-        "author": "C.R. Hallpike",
-        "notes": "ASIN: B07HX4188K",
-        "createdAt": "2018-12-04 18:18:58",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 90
         }
     }
 }

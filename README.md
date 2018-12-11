@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[anyutka_karpan](users/597/59793548-vkontakte)<sup>3</sup> 
+[anyutka_karpan](users/597/59793548-vkontakte)<sup>4</sup> 
 [youno](users/302/302928912-vkontakte)<sup>17</sup> 
 [fir137](users/176/176805114-yandex)<sup>6</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>68</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>338</sup> 
 
 
-_11.12.2018 14:28:02_
+_11.12.2018 14:28:23_
