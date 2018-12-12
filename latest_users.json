@@ -1,4 +1,10 @@
 {
+    "152488954-vkontakte": {
+        "id": "152488954-vkontakte",
+        "nickname": "kasikandriena",
+        "booksCount": 53,
+        "updatedAt": "2018-12-12 08:32:07"
+    },
     "59793548-vkontakte": {
         "id": "59793548-vkontakte",
         "nickname": "anyutka_karpan",
@@ -172,11 +178,5 @@
         "nickname": "le_brouillard",
         "booksCount": 54,
         "updatedAt": "2018-12-02 17:06:42"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 338,
-        "updatedAt": "2018-12-02 07:32:47"
     }
 }

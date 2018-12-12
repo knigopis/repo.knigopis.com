@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>52</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>53</sup>
 ---
 
 ## 2018
+
+### Возрожденный Дракон (Серия:
+Роберт Джордан
+> [2018-12-12] 
+
 
 ### Великая охота (Серия: Колесо времени 2/14)
 Роберт Джордан

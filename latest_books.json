@@ -1,4 +1,16 @@
 {
+    "gJvoIbOuAZ": {
+        "id": "gJvoIbOuAZ",
+        "title": "Возрожденный Дракон (Серия:",
+        "author": "Роберт Джордан",
+        "notes": "",
+        "createdAt": "2018-12-12 08:32:07",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 53
+        }
+    },
     "WRbdmRdGaT": {
         "id": "WRbdmRdGaT",
         "title": "Мефодий Буслаев. Лед и пламя Тартара",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 114
-        }
-    },
-    "AhtXnHTZKb": {
-        "id": "AhtXnHTZKb",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдинг",
-        "notes": "",
-        "createdAt": "2018-12-05 07:43:07",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 143
         }
     }
 }

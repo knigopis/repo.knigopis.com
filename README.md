@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kasikandriena](users/152/152488954-vkontakte)<sup>53</sup> 
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>7</sup> 
 [youno](users/302/302928912-vkontakte)<sup>17</sup> 
 [fir137](users/176/176805114-yandex)<sup>6</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>36</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>232</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>54</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>338</sup> 
 
 
-_11.12.2018 14:32:14_
+_12.12.2018 08:32:07_
