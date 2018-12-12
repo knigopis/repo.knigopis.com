@@ -1,4 +1,16 @@
 {
+    "aYufsi2mZ-": {
+        "id": "aYufsi2mZ-",
+        "title": "Поребрик из бордюрного камня",
+        "author": "Ольга Лукас",
+        "notes": "",
+        "createdAt": "2018-12-12 17:02:32",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 678
+        }
+    },
     "gJvoIbOuAZ": {
         "id": "gJvoIbOuAZ",
         "title": "Возрожденный Дракон (Серия:",
@@ -345,18 +357,6 @@
             "id": "6259590452259030261-mailru",
             "nickname": "Александр Погодин",
             "booksCount": 7
-        }
-    },
-    "16fywO4TNk": {
-        "id": "16fywO4TNk",
-        "title": "Фрида Кало. Биография в комиксах",
-        "author": "Мария Хессе",
-        "notes": "",
-        "createdAt": "2018-12-05 14:34:21",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 114
         }
     }
 }
