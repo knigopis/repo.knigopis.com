@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Собственник (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>201</sup>
+    > Шикарно описаны нравы английской (и думается не только) буржуазии конца XIX века. Первая прочитанная мной книга Голсуорси - очень понравился стиль, переходы от сатиры и сарказма к трагедии виртуозны.
+
 * Кафе на краю земли ~ [youno](users/302/302928912-vkontakte)<sup>17</sup>
     > Хорошая книга
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Динамично захватывающе
 
 * Почему никто не рассказал мне это в 20? ~ [darb_el](users/184/184135339-vkontakte)<sup>19</sup>
-    > Неплохие примеры, но в целом обычная книга про то, как быть успешным.
 
 * Собачье сердце ~ [Apprentice ](users/528/52821952-vkontakte)<sup>99</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Фалько ~ [Александр Погодин](users/625/6259590452259030261-mailru)<sup>7</sup>
 
-* The Man in the High Castle ~ [exulted](users/100/100599204551896265722-google)<sup>91</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>201</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>144</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>678</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>53</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sybera](users/139/13958783-vkontakte)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>36</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>232</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>54</sup> 
 
 
-_13.12.2018 12:52:19_
+_13.12.2018 17:28:36_
