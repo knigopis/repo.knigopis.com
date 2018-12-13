@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>679</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>201</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>144</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>678</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>53</sup> 
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>7</sup> 
 [youno](users/302/302928912-vkontakte)<sup>17</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>232</sup> 
 
 
-_13.12.2018 17:28:36_
+_13.12.2018 18:49:40_
