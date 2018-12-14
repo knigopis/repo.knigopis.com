@@ -1,7 +1,12 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>14</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>15</sup>
 ---
 
 ## 2018
+
+### Стиль Мадам Шик: секреты французского шарма и безупречных манер
+СКОТТ Дженнифер Л.
+> [2018-12-14] 
+
 
 ### Get the Guy. Как найти и влюбить в себя мужчину твоей мечты
 ХАССИ Мэтью
