@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>7</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>15</sup> 
 [YUrij](users/108/108412189296732059814-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>679</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>53</sup> 
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>7</sup> 
 [youno](users/302/302928912-vkontakte)<sup>17</sup> 
-[fir137](users/176/176805114-yandex)<sup>6</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>68</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>20</sup> 
 [dvolkhonskiy](users/117/117662687202998325024-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>232</sup> 
 
 
-_14.12.2018 16:02:41_
+_14.12.2018 16:25:50_
