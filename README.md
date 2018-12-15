@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[BigKhan](users/117/117259947-yandex)<sup>6</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup> 
 [fir137](users/176/176805114-yandex)<sup>7</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>15</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>91</sup> 
 [Sybera](users/106/106106657896266616567-google)<sup>0</sup> 
 [Sybera](users/139/13958783-vkontakte)<sup>0</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>36</sup> 
 
 
-_15.12.2018 06:38:36_
+_15.12.2018 08:09:09_
