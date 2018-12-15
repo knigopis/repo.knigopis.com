@@ -1,4 +1,16 @@
 {
+    "s7azod2xpf": {
+        "id": "s7azod2xpf",
+        "title": "Час быка",
+        "author": "Иван Евремоф",
+        "notes": "Коммунистическая хрень",
+        "createdAt": "2018-12-15 10:38:28",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 339
+        }
+    },
     "vrHTnJUCKg": {
         "id": "vrHTnJUCKg",
         "title": "🔸️Дом странных детей 1",
@@ -345,18 +357,6 @@
             "id": "115902526849562271887-google",
             "nickname": "Asiar",
             "booksCount": 6
-        }
-    },
-    "6jXx42bGyN": {
-        "id": "6jXx42bGyN",
-        "title": "Империя ангелов",
-        "author": "Берн",
-        "notes": "",
-        "createdAt": "2018-12-07 22:59:34",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 19
         }
     }
 }

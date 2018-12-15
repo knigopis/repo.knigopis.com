@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 339,
+        "updatedAt": "2018-12-15 10:38:28"
+    },
     "117259947-yandex": {
         "id": "117259947-yandex",
         "nickname": "BigKhan",
@@ -172,11 +178,5 @@
         "nickname": "Sybera",
         "booksCount": 0,
         "updatedAt": "2018-12-04 17:08:43"
-    },
-    "13958783-vkontakte": {
-        "id": "13958783-vkontakte",
-        "nickname": "Sybera",
-        "booksCount": 0,
-        "updatedAt": "2018-12-04 16:30:55"
     }
 }
