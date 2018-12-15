@@ -1,4 +1,16 @@
 {
+    "C3j2v-8DVt": {
+        "id": "C3j2v-8DVt",
+        "title": "Хакни рутину",
+        "author": "Али Альмоссави",
+        "notes": "",
+        "createdAt": "2018-12-15 10:39:10",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 340
+        }
+    },
     "s7azod2xpf": {
         "id": "s7azod2xpf",
         "title": "Час быка",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 676
-        }
-    },
-    "ey0BVwCaA6": {
-        "id": "ey0BVwCaA6",
-        "title": "Беседы о диалектике",
-        "author": "Кедров",
-        "notes": "Диалектично. Сначала автор что то утверждает, вроде всеобщности законов развития, а затем громит как эклектику и идеализм",
-        "createdAt": "2018-12-08 15:19:57",
-        "user": {
-            "id": "115902526849562271887-google",
-            "nickname": "Asiar",
-            "booksCount": 6
         }
     }
 }

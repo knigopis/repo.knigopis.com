@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[HXT](users/100/100002563462782-facebook)<sup>339</sup> 
+[HXT](users/100/100002563462782-facebook)<sup>340</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>6</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup> 
 [fir137](users/176/176805114-yandex)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sybera](users/106/106106657896266616567-google)<sup>0</sup> 
 
 
-_15.12.2018 10:38:29_
+_15.12.2018 10:39:10_
