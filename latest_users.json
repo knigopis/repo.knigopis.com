@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 53,
+        "updatedAt": "2018-12-15 06:38:35"
+    },
     "176805114-yandex": {
         "id": "176805114-yandex",
         "nickname": "fir137",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 36,
         "updatedAt": "2018-12-03 08:54:45"
-    },
-    "10848515355906827860-mailru": {
-        "id": "10848515355906827860-mailru",
-        "nickname": "Оля-перекати-поле",
-        "booksCount": 232,
-        "updatedAt": "2018-12-02 23:26:11"
     }
 }

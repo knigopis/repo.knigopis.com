@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>52</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>53</sup>
 ---
 
 ## 2018
+
+### 🔸️Дом странных детей 1
+Рэнсом Ригз
+> [2018-12-15] Повторное чтение
+
 
 ### 🧙🏻‍♂️ Гарри Поттер и Дары Смерти
 Джоан Роулинг
