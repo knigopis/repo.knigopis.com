@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Интерлюдия. Последнее лето Форсайта (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>202</sup>
+    > Название говорит само за себя - последнее лето старого Джолиона Форсайта
+
 * Час быка ~ [HXT](users/100/100002563462782-facebook)<sup>339</sup>
     > Коммунистическая хрень
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Повторное чтение
 
 * Собственник (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>201</sup>
-    > Шикарно описаны нравы английской (и думается не только) буржуазии конца XIX века. Первая прочитанная мной книга Голсуорси - очень понравился стиль, переходы от сатиры и сарказма к трагедии виртуозны.
 
 * Кафе на краю земли ~ [youno](users/302/302928912-vkontakte)<sup>17</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Понедельник начинается в субботу ~ [Apprentice ](users/528/52821952-vkontakte)<sup>98</sup>
 
-* Майя Фокс. Начало ~ [Александр Погодин](users/625/6259590452259030261-mailru)<sup>9</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>202</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>340</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>6</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>15</sup> 
 [YUrij](users/108/108412189296732059814-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>679</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>201</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>144</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>53</sup> 
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sybera](users/106/106106657896266616567-google)<sup>0</sup> 
 
 
-_15.12.2018 10:39:10_
+_15.12.2018 17:06:33_
