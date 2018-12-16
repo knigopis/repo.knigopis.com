@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>54</sup> 
 [shibito_kun](users/108/108836037074542338532-google)<sup>1</sup> 
 [fir137](users/176/176805114-yandex)<sup>8</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>202</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>2</sup> 
 [Александр Погодин](users/625/6259590452259030261-mailru)<sup>9</sup> 
 [](users/111/111832227548183917963-google)<sup>1</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>91</sup> 
 
 
-_16.12.2018 17:08:37_
+_16.12.2018 18:58:19_
