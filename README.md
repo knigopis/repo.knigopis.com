@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[shibito_kun](users/108/108836037074542338532-google)<sup>0</sup> 
+[shibito_kun](users/108/108836037074542338532-google)<sup>1</sup> 
 [fir137](users/176/176805114-yandex)<sup>8</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>202</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>340</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>91</sup> 
 
 
-_16.12.2018 17:07:33_
+_16.12.2018 17:08:37_
