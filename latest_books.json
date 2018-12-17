@@ -1,4 +1,16 @@
 {
+    "8n5Ty84tYD": {
+        "id": "8n5Ty84tYD",
+        "title": "Личная власть",
+        "author": "Николай Мрочковский",
+        "notes": "",
+        "createdAt": "2018-12-17 00:36:37",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 14
+        }
+    },
     "mGmy0oC42B": {
         "id": "mGmy0oC42B",
         "title": "Искусство управлять своим временем",
@@ -345,18 +357,6 @@
             "id": "59793548-vkontakte",
             "nickname": "anyutka_karpan",
             "booksCount": 7
-        }
-    },
-    "Z9nA6Iz7Pk": {
-        "id": "Z9nA6Iz7Pk",
-        "title": "Мефодий Буслаев. Тайная магия Депресняка",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2018-12-11 14:29:15",
-        "user": {
-            "id": "59793548-vkontakte",
-            "nickname": "anyutka_karpan",
-            "booksCount": 6
         }
     }
 }
