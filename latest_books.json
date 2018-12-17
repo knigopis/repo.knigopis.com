@@ -1,4 +1,16 @@
 {
+    "fvvrovI-Hx": {
+        "id": "fvvrovI-Hx",
+        "title": "99 франков",
+        "author": "Фредерик Бэгбедер",
+        "notes": "",
+        "createdAt": "2018-12-17 00:34:47",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 11
+        }
+    },
     "ABP1rZb40D": {
         "id": "ABP1rZb40D",
         "title": "Самоучитель для гения. Как раскрыть свои таланты",
@@ -345,18 +357,6 @@
             "id": "59793548-vkontakte",
             "nickname": "anyutka_karpan",
             "booksCount": 4
-        }
-    },
-    "0gVAx5efuk": {
-        "id": "0gVAx5efuk",
-        "title": "Мефодий Буслаев. Третий всадник мрака",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2018-12-11 14:28:02",
-        "user": {
-            "id": "59793548-vkontakte",
-            "nickname": "anyutka_karpan",
-            "booksCount": 3
         }
     }
 }
