@@ -1,4 +1,16 @@
 {
+    "HyE74avQ1p": {
+        "id": "HyE74avQ1p",
+        "title": "Dedline. Роман об управлении проектами",
+        "author": "Том ДеМарко",
+        "notes": "",
+        "createdAt": "2018-12-17 00:32:01",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 8
+        }
+    },
     "qV10QE1pEM": {
         "id": "qV10QE1pEM",
         "title": "Марк Цукерберг. Правила успеха",
@@ -345,18 +357,6 @@
             "id": "59793548-vkontakte",
             "nickname": "anyutka_karpan",
             "booksCount": 1
-        }
-    },
-    "HlF3GJWadR": {
-        "id": "HlF3GJWadR",
-        "title": "Кафе на краю земли",
-        "author": "Джон Стрелки",
-        "notes": "Хорошая книга",
-        "createdAt": "2018-12-11 10:10:53",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 17
         }
     }
 }
