@@ -1,4 +1,16 @@
 {
+    "YDJ7mvP6k8": {
+        "id": "YDJ7mvP6k8",
+        "title": "Лёгкий способ перестать откладывать дела на потом",
+        "author": "Нейл Фьоре",
+        "notes": "",
+        "createdAt": "2018-12-17 00:41:29",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 17
+        }
+    },
     "OFBtjFi_Az": {
         "id": "OFBtjFi_Az",
         "title": "Как завоевывать друзей и оказывать влияние на людей",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 144
-        }
-    },
-    "aYufsi2mZ-": {
-        "id": "aYufsi2mZ-",
-        "title": "Поребрик из бордюрного камня",
-        "author": "Ольга Лукас",
-        "notes": "",
-        "createdAt": "2018-12-12 17:02:32",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 678
         }
     }
 }
