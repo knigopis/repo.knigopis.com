@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>45</sup>
+# List of books read by inna.besprozvannykh<sup>46</sup>
 ---
 
 ## 2018
+
+### Прощай, оружие!
+Эрнест Хемингуэй
+> [2018-12-12] 
+
 
 ### Гарри потер и методы рационального мышления
 Элиезер Юдковский

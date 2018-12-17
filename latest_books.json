@@ -1,4 +1,16 @@
 {
+    "XWwF3hN0Py": {
+        "id": "XWwF3hN0Py",
+        "title": "Прощай, оружие!",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2018-12-17 11:19:01",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 46
+        }
+    },
     "YDJ7mvP6k8": {
         "id": "YDJ7mvP6k8",
         "title": "Лёгкий способ перестать откладывать дела на потом",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 201
-        }
-    },
-    "xcAMvrUaln": {
-        "id": "xcAMvrUaln",
-        "title": "Повесть о двух городах",
-        "author": "Чарльз Диккенс",
-        "notes": "",
-        "createdAt": "2018-12-13 12:52:19",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 144
         }
     }
 }

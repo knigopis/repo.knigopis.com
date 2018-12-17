@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>46</sup> 
 [](users/104/104289450206538776186-googleplus)<sup>17</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>54</sup> 
 [shibito_kun](users/108/108836037074542338532-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>115</sup> 
 [idharin](users/207/20762954-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>2</sup> 
-[Александр Погодин](users/625/6259590452259030261-mailru)<sup>9</sup> 
 
 
-_17.12.2018 00:41:29_
+_17.12.2018 11:19:01_
