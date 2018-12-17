@@ -1,4 +1,16 @@
 {
+    "qV10QE1pEM": {
+        "id": "qV10QE1pEM",
+        "title": "Марк Цукерберг. Правила успеха",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-12-17 00:31:16",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 7
+        }
+    },
     "ueRPAZMFss": {
         "id": "ueRPAZMFss",
         "title": "Илон Маск. Правиоа успеха",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 17
-        }
-    },
-    "FcaH-Tb7p3": {
-        "id": "FcaH-Tb7p3",
-        "title": "Загадочный противник",
-        "author": "Кристи Агата",
-        "notes": "Динамично захватывающе",
-        "createdAt": "2018-12-10 21:24:50",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 6
         }
     }
 }
