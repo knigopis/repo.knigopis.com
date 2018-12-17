@@ -1,4 +1,16 @@
 {
+    "SxzAznExuX": {
+        "id": "SxzAznExuX",
+        "title": "Самодисциплина. Развитие личности",
+        "author": "Майкл Уилсон",
+        "notes": "",
+        "createdAt": "2018-12-17 00:35:14",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 12
+        }
+    },
     "fvvrovI-Hx": {
         "id": "fvvrovI-Hx",
         "title": "99 франков",
@@ -345,18 +357,6 @@
             "id": "59793548-vkontakte",
             "nickname": "anyutka_karpan",
             "booksCount": 5
-        }
-    },
-    "hLS2HSPeNV": {
-        "id": "hLS2HSPeNV",
-        "title": "Мефодий Буслаев. Билет на Лысую гору",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2018-12-11 14:28:23",
-        "user": {
-            "id": "59793548-vkontakte",
-            "nickname": "anyutka_karpan",
-            "booksCount": 4
         }
     }
 }
