@@ -1,4 +1,16 @@
 {
+    "75yhNuCf5y": {
+        "id": "75yhNuCf5y",
+        "title": "Закончи то, что начал. Как доводить дела до конца",
+        "author": "Джон Эйкафф",
+        "notes": "",
+        "createdAt": "2018-12-17 00:26:42",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "XBz6houS7L": {
         "id": "XBz6houS7L",
         "title": "Тонкое искусство пофигизма",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 5
-        }
-    },
-    "8i_DzNeqJx": {
-        "id": "8i_DzNeqJx",
-        "title": "Хладнокровное убийство",
-        "author": "Капо́те Тру́мен Гарси́я",
-        "notes": "",
-        "createdAt": "2018-12-09 13:21:12",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 4
         }
     }
 }
