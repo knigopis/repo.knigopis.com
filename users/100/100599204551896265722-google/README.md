@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>91</sup>
+# Список прочитанных книг пользователя exulted<sup>92</sup>
 ---
 
 ## 2018
+
+### The Prodigal Tongue: The Love-Hate Relationship Between American and British English
+Lynn Murphy
+> [2018-12-10] ASIN: B073YTS4KH
+
 
 ### Двести лет вместе. Часть II. В советское время
 Солженицын А.С.

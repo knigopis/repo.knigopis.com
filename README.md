@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Prodigal Tongue: The Love-Hate Relationship Between American and British English ~ [exulted](users/100/100599204551896265722-google)<sup>92</sup>
+    > ASIN: B073YTS4KH
+
 * Интерлюдия. Последнее лето Форсайта (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>202</sup>
     > Название говорит само за себя - последнее лето старого Джолиона Форсайта
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Коммунистическая хрень
 
 * 🔸️Дом странных детей 1 ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup>
-    > Повторное чтение
 
 * Собственник (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>201</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Беседы о диалектике ~ [Asiar](users/115/115902526849562271887-google)<sup>6</sup>
 
-* Понедельник начинается в субботу ~ [Apprentice ](users/528/52821952-vkontakte)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>92</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>46</sup> 
 [](users/104/104289450206538776186-googleplus)<sup>17</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>54</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleks](users/483/48371894-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>115</sup> 
 [idharin](users/207/20762954-vkontakte)<sup>0</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>2</sup> 
 
 
-_17.12.2018 11:19:01_
+_17.12.2018 19:25:16_

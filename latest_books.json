@@ -1,4 +1,16 @@
 {
+    "wXkvOlSyXX": {
+        "id": "wXkvOlSyXX",
+        "title": "The Prodigal Tongue: The Love-Hate Relationship Between American and British English",
+        "author": "Lynn Murphy",
+        "notes": "ASIN: B073YTS4KH",
+        "createdAt": "2018-12-17 19:25:16",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 92
+        }
+    },
     "XWwF3hN0Py": {
         "id": "XWwF3hN0Py",
         "title": "Прощай, оружие!",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 679
-        }
-    },
-    "e5WiFmy3cc": {
-        "id": "e5WiFmy3cc",
-        "title": "Собственник (Сага о Форсайтах)",
-        "author": "Голсуорси, Джон",
-        "notes": "Шикарно описаны нравы английской (и думается не только) буржуазии конца XIX века. Первая прочитанная мной книга Голсуорси - очень понравился стиль, переходы от сатиры и сарказма к трагедии виртуозны.",
-        "createdAt": "2018-12-13 17:28:35",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 201
         }
     }
 }
