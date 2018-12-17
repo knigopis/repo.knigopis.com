@@ -1,4 +1,16 @@
 {
+    "MXtvEooCwP": {
+        "id": "MXtvEooCwP",
+        "title": "Убийство на улице Морг",
+        "author": "Эдгар Алан По",
+        "notes": "",
+        "createdAt": "2018-12-17 00:27:24",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "75yhNuCf5y": {
         "id": "75yhNuCf5y",
         "title": "Закончи то, что начал. Как доводить дела до конца",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 19
-        }
-    },
-    "8P46Y3uNDO": {
-        "id": "8P46Y3uNDO",
-        "title": "Парфюмер. История одного убийцы",
-        "author": "Зюскинд Патрик",
-        "notes": "",
-        "createdAt": "2018-12-09 13:22:45",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 5
         }
     }
 }
