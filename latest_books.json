@@ -1,4 +1,16 @@
 {
+    "ueRPAZMFss": {
+        "id": "ueRPAZMFss",
+        "title": "Илон Маск. Правиоа успеха",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-12-17 00:30:43",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "qPLi9ZZAPd": {
         "id": "qPLi9ZZAPd",
         "title": "Стив Джобс. Дико крутой",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 6
-        }
-    },
-    "7PzpyUF-cg": {
-        "id": "7PzpyUF-cg",
-        "title": "Linkin Park. Руководство пользователя",
-        "author": "Нил Дэниелс",
-        "notes": "",
-        "createdAt": "2018-12-10 19:07:34",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 68
         }
     }
 }
