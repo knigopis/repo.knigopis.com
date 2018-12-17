@@ -1,4 +1,16 @@
 {
+    "qPLi9ZZAPd": {
+        "id": "qPLi9ZZAPd",
+        "title": "Стив Джобс. Дико крутой",
+        "author": "Джесси Хартленд",
+        "notes": "",
+        "createdAt": "2018-12-17 00:30:25",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 5
+        }
+    },
     "-sp0yJVyGu": {
         "id": "-sp0yJVyGu",
         "title": "Александр МакКуин. Кровь под кожей",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 68
-        }
-    },
-    "yihg-XICmF": {
-        "id": "yihg-XICmF",
-        "title": "Метро 2035",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2018-12-10 07:33:30",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 20
         }
     }
 }
