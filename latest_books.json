@@ -1,4 +1,16 @@
 {
+    "XBz6houS7L": {
+        "id": "XBz6houS7L",
+        "title": "Тонкое искусство пофигизма",
+        "author": "Марк Мэнсон",
+        "notes": "",
+        "createdAt": "2018-12-17 00:25:00",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "9ek-xkHbCz": {
         "id": "9ek-xkHbCz",
         "title": "Дом, в котором...",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 4
-        }
-    },
-    "JTjWGxqnZ8": {
-        "id": "JTjWGxqnZ8",
-        "title": "Собачье сердце",
-        "author": "Михаил Булгаков",
-        "notes": "8,5/10",
-        "createdAt": "2018-12-09 13:17:28",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 99
         }
     }
 }
