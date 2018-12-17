@@ -1,4 +1,16 @@
 {
+    "mGmy0oC42B": {
+        "id": "mGmy0oC42B",
+        "title": "Искусство управлять своим временем",
+        "author": "Бодо Шефер",
+        "notes": "",
+        "createdAt": "2018-12-17 00:35:41",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 13
+        }
+    },
     "SxzAznExuX": {
         "id": "SxzAznExuX",
         "title": "Самодисциплина. Развитие личности",
@@ -345,18 +357,6 @@
             "id": "59793548-vkontakte",
             "nickname": "anyutka_karpan",
             "booksCount": 6
-        }
-    },
-    "AeRVStLEc5": {
-        "id": "AeRVStLEc5",
-        "title": "Мефодий Буслаев. Месть валькирий",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2018-12-11 14:28:46",
-        "user": {
-            "id": "59793548-vkontakte",
-            "nickname": "anyutka_karpan",
-            "booksCount": 5
         }
     }
 }
