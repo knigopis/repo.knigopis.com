@@ -1,4 +1,16 @@
 {
+    "RRZBPdi_Fb": {
+        "id": "RRZBPdi_Fb",
+        "title": "50 событий изменивших мир",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-12-17 00:37:47",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 15
+        }
+    },
     "8n5Ty84tYD": {
         "id": "8n5Ty84tYD",
         "title": "Личная власть",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 53
-        }
-    },
-    "WRbdmRdGaT": {
-        "id": "WRbdmRdGaT",
-        "title": "Мефодий Буслаев. Лед и пламя Тартара",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2018-12-11 14:32:14",
-        "user": {
-            "id": "59793548-vkontakte",
-            "nickname": "anyutka_karpan",
-            "booksCount": 7
         }
     }
 }
