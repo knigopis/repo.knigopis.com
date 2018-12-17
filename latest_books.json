@@ -1,4 +1,16 @@
 {
+    "OFBtjFi_Az": {
+        "id": "OFBtjFi_Az",
+        "title": "Как завоевывать друзей и оказывать влияние на людей",
+        "author": "Дейл Карнеги",
+        "notes": "",
+        "createdAt": "2018-12-17 00:38:25",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": null,
+            "booksCount": 16
+        }
+    },
     "RRZBPdi_Fb": {
         "id": "RRZBPdi_Fb",
         "title": "50 событий изменивших мир",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 678
-        }
-    },
-    "gJvoIbOuAZ": {
-        "id": "gJvoIbOuAZ",
-        "title": "Возрожденный Дракон (Серия:",
-        "author": "Роберт Джордан",
-        "notes": "",
-        "createdAt": "2018-12-12 08:32:07",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 53
         }
     }
 }
