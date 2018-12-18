@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Aleks](users/117/117835844513813219393-google)<sup>33</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>37</sup> 
 [En](users/333/333646551-vkontakte)<sup>60</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Asiar](users/115/115902526849562271887-google)<sup>6</sup> 
 [leaderom](users/450/45043410-vkontakte)<sup>0</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>19</sup> 
-[valikhanp](users/449/44904905-vkontakte)<sup>0</sup> 
 
 
-_18.12.2018 12:44:39_
+_18.12.2018 15:59:06_

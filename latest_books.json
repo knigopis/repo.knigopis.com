@@ -1,4 +1,16 @@
 {
+    "Qv8j7CtPIf": {
+        "id": "Qv8j7CtPIf",
+        "title": "Демиан",
+        "author": "Герман Гессе",
+        "notes": "",
+        "createdAt": "2018-12-18 15:59:06",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 33
+        }
+    },
     "0XX9SV7MeK": {
         "id": "0XX9SV7MeK",
         "title": "Альтернативная цивилизация",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 53
-        }
-    },
-    "QyXJauWLtw": {
-        "id": "QyXJauWLtw",
-        "title": "Убийство на поле для гольфа",
-        "author": "Кристи Агата",
-        "notes": "",
-        "createdAt": "2018-12-14 16:25:50",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 7
         }
     }
 }
