@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Орлы Революции ~ [mfevralev](users/140/140966150-vkontakte)<sup>37</sup>
 * Пиратская планета ~ [En](users/333/333646551-vkontakte)<sup>60</sup>
 * The Prodigal Tongue: The Love-Hate Relationship Between American and British English ~ [exulted](users/100/100599204551896265722-google)<sup>92</sup>
 * Интерлюдия. Последнее лето Форсайта (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>202</sup>
@@ -30,7 +31,6 @@
 * За гранью времен / вне времени ~ [Leonid280497](users/684/684095007-yandex)<sup>5</sup>
 * Тень над Инсмутом ~ [Leonid280497](users/684/684095007-yandex)<sup>4</sup>
 * Человек с котом ~ [En](users/333/333646551-vkontakte)<sup>57</sup>
-* Азазель ~ [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup>
 
 
-_18.12.2018 09:03:09_
+_18.12.2018 10:50:15_

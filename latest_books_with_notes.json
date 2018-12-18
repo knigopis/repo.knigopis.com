@@ -1,4 +1,16 @@
 {
+    "TlN-hHPzuW": {
+        "id": "TlN-hHPzuW",
+        "title": "Орлы Революции",
+        "author": "А.Ф.Френкель",
+        "notes": "Про казнь Подтелкова и Кривошлыкова",
+        "createdAt": "2018-12-18 10:50:14",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 37
+        }
+    },
     "_nrZgisa-H": {
         "id": "_nrZgisa-H",
         "title": "Пиратская планета",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 57
-        }
-    },
-    "b4IkrxEK_y": {
-        "id": "b4IkrxEK_y",
-        "title": "Азазель",
-        "author": "Борис Акунин",
-        "notes": "8/10",
-        "createdAt": "2018-11-19 21:06:18",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 97
         }
     }
 }

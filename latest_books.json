@@ -1,4 +1,16 @@
 {
+    "TlN-hHPzuW": {
+        "id": "TlN-hHPzuW",
+        "title": "Орлы Революции",
+        "author": "А.Ф.Френкель",
+        "notes": "Про казнь Подтелкова и Кривошлыкова",
+        "createdAt": "2018-12-18 10:50:14",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 37
+        }
+    },
     "_nrZgisa-H": {
         "id": "_nrZgisa-H",
         "title": "Пиратская планета",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 15
-        }
-    },
-    "J7GLw_RFr6": {
-        "id": "J7GLw_RFr6",
-        "title": "Все кроме пса, в полицию",
-        "author": "Стаут Рекс",
-        "notes": "",
-        "createdAt": "2018-12-14 11:02:16",
-        "user": {
-            "id": "108412189296732059814-google",
-            "nickname": "YUrij",
-            "booksCount": 1
         }
     }
 }

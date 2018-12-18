@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Орлы Революции ~ [mfevralev](users/140/140966150-vkontakte)<sup>37</sup>
+    > Про казнь Подтелкова и Кривошлыкова
+
 * Пиратская планета ~ [En](users/333/333646551-vkontakte)<sup>60</sup>
     > отличная книга о Докторе и его спутнице. немного затянуто в начале, но концовка на одном дыхании.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN: B073YTS4KH
 
 * Интерлюдия. Последнее лето Форсайта (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>202</sup>
-    > Название говорит само за себя - последнее лето старого Джолиона Форсайта
 
 * Час быка ~ [HXT](users/100/100002563462782-facebook)<sup>339</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Почему никто не рассказал мне это в 20? ~ [darb_el](users/184/184135339-vkontakte)<sup>19</sup>
 
-* Собачье сердце ~ [Apprentice ](users/528/52821952-vkontakte)<sup>99</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>37</sup> 
 [En](users/333/333646551-vkontakte)<sup>60</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>92</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>46</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>19</sup> 
 [valikhanp](users/449/44904905-vkontakte)<sup>0</sup> 
 [Aleks](users/483/48371894-vkontakte)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>115</sup> 
 
 
-_18.12.2018 09:03:09_
+_18.12.2018 10:50:15_
