@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>99</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>100</sup>
 ---
 
 ## 2018
+
+### Магия утра
+Хэл Элрод
+> [2018-12-18] 7/10
+
 
 ### Собачье сердце
 Михаил Булгаков

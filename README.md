@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Магия утра ~ [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup>
+    > 7/10
+
 * Альтернативная цивилизация ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup>
     > в процессе
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Про казнь Подтелкова и Кривошлыкова
 
 * Пиратская планета ~ [En](users/333/333646551-vkontakte)<sup>60</sup>
-    > отличная книга о Докторе и его спутнице. немного затянуто в начале, но концовка на одном дыхании.
 
 * The Prodigal Tongue: The Love-Hate Relationship Between American and British English ~ [exulted](users/100/100599204551896265722-google)<sup>92</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Кафе на краю земли ~ [youno](users/302/302928912-vkontakte)<sup>17</sup>
 
-* Загадочный противник ~ [fir137](users/176/176805114-yandex)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>36</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>37</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>68</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>20</sup> 
 [dvolkhonskiy](users/117/117662687202998325024-google)<sup>0</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>99</sup> 
 [repkin81](users/107/107838184695967300213-google)<sup>0</sup> 
 [zav.96](users/180/180542392-vkontakte)<sup>0</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>6</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>19</sup> 
 
 
-_18.12.2018 16:01:01_
+_18.12.2018 21:33:03_
