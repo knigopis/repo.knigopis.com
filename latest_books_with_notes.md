@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пиратская планета ~ [En](users/333/333646551-vkontakte)<sup>60</sup>
 * The Prodigal Tongue: The Love-Hate Relationship Between American and British English ~ [exulted](users/100/100599204551896265722-google)<sup>92</sup>
 * Интерлюдия. Последнее лето Форсайта (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>202</sup>
 * Час быка ~ [HXT](users/100/100002563462782-facebook)<sup>339</sup>
@@ -30,7 +31,6 @@
 * Тень над Инсмутом ~ [Leonid280497](users/684/684095007-yandex)<sup>4</sup>
 * Человек с котом ~ [En](users/333/333646551-vkontakte)<sup>57</sup>
 * Азазель ~ [Apprentice ](users/528/52821952-vkontakte)<sup>97</sup>
-* Судьба короля. Хроники странного королевства ~ [Chiffi](users/105/105831994080785626680-google)<sup>79</sup>
 
 
-_17.12.2018 19:25:16_
+_18.12.2018 09:03:09_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пиратская планета ~ [En](users/333/333646551-vkontakte)<sup>60</sup>
+    > отличная книга о Докторе и его спутнице. немного затянуто в начале, но концовка на одном дыхании.
+
 * The Prodigal Tongue: The Love-Hate Relationship Between American and British English ~ [exulted](users/100/100599204551896265722-google)<sup>92</sup>
     > ASIN: B073YTS4KH
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Название говорит само за себя - последнее лето старого Джолиона Форсайта
 
 * Час быка ~ [HXT](users/100/100002563462782-facebook)<sup>339</sup>
-    > Коммунистическая хрень
 
 * 🔸️Дом странных детей 1 ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Собачье сердце ~ [Apprentice ](users/528/52821952-vkontakte)<sup>99</sup>
 
-* Беседы о диалектике ~ [Asiar](users/115/115902526849562271887-google)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>60</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>92</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>46</sup> 
 [](users/104/104289450206538776186-googleplus)<sup>17</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [valikhanp](users/449/44904905-vkontakte)<sup>0</sup> 
 [Aleks](users/483/48371894-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>115</sup> 
-[idharin](users/207/20762954-vkontakte)<sup>0</sup> 
 
 
-_17.12.2018 19:25:16_
+_18.12.2018 09:03:09_
