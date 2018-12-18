@@ -1,4 +1,16 @@
 {
+    "0XX9SV7MeK": {
+        "id": "0XX9SV7MeK",
+        "title": "Альтернативная цивилизация",
+        "author": "Игорь Бестужев-Лада",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/8746032/",
+        "createdAt": "2018-12-18 12:44:38",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 187
+        }
+    },
     "TlN-hHPzuW": {
         "id": "TlN-hHPzuW",
         "title": "Орлы Революции",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 7
-        }
-    },
-    "5aKI4pRFrp": {
-        "id": "5aKI4pRFrp",
-        "title": "Стиль Мадам Шик: секреты французского шарма и безупречных манер",
-        "author": "СКОТТ Дженнифер Л.",
-        "notes": "",
-        "createdAt": "2018-12-14 16:02:41",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 15
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "0XX9SV7MeK": {
+        "id": "0XX9SV7MeK",
+        "title": "Альтернативная цивилизация",
+        "author": "Игорь Бестужев-Лада",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/8746032/",
+        "createdAt": "2018-12-18 12:44:38",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 187
+        }
+    },
     "TlN-hHPzuW": {
         "id": "TlN-hHPzuW",
         "title": "Орлы Революции",
@@ -345,18 +357,6 @@
             "id": "684095007-yandex",
             "nickname": "Leonid280497",
             "booksCount": 4
-        }
-    },
-    "BUqRzhyCP-": {
-        "id": "BUqRzhyCP-",
-        "title": "Человек с котом",
-        "author": "А.Каменистый",
-        "notes": "2 часть серии СТИКС, не занудно, много событий, интересный сюжет.",
-        "createdAt": "2018-11-21 06:51:07",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 57
         }
     }
 }

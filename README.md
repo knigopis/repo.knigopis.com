@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Альтернативная цивилизация ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/8746032/
+
 * Орлы Революции ~ [mfevralev](users/140/140966150-vkontakte)<sup>37</sup>
     > Про казнь Подтелкова и Кривошлыкова
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > отличная книга о Докторе и его спутнице. немного затянуто в начале, но концовка на одном дыхании.
 
 * The Prodigal Tongue: The Love-Hate Relationship Between American and British English ~ [exulted](users/100/100599204551896265722-google)<sup>92</sup>
-    > ASIN: B073YTS4KH
 
 * Интерлюдия. Последнее лето Форсайта (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>202</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Загадочный противник ~ [fir137](users/176/176805114-yandex)<sup>6</sup>
 
-* Почему никто не рассказал мне это в 20? ~ [darb_el](users/184/184135339-vkontakte)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>37</sup> 
 [En](users/333/333646551-vkontakte)<sup>60</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>92</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [leaderom](users/450/45043410-vkontakte)<sup>0</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>19</sup> 
 [valikhanp](users/449/44904905-vkontakte)<sup>0</sup> 
-[Aleks](users/483/48371894-vkontakte)<sup>0</sup> 
 
 
-_18.12.2018 10:50:15_
+_18.12.2018 12:44:39_
