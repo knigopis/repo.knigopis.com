@@ -1,5 +1,13 @@
-# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>7</sup>
+# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>8</sup>
 ---
+
+## 2018
+
+### Громче, чем тишина
+Веста Спиваковская
+> [2018-11] 
+
+
 
 ## 2013
 

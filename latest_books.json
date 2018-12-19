@@ -1,4 +1,16 @@
 {
+    "Cw5u47kb5f": {
+        "id": "Cw5u47kb5f",
+        "title": "Громче, чем тишина",
+        "author": "Веста Спиваковская",
+        "notes": "",
+        "createdAt": "2018-12-19 21:19:31",
+        "user": {
+            "id": "17633272-vkontakte",
+            "nickname": "Brenda Walsh",
+            "booksCount": 8
+        }
+    },
     "DU6Q6bQ2sq": {
         "id": "DU6Q6bQ2sq",
         "title": "Лекции по введению в психоанализ.",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": null,
             "booksCount": 11
-        }
-    },
-    "ABP1rZb40D": {
-        "id": "ABP1rZb40D",
-        "title": "Самоучитель для гения. Как раскрыть свои таланты",
-        "author": "Лекс Купер",
-        "notes": "",
-        "createdAt": "2018-12-17 00:34:20",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": null,
-            "booksCount": 10
         }
     }
 }
