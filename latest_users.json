@@ -1,4 +1,10 @@
 {
+    "17633272-vkontakte": {
+        "id": "17633272-vkontakte",
+        "nickname": "Brenda Walsh",
+        "booksCount": 0,
+        "updatedAt": "2018-12-19 21:13:00"
+    },
     "249815548-vkontakte": {
         "id": "249815548-vkontakte",
         "nickname": "striped_one",
@@ -172,11 +178,5 @@
         "nickname": "repkin81",
         "booksCount": 0,
         "updatedAt": "2018-12-09 12:58:13"
-    },
-    "180542392-vkontakte": {
-        "id": "180542392-vkontakte",
-        "nickname": "zav.96",
-        "booksCount": 0,
-        "updatedAt": "2018-12-09 07:27:59"
     }
 }
