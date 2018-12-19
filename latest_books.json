@@ -1,4 +1,16 @@
 {
+    "kfJnA9HOop": {
+        "id": "kfJnA9HOop",
+        "title": "Затаенная боль. Дневник психоаналитика.",
+        "author": "Керолин Эльячефф",
+        "notes": "",
+        "createdAt": "2018-12-19 21:20:53",
+        "user": {
+            "id": "17633272-vkontakte",
+            "nickname": "Brenda Walsh",
+            "booksCount": 10
+        }
+    },
     "_hWlw2-Hv8": {
         "id": "_hWlw2-Hv8",
         "title": "Французские дети едят все",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": null,
             "booksCount": 13
-        }
-    },
-    "SxzAznExuX": {
-        "id": "SxzAznExuX",
-        "title": "Самодисциплина. Развитие личности",
-        "author": "Майкл Уилсон",
-        "notes": "",
-        "createdAt": "2018-12-17 00:35:14",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": null,
-            "booksCount": 12
         }
     }
 }
