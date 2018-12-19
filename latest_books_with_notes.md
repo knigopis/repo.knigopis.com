@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Семь зверей Райлега. Алиедора ~ [EsterHani](users/305/30558181-vkontakte)<sup>164</sup>
 * Магия утра ~ [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup>
 * Альтернативная цивилизация ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup>
 * Орлы Революции ~ [mfevralev](users/140/140966150-vkontakte)<sup>37</sup>
@@ -30,7 +31,6 @@
 * Не делай это. Тайм-менеджмент для творческих людей ~ [Ольга Отрыванова](users/222/22240417-vkontakte)<sup>39</sup>
 * Отель "Оюнсу" ~ [En](users/333/333646551-vkontakte)<sup>59</sup>
 * Территория везучих ~ [En](users/333/333646551-vkontakte)<sup>58</sup>
-* За гранью времен / вне времени ~ [Leonid280497](users/684/684095007-yandex)<sup>5</sup>
 
 
-_18.12.2018 21:33:03_
+_19.12.2018 11:24:48_

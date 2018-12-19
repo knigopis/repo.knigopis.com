@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>163</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>164</sup>
 ---
 
 ## 2018
+
+### Семь зверей Райлега. Алиедора
+Ник Перумов
+> [2018-12-18] Книга 2
+
 
 ### Логика. Учебное пособие
 Дмитрий Гусев
