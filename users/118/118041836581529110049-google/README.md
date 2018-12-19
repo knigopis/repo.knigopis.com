@@ -1,7 +1,12 @@
-# List of books read by [Svecha](http://www.knigopis.com/#/user/books?u=118041836581529110049-google)<sup>32</sup>
+# List of books read by [Svecha](http://www.knigopis.com/#/user/books?u=118041836581529110049-google)<sup>33</sup>
 ---
 
 ## 2018
+
+### Солярис
+Станислав Лем
+> [2018-12-17] 
+
 
 ### Мастер снов
 Роджер Желязны

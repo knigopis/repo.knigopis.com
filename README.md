@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Svecha](users/118/118041836581529110049-google)<sup>33</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>18</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>36</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zav.96](users/180/180542392-vkontakte)<sup>0</sup> 
 [Asiar](users/115/115902526849562271887-google)<sup>6</sup> 
 [leaderom](users/450/45043410-vkontakte)<sup>0</sup> 
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>19</sup> 
 
 
-_19.12.2018 00:31:28_
+_19.12.2018 11:08:52_
