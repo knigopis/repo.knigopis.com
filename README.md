@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Erdi](users/104/104289450206538776186-googleplus)<sup>18</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>36</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>60</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>92</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>46</sup> 
-[](users/104/104289450206538776186-googleplus)<sup>17</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>54</sup> 
 [shibito_kun](users/108/108836037074542338532-google)<sup>1</sup> 
 [fir137](users/176/176805114-yandex)<sup>8</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>19</sup> 
 
 
-_18.12.2018 21:33:03_
+_19.12.2018 00:31:28_

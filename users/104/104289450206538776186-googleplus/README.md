@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/104289450206538776186)<sup>17</sup>
+# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>18</sup>
 ---
 
 ## 2018
+
+### Как я изучаю языки
+Като Ломб
+> [2018-12-19] 
+
 
 ### Тонкое искусство пофигизма
 Марк Мэнсон
