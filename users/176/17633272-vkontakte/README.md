@@ -1,7 +1,11 @@
-# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>8</sup>
+# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>9</sup>
 ---
 
 ## 2018
+
+### Французские дети едят все
+> [2018-11] 
+
 
 ### Громче, чем тишина
 Веста Спиваковская
