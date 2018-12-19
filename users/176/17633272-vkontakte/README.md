@@ -1,5 +1,13 @@
-# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>6</sup>
+# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>7</sup>
 ---
+
+## 2013
+
+### Лекции по введению в психоанализ.
+Зигмунд Фрейд
+> [2013-11] 
+
+
 
 ## 2005
 
