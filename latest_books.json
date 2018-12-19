@@ -1,4 +1,16 @@
 {
+    "A_rQAF9PX6": {
+        "id": "A_rQAF9PX6",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2018-12-19 20:27:48",
+        "user": {
+            "id": "249815548-vkontakte",
+            "nickname": "striped_one",
+            "booksCount": 21
+        }
+    },
     "i41d3yc24z": {
         "id": "i41d3yc24z",
         "title": "Люди, которые играют в игры",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": null,
             "booksCount": 3
-        }
-    },
-    "75yhNuCf5y": {
-        "id": "75yhNuCf5y",
-        "title": "Закончи то, что начал. Как доводить дела до конца",
-        "author": "Джон Эйкафф",
-        "notes": "",
-        "createdAt": "2018-12-17 00:26:42",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }

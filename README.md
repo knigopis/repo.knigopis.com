@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[striped_one](users/249/249815548-vkontakte)<sup>21</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>165</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>33</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>18</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dvolkhonskiy](users/117/117662687202998325024-google)<sup>0</sup> 
 [repkin81](users/107/107838184695967300213-google)<sup>0</sup> 
 [zav.96](users/180/180542392-vkontakte)<sup>0</sup> 
-[Asiar](users/115/115902526849562271887-google)<sup>6</sup> 
 
 
-_19.12.2018 11:25:57_
+_19.12.2018 20:27:48_
