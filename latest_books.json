@@ -1,4 +1,16 @@
 {
+    "tdgrYvqpZY": {
+        "id": "tdgrYvqpZY",
+        "title": "Богатые тоже плачут!",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-12-19 21:17:59",
+        "user": {
+            "id": "17633272-vkontakte",
+            "nickname": "Brenda Walsh",
+            "booksCount": 6
+        }
+    },
     "UM7Tu8Kb-c": {
         "id": "UM7Tu8Kb-c",
         "title": "15 летний капитан",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": null,
             "booksCount": 9
-        }
-    },
-    "HyE74avQ1p": {
-        "id": "HyE74avQ1p",
-        "title": "Dedline. Роман об управлении проектами",
-        "author": "Том ДеМарко",
-        "notes": "",
-        "createdAt": "2018-12-17 00:32:01",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": null,
-            "booksCount": 8
         }
     }
 }
