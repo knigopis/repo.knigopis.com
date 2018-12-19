@@ -1,4 +1,4 @@
-# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>12</sup>
+# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>13</sup>
 ---
 
 ## 2018
@@ -10,6 +10,13 @@
 ### Громче, чем тишина
 Веста Спиваковская
 > [2018-11] 
+
+
+
+## 2017
+
+### Архипелаг ГУЛАГ
+Солженицын
 
 
 

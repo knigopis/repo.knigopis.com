@@ -1,4 +1,16 @@
 {
+    "JIIPIl4Chm": {
+        "id": "JIIPIl4Chm",
+        "title": "Архипелаг ГУЛАГ",
+        "author": "Солженицын",
+        "notes": "",
+        "createdAt": "2018-12-19 21:24:09",
+        "user": {
+            "id": "17633272-vkontakte",
+            "nickname": "Brenda Walsh",
+            "booksCount": 13
+        }
+    },
     "EDr1lZVu6c": {
         "id": "EDr1lZVu6c",
         "title": "Одиночество в Сети",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": null,
             "booksCount": 16
-        }
-    },
-    "RRZBPdi_Fb": {
-        "id": "RRZBPdi_Fb",
-        "title": "50 событий изменивших мир",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-12-17 00:37:47",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": null,
-            "booksCount": 15
         }
     }
 }
