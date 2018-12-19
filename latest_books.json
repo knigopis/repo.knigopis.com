@@ -1,4 +1,16 @@
 {
+    "mfihMleGIR": {
+        "id": "mfihMleGIR",
+        "title": "Тарасові шляхи",
+        "author": "Оксана Іваненко",
+        "notes": "Очень впечатлило детство Тараса Шевченко.",
+        "createdAt": "2018-12-19 21:14:24",
+        "user": {
+            "id": "17633272-vkontakte",
+            "nickname": "Brenda Walsh",
+            "booksCount": 1
+        }
+    },
     "A_rQAF9PX6": {
         "id": "A_rQAF9PX6",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": null,
             "booksCount": 4
-        }
-    },
-    "MXtvEooCwP": {
-        "id": "MXtvEooCwP",
-        "title": "Убийство на улице Морг",
-        "author": "Эдгар Алан По",
-        "notes": "",
-        "createdAt": "2018-12-17 00:27:24",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }
