@@ -1,4 +1,16 @@
 {
+    "qqzcbRKBC5": {
+        "id": "qqzcbRKBC5",
+        "title": "Хождение по рукам",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-12-19 21:15:47",
+        "user": {
+            "id": "17633272-vkontakte",
+            "nickname": "Brenda Walsh",
+            "booksCount": 3
+        }
+    },
     "3Q8Y3jHnHv": {
         "id": "3Q8Y3jHnHv",
         "title": "Анна Каренина",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": null,
             "booksCount": 6
-        }
-    },
-    "qPLi9ZZAPd": {
-        "id": "qPLi9ZZAPd",
-        "title": "Стив Джобс. Дико крутой",
-        "author": "Джесси Хартленд",
-        "notes": "",
-        "createdAt": "2018-12-17 00:30:25",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": null,
-            "booksCount": 5
         }
     }
 }
