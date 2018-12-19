@@ -1,4 +1,4 @@
-# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>11</sup>
+# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>12</sup>
 ---
 
 ## 2018
@@ -10,6 +10,10 @@
 ### Громче, чем тишина
 Веста Спиваковская
 > [2018-11] 
+
+
+### Одиночество в Сети
+Януш Леон Вишневский
 
 
 

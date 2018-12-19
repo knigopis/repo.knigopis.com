@@ -1,4 +1,16 @@
 {
+    "EDr1lZVu6c": {
+        "id": "EDr1lZVu6c",
+        "title": "Одиночество в Сети",
+        "author": "Януш Леон Вишневский",
+        "notes": "",
+        "createdAt": "2018-12-19 21:22:31",
+        "user": {
+            "id": "17633272-vkontakte",
+            "nickname": "Brenda Walsh",
+            "booksCount": 12
+        }
+    },
     "k8W6FvqqZe": {
         "id": "k8W6FvqqZe",
         "title": "Собор Парижской Богоматери",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": null,
             "booksCount": 15
-        }
-    },
-    "8n5Ty84tYD": {
-        "id": "8n5Ty84tYD",
-        "title": "Личная власть",
-        "author": "Николай Мрочковский",
-        "notes": "",
-        "createdAt": "2018-12-17 00:36:37",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": null,
-            "booksCount": 14
         }
     }
 }
