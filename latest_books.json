@@ -1,4 +1,16 @@
 {
+    "3Q8Y3jHnHv": {
+        "id": "3Q8Y3jHnHv",
+        "title": "Анна Каренина",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2018-12-19 21:15:33",
+        "user": {
+            "id": "17633272-vkontakte",
+            "nickname": "Brenda Walsh",
+            "booksCount": 2
+        }
+    },
     "mfihMleGIR": {
         "id": "mfihMleGIR",
         "title": "Тарасові шляхи",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": null,
             "booksCount": 5
-        }
-    },
-    "-sp0yJVyGu": {
-        "id": "-sp0yJVyGu",
-        "title": "Александр МакКуин. Кровь под кожей",
-        "author": "Эндрю Уилсон",
-        "notes": "",
-        "createdAt": "2018-12-17 00:29:42",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": null,
-            "booksCount": 4
         }
     }
 }
