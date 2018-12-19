@@ -1,4 +1,16 @@
 {
+    "i41d3yc24z": {
+        "id": "i41d3yc24z",
+        "title": "Люди, которые играют в игры",
+        "author": "Эрик Берн",
+        "notes": "",
+        "createdAt": "2018-12-19 11:25:57",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 165
+        }
+    },
     "du_yBVzcxY": {
         "id": "du_yBVzcxY",
         "title": "Семь зверей Райлега. Алиедора",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "XBz6houS7L": {
-        "id": "XBz6houS7L",
-        "title": "Тонкое искусство пофигизма",
-        "author": "Марк Мэнсон",
-        "notes": "",
-        "createdAt": "2018-12-17 00:25:00",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
