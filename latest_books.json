@@ -1,4 +1,16 @@
 {
+    "U7yv347HVo": {
+        "id": "U7yv347HVo",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-12-20 20:49:15",
+        "user": {
+            "id": "17633272-vkontakte",
+            "nickname": "Brenda Walsh",
+            "booksCount": 24
+        }
+    },
     "9IinPjSZla": {
         "id": "9IinPjSZla",
         "title": "Театры тела",
@@ -345,18 +357,6 @@
             "id": "118041836581529110049-google",
             "nickname": "Svecha",
             "booksCount": 33
-        }
-    },
-    "nKMc8c1vt6": {
-        "id": "nKMc8c1vt6",
-        "title": "Как я изучаю языки",
-        "author": "Като Ломб",
-        "notes": "",
-        "createdAt": "2018-12-19 00:31:28",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": "Erdi",
-            "booksCount": 18
         }
     }
 }
