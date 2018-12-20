@@ -1,4 +1,4 @@
-# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>16</sup>
+# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>17</sup>
 ---
 
 ## 2018
@@ -51,6 +51,10 @@
 
 
 ## 2007
+
+### Собор Парижской Богоматери
+Виктор Гюго
+
 
 ### Одиночество в Сети
 Януш Леон Вишневский
