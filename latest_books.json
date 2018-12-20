@@ -1,4 +1,16 @@
 {
+    "VFHjASB3mJ": {
+        "id": "VFHjASB3mJ",
+        "title": "Вино из одуванчиков",
+        "author": "Рей Бредбери",
+        "notes": "",
+        "createdAt": "2018-12-20 20:45:08",
+        "user": {
+            "id": "17633272-vkontakte",
+            "nickname": "Brenda Walsh",
+            "booksCount": 18
+        }
+    },
     "4_mzxWTKuJ": {
         "id": "4_mzxWTKuJ",
         "title": "Собор Парижской Богоматери",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 33
-        }
-    },
-    "0XX9SV7MeK": {
-        "id": "0XX9SV7MeK",
-        "title": "Альтернативная цивилизация",
-        "author": "Игорь Бестужев-Лада",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/8746032/",
-        "createdAt": "2018-12-18 12:44:38",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 187
         }
     }
 }
