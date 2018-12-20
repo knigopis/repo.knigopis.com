@@ -35,9 +35,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>166</sup> 
 [Brenda Walsh](users/176/17633272-vkontakte)<sup>14</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>21</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>165</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>33</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>18</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [repkin81](users/107/107838184695967300213-google)<sup>0</sup> 
 
 
-_19.12.2018 21:24:49_
+_20.12.2018 13:16:58_

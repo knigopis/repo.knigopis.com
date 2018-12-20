@@ -1,4 +1,16 @@
 {
+    "RAA3YKhHMX": {
+        "id": "RAA3YKhHMX",
+        "title": "Ловушка для внимания. Как вызвать и удержать интерес к идее, проекту или продукту",
+        "author": "Бен Парр",
+        "notes": "",
+        "createdAt": "2018-12-20 13:16:58",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 166
+        }
+    },
     "YOaYQxopY6": {
         "id": "YOaYQxopY6",
         "title": "Бегущая с волками",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 46
-        }
-    },
-    "YDJ7mvP6k8": {
-        "id": "YDJ7mvP6k8",
-        "title": "Лёгкий способ перестать откладывать дела на потом",
-        "author": "Нейл Фьоре",
-        "notes": "",
-        "createdAt": "2018-12-17 00:41:29",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": null,
-            "booksCount": 17
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 166,
+        "updatedAt": "2018-12-20 13:16:58"
+    },
     "17633272-vkontakte": {
         "id": "17633272-vkontakte",
         "nickname": "Brenda Walsh",
@@ -10,12 +16,6 @@
         "nickname": "striped_one",
         "booksCount": 21,
         "updatedAt": "2018-12-19 20:27:48"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 165,
-        "updatedAt": "2018-12-19 11:25:57"
     },
     "118041836581529110049-google": {
         "id": "118041836581529110049-google",
