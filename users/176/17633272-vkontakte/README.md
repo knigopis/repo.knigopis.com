@@ -1,4 +1,4 @@
-# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>20</sup>
+# List of books read by [Brenda Walsh](http://vk.com/id17633272)<sup>21</sup>
 ---
 
 ## 2018
@@ -19,6 +19,10 @@
 ### Записки украинского сумасшедшего
 Лина Костенко
 > [2018-09] 
+
+
+### Стыд и внешний облик
+Якоби Марио
 
 
 
