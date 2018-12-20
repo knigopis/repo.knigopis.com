@@ -1,4 +1,16 @@
 {
+    "EfOdKXEPBz": {
+        "id": "EfOdKXEPBz",
+        "title": "Пуаро ведёт расследование",
+        "author": "Кристи Агата",
+        "notes": "",
+        "createdAt": "2018-12-20 14:25:15",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 9
+        }
+    },
     "RAA3YKhHMX": {
         "id": "RAA3YKhHMX",
         "title": "Ловушка для внимания. Как вызвать и удержать интерес к идее, проекту или продукту",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 92
-        }
-    },
-    "XWwF3hN0Py": {
-        "id": "XWwF3hN0Py",
-        "title": "Прощай, оружие!",
-        "author": "Эрнест Хемингуэй",
-        "notes": "",
-        "createdAt": "2018-12-17 11:19:01",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 46
         }
     }
 }
