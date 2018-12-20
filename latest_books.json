@@ -1,4 +1,16 @@
 {
+    "9IinPjSZla": {
+        "id": "9IinPjSZla",
+        "title": "Театры тела",
+        "author": "Джойс Макдугалл",
+        "notes": "",
+        "createdAt": "2018-12-20 20:49:07",
+        "user": {
+            "id": "17633272-vkontakte",
+            "nickname": "Brenda Walsh",
+            "booksCount": 23
+        }
+    },
     "fM1jDhJZq5": {
         "id": "fM1jDhJZq5",
         "title": "Театры души",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": "Erdi",
             "booksCount": 18
-        }
-    },
-    "husoZ903It": {
-        "id": "husoZ903It",
-        "title": "Магия утра",
-        "author": "Хэл Элрод",
-        "notes": "7/10",
-        "createdAt": "2018-12-18 21:33:03",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 100
         }
     }
 }
