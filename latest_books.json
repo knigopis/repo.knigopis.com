@@ -1,4 +1,16 @@
 {
+    "7K-uyUidvG": {
+        "id": "7K-uyUidvG",
+        "title": "Привязанность",
+        "author": "Джон Боулби",
+        "notes": "",
+        "createdAt": "2018-12-20 20:41:50",
+        "user": {
+            "id": "17633272-vkontakte",
+            "nickname": "Brenda Walsh",
+            "booksCount": 15
+        }
+    },
     "sHvP4Cmhxw": {
         "id": "sHvP4Cmhxw",
         "title": "Будущее человечества: Колонизация Марса, путешествия к звездам и обретение бессмертия",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 37
-        }
-    },
-    "_nrZgisa-H": {
-        "id": "_nrZgisa-H",
-        "title": "Пиратская планета",
-        "author": "Адам Дуглас",
-        "notes": "отличная книга о Докторе и его спутнице. немного затянуто в начале, но концовка на одном дыхании.",
-        "createdAt": "2018-12-18 09:03:09",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 60
         }
     }
 }
