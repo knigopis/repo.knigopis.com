@@ -1,4 +1,16 @@
 {
+    "8E-K2VtYa1": {
+        "id": "8E-K2VtYa1",
+        "title": "Тотем и табу",
+        "author": "З. Фрейд",
+        "notes": "",
+        "createdAt": "2018-12-20 20:42:32",
+        "user": {
+            "id": "17633272-vkontakte",
+            "nickname": "Brenda Walsh",
+            "booksCount": 16
+        }
+    },
     "7K-uyUidvG": {
         "id": "7K-uyUidvG",
         "title": "Привязанность",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 187
-        }
-    },
-    "TlN-hHPzuW": {
-        "id": "TlN-hHPzuW",
-        "title": "Орлы Революции",
-        "author": "А.Ф.Френкель",
-        "notes": "Про казнь Подтелкова и Кривошлыкова",
-        "createdAt": "2018-12-18 10:50:14",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 37
         }
     }
 }
