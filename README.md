@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lina_gela](users/808/8082669028-instagram)<sup>0</sup> 
 [Brenda Walsh](users/176/17633272-vkontakte)<sup>24</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>3</sup> 
 [fir137](users/176/176805114-yandex)<sup>9</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>17</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>68</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>20</sup> 
-[dvolkhonskiy](users/117/117662687202998325024-google)<sup>0</sup> 
 
 
-_20.12.2018 20:49:15_
+_21.12.2018 10:57:25_
