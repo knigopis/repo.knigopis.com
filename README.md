@@ -35,11 +35,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>10</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [lina_gela](users/808/8082669028-instagram)<sup>1</sup> 
 [Brenda Walsh](users/176/17633272-vkontakte)<sup>24</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>3</sup> 
-[fir137](users/176/176805114-yandex)<sup>9</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>166</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>21</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>33</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>20</sup> 
 
 
-_22.12.2018 11:45:57_
+_22.12.2018 14:03:19_

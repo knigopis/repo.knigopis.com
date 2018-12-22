@@ -1,4 +1,16 @@
 {
+    "UcJVtLNewu": {
+        "id": "UcJVtLNewu",
+        "title": "Тайна замка Чимниз",
+        "author": "Кристи Агата",
+        "notes": "",
+        "createdAt": "2018-12-22 14:03:19",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 10
+        }
+    },
     "mFBLw1jc2h": {
         "id": "mFBLw1jc2h",
         "title": "Золотой теленок",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 21
-        }
-    },
-    "i41d3yc24z": {
-        "id": "i41d3yc24z",
-        "title": "Люди, которые играют в игры",
-        "author": "Эрик Берн",
-        "notes": "",
-        "createdAt": "2018-12-19 11:25:57",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 165
         }
     }
 }
