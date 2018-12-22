@@ -1,4 +1,16 @@
 {
+    "tV3zjGxmAz": {
+        "id": "tV3zjGxmAz",
+        "title": "Голад",
+        "author": "Кнут Гамсун",
+        "notes": "",
+        "createdAt": "2018-12-22 17:53:31",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 341
+        }
+    },
     "UcJVtLNewu": {
         "id": "UcJVtLNewu",
         "title": "Тайна замка Чимниз",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 1
-        }
-    },
-    "A_rQAF9PX6": {
-        "id": "A_rQAF9PX6",
-        "title": "Цветы для Элджернона",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2018-12-19 20:27:48",
-        "user": {
-            "id": "249815548-vkontakte",
-            "nickname": "striped_one",
-            "booksCount": 21
         }
     }
 }

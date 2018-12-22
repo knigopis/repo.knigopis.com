@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>341</sup> 
 [fir137](users/176/176805114-yandex)<sup>10</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [lina_gela](users/808/8082669028-instagram)<sup>1</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>54</sup> 
 [shibito_kun](users/108/108836037074542338532-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>202</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>340</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>15</sup> 
 [YUrij](users/108/108412189296732059814-google)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>20</sup> 
 
 
-_22.12.2018 14:03:19_
+_22.12.2018 17:53:32_
