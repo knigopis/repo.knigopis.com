@@ -1,7 +1,12 @@
-# List of books read by BigKhan<sup>6</sup>
+# List of books read by BigKhan<sup>7</sup>
 ---
 
 ## 2018
+
+### Золотой теленок
+Ильф и Петров
+> [2018-12-22] 
+
 
 ### 12 стульев
 Ильф и Петров

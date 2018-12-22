@@ -1,4 +1,10 @@
 {
+    "117259947-yandex": {
+        "id": "117259947-yandex",
+        "nickname": "BigKhan",
+        "booksCount": 7,
+        "updatedAt": "2018-12-22 11:45:57"
+    },
     "8082669028-instagram": {
         "id": "8082669028-instagram",
         "nickname": "lina_gela",
@@ -112,12 +118,6 @@
         "nickname": "HXT",
         "booksCount": 340,
         "updatedAt": "2018-12-15 10:39:10"
-    },
-    "117259947-yandex": {
-        "id": "117259947-yandex",
-        "nickname": "BigKhan",
-        "booksCount": 6,
-        "updatedAt": "2018-12-15 08:09:09"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
