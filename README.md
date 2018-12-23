@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>80</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>341</sup> 
 [fir137](users/176/176805114-yandex)<sup>10</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>7</sup> 
 [youno](users/302/302928912-vkontakte)<sup>17</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>68</sup> 
-[darb_el](users/184/184135339-vkontakte)<sup>20</sup> 
 
 
-_22.12.2018 17:53:32_
+_23.12.2018 05:32:44_
