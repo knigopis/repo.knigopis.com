@@ -1,4 +1,16 @@
 {
+    "aaCFaqjX0g": {
+        "id": "aaCFaqjX0g",
+        "title": "Любовь живёт три года",
+        "author": "Фредерик Бегбедер",
+        "notes": "",
+        "createdAt": "2018-12-24 10:20:35",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 37
+        }
+    },
     "Wgm6fmmtqu": {
         "id": "Wgm6fmmtqu",
         "title": "Путешествия в поисках смысла жизни.Истории тех,кто его нашёл",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 8
-        }
-    },
-    "hhflEZ4Aw6": {
-        "id": "hhflEZ4Aw6",
-        "title": "Город пустых",
-        "author": "Р.Ригз",
-        "notes": "",
-        "createdAt": "2018-12-24 10:03:48",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 7
         }
     }
 }
