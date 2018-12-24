@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>31</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>32</sup>
 ---
 
 ## 2018
+
+### Одиссея капитана Блада
+Рафаэль Сабатини
+> [2018-07-28] 
+
 
 ### Царица Хатасу
 Вера Крыжановская
