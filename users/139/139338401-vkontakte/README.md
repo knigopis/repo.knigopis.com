@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>25</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>26</sup>
 ---
 
 ## 2018
+
+### Идеальная грешница
+Людмила Михайлова
+> [2018-06-22] 
+
 
 ### Путешествия гулливера
 Джонатан Свифт
