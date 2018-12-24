@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>37</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>38</sup>
 ---
 
 ## 2018
+
+### Франкенштейн,или современны прометей
+Мэри Шелли
+> [2018-09-10] 
+
 
 ### Любовь живёт три года
 Фредерик Бегбедер

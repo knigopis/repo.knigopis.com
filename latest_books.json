@@ -1,4 +1,16 @@
 {
+    "5_--zzaXbK": {
+        "id": "5_--zzaXbK",
+        "title": "Франкенштейн,или современны прометей",
+        "author": "Мэри Шелли",
+        "notes": "",
+        "createdAt": "2018-12-24 10:21:20",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 38
+        }
+    },
     "aaCFaqjX0g": {
         "id": "aaCFaqjX0g",
         "title": "Любовь живёт три года",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 9
-        }
-    },
-    "Geqo_oXFsk": {
-        "id": "Geqo_oXFsk",
-        "title": "Библиотека душ",
-        "author": "Р.Ригз",
-        "notes": "",
-        "createdAt": "2018-12-24 10:04:09",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 8
         }
     }
 }
