@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>27</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>28</sup>
 ---
 
 ## 2018
+
+### Слепой музыкант
+В.Короленко
+> [2018-07-02] 
+
 
 ### 1984
 Джордж Оруэлл
