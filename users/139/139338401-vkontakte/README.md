@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>24</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>25</sup>
 ---
 
 ## 2018
+
+### Путешествия гулливера
+Джонатан Свифт
+> [2018-06-19] 
+
 
 ### Второй шанс на жизнь
 Виктория Цой
