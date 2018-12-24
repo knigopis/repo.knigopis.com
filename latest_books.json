@@ -1,4 +1,16 @@
 {
+    "7qTUqZTRGx": {
+        "id": "7qTUqZTRGx",
+        "title": "Чернобыльская молитва",
+        "author": "С.Алексиевич",
+        "notes": "",
+        "createdAt": "2018-12-24 10:06:14",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 12
+        }
+    },
     "uUToQRClnz": {
         "id": "uUToQRClnz",
         "title": "Поселок",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 166
-        }
-    },
-    "YOaYQxopY6": {
-        "id": "YOaYQxopY6",
-        "title": "Бегущая с волками",
-        "author": "Кларисса Пинкола Эстесс",
-        "notes": "",
-        "createdAt": "2018-12-19 21:24:49",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 14
         }
     }
 }
