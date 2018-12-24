@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>43</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>44</sup>
 ---
 
 ## 2018
+
+### Повелитель мух
+Уильям Голдинг
+> [2018-10-31] 
+
 
 ### Вечера на хуторе близ Диканьки
 Николай Гоголь

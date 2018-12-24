@@ -1,4 +1,16 @@
 {
+    "BYOjvOGhbO": {
+        "id": "BYOjvOGhbO",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2018-12-24 10:24:12",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 44
+        }
+    },
     "mPUt5eH37J": {
         "id": "mPUt5eH37J",
         "title": "Вечера на хуторе близ Диканьки",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 15
-        }
-    },
-    "t_752QgSo0": {
-        "id": "t_752QgSo0",
-        "title": "Земляничный год",
-        "author": "К.Михаляк",
-        "notes": "",
-        "createdAt": "2018-12-24 10:07:08",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 14
         }
     }
 }
