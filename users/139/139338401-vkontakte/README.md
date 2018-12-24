@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>40</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>41</sup>
 ---
 
 ## 2018
+
+### Старик и море
+Эрнест Хемингуэй
+> [2018-09-23] 
+
 
 ### Парфюмер.История одного убийцы
 Патрик Зюскинд
