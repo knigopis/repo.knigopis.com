@@ -1,4 +1,16 @@
 {
+    "3sVzUOlPUL": {
+        "id": "3sVzUOlPUL",
+        "title": "Пигмалион",
+        "author": "Бернард Шоу",
+        "notes": "",
+        "createdAt": "2018-12-24 10:21:42",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 39
+        }
+    },
     "5_--zzaXbK": {
         "id": "5_--zzaXbK",
         "title": "Франкенштейн,или современны прометей",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 10
-        }
-    },
-    "dPr0jAKU1J": {
-        "id": "dPr0jAKU1J",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2018-12-24 10:04:38",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 9
         }
     }
 }
