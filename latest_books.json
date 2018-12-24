@@ -1,4 +1,16 @@
 {
+    "m0JFKLenZi": {
+        "id": "m0JFKLenZi",
+        "title": "Очаг вины",
+        "author": "Т.Огородникова",
+        "notes": "",
+        "createdAt": "2018-12-24 10:08:09",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 16
+        }
+    },
     "D5O_jSEjCQ": {
         "id": "D5O_jSEjCQ",
         "title": "Ягодное лето",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 16
-        }
-    },
-    "7K-uyUidvG": {
-        "id": "7K-uyUidvG",
-        "title": "Привязанность",
-        "author": "Джон Боулби",
-        "notes": "",
-        "createdAt": "2018-12-20 20:41:50",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 15
         }
     }
 }
