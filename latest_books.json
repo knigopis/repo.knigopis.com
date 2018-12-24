@@ -1,4 +1,16 @@
 {
+    "SyRMayS70U": {
+        "id": "SyRMayS70U",
+        "title": "Царица Хатасу",
+        "author": "Вера Крыжановская",
+        "notes": "",
+        "createdAt": "2018-12-24 10:16:55",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 31
+        }
+    },
     "9kLw7kZw8m": {
         "id": "9kLw7kZw8m",
         "title": "Музей заброшенных секретов",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 2
-        }
-    },
-    "9Dhc_CWts_": {
-        "id": "9Dhc_CWts_",
-        "title": "Барьер",
-        "author": "П.Вежинов",
-        "notes": "",
-        "createdAt": "2018-12-24 09:59:47",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 1
         }
     }
 }

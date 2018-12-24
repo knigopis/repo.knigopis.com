@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>30</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>31</sup>
 ---
 
 ## 2018
+
+### Царица Хатасу
+Вера Крыжановская
+> [2018-07-24] 
+
 
 ### Музей заброшенных секретов
 Оксана Забужко
