@@ -1,4 +1,16 @@
 {
+    "7GLpWkdjLU": {
+        "id": "7GLpWkdjLU",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-12-24 10:28:22",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 53
+        }
+    },
     "M8jORu48vd": {
         "id": "M8jORu48vd",
         "title": "Вавилонская библиотека",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 24
-        }
-    },
-    "X3vvFlTZFU": {
-        "id": "X3vvFlTZFU",
-        "title": "Маленький принц",
-        "author": "Антуан де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2018-12-24 10:12:54",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 23
         }
     }
 }
