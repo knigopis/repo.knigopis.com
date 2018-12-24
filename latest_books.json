@@ -1,4 +1,16 @@
 {
+    "UFt3KBEuaX": {
+        "id": "UFt3KBEuaX",
+        "title": "Трещина во времени",
+        "author": "Мадлен Энгл",
+        "notes": "",
+        "createdAt": "2018-12-24 10:05:18",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 10
+        }
+    },
     "dPr0jAKU1J": {
         "id": "dPr0jAKU1J",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 13
-        }
-    },
-    "EDr1lZVu6c": {
-        "id": "EDr1lZVu6c",
-        "title": "Одиночество в Сети",
-        "author": "Януш Леон Вишневский",
-        "notes": "",
-        "createdAt": "2018-12-19 21:22:31",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 12
         }
     }
 }
