@@ -1,4 +1,4 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>49</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>50</sup>
 ---
 
 ## 2018
@@ -21,6 +21,11 @@
 ### Г.Уэлле
 Машина времени
 > [2018-11-15] 
+
+
+### Зима тревоги нашей
+Дж.Стейнбек
+> [2018-11-12] 
 
 
 ### Ж.-П.Сартр
