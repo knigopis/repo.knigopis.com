@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>35</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>36</sup>
 ---
 
 ## 2018
+
+### Путешествия в поисках смысла жизни.Истории тех,кто его нашёл
+Рами Блект
+> [2018-08-14] 
+
 
 ### Дневник горничной
 Октав Мирбо
