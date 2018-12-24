@@ -1,4 +1,16 @@
 {
+    "O6r3hIpIoX": {
+        "id": "O6r3hIpIoX",
+        "title": "Собор парижской богоматери",
+        "author": "В.Гюго",
+        "notes": "",
+        "createdAt": "2018-12-24 10:08:49",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 17
+        }
+    },
     "m0JFKLenZi": {
         "id": "m0JFKLenZi",
         "title": "Очаг вины",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 17
-        }
-    },
-    "8E-K2VtYa1": {
-        "id": "8E-K2VtYa1",
-        "title": "Тотем и табу",
-        "author": "З. Фрейд",
-        "notes": "",
-        "createdAt": "2018-12-20 20:42:32",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 16
         }
     }
 }
