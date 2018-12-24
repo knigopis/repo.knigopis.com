@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>42</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>43</sup>
 ---
 
 ## 2018
+
+### Вечера на хуторе близ Диканьки
+Николай Гоголь
+> [2018-10-18] 
+
 
 ### Посторонний
 Альбер Камю
