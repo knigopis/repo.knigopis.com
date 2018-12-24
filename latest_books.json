@@ -1,4 +1,16 @@
 {
+    "39DJREIpGF": {
+        "id": "39DJREIpGF",
+        "title": "Б.Брехт",
+        "author": "Мамаша Кураж и ее дети",
+        "notes": "",
+        "createdAt": "2018-12-24 10:25:57",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 48
+        }
+    },
     "qpx_TH99k5": {
         "id": "qpx_TH99k5",
         "title": "Ф.Кафка",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 19
-        }
-    },
-    "gByvLiitCV": {
-        "id": "gByvLiitCV",
-        "title": "Шагреневая кожа",
-        "author": "Оноре де Бальзак",
-        "notes": "",
-        "createdAt": "2018-12-24 10:09:17",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 18
         }
     }
 }

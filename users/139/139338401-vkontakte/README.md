@@ -1,4 +1,4 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>47</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>48</sup>
 ---
 
 ## 2018
@@ -11,6 +11,11 @@
 ### Ф.Кафка
 Превращение
 > [2018-12-17] 
+
+
+### Б.Брехт
+Мамаша Кураж и ее дети
+> [2018-12-16] 
 
 
 ### Ж.-П.Сартр
