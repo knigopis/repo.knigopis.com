@@ -1,4 +1,10 @@
 {
+    "115771667101883638909-google": {
+        "id": "115771667101883638909-google",
+        "nickname": "fridrih",
+        "booksCount": 0,
+        "updatedAt": "2018-12-24 17:59:24"
+    },
     "2242326882760268-facebook": {
         "id": "2242326882760268-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 144,
         "updatedAt": "2018-12-13 12:52:19"
-    },
-    "152488954-vkontakte": {
-        "id": "152488954-vkontakte",
-        "nickname": "kasikandriena",
-        "booksCount": 53,
-        "updatedAt": "2018-12-12 08:32:07"
     }
 }
