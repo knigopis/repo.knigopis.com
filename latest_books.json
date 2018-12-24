@@ -1,4 +1,16 @@
 {
+    "8Oo7t5pIMr": {
+        "id": "8Oo7t5pIMr",
+        "title": "Аригато",
+        "author": "Кавабаты Ясунари",
+        "notes": "",
+        "createdAt": "2018-12-24 10:28:49",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 54
+        }
+    },
     "7GLpWkdjLU": {
         "id": "7GLpWkdjLU",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 25
-        }
-    },
-    "lfvQELZIR0": {
-        "id": "lfvQELZIR0",
-        "title": "Второй шанс на жизнь",
-        "author": "Виктория Цой",
-        "notes": "",
-        "createdAt": "2018-12-24 10:13:20",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 24
         }
     }
 }
