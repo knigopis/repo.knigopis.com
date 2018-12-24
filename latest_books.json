@@ -1,4 +1,16 @@
 {
+    "9kLw7kZw8m": {
+        "id": "9kLw7kZw8m",
+        "title": "Музей заброшенных секретов",
+        "author": "Оксана Забужко",
+        "notes": "",
+        "createdAt": "2018-12-24 10:16:22",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 30
+        }
+    },
     "P-LC3my8v5": {
         "id": "P-LC3my8v5",
         "title": "Приключения Тома Сойера",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 1
-        }
-    },
-    "nGrTomVRcM": {
-        "id": "nGrTomVRcM",
-        "title": "Красная угроза",
-        "author": "Панов Вадим",
-        "notes": "",
-        "createdAt": "2018-12-23 05:32:44",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 80
         }
     }
 }

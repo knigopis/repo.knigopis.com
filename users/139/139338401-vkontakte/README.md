@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>29</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>30</sup>
 ---
 
 ## 2018
+
+### Музей заброшенных секретов
+Оксана Забужко
+> [2018-07-19] 
+
 
 ### Приключения Тома Сойера
 Марк Твен
