@@ -1,4 +1,16 @@
 {
+    "dPr0jAKU1J": {
+        "id": "dPr0jAKU1J",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2018-12-24 10:04:38",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 9
+        }
+    },
     "Geqo_oXFsk": {
         "id": "Geqo_oXFsk",
         "title": "Библиотека душ",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 12
-        }
-    },
-    "kfJnA9HOop": {
-        "id": "kfJnA9HOop",
-        "title": "Затаенная боль. Дневник психоаналитика.",
-        "author": "Керолин Эльячефф",
-        "notes": "",
-        "createdAt": "2018-12-19 21:20:53",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 10
         }
     }
 }

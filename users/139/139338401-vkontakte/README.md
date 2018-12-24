@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>8</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>9</sup>
 ---
 
 ## 2018
+
+### Портрет Дориана Грея
+Оскар Уайльд
+> [2018-03-04] 
+
 
 ### Библиотека душ
 Р.Ригз
