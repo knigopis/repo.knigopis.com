@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>32</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>33</sup>
 ---
 
 ## 2018
+
+### 451 градус по Фаренгейту
+Рэй Бредбери
+> [2018-07-30] 
+
 
 ### Одиссея капитана Блада
 Рафаэль Сабатини
