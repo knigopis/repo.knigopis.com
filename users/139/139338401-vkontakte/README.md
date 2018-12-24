@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>33</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>34</sup>
 ---
 
 ## 2018
+
+### Кошкина пижама
+Рэй Брэдбери
+> [2018-08-04] 
+
 
 ### 451 градус по Фаренгейту
 Рэй Бредбери
