@@ -1,7 +1,12 @@
-# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>18</sup>
+# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>19</sup>
 ---
 
 ## 2018
+
+### Просто космос
+Катерина Ленгольд
+> [2018-12-24] 
+
 
 ### Как я изучаю языки
 Като Ломб

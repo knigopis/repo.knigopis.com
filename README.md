@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Erdi](users/104/104289450206538776186-googleplus)<sup>19</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>38</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>54</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>166</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>21</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>33</sup> 
-[Erdi](users/104/104289450206538776186-googleplus)<sup>18</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>37</sup> 
 [En](users/333/333646551-vkontakte)<sup>60</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>7</sup> 
 
 
-_24.12.2018 11:00:57_
+_24.12.2018 11:04:02_
