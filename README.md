@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sab_olya](users/139/139338401-vkontakte)<sup>3</sup> 
+[sab_olya](users/139/139338401-vkontakte)<sup>4</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>80</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>341</sup> 
 [fir137](users/176/176805114-yandex)<sup>10</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>17</sup> 
 
 
-_24.12.2018 10:00:33_
+_24.12.2018 10:01:25_
