@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>22</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>23</sup>
 ---
 
 ## 2018
+
+### Маленький принц
+Антуан де Сент-Экзюпери
+> [2018-06-09] 
+
 
 ### Черное солнце
 А.Чопчик

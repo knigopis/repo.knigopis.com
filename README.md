@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sab_olya](users/139/139338401-vkontakte)<sup>22</sup> 
+[sab_olya](users/139/139338401-vkontakte)<sup>23</sup> 
 [Сергей Окунев](users/130/13093426497474642450-mailru)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>80</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>341</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>7</sup> 
 
 
-_24.12.2018 10:11:16_
+_24.12.2018 10:12:54_

@@ -1,4 +1,16 @@
 {
+    "X3vvFlTZFU": {
+        "id": "X3vvFlTZFU",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2018-12-24 10:12:54",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 23
+        }
+    },
     "NaJ65CzMPX": {
         "id": "NaJ65CzMPX",
         "title": "Черное солнце",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 23
-        }
-    },
-    "fM1jDhJZq5": {
-        "id": "fM1jDhJZq5",
-        "title": "Театры души",
-        "author": "Джойс Макдугалл",
-        "notes": "",
-        "createdAt": "2018-12-20 20:48:36",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 22
         }
     }
 }
