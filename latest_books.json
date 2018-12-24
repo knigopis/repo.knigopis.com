@@ -1,4 +1,16 @@
 {
+    "Y2W2Vhz6IP": {
+        "id": "Y2W2Vhz6IP",
+        "title": "Зулейха открывает глаза",
+        "author": "Гузель Яхина",
+        "notes": "",
+        "createdAt": "2018-12-24 10:02:45",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 5
+        }
+    },
     "YcemG4Cjib": {
         "id": "YcemG4Cjib",
         "title": "De profundis",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 7
-        }
-    },
-    "tdgrYvqpZY": {
-        "id": "tdgrYvqpZY",
-        "title": "Богатые тоже плачут!",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-12-19 21:17:59",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 6
         }
     }
 }
