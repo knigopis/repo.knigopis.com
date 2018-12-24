@@ -1,4 +1,16 @@
 {
+    "lfvQELZIR0": {
+        "id": "lfvQELZIR0",
+        "title": "Второй шанс на жизнь",
+        "author": "Виктория Цой",
+        "notes": "",
+        "createdAt": "2018-12-24 10:13:20",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 24
+        }
+    },
     "X3vvFlTZFU": {
         "id": "X3vvFlTZFU",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 24
-        }
-    },
-    "9IinPjSZla": {
-        "id": "9IinPjSZla",
-        "title": "Театры тела",
-        "author": "Джойс Макдугалл",
-        "notes": "",
-        "createdAt": "2018-12-20 20:49:07",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 23
         }
     }
 }

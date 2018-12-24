@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>23</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>24</sup>
 ---
 
 ## 2018
+
+### Второй шанс на жизнь
+Виктория Цой
+> [2018-06-11] 
+
 
 ### Маленький принц
 Антуан де Сент-Экзюпери
