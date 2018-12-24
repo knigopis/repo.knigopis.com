@@ -1,4 +1,10 @@
 {
+    "117835844513813219393-google": {
+        "id": "117835844513813219393-google",
+        "nickname": "Aleks",
+        "booksCount": 37,
+        "updatedAt": "2018-12-24 10:59:52"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -82,12 +88,6 @@
         "nickname": "Erdi",
         "booksCount": 18,
         "updatedAt": "2018-12-19 00:31:28"
-    },
-    "117835844513813219393-google": {
-        "id": "117835844513813219393-google",
-        "nickname": "Aleks",
-        "booksCount": 36,
-        "updatedAt": "2018-12-18 16:01:01"
     },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
