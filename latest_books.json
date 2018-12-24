@@ -1,4 +1,16 @@
 {
+    "gByvLiitCV": {
+        "id": "gByvLiitCV",
+        "title": "Шагреневая кожа",
+        "author": "Оноре де Бальзак",
+        "notes": "",
+        "createdAt": "2018-12-24 10:09:17",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 18
+        }
+    },
     "O6r3hIpIoX": {
         "id": "O6r3hIpIoX",
         "title": "Собор парижской богоматери",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 18
-        }
-    },
-    "4_mzxWTKuJ": {
-        "id": "4_mzxWTKuJ",
-        "title": "Собор Парижской Богоматери",
-        "author": "Виктор Гюго",
-        "notes": "",
-        "createdAt": "2018-12-20 20:44:22",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 17
         }
     }
 }
