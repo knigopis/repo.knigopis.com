@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>26</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>27</sup>
 ---
 
 ## 2018
+
+### 1984
+Джордж Оруэлл
+> [2018-06-30] 
+
 
 ### Идеальная грешница
 Людмила Михайлова
