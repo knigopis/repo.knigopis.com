@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>5</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>6</sup>
 ---
 
 ## 2018
+
+### Дом странных детей
+Р.Ригз
+> [2018-02-08] 
+
 
 ### Зулейха открывает глаза
 Гузель Яхина

@@ -1,4 +1,16 @@
 {
+    "CS2bMFYnq8": {
+        "id": "CS2bMFYnq8",
+        "title": "Дом странных детей",
+        "author": "Р.Ригз",
+        "notes": "",
+        "createdAt": "2018-12-24 10:03:18",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 6
+        }
+    },
     "Y2W2Vhz6IP": {
         "id": "Y2W2Vhz6IP",
         "title": "Зулейха открывает глаза",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 8
-        }
-    },
-    "DU6Q6bQ2sq": {
-        "id": "DU6Q6bQ2sq",
-        "title": "Лекции по введению в психоанализ.",
-        "author": "Зигмунд Фрейд",
-        "notes": "",
-        "createdAt": "2018-12-19 21:18:59",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 7
         }
     }
 }
