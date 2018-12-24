@@ -1,4 +1,16 @@
 {
+    "hhflEZ4Aw6": {
+        "id": "hhflEZ4Aw6",
+        "title": "Город пустых",
+        "author": "Р.Ригз",
+        "notes": "",
+        "createdAt": "2018-12-24 10:03:48",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 7
+        }
+    },
     "CS2bMFYnq8": {
         "id": "CS2bMFYnq8",
         "title": "Дом странных детей",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 9
-        }
-    },
-    "Cw5u47kb5f": {
-        "id": "Cw5u47kb5f",
-        "title": "Громче, чем тишина",
-        "author": "Веста Спиваковская",
-        "notes": "",
-        "createdAt": "2018-12-19 21:19:31",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 8
         }
     }
 }

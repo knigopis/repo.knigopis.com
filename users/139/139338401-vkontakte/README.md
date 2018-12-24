@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>6</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>7</sup>
 ---
 
 ## 2018
+
+### Город пустых
+Р.Ригз
+> [2018-02-10] 
+
 
 ### Дом странных детей
 Р.Ригз
