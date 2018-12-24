@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>45</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>46</sup>
 ---
 
 ## 2018
+
+### Э.Ионеско
+Лысая певица
+> [2018-12-18] 
+
 
 ### Ж.-П.Сартр
 Стена
