@@ -1,4 +1,16 @@
 {
+    "pbWiwHj1h_": {
+        "id": "pbWiwHj1h_",
+        "title": "Солярис",
+        "author": "Станислав Лем",
+        "notes": "7/10",
+        "createdAt": "2018-12-24 10:38:29",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 101
+        }
+    },
     "8Oo7t5pIMr": {
         "id": "8Oo7t5pIMr",
         "title": "Аригато",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 26
-        }
-    },
-    "Icoy-F5p_W": {
-        "id": "Icoy-F5p_W",
-        "title": "Путешествия гулливера",
-        "author": "Джонатан Свифт",
-        "notes": "",
-        "createdAt": "2018-12-24 10:13:59",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 25
         }
     }
 }

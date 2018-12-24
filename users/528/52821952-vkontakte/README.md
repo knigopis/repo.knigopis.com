@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>100</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>101</sup>
 ---
 
 ## 2018
+
+### Солярис
+Станислав Лем
+> [2018-12-24] 7/10
+
 
 ### Магия утра
 Хэл Элрод

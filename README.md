@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Солярис ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
+    > 7/10
+
 * Семь зверей Райлега. Алиедора ~ [EsterHani](users/305/30558181-vkontakte)<sup>164</sup>
     > Книга 2
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Альтернативная цивилизация ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/8746032/
 
 * Орлы Революции ~ [mfevralev](users/140/140966150-vkontakte)<sup>37</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 🔸️Дом странных детей 1 ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup>
 
-* Собственник (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>201</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>54</sup> 
 [Сергей Окунев](users/130/13093426497474642450-mailru)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>80</sup> 
@@ -48,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [striped_one](users/249/249815548-vkontakte)<sup>21</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>33</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>18</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>36</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>37</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>7</sup> 
 
 
-_24.12.2018 10:28:49_
+_24.12.2018 10:38:29_
