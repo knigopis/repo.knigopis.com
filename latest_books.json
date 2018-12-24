@@ -1,4 +1,16 @@
 {
+    "2tsVlcXZxd": {
+        "id": "2tsVlcXZxd",
+        "title": "Дневник горничной",
+        "author": "Октав Мирбо",
+        "notes": "",
+        "createdAt": "2018-12-24 10:19:13",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 35
+        }
+    },
     "QH0nIHrxL1": {
         "id": "QH0nIHrxL1",
         "title": "Кошкина пижама",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 6
-        }
-    },
-    "Y2W2Vhz6IP": {
-        "id": "Y2W2Vhz6IP",
-        "title": "Зулейха открывает глаза",
-        "author": "Гузель Яхина",
-        "notes": "",
-        "createdAt": "2018-12-24 10:02:45",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 5
         }
     }
 }

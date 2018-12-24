@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>34</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>35</sup>
 ---
 
 ## 2018
+
+### Дневник горничной
+Октав Мирбо
+> [2018-08-07] 
+
 
 ### Кошкина пижама
 Рэй Брэдбери
