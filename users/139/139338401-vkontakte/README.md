@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>12</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>13</sup>
 ---
 
 ## 2018
+
+### Гранатовый браслет
+А.Куприн
+> [2018-03-25] 
+
 
 ### Чернобыльская молитва
 С.Алексиевич

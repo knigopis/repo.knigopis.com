@@ -1,4 +1,16 @@
 {
+    "e2E1hE1KMk": {
+        "id": "e2E1hE1KMk",
+        "title": "Гранатовый браслет",
+        "author": "А.Куприн",
+        "notes": "",
+        "createdAt": "2018-12-24 10:06:43",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 13
+        }
+    },
     "7qTUqZTRGx": {
         "id": "7qTUqZTRGx",
         "title": "Чернобыльская молитва",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 9
-        }
-    },
-    "RAA3YKhHMX": {
-        "id": "RAA3YKhHMX",
-        "title": "Ловушка для внимания. Как вызвать и удержать интерес к идее, проекту или продукту",
-        "author": "Бен Парр",
-        "notes": "",
-        "createdAt": "2018-12-20 13:16:58",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 166
         }
     }
 }
