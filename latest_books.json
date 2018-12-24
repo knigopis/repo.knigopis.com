@@ -1,4 +1,16 @@
 {
+    "NaJ65CzMPX": {
+        "id": "NaJ65CzMPX",
+        "title": "Черное солнце",
+        "author": "А.Чопчик",
+        "notes": "",
+        "createdAt": "2018-12-24 10:11:16",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 22
+        }
+    },
     "5lIouopbX7": {
         "id": "5lIouopbX7",
         "title": "Бездомная",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 22
-        }
-    },
-    "GGy2NI0Mbc": {
-        "id": "GGy2NI0Mbc",
-        "title": "Стыд и внешний облик",
-        "author": "Якоби Марио",
-        "notes": "",
-        "createdAt": "2018-12-20 20:47:51",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 21
         }
     }
 }

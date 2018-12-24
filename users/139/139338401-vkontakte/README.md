@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>21</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>22</sup>
 ---
 
 ## 2018
+
+### Черное солнце
+А.Чопчик
+> [2018-05-19] 
+
 
 ### Бездомная
 К.Михаляк
