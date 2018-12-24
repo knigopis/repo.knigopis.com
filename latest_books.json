@@ -1,4 +1,16 @@
 {
+    "jQGzu73nbB": {
+        "id": "jQGzu73nbB",
+        "title": "Красное и черное",
+        "author": "Стендаль",
+        "notes": "",
+        "createdAt": "2018-12-24 10:09:43",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 19
+        }
+    },
     "gByvLiitCV": {
         "id": "gByvLiitCV",
         "title": "Шагреневая кожа",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 19
-        }
-    },
-    "VFHjASB3mJ": {
-        "id": "VFHjASB3mJ",
-        "title": "Вино из одуванчиков",
-        "author": "Рей Бредбери",
-        "notes": "",
-        "createdAt": "2018-12-20 20:45:08",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 18
         }
     }
 }
