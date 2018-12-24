@@ -1,4 +1,16 @@
 {
+    "mcZ_rQ_ty7": {
+        "id": "mcZ_rQ_ty7",
+        "title": "Посторонний",
+        "author": "Альбер Камю",
+        "notes": "",
+        "createdAt": "2018-12-24 10:23:12",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 42
+        }
+    },
     "fEmkVFskXY": {
         "id": "fEmkVFskXY",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 13
-        }
-    },
-    "7qTUqZTRGx": {
-        "id": "7qTUqZTRGx",
-        "title": "Чернобыльская молитва",
-        "author": "С.Алексиевич",
-        "notes": "",
-        "createdAt": "2018-12-24 10:06:14",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 12
         }
     }
 }
