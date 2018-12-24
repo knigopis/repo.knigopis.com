@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Aleks](users/117/117835844513813219393-google)<sup>37</sup> 
+[Aleks](users/117/117835844513813219393-google)<sup>38</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>54</sup> 
 [Сергей Окунев](users/130/13093426497474642450-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anyutka_karpan](users/597/59793548-vkontakte)<sup>7</sup> 
 
 
-_24.12.2018 10:59:52_
+_24.12.2018 11:00:57_
