@@ -1,4 +1,16 @@
 {
+    "M8jORu48vd": {
+        "id": "M8jORu48vd",
+        "title": "Вавилонская библиотека",
+        "author": "Х.Л.Борхес",
+        "notes": "",
+        "createdAt": "2018-12-24 10:28:15",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 52
+        }
+    },
     "LGTCmIEzyh": {
         "id": "LGTCmIEzyh",
         "title": "Пролетая над гнездом кукушки",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 23
-        }
-    },
-    "NaJ65CzMPX": {
-        "id": "NaJ65CzMPX",
-        "title": "Черное солнце",
-        "author": "А.Чопчик",
-        "notes": "",
-        "createdAt": "2018-12-24 10:11:16",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 22
         }
     }
 }
