@@ -1,4 +1,16 @@
 {
+    "9Dhc_CWts_": {
+        "id": "9Dhc_CWts_",
+        "title": "Барьер",
+        "author": "П.Вежинов",
+        "notes": "",
+        "createdAt": "2018-12-24 09:59:47",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 1
+        }
+    },
     "nGrTomVRcM": {
         "id": "nGrTomVRcM",
         "title": "Красная угроза",
@@ -345,18 +357,6 @@
             "id": "17633272-vkontakte",
             "nickname": "Brenda Walsh",
             "booksCount": 3
-        }
-    },
-    "3Q8Y3jHnHv": {
-        "id": "3Q8Y3jHnHv",
-        "title": "Анна Каренина",
-        "author": "Лев Толстой",
-        "notes": "",
-        "createdAt": "2018-12-19 21:15:33",
-        "user": {
-            "id": "17633272-vkontakte",
-            "nickname": "Brenda Walsh",
-            "booksCount": 2
         }
     }
 }
