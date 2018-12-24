@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fridrih](users/115/115771667101883638909-google)<sup>0</sup> 
 [](users/224/2242326882760268-facebook)<sup>0</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>19</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>38</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [YUrij](users/108/108412189296732059814-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>679</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>144</sup> 
-[kasikandriena](users/152/152488954-vkontakte)<sup>53</sup> 
 
 
-_24.12.2018 16:51:20_
+_24.12.2018 17:59:32_
