@@ -1,7 +1,11 @@
-# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>16</sup>
+# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>17</sup>
 ---
 
 ## 2018
+
+### Приключения Лидерика
+Александр Дюма
+
 
 ### Бастард де Молеон
 Александр Дюма

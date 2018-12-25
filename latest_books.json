@@ -1,4 +1,16 @@
 {
+    "U5Rizog6vC": {
+        "id": "U5Rizog6vC",
+        "title": "Приключения Лидерика",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2018-12-25 12:10:12",
+        "user": {
+            "id": "31359243-vkontakte",
+            "nickname": "rosaviktuk",
+            "booksCount": 17
+        }
+    },
     "LYFkZm5s-T": {
         "id": "LYFkZm5s-T",
         "title": "Бастард де Молеон",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 48
-        }
-    },
-    "qpx_TH99k5": {
-        "id": "qpx_TH99k5",
-        "title": "Ф.Кафка",
-        "author": "Превращение",
-        "notes": "",
-        "createdAt": "2018-12-24 10:25:30",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 47
         }
     }
 }
