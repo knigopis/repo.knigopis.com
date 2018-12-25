@@ -1,4 +1,16 @@
 {
+    "jQuB0dIxx7": {
+        "id": "jQuB0dIxx7",
+        "title": "Красный сфинкс (Граф де Море)",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2018-12-25 12:13:05",
+        "user": {
+            "id": "31359243-vkontakte",
+            "nickname": "rosaviktuk",
+            "booksCount": 21
+        }
+    },
     "5ooUAMmErJ": {
         "id": "5ooUAMmErJ",
         "title": "Собор Парижской Богоматери",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 52
-        }
-    },
-    "LGTCmIEzyh": {
-        "id": "LGTCmIEzyh",
-        "title": "Пролетая над гнездом кукушки",
-        "author": "К.Кизи",
-        "notes": "",
-        "createdAt": "2018-12-24 10:27:41",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 51
         }
     }
 }

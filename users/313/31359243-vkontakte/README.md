@@ -1,7 +1,11 @@
-# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>20</sup>
+# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>21</sup>
 ---
 
 ## 2018
+
+### Красный сфинкс (Граф де Море)
+Александр Дюма
+
 
 ### Собор Парижской Богоматери
 Виктор Гюго
