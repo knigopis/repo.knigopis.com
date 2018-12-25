@@ -1,4 +1,16 @@
 {
+    "iDcsUlJ338": {
+        "id": "iDcsUlJ338",
+        "title": "Сорок пять",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2018-12-25 12:03:15",
+        "user": {
+            "id": "31359243-vkontakte",
+            "nickname": "rosaviktuk",
+            "booksCount": 4
+        }
+    },
     "hdSyJBWDOQ": {
         "id": "hdSyJBWDOQ",
         "title": "Графиня де Монсоро",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 36
-        }
-    },
-    "2tsVlcXZxd": {
-        "id": "2tsVlcXZxd",
-        "title": "Дневник горничной",
-        "author": "Октав Мирбо",
-        "notes": "",
-        "createdAt": "2018-12-24 10:19:13",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 35
         }
     }
 }
