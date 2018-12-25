@@ -1,4 +1,16 @@
 {
+    "GpZGSIu0QL": {
+        "id": "GpZGSIu0QL",
+        "title": "Королева Марго",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2018-12-25 12:02:43",
+        "user": {
+            "id": "31359243-vkontakte",
+            "nickname": "rosaviktuk",
+            "booksCount": 2
+        }
+    },
     "aJZ0DVrXgT": {
         "id": "aJZ0DVrXgT",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 34
-        }
-    },
-    "lG72jaGA_v": {
-        "id": "lG72jaGA_v",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Бредбери",
-        "notes": "",
-        "createdAt": "2018-12-24 10:18:04",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 33
         }
     }
 }
