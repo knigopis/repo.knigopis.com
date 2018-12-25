@@ -1,4 +1,16 @@
 {
+    "7r162_X-bz": {
+        "id": "7r162_X-bz",
+        "title": "Паж герцога Савойского",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2018-12-25 12:07:59",
+        "user": {
+            "id": "31359243-vkontakte",
+            "nickname": "rosaviktuk",
+            "booksCount": 10
+        }
+    },
     "-gVCPFr8Gp": {
         "id": "-gVCPFr8Gp",
         "title": "Предсказание",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 41
-        }
-    },
-    "Dgan2A4Dmj": {
-        "id": "Dgan2A4Dmj",
-        "title": "Парфюмер.История одного убийцы",
-        "author": "Патрик Зюскинд",
-        "notes": "",
-        "createdAt": "2018-12-24 10:22:15",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 40
         }
     }
 }
