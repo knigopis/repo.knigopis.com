@@ -1,4 +1,16 @@
 {
+    "Uwhf-FGQE0": {
+        "id": "Uwhf-FGQE0",
+        "title": "Граф Монте-Кристо",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2018-12-25 12:04:02",
+        "user": {
+            "id": "31359243-vkontakte",
+            "nickname": "rosaviktuk",
+            "booksCount": 7
+        }
+    },
     "LYpCMtJqP6": {
         "id": "LYpCMtJqP6",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 38
-        }
-    },
-    "aaCFaqjX0g": {
-        "id": "aaCFaqjX0g",
-        "title": "Любовь живёт три года",
-        "author": "Фредерик Бегбедер",
-        "notes": "",
-        "createdAt": "2018-12-24 10:20:35",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 37
         }
     }
 }
