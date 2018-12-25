@@ -1,4 +1,16 @@
 {
+    "JSV4OhuW5r": {
+        "id": "JSV4OhuW5r",
+        "title": "Лавка древностей",
+        "author": "Чарльз Диккенс",
+        "notes": "",
+        "createdAt": "2018-12-25 12:11:31",
+        "user": {
+            "id": "31359243-vkontakte",
+            "nickname": "rosaviktuk",
+            "booksCount": 18
+        }
+    },
     "U5Rizog6vC": {
         "id": "U5Rizog6vC",
         "title": "Приключения Лидерика",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 49
-        }
-    },
-    "39DJREIpGF": {
-        "id": "39DJREIpGF",
-        "title": "Б.Брехт",
-        "author": "Мамаша Кураж и ее дети",
-        "notes": "",
-        "createdAt": "2018-12-24 10:25:57",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 48
         }
     }
 }
