@@ -1,4 +1,4 @@
-# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>22</sup>
+# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>23</sup>
 ---
 
 ## 2018
@@ -45,6 +45,10 @@
 
 
 ## 2017
+
+### Фауст
+Иоганн Вольфганг Гёте
+
 
 ### Франкенштейн
 Мери Шелли
