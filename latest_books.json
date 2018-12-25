@@ -1,4 +1,16 @@
 {
+    "5ooUAMmErJ": {
+        "id": "5ooUAMmErJ",
+        "title": "Собор Парижской Богоматери",
+        "author": "Виктор Гюго",
+        "notes": "",
+        "createdAt": "2018-12-25 12:12:44",
+        "user": {
+            "id": "31359243-vkontakte",
+            "nickname": "rosaviktuk",
+            "booksCount": 20
+        }
+    },
     "rZYYzeuZll": {
         "id": "rZYYzeuZll",
         "title": "Франкенштейн",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 51
-        }
-    },
-    "ZgpTWxp-Jo": {
-        "id": "ZgpTWxp-Jo",
-        "title": "Зима тревоги нашей",
-        "author": "Дж.Стейнбек",
-        "notes": "",
-        "createdAt": "2018-12-24 10:26:47",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 50
         }
     }
 }
