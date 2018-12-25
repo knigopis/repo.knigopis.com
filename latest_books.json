@@ -1,4 +1,16 @@
 {
+    "rZYYzeuZll": {
+        "id": "rZYYzeuZll",
+        "title": "Франкенштейн",
+        "author": "Мери Шелли",
+        "notes": "",
+        "createdAt": "2018-12-25 12:12:09",
+        "user": {
+            "id": "31359243-vkontakte",
+            "nickname": "rosaviktuk",
+            "booksCount": 19
+        }
+    },
     "JSV4OhuW5r": {
         "id": "JSV4OhuW5r",
         "title": "Лавка древностей",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 50
-        }
-    },
-    "9_YkGI_T96": {
-        "id": "9_YkGI_T96",
-        "title": "Г.Уэлле",
-        "author": "Машина времени",
-        "notes": "",
-        "createdAt": "2018-12-24 10:26:25",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 49
         }
     }
 }

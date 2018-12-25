@@ -1,4 +1,4 @@
-# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>18</sup>
+# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>19</sup>
 ---
 
 ## 2018
@@ -33,6 +33,10 @@
 
 
 ## 2017
+
+### Франкенштейн
+Мери Шелли
+
 
 ### Лавка древностей
 Чарльз Диккенс
