@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Aleks](users/117/117835844513813219393-google)<sup>39</sup> 
 [fridrih](users/115/115771667101883638909-google)<sup>1</sup> 
 [](users/224/2242326882760268-facebook)<sup>0</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>19</sup> 
-[Aleks](users/117/117835844513813219393-google)<sup>38</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>54</sup> 
 [Сергей Окунев](users/130/13093426497474642450-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>144</sup> 
 
 
-_24.12.2018 18:03:55_
+_25.12.2018 08:40:08_
