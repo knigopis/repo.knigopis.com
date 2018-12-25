@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[rosaviktuk](users/313/31359243-vkontakte)<sup>13</sup> 
+[rosaviktuk](users/313/31359243-vkontakte)<sup>14</sup> 
 [fir137](users/176/176805114-yandex)<sup>11</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>39</sup> 
 [fridrih](users/115/115771667101883638909-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>679</sup> 
 
 
-_25.12.2018 12:08:47_
+_25.12.2018 12:08:56_
