@@ -1,4 +1,16 @@
 {
+    "jGC_65YPEv": {
+        "id": "jGC_65YPEv",
+        "title": "Убийство Роджера Экройда",
+        "author": "Кристи Агата",
+        "notes": "До этих пор самой интересной оставалась первая изданная книга Агаты Кристи. Это произведение по оригинальности стоит рядом.",
+        "createdAt": "2018-12-25 11:18:14",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 11
+        }
+    },
     "yljqyfYD-E": {
         "id": "yljqyfYD-E",
         "title": "Странная история доктора Джекила и мистера Хайда",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 32
-        }
-    },
-    "SyRMayS70U": {
-        "id": "SyRMayS70U",
-        "title": "Царица Хатасу",
-        "author": "Вера Крыжановская",
-        "notes": "",
-        "createdAt": "2018-12-24 10:16:55",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 31
         }
     }
 }

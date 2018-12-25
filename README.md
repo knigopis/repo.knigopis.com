@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убийство Роджера Экройда ~ [fir137](users/176/176805114-yandex)<sup>11</sup>
+    > До этих пор самой интересной оставалась первая изданная книга Агаты Кристи. Это произведение по оригинальности стоит рядом.
+
 * Солярис ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
     > 7/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 2
 
 * Магия утра ~ [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup>
-    > 7/10
 
 * Альтернативная цивилизация ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Час быка ~ [HXT](users/100/100002563462782-facebook)<sup>339</sup>
 
-* 🔸️Дом странных детей 1 ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>11</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>39</sup> 
 [fridrih](users/115/115771667101883638909-google)<sup>1</sup> 
 [](users/224/2242326882760268-facebook)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Сергей Окунев](users/130/13093426497474642450-mailru)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>80</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>341</sup> 
-[fir137](users/176/176805114-yandex)<sup>10</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [lina_gela](users/808/8082669028-instagram)<sup>1</sup> 
 [Brenda Walsh](users/176/17633272-vkontakte)<sup>24</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>144</sup> 
 
 
-_25.12.2018 08:40:08_
+_25.12.2018 11:18:14_
