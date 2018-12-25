@@ -1,4 +1,16 @@
 {
+    "LYFkZm5s-T": {
+        "id": "LYFkZm5s-T",
+        "title": "Бастард де Молеон",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2018-12-25 12:10:01",
+        "user": {
+            "id": "31359243-vkontakte",
+            "nickname": "rosaviktuk",
+            "booksCount": 16
+        }
+    },
     "UtUASiGQeH": {
         "id": "UtUASiGQeH",
         "title": "Железная маска",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 47
-        }
-    },
-    "XLXkdqqRLQ": {
-        "id": "XLXkdqqRLQ",
-        "title": "Э.Ионеско",
-        "author": "Лысая певица",
-        "notes": "",
-        "createdAt": "2018-12-24 10:25:04",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 46
         }
     }
 }

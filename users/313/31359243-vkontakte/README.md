@@ -1,7 +1,11 @@
-# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>15</sup>
+# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>16</sup>
 ---
 
 ## 2018
+
+### Бастард де Молеон
+Александр Дюма
+
 
 ### Железная маска
 Александр Дюма
