@@ -1,4 +1,16 @@
 {
+    "JivFQWZHbJ": {
+        "id": "JivFQWZHbJ",
+        "title": "Дориан Грей",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2018-12-25 12:14:49",
+        "user": {
+            "id": "31359243-vkontakte",
+            "nickname": "rosaviktuk",
+            "booksCount": 24
+        }
+    },
     "8qDQ3ivU4R": {
         "id": "8qDQ3ivU4R",
         "title": "Фауст",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 101
-        }
-    },
-    "8Oo7t5pIMr": {
-        "id": "8Oo7t5pIMr",
-        "title": "Аригато",
-        "author": "Кавабаты Ясунари",
-        "notes": "",
-        "createdAt": "2018-12-24 10:28:49",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 54
         }
     }
 }

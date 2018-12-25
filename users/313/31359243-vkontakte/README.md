@@ -1,4 +1,4 @@
-# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>23</sup>
+# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>24</sup>
 ---
 
 ## 2018
@@ -72,6 +72,10 @@
 
 
 ## 2016
+
+### Дориан Грей
+Оскар Уайльд
+
 
 ### Графиня де Монсоро
 Александр Дюма
