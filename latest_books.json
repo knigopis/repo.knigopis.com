@@ -1,4 +1,16 @@
 {
+    "sOC2yCtd18": {
+        "id": "sOC2yCtd18",
+        "title": "Джекаби 3. Призрачное эхо",
+        "author": "Уильям Риттер",
+        "notes": "",
+        "createdAt": "2018-12-25 16:04:02",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 116
+        }
+    },
     "JivFQWZHbJ": {
         "id": "JivFQWZHbJ",
         "title": "Дориан Грей",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 37
-        }
-    },
-    "pbWiwHj1h_": {
-        "id": "pbWiwHj1h_",
-        "title": "Солярис",
-        "author": "Станислав Лем",
-        "notes": "7/10",
-        "createdAt": "2018-12-24 10:38:29",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 101
         }
     }
 }

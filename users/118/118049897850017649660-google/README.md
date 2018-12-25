@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>115</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>116</sup>
 ---
 
 ## 2018
+
+### Джекаби 3. Призрачное эхо
+Уильям Риттер
+> [2018-12-13] 
+
 
 ### Джекаби 2. Кости зверя
 Уильям Риттер
