@@ -1,4 +1,16 @@
 {
+    "1lnHKW7Iz9": {
+        "id": "1lnHKW7Iz9",
+        "title": "Голубка",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2018-12-25 12:13:14",
+        "user": {
+            "id": "31359243-vkontakte",
+            "nickname": "rosaviktuk",
+            "booksCount": 22
+        }
+    },
     "jQuB0dIxx7": {
         "id": "jQuB0dIxx7",
         "title": "Красный сфинкс (Граф де Море)",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 53
-        }
-    },
-    "M8jORu48vd": {
-        "id": "M8jORu48vd",
-        "title": "Вавилонская библиотека",
-        "author": "Х.Л.Борхес",
-        "notes": "",
-        "createdAt": "2018-12-24 10:28:15",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 52
         }
     }
 }
