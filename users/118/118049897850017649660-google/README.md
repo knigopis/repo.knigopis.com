@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>116</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>117</sup>
 ---
 
 ## 2018
+
+### Джекаби 4. Жуткий король
+Уильям Риттер
+> [2018-12-21] Последняя часть как апогей скуки просто, невозможно читать
+
 
 ### Джекаби 3. Призрачное эхо
 Уильям Риттер

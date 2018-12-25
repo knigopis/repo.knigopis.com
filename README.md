@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Джекаби 4. Жуткий король ~ [Sky](users/118/118049897850017649660-google)<sup>117</sup>
+    > Последняя часть как апогей скуки просто, невозможно читать
+
 * Убийство Роджера Экройда ~ [fir137](users/176/176805114-yandex)<sup>11</sup>
     > До этих пор самой интересной оставалась первая изданная книга Агаты Кристи. Это произведение по оригинальности стоит рядом.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Семь зверей Райлега. Алиедора ~ [EsterHani](users/305/30558181-vkontakte)<sup>164</sup>
-    > Книга 2
 
 * Магия утра ~ [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Интерлюдия. Последнее лето Форсайта (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>202</sup>
 
-* Час быка ~ [HXT](users/100/100002563462782-facebook)<sup>339</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>116</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>117</sup> 
 [rosaviktuk](users/313/31359243-vkontakte)<sup>24</sup> 
 [fir137](users/176/176805114-yandex)<sup>11</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [YUrij](users/108/108412189296732059814-google)<sup>1</sup> 
 
 
-_25.12.2018 16:04:02_
+_25.12.2018 16:07:02_
