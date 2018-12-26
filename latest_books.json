@@ -1,4 +1,16 @@
 {
+    "p1TsMbhLbU": {
+        "id": "p1TsMbhLbU",
+        "title": "Новая космическая гонка: Как Илон Маск, Джефф Безос и Ричард Брэнсон соревнуются за первенство в космосе",
+        "author": "Т. Фернхольц",
+        "notes": "",
+        "createdAt": "2018-12-26 11:10:45",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 4
+        }
+    },
     "zkgQ-5sIwb": {
         "id": "zkgQ-5sIwb",
         "title": "Казус Кукоцкого",
@@ -345,18 +357,6 @@
             "id": "115771667101883638909-google",
             "nickname": "fridrih",
             "booksCount": 1
-        }
-    },
-    "N-ODOCOutS": {
-        "id": "N-ODOCOutS",
-        "title": "Просто космос",
-        "author": "Катерина Ленгольд",
-        "notes": "",
-        "createdAt": "2018-12-24 11:04:02",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": "Erdi",
-            "booksCount": 19
         }
     }
 }
