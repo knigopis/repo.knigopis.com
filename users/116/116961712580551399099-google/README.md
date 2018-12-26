@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>54</sup>
+# List of books read by violet_velva<sup>55</sup>
 ---
 
 ## 2018
+
+### Казус Кукоцкого
+Людмила Улицкая
+> [2018-12] 
+
 
 ### Дом, в котором...
 Мариам Петросян

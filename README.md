@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>55</sup> 
 [doilid](users/104/104250836469076768434-google)<sup>0</sup> 
 [Miheyjum](users/115/115651235597791470259-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>117</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>60</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>92</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>46</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>54</sup> 
 [shibito_kun](users/108/108836037074542338532-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>202</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup> 
 
 
-_26.12.2018 09:16:04_
+_26.12.2018 10:11:45_
