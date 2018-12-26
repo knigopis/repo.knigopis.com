@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[doilid](users/104/104250836469076768434-google)<sup>0</sup> 
 [Miheyjum](users/115/115651235597791470259-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>117</sup> 
 [rosaviktuk](users/313/31359243-vkontakte)<sup>24</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shibito_kun](users/108/108836037074542338532-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>202</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>15</sup> 
 
 
-_26.12.2018 06:55:05_
+_26.12.2018 09:16:04_
