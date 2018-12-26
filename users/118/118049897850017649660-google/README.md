@@ -1,7 +1,11 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>117</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>118</sup>
 ---
 
 ## 2018
+
+### Среди эльфов и троллей
+> [2018-12-26] 
+
 
 ### Джекаби 4. Жуткий король
 Уильям Риттер

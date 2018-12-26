@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>118</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>4</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>55</sup> 
 [doilid](users/104/104250836469076768434-google)<sup>0</sup> 
 [Miheyjum](users/115/115651235597791470259-google)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>117</sup> 
 [rosaviktuk](users/313/31359243-vkontakte)<sup>24</sup> 
 [fir137](users/176/176805114-yandex)<sup>11</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup> 
 
 
-_26.12.2018 11:10:45_
+_26.12.2018 18:32:14_
