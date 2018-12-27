@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>48</sup>
+# List of books read by Aleks<sup>49</sup>
 ---
 
 ## Other years
+
+### Атлант расправил плечи (1/3 )
+Айн Рэнд
+
 
 ### Маленький принц
 Антуан де Сент-Экзюпери
