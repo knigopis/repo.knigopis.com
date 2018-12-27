@@ -1,4 +1,10 @@
 {
+    "122014636-vkontakte": {
+        "id": "122014636-vkontakte",
+        "nickname": "vlad_zamaev",
+        "booksCount": 0,
+        "updatedAt": "2018-12-27 15:16:55"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 46,
         "updatedAt": "2018-12-17 11:19:01"
-    },
-    "108836037074542338532-google": {
-        "id": "108836037074542338532-google",
-        "nickname": "shibito_kun",
-        "booksCount": 1,
-        "updatedAt": "2018-12-16 17:08:37"
     }
 }
