@@ -1,4 +1,16 @@
 {
+    "249sBDN9oe": {
+        "id": "249sBDN9oe",
+        "title": "Идиот",
+        "author": "Федор Михайлович Достоевский",
+        "notes": "",
+        "createdAt": "2018-12-27 22:22:45",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 51
+        }
+    },
     "MYwfX39yzj": {
         "id": "MYwfX39yzj",
         "title": "Книжный вор",
@@ -345,18 +357,6 @@
             "id": "31359243-vkontakte",
             "nickname": "rosaviktuk",
             "booksCount": 22
-        }
-    },
-    "jQuB0dIxx7": {
-        "id": "jQuB0dIxx7",
-        "title": "Красный сфинкс (Граф де Море)",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2018-12-25 12:13:05",
-        "user": {
-            "id": "31359243-vkontakte",
-            "nickname": "rosaviktuk",
-            "booksCount": 21
         }
     }
 }
