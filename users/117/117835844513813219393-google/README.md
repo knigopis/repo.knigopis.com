@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>45</sup>
+# List of books read by Aleks<sup>46</sup>
 ---
 
 ## Other years
+
+### Мастер и Маргарита
+Михаил Афанасьевич Булгаков
+
 
 ### Бойня номер пять
 Курт Воннегут
