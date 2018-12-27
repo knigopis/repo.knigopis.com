@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>3</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>4</sup>
 ---
 
 ## 2009
@@ -17,6 +17,10 @@
 
 
 ## 2007
+
+### В логове нечисти
+Клиффорд Саймак
+
 
 ### Граф Монте-Кристо
 Александр Дюма

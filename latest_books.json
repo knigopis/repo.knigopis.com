@@ -1,4 +1,16 @@
 {
+    "Fc4tW4yxdJ": {
+        "id": "Fc4tW4yxdJ",
+        "title": "В логове нечисти",
+        "author": "Клиффорд Саймак",
+        "notes": "",
+        "createdAt": "2018-12-27 19:52:02",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 4
+        }
+    },
     "GmdChnnfPv": {
         "id": "GmdChnnfPv",
         "title": "Граф Монте-Кристо",
@@ -345,18 +357,6 @@
             "id": "31359243-vkontakte",
             "nickname": "rosaviktuk",
             "booksCount": 9
-        }
-    },
-    "8rjdf5th2d": {
-        "id": "8rjdf5th2d",
-        "title": "Асканио",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2018-12-25 12:04:30",
-        "user": {
-            "id": "31359243-vkontakte",
-            "nickname": "rosaviktuk",
-            "booksCount": 8
         }
     }
 }
