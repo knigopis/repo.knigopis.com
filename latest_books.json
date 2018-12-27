@@ -1,4 +1,28 @@
 {
+    "GmdChnnfPv": {
+        "id": "GmdChnnfPv",
+        "title": "Граф Монте-Кристо",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2018-12-27 19:50:41",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 3
+        }
+    },
+    "GMc9bBPtm7": {
+        "id": "GMc9bBPtm7",
+        "title": "\"Рунный посох. Хроники Хокмуна\"",
+        "author": "Майкл Муркок",
+        "notes": "",
+        "createdAt": "2018-12-27 19:49:29",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 2
+        }
+    },
     "1buQXaNcoN": {
         "id": "1buQXaNcoN",
         "title": "\"Линия грёз\"",
@@ -333,30 +357,6 @@
             "id": "31359243-vkontakte",
             "nickname": "rosaviktuk",
             "booksCount": 8
-        }
-    },
-    "Uwhf-FGQE0": {
-        "id": "Uwhf-FGQE0",
-        "title": "Граф Монте-Кристо",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2018-12-25 12:04:02",
-        "user": {
-            "id": "31359243-vkontakte",
-            "nickname": "rosaviktuk",
-            "booksCount": 7
-        }
-    },
-    "LYpCMtJqP6": {
-        "id": "LYpCMtJqP6",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-12-25 12:03:39",
-        "user": {
-            "id": "31359243-vkontakte",
-            "nickname": "rosaviktuk",
-            "booksCount": 6
         }
     }
 }
