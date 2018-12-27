@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>46</sup>
+# List of books read by Aleks<sup>47</sup>
 ---
 
 ## Other years
+
+### Портрет Дориана Грея
+Оскар Уайльд
+
 
 ### Мастер и Маргарита
 Михаил Афанасьевич Булгаков

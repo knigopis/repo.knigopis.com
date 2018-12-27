@@ -1,4 +1,16 @@
 {
+    "b3K3cwtDwz": {
+        "id": "b3K3cwtDwz",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2018-12-27 22:20:39",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 47
+        }
+    },
     "li18Q90jM8": {
         "id": "li18Q90jM8",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "31359243-vkontakte",
             "nickname": "rosaviktuk",
             "booksCount": 18
-        }
-    },
-    "U5Rizog6vC": {
-        "id": "U5Rizog6vC",
-        "title": "Приключения Лидерика",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2018-12-25 12:10:12",
-        "user": {
-            "id": "31359243-vkontakte",
-            "nickname": "rosaviktuk",
-            "booksCount": 17
         }
     }
 }
