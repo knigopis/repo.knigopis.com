@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>42</sup>
+# List of books read by Aleks<sup>43</sup>
 ---
 
 ## Other years
+
+### Фауст
+Иоганн Вольфганг фон Гёте
+
 
 ### Горе от ума
 Александр Сергеевич Грибоедов

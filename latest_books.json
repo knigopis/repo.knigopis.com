@@ -1,4 +1,16 @@
 {
+    "xGi6mf6nEv": {
+        "id": "xGi6mf6nEv",
+        "title": "Фауст",
+        "author": "Иоганн Вольфганг фон Гёте",
+        "notes": "",
+        "createdAt": "2018-12-27 22:17:10",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 43
+        }
+    },
     "KTzoFu7WTO": {
         "id": "KTzoFu7WTO",
         "title": "Горе от ума",
@@ -345,18 +357,6 @@
             "id": "31359243-vkontakte",
             "nickname": "rosaviktuk",
             "booksCount": 14
-        }
-    },
-    "LPeSj-6PVN": {
-        "id": "LPeSj-6PVN",
-        "title": "Адская бездна",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2018-12-25 12:08:47",
-        "user": {
-            "id": "31359243-vkontakte",
-            "nickname": "rosaviktuk",
-            "booksCount": 13
         }
     }
 }
