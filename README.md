@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>82</sup>
+    > даже забыла записать((( Если бы не нашла на телефоне и не увидела,  что  книга открыта на последней странице - даже и не вспомнила бы
+
 * Сага о бедных Гольдманах ~ [Chiffi](users/105/105831994080785626680-google)<sup>81</sup>
     > семейная сага про  то,  как жизнь бывает запутаннее всяких сериалов
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Последняя часть как апогей скуки просто, невозможно читать
 
 * Убийство Роджера Экройда ~ [fir137](users/176/176805114-yandex)<sup>11</sup>
-    > До этих пор самой интересной оставалась первая изданная книга Агаты Кристи. Это произведение по оригинальности стоит рядом.
 
 * Солярис ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пиратская планета ~ [En](users/333/333646551-vkontakte)<sup>60</sup>
 
-* The Prodigal Tongue: The Love-Hate Relationship Between American and British English ~ [exulted](users/100/100599204551896265722-google)<sup>92</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>81</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>82</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>118</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>4</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>55</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup> 
 
 
-_27.12.2018 06:14:31_
+_27.12.2018 06:20:03_
