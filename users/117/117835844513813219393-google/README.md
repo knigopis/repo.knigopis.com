@@ -1,14 +1,11 @@
 # List of books read by Aleks<sup>42</sup>
 ---
 
-## 2018
+## Other years
 
 ### Горе от ума
 Александр Сергеевич Грибоедов
 
-
-
-## Other years
 
 ### Машина времени
 Рэй Брэдбери
