@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В петле (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>203</sup>
+    > Основа сюжета - развод Сомса и Ирэн на фоне войны с бурами
+
 * Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>82</sup>
     > даже забыла записать((( Если бы не нашла на телефоне и не увидела,  что  книга открыта на последней странице - даже и не вспомнила бы
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > семейная сага про  то,  как жизнь бывает запутаннее всяких сериалов
 
 * Джекаби 4. Жуткий король ~ [Sky](users/118/118049897850017649660-google)<sup>117</sup>
-    > Последняя часть как апогей скуки просто, невозможно читать
 
 * Убийство Роджера Экройда ~ [fir137](users/176/176805114-yandex)<sup>11</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Орлы Революции ~ [mfevralev](users/140/140966150-vkontakte)<sup>37</sup>
 
-* Пиратская планета ~ [En](users/333/333646551-vkontakte)<sup>60</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>203</sup> 
 [Елена](users/210/2106329609426574-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>82</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>118</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>92</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>46</sup> 
 [shibito_kun](users/108/108836037074542338532-google)<sup>1</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>202</sup> 
 
 
-_27.12.2018 07:31:37_
+_27.12.2018 11:19:51_
