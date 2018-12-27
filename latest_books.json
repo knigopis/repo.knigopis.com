@@ -1,4 +1,16 @@
 {
+    "HdZVcqAJDP": {
+        "id": "HdZVcqAJDP",
+        "title": "Приключения Шерлока Холмса",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2018-12-27 22:24:34",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 53
+        }
+    },
     "b_zc3uqnfw": {
         "id": "b_zc3uqnfw",
         "title": "Инферно",
@@ -345,18 +357,6 @@
             "id": "31359243-vkontakte",
             "nickname": "rosaviktuk",
             "booksCount": 24
-        }
-    },
-    "8qDQ3ivU4R": {
-        "id": "8qDQ3ivU4R",
-        "title": "Фауст",
-        "author": "Иоганн Вольфганг Гёте",
-        "notes": "",
-        "createdAt": "2018-12-25 12:13:48",
-        "user": {
-            "id": "31359243-vkontakte",
-            "nickname": "rosaviktuk",
-            "booksCount": 23
         }
     }
 }
