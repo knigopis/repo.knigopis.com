@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vlad_zamaev](users/122/122014636-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>204</sup> 
 [Елена](users/210/2106329609426574-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>82</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>60</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>92</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>46</sup> 
-[shibito_kun](users/108/108836037074542338532-google)<sup>1</sup> 
 
 
-_27.12.2018 11:20:36_
+_27.12.2018 15:16:59_
