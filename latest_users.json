@@ -1,4 +1,10 @@
 {
+    "2106329609426574-facebook": {
+        "id": "2106329609426574-facebook",
+        "nickname": "Елена",
+        "booksCount": 0,
+        "updatedAt": "2018-12-27 07:31:32"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 202,
         "updatedAt": "2018-12-15 17:06:32"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 53,
-        "updatedAt": "2018-12-15 06:38:35"
     }
 }
