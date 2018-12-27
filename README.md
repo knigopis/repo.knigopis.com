@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Елена](users/210/2106329609426574-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>82</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>118</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>46</sup> 
 [shibito_kun](users/108/108836037074542338532-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>202</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup> 
 
 
-_27.12.2018 06:20:03_
+_27.12.2018 07:31:37_
