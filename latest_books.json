@@ -1,4 +1,16 @@
 {
+    "g5M6dkuf47": {
+        "id": "g5M6dkuf47",
+        "title": "Человек толпы",
+        "author": "Эдгар Аллан По",
+        "notes": "",
+        "createdAt": "2018-12-27 22:14:19",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 40
+        }
+    },
     "0F5PL454WI": {
         "id": "0F5PL454WI",
         "title": "Зов Ктулху",
@@ -345,18 +357,6 @@
             "id": "31359243-vkontakte",
             "nickname": "rosaviktuk",
             "booksCount": 11
-        }
-    },
-    "7r162_X-bz": {
-        "id": "7r162_X-bz",
-        "title": "Паж герцога Савойского",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2018-12-25 12:07:59",
-        "user": {
-            "id": "31359243-vkontakte",
-            "nickname": "rosaviktuk",
-            "booksCount": 10
         }
     }
 }
