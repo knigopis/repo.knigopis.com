@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сага о бедных Гольдманах ~ [Chiffi](users/105/105831994080785626680-google)<sup>81</sup>
+    > семейная сага про  то,  как жизнь бывает запутаннее всяких сериалов
+
 * Джекаби 4. Жуткий король ~ [Sky](users/118/118049897850017649660-google)<sup>117</sup>
     > Последняя часть как апогей скуки просто, невозможно читать
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > До этих пор самой интересной оставалась первая изданная книга Агаты Кристи. Это произведение по оригинальности стоит рядом.
 
 * Солярис ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
-    > 7/10
 
 * Семь зверей Райлега. Алиедора ~ [EsterHani](users/305/30558181-vkontakte)<sup>164</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * The Prodigal Tongue: The Love-Hate Relationship Between American and British English ~ [exulted](users/100/100599204551896265722-google)<sup>92</sup>
 
-* Интерлюдия. Последнее лето Форсайта (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>202</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>81</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>118</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>4</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>55</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>54</sup> 
 [Сергей Окунев](users/130/13093426497474642450-mailru)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>80</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>341</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [lina_gela](users/808/8082669028-instagram)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup> 
 
 
-_26.12.2018 18:32:14_
+_27.12.2018 06:14:31_

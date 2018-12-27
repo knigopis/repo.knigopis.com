@@ -1,4 +1,16 @@
 {
+    "a8ru6DB4kj": {
+        "id": "a8ru6DB4kj",
+        "title": "Сага о бедных Гольдманах",
+        "author": "Колина Елена",
+        "notes": "семейная сага про  то,  как жизнь бывает запутаннее всяких сериалов",
+        "createdAt": "2018-12-27 06:14:31",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 81
+        }
+    },
     "8DezDfzzoa": {
         "id": "8DezDfzzoa",
         "title": "Джекаби 4. Жуткий король",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 200
-        }
-    },
-    "l9mzv6bJTk": {
-        "id": "l9mzv6bJTk",
-        "title": "Чек-лист. Как избежать глупых ошибок, ведущих к фатальным последствиям",
-        "author": "Атул Гаванде",
-        "notes": "http://www.smartreading.ru/biblioteka/knigi_po_menedzhmentu/the_checklist_manifesto/",
-        "createdAt": "2018-11-30 07:30:35",
-        "user": {
-            "id": "22240417-vkontakte",
-            "nickname": "Ольга ",
-            "booksCount": 40
         }
     }
 }

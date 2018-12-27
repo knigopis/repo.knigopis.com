@@ -1,4 +1,16 @@
 {
+    "a8ru6DB4kj": {
+        "id": "a8ru6DB4kj",
+        "title": "Сага о бедных Гольдманах",
+        "author": "Колина Елена",
+        "notes": "семейная сага про  то,  как жизнь бывает запутаннее всяких сериалов",
+        "createdAt": "2018-12-27 06:14:31",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 81
+        }
+    },
     "_OKLyOqLRv": {
         "id": "_OKLyOqLRv",
         "title": "Среди эльфов и троллей",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 11
-        }
-    },
-    "yljqyfYD-E": {
-        "id": "yljqyfYD-E",
-        "title": "Странная история доктора Джекила и мистера Хайда",
-        "author": "Роберт Луис Стивенсон",
-        "notes": "",
-        "createdAt": "2018-12-25 08:40:08",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 39
         }
     }
 }
