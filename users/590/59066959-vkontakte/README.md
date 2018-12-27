@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>4</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>5</sup>
 ---
 
 ## 2009
@@ -24,6 +24,13 @@
 
 ### Граф Монте-Кристо
 Александр Дюма
+
+
+
+## 2006
+
+### Зов Ктулху
+Говард Филлипс Лавкрафт
 
 
 

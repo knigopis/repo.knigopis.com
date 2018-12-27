@@ -1,4 +1,16 @@
 {
+    "0F5PL454WI": {
+        "id": "0F5PL454WI",
+        "title": "Зов Ктулху",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2018-12-27 19:53:47",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 5
+        }
+    },
     "Fc4tW4yxdJ": {
         "id": "Fc4tW4yxdJ",
         "title": "В логове нечисти",
@@ -345,18 +357,6 @@
             "id": "31359243-vkontakte",
             "nickname": "rosaviktuk",
             "booksCount": 10
-        }
-    },
-    "-gVCPFr8Gp": {
-        "id": "-gVCPFr8Gp",
-        "title": "Предсказание",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2018-12-25 12:07:39",
-        "user": {
-            "id": "31359243-vkontakte",
-            "nickname": "rosaviktuk",
-            "booksCount": 9
         }
     }
 }
