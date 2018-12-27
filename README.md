@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[stanis1ove](users/590/59066959-vkontakte)<sup>0</sup> 
+[stanis1ove](users/590/59066959-vkontakte)<sup>3</sup> 
 [fir137](users/176/176805114-yandex)<sup>12</sup> 
 [vlad_zamaev](users/122/122014636-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>204</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>92</sup> 
 
 
-_27.12.2018 19:45:21_
+_27.12.2018 19:46:42_

@@ -1,4 +1,16 @@
 {
+    "1buQXaNcoN": {
+        "id": "1buQXaNcoN",
+        "title": "\"Линия грёз\"",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-27 19:46:42",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 3
+        }
+    },
     "ooF5zDpd4s": {
         "id": "ooF5zDpd4s",
         "title": "Большая четверка",
@@ -345,18 +357,6 @@
             "id": "31359243-vkontakte",
             "nickname": "rosaviktuk",
             "booksCount": 6
-        }
-    },
-    "eFCouMhkHp": {
-        "id": "eFCouMhkHp",
-        "title": "Две Дианы",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2018-12-25 12:03:35",
-        "user": {
-            "id": "31359243-vkontakte",
-            "nickname": "rosaviktuk",
-            "booksCount": 5
         }
     }
 }
