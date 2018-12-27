@@ -1,4 +1,16 @@
 {
+    "vBcrcUO_Ts": {
+        "id": "vBcrcUO_Ts",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2018-12-27 22:21:03",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 48
+        }
+    },
     "b3K3cwtDwz": {
         "id": "b3K3cwtDwz",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "31359243-vkontakte",
             "nickname": "rosaviktuk",
             "booksCount": 19
-        }
-    },
-    "JSV4OhuW5r": {
-        "id": "JSV4OhuW5r",
-        "title": "Лавка древностей",
-        "author": "Чарльз Диккенс",
-        "notes": "",
-        "createdAt": "2018-12-25 12:11:31",
-        "user": {
-            "id": "31359243-vkontakte",
-            "nickname": "rosaviktuk",
-            "booksCount": 18
         }
     }
 }

@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>47</sup>
+# List of books read by Aleks<sup>48</sup>
 ---
 
 ## Other years
+
+### Маленький принц
+Антуан де Сент-Экзюпери
+
 
 ### Портрет Дориана Грея
 Оскар Уайльд
