@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>12</sup> 
 [vlad_zamaev](users/122/122014636-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>204</sup> 
 [Елена](users/210/2106329609426574-facebook)<sup>0</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [doilid](users/104/104250836469076768434-google)<sup>0</sup> 
 [Miheyjum](users/115/115651235597791470259-google)<sup>0</sup> 
 [rosaviktuk](users/313/31359243-vkontakte)<sup>24</sup> 
-[fir137](users/176/176805114-yandex)<sup>11</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>39</sup> 
 [fridrih](users/115/115771667101883638909-google)<sup>1</sup> 
 [](users/224/2242326882760268-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>46</sup> 
 
 
-_27.12.2018 15:16:59_
+_27.12.2018 18:42:16_
