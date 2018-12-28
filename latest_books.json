@@ -1,4 +1,16 @@
 {
+    "YH6DMx6egA": {
+        "id": "YH6DMx6egA",
+        "title": "Лепестки на ветру",
+        "author": "Вирджиния Эндрюс",
+        "notes": "",
+        "createdAt": "2018-12-28 06:41:47",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 56
+        }
+    },
     "QVD2QYCrPz": {
         "id": "QVD2QYCrPz",
         "title": "Цветы на чердаке",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 118
-        }
-    },
-    "p1TsMbhLbU": {
-        "id": "p1TsMbhLbU",
-        "title": "Новая космическая гонка: Как Илон Маск, Джефф Безос и Ричард Брэнсон соревнуются за первенство в космосе",
-        "author": "Т. Фернхольц",
-        "notes": "",
-        "createdAt": "2018-12-26 11:10:45",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 4
         }
     }
 }
