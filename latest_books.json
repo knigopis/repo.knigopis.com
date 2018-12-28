@@ -1,4 +1,16 @@
 {
+    "A_ZWbMmA-K": {
+        "id": "A_ZWbMmA-K",
+        "title": "Рыцари сорока островов",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-28 21:04:03",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 30
+        }
+    },
     "CkI4TjncIH": {
         "id": "CkI4TjncIH",
         "title": "Дневной дозор",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 57
-        }
-    },
-    "YH6DMx6egA": {
-        "id": "YH6DMx6egA",
-        "title": "Лепестки на ветру",
-        "author": "Вирджиния Эндрюс",
-        "notes": "",
-        "createdAt": "2018-12-28 06:41:47",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 56
         }
     }
 }
