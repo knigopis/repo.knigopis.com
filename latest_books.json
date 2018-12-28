@@ -1,4 +1,16 @@
 {
+    "JpzRqZzZjv": {
+        "id": "JpzRqZzZjv",
+        "title": "Чистовик",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-28 20:52:25",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 13
+        }
+    },
     "cZKUpWWmGp": {
         "id": "cZKUpWWmGp",
         "title": "Черновик",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 42
-        }
-    },
-    "H0UZ7ZtKIc": {
-        "id": "H0UZ7ZtKIc",
-        "title": "Машина времени",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2018-12-27 22:14:53",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 41
         }
     }
 }
