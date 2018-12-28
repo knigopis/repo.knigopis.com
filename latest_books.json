@@ -1,4 +1,16 @@
 {
+    "CkI4TjncIH": {
+        "id": "CkI4TjncIH",
+        "title": "Дневной дозор",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-28 21:03:42",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 29
+        }
+    },
     "u7qsk228wU": {
         "id": "u7qsk228wU",
         "title": "Ночной дозор",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 56
-        }
-    },
-    "QVD2QYCrPz": {
-        "id": "QVD2QYCrPz",
-        "title": "Цветы на чердаке",
-        "author": "Вирджиния Эндрюс",
-        "notes": "",
-        "createdAt": "2018-12-28 06:41:25",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 55
         }
     }
 }

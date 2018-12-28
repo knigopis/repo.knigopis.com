@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>28</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>29</sup>
 ---
 
 ## 2016
@@ -31,6 +31,11 @@
 
 
 ## 2012
+
+### Дневной дозор
+Сергей Лукьяненко
+> [2012-04] 
+
 
 ### Ночной дозор
 Сергей Лукьяненко
