@@ -1,4 +1,16 @@
 {
+    "g4yzhbrswO": {
+        "id": "g4yzhbrswO",
+        "title": "Стеклянное море",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-28 20:59:05",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 22
+        }
+    },
     "RsipmCk8bh": {
         "id": "RsipmCk8bh",
         "title": "Планета, которой нет",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 51
-        }
-    },
-    "MYwfX39yzj": {
-        "id": "MYwfX39yzj",
-        "title": "Книжный вор",
-        "author": "Маркус Зусак",
-        "notes": "",
-        "createdAt": "2018-12-27 22:22:25",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 50
         }
     }
 }
