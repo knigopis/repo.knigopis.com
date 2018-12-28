@@ -1,4 +1,16 @@
 {
+    "FN33OBfueM": {
+        "id": "FN33OBfueM",
+        "title": "Американская трагедия",
+        "author": "Джон Грин",
+        "notes": "",
+        "createdAt": "2018-12-28 07:24:34",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 57
+        }
+    },
     "YH6DMx6egA": {
         "id": "YH6DMx6egA",
         "title": "Лепестки на ветру",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 81
-        }
-    },
-    "_OKLyOqLRv": {
-        "id": "_OKLyOqLRv",
-        "title": "Среди эльфов и троллей",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-12-26 18:32:14",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 118
         }
     }
 }
