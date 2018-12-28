@@ -1,4 +1,16 @@
 {
+    "JN5a_UQX9w": {
+        "id": "JN5a_UQX9w",
+        "title": "Лабиринт отражений",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-28 20:54:53",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 14
+        }
+    },
     "JpzRqZzZjv": {
         "id": "JpzRqZzZjv",
         "title": "Чистовик",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 43
-        }
-    },
-    "KTzoFu7WTO": {
-        "id": "KTzoFu7WTO",
-        "title": "Горе от ума",
-        "author": "Александр Сергеевич Грибоедов",
-        "notes": "",
-        "createdAt": "2018-12-27 22:15:26",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 42
         }
     }
 }
