@@ -1,4 +1,16 @@
 {
+    "Rb6pzmv33F": {
+        "id": "Rb6pzmv33F",
+        "title": "Добродетель эгоизма",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2018-12-28 17:01:35",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 59
+        }
+    },
     "6Hal-il-rQ": {
         "id": "6Hal-il-rQ",
         "title": "«Открытки с того света»",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 204
-        }
-    },
-    "f2dytc-UX0": {
-        "id": "f2dytc-UX0",
-        "title": "В петле (Сага о Форсайтах)",
-        "author": "Голсуорси, Джон",
-        "notes": "Основа сюжета - развод Сомса и Ирэн на фоне войны с бурами",
-        "createdAt": "2018-12-27 11:19:51",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 203
         }
     }
 }

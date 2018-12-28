@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>58</sup>
+# List of books read by Aleks<sup>59</sup>
 ---
 
 ## Other years
+
+### Добродетель эгоизма
+Айн Рэнд
+
 
 ### «Открытки с того света»
 Франко Арминио
