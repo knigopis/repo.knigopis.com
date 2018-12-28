@@ -1,4 +1,16 @@
 {
+    "u7qsk228wU": {
+        "id": "u7qsk228wU",
+        "title": "Ночной дозор",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-28 21:03:23",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 28
+        }
+    },
     "0qpi_0bD6d": {
         "id": "0qpi_0bD6d",
         "title": "Зеркальное время",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 55
-        }
-    },
-    "IH4f1AXOG9": {
-        "id": "IH4f1AXOG9",
-        "title": "Пятнадцатилетний капитан",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2018-12-27 22:26:39",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 56
         }
     }
 }

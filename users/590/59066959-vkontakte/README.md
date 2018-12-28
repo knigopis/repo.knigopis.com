@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>27</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>28</sup>
 ---
 
 ## 2016
@@ -31,6 +31,11 @@
 
 
 ## 2012
+
+### Ночной дозор
+Сергей Лукьяненко
+> [2012-04] 
+
 
 ### Зеркальное время
 Вольфганг и Хайке Хольбайн
