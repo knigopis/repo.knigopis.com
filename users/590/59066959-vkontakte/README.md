@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>30</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>31</sup>
 ---
 
 ## 2016
@@ -53,6 +53,10 @@
 
 
 ## 2011
+
+### Мальчик и тьма
+Сергей Лукьяненко
+
 
 ### Императоры иллюзий
 Сергей Лукьяненко
