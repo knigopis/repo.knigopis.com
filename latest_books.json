@@ -1,4 +1,16 @@
 {
+    "NJc0GS0Hgh": {
+        "id": "NJc0GS0Hgh",
+        "title": "Танцы на снегу",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-28 20:50:28",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 9
+        }
+    },
     "ZiR5Yd0EF-": {
         "id": "ZiR5Yd0EF-",
         "title": "Чума на ваше поле!",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 4
-        }
-    },
-    "GmdChnnfPv": {
-        "id": "GmdChnnfPv",
-        "title": "Граф Монте-Кристо",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2018-12-27 19:50:41",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 3
         }
     }
 }
