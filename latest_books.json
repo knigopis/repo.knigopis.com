@@ -1,4 +1,16 @@
 {
+    "4k-Fvvv42x": {
+        "id": "4k-Fvvv42x",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "",
+        "createdAt": "2018-12-28 21:07:00",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 34
+        }
+    },
     "uIGAv07mRg": {
         "id": "uIGAv07mRg",
         "title": "Звёздная тень",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 60
-        }
-    },
-    "Rb6pzmv33F": {
-        "id": "Rb6pzmv33F",
-        "title": "Добродетель эгоизма",
-        "author": "Айн Рэнд",
-        "notes": "",
-        "createdAt": "2018-12-28 17:01:35",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 59
         }
     }
 }
