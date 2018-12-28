@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>32</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>33</sup>
 ---
 
 ## 2016
@@ -31,6 +31,10 @@
 
 
 ## 2014
+
+### Звёздная тень
+Сергей Лукьяненко
+
 
 ### Звезды − холодные игрушки
 Сергей Лукьяненко
