@@ -1,4 +1,16 @@
 {
+    "6Fm79F-LBf": {
+        "id": "6Fm79F-LBf",
+        "title": "Холодные берега",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-28 20:56:24",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 17
+        }
+    },
     "0FhmXacbj3": {
         "id": "0FhmXacbj3",
         "title": "Прозрачные витражи",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 46
-        }
-    },
-    "Qs3epMGSr3": {
-        "id": "Qs3epMGSr3",
-        "title": "Бойня номер пять",
-        "author": "Курт Воннегут",
-        "notes": "",
-        "createdAt": "2018-12-27 22:19:11",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 45
         }
     }
 }
