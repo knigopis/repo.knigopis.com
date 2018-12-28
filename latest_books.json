@@ -1,4 +1,16 @@
 {
+    "2t0_eT9tSU": {
+        "id": "2t0_eT9tSU",
+        "title": "Недотепа",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-28 21:13:44",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 37
+        }
+    },
     "HxdL0Rr7aO": {
         "id": "HxdL0Rr7aO",
         "title": "Непоседа",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 8
-        }
-    },
-    "lId56fhyix": {
-        "id": "lId56fhyix",
-        "title": "Наездники",
-        "author": "Кир Булычев",
-        "notes": "",
-        "createdAt": "2018-12-28 20:48:07",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 7
         }
     }
 }
