@@ -1,4 +1,16 @@
 {
+    "ZiR5Yd0EF-": {
+        "id": "ZiR5Yd0EF-",
+        "title": "Чума на ваше поле!",
+        "author": "Кир Булычев",
+        "notes": "",
+        "createdAt": "2018-12-28 20:49:25",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 8
+        }
+    },
     "lId56fhyix": {
         "id": "lId56fhyix",
         "title": "Наездники",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 3
-        }
-    },
-    "GMc9bBPtm7": {
-        "id": "GMc9bBPtm7",
-        "title": "\"Рунный посох. Хроники Хокмуна\"",
-        "author": "Майкл Муркок",
-        "notes": "",
-        "createdAt": "2018-12-27 19:49:29",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 2
         }
     }
 }

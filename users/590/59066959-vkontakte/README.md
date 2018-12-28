@@ -1,7 +1,12 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>7</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>8</sup>
 ---
 
 ## 2016
+
+### Чума на ваше поле!
+Кир Булычев
+> [2016-12] 
+
 
 ### Гуси-гуси, га-га-га...
 Владислав Крапивин
