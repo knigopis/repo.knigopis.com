@@ -1,4 +1,16 @@
 {
+    "0FhmXacbj3": {
+        "id": "0FhmXacbj3",
+        "title": "Прозрачные витражи",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-28 20:55:34",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 16
+        }
+    },
     "jcHv5Hkdrj": {
         "id": "jcHv5Hkdrj",
         "title": "Фальшивые зеркала",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 45
-        }
-    },
-    "Mdtq2QfrLV": {
-        "id": "Mdtq2QfrLV",
-        "title": "Заводной апельсин",
-        "author": "Энтони Бёрджесс",
-        "notes": "",
-        "createdAt": "2018-12-27 22:18:38",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 44
         }
     }
 }
