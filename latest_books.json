@@ -1,4 +1,16 @@
 {
+    "E6EnVkMuH5": {
+        "id": "E6EnVkMuH5",
+        "title": "Осенние визиты",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-28 21:14:32",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 38
+        }
+    },
     "2t0_eT9tSU": {
         "id": "2t0_eT9tSU",
         "title": "Недотепа",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 9
-        }
-    },
-    "ZiR5Yd0EF-": {
-        "id": "ZiR5Yd0EF-",
-        "title": "Чума на ваше поле!",
-        "author": "Кир Булычев",
-        "notes": "",
-        "createdAt": "2018-12-28 20:49:25",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 8
         }
     }
 }

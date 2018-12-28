@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>37</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>38</sup>
 ---
 
 ## 2016
@@ -68,6 +68,10 @@
 
 
 ## 2011
+
+### Осенние визиты
+Сергей Лукьяненко
+
 
 ### Недотепа
 Сергей Лукьяненко
