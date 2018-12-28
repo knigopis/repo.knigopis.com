@@ -1,4 +1,16 @@
 {
+    "U7IYmQCoP5": {
+        "id": "U7IYmQCoP5",
+        "title": "Геном",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-28 20:50:56",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 10
+        }
+    },
     "NJc0GS0Hgh": {
         "id": "NJc0GS0Hgh",
         "title": "Танцы на снегу",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 5
-        }
-    },
-    "Fc4tW4yxdJ": {
-        "id": "Fc4tW4yxdJ",
-        "title": "В логове нечисти",
-        "author": "Клиффорд Саймак",
-        "notes": "",
-        "createdAt": "2018-12-27 19:52:02",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 4
         }
     }
 }
