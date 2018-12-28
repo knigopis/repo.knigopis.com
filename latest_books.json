@@ -1,4 +1,16 @@
 {
+    "M6KTv_K7rj": {
+        "id": "M6KTv_K7rj",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-12-28 17:01:40",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 60
+        }
+    },
     "Rb6pzmv33F": {
         "id": "Rb6pzmv33F",
         "title": "Добродетель эгоизма",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 12
-        }
-    },
-    "sejncwi8HN": {
-        "id": "sejncwi8HN",
-        "title": "Интерлюдия. Пробуждение (Сага о Форсайтах)",
-        "author": "Голсуорси, Джон",
-        "notes": "",
-        "createdAt": "2018-12-27 11:20:35",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 204
         }
     }
 }
