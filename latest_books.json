@@ -1,4 +1,16 @@
 {
+    "L3w6i14kmx": {
+        "id": "L3w6i14kmx",
+        "title": "11/22/63",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2018-12-28 21:01:00",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 25
+        }
+    },
     "TFGIM8HolQ": {
         "id": "TFGIM8HolQ",
         "title": "Паломничество в волшебство",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 54
-        }
-    },
-    "HdZVcqAJDP": {
-        "id": "HdZVcqAJDP",
-        "title": "Приключения Шерлока Холмса",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2018-12-27 22:24:34",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 53
         }
     }
 }

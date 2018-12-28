@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>24</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>25</sup>
 ---
 
 ## 2016
@@ -19,6 +19,10 @@
 ### Наездники
 Кир Булычев
 > [2015-11] 
+
+
+### 11/22/63
+Стивен Кинг
 
 
 
