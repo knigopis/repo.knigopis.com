@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>23</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>24</sup>
 ---
 
 ## 2016
@@ -119,6 +119,13 @@
 
 ### Зов Ктулху
 Говард Филлипс Лавкрафт
+
+
+
+## 2005
+
+### Паломничество в волшебство
+Клиффорд Саймак
 
 
 
