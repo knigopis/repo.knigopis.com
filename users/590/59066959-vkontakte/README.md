@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>25</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>26</sup>
 ---
 
 ## 2016
@@ -19,6 +19,10 @@
 ### Наездники
 Кир Булычев
 > [2015-11] 
+
+
+### Террор
+Дэн Симмонс
 
 
 ### 11/22/63
