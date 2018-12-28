@@ -1,4 +1,16 @@
 {
+    "lId56fhyix": {
+        "id": "lId56fhyix",
+        "title": "Наездники",
+        "author": "Кир Булычев",
+        "notes": "",
+        "createdAt": "2018-12-28 20:48:07",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 7
+        }
+    },
     "wvqe5lDG6D": {
         "id": "wvqe5lDG6D",
         "title": "Гуси-гуси, га-га-га...",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 2
-        }
-    },
-    "1buQXaNcoN": {
-        "id": "1buQXaNcoN",
-        "title": "\"Линия грёз\"",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-27 19:46:42",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 3
         }
     }
 }

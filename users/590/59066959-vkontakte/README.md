@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>6</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>7</sup>
 ---
 
 ## 2016
@@ -6,6 +6,14 @@
 ### Гуси-гуси, га-га-га...
 Владислав Крапивин
 > [2016-05] 
+
+
+
+## 2015
+
+### Наездники
+Кир Булычев
+> [2015-11] 
 
 
 
