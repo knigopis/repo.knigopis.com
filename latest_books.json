@@ -1,4 +1,16 @@
 {
+    "HxdL0Rr7aO": {
+        "id": "HxdL0Rr7aO",
+        "title": "Непоседа",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2018-12-28 21:11:40",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 36
+        }
+    },
     "aodXlzyNsl": {
         "id": "aodXlzyNsl",
         "title": "Атомный сон",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 7
-        }
-    },
-    "wvqe5lDG6D": {
-        "id": "wvqe5lDG6D",
-        "title": "Гуси-гуси, га-га-га...",
-        "author": "Владислав Крапивин",
-        "notes": "",
-        "createdAt": "2018-12-28 20:46:46",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 6
         }
     }
 }
