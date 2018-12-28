@@ -1,5 +1,13 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>5</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>6</sup>
 ---
+
+## 2016
+
+### Гуси-гуси, га-га-га...
+Владислав Крапивин
+> [2016-05] 
+
+
 
 ## 2009
 

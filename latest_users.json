@@ -1,4 +1,10 @@
 {
+    "59066959-vkontakte": {
+        "id": "59066959-vkontakte",
+        "nickname": "stanis1ove",
+        "booksCount": 6,
+        "updatedAt": "2018-12-28 20:46:46"
+    },
     "117835844513813219393-google": {
         "id": "117835844513813219393-google",
         "nickname": "Aleks",
@@ -10,12 +16,6 @@
         "nickname": "le_brouillard",
         "booksCount": 56,
         "updatedAt": "2018-12-28 07:25:08"
-    },
-    "59066959-vkontakte": {
-        "id": "59066959-vkontakte",
-        "nickname": "stanis1ove",
-        "booksCount": 5,
-        "updatedAt": "2018-12-27 19:53:47"
     },
     "176805114-yandex": {
         "id": "176805114-yandex",
