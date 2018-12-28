@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>55</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>56</sup> 
 [stanis1ove](users/590/59066959-vkontakte)<sup>5</sup> 
 [fir137](users/176/176805114-yandex)<sup>12</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>37</sup> 
 [En](users/333/333646551-vkontakte)<sup>60</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>92</sup> 
 
 
-_27.12.2018 22:26:39_
+_28.12.2018 06:41:25_
