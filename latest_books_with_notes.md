@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Открытки с того света» ~ [Aleks](users/117/117835844513813219393-google)<sup>58</sup>
 * В петле (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>203</sup>
 * Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>82</sup>
 * Сага о бедных Гольдманах ~ [Chiffi](users/105/105831994080785626680-google)<sup>81</sup>
@@ -30,7 +31,6 @@
 * Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>90</sup>
 * Вегетарианка ~ [Sky](users/118/118049897850017649660-google)<sup>112</sup>
 * Суворов и казаки в Италии ~ [mfevralev](users/140/140966150-vkontakte)<sup>36</sup>
-* Посвящение Рэю Брэдбери ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>13</sup>
 
 
-_27.12.2018 11:19:51_
+_28.12.2018 16:43:51_

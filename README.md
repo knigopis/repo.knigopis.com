@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Открытки с того света» ~ [Aleks](users/117/117835844513813219393-google)<sup>58</sup>
+    > В своей книге Франко Арминио собрал несколько десятков репортажей от первого лица, запечатлевающих момент смерти рассказчика. «Я один из тех, кто за минуту до смерти был в полном порядке». Но — странное дело — книга не оставляет ощущения страха смерти. Наоборот, хочется жить с новой силой
+
 * В петле (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>203</sup>
     > Основа сюжета - развод Сомса и Ирэн на фоне войны с бурами
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > даже забыла записать((( Если бы не нашла на телефоне и не увидела,  что  книга открыта на последней странице - даже и не вспомнила бы
 
 * Сага о бедных Гольдманах ~ [Chiffi](users/105/105831994080785626680-google)<sup>81</sup>
-    > семейная сага про  то,  как жизнь бывает запутаннее всяких сериалов
 
 * Джекаби 4. Жуткий король ~ [Sky](users/118/118049897850017649660-google)<sup>117</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Альтернативная цивилизация ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup>
 
-* Орлы Революции ~ [mfevralev](users/140/140966150-vkontakte)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Aleks](users/117/117835844513813219393-google)<sup>57</sup> 
+[Aleks](users/117/117835844513813219393-google)<sup>58</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>56</sup> 
 [stanis1ove](users/590/59066959-vkontakte)<sup>5</sup> 
 [fir137](users/176/176805114-yandex)<sup>12</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>60</sup> 
 
 
-_28.12.2018 14:38:26_
+_28.12.2018 16:43:51_
