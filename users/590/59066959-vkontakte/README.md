@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>26</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>27</sup>
 ---
 
 ## 2016
@@ -27,6 +27,13 @@
 
 ### 11/22/63
 Стивен Кинг
+
+
+
+## 2012
+
+### Зеркальное время
+Вольфганг и Хайке Хольбайн
 
 
 
