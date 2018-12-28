@@ -1,4 +1,16 @@
 {
+    "zy3lZb7tE3": {
+        "id": "zy3lZb7tE3",
+        "title": "Дочь Монтесумы",
+        "author": "Генри Райдер Хаггард",
+        "notes": "",
+        "createdAt": "2018-12-28 22:58:50",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 63
+        }
+    },
     "u6trSTDrQH": {
         "id": "u6trSTDrQH",
         "title": "Звонок в дверь",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 13
-        }
-    },
-    "cZKUpWWmGp": {
-        "id": "cZKUpWWmGp",
-        "title": "Черновик",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-28 20:51:59",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 12
         }
     }
 }
