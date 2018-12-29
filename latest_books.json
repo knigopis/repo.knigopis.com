@@ -1,4 +1,16 @@
 {
+    "kl9Tv_gxRW": {
+        "id": "kl9Tv_gxRW",
+        "title": "Мексиканец",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2018-12-29 19:30:44",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 66
+        }
+    },
     "pYzYEuvDrH": {
         "id": "pYzYEuvDrH",
         "title": "Любовь к жизни",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 26
-        }
-    },
-    "L3w6i14kmx": {
-        "id": "L3w6i14kmx",
-        "title": "11/22/63",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2018-12-28 21:01:00",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 25
         }
     }
 }

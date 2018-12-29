@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>65</sup>
+# List of books read by Aleks<sup>66</sup>
 ---
 
 ## Other years
+
+### Мексиканец
+Джек Лондон
+
 
 ### Любовь к жизни
 Джек Лондон
