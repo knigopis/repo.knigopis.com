@@ -1,4 +1,16 @@
 {
+    "pz8yxknk96": {
+        "id": "pz8yxknk96",
+        "title": "Метро 2033",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2018-12-29 11:20:58",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 42
+        }
+    },
     "buvSVO_6Ob": {
         "id": "buvSVO_6Ob",
         "title": "Руны Вещего Олега",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 20
-        }
-    },
-    "rHfHWv_3XP": {
-        "id": "rHfHWv_3XP",
-        "title": "Конкуренты",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-28 20:57:01",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 19
         }
     }
 }
