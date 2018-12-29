@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>64</sup>
+# List of books read by Aleks<sup>65</sup>
 ---
 
 ## Other years
+
+### Любовь к жизни
+Джек Лондон
+
 
 ### Десять негритят
 Агата Кристи

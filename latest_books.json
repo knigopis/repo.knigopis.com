@@ -1,4 +1,16 @@
 {
+    "pYzYEuvDrH": {
+        "id": "pYzYEuvDrH",
+        "title": "Любовь к жизни",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2018-12-29 19:29:09",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 65
+        }
+    },
     "g4nHqZKuKm": {
         "id": "g4nHqZKuKm",
         "title": "Десять негритят",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 25
-        }
-    },
-    "TFGIM8HolQ": {
-        "id": "TFGIM8HolQ",
-        "title": "Паломничество в волшебство",
-        "author": "Клиффорд Саймак",
-        "notes": "",
-        "createdAt": "2018-12-28 21:00:21",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 24
         }
     }
 }
