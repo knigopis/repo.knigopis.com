@@ -1,4 +1,16 @@
 {
+    "vf5WD61RRn": {
+        "id": "vf5WD61RRn",
+        "title": "Верноподанный",
+        "author": "Генрих Манн",
+        "notes": "",
+        "createdAt": "2018-12-29 19:35:26",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 69
+        }
+    },
     "jgrD50pX8n": {
         "id": "jgrD50pX8n",
         "title": "Юность короля Генриха IV",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 29
-        }
-    },
-    "u7qsk228wU": {
-        "id": "u7qsk228wU",
-        "title": "Ночной дозор",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-28 21:03:23",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 28
         }
     }
 }

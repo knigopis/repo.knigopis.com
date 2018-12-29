@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>68</sup>
+# List of books read by Aleks<sup>69</sup>
 ---
 
 ## Other years
+
+### Верноподанный
+Генрих Манн
+
 
 ### Юность короля Генриха IV
 Генрих Манн
