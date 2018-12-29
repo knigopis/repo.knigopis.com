@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>39</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>40</sup>
 ---
 
 ## 2016
@@ -31,6 +31,10 @@
 
 
 ## 2014
+
+### Ночь накануне
+Сергей Лукьяненко, Андрей Кивинов
+
 
 ### Звёздная тень
 Сергей Лукьяненко
