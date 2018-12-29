@@ -1,4 +1,16 @@
 {
+    "g4nHqZKuKm": {
+        "id": "g4nHqZKuKm",
+        "title": "Десять негритят",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2018-12-29 18:36:52",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 64
+        }
+    },
     "cYHvNPmBd_": {
         "id": "cYHvNPmBd_",
         "title": "Грех",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 24
-        }
-    },
-    "S9keJJlDNs": {
-        "id": "S9keJJlDNs",
-        "title": "Императоры иллюзий",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-28 20:59:29",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 23
         }
     }
 }
