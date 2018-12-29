@@ -1,4 +1,16 @@
 {
+    "YSILdUDxtb": {
+        "id": "YSILdUDxtb",
+        "title": "Очки.",
+        "author": "Эдгар Аллан По",
+        "notes": "",
+        "createdAt": "2018-12-29 11:15:15",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 41
+        }
+    },
     "6q5TKG6d3M": {
         "id": "6q5TKG6d3M",
         "title": "Ночь накануне",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 18
-        }
-    },
-    "6Fm79F-LBf": {
-        "id": "6Fm79F-LBf",
-        "title": "Холодные берега",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-28 20:56:24",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 17
         }
     }
 }
