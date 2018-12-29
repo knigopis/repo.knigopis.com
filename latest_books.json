@@ -1,4 +1,16 @@
 {
+    "jgrD50pX8n": {
+        "id": "jgrD50pX8n",
+        "title": "Юность короля Генриха IV",
+        "author": "Генрих Манн",
+        "notes": "",
+        "createdAt": "2018-12-29 19:35:05",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 68
+        }
+    },
     "vQAFg9DKm9": {
         "id": "vQAFg9DKm9",
         "title": "Ромео и Джульетта",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 28
-        }
-    },
-    "0qpi_0bD6d": {
-        "id": "0qpi_0bD6d",
-        "title": "Зеркальное время",
-        "author": "Вольфганг и Хайке Хольбайн",
-        "notes": "",
-        "createdAt": "2018-12-28 21:02:54",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 27
         }
     }
 }
