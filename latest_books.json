@@ -1,4 +1,16 @@
 {
+    "GmGCONIkPU": {
+        "id": "GmGCONIkPU",
+        "title": "Посёлок - Булычев Кир",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-12-29 07:18:05",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 109
+        }
+    },
     "DrtIlbiWLk": {
         "id": "DrtIlbiWLk",
         "title": "Убик - Филип Дик",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 15
-        }
-    },
-    "JN5a_UQX9w": {
-        "id": "JN5a_UQX9w",
-        "title": "Лабиринт отражений",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-28 20:54:53",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 14
         }
     }
 }
