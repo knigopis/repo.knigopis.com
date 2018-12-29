@@ -1,4 +1,16 @@
 {
+    "buvSVO_6Ob": {
+        "id": "buvSVO_6Ob",
+        "title": "Руны Вещего Олега",
+        "author": "Валентин Гнатюк",
+        "notes": "Отличная книга.",
+        "createdAt": "2018-12-29 11:17:07",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 38
+        }
+    },
     "YSILdUDxtb": {
         "id": "YSILdUDxtb",
         "title": "Очки.",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 19
-        }
-    },
-    "aX8ylx25nq": {
-        "id": "aX8ylx25nq",
-        "title": "Близится утро",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-28 20:56:44",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 18
         }
     }
 }

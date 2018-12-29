@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Руны Вещего Олега ~ [mfevralev](users/140/140966150-vkontakte)<sup>38</sup>
+    > Отличная книга.
+
 * «Открытки с того света» ~ [Aleks](users/117/117835844513813219393-google)<sup>58</sup>
     > В своей книге Франко Арминио собрал несколько десятков репортажей от первого лица, запечатлевающих момент смерти рассказчика. «Я один из тех, кто за минуту до смерти был в полном порядке». Но — странное дело — книга не оставляет ощущения страха смерти. Наоборот, хочется жить с новой силой
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Основа сюжета - развод Сомса и Ирэн на фоне войны с бурами
 
 * Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>82</sup>
-    > даже забыла записать((( Если бы не нашла на телефоне и не увидела,  что  книга открыта на последней странице - даже и не вспомнила бы
 
 * Сага о бедных Гольдманах ~ [Chiffi](users/105/105831994080785626680-google)<sup>81</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Магия утра ~ [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup>
 
-* Альтернативная цивилизация ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>38</sup> 
 [stanis1ove](users/590/59066959-vkontakte)<sup>41</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>109</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>63</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [striped_one](users/249/249815548-vkontakte)<sup>21</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>33</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>37</sup> 
 
 
-_29.12.2018 11:15:15_
+_29.12.2018 11:17:07_

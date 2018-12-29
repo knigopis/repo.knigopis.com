@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 38,
+        "updatedAt": "2018-12-29 11:17:07"
+    },
     "59066959-vkontakte": {
         "id": "59066959-vkontakte",
         "nickname": "stanis1ove",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 187,
         "updatedAt": "2018-12-18 12:44:38"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 37,
-        "updatedAt": "2018-12-18 10:50:14"
     }
 }

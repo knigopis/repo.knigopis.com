@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Руны Вещего Олега ~ [mfevralev](users/140/140966150-vkontakte)<sup>38</sup>
 * «Открытки с того света» ~ [Aleks](users/117/117835844513813219393-google)<sup>58</sup>
 * В петле (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>203</sup>
 * Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>82</sup>
@@ -30,7 +31,6 @@
 * The Man in the High Castle ~ [exulted](users/100/100599204551896265722-google)<sup>91</sup>
 * Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>90</sup>
 * Вегетарианка ~ [Sky](users/118/118049897850017649660-google)<sup>112</sup>
-* Суворов и казаки в Италии ~ [mfevralev](users/140/140966150-vkontakte)<sup>36</sup>
 
 
-_28.12.2018 16:43:51_
+_29.12.2018 11:17:07_
