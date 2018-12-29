@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>38</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>39</sup>
 ---
 
 ## 2016
@@ -56,6 +56,10 @@
 ### Ночной дозор
 Сергей Лукьяненко
 > [2012-04] 
+
+
+### Пикник на обочине
+Аркадий и Борис Стругацкие
 
 
 ### Непоседа
