@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Aleks](users/117/117835844513813219393-google)<sup>66</sup> 
+[Aleks](users/117/117835844513813219393-google)<sup>67</sup> 
 [Aoto11](users/481/481972371-vkontakte)<sup>0</sup> 
 [stanis1ove](users/590/59066959-vkontakte)<sup>45</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>38</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Svecha](users/118/118041836581529110049-google)<sup>33</sup> 
 
 
-_29.12.2018 19:30:44_
+_29.12.2018 19:33:45_
