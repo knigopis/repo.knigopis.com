@@ -1,4 +1,4 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>34</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>35</sup>
 ---
 
 ## 2018
@@ -88,6 +88,11 @@
 
 
 ## 2016
+
+### Город костей (Орудия смерти 1)
+Кассандра Клэр
+> [2016-12-31] Хорошее фентези на убить время. Не запоминается.
+
 
 ### Свет в окошке
 Святослав Логинов
