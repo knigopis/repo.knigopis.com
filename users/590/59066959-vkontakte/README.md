@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>46</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>47</sup>
 ---
 
 ## 2016
@@ -202,6 +202,10 @@
 
 
 ## 2007
+
+### Рубин во мгле
+Филип Пулман
+
 
 ### В логове нечисти
 Клиффорд Саймак
