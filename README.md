@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darb_el](users/184/184135339-vkontakte)<sup>21</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>71</sup> 
 [stanis1ove](users/590/59066959-vkontakte)<sup>60</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>342</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Brenda Walsh](users/176/17633272-vkontakte)<sup>24</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>166</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>21</sup> 
-[Svecha](users/118/118041836581529110049-google)<sup>33</sup> 
 
 
-_30.12.2018 16:24:14_
+_30.12.2018 16:30:21_

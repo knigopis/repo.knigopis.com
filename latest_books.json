@@ -1,4 +1,16 @@
 {
+    "cPzHzNyVeF": {
+        "id": "cPzHzNyVeF",
+        "title": "Учитель и проблемы дисциплины",
+        "author": "С. В. Кривцова",
+        "notes": "",
+        "createdAt": "2018-12-30 16:30:21",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 21
+        }
+    },
     "_BYOoNWrQg": {
         "id": "_BYOoNWrQg",
         "title": "Чайка Джонатан Ливингстон",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 42
-        }
-    },
-    "buvSVO_6Ob": {
-        "id": "buvSVO_6Ob",
-        "title": "Руны Вещего Олега",
-        "author": "Валентин Гнатюк",
-        "notes": "Отличная книга.",
-        "createdAt": "2018-12-29 11:17:07",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 38
         }
     }
 }
