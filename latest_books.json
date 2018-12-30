@@ -1,4 +1,16 @@
 {
+    "yuL9fXc16c": {
+        "id": "yuL9fXc16c",
+        "title": "Загнанная (Дом ночи 5)",
+        "author": "Филис и Кристина Каст",
+        "notes": "Годное вампирское фэнтези.",
+        "createdAt": "2018-12-30 22:38:12",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 24
+        }
+    },
     "djcvb9opCL": {
         "id": "djcvb9opCL",
         "title": "Непокорная (Дом ночи 4)",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 60
-        }
-    },
-    "IXAJCF6ipw": {
-        "id": "IXAJCF6ipw",
-        "title": "Гарри Поттер и Принц-полукровка",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2018-12-30 08:52:15",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 59
         }
     }
 }
