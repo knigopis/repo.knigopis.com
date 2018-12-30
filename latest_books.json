@@ -1,4 +1,16 @@
 {
+    "kEl5ZJEpjI": {
+        "id": "kEl5ZJEpjI",
+        "title": "Раскрытая (Дом ночи 11)",
+        "author": "Филис и Кристина Каст",
+        "notes": "Годное вампирское фэнтези.",
+        "createdAt": "2018-12-30 22:40:43",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 30
+        }
+    },
     "q8Mc5vYzqE": {
         "id": "q8Mc5vYzqE",
         "title": "Спрятанная (Дом ночи 10)",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 343
-        }
-    },
-    "96ejjCFY_t": {
-        "id": "96ejjCFY_t",
-        "title": "Если я останусь",
-        "author": "Форман Гейл",
-        "notes": "Драма о выборе, жертвах, любви. Легко читается.",
-        "createdAt": "2018-12-30 20:42:17",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
