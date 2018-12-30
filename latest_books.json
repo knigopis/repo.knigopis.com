@@ -1,4 +1,16 @@
 {
+    "9VMdfaHDp-": {
+        "id": "9VMdfaHDp-",
+        "title": "Ужин",
+        "author": "Герман Кох",
+        "notes": "Так и не поняла, почему она стала бестселлером. Посредственная история, над которой слишком много шума.",
+        "createdAt": "2018-12-30 22:21:32",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 15
+        }
+    },
     "LqXmZtaEsq": {
         "id": "LqXmZtaEsq",
         "title": "Хлеб с ветчиной",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 51
-        }
-    },
-    "5uY6gN877O": {
-        "id": "5uY6gN877O",
-        "title": "Помощник вампира",
-        "author": "Даррен Шэн",
-        "notes": "",
-        "createdAt": "2018-12-30 08:40:44",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 50
         }
     }
 }
