@@ -1,4 +1,16 @@
 {
+    "Fmvy89VBVb": {
+        "id": "Fmvy89VBVb",
+        "title": "Я - легенда",
+        "author": "Ричард Мэтисон",
+        "notes": "Классика научной фантастики. Грустная, напряженная история с печальной концовкой. Однозначно мастрид.",
+        "createdAt": "2018-12-30 23:13:50",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 50
+        }
+    },
     "KGrmf0Wwn8": {
         "id": "KGrmf0Wwn8",
         "title": "Девятнадцать минут",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 21
-        }
-    },
-    "7wNrLklVB9": {
-        "id": "7wNrLklVB9",
-        "title": "Меченая (Дом ночи 1)",
-        "author": "Филис и Кристина Каст",
-        "notes": "Годное вампирское фэнтези.",
-        "createdAt": "2018-12-30 22:34:40",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 20
         }
     }
 }
