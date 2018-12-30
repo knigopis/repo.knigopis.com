@@ -1,4 +1,16 @@
 {
+    "5s4HQH_Lt8": {
+        "id": "5s4HQH_Lt8",
+        "title": "Гора вампиров",
+        "author": "Даррен Шэн",
+        "notes": "",
+        "createdAt": "2018-12-30 08:41:40",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 52
+        }
+    },
     "wnRazz-lM_": {
         "id": "wnRazz-lM_",
         "title": "Туннели крови",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 61
-        }
-    },
-    "E6EnVkMuH5": {
-        "id": "E6EnVkMuH5",
-        "title": "Осенние визиты",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-28 21:14:32",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 38
         }
     }
 }

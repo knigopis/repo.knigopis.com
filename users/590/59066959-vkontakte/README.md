@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>51</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>52</sup>
 ---
 
 ## 2016
@@ -217,6 +217,10 @@
 
 
 ## 2006
+
+### Гора вампиров
+Даррен Шэн
+
 
 ### Туннели крови
 Даррен Шэн
