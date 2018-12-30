@@ -1,4 +1,16 @@
 {
+    "ScSmC1Ryk4": {
+        "id": "ScSmC1Ryk4",
+        "title": "Свет в окошке",
+        "author": "Святослав Логинов",
+        "notes": "Восхитительная фантастика. О загробной жизни и важности памяти об умершем потомками. Мастрид - однозначно.",
+        "createdAt": "2018-12-30 22:31:44",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 19
+        }
+    },
     "nuYhKMMUWL": {
         "id": "nuYhKMMUWL",
         "title": "Город праха (Орудия смерти 2)",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 55
-        }
-    },
-    "E_rVA-Auzk": {
-        "id": "E_rVA-Auzk",
-        "title": "Гарри Поттер и Философский камень",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2018-12-30 08:45:54",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 54
         }
     }
 }
