@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* След лисицы на камнях ~ [Chiffi](users/105/105831994080785626680-google)<sup>83</sup>
+    > люблю детективы этого автора. 
+    > + узнала для себя понятие Воздушное отопление = гипокауст
+
 * Руны Вещего Олега ~ [mfevralev](users/140/140966150-vkontakte)<sup>38</sup>
     > Отличная книга.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > В своей книге Франко Арминио собрал несколько десятков репортажей от первого лица, запечатлевающих момент смерти рассказчика. «Я один из тех, кто за минуту до смерти был в полном порядке». Но — странное дело — книга не оставляет ощущения страха смерти. Наоборот, хочется жить с новой силой
 
 * В петле (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>203</sup>
-    > Основа сюжета - развод Сомса и Ирэн на фоне войны с бурами
 
 * Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>82</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Семь зверей Райлега. Алиедора ~ [EsterHani](users/305/30558181-vkontakte)<sup>164</sup>
 
-* Магия утра ~ [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>83</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>70</sup> 
 [Aoto11](users/481/481972371-vkontakte)<sup>0</sup> 
 [stanis1ove](users/590/59066959-vkontakte)<sup>45</sup> 
@@ -43,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vlad_zamaev](users/122/122014636-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>204</sup> 
 [Елена](users/210/2106329609426574-facebook)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>82</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>118</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>4</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>55</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Svecha](users/118/118041836581529110049-google)<sup>33</sup> 
 
 
-_29.12.2018 19:37:40_
+_30.12.2018 06:12:21_
