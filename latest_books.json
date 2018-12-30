@@ -1,4 +1,16 @@
 {
+    "wnRazz-lM_": {
+        "id": "wnRazz-lM_",
+        "title": "Туннели крови",
+        "author": "Даррен Шэн",
+        "notes": "",
+        "createdAt": "2018-12-30 08:41:10",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 51
+        }
+    },
     "5uY6gN877O": {
         "id": "5uY6gN877O",
         "title": "Помощник вампира",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 38
-        }
-    },
-    "2t0_eT9tSU": {
-        "id": "2t0_eT9tSU",
-        "title": "Недотепа",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-28 21:13:44",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 37
         }
     }
 }
