@@ -1,4 +1,16 @@
 {
+    "wKLRrcH27X": {
+        "id": "wKLRrcH27X",
+        "title": "Цирк уродов",
+        "author": "Даррен Шэн",
+        "notes": "",
+        "createdAt": "2018-12-30 08:40:13",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 49
+        }
+    },
     "4MybS-v9Qm": {
         "id": "4MybS-v9Qm",
         "title": "Выстрел с монитора",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 36
-        }
-    },
-    "aodXlzyNsl": {
-        "id": "aodXlzyNsl",
-        "title": "Атомный сон",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-28 21:10:58",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 35
         }
     }
 }

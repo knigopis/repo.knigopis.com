@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>48</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>49</sup>
 ---
 
 ## 2016
@@ -217,6 +217,10 @@
 
 
 ## 2006
+
+### Цирк уродов
+Даррен Шэн
+
 
 ### Зов Ктулху
 Говард Филлипс Лавкрафт
