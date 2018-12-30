@@ -1,4 +1,16 @@
 {
+    "lNpS5OMc1n": {
+        "id": "lNpS5OMc1n",
+        "title": "Соблазненная (Дом ночи 6)",
+        "author": "Филис и Кристина Каст",
+        "notes": "Годное вампирское фэнтези.",
+        "createdAt": "2018-12-30 22:38:34",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 25
+        }
+    },
     "yuL9fXc16c": {
         "id": "yuL9fXc16c",
         "title": "Загнанная (Дом ночи 5)",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 71
-        }
-    },
-    "hzy3iHM3Qu": {
-        "id": "hzy3iHM3Qu",
-        "title": "Гарри Поттер и Дары смерти",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2018-12-30 08:52:53",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 60
         }
     }
 }
