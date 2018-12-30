@@ -1,4 +1,16 @@
 {
+    "4MybS-v9Qm": {
+        "id": "4MybS-v9Qm",
+        "title": "Выстрел с монитора",
+        "author": "Владислав Крапивин",
+        "notes": "",
+        "createdAt": "2018-12-30 08:29:02",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 48
+        }
+    },
     "gHjUT5Z5hj": {
         "id": "gHjUT5Z5hj",
         "title": "Рубин во мгле",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 35
-        }
-    },
-    "4k-Fvvv42x": {
-        "id": "4k-Fvvv42x",
-        "title": "Убить пересмешника",
-        "author": "Харпер Ли",
-        "notes": "",
-        "createdAt": "2018-12-28 21:07:00",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 34
         }
     }
 }

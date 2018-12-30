@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>47</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>48</sup>
 ---
 
 ## 2016
@@ -224,6 +224,10 @@
 
 
 ## 2005
+
+### Выстрел с монитора
+Владислав Крапивин
+
 
 ### Паломничество в волшебство
 Клиффорд Саймак
