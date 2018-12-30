@@ -1,4 +1,16 @@
 {
+    "XCVHJ5oUml": {
+        "id": "XCVHJ5oUml",
+        "title": "Гарри Поттер и кубок огня",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2018-12-30 08:48:23",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 57
+        }
+    },
     "XEv06zIl2M": {
         "id": "XEv06zIl2M",
         "title": "Гарри Поттер и узник Азкабана",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 109
-        }
-    },
-    "DrtIlbiWLk": {
-        "id": "DrtIlbiWLk",
-        "title": "Убик - Филип Дик",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-12-29 07:17:09",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 108
         }
     }
 }
