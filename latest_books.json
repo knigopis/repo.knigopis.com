@@ -1,4 +1,16 @@
 {
+    "Hqo9jo4T1H": {
+        "id": "Hqo9jo4T1H",
+        "title": "Пробужденный (Дом ночи 8)",
+        "author": "Филис и Кристина Каст",
+        "notes": "Годное вампирское фэнтези.",
+        "createdAt": "2018-12-30 22:39:35",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 27
+        }
+    },
     "xYiPP3NVU5": {
         "id": "xYiPP3NVU5",
         "title": "Обожженная (Дом ночи 7)",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 55
-        }
-    },
-    "BrV4FDlFao": {
-        "id": "BrV4FDlFao",
-        "title": "Учитель и проблемы дисциплины",
-        "author": "С. В. Кривцова",
-        "notes": "",
-        "createdAt": "2018-12-30 16:53:02",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 22
         }
     }
 }
