@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>59</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>60</sup>
 ---
 
 ## 2016
@@ -202,6 +202,10 @@
 
 
 ## 2007
+
+### Гарри Поттер и Дары смерти
+Джоан Роулинг
+
 
 ### Рубин во мгле
 Филип Пулман
