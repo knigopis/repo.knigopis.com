@@ -1,4 +1,16 @@
 {
+    "8WPiA8iMh0": {
+        "id": "8WPiA8iMh0",
+        "title": "Город падших ангелов (Орудия смерти 4)",
+        "author": "Кассандра Клэр",
+        "notes": "Неплохое фэнтези на убить время. Быстро забывается.",
+        "createdAt": "2018-12-30 22:18:08",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 12
+        }
+    },
     "LbjRN5oJ3i": {
         "id": "LbjRN5oJ3i",
         "title": "Розколоте небо",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 48
-        }
-    },
-    "gHjUT5Z5hj": {
-        "id": "gHjUT5Z5hj",
-        "title": "Рубин во мгле",
-        "author": "Филип Пулман",
-        "notes": "",
-        "createdAt": "2018-12-30 08:27:20",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 47
         }
     }
 }
