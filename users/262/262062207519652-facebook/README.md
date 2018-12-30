@@ -1,4 +1,4 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>17</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>18</sup>
 ---
 
 ## 2018
@@ -88,6 +88,11 @@
 
 
 ## 2016
+
+### Город праха (Орудия смерти 2)
+Кассандра Клэр
+> [2016-12-31] Неплохое фэнтези на убить время. Быстро забывается.
+
 
 ### Хрупкая душа
 Джоди Пиколт

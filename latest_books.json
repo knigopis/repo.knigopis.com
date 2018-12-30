@@ -1,4 +1,16 @@
 {
+    "nuYhKMMUWL": {
+        "id": "nuYhKMMUWL",
+        "title": "Город праха (Орудия смерти 2)",
+        "author": "Кассандра Клэр",
+        "notes": "Неплохое фэнтези на убить время. Быстро забывается.",
+        "createdAt": "2018-12-30 22:29:29",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 18
+        }
+    },
     "CdnCmhgS8A": {
         "id": "CdnCmhgS8A",
         "title": "Вспоминая моих грустных шлюх",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 54
-        }
-    },
-    "tc1QcYzLNq": {
-        "id": "tc1QcYzLNq",
-        "title": "Смертельные испытания",
-        "author": "Даррен Шэн",
-        "notes": "",
-        "createdAt": "2018-12-30 08:42:11",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 53
         }
     }
 }
