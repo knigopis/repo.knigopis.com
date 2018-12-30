@@ -1,4 +1,16 @@
 {
+    "CdnCmhgS8A": {
+        "id": "CdnCmhgS8A",
+        "title": "Вспоминая моих грустных шлюх",
+        "author": "Габриэль Гарсиа Маркес",
+        "notes": "По описанию - книга о любви, о растраченной на бездушный секс молодости и одинокой старости после. Не запомнилась, не отозвалась в душе.",
+        "createdAt": "2018-12-30 22:28:22",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 17
+        }
+    },
     "ZQ2KxfAC2P": {
         "id": "ZQ2KxfAC2P",
         "title": "Белый архив",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 53
-        }
-    },
-    "5s4HQH_Lt8": {
-        "id": "5s4HQH_Lt8",
-        "title": "Гора вампиров",
-        "author": "Даррен Шэн",
-        "notes": "",
-        "createdAt": "2018-12-30 08:41:40",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 52
         }
     }
 }
