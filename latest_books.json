@@ -1,4 +1,16 @@
 {
+    "lWrEL9FbtX": {
+        "id": "lWrEL9FbtX",
+        "title": "Пан",
+        "author": "Кнут Гамсун",
+        "notes": "",
+        "createdAt": "2018-12-30 07:37:01",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 342
+        }
+    },
     "ufTI0bGL9z": {
         "id": "ufTI0bGL9z",
         "title": "След лисицы на камнях",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 32
-        }
-    },
-    "BFycAH-5BM": {
-        "id": "BFycAH-5BM",
-        "title": "Мальчик и тьма",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-28 21:04:26",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 31
         }
     }
 }

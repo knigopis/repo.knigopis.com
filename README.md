@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>342</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>83</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>70</sup> 
 [Aoto11](users/481/481972371-vkontakte)<sup>0</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>54</sup> 
 [Сергей Окунев](users/130/13093426497474642450-mailru)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>341</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [lina_gela](users/808/8082669028-instagram)<sup>1</sup> 
 [Brenda Walsh](users/176/17633272-vkontakte)<sup>24</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Svecha](users/118/118041836581529110049-google)<sup>33</sup> 
 
 
-_30.12.2018 06:12:21_
+_30.12.2018 07:37:01_
