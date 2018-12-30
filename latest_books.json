@@ -1,4 +1,16 @@
 {
+    "yfvDaKZZ9H": {
+        "id": "yfvDaKZZ9H",
+        "title": "Город стекла (Орудия смерти 3)",
+        "author": "Кассандра Клэр",
+        "notes": "Неплохое фэнтези на убить время. Быстро забывается.",
+        "createdAt": "2018-12-30 22:18:36",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 13
+        }
+    },
     "8WPiA8iMh0": {
         "id": "8WPiA8iMh0",
         "title": "Город падших ангелов (Орудия смерти 4)",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 49
-        }
-    },
-    "4MybS-v9Qm": {
-        "id": "4MybS-v9Qm",
-        "title": "Выстрел с монитора",
-        "author": "Владислав Крапивин",
-        "notes": "",
-        "createdAt": "2018-12-30 08:29:02",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 48
         }
     }
 }
