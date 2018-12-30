@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 55,
+        "updatedAt": "2018-12-30 16:58:22"
+    },
     "184135339-vkontakte": {
         "id": "184135339-vkontakte",
         "nickname": "darb_el",
@@ -136,12 +142,6 @@
         "nickname": "Apprentice ",
         "booksCount": 101,
         "updatedAt": "2018-12-24 10:38:29"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 54,
-        "updatedAt": "2018-12-24 10:28:49"
     },
     "13093426497474642450-mailru": {
         "id": "13093426497474642450-mailru",

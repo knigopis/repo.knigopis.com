@@ -1,4 +1,16 @@
 {
+    "lBaWpq9yTs": {
+        "id": "lBaWpq9yTs",
+        "title": "Таинственная история Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2018-12-30 16:58:22",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 55
+        }
+    },
     "BrV4FDlFao": {
         "id": "BrV4FDlFao",
         "title": "Учитель и проблемы дисциплины",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 43
-        }
-    },
-    "pz8yxknk96": {
-        "id": "pz8yxknk96",
-        "title": "Метро 2033",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2018-12-29 11:20:58",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 42
         }
     }
 }
