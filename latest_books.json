@@ -1,4 +1,16 @@
 {
+    "7g9psRqHYt": {
+        "id": "7g9psRqHYt",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "Одна из любимых книг. Очень интересно для студента психфака. Мастрид и мастхэв.",
+        "createdAt": "2018-12-30 23:25:32",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 58
+        }
+    },
     "oMrcfMJCGw": {
         "id": "oMrcfMJCGw",
         "title": "Колыбельная",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 29
-        }
-    },
-    "J9YtyxXpnC": {
-        "id": "J9YtyxXpnC",
-        "title": "Призванный (Дом ночи 9)",
-        "author": "Филис и Кристина Каст",
-        "notes": "Годное вампирское фэнтези.",
-        "createdAt": "2018-12-30 22:40:02",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 28
         }
     }
 }
