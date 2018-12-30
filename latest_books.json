@@ -1,4 +1,16 @@
 {
+    "5uY6gN877O": {
+        "id": "5uY6gN877O",
+        "title": "Помощник вампира",
+        "author": "Даррен Шэн",
+        "notes": "",
+        "createdAt": "2018-12-30 08:40:44",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 50
+        }
+    },
     "wKLRrcH27X": {
         "id": "wKLRrcH27X",
         "title": "Цирк уродов",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 37
-        }
-    },
-    "HxdL0Rr7aO": {
-        "id": "HxdL0Rr7aO",
-        "title": "Непоседа",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-28 21:11:40",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 36
         }
     }
 }
