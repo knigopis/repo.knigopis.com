@@ -1,4 +1,16 @@
 {
+    "96ejjCFY_t": {
+        "id": "96ejjCFY_t",
+        "title": "Если я останусь",
+        "author": "Форман Гейл",
+        "notes": "Драма о выборе, жертвах, любви. Легко читается.",
+        "createdAt": "2018-12-30 20:42:17",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "BEM1fZrc7V": {
         "id": "BEM1fZrc7V",
         "title": "1900. Легенда о пианисте",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 45
-        }
-    },
-    "ONMdI22cpA": {
-        "id": "ONMdI22cpA",
-        "title": "Географ глобус пропил",
-        "author": "Алексей Иванов",
-        "notes": "",
-        "createdAt": "2018-12-29 11:22:57",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 44
         }
     }
 }
