@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/262/262062207519652-facebook)<sup>3</sup> 
 [TheWildWind](users/111/111315067034891051533-google)<sup>0</sup> 
-[](users/262/262062207519652-facebook)<sup>2</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>343</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>72</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>55</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Brenda Walsh](users/176/17633272-vkontakte)<sup>24</sup> 
 
 
-_30.12.2018 21:43:22_
+_30.12.2018 21:52:32_
