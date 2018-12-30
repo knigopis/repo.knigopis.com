@@ -1,4 +1,16 @@
 {
+    "OKUr8apz2q": {
+        "id": "OKUr8apz2q",
+        "title": "Элеанора и Парк",
+        "author": "Рэйнбоу Рауэлл",
+        "notes": "О любви двух не глупых подростков-аутсайдеров. Легкая, приятная история, которая быстро забывается.",
+        "createdAt": "2018-12-30 22:04:30",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 7
+        }
+    },
     "exuvfy6vS9": {
         "id": "exuvfy6vS9",
         "title": "Женщина в окне",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 70
-        }
-    },
-    "vf5WD61RRn": {
-        "id": "vf5WD61RRn",
-        "title": "Верноподанный",
-        "author": "Генрих Манн",
-        "notes": "",
-        "createdAt": "2018-12-29 19:35:26",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 69
         }
     }
 }
