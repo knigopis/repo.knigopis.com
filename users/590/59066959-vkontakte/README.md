@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>58</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>59</sup>
 ---
 
 ## 2016
@@ -217,6 +217,10 @@
 
 
 ## 2006
+
+### Гарри Поттер и Принц-полукровка
+Джоан Роулинг
+
 
 ### Смертельные испытания
 Даррен Шэн
