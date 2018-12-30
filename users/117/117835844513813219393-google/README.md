@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>71</sup>
+# List of books read by Aleks<sup>72</sup>
 ---
 
 ## Other years
+
+### 1900. Легенда о пианисте
+Алессандро Барикко
+
 
 ### Чайка Джонатан Ливингстон
 Ричард Бах

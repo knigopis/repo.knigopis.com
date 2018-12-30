@@ -1,4 +1,16 @@
 {
+    "BEM1fZrc7V": {
+        "id": "BEM1fZrc7V",
+        "title": "1900. Легенда о пианисте",
+        "author": "Алессандро Барикко",
+        "notes": "",
+        "createdAt": "2018-12-30 17:22:42",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 72
+        }
+    },
     "lBaWpq9yTs": {
         "id": "lBaWpq9yTs",
         "title": "Таинственная история Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 44
-        }
-    },
-    "ko0O57n4XZ": {
-        "id": "ko0O57n4XZ",
-        "title": "Метро 2034",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2018-12-29 11:21:33",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 43
         }
     }
 }

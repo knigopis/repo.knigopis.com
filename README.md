@@ -34,9 +34,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Aleks](users/117/117835844513813219393-google)<sup>72</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>55</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>21</sup> 
-[Aleks](users/117/117835844513813219393-google)<sup>71</sup> 
 [stanis1ove](users/590/59066959-vkontakte)<sup>60</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>342</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>83</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [striped_one](users/249/249815548-vkontakte)<sup>21</sup> 
 
 
-_30.12.2018 16:58:22_
+_30.12.2018 17:22:42_
