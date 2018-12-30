@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>53</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>54</sup>
 ---
 
 ## 2016
@@ -251,6 +251,13 @@
 
 ### Паломничество в волшебство
 Клиффорд Саймак
+
+
+
+## 2003
+
+### Гарри Поттер и Философский камень
+Джоан Роулинг
 
 
 
