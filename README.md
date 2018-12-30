@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/262/262062207519652-facebook)<sup>2</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>343</sup> 
-[](users/262/262062207519652-facebook)<sup>1</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>72</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>55</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>21</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>166</sup> 
 
 
-_30.12.2018 21:28:13_
+_30.12.2018 21:29:13_
