@@ -1,4 +1,16 @@
 {
+    "Jbfxh1JiEQ": {
+        "id": "Jbfxh1JiEQ",
+        "title": "Война миров",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2018-12-30 08:25:52",
+        "user": {
+            "id": "59066959-vkontakte",
+            "nickname": "stanis1ove",
+            "booksCount": 46
+        }
+    },
     "lWrEL9FbtX": {
         "id": "lWrEL9FbtX",
         "title": "Пан",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 33
-        }
-    },
-    "By1-fv1KEX": {
-        "id": "By1-fv1KEX",
-        "title": "Звезды − холодные игрушки",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2018-12-28 21:05:40",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 32
         }
     }
 }
