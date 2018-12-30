@@ -1,4 +1,16 @@
 {
+    "J9YtyxXpnC": {
+        "id": "J9YtyxXpnC",
+        "title": "Призванный (Дом ночи 9)",
+        "author": "Филис и Кристина Каст",
+        "notes": "Годное вампирское фэнтези.",
+        "createdAt": "2018-12-30 22:40:02",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 28
+        }
+    },
     "Hqo9jo4T1H": {
         "id": "Hqo9jo4T1H",
         "title": "Пробужденный (Дом ночи 8)",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 72
-        }
-    },
-    "lBaWpq9yTs": {
-        "id": "lBaWpq9yTs",
-        "title": "Таинственная история Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2018-12-30 16:58:22",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 55
         }
     }
 }
