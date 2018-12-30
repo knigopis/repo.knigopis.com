@@ -1,12 +1,7 @@
-# List of books read by [darb_el](http://vk.com/id184135339)<sup>22</sup>
+# List of books read by [darb_el](http://vk.com/id184135339)<sup>21</sup>
 ---
 
 ## 2018
-
-### Учитель и проблемы дисциплины
-С. В. Кривцова
-> [2018-12-31] 
-
 
 ### Учитель и проблемы дисциплины
 С. В. Кривцова
