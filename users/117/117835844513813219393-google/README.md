@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>70</sup>
+# List of books read by Aleks<sup>71</sup>
 ---
 
 ## Other years
+
+### Чайка Джонатан Ливингстон
+Ричард Бах
+
 
 ### Превращение
 Франц Кафка
