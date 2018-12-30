@@ -1,4 +1,16 @@
 {
+    "rev46f3Bai": {
+        "id": "rev46f3Bai",
+        "title": "Почему мужчины хотят секса, а женщины любви",
+        "author": "Аллан Пиз",
+        "notes": "Простым языком рассказывается о психологии полов. Очень увлекательно.",
+        "createdAt": "2018-12-30 23:16:41",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 52
+        }
+    },
     "C8KfNHb2Hh": {
         "id": "C8KfNHb2Hh",
         "title": "Виноваты звёзды",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 23
-        }
-    },
-    "NqI7XZ-CQr": {
-        "id": "NqI7XZ-CQr",
-        "title": "Избранная (Дом ночи 3)",
-        "author": "Филис и Кристина Каст",
-        "notes": "Годноее вампирское фэнтези.",
-        "createdAt": "2018-12-30 22:36:14",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 22
         }
     }
 }
