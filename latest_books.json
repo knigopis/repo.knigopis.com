@@ -1,4 +1,16 @@
 {
+    "yOTfKRu98r": {
+        "id": "yOTfKRu98r",
+        "title": "После тебя",
+        "author": "Джоджо Мойес",
+        "notes": "Милая и грустная история о любви. Легкая, словно воздушная - в традиционном стиле Мойес. Книга лучше фильма :)",
+        "createdAt": "2018-12-30 21:56:12",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 5
+        }
+    },
     "0wakJFNriz": {
         "id": "0wakJFNriz",
         "title": "Мальчик сделанный из кубиков",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 68
-        }
-    },
-    "vQAFg9DKm9": {
-        "id": "vQAFg9DKm9",
-        "title": "Ромео и Джульетта",
-        "author": "Шекспир, Уильям",
-        "notes": "",
-        "createdAt": "2018-12-29 19:33:45",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 67
         }
     }
 }
