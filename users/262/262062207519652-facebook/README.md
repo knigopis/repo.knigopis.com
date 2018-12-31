@@ -1,4 +1,4 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>123</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>124</sup>
 ---
 
 ## 2018
@@ -597,6 +597,11 @@
 
 
 ## 2007
+
+### Последняя битва (Хроники Нарнии 7)
+Клайв Стейплз Льюис
+> [2007-04] 
+
 
 ### Серебряное кресло (Хроники Нарнии 6)
 Клайв Стейплз Льюис
