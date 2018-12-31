@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* О лебединых крыльях,  котах и чудесах ~ [Chiffi](users/105/105831994080785626680-google)<sup>84</sup>
+    > Сбывшееся чудо меняет реальность, несбывшееся - человека.
+    > Из сбывшихся чудес рождается сказка, из несбывшихся - жизнь
+
 * След лисицы на камнях ~ [Chiffi](users/105/105831994080785626680-google)<sup>83</sup>
     > люблю детективы этого автора. 
     > + узнала для себя понятие Воздушное отопление = гипокауст
@@ -13,7 +17,6 @@ Do not use pull requests to make changes here.
     > Отличная книга.
 
 * «Открытки с того света» ~ [Aleks](users/117/117835844513813219393-google)<sup>58</sup>
-    > В своей книге Франко Арминио собрал несколько десятков репортажей от первого лица, запечатлевающих момент смерти рассказчика. «Я один из тех, кто за минуту до смерти был в полном порядке». Но — странное дело — книга не оставляет ощущения страха смерти. Наоборот, хочется жить с новой силой
 
 * В петле (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>203</sup>
 
@@ -27,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Солярис ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
 
-* Семь зверей Райлега. Алиедора ~ [EsterHani](users/305/30558181-vkontakte)<sup>164</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>84</sup> 
 [](users/262/262062207519652-facebook)<sup>131</sup> 
 [TheWildWind](users/111/111315067034891051533-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>343</sup> 
@@ -41,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>55</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>21</sup> 
 [stanis1ove](users/590/59066959-vkontakte)<sup>60</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>83</sup> 
 [Aoto11](users/481/481972371-vkontakte)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>38</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>109</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Brenda Walsh](users/176/17633272-vkontakte)<sup>24</sup> 
 
 
-_31.12.2018 00:47:49_
+_31.12.2018 05:10:55_

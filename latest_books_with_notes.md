@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* О лебединых крыльях,  котах и чудесах ~ [Chiffi](users/105/105831994080785626680-google)<sup>84</sup>
 * След лисицы на камнях ~ [Chiffi](users/105/105831994080785626680-google)<sup>83</sup>
 * Руны Вещего Олега ~ [mfevralev](users/140/140966150-vkontakte)<sup>38</sup>
 * «Открытки с того света» ~ [Aleks](users/117/117835844513813219393-google)<sup>58</sup>
@@ -30,7 +31,6 @@
 * Леди не движется - 2 ~ [Александр Погодин](users/625/6259590452259030261-mailru)<sup>8</sup>
 * Фалько ~ [Александр Погодин](users/625/6259590452259030261-mailru)<sup>7</sup>
 * The Man in the High Castle ~ [exulted](users/100/100599204551896265722-google)<sup>91</sup>
-* Ship of Fools: An Anthology of Learned Nonsense about Primitive Society ~ [exulted](users/100/100599204551896265722-google)<sup>90</sup>
 
 
-_30.12.2018 06:12:21_
+_31.12.2018 05:10:55_
