@@ -1,4 +1,16 @@
 {
+    "i5WawqRK9I": {
+        "id": "i5WawqRK9I",
+        "title": "Племянник чародея (Хроники Нарнии 1)",
+        "author": "Клайв Стейплз Льюис",
+        "notes": "",
+        "createdAt": "2018-12-31 00:38:35",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 118
+        }
+    },
     "aZjDFWoKml": {
         "id": "aZjDFWoKml",
         "title": "Как относиться к себе и людям, или Практическая психология на каждый день",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 89
-        }
-    },
-    "29zdTVjiG6": {
-        "id": "29zdTVjiG6",
-        "title": "Спираль (Звонок 2)",
-        "author": "Кодзи Судзуки",
-        "notes": "Один из любимых триллеров.",
-        "createdAt": "2018-12-31 00:09:32",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 88
         }
     }
 }
