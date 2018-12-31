@@ -1,4 +1,4 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>112</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>113</sup>
 ---
 
 ## 2018
@@ -579,6 +579,11 @@
 ### Гамлет
 Уильям Шекспир
 > [2008-02] 
+
+
+### Побег (Город Эмбер 1)
+Джин Дюпро
+> Неплохой постапокалиптический роман.
 
 
 

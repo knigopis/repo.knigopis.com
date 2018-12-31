@@ -1,4 +1,16 @@
 {
+    "1fd5xkxuRp": {
+        "id": "1fd5xkxuRp",
+        "title": "Побег (Город Эмбер 1)",
+        "author": "Джин Дюпро",
+        "notes": "Неплохой постапокалиптический роман.",
+        "createdAt": "2018-12-31 00:33:32",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 113
+        }
+    },
     "iIMOh0swvY": {
         "id": "iIMOh0swvY",
         "title": "Ромео и Джульетта",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 84
-        }
-    },
-    "oGedOwjvoX": {
-        "id": "oGedOwjvoX",
-        "title": "Опыт дурака, или Ключ к прозрению. Как избавиться от очков",
-        "author": "Мирзакарим Санакулович Норбеков",
-        "notes": "Реально рабочая книга с методикой восстановления зрения.",
-        "createdAt": "2018-12-31 00:04:37",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 83
         }
     }
 }
