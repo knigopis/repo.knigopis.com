@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кто остался под холмом ~ [Chiffi](users/105/105831994080785626680-google)<sup>86</sup>
+    > Глупо быть мелким нахалом: спросу как с большого,  а профита меньше
+
 * О лебединых крыльях,  котах и чудесах ~ [Chiffi](users/105/105831994080785626680-google)<sup>84</sup>
     > Сбывшееся чудо меняет реальность, несбывшееся - человека.
     > Из сбывшихся чудес рождается сказка, из несбывшихся - жизнь
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > + узнала для себя понятие Воздушное отопление = гипокауст
 
 * Руны Вещего Олега ~ [mfevralev](users/140/140966150-vkontakte)<sup>38</sup>
-    > Отличная книга.
 
 * «Открытки с того света» ~ [Aleks](users/117/117835844513813219393-google)<sup>58</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Убийство Роджера Экройда ~ [fir137](users/176/176805114-yandex)<sup>11</sup>
 
-* Солярис ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>85</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>86</sup> 
 [](users/262/262062207519652-facebook)<sup>131</sup> 
 [TheWildWind](users/111/111315067034891051533-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>343</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Brenda Walsh](users/176/17633272-vkontakte)<sup>24</sup> 
 
 
-_31.12.2018 18:45:34_
+_31.12.2018 18:46:32_
