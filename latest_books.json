@@ -1,4 +1,16 @@
 {
+    "NDR5I85cKF": {
+        "id": "NDR5I85cKF",
+        "title": "Тайна богов (Мы, боги 3)",
+        "author": "Бернар Вербер",
+        "notes": "Одна из любимых серий.",
+        "createdAt": "2018-12-31 00:01:00",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 80
+        }
+    },
     "ZgWjKoTn4f": {
         "id": "ZgWjKoTn4f",
         "title": "Дыхание богов (Мы, боги 2)",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 51
-        }
-    },
-    "Fmvy89VBVb": {
-        "id": "Fmvy89VBVb",
-        "title": "Я - легенда",
-        "author": "Ричард Мэтисон",
-        "notes": "Классика научной фантастики. Грустная, напряженная история с печальной концовкой. Однозначно мастрид.",
-        "createdAt": "2018-12-30 23:13:50",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 50
         }
     }
 }
