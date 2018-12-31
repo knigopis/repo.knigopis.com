@@ -1,4 +1,16 @@
 {
+    "tdbDCh3cK9": {
+        "id": "tdbDCh3cK9",
+        "title": "Предсказание (Город Эмбер 3)",
+        "author": "Джин Дюпро",
+        "notes": "",
+        "createdAt": "2018-12-31 00:34:26",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 115
+        }
+    },
     "av0C5dSa8S": {
         "id": "av0C5dSa8S",
         "title": "Люди Искры (Город Эмбер 2)",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 86
-        }
-    },
-    "mmr6XrmjIb": {
-        "id": "mmr6XrmjIb",
-        "title": "Похороните меня за плинтусом",
-        "author": "Павел Санаев",
-        "notes": "Психологически тяжелая книга, интересна для студента психфака. Вряд ли прочту еще раз.",
-        "createdAt": "2018-12-31 00:07:09",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 85
         }
     }
 }
