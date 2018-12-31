@@ -1,4 +1,16 @@
 {
+    "OoMD4sQaOB": {
+        "id": "OoMD4sQaOB",
+        "title": "Алиса в Стране Чудес",
+        "author": "Льюис Кэрролл",
+        "notes": "",
+        "createdAt": "2018-12-31 00:47:34",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 130
+        }
+    },
     "CdsGyk2M38": {
         "id": "CdsGyk2M38",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 100
-        }
-    },
-    "_acknOQwRQ": {
-        "id": "_acknOQwRQ",
-        "title": "Новолуние (Сумерки 2)",
-        "author": "Стефани Майер",
-        "notes": "Хорошее мыльное вампирское чтиво для девочек-подростков. Иногда перечитываю\\пересматриваю фильм, когда хочется наивной романтической сказки.",
-        "createdAt": "2018-12-31 00:21:01",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 99
         }
     }
 }
