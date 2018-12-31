@@ -1,4 +1,4 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>118</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>119</sup>
 ---
 
 ## 2018
@@ -597,6 +597,11 @@
 
 
 ## 2007
+
+### Лев, колдунья и платяной шкаф (Хроники Нарнии 2)
+Клайв Стейплз Льюис
+> [2007-01] 
+
 
 ### Племянник чародея (Хроники Нарнии 1)
 Клайв Стейплз Льюис
