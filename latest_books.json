@@ -1,4 +1,16 @@
 {
+    "4BFfWgi4PW": {
+        "id": "4BFfWgi4PW",
+        "title": "Гамлет",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2018-12-31 00:31:20",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 111
+        }
+    },
     "Q9y88eLbvT": {
         "id": "Q9y88eLbvT",
         "title": "Божественная комедия",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 82
-        }
-    },
-    "OsBshwoEbi": {
-        "id": "OsBshwoEbi",
-        "title": "Библия секса",
-        "author": "Пол Джоанидис",
-        "notes": "Мастрид для подростков, которые вступают в отношения и понимают, что сугубо платоническими они не будут.",
-        "createdAt": "2018-12-31 00:02:22",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 81
         }
     }
 }
