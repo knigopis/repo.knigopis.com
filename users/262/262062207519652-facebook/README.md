@@ -1,4 +1,4 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>107</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>108</sup>
 ---
 
 ## 2018
@@ -482,6 +482,10 @@
 ### Питер Пэн
 Джеймс Барри
 > [2011-04] Одна из любимых сказок.
+
+
+### Гаррі Поттер і напівкровний принц (Гаррі Поттер 6)
+Джоан Роулінг
 
 
 ### Над пропастью во ржи
