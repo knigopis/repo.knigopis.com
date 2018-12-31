@@ -1,4 +1,16 @@
 {
+    "8wgcZ5-ZVK": {
+        "id": "8wgcZ5-ZVK",
+        "title": "Белый Бим черное ухо",
+        "author": "Гавриил Николаевич Троепольский",
+        "notes": "Психологически тяжелая книга, но - мастрид для детей средней школы.",
+        "createdAt": "2018-12-31 00:46:29",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 128
+        }
+    },
     "H6vSO-J15C": {
         "id": "H6vSO-J15C",
         "title": "Мосты округа Мэдисон",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 98
-        }
-    },
-    "_IL_M9nfDp": {
-        "id": "_IL_M9nfDp",
-        "title": "Фауст",
-        "author": "Иоганна Вольфганга Гёте",
-        "notes": "",
-        "createdAt": "2018-12-31 00:18:23",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 97
         }
     }
 }
