@@ -1,4 +1,4 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>120</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>121</sup>
 ---
 
 ## 2018
@@ -597,6 +597,11 @@
 
 
 ## 2007
+
+### Принц Каспиан (Хроники Нарнии 4)
+Клайв Стейплз Льюис
+> [2007-02] 
+
 
 ### Конь и его мальчик (Хроники Нарнии 3)
 Клайв Стейплз Льюис
