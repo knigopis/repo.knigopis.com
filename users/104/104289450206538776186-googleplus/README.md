@@ -1,7 +1,12 @@
-# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>19</sup>
+# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>20</sup>
 ---
 
 ## 2018
+
+### Теория игр в комиксах
+Тувана Пастин
+> [2018-12-31] 
+
 
 ### Просто космос
 Катерина Ленгольд

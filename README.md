@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Erdi](users/104/104289450206538776186-googleplus)<sup>20</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>85</sup> 
 [](users/262/262062207519652-facebook)<sup>131</sup> 
 [TheWildWind](users/111/111315067034891051533-google)<sup>0</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rosaviktuk](users/313/31359243-vkontakte)<sup>24</sup> 
 [fridrih](users/115/115771667101883638909-google)<sup>1</sup> 
 [](users/224/2242326882760268-facebook)<sup>0</sup> 
-[Erdi](users/104/104289450206538776186-googleplus)<sup>19</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [Сергей Окунев](users/130/13093426497474642450-mailru)<sup>0</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Brenda Walsh](users/176/17633272-vkontakte)<sup>24</sup> 
 
 
-_31.12.2018 18:47:50_
+_31.12.2018 20:15:36_
