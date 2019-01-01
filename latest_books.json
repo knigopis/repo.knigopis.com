@@ -1,4 +1,16 @@
 {
+    "d8Sr9TFMZn": {
+        "id": "d8Sr9TFMZn",
+        "title": "Розы на руинах",
+        "author": "Вирджиния Эндрюс",
+        "notes": "",
+        "createdAt": "2019-01-01 15:53:17",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 57
+        }
+    },
     "b0OnITGBPY": {
         "id": "b0OnITGBPY",
         "title": "Убить пересмешника",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 115
-        }
-    },
-    "av0C5dSa8S": {
-        "id": "av0C5dSa8S",
-        "title": "Люди Искры (Город Эмбер 2)",
-        "author": "Джин Дюпро",
-        "notes": "Неплохой постапокалиптический роман.",
-        "createdAt": "2018-12-31 00:33:54",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 114
         }
     }
 }

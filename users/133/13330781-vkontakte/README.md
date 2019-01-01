@@ -1,5 +1,13 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>56</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>57</sup>
 ---
+
+## 2019
+
+### Розы на руинах
+Вирджиния Эндрюс
+> [2019-01-01] 
+
+
 
 ## 2018
 

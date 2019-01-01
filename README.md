@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>57</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>56</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>73</sup> 
 [stanis1ove](users/590/59066959-vkontakte)<sup>68</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aoto11](users/481/481972371-vkontakte)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>38</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>109</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>56</sup> 
 [fir137](users/176/176805114-yandex)<sup>12</sup> 
 [vlad_zamaev](users/122/122014636-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>204</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Brenda Walsh](users/176/17633272-vkontakte)<sup>24</sup> 
 
 
-_01.01.2019 15:22:44_
+_01.01.2019 15:53:17_
