@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>66</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>67</sup>
 ---
 
 ## 2016
@@ -252,6 +252,10 @@
 
 
 ## 2005
+
+### Последняя битва
+Клайв Стейплз Льюис
+
 
 ### Серебряное кресло
 Клайв Стейплз Льюис
