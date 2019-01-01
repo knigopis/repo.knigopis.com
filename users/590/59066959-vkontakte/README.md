@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>67</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>68</sup>
 ---
 
 ## 2016
@@ -295,6 +295,10 @@
 
 
 ## 2004
+
+### Тим Талер, или Проданный смех
+Джеймс Крюс
+
 
 ### Гарри Поттер и кубок огня
 Джоан Роулинг
