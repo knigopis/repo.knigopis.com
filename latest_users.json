@@ -1,4 +1,10 @@
 {
+    "117835844513813219393-google": {
+        "id": "117835844513813219393-google",
+        "nickname": "Aleks",
+        "booksCount": 73,
+        "updatedAt": "2019-01-01 14:44:40"
+    },
     "59066959-vkontakte": {
         "id": "59066959-vkontakte",
         "nickname": "stanis1ove",
@@ -34,12 +40,6 @@
         "nickname": "HXT",
         "booksCount": 343,
         "updatedAt": "2018-12-30 21:28:12"
-    },
-    "117835844513813219393-google": {
-        "id": "117835844513813219393-google",
-        "nickname": "Aleks",
-        "booksCount": 72,
-        "updatedAt": "2018-12-30 17:22:42"
     },
     "139338401-vkontakte": {
         "id": "139338401-vkontakte",
