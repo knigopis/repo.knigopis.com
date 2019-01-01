@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[stanis1ove](users/590/59066959-vkontakte)<sup>64</sup> 
+[stanis1ove](users/590/59066959-vkontakte)<sup>65</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>20</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>85</sup> 
 [](users/262/262062207519652-facebook)<sup>131</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Brenda Walsh](users/176/17633272-vkontakte)<sup>24</sup> 
 
 
-_01.01.2019 09:46:21_
+_01.01.2019 09:46:57_
