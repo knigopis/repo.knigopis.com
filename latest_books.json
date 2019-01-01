@@ -1,4 +1,16 @@
 {
+    "-mF2EX0unr": {
+        "id": "-mF2EX0unr",
+        "title": "Манечка. или не спешите похудеть",
+        "author": "Ариадна борисова",
+        "notes": "",
+        "createdAt": "2019-01-01 15:53:59",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 58
+        }
+    },
     "d8Sr9TFMZn": {
         "id": "d8Sr9TFMZn",
         "title": "Розы на руинах",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 116
-        }
-    },
-    "tdbDCh3cK9": {
-        "id": "tdbDCh3cK9",
-        "title": "Предсказание (Город Эмбер 3)",
-        "author": "Джин Дюпро",
-        "notes": "",
-        "createdAt": "2018-12-31 00:34:26",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 115
         }
     }
 }

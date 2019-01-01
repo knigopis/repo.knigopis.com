@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>57</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>58</sup>
 ---
 
 ## 2019
+
+### Манечка. или не спешите похудеть
+Ариадна борисова
+> [2019-01-01] 
+
 
 ### Розы на руинах
 Вирджиния Эндрюс
