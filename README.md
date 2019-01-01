@@ -35,9 +35,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Aleks](users/117/117835844513813219393-google)<sup>74</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>58</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>56</sup> 
-[Aleks](users/117/117835844513813219393-google)<sup>73</sup> 
 [stanis1ove](users/590/59066959-vkontakte)<sup>68</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>20</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>85</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Brenda Walsh](users/176/17633272-vkontakte)<sup>24</sup> 
 
 
-_01.01.2019 15:53:59_
+_01.01.2019 23:33:01_
