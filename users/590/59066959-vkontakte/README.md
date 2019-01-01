@@ -1,4 +1,4 @@
-# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>65</sup>
+# List of books read by [stanis1ove](http://vk.com/id59066959)<sup>66</sup>
 ---
 
 ## 2016
@@ -252,6 +252,10 @@
 
 
 ## 2005
+
+### Серебряное кресло
+Клайв Стейплз Льюис
+
 
 ### Покоритель зари, или Плавание на край света
 Клайв Стейплз Льюис
