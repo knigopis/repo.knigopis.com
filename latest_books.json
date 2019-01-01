@@ -1,4 +1,16 @@
 {
+    "b0OnITGBPY": {
+        "id": "b0OnITGBPY",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "",
+        "createdAt": "2019-01-01 15:22:44",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 56
+        }
+    },
     "AIdCsQ2Rn8": {
         "id": "AIdCsQ2Rn8",
         "title": "Божественная комедия",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 114
-        }
-    },
-    "1fd5xkxuRp": {
-        "id": "1fd5xkxuRp",
-        "title": "Побег (Город Эмбер 1)",
-        "author": "Джин Дюпро",
-        "notes": "Неплохой постапокалиптический роман.",
-        "createdAt": "2018-12-31 00:33:32",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 113
         }
     }
 }
