@@ -1,4 +1,10 @@
 {
+    "1568541956547705-facebook": {
+        "id": "1568541956547705-facebook",
+        "nickname": "Arsen",
+        "booksCount": 0,
+        "updatedAt": "2019-01-02 21:07:08"
+    },
     "152488954-vkontakte": {
         "id": "152488954-vkontakte",
         "nickname": "kasikandriena",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 101,
         "updatedAt": "2018-12-24 10:38:29"
-    },
-    "13093426497474642450-mailru": {
-        "id": "13093426497474642450-mailru",
-        "nickname": "Сергей Окунев",
-        "booksCount": 0,
-        "updatedAt": "2018-12-24 10:05:45"
     }
 }
