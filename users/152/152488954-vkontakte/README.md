@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>53</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>54</sup>
 ---
 
 ## 2018
+
+### Восходящая тень (Серия: Колесо времени 4/16)
+Роберт Джордан
+> [2018-12-28] 
+
 
 ### Возрожденный Дракон (Серия: Колесо времени 3/16)
 Роберт Джордан

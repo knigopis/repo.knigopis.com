@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kasikandriena](users/152/152488954-vkontakte)<sup>54</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>174</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>59</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>26</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/224/2242326882760268-facebook)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [Сергей Окунев](users/130/13093426497474642450-mailru)<sup>0</sup> 
-[BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 
 
-_02.01.2019 17:33:36_
+_02.01.2019 20:29:21_
