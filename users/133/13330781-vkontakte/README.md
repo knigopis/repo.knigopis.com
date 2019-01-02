@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>58</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>59</sup>
 ---
 
 ## 2019
+
+### Тысяча сияющих солнц
+Халед Хоссейни
+> [2019-01-02] 
+
 
 ### Манечка, или не спешите похудеть
 Ариадна борисова
