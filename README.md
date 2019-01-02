@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Vikki❤️](users/178/17876169737876636605-mailru)<sup>6</sup> 
+[Vikki❤️](users/178/17876169737876636605-mailru)<sup>7</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>166</sup> 
 [](users/262/262062207519652-facebook)<sup>1</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>74</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 
 
-_02.01.2019 14:15:55_
+_02.01.2019 14:16:27_
