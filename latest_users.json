@@ -1,4 +1,10 @@
 {
+    "17876169737876636605-mailru": {
+        "id": "17876169737876636605-mailru",
+        "nickname": "Виктория Быкова",
+        "booksCount": 0,
+        "updatedAt": "2019-01-02 14:09:07"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "BigKhan",
         "booksCount": 7,
         "updatedAt": "2018-12-22 11:45:57"
-    },
-    "8082669028-instagram": {
-        "id": "8082669028-instagram",
-        "nickname": "lina_gela",
-        "booksCount": 1,
-        "updatedAt": "2018-12-21 10:59:11"
     }
 }
