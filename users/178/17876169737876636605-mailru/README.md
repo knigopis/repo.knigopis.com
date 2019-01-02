@@ -1,7 +1,11 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>5</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>6</sup>
 ---
 
 ## 2008
+
+### Гарри Поттер и Принц полукровка
+Джоан Роулинг
+
 
 ### Гарри Поттер и Орден Феникса
 Джоанн Роулинг
