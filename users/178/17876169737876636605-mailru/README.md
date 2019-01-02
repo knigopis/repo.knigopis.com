@@ -1,7 +1,12 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>25</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>26</sup>
 ---
 
 ## 2015
+
+### Жизнь взаймы
+Эрих Мария Ремарк
+> 10/10
+
 
 ### Приют Грез
 Эрих Мария Ремарк
