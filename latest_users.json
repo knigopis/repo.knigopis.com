@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 164,
+        "updatedAt": "2019-01-02 14:06:35"
+    },
     "262062207519652-facebook": {
         "id": "262062207519652-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "lina_gela",
         "booksCount": 1,
         "updatedAt": "2018-12-21 10:59:11"
-    },
-    "17633272-vkontakte": {
-        "id": "17633272-vkontakte",
-        "nickname": "Brenda Walsh",
-        "booksCount": 24,
-        "updatedAt": "2018-12-20 20:49:15"
     }
 }
