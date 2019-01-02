@@ -1,4 +1,16 @@
 {
+    "N-SjcW0Tsl": {
+        "id": "N-SjcW0Tsl",
+        "title": "Замок и ключ",
+        "author": "Сара Дессен",
+        "notes": "8/10",
+        "createdAt": "2019-01-02 14:21:52",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 11
+        }
+    },
     "CS6XXRTON0": {
         "id": "CS6XXRTON0",
         "title": "Недоверчивость отца Брауна",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 61
-        }
-    },
-    "q02LvnagvJ": {
-        "id": "q02LvnagvJ",
-        "title": "Теория игр в комиксах",
-        "author": "Тувана Пастин",
-        "notes": "",
-        "createdAt": "2018-12-31 20:15:36",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": "Erdi",
-            "booksCount": 20
         }
     }
 }
