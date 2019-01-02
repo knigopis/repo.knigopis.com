@@ -1,4 +1,16 @@
 {
+    "rDndb_0d_N": {
+        "id": "rDndb_0d_N",
+        "title": "Фауст",
+        "author": "Иоганн Гёте",
+        "notes": "10/10",
+        "createdAt": "2019-01-02 14:37:51",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 21
+        }
+    },
     "H1Un_semJm": {
         "id": "H1Un_semJm",
         "title": "Дамское счастье",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 58
-        }
-    },
-    "d8Sr9TFMZn": {
-        "id": "d8Sr9TFMZn",
-        "title": "Розы на руинах",
-        "author": "Вирджиния Эндрюс",
-        "notes": "",
-        "createdAt": "2019-01-01 15:53:17",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 57
         }
     }
 }
