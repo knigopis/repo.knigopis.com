@@ -1,4 +1,16 @@
 {
+    "CS6XXRTON0": {
+        "id": "CS6XXRTON0",
+        "title": "Недоверчивость отца Брауна",
+        "author": "Гилберт Честертон",
+        "notes": "",
+        "createdAt": "2019-01-02 14:21:16",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 169
+        }
+    },
     "3jN_oFwmom": {
         "id": "3jN_oFwmom",
         "title": "Позор отца брауна",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": "Erdi",
             "booksCount": 20
-        }
-    },
-    "JvrjLV0jlo": {
-        "id": "JvrjLV0jlo",
-        "title": "Кто остался под холмом",
-        "author": "Михалкова Елена",
-        "notes": "Глупо быть мелким нахалом: спросу как с большого,  а профита меньше",
-        "createdAt": "2018-12-31 18:46:32",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 86
         }
     }
 }
