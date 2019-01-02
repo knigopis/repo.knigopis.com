@@ -1,7 +1,12 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>17</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>18</sup>
 ---
 
 ## 2015
+
+### Одиночество в сети
+Януш Вишневский
+> Не смогла осилить, но когда нибудь вернусь к данной книги.
+
 
 ### Постель
 Януш Вишневский

@@ -1,4 +1,16 @@
 {
+    "BTityD4RWm": {
+        "id": "BTityD4RWm",
+        "title": "Одиночество в сети",
+        "author": "Януш Вишневский",
+        "notes": "Не смогла осилить, но когда нибудь вернусь к данной книги.",
+        "createdAt": "2019-01-02 14:32:26",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 18
+        }
+    },
     "ihVIt0NSn-": {
         "id": "ihVIt0NSn-",
         "title": "Постель",
@@ -345,18 +357,6 @@
             "id": "59066959-vkontakte",
             "nickname": "stanis1ove",
             "booksCount": 68
-        }
-    },
-    "D4QxSY2u4E": {
-        "id": "D4QxSY2u4E",
-        "title": "Последняя битва",
-        "author": "Клайв Стейплз Льюис",
-        "notes": "",
-        "createdAt": "2019-01-01 09:48:08",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 67
         }
     }
 }
