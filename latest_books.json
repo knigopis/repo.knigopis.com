@@ -1,4 +1,16 @@
 {
+    "98Pae04om1": {
+        "id": "98Pae04om1",
+        "title": "Поющие в терновнике",
+        "author": "Колин Маккалоу",
+        "notes": "10/10",
+        "createdAt": "2019-01-02 14:38:52",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 22
+        }
+    },
     "rDndb_0d_N": {
         "id": "rDndb_0d_N",
         "title": "Фауст",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 74
-        }
-    },
-    "-mF2EX0unr": {
-        "id": "-mF2EX0unr",
-        "title": "Манечка. или не спешите похудеть",
-        "author": "Ариадна борисова",
-        "notes": "",
-        "createdAt": "2019-01-01 15:53:59",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 58
         }
     }
 }
