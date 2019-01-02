@@ -1,4 +1,16 @@
 {
+    "EwFPiYWJKq": {
+        "id": "EwFPiYWJKq",
+        "title": "Тайна отца Брауна",
+        "author": "Гилберт Честертон",
+        "notes": "",
+        "createdAt": "2019-01-02 14:19:00",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 167
+        }
+    },
     "MO-KETjAEq": {
         "id": "MO-KETjAEq",
         "title": "Мне тебя обещали",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 84
-        }
-    },
-    "aqdUf3yzNY": {
-        "id": "aqdUf3yzNY",
-        "title": "Алиса в Зазеркалье",
-        "author": "Льюис Кэрролл",
-        "notes": "",
-        "createdAt": "2018-12-31 00:47:48",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 131
         }
     }
 }
