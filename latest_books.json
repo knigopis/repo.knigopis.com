@@ -1,4 +1,16 @@
 {
+    "CsrlEKFHc3": {
+        "id": "CsrlEKFHc3",
+        "title": "Трое в лодке (не считая собаки)",
+        "author": "Джером Клапка Джером",
+        "notes": "10/10",
+        "createdAt": "2019-01-02 14:34:18",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 19
+        }
+    },
     "BTityD4RWm": {
         "id": "BTityD4RWm",
         "title": "Одиночество в сети",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 73
-        }
-    },
-    "iYOsPHzm8i": {
-        "id": "iYOsPHzm8i",
-        "title": "Тим Талер, или Проданный смех",
-        "author": "Джеймс Крюс",
-        "notes": "",
-        "createdAt": "2019-01-01 09:49:39",
-        "user": {
-            "id": "59066959-vkontakte",
-            "nickname": "stanis1ove",
-            "booksCount": 68
         }
     }
 }
