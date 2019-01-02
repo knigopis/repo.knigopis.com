@@ -1,7 +1,12 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>7</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>8</sup>
 ---
 
 ## 2008
+
+### Нет воспоминаний без тебя
+Эльчин Сафарли
+> 5/10
+
 
 ### Гарри поттер и Дары смерти
 Джоанн Роулинг
