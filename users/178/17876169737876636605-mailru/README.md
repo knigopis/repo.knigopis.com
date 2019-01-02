@@ -1,7 +1,12 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>23</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>24</sup>
 ---
 
 ## 2015
+
+### Триумфальная Арка
+Эрих Мария Ремарк
+> 10/10
+
 
 ### Мастер и Маргарита
 Михаил Булгаков
