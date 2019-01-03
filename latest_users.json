@@ -1,4 +1,10 @@
 {
+    "104448632954411726505-google": {
+        "id": "104448632954411726505-google",
+        "nickname": "белая плесень",
+        "booksCount": 0,
+        "updatedAt": "2019-01-03 07:27:46"
+    },
     "184135339-vkontakte": {
         "id": "184135339-vkontakte",
         "nickname": "darb_el",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2018-12-24 16:51:15"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 101,
-        "updatedAt": "2018-12-24 10:38:29"
     }
 }
