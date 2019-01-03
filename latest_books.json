@@ -1,4 +1,16 @@
 {
+    "0_SRpoJIWy": {
+        "id": "0_SRpoJIWy",
+        "title": "Академия проклятий. Книга 5",
+        "author": "Елена Звездная",
+        "notes": "10/10",
+        "createdAt": "2019-01-03 23:41:18",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 31
+        }
+    },
     "FhEniVkmJF": {
         "id": "FhEniVkmJF",
         "title": "Академия проклятий. Книга 4",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 21
-        }
-    },
-    "FpEZxD_GVU": {
-        "id": "FpEZxD_GVU",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-01-02 14:34:37",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 20
         }
     }
 }
