@@ -1,4 +1,10 @@
 {
+    "970096083201538-facebook": {
+        "id": "970096083201538-facebook",
+        "nickname": "oh_rita",
+        "booksCount": 0,
+        "updatedAt": "2019-01-03 15:53:10"
+    },
     "116821443168944055238-google": {
         "id": "116821443168944055238-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "rosaviktuk",
         "booksCount": 24,
         "updatedAt": "2018-12-25 12:14:49"
-    },
-    "115771667101883638909-google": {
-        "id": "115771667101883638909-google",
-        "nickname": "fridrih",
-        "booksCount": 1,
-        "updatedAt": "2018-12-24 18:03:55"
     }
 }
