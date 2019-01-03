@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/361/361797-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>86</sup> 
 [youno](users/302/302928912-vkontakte)<sup>18</sup> 
 [oh_rita](users/970/970096083201538-facebook)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>4</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>55</sup> 
 [doilid](users/104/104250836469076768434-google)<sup>0</sup> 
-[Miheyjum](users/115/115651235597791470259-google)<sup>0</sup> 
 
 
-_03.01.2019 20:30:27_
+_03.01.2019 20:43:01_
