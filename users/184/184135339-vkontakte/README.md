@@ -1,5 +1,13 @@
-# List of books read by [darb_el](http://vk.com/id184135339)<sup>21</sup>
+# List of books read by [darb_el](http://vk.com/id184135339)<sup>22</sup>
 ---
+
+## 2019
+
+### Методика обучения химии
+Олег Зайцев
+> [2019-01-03] 
+
+
 
 ## 2018
 

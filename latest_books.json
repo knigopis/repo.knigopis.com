@@ -1,4 +1,16 @@
 {
+    "Wg_ULg2Jed": {
+        "id": "Wg_ULg2Jed",
+        "title": "Методика обучения химии",
+        "author": "Олег Зайцев",
+        "notes": "",
+        "createdAt": "2019-01-03 06:11:02",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 22
+        }
+    },
     "hf61vsrkKu": {
         "id": "hf61vsrkKu",
         "title": "Гарри Поттер и Орден Феникса",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 168
-        }
-    },
-    "EwFPiYWJKq": {
-        "id": "EwFPiYWJKq",
-        "title": "Тайна отца Брауна",
-        "author": "Гилберт Честертон",
-        "notes": "",
-        "createdAt": "2019-01-02 14:19:00",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 167
         }
     }
 }

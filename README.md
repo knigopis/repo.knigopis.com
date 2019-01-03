@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darb_el](users/184/184135339-vkontakte)<sup>22</sup> 
 [Arsen](users/156/1568541956547705-facebook)<sup>3</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>54</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>174</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>85</sup> 
 [TheWildWind](users/111/111315067034891051533-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>343</sup> 
-[darb_el](users/184/184135339-vkontakte)<sup>21</sup> 
 [Aoto11](users/481/481972371-vkontakte)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>38</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>109</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 
 
-_02.01.2019 21:13:57_
+_03.01.2019 06:11:02_

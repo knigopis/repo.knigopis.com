@@ -1,4 +1,10 @@
 {
+    "184135339-vkontakte": {
+        "id": "184135339-vkontakte",
+        "nickname": "darb_el",
+        "booksCount": 22,
+        "updatedAt": "2019-01-03 06:11:02"
+    },
     "1568541956547705-facebook": {
         "id": "1568541956547705-facebook",
         "nickname": "Arsen",
@@ -76,12 +82,6 @@
         "nickname": "HXT",
         "booksCount": 343,
         "updatedAt": "2018-12-30 21:28:12"
-    },
-    "184135339-vkontakte": {
-        "id": "184135339-vkontakte",
-        "nickname": "darb_el",
-        "booksCount": 21,
-        "updatedAt": "2018-12-30 16:53:17"
     },
     "481972371-vkontakte": {
         "id": "481972371-vkontakte",
