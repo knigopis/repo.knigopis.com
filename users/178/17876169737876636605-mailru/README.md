@@ -1,5 +1,13 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>40</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>41</sup>
 ---
+
+## 2018
+
+### Смерть с уведомлением
+Андреас Грубер
+> 10/10
+
+
 
 ## 2017
 
