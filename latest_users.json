@@ -1,4 +1,10 @@
 {
+    "116821443168944055238-google": {
+        "id": "116821443168944055238-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-01-03 13:35:16"
+    },
     "104448632954411726505-google": {
         "id": "104448632954411726505-google",
         "nickname": "белая плесень",
@@ -172,11 +178,5 @@
         "nickname": "fridrih",
         "booksCount": 1,
         "updatedAt": "2018-12-24 18:03:55"
-    },
-    "2242326882760268-facebook": {
-        "id": "2242326882760268-facebook",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2018-12-24 16:51:15"
     }
 }
