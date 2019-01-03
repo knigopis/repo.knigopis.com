@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/116/116821443168944055238-google)<sup>0</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>3</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>22</sup> 
 [Arsen](users/156/1568541956547705-facebook)<sup>3</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Miheyjum](users/115/115651235597791470259-google)<sup>0</sup> 
 [rosaviktuk](users/313/31359243-vkontakte)<sup>24</sup> 
 [fridrih](users/115/115771667101883638909-google)<sup>1</sup> 
-[](users/224/2242326882760268-facebook)<sup>0</sup> 
 
 
-_03.01.2019 07:33:18_
+_03.01.2019 13:35:19_
