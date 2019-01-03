@@ -1,4 +1,16 @@
 {
+    "pJ4HnTbD1a": {
+        "id": "pJ4HnTbD1a",
+        "title": "Академия проклятий. Книга 7",
+        "author": "Елена Звездная",
+        "notes": "10/10",
+        "createdAt": "2019-01-03 23:43:45",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 33
+        }
+    },
     "EczqfCI2Xj": {
         "id": "EczqfCI2Xj",
         "title": "Академия проклятий. Книга 6",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 22
-        }
-    },
-    "rDndb_0d_N": {
-        "id": "rDndb_0d_N",
-        "title": "Фауст",
-        "author": "Иоганн Гёте",
-        "notes": "10/10",
-        "createdAt": "2019-01-02 14:37:51",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 21
         }
     }
 }
