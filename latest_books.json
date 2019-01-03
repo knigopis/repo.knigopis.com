@@ -1,4 +1,16 @@
 {
+    "L5_gxSKuM9": {
+        "id": "L5_gxSKuM9",
+        "title": "Будь лучшей версией себя",
+        "author": "Дэн Вальдшмидт",
+        "notes": "",
+        "createdAt": "2019-01-03 20:26:55",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 18
+        }
+    },
     "0iiWxTFKy0": {
         "id": "0iiWxTFKy0",
         "title": "петровы",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 14
-        }
-    },
-    "ONgZPXAr1G": {
-        "id": "ONgZPXAr1G",
-        "title": "Не верю. Не надеюсь. Люблб",
-        "author": "Сесилия Ахерн",
-        "notes": "10/10",
-        "createdAt": "2019-01-02 14:23:51",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 13
         }
     }
 }

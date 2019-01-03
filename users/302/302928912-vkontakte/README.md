@@ -1,5 +1,13 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>17</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>18</sup>
 ---
+
+## 2019
+
+### Будь лучшей версией себя
+Дэн Вальдшмидт
+> [2019-01-04] 
+
+
 
 ## 2018
 
