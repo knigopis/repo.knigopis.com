@@ -1,4 +1,16 @@
 {
+    "UOzjPkKUQH": {
+        "id": "UOzjPkKUQH",
+        "title": "Академия проклятий. Книга 3",
+        "author": "Елена Звездная",
+        "notes": "10/10",
+        "createdAt": "2019-01-03 23:40:03",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 29
+        }
+    },
     "p6gsfpbKXF": {
         "id": "p6gsfpbKXF",
         "title": "Академия проклятий. Книга 2",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 19
-        }
-    },
-    "BTityD4RWm": {
-        "id": "BTityD4RWm",
-        "title": "Одиночество в сети",
-        "author": "Януш Вишневский",
-        "notes": "Не смогла осилить, но когда нибудь вернусь к данной книги.",
-        "createdAt": "2019-01-02 14:32:26",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 18
         }
     }
 }

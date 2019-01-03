@@ -1,7 +1,12 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>28</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>29</sup>
 ---
 
 ## 2017
+
+### Академия проклятий. Книга 3
+Елена Звездная
+> 10/10
+
 
 ### Академия проклятий. Книга 2
 Елена Звездная
