@@ -1,4 +1,10 @@
 {
+    "361797-vkontakte": {
+        "id": "361797-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-01-03 20:42:56"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "doilid",
         "booksCount": 0,
         "updatedAt": "2018-12-26 09:15:58"
-    },
-    "115651235597791470259-google": {
-        "id": "115651235597791470259-google",
-        "nickname": "Miheyjum",
-        "booksCount": 0,
-        "updatedAt": "2018-12-26 06:54:57"
     }
 }
