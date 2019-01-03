@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[белая плесень](users/104/104448632954411726505-google)<sup>0</sup> 
+[белая плесень](users/104/104448632954411726505-google)<sup>1</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>22</sup> 
 [Arsen](users/156/1568541956547705-facebook)<sup>3</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/224/2242326882760268-facebook)<sup>0</sup> 
 
 
-_03.01.2019 07:27:51_
+_03.01.2019 07:30:43_
