@@ -1,7 +1,12 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>35</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>36</sup>
 ---
 
 ## 2017
+
+### Темная империя. Книга 2
+Елена Звездная
+> 10/10
+
 
 ### Темная империя. Книга 1
 Елена Звездная
