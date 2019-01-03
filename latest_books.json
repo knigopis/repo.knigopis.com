@@ -1,4 +1,16 @@
 {
+    "p6gsfpbKXF": {
+        "id": "p6gsfpbKXF",
+        "title": "Академия проклятий. Книга 2",
+        "author": "Елена Звездная",
+        "notes": "10/10",
+        "createdAt": "2019-01-03 23:39:30",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 28
+        }
+    },
     "v19lKx-kt_": {
         "id": "v19lKx-kt_",
         "title": "Академия проклятий 1",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 18
-        }
-    },
-    "ihVIt0NSn-": {
-        "id": "ihVIt0NSn-",
-        "title": "Постель",
-        "author": "Януш Вишневский",
-        "notes": "10/10",
-        "createdAt": "2019-01-02 14:31:02",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 17
         }
     }
 }
