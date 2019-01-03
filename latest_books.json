@@ -1,4 +1,16 @@
 {
+    "M0qiUrXgvf": {
+        "id": "M0qiUrXgvf",
+        "title": "Академия проклятий. Книга 8",
+        "author": "Елена Звездная",
+        "notes": "10/10",
+        "createdAt": "2019-01-03 23:44:26",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 34
+        }
+    },
     "pJ4HnTbD1a": {
         "id": "pJ4HnTbD1a",
         "title": "Академия проклятий. Книга 7",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 23
-        }
-    },
-    "98Pae04om1": {
-        "id": "98Pae04om1",
-        "title": "Поющие в терновнике",
-        "author": "Колин Маккалоу",
-        "notes": "10/10",
-        "createdAt": "2019-01-02 14:38:52",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 22
         }
     }
 }
