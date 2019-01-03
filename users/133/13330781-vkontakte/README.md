@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>59</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>60</sup>
 ---
 
 ## 2019
+
+### Ежевичная зима
+Сара Джио
+> [2019-01-03] 
+
 
 ### Тысяча сияющих солнц
 Халед Хоссейни

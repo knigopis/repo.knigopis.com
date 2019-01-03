@@ -1,4 +1,16 @@
 {
+    "D6DENenEfQ": {
+        "id": "D6DENenEfQ",
+        "title": "Ежевичная зима",
+        "author": "Сара Джио",
+        "notes": "",
+        "createdAt": "2019-01-03 21:01:55",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 60
+        }
+    },
     "fF-KnTFgAL": {
         "id": "fF-KnTFgAL",
         "title": "Изящное искусство смерти",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 16
-        }
-    },
-    "JKacLaRDTb": {
-        "id": "JKacLaRDTb",
-        "title": "Интим. Разговоры не только о любви",
-        "author": "Януш Вишневский",
-        "notes": "7/10",
-        "createdAt": "2019-01-02 14:29:50",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 15
         }
     }
 }

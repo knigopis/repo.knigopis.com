@@ -1,4 +1,10 @@
 {
+    "13330781-vkontakte": {
+        "id": "13330781-vkontakte",
+        "nickname": "le_brouillard",
+        "booksCount": 60,
+        "updatedAt": "2019-01-03 21:01:55"
+    },
     "361797-vkontakte": {
         "id": "361797-vkontakte",
         "nickname": null,
@@ -58,12 +64,6 @@
         "nickname": "Йолант",
         "booksCount": 174,
         "updatedAt": "2019-01-02 17:33:36"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 59,
-        "updatedAt": "2019-01-02 14:49:12"
     },
     "17876169737876636605-mailru": {
         "id": "17876169737876636605-mailru",
