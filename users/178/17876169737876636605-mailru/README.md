@@ -1,7 +1,12 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>36</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>37</sup>
 ---
 
 ## 2017
+
+### Академия Ранмарн
+Елена Звездная
+> 5/10
+
 
 ### Темная империя. Книга 2
 Елена Звездная
