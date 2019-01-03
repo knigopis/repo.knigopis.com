@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[oh_rita](users/970/970096083201538-facebook)<sup>0</sup> 
+[oh_rita](users/970/970096083201538-facebook)<sup>1</sup> 
 [](users/116/116821443168944055238-google)<sup>0</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>3</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rosaviktuk](users/313/31359243-vkontakte)<sup>24</sup> 
 
 
-_03.01.2019 15:53:14_
+_03.01.2019 15:53:55_
