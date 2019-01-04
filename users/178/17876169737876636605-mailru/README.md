@@ -1,4 +1,4 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>43</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>44</sup>
 ---
 
 ## 2018
@@ -88,6 +88,14 @@
 
 ### Академия проклятий 1
 Елена Звездная
+> 10/10
+
+
+
+## 2016
+
+### Академия вампиров. Охотники и жертвы.
+Мид Рейчел
 > 10/10
 
 
