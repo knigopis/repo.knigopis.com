@@ -1,4 +1,16 @@
 {
+    "6d0yVYMz-O": {
+        "id": "6d0yVYMz-O",
+        "title": "Акажемия вампиров. Возвращение домой",
+        "author": "Мид Рейчел",
+        "notes": "10/10",
+        "createdAt": "2019-01-04 22:24:40",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 47
+        }
+    },
     "BdSadTW_fF": {
         "id": "BdSadTW_fF",
         "title": "Академия вампиров. Поцелуй тьмы",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 86
-        }
-    },
-    "L5_gxSKuM9": {
-        "id": "L5_gxSKuM9",
-        "title": "Будь лучшей версией себя",
-        "author": "Дэн Вальдшмидт",
-        "notes": "",
-        "createdAt": "2019-01-03 20:26:55",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 18
         }
     }
 }
