@@ -1,4 +1,4 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>48</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>49</sup>
 ---
 
 ## 2018
@@ -93,6 +93,11 @@
 
 
 ## 2016
+
+### Академия вампиров . Последняя жертва
+Мид Рейчел
+> 10/10
+
 
 ### Академия вампиров. Оковы для призрака
 Мид Рейчел
