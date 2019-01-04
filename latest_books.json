@@ -1,4 +1,16 @@
 {
+    "1mEQXHXR-5": {
+        "id": "1mEQXHXR-5",
+        "title": "Посмертные записки Пиквикского клуба",
+        "author": "Чарльз Диккенс",
+        "notes": "",
+        "createdAt": "2019-01-04 08:44:22",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 145
+        }
+    },
     "yKYbcNNotP": {
         "id": "yKYbcNNotP",
         "title": "Смерть с уведомлением",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 173
-        }
-    },
-    "TmPCR2r72Y": {
-        "id": "TmPCR2r72Y",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2019-01-02 17:29:57",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 172
         }
     }
 }
