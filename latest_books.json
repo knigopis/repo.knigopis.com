@@ -1,4 +1,16 @@
 {
+    "PzUMWjjLci": {
+        "id": "PzUMWjjLci",
+        "title": "Повесть о капитане Копейкине",
+        "author": "Николай Гоголь",
+        "notes": "",
+        "createdAt": "2019-01-04 08:50:56",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 146
+        }
+    },
     "1mEQXHXR-5": {
         "id": "1mEQXHXR-5",
         "title": "Посмертные записки Пиквикского клуба",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 174
-        }
-    },
-    "vUVHA9Pekd": {
-        "id": "vUVHA9Pekd",
-        "title": "Преступление и наказание",
-        "author": "Фёдор Достаевский",
-        "notes": "",
-        "createdAt": "2019-01-02 17:32:29",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 173
         }
     }
 }
