@@ -1,7 +1,11 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>42</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>43</sup>
 ---
 
 ## 2018
+
+### Академия темных. Преферанс со смертью.
+> 6/10
+
 
 ### Академия темных. Обреченная
 Лика Верх
