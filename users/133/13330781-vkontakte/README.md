@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>60</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>61</sup>
 ---
 
 ## 2019
+
+### Анатом
+Федерико Андахази
+> [2019-01-04] 
+
 
 ### Ежевичная зима
 Сара Джио

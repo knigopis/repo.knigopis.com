@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>61</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>146</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>41</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>60</sup> 
 [](users/361/361797-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>86</sup> 
 [youno](users/302/302928912-vkontakte)<sup>18</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>55</sup> 
 
 
-_04.01.2019 08:50:56_
+_04.01.2019 10:29:56_
