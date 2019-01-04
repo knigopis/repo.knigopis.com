@@ -1,4 +1,10 @@
 {
+    "126368737-vkontakte": {
+        "id": "126368737-vkontakte",
+        "nickname": "Макар Коренюк",
+        "booksCount": 4,
+        "updatedAt": "2019-01-04 13:30:06"
+    },
     "105554907015920541510-google": {
         "id": "105554907015920541510-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 118,
         "updatedAt": "2018-12-26 18:32:14"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 4,
-        "updatedAt": "2018-12-26 11:10:45"
     }
 }
