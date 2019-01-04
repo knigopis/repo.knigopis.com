@@ -1,4 +1,16 @@
 {
+    "wmLZ9J834y": {
+        "id": "wmLZ9J834y",
+        "title": "Академия темных. Обреченная",
+        "author": "Лика Верх",
+        "notes": "7/10",
+        "createdAt": "2019-01-04 11:59:09",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 42
+        }
+    },
     "rpQm1Q1WzT": {
         "id": "rpQm1Q1WzT",
         "title": "Мальчик в полосатой пижаме",
@@ -345,18 +357,6 @@
             "id": "1568541956547705-facebook",
             "nickname": "Arsen",
             "booksCount": 2
-        }
-    },
-    "djQdY36B2v": {
-        "id": "djQdY36B2v",
-        "title": "Гарри Поттер и Принц-полукровка",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2019-01-02 21:12:31",
-        "user": {
-            "id": "1568541956547705-facebook",
-            "nickname": "Arsen",
-            "booksCount": 1
         }
     }
 }

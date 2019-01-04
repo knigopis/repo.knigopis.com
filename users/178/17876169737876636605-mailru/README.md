@@ -1,7 +1,12 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>41</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>42</sup>
 ---
 
 ## 2018
+
+### Академия темных. Обреченная
+Лика Верх
+> 7/10
+
 
 ### Смерть с уведомлением
 Андреас Грубер
