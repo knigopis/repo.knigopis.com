@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105554907015920541510-google)<sup>0</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>22</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>43</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>175</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Елена](users/210/2106329609426574-facebook)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>118</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>4</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>55</sup> 
 
 
-_04.01.2019 12:00:07_
+_04.01.2019 12:33:33_
