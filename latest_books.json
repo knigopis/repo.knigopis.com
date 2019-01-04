@@ -1,4 +1,16 @@
 {
+    "cny6peFRZg": {
+        "id": "cny6peFRZg",
+        "title": "Физические теории за 60 секунд",
+        "author": "Владимир Кессельман",
+        "notes": "",
+        "createdAt": "2019-01-04 11:59:30",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": "Erdi",
+            "booksCount": 21
+        }
+    },
     "wmLZ9J834y": {
         "id": "wmLZ9J834y",
         "title": "Академия темных. Обреченная",
@@ -345,18 +357,6 @@
             "id": "1568541956547705-facebook",
             "nickname": "Arsen",
             "booksCount": 3
-        }
-    },
-    "YqJ83yYit_": {
-        "id": "YqJ83yYit_",
-        "title": "Гарри Поттер и Дары смерти",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2019-01-02 21:13:26",
-        "user": {
-            "id": "1568541956547705-facebook",
-            "nickname": "Arsen",
-            "booksCount": 2
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Erdi](users/104/104289450206538776186-googleplus)<sup>21</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>42</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>175</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>61</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleks](users/117/117835844513813219393-google)<sup>74</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>56</sup> 
 [stanis1ove](users/590/59066959-vkontakte)<sup>68</sup> 
-[Erdi](users/104/104289450206538776186-googleplus)<sup>20</sup> 
 [TheWildWind](users/111/111315067034891051533-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>343</sup> 
 [Aoto11](users/481/481972371-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>55</sup> 
 
 
-_04.01.2019 11:59:09_
+_04.01.2019 11:59:30_

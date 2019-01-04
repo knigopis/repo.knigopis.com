@@ -1,5 +1,13 @@
-# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>20</sup>
+# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>21</sup>
 ---
+
+## 2019
+
+### Физические теории за 60 секунд
+Владимир Кессельман
+> [2019-01-04] 
+
+
 
 ## 2018
 
