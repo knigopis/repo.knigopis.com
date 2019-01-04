@@ -1,4 +1,16 @@
 {
+    "OZw18GcRND": {
+        "id": "OZw18GcRND",
+        "title": "Экономика в комиксах",
+        "author": "Дэвид Оррэлл",
+        "notes": "",
+        "createdAt": "2019-01-04 12:00:07",
+        "user": {
+            "id": "104289450206538776186-googleplus",
+            "nickname": "Erdi",
+            "booksCount": 22
+        }
+    },
     "rwQRARLdku": {
         "id": "rwQRARLdku",
         "title": "Академия темных. Преферанс со смертью.",
@@ -345,18 +357,6 @@
             "id": "104448632954411726505-google",
             "nickname": "белая плесень",
             "booksCount": 1
-        }
-    },
-    "Wg_ULg2Jed": {
-        "id": "Wg_ULg2Jed",
-        "title": "Методика обучения химии",
-        "author": "Олег Зайцев",
-        "notes": "",
-        "createdAt": "2019-01-03 06:11:02",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 22
         }
     }
 }

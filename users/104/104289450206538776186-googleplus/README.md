@@ -1,7 +1,12 @@
-# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>21</sup>
+# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>22</sup>
 ---
 
 ## 2019
+
+### Экономика в комиксах
+Дэвид Оррэлл
+> [2019-01-04] 
+
 
 ### Физические теории за 60 секунд
 Владимир Кессельман
