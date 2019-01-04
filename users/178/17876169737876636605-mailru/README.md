@@ -1,4 +1,4 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>45</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>46</sup>
 ---
 
 ## 2018
@@ -93,6 +93,11 @@
 
 
 ## 2016
+
+### Академия вампиров. Поцелуй тьмы
+Мид рейчел
+> 10/10
+
 
 ### Академия вампиров. Ледяной укус
 Мид Рейчел
