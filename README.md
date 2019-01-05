@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[junkonfire](users/260/260337584-vkontakte)<sup>0</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>49</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>4</sup> 
 [](users/105/105554907015920541510-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vlad_zamaev](users/122/122014636-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>204</sup> 
 [Елена](users/210/2106329609426574-facebook)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>118</sup> 
 
 
-_04.01.2019 22:27:28_
+_05.01.2019 02:57:28_
