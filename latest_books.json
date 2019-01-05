@@ -1,4 +1,16 @@
 {
+    "wckgvK0oxM": {
+        "id": "wckgvK0oxM",
+        "title": "Омон Ра",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2019-01-05 03:00:32",
+        "user": {
+            "id": "260337584-vkontakte",
+            "nickname": "junkonfire",
+            "booksCount": 6
+        }
+    },
     "nqecMlpCvE": {
         "id": "nqecMlpCvE",
         "title": "Заводной апельсин",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 33
-        }
-    },
-    "EczqfCI2Xj": {
-        "id": "EczqfCI2Xj",
-        "title": "Академия проклятий. Книга 6",
-        "author": "Елена Звездная",
-        "notes": "10/10",
-        "createdAt": "2019-01-03 23:41:54",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 32
         }
     }
 }

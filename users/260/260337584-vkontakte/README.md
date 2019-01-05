@@ -1,7 +1,11 @@
-# List of books read by [junkonfire](http://vk.com/id260337584)<sup>5</sup>
+# List of books read by [junkonfire](http://vk.com/id260337584)<sup>6</sup>
 ---
 
 ## 2018
+
+### Омон Ра
+Виктор Пелевин
+
 
 ### Мартин Иден
 Джек Лондон
