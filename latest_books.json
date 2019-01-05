@@ -1,4 +1,16 @@
 {
+    "6SXgKJ9Xtn": {
+        "id": "6SXgKJ9Xtn",
+        "title": "Элизиум. Аликс и монеты",
+        "author": "Александр Андерсон",
+        "notes": "",
+        "createdAt": "2019-01-05 17:30:09",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 69
+        }
+    },
     "-8qp2ZDMYi": {
         "id": "-8qp2ZDMYi",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 39
-        }
-    },
-    "v8g1ge3pGF": {
-        "id": "v8g1ge3pGF",
-        "title": "Танец огня.",
-        "author": "Гаврилова Анна, Жильцова Наталья",
-        "notes": "10/10",
-        "createdAt": "2019-01-03 23:55:34",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 38
         }
     }
 }
