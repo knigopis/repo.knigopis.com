@@ -1,4 +1,16 @@
 {
+    "W0Y8icOuQJ": {
+        "id": "W0Y8icOuQJ",
+        "title": "Горе от ума",
+        "author": "Александр Грибоедов",
+        "notes": "",
+        "createdAt": "2019-01-05 02:59:07",
+        "user": {
+            "id": "260337584-vkontakte",
+            "nickname": "junkonfire",
+            "booksCount": 4
+        }
+    },
     "eAp2G66g7R": {
         "id": "eAp2G66g7R",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 31
-        }
-    },
-    "FhEniVkmJF": {
-        "id": "FhEniVkmJF",
-        "title": "Академия проклятий. Книга 4",
-        "author": "Елена Звездная",
-        "notes": "10/10",
-        "createdAt": "2019-01-03 23:40:45",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 30
         }
     }
 }
