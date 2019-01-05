@@ -1,4 +1,16 @@
 {
+    "U8qcndspvz": {
+        "id": "U8qcndspvz",
+        "title": "Современные операционные системы",
+        "author": "Эндрю Таненбаум, Х. Бос",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/31649356/",
+        "createdAt": "2019-01-05 22:40:42",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 188
+        }
+    },
     "OCTpqlBan9": {
         "id": "OCTpqlBan9",
         "title": "Тайна \"Голубого поезда\"",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 145
-        }
-    },
-    "yKYbcNNotP": {
-        "id": "yKYbcNNotP",
-        "title": "Смерть с уведомлением",
-        "author": "Андреас Грубер",
-        "notes": "10/10",
-        "createdAt": "2019-01-03 23:58:48",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 41
         }
     }
 }

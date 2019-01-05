@@ -1,4 +1,16 @@
 {
+    "U8qcndspvz": {
+        "id": "U8qcndspvz",
+        "title": "Современные операционные системы",
+        "author": "Эндрю Таненбаум, Х. Бос",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/31649356/",
+        "createdAt": "2019-01-05 22:40:42",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 188
+        }
+    },
     "NYPL5rnpEI": {
         "id": "NYPL5rnpEI",
         "title": "Тайна \"Голубого поезда\"",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 17
-        }
-    },
-    "FcaH-Tb7p3": {
-        "id": "FcaH-Tb7p3",
-        "title": "Загадочный противник",
-        "author": "Кристи Агата",
-        "notes": "Динамично захватывающе",
-        "createdAt": "2018-12-10 21:24:50",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 6
         }
     }
 }

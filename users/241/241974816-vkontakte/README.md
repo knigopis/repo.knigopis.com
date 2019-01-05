@@ -1,7 +1,14 @@
-# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>187</sup>
+# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>188</sup>
 ---
 
 ## 2019
+
+### Современные операционные системы
+Эндрю Таненбаум, Х. Бос
+> [2019-01-05] в процессе
+> 
+> https://www.ozon.ru/context/detail/id/31649356/
+
 
 ### Откройте в себе художника
 Бетти Эдвардс
