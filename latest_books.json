@@ -1,4 +1,16 @@
 {
+    "-8qp2ZDMYi": {
+        "id": "-8qp2ZDMYi",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-01-05 09:49:55",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 51
+        }
+    },
     "M-pJOdU9kS": {
         "id": "M-pJOdU9kS",
         "title": "Академия темных. Дыханье проклятого",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 38
-        }
-    },
-    "wb1f-0zJj3": {
-        "id": "wb1f-0zJj3",
-        "title": "Академия Ранмарн",
-        "author": "Елена Звездная",
-        "notes": "5/10",
-        "createdAt": "2019-01-03 23:50:40",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 37
         }
     }
 }
