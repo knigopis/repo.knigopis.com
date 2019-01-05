@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>344</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>69</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>51</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>62</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>56</sup> 
 [stanis1ove](users/590/59066959-vkontakte)<sup>68</sup> 
 [TheWildWind](users/111/111315067034891051533-google)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>343</sup> 
 [Aoto11](users/481/481972371-vkontakte)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>38</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>109</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vlad_zamaev](users/122/122014636-vkontakte)<sup>0</sup> 
 
 
-_05.01.2019 17:30:09_
+_05.01.2019 19:51:45_
