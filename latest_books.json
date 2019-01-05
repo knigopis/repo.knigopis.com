@@ -1,4 +1,16 @@
 {
+    "Y0zapdRrf0": {
+        "id": "Y0zapdRrf0",
+        "title": "Мартин Иден",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2019-01-05 02:58:02",
+        "user": {
+            "id": "260337584-vkontakte",
+            "nickname": "junkonfire",
+            "booksCount": 1
+        }
+    },
     "CF-HLqVFIS": {
         "id": "CF-HLqVFIS",
         "title": "Академия вампиров . Последняя жертва",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 28
-        }
-    },
-    "v19lKx-kt_": {
-        "id": "v19lKx-kt_",
-        "title": "Академия проклятий 1",
-        "author": "Елена Звездная",
-        "notes": "10/10",
-        "createdAt": "2019-01-03 23:38:54",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 27
         }
     }
 }
