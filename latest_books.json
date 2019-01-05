@@ -1,4 +1,16 @@
 {
+    "OCTpqlBan9": {
+        "id": "OCTpqlBan9",
+        "title": "Тайна \"Голубого поезда\"",
+        "author": "Кристи Агата",
+        "notes": "",
+        "createdAt": "2019-01-05 22:29:45",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 21
+        }
+    },
     "_ETWLtnz4r": {
         "id": "_ETWLtnz4r",
         "title": "Малая медычнай энцыклапедыя",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 41
-        }
-    },
-    "FgOPbFilHW": {
-        "id": "FgOPbFilHW",
-        "title": "Испытание огня",
-        "author": "Гаврилова Анна, Жильцова Наталья",
-        "notes": "10/10",
-        "createdAt": "2019-01-03 23:56:55",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 40
         }
     }
 }
