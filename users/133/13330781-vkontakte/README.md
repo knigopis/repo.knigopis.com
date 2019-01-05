@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>61</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>62</sup>
 ---
 
 ## 2019
+
+### Любовь в режиме ожидания
+Мария Воронова
+> [2019-01-05] 
+
 
 ### Анатом
 Федерико Андахази

@@ -1,4 +1,16 @@
 {
+    "6qZCXHCsdf": {
+        "id": "6qZCXHCsdf",
+        "title": "Любовь в режиме ожидания",
+        "author": "Мария Воронова",
+        "notes": "",
+        "createdAt": "2019-01-05 09:43:49",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 62
+        }
+    },
     "Yt8k4SYW1w": {
         "id": "Yt8k4SYW1w",
         "title": "Судьба человека",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 36
-        }
-    },
-    "xvLdy5IaTo": {
-        "id": "xvLdy5IaTo",
-        "title": "Темная империя. Книга 1",
-        "author": "Елена Звездная",
-        "notes": "10/10",
-        "createdAt": "2019-01-03 23:45:18",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 35
         }
     }
 }
