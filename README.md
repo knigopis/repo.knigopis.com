@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup> 
 [fir137](users/176/176805114-yandex)<sup>21</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>344</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [TheWildWind](users/111/111315067034891051533-google)<sup>0</sup> 
 [Aoto11](users/481/481972371-vkontakte)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>38</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>109</sup> 
 
 
-_05.01.2019 22:40:42_
+_05.01.2019 23:48:09_
