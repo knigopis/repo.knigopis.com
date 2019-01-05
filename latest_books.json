@@ -1,4 +1,16 @@
 {
+    "eAp2G66g7R": {
+        "id": "eAp2G66g7R",
+        "title": "Евгений Онегин",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-01-05 02:58:45",
+        "user": {
+            "id": "260337584-vkontakte",
+            "nickname": "junkonfire",
+            "booksCount": 3
+        }
+    },
     "b0V6gP67Lz": {
         "id": "b0V6gP67Lz",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 30
-        }
-    },
-    "UOzjPkKUQH": {
-        "id": "UOzjPkKUQH",
-        "title": "Академия проклятий. Книга 3",
-        "author": "Елена Звездная",
-        "notes": "10/10",
-        "createdAt": "2019-01-03 23:40:03",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 29
         }
     }
 }
