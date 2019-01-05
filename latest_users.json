@@ -1,4 +1,10 @@
 {
+    "103555002313755570429-google": {
+        "id": "103555002313755570429-google",
+        "nickname": "zadrotimus",
+        "booksCount": 0,
+        "updatedAt": "2019-01-05 05:17:56"
+    },
     "260337584-vkontakte": {
         "id": "260337584-vkontakte",
         "nickname": "junkonfire",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 204,
         "updatedAt": "2018-12-27 11:20:35"
-    },
-    "2106329609426574-facebook": {
-        "id": "2106329609426574-facebook",
-        "nickname": "Елена",
-        "booksCount": 0,
-        "updatedAt": "2018-12-27 07:31:32"
     }
 }
