@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>101</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>100</sup>
 ---
 
 ## 2018
@@ -402,11 +402,6 @@ Jeff Olson
 ### Этюд в багровых тонах
 Артур Конан Дойл
 > 8,5/10
-
-
-### Скотный двор
-Джордж Оруэлл
-> 9/10
 
 
 
