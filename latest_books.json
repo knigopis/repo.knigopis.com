@@ -1,4 +1,16 @@
 {
+    "KOerzaZ3SH": {
+        "id": "KOerzaZ3SH",
+        "title": "Собачье Сердце",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2019-01-05 03:02:01",
+        "user": {
+            "id": "260337584-vkontakte",
+            "nickname": "junkonfire",
+            "booksCount": 7
+        }
+    },
     "wckgvK0oxM": {
         "id": "wckgvK0oxM",
         "title": "Омон Ра",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 34
-        }
-    },
-    "pJ4HnTbD1a": {
-        "id": "pJ4HnTbD1a",
-        "title": "Академия проклятий. Книга 7",
-        "author": "Елена Звездная",
-        "notes": "10/10",
-        "createdAt": "2019-01-03 23:43:45",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 33
         }
     }
 }

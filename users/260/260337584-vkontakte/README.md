@@ -1,4 +1,4 @@
-# List of books read by [junkonfire](http://vk.com/id260337584)<sup>6</sup>
+# List of books read by [junkonfire](http://vk.com/id260337584)<sup>7</sup>
 ---
 
 ## 2018
@@ -11,6 +11,10 @@
 ### Мартин Иден
 Джек Лондон
 > [2018-08] 
+
+
+### Собачье Сердце
+Михаил Булгаков
 
 
 
