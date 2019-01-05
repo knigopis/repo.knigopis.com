@@ -1,4 +1,16 @@
 {
+    "b0V6gP67Lz": {
+        "id": "b0V6gP67Lz",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2019-01-05 02:58:23",
+        "user": {
+            "id": "260337584-vkontakte",
+            "nickname": "junkonfire",
+            "booksCount": 2
+        }
+    },
     "Y0zapdRrf0": {
         "id": "Y0zapdRrf0",
         "title": "Мартин Иден",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 29
-        }
-    },
-    "p6gsfpbKXF": {
-        "id": "p6gsfpbKXF",
-        "title": "Академия проклятий. Книга 2",
-        "author": "Елена Звездная",
-        "notes": "10/10",
-        "createdAt": "2019-01-03 23:39:30",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 28
         }
     }
 }
