@@ -1,4 +1,16 @@
 {
+    "R3ZZFLyMR1": {
+        "id": "R3ZZFLyMR1",
+        "title": "Бойся, я с тобой",
+        "author": "ТАНК Таня",
+        "notes": "",
+        "createdAt": "2019-01-06 18:16:12",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 16
+        }
+    },
     "uaC0IRHWdh": {
         "id": "uaC0IRHWdh",
         "title": "Клиника перемен",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 43
-        }
-    },
-    "cny6peFRZg": {
-        "id": "cny6peFRZg",
-        "title": "Физические теории за 60 секунд",
-        "author": "Владимир Кессельман",
-        "notes": "",
-        "createdAt": "2019-01-04 11:59:30",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": "Erdi",
-            "booksCount": 21
         }
     }
 }
