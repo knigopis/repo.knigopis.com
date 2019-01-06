@@ -35,8 +35,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>65</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>16</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>64</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>20</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>345</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [TheWildWind](users/111/111315067034891051533-google)<sup>0</sup> 
 
 
-_06.01.2019 18:26:58_
+_06.01.2019 20:23:02_

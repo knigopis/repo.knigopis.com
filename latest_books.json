@@ -1,4 +1,16 @@
 {
+    "yLkhOfjrx2": {
+        "id": "yLkhOfjrx2",
+        "title": "Клиника любви",
+        "author": "Мария Воронова",
+        "notes": "",
+        "createdAt": "2019-01-06 20:23:02",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 65
+        }
+    },
     "HCwjIVpbfJ": {
         "id": "HCwjIVpbfJ",
         "title": "Бойся, я с тобой",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": "Erdi",
             "booksCount": 22
-        }
-    },
-    "rwQRARLdku": {
-        "id": "rwQRARLdku",
-        "title": "Академия темных. Преферанс со смертью.",
-        "author": "",
-        "notes": "6/10",
-        "createdAt": "2019-01-04 11:59:55",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 43
         }
     }
 }
