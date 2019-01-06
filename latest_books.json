@@ -1,4 +1,16 @@
 {
+    "x9OWB7qmOE": {
+        "id": "x9OWB7qmOE",
+        "title": "Семейная кухня эпохи кризиса",
+        "author": "Мария Воронова",
+        "notes": "",
+        "createdAt": "2019-01-06 10:40:00",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 63
+        }
+    },
     "QX4EOYO1T7": {
         "id": "QX4EOYO1T7",
         "title": "Не ешьте зефир... По крайней мере, пока",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 61
-        }
-    },
-    "PzUMWjjLci": {
-        "id": "PzUMWjjLci",
-        "title": "Повесть о капитане Копейкине",
-        "author": "Николай Гоголь",
-        "notes": "",
-        "createdAt": "2019-01-04 08:50:56",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 146
         }
     }
 }

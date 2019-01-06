@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>62</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>63</sup>
 ---
 
 ## 2019
+
+### Семейная кухня эпохи кризиса
+Мария Воронова
+> [2019-01-06] 
+
 
 ### Любовь в режиме ожидания
 Мария Воронова
