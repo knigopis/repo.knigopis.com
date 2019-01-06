@@ -35,8 +35,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>64</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>20</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>63</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>345</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Aoto11](users/481/481972371-vkontakte)<sup>0</sup> 
 
 
-_06.01.2019 12:11:21_
+_06.01.2019 15:29:15_

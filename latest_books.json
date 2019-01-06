@@ -1,4 +1,16 @@
 {
+    "uaC0IRHWdh": {
+        "id": "uaC0IRHWdh",
+        "title": "Клиника перемен",
+        "author": "Мария Воронова",
+        "notes": "",
+        "createdAt": "2019-01-06 15:29:15",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 64
+        }
+    },
     "F_MymDy4cs": {
         "id": "F_MymDy4cs",
         "title": "Замок ИФ",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": "Erdi",
             "booksCount": 21
-        }
-    },
-    "wmLZ9J834y": {
-        "id": "wmLZ9J834y",
-        "title": "Академия темных. Обреченная",
-        "author": "Лика Верх",
-        "notes": "7/10",
-        "createdAt": "2019-01-04 11:59:09",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 42
         }
     }
 }
