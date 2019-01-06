@@ -1,5 +1,13 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>18</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>19</sup>
 ---
+
+## 2019
+
+### И грянул гром
+Рей Бредбери
+> [2019-01-06] Старо, прочитано, известно, но освежающе.
+
+
 
 ## 2018
 

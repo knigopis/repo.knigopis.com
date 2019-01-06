@@ -1,4 +1,16 @@
 {
+    "QQ2An1CWVJ": {
+        "id": "QQ2An1CWVJ",
+        "title": "И грянул гром",
+        "author": "Рей Бредбери",
+        "notes": "Старо, прочитано, известно, но освежающе.",
+        "createdAt": "2019-01-06 12:09:51",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 19
+        }
+    },
     "U8qcndspvz": {
         "id": "U8qcndspvz",
         "title": "Современные операционные системы",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 201
-        }
-    },
-    "HlF3GJWadR": {
-        "id": "HlF3GJWadR",
-        "title": "Кафе на краю земли",
-        "author": "Джон Стрелки",
-        "notes": "Хорошая книга",
-        "createdAt": "2018-12-11 10:10:53",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 17
         }
     }
 }
