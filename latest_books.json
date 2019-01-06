@@ -1,4 +1,16 @@
 {
+    "KcdrWu3fC4": {
+        "id": "KcdrWu3fC4",
+        "title": "Гроза",
+        "author": "Александр Островский",
+        "notes": "",
+        "createdAt": "2019-01-06 23:47:37",
+        "user": {
+            "id": "260337584-vkontakte",
+            "nickname": "junkonfire",
+            "booksCount": 10
+        }
+    },
     "c2ENJZ4iqQ": {
         "id": "c2ENJZ4iqQ",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "260337584-vkontakte",
             "nickname": "junkonfire",
             "booksCount": 1
-        }
-    },
-    "CF-HLqVFIS": {
-        "id": "CF-HLqVFIS",
-        "title": "Академия вампиров . Последняя жертва",
-        "author": "Мид Рейчел",
-        "notes": "10/10",
-        "createdAt": "2019-01-04 22:27:28",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 49
         }
     }
 }

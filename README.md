@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[junkonfire](users/260/260337584-vkontakte)<sup>9</sup> 
+[junkonfire](users/260/260337584-vkontakte)<sup>10</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>56</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>65</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>16</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [TheWildWind](users/111/111315067034891051533-google)<sup>0</sup> 
 
 
-_06.01.2019 23:45:59_
+_06.01.2019 23:47:37_
