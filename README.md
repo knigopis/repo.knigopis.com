@@ -37,10 +37,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>345</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup> 
 [fir137](users/176/176805114-yandex)<sup>21</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>344</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>69</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>51</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>62</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>38</sup> 
 
 
-_05.01.2019 23:48:09_
+_06.01.2019 06:46:31_
