@@ -1,4 +1,16 @@
 {
+    "c2ENJZ4iqQ": {
+        "id": "c2ENJZ4iqQ",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2019-01-06 23:45:59",
+        "user": {
+            "id": "260337584-vkontakte",
+            "nickname": "junkonfire",
+            "booksCount": 9
+        }
+    },
     "CA40XHbqz0": {
         "id": "CA40XHbqz0",
         "title": "Исскуство слышать стук сердца",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 49
-        }
-    },
-    "f-EtnVWy7-": {
-        "id": "f-EtnVWy7-",
-        "title": "Академия вампиров. Оковы для призрака",
-        "author": "Мид Рейчел",
-        "notes": "10/10",
-        "createdAt": "2019-01-04 22:25:24",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 48
         }
     }
 }

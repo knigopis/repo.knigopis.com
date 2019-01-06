@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[junkonfire](users/260/260337584-vkontakte)<sup>9</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>56</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>65</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>16</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fir137](users/176/176805114-yandex)<sup>21</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>69</sup> 
 [zadrotimus](users/103/103555002313755570429-google)<sup>0</sup> 
-[junkonfire](users/260/260337584-vkontakte)<sup>8</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>4</sup> 
 [](users/105/105554907015920541510-google)<sup>0</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>22</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [TheWildWind](users/111/111315067034891051533-google)<sup>0</sup> 
 
 
-_06.01.2019 21:22:37_
+_06.01.2019 23:45:59_
