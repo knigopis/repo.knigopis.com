@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Замок ИФ ~ [Quaff](users/122/12267158-vkontakte)<sup>20</sup>
+    > Поучительно о ценности собственной жизни и времени.
+
 * И грянул гром ~ [Quaff](users/122/12267158-vkontakte)<sup>19</sup>
     > Старо, прочитано, известно, но освежающе.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/31649356/
 
 * Тайна "Голубого поезда" ~ [fir137](users/176/176805114-yandex)<sup>18</sup>
-    > Увлекательная, но немного предсказуемая.
 
 * Комсомол имени Летова ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>4</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Неведение отца Брауна ~ [Йолант](users/104/104690883692185089260-google)<sup>164</sup>
 
-* Кто остался под холмом ~ [Chiffi](users/105/105831994080785626680-google)<sup>86</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>19</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>20</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>63</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>345</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Aoto11](users/481/481972371-vkontakte)<sup>0</sup> 
 
 
-_06.01.2019 12:09:51_
+_06.01.2019 12:11:21_
