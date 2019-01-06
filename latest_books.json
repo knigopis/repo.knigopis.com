@@ -1,4 +1,16 @@
 {
+    "qKTso4l0LL": {
+        "id": "qKTso4l0LL",
+        "title": "Джен Эйр",
+        "author": "Шарлотта Бронте",
+        "notes": "10/10",
+        "createdAt": "2019-01-06 21:15:19",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 51
+        }
+    },
     "yLkhOfjrx2": {
         "id": "yLkhOfjrx2",
         "title": "Клиника любви",
@@ -345,18 +357,6 @@
             "id": "126368737-vkontakte",
             "nickname": "Макар Коренюк",
             "booksCount": 4
-        }
-    },
-    "OZw18GcRND": {
-        "id": "OZw18GcRND",
-        "title": "Экономика в комиксах",
-        "author": "Дэвид Оррэлл",
-        "notes": "",
-        "createdAt": "2019-01-04 12:00:07",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": "Erdi",
-            "booksCount": 22
         }
     }
 }
