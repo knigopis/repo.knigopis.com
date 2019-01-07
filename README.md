@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rNix](users/227/22742452-yandex)<sup>0</sup> 
 [ms.korven](users/192/192121371-vkontakte)<sup>1</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>75</sup> 
 [junkonfire](users/260/260337584-vkontakte)<sup>10</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/262/262062207519652-facebook)<sup>1</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>74</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>56</sup> 
-[stanis1ove](users/590/59066959-vkontakte)<sup>68</sup> 
 
 
-_07.01.2019 07:35:42_
+_07.01.2019 10:51:43_
