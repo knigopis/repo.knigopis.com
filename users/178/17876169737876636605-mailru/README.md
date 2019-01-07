@@ -1,7 +1,12 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>65</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>66</sup>
 ---
 
 ## 2018
+
+### Первая могила справа
+Даринда Джонс
+> 7/10
+
 
 ### Исскуство слышать стук сердца
 Зендкер Ян-Филипп
