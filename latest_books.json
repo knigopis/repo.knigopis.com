@@ -1,4 +1,16 @@
 {
+    "OxeO505V0-": {
+        "id": "OxeO505V0-",
+        "title": "Третья могила прямо по курсу",
+        "author": "Даринда Джонс",
+        "notes": "9/10",
+        "createdAt": "2019-01-07 00:19:33",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 68
+        }
+    },
     "nj-CiTI2Rz": {
         "id": "nj-CiTI2Rz",
         "title": "Вторая могила слева",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 69
-        }
-    },
-    "-8qp2ZDMYi": {
-        "id": "-8qp2ZDMYi",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-01-05 09:49:55",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 51
         }
     }
 }
