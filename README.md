@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[белая плесень](users/104/104448632954411726505-google)<sup>4</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>22</sup> 
 [rNix](users/227/22742452-yandex)<sup>0</sup> 
 [ms.korven](users/192/192121371-vkontakte)<sup>1</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>18</sup> 
 [oh_rita](users/970/970096083201538-facebook)<sup>1</sup> 
 [](users/116/116821443168944055238-google)<sup>0</sup> 
-[белая плесень](users/104/104448632954411726505-google)<sup>3</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>22</sup> 
 [Arsen](users/156/1568541956547705-facebook)<sup>3</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>56</sup> 
 
 
-_07.01.2019 11:08:28_
+_07.01.2019 11:33:29_
