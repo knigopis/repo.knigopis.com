@@ -1,4 +1,4 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>62</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>63</sup>
 ---
 
 ## 2018
@@ -103,6 +103,11 @@
 
 
 ## 2016
+
+### Тяжело быть студентом
+Блинова Маргарита
+> 10/10
+
 
 ### Хроники книгоходцев
 Завойчинская Милена
