@@ -1,4 +1,4 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>64</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>65</sup>
 ---
 
 ## 2018
@@ -103,6 +103,11 @@
 
 
 ## 2016
+
+### Забавно быть студентом
+Блинова Маргарита
+> 10/10
+
 
 ### Опасно быть студентом
 Блинова Маргарита
