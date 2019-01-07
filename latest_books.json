@@ -1,4 +1,16 @@
 {
+    "k9TsvwYzrg": {
+        "id": "k9TsvwYzrg",
+        "title": "Темный любовник",
+        "author": "Уорд Дж.Р.",
+        "notes": "10/10, Роф и Бет",
+        "createdAt": "2019-01-07 15:36:07",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 77
+        }
+    },
     "WE20hDl7oO": {
         "id": "WE20hDl7oO",
         "title": "Вечный любовник",
@@ -345,18 +357,6 @@
             "id": "260337584-vkontakte",
             "nickname": "junkonfire",
             "booksCount": 9
-        }
-    },
-    "CA40XHbqz0": {
-        "id": "CA40XHbqz0",
-        "title": "Исскуство слышать стук сердца",
-        "author": "Зендкер Ян-Филипп",
-        "notes": "10/10, безумно трогательная книга",
-        "createdAt": "2019-01-06 21:22:37",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 56
         }
     }
 }

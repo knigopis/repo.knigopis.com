@@ -1,4 +1,4 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>76</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>77</sup>
 ---
 
 ## 2018
@@ -153,6 +153,11 @@
 
 
 ## 2016
+
+### Темный любовник
+Уорд Дж.Р.
+> 10/10, Роф и Бет
+
 
 ### Вечный любовник
 Уорд Дж.Р.
