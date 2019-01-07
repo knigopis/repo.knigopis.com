@@ -1,4 +1,10 @@
 {
+    "112326851664283893307-googleplus": {
+        "id": "112326851664283893307-googleplus",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-01-07 15:41:57"
+    },
     "17876169737876636605-mailru": {
         "id": "17876169737876636605-mailru",
         "nickname": "Vikki❤️",
@@ -172,11 +178,5 @@
         "nickname": "kasikandriena",
         "booksCount": 54,
         "updatedAt": "2019-01-02 20:29:21"
-    },
-    "262062207519652-facebook": {
-        "id": "262062207519652-facebook",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2019-01-02 02:22:44"
     }
 }
