@@ -1,4 +1,10 @@
 {
+    "112326851664283893307-google": {
+        "id": "112326851664283893307-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-01-07 15:42:09"
+    },
     "112326851664283893307-googleplus": {
         "id": "112326851664283893307-googleplus",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Arsen",
         "booksCount": 3,
         "updatedAt": "2019-01-02 21:13:57"
-    },
-    "152488954-vkontakte": {
-        "id": "152488954-vkontakte",
-        "nickname": "kasikandriena",
-        "booksCount": 54,
-        "updatedAt": "2019-01-02 20:29:21"
     }
 }
