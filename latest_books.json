@@ -1,4 +1,16 @@
 {
+    "cxZLtwY2a2": {
+        "id": "cxZLtwY2a2",
+        "title": "45 татуировок личности",
+        "author": "Максим Батырев",
+        "notes": "",
+        "createdAt": "2019-01-07 15:54:04",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 19
+        }
+    },
     "e6sUsN2GNQ": {
         "id": "e6sUsN2GNQ",
         "title": "Клиника нежности",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 62
-        }
-    },
-    "-EmrQump8t": {
-        "id": "-EmrQump8t",
-        "title": "Книгоходцы и тайна механического бога",
-        "author": "Завойчинская Милена",
-        "notes": "10/10",
-        "createdAt": "2019-01-07 00:14:28",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 61
         }
     }
 }

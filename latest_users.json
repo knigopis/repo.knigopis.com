@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 19,
+        "updatedAt": "2019-01-07 15:54:04"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -148,12 +154,6 @@
         "nickname": "Chiffi",
         "booksCount": 86,
         "updatedAt": "2019-01-03 20:30:27"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 18,
-        "updatedAt": "2019-01-03 20:26:55"
     },
     "970096083201538-facebook": {
         "id": "970096083201538-facebook",

@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>18</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>19</sup>
 ---
 
 ## 2019
+
+### 45 татуировок личности
+Максим Батырев
+> [2019-01-07] 
+
 
 ### Будь лучшей версией себя
 Дэн Вальдшмидт
