@@ -1,4 +1,16 @@
 {
+    "aP77wmZmc4": {
+        "id": "aP77wmZmc4",
+        "title": "Пробудившийся любовник",
+        "author": "Уорд Дж.Р.",
+        "notes": "10/10, Зейдист и Белла",
+        "createdAt": "2019-01-07 15:36:58",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 78
+        }
+    },
     "k9TsvwYzrg": {
         "id": "k9TsvwYzrg",
         "title": "Темный любовник",
@@ -345,18 +357,6 @@
             "id": "260337584-vkontakte",
             "nickname": "junkonfire",
             "booksCount": 10
-        }
-    },
-    "c2ENJZ4iqQ": {
-        "id": "c2ENJZ4iqQ",
-        "title": "О дивный новый мир",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2019-01-06 23:45:59",
-        "user": {
-            "id": "260337584-vkontakte",
-            "nickname": "junkonfire",
-            "booksCount": 9
         }
     }
 }

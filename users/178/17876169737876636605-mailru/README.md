@@ -1,4 +1,4 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>77</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>78</sup>
 ---
 
 ## 2018
@@ -153,6 +153,11 @@
 
 
 ## 2016
+
+### Пробудившийся любовник
+Уорд Дж.Р.
+> 10/10, Зейдист и Белла
+
 
 ### Темный любовник
 Уорд Дж.Р.
