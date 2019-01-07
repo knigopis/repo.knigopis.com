@@ -1,4 +1,16 @@
 {
+    "O4yaCtX0xs": {
+        "id": "O4yaCtX0xs",
+        "title": "Книгоходцы особого назначения",
+        "author": "Завойчинская Милена",
+        "notes": "10/10",
+        "createdAt": "2019-01-07 00:13:42",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 59
+        }
+    },
     "vkogkPWJML": {
         "id": "vkogkPWJML",
         "title": "Боевая практика книгоходцев",
@@ -345,18 +357,6 @@
             "id": "260337584-vkontakte",
             "nickname": "junkonfire",
             "booksCount": 4
-        }
-    },
-    "eAp2G66g7R": {
-        "id": "eAp2G66g7R",
-        "title": "Евгений Онегин",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-01-05 02:58:45",
-        "user": {
-            "id": "260337584-vkontakte",
-            "nickname": "junkonfire",
-            "booksCount": 3
         }
     }
 }
