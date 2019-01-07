@@ -1,4 +1,10 @@
 {
+    "192121371-vkontakte": {
+        "id": "192121371-vkontakte",
+        "nickname": "ms.korven",
+        "booksCount": 0,
+        "updatedAt": "2019-01-07 07:31:33"
+    },
     "17876169737876636605-mailru": {
         "id": "17876169737876636605-mailru",
         "nickname": "Vikki❤️",
@@ -172,11 +178,5 @@
         "nickname": "stanis1ove",
         "booksCount": 68,
         "updatedAt": "2019-01-01 09:49:39"
-    },
-    "111315067034891051533-google": {
-        "id": "111315067034891051533-google",
-        "nickname": "TheWildWind",
-        "booksCount": 0,
-        "updatedAt": "2018-12-30 21:43:19"
     }
 }
