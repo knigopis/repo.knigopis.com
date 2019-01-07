@@ -1,4 +1,4 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>75</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>76</sup>
 ---
 
 ## 2018
@@ -153,6 +153,11 @@
 
 
 ## 2016
+
+### Вечный любовник
+Уорд Дж.Р.
+> 10/10, рейдж и Мэри
+
 
 ### Забавно быть студентом
 Блинова Маргарита

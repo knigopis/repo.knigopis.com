@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Vikki❤️](users/178/17876169737876636605-mailru)<sup>76</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>205</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>66</sup> 
 [pustislezu](users/447/447379125-vkontakte)<sup>1</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>22</sup> 
 [rNix](users/227/22742452-yandex)<sup>0</sup> 
 [ms.korven](users/192/192121371-vkontakte)<sup>1</sup> 
-[Vikki❤️](users/178/17876169737876636605-mailru)<sup>75</sup> 
 [junkonfire](users/260/260337584-vkontakte)<sup>10</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>16</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>345</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/262/262062207519652-facebook)<sup>1</sup> 
 
 
-_07.01.2019 15:33:04_
+_07.01.2019 15:35:30_
