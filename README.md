@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как писать книги ~ [Quaff](users/122/12267158-vkontakte)<sup>21</sup>
+    > Оказалось полезно, хоть и упоминалось много банальных вещей в купе с историей.
+
 * Замок ИФ ~ [Quaff](users/122/12267158-vkontakte)<sup>20</sup>
     > Поучительно о ценности собственной жизни и времени.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Старо, прочитано, известно, но освежающе.
 
 * Современные операционные системы ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/31649356/
 
 * Тайна "Голубого поезда" ~ [fir137](users/176/176805114-yandex)<sup>18</sup>
 
@@ -28,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Белым по чёрному ~ [Йолант](users/104/104690883692185089260-google)<sup>170</sup>
 
-* Неведение отца Брауна ~ [Йолант](users/104/104690883692185089260-google)<sup>164</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>21</sup> 
 [rNix](users/227/22742452-yandex)<sup>0</sup> 
 [ms.korven](users/192/192121371-vkontakte)<sup>1</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>75</sup> 
 [junkonfire](users/260/260337584-vkontakte)<sup>10</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>65</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>16</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>20</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>345</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>56</sup> 
 
 
-_07.01.2019 10:51:43_
+_07.01.2019 11:05:15_

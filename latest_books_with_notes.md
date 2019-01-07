@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как писать книги ~ [Quaff](users/122/12267158-vkontakte)<sup>21</sup>
 * Замок ИФ ~ [Quaff](users/122/12267158-vkontakte)<sup>20</sup>
 * И грянул гром ~ [Quaff](users/122/12267158-vkontakte)<sup>19</sup>
 * Современные операционные системы ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup>
@@ -30,7 +31,6 @@
 * The Prodigal Tongue: The Love-Hate Relationship Between American and British English ~ [exulted](users/100/100599204551896265722-google)<sup>92</sup>
 * Интерлюдия. Последнее лето Форсайта (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>202</sup>
 * Час быка ~ [HXT](users/100/100002563462782-facebook)<sup>339</sup>
-* 🔸️Дом странных детей 1 ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>53</sup>
 
 
-_06.01.2019 12:11:21_
+_07.01.2019 11:05:15_

@@ -1,4 +1,16 @@
 {
+    "ogV7XZl5UY": {
+        "id": "ogV7XZl5UY",
+        "title": "Как писать книги",
+        "author": "Стивен Кинг",
+        "notes": "Оказалось полезно, хоть и упоминалось много банальных вещей в купе с историей.",
+        "createdAt": "2019-01-07 11:05:15",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 21
+        }
+    },
     "Yn2NWLXK3P": {
         "id": "Yn2NWLXK3P",
         "title": "Мятная сказка",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 17
-        }
-    },
-    "uaC0IRHWdh": {
-        "id": "uaC0IRHWdh",
-        "title": "Клиника перемен",
-        "author": "Мария Воронова",
-        "notes": "",
-        "createdAt": "2019-01-06 15:29:15",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 64
         }
     }
 }
