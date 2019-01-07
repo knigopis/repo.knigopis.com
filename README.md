@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/112/112326851664283893307-googleplus)<sup>0</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>81</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>205</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>66</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>22</sup> 
 [Arsen](users/156/1568541956547705-facebook)<sup>3</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>54</sup> 
-[](users/262/262062207519652-facebook)<sup>1</sup> 
 
 
-_07.01.2019 15:39:39_
+_07.01.2019 15:42:01_
