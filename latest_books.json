@@ -1,4 +1,16 @@
 {
+    "9Lal8KmcA3": {
+        "id": "9Lal8KmcA3",
+        "title": "Разоблаченный любовник",
+        "author": "Уорд Дж.Р.",
+        "notes": "10/10, Бутч и Марисса",
+        "createdAt": "2019-01-07 15:37:47",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 79
+        }
+    },
     "aP77wmZmc4": {
         "id": "aP77wmZmc4",
         "title": "Пробудившийся любовник",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 57
-        }
-    },
-    "KcdrWu3fC4": {
-        "id": "KcdrWu3fC4",
-        "title": "Гроза",
-        "author": "Александр Островский",
-        "notes": "",
-        "createdAt": "2019-01-06 23:47:37",
-        "user": {
-            "id": "260337584-vkontakte",
-            "nickname": "junkonfire",
-            "booksCount": 10
         }
     }
 }

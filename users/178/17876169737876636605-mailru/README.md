@@ -1,4 +1,4 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>78</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>79</sup>
 ---
 
 ## 2018
@@ -153,6 +153,11 @@
 
 
 ## 2016
+
+### Разоблаченный любовник
+Уорд Дж.Р.
+> 10/10, Бутч и Марисса
+
 
 ### Пробудившийся любовник
 Уорд Дж.Р.
