@@ -1,7 +1,12 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>71</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>72</sup>
 ---
 
 ## 2018
+
+### Седьмая могила без тела
+Даринда Джонс
+> 5/10
+
 
 ### Шестая могила не за горами
 Даринда Джонс
