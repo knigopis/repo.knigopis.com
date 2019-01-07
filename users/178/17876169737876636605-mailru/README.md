@@ -1,7 +1,12 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>73</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>74</sup>
 ---
 
 ## 2018
+
+### 400 страниц моей любви
+Андреева Марина
+> 5/10
+
 
 ### Восьмая могила во тьме
 Даринда Джонс
