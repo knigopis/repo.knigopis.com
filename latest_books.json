@@ -1,4 +1,16 @@
 {
+    "vfw1NksWG9": {
+        "id": "vfw1NksWG9",
+        "title": "Покорение огня",
+        "author": "Гаврилова",
+        "notes": "10/10",
+        "createdAt": "2019-01-07 00:12:06",
+        "user": {
+            "id": "17876169737876636605-mailru",
+            "nickname": "Vikki❤️",
+            "booksCount": 57
+        }
+    },
     "KcdrWu3fC4": {
         "id": "KcdrWu3fC4",
         "title": "Гроза",
@@ -345,18 +357,6 @@
             "id": "260337584-vkontakte",
             "nickname": "junkonfire",
             "booksCount": 2
-        }
-    },
-    "Y0zapdRrf0": {
-        "id": "Y0zapdRrf0",
-        "title": "Мартин Иден",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2019-01-05 02:58:02",
-        "user": {
-            "id": "260337584-vkontakte",
-            "nickname": "junkonfire",
-            "booksCount": 1
         }
     }
 }
