@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сдается в наем (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>205</sup>
+    > Всю книгу подбешивали Ирэн и Флёр, к Сомсу испытываю скорее сочувствие
+
 * Клеймо зловещего духа ~ [Quaff](users/122/12267158-vkontakte)<sup>22</sup>
     > Еще выходит, жду каждую следующую главу с нетерпением.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Оказалось полезно, хоть и упоминалось много банальных вещей в купе с историей.
 
 * Замок ИФ ~ [Quaff](users/122/12267158-vkontakte)<sup>20</sup>
-    > Поучительно о ценности собственной жизни и времени.
 
 * И грянул гром ~ [Quaff](users/122/12267158-vkontakte)<sup>19</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Изящное искусство смерти ~ [Chiffi](users/105/105831994080785626680-google)<sup>86</sup>
 
-* Милые кости ~ [Йолант](users/104/104690883692185089260-google)<sup>171</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>205</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>66</sup> 
 [pustislezu](users/447/447379125-vkontakte)<sup>1</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Arsen](users/156/1568541956547705-facebook)<sup>3</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>54</sup> 
 [](users/262/262062207519652-facebook)<sup>1</sup> 
-[Aleks](users/117/117835844513813219393-google)<sup>74</sup> 
 
 
-_07.01.2019 12:28:13_
+_07.01.2019 15:33:04_

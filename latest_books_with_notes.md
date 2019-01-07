@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сдается в наем (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>205</sup>
 * Клеймо зловещего духа ~ [Quaff](users/122/12267158-vkontakte)<sup>22</sup>
 * Как писать книги ~ [Quaff](users/122/12267158-vkontakte)<sup>21</sup>
 * Замок ИФ ~ [Quaff](users/122/12267158-vkontakte)<sup>20</sup>
@@ -30,7 +31,6 @@
 * Орлы Революции ~ [mfevralev](users/140/140966150-vkontakte)<sup>37</sup>
 * Пиратская планета ~ [En](users/333/333646551-vkontakte)<sup>60</sup>
 * The Prodigal Tongue: The Love-Hate Relationship Between American and British English ~ [exulted](users/100/100599204551896265722-google)<sup>92</sup>
-* Интерлюдия. Последнее лето Форсайта (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>202</sup>
 
 
-_07.01.2019 11:08:28_
+_07.01.2019 15:33:04_
