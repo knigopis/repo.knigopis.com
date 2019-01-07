@@ -1,4 +1,16 @@
 {
+    "e6sUsN2GNQ": {
+        "id": "e6sUsN2GNQ",
+        "title": "Клиника нежности",
+        "author": "Мария Воронова",
+        "notes": "",
+        "createdAt": "2019-01-07 15:51:12",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 67
+        }
+    },
     "VM6jPCGn2Z": {
         "id": "VM6jPCGn2Z",
         "title": "Священный любовник",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 61
-        }
-    },
-    "O4yaCtX0xs": {
-        "id": "O4yaCtX0xs",
-        "title": "Книгоходцы особого назначения",
-        "author": "Завойчинская Милена",
-        "notes": "10/10",
-        "createdAt": "2019-01-07 00:13:42",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 59
         }
     }
 }
