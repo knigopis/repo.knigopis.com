@@ -1,4 +1,10 @@
 {
+    "22742452-yandex": {
+        "id": "22742452-yandex",
+        "nickname": "rNix",
+        "booksCount": 0,
+        "updatedAt": "2019-01-07 10:51:38"
+    },
     "192121371-vkontakte": {
         "id": "192121371-vkontakte",
         "nickname": "ms.korven",
@@ -172,11 +178,5 @@
         "nickname": "sab_olya",
         "booksCount": 56,
         "updatedAt": "2019-01-01 15:22:44"
-    },
-    "59066959-vkontakte": {
-        "id": "59066959-vkontakte",
-        "nickname": "stanis1ove",
-        "booksCount": 68,
-        "updatedAt": "2019-01-01 09:49:39"
     }
 }
