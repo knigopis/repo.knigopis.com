@@ -1,4 +1,16 @@
 {
+    "u-WzmUjp6_": {
+        "id": "u-WzmUjp6_",
+        "title": "Клеймо зловещего духа",
+        "author": "Mad Snail",
+        "notes": "Еще выходит, жду каждую следующую главу с нетерпением.",
+        "createdAt": "2019-01-07 11:08:28",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 22
+        }
+    },
     "ogV7XZl5UY": {
         "id": "ogV7XZl5UY",
         "title": "Как писать книги",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 202
-        }
-    },
-    "s7azod2xpf": {
-        "id": "s7azod2xpf",
-        "title": "Час быка",
-        "author": "Иван Евремоф",
-        "notes": "Коммунистическая хрень",
-        "createdAt": "2018-12-15 10:38:28",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 339
         }
     }
 }

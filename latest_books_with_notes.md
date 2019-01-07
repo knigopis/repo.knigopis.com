@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Клеймо зловещего духа ~ [Quaff](users/122/12267158-vkontakte)<sup>22</sup>
 * Как писать книги ~ [Quaff](users/122/12267158-vkontakte)<sup>21</sup>
 * Замок ИФ ~ [Quaff](users/122/12267158-vkontakte)<sup>20</sup>
 * И грянул гром ~ [Quaff](users/122/12267158-vkontakte)<sup>19</sup>
@@ -30,7 +31,6 @@
 * Пиратская планета ~ [En](users/333/333646551-vkontakte)<sup>60</sup>
 * The Prodigal Tongue: The Love-Hate Relationship Between American and British English ~ [exulted](users/100/100599204551896265722-google)<sup>92</sup>
 * Интерлюдия. Последнее лето Форсайта (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>202</sup>
-* Час быка ~ [HXT](users/100/100002563462782-facebook)<sup>339</sup>
 
 
-_07.01.2019 11:05:15_
+_07.01.2019 11:08:28_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Клеймо зловещего духа ~ [Quaff](users/122/12267158-vkontakte)<sup>22</sup>
+    > Еще выходит, жду каждую следующую главу с нетерпением.
+
 * Как писать книги ~ [Quaff](users/122/12267158-vkontakte)<sup>21</sup>
     > Оказалось полезно, хоть и упоминалось много банальных вещей в купе с историей.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Поучительно о ценности собственной жизни и времени.
 
 * И грянул гром ~ [Quaff](users/122/12267158-vkontakte)<sup>19</sup>
-    > Старо, прочитано, известно, но освежающе.
 
 * Современные операционные системы ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Милые кости ~ [Йолант](users/104/104690883692185089260-google)<sup>171</sup>
 
-* Белым по чёрному ~ [Йолант](users/104/104690883692185089260-google)<sup>170</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>21</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>22</sup> 
 [rNix](users/227/22742452-yandex)<sup>0</sup> 
 [ms.korven](users/192/192121371-vkontakte)<sup>1</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>75</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>56</sup> 
 
 
-_07.01.2019 11:05:15_
+_07.01.2019 11:08:28_
