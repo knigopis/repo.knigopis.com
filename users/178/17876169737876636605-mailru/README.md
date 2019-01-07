@@ -1,4 +1,4 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>80</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>81</sup>
 ---
 
 ## 2018
@@ -153,6 +153,11 @@
 
 
 ## 2016
+
+### Священный любовник
+Уорд Дж.Р.
+> 7/10, фьюри и кормия
+
 
 ### Освобожденный любовник
 Уорд Дж.Р.
