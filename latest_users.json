@@ -1,4 +1,10 @@
 {
+    "13330781-vkontakte": {
+        "id": "13330781-vkontakte",
+        "nickname": "le_brouillard",
+        "booksCount": 66,
+        "updatedAt": "2019-01-07 12:28:12"
+    },
     "447379125-vkontakte": {
         "id": "447379125-vkontakte",
         "nickname": "pustislezu",
@@ -40,12 +46,6 @@
         "nickname": "junkonfire",
         "booksCount": 10,
         "updatedAt": "2019-01-06 23:47:37"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 65,
-        "updatedAt": "2019-01-06 20:23:02"
     },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",

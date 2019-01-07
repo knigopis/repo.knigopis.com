@@ -1,4 +1,16 @@
 {
+    "O1RmmwOnaS": {
+        "id": "O1RmmwOnaS",
+        "title": "Клиника потерь",
+        "author": "Мария Воронова",
+        "notes": "",
+        "createdAt": "2019-01-07 12:28:12",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 66
+        }
+    },
     "nXYbE65qbU": {
         "id": "nXYbE65qbU",
         "title": "Чапаев и пустота",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 54
-        }
-    },
-    "YfSME1sACs": {
-        "id": "YfSME1sACs",
-        "title": "Ангелы и демоны",
-        "author": "Ден Браун",
-        "notes": "10/10",
-        "createdAt": "2019-01-06 21:16:33",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 53
         }
     }
 }

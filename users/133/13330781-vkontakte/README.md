@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>65</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>66</sup>
 ---
 
 ## 2019
+
+### Клиника потерь
+Мария Воронова
+> [2019-01-07] 
+
 
 ### Клиника любви
 Мария Воронова
