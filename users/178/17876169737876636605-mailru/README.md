@@ -1,7 +1,12 @@
-# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>66</sup>
+# List of books read by [Vikki❤️](https://my.mail.ru/mail/viktoriya.byk/)<sup>67</sup>
 ---
 
 ## 2018
+
+### Вторая могила слева
+Даринда Джонс
+> 8/10
+
 
 ### Первая могила справа
 Даринда Джонс
