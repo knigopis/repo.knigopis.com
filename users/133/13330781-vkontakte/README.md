@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>68</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>69</sup>
 ---
 
 ## 2019
+
+### Клиника измены
+Мария Воронова
+> [2019-01-08] 
+
 
 ### Близорукая любовь
 Мария Воронова
