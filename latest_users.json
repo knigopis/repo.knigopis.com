@@ -1,4 +1,10 @@
 {
+    "107255524402462322556-google": {
+        "id": "107255524402462322556-google",
+        "nickname": "wikju",
+        "booksCount": 0,
+        "updatedAt": "2019-01-08 12:00:13"
+    },
     "117259947-yandex": {
         "id": "117259947-yandex",
         "nickname": "BigKhan",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-01-03 20:42:56"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 86,
-        "updatedAt": "2019-01-03 20:30:27"
     }
 }
