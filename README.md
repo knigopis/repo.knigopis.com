@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Куда она ушла ~ [](users/262/262062207519652-facebook)<sup>2</sup>
+    > Продолжение "Если я останусь". Слабее неё, но годится на разок-другой.
+
 * Сдается в наем (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>205</sup>
     > Всю книгу подбешивали Ирэн и Флёр, к Сомсу испытываю скорее сочувствие
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Еще выходит, жду каждую следующую главу с нетерпением.
 
 * Как писать книги ~ [Quaff](users/122/12267158-vkontakte)<sup>21</sup>
-    > Оказалось полезно, хоть и упоминалось много банальных вещей в купе с историей.
 
 * Замок ИФ ~ [Quaff](users/122/12267158-vkontakte)<sup>20</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мальчик в полосатой пижаме ~ [Йолант](users/104/104690883692185089260-google)<sup>175</sup>
 
-* Изящное искусство смерти ~ [Chiffi](users/105/105831994080785626680-google)<sup>86</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/262/262062207519652-facebook)<sup>2</sup> 
 [__vinnie__puh__](users/103/103918575476473107387-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>19</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>67</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>86</sup> 
 [oh_rita](users/970/970096083201538-facebook)<sup>1</sup> 
 [](users/116/116821443168944055238-google)<sup>0</sup> 
-[darb_el](users/184/184135339-vkontakte)<sup>22</sup> 
 
 
-_07.01.2019 17:43:08_
+_08.01.2019 01:03:58_

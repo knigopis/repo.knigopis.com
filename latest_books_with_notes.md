@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Куда она ушла ~ [](users/262/262062207519652-facebook)<sup>2</sup>
 * Сдается в наем (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>205</sup>
 * Клеймо зловещего духа ~ [Quaff](users/122/12267158-vkontakte)<sup>22</sup>
 * Как писать книги ~ [Quaff](users/122/12267158-vkontakte)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Альтернативная цивилизация ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup>
 * Орлы Революции ~ [mfevralev](users/140/140966150-vkontakte)<sup>37</sup>
 * Пиратская планета ~ [En](users/333/333646551-vkontakte)<sup>60</sup>
-* The Prodigal Tongue: The Love-Hate Relationship Between American and British English ~ [exulted](users/100/100599204551896265722-google)<sup>92</sup>
 
 
-_07.01.2019 15:33:04_
+_08.01.2019 01:03:58_

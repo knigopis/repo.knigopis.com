@@ -1,4 +1,10 @@
 {
+    "262062207519652-facebook": {
+        "id": "262062207519652-facebook",
+        "nickname": null,
+        "booksCount": 2,
+        "updatedAt": "2019-01-08 01:03:58"
+    },
     "103918575476473107387-google": {
         "id": "103918575476473107387-google",
         "nickname": "__vinnie__puh__",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-01-03 13:35:16"
-    },
-    "184135339-vkontakte": {
-        "id": "184135339-vkontakte",
-        "nickname": "darb_el",
-        "booksCount": 22,
-        "updatedAt": "2019-01-03 06:11:02"
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>1</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>2</sup>
 ---
 
 ## 2019
+
+### Куда она ушла
+Форман Гейл
+> [2019-01-07] Продолжение "Если я останусь". Слабее неё, но годится на разок-другой.
+
 
 ### Говори
 Лори Холс Андерсон
