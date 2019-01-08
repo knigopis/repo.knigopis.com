@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[BigKhan](users/117/117259947-yandex)<sup>8</sup> 
+[BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>93</sup> 
 [](users/262/262062207519652-facebook)<sup>2</sup> 
 [__vinnie__puh__](users/103/103918575476473107387-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>86</sup> 
 
 
-_08.01.2019 08:42:45_
+_08.01.2019 08:43:35_
