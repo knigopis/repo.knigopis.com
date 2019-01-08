@@ -1,4 +1,10 @@
 {
+    "2323247454404300-facebook": {
+        "id": "2323247454404300-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-01-08 18:18:52"
+    },
     "168389194-vkontakte": {
         "id": "168389194-vkontakte",
         "nickname": "den4ik_rid",
@@ -172,11 +178,5 @@
         "nickname": "Йолант",
         "booksCount": 175,
         "updatedAt": "2019-01-04 11:46:43"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 146,
-        "updatedAt": "2019-01-04 08:50:56"
     }
 }
