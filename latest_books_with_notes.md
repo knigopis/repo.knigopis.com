@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Юные годы медбрата Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>87</sup>
 * 1408 ~ [Garka](users/115/115753719718250012620-google)<sup>206</sup>
 * Rise and Kill First: The Secret History of Israel's Targeted Assassinations ~ [exulted](users/100/100599204551896265722-google)<sup>93</sup>
 * Как я теперь живу ~ [](users/262/262062207519652-facebook)<sup>2</sup>
@@ -30,7 +31,6 @@
 * Убийство Роджера Экройда ~ [fir137](users/176/176805114-yandex)<sup>11</sup>
 * Солярис ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
 * Семь зверей Райлега. Алиедора ~ [EsterHani](users/305/30558181-vkontakte)<sup>164</sup>
-* Магия утра ~ [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup>
 
 
-_08.01.2019 14:44:07_
+_08.01.2019 20:12:28_

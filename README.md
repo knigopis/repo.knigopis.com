@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Юные годы медбрата Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>87</sup>
+    > медицинские байки на фоне 86 года
+
 * 1408 ~ [Garka](users/115/115753719718250012620-google)<sup>206</sup>
     > Великолепный все-таки Кинг писатель. Даже такой маленький рассказ получился у него шикарным - и интересно, и жутко, и хочется продолжения
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN: B01N7LQ2NR
 
 * Как я теперь живу ~ [](users/262/262062207519652-facebook)<sup>2</sup>
-    > О Третьей мировой и влюблённости двух подростков. Позор автору - о предохранении ни слова. Не педагогично. На один раз.
 
 * Куда она ушла ~ [](users/262/262062207519652-facebook)<sup>2</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * И грянул гром ~ [Quaff](users/122/12267158-vkontakte)<sup>19</sup>
 
-* Современные операционные системы ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>87</sup> 
 [](users/232/2323247454404300-facebook)<sup>1</sup> 
 [den4ik_rid](users/168/168389194-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>69</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>4</sup> 
 [](users/105/105554907015920541510-google)<sup>0</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>22</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>175</sup> 
 
 
-_08.01.2019 18:19:32_
+_08.01.2019 20:12:28_

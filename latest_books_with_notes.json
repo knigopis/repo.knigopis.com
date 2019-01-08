@@ -1,4 +1,16 @@
 {
+    "MUQEI-nEKp": {
+        "id": "MUQEI-nEKp",
+        "title": "Юные годы медбрата Паравозова",
+        "author": "Моторов Алексей",
+        "notes": "медицинские байки на фоне 86 года",
+        "createdAt": "2019-01-08 20:12:28",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 87
+        }
+    },
     "SFtTAmWlCW": {
         "id": "SFtTAmWlCW",
         "title": "1408",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 164
-        }
-    },
-    "husoZ903It": {
-        "id": "husoZ903It",
-        "title": "Магия утра",
-        "author": "Хэл Элрод",
-        "notes": "7/10",
-        "createdAt": "2018-12-18 21:33:03",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 100
         }
     }
 }
