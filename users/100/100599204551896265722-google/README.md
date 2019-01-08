@@ -1,5 +1,13 @@
-# Список прочитанных книг пользователя exulted<sup>92</sup>
+# Список прочитанных книг пользователя exulted<sup>93</sup>
 ---
+
+## 2019
+
+### Rise and Kill First: The Secret History of Israel's Targeted Assassinations
+Ronen Bergman
+> [2019-01-06] ASIN: B01N7LQ2NR
+
+
 
 ## 2018
 

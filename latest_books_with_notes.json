@@ -1,4 +1,16 @@
 {
+    "xblou276b7": {
+        "id": "xblou276b7",
+        "title": "Rise and Kill First: The Secret History of Israel's Targeted Assassinations",
+        "author": "Ronen Bergman",
+        "notes": "ASIN: B01N7LQ2NR",
+        "createdAt": "2019-01-08 08:21:20",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 93
+        }
+    },
     "0mXQB5qjWu": {
         "id": "0mXQB5qjWu",
         "title": "Как я теперь живу",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 187
-        }
-    },
-    "TlN-hHPzuW": {
-        "id": "TlN-hHPzuW",
-        "title": "Орлы Революции",
-        "author": "А.Ф.Френкель",
-        "notes": "Про казнь Подтелкова и Кривошлыкова",
-        "createdAt": "2018-12-18 10:50:14",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 37
         }
     }
 }

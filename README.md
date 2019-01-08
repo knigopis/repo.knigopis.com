@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Rise and Kill First: The Secret History of Israel's Targeted Assassinations ~ [exulted](users/100/100599204551896265722-google)<sup>93</sup>
+    > ASIN: B01N7LQ2NR
+
 * Как я теперь живу ~ [](users/262/262062207519652-facebook)<sup>2</sup>
     > О Третьей мировой и влюблённости двух подростков. Позор автору - о предохранении ни слова. Не педагогично. На один раз.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Продолжение "Если я останусь". Слабее неё, но годится на разок-другой.
 
 * Сдается в наем (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>205</sup>
-    > Всю книгу подбешивали Ирэн и Флёр, к Сомсу испытываю скорее сочувствие
 
 * Клеймо зловещего духа ~ [Quaff](users/122/12267158-vkontakte)<sup>22</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тайна "Голубого поезда" ~ [fir137](users/176/176805114-yandex)<sup>18</sup>
 
-* Комсомол имени Летова ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>93</sup> 
 [](users/262/262062207519652-facebook)<sup>2</sup> 
 [__vinnie__puh__](users/103/103918575476473107387-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>19</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/361/361797-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>86</sup> 
 [oh_rita](users/970/970096083201538-facebook)<sup>1</sup> 
-[](users/116/116821443168944055238-google)<sup>0</sup> 
 
 
-_08.01.2019 02:31:47_
+_08.01.2019 08:21:20_
