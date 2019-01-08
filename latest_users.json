@@ -1,4 +1,10 @@
 {
+    "117259947-yandex": {
+        "id": "117259947-yandex",
+        "nickname": "BigKhan",
+        "booksCount": 8,
+        "updatedAt": "2019-01-08 08:42:45"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 86,
         "updatedAt": "2019-01-03 20:30:27"
-    },
-    "970096083201538-facebook": {
-        "id": "970096083201538-facebook",
-        "nickname": "oh_rita",
-        "booksCount": 1,
-        "updatedAt": "2019-01-03 15:53:55"
     }
 }

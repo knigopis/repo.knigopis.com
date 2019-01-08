@@ -1,4 +1,16 @@
 {
+    "Wtyycp1UiI": {
+        "id": "Wtyycp1UiI",
+        "title": "Таинственная история Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2019-01-08 08:42:45",
+        "user": {
+            "id": "117259947-yandex",
+            "nickname": "BigKhan",
+            "booksCount": 8
+        }
+    },
     "xblou276b7": {
         "id": "xblou276b7",
         "title": "Rise and Kill First: The Secret History of Israel's Targeted Assassinations",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 66
-        }
-    },
-    "K1VoqhV-kr": {
-        "id": "K1VoqhV-kr",
-        "title": "Забавно быть студентом",
-        "author": "Блинова Маргарита",
-        "notes": "10/10",
-        "createdAt": "2019-01-07 00:17:07",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 65
         }
     }
 }
