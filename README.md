@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[den4ik_rid](users/168/168389194-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>69</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>206</sup> 
 [wikju](users/107/107255524402462322556-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Erdi](users/104/104289450206538776186-googleplus)<sup>22</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>175</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>146</sup> 
-[](users/361/361797-vkontakte)<sup>0</sup> 
 
 
-_08.01.2019 15:18:20_
+_08.01.2019 16:27:35_
