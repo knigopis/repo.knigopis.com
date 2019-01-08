@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как я теперь живу ~ [](users/262/262062207519652-facebook)<sup>2</sup>
+    > О Третьей мировой и влюблённости двух подростков. Позор автору - о предохранении ни слова. Не педагогично. На один раз.
+
 * Куда она ушла ~ [](users/262/262062207519652-facebook)<sup>2</sup>
     > Продолжение "Если я останусь". Слабее неё, но годится на разок-другой.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Всю книгу подбешивали Ирэн и Флёр, к Сомсу испытываю скорее сочувствие
 
 * Клеймо зловещего духа ~ [Quaff](users/122/12267158-vkontakte)<sup>22</sup>
-    > Еще выходит, жду каждую следующую главу с нетерпением.
 
 * Как писать книги ~ [Quaff](users/122/12267158-vkontakte)<sup>21</sup>
 
@@ -25,8 +27,6 @@ Do not use pull requests to make changes here.
 * Тайна "Голубого поезда" ~ [fir137](users/176/176805114-yandex)<sup>18</sup>
 
 * Комсомол имени Летова ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>4</sup>
-
-* Мальчик в полосатой пижаме ~ [Йолант](users/104/104690883692185089260-google)<sup>175</sup>
 
 
 _More notes [here](latest_books_with_notes.md)._
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116821443168944055238-google)<sup>0</sup> 
 
 
-_08.01.2019 01:03:58_
+_08.01.2019 02:31:47_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как я теперь живу ~ [](users/262/262062207519652-facebook)<sup>2</sup>
 * Куда она ушла ~ [](users/262/262062207519652-facebook)<sup>2</sup>
 * Сдается в наем (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>205</sup>
 * Клеймо зловещего духа ~ [Quaff](users/122/12267158-vkontakte)<sup>22</sup>
@@ -30,7 +31,6 @@
 * Магия утра ~ [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup>
 * Альтернативная цивилизация ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup>
 * Орлы Революции ~ [mfevralev](users/140/140966150-vkontakte)<sup>37</sup>
-* Пиратская планета ~ [En](users/333/333646551-vkontakte)<sup>60</sup>
 
 
-_08.01.2019 01:03:58_
+_08.01.2019 02:31:47_
