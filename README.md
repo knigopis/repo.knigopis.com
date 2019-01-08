@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 1408 ~ [Garka](users/115/115753719718250012620-google)<sup>206</sup>
+    > Великолепный все-таки Кинг писатель. Даже такой маленький рассказ получился у него шикарным - и интересно, и жутко, и хочется продолжения
+
 * Rise and Kill First: The Secret History of Israel's Targeted Assassinations ~ [exulted](users/100/100599204551896265722-google)<sup>93</sup>
     > ASIN: B01N7LQ2NR
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > О Третьей мировой и влюблённости двух подростков. Позор автору - о предохранении ни слова. Не педагогично. На один раз.
 
 * Куда она ушла ~ [](users/262/262062207519652-facebook)<sup>2</sup>
-    > Продолжение "Если я останусь". Слабее неё, но годится на разок-другой.
 
 * Сдается в наем (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>205</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Современные операционные системы ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup>
 
-* Тайна "Голубого поезда" ~ [fir137](users/176/176805114-yandex)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>206</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>68</sup> 
 [wikju](users/107/107255524402462322556-google)<sup>0</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112326851664283893307-google)<sup>0</sup> 
 [](users/112/112326851664283893307-googleplus)<sup>0</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>81</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>205</sup> 
 [pustislezu](users/447/447379125-vkontakte)<sup>1</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>5</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/361/361797-vkontakte)<sup>0</sup> 
 
 
-_08.01.2019 12:32:03_
+_08.01.2019 14:44:07_

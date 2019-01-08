@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 1408 ~ [Garka](users/115/115753719718250012620-google)<sup>206</sup>
 * Rise and Kill First: The Secret History of Israel's Targeted Assassinations ~ [exulted](users/100/100599204551896265722-google)<sup>93</sup>
 * Как я теперь живу ~ [](users/262/262062207519652-facebook)<sup>2</sup>
 * Куда она ушла ~ [](users/262/262062207519652-facebook)<sup>2</sup>
@@ -30,7 +31,6 @@
 * Солярис ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
 * Семь зверей Райлега. Алиедора ~ [EsterHani](users/305/30558181-vkontakte)<sup>164</sup>
 * Магия утра ~ [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup>
-* Альтернативная цивилизация ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>187</sup>
 
 
-_08.01.2019 08:21:20_
+_08.01.2019 14:44:07_

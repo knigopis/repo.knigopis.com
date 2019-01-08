@@ -1,4 +1,16 @@
 {
+    "SFtTAmWlCW": {
+        "id": "SFtTAmWlCW",
+        "title": "1408",
+        "author": "Кинг, Стивен",
+        "notes": "Великолепный все-таки Кинг писатель. Даже такой маленький рассказ получился у него шикарным - и интересно, и жутко, и хочется продолжения",
+        "createdAt": "2019-01-08 14:44:07",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 206
+        }
+    },
     "xblou276b7": {
         "id": "xblou276b7",
         "title": "Rise and Kill First: The Secret History of Israel's Targeted Assassinations",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 100
-        }
-    },
-    "0XX9SV7MeK": {
-        "id": "0XX9SV7MeK",
-        "title": "Альтернативная цивилизация",
-        "author": "Игорь Бестужев-Лада",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/8746032/",
-        "createdAt": "2018-12-18 12:44:38",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 187
         }
     }
 }
