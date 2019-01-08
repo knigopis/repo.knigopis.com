@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[wikju](users/107/107255524402462322556-google)<sup>0</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>93</sup> 
 [](users/262/262062207519652-facebook)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>175</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>146</sup> 
 [](users/361/361797-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>86</sup> 
 
 
-_08.01.2019 08:43:35_
+_08.01.2019 12:00:18_
