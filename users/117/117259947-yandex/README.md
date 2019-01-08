@@ -1,11 +1,7 @@
-# List of books read by BigKhan<sup>8</sup>
+# List of books read by BigKhan<sup>7</sup>
 ---
 
 ## 2018
-
-### Таинственная история Билли Миллигана
-Дэниел Киз
-
 
 ### Золотой теленок
 Ильф и Петров
