@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>0</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>87</sup> 
 [](users/232/2323247454404300-facebook)<sup>1</sup> 
 [den4ik_rid](users/168/168389194-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/105/105554907015920541510-google)<sup>0</sup> 
 
 
-_09.01.2019 11:54:34_
+_09.01.2019 11:59:42_
