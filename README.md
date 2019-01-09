@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fire_ejik](users/329/32903202-vkontakte)<sup>44</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>87</sup> 
 [](users/232/2323247454404300-facebook)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>69</sup> 
 [zadrotimus](users/103/103555002313755570429-google)<sup>0</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>4</sup> 
-[](users/105/105554907015920541510-google)<sup>0</sup> 
 
 
-_09.01.2019 11:59:42_
+_09.01.2019 12:19:51_
