@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тихая сельская жизнь ~ [Sky](users/118/118049897850017649660-google)<sup>119</sup>
 * Юные годы медбрата Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>87</sup>
 * 1408 ~ [Garka](users/115/115753719718250012620-google)<sup>206</sup>
 * Rise and Kill First: The Secret History of Israel's Targeted Assassinations ~ [exulted](users/100/100599204551896265722-google)<sup>93</sup>
@@ -30,7 +31,6 @@
 * Джекаби 4. Жуткий король ~ [Sky](users/118/118049897850017649660-google)<sup>117</sup>
 * Убийство Роджера Экройда ~ [fir137](users/176/176805114-yandex)<sup>11</sup>
 * Солярис ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
-* Семь зверей Райлега. Алиедора ~ [EsterHani](users/305/30558181-vkontakte)<sup>164</sup>
 
 
-_08.01.2019 20:12:28_
+_09.01.2019 18:47:45_

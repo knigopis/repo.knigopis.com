@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тихая сельская жизнь ~ [Sky](users/118/118049897850017649660-google)<sup>119</sup>
+    > Более отвратительно написанной детективной истории свет еще не видывал
+
 * Юные годы медбрата Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>87</sup>
     > медицинские байки на фоне 86 года
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Великолепный все-таки Кинг писатель. Даже такой маленький рассказ получился у него шикарным - и интересно, и жутко, и хочется продолжения
 
 * Rise and Kill First: The Secret History of Israel's Targeted Assassinations ~ [exulted](users/100/100599204551896265722-google)<sup>93</sup>
-    > ASIN: B01N7LQ2NR
 
 * Как я теперь живу ~ [](users/262/262062207519652-facebook)<sup>2</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Замок ИФ ~ [Quaff](users/122/12267158-vkontakte)<sup>20</sup>
 
-* И грянул гром ~ [Quaff](users/122/12267158-vkontakte)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>119</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>24</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>44</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup> 
 [fir137](users/176/176805114-yandex)<sup>21</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>69</sup> 
-[zadrotimus](users/103/103555002313755570429-google)<sup>0</sup> 
 
 
-_09.01.2019 14:15:28_
+_09.01.2019 18:47:45_

@@ -1,4 +1,16 @@
 {
+    "CAERxdDRco": {
+        "id": "CAERxdDRco",
+        "title": "Тихая сельская жизнь",
+        "author": "Ти Кинси",
+        "notes": "Более отвратительно написанной детективной истории свет еще не видывал",
+        "createdAt": "2019-01-09 18:47:45",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 119
+        }
+    },
     "bYsfDb3G-l": {
         "id": "bYsfDb3G-l",
         "title": "Легкий способ бросить курить специально для женщин",
@@ -345,18 +357,6 @@
             "id": "192121371-vkontakte",
             "nickname": "ms.korven",
             "booksCount": 1
-        }
-    },
-    "3KRjHv17cH": {
-        "id": "3KRjHv17cH",
-        "title": "Когда приходит тьма",
-        "author": "Айви Александра",
-        "notes": "5/10",
-        "createdAt": "2019-01-07 00:25:26",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 75
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 119,
+        "updatedAt": "2019-01-09 18:47:45"
+    },
     "104289450206538776186-googleplus": {
         "id": "104289450206538776186-googleplus",
         "nickname": "Erdi",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 69,
         "updatedAt": "2019-01-05 17:30:09"
-    },
-    "103555002313755570429-google": {
-        "id": "103555002313755570429-google",
-        "nickname": "zadrotimus",
-        "booksCount": 0,
-        "updatedAt": "2019-01-05 05:17:56"
     }
 }
