@@ -1,7 +1,12 @@
-# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>22</sup>
+# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>23</sup>
 ---
 
 ## 2019
+
+### Космос за 30 секунд
+Клайв Гиффорд
+> [2019-01-07] 
+
 
 ### Экономика в комиксах
 Дэвид Оррэлл

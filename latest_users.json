@@ -1,4 +1,10 @@
 {
+    "104289450206538776186-googleplus": {
+        "id": "104289450206538776186-googleplus",
+        "nickname": "Erdi",
+        "booksCount": 23,
+        "updatedAt": "2019-01-09 14:14:37"
+    },
     "32903202-vkontakte": {
         "id": "32903202-vkontakte",
         "nickname": "fire_ejik",
@@ -172,11 +178,5 @@
         "nickname": "zadrotimus",
         "booksCount": 0,
         "updatedAt": "2019-01-05 05:17:56"
-    },
-    "126368737-vkontakte": {
-        "id": "126368737-vkontakte",
-        "nickname": "Макар Коренюк",
-        "booksCount": 4,
-        "updatedAt": "2019-01-04 13:30:06"
     }
 }
