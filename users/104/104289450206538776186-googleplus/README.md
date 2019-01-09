@@ -1,7 +1,12 @@
-# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>23</sup>
+# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>24</sup>
 ---
 
 ## 2019
+
+### Легкий способ бросить курить специально для женщин
+Аллан Карр
+> [2019-01-09] 
+
 
 ### Космос за 30 секунд
 Клайв Гиффорд
