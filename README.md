@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Весь сантехник в одной стопке (сборник) ~ [mtelkov](users/115/115651235597791470259-google)<sup>2</sup>
+    > Легкий жизнерадостный юмор. "Сантехник" состоит из небольших рассказов - легко читать, особенно удобно пока стоишь в очереди или едешь куда-нибудь.
+
 * Весь сантехник в одной стопке ~ [mtelkov](users/115/115651235597791470259-google)<sup>1</sup>
     > Легкий жизнерадостный юмор. Можно почитать пока стоишь в очереди, или в поездке.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Более отвратительно написанной детективной истории свет еще не видывал
 
 * Юные годы медбрата Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>87</sup>
-    > медицинские байки на фоне 86 года
 
 * 1408 ~ [Garka](users/115/115753719718250012620-google)<sup>206</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Клеймо зловещего духа ~ [Quaff](users/122/12267158-vkontakte)<sup>22</sup>
 
-* Как писать книги ~ [Quaff](users/122/12267158-vkontakte)<sup>21</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mtelkov](users/115/115651235597791470259-google)<sup>1</sup> 
+[mtelkov](users/115/115651235597791470259-google)<sup>2</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>120</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>24</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [fir137](users/176/176805114-yandex)<sup>21</sup> 
 
 
-_10.01.2019 05:53:04_
+_10.01.2019 05:56:10_
