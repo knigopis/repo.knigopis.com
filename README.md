@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мотивация в стиле ЭКШН. Восторг заразителен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup>
+    > Замечательная книжка. Отлично идёт, просто и доходчиво излагает.
+    > 
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/7624573/
+
 * Весь сантехник в одной стопке (сборник) ~ [mtelkov](users/115/115651235597791470259-google)<sup>2</sup>
     > Легкий жизнерадостный юмор. "Сантехник" состоит из небольших рассказов - легко читать, особенно удобно пока стоишь в очереди или едешь куда-нибудь.
 
@@ -12,7 +19,6 @@ Do not use pull requests to make changes here.
     > Легкий жизнерадостный юмор. Можно почитать пока стоишь в очереди, или в поездке.
 
 * Тихая сельская жизнь ~ [Sky](users/118/118049897850017649660-google)<sup>119</sup>
-    > Более отвратительно написанной детективной истории свет еще не видывал
 
 * Юные годы медбрата Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>87</sup>
 
@@ -26,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Сдается в наем (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>205</sup>
 
-* Клеймо зловещего духа ~ [Quaff](users/122/12267158-vkontakte)<sup>22</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup> 
 [verse.chorus](users/502/5025646043503931926-mailru)<sup>0</sup> 
 [vchampion](users/105/105498848601406552284-google)<sup>2</sup> 
 [mtelkov](users/115/115651235597791470259-google)<sup>1</sup> 
@@ -62,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [junkonfire](users/260/260337584-vkontakte)<sup>10</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>16</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>345</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
 
 
-_10.01.2019 12:27:26_
+_10.01.2019 14:40:30_

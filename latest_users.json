@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 189,
+        "updatedAt": "2019-01-10 14:40:30"
+    },
     "5025646043503931926-mailru": {
         "id": "5025646043503931926-mailru",
         "nickname": "verse.chorus",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 345,
         "updatedAt": "2019-01-06 06:46:30"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 100,
-        "updatedAt": "2019-01-05 23:47:59"
     }
 }

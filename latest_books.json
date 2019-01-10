@@ -1,4 +1,16 @@
 {
+    "Yxikrdacr-": {
+        "id": "Yxikrdacr-",
+        "title": "Мотивация в стиле ЭКШН. Восторг заразителен",
+        "author": "Клаус Кобьелл",
+        "notes": "Замечательная книжка. Отлично идёт, просто и доходчиво излагает.\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/7624573/",
+        "createdAt": "2019-01-10 14:40:30",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 189
+        }
+    },
     "xqopKP0rcC": {
         "id": "xqopKP0rcC",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "447379125-vkontakte",
             "nickname": "pustislezu",
             "booksCount": 1
-        }
-    },
-    "5h-_UZvXh4": {
-        "id": "5h-_UZvXh4",
-        "title": "Сторож",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2019-01-07 11:33:44",
-        "user": {
-            "id": "104448632954411726505-google",
-            "nickname": "белая плесень",
-            "booksCount": 5
         }
     }
 }
