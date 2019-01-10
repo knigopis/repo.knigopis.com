@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>47</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>167</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>22</sup> 
 [rNix](users/227/22742452-yandex)<sup>0</sup> 
 [ms.korven](users/192/192121371-vkontakte)<sup>1</sup> 
-[junkonfire](users/260/260337584-vkontakte)<sup>10</sup> 
 
 
-_10.01.2019 16:46:25_
+_10.01.2019 16:57:48_

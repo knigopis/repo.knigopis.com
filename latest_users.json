@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 47,
+        "updatedAt": "2019-01-10 16:57:48"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "ms.korven",
         "booksCount": 1,
         "updatedAt": "2019-01-07 07:35:42"
-    },
-    "260337584-vkontakte": {
-        "id": "260337584-vkontakte",
-        "nickname": "junkonfire",
-        "booksCount": 10,
-        "updatedAt": "2019-01-06 23:47:37"
     }
 }

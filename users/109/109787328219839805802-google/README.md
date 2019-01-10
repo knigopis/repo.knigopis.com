@@ -1,5 +1,13 @@
-# List of books read by Rainbow<sup>46</sup>
+# List of books read by Rainbow<sup>47</sup>
 ---
+
+## 2019
+
+### Последний из ушедших
+Баграт Шинкуба
+> [2019-01-10] 
+
+
 
 ## 2018
 
