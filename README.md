@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[verse.chorus](users/502/5025646043503931926-mailru)<sup>0</sup> 
 [vchampion](users/105/105498848601406552284-google)<sup>2</sup> 
 [mtelkov](users/115/115651235597791470259-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>120</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>16</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>345</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup> 
 
 
-_10.01.2019 06:58:31_
+_10.01.2019 12:27:26_
