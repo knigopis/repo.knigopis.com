@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mtelkov](users/115/115651235597791470259-google)<sup>2</sup> 
+[mtelkov](users/115/115651235597791470259-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>120</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>24</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [fir137](users/176/176805114-yandex)<sup>21</sup> 
 
 
-_10.01.2019 05:56:10_
+_10.01.2019 06:28:37_
