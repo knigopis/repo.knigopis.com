@@ -1,4 +1,16 @@
 {
+    "jSKrZkw7fy": {
+        "id": "jSKrZkw7fy",
+        "title": "Степной волк",
+        "author": "Герман Гессе",
+        "notes": "9/10",
+        "createdAt": "2019-01-10 16:46:25",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 101
+        }
+    },
     "e5X_iln6QI": {
         "id": "e5X_iln6QI",
         "title": "The Elder Scrolls V. Хроники",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 203
-        }
-    },
-    "f10TPRN6ok": {
-        "id": "f10TPRN6ok",
-        "title": "Вокзал потерянных снов",
-        "author": "Мьевил Чайна",
-        "notes": "даже забыла записать((( Если бы не нашла на телефоне и не увидела,  что  книга открыта на последней странице - даже и не вспомнила бы",
-        "createdAt": "2018-12-27 06:20:03",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 82
         }
     }
 }

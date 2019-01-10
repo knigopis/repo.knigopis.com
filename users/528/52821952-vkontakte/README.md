@@ -1,5 +1,13 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>100</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>101</sup>
 ---
+
+## 2019
+
+### Степной волк
+Герман Гессе
+> [2019-01-10] 9/10
+
+
 
 ## 2018
 

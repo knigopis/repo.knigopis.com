@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Степной волк ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
+    > 9/10
+
 * The Elder Scrolls V. Хроники ~ [EsterHani](users/305/30558181-vkontakte)<sup>167</sup>
     > Книга 1
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/7624573/
 
 * Весь сантехник в одной стопке (сборник) ~ [mtelkov](users/115/115651235597791470259-google)<sup>2</sup>
-    > Легкий жизнерадостный юмор. "Сантехник" состоит из небольших рассказов - легко читать, особенно удобно пока стоишь в очереди или едешь куда-нибудь.
 
 * Весь сантехник в одной стопке ~ [mtelkov](users/115/115651235597791470259-google)<sup>1</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Как я теперь живу ~ [](users/262/262062207519652-facebook)<sup>2</sup>
 
-* Куда она ушла ~ [](users/262/262062207519652-facebook)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>167</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup> 
 [verse.chorus](users/502/5025646043503931926-mailru)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>0</sup> 
 [ms.korven](users/192/192121371-vkontakte)<sup>1</sup> 
 [junkonfire](users/260/260337584-vkontakte)<sup>10</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>16</sup> 
 
 
-_10.01.2019 16:18:43_
+_10.01.2019 16:46:25_

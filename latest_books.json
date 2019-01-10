@@ -1,4 +1,16 @@
 {
+    "jSKrZkw7fy": {
+        "id": "jSKrZkw7fy",
+        "title": "Степной волк",
+        "author": "Герман Гессе",
+        "notes": "9/10",
+        "createdAt": "2019-01-10 16:46:25",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 101
+        }
+    },
     "e5X_iln6QI": {
         "id": "e5X_iln6QI",
         "title": "The Elder Scrolls V. Хроники",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 205
-        }
-    },
-    "O1RmmwOnaS": {
-        "id": "O1RmmwOnaS",
-        "title": "Клиника потерь",
-        "author": "Мария Воронова",
-        "notes": "",
-        "createdAt": "2019-01-07 12:28:12",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 66
         }
     }
 }

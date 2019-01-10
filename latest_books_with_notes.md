@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Степной волк ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
 * The Elder Scrolls V. Хроники ~ [EsterHani](users/305/30558181-vkontakte)<sup>167</sup>
 * Мотивация в стиле ЭКШН. Восторг заразителен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup>
 * Весь сантехник в одной стопке (сборник) ~ [mtelkov](users/115/115651235597791470259-google)<sup>2</sup>
@@ -30,7 +31,6 @@
 * Руны Вещего Олега ~ [mfevralev](users/140/140966150-vkontakte)<sup>38</sup>
 * «Открытки с того света» ~ [Aleks](users/117/117835844513813219393-google)<sup>58</sup>
 * В петле (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>203</sup>
-* Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>82</sup>
 
 
-_10.01.2019 16:18:43_
+_10.01.2019 16:46:25_
