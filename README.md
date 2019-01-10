@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Весь сантехник в одной стопке ~ [mtelkov](users/115/115651235597791470259-google)<sup>1</sup>
+    > Легкий жизнерадостный юмор. Можно почитать пока стоишь в очереди, или в поездке.
+
 * Тихая сельская жизнь ~ [Sky](users/118/118049897850017649660-google)<sup>119</sup>
     > Более отвратительно написанной детективной истории свет еще не видывал
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > медицинские байки на фоне 86 года
 
 * 1408 ~ [Garka](users/115/115753719718250012620-google)<sup>206</sup>
-    > Великолепный все-таки Кинг писатель. Даже такой маленький рассказ получился у него шикарным - и интересно, и жутко, и хочется продолжения
 
 * Rise and Kill First: The Secret History of Israel's Targeted Assassinations ~ [exulted](users/100/100599204551896265722-google)<sup>93</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Как писать книги ~ [Quaff](users/122/12267158-vkontakte)<sup>21</sup>
 
-* Замок ИФ ~ [Quaff](users/122/12267158-vkontakte)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mtelkov](users/115/115651235597791470259-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>120</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>24</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>44</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>100</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup> 
 [fir137](users/176/176805114-yandex)<sup>21</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>69</sup> 
 
 
-_09.01.2019 18:48:26_
+_10.01.2019 05:53:04_

@@ -1,4 +1,16 @@
 {
+    "8Vo4K_hnjo": {
+        "id": "8Vo4K_hnjo",
+        "title": "Весь сантехник в одной стопке",
+        "author": "Слава Сэ",
+        "notes": "Легкий жизнерадостный юмор. Можно почитать пока стоишь в очереди, или в поездке.",
+        "createdAt": "2019-01-10 05:53:04",
+        "user": {
+            "id": "115651235597791470259-google",
+            "nickname": "mtelkov",
+            "booksCount": 1
+        }
+    },
     "CAERxdDRco": {
         "id": "CAERxdDRco",
         "title": "Тихая сельская жизнь",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 11
-        }
-    },
-    "pbWiwHj1h_": {
-        "id": "pbWiwHj1h_",
-        "title": "Солярис",
-        "author": "Станислав Лем",
-        "notes": "7/10",
-        "createdAt": "2018-12-24 10:38:29",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 101
         }
     }
 }
