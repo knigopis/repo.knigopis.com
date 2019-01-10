@@ -1,4 +1,16 @@
 {
+    "e5X_iln6QI": {
+        "id": "e5X_iln6QI",
+        "title": "The Elder Scrolls V. Хроники",
+        "author": "",
+        "notes": "Книга 1",
+        "createdAt": "2019-01-10 16:18:43",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 167
+        }
+    },
     "Yxikrdacr-": {
         "id": "Yxikrdacr-",
         "title": "Мотивация в стиле ЭКШН. Восторг заразителен",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 66
-        }
-    },
-    "nXYbE65qbU": {
-        "id": "nXYbE65qbU",
-        "title": "Чапаев и пустота",
-        "author": "пелевин",
-        "notes": "психушка блаблахушка",
-        "createdAt": "2019-01-07 12:15:09",
-        "user": {
-            "id": "447379125-vkontakte",
-            "nickname": "pustislezu",
-            "booksCount": 1
         }
     }
 }

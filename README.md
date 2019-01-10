@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Elder Scrolls V. Хроники ~ [EsterHani](users/305/30558181-vkontakte)<sup>167</sup>
+    > Книга 1
+
 * Мотивация в стиле ЭКШН. Восторг заразителен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup>
     > Замечательная книжка. Отлично идёт, просто и доходчиво излагает.
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Легкий жизнерадостный юмор. "Сантехник" состоит из небольших рассказов - легко читать, особенно удобно пока стоишь в очереди или едешь куда-нибудь.
 
 * Весь сантехник в одной стопке ~ [mtelkov](users/115/115651235597791470259-google)<sup>1</sup>
-    > Легкий жизнерадостный юмор. Можно почитать пока стоишь в очереди, или в поездке.
 
 * Тихая сельская жизнь ~ [Sky](users/118/118049897850017649660-google)<sup>119</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Куда она ушла ~ [](users/262/262062207519652-facebook)<sup>2</sup>
 
-* Сдается в наем (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>205</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>167</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup> 
 [verse.chorus](users/502/5025646043503931926-mailru)<sup>0</sup> 
 [vchampion](users/105/105498848601406552284-google)<sup>2</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ms.korven](users/192/192121371-vkontakte)<sup>1</sup> 
 [junkonfire](users/260/260337584-vkontakte)<sup>10</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>16</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>345</sup> 
 
 
-_10.01.2019 14:40:30_
+_10.01.2019 16:18:43_

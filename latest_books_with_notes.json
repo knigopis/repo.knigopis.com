@@ -1,4 +1,16 @@
 {
+    "e5X_iln6QI": {
+        "id": "e5X_iln6QI",
+        "title": "The Elder Scrolls V. Хроники",
+        "author": "",
+        "notes": "Книга 1",
+        "createdAt": "2019-01-10 16:18:43",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 167
+        }
+    },
     "Yxikrdacr-": {
         "id": "Yxikrdacr-",
         "title": "Мотивация в стиле ЭКШН. Восторг заразителен",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 82
-        }
-    },
-    "a8ru6DB4kj": {
-        "id": "a8ru6DB4kj",
-        "title": "Сага о бедных Гольдманах",
-        "author": "Колина Елена",
-        "notes": "семейная сага про  то,  как жизнь бывает запутаннее всяких сериалов",
-        "createdAt": "2018-12-27 06:14:31",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 81
         }
     }
 }
