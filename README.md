@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vchampion](users/105/105498848601406552284-google)<sup>0</sup> 
+[vchampion](users/105/105498848601406552284-google)<sup>1</sup> 
 [mtelkov](users/115/115651235597791470259-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>120</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>24</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup> 
 
 
-_10.01.2019 06:58:10_
+_10.01.2019 06:58:22_

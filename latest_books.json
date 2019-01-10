@@ -1,4 +1,16 @@
 {
+    "9mEa-vqXHs": {
+        "id": "9mEa-vqXHs",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-01-10 06:58:22",
+        "user": {
+            "id": "105498848601406552284-google",
+            "nickname": "vchampion",
+            "booksCount": 1
+        }
+    },
     "-5A5LQ5pO0": {
         "id": "-5A5LQ5pO0",
         "title": "Весь сантехник в одной стопке (сборник)",
@@ -345,18 +357,6 @@
             "id": "104448632954411726505-google",
             "nickname": "белая плесень",
             "booksCount": 5
-        }
-    },
-    "46zv4DrTyK": {
-        "id": "46zv4DrTyK",
-        "title": "Мамаша Кемских",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2019-01-07 11:33:29",
-        "user": {
-            "id": "104448632954411726505-google",
-            "nickname": "белая плесень",
-            "booksCount": 4
         }
     }
 }
