@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Преступление доктора Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>88</sup>
+    > У  мужиков жировые бляшки откладываются в стенках сосудов, в том числе и головного мозга,  вот они и глупеют, когда там снижается кровоток. А у женщин жир выстреливает под кожу, и они переживают за фигуру, не понимая своего счастья
+
 * Степной волк ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
     > 9/10
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 1
 
 * Мотивация в стиле ЭКШН. Восторг заразителен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup>
-    > Замечательная книжка. Отлично идёт, просто и доходчиво излагает.
-    > 
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/7624573/
 
 * Весь сантехник в одной стопке (сборник) ~ [mtelkov](users/115/115651235597791470259-google)<sup>2</sup>
 
@@ -30,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Rise and Kill First: The Secret History of Israel's Targeted Assassinations ~ [exulted](users/100/100599204551896265722-google)<sup>93</sup>
 
-* Как я теперь живу ~ [](users/262/262062207519652-facebook)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>88</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>47</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>167</sup> 
@@ -48,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Erdi](users/104/104289450206538776186-googleplus)<sup>24</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>44</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>87</sup> 
 [](users/232/2323247454404300-facebook)<sup>1</sup> 
 [den4ik_rid](users/168/168389194-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>69</sup> 
@@ -69,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ms.korven](users/192/192121371-vkontakte)<sup>1</sup> 
 
 
-_10.01.2019 16:57:48_
+_11.01.2019 04:39:25_
