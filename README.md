@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mtelkov](users/115/115651235597791470259-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>88</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>47</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup> 
 [verse.chorus](users/502/5025646043503931926-mailru)<sup>0</sup> 
 [vchampion](users/105/105498848601406552284-google)<sup>2</sup> 
-[mtelkov](users/115/115651235597791470259-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>120</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>24</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ms.korven](users/192/192121371-vkontakte)<sup>1</sup> 
 
 
-_11.01.2019 04:39:25_
+_11.01.2019 08:56:43_
