@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>346</sup> 
 [](users/219/2193467767571358-facebook)<sup>3</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>70</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>89</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>81</sup> 
 [pustislezu](users/447/447379125-vkontakte)<sup>1</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>5</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>22</sup> 
 
 
-_12.01.2019 11:28:04_
+_12.01.2019 15:05:31_

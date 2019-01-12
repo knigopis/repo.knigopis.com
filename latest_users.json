@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 346,
+        "updatedAt": "2019-01-12 15:05:31"
+    },
     "2193467767571358-facebook": {
         "id": "2193467767571358-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "белая плесень",
         "booksCount": 5,
         "updatedAt": "2019-01-07 11:33:44"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 22,
-        "updatedAt": "2019-01-07 11:08:28"
     }
 }

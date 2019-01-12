@@ -1,4 +1,16 @@
 {
+    "6282PyIkTL": {
+        "id": "6282PyIkTL",
+        "title": "Зеленый марс",
+        "author": "Ким Стэнли Робинсон",
+        "notes": "",
+        "createdAt": "2019-01-12 15:05:31",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 346
+        }
+    },
     "DwtJrsAXc2": {
         "id": "DwtJrsAXc2",
         "title": "В тени вечной красоты",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 19
-        }
-    },
-    "e6sUsN2GNQ": {
-        "id": "e6sUsN2GNQ",
-        "title": "Клиника нежности",
-        "author": "Мария Воронова",
-        "notes": "",
-        "createdAt": "2019-01-07 15:51:12",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 67
         }
     }
 }
