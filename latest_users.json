@@ -1,4 +1,10 @@
 {
+    "15368945740509170009-mailru": {
+        "id": "15368945740509170009-mailru",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-01-12 18:39:02"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "Vikki❤️",
         "booksCount": 81,
         "updatedAt": "2019-01-07 15:39:39"
-    },
-    "447379125-vkontakte": {
-        "id": "447379125-vkontakte",
-        "nickname": "pustislezu",
-        "booksCount": 1,
-        "updatedAt": "2019-01-07 12:15:09"
     }
 }
