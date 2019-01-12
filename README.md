@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/15368945740509170009-mailru)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>2</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>71</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/112/112326851664283893307-google)<sup>0</sup> 
 [](users/112/112326851664283893307-googleplus)<sup>0</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>81</sup> 
-[pustislezu](users/447/447379125-vkontakte)<sup>1</sup> 
 
 
-_12.01.2019 17:35:45_
+_12.01.2019 18:39:04_
