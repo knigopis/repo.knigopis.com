@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>70</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>89</sup> 
 [SadAlice](users/224/2244288745818174-facebook)<sup>0</sup> 
 [mtelkov](users/115/115651235597791470259-google)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>1</sup> 
 [](users/232/2323247454404300-facebook)<sup>1</sup> 
 [den4ik_rid](users/168/168389194-vkontakte)<sup>0</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>69</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>206</sup> 
 [wikju](users/107/107255524402462322556-google)<sup>0</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>0</sup> 
 
 
-_12.01.2019 06:43:37_
+_12.01.2019 09:51:19_

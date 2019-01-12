@@ -1,4 +1,16 @@
 {
+    "lC64RXIZc7": {
+        "id": "lC64RXIZc7",
+        "title": "Клиника жертвы",
+        "author": "Мария Воронова",
+        "notes": "",
+        "createdAt": "2019-01-12 09:51:19",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 70
+        }
+    },
     "74D5PTN_Yp": {
         "id": "74D5PTN_Yp",
         "title": "Мужлан и флейтисика",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 79
-        }
-    },
-    "aP77wmZmc4": {
-        "id": "aP77wmZmc4",
-        "title": "Пробудившийся любовник",
-        "author": "Уорд Дж.Р.",
-        "notes": "10/10, Зейдист и Белла",
-        "createdAt": "2019-01-07 15:36:58",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 78
         }
     }
 }
