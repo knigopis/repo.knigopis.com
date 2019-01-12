@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мужлан и флейтисика ~ [Chiffi](users/105/105831994080785626680-google)<sup>89</sup>
+    > все в стиле Вильмонт.  Но : друг из Сургута попросил передать деньги в Москве старушке,  которая оказалась подругой будущей тещи из Питера... А заодно посоветовала домохозяйку,  которая была знакома с бывшими хозяевами собаки,  увиденной один раз возле служебной квартиры. Это только мне кажется, что дюже... много совпадений? И Повествование от имени собаки  Апельсиныча про сюсюкающего хозяина....  Буду ждать новой книги от имени канарейки или золотой рыбки - это же не паханная целина и новинка жанра.
+
 * Преступление доктора Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>88</sup>
     > У  мужиков жировые бляшки откладываются в стенках сосудов, в том числе и головного мозга,  вот они и глупеют, когда там снижается кровоток. А у женщин жир выстреливает под кожу, и они переживают за фигуру, не понимая своего счастья
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10
 
 * The Elder Scrolls V. Хроники ~ [EsterHani](users/305/30558181-vkontakte)<sup>167</sup>
-    > Книга 1
 
 * Мотивация в стиле ЭКШН. Восторг заразителен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * 1408 ~ [Garka](users/115/115753719718250012620-google)<sup>206</sup>
 
-* Rise and Kill First: The Secret History of Israel's Targeted Assassinations ~ [exulted](users/100/100599204551896265722-google)<sup>93</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>89</sup> 
 [SadAlice](users/224/2244288745818174-facebook)<sup>0</sup> 
 [mtelkov](users/115/115651235597791470259-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>88</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>47</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>167</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>0</sup> 
 
 
-_11.01.2019 10:38:56_
+_12.01.2019 06:43:37_

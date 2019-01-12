@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мужлан и флейтисика ~ [Chiffi](users/105/105831994080785626680-google)<sup>89</sup>
 * Преступление доктора Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>88</sup>
 * Степной волк ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
 * The Elder Scrolls V. Хроники ~ [EsterHani](users/305/30558181-vkontakte)<sup>167</sup>
@@ -30,7 +31,6 @@
 * О лебединых крыльях,  котах и чудесах ~ [Chiffi](users/105/105831994080785626680-google)<sup>84</sup>
 * След лисицы на камнях ~ [Chiffi](users/105/105831994080785626680-google)<sup>83</sup>
 * Руны Вещего Олега ~ [mfevralev](users/140/140966150-vkontakte)<sup>38</sup>
-* «Открытки с того света» ~ [Aleks](users/117/117835844513813219393-google)<sup>58</sup>
 
 
-_11.01.2019 04:39:25_
+_12.01.2019 06:43:37_
