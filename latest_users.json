@@ -1,4 +1,10 @@
 {
+    "115731077120228906864-google": {
+        "id": "115731077120228906864-google",
+        "nickname": "死にたいです",
+        "booksCount": 0,
+        "updatedAt": "2019-01-12 21:25:02"
+    },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
         "nickname": "violet_velva",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-01-07 15:42:09"
-    },
-    "112326851664283893307-googleplus": {
-        "id": "112326851664283893307-googleplus",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-01-07 15:41:57"
     }
 }
