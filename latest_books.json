@@ -1,4 +1,16 @@
 {
+    "ohqq9d0dmz": {
+        "id": "ohqq9d0dmz",
+        "title": "American short stories the 20th century",
+        "author": "compilation",
+        "notes": "6/10 Some are interesting. Book is in 2 languages (Eng-RU).",
+        "createdAt": "2019-01-12 17:35:45",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 2
+        }
+    },
     "PyowRbfhe9": {
         "id": "PyowRbfhe9",
         "title": "Я не могу без тебя",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 93
-        }
-    },
-    "0mXQB5qjWu": {
-        "id": "0mXQB5qjWu",
-        "title": "Как я теперь живу",
-        "author": "Мэг Рософф",
-        "notes": "О Третьей мировой и влюблённости двух подростков. Позор автору - о предохранении ни слова. Не педагогично. На один раз.",
-        "createdAt": "2019-01-08 02:31:46",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
