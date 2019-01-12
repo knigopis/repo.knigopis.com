@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[死にたいです](users/115/115731077120228906864-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>56</sup> 
 [](users/153/15368945740509170009-mailru)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [__vinnie__puh__](users/103/103918575476473107387-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>19</sup> 
 [](users/112/112326851664283893307-google)<sup>0</sup> 
-[](users/112/112326851664283893307-googleplus)<sup>0</sup> 
 
 
-_12.01.2019 19:31:43_
+_12.01.2019 21:25:06_
