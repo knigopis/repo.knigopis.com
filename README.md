@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>71</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>346</sup> 
 [](users/219/2193467767571358-facebook)<sup>3</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>70</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>89</sup> 
 [SadAlice](users/224/2244288745818174-facebook)<sup>0</sup> 
 [mtelkov](users/115/115651235597791470259-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [белая плесень](users/104/104448632954411726505-google)<sup>5</sup> 
 
 
-_12.01.2019 15:05:31_
+_12.01.2019 15:43:07_
