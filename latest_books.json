@@ -1,4 +1,16 @@
 {
+    "6apNrZrzq8": {
+        "id": "6apNrZrzq8",
+        "title": "Хюгге или уютное счастье по-датски",
+        "author": "Хелен Расселл",
+        "notes": "Хорошо быть датчанином!",
+        "createdAt": "2019-01-12 19:31:43",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 56
+        }
+    },
     "ohqq9d0dmz": {
         "id": "ohqq9d0dmz",
         "title": "American short stories the 20th century",
@@ -345,18 +357,6 @@
             "id": "117259947-yandex",
             "nickname": "BigKhan",
             "booksCount": 8
-        }
-    },
-    "xblou276b7": {
-        "id": "xblou276b7",
-        "title": "Rise and Kill First: The Secret History of Israel's Targeted Assassinations",
-        "author": "Ronen Bergman",
-        "notes": "ASIN: B01N7LQ2NR",
-        "createdAt": "2019-01-08 08:21:20",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 93
         }
     }
 }
