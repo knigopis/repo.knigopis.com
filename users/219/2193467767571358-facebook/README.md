@@ -1,4 +1,4 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=2193467767571358)<sup>2</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=2193467767571358)<sup>3</sup>
 ---
 
 ## 2019
@@ -12,6 +12,10 @@
 
 ### В диких услових
 > [2018-12-29] 
+
+
+### В тени вечной красоты
+> [2018-12-27] 
 
 
 

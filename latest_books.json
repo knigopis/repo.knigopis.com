@@ -1,4 +1,16 @@
 {
+    "DwtJrsAXc2": {
+        "id": "DwtJrsAXc2",
+        "title": "В тени вечной красоты",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-01-12 11:28:04",
+        "user": {
+            "id": "2193467767571358-facebook",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "-8Sa2Ze2Yn": {
         "id": "-8Sa2Ze2Yn",
         "title": "Школа на краю земли",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 67
-        }
-    },
-    "VM6jPCGn2Z": {
-        "id": "VM6jPCGn2Z",
-        "title": "Священный любовник",
-        "author": "Уорд Дж.Р.",
-        "notes": "7/10, фьюри и кормия",
-        "createdAt": "2019-01-07 15:39:39",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 81
         }
     }
 }
