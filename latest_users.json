@@ -1,4 +1,10 @@
 {
+    "2193467767571358-facebook": {
+        "id": "2193467767571358-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-01-12 11:25:21"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -172,11 +178,5 @@
         "nickname": "Quaff",
         "booksCount": 22,
         "updatedAt": "2019-01-07 11:08:28"
-    },
-    "22742452-yandex": {
-        "id": "22742452-yandex",
-        "nickname": "rNix",
-        "booksCount": 0,
-        "updatedAt": "2019-01-07 10:51:38"
     }
 }
