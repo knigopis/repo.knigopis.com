@@ -1,4 +1,16 @@
 {
+    "-8Sa2Ze2Yn": {
+        "id": "-8Sa2Ze2Yn",
+        "title": "Школа на краю земли",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-01-12 11:27:29",
+        "user": {
+            "id": "2193467767571358-facebook",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "74c_dKnA2c": {
         "id": "74c_dKnA2c",
         "title": "В диких услових",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 81
-        }
-    },
-    "JmxNtEG8u3": {
-        "id": "JmxNtEG8u3",
-        "title": "Освобожденный любовник",
-        "author": "Уорд Дж.Р.",
-        "notes": "10/10, вишес и джейн",
-        "createdAt": "2019-01-07 15:38:46",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 80
         }
     }
 }
