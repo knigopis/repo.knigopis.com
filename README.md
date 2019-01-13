@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>122</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>72</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>121</sup> 
 [Laurence](users/323/323220762-vkontakte)<sup>1</sup> 
 [nastyacoi](users/442/44246512-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>93</sup> 
 
 
-_13.01.2019 17:04:29_
+_13.01.2019 17:27:22_

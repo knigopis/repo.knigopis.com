@@ -1,4 +1,16 @@
 {
+    "HaAPGN4gxr": {
+        "id": "HaAPGN4gxr",
+        "title": "Сквозь зеркала (3)",
+        "author": "Кристель Дабо",
+        "notes": "",
+        "createdAt": "2019-01-13 17:27:22",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 122
+        }
+    },
     "z6ukBaPN6x": {
         "id": "z6ukBaPN6x",
         "title": "Кроткая заступница",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 87
-        }
-    },
-    "xxXf2D1i04": {
-        "id": "xxXf2D1i04",
-        "title": "удушье",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2019-01-08 18:19:31",
-        "user": {
-            "id": "2323247454404300-facebook",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
