@@ -1,4 +1,10 @@
 {
+    "44246512-vkontakte": {
+        "id": "44246512-vkontakte",
+        "nickname": "nastyacoi",
+        "booksCount": 0,
+        "updatedAt": "2019-01-13 10:45:24"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 2,
         "updatedAt": "2019-01-08 02:31:46"
-    },
-    "103918575476473107387-google": {
-        "id": "103918575476473107387-google",
-        "nickname": "__vinnie__puh__",
-        "booksCount": 0,
-        "updatedAt": "2019-01-07 17:43:04"
     }
 }
