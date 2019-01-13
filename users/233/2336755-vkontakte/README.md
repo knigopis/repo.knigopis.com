@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>70</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>71</sup>
 ---
 
 ## 2019
@@ -59,6 +59,10 @@ Cecelia Ahern
 ### Пожарный
 Джо Хилл
 > [2018-06-21] 
+
+
+### Любовь гика
+Кэтрин Данн
 
 
 
