@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Pofigus](users/106/106841454481640938491-google)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>71</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>122</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>72</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [den4ik_rid](users/168/168389194-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>206</sup> 
 [wikju](users/107/107255524402462322556-google)<sup>0</sup> 
-[BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 
 
-_13.01.2019 18:27:06_
+_13.01.2019 19:09:34_
