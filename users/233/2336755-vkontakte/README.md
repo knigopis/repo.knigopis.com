@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>69</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>70</sup>
 ---
 
 ## 2019
+
+### Сначала было весело
+Александр Варго
+> [2019-01-11] 
+
 
 ### Элизиум. Аликс и монеты
 Александр Андерсон
