@@ -1,4 +1,10 @@
 {
+    "106841454481640938491-google": {
+        "id": "106841454481640938491-google",
+        "nickname": "Pofigus",
+        "booksCount": 0,
+        "updatedAt": "2019-01-13 19:09:32"
+    },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
         "nickname": "katrinvredina",
@@ -172,11 +178,5 @@
         "nickname": "wikju",
         "booksCount": 0,
         "updatedAt": "2019-01-08 12:00:13"
-    },
-    "117259947-yandex": {
-        "id": "117259947-yandex",
-        "nickname": "BigKhan",
-        "booksCount": 7,
-        "updatedAt": "2019-01-08 08:43:34"
     }
 }
