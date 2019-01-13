@@ -1,4 +1,10 @@
 {
+    "118120356593012740350-google": {
+        "id": "118120356593012740350-google",
+        "nickname": "Alexandr",
+        "booksCount": 0,
+        "updatedAt": "2019-01-13 01:48:26"
+    },
     "115731077120228906864-google": {
         "id": "115731077120228906864-google",
         "nickname": "死にたいです",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 19,
         "updatedAt": "2019-01-07 15:54:04"
-    },
-    "112326851664283893307-google": {
-        "id": "112326851664283893307-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-01-07 15:42:09"
     }
 }
