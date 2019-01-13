@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>71</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>72</sup>
 ---
 
 ## 2019
+
+### Кроткая заступница
+Мария Воронова
+> [2019-01-13] 
+
 
 ### Рандеву на границе дождя
 Мария Воронова
