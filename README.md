@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>121</sup> 
 [Laurence](users/323/323220762-vkontakte)<sup>1</sup> 
 [nastyacoi](users/442/44246512-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>54</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup> 
 [verse.chorus](users/502/5025646043503931926-mailru)<sup>0</sup> 
 [vchampion](users/105/105498848601406552284-google)<sup>2</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>120</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>24</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>44</sup> 
 [](users/232/2323247454404300-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>93</sup> 
 
 
-_13.01.2019 16:02:44_
+_13.01.2019 16:08:02_

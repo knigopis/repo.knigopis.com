@@ -1,4 +1,16 @@
 {
+    "15bRxYiWSt": {
+        "id": "15bRxYiWSt",
+        "title": "Сквозь зеркала (2)",
+        "author": "Кристель Дабо",
+        "notes": "",
+        "createdAt": "2019-01-13 16:08:02",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 121
+        }
+    },
     "weHtFzwCYp": {
         "id": "weHtFzwCYp",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 69
-        }
-    },
-    "SFtTAmWlCW": {
-        "id": "SFtTAmWlCW",
-        "title": "1408",
-        "author": "Кинг, Стивен",
-        "notes": "Великолепный все-таки Кинг писатель. Даже такой маленький рассказ получился у него шикарным - и интересно, и жутко, и хочется продолжения",
-        "createdAt": "2019-01-08 14:44:07",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 206
         }
     }
 }
