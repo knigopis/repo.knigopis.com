@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Laurence](users/323/323220762-vkontakte)<sup>0</sup> 
 [nastyacoi](users/442/44246512-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>54</sup> 
 [Alexandr](users/118/118120356593012740350-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [wikju](users/107/107255524402462322556-google)<sup>0</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>7</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>93</sup> 
-[](users/262/262062207519652-facebook)<sup>2</sup> 
 
 
-_13.01.2019 10:45:26_
+_13.01.2019 15:59:32_
