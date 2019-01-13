@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>54</sup> 
 [Alexandr](users/118/118120356593012740350-google)<sup>0</sup> 
 [死にたいです](users/115/115731077120228906864-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>56</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>93</sup> 
 [](users/262/262062207519652-facebook)<sup>2</sup> 
 [__vinnie__puh__](users/103/103918575476473107387-google)<sup>0</sup> 
-[youno](users/302/302928912-vkontakte)<sup>19</sup> 
 
 
-_13.01.2019 01:48:28_
+_13.01.2019 05:08:40_

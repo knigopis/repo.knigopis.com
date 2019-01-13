@@ -1,4 +1,16 @@
 {
+    "YvuZdd2pvY": {
+        "id": "YvuZdd2pvY",
+        "title": "💬 По следам Богов",
+        "author": "Грэм Хенкок",
+        "notes": "",
+        "createdAt": "2019-01-13 05:08:40",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 54
+        }
+    },
     "6apNrZrzq8": {
         "id": "6apNrZrzq8",
         "title": "Хюгге или уютное счастье по-датски",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 68
-        }
-    },
-    "Wtyycp1UiI": {
-        "id": "Wtyycp1UiI",
-        "title": "Таинственная история Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2019-01-08 08:42:45",
-        "user": {
-            "id": "117259947-yandex",
-            "nickname": "BigKhan",
-            "booksCount": 8
         }
     }
 }

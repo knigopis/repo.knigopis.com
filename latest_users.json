@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 54,
+        "updatedAt": "2019-01-13 05:08:40"
+    },
     "118120356593012740350-google": {
         "id": "118120356593012740350-google",
         "nickname": "Alexandr",
@@ -172,11 +178,5 @@
         "nickname": "__vinnie__puh__",
         "booksCount": 0,
         "updatedAt": "2019-01-07 17:43:04"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 19,
-        "updatedAt": "2019-01-07 15:54:04"
     }
 }
