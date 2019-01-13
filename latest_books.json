@@ -1,4 +1,16 @@
 {
+    "d5huGKkn4j": {
+        "id": "d5huGKkn4j",
+        "title": "Будда, мозг и нейрофизиология счастья",
+        "author": "Йонге Мингьюр Ринпоче",
+        "notes": "Перечитал. Хорошая книга.",
+        "createdAt": "2019-01-13 19:13:53",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 20
+        }
+    },
     "zItgkZz4xl": {
         "id": "zItgkZz4xl",
         "title": "Любовь гика",
@@ -345,18 +357,6 @@
             "id": "104289450206538776186-googleplus",
             "nickname": "Erdi",
             "booksCount": 23
-        }
-    },
-    "cHfwi7hC0N": {
-        "id": "cHfwi7hC0N",
-        "title": "Благие знамения",
-        "author": "Терри Пратчетт | Нил Гейман",
-        "notes": "",
-        "createdAt": "2019-01-09 12:19:51",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 44
         }
     }
 }
