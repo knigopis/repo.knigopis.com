@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Приморская академия,  или Ты просто пока не привык ~ [Chiffi](users/105/105831994080785626680-google)<sup>90</sup>
+    > На удивление мило и симпатично. Прочитала на одном дыхании.  Да,  сказочка, да чересчур, но приятно  и позитивно
+
 * Будда, мозг и нейрофизиология счастья ~ [youno](users/302/302928912-vkontakte)<sup>20</sup>
     > Перечитал. Хорошая книга.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хорошо быть датчанином!
 
 * Мужлан и флейтисика ~ [Chiffi](users/105/105831994080785626680-google)<sup>89</sup>
-    > все в стиле Вильмонт.  Но : друг из Сургута попросил передать деньги в Москве старушке,  которая оказалась подругой будущей тещи из Питера... А заодно посоветовала домохозяйку,  которая была знакома с бывшими хозяевами собаки,  увиденной один раз возле служебной квартиры. Это только мне кажется, что дюже... много совпадений? И Повествование от имени собаки  Апельсиныча про сюсюкающего хозяина....  Буду ждать новой книги от имени канарейки или золотой рыбки - это же не паханная целина и новинка жанра.
 
 * Преступление доктора Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>88</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Весь сантехник в одной стопке ~ [mtelkov](users/115/115651235597791470259-google)<sup>1</sup>
 
-* Тихая сельская жизнь ~ [Sky](users/118/118049897850017649660-google)<sup>119</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>90</sup> 
 [youno](users/302/302928912-vkontakte)<sup>20</sup> 
 [Pofigus](users/106/106841454481640938491-google)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>71</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>346</sup> 
 [](users/219/2193467767571358-facebook)<sup>3</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>89</sup> 
 [SadAlice](users/224/2244288745818174-facebook)<sup>0</sup> 
 [mtelkov](users/115/115651235597791470259-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>47</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>206</sup> 
 
 
-_13.01.2019 19:13:53_
+_14.01.2019 04:52:14_
