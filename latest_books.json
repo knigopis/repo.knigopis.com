@@ -1,4 +1,16 @@
 {
+    "l2a7NuTUmq": {
+        "id": "l2a7NuTUmq",
+        "title": "Страж",
+        "author": "Алексей Пехов",
+        "notes": "",
+        "createdAt": "2019-01-14 06:09:39",
+        "user": {
+            "id": "117285896394347391498-google",
+            "nickname": "Дрейк",
+            "booksCount": 2
+        }
+    },
     "N7UpXcXmrJ": {
         "id": "N7UpXcXmrJ",
         "title": "Норвежский лес",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 120
-        }
-    },
-    "CAERxdDRco": {
-        "id": "CAERxdDRco",
-        "title": "Тихая сельская жизнь",
-        "author": "Ти Кинси",
-        "notes": "Более отвратительно написанной детективной истории свет еще не видывал",
-        "createdAt": "2019-01-09 18:47:45",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 119
         }
     }
 }
