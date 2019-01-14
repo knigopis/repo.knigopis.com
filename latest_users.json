@@ -1,4 +1,10 @@
 {
+    "117285896394347391498-google": {
+        "id": "117285896394347391498-google",
+        "nickname": "Дрейк",
+        "booksCount": 0,
+        "updatedAt": "2019-01-14 06:06:31"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "den4ik_rid",
         "booksCount": 0,
         "updatedAt": "2019-01-08 16:27:32"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 206,
-        "updatedAt": "2019-01-08 14:44:07"
     }
 }
