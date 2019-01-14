@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>147</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>47</sup> 
 [Дрейк](users/117/117285896394347391498-google)<sup>2</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>90</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vchampion](users/105/105498848601406552284-google)<sup>2</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>24</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>44</sup> 
-[](users/232/2323247454404300-facebook)<sup>1</sup> 
 
 
-_14.01.2019 08:36:41_
+_14.01.2019 09:41:10_
