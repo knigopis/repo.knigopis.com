@@ -1,4 +1,10 @@
 {
+    "9526325-vkontakte": {
+        "id": "9526325-vkontakte",
+        "nickname": "giperss",
+        "booksCount": 0,
+        "updatedAt": "2019-01-14 17:24:35"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Erdi",
         "booksCount": 24,
         "updatedAt": "2019-01-09 14:15:28"
-    },
-    "32903202-vkontakte": {
-        "id": "32903202-vkontakte",
-        "nickname": "fire_ejik",
-        "booksCount": 44,
-        "updatedAt": "2019-01-09 12:19:51"
     }
 }
