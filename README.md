@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[giperss](users/952/9526325-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>147</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>47</sup> 
 [Дрейк](users/117/117285896394347391498-google)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [verse.chorus](users/502/5025646043503931926-mailru)<sup>0</sup> 
 [vchampion](users/105/105498848601406552284-google)<sup>2</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>24</sup> 
-[fire_ejik](users/329/32903202-vkontakte)<sup>44</sup> 
 
 
-_14.01.2019 09:41:10_
+_14.01.2019 17:24:36_
