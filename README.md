@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Дрейк](users/117/117285896394347391498-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>90</sup> 
 [youno](users/302/302928912-vkontakte)<sup>20</sup> 
 [Pofigus](users/106/106841454481640938491-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fire_ejik](users/329/32903202-vkontakte)<sup>44</sup> 
 [](users/232/2323247454404300-facebook)<sup>1</sup> 
 [den4ik_rid](users/168/168389194-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>206</sup> 
 
 
-_14.01.2019 04:52:14_
+_14.01.2019 06:06:33_
