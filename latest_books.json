@@ -1,4 +1,16 @@
 {
+    "N7UpXcXmrJ": {
+        "id": "N7UpXcXmrJ",
+        "title": "Норвежский лес",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2019-01-14 06:08:21",
+        "user": {
+            "id": "117285896394347391498-google",
+            "nickname": "Дрейк",
+            "booksCount": 1
+        }
+    },
     "HU0GNnHbSs": {
         "id": "HU0GNnHbSs",
         "title": "Приморская академия,  или Ты просто пока не привык",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 119
-        }
-    },
-    "bYsfDb3G-l": {
-        "id": "bYsfDb3G-l",
-        "title": "Легкий способ бросить курить специально для женщин",
-        "author": "Аллан Карр",
-        "notes": "",
-        "createdAt": "2019-01-09 14:15:28",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": "Erdi",
-            "booksCount": 24
         }
     }
 }
