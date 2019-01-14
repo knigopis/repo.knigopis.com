@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 47,
+        "updatedAt": "2019-01-14 08:36:40"
+    },
     "117285896394347391498-google": {
         "id": "117285896394347391498-google",
         "nickname": "Дрейк",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2019-01-08 18:19:31"
-    },
-    "168389194-vkontakte": {
-        "id": "168389194-vkontakte",
-        "nickname": "den4ik_rid",
-        "booksCount": 0,
-        "updatedAt": "2019-01-08 16:27:32"
     }
 }

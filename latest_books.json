@@ -1,4 +1,16 @@
 {
+    "cy1rSBD3g7": {
+        "id": "cy1rSBD3g7",
+        "title": "7 навыков высокоэффективных людей. Мощные инструменты развития личности",
+        "author": "Стивен Р. Кови",
+        "notes": "",
+        "createdAt": "2019-01-14 08:36:40",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 47
+        }
+    },
     "l2a7NuTUmq": {
         "id": "l2a7NuTUmq",
         "title": "Страж",
@@ -345,18 +357,6 @@
             "id": "115651235597791470259-google",
             "nickname": "mtelkov",
             "booksCount": 1
-        }
-    },
-    "k_ZIvIwITu": {
-        "id": "k_ZIvIwITu",
-        "title": "Сквозь зеркала (1)",
-        "author": "Кристель Дабо",
-        "notes": "",
-        "createdAt": "2019-01-09 18:48:25",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 120
         }
     }
 }

@@ -1,5 +1,13 @@
-# List of books read by inna.besprozvannykh<sup>46</sup>
+# List of books read by inna.besprozvannykh<sup>47</sup>
 ---
+
+## 2019
+
+### 7 навыков высокоэффективных людей. Мощные инструменты развития личности
+Стивен Р. Кови
+> [2019-01-14] 
+
+
 
 ## 2018
 
