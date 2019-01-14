@@ -31,7 +31,7 @@
 
 ### Источник
 Айн Рэнд
-> [2018-06] https://yadi.sk/i/7pcVnrBb3YaPdr
+> [2018-06] https://docs.google.com/document/d/1uLLwAY2JWZpVjWs48h4Mnq_qutuGc5_QyABgpmCANwM/edit?usp=sharing
 
 
 ### Бойцовский клуб
