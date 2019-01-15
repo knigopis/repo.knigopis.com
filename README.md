@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Счастье по-японски. Советы, как сделать жизнь человека радостнее и светлее ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>190</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/141267911/
+
 * Приморская академия,  или Ты просто пока не привык ~ [Chiffi](users/105/105831994080785626680-google)<sup>90</sup>
     > На удивление мило и симпатично. Прочитала на одном дыхании.  Да,  сказочка, да чересчур, но приятно  и позитивно
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Перечитал. Хорошая книга.
 
 * Хюгге или уютное счастье по-датски ~ [violet_velva](users/116/116961712580551399099-google)<sup>56</sup>
-    > Хорошо быть датчанином!
 
 * Мужлан и флейтисика ~ [Chiffi](users/105/105831994080785626680-google)<sup>89</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Весь сантехник в одной стопке (сборник) ~ [mtelkov](users/115/115651235597791470259-google)<sup>2</sup>
 
-* Весь сантехник в одной стопке ~ [mtelkov](users/115/115651235597791470259-google)<sup>1</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>190</sup> 
 [giperss](users/952/9526325-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>147</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>47</sup> 
@@ -59,10 +62,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>47</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>167</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup> 
 [verse.chorus](users/502/5025646043503931926-mailru)<sup>0</sup> 
 [vchampion](users/105/105498848601406552284-google)<sup>2</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>24</sup> 
 
 
-_14.01.2019 17:24:36_
+_15.01.2019 00:01:19_
