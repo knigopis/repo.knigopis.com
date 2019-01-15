@@ -1,4 +1,10 @@
 {
+    "114605608330759253482-google": {
+        "id": "114605608330759253482-google",
+        "nickname": "Elizaveta",
+        "booksCount": 0,
+        "updatedAt": "2019-01-15 11:19:46"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "verse.chorus",
         "booksCount": 0,
         "updatedAt": "2019-01-10 12:27:22"
-    },
-    "105498848601406552284-google": {
-        "id": "105498848601406552284-google",
-        "nickname": "vchampion",
-        "booksCount": 2,
-        "updatedAt": "2019-01-10 06:58:31"
     }
 }
