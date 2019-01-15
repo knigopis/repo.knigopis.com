@@ -1,4 +1,16 @@
 {
+    "gCd1eYgsnX": {
+        "id": "gCd1eYgsnX",
+        "title": "Обитаемый остров",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2019-01-15 16:00:13",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 130
+        }
+    },
     "RsoKmGU8sr": {
         "id": "RsoKmGU8sr",
         "title": "Шестерка воронов",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 167
-        }
-    },
-    "Yxikrdacr-": {
-        "id": "Yxikrdacr-",
-        "title": "Мотивация в стиле ЭКШН. Восторг заразителен",
-        "author": "Клаус Кобьелл",
-        "notes": "Замечательная книжка. Отлично идёт, просто и доходчиво излагает.\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/7624573/",
-        "createdAt": "2019-01-10 14:40:30",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 189
         }
     }
 }

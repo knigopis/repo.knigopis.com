@@ -1,4 +1,10 @@
 {
+    "103293621948650602575-google": {
+        "id": "103293621948650602575-google",
+        "nickname": "Lost in Frost",
+        "booksCount": 130,
+        "updatedAt": "2019-01-15 16:00:13"
+    },
     "114605608330759253482-google": {
         "id": "114605608330759253482-google",
         "nickname": "Elizaveta",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 167,
         "updatedAt": "2019-01-10 16:18:43"
-    },
-    "5025646043503931926-mailru": {
-        "id": "5025646043503931926-mailru",
-        "nickname": "verse.chorus",
-        "booksCount": 0,
-        "updatedAt": "2019-01-10 12:27:22"
     }
 }
