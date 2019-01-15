@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шестерка воронов ~ [En](users/333/333646551-vkontakte)<sup>61</sup>
+    > интересный сюжет, интересный слог, книга о детях-бандитах рассуждающих как взрослые и совершающий немыслимые поступки. не смотря на объемность рассказ заинтересовывает с 1 и до последней страницы
+
 * Счастье по-японски. Советы, как сделать жизнь человека радостнее и светлее ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>190</sup>
     > в процессе
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > На удивление мило и симпатично. Прочитала на одном дыхании.  Да,  сказочка, да чересчур, но приятно  и позитивно
 
 * Будда, мозг и нейрофизиология счастья ~ [youno](users/302/302928912-vkontakte)<sup>20</sup>
-    > Перечитал. Хорошая книга.
 
 * Хюгге или уютное счастье по-датски ~ [violet_velva](users/116/116961712580551399099-google)<sup>56</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Мотивация в стиле ЭКШН. Восторг заразителен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup>
 
-* Весь сантехник в одной стопке (сборник) ~ [mtelkov](users/115/115651235597791470259-google)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>61</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>190</sup> 
 [giperss](users/952/9526325-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>147</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>167</sup> 
 [verse.chorus](users/502/5025646043503931926-mailru)<sup>0</sup> 
 [vchampion](users/105/105498848601406552284-google)<sup>2</sup> 
-[Erdi](users/104/104289450206538776186-googleplus)<sup>24</sup> 
 
 
-_15.01.2019 00:01:19_
+_15.01.2019 09:24:30_
