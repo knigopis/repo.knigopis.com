@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elizaveta](users/114/114605608330759253482-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>61</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>190</sup> 
 [giperss](users/952/9526325-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>167</sup> 
 [verse.chorus](users/502/5025646043503931926-mailru)<sup>0</sup> 
-[vchampion](users/105/105498848601406552284-google)<sup>2</sup> 
 
 
-_15.01.2019 09:24:30_
+_15.01.2019 11:19:48_
