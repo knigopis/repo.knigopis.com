@@ -1,4 +1,16 @@
 {
+    "CXT1JU5_oT": {
+        "id": "CXT1JU5_oT",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2019-01-16 20:03:00",
+        "user": {
+            "id": "30791168-vkontakte",
+            "nickname": "lenel'",
+            "booksCount": 1
+        }
+    },
     "wYzQsBWaQ5": {
         "id": "wYzQsBWaQ5",
         "title": "Мешок с костями",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 20
-        }
-    },
-    "zItgkZz4xl": {
-        "id": "zItgkZz4xl",
-        "title": "Любовь гика",
-        "author": "Кэтрин Данн",
-        "notes": "",
-        "createdAt": "2019-01-13 18:27:06",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 71
         }
     }
 }
