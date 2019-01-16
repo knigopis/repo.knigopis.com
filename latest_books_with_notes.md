@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Эльфы и девочка 1 Мы - светлые эльфы ~ [Chiffi](users/105/105831994080785626680-google)<sup>91</sup>
 * Пульт Ґвенді ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>5</sup>
 * Повість без назви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>4</sup>
 * Чорне сонце ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>3</sup>
@@ -30,7 +31,6 @@
 * И грянул гром ~ [Quaff](users/122/12267158-vkontakte)<sup>19</sup>
 * Современные операционные системы ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>188</sup>
 * Тайна "Голубого поезда" ~ [fir137](users/176/176805114-yandex)<sup>18</sup>
-* Комсомол имени Летова ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>4</sup>
 
 
-_16.01.2019 17:55:09_
+_16.01.2019 18:14:33_
