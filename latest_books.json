@@ -1,4 +1,16 @@
 {
+    "5dRfraiMoz": {
+        "id": "5dRfraiMoz",
+        "title": "Каждому своё",
+        "author": "Сергей Тармашев",
+        "notes": "",
+        "createdAt": "2019-01-16 18:03:12",
+        "user": {
+            "id": "15368945740509170009-mailru",
+            "nickname": "gafur",
+            "booksCount": 1
+        }
+    },
     "nGdygkhaM7": {
         "id": "nGdygkhaM7",
         "title": "Пульт Ґвенді",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 72
-        }
-    },
-    "15bRxYiWSt": {
-        "id": "15bRxYiWSt",
-        "title": "Сквозь зеркала (2)",
-        "author": "Кристель Дабо",
-        "notes": "",
-        "createdAt": "2019-01-13 16:08:02",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 121
         }
     }
 }

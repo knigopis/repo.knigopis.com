@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gafur](users/153/15368945740509170009-mailru)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>5</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>55</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>168</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Alexandr](users/118/118120356593012740350-google)<sup>0</sup> 
 [死にたいです](users/115/115731077120228906864-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>56</sup> 
-[](users/153/15368945740509170009-mailru)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>346</sup> 
 
 
-_16.01.2019 17:55:09_
+_16.01.2019 18:03:12_
