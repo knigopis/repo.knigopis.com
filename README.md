@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[gafur](users/153/15368945740509170009-mailru)<sup>1</sup> 
+[gafur](users/153/15368945740509170009-mailru)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>5</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>55</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>168</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>346</sup> 
 
 
-_16.01.2019 18:03:12_
+_16.01.2019 18:03:51_
