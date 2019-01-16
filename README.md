@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[43dostaw](users/201/201788999-vkontakte)<sup>0</sup> 
+[43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>8</sup> 
 [](users/107/107812035853464076201-google)<sup>0</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>195</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/219/2193467767571358-facebook)<sup>3</sup> 
 
 
-_16.01.2019 13:22:16_
+_16.01.2019 13:23:13_

@@ -1,4 +1,16 @@
 {
+    "rrbpIX7wnd": {
+        "id": "rrbpIX7wnd",
+        "title": "Бездна",
+        "author": "Леонид Андреев",
+        "notes": "",
+        "createdAt": "2019-01-16 13:23:13",
+        "user": {
+            "id": "201788999-vkontakte",
+            "nickname": "43dostaw",
+            "booksCount": 1
+        }
+    },
     "b9Zm7WEC64": {
         "id": "b9Zm7WEC64",
         "title": "Молчание",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 1
-        }
-    },
-    "he_V-xNlaZ": {
-        "id": "he_V-xNlaZ",
-        "title": "Рандеву на границе дождя",
-        "author": "Мария Воронова",
-        "notes": "",
-        "createdAt": "2019-01-12 15:43:07",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 71
         }
     }
 }
