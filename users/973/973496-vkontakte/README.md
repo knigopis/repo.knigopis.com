@@ -1,7 +1,11 @@
-# Список прочитанных книг пользователя [radeonx801](http://vk.com/id973496)<sup>190</sup>
+# Список прочитанных книг пользователя [radeonx801](http://vk.com/id973496)<sup>191</sup>
 ---
 
 ## 2018
+
+### Чума
+Альбер Камю
+
 
 ### Fornar Astir
 Sigurdur Nordal

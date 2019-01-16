@@ -1,4 +1,16 @@
 {
+    "z8HPdkhPTY": {
+        "id": "z8HPdkhPTY",
+        "title": "Чума",
+        "author": "Альбер Камю",
+        "notes": "",
+        "createdAt": "2019-01-16 10:25:02",
+        "user": {
+            "id": "973496-vkontakte",
+            "nickname": "radeonx801",
+            "booksCount": 191
+        }
+    },
     "_7O9SPZQ29": {
         "id": "_7O9SPZQ29",
         "title": "Fornar Astir",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 88
-        }
-    },
-    "uo8AxNB5uW": {
-        "id": "uo8AxNB5uW",
-        "title": "Последний из ушедших",
-        "author": "Баграт Шинкуба",
-        "notes": "",
-        "createdAt": "2019-01-10 16:57:48",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 47
         }
     }
 }
