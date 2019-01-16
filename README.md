@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Собачье сердце ~ [Йолант](users/104/104690883692185089260-google)<sup>176</sup>
+    > Первое прочтение в 2012, последующие многократно, в том числе и в виде аудиокниг. Сейчас перечитываю многое из прочитанного ранее, следуя составленному для себя списку.
+
 * Мешок с костями ~ [Quaff](users/122/12267158-vkontakte)<sup>23</sup>
     > Начало тяжелое, середина увлекательная, но конец слишком фантастичный.
 
@@ -28,7 +31,6 @@ Do not use pull requests to make changes here.
     > И тролль таинственно подмигнул.
 
 * Пульт Ґвенді ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>5</sup>
-    > 10/10 Цікаво, читається за 1 вечір. Як завжди Кінг на висоті.
 
 * Повість без назви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>4</sup>
 
@@ -42,13 +44,12 @@ Do not use pull requests to make changes here.
 
 * Приморская академия,  или Ты просто пока не привык ~ [Chiffi](users/105/105831994080785626680-google)<sup>90</sup>
 
-* Будда, мозг и нейрофизиология счастья ~ [youno](users/302/302928912-vkontakte)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>176</sup> 
 [lenel'](users/307/30791168-vkontakte)<sup>12</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>91</sup> 
@@ -78,7 +79,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nastyacoi](users/442/44246512-vkontakte)<sup>0</sup> 
 [Alexandr](users/118/118120356593012740350-google)<sup>0</sup> 
 [死にたいです](users/115/115731077120228906864-google)<sup>0</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>56</sup> 
 
 
-_16.01.2019 20:20:39_
+_16.01.2019 20:25:15_

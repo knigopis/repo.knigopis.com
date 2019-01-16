@@ -1,4 +1,16 @@
 {
+    "AcYFkTTtlT": {
+        "id": "AcYFkTTtlT",
+        "title": "Собачье сердце",
+        "author": "Михаил Булгаков",
+        "notes": "Первое прочтение в 2012, последующие многократно, в том числе и в виде аудиокниг. Сейчас перечитываю многое из прочитанного ранее, следуя составленному для себя списку.",
+        "createdAt": "2019-01-16 20:25:15",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 176
+        }
+    },
     "nAXrH2CY3U": {
         "id": "nAXrH2CY3U",
         "title": "Новая земля",
@@ -345,18 +357,6 @@
             "id": "973496-vkontakte",
             "nickname": "radeonx801",
             "booksCount": 192
-        }
-    },
-    "z8HPdkhPTY": {
-        "id": "z8HPdkhPTY",
-        "title": "Чума",
-        "author": "Альбер Камю",
-        "notes": "",
-        "createdAt": "2019-01-16 10:25:02",
-        "user": {
-            "id": "973496-vkontakte",
-            "nickname": "radeonx801",
-            "booksCount": 191
         }
     }
 }
