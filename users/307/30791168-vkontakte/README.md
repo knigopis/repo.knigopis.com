@@ -1,7 +1,11 @@
-# List of books read by [lenel'](http://vk.com/id30791168)<sup>3</sup>
+# List of books read by [lenel'](http://vk.com/id30791168)<sup>4</sup>
 ---
 
 ## 2019
+
+### Селф-терапия. Разбуди внутреннего ребенка
+Джей Уорли
+
 
 ### Богатый папа, бедный папа
 Роберт Кийосаки
