@@ -1,4 +1,10 @@
 {
+    "107812035853464076201-google": {
+        "id": "107812035853464076201-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-01-16 11:12:46"
+    },
     "973496-vkontakte": {
         "id": "973496-vkontakte",
         "nickname": "radeonx801",
@@ -172,11 +178,5 @@
         "nickname": "mtelkov",
         "booksCount": 0,
         "updatedAt": "2019-01-11 08:56:42"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 47,
-        "updatedAt": "2019-01-10 16:57:48"
     }
 }
