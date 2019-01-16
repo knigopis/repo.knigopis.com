@@ -1,4 +1,16 @@
 {
+    "RnrqohQrag": {
+        "id": "RnrqohQrag",
+        "title": "Парите вместе с орлами",
+        "author": "Бил Ньюмен",
+        "notes": "",
+        "createdAt": "2019-01-16 20:17:07",
+        "user": {
+            "id": "30791168-vkontakte",
+            "nickname": "lenel'",
+            "booksCount": 10
+        }
+    },
     "yXDJ9OGfaS": {
         "id": "yXDJ9OGfaS",
         "title": "Шантарам",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 5
-        }
-    },
-    "gCd1eYgsnX": {
-        "id": "gCd1eYgsnX",
-        "title": "Обитаемый остров",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2019-01-15 16:00:13",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 130
         }
     }
 }
