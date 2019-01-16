@@ -1,4 +1,4 @@
-# List of books read by [lenel'](http://vk.com/id30791168)<sup>4</sup>
+# List of books read by [lenel'](http://vk.com/id30791168)<sup>5</sup>
 ---
 
 ## 2019
@@ -13,6 +13,10 @@
 
 
 ## 2018
+
+### Магическая уборка
+Мари Кондо
+
 
 ### Эссенциализм
 Грэг МакКеон

@@ -49,7 +49,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lenel'](users/307/30791168-vkontakte)<sup>4</sup> 
+[lenel'](users/307/30791168-vkontakte)<sup>5</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>91</sup> 
 [gafur](users/153/15368945740509170009-mailru)<sup>2</sup> 
@@ -81,4 +81,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>56</sup> 
 
 
-_16.01.2019 20:05:43_
+_16.01.2019 20:06:37_
