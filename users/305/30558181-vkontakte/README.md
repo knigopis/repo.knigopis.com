@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>167</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>168</sup>
 ---
 
 ## 2019
+
+### Контент, маркетинг и рок-н-ролл
+Денис Каплунов
+> [2019-01-16] 
+
 
 ### The Elder Scrolls V. Хроники
 > [2019-01-10] Книга 1

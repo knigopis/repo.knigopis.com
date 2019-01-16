@@ -1,4 +1,16 @@
 {
+    "iSL4EGYCkN": {
+        "id": "iSL4EGYCkN",
+        "title": "Контент, маркетинг и рок-н-ролл",
+        "author": "Денис Каплунов",
+        "notes": "",
+        "createdAt": "2019-01-16 13:59:59",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 168
+        }
+    },
     "rrbpIX7wnd": {
         "id": "rrbpIX7wnd",
         "title": "Бездна",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 2
-        }
-    },
-    "PyowRbfhe9": {
-        "id": "PyowRbfhe9",
-        "title": "Я не могу без тебя",
-        "author": "Гийом Мюссо",
-        "notes": "",
-        "createdAt": "2019-01-12 17:30:34",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 1
         }
     }
 }

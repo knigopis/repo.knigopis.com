@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>168</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>8</sup> 
 [](users/107/107812035853464076201-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>2</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>346</sup> 
-[](users/219/2193467767571358-facebook)<sup>3</sup> 
 
 
-_16.01.2019 13:23:13_
+_16.01.2019 13:59:59_
