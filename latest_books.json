@@ -1,4 +1,16 @@
 {
+    "skwUrcsKK-": {
+        "id": "skwUrcsKK-",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-01-16 11:45:53",
+        "user": {
+            "id": "104448632954411726505-google",
+            "nickname": "белая плесень",
+            "booksCount": 7
+        }
+    },
     "S0NIZXS464": {
         "id": "S0NIZXS464",
         "title": "Москва-Петушки",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 346
-        }
-    },
-    "DwtJrsAXc2": {
-        "id": "DwtJrsAXc2",
-        "title": "В тени вечной красоты",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-01-12 11:28:04",
-        "user": {
-            "id": "2193467767571358-facebook",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }
