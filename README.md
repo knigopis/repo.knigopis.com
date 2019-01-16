@@ -49,6 +49,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lenel'](users/307/30791168-vkontakte)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>91</sup> 
 [gafur](users/153/15368945740509170009-mailru)<sup>2</sup> 
@@ -78,7 +79,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Alexandr](users/118/118120356593012740350-google)<sup>0</sup> 
 [死にたいです](users/115/115731077120228906864-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>56</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>1</sup> 
 
 
-_16.01.2019 19:00:56_
+_16.01.2019 20:01:11_
