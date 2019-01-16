@@ -1,4 +1,16 @@
 {
+    "rXVVwg0W0S": {
+        "id": "rXVVwg0W0S",
+        "title": "Меньше единицы",
+        "author": "Иосиф Бродский",
+        "notes": "",
+        "createdAt": "2019-01-16 10:26:12",
+        "user": {
+            "id": "973496-vkontakte",
+            "nickname": "radeonx801",
+            "booksCount": 195
+        }
+    },
     "nRyo-Y_CwE": {
         "id": "nRyo-Y_CwE",
         "title": "Норвежский лес",
@@ -345,18 +357,6 @@
             "id": "2193467767571358-facebook",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "74c_dKnA2c": {
-        "id": "74c_dKnA2c",
-        "title": "В диких услових",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-01-12 11:26:20",
-        "user": {
-            "id": "2193467767571358-facebook",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
