@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>2</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>3</sup>
 ---
 
 ## 2019
+
+### Чорне сонце
+Василь Шкляр
+> [2019-01-13] 7/10 Дума про братів азовських трохи сумна. Але оповідання у книзі дуже цікаві.
+
 
 ### American short stories the 20th century
 compilation

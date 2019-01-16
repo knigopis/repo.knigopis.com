@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чорне сонце ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>3</sup>
+    > 7/10 Дума про братів азовських трохи сумна. Але оповідання у книзі дуже цікаві.
+
 * 🔸️Дом странных детей - 2 ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>55</sup>
     > Повторное чтение
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > интересный сюжет, интересный слог, книга о детях-бандитах рассуждающих как взрослые и совершающий немыслимые поступки. не смотря на объемность рассказ заинтересовывает с 1 и до последней страницы
 
 * Счастье по-японски. Советы, как сделать жизнь человека радостнее и светлее ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>190</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/141267911/
 
 * Приморская академия,  или Ты просто пока не привык ~ [Chiffi](users/105/105831994080785626680-google)<sup>90</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Степной волк ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
 
-* The Elder Scrolls V. Хроники ~ [EsterHani](users/305/30558181-vkontakte)<sup>167</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>3</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>55</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>168</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
@@ -62,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [死にたいです](users/115/115731077120228906864-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>56</sup> 
 [](users/153/15368945740509170009-mailru)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>2</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>346</sup> 
 
 
-_16.01.2019 14:42:08_
+_16.01.2019 17:51:20_
