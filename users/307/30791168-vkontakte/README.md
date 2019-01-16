@@ -1,4 +1,4 @@
-# List of books read by [lenel'](http://vk.com/id30791168)<sup>11</sup>
+# List of books read by [lenel'](http://vk.com/id30791168)<sup>12</sup>
 ---
 
 ## 2019
@@ -45,6 +45,10 @@
 
 
 ## 2016
+
+### Новая земля
+Экхарт Толле
+
 
 ### Шантарам
 Грегори Дэвид Робертс
