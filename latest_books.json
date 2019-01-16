@@ -1,4 +1,16 @@
 {
+    "nRyo-Y_CwE": {
+        "id": "nRyo-Y_CwE",
+        "title": "Норвежский лес",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2019-01-16 10:26:01",
+        "user": {
+            "id": "973496-vkontakte",
+            "nickname": "radeonx801",
+            "booksCount": 194
+        }
+    },
     "zN-w1o5z28": {
         "id": "zN-w1o5z28",
         "title": "Морфий",
@@ -345,18 +357,6 @@
             "id": "2193467767571358-facebook",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "lC64RXIZc7": {
-        "id": "lC64RXIZc7",
-        "title": "Клиника жертвы",
-        "author": "Мария Воронова",
-        "notes": "",
-        "createdAt": "2019-01-12 09:51:19",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 70
         }
     }
 }
