@@ -1,4 +1,4 @@
-# List of books read by [lenel'](http://vk.com/id30791168)<sup>8</sup>
+# List of books read by [lenel'](http://vk.com/id30791168)<sup>9</sup>
 ---
 
 ## 2019
@@ -39,6 +39,10 @@
 
 
 ## 2016
+
+### Шантарам
+Грегори Дэвид Робертс
+
 
 ### Сила воли. Как развить и укрепить
 Макгонигал Келли
