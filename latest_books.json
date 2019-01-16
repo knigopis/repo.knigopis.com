@@ -1,4 +1,16 @@
 {
+    "wYzQsBWaQ5": {
+        "id": "wYzQsBWaQ5",
+        "title": "Мешок с костями",
+        "author": "Стивен Кинг",
+        "notes": "Начало тяжелое, середина увлекательная, но конец слишком фантастичный.",
+        "createdAt": "2019-01-16 19:00:56",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 23
+        }
+    },
     "pgQ8EZQJbu": {
         "id": "pgQ8EZQJbu",
         "title": "Эльфы и девочка 1 Мы - светлые эльфы",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 71
-        }
-    },
-    "IbcqIKIuDs": {
-        "id": "IbcqIKIuDs",
-        "title": "Сначала было весело",
-        "author": "Александр Варго",
-        "notes": "",
-        "createdAt": "2019-01-13 18:26:24",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 70
         }
     }
 }

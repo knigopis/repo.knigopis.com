@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мешок с костями ~ [Quaff](users/122/12267158-vkontakte)<sup>23</sup>
+    > Начало тяжелое, середина увлекательная, но конец слишком фантастичный.
+
 * Эльфы и девочка 1 Мы - светлые эльфы ~ [Chiffi](users/105/105831994080785626680-google)<sup>91</sup>
     > Пока читала - было очень смешно и интересно. Но как только дочитала последнее предложение,  было ощущение,  что из меня вытащили батарейку((((
     > 
@@ -28,7 +31,6 @@ Do not use pull requests to make changes here.
     > 10/10 Цікаво, читається за 1 вечір. Як завжди Кінг на висоті.
 
 * Повість без назви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>4</sup>
-    > 5/10 Нуднувата повість без чітко окресленого закінчення, але оповідання можна почитати.
 
 * Чорне сонце ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>3</sup>
 
@@ -42,13 +44,12 @@ Do not use pull requests to make changes here.
 
 * Будда, мозг и нейрофизиология счастья ~ [youno](users/302/302928912-vkontakte)<sup>20</sup>
 
-* Хюгге или уютное счастье по-датски ~ [violet_velva](users/116/116961712580551399099-google)<sup>56</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>91</sup> 
 [gafur](users/153/15368945740509170009-mailru)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>5</sup> 
@@ -78,7 +79,6 @@ _More notes [here](latest_books_with_notes.md)._
 [死にたいです](users/115/115731077120228906864-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>56</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>1</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>346</sup> 
 
 
-_16.01.2019 18:14:33_
+_16.01.2019 19:00:56_

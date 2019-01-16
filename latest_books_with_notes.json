@@ -1,4 +1,16 @@
 {
+    "wYzQsBWaQ5": {
+        "id": "wYzQsBWaQ5",
+        "title": "Мешок с костями",
+        "author": "Стивен Кинг",
+        "notes": "Начало тяжелое, середина увлекательная, но конец слишком фантастичный.",
+        "createdAt": "2019-01-16 19:00:56",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 23
+        }
+    },
     "pgQ8EZQJbu": {
         "id": "pgQ8EZQJbu",
         "title": "Эльфы и девочка 1 Мы - светлые эльфы",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 188
-        }
-    },
-    "NYPL5rnpEI": {
-        "id": "NYPL5rnpEI",
-        "title": "Тайна \"Голубого поезда\"",
-        "author": "Кристи Агата",
-        "notes": "Увлекательная, но немного предсказуемая.",
-        "createdAt": "2019-01-05 22:29:23",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 18
         }
     }
 }
