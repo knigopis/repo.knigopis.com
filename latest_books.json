@@ -1,4 +1,16 @@
 {
+    "Kl00ZQ5wEv": {
+        "id": "Kl00ZQ5wEv",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-01-16 20:17:10",
+        "user": {
+            "id": "30791168-vkontakte",
+            "nickname": "lenel'",
+            "booksCount": 11
+        }
+    },
     "RnrqohQrag": {
         "id": "RnrqohQrag",
         "title": "Парите вместе с орлами",
@@ -345,18 +357,6 @@
             "id": "973496-vkontakte",
             "nickname": "radeonx801",
             "booksCount": 190
-        }
-    },
-    "HPcj8IXV5P": {
-        "id": "HPcj8IXV5P",
-        "title": "Как построить космический корабль: О команде авантюристов, гонке на выживание и наступлении эры частного освоения космоса",
-        "author": "Джулиан Гатри",
-        "notes": "",
-        "createdAt": "2019-01-15 21:14:30",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 5
         }
     }
 }
