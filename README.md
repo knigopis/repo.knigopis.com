@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пульт Ґвенді ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>5</sup>
+    > 10/10 Цікаво, читається за 1 вечір. Як завжди Кінг на висоті.
+
 * Повість без назви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>4</sup>
     > 5/10 Нуднувата повість без чітко окресленого закінчення, але оповідання можна почитати.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Дума про братів азовських трохи сумна. Але оповідання у книзі дуже цікаві.
 
 * 🔸️Дом странных детей - 2 ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>55</sup>
-    > Повторное чтение
 
 * Шестерка воронов ~ [En](users/333/333646551-vkontakte)<sup>61</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мужлан и флейтисика ~ [Chiffi](users/105/105831994080785626680-google)<sup>89</sup>
 
-* Преступление доктора Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>88</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>4</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>5</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>55</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>168</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>346</sup> 
 
 
-_16.01.2019 17:52:41_
+_16.01.2019 17:55:09_

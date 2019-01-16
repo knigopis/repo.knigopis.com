@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>4</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>5</sup>
 ---
 
 ## 2019
+
+### Пульт Ґвенді
+Стівен Кінг, Річард Чізман
+> [2019-01-15] 10/10 Цікаво, читається за 1 вечір. Як завжди Кінг на висоті.
+
 
 ### Повість без назви
 Валеріан Підмогильний01

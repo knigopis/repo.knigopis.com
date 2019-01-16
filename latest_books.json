@@ -1,4 +1,16 @@
 {
+    "nGdygkhaM7": {
+        "id": "nGdygkhaM7",
+        "title": "Пульт Ґвенді",
+        "author": "Стівен Кінг, Річард Чізман",
+        "notes": "10/10 Цікаво, читається за 1 вечір. Як завжди Кінг на висоті.",
+        "createdAt": "2019-01-16 17:55:09",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 5
+        }
+    },
     "51pQYAruzR": {
         "id": "51pQYAruzR",
         "title": "Повість без назви",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 121
-        }
-    },
-    "weHtFzwCYp": {
-        "id": "weHtFzwCYp",
-        "title": "",
-        "author": "Оскар Уайльд  портрет Дориана грея",
-        "notes": "",
-        "createdAt": "2019-01-13 16:02:44",
-        "user": {
-            "id": "323220762-vkontakte",
-            "nickname": "Laurence",
-            "booksCount": 1
         }
     }
 }
