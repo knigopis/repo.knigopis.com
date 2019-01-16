@@ -1,4 +1,16 @@
 {
+    "esyC88o3Bb": {
+        "id": "esyC88o3Bb",
+        "title": "Эссенциализм",
+        "author": "Грэг МакКеон",
+        "notes": "",
+        "createdAt": "2019-01-16 20:03:47",
+        "user": {
+            "id": "30791168-vkontakte",
+            "nickname": "lenel'",
+            "booksCount": 2
+        }
+    },
     "CXT1JU5_oT": {
         "id": "CXT1JU5_oT",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 90
-        }
-    },
-    "d5huGKkn4j": {
-        "id": "d5huGKkn4j",
-        "title": "Будда, мозг и нейрофизиология счастья",
-        "author": "Йонге Мингьюр Ринпоче",
-        "notes": "Перечитал. Хорошая книга.",
-        "createdAt": "2019-01-13 19:13:53",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 20
         }
     }
 }
