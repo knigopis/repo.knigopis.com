@@ -1,4 +1,10 @@
 {
+    "201788999-vkontakte": {
+        "id": "201788999-vkontakte",
+        "nickname": "43dostaw",
+        "booksCount": 0,
+        "updatedAt": "2019-01-16 13:22:14"
+    },
     "104448632954411726505-google": {
         "id": "104448632954411726505-google",
         "nickname": "белая плесень",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 3,
         "updatedAt": "2019-01-12 11:28:04"
-    },
-    "2244288745818174-facebook": {
-        "id": "2244288745818174-facebook",
-        "nickname": "SadAlice",
-        "booksCount": 0,
-        "updatedAt": "2019-01-11 10:38:54"
     }
 }
