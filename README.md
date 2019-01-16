@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[белая плесень](users/104/104448632954411726505-google)<sup>6</sup> 
 [](users/107/107812035853464076201-google)<sup>0</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>195</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>5</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>346</sup> 
 [](users/219/2193467767571358-facebook)<sup>3</sup> 
 [SadAlice](users/224/2244288745818174-facebook)<sup>0</sup> 
-[mtelkov](users/115/115651235597791470259-google)<sup>0</sup> 
 
 
-_16.01.2019 11:12:49_
+_16.01.2019 11:45:50_

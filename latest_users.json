@@ -1,4 +1,10 @@
 {
+    "104448632954411726505-google": {
+        "id": "104448632954411726505-google",
+        "nickname": "белая плесень",
+        "booksCount": 6,
+        "updatedAt": "2019-01-16 11:45:50"
+    },
     "107812035853464076201-google": {
         "id": "107812035853464076201-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "SadAlice",
         "booksCount": 0,
         "updatedAt": "2019-01-11 10:38:54"
-    },
-    "115651235597791470259-google": {
-        "id": "115651235597791470259-google",
-        "nickname": "mtelkov",
-        "booksCount": 0,
-        "updatedAt": "2019-01-11 08:56:42"
     }
 }
