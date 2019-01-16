@@ -1,5 +1,12 @@
-# Список прочитанных книг пользователя [radeonx801](http://vk.com/id973496)<sup>189</sup>
+# Список прочитанных книг пользователя [radeonx801](http://vk.com/id973496)<sup>190</sup>
 ---
+
+## 2018
+
+### Fornar Astir
+Sigurdur Nordal
+
+
 
 ## 2016
 
