@@ -1,4 +1,4 @@
-# List of books read by [lenel'](http://vk.com/id30791168)<sup>7</sup>
+# List of books read by [lenel'](http://vk.com/id30791168)<sup>8</sup>
 ---
 
 ## 2019
@@ -35,6 +35,13 @@
 
 ### Цветы для Элджернона
 Дэниел Киз
+
+
+
+## 2016
+
+### Сила воли. Как развить и укрепить
+Макгонигал Келли
 
 
 

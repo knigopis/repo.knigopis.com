@@ -1,4 +1,16 @@
 {
+    "Wh3Wz-FChZ": {
+        "id": "Wh3Wz-FChZ",
+        "title": "Сила воли. Как развить и укрепить",
+        "author": "Макгонигал Келли",
+        "notes": "",
+        "createdAt": "2019-01-16 20:11:47",
+        "user": {
+            "id": "30791168-vkontakte",
+            "nickname": "lenel'",
+            "booksCount": 8
+        }
+    },
     "P_zKd7wwSG": {
         "id": "P_zKd7wwSG",
         "title": "Норвежский лес",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 61
-        }
-    },
-    "LoPWkshyWx": {
-        "id": "LoPWkshyWx",
-        "title": "Счастье по-японски. Советы, как сделать жизнь человека радостнее и светлее",
-        "author": "Лиана Арешидзе, Михаил Крупянко, Иван Крупянко",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/141267911/",
-        "createdAt": "2019-01-15 00:01:19",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 190
         }
     }
 }
