@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/107/107812035853464076201-google)<sup>0</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>195</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>5</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>130</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/219/2193467767571358-facebook)<sup>3</sup> 
 [SadAlice](users/224/2244288745818174-facebook)<sup>0</sup> 
 [mtelkov](users/115/115651235597791470259-google)<sup>0</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>47</sup> 
 
 
-_16.01.2019 10:26:12_
+_16.01.2019 11:12:49_
