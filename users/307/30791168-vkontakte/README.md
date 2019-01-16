@@ -1,4 +1,4 @@
-# List of books read by [lenel'](http://vk.com/id30791168)<sup>5</sup>
+# List of books read by [lenel'](http://vk.com/id30791168)<sup>6</sup>
 ---
 
 ## 2019
@@ -13,6 +13,10 @@
 
 
 ## 2018
+
+### Магия утра
+Хэл Элрод
+
 
 ### Магическая уборка
 Мари Кондо

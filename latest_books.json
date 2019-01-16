@@ -1,4 +1,16 @@
 {
+    "KKk34TcUYU": {
+        "id": "KKk34TcUYU",
+        "title": "Магия утра",
+        "author": "Хэл Элрод",
+        "notes": "",
+        "createdAt": "2019-01-16 20:07:02",
+        "user": {
+            "id": "30791168-vkontakte",
+            "nickname": "lenel'",
+            "booksCount": 6
+        }
+    },
     "G4-Yee5dbW": {
         "id": "G4-Yee5dbW",
         "title": "Магическая уборка",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 147
-        }
-    },
-    "cy1rSBD3g7": {
-        "id": "cy1rSBD3g7",
-        "title": "7 навыков высокоэффективных людей. Мощные инструменты развития личности",
-        "author": "Стивен Р. Кови",
-        "notes": "",
-        "createdAt": "2019-01-14 08:36:40",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 47
         }
     }
 }
