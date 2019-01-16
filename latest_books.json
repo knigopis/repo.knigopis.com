@@ -1,4 +1,16 @@
 {
+    "P_zKd7wwSG": {
+        "id": "P_zKd7wwSG",
+        "title": "Норвежский лес",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2019-01-16 20:07:57",
+        "user": {
+            "id": "30791168-vkontakte",
+            "nickname": "lenel'",
+            "booksCount": 7
+        }
+    },
     "KKk34TcUYU": {
         "id": "KKk34TcUYU",
         "title": "Магия утра",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 190
-        }
-    },
-    "hFe4Lhs0Ay": {
-        "id": "hFe4Lhs0Ay",
-        "title": "Приключения Оливера Твиста",
-        "author": "Чарльз Диккенс",
-        "notes": "",
-        "createdAt": "2019-01-14 09:41:10",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 147
         }
     }
 }

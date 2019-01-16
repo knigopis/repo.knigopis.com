@@ -1,4 +1,4 @@
-# List of books read by [lenel'](http://vk.com/id30791168)<sup>6</sup>
+# List of books read by [lenel'](http://vk.com/id30791168)<sup>7</sup>
 ---
 
 ## 2019
@@ -28,6 +28,10 @@
 
 
 ## 2017
+
+### Норвежский лес
+Харуки Мураками
+
 
 ### Цветы для Элджернона
 Дэниел Киз
