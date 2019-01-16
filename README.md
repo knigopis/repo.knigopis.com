@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 🔸️Дом странных детей - 2 ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>55</sup>
+    > Повторное чтение
+
 * Шестерка воронов ~ [En](users/333/333646551-vkontakte)<sup>61</sup>
     > интересный сюжет, интересный слог, книга о детях-бандитах рассуждающих как взрослые и совершающий немыслимые поступки. не смотря на объемность рассказ заинтересовывает с 1 и до последней страницы
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/141267911/
 
 * Приморская академия,  или Ты просто пока не привык ~ [Chiffi](users/105/105831994080785626680-google)<sup>90</sup>
-    > На удивление мило и симпатично. Прочитала на одном дыхании.  Да,  сказочка, да чересчур, но приятно  и позитивно
 
 * Будда, мозг и нейрофизиология счастья ~ [youno](users/302/302928912-vkontakte)<sup>20</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * The Elder Scrolls V. Хроники ~ [EsterHani](users/305/30558181-vkontakte)<sup>167</sup>
 
-* Мотивация в стиле ЭКШН. Восторг заразителен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>55</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>168</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>8</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>72</sup> 
 [Laurence](users/323/323220762-vkontakte)<sup>1</sup> 
 [nastyacoi](users/442/44246512-vkontakte)<sup>0</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>54</sup> 
 [Alexandr](users/118/118120356593012740350-google)<sup>0</sup> 
 [死にたいです](users/115/115731077120228906864-google)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>56</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>346</sup> 
 
 
-_16.01.2019 13:59:59_
+_16.01.2019 14:42:08_

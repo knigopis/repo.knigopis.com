@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>54</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>55</sup>
 ---
 
 ## 2019
+
+### 🔸️Дом странных детей - 2
+Рэнсом Риггз
+> [2019-01-17] Повторное чтение
+
 
 ### 💬 По следам Богов
 Грэм Хенкок
