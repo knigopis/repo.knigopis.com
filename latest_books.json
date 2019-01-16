@@ -1,4 +1,16 @@
 {
+    "8fl8ZyU7m6": {
+        "id": "8fl8ZyU7m6",
+        "title": "Унесенные ветром",
+        "author": "Маргарет Митчел",
+        "notes": "8/10",
+        "createdAt": "2019-01-16 21:55:46",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 120
+        }
+    },
     "AcYFkTTtlT": {
         "id": "AcYFkTTtlT",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "973496-vkontakte",
             "nickname": "radeonx801",
             "booksCount": 193
-        }
-    },
-    "UBWwG17QAA": {
-        "id": "UBWwG17QAA",
-        "title": "Возвращение со звёзд",
-        "author": "Станислав Лем",
-        "notes": "",
-        "createdAt": "2019-01-16 10:25:19",
-        "user": {
-            "id": "973496-vkontakte",
-            "nickname": "radeonx801",
-            "booksCount": 192
         }
     }
 }

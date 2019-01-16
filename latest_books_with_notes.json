@@ -1,4 +1,16 @@
 {
+    "8fl8ZyU7m6": {
+        "id": "8fl8ZyU7m6",
+        "title": "Унесенные ветром",
+        "author": "Маргарет Митчел",
+        "notes": "8/10",
+        "createdAt": "2019-01-16 21:55:46",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 120
+        }
+    },
     "AcYFkTTtlT": {
         "id": "AcYFkTTtlT",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 20
-        }
-    },
-    "QQ2An1CWVJ": {
-        "id": "QQ2An1CWVJ",
-        "title": "И грянул гром",
-        "author": "Рей Бредбери",
-        "notes": "Старо, прочитано, известно, но освежающе.",
-        "createdAt": "2019-01-06 12:09:51",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 19
         }
     }
 }

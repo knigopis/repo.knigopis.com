@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Унесенные ветром ~ [anvonamore](users/595/5957175-vkontakte)<sup>120</sup>
 * Собачье сердце ~ [Йолант](users/104/104690883692185089260-google)<sup>176</sup>
 * Мешок с костями ~ [Quaff](users/122/12267158-vkontakte)<sup>23</sup>
 * Эльфы и девочка 1 Мы - светлые эльфы ~ [Chiffi](users/105/105831994080785626680-google)<sup>91</sup>
@@ -30,7 +31,6 @@
 * Клеймо зловещего духа ~ [Quaff](users/122/12267158-vkontakte)<sup>22</sup>
 * Как писать книги ~ [Quaff](users/122/12267158-vkontakte)<sup>21</sup>
 * Замок ИФ ~ [Quaff](users/122/12267158-vkontakte)<sup>20</sup>
-* И грянул гром ~ [Quaff](users/122/12267158-vkontakte)<sup>19</sup>
 
 
-_16.01.2019 20:25:15_
+_16.01.2019 21:55:47_
