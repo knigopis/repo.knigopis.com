@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[v.tolcheev](users/737/73732330-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>73</sup> 
 [Elena](users/244/244840862-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>120</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>71</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>122</sup> 
 [Laurence](users/323/323220762-vkontakte)<sup>1</sup> 
-[nastyacoi](users/442/44246512-vkontakte)<sup>0</sup> 
 
 
-_17.01.2019 17:50:03_
+_17.01.2019 20:22:28_
