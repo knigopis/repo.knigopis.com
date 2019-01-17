@@ -1,4 +1,16 @@
 {
+    "FCsd7AM2nJ": {
+        "id": "FCsd7AM2nJ",
+        "title": "Продающие тексты",
+        "author": "Дмитрий Кот",
+        "notes": "",
+        "createdAt": "2019-01-17 21:16:36",
+        "user": {
+            "id": "73732330-vkontakte",
+            "nickname": "v.tolcheev",
+            "booksCount": 1
+        }
+    },
     "ANw6gWS7i-": {
         "id": "ANw6gWS7i-",
         "title": "Уютная душа",
@@ -345,18 +357,6 @@
             "id": "973496-vkontakte",
             "nickname": "radeonx801",
             "booksCount": 195
-        }
-    },
-    "nRyo-Y_CwE": {
-        "id": "nRyo-Y_CwE",
-        "title": "Норвежский лес",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2019-01-16 10:26:01",
-        "user": {
-            "id": "973496-vkontakte",
-            "nickname": "radeonx801",
-            "booksCount": 194
         }
     }
 }
