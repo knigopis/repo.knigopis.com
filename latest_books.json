@@ -1,4 +1,16 @@
 {
+    "0SrZebT23g": {
+        "id": "0SrZebT23g",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-01-18 00:41:47",
+        "user": {
+            "id": "108944458841064852769-google",
+            "nickname": "Kira",
+            "booksCount": 1
+        }
+    },
     "FCsd7AM2nJ": {
         "id": "FCsd7AM2nJ",
         "title": "Продающие тексты",
@@ -345,18 +357,6 @@
             "id": "104448632954411726505-google",
             "nickname": "белая плесень",
             "booksCount": 6
-        }
-    },
-    "rXVVwg0W0S": {
-        "id": "rXVVwg0W0S",
-        "title": "Меньше единицы",
-        "author": "Иосиф Бродский",
-        "notes": "",
-        "createdAt": "2019-01-16 10:26:12",
-        "user": {
-            "id": "973496-vkontakte",
-            "nickname": "radeonx801",
-            "booksCount": 195
         }
     }
 }
