@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>72</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>123</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>207</sup> 
 [Леди Я](users/207/2079380078781646-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [giperss](users/952/9526325-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>47</sup> 
 [Дрейк](users/117/117285896394347391498-google)<sup>2</sup> 
-[youno](users/302/302928912-vkontakte)<sup>20</sup> 
 
 
-_18.01.2019 18:50:08_
+_18.01.2019 19:16:48_

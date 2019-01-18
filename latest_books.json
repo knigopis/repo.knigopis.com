@@ -1,4 +1,16 @@
 {
+    "9FOVMBRi1M": {
+        "id": "9FOVMBRi1M",
+        "title": "Сборщик душ",
+        "author": "Мелисса Марр и Тим Пратт",
+        "notes": "",
+        "createdAt": "2019-01-18 19:16:48",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 72
+        }
+    },
     "XJ8kAS7fDJ": {
         "id": "XJ8kAS7fDJ",
         "title": "Жизнь Шарлотты Бронте",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 55
-        }
-    },
-    "iSL4EGYCkN": {
-        "id": "iSL4EGYCkN",
-        "title": "Контент, маркетинг и рок-н-ролл",
-        "author": "Денис Каплунов",
-        "notes": "",
-        "createdAt": "2019-01-16 13:59:59",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 168
         }
     }
 }
