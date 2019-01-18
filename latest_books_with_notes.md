@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Движущиеся картинки ~ [Garka](users/115/115753719718250012620-google)<sup>207</sup>
 * Унесенные ветром ~ [anvonamore](users/595/5957175-vkontakte)<sup>120</sup>
 * Собачье сердце ~ [Йолант](users/104/104690883692185089260-google)<sup>176</sup>
 * Мешок с костями ~ [Quaff](users/122/12267158-vkontakte)<sup>23</sup>
@@ -30,7 +31,6 @@
 * Сдается в наем (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>205</sup>
 * Клеймо зловещего духа ~ [Quaff](users/122/12267158-vkontakte)<sup>22</sup>
 * Как писать книги ~ [Quaff](users/122/12267158-vkontakte)<sup>21</sup>
-* Замок ИФ ~ [Quaff](users/122/12267158-vkontakte)<sup>20</sup>
 
 
-_16.01.2019 21:55:47_
+_18.01.2019 17:37:35_

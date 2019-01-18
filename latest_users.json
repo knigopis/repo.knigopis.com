@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 207,
+        "updatedAt": "2019-01-18 17:37:35"
+    },
     "2079380078781646-facebook": {
         "id": "2079380078781646-facebook",
         "nickname": "Леди Я",
@@ -172,11 +178,5 @@
         "nickname": "Pofigus",
         "booksCount": 0,
         "updatedAt": "2019-01-13 19:09:32"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 71,
-        "updatedAt": "2019-01-13 18:27:06"
     }
 }

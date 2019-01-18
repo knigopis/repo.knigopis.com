@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Движущиеся картинки ~ [Garka](users/115/115753719718250012620-google)<sup>207</sup>
+    > Очень классный стёб над Фабрикой грёз, очередная книга из серии "Плоский мир" не подкачала
+
 * Унесенные ветром ~ [anvonamore](users/595/5957175-vkontakte)<sup>120</sup>
     > 8/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Первое прочтение в 2012, последующие многократно, в том числе и в виде аудиокниг. Сейчас перечитываю многое из прочитанного ранее, следуя составленному для себя списку.
 
 * Мешок с костями ~ [Quaff](users/122/12267158-vkontakte)<sup>23</sup>
-    > Начало тяжелое, середина увлекательная, но конец слишком фантастичный.
 
 * Эльфы и девочка 1 Мы - светлые эльфы ~ [Chiffi](users/105/105831994080785626680-google)<sup>91</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Шестерка воронов ~ [En](users/333/333646551-vkontakte)<sup>61</sup>
 
-* Счастье по-японски. Советы, как сделать жизнь человека радостнее и светлее ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>190</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>207</sup> 
 [Леди Я](users/207/2079380078781646-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>148</sup> 
 [Kira](users/108/108944458841064852769-google)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Дрейк](users/117/117285896394347391498-google)<sup>2</sup> 
 [youno](users/302/302928912-vkontakte)<sup>20</sup> 
 [Pofigus](users/106/106841454481640938491-google)<sup>0</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>71</sup> 
 
 
-_18.01.2019 14:05:26_
+_18.01.2019 17:37:35_

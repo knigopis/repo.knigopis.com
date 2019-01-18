@@ -1,4 +1,16 @@
 {
+    "4kOGxi33ev": {
+        "id": "4kOGxi33ev",
+        "title": "Движущиеся картинки",
+        "author": "Пратчетт, Терри",
+        "notes": "Очень классный стёб над Фабрикой грёз, очередная книга из серии \"Плоский мир\" не подкачала",
+        "createdAt": "2019-01-18 17:37:35",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 207
+        }
+    },
     "VRaBerS2SU": {
         "id": "VRaBerS2SU",
         "title": "Рассказ служанки",
@@ -345,18 +357,6 @@
             "id": "201788999-vkontakte",
             "nickname": "43dostaw",
             "booksCount": 1
-        }
-    },
-    "b9Zm7WEC64": {
-        "id": "b9Zm7WEC64",
-        "title": "Молчание",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2019-01-16 11:46:13",
-        "user": {
-            "id": "104448632954411726505-google",
-            "nickname": "белая плесень",
-            "booksCount": 8
         }
     }
 }
