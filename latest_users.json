@@ -1,4 +1,10 @@
 {
+    "2079380078781646-facebook": {
+        "id": "2079380078781646-facebook",
+        "nickname": "Леди Я",
+        "booksCount": 0,
+        "updatedAt": "2019-01-18 14:05:24"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 71,
         "updatedAt": "2019-01-13 18:27:06"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 122,
-        "updatedAt": "2019-01-13 17:27:22"
     }
 }
