@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гуси-гуси, га-га-га ~ [Йолант](users/104/104690883692185089260-google)<sup>179</sup>
 * Выстрел с монитора ~ [Йолант](users/104/104690883692185089260-google)<sup>178</sup>
 * Евгений Онегин ~ [Йолант](users/104/104690883692185089260-google)<sup>177</sup>
 * Движущиеся картинки ~ [Garka](users/115/115753719718250012620-google)<sup>207</sup>
@@ -30,7 +31,6 @@
 * Rise and Kill First: The Secret History of Israel's Targeted Assassinations ~ [exulted](users/100/100599204551896265722-google)<sup>93</sup>
 * Как я теперь живу ~ [](users/262/262062207519652-facebook)<sup>2</sup>
 * Куда она ушла ~ [](users/262/262062207519652-facebook)<sup>2</sup>
-* Сдается в наем (Сага о Форсайтах) ~ [Garka](users/115/115753719718250012620-google)<sup>205</sup>
 
 
-_18.01.2019 22:05:57_
+_18.01.2019 22:09:10_
