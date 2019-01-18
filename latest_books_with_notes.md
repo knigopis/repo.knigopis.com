@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Крик петуха ~ [Йолант](users/104/104690883692185089260-google)<sup>181</sup>
 * Застава на Якорном Поле ~ [Йолант](users/104/104690883692185089260-google)<sup>180</sup>
 * Гуси-гуси, га-га-га ~ [Йолант](users/104/104690883692185089260-google)<sup>179</sup>
 * Выстрел с монитора ~ [Йолант](users/104/104690883692185089260-google)<sup>178</sup>
@@ -30,7 +31,6 @@
 * Юные годы медбрата Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>87</sup>
 * 1408 ~ [Garka](users/115/115753719718250012620-google)<sup>206</sup>
 * Rise and Kill First: The Secret History of Israel's Targeted Assassinations ~ [exulted](users/100/100599204551896265722-google)<sup>93</sup>
-* Как я теперь живу ~ [](users/262/262062207519652-facebook)<sup>2</sup>
 
 
-_18.01.2019 22:15:33_
+_18.01.2019 22:17:12_
