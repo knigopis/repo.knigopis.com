@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Kira](users/108/108944458841064852769-google)<sup>4</sup> 
+[Kira](users/108/108944458841064852769-google)<sup>5</sup> 
 [v.tolcheev](users/737/73732330-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>73</sup> 
 [Elena](users/244/244840862-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>122</sup> 
 
 
-_18.01.2019 00:45:43_
+_18.01.2019 00:51:08_
