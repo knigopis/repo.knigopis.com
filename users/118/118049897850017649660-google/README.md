@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>122</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>123</sup>
 ---
 
 ## 2019
+
+### Жизнь Шарлотты Бронте
+Элизабет Гаскелл
+> [2019-01-18] 
+
 
 ### Сквозь зеркала (3)
 Кристель Дабо

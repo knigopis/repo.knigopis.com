@@ -1,4 +1,16 @@
 {
+    "XJ8kAS7fDJ": {
+        "id": "XJ8kAS7fDJ",
+        "title": "Жизнь Шарлотты Бронте",
+        "author": "Элизабет Гаскелл",
+        "notes": "",
+        "createdAt": "2019-01-18 18:50:08",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 123
+        }
+    },
     "4kOGxi33ev": {
         "id": "4kOGxi33ev",
         "title": "Движущиеся картинки",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 168
-        }
-    },
-    "rrbpIX7wnd": {
-        "id": "rrbpIX7wnd",
-        "title": "Бездна",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2019-01-16 13:23:13",
-        "user": {
-            "id": "201788999-vkontakte",
-            "nickname": "43dostaw",
-            "booksCount": 1
         }
     }
 }
