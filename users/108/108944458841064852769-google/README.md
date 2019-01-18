@@ -1,7 +1,11 @@
-# List of books read by [Kira](https://plus.google.com/108944458841064852769)<sup>1</sup>
+# List of books read by [Kira](https://plus.google.com/108944458841064852769)<sup>2</sup>
 ---
 
 ## 2018
+
+Александр Куприн - Гранатовый Браслет
+> [2018-11-18] 
+
 
 Булгаков - Морфий
 > [2018-11-16] 
