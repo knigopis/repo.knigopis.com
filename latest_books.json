@@ -1,4 +1,16 @@
 {
+    "VRaBerS2SU": {
+        "id": "VRaBerS2SU",
+        "title": "Рассказ служанки",
+        "author": "Маргарет Этвуд",
+        "notes": "",
+        "createdAt": "2019-01-18 09:08:01",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 148
+        }
+    },
     "izLXFx5-lX": {
         "id": "izLXFx5-lX",
         "title": "Усомнившийся Макар",
@@ -345,18 +357,6 @@
             "id": "104448632954411726505-google",
             "nickname": "белая плесень",
             "booksCount": 8
-        }
-    },
-    "skwUrcsKK-": {
-        "id": "skwUrcsKK-",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-01-16 11:45:53",
-        "user": {
-            "id": "104448632954411726505-google",
-            "nickname": "белая плесень",
-            "booksCount": 7
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>148</sup> 
 [Kira](users/108/108944458841064852769-google)<sup>5</sup> 
 [v.tolcheev](users/737/73732330-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>73</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>61</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>190</sup> 
 [giperss](users/952/9526325-vkontakte)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>147</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>47</sup> 
 [Дрейк](users/117/117285896394347391498-google)<sup>2</sup> 
 [youno](users/302/302928912-vkontakte)<sup>20</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>122</sup> 
 
 
-_18.01.2019 00:51:08_
+_18.01.2019 09:08:01_
