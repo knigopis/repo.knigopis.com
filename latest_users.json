@@ -1,4 +1,10 @@
 {
+    "108944458841064852769-google": {
+        "id": "108944458841064852769-google",
+        "nickname": "Kira",
+        "booksCount": 0,
+        "updatedAt": "2019-01-18 00:40:59"
+    },
     "73732330-vkontakte": {
         "id": "73732330-vkontakte",
         "nickname": "v.tolcheev",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 122,
         "updatedAt": "2019-01-13 17:27:22"
-    },
-    "323220762-vkontakte": {
-        "id": "323220762-vkontakte",
-        "nickname": "Laurence",
-        "booksCount": 1,
-        "updatedAt": "2019-01-13 16:02:44"
     }
 }
