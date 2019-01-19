@@ -1,4 +1,16 @@
 {
+    "YPXHLLaX-P": {
+        "id": "YPXHLLaX-P",
+        "title": "Приморская академия или ты просто пока не привык",
+        "author": "Милена Завойчинская",
+        "notes": "Один из любимых авторов",
+        "createdAt": "2019-01-19 14:09:50",
+        "user": {
+            "id": "101373950743550846629-google",
+            "nickname": "Марихуанна",
+            "booksCount": 7
+        }
+    },
     "rMrXm6YGoR": {
         "id": "rMrXm6YGoR",
         "title": "Крылья",
@@ -345,18 +357,6 @@
             "id": "30791168-vkontakte",
             "nickname": "lenel'",
             "booksCount": 10
-        }
-    },
-    "yXDJ9OGfaS": {
-        "id": "yXDJ9OGfaS",
-        "title": "Шантарам",
-        "author": "Грегори Дэвид Робертс",
-        "notes": "",
-        "createdAt": "2019-01-16 20:13:22",
-        "user": {
-            "id": "30791168-vkontakte",
-            "nickname": "lenel'",
-            "booksCount": 9
         }
     }
 }
