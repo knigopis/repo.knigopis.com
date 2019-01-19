@@ -1,4 +1,16 @@
 {
+    "_uGPNWqapH": {
+        "id": "_uGPNWqapH",
+        "title": "50 ДДМС",
+        "author": "Стейс Крамер",
+        "notes": "",
+        "createdAt": "2019-01-19 19:08:15",
+        "user": {
+            "id": "101373950743550846629-google",
+            "nickname": "Марихуанна",
+            "booksCount": 8
+        }
+    },
     "eyRdVyhyO4": {
         "id": "eyRdVyhyO4",
         "title": "Академия магического права. Брюнетка в бою",
@@ -345,18 +357,6 @@
             "id": "108944458841064852769-google",
             "nickname": "Kira",
             "booksCount": 4
-        }
-    },
-    "FCsd7AM2nJ": {
-        "id": "FCsd7AM2nJ",
-        "title": "Продающие тексты",
-        "author": "Дмитрий Кот",
-        "notes": "",
-        "createdAt": "2019-01-17 21:16:36",
-        "user": {
-            "id": "73732330-vkontakte",
-            "nickname": "v.tolcheev",
-            "booksCount": 1
         }
     }
 }
