@@ -1,4 +1,16 @@
 {
+    "eyRdVyhyO4": {
+        "id": "eyRdVyhyO4",
+        "title": "Академия магического права. Брюнетка в бою",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2019-01-19 14:38:41",
+        "user": {
+            "id": "2079380078781646-facebook",
+            "nickname": "Леди Я",
+            "booksCount": 4
+        }
+    },
     "KMUeoshOWU": {
         "id": "KMUeoshOWU",
         "title": "Академия магического права. Брюнетка в осаде",
@@ -345,18 +357,6 @@
             "id": "73732330-vkontakte",
             "nickname": "v.tolcheev",
             "booksCount": 1
-        }
-    },
-    "ANw6gWS7i-": {
-        "id": "ANw6gWS7i-",
-        "title": "Уютная душа",
-        "author": "Мария Воронова",
-        "notes": "",
-        "createdAt": "2019-01-17 17:50:03",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 73
         }
     }
 }
