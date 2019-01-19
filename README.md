@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>56</sup> 
 [VladLamp](users/108/108690635733644174817-google)<sup>0</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>11</sup> 
 [](users/176/176006446-yandex)<sup>0</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>91</sup> 
 [gafur](users/153/15368945740509170009-mailru)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>5</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>55</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>168</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 [](users/107/107812035853464076201-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [giperss](users/952/9526325-vkontakte)<sup>0</sup> 
 
 
-_19.01.2019 10:19:48_
+_19.01.2019 12:38:24_

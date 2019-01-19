@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 56,
+        "updatedAt": "2019-01-19 12:38:24"
+    },
     "108690635733644174817-google": {
         "id": "108690635733644174817-google",
         "nickname": "VladLamp",
@@ -112,12 +118,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 5,
         "updatedAt": "2019-01-16 17:55:09"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 55,
-        "updatedAt": "2019-01-16 14:42:08"
     },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",

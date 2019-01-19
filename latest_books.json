@@ -1,4 +1,16 @@
 {
+    "7E4lILH0_c": {
+        "id": "7E4lILH0_c",
+        "title": "📚 Игры демиургов",
+        "author": "Петр Бормор",
+        "notes": "",
+        "createdAt": "2019-01-19 12:38:24",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 56
+        }
+    },
     "XmG8Ow4omW": {
         "id": "XmG8Ow4omW",
         "title": "Обломов",
@@ -345,18 +357,6 @@
             "id": "30791168-vkontakte",
             "nickname": "lenel'",
             "booksCount": 3
-        }
-    },
-    "esyC88o3Bb": {
-        "id": "esyC88o3Bb",
-        "title": "Эссенциализм",
-        "author": "Грэг МакКеон",
-        "notes": "",
-        "createdAt": "2019-01-16 20:03:47",
-        "user": {
-            "id": "30791168-vkontakte",
-            "nickname": "lenel'",
-            "booksCount": 2
         }
     }
 }
