@@ -1,4 +1,16 @@
 {
+    "vXcWYzU21n": {
+        "id": "vXcWYzU21n",
+        "title": "Шоколад",
+        "author": "Джоанн Харрис",
+        "notes": "Все таки хотела, чтобы как в фильме, Вианн была с Ру)",
+        "createdAt": "2019-01-19 14:00:07",
+        "user": {
+            "id": "101373950743550846629-google",
+            "nickname": "Марихуанна",
+            "booksCount": 2
+        }
+    },
     "zICG70K5Tg": {
         "id": "zICG70K5Tg",
         "title": "Стигмалион",
@@ -345,18 +357,6 @@
             "id": "30791168-vkontakte",
             "nickname": "lenel'",
             "booksCount": 5
-        }
-    },
-    "Jmc0nNdnJB": {
-        "id": "Jmc0nNdnJB",
-        "title": "Селф-терапия. Разбуди внутреннего ребенка",
-        "author": "Джей Уорли",
-        "notes": "",
-        "createdAt": "2019-01-16 20:05:43",
-        "user": {
-            "id": "30791168-vkontakte",
-            "nickname": "lenel'",
-            "booksCount": 4
         }
     }
 }
