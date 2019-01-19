@@ -1,4 +1,10 @@
 {
+    "101373950743550846629-google": {
+        "id": "101373950743550846629-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-01-19 13:53:53"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 190,
         "updatedAt": "2019-01-15 00:01:19"
-    },
-    "9526325-vkontakte": {
-        "id": "9526325-vkontakte",
-        "nickname": "giperss",
-        "booksCount": 0,
-        "updatedAt": "2019-01-14 17:24:35"
     }
 }
