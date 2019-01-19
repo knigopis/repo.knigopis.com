@@ -1,4 +1,16 @@
 {
+    "bRAfzciONB": {
+        "id": "bRAfzciONB",
+        "title": "Второй шанс",
+        "author": "Джули Коэн",
+        "notes": "",
+        "createdAt": "2019-01-19 14:26:55",
+        "user": {
+            "id": "101373950743550846629-google",
+            "nickname": "Марихуанна",
+            "booksCount": 9
+        }
+    },
     "p4y4sTpz4H": {
         "id": "p4y4sTpz4H",
         "title": "Дом на перекрестке",
@@ -345,18 +357,6 @@
             "id": "30791168-vkontakte",
             "nickname": "lenel'",
             "booksCount": 12
-        }
-    },
-    "Kl00ZQ5wEv": {
-        "id": "Kl00ZQ5wEv",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-01-16 20:17:10",
-        "user": {
-            "id": "30791168-vkontakte",
-            "nickname": "lenel'",
-            "booksCount": 11
         }
     }
 }
