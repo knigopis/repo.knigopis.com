@@ -1,12 +1,7 @@
-# List of books read by [белая плесень](https://plus.google.com/104448632954411726505)<sup>11</sup>
+# List of books read by [белая плесень](https://plus.google.com/104448632954411726505)<sup>10</sup>
 ---
 
 ## 2019
-
-### Бездна
-Леонид Андреев
-> [2019-01-19] 
-
 
 ### Бездна
 Леонид Андреев
