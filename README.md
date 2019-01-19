@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/101373950743550846629-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>56</sup> 
 [VladLamp](users/108/108690635733644174817-google)<sup>0</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>11</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elizaveta](users/114/114605608330759253482-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>61</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>190</sup> 
-[giperss](users/952/9526325-vkontakte)<sup>0</sup> 
 
 
-_19.01.2019 12:38:24_
+_19.01.2019 13:53:55_
