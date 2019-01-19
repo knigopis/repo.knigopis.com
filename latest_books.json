@@ -1,4 +1,16 @@
 {
+    "ggFIJ9vfR3": {
+        "id": "ggFIJ9vfR3",
+        "title": "Ангелочек",
+        "author": "Леонид Андреев",
+        "notes": "",
+        "createdAt": "2019-01-19 09:55:06",
+        "user": {
+            "id": "104448632954411726505-google",
+            "nickname": "белая плесень",
+            "booksCount": 10
+        }
+    },
     "vcM91li87c": {
         "id": "vcM91li87c",
         "title": "Бездна",
@@ -345,18 +357,6 @@
             "id": "30791168-vkontakte",
             "nickname": "lenel'",
             "booksCount": 1
-        }
-    },
-    "wYzQsBWaQ5": {
-        "id": "wYzQsBWaQ5",
-        "title": "Мешок с костями",
-        "author": "Стивен Кинг",
-        "notes": "Начало тяжелое, середина увлекательная, но конец слишком фантастичный.",
-        "createdAt": "2019-01-16 19:00:56",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 23
         }
     }
 }
