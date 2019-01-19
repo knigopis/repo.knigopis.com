@@ -1,4 +1,16 @@
 {
+    "IKMSVNI9ik": {
+        "id": "IKMSVNI9ik",
+        "title": "Академия магического права. Брюнетка в законе",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2019-01-19 14:35:59",
+        "user": {
+            "id": "2079380078781646-facebook",
+            "nickname": "Леди Я",
+            "booksCount": 1
+        }
+    },
     "bRAfzciONB": {
         "id": "bRAfzciONB",
         "title": "Второй шанс",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 176
-        }
-    },
-    "nAXrH2CY3U": {
-        "id": "nAXrH2CY3U",
-        "title": "Новая земля",
-        "author": "Экхарт Толле",
-        "notes": "",
-        "createdAt": "2019-01-16 20:20:39",
-        "user": {
-            "id": "30791168-vkontakte",
-            "nickname": "lenel'",
-            "booksCount": 12
         }
     }
 }

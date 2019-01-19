@@ -1,4 +1,10 @@
 {
+    "2079380078781646-facebook": {
+        "id": "2079380078781646-facebook",
+        "nickname": "Леди Я",
+        "booksCount": 1,
+        "updatedAt": "2019-01-19 14:35:59"
+    },
     "101373950743550846629-google": {
         "id": "101373950743550846629-google",
         "nickname": "Марихуанна",
@@ -52,12 +58,6 @@
         "nickname": "Garka",
         "booksCount": 207,
         "updatedAt": "2019-01-18 17:37:35"
-    },
-    "2079380078781646-facebook": {
-        "id": "2079380078781646-facebook",
-        "nickname": "Леди Я",
-        "booksCount": 0,
-        "updatedAt": "2019-01-18 14:05:24"
     },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
