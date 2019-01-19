@@ -1,4 +1,10 @@
 {
+    "176006446-yandex": {
+        "id": "176006446-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-01-19 09:41:15"
+    },
     "104448632954411726505-google": {
         "id": "104448632954411726505-google",
         "nickname": "белая плесень",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 47,
         "updatedAt": "2019-01-14 08:36:40"
-    },
-    "117285896394347391498-google": {
-        "id": "117285896394347391498-google",
-        "nickname": "Дрейк",
-        "booksCount": 2,
-        "updatedAt": "2019-01-14 06:09:39"
     }
 }
