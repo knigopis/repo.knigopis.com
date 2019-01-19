@@ -1,4 +1,16 @@
 {
+    "KMUeoshOWU": {
+        "id": "KMUeoshOWU",
+        "title": "Академия магического права. Брюнетка в осаде",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2019-01-19 14:38:17",
+        "user": {
+            "id": "2079380078781646-facebook",
+            "nickname": "Леди Я",
+            "booksCount": 3
+        }
+    },
     "RhhmsWqZD_": {
         "id": "RhhmsWqZD_",
         "title": "Академия магического права. Брюнетка в защите",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 73
-        }
-    },
-    "8fl8ZyU7m6": {
-        "id": "8fl8ZyU7m6",
-        "title": "Унесенные ветром",
-        "author": "Маргарет Митчел",
-        "notes": "8/10",
-        "createdAt": "2019-01-16 21:55:46",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 120
         }
     }
 }

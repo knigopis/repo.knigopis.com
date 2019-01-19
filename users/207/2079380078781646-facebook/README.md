@@ -1,7 +1,11 @@
-# List of books read by [Леди Я](https://www.facebook.com/profile.php?id=2079380078781646)<sup>2</sup>
+# List of books read by [Леди Я](https://www.facebook.com/profile.php?id=2079380078781646)<sup>3</sup>
 ---
 
 ## 2019
+
+### Академия магического права. Брюнетка в осаде
+Наталья Жильцова
+
 
 ### Академия магического права. Брюнетка в защите
 Академия магического права. Брюнетка в законе
