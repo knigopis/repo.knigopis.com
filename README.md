@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/176/176006446-yandex)<sup>0</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>11</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>182</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>72</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>190</sup> 
 [giperss](users/952/9526325-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>47</sup> 
-[Дрейк](users/117/117285896394347391498-google)<sup>2</sup> 
 
 
-_19.01.2019 09:28:52_
+_19.01.2019 09:41:17_
