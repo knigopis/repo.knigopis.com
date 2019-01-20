@@ -1,4 +1,10 @@
 {
+    "1535375-vkontakte": {
+        "id": "1535375-vkontakte",
+        "nickname": "liufi",
+        "booksCount": 0,
+        "updatedAt": "2019-01-20 15:17:12"
+    },
     "101373950743550846629-google": {
         "id": "101373950743550846629-google",
         "nickname": "Марихуанна",
@@ -172,11 +178,5 @@
         "nickname": "radeonx801",
         "booksCount": 195,
         "updatedAt": "2019-01-16 10:26:12"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 5,
-        "updatedAt": "2019-01-15 21:14:30"
     }
 }
