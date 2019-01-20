@@ -1,4 +1,16 @@
 {
+    "S_TKvjvfIs": {
+        "id": "S_TKvjvfIs",
+        "title": "Назови меня своим именем",
+        "author": "Андре Асиман",
+        "notes": "6/10",
+        "createdAt": "2019-01-20 00:39:27",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 121
+        }
+    },
     "_uGPNWqapH": {
         "id": "_uGPNWqapH",
         "title": "50 ДДМС",
@@ -345,18 +357,6 @@
             "id": "108944458841064852769-google",
             "nickname": "Kira",
             "booksCount": 5
-        }
-    },
-    "_ncf8wCeXT": {
-        "id": "_ncf8wCeXT",
-        "title": "",
-        "author": "Максим Горький - Старуха Изергиль",
-        "notes": "",
-        "createdAt": "2019-01-18 00:45:43",
-        "user": {
-            "id": "108944458841064852769-google",
-            "nickname": "Kira",
-            "booksCount": 4
         }
     }
 }
