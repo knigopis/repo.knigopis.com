@@ -1,4 +1,10 @@
 {
+    "180139283-vkontakte": {
+        "id": "180139283-vkontakte",
+        "nickname": "miracolo_bella",
+        "booksCount": 71,
+        "updatedAt": "2019-01-20 19:22:33"
+    },
     "88735301-yandex": {
         "id": "88735301-yandex",
         "nickname": "kap122",
@@ -172,11 +178,5 @@
         "nickname": "43dostaw",
         "booksCount": 1,
         "updatedAt": "2019-01-16 13:23:13"
-    },
-    "107812035853464076201-google": {
-        "id": "107812035853464076201-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-01-16 11:12:46"
     }
 }
