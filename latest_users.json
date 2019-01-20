@@ -1,9 +1,15 @@
 {
+    "13330781-vkontakte": {
+        "id": "13330781-vkontakte",
+        "nickname": "le_brouillard",
+        "booksCount": 74,
+        "updatedAt": "2019-01-20 08:40:34"
+    },
     "382205963-vkontakte": {
         "id": "382205963-vkontakte",
         "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-01-20 07:50:48"
+        "booksCount": 3,
+        "updatedAt": "2019-01-20 07:54:50"
     },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
@@ -94,12 +100,6 @@
         "nickname": "v.tolcheev",
         "booksCount": 0,
         "updatedAt": "2019-01-17 21:21:47"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 73,
-        "updatedAt": "2019-01-17 17:50:03"
     },
     "244840862-vkontakte": {
         "id": "244840862-vkontakte",

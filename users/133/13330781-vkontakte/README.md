@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>73</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>74</sup>
 ---
 
 ## 2019
+
+### Ледяное мнодце Северины
+Мария Воронова
+> [2019-01-20] 
+
 
 ### Уютная душа
 Мария Воронова

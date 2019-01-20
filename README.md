@@ -33,7 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/382/382205963-vkontakte)<sup>0</sup> 
+[le_brouillard](users/133/13330781-vkontakte)<sup>74</sup> 
+[](users/382/382205963-vkontakte)<sup>3</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>3</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>121</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>8</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>148</sup> 
 [Kira](users/108/108944458841064852769-google)<sup>5</sup> 
 [v.tolcheev](users/737/73732330-vkontakte)<sup>0</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>73</sup> 
 [Elena](users/244/244840862-vkontakte)<sup>0</sup> 
 [lenel'](users/307/30791168-vkontakte)<sup>12</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elizaveta](users/114/114605608330759253482-google)<sup>0</sup> 
 
 
-_20.01.2019 07:50:49_
+_20.01.2019 08:40:35_
