@@ -1,4 +1,16 @@
 {
+    "PcOP-CSPIh": {
+        "id": "PcOP-CSPIh",
+        "title": "Господин из Сан Франциско",
+        "author": "Иван Бунин",
+        "notes": "",
+        "createdAt": "2019-01-20 19:23:19",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 72
+        }
+    },
     "CZjai6AcK4": {
         "id": "CZjai6AcK4",
         "title": "Женское достоинство - сила притяжения мужчин",
@@ -345,18 +357,6 @@
             "id": "104448632954411726505-google",
             "nickname": "белая плесень",
             "booksCount": 11
-        }
-    },
-    "ggFIJ9vfR3": {
-        "id": "ggFIJ9vfR3",
-        "title": "Ангелочек",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2019-01-19 09:55:06",
-        "user": {
-            "id": "104448632954411726505-google",
-            "nickname": "белая плесень",
-            "booksCount": 10
         }
     }
 }
