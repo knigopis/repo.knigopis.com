@@ -1,4 +1,4 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>72</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>73</sup>
 ---
 
 ## 2019
@@ -10,6 +10,11 @@
 
 
 ## 2018
+
+### Солнечный удар
+Иван Бунин
+> [2018-10] Переспал с незнакомкой и жалел, что не знает кто она
+
 
 ### Господин из Сан Франциско
 Иван Бунин

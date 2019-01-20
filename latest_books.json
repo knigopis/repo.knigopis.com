@@ -1,4 +1,16 @@
 {
+    "bl0hf6-lR0": {
+        "id": "bl0hf6-lR0",
+        "title": "Солнечный удар",
+        "author": "Иван Бунин",
+        "notes": "Переспал с незнакомкой и жалел, что не знает кто она",
+        "createdAt": "2019-01-20 19:26:46",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 73
+        }
+    },
     "PcOP-CSPIh": {
         "id": "PcOP-CSPIh",
         "title": "Господин из Сан Франциско",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 56
-        }
-    },
-    "XmG8Ow4omW": {
-        "id": "XmG8Ow4omW",
-        "title": "Обломов",
-        "author": "Иван Гончаров",
-        "notes": "",
-        "createdAt": "2019-01-19 09:55:59",
-        "user": {
-            "id": "104448632954411726505-google",
-            "nickname": "белая плесень",
-            "booksCount": 11
         }
     }
 }

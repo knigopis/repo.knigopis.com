@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Солнечный удар ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>73</sup>
+    > Переспал с незнакомкой и жалел, что не знает кто она
+
 * Женское достоинство - сила притяжения мужчин ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>71</sup>
     > Девушка минус (которая привыкла делать всё сама, добивается мужчин), девушка минус (много комплексов, трясется за каждого), девушка плюс - самодостаточная, любит себя  больше, любит мир, рядом с ней мужчина растет)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Остросатирическая и злободневная. Электронная.
 
 * Назови меня своим именем ~ [anvonamore](users/595/5957175-vkontakte)<sup>121</sup>
-    > 6/10
 
 * Белый шарик матроса Вильсона ~ [Йолант](users/104/104690883692185089260-google)<sup>182</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Евгений Онегин ~ [Йолант](users/104/104690883692185089260-google)<sup>177</sup>
 
-* Движущиеся картинки ~ [Garka](users/115/115753719718250012620-google)<sup>207</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[miracolo_bella](users/180/180139283-vkontakte)<sup>72</sup> 
+[miracolo_bella](users/180/180139283-vkontakte)<sup>73</sup> 
 [kap122](users/887/88735301-yandex)<sup>0</sup> 
 [liufi](users/153/1535375-vkontakte)<sup>0</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 
 
-_20.01.2019 19:23:20_
+_20.01.2019 19:26:46_
