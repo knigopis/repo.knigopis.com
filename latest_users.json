@@ -1,15 +1,15 @@
 {
+    "382205963-vkontakte": {
+        "id": "382205963-vkontakte",
+        "nickname": null,
+        "booksCount": 4,
+        "updatedAt": "2019-01-20 09:26:46"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
         "booksCount": 75,
         "updatedAt": "2019-01-20 09:19:54"
-    },
-    "382205963-vkontakte": {
-        "id": "382205963-vkontakte",
-        "nickname": null,
-        "booksCount": 3,
-        "updatedAt": "2019-01-20 07:54:50"
     },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",

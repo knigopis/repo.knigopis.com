@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/382/382205963-vkontakte)<sup>4</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>75</sup> 
-[](users/382/382205963-vkontakte)<sup>3</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>3</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>121</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>8</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elizaveta](users/114/114605608330759253482-google)<sup>0</sup> 
 
 
-_20.01.2019 09:19:54_
+_20.01.2019 09:26:46_
