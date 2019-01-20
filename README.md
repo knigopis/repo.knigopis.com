@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[liufi](users/153/1535375-vkontakte)<sup>0</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>9</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>6</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>58</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 [](users/107/107812035853464076201-google)<sup>0</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>195</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>5</sup> 
 
 
-_20.01.2019 14:36:40_
+_20.01.2019 15:17:15_
