@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>5</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>6</sup>
 ---
 
 ## 2019
+
+### Будет больно. История врача, ушедшего из профессии на пике карьеры
+Адам Кей
+> [2019-01-20] 9/10 Остросатирическая и злободневная. Электронная.
+
 
 ### Пульт Ґвенді
 Стівен Кінг, Річард Чізман
