@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[miracolo_bella](users/180/180139283-vkontakte)<sup>73</sup> 
+[miracolo_bella](users/180/180139283-vkontakte)<sup>74</sup> 
 [kap122](users/887/88735301-yandex)<sup>0</sup> 
 [liufi](users/153/1535375-vkontakte)<sup>0</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 
 
-_20.01.2019 19:26:46_
+_20.01.2019 19:27:48_

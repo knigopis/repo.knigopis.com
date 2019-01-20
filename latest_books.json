@@ -1,4 +1,16 @@
 {
+    "0Xd3f0xKjK": {
+        "id": "0Xd3f0xKjK",
+        "title": "Черный обелиск",
+        "author": "Э.М.Ремарк",
+        "notes": "",
+        "createdAt": "2019-01-20 19:27:48",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 74
+        }
+    },
     "bl0hf6-lR0": {
         "id": "bl0hf6-lR0",
         "title": "Солнечный удар",
@@ -345,18 +357,6 @@
             "id": "101373950743550846629-google",
             "nickname": "Марихуанна",
             "booksCount": 1
-        }
-    },
-    "7E4lILH0_c": {
-        "id": "7E4lILH0_c",
-        "title": "📚 Игры демиургов",
-        "author": "Петр Бормор",
-        "notes": "",
-        "createdAt": "2019-01-19 12:38:24",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 56
         }
     }
 }

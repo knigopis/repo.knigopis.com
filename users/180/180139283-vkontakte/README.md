@@ -1,4 +1,4 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>73</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>74</sup>
 ---
 
 ## 2019
@@ -19,6 +19,11 @@
 ### Господин из Сан Франциско
 Иван Бунин
 > [2018-10] 
+
+
+### Черный обелиск
+Э.М.Ремарк
+> [2018-05] 
 
 
 
