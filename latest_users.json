@@ -1,4 +1,10 @@
 {
+    "382205963-vkontakte": {
+        "id": "382205963-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-01-20 07:50:48"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "Elizaveta",
         "booksCount": 0,
         "updatedAt": "2019-01-15 11:19:46"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 61,
-        "updatedAt": "2019-01-15 09:24:30"
     }
 }
