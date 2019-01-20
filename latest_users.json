@@ -1,4 +1,10 @@
 {
+    "7821585344375844810-mailru": {
+        "id": "7821585344375844810-mailru",
+        "nickname": "slaythorn",
+        "booksCount": 0,
+        "updatedAt": "2019-01-20 19:50:36"
+    },
     "180139283-vkontakte": {
         "id": "180139283-vkontakte",
         "nickname": "miracolo_bella",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 168,
         "updatedAt": "2019-01-16 13:59:59"
-    },
-    "201788999-vkontakte": {
-        "id": "201788999-vkontakte",
-        "nickname": "43dostaw",
-        "booksCount": 1,
-        "updatedAt": "2019-01-16 13:23:13"
     }
 }
