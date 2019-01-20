@@ -1,4 +1,10 @@
 {
+    "88735301-yandex": {
+        "id": "88735301-yandex",
+        "nickname": "kap122",
+        "booksCount": 0,
+        "updatedAt": "2019-01-20 18:58:05"
+    },
     "1535375-vkontakte": {
         "id": "1535375-vkontakte",
         "nickname": "liufi",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-01-16 11:12:46"
-    },
-    "973496-vkontakte": {
-        "id": "973496-vkontakte",
-        "nickname": "radeonx801",
-        "booksCount": 195,
-        "updatedAt": "2019-01-16 10:26:12"
     }
 }
