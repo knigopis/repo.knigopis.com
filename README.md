@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[slaythorn](users/782/7821585344375844810-mailru)<sup>0</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>74</sup> 
 [kap122](users/887/88735301-yandex)<sup>0</sup> 
 [liufi](users/153/1535375-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>91</sup> 
 [gafur](users/153/15368945740509170009-mailru)<sup>2</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>168</sup> 
-[43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 
 
-_20.01.2019 19:27:48_
+_20.01.2019 19:50:38_
