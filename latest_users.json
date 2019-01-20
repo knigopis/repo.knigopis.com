@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 57,
+        "updatedAt": "2019-01-20 13:47:05"
+    },
     "104289450206538776186-googleplus": {
         "id": "104289450206538776186-googleplus",
         "nickname": "Erdi",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 5,
         "updatedAt": "2019-01-15 21:14:30"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Lost in Frost",
-        "booksCount": 130,
-        "updatedAt": "2019-01-15 16:00:13"
     }
 }
