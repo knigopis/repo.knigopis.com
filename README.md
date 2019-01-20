@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Erdi](users/104/104289450206538776186-googleplus)<sup>25</sup> 
 [](users/382/382205963-vkontakte)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>75</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>3</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [radeonx801](users/973/973496-vkontakte)<sup>195</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>5</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>130</sup> 
-[Elizaveta](users/114/114605608330759253482-google)<sup>0</sup> 
 
 
-_20.01.2019 09:27:08_
+_20.01.2019 13:43:29_
