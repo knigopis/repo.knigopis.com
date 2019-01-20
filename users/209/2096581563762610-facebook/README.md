@@ -1,7 +1,11 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>1</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>2</sup>
 ---
 
 ## 2019
+
+Марк Леви. "Гениальность на заказ"
+> [2019-01-15] 
+
 
 ### Я не могу без тебя
 Гийом Мюссо

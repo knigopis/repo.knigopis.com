@@ -1,4 +1,16 @@
 {
+    "1ADw0ILalE": {
+        "id": "1ADw0ILalE",
+        "title": "",
+        "author": "Марк Леви. \"Гениальность на заказ\"",
+        "notes": "",
+        "createdAt": "2019-01-20 07:39:50",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 2
+        }
+    },
     "S_TKvjvfIs": {
         "id": "S_TKvjvfIs",
         "title": "Назови меня своим именем",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 148
-        }
-    },
-    "izLXFx5-lX": {
-        "id": "izLXFx5-lX",
-        "title": "Усомнившийся Макар",
-        "author": "Андрей Платонов",
-        "notes": "",
-        "createdAt": "2019-01-18 00:51:08",
-        "user": {
-            "id": "108944458841064852769-google",
-            "nickname": "Kira",
-            "booksCount": 5
         }
     }
 }

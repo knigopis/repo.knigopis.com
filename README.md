@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>2</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>121</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>8</sup> 
 [Леди Я](users/207/2079380078781646-facebook)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>130</sup> 
 [Elizaveta](users/114/114605608330759253482-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>61</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>190</sup> 
 
 
-_20.01.2019 00:39:27_
+_20.01.2019 07:39:50_
