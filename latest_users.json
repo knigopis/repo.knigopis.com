@@ -1,4 +1,10 @@
 {
+    "101313415532438839738-google": {
+        "id": "101313415532438839738-google",
+        "nickname": "PavelVasilyeu",
+        "booksCount": 0,
+        "updatedAt": "2019-01-21 09:03:59"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 91,
         "updatedAt": "2019-01-16 18:14:33"
-    },
-    "15368945740509170009-mailru": {
-        "id": "15368945740509170009-mailru",
-        "nickname": "gafur",
-        "booksCount": 2,
-        "updatedAt": "2019-01-16 18:03:50"
     }
 }
