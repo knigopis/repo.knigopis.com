@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* A Rumor of War: The Classic Vietnam Memoir ~ [exulted](users/100/100599204551896265722-google)<sup>94</sup>
 * Солнечный удар ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>73</sup>
 * Женское достоинство - сила притяжения мужчин ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>71</sup>
 * Будет больно. История врача, ушедшего из профессии на пике карьеры ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Степной волк ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
 * The Elder Scrolls V. Хроники ~ [EsterHani](users/305/30558181-vkontakte)<sup>167</sup>
 * Мотивация в стиле ЭКШН. Восторг заразителен ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>189</sup>
-* Весь сантехник в одной стопке (сборник) ~ [mtelkov](users/115/115651235597791470259-google)<sup>2</sup>
 
 
-_20.01.2019 19:26:46_
+_21.01.2019 09:21:08_

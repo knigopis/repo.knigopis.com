@@ -1,7 +1,13 @@
-# Список прочитанных книг пользователя exulted<sup>93</sup>
+# Список прочитанных книг пользователя exulted<sup>94</sup>
 ---
 
 ## 2019
+
+### A Rumor of War: The Classic Vietnam Memoir
+Philip Caputo
+> [2019-01-21] Amazon
+> ASIN: B0039PH70O
+
 
 ### Rise and Kill First: The Secret History of Israel's Targeted Assassinations
 Ronen Bergman

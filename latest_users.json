@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 94,
+        "updatedAt": "2019-01-21 09:21:08"
+    },
     "101313415532438839738-google": {
         "id": "101313415532438839738-google",
         "nickname": "PavelVasilyeu",
@@ -172,11 +178,5 @@
         "nickname": "Quaff",
         "booksCount": 23,
         "updatedAt": "2019-01-16 19:00:56"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 91,
-        "updatedAt": "2019-01-16 18:14:33"
     }
 }

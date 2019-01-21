@@ -1,4 +1,16 @@
 {
+    "94Muhy5Jiy": {
+        "id": "94Muhy5Jiy",
+        "title": "A Rumor of War: The Classic Vietnam Memoir",
+        "author": "Philip Caputo",
+        "notes": "Amazon\nASIN: B0039PH70O",
+        "createdAt": "2019-01-21 09:21:08",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 94
+        }
+    },
     "bl0hf6-lR0": {
         "id": "bl0hf6-lR0",
         "title": "Солнечный удар",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 189
-        }
-    },
-    "-5A5LQ5pO0": {
-        "id": "-5A5LQ5pO0",
-        "title": "Весь сантехник в одной стопке (сборник)",
-        "author": "Слава Сэ",
-        "notes": "Легкий жизнерадостный юмор. \"Сантехник\" состоит из небольших рассказов - легко читать, особенно удобно пока стоишь в очереди или едешь куда-нибудь.",
-        "createdAt": "2019-01-10 05:56:10",
-        "user": {
-            "id": "115651235597791470259-google",
-            "nickname": "mtelkov",
-            "booksCount": 2
         }
     }
 }
