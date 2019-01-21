@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>47</sup>
+# List of books read by inna.besprozvannykh<sup>48</sup>
 ---
 
 ## 2019
+
+### Искусство слышать стук сердца
+Ян-Филипп Зендкер
+> [2019-01-21] 
+
 
 ### 7 навыков высокоэффективных людей. Мощные инструменты развития личности
 Стивен Р. Кови

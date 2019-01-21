@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 48,
+        "updatedAt": "2019-01-21 07:16:10"
+    },
     "7821585344375844810-mailru": {
         "id": "7821585344375844810-mailru",
         "nickname": "slaythorn",
@@ -172,11 +178,5 @@
         "nickname": "gafur",
         "booksCount": 2,
         "updatedAt": "2019-01-16 18:03:50"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 168,
-        "updatedAt": "2019-01-16 13:59:59"
     }
 }
