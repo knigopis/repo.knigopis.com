@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 4,
+        "updatedAt": "2019-01-21 18:13:14"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -82,12 +88,6 @@
         "nickname": "le_brouillard",
         "booksCount": 75,
         "updatedAt": "2019-01-20 09:19:54"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 3,
-        "updatedAt": "2019-01-20 07:41:22"
     },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
