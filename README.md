@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Elder Scrolls V. Человек, мер и зверь ~ [EsterHani](users/305/30558181-vkontakte)<sup>169</sup>
+    > Книга 2
+
 * Преступление и наказание ~ [Йолант](users/104/104690883692185089260-google)<sup>183</sup>
     > Первое прочтение примерно в 2012.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-17-108028-0
 
 * A Rumor of War: The Classic Vietnam Memoir ~ [exulted](users/100/100599204551896265722-google)<sup>94</sup>
-    > Amazon
-    > ASIN: B0039PH70O
 
 * Солнечный удар ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>73</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Крик петуха ~ [Йолант](users/104/104690883692185089260-google)<sup>181</sup>
 
-* Застава на Якорном Поле ~ [Йолант](users/104/104690883692185089260-google)<sup>180</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>169</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>183</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>124</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [v.tolcheev](users/737/73732330-vkontakte)<sup>0</sup> 
 [Elena](users/244/244840862-vkontakte)<sup>0</sup> 
 [lenel'](users/307/30791168-vkontakte)<sup>12</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>23</sup> 
 
 
-_21.01.2019 19:03:53_
+_21.01.2019 20:18:27_

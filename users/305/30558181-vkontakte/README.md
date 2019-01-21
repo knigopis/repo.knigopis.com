@@ -1,7 +1,11 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>168</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>169</sup>
 ---
 
 ## 2019
+
+### The Elder Scrolls V. Человек, мер и зверь
+> [2019-01-21] Книга 2
+
 
 ### Контент, маркетинг и рок-н-ролл. Книга-муза для покорения клиентов в интернете
 Денис Каплунов
