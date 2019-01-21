@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>124</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>95</sup> 
 [PavelVasilyeu](users/101/101313415532438839738-google)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>48</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/176/176006446-yandex)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>182</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>72</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>123</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>207</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>148</sup> 
 [Kira](users/108/108944458841064852769-google)<sup>5</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>23</sup> 
 
 
-_21.01.2019 09:25:14_
+_21.01.2019 12:24:41_
