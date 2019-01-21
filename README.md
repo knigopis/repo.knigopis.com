@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>92</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>169</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>183</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Kira](users/108/108944458841064852769-google)<sup>5</sup> 
 [v.tolcheev](users/737/73732330-vkontakte)<sup>0</sup> 
 [Elena](users/244/244840862-vkontakte)<sup>0</sup> 
-[lenel'](users/307/30791168-vkontakte)<sup>12</sup> 
 
 
-_21.01.2019 20:18:27_
+_21.01.2019 20:23:37_
