@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 183,
+        "updatedAt": "2019-01-21 19:03:52"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -124,12 +130,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-01-19 09:41:15"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 182,
-        "updatedAt": "2019-01-18 22:22:41"
     },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",

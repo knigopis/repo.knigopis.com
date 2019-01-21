@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Преступление и наказание ~ [Йолант](users/104/104690883692185089260-google)<sup>183</sup>
+    > Первое прочтение примерно в 2012.
+
 * Маяк на Хийумаа ~ [exulted](users/100/100599204551896265722-google)<sup>95</sup>
     > ISBN: 978-5-17-108028-0
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > ASIN: B0039PH70O
 
 * Солнечный удар ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>73</sup>
-    > Переспал с незнакомкой и жалел, что не знает кто она
 
 * Женское достоинство - сила притяжения мужчин ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>71</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Застава на Якорном Поле ~ [Йолант](users/104/104690883692185089260-google)<sup>180</sup>
 
-* Гуси-гуси, га-га-га ~ [Йолант](users/104/104690883692185089260-google)<sup>179</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>183</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>124</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>95</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [VladLamp](users/108/108690635733644174817-google)<sup>0</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>11</sup> 
 [](users/176/176006446-yandex)<sup>0</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>182</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>72</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>207</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>148</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>23</sup> 
 
 
-_21.01.2019 18:13:14_
+_21.01.2019 19:03:53_

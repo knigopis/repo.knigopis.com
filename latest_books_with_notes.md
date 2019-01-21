@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Преступление и наказание ~ [Йолант](users/104/104690883692185089260-google)<sup>183</sup>
 * Маяк на Хийумаа ~ [exulted](users/100/100599204551896265722-google)<sup>95</sup>
 * A Rumor of War: The Classic Vietnam Memoir ~ [exulted](users/100/100599204551896265722-google)<sup>94</sup>
 * Солнечный удар ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>73</sup>
@@ -30,7 +31,6 @@
 * Мужлан и флейтисика ~ [Chiffi](users/105/105831994080785626680-google)<sup>89</sup>
 * Преступление доктора Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>88</sup>
 * Степной волк ~ [Apprentice ](users/528/52821952-vkontakte)<sup>101</sup>
-* The Elder Scrolls V. Хроники ~ [EsterHani](users/305/30558181-vkontakte)<sup>167</sup>
 
 
-_21.01.2019 09:25:14_
+_21.01.2019 19:03:53_
