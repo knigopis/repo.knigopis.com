@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>94</sup>
+# Список прочитанных книг пользователя exulted<sup>95</sup>
 ---
 
 ## 2019
@@ -12,6 +12,11 @@ Philip Caputo
 ### Rise and Kill First: The Secret History of Israel's Targeted Assassinations
 Ronen Bergman
 > [2019-01-06] ASIN: B01N7LQ2NR
+
+
+### Маяк на Хийумаа
+Юзефович Леонди
+> [2019-01-05] ISBN: 978-5-17-108028-0
 
 
 

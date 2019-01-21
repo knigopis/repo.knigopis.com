@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маяк на Хийумаа ~ [exulted](users/100/100599204551896265722-google)<sup>95</sup>
+    > ISBN: 978-5-17-108028-0
+
 * A Rumor of War: The Classic Vietnam Memoir ~ [exulted](users/100/100599204551896265722-google)<sup>94</sup>
     > Amazon
     > ASIN: B0039PH70O
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Переспал с незнакомкой и жалел, что не знает кто она
 
 * Женское достоинство - сила притяжения мужчин ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>71</sup>
-    > Девушка минус (которая привыкла делать всё сама, добивается мужчин), девушка минус (много комплексов, трясется за каждого), девушка плюс - самодостаточная, любит себя  больше, любит мир, рядом с ней мужчина растет)
 
 * Будет больно. История врача, ушедшего из профессии на пике карьеры ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>6</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Гуси-гуси, га-га-га ~ [Йолант](users/104/104690883692185089260-google)<sup>179</sup>
 
-* Выстрел с монитора ~ [Йолант](users/104/104690883692185089260-google)<sup>178</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>94</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>95</sup> 
 [PavelVasilyeu](users/101/101313415532438839738-google)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>48</sup> 
 [slaythorn](users/782/7821585344375844810-mailru)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>23</sup> 
 
 
-_21.01.2019 09:21:08_
+_21.01.2019 09:25:14_

@@ -1,4 +1,16 @@
 {
+    "ZZLDVr5vUm": {
+        "id": "ZZLDVr5vUm",
+        "title": "Маяк на Хийумаа",
+        "author": "Юзефович Леонди",
+        "notes": "ISBN: 978-5-17-108028-0",
+        "createdAt": "2019-01-21 09:25:14",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 95
+        }
+    },
     "94Muhy5Jiy": {
         "id": "94Muhy5Jiy",
         "title": "A Rumor of War: The Classic Vietnam Memoir",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 167
-        }
-    },
-    "Yxikrdacr-": {
-        "id": "Yxikrdacr-",
-        "title": "Мотивация в стиле ЭКШН. Восторг заразителен",
-        "author": "Клаус Кобьелл",
-        "notes": "Замечательная книжка. Отлично идёт, просто и доходчиво излагает.\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/7624573/",
-        "createdAt": "2019-01-10 14:40:30",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 189
         }
     }
 }
