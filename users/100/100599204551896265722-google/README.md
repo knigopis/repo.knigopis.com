@@ -9,14 +9,14 @@ Philip Caputo
 > ASIN: B0039PH70O
 
 
+### Маяк на Хийумаа
+Юзефович Леонди
+> [2019-01-12] ISBN: 978-5-17-108028-0
+
+
 ### Rise and Kill First: The Secret History of Israel's Targeted Assassinations
 Ronen Bergman
 > [2019-01-06] ASIN: B01N7LQ2NR
-
-
-### Маяк на Хийумаа
-Юзефович Леонди
-> [2019-01-05] ISBN: 978-5-17-108028-0
 
 
 
