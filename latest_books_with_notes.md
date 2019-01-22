@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тайные виды на гору Фудзи ~ [anvonamore](users/595/5957175-vkontakte)<sup>122</sup>
 * The Elder Scrolls V. Человек, мер и зверь ~ [EsterHani](users/305/30558181-vkontakte)<sup>169</sup>
 * Преступление и наказание ~ [Йолант](users/104/104690883692185089260-google)<sup>183</sup>
 * Маяк на Хийумаа ~ [exulted](users/100/100599204551896265722-google)<sup>95</sup>
@@ -30,7 +31,6 @@
 * Будда, мозг и нейрофизиология счастья ~ [youno](users/302/302928912-vkontakte)<sup>20</sup>
 * Хюгге или уютное счастье по-датски ~ [violet_velva](users/116/116961712580551399099-google)<sup>56</sup>
 * Мужлан и флейтисика ~ [Chiffi](users/105/105831994080785626680-google)<sup>89</sup>
-* Преступление доктора Паравозова ~ [Chiffi](users/105/105831994080785626680-google)<sup>88</sup>
 
 
-_21.01.2019 20:18:27_
+_22.01.2019 22:21:17_

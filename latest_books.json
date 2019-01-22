@@ -1,4 +1,16 @@
 {
+    "pHScTIUSlB": {
+        "id": "pHScTIUSlB",
+        "title": "Тайные виды на гору Фудзи",
+        "author": "Виктор Пелевин",
+        "notes": "6/10",
+        "createdAt": "2019-01-22 22:21:17",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 122
+        }
+    },
     "pidTWjGnuk": {
         "id": "pidTWjGnuk",
         "title": "Вакансия на должность жены",
@@ -345,18 +357,6 @@
             "id": "2079380078781646-facebook",
             "nickname": "Леди Я",
             "booksCount": 3
-        }
-    },
-    "RhhmsWqZD_": {
-        "id": "RhhmsWqZD_",
-        "title": "Академия магического права. Брюнетка в защите",
-        "author": "Академия магического права. Брюнетка в законе",
-        "notes": "",
-        "createdAt": "2019-01-19 14:37:57",
-        "user": {
-            "id": "2079380078781646-facebook",
-            "nickname": "Леди Я",
-            "booksCount": 2
         }
     }
 }

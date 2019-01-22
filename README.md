@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайные виды на гору Фудзи ~ [anvonamore](users/595/5957175-vkontakte)<sup>122</sup>
+    > 6/10
+
 * The Elder Scrolls V. Человек, мер и зверь ~ [EsterHani](users/305/30558181-vkontakte)<sup>169</sup>
     > Книга 2
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Первое прочтение примерно в 2012.
 
 * Маяк на Хийумаа ~ [exulted](users/100/100599204551896265722-google)<sup>95</sup>
-    > ISBN: 978-5-17-108028-0
 
 * A Rumor of War: The Classic Vietnam Memoir ~ [exulted](users/100/100599204551896265722-google)<sup>94</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Белый шарик матроса Вильсона ~ [Йолант](users/104/104690883692185089260-google)<sup>182</sup>
 
-* Крик петуха ~ [Йолант](users/104/104690883692185089260-google)<sup>181</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>122</sup> 
 [Парда](users/809/8093-vkontakte)<sup>0</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>10</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>92</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Erdi](users/104/104289450206538776186-googleplus)<sup>25</sup> 
 [](users/382/382205963-vkontakte)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>75</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>121</sup> 
 [Леди Я](users/207/2079380078781646-facebook)<sup>4</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>56</sup> 
 [VladLamp](users/108/108690635733644174817-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [v.tolcheev](users/737/73732330-vkontakte)<sup>0</sup> 
 
 
-_22.01.2019 20:17:38_
+_22.01.2019 22:21:17_
