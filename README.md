@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Парда](users/809/8093-vkontakte)<sup>0</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>10</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>92</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>169</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>148</sup> 
 [Kira](users/108/108944458841064852769-google)<sup>5</sup> 
 [v.tolcheev](users/737/73732330-vkontakte)<sup>0</sup> 
-[Elena](users/244/244840862-vkontakte)<sup>0</sup> 
 
 
-_22.01.2019 12:13:05_
+_22.01.2019 20:17:38_
