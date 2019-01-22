@@ -1,4 +1,10 @@
 {
+    "8093-vkontakte": {
+        "id": "8093-vkontakte",
+        "nickname": "Парда",
+        "booksCount": 0,
+        "updatedAt": "2019-01-22 20:17:32"
+    },
     "101373950743550846629-google": {
         "id": "101373950743550846629-google",
         "nickname": "Марихуанна",
@@ -172,11 +178,5 @@
         "nickname": "v.tolcheev",
         "booksCount": 0,
         "updatedAt": "2019-01-17 21:21:47"
-    },
-    "244840862-vkontakte": {
-        "id": "244840862-vkontakte",
-        "nickname": "Elena",
-        "booksCount": 0,
-        "updatedAt": "2019-01-17 11:49:11"
     }
 }
