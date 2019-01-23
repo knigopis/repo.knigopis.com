@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Маленька книга хюґе ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>7</sup>
 * Тайные виды на гору Фудзи ~ [anvonamore](users/595/5957175-vkontakte)<sup>122</sup>
 * The Elder Scrolls V. Человек, мер и зверь ~ [EsterHani](users/305/30558181-vkontakte)<sup>169</sup>
 * Преступление и наказание ~ [Йолант](users/104/104690883692185089260-google)<sup>183</sup>
@@ -30,7 +31,6 @@
 * Приморская академия,  или Ты просто пока не привык ~ [Chiffi](users/105/105831994080785626680-google)<sup>90</sup>
 * Будда, мозг и нейрофизиология счастья ~ [youno](users/302/302928912-vkontakte)<sup>20</sup>
 * Хюгге или уютное счастье по-датски ~ [violet_velva](users/116/116961712580551399099-google)<sup>56</sup>
-* Мужлан и флейтисика ~ [Chiffi](users/105/105831994080785626680-google)<sup>89</sup>
 
 
-_22.01.2019 22:21:17_
+_23.01.2019 14:35:10_

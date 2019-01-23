@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>6</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>7</sup>
 ---
 
 ## 2019
+
+### Маленька книга хюґе
+Мік Вікінг
+> [2019-01-23] 7/10 про те як бути щасливим по-данськи
+
 
 ### Будет больно. История врача, ушедшего из профессии на пике карьеры
 Адам Кей

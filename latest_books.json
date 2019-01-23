@@ -1,4 +1,16 @@
 {
+    "v9gK67bqEA": {
+        "id": "v9gK67bqEA",
+        "title": "Маленька книга хюґе",
+        "author": "Мік Вікінг",
+        "notes": "7/10 про те як бути щасливим по-данськи",
+        "createdAt": "2019-01-23 14:35:10",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 7
+        }
+    },
     "pHScTIUSlB": {
         "id": "pHScTIUSlB",
         "title": "Тайные виды на гору Фудзи",
@@ -345,18 +357,6 @@
             "id": "2079380078781646-facebook",
             "nickname": "Леди Я",
             "booksCount": 4
-        }
-    },
-    "KMUeoshOWU": {
-        "id": "KMUeoshOWU",
-        "title": "Академия магического права. Брюнетка в осаде",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2019-01-19 14:38:17",
-        "user": {
-            "id": "2079380078781646-facebook",
-            "nickname": "Леди Я",
-            "booksCount": 3
         }
     }
 }

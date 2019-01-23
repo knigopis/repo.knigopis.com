@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маленька книга хюґе ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>7</sup>
+    > 7/10 про те як бути щасливим по-данськи
+
 * Тайные виды на гору Фудзи ~ [anvonamore](users/595/5957175-vkontakte)<sup>122</sup>
     > 6/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 2
 
 * Преступление и наказание ~ [Йолант](users/104/104690883692185089260-google)<sup>183</sup>
-    > Первое прочтение примерно в 2012.
 
 * Маяк на Хийумаа ~ [exulted](users/100/100599204551896265722-google)<sup>95</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Назови меня своим именем ~ [anvonamore](users/595/5957175-vkontakte)<sup>121</sup>
 
-* Белый шарик матроса Вильсона ~ [Йолант](users/104/104690883692185089260-google)<sup>182</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>7</sup> 
 [shatenka](users/109/109239518638557679611-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>122</sup> 
 [Парда](users/809/8093-vkontakte)<sup>0</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [miracolo_bella](users/180/180139283-vkontakte)<sup>74</sup> 
 [kap122](users/887/88735301-yandex)<sup>0</sup> 
 [liufi](users/153/1535375-vkontakte)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>6</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>58</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>25</sup> 
 [](users/382/382205963-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Kira](users/108/108944458841064852769-google)<sup>5</sup> 
 
 
-_23.01.2019 10:52:33_
+_23.01.2019 14:35:10_
