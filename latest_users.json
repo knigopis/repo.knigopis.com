@@ -1,4 +1,10 @@
 {
+    "109239518638557679611-google": {
+        "id": "109239518638557679611-google",
+        "nickname": "shatenka",
+        "booksCount": 0,
+        "updatedAt": "2019-01-23 10:52:30"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -172,11 +178,5 @@
         "nickname": "Kira",
         "booksCount": 5,
         "updatedAt": "2019-01-18 00:51:08"
-    },
-    "73732330-vkontakte": {
-        "id": "73732330-vkontakte",
-        "nickname": "v.tolcheev",
-        "booksCount": 0,
-        "updatedAt": "2019-01-17 21:21:47"
     }
 }
