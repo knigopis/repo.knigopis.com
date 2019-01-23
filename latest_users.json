@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 6,
+        "updatedAt": "2019-01-23 18:19:11"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 148,
         "updatedAt": "2019-01-18 09:08:01"
-    },
-    "108944458841064852769-google": {
-        "id": "108944458841064852769-google",
-        "nickname": "Kira",
-        "booksCount": 5,
-        "updatedAt": "2019-01-18 00:51:08"
     }
 }

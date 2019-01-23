@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>6</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>7</sup> 
 [shatenka](users/109/109239518638557679611-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>122</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>72</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>207</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>148</sup> 
-[Kira](users/108/108944458841064852769-google)<sup>5</sup> 
 
 
-_23.01.2019 14:35:10_
+_23.01.2019 18:19:11_
