@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Victoria](users/113/113794223924688167852-google)<sup>38</sup> 
+[Victoria](users/113/113794223924688167852-google)<sup>39</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>6</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>7</sup> 
 [shatenka](users/109/109239518638557679611-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>207</sup> 
 
 
-_23.01.2019 19:13:06_
+_23.01.2019 19:15:32_

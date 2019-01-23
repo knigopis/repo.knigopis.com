@@ -1,4 +1,16 @@
 {
+    "hwagmOkKEs": {
+        "id": "hwagmOkKEs",
+        "title": "Детективы",
+        "author": "А. Кристи и Фергюс Хьюм",
+        "notes": "",
+        "createdAt": "2019-01-23 19:15:32",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 39
+        }
+    },
     "h2G7adgBQC": {
         "id": "h2G7adgBQC",
         "title": "Мешок с костями",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 74
-        }
-    },
-    "215WW1MBVW": {
-        "id": "215WW1MBVW",
-        "title": "\"мальчик у Христа на ёлке\"",
-        "author": "Ф.М. Достоевский",
-        "notes": "Отличное произведение , которое помогает понять автора .",
-        "createdAt": "2019-01-20 07:54:50",
-        "user": {
-            "id": "382205963-vkontakte",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }
