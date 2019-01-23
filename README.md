@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Будущее ~ [Victoria](users/113/113794223924688167852-google)<sup>35</sup>
+    > Книга о бессмертных людях, которые могли размножаться лишь ценой своей жизни. К родившим незаконно приходила группа людей в маске апполона, которые в детстве были такими же незаконнорожденными и в последствии воспитанные в заключении. Главный герой прошел путь от убийцы к герою, изменившему устои и уничтожившему бессмертие.
+
 * Маленька книга хюґе ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>7</sup>
     > 7/10 про те як бути щасливим по-данськи
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10
 
 * The Elder Scrolls V. Человек, мер и зверь ~ [EsterHani](users/305/30558181-vkontakte)<sup>169</sup>
-    > Книга 2
 
 * Преступление и наказание ~ [Йолант](users/104/104690883692185089260-google)<sup>183</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Будет больно. История врача, ушедшего из профессии на пике карьеры ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>6</sup>
 
-* Назови меня своим именем ~ [anvonamore](users/595/5957175-vkontakte)<sup>121</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoria](users/113/113794223924688167852-google)<sup>35</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>6</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>7</sup> 
 [shatenka](users/109/109239518638557679611-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/176/176006446-yandex)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>72</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>207</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>148</sup> 
 
 
-_23.01.2019 18:19:11_
+_23.01.2019 19:00:33_
