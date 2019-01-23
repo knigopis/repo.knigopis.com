@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Черновик ~ [Victoria](users/113/113794223924688167852-google)<sup>36</sup>
+    > О парне, открывающем двери в иные миры, о котором забыли родные, о любви, которую он потерял и о предавшем друге. Множество миров, созданных для опытов и поиска лучшего пути развития.
+
 * Будущее ~ [Victoria](users/113/113794223924688167852-google)<sup>35</sup>
     > Книга о бессмертных людях, которые могли размножаться лишь ценой своей жизни. К родившим незаконно приходила группа людей в маске апполона, которые в детстве были такими же незаконнорожденными и в последствии воспитанные в заключении. Главный герой прошел путь от убийцы к герою, изменившему устои и уничтожившему бессмертие.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 про те як бути щасливим по-данськи
 
 * Тайные виды на гору Фудзи ~ [anvonamore](users/595/5957175-vkontakte)<sup>122</sup>
-    > 6/10
 
 * The Elder Scrolls V. Человек, мер и зверь ~ [EsterHani](users/305/30558181-vkontakte)<sup>169</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Женское достоинство - сила притяжения мужчин ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>71</sup>
 
-* Будет больно. История врача, ушедшего из профессии на пике карьеры ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Victoria](users/113/113794223924688167852-google)<sup>35</sup> 
+[Victoria](users/113/113794223924688167852-google)<sup>36</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>6</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>7</sup> 
 [shatenka](users/109/109239518638557679611-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>207</sup> 
 
 
-_23.01.2019 19:00:33_
+_23.01.2019 19:09:37_
