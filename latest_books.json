@@ -1,4 +1,16 @@
 {
+    "kkCbqIEBH4": {
+        "id": "kkCbqIEBH4",
+        "title": "127 часов",
+        "author": "Арон Ралстон",
+        "notes": "",
+        "createdAt": "2019-01-24 06:49:32",
+        "user": {
+            "id": "30791168-vkontakte",
+            "nickname": "lenel'",
+            "booksCount": 14
+        }
+    },
     "WrFFY0lNyZ": {
         "id": "WrFFY0lNyZ",
         "title": "Мирный воин",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 57
-        }
-    },
-    "xgTR0KJGXb": {
-        "id": "xgTR0KJGXb",
-        "title": "Талантливый мистер Рипли",
-        "author": "Патриция Хайсмит",
-        "notes": "",
-        "createdAt": "2019-01-20 13:43:29",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": "Erdi",
-            "booksCount": 25
         }
     }
 }
