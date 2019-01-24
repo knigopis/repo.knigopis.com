@@ -1,4 +1,4 @@
-# List of books read by inna.besprozvannykh<sup>49</sup>
+# List of books read by inna.besprozvannykh<sup>50</sup>
 ---
 
 ## 2019
@@ -32,6 +32,11 @@
 ### Прощай, оружие!
 Эрнест Хемингуэй
 > [2018-12-12] 
+
+
+### Одиннадцать минут
+Пауло Коэльо
+> [2018-12] 
 
 
 ### Гарри потер и методы рационального мышления
