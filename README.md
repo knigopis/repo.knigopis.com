@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lenel'](users/307/30791168-vkontakte)<sup>13</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>50</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>39</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>6</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [белая плесень](users/104/104448632954411726505-google)<sup>11</sup> 
 [](users/176/176006446-yandex)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>72</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>207</sup> 
 
 
-_24.01.2019 05:50:37_
+_24.01.2019 06:48:36_
