@@ -1,4 +1,16 @@
 {
+    "VJ1HAz5pc9": {
+        "id": "VJ1HAz5pc9",
+        "title": "Сильнее смерти",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2019-01-24 05:20:47",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 49
+        }
+    },
     "hwagmOkKEs": {
         "id": "hwagmOkKEs",
         "title": "Детективы",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 75
-        }
-    },
-    "A3s9sTVZML": {
-        "id": "A3s9sTVZML",
-        "title": "Ледяное мнодце Северины",
-        "author": "Мария Воронова",
-        "notes": "",
-        "createdAt": "2019-01-20 08:40:34",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 74
         }
     }
 }

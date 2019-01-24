@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>48</sup>
+# List of books read by inna.besprozvannykh<sup>49</sup>
 ---
 
 ## 2019
+
+### Сильнее смерти
+Артур Конан Дойл
+> [2019-01-24] 
+
 
 ### Искусство слышать стук сердца
 Ян-Филипп Зендкер
