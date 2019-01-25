@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>208</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>170</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>149</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Леди Я](users/207/2079380078781646-facebook)<sup>4</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>56</sup> 
 [VladLamp](users/108/108690635733644174817-google)<sup>0</sup> 
-[белая плесень](users/104/104448632954411726505-google)<sup>11</sup> 
 
 
-_25.01.2019 18:00:19_
+_25.01.2019 19:26:33_

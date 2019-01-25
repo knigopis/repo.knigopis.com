@@ -1,4 +1,16 @@
 {
+    "VeOJJ_Jugc": {
+        "id": "VeOJJ_Jugc",
+        "title": "История Донского края",
+        "author": "МАЛЫХИН К.Г.",
+        "notes": "",
+        "createdAt": "2019-01-25 19:26:33",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 17
+        }
+    },
     "uL5DB-_amX": {
         "id": "uL5DB-_amX",
         "title": "Мрачный Жнец",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 71
-        }
-    },
-    "8k7Bbv2Liu": {
-        "id": "8k7Bbv2Liu",
-        "title": "Первому игроку приготовиться.",
-        "author": "Эрнест Клайн",
-        "notes": "И я вдруг понял, что впервые с тех пор, как себя помню, мне совершенно не хочется выйти в OASIS.",
-        "createdAt": "2019-01-20 14:36:40",
-        "user": {
-            "id": "101373950743550846629-google",
-            "nickname": "Марихуанна",
-            "booksCount": 9
         }
     }
 }
