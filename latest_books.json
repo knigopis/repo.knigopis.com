@@ -1,4 +1,16 @@
 {
+    "hMqIL3PrMN": {
+        "id": "hMqIL3PrMN",
+        "title": "Рассказы о Родине",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2019-01-25 11:34:50",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 170
+        }
+    },
     "ZFMaQkXGVw": {
         "id": "ZFMaQkXGVw",
         "title": "Лорна Дун",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 6
-        }
-    },
-    "evRSzoTtil": {
-        "id": "evRSzoTtil",
-        "title": "Ночной портье",
-        "author": "Ирвин Шоу",
-        "notes": "",
-        "createdAt": "2019-01-20 13:47:25",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 58
         }
     }
 }

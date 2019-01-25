@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>169</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>170</sup>
 ---
 
 ## 2019
+
+### Рассказы о Родине
+Дмитрий Глуховский
+> [2019-01-24] 
+
 
 ### The Elder Scrolls V. Человек, мер и зверь
 > [2019-01-21] Книга 2
