@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мрачный Жнец ~ [Garka](users/115/115753719718250012620-google)<sup>208</sup>
+    > Смерть стал смертным и отправился на покой. На ферму. Пшеницу косить. Результат - переизбыток жизненной силы в Плоском мире.
+
 * Мешок с костями ~ [Victoria](users/113/113794223924688167852-google)<sup>38</sup>
     > О писателе, потерявшем беременную жену и возможность писать. О Саре хохотушке и жителях деревни Тэ-Эр. О спасении маленькой Киры и Майка
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > О маньяке, похищающем девушек и делающим татуировки в виде крыльев бабочки своим пленницам. Ни одной возможности спастись и поджидающая смерть вслед за совершеннолетием.
 
 * Черновик ~ [Victoria](users/113/113794223924688167852-google)<sup>36</sup>
-    > О парне, открывающем двери в иные миры, о котором забыли родные, о любви, которую он потерял и о предавшем друге. Множество миров, созданных для опытов и поиска лучшего пути развития.
 
 * Будущее ~ [Victoria](users/113/113794223924688167852-google)<sup>35</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Маяк на Хийумаа ~ [exulted](users/100/100599204551896265722-google)<sup>95</sup>
 
-* A Rumor of War: The Classic Vietnam Memoir ~ [exulted](users/100/100599204551896265722-google)<sup>94</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>208</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>170</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>149</sup> 
 [lenel'](users/307/30791168-vkontakte)<sup>14</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>56</sup> 
 [VladLamp](users/108/108690635733644174817-google)<sup>0</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>11</sup> 
-[](users/176/176006446-yandex)<sup>0</sup> 
 
 
-_25.01.2019 11:34:50_
+_25.01.2019 18:00:19_
