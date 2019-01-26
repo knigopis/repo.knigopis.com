@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>5</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>8</sup> 
 [pletnushka](users/372/37291068-vkontakte)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Марихуанна](users/101/101373950743550846629-google)<sup>10</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>92</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>183</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>124</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>95</sup> 
 [PavelVasilyeu](users/101/101313415532438839738-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Леди Я](users/207/2079380078781646-facebook)<sup>4</sup> 
 
 
-_26.01.2019 09:51:37_
+_26.01.2019 13:52:44_
