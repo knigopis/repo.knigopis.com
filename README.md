@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[BigKhan](users/117/117259947-yandex)<sup>8</sup> 
 [pletnushka](users/372/37291068-vkontakte)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>208</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/382/382205963-vkontakte)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>75</sup> 
 [Леди Я](users/207/2079380078781646-facebook)<sup>4</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>56</sup> 
 
 
-_26.01.2019 07:57:21_
+_26.01.2019 09:51:37_

@@ -1,4 +1,10 @@
 {
+    "117259947-yandex": {
+        "id": "117259947-yandex",
+        "nickname": "BigKhan",
+        "booksCount": 8,
+        "updatedAt": "2019-01-26 09:51:37"
+    },
     "37291068-vkontakte": {
         "id": "37291068-vkontakte",
         "nickname": "pletnushka",
@@ -172,11 +178,5 @@
         "nickname": "Леди Я",
         "booksCount": 4,
         "updatedAt": "2019-01-19 14:38:41"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 56,
-        "updatedAt": "2019-01-19 12:38:24"
     }
 }
