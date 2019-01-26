@@ -1,4 +1,10 @@
 {
+    "108937613227591538382-google": {
+        "id": "108937613227591538382-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-01-26 16:14:28"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "le_brouillard",
         "booksCount": 75,
         "updatedAt": "2019-01-20 09:19:54"
-    },
-    "2079380078781646-facebook": {
-        "id": "2079380078781646-facebook",
-        "nickname": "Леди Я",
-        "booksCount": 4,
-        "updatedAt": "2019-01-19 14:38:41"
     }
 }
