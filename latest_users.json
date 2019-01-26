@@ -1,4 +1,10 @@
 {
+    "105858612625230154829-google": {
+        "id": "105858612625230154829-google",
+        "nickname": "Gretta",
+        "booksCount": 0,
+        "updatedAt": "2019-01-26 21:24:08"
+    },
     "244878889-vkontakte": {
         "id": "244878889-vkontakte",
         "nickname": "prototype901",
@@ -172,11 +178,5 @@
         "nickname": "liufi",
         "booksCount": 0,
         "updatedAt": "2019-01-20 15:17:12"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 58,
-        "updatedAt": "2019-01-20 13:47:25"
     }
 }
