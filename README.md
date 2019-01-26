@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия попаданцев. ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup>
+    > 10/10
+
 * Академия темных. Дыхание проклятого ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>82</sup>
     > 10/10
 
@@ -39,7 +42,6 @@ Do not use pull requests to make changes here.
     > 28. Шогготское особое, выдержанное - как эпилог всей книги.
 
 * Мрачный Жнец ~ [Garka](users/115/115753719718250012620-google)<sup>208</sup>
-    > Смерть стал смертным и отправился на покой. На ферму. Пшеницу косить. Результат - переизбыток жизненной силы в Плоском мире.
 
 * Мешок с костями ~ [Victoria](users/113/113794223924688167852-google)<sup>38</sup>
 
@@ -53,14 +55,12 @@ Do not use pull requests to make changes here.
 
 * Тайные виды на гору Фудзи ~ [anvonamore](users/595/5957175-vkontakte)<sup>122</sup>
 
-* The Elder Scrolls V. Человек, мер и зверь ~ [EsterHani](users/305/30558181-vkontakte)<sup>169</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Vikki❤️](users/178/17876169737876636605-mailru)<sup>82</sup> 
+[Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup> 
 [Gretta](users/105/105858612625230154829-google)<sup>1</sup> 
 [prototype901](users/244/244878889-vkontakte)<sup>1</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>131</sup> 
@@ -92,4 +92,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kap122](users/887/88735301-yandex)<sup>0</sup> 
 
 
-_26.01.2019 21:27:12_
+_26.01.2019 21:29:17_
