@@ -60,6 +60,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[prototype901](users/244/244878889-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>131</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>59</sup> 
 [](users/108/108937613227591538382-google)<sup>0</sup> 
@@ -89,7 +90,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kap122](users/887/88735301-yandex)<sup>0</sup> 
 [liufi](users/153/1535375-vkontakte)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>58</sup> 
-[Erdi](users/104/104289450206538776186-googleplus)<sup>25</sup> 
 
 
-_26.01.2019 18:03:03_
+_26.01.2019 18:16:49_
