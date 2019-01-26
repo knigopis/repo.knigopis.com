@@ -1,4 +1,10 @@
 {
+    "37291068-vkontakte": {
+        "id": "37291068-vkontakte",
+        "nickname": "pletnushka",
+        "booksCount": 0,
+        "updatedAt": "2019-01-26 07:57:16"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ",
         "booksCount": 56,
         "updatedAt": "2019-01-19 12:38:24"
-    },
-    "108690635733644174817-google": {
-        "id": "108690635733644174817-google",
-        "nickname": "VladLamp",
-        "booksCount": 0,
-        "updatedAt": "2019-01-19 10:19:46"
     }
 }
