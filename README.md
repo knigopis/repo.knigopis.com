@@ -60,7 +60,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[prototype901](users/244/244878889-vkontakte)<sup>0</sup> 
+[prototype901](users/244/244878889-vkontakte)<sup>1</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>131</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>59</sup> 
 [](users/108/108937613227591538382-google)<sup>0</sup> 
@@ -92,4 +92,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>58</sup> 
 
 
-_26.01.2019 18:16:49_
+_26.01.2019 18:17:53_
