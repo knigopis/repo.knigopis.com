@@ -60,7 +60,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Gretta](users/105/105858612625230154829-google)<sup>0</sup> 
+[Gretta](users/105/105858612625230154829-google)<sup>1</sup> 
 [prototype901](users/244/244878889-vkontakte)<sup>1</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>131</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>59</sup> 
@@ -92,4 +92,4 @@ _More notes [here](latest_books_with_notes.md)._
 [liufi](users/153/1535375-vkontakte)<sup>0</sup> 
 
 
-_26.01.2019 21:24:13_
+_26.01.2019 21:25:17_
