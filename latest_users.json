@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 59,
+        "updatedAt": "2019-01-26 17:41:27"
+    },
     "108937613227591538382-google": {
         "id": "108937613227591538382-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2019-01-20 09:27:08"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 75,
-        "updatedAt": "2019-01-20 09:19:54"
     }
 }

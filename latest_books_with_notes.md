@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Культ Ктулху ~ [sonics](users/588/5880221-vkontakte)<sup>59</sup>
 * Мрачный Жнец ~ [Garka](users/115/115753719718250012620-google)<sup>208</sup>
 * Мешок с костями ~ [Victoria](users/113/113794223924688167852-google)<sup>38</sup>
 * Сад бабочек ~ [Victoria](users/113/113794223924688167852-google)<sup>37</sup>
@@ -30,7 +31,6 @@
 * Пульт Ґвенді ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>5</sup>
 * Повість без назви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>4</sup>
 * Чорне сонце ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>3</sup>
-* 🔸️Дом странных детей - 2 ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>55</sup>
 
 
-_25.01.2019 18:00:19_
+_26.01.2019 17:41:27_
