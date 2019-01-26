@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>130</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>131</sup>
 ---
 
 ## 2019
+
+### Гордость и Предубеждение
+Джейн Остин
+> [2019-01-26] 
+
 
 ### Обитаемый Остров
 Аркадий и Борис Стругацкие

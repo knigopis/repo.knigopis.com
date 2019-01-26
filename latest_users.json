@@ -1,4 +1,10 @@
 {
+    "103293621948650602575-google": {
+        "id": "103293621948650602575-google",
+        "nickname": "Lost in Frost",
+        "booksCount": 131,
+        "updatedAt": "2019-01-26 18:03:03"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "Erdi",
         "booksCount": 25,
         "updatedAt": "2019-01-20 13:43:29"
-    },
-    "382205963-vkontakte": {
-        "id": "382205963-vkontakte",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2019-01-20 09:27:08"
     }
 }
