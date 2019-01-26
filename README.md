@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия темных. Дыхание проклятого ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>82</sup>
+    > 10/10
+
 * Культ Ктулху ~ [sonics](users/588/5880221-vkontakte)<sup>59</sup>
     > 1. Рок дома Дарейя - отличный  рассказ (кто же вампир, станет ясно лишь в конце)
     > 2. Седьмое заклинание - хорошее произведение, развязка порадовала
@@ -39,7 +42,6 @@ Do not use pull requests to make changes here.
     > Смерть стал смертным и отправился на покой. На ферму. Пшеницу косить. Результат - переизбыток жизненной силы в Плоском мире.
 
 * Мешок с костями ~ [Victoria](users/113/113794223924688167852-google)<sup>38</sup>
-    > О писателе, потерявшем беременную жену и возможность писать. О Саре хохотушке и жителях деревни Тэ-Эр. О спасении маленькой Киры и Майка
 
 * Сад бабочек ~ [Victoria](users/113/113794223924688167852-google)<sup>37</sup>
 
@@ -53,13 +55,12 @@ Do not use pull requests to make changes here.
 
 * The Elder Scrolls V. Человек, мер и зверь ~ [EsterHani](users/305/30558181-vkontakte)<sup>169</sup>
 
-* Преступление и наказание ~ [Йолант](users/104/104690883692185089260-google)<sup>183</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Vikki❤️](users/178/17876169737876636605-mailru)<sup>82</sup> 
 [Gretta](users/105/105858612625230154829-google)<sup>1</sup> 
 [prototype901](users/244/244878889-vkontakte)<sup>1</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>131</sup> 
@@ -89,7 +90,6 @@ _More notes [here](latest_books_with_notes.md)._
 [slaythorn](users/782/7821585344375844810-mailru)<sup>0</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>74</sup> 
 [kap122](users/887/88735301-yandex)<sup>0</sup> 
-[liufi](users/153/1535375-vkontakte)<sup>0</sup> 
 
 
-_26.01.2019 21:25:17_
+_26.01.2019 21:27:12_

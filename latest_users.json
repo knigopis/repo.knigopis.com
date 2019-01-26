@@ -1,4 +1,10 @@
 {
+    "17876169737876636605-mailru": {
+        "id": "17876169737876636605-mailru",
+        "nickname": "Vikki❤️",
+        "booksCount": 82,
+        "updatedAt": "2019-01-26 21:27:12"
+    },
     "105858612625230154829-google": {
         "id": "105858612625230154829-google",
         "nickname": "Gretta",
@@ -172,11 +178,5 @@
         "nickname": "kap122",
         "booksCount": 0,
         "updatedAt": "2019-01-20 18:58:05"
-    },
-    "1535375-vkontakte": {
-        "id": "1535375-vkontakte",
-        "nickname": "liufi",
-        "booksCount": 0,
-        "updatedAt": "2019-01-20 15:17:12"
     }
 }

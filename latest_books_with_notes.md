@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Академия темных. Дыхание проклятого ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>82</sup>
 * Культ Ктулху ~ [sonics](users/588/5880221-vkontakte)<sup>59</sup>
 * Мрачный Жнец ~ [Garka](users/115/115753719718250012620-google)<sup>208</sup>
 * Мешок с костями ~ [Victoria](users/113/113794223924688167852-google)<sup>38</sup>
@@ -30,7 +31,6 @@
 * Эльфы и девочка 1 Мы - светлые эльфы ~ [Chiffi](users/105/105831994080785626680-google)<sup>91</sup>
 * Пульт Ґвенді ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>5</sup>
 * Повість без назви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>4</sup>
-* Чорне сонце ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>3</sup>
 
 
-_26.01.2019 17:41:27_
+_26.01.2019 21:27:12_
