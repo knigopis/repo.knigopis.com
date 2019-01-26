@@ -60,6 +60,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Gretta](users/105/105858612625230154829-google)<sup>0</sup> 
 [prototype901](users/244/244878889-vkontakte)<sup>1</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>131</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>59</sup> 
@@ -89,7 +90,6 @@ _More notes [here](latest_books_with_notes.md)._
 [miracolo_bella](users/180/180139283-vkontakte)<sup>74</sup> 
 [kap122](users/887/88735301-yandex)<sup>0</sup> 
 [liufi](users/153/1535375-vkontakte)<sup>0</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>58</sup> 
 
 
-_26.01.2019 18:17:53_
+_26.01.2019 21:24:13_
