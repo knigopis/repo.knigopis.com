@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>92</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>93</sup>
 ---
 
 ## 2019
+
+### Русские сказки
+Злотников Роман
+> [2019-01-27] 
+
 
 ### Эльфы и девочка 1 Мы - светлые эльфы
 Журавлев Владимир
