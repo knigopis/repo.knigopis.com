@@ -1,4 +1,16 @@
 {
+    "uRUZX34WGf": {
+        "id": "uRUZX34WGf",
+        "title": "Дворянское гнездо",
+        "author": "Тургенев Иван Сергееевич",
+        "notes": "ISBN: 5-08-004062-9",
+        "createdAt": "2019-01-27 14:13:21",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 96
+        }
+    },
     "drrnQP3oY7": {
         "id": "drrnQP3oY7",
         "title": "Астор-Холт",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 92
-        }
-    },
-    "ZeD_AXxgLK": {
-        "id": "ZeD_AXxgLK",
-        "title": "The Elder Scrolls V. Человек, мер и зверь",
-        "author": "",
-        "notes": "Книга 2",
-        "createdAt": "2019-01-21 20:18:27",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 169
         }
     }
 }
