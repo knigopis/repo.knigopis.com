@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>57</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>96</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>12</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>93</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [PavelVasilyeu](users/101/101313415532438839738-google)<sup>1</sup> 
 [slaythorn](users/782/7821585344375844810-mailru)<sup>0</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>74</sup> 
-[kap122](users/887/88735301-yandex)<sup>0</sup> 
 
 
-_27.01.2019 14:13:21_
+_27.01.2019 14:33:06_

@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>56</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>57</sup>
 ---
 
 ## 2019
+
+### 🔸️Дом странных детей - 3
+Ренсом Риггз
+> [2019-01-27] 
+
 
 ### 📚 Игры демиургов
 Петр Бормор

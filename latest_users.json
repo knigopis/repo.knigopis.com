@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 57,
+        "updatedAt": "2019-01-27 14:33:06"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "miracolo_bella",
         "booksCount": 74,
         "updatedAt": "2019-01-20 19:27:48"
-    },
-    "88735301-yandex": {
-        "id": "88735301-yandex",
-        "nickname": "kap122",
-        "booksCount": 0,
-        "updatedAt": "2019-01-20 18:58:05"
     }
 }
