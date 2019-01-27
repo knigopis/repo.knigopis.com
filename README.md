@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[jtkirk](users/112/112636450076527802736-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>102</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>57</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>96</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>183</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>124</sup> 
 [PavelVasilyeu](users/101/101313415532438839738-google)<sup>1</sup> 
-[slaythorn](users/782/7821585344375844810-mailru)<sup>0</sup> 
 
 
-_27.01.2019 16:17:58_
+_27.01.2019 20:03:16_
