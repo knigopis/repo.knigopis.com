@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убийства под монограммой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>102</sup>
+    > 7/10
+
 * Дворянское гнездо ~ [exulted](users/100/100599204551896265722-google)<sup>96</sup>
     > ISBN: 5-08-004062-9
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Просто офигенно, советую😍
 
 * Академия попаданцев. ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup>
-    > 10/10
 
 * Академия темных. Дыхание проклятого ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>82</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Черновик ~ [Victoria](users/113/113794223924688167852-google)<sup>36</sup>
 
-* Будущее ~ [Victoria](users/113/113794223924688167852-google)<sup>35</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>102</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>57</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>96</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>12</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>124</sup> 
 [PavelVasilyeu](users/101/101313415532438839738-google)<sup>1</sup> 
 [slaythorn](users/782/7821585344375844810-mailru)<sup>0</sup> 
-[miracolo_bella](users/180/180139283-vkontakte)<sup>74</sup> 
 
 
-_27.01.2019 14:33:06_
+_27.01.2019 16:17:58_

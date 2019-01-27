@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>101</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>102</sup>
 ---
 
 ## 2019
+
+### Убийства под монограммой
+Софи Ханна
+> [2019-01-27] 7/10
+
 
 ### Степной волк
 Герман Гессе

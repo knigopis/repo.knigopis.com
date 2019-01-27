@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 102,
+        "updatedAt": "2019-01-27 16:17:58"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "slaythorn",
         "booksCount": 0,
         "updatedAt": "2019-01-20 19:50:36"
-    },
-    "180139283-vkontakte": {
-        "id": "180139283-vkontakte",
-        "nickname": "miracolo_bella",
-        "booksCount": 74,
-        "updatedAt": "2019-01-20 19:27:48"
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Убийства под монограммой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>102</sup>
 * Дворянское гнездо ~ [exulted](users/100/100599204551896265722-google)<sup>96</sup>
 * Астор-Холт ~ [Марихуанна](users/101/101373950743550846629-google)<sup>12</sup>
 * Академия попаданцев. ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup>
@@ -30,7 +31,6 @@
 * Движущиеся картинки ~ [Garka](users/115/115753719718250012620-google)<sup>207</sup>
 * Унесенные ветром ~ [anvonamore](users/595/5957175-vkontakte)<sup>120</sup>
 * Собачье сердце ~ [Йолант](users/104/104690883692185089260-google)<sup>176</sup>
-* Мешок с костями ~ [Quaff](users/122/12267158-vkontakte)<sup>23</sup>
 
 
-_27.01.2019 14:13:21_
+_27.01.2019 16:17:58_
