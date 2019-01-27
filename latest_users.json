@@ -1,4 +1,10 @@
 {
+    "112636450076527802736-google": {
+        "id": "112636450076527802736-google",
+        "nickname": "jtkirk",
+        "booksCount": 0,
+        "updatedAt": "2019-01-27 20:03:13"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "PavelVasilyeu",
         "booksCount": 1,
         "updatedAt": "2019-01-21 09:08:45"
-    },
-    "7821585344375844810-mailru": {
-        "id": "7821585344375844810-mailru",
-        "nickname": "slaythorn",
-        "booksCount": 0,
-        "updatedAt": "2019-01-20 19:50:36"
     }
 }
