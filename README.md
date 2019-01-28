@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Швейцарец ~ [Chiffi](users/105/105831994080785626680-google)<sup>94</sup>
+    > попаданцы, альтернативная история. достаточно не плохо
+
 * Убийства под монограммой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>102</sup>
     > 7/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ISBN: 5-08-004062-9
 
 * Астор-Холт ~ [Марихуанна](users/101/101373950743550846629-google)<sup>12</sup>
-    > Просто офигенно, советую😍
 
 * Академия попаданцев. ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Сад бабочек ~ [Victoria](users/113/113794223924688167852-google)<sup>37</sup>
 
-* Черновик ~ [Victoria](users/113/113794223924688167852-google)<sup>36</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>94</sup> 
 [jtkirk](users/112/112636450076527802736-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>102</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>57</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>96</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>12</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>93</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup> 
 [Gretta](users/105/105858612625230154829-google)<sup>1</sup> 
 [prototype901](users/244/244878889-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [PavelVasilyeu](users/101/101313415532438839738-google)<sup>1</sup> 
 
 
-_27.01.2019 20:03:16_
+_28.01.2019 05:33:56_
