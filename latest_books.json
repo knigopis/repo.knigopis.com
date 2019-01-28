@@ -1,4 +1,16 @@
 {
+    "TvlYwxXcbZ": {
+        "id": "TvlYwxXcbZ",
+        "title": "Рождественская песнь в прозе",
+        "author": "Чарльз Диккенс",
+        "notes": "",
+        "createdAt": "2019-01-28 12:45:35",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 150
+        }
+    },
     "7otA6jWYaP": {
         "id": "7otA6jWYaP",
         "title": "Швейцарец",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 6
-        }
-    },
-    "v9gK67bqEA": {
-        "id": "v9gK67bqEA",
-        "title": "Маленька книга хюґе",
-        "author": "Мік Вікінг",
-        "notes": "7/10 про те як бути щасливим по-данськи",
-        "createdAt": "2019-01-23 14:35:10",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 7
         }
     }
 }
