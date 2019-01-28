@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Путеводитель по японскому этикету. Полезная информация для иностранцев о правилах поведения в Японии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/141417758/
+
 * Швейцарец ~ [Chiffi](users/105/105831994080785626680-google)<sup>94</sup>
     > попаданцы, альтернативная история. достаточно не плохо
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Дворянское гнездо ~ [exulted](users/100/100599204551896265722-google)<sup>96</sup>
-    > ISBN: 5-08-004062-9
 
 * Астор-Холт ~ [Марихуанна](users/101/101373950743550846629-google)<sup>12</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Мешок с костями ~ [Victoria](users/113/113794223924688167852-google)<sup>38</sup>
 
-* Сад бабочек ~ [Victoria](users/113/113794223924688167852-google)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>150</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>94</sup> 
 [jtkirk](users/112/112636450076527802736-google)<sup>0</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Парда](users/809/8093-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>183</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>124</sup> 
-[PavelVasilyeu](users/101/101313415532438839738-google)<sup>1</sup> 
 
 
-_28.01.2019 12:45:35_
+_28.01.2019 20:31:25_

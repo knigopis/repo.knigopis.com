@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 191,
+        "updatedAt": "2019-01-28 20:31:25"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 124,
         "updatedAt": "2019-01-21 12:24:41"
-    },
-    "101313415532438839738-google": {
-        "id": "101313415532438839738-google",
-        "nickname": "PavelVasilyeu",
-        "booksCount": 1,
-        "updatedAt": "2019-01-21 09:08:45"
     }
 }
