@@ -1,4 +1,10 @@
 {
+    "176805114-yandex": {
+        "id": "176805114-yandex",
+        "nickname": "fir137",
+        "booksCount": 22,
+        "updatedAt": "2019-01-29 13:16:09"
+    },
     "114316860979252698168-google": {
         "id": "114316860979252698168-google",
         "nickname": "KiraRik",
@@ -172,11 +178,5 @@
         "nickname": "Парда",
         "booksCount": 0,
         "updatedAt": "2019-01-22 20:17:32"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 183,
-        "updatedAt": "2019-01-21 19:03:52"
     }
 }

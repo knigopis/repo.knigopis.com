@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тринадцать загадочных случаев (сборник) ~ [fir137](users/176/176805114-yandex)<sup>22</sup>
+    > Четвертый и лучший сборник рассказов.
+
 * Путеводитель по японскому этикету. Полезная информация для иностранцев о правилах поведения в Японии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup>
     > в процессе
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > попаданцы, альтернативная история. достаточно не плохо
 
 * Убийства под монограммой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>102</sup>
-    > 7/10
 
 * Дворянское гнездо ~ [exulted](users/100/100599204551896265722-google)<sup>96</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Мрачный Жнец ~ [Garka](users/115/115753719718250012620-google)<sup>208</sup>
 
-* Мешок с костями ~ [Victoria](users/113/113794223924688167852-google)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>22</sup> 
 [KiraRik](users/114/114316860979252698168-google)<sup>1</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>11</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>151</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shatenka](users/109/109239518638557679611-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>122</sup> 
 [Парда](users/809/8093-vkontakte)<sup>0</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>183</sup> 
 
 
-_29.01.2019 11:47:37_
+_29.01.2019 13:16:10_
