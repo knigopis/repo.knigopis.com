@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/114/114316860979252698168-google)<sup>0</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>11</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>151</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>122</sup> 
 [Парда](users/809/8093-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>183</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>124</sup> 
 
 
-_29.01.2019 09:05:21_
+_29.01.2019 11:46:05_
