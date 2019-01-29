@@ -1,4 +1,16 @@
 {
+    "fSbEEX0kil": {
+        "id": "fSbEEX0kil",
+        "title": "Af",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-01-29 20:09:52",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 7
+        }
+    },
     "bd_bbwZlhk": {
         "id": "bd_bbwZlhk",
         "title": "Подсознание может все!",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 208
-        }
-    },
-    "hMqIL3PrMN": {
-        "id": "hMqIL3PrMN",
-        "title": "Рассказы о Родине",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2019-01-25 11:34:50",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 170
         }
     }
 }
