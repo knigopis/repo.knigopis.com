@@ -1,4 +1,16 @@
 {
+    "1v-qYtE5C4": {
+        "id": "1v-qYtE5C4",
+        "title": "Вино из одуванчиков",
+        "author": "Рей Бредбери",
+        "notes": "",
+        "createdAt": "2019-01-29 17:01:54",
+        "user": {
+            "id": "99235108-yandex",
+            "nickname": "marino4kasweet",
+            "booksCount": 1
+        }
+    },
     "pwnT3iPYrT": {
         "id": "pwnT3iPYrT",
         "title": "Тринадцать загадочных случаев (сборник)",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 49
-        }
-    },
-    "hwagmOkKEs": {
-        "id": "hwagmOkKEs",
-        "title": "Детективы",
-        "author": "А. Кристи и Фергюс Хьюм",
-        "notes": "",
-        "createdAt": "2019-01-23 19:15:32",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 39
         }
     }
 }
