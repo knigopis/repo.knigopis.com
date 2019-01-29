@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[marino4kasweet](users/992/99235108-yandex)<sup>0</sup> 
 [fir137](users/176/176805114-yandex)<sup>22</sup> 
 [KiraRik](users/114/114316860979252698168-google)<sup>1</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>11</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>7</sup> 
 [shatenka](users/109/109239518638557679611-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>122</sup> 
-[Парда](users/809/8093-vkontakte)<sup>0</sup> 
 
 
-_29.01.2019 13:16:10_
+_29.01.2019 17:00:28_
