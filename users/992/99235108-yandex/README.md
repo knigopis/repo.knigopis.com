@@ -1,5 +1,13 @@
-# List of books read by marino4kasweet<sup>2</sup>
+# List of books read by marino4kasweet<sup>3</sup>
 ---
+
+## 2019
+
+### Странная девочка, которая влюбилась в мозг
+Венди Сузуки
+> [2019-01] 
+
+
 
 ## 2018
 

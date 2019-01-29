@@ -1,4 +1,16 @@
 {
+    "15A8z6Y_ca": {
+        "id": "15A8z6Y_ca",
+        "title": "Странная девочка, которая влюбилась в мозг",
+        "author": "Венди Сузуки",
+        "notes": "",
+        "createdAt": "2019-01-29 17:04:47",
+        "user": {
+            "id": "99235108-yandex",
+            "nickname": "marino4kasweet",
+            "booksCount": 3
+        }
+    },
     "981CV5BIhv": {
         "id": "981CV5BIhv",
         "title": "Вскрытие покажет. Записки увлеченного судмедэкперта",
@@ -345,18 +357,6 @@
             "id": "30791168-vkontakte",
             "nickname": "lenel'",
             "booksCount": 13
-        }
-    },
-    "YgVFV0F5uX": {
-        "id": "YgVFV0F5uX",
-        "title": "Одиннадцать минут",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2019-01-24 05:50:37",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 50
         }
     }
 }
