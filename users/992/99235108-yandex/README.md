@@ -1,7 +1,12 @@
-# List of books read by marino4kasweet<sup>3</sup>
+# List of books read by marino4kasweet<sup>4</sup>
 ---
 
 ## 2019
+
+### Богатый папа, бедный папа
+Роберт Кийосаки
+> [2019-01] 
+
 
 ### Странная девочка, которая влюбилась в мозг
 Венди Сузуки

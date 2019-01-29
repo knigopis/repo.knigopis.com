@@ -1,4 +1,16 @@
 {
+    "CZDJEVhfs_": {
+        "id": "CZDJEVhfs_",
+        "title": "Богатый папа, бедный папа",
+        "author": "Роберт Кийосаки",
+        "notes": "",
+        "createdAt": "2019-01-29 17:05:22",
+        "user": {
+            "id": "99235108-yandex",
+            "nickname": "marino4kasweet",
+            "booksCount": 4
+        }
+    },
     "15A8z6Y_ca": {
         "id": "15A8z6Y_ca",
         "title": "Странная девочка, которая влюбилась в мозг",
@@ -345,18 +357,6 @@
             "id": "30791168-vkontakte",
             "nickname": "lenel'",
             "booksCount": 14
-        }
-    },
-    "WrFFY0lNyZ": {
-        "id": "WrFFY0lNyZ",
-        "title": "Мирный воин",
-        "author": "Дэн Миллмэн",
-        "notes": "",
-        "createdAt": "2019-01-24 06:48:36",
-        "user": {
-            "id": "30791168-vkontakte",
-            "nickname": "lenel'",
-            "booksCount": 13
         }
     }
 }
