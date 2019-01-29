@@ -35,8 +35,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>151</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>150</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>94</sup> 
 [jtkirk](users/112/112636450076527802736-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>102</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>124</sup> 
 
 
-_28.01.2019 20:31:25_
+_29.01.2019 07:48:14_
