@@ -1,4 +1,10 @@
 {
+    "156791576-vkontakte": {
+        "id": "156791576-vkontakte",
+        "nickname": "alehandra_voitehovskaya",
+        "booksCount": 0,
+        "updatedAt": "2019-01-29 19:36:47"
+    },
     "99235108-yandex": {
         "id": "99235108-yandex",
         "nickname": "marino4kasweet",
@@ -172,11 +178,5 @@
         "nickname": "shatenka",
         "booksCount": 0,
         "updatedAt": "2019-01-23 10:52:30"
-    },
-    "5957175-vkontakte": {
-        "id": "5957175-vkontakte",
-        "nickname": "anvonamore",
-        "booksCount": 122,
-        "updatedAt": "2019-01-22 22:21:17"
     }
 }
