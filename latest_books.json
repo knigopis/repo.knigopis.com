@@ -1,4 +1,16 @@
 {
+    "bd_bbwZlhk": {
+        "id": "bd_bbwZlhk",
+        "title": "Подсознание может все!",
+        "author": "Джон Кехо",
+        "notes": "",
+        "createdAt": "2019-01-29 17:06:39",
+        "user": {
+            "id": "99235108-yandex",
+            "nickname": "marino4kasweet",
+            "booksCount": 6
+        }
+    },
     "KjmZcPBlci": {
         "id": "KjmZcPBlci",
         "title": "Как перестать беспокоиться и начать жить",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 170
-        }
-    },
-    "ZFMaQkXGVw": {
-        "id": "ZFMaQkXGVw",
-        "title": "Лорна Дун",
-        "author": "Ричард Блэкмор",
-        "notes": "",
-        "createdAt": "2019-01-25 09:25:55",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 149
         }
     }
 }
