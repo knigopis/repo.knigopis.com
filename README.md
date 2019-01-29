@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[4apa](users/117/117392596378069249667-google)<sup>6</sup> 
+[4apa](users/117/117392596378069249667-google)<sup>7</sup> 
 [alehandra_voitehovskaya](users/156/156791576-vkontakte)<sup>0</sup> 
 [marino4kasweet](users/992/99235108-yandex)<sup>6</sup> 
 [fir137](users/176/176805114-yandex)<sup>22</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shatenka](users/109/109239518638557679611-google)<sup>0</sup> 
 
 
-_29.01.2019 20:10:05_
+_29.01.2019 20:10:59_
