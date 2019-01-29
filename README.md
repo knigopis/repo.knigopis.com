@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alehandra_voitehovskaya](users/156/156791576-vkontakte)<sup>0</sup> 
 [marino4kasweet](users/992/99235108-yandex)<sup>6</sup> 
 [fir137](users/176/176805114-yandex)<sup>22</sup> 
 [KiraRik](users/114/114316860979252698168-google)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>6</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>7</sup> 
 [shatenka](users/109/109239518638557679611-google)<sup>0</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>122</sup> 
 
 
-_29.01.2019 17:06:39_
+_29.01.2019 19:36:49_
