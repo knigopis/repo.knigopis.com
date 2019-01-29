@@ -1,4 +1,10 @@
 {
+    "99235108-yandex": {
+        "id": "99235108-yandex",
+        "nickname": "marino4kasweet",
+        "booksCount": 0,
+        "updatedAt": "2019-01-29 17:00:26"
+    },
     "176805114-yandex": {
         "id": "176805114-yandex",
         "nickname": "fir137",
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 122,
         "updatedAt": "2019-01-22 22:21:17"
-    },
-    "8093-vkontakte": {
-        "id": "8093-vkontakte",
-        "nickname": "Парда",
-        "booksCount": 0,
-        "updatedAt": "2019-01-22 20:17:32"
     }
 }
