@@ -1,4 +1,16 @@
 {
+    "981CV5BIhv": {
+        "id": "981CV5BIhv",
+        "title": "Вскрытие покажет. Записки увлеченного судмедэкперта",
+        "author": "Алексей Решетун",
+        "notes": "",
+        "createdAt": "2019-01-29 17:03:57",
+        "user": {
+            "id": "99235108-yandex",
+            "nickname": "marino4kasweet",
+            "booksCount": 2
+        }
+    },
     "1v-qYtE5C4": {
         "id": "1v-qYtE5C4",
         "title": "Вино из одуванчиков",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 50
-        }
-    },
-    "VJ1HAz5pc9": {
-        "id": "VJ1HAz5pc9",
-        "title": "Сильнее смерти",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2019-01-24 05:20:47",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 49
         }
     }
 }

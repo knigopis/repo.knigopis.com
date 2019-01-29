@@ -1,7 +1,12 @@
-# List of books read by marino4kasweet<sup>1</sup>
+# List of books read by marino4kasweet<sup>2</sup>
 ---
 
 ## 2018
+
+### Вскрытие покажет. Записки увлеченного судмедэкперта
+Алексей Решетун
+> [2018-11] 
+
 
 ### Вино из одуванчиков
 Рей Бредбери
