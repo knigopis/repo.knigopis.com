@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пикник на обочине ~ [Garka](users/115/115753719718250012620-google)<sup>209</sup>
+    > Отличная книга.
+
 * Тринадцать загадочных случаев (сборник) ~ [fir137](users/176/176805114-yandex)<sup>22</sup>
     > Четвертый и лучший сборник рассказов.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/141417758/
 
 * Швейцарец ~ [Chiffi](users/105/105831994080785626680-google)<sup>94</sup>
-    > попаданцы, альтернативная история. достаточно не плохо
 
 * Убийства под монограммой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>102</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Культ Ктулху ~ [sonics](users/588/5880221-vkontakte)<sup>59</sup>
 
-* Мрачный Жнец ~ [Garka](users/115/115753719718250012620-google)<sup>208</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>209</sup> 
 [really_real](users/458/4583296-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>51</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>7</sup> 
@@ -60,11 +61,10 @@ _More notes [here](latest_books_with_notes.md)._
 [BigKhan](users/117/117259947-yandex)<sup>8</sup> 
 [pletnushka](users/372/37291068-vkontakte)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>208</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>170</sup> 
 [lenel'](users/307/30791168-vkontakte)<sup>14</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>39</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>7</sup> 
 
 
-_30.01.2019 13:34:41_
+_30.01.2019 16:51:07_

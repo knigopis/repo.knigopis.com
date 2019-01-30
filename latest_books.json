@@ -1,4 +1,16 @@
 {
+    "IuYFZ4Apxt": {
+        "id": "IuYFZ4Apxt",
+        "title": "Пикник на обочине",
+        "author": "Стругацкие Братья",
+        "notes": "Отличная книга.",
+        "createdAt": "2019-01-30 16:51:07",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 209
+        }
+    },
     "iOLUKft3L1": {
         "id": "iOLUKft3L1",
         "title": "Океан Мудрости. Руководство для жизни",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 5
-        }
-    },
-    "F0XU8RvTzk": {
-        "id": "F0XU8RvTzk",
-        "title": "Мастер и Маргарита",
-        "author": "Булгаков",
-        "notes": "",
-        "createdAt": "2019-01-26 09:51:37",
-        "user": {
-            "id": "117259947-yandex",
-            "nickname": "BigKhan",
-            "booksCount": 8
         }
     }
 }

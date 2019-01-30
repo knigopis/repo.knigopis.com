@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>208</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>209</sup>
 ---
 
 ## 2019
+
+### Пикник на обочине
+Стругацкие Братья
+> [2019-01-30] Отличная книга.
+
 
 ### Мрачный Жнец
 Пратчетт, Терри
