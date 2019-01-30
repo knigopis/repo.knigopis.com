@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>50</sup>
+# List of books read by inna.besprozvannykh<sup>51</sup>
 ---
 
 ## 2019
+
+### Океан Мудрости. Руководство для жизни
+Его Святейшество Далай-лама XIV
+> [2019-01-29] 
+
 
 ### Сильнее смерти
 Артур Конан Дойл

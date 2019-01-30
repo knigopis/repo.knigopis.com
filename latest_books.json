@@ -1,4 +1,16 @@
 {
+    "iOLUKft3L1": {
+        "id": "iOLUKft3L1",
+        "title": "Океан Мудрости. Руководство для жизни",
+        "author": "Его Святейшество Далай-лама XIV",
+        "notes": "",
+        "createdAt": "2019-01-30 05:17:36",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 51
+        }
+    },
     "ND9lUmcRfp": {
         "id": "ND9lUmcRfp",
         "title": "Фау-2",
@@ -345,18 +357,6 @@
             "id": "117259947-yandex",
             "nickname": "BigKhan",
             "booksCount": 8
-        }
-    },
-    "VeOJJ_Jugc": {
-        "id": "VeOJJ_Jugc",
-        "title": "История Донского края",
-        "author": "МАЛЫХИН К.Г.",
-        "notes": "",
-        "createdAt": "2019-01-25 19:26:33",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 17
         }
     }
 }
