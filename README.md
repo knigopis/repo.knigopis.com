@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>233</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>209</sup> 
 [really_real](users/458/4583296-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>51</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>170</sup> 
 [lenel'](users/307/30791168-vkontakte)<sup>14</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>39</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>7</sup> 
 
 
-_30.01.2019 16:51:07_
+_30.01.2019 17:40:12_
