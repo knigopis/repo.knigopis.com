@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>57</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>58</sup>
 ---
 
 ## 2019
+
+### 💬 С первой фразы
+Лиза Крон
+> [2019-01-31] 
+
 
 ### 🔸️Дом странных детей - 3
 Ренсом Риггз
