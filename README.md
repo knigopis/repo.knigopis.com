@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>95</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>58</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>234</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>209</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Марихуанна](users/101/101373950743550846629-google)<sup>11</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>151</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>94</sup> 
 [jtkirk](users/112/112636450076527802736-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>102</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>96</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>39</sup> 
 
 
-_31.01.2019 03:35:00_
+_31.01.2019 05:53:57_

@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>94</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>95</sup>
 ---
 
 ## 2019
+
+### Швейцарец. Возвращение
+Злотников Роман
+> [2019-01-30] 
+
 
 ### Швейцарец
 Злотников Роман
