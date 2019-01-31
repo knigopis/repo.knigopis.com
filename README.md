@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Повести Белкина ~ [Йолант](users/104/104690883692185089260-google)<sup>184</sup>
+    > Замечательные повести (скорее пожалуй рассказы), которые читаются легко и свободно. Здорово читать, если есть трудности с концентрацией внимания, например.
+
 * Пикник на обочине ~ [Garka](users/115/115753719718250012620-google)<sup>209</sup>
     > Отличная книга.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Четвертый и лучший сборник рассказов.
 
 * Путеводитель по японскому этикету. Полезная информация для иностранцев о правилах поведения в Японии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/141417758/
 
 * Швейцарец ~ [Chiffi](users/105/105831994080785626680-google)<sup>94</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Академия темных. Дыхание проклятого ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>82</sup>
 
-* Культ Ктулху ~ [sonics](users/588/5880221-vkontakte)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>184</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>73</sup> 
 [](users/109/109132606845133294211-googleplus)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>125</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>59</sup> 
 [](users/108/108937613227591538382-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>5</sup> 
-[BigKhan](users/117/117259947-yandex)<sup>8</sup> 
 
 
-_31.01.2019 18:55:10_
+_31.01.2019 23:23:02_
