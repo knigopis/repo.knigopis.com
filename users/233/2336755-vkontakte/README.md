@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>72</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>73</sup>
 ---
 
 ## 2019
+
+### Бегущий за ветром
+Халед Хоссейни
+> [2019-01-30] 
+
 
 ### Сборщик душ
 Мелисса Марр и Тим Пратт

@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>73</sup> 
 [](users/109/109132606845133294211-googleplus)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>125</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>347</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/108/108937613227591538382-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>5</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>8</sup> 
-[pletnushka](users/372/37291068-vkontakte)<sup>0</sup> 
 
 
-_31.01.2019 18:09:35_
+_31.01.2019 18:55:10_
