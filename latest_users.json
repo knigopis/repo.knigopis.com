@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 8,
+        "updatedAt": "2019-01-31 08:04:18"
+    },
     "110500081953374368911-google": {
         "id": "110500081953374368911-google",
         "nickname": "Universe Movie",
@@ -40,12 +46,6 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 51,
         "updatedAt": "2019-01-30 05:17:36"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 7,
-        "updatedAt": "2019-01-29 20:10:59"
     },
     "156791576-vkontakte": {
         "id": "156791576-vkontakte",

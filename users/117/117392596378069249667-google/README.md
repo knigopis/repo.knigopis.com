@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>7</sup>
+# List of books read by 4apa<sup>8</sup>
 ---
 
 ## 2019
+
+### Записки с мертвой станции
+В.П. Савиных
+> [2019-01-31] 
+
 
 ### Фау-2
 Вальтер Дорнбергер

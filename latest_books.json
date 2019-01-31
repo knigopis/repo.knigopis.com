@@ -1,4 +1,16 @@
 {
+    "Bzf68ljSy9": {
+        "id": "Bzf68ljSy9",
+        "title": "Записки с мертвой станции",
+        "author": "В.П. Савиных",
+        "notes": "",
+        "createdAt": "2019-01-31 08:04:18",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 8
+        }
+    },
     "0FmJIFiusq": {
         "id": "0FmJIFiusq",
         "title": "Оно",
@@ -345,18 +357,6 @@
             "id": "17876169737876636605-mailru",
             "nickname": "Vikki❤️",
             "booksCount": 83
-        }
-    },
-    "3f20R0FMqA": {
-        "id": "3f20R0FMqA",
-        "title": "Академия темных. Дыхание проклятого",
-        "author": "Лика Верх",
-        "notes": "10/10",
-        "createdAt": "2019-01-26 21:27:12",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 82
         }
     }
 }
