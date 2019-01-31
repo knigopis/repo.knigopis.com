@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/109/109132606845133294211-googleplus)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>125</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>347</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>152</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>5</sup> 
 [BigKhan](users/117/117259947-yandex)<sup>8</sup> 
 [pletnushka](users/372/37291068-vkontakte)<sup>0</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 
 
-_31.01.2019 17:00:40_
+_31.01.2019 18:07:56_
