@@ -1,4 +1,16 @@
 {
+    "mBn5ooAaf8": {
+        "id": "mBn5ooAaf8",
+        "title": "Радзіва Прудок",
+        "author": "Андрусь Горват",
+        "notes": "",
+        "createdAt": "2019-01-31 14:22:30",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 347
+        }
+    },
     "LP20K79bxn": {
         "id": "LP20K79bxn",
         "title": "Сайлес Марнер",
@@ -345,18 +357,6 @@
             "id": "101373950743550846629-google",
             "nickname": "Марихуанна",
             "booksCount": 11
-        }
-    },
-    "_7p85NTPLm": {
-        "id": "_7p85NTPLm",
-        "title": "Русские сказки",
-        "author": "Злотников Роман",
-        "notes": "",
-        "createdAt": "2019-01-27 07:15:06",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 93
         }
     }
 }
