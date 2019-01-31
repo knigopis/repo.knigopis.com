@@ -1,4 +1,10 @@
 {
+    "110500081953374368911-google": {
+        "id": "110500081953374368911-google",
+        "nickname": "Universe Movie",
+        "booksCount": 0,
+        "updatedAt": "2019-01-31 06:19:18"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "lenel'",
         "booksCount": 14,
         "updatedAt": "2019-01-24 06:49:32"
-    },
-    "113794223924688167852-google": {
-        "id": "113794223924688167852-google",
-        "nickname": "Victoria",
-        "booksCount": 39,
-        "updatedAt": "2019-01-23 19:15:32"
     }
 }
