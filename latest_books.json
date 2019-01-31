@@ -1,4 +1,16 @@
 {
+    "LP20K79bxn": {
+        "id": "LP20K79bxn",
+        "title": "Сайлес Марнер",
+        "author": "Джордж Элиот",
+        "notes": "",
+        "createdAt": "2019-01-31 08:48:07",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 152
+        }
+    },
     "Bzf68ljSy9": {
         "id": "Bzf68ljSy9",
         "title": "Записки с мертвой станции",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 93
-        }
-    },
-    "Q_-4jfxtXX": {
-        "id": "Q_-4jfxtXX",
-        "title": "Академия попаданцев.",
-        "author": "Мария Баталова. Екатерина Флат",
-        "notes": "10/10",
-        "createdAt": "2019-01-26 21:29:17",
-        "user": {
-            "id": "17876169737876636605-mailru",
-            "nickname": "Vikki❤️",
-            "booksCount": 83
         }
     }
 }
