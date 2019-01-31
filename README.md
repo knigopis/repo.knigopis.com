@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Universe Movie](users/110/110500081953374368911-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>95</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>58</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>234</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>170</sup> 
 [lenel'](users/307/30791168-vkontakte)<sup>14</sup> 
-[Victoria](users/113/113794223924688167852-google)<sup>39</sup> 
 
 
-_31.01.2019 05:53:57_
+_31.01.2019 06:19:21_
