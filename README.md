@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/109/109132606845133294211-googleplus)<sup>0</sup> 
+[](users/109/109132606845133294211-googleplus)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>125</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>347</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>152</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [pletnushka](users/372/37291068-vkontakte)<sup>0</sup> 
 
 
-_31.01.2019 18:07:56_
+_31.01.2019 18:09:35_
