@@ -1,4 +1,10 @@
 {
+    "114608504300850856669-google": {
+        "id": "114608504300850856669-google",
+        "nickname": "Katuf",
+        "booksCount": 0,
+        "updatedAt": "2019-02-01 20:15:56"
+    },
     "12267158-vkontakte": {
         "id": "12267158-vkontakte",
         "nickname": "Quaff",
@@ -172,11 +178,5 @@
         "nickname": "Lost in Frost",
         "booksCount": 131,
         "updatedAt": "2019-01-26 18:03:03"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 59,
-        "updatedAt": "2019-01-26 17:41:27"
     }
 }
