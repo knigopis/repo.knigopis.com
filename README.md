@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Миргород (сборник) ~ [Йолант](users/104/104690883692185089260-google)<sup>185</sup>
+    > Решил указать все произведения одним сборником. В него входят повести: "Старосветские помещики", "Тарас Бульба", "Вий", "Повесть о том, как поссорился Иван Иванович с Иваном Никифоровичем". Впервые сборник был прочитан примерно в 2004-2007 годах, оставив после себя очень яркое впечатление у совсем маленького меня.
+
 * Трилогия желания ~ [Quaff](users/122/12267158-vkontakte)<sup>24</sup>
     > Биография одного очень сильного и успешного человека. И всего лишь, и вот это да!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * Убийство в Восточном экспрессе ~ [fir137](users/176/176805114-yandex)<sup>23</sup>
-    > Не впечатлила книга.
 
 * Повести Белкина ~ [Йолант](users/104/104690883692185089260-google)<sup>184</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Убийства под монограммой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>102</sup>
 
-* Дворянское гнездо ~ [exulted](users/100/100599204551896265722-google)<sup>96</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>185</sup> 
 [kitten22](users/111/11117729-vkontakte)<sup>0</sup> 
 [Katuf](users/114/114608504300850856669-google)<sup>1</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>24</sup> 
 [](users/202/2029906773973459-facebook)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup> 
 [fir137](users/176/176805114-yandex)<sup>23</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>184</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>73</sup> 
 [](users/109/109132606845133294211-googleplus)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>125</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [prototype901](users/244/244878889-vkontakte)<sup>1</sup> 
 
 
-_01.02.2019 20:21:55_
+_01.02.2019 22:16:27_
