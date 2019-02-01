@@ -1,4 +1,16 @@
 {
+    "AUN_qHsF_w": {
+        "id": "AUN_qHsF_w",
+        "title": "SelfМама",
+        "author": "Петрановская Л.",
+        "notes": "",
+        "createdAt": "2019-02-01 20:16:38",
+        "user": {
+            "id": "114608504300850856669-google",
+            "nickname": "Katuf",
+            "booksCount": 1
+        }
+    },
     "HCb30DxWMR": {
         "id": "HCb30DxWMR",
         "title": "Трилогия желания",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 151
-        }
-    },
-    "M8M8mdkNtG": {
-        "id": "M8M8mdkNtG",
-        "title": "Путеводитель по японскому этикету. Полезная информация для иностранцев о правилах поведения в Японии",
-        "author": "Лиана Арешидзе, Михаил Крупянко, Иван Крупянко",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/141417758/",
-        "createdAt": "2019-01-28 20:31:25",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 191
         }
     }
 }
