@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/202/2029906773973459-facebook)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup> 
 [fir137](users/176/176805114-yandex)<sup>23</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>184</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>131</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>59</sup> 
 [](users/108/108937613227591538382-google)<sup>0</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>5</sup> 
 
 
-_01.02.2019 11:26:48_
+_01.02.2019 18:22:44_
