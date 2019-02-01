@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убийство в Восточном экспрессе ~ [fir137](users/176/176805114-yandex)<sup>23</sup>
+    > Не впечатлила книга.
+
 * Повести Белкина ~ [Йолант](users/104/104690883692185089260-google)<sup>184</sup>
     > Замечательные повести (скорее пожалуй рассказы), которые читаются легко и свободно. Здорово читать, если есть трудности с концентрацией внимания, например.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Отличная книга.
 
 * Тринадцать загадочных случаев (сборник) ~ [fir137](users/176/176805114-yandex)<sup>22</sup>
-    > Четвертый и лучший сборник рассказов.
 
 * Путеводитель по японскому этикету. Полезная информация для иностранцев о правилах поведения в Японии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Академия попаданцев. ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup>
 
-* Академия темных. Дыхание проклятого ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>82</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>23</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>184</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>73</sup> 
 [](users/109/109132606845133294211-googleplus)<sup>1</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>51</sup> 
 [alehandra_voitehovskaya](users/156/156791576-vkontakte)<sup>0</sup> 
 [marino4kasweet](users/992/99235108-yandex)<sup>6</sup> 
-[fir137](users/176/176805114-yandex)<sup>22</sup> 
 [KiraRik](users/114/114316860979252698168-google)<sup>1</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>11</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>5</sup> 
 
 
-_31.01.2019 23:23:02_
+_01.02.2019 07:36:27_
