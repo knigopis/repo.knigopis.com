@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>102</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>103</sup>
 ---
 
 ## 2019
+
+### Камера обскура
+Владимир Набоков
+> [2019-02-01] 10/10
+
 
 ### Убийства под монограммой
 Софи Ханна

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Камера обскура ~ [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup>
+    > 10/10
+
 * Убийство в Восточном экспрессе ~ [fir137](users/176/176805114-yandex)<sup>23</sup>
     > Не впечатлила книга.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Замечательные повести (скорее пожалуй рассказы), которые читаются легко и свободно. Здорово читать, если есть трудности с концентрацией внимания, например.
 
 * Пикник на обочине ~ [Garka](users/115/115753719718250012620-google)<sup>209</sup>
-    > Отличная книга.
 
 * Тринадцать загадочных случаев (сборник) ~ [fir137](users/176/176805114-yandex)<sup>22</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Астор-Холт ~ [Марихуанна](users/101/101373950743550846629-google)<sup>12</sup>
 
-* Академия попаданцев. ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>103</sup> 
 [fir137](users/176/176805114-yandex)<sup>23</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>184</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>73</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Марихуанна](users/101/101373950743550846629-google)<sup>11</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup> 
 [jtkirk](users/112/112636450076527802736-google)<sup>0</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>102</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>96</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup> 
 [Gretta](users/105/105858612625230154829-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>5</sup> 
 
 
-_01.02.2019 07:36:27_
+_01.02.2019 11:26:48_

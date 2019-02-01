@@ -1,4 +1,16 @@
 {
+    "l0EWiG9JgX": {
+        "id": "l0EWiG9JgX",
+        "title": "Камера обскура",
+        "author": "Владимир Набоков",
+        "notes": "10/10",
+        "createdAt": "2019-02-01 11:26:48",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 103
+        }
+    },
     "KMxWHMOI4L": {
         "id": "KMxWHMOI4L",
         "title": "Убийство в Восточном экспрессе",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 150
-        }
-    },
-    "7otA6jWYaP": {
-        "id": "7otA6jWYaP",
-        "title": "Швейцарец",
-        "author": "Злотников Роман",
-        "notes": "попаданцы, альтернативная история. достаточно не плохо",
-        "createdAt": "2019-01-28 05:33:55",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 94
         }
     }
 }
