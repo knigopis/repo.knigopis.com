@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Трилогия желания ~ [Quaff](users/122/12267158-vkontakte)<sup>24</sup>
+    > Биография одного очень сильного и успешного человека. И всего лишь, и вот это да!
+
 * Камера обскура ~ [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup>
     > 10/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не впечатлила книга.
 
 * Повести Белкина ~ [Йолант](users/104/104690883692185089260-google)<sup>184</sup>
-    > Замечательные повести (скорее пожалуй рассказы), которые читаются легко и свободно. Здорово читать, если есть трудности с концентрацией внимания, например.
 
 * Пикник на обочине ~ [Garka](users/115/115753719718250012620-google)<sup>209</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дворянское гнездо ~ [exulted](users/100/100599204551896265722-google)<sup>96</sup>
 
-* Астор-Холт ~ [Марихуанна](users/101/101373950743550846629-google)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>24</sup> 
 [](users/202/2029906773973459-facebook)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup> 
 [fir137](users/176/176805114-yandex)<sup>23</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [prototype901](users/244/244878889-vkontakte)<sup>1</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>131</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>59</sup> 
-[](users/108/108937613227591538382-google)<sup>0</sup> 
 
 
-_01.02.2019 18:22:44_
+_01.02.2019 20:06:05_
