@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kitten22](users/111/11117729-vkontakte)<sup>0</sup> 
 [Katuf](users/114/114608504300850856669-google)<sup>1</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>24</sup> 
 [](users/202/2029906773973459-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup> 
 [Gretta](users/105/105858612625230154829-google)<sup>1</sup> 
 [prototype901](users/244/244878889-vkontakte)<sup>1</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>131</sup> 
 
 
-_01.02.2019 20:16:38_
+_01.02.2019 20:21:55_
