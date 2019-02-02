@@ -1,4 +1,10 @@
 {
+    "193373239-vkontakte": {
+        "id": "193373239-vkontakte",
+        "nickname": "axulitoviy",
+        "booksCount": 0,
+        "updatedAt": "2019-02-02 20:29:58"
+    },
     "176805114-yandex": {
         "id": "176805114-yandex",
         "nickname": "fir137",
@@ -172,11 +178,5 @@
         "nickname": "Vikki❤️",
         "booksCount": 83,
         "updatedAt": "2019-01-26 21:29:17"
-    },
-    "105858612625230154829-google": {
-        "id": "105858612625230154829-google",
-        "nickname": "Gretta",
-        "booksCount": 1,
-        "updatedAt": "2019-01-26 21:25:17"
     }
 }
