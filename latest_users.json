@@ -1,4 +1,10 @@
 {
+    "176805114-yandex": {
+        "id": "176805114-yandex",
+        "nickname": "fir137",
+        "booksCount": 24,
+        "updatedAt": "2019-02-02 19:23:36"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -40,12 +46,6 @@
         "nickname": "Apprentice ",
         "booksCount": 103,
         "updatedAt": "2019-02-01 11:26:48"
-    },
-    "176805114-yandex": {
-        "id": "176805114-yandex",
-        "nickname": "fir137",
-        "booksCount": 23,
-        "updatedAt": "2019-02-01 07:36:27"
     },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",

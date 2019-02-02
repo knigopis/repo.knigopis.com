@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Расследует Паркер Пайн ~ [fir137](users/176/176805114-yandex)<sup>24</sup>
 * Вечера на хуторе близ Диканьки ~ [Йолант](users/104/104690883692185089260-google)<sup>187</sup>
 * Петербургские повести ~ [Йолант](users/104/104690883692185089260-google)<sup>186</sup>
 * Бот 2. Ґуаякільський парадокс. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>8</sup>
@@ -30,7 +31,6 @@
 * Преступление и наказание ~ [Йолант](users/104/104690883692185089260-google)<sup>183</sup>
 * Маяк на Хийумаа ~ [exulted](users/100/100599204551896265722-google)<sup>95</sup>
 * A Rumor of War: The Classic Vietnam Memoir ~ [exulted](users/100/100599204551896265722-google)<sup>94</sup>
-* Солнечный удар ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>73</sup>
 
 
-_02.02.2019 17:09:13_
+_02.02.2019 19:23:36_

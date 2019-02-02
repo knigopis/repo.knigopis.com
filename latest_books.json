@@ -1,4 +1,16 @@
 {
+    "F3xSVwmsCt": {
+        "id": "F3xSVwmsCt",
+        "title": "Расследует Паркер Пайн",
+        "author": "Кристи Агата",
+        "notes": "Лёгкая пародия на Пуаро",
+        "createdAt": "2019-02-02 19:23:36",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 24
+        }
+    },
     "yYengRNFiL": {
         "id": "yYengRNFiL",
         "title": "Вечера на хуторе близ Диканьки",
@@ -345,18 +357,6 @@
             "id": "99235108-yandex",
             "nickname": "marino4kasweet",
             "booksCount": 2
-        }
-    },
-    "1v-qYtE5C4": {
-        "id": "1v-qYtE5C4",
-        "title": "Вино из одуванчиков",
-        "author": "Рей Бредбери",
-        "notes": "",
-        "createdAt": "2019-01-29 17:01:54",
-        "user": {
-            "id": "99235108-yandex",
-            "nickname": "marino4kasweet",
-            "booksCount": 1
         }
     }
 }
