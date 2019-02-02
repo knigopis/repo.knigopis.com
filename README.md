@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бот 2. Ґуаякільський парадокс. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>8</sup>
+    > З телефона. 10/10. Продовження технотрилера. Відкритий фінал.
+
 * Миргород (сборник) ~ [Йолант](users/104/104690883692185089260-google)<sup>185</sup>
     > Решил указать все произведения одним сборником. В него входят повести: "Старосветские помещики", "Тарас Бульба", "Вий", "Повесть о том, как поссорился Иван Иванович с Иваном Никифоровичем". Впервые сборник был прочитан примерно в 2004-2007 годах, оставив после себя очень яркое впечатление у совсем маленького меня.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Биография одного очень сильного и успешного человека. И всего лишь, и вот это да!
 
 * Камера обскура ~ [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup>
-    > 10/10
 
 * Убийство в Восточном экспрессе ~ [fir137](users/176/176805114-yandex)<sup>23</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Швейцарец ~ [Chiffi](users/105/105831994080785626680-google)<sup>94</sup>
 
-* Убийства под монограммой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>102</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>8</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>185</sup> 
 [kitten22](users/111/11117729-vkontakte)<sup>0</sup> 
 [Katuf](users/114/114608504300850856669-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>96</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup> 
 [Gretta](users/105/105858612625230154829-google)<sup>1</sup> 
-[prototype901](users/244/244878889-vkontakte)<sup>1</sup> 
 
 
-_01.02.2019 22:16:27_
+_02.02.2019 06:34:33_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бот 2. Ґуаякільський парадокс. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>8</sup>
 * Миргород (сборник) ~ [Йолант](users/104/104690883692185089260-google)<sup>185</sup>
 * Трилогия желания ~ [Quaff](users/122/12267158-vkontakte)<sup>24</sup>
 * Камера обскура ~ [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup>
@@ -30,7 +31,6 @@
 * Солнечный удар ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>73</sup>
 * Женское достоинство - сила притяжения мужчин ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>71</sup>
 * Будет больно. История врача, ушедшего из профессии на пике карьеры ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>6</sup>
-* Назови меня своим именем ~ [anvonamore](users/595/5957175-vkontakte)<sup>121</sup>
 
 
-_01.02.2019 22:16:27_
+_02.02.2019 06:34:33_

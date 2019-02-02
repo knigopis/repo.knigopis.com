@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>7</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>8</sup>
 ---
 
 ## 2019
+
+### Бот 2. Ґуаякільський парадокс.
+Макс Кідрук
+> [2019-02-02] З телефона. 10/10. Продовження технотрилера. Відкритий фінал.
+
 
 ### Маленька книга хюґе
 Мік Вікінг

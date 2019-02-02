@@ -1,4 +1,16 @@
 {
+    "bxLHnet9qy": {
+        "id": "bxLHnet9qy",
+        "title": "Бот 2. Ґуаякільський парадокс.",
+        "author": "Макс Кідрук",
+        "notes": "З телефона. 10/10. Продовження технотрилера. Відкритий фінал.",
+        "createdAt": "2019-02-02 06:34:33",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 8
+        }
+    },
     "eDqKmPivxU": {
         "id": "eDqKmPivxU",
         "title": "Миргород (сборник)",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 6
-        }
-    },
-    "S_TKvjvfIs": {
-        "id": "S_TKvjvfIs",
-        "title": "Назови меня своим именем",
-        "author": "Андре Асиман",
-        "notes": "6/10",
-        "createdAt": "2019-01-20 00:39:27",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 121
         }
     }
 }

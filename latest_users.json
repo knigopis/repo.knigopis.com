@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 8,
+        "updatedAt": "2019-02-02 06:34:33"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "Gretta",
         "booksCount": 1,
         "updatedAt": "2019-01-26 21:25:17"
-    },
-    "244878889-vkontakte": {
-        "id": "244878889-vkontakte",
-        "nickname": "prototype901",
-        "booksCount": 1,
-        "updatedAt": "2019-01-26 18:17:53"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "bxLHnet9qy": {
+        "id": "bxLHnet9qy",
+        "title": "Бот 2. Ґуаякільський парадокс.",
+        "author": "Макс Кідрук",
+        "notes": "З телефона. 10/10. Продовження технотрилера. Відкритий фінал.",
+        "createdAt": "2019-02-02 06:34:33",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 8
+        }
+    },
     "eDqKmPivxU": {
         "id": "eDqKmPivxU",
         "title": "Миргород (сборник)",
@@ -345,18 +357,6 @@
             "id": "114316860979252698168-google",
             "nickname": "KiraRik",
             "booksCount": 1
-        }
-    },
-    "ljUs-M1dRu": {
-        "id": "ljUs-M1dRu",
-        "title": "Первая ведьма",
-        "author": "Татьяна Зинина",
-        "notes": "",
-        "createdAt": "2019-01-29 09:05:21",
-        "user": {
-            "id": "101373950743550846629-google",
-            "nickname": "Марихуанна",
-            "booksCount": 11
         }
     }
 }
