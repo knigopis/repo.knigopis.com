@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[axulitoviy](users/193/193373239-vkontakte)<sup>0</sup> 
 [fir137](users/176/176805114-yandex)<sup>24</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>187</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>8</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [jtkirk](users/112/112636450076527802736-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>96</sup> 
 [Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup> 
-[Gretta](users/105/105858612625230154829-google)<sup>1</sup> 
 
 
-_02.02.2019 19:23:36_
+_02.02.2019 20:30:01_
