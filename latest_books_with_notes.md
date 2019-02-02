@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Петербургские повести ~ [Йолант](users/104/104690883692185089260-google)<sup>186</sup>
 * Бот 2. Ґуаякільський парадокс. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>8</sup>
 * Миргород (сборник) ~ [Йолант](users/104/104690883692185089260-google)<sup>185</sup>
 * Трилогия желания ~ [Quaff](users/122/12267158-vkontakte)<sup>24</sup>
@@ -30,7 +31,6 @@
 * A Rumor of War: The Classic Vietnam Memoir ~ [exulted](users/100/100599204551896265722-google)<sup>94</sup>
 * Солнечный удар ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>73</sup>
 * Женское достоинство - сила притяжения мужчин ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>71</sup>
-* Будет больно. История врача, ушедшего из профессии на пике карьеры ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>6</sup>
 
 
-_02.02.2019 06:34:33_
+_02.02.2019 07:58:27_
