@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В інтернеті хтось помиляється! ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>9</sup>
 * Голодание ради здоровья. Забытые достижения советской медицины ~ [sonics](users/588/5880221-vkontakte)<sup>60</sup>
 * Расследует Паркер Пайн ~ [fir137](users/176/176805114-yandex)<sup>24</sup>
 * Вечера на хуторе близ Диканьки ~ [Йолант](users/104/104690883692185089260-google)<sup>187</sup>
@@ -30,7 +31,6 @@
 * Тайные виды на гору Фудзи ~ [anvonamore](users/595/5957175-vkontakte)<sup>122</sup>
 * The Elder Scrolls V. Человек, мер и зверь ~ [EsterHani](users/305/30558181-vkontakte)<sup>169</sup>
 * Преступление и наказание ~ [Йолант](users/104/104690883692185089260-google)<sup>183</sup>
-* Маяк на Хийумаа ~ [exulted](users/100/100599204551896265722-google)<sup>95</sup>
 
 
-_03.02.2019 10:05:49_
+_03.02.2019 20:39:43_

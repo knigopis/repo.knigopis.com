@@ -1,4 +1,16 @@
 {
+    "8fyJjG4BlH": {
+        "id": "8fyJjG4BlH",
+        "title": "В інтернеті хтось помиляється!",
+        "author": "Ася Казанцева",
+        "notes": "9/10 Цікаве розвінчання міфів. Поребує деяких знань з біології.",
+        "createdAt": "2019-02-03 20:39:43",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 9
+        }
+    },
     "XDlaIO_jl6": {
         "id": "XDlaIO_jl6",
         "title": "Голодание ради здоровья. Забытые достижения советской медицины",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 183
-        }
-    },
-    "ZZLDVr5vUm": {
-        "id": "ZZLDVr5vUm",
-        "title": "Маяк на Хийумаа",
-        "author": "Юзефович Леонди",
-        "notes": "ISBN: 978-5-17-108028-0",
-        "createdAt": "2019-01-21 09:25:14",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 95
         }
     }
 }
