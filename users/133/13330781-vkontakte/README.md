@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>79</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>80</sup>
 ---
 
 ## 2019
+
+### Живая кухня. Трансерфинг обновленя
+Вадим Зеланд
+> [2019-02-03] 
+
 
 ### Хочу и буду
 Михаил Лобковский
