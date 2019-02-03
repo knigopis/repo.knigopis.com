@@ -1,4 +1,16 @@
 {
+    "9eXX5rIMYh": {
+        "id": "9eXX5rIMYh",
+        "title": "Хочу и буду",
+        "author": "Михаил Лобковский",
+        "notes": "",
+        "createdAt": "2019-02-03 10:33:08",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 79
+        }
+    },
     "Q5c_Y_d_Vt": {
         "id": "Q5c_Y_d_Vt",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 7
-        }
-    },
-    "bd_bbwZlhk": {
-        "id": "bd_bbwZlhk",
-        "title": "Подсознание может все!",
-        "author": "Джон Кехо",
-        "notes": "",
-        "createdAt": "2019-01-29 17:06:39",
-        "user": {
-            "id": "99235108-yandex",
-            "nickname": "marino4kasweet",
-            "booksCount": 6
         }
     }
 }
