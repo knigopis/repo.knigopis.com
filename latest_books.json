@@ -1,4 +1,16 @@
 {
+    "XDlaIO_jl6": {
+        "id": "XDlaIO_jl6",
+        "title": "Голодание ради здоровья. Забытые достижения советской медицины",
+        "author": "Николаев Ю.С., Нилов Е.И., Черкасов В.Г",
+        "notes": "Информация общая, очень полезная для введение в эту сферу.\nИсторическое наследие.",
+        "createdAt": "2019-02-03 10:05:49",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 60
+        }
+    },
     "AGp0N_Payy": {
         "id": "AGp0N_Payy",
         "title": "Бабушка велела кланятся и передвть, что просит прощения",
@@ -345,18 +357,6 @@
             "id": "99235108-yandex",
             "nickname": "marino4kasweet",
             "booksCount": 5
-        }
-    },
-    "CZDJEVhfs_": {
-        "id": "CZDJEVhfs_",
-        "title": "Богатый папа, бедный папа",
-        "author": "Роберт Кийосаки",
-        "notes": "",
-        "createdAt": "2019-01-29 17:05:22",
-        "user": {
-            "id": "99235108-yandex",
-            "nickname": "marino4kasweet",
-            "booksCount": 4
         }
     }
 }

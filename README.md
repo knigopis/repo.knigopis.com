@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Голодание ради здоровья. Забытые достижения советской медицины ~ [sonics](users/588/5880221-vkontakte)<sup>60</sup>
+    > Информация общая, очень полезная для введение в эту сферу.
+    > Историческое наследие.
+
 * Расследует Паркер Пайн ~ [fir137](users/176/176805114-yandex)<sup>24</sup>
     > Лёгкая пародия на Пуаро
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Первое прочтение между 2004-2007 годами.
 
 * Петербургские повести ~ [Йолант](users/104/104690883692185089260-google)<sup>186</sup>
-    > Указываю целым сборником, в который входят повести: "Невский проспект", "Нос", "Портрет", "Шинель", "Коляска", "Записки сумасшедшего".
 
 * Бот 2. Ґуаякільський парадокс. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>8</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Повести Белкина ~ [Йолант](users/104/104690883692185089260-google)<sup>184</sup>
 
-* Пикник на обочине ~ [Garka](users/115/115753719718250012620-google)<sup>209</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>60</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>77</sup> 
 [farmorsik](users/200/20073463-vkontakte)<sup>0</sup> 
 [axulitoviy](users/193/193373239-vkontakte)<sup>0</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [KiraRik](users/114/114316860979252698168-google)<sup>1</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>11</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup> 
-[jtkirk](users/112/112636450076527802736-google)<sup>0</sup> 
 
 
-_03.02.2019 05:13:50_
+_03.02.2019 10:05:49_

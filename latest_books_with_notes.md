@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Голодание ради здоровья. Забытые достижения советской медицины ~ [sonics](users/588/5880221-vkontakte)<sup>60</sup>
 * Расследует Паркер Пайн ~ [fir137](users/176/176805114-yandex)<sup>24</sup>
 * Вечера на хуторе близ Диканьки ~ [Йолант](users/104/104690883692185089260-google)<sup>187</sup>
 * Петербургские повести ~ [Йолант](users/104/104690883692185089260-google)<sup>186</sup>
@@ -30,7 +31,6 @@
 * The Elder Scrolls V. Человек, мер и зверь ~ [EsterHani](users/305/30558181-vkontakte)<sup>169</sup>
 * Преступление и наказание ~ [Йолант](users/104/104690883692185089260-google)<sup>183</sup>
 * Маяк на Хийумаа ~ [exulted](users/100/100599204551896265722-google)<sup>95</sup>
-* A Rumor of War: The Classic Vietnam Memoir ~ [exulted](users/100/100599204551896265722-google)<sup>94</sup>
 
 
-_02.02.2019 19:23:36_
+_03.02.2019 10:05:49_
