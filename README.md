@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[farmorsik](users/200/20073463-vkontakte)<sup>0</sup> 
 [axulitoviy](users/193/193373239-vkontakte)<sup>0</sup> 
 [fir137](users/176/176805114-yandex)<sup>24</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>187</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup> 
 [jtkirk](users/112/112636450076527802736-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>96</sup> 
-[Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup> 
 
 
-_02.02.2019 20:30:01_
+_03.02.2019 04:00:47_
