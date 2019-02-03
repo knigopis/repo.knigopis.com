@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[le_brouillard](users/133/13330781-vkontakte)<sup>76</sup> 
+[le_brouillard](users/133/13330781-vkontakte)<sup>77</sup> 
 [farmorsik](users/200/20073463-vkontakte)<sup>0</sup> 
 [axulitoviy](users/193/193373239-vkontakte)<sup>0</sup> 
 [fir137](users/176/176805114-yandex)<sup>24</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [jtkirk](users/112/112636450076527802736-google)<sup>0</sup> 
 
 
-_03.02.2019 05:12:55_
+_03.02.2019 05:13:50_
