@@ -1,4 +1,16 @@
 {
+    "Q5c_Y_d_Vt": {
+        "id": "Q5c_Y_d_Vt",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-02-03 10:32:27",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 78
+        }
+    },
     "XDlaIO_jl6": {
         "id": "XDlaIO_jl6",
         "title": "Голодание ради здоровья. Забытые достижения советской медицины",
@@ -345,18 +357,6 @@
             "id": "99235108-yandex",
             "nickname": "marino4kasweet",
             "booksCount": 6
-        }
-    },
-    "KjmZcPBlci": {
-        "id": "KjmZcPBlci",
-        "title": "Как перестать беспокоиться и начать жить",
-        "author": "Дейл Карнеги",
-        "notes": "",
-        "createdAt": "2019-01-29 17:05:59",
-        "user": {
-            "id": "99235108-yandex",
-            "nickname": "marino4kasweet",
-            "booksCount": 5
         }
     }
 }

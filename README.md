@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>78</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>60</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>77</sup> 
 [farmorsik](users/200/20073463-vkontakte)<sup>0</sup> 
 [axulitoviy](users/193/193373239-vkontakte)<sup>0</sup> 
 [fir137](users/176/176805114-yandex)<sup>24</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup> 
 
 
-_03.02.2019 10:05:49_
+_03.02.2019 10:32:27_
