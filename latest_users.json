@@ -1,4 +1,10 @@
 {
+    "166750349-vkontakte": {
+        "id": "166750349-vkontakte",
+        "nickname": "yurtik",
+        "booksCount": 0,
+        "updatedAt": "2019-02-04 07:41:59"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "KiraRik",
         "booksCount": 1,
         "updatedAt": "2019-01-29 11:47:37"
-    },
-    "101373950743550846629-google": {
-        "id": "101373950743550846629-google",
-        "nickname": "Марихуанна",
-        "booksCount": 11,
-        "updatedAt": "2019-01-29 09:05:21"
     }
 }
