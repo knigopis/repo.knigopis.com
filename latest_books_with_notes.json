@@ -1,4 +1,16 @@
 {
+    "LuKIO-mb5N": {
+        "id": "LuKIO-mb5N",
+        "title": "Рябиновый мед. Августина",
+        "author": "Знаменская Алина",
+        "notes": "Семейная сага. Жизнь девочки, рожденной в начале века  и ее гимназических подруг. Спасибо автору,  что книга кончается в 1939г.",
+        "createdAt": "2019-02-04 16:44:07",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 96
+        }
+    },
     "TtXB_7SjRx": {
         "id": "TtXB_7SjRx",
         "title": "Происхождение жизни: наука и вера",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 122
-        }
-    },
-    "ZeD_AXxgLK": {
-        "id": "ZeD_AXxgLK",
-        "title": "The Elder Scrolls V. Человек, мер и зверь",
-        "author": "",
-        "notes": "Книга 2",
-        "createdAt": "2019-01-21 20:18:27",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 169
         }
     }
 }

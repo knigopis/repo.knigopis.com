@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рябиновый мед. Августина ~ [Chiffi](users/105/105831994080785626680-google)<sup>96</sup>
+    > Семейная сага. Жизнь девочки, рожденной в начале века  и ее гимназических подруг. Спасибо автору,  что книга кончается в 1939г.
+
 * Происхождение жизни: наука и вера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>10</sup>
     > 7/10 много картинок, освещает позицию с разных сторон.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Цікаве розвінчання міфів. Поребує деяких знань з біології.
 
 * Голодание ради здоровья. Забытые достижения советской медицины ~ [sonics](users/588/5880221-vkontakte)<sup>60</sup>
-    > Информация общая, очень полезная для введение в эту сферу.
-    > Историческое наследие.
 
 * Расследует Паркер Пайн ~ [fir137](users/176/176805114-yandex)<sup>24</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Трилогия желания ~ [Quaff](users/122/12267158-vkontakte)<sup>24</sup>
 
-* Камера обскура ~ [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>96</sup> 
 [alphamakoto](users/342/342507332-vkontakte)<sup>0</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>196</sup> 
 [yurtik](users/166/166750349-vkontakte)<sup>0</sup> 
@@ -57,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>152</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>8</sup> 
 [Universe Movie](users/110/110500081953374368911-google)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>95</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>58</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>234</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>209</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [alehandra_voitehovskaya](users/156/156791576-vkontakte)<sup>0</sup> 
 
 
-_04.02.2019 10:29:37_
+_04.02.2019 16:44:08_

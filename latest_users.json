@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 96,
+        "updatedAt": "2019-02-04 16:44:08"
+    },
     "342507332-vkontakte": {
         "id": "342507332-vkontakte",
         "nickname": "alphamakoto",
@@ -136,12 +142,6 @@
         "nickname": "Universe Movie",
         "booksCount": 1,
         "updatedAt": "2019-01-31 06:19:48"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 95,
-        "updatedAt": "2019-01-31 05:53:57"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
