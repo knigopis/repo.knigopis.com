@@ -1,4 +1,10 @@
 {
+    "342507332-vkontakte": {
+        "id": "342507332-vkontakte",
+        "nickname": "alphamakoto",
+        "booksCount": 0,
+        "updatedAt": "2019-02-04 10:29:33"
+    },
     "973496-vkontakte": {
         "id": "973496-vkontakte",
         "nickname": "radeonx801",
@@ -172,11 +178,5 @@
         "nickname": "alehandra_voitehovskaya",
         "booksCount": 0,
         "updatedAt": "2019-01-29 19:36:47"
-    },
-    "99235108-yandex": {
-        "id": "99235108-yandex",
-        "nickname": "marino4kasweet",
-        "booksCount": 6,
-        "updatedAt": "2019-01-29 17:06:39"
     }
 }
