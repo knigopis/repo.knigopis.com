@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тайна лорда Листердейла (сборник) ~ [fir137](users/176/176805114-yandex)<sup>25</sup>
 * Рябиновый мед. Августина ~ [Chiffi](users/105/105831994080785626680-google)<sup>96</sup>
 * Происхождение жизни: наука и вера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>10</sup>
 * В інтернеті хтось помиляється! ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>9</sup>
@@ -30,7 +31,6 @@
 * Черновик ~ [Victoria](users/113/113794223924688167852-google)<sup>36</sup>
 * Будущее ~ [Victoria](users/113/113794223924688167852-google)<sup>35</sup>
 * Маленька книга хюґе ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>7</sup>
-* Тайные виды на гору Фудзи ~ [anvonamore](users/595/5957175-vkontakte)<sup>122</sup>
 
 
-_04.02.2019 16:44:08_
+_04.02.2019 23:38:47_

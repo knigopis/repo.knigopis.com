@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайна лорда Листердейла (сборник) ~ [fir137](users/176/176805114-yandex)<sup>25</sup>
+    > Интересные и непохожие рассказы!
+    > Только первый-слишком сентиментальный.
+
 * Рябиновый мед. Августина ~ [Chiffi](users/105/105831994080785626680-google)<sup>96</sup>
     > Семейная сага. Жизнь девочки, рожденной в начале века  и ее гимназических подруг. Спасибо автору,  что книга кончается в 1939г.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > 7/10 много картинок, освещает позицию с разных сторон.
 
 * В інтернеті хтось помиляється! ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>9</sup>
-    > 9/10 Цікаве розвінчання міфів. Поребує деяких знань з біології.
 
 * Голодание ради здоровья. Забытые достижения советской медицины ~ [sonics](users/588/5880221-vkontakte)<sup>60</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Миргород (сборник) ~ [Йолант](users/104/104690883692185089260-google)<sup>185</sup>
 
-* Трилогия желания ~ [Quaff](users/122/12267158-vkontakte)<sup>24</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>25</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>26</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>96</sup> 
 [alphamakoto](users/342/342507332-vkontakte)<sup>0</sup> 
@@ -44,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>60</sup> 
 [farmorsik](users/200/20073463-vkontakte)<sup>0</sup> 
 [axulitoviy](users/193/193373239-vkontakte)<sup>0</sup> 
-[fir137](users/176/176805114-yandex)<sup>24</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>187</sup> 
 [kitten22](users/111/11117729-vkontakte)<sup>0</sup> 
 [Katuf](users/114/114608504300850856669-google)<sup>1</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>51</sup> 
 
 
-_04.02.2019 19:39:03_
+_04.02.2019 23:38:47_

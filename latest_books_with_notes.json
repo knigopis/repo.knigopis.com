@@ -1,4 +1,16 @@
 {
+    "mcgo39OYUM": {
+        "id": "mcgo39OYUM",
+        "title": "Тайна лорда Листердейла (сборник)",
+        "author": "Кристи Агата",
+        "notes": "Интересные и непохожие рассказы!\nТолько первый-слишком сентиментальный.",
+        "createdAt": "2019-02-04 23:38:47",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 25
+        }
+    },
     "LuKIO-mb5N": {
         "id": "LuKIO-mb5N",
         "title": "Рябиновый мед. Августина",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 7
-        }
-    },
-    "pHScTIUSlB": {
-        "id": "pHScTIUSlB",
-        "title": "Тайные виды на гору Фудзи",
-        "author": "Виктор Пелевин",
-        "notes": "6/10",
-        "createdAt": "2019-01-22 22:21:17",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 122
         }
     }
 }
