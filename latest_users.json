@@ -1,4 +1,10 @@
 {
+    "104289450206538776186-googleplus": {
+        "id": "104289450206538776186-googleplus",
+        "nickname": "Erdi",
+        "booksCount": 26,
+        "updatedAt": "2019-02-04 19:39:02"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 51,
         "updatedAt": "2019-01-30 05:17:36"
-    },
-    "156791576-vkontakte": {
-        "id": "156791576-vkontakte",
-        "nickname": "alehandra_voitehovskaya",
-        "booksCount": 0,
-        "updatedAt": "2019-01-29 19:36:47"
     }
 }

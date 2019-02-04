@@ -1,7 +1,12 @@
-# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>25</sup>
+# List of books read by [Erdi](https://plus.google.com/104289450206538776186)<sup>26</sup>
 ---
 
 ## 2019
+
+### Богатый папа - бедный папа
+Роберт Кийосаки
+> [2019-02-05] 
+
 
 ### Талантливый мистер Рипли
 Патриция Хайсмит

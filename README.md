@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Erdi](users/104/104289450206538776186-googleplus)<sup>26</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>96</sup> 
 [alphamakoto](users/342/342507332-vkontakte)<sup>0</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>196</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>209</sup> 
 [really_real](users/458/4583296-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>51</sup> 
-[alehandra_voitehovskaya](users/156/156791576-vkontakte)<sup>0</sup> 
 
 
-_04.02.2019 16:44:08_
+_04.02.2019 19:39:03_
