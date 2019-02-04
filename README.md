@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alphamakoto](users/342/342507332-vkontakte)<sup>0</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>196</sup> 
 [yurtik](users/166/166750349-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>10</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [really_real](users/458/4583296-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>51</sup> 
 [alehandra_voitehovskaya](users/156/156791576-vkontakte)<sup>0</sup> 
-[marino4kasweet](users/992/99235108-yandex)<sup>6</sup> 
 
 
-_04.02.2019 07:47:29_
+_04.02.2019 10:29:37_
