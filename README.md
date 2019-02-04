@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[johnybond32](users/304/304041461-yandex)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>9</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>80</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>60</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [marino4kasweet](users/992/99235108-yandex)<sup>6</sup> 
 [KiraRik](users/114/114316860979252698168-google)<sup>1</sup> 
 [Марихуанна](users/101/101373950743550846629-google)<sup>11</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>191</sup> 
 
 
-_03.02.2019 20:39:43_
+_04.02.2019 06:08:37_
