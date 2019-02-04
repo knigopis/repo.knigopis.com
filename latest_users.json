@@ -1,4 +1,10 @@
 {
+    "973496-vkontakte": {
+        "id": "973496-vkontakte",
+        "nickname": "radeonx801",
+        "booksCount": 196,
+        "updatedAt": "2019-02-04 07:47:29"
+    },
     "166750349-vkontakte": {
         "id": "166750349-vkontakte",
         "nickname": "yurtik",
@@ -172,11 +178,5 @@
         "nickname": "marino4kasweet",
         "booksCount": 6,
         "updatedAt": "2019-01-29 17:06:39"
-    },
-    "114316860979252698168-google": {
-        "id": "114316860979252698168-google",
-        "nickname": "KiraRik",
-        "booksCount": 1,
-        "updatedAt": "2019-01-29 11:47:37"
     }
 }
