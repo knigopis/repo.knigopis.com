@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>9</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>10</sup>
 ---
 
 ## 2019
+
+### Происхождение жизни: наука и вера
+НАН и институт медицины США
+> [2019-02-04] 7/10 много картинок, освещает позицию с разных сторон.
+
 
 ### В інтернеті хтось помиляється!
 Ася Казанцева

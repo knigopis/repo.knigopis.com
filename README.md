@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Происхождение жизни: наука и вера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>10</sup>
+    > 7/10 много картинок, освещает позицию с разных сторон.
+
 * В інтернеті хтось помиляється! ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>9</sup>
     > 9/10 Цікаве розвінчання міфів. Поребує деяких знань з біології.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Историческое наследие.
 
 * Расследует Паркер Пайн ~ [fir137](users/176/176805114-yandex)<sup>24</sup>
-    > Лёгкая пародия на Пуаро
 
 * Вечера на хуторе близ Диканьки ~ [Йолант](users/104/104690883692185089260-google)<sup>187</sup>
 
@@ -27,15 +29,13 @@ Do not use pull requests to make changes here.
 
 * Камера обскура ~ [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup>
 
-* Убийство в Восточном экспрессе ~ [fir137](users/176/176805114-yandex)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>10</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>9</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>80</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>60</sup> 
 [farmorsik](users/200/20073463-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Марихуанна](users/101/101373950743550846629-google)<sup>11</sup> 
 
 
-_04.02.2019 06:08:37_
+_04.02.2019 06:50:58_

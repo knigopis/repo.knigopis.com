@@ -1,4 +1,16 @@
 {
+    "TtXB_7SjRx": {
+        "id": "TtXB_7SjRx",
+        "title": "Происхождение жизни: наука и вера",
+        "author": "НАН и институт медицины США",
+        "notes": "7/10 много картинок, освещает позицию с разных сторон.",
+        "createdAt": "2019-02-04 06:50:58",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 10
+        }
+    },
     "8fyJjG4BlH": {
         "id": "8fyJjG4BlH",
         "title": "В інтернеті хтось помиляється!",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 169
-        }
-    },
-    "YxblKDASOb": {
-        "id": "YxblKDASOb",
-        "title": "Преступление и наказание",
-        "author": "Фёдор Достоевский",
-        "notes": "Первое прочтение примерно в 2012.",
-        "createdAt": "2019-01-21 19:03:52",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 183
         }
     }
 }
