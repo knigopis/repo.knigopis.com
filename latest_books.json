@@ -1,4 +1,16 @@
 {
+    "1LKag8pxgv": {
+        "id": "1LKag8pxgv",
+        "title": "Звёздная пыль",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2019-02-05 06:59:59",
+        "user": {
+            "id": "973496-vkontakte",
+            "nickname": "radeonx801",
+            "booksCount": 197
+        }
+    },
     "U0HSgBJq1f": {
         "id": "U0HSgBJq1f",
         "title": "Охота на тринадцатого",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 8
-        }
-    },
-    "0FmJIFiusq": {
-        "id": "0FmJIFiusq",
-        "title": "Оно",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2019-01-31 06:19:48",
-        "user": {
-            "id": "110500081953374368911-google",
-            "nickname": "Universe Movie",
-            "booksCount": 1
         }
     }
 }
