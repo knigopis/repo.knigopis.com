@@ -1,4 +1,16 @@
 {
+    "UpIL8BahdX": {
+        "id": "UpIL8BahdX",
+        "title": "Повелитель мух",
+        "author": "Голдинг Уильям",
+        "notes": "",
+        "createdAt": "2019-02-05 12:47:49",
+        "user": {
+            "id": "973496-vkontakte",
+            "nickname": "radeonx801",
+            "booksCount": 198
+        }
+    },
     "1LKag8pxgv": {
         "id": "1LKag8pxgv",
         "title": "Звёздная пыль",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 152
-        }
-    },
-    "Bzf68ljSy9": {
-        "id": "Bzf68ljSy9",
-        "title": "Записки с мертвой станции",
-        "author": "В.П. Савиных",
-        "notes": "",
-        "createdAt": "2019-01-31 08:04:18",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 8
         }
     }
 }
