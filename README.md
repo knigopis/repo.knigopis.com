@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>81</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>198</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>97</sup> 
 [fir137](users/176/176805114-yandex)<sup>25</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [yurtik](users/166/166750349-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>10</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>0</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>80</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>60</sup> 
 [farmorsik](users/200/20073463-vkontakte)<sup>0</sup> 
 [axulitoviy](users/193/193373239-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>51</sup> 
 
 
-_05.02.2019 12:47:49_
+_05.02.2019 13:17:10_
