@@ -1,4 +1,10 @@
 {
+    "176805114-yandex": {
+        "id": "176805114-yandex",
+        "nickname": "fir137",
+        "booksCount": 26,
+        "updatedAt": "2019-02-05 14:43:46"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -16,12 +22,6 @@
         "nickname": "Chiffi",
         "booksCount": 97,
         "updatedAt": "2019-02-05 05:49:47"
-    },
-    "176805114-yandex": {
-        "id": "176805114-yandex",
-        "nickname": "fir137",
-        "booksCount": 25,
-        "updatedAt": "2019-02-04 23:38:47"
     },
     "104289450206538776186-googleplus": {
         "id": "104289450206538776186-googleplus",

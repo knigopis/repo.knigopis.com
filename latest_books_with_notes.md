@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Убийство ~ [fir137](users/176/176805114-yandex)<sup>26</sup>
 * Охота на тринадцатого ~ [Chiffi](users/105/105831994080785626680-google)<sup>97</sup>
 * Тайна лорда Листердейла (сборник) ~ [fir137](users/176/176805114-yandex)<sup>25</sup>
 * Рябиновый мед. Августина ~ [Chiffi](users/105/105831994080785626680-google)<sup>96</sup>
@@ -30,7 +31,6 @@
 * Мешок с костями ~ [Victoria](users/113/113794223924688167852-google)<sup>38</sup>
 * Сад бабочек ~ [Victoria](users/113/113794223924688167852-google)<sup>37</sup>
 * Черновик ~ [Victoria](users/113/113794223924688167852-google)<sup>36</sup>
-* Будущее ~ [Victoria](users/113/113794223924688167852-google)<sup>35</sup>
 
 
-_05.02.2019 05:49:47_
+_05.02.2019 14:43:46_

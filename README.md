@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убийство ~ [fir137](users/176/176805114-yandex)<sup>26</sup>
+    > Читать книгу лучше до "Таинственный мистер Кин". Из упомянутой книги заимствован главный герой, не лучшего детективного склада, что придает книге горький привкус.
+
 * Охота на тринадцатого ~ [Chiffi](users/105/105831994080785626680-google)<sup>97</sup>
     > И если мир устроен так,  что люди не могут жить мирно,  и обязательно кто-то должен победить,  а кто-то проиграть,  так пусть победит наша родина.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Только первый-слишком сентиментальный.
 
 * Рябиновый мед. Августина ~ [Chiffi](users/105/105831994080785626680-google)<sup>96</sup>
-    > Семейная сага. Жизнь девочки, рожденной в начале века  и ее гимназических подруг. Спасибо автору,  что книга кончается в 1939г.
 
 * Происхождение жизни: наука и вера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>10</sup>
 
@@ -27,17 +29,15 @@ Do not use pull requests to make changes here.
 
 * Петербургские повести ~ [Йолант](users/104/104690883692185089260-google)<sup>186</sup>
 
-* Бот 2. Ґуаякільський парадокс. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>26</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>81</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>198</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>97</sup> 
-[fir137](users/176/176805114-yandex)<sup>25</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>26</sup> 
 [alphamakoto](users/342/342507332-vkontakte)<sup>0</sup> 
 [yurtik](users/166/166750349-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>51</sup> 
 
 
-_05.02.2019 13:17:10_
+_05.02.2019 14:43:46_
