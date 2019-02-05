@@ -1,4 +1,16 @@
 {
+    "6DFNW8Vreq": {
+        "id": "6DFNW8Vreq",
+        "title": "Ведьмы за границей",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2019-02-05 15:55:25",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "joan789",
+            "booksCount": 96
+        }
+    },
     "sfATttE91m": {
         "id": "sfATttE91m",
         "title": "Убийство",
@@ -345,18 +357,6 @@
             "id": "109132606845133294211-googleplus",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "ShjvYKYit9": {
-        "id": "ShjvYKYit9",
-        "title": "Частная жизнь Тюдоров. Секреты венценосной семьи",
-        "author": "Трейси Борман",
-        "notes": "",
-        "createdAt": "2019-01-31 17:00:40",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 125
         }
     }
 }

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>96</sup> 
 [fir137](users/176/176805114-yandex)<sup>26</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>81</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>198</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>234</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>209</sup> 
 [really_real](users/458/4583296-vkontakte)<sup>0</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>51</sup> 
 
 
-_05.02.2019 14:43:46_
+_05.02.2019 15:55:25_
