@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Охота на тринадцатого ~ [Chiffi](users/105/105831994080785626680-google)<sup>97</sup>
+    > И если мир устроен так,  что люди не могут жить мирно,  и обязательно кто-то должен победить,  а кто-то проиграть,  так пусть победит наша родина.
+
 * Тайна лорда Листердейла (сборник) ~ [fir137](users/176/176805114-yandex)<sup>25</sup>
     > Интересные и непохожие рассказы!
     > Только первый-слишком сентиментальный.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Семейная сага. Жизнь девочки, рожденной в начале века  и ее гимназических подруг. Спасибо автору,  что книга кончается в 1939г.
 
 * Происхождение жизни: наука и вера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>10</sup>
-    > 7/10 много картинок, освещает позицию с разных сторон.
 
 * В інтернеті хтось помиляється! ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>9</sup>
 
@@ -27,16 +29,14 @@ Do not use pull requests to make changes here.
 
 * Бот 2. Ґуаякільський парадокс. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>8</sup>
 
-* Миргород (сборник) ~ [Йолант](users/104/104690883692185089260-google)<sup>185</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>97</sup> 
 [fir137](users/176/176805114-yandex)<sup>25</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>26</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>96</sup> 
 [alphamakoto](users/342/342507332-vkontakte)<sup>0</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>196</sup> 
 [yurtik](users/166/166750349-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>51</sup> 
 
 
-_04.02.2019 23:38:47_
+_05.02.2019 05:49:47_

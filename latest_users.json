@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 97,
+        "updatedAt": "2019-02-05 05:49:47"
+    },
     "176805114-yandex": {
         "id": "176805114-yandex",
         "nickname": "fir137",
@@ -10,12 +16,6 @@
         "nickname": "Erdi",
         "booksCount": 26,
         "updatedAt": "2019-02-04 19:39:02"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 96,
-        "updatedAt": "2019-02-04 16:44:08"
     },
     "342507332-vkontakte": {
         "id": "342507332-vkontakte",
