@@ -1,4 +1,16 @@
 {
+    "1LE6LmCogW": {
+        "id": "1LE6LmCogW",
+        "title": "Рассказы о животных",
+        "author": "Эрнест Сетон-Томпсон",
+        "notes": "",
+        "createdAt": "2019-02-05 16:04:03",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "joan789",
+            "booksCount": 97
+        }
+    },
     "6DFNW8Vreq": {
         "id": "6DFNW8Vreq",
         "title": "Ведьмы за границей",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 73
-        }
-    },
-    "HR0rrf2NkV": {
-        "id": "HR0rrf2NkV",
-        "title": "Цирк уродов",
-        "author": "Даррен Шэн",
-        "notes": "",
-        "createdAt": "2019-01-31 18:09:35",
-        "user": {
-            "id": "109132606845133294211-googleplus",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
