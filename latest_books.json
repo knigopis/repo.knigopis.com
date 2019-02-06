@@ -1,4 +1,16 @@
 {
+    "xaohtaRWra": {
+        "id": "xaohtaRWra",
+        "title": "Библия",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-02-06 07:18:19",
+        "user": {
+            "id": "104448632954411726505-google",
+            "nickname": "белая плесень",
+            "booksCount": 14
+        }
+    },
     "VXRhb_I56I": {
         "id": "VXRhb_I56I",
         "title": "Так говорил Заратустра",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 24
-        }
-    },
-    "l0EWiG9JgX": {
-        "id": "l0EWiG9JgX",
-        "title": "Камера обскура",
-        "author": "Владимир Набоков",
-        "notes": "10/10",
-        "createdAt": "2019-02-01 11:26:48",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 103
         }
     }
 }
