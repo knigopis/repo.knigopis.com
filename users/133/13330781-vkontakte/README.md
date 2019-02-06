@@ -1,4 +1,4 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>82</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>83</sup>
 ---
 
 ## 2019
@@ -126,6 +126,10 @@
 ### Розы на руинах
 Вирджиния Эндрюс
 > [2019-01-01] 
+
+
+### Монах, который продал свой Феррари
+Шарма Робин
 
 
 
