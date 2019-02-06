@@ -1,4 +1,10 @@
 {
+    "104448632954411726505-google": {
+        "id": "104448632954411726505-google",
+        "nickname": "белая плесень",
+        "booksCount": 12,
+        "updatedAt": "2019-02-06 07:15:20"
+    },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",
         "nickname": "joan789",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 209,
         "updatedAt": "2019-01-30 16:51:07"
-    },
-    "4583296-vkontakte": {
-        "id": "4583296-vkontakte",
-        "nickname": "really_real",
-        "booksCount": 0,
-        "updatedAt": "2019-01-30 13:34:36"
     }
 }

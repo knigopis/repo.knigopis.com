@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[белая плесень](users/104/104448632954411726505-google)<sup>12</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>97</sup> 
 [fir137](users/176/176805114-yandex)<sup>26</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>81</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>58</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>234</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>209</sup> 
-[really_real](users/458/4583296-vkontakte)<sup>0</sup> 
 
 
-_05.02.2019 16:04:03_
+_06.02.2019 07:15:20_
