@@ -1,4 +1,16 @@
 {
+    "WfbtolXDgT": {
+        "id": "WfbtolXDgT",
+        "title": "😈Morbus Dei. Зарождение.",
+        "author": "Б.Цах, М. Бауэр",
+        "notes": "Огонь",
+        "createdAt": "2019-02-06 13:07:42",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 59
+        }
+    },
     "TZK0g-3MpI": {
         "id": "TZK0g-3MpI",
         "title": "Собственник",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 185
-        }
-    },
-    "AUN_qHsF_w": {
-        "id": "AUN_qHsF_w",
-        "title": "SelfМама",
-        "author": "Петрановская Л.",
-        "notes": "",
-        "createdAt": "2019-02-01 20:16:38",
-        "user": {
-            "id": "114608504300850856669-google",
-            "nickname": "Katuf",
-            "booksCount": 1
         }
     }
 }
