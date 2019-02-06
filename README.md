@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>82</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>59</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>153</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>14</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>97</sup> 
 [fir137](users/176/176805114-yandex)<sup>26</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>81</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>198</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>97</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>26</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>209</sup> 
 
 
-_06.02.2019 13:07:43_
+_06.02.2019 13:48:29_

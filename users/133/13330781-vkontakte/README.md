@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>81</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>82</sup>
 ---
 
 ## 2019
+
+### Шарма Робин
+Лидер без титула
+> [2019-02-06] 
+
 
 ### Не набрасывайтесь на мармелад
 Посада де Хоаким
