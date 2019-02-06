@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>153</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>14</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>97</sup> 
 [fir137](users/176/176805114-yandex)<sup>26</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/109/109132606845133294211-googleplus)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>125</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>347</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>152</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>8</sup> 
 [Universe Movie](users/110/110500081953374368911-google)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>58</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>209</sup> 
 
 
-_06.02.2019 07:18:19_
+_06.02.2019 11:43:37_

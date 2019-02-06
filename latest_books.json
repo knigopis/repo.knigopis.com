@@ -1,4 +1,16 @@
 {
+    "TZK0g-3MpI": {
+        "id": "TZK0g-3MpI",
+        "title": "Собственник",
+        "author": "Джон Голсуорси",
+        "notes": "",
+        "createdAt": "2019-02-06 11:43:37",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 153
+        }
+    },
     "xaohtaRWra": {
         "id": "xaohtaRWra",
         "title": "Библия",
@@ -345,18 +357,6 @@
             "id": "114608504300850856669-google",
             "nickname": "Katuf",
             "booksCount": 1
-        }
-    },
-    "HCb30DxWMR": {
-        "id": "HCb30DxWMR",
-        "title": "Трилогия желания",
-        "author": "Теодор Драйзер",
-        "notes": "Биография одного очень сильного и успешного человека. И всего лишь, и вот это да!",
-        "createdAt": "2019-02-01 20:06:05",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 24
         }
     }
 }

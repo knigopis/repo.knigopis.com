@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 153,
+        "updatedAt": "2019-02-06 11:43:37"
+    },
     "104448632954411726505-google": {
         "id": "104448632954411726505-google",
         "nickname": "белая плесень",
@@ -142,12 +148,6 @@
         "nickname": "HXT",
         "booksCount": 347,
         "updatedAt": "2019-01-31 14:22:30"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 152,
-        "updatedAt": "2019-01-31 08:48:07"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
