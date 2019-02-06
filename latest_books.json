@@ -1,4 +1,16 @@
 {
+    "VXRhb_I56I": {
+        "id": "VXRhb_I56I",
+        "title": "Так говорил Заратустра",
+        "author": "Фридрих Ницше",
+        "notes": "",
+        "createdAt": "2019-02-06 07:17:55",
+        "user": {
+            "id": "104448632954411726505-google",
+            "nickname": "белая плесень",
+            "booksCount": 14
+        }
+    },
     "XvZwaIrmvq": {
         "id": "XvZwaIrmvq",
         "title": "Письма о добром и прекрасном",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 103
-        }
-    },
-    "KMxWHMOI4L": {
-        "id": "KMxWHMOI4L",
-        "title": "Убийство в Восточном экспрессе",
-        "author": "Кристи Агата",
-        "notes": "Не впечатлила книга.",
-        "createdAt": "2019-02-01 07:36:27",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 23
         }
     }
 }
