@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>126</sup> 
 [](users/901/9017247704455477472-mailru)<sup>1</sup> 
 [Миха Бог](users/153/15354310720882021989-mailru)<sup>0</sup> 
 [uid-psj75pet](users/775/775038048-yandex)<sup>0</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>73</sup> 
 [](users/109/109132606845133294211-googleplus)<sup>1</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>125</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>347</sup> 
 
 
-_07.02.2019 11:19:57_
+_07.02.2019 18:20:32_

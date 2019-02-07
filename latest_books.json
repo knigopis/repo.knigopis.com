@@ -1,4 +1,16 @@
 {
+    "wMTjJtP2-m": {
+        "id": "wMTjJtP2-m",
+        "title": "Уникальный экземпляр",
+        "author": "Том Хэнкс",
+        "notes": "",
+        "createdAt": "2019-02-07 18:20:32",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 126
+        }
+    },
     "NrRoPBjm7m": {
         "id": "NrRoPBjm7m",
         "title": "Кайноzой",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 25
-        }
-    },
-    "-wpa9mhutv": {
-        "id": "-wpa9mhutv",
-        "title": "Богатый папа - бедный папа",
-        "author": "Роберт Кийосаки",
-        "notes": "",
-        "createdAt": "2019-02-04 19:39:02",
-        "user": {
-            "id": "104289450206538776186-googleplus",
-            "nickname": "Erdi",
-            "booksCount": 26
         }
     }
 }
