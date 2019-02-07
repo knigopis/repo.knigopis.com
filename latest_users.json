@@ -1,4 +1,10 @@
 {
+    "775038048-yandex": {
+        "id": "775038048-yandex",
+        "nickname": "uid-psj75pet",
+        "booksCount": 0,
+        "updatedAt": "2019-02-07 08:15:56"
+    },
     "695244810674916-facebook": {
         "id": "695244810674916-facebook",
         "nickname": "Eugene",
@@ -172,11 +178,5 @@
         "nickname": "Universe Movie",
         "booksCount": 1,
         "updatedAt": "2019-01-31 06:19:48"
-    },
-    "10848515355906827860-mailru": {
-        "id": "10848515355906827860-mailru",
-        "nickname": "Оля-перекати-поле",
-        "booksCount": 234,
-        "updatedAt": "2019-01-30 17:40:43"
     }
 }
