@@ -1,4 +1,4 @@
-# List of books read by [Eugene](https://www.facebook.com/profile.php?id=695244810674916)<sup>9</sup>
+# List of books read by [Eugene](https://www.facebook.com/profile.php?id=695244810674916)<sup>10</sup>
 ---
 
 ## 2019
@@ -10,6 +10,11 @@
 
 
 ## 2018
+
+### Серебряная маска
+Холли Блэк
+> [2018-10] 
+
 
 ### Медная перчатка
 Холли Блэк
