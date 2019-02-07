@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/695/695244810674916-facebook)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>188</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>83</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>59</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>8</sup> 
 [Universe Movie](users/110/110500081953374368911-google)<sup>1</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>234</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>209</sup> 
 
 
-_06.02.2019 19:45:06_
+_07.02.2019 06:02:48_
