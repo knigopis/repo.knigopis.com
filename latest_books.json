@@ -1,4 +1,16 @@
 {
+    "7worwo_jlw": {
+        "id": "7worwo_jlw",
+        "title": "Бронзовая перчатка",
+        "author": "Холли Блэк",
+        "notes": "",
+        "createdAt": "2019-02-07 06:14:37",
+        "user": {
+            "id": "695244810674916-facebook",
+            "nickname": "Eugene",
+            "booksCount": 8
+        }
+    },
     "EPKw5G1o-V": {
         "id": "EPKw5G1o-V",
         "title": "Железное испытание",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 9
-        }
-    },
-    "U8kYrj48r4": {
-        "id": "U8kYrj48r4",
-        "title": "Живая кухня. Трансерфинг обновленя",
-        "author": "Вадим Зеланд",
-        "notes": "",
-        "createdAt": "2019-02-03 15:00:02",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 80
         }
     }
 }
