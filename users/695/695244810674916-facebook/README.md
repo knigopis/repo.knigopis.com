@@ -1,4 +1,4 @@
-# List of books read by [Eugene](https://www.facebook.com/profile.php?id=695244810674916)<sup>8</sup>
+# List of books read by [Eugene](https://www.facebook.com/profile.php?id=695244810674916)<sup>9</sup>
 ---
 
 ## 2019
@@ -10,6 +10,11 @@
 
 
 ## 2018
+
+### Медная перчатка
+Холли Блэк
+> [2018-08] 
+
 
 ### Бронзовый ключ
 Холли Блэк
