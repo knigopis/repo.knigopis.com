@@ -1,4 +1,16 @@
 {
+    "miA0SkVAh_": {
+        "id": "miA0SkVAh_",
+        "title": "Бэтси",
+        "author": "Гарольд Роббинс",
+        "notes": "",
+        "createdAt": "2019-02-07 06:13:21",
+        "user": {
+            "id": "695244810674916-facebook",
+            "nickname": "Eugene",
+            "booksCount": 5
+        }
+    },
     "jAVjwH_m3s": {
         "id": "jAVjwH_m3s",
         "title": "Последний Дон",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 78
-        }
-    },
-    "XDlaIO_jl6": {
-        "id": "XDlaIO_jl6",
-        "title": "Голодание ради здоровья. Забытые достижения советской медицины",
-        "author": "Николаев Ю.С., Нилов Е.И., Черкасов В.Г",
-        "notes": "Информация общая, очень полезная для введение в эту сферу.\nИсторическое наследие.",
-        "createdAt": "2019-02-03 10:05:49",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 60
         }
     }
 }
