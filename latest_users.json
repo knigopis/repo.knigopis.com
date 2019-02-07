@@ -1,4 +1,10 @@
 {
+    "695244810674916-facebook": {
+        "id": "695244810674916-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-02-07 06:02:44"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "Оля-перекати-поле",
         "booksCount": 234,
         "updatedAt": "2019-01-30 17:40:43"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 209,
-        "updatedAt": "2019-01-30 16:51:07"
     }
 }
