@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>9</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>6</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>126</sup> 
 [](users/901/9017247704455477472-mailru)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/202/2029906773973459-facebook)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>73</sup> 
-[](users/109/109132606845133294211-googleplus)<sup>1</sup> 
 
 
-_07.02.2019 19:39:17_
+_07.02.2019 21:13:22_

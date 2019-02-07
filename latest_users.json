@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 9,
+        "updatedAt": "2019-02-07 21:13:22"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 73,
         "updatedAt": "2019-01-31 18:55:09"
-    },
-    "109132606845133294211-googleplus": {
-        "id": "109132606845133294211-googleplus",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2019-01-31 18:09:35"
     }
 }
