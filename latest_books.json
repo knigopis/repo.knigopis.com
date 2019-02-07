@@ -1,4 +1,16 @@
 {
+    "7GSf19N7-Y": {
+        "id": "7GSf19N7-Y",
+        "title": "Золотая башня",
+        "author": "Холли Блэк",
+        "notes": "",
+        "createdAt": "2019-02-07 06:17:13",
+        "user": {
+            "id": "695244810674916-facebook",
+            "nickname": "Eugene",
+            "booksCount": 11
+        }
+    },
     "apuPuBOxja": {
         "id": "apuPuBOxja",
         "title": "Серебряная маска",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 96
-        }
-    },
-    "y6FmFyaB_T": {
-        "id": "y6FmFyaB_T",
-        "title": "Английский пациент",
-        "author": "Майкл Ондатже",
-        "notes": "",
-        "createdAt": "2019-02-04 07:47:29",
-        "user": {
-            "id": "973496-vkontakte",
-            "nickname": "radeonx801",
-            "booksCount": 196
         }
     }
 }
