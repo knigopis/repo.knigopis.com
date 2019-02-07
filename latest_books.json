@@ -1,4 +1,16 @@
 {
+    "jAVjwH_m3s": {
+        "id": "jAVjwH_m3s",
+        "title": "Последний Дон",
+        "author": "Марио Пьюзо",
+        "notes": "",
+        "createdAt": "2019-02-07 06:12:46",
+        "user": {
+            "id": "695244810674916-facebook",
+            "nickname": "Eugene",
+            "booksCount": 4
+        }
+    },
     "laGo4uzrVP": {
         "id": "laGo4uzrVP",
         "title": "Первый Дон",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 60
-        }
-    },
-    "AGp0N_Payy": {
-        "id": "AGp0N_Payy",
-        "title": "Бабушка велела кланятся и передвть, что просит прощения",
-        "author": "Фредрик Бакман",
-        "notes": "",
-        "createdAt": "2019-02-03 05:13:50",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 77
         }
     }
 }
