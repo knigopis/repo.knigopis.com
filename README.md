@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>348</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>16</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>84</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>9</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>24</sup> 
 [](users/202/2029906773973459-facebook)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>73</sup> 
 
 
-_08.02.2019 10:55:05_
+_08.02.2019 20:00:48_

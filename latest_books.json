@@ -1,4 +1,16 @@
 {
+    "3gzCXx23vq": {
+        "id": "3gzCXx23vq",
+        "title": "Анамалія",
+        "author": "Бычкоўскі Алесь",
+        "notes": "",
+        "createdAt": "2019-02-08 20:00:47",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 348
+        }
+    },
     "eQ4e_opIG8": {
         "id": "eQ4e_opIG8",
         "title": "Орудия смерти (серия)",
@@ -345,18 +357,6 @@
             "id": "104448632954411726505-google",
             "nickname": "белая плесень",
             "booksCount": 13
-        }
-    },
-    "zn4oexAHCP": {
-        "id": "zn4oexAHCP",
-        "title": "Рассказ о необыкновенном",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2019-02-06 07:15:20",
-        "user": {
-            "id": "104448632954411726505-google",
-            "nickname": "белая плесень",
-            "booksCount": 12
         }
     }
 }
