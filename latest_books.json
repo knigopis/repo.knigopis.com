@@ -1,4 +1,16 @@
 {
+    "VuGgtCMARD": {
+        "id": "VuGgtCMARD",
+        "title": "Почему не Эванс?",
+        "author": "Кристи Агата",
+        "notes": "",
+        "createdAt": "2019-02-08 20:31:28",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 27
+        }
+    },
     "3gzCXx23vq": {
         "id": "3gzCXx23vq",
         "title": "Анамалія",
@@ -345,18 +357,6 @@
             "id": "104448632954411726505-google",
             "nickname": "белая плесень",
             "booksCount": 14
-        }
-    },
-    "XvZwaIrmvq": {
-        "id": "XvZwaIrmvq",
-        "title": "Письма о добром и прекрасном",
-        "author": "Дмитрий Лихачев",
-        "notes": "",
-        "createdAt": "2019-02-06 07:15:57",
-        "user": {
-            "id": "104448632954411726505-google",
-            "nickname": "белая плесень",
-            "booksCount": 13
         }
     }
 }

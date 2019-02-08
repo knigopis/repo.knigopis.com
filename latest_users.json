@@ -1,4 +1,10 @@
 {
+    "176805114-yandex": {
+        "id": "176805114-yandex",
+        "nickname": "fir137",
+        "booksCount": 27,
+        "updatedAt": "2019-02-08 20:31:28"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -82,12 +88,6 @@
         "nickname": "joan789",
         "booksCount": 97,
         "updatedAt": "2019-02-05 16:04:03"
-    },
-    "176805114-yandex": {
-        "id": "176805114-yandex",
-        "nickname": "fir137",
-        "booksCount": 26,
-        "updatedAt": "2019-02-05 14:43:46"
     },
     "973496-vkontakte": {
         "id": "973496-vkontakte",

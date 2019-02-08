@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>27</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>348</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>16</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>84</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>153</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>14</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>97</sup> 
-[fir137](users/176/176805114-yandex)<sup>26</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>198</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>97</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>26</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup> 
 
 
-_08.02.2019 20:00:48_
+_08.02.2019 20:31:28_
