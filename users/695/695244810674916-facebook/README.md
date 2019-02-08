@@ -1,4 +1,4 @@
-# List of books read by [Eugene](https://www.facebook.com/profile.php?id=695244810674916)<sup>15</sup>
+# List of books read by [Eugene](https://www.facebook.com/profile.php?id=695244810674916)<sup>16</sup>
 ---
 
 ## 2019
@@ -46,6 +46,13 @@
 
 ### Бэтси
 Гарольд Роббинс
+
+
+
+## 2016
+
+### Орудия смерти (серия)
+Кассандра Клэр
 
 
 
