@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Люина розумна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>11</sup>
+    > 10/10 Від когнітивної до біологічної революції виду крізь призму науки.
+
 * Детская книга войны - Дневники 1941-1945 ~ [Йолант](users/104/104690883692185089260-google)<sup>188</sup>
     > Все слова кажутся лишними. Хочу предупредить, что книга, разумеется, тяжёлая. Дневники очень разные: видно, что в блокадном Ленинграде у всех условия были разными. Особенно шокирующие дневники подростков из гетто и концлагерей.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Огонь
 
 * Убийство ~ [fir137](users/176/176805114-yandex)<sup>26</sup>
-    > Читать книгу лучше до "Таинственный мистер Кин". Из упомянутой книги заимствован главный герой, не лучшего детективного склада, что придает книге горький привкус.
 
 * Охота на тринадцатого ~ [Chiffi](users/105/105831994080785626680-google)<sup>97</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Голодание ради здоровья. Забытые достижения советской медицины ~ [sonics](users/588/5880221-vkontakte)<sup>60</sup>
 
-* Расследует Паркер Пайн ~ [fir137](users/176/176805114-yandex)<sup>24</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>11</sup> 
 [fir137](users/176/176805114-yandex)<sup>27</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>348</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>16</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Erdi](users/104/104289450206538776186-googleplus)<sup>26</sup> 
 [alphamakoto](users/342/342507332-vkontakte)<sup>0</sup> 
 [yurtik](users/166/166750349-vkontakte)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>10</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>60</sup> 
 [farmorsik](users/200/20073463-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup> 
 
 
-_08.02.2019 20:31:28_
+_08.02.2019 21:18:18_

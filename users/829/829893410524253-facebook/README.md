@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>10</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>11</sup>
 ---
 
 ## 2019
+
+### Люина розумна
+Ювал Ной Харарі
+> [2019-02-08] 10/10 Від когнітивної до біологічної революції виду крізь призму науки.
+
 
 ### Происхождение жизни: наука и вера
 НАН и институт медицины США
