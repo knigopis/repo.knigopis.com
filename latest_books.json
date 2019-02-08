@@ -1,4 +1,16 @@
 {
+    "LuFFFCDejA": {
+        "id": "LuFFFCDejA",
+        "title": "Подсознание может все",
+        "author": "Джон Кехо",
+        "notes": "",
+        "createdAt": "2019-02-08 08:40:05",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 84
+        }
+    },
     "mo8XxbGQP5": {
         "id": "mo8XxbGQP5",
         "title": "Ракетный центр третьего Рейха",
@@ -345,18 +357,6 @@
             "id": "973496-vkontakte",
             "nickname": "radeonx801",
             "booksCount": 198
-        }
-    },
-    "1LKag8pxgv": {
-        "id": "1LKag8pxgv",
-        "title": "Звёздная пыль",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2019-02-05 06:59:59",
-        "user": {
-            "id": "973496-vkontakte",
-            "nickname": "radeonx801",
-            "booksCount": 197
         }
     }
 }
