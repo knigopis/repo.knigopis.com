@@ -1,4 +1,10 @@
 {
+    "695244810674916-facebook": {
+        "id": "695244810674916-facebook",
+        "nickname": "Eugene",
+        "booksCount": 12,
+        "updatedAt": "2019-02-08 10:52:16"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -40,12 +46,6 @@
         "nickname": "uid-psj75pet",
         "booksCount": 0,
         "updatedAt": "2019-02-07 08:15:56"
-    },
-    "695244810674916-facebook": {
-        "id": "695244810674916-facebook",
-        "nickname": "Eugene",
-        "booksCount": 11,
-        "updatedAt": "2019-02-07 06:17:13"
     },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",

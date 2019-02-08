@@ -1,4 +1,16 @@
 {
+    "wICF5NC1ta": {
+        "id": "wICF5NC1ta",
+        "title": "Тайный город (серия)",
+        "author": "Вадим Панов",
+        "notes": "",
+        "createdAt": "2019-02-08 10:52:16",
+        "user": {
+            "id": "695244810674916-facebook",
+            "nickname": "Eugene",
+            "booksCount": 12
+        }
+    },
     "LuFFFCDejA": {
         "id": "LuFFFCDejA",
         "title": "Подсознание может все",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 81
-        }
-    },
-    "UpIL8BahdX": {
-        "id": "UpIL8BahdX",
-        "title": "Повелитель мух",
-        "author": "Голдинг Уильям",
-        "notes": "",
-        "createdAt": "2019-02-05 12:47:49",
-        "user": {
-            "id": "973496-vkontakte",
-            "nickname": "radeonx801",
-            "booksCount": 198
         }
     }
 }
