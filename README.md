@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Eugene](users/695/695244810674916-facebook)<sup>12</sup> 
+[Eugene](users/695/695244810674916-facebook)<sup>13</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>84</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>9</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>6</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>73</sup> 
 
 
-_08.02.2019 10:52:16_
+_08.02.2019 10:53:07_

@@ -1,4 +1,16 @@
 {
+    "8DrmT0e78t": {
+        "id": "8DrmT0e78t",
+        "title": "Камень для Дэнни Фишера",
+        "author": "Гарольд Роббинс",
+        "notes": "",
+        "createdAt": "2019-02-08 10:53:07",
+        "user": {
+            "id": "695244810674916-facebook",
+            "nickname": "Eugene",
+            "booksCount": 13
+        }
+    },
     "wICF5NC1ta": {
         "id": "wICF5NC1ta",
         "title": "Тайный город (серия)",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 26
-        }
-    },
-    "_Hca1JRmkT": {
-        "id": "_Hca1JRmkT",
-        "title": "Не набрасывайтесь на мармелад",
-        "author": "Посада де Хоаким",
-        "notes": "",
-        "createdAt": "2019-02-05 13:17:10",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 81
         }
     }
 }
