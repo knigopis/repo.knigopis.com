@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>11</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>12</sup>
 ---
 
 ## 2019
+
+### Мерфі і Паркінсон
+Закони
+> [2019-02-09] 5/10 Можна змінювати статуси у соцмережах кожного дня протягом року за допомогою цих цитат.
+
 
 ### Люина розумна
 Ювал Ной Харарі
