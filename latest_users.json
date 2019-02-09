@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 14,
+        "updatedAt": "2019-02-09 19:45:02"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Quaff",
         "booksCount": 24,
         "updatedAt": "2019-02-01 20:06:05"
-    },
-    "2029906773973459-facebook": {
-        "id": "2029906773973459-facebook",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-02-01 18:22:42"
     }
 }

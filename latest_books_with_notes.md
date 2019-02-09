@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Надвигается беда ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>14</sup>
 * Ведьмы за границей ~ [Garka](users/115/115753719718250012620-google)<sup>210</sup>
 * Мерфі і Паркінсон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>12</sup>
 * Люина розумна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>11</sup>
@@ -30,7 +31,6 @@
 * Дворянское гнездо ~ [exulted](users/100/100599204551896265722-google)<sup>96</sup>
 * Астор-Холт ~ [Марихуанна](users/101/101373950743550846629-google)<sup>12</sup>
 * Академия попаданцев. ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>83</sup>
-* Академия темных. Дыхание проклятого ~ [Vikki❤️](users/178/17876169737876636605-mailru)<sup>82</sup>
 
 
-_09.02.2019 15:24:25_
+_09.02.2019 19:45:02_
