@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>189</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>11</sup> 
 [fir137](users/176/176805114-yandex)<sup>27</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>348</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/901/9017247704455477472-mailru)<sup>1</sup> 
 [Миха Бог](users/153/15354310720882021989-mailru)<sup>0</sup> 
 [uid-psj75pet](users/775/775038048-yandex)<sup>0</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>188</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>59</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>153</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup> 
 
 
-_08.02.2019 21:18:18_
+_09.02.2019 02:18:34_
