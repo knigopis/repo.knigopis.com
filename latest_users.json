@@ -1,4 +1,10 @@
 {
+    "114867625557587940583-google": {
+        "id": "114867625557587940583-google",
+        "nickname": "Kurokuma",
+        "booksCount": 0,
+        "updatedAt": "2019-02-10 14:22:55"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Katuf",
         "booksCount": 1,
         "updatedAt": "2019-02-01 20:16:38"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 24,
-        "updatedAt": "2019-02-01 20:06:05"
     }
 }
