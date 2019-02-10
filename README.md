@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Kurokuma](users/114/114867625557587940583-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>98</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>60</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>14</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [axulitoviy](users/193/193373239-vkontakte)<sup>0</sup> 
 [kitten22](users/111/11117729-vkontakte)<sup>0</sup> 
 [Katuf](users/114/114608504300850856669-google)<sup>1</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>24</sup> 
 
 
-_10.02.2019 14:07:22_
+_10.02.2019 14:22:59_
