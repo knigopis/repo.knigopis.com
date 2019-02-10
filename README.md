@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>98</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>60</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>14</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>210</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [белая плесень](users/104/104448632954411726505-google)<sup>14</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>97</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>198</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>97</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>26</sup> 
 [alphamakoto](users/342/342507332-vkontakte)<sup>0</sup> 
 [yurtik](users/166/166750349-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>24</sup> 
 
 
-_10.02.2019 13:49:10_
+_10.02.2019 14:07:22_
