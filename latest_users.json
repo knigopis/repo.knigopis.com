@@ -1,4 +1,10 @@
 {
+    "103018351090055633128-google": {
+        "id": "103018351090055633128-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-02-11 08:06:34"
+    },
     "176805114-yandex": {
         "id": "176805114-yandex",
         "nickname": "fir137",
@@ -172,11 +178,5 @@
         "nickname": "kitten22",
         "booksCount": 0,
         "updatedAt": "2019-02-01 20:21:54"
-    },
-    "114608504300850856669-google": {
-        "id": "114608504300850856669-google",
-        "nickname": "Katuf",
-        "booksCount": 1,
-        "updatedAt": "2019-02-01 20:16:38"
     }
 }
