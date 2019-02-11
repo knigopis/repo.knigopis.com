@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[radeonx801](users/973/973496-vkontakte)<sup>199</sup> 
 [](users/103/103018351090055633128-google)<sup>0</sup> 
 [fir137](users/176/176805114-yandex)<sup>28</sup> 
 [Kurokuma](users/114/114867625557587940583-google)<sup>0</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>153</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>14</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>97</sup> 
-[radeonx801](users/973/973496-vkontakte)<sup>198</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>26</sup> 
 [alphamakoto](users/342/342507332-vkontakte)<sup>0</sup> 
 [yurtik](users/166/166750349-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kitten22](users/111/11117729-vkontakte)<sup>0</sup> 
 
 
-_11.02.2019 08:06:39_
+_11.02.2019 08:31:54_

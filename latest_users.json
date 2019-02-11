@@ -1,4 +1,10 @@
 {
+    "973496-vkontakte": {
+        "id": "973496-vkontakte",
+        "nickname": "radeonx801",
+        "booksCount": 199,
+        "updatedAt": "2019-02-11 08:31:54"
+    },
     "103018351090055633128-google": {
         "id": "103018351090055633128-google",
         "nickname": null,
@@ -124,12 +130,6 @@
         "nickname": "joan789",
         "booksCount": 97,
         "updatedAt": "2019-02-05 16:04:03"
-    },
-    "973496-vkontakte": {
-        "id": "973496-vkontakte",
-        "nickname": "radeonx801",
-        "booksCount": 198,
-        "updatedAt": "2019-02-05 12:47:49"
     },
     "104289450206538776186-googleplus": {
         "id": "104289450206538776186-googleplus",
