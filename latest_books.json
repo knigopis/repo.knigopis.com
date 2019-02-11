@@ -1,4 +1,16 @@
 {
+    "vOYEEzHH_f": {
+        "id": "vOYEEzHH_f",
+        "title": "Гордость и предупреждение",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2019-02-11 17:53:20",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 59
+        }
+    },
     "I02EClIYN2": {
         "id": "I02EClIYN2",
         "title": "Неприятная профессия Джонатана Хога",
@@ -345,18 +357,6 @@
             "id": "695244810674916-facebook",
             "nickname": "Eugene",
             "booksCount": 4
-        }
-    },
-    "laGo4uzrVP": {
-        "id": "laGo4uzrVP",
-        "title": "Первый Дон",
-        "author": "Марио Пьюзо",
-        "notes": "",
-        "createdAt": "2019-02-07 06:12:25",
-        "user": {
-            "id": "695244810674916-facebook",
-            "nickname": "Eugene",
-            "booksCount": 3
         }
     }
 }

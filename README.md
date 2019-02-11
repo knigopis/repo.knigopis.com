@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>59</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>199</sup> 
 [](users/103/103018351090055633128-google)<sup>0</sup> 
 [fir137](users/176/176805114-yandex)<sup>28</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>60</sup> 
 [farmorsik](users/200/20073463-vkontakte)<sup>0</sup> 
 [axulitoviy](users/193/193373239-vkontakte)<sup>0</sup> 
-[kitten22](users/111/11117729-vkontakte)<sup>0</sup> 
 
 
-_11.02.2019 08:31:54_
+_11.02.2019 17:53:20_
