@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/103/103018351090055633128-google)<sup>0</sup> 
 [fir137](users/176/176805114-yandex)<sup>28</sup> 
 [Kurokuma](users/114/114867625557587940583-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>98</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [farmorsik](users/200/20073463-vkontakte)<sup>0</sup> 
 [axulitoviy](users/193/193373239-vkontakte)<sup>0</sup> 
 [kitten22](users/111/11117729-vkontakte)<sup>0</sup> 
-[Katuf](users/114/114608504300850856669-google)<sup>1</sup> 
 
 
-_10.02.2019 16:02:32_
+_11.02.2019 08:06:39_
