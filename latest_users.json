@@ -1,4 +1,10 @@
 {
+    "208969292-yandex": {
+        "id": "208969292-yandex",
+        "nickname": "elena-gagina2014",
+        "booksCount": 6,
+        "updatedAt": "2019-02-12 17:13:13"
+    },
     "32903202-vkontakte": {
         "id": "32903202-vkontakte",
         "nickname": "fire_ejik",
@@ -172,11 +178,5 @@
         "nickname": "sonics",
         "booksCount": 60,
         "updatedAt": "2019-02-03 10:05:49"
-    },
-    "20073463-vkontakte": {
-        "id": "20073463-vkontakte",
-        "nickname": "farmorsik",
-        "booksCount": 0,
-        "updatedAt": "2019-02-03 04:00:42"
     }
 }
