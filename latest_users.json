@@ -1,4 +1,10 @@
 {
+    "32903202-vkontakte": {
+        "id": "32903202-vkontakte",
+        "nickname": "fire_ejik",
+        "booksCount": 45,
+        "updatedAt": "2019-02-12 14:56:29"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "farmorsik",
         "booksCount": 0,
         "updatedAt": "2019-02-03 04:00:42"
-    },
-    "193373239-vkontakte": {
-        "id": "193373239-vkontakte",
-        "nickname": "axulitoviy",
-        "booksCount": 0,
-        "updatedAt": "2019-02-02 20:29:58"
     }
 }
