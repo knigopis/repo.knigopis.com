@@ -1,4 +1,16 @@
 {
+    "PpxdsHgVGp": {
+        "id": "PpxdsHgVGp",
+        "title": "Убийства по алфавиту",
+        "author": "Кристи Агата",
+        "notes": "",
+        "createdAt": "2019-02-13 19:24:59",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 29
+        }
+    },
     "FQeJJQm_Mg": {
         "id": "FQeJJQm_Mg",
         "title": "Скандинавские боги",
@@ -345,18 +357,6 @@
             "id": "695244810674916-facebook",
             "nickname": "Eugene",
             "booksCount": 9
-        }
-    },
-    "7worwo_jlw": {
-        "id": "7worwo_jlw",
-        "title": "Бронзовая перчатка",
-        "author": "Холли Блэк",
-        "notes": "",
-        "createdAt": "2019-02-07 06:14:37",
-        "user": {
-            "id": "695244810674916-facebook",
-            "nickname": "Eugene",
-            "booksCount": 8
         }
     }
 }
