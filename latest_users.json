@@ -1,4 +1,10 @@
 {
+    "973496-vkontakte": {
+        "id": "973496-vkontakte",
+        "nickname": "radeonx801",
+        "booksCount": 200,
+        "updatedAt": "2019-02-13 07:58:38"
+    },
     "208969292-yandex": {
         "id": "208969292-yandex",
         "nickname": "elena-gagina2014",
@@ -22,12 +28,6 @@
         "nickname": "sab_olya",
         "booksCount": 59,
         "updatedAt": "2019-02-11 17:53:20"
-    },
-    "973496-vkontakte": {
-        "id": "973496-vkontakte",
-        "nickname": "radeonx801",
-        "booksCount": 199,
-        "updatedAt": "2019-02-11 08:31:54"
     },
     "103018351090055633128-google": {
         "id": "103018351090055633128-google",
