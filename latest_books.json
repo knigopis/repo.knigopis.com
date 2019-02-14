@@ -1,4 +1,16 @@
 {
+    "xXrw52g75n": {
+        "id": "xXrw52g75n",
+        "title": "Молот ведьм",
+        "author": "Константин Образцов",
+        "notes": "Интересно, ново, однако сюжет прост, если бы не замешали.",
+        "createdAt": "2019-02-14 19:57:32",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 25
+        }
+    },
     "ID9Kjq8Pao": {
         "id": "ID9Kjq8Pao",
         "title": "Маверик. История успеха самой необычной компании в мире",
@@ -345,18 +357,6 @@
             "id": "9017247704455477472-mailru",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "7GSf19N7-Y": {
-        "id": "7GSf19N7-Y",
-        "title": "Золотая башня",
-        "author": "Холли Блэк",
-        "notes": "",
-        "createdAt": "2019-02-07 06:17:13",
-        "user": {
-            "id": "695244810674916-facebook",
-            "nickname": "Eugene",
-            "booksCount": 11
         }
     }
 }

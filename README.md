@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Молот ведьм ~ [Quaff](users/122/12267158-vkontakte)<sup>25</sup>
+    > Интересно, ново, однако сюжет прост, если бы не замешали.
+
 * Маверик. История успеха самой необычной компании в мире ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup>
     > По сути, Рикардо своими руками создал настоящую бирюзовую организацию, причем в трудных условиях. Книга позволяет проследить, откуда и как такие организации появляются, какие ступени эволюции проходят. Да и вообще - просто интересно :)
     > 
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/138939254/
 
 * Фантомная боль ~ [elena-gagina2014](users/208/208969292-yandex)<sup>6</sup>
-    > интересная книга, в середине немного затянуто, но затем опять интересно. Человек умирает и ему дают право выбора - три жизни, три человека, в теле которого он может прожить еще 33 года, осталось выбрать кому он даст шанс и кто же в итоге он..
 
 * Смерть в облаках ~ [fir137](users/176/176805114-yandex)<sup>28</sup>
 
@@ -34,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Люина розумна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>11</sup>
 
-* Детская книга войны - Дневники 1941-1945 ~ [Йолант](users/104/104690883692185089260-google)<sup>188</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup> 
 [fir137](users/176/176805114-yandex)<sup>29</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>200</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Erdi](users/104/104289450206538776186-googleplus)<sup>26</sup> 
 [alphamakoto](users/342/342507332-vkontakte)<sup>0</sup> 
 [yurtik](users/166/166750349-vkontakte)<sup>0</sup> 
-[johnybond32](users/304/304041461-yandex)<sup>0</sup> 
 
 
-_13.02.2019 22:20:22_
+_14.02.2019 19:57:32_
