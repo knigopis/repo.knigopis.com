@@ -1,4 +1,16 @@
 {
+    "Slc7790fc_": {
+        "id": "Slc7790fc_",
+        "title": "Убийство в Месопотамии",
+        "author": "Кристи Агата",
+        "notes": "",
+        "createdAt": "2019-02-14 23:59:58",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 30
+        }
+    },
     "xXrw52g75n": {
         "id": "xXrw52g75n",
         "title": "Молот ведьм",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 126
-        }
-    },
-    "NrRoPBjm7m": {
-        "id": "NrRoPBjm7m",
-        "title": "Кайноzой",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2019-02-07 11:19:57",
-        "user": {
-            "id": "9017247704455477472-mailru",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

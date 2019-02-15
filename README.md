@@ -41,9 +41,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>30</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup> 
-[fir137](users/176/176805114-yandex)<sup>29</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>200</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>6</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>45</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [yurtik](users/166/166750349-vkontakte)<sup>0</sup> 
 
 
-_14.02.2019 19:57:32_
+_14.02.2019 23:59:58_
