@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>52</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>201</sup> 
 [arinka09200401](users/445/445767549-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>100</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [белая плесень](users/104/104448632954411726505-google)<sup>14</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>97</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>26</sup> 
-[alphamakoto](users/342/342507332-vkontakte)<sup>0</sup> 
 
 
-_15.02.2019 09:59:07_
+_15.02.2019 10:13:56_

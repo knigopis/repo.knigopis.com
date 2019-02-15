@@ -1,4 +1,16 @@
 {
+    "GtxzYm0Dq5": {
+        "id": "GtxzYm0Dq5",
+        "title": "На пределе. Границы возможностей человеческого организма",
+        "author": "Кевин Фонг",
+        "notes": "",
+        "createdAt": "2019-02-15 10:13:56",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 52
+        }
+    },
     "cFEYzPgjxd": {
         "id": "cFEYzPgjxd",
         "title": "Американские боги",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 84
-        }
-    },
-    "mo8XxbGQP5": {
-        "id": "mo8XxbGQP5",
-        "title": "Ракетный центр третьего Рейха",
-        "author": "Дитер Хуцель",
-        "notes": "",
-        "createdAt": "2019-02-07 21:13:22",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 9
         }
     }
 }
