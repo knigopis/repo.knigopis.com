@@ -1,4 +1,10 @@
 {
+    "445767549-vkontakte": {
+        "id": "445767549-vkontakte",
+        "nickname": "arinka09200401",
+        "booksCount": 0,
+        "updatedAt": "2019-02-15 08:50:57"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "alphamakoto",
         "booksCount": 0,
         "updatedAt": "2019-02-04 10:29:33"
-    },
-    "166750349-vkontakte": {
-        "id": "166750349-vkontakte",
-        "nickname": "yurtik",
-        "booksCount": 0,
-        "updatedAt": "2019-02-04 07:41:59"
     }
 }
