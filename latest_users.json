@@ -1,4 +1,10 @@
 {
+    "125225849-vkontakte": {
+        "id": "125225849-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-02-15 13:01:38"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "joan789",
         "booksCount": 97,
         "updatedAt": "2019-02-05 16:04:03"
-    },
-    "104289450206538776186-googleplus": {
-        "id": "104289450206538776186-googleplus",
-        "nickname": "Erdi",
-        "booksCount": 26,
-        "updatedAt": "2019-02-04 19:39:02"
     }
 }
