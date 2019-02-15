@@ -1,4 +1,16 @@
 {
+    "PZFD7VKUY-": {
+        "id": "PZFD7VKUY-",
+        "title": "чсч",
+        "author": "мсчсмч",
+        "notes": "",
+        "createdAt": "2019-02-15 14:48:48",
+        "user": {
+            "id": "5342064-vkontakte",
+            "nickname": "bunneh",
+            "booksCount": 1
+        }
+    },
     "GtxzYm0Dq5": {
         "id": "GtxzYm0Dq5",
         "title": "На пределе. Границы возможностей человеческого организма",
@@ -345,18 +357,6 @@
             "id": "695244810674916-facebook",
             "nickname": "Eugene",
             "booksCount": 12
-        }
-    },
-    "LuFFFCDejA": {
-        "id": "LuFFFCDejA",
-        "title": "Подсознание может все",
-        "author": "Джон Кехо",
-        "notes": "",
-        "createdAt": "2019-02-08 08:40:05",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 84
         }
     }
 }

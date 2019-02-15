@@ -41,7 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[bunneh](users/534/5342064-vkontakte)<sup>0</sup> 
+[bunneh](users/534/5342064-vkontakte)<sup>1</sup> 
 [](users/125/125225849-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>52</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>201</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [белая плесень](users/104/104448632954411726505-google)<sup>14</sup> 
 
 
-_15.02.2019 14:48:21_
+_15.02.2019 14:48:48_
