@@ -41,12 +41,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[radeonx801](users/973/973496-vkontakte)<sup>201</sup> 
 [arinka09200401](users/445/445767549-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>100</sup> 
 [fir137](users/176/176805114-yandex)<sup>30</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup> 
-[radeonx801](users/973/973496-vkontakte)<sup>200</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>6</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>45</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>59</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [alphamakoto](users/342/342507332-vkontakte)<sup>0</sup> 
 
 
-_15.02.2019 08:51:03_
+_15.02.2019 09:59:07_
