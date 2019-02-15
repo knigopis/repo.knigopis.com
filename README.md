@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[arinka09200401](users/445/445767549-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>100</sup> 
 [fir137](users/176/176805114-yandex)<sup>30</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>97</sup> 
 [Erdi](users/104/104289450206538776186-googleplus)<sup>26</sup> 
 [alphamakoto](users/342/342507332-vkontakte)<sup>0</sup> 
-[yurtik](users/166/166750349-vkontakte)<sup>0</sup> 
 
 
-_15.02.2019 05:26:47_
+_15.02.2019 08:51:03_
