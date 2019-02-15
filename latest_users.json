@@ -1,4 +1,10 @@
 {
+    "5342064-vkontakte": {
+        "id": "5342064-vkontakte",
+        "nickname": "bunneh",
+        "booksCount": 0,
+        "updatedAt": "2019-02-15 14:48:18"
+    },
     "125225849-vkontakte": {
         "id": "125225849-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "белая плесень",
         "booksCount": 14,
         "updatedAt": "2019-02-06 07:18:19"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 97,
-        "updatedAt": "2019-02-05 16:04:03"
     }
 }
