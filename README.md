@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Карты памяти на стол ~ [fir137](users/176/176805114-yandex)<sup>31</sup>
+    > Можно читать ради разоблачения.
+
 * У війни не жіноче обличчя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>13</sup>
     > 7/10 Дуже важко читати. Страшна правда про війну.
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > Интересно, ново, однако сюжет прост, если бы не замешали.
 
 * Маверик. История успеха самой необычной компании в мире ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup>
-    > По сути, Рикардо своими руками создал настоящую бирюзовую организацию, причем в трудных условиях. Книга позволяет проследить, откуда и как такие организации появляются, какие ступени эволюции проходят. Да и вообще - просто интересно :)
-    > 
-    > в процессе
-    > 
-    > http://mikrusian.narod.ru/Maverick.pdf
 
 * Быть богатым, что вам мешает ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>192</sup>
 
@@ -30,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ведьмы за границей ~ [Garka](users/115/115753719718250012620-google)<sup>210</sup>
 
-* Мерфі і Паркінсон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>31</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>85</sup> 
 [Anya](users/383/383879357-vkontakte)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>13</sup> 
@@ -47,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>52</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>201</sup> 
 [arinka09200401](users/445/445767549-vkontakte)<sup>0</sup> 
-[fir137](users/176/176805114-yandex)<sup>30</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>6</sup> 
@@ -69,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [uid-psj75pet](users/775/775038048-yandex)<sup>0</sup> 
 
 
-_16.02.2019 20:05:21_
+_16.02.2019 22:17:18_

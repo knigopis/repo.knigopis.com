@@ -1,4 +1,16 @@
 {
+    "BSQmPXvyhO": {
+        "id": "BSQmPXvyhO",
+        "title": "Карты памяти на стол",
+        "author": "Кристи Агата",
+        "notes": "Можно читать ради разоблачения.",
+        "createdAt": "2019-02-16 22:17:18",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 31
+        }
+    },
     "BVqntd3DXA": {
         "id": "BVqntd3DXA",
         "title": "Шантарам",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 27
-        }
-    },
-    "3gzCXx23vq": {
-        "id": "3gzCXx23vq",
-        "title": "Анамалія",
-        "author": "Бычкоўскі Алесь",
-        "notes": "",
-        "createdAt": "2019-02-08 20:00:47",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 348
         }
     }
 }
