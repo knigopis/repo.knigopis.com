@@ -1,4 +1,16 @@
 {
+    "Ie3Nym3ppT": {
+        "id": "Ie3Nym3ppT",
+        "title": "У війни не жіноче обличчя",
+        "author": "Світлан Алексієвич",
+        "notes": "7/10 Дуже важко читати. Страшна правда про війну.",
+        "createdAt": "2019-02-16 12:53:21",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 13
+        }
+    },
     "xXrw52g75n": {
         "id": "xXrw52g75n",
         "title": "Молот ведьм",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 209
-        }
-    },
-    "pwnT3iPYrT": {
-        "id": "pwnT3iPYrT",
-        "title": "Тринадцать загадочных случаев (сборник)",
-        "author": "Кристи Агата",
-        "notes": "Четвертый и лучший сборник рассказов.",
-        "createdAt": "2019-01-29 13:16:09",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 22
         }
     }
 }

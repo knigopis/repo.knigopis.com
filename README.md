@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* У війни не жіноче обличчя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>13</sup>
+    > 7/10 Дуже важко читати. Страшна правда про війну.
+
 * Молот ведьм ~ [Quaff](users/122/12267158-vkontakte)<sup>25</sup>
     > Интересно, ново, однако сюжет прост, если бы не замешали.
 
@@ -16,11 +19,6 @@ Do not use pull requests to make changes here.
     > http://mikrusian.narod.ru/Maverick.pdf
 
 * Быть богатым, что вам мешает ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>192</sup>
-    > Исключительно полезная книга, реально надо прочесть каждому. Предельно концентрированное изложение, нужна глубокая проработка, распаковка и применение знаний. Читаю по чуть-чуть, перевариваю и радуюсь.
-    > 
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/138939254/
 
 * Фантомная боль ~ [elena-gagina2014](users/208/208969292-yandex)<sup>6</sup>
 
@@ -34,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Мерфі і Паркінсон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>12</sup>
 
-* Люина розумна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>13</sup> 
 [](users/115/115826717712507836033-google)<sup>130</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>101</sup> 
 [bunneh](users/534/5342064-vkontakte)<sup>1</sup> 
@@ -59,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>60</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>14</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>210</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>12</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>189</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>348</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>16</sup> 
@@ -73,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>153</sup> 
 
 
-_16.02.2019 06:28:28_
+_16.02.2019 12:53:21_

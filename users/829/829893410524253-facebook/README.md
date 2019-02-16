@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>12</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>13</sup>
 ---
 
 ## 2019
+
+### У війни не жіноче обличчя
+Світлан Алексієвич
+> [2019-02-16] 7/10 Дуже важко читати. Страшна правда про війну.
+
 
 ### Мерфі і Паркінсон
 Закони
