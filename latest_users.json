@@ -1,4 +1,10 @@
 {
+    "383879357-vkontakte": {
+        "id": "383879357-vkontakte",
+        "nickname": "Anya",
+        "booksCount": 0,
+        "updatedAt": "2019-02-16 17:52:32"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "uid-psj75pet",
         "booksCount": 0,
         "updatedAt": "2019-02-07 08:15:56"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 153,
-        "updatedAt": "2019-02-06 11:43:37"
     }
 }
