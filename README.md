@@ -41,12 +41,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>101</sup> 
 [bunneh](users/534/5342064-vkontakte)<sup>1</sup> 
 [](users/125/125225849-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>52</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>201</sup> 
 [arinka09200401](users/445/445767549-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>100</sup> 
 [fir137](users/176/176805114-yandex)<sup>30</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [белая плесень](users/104/104448632954411726505-google)<sup>14</sup> 
 
 
-_15.02.2019 14:48:48_
+_16.02.2019 05:09:16_
