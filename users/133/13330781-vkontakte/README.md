@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>84</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>85</sup>
 ---
 
 ## 2019
+
+### Шантарам
+Робертс Грегори Дэвид
+> [2019-02-16] 
+
 
 ### Подсознание может все
 Джон Кехо

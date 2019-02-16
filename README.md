@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>85</sup> 
 [Anya](users/383/383879357-vkontakte)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>13</sup> 
 [](users/115/115826717712507836033-google)<sup>130</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>189</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>348</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>16</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>84</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>9</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>6</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>126</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [uid-psj75pet](users/775/775038048-yandex)<sup>0</sup> 
 
 
-_16.02.2019 17:53:53_
+_16.02.2019 20:05:21_

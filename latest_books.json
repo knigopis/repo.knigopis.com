@@ -1,4 +1,16 @@
 {
+    "BVqntd3DXA": {
+        "id": "BVqntd3DXA",
+        "title": "Шантарам",
+        "author": "Робертс Грегори Дэвид",
+        "notes": "",
+        "createdAt": "2019-02-16 20:05:20",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 85
+        }
+    },
     "tvn0gMnfwX": {
         "id": "tvn0gMnfwX",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 348
-        }
-    },
-    "eQ4e_opIG8": {
-        "id": "eQ4e_opIG8",
-        "title": "Орудия смерти (серия)",
-        "author": "Кассандра Клэр",
-        "notes": "",
-        "createdAt": "2019-02-08 10:55:05",
-        "user": {
-            "id": "695244810674916-facebook",
-            "nickname": "Eugene",
-            "booksCount": 16
         }
     }
 }
