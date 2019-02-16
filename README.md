@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Anya](users/383/383879357-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>13</sup> 
 [](users/115/115826717712507836033-google)<sup>130</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>101</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/901/9017247704455477472-mailru)<sup>1</sup> 
 [Миха Бог](users/153/15354310720882021989-mailru)<sup>0</sup> 
 [uid-psj75pet](users/775/775038048-yandex)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>153</sup> 
 
 
-_16.02.2019 12:53:21_
+_16.02.2019 17:52:35_
