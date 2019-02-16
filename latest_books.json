@@ -1,4 +1,16 @@
 {
+    "kwc3mTn9eJ": {
+        "id": "kwc3mTn9eJ",
+        "title": "Наказание без преступления",
+        "author": "Рэй Бредбери",
+        "notes": "",
+        "createdAt": "2019-02-16 06:28:28",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 130
+        }
+    },
     "rcMY2hICR6": {
         "id": "rcMY2hICR6",
         "title": "Черная Роза",
@@ -345,18 +357,6 @@
             "id": "695244810674916-facebook",
             "nickname": "Eugene",
             "booksCount": 14
-        }
-    },
-    "8DrmT0e78t": {
-        "id": "8DrmT0e78t",
-        "title": "Камень для Дэнни Фишера",
-        "author": "Гарольд Роббинс",
-        "notes": "",
-        "createdAt": "2019-02-08 10:53:07",
-        "user": {
-            "id": "695244810674916-facebook",
-            "nickname": "Eugene",
-            "booksCount": 13
         }
     }
 }

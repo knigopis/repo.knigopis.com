@@ -1,4 +1,10 @@
 {
+    "115826717712507836033-google": {
+        "id": "115826717712507836033-google",
+        "nickname": null,
+        "booksCount": 130,
+        "updatedAt": "2019-02-16 06:28:28"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 153,
         "updatedAt": "2019-02-06 11:43:37"
-    },
-    "104448632954411726505-google": {
-        "id": "104448632954411726505-google",
-        "nickname": "белая плесень",
-        "booksCount": 14,
-        "updatedAt": "2019-02-06 07:18:19"
     }
 }
