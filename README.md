@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ілона Кулик](users/115/115612203632373730372-google)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>192</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>104</sup> 
 [fir137](users/176/176805114-yandex)<sup>31</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>6</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>126</sup> 
 [](users/901/9017247704455477472-mailru)<sup>1</sup> 
-[Миха Бог](users/153/15354310720882021989-mailru)<sup>0</sup> 
 
 
-_17.02.2019 09:43:50_
+_17.02.2019 10:35:32_
