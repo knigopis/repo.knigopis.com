@@ -1,4 +1,16 @@
 {
+    "bQRjqs3KJE": {
+        "id": "bQRjqs3KJE",
+        "title": "Чистый код",
+        "author": "Роберт Мартин",
+        "notes": "",
+        "createdAt": "2019-02-17 18:51:39",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 115
+        }
+    },
     "ypjPQKOUHv": {
         "id": "ypjPQKOUHv",
         "title": "Мистер Смерть и чокнутая ведьма",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 28
-        }
-    },
-    "Uu4aMYhcZr": {
-        "id": "Uu4aMYhcZr",
-        "title": "Астора. (цикл) Сын планеты",
-        "author": "Журавлев Владимир",
-        "notes": "",
-        "createdAt": "2019-02-10 14:07:22",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 98
         }
     }
 }

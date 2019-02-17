@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 115,
+        "updatedAt": "2019-02-17 18:51:39"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 126,
         "updatedAt": "2019-02-07 18:20:32"
-    },
-    "9017247704455477472-mailru": {
-        "id": "9017247704455477472-mailru",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2019-02-07 11:19:57"
     }
 }
