@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>115</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>116</sup>
 ---
 
 ## 2019
@@ -19,6 +19,10 @@
 ### ПАТТЕРНЫ проектирования.
 Эрик Фримен, Элизабет Фримен при участии Кэтти Сьерра и Берта Бейтса
 > [2018-04-10] 
+
+
+### 1984
+Джордж Оруэлл
 
 
 
