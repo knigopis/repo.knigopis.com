@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 60,
+        "updatedAt": "2019-02-17 13:08:59"
+    },
     "115612203632373730372-google": {
         "id": "115612203632373730372-google",
         "nickname": "Ілона Кулик",
@@ -106,12 +112,6 @@
         "nickname": "fire_ejik",
         "booksCount": 45,
         "updatedAt": "2019-02-12 14:56:29"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 59,
-        "updatedAt": "2019-02-11 17:53:20"
     },
     "103018351090055633128-google": {
         "id": "103018351090055633128-google",
