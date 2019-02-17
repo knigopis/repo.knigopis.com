@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кратчайшая история времени ~ [Apprentice ](users/528/52821952-vkontakte)<sup>104</sup>
 * Карты памяти на стол ~ [fir137](users/176/176805114-yandex)<sup>31</sup>
 * У війни не жіноче обличчя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>13</sup>
 * Молот ведьм ~ [Quaff](users/122/12267158-vkontakte)<sup>25</sup>
@@ -30,7 +31,6 @@
 * Трилогия желания ~ [Quaff](users/122/12267158-vkontakte)<sup>24</sup>
 * Камера обскура ~ [Apprentice ](users/528/52821952-vkontakte)<sup>103</sup>
 * Убийство в Восточном экспрессе ~ [fir137](users/176/176805114-yandex)<sup>23</sup>
-* Повести Белкина ~ [Йолант](users/104/104690883692185089260-google)<sup>184</sup>
 
 
-_16.02.2019 22:17:18_
+_17.02.2019 00:18:51_

@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 104,
+        "updatedAt": "2019-02-17 00:18:51"
+    },
     "176805114-yandex": {
         "id": "176805114-yandex",
         "nickname": "fir137",
@@ -172,11 +178,5 @@
         "nickname": "Миха Бог",
         "booksCount": 0,
         "updatedAt": "2019-02-07 11:07:41"
-    },
-    "775038048-yandex": {
-        "id": "775038048-yandex",
-        "nickname": "uid-psj75pet",
-        "booksCount": 0,
-        "updatedAt": "2019-02-07 08:15:56"
     }
 }

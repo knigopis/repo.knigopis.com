@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кратчайшая история времени ~ [Apprentice ](users/528/52821952-vkontakte)<sup>104</sup>
+    > 8/10
+
 * Карты памяти на стол ~ [fir137](users/176/176805114-yandex)<sup>31</sup>
     > Можно читать ради разоблачения.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Дуже важко читати. Страшна правда про війну.
 
 * Молот ведьм ~ [Quaff](users/122/12267158-vkontakte)<sup>25</sup>
-    > Интересно, ново, однако сюжет прост, если бы не замешали.
 
 * Маверик. История успеха самой необычной компании в мире ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Надвигается беда ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>14</sup>
 
-* Ведьмы за границей ~ [Garka](users/115/115753719718250012620-google)<sup>210</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>104</sup> 
 [fir137](users/176/176805114-yandex)<sup>31</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>85</sup> 
 [Anya](users/383/383879357-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>126</sup> 
 [](users/901/9017247704455477472-mailru)<sup>1</sup> 
 [Миха Бог](users/153/15354310720882021989-mailru)<sup>0</sup> 
-[uid-psj75pet](users/775/775038048-yandex)<sup>0</sup> 
 
 
-_16.02.2019 22:17:18_
+_17.02.2019 00:18:51_
