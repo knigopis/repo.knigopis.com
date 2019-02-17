@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 190,
+        "updatedAt": "2019-02-17 03:54:25"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -130,12 +136,6 @@
         "nickname": "Garka",
         "booksCount": 210,
         "updatedAt": "2019-02-09 15:24:25"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 189,
-        "updatedAt": "2019-02-09 02:18:34"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
