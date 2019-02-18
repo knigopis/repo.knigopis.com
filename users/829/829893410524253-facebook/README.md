@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>13</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>14</sup>
 ---
 
 ## 2019
+
+### Йога для всех возрастов
+Макс Гандосси и Сильвия Романи
+> [2019-02-18] Просмотрено.
+
 
 ### У війни не жіноче обличчя
 Світлан Алексієвич

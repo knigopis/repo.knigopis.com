@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Йога для всех возрастов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>14</sup>
+    > Просмотрено.
+
 * Мистер Смерть и чокнутая ведьма ~ [Chiffi](users/105/105831994080785626680-google)<sup>102</sup>
     > отдыхающая книжка,  как и все у автора. зверушки,  юмор,  очаровательная ГГ и ее спутник. что еще нужно для веселого отдыха
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Чтобы совместить и желание прочесть что-то новое, и необходимость не тревожиться от острых сюжетов новых книг, я обратился к детской литературе, начав изучать цикл об Алисе Селезнёвой, который в детстве читал разрозненно. Мне в принципе очень нравится слог Булычёва и то, какой мир он создаёт в своих произведениях, нравятся его идеи и персонажи, так что книги цикла, по-видимому, будут вызывать у меня удовольствие и ностальгические воспоминания.
 
 * Кратчайшая история времени ~ [Apprentice ](users/528/52821952-vkontakte)<sup>104</sup>
-    > 8/10
 
 * Карты памяти на стол ~ [fir137](users/176/176805114-yandex)<sup>31</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Фантомная боль ~ [elena-gagina2014](users/208/208969292-yandex)<sup>6</sup>
 
-* Смерть в облаках ~ [fir137](users/176/176805114-yandex)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>14</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>200</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>116</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>102</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fir137](users/176/176805114-yandex)<sup>31</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>85</sup> 
 [Anya](users/383/383879357-vkontakte)<sup>1</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>13</sup> 
 [](users/115/115826717712507836033-google)<sup>130</sup> 
 [bunneh](users/534/5342064-vkontakte)<sup>1</sup> 
 [](users/125/125225849-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>126</sup> 
 
 
-_18.02.2019 09:20:57_
+_18.02.2019 10:04:56_
