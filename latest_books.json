@@ -1,4 +1,16 @@
 {
+    "iKT6UwXmMm": {
+        "id": "iKT6UwXmMm",
+        "title": "Конец Атлантиды",
+        "author": "Кир Булычёв",
+        "notes": "",
+        "createdAt": "2019-02-18 09:20:57",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 200
+        }
+    },
     "Te56SQ8CJk": {
         "id": "Te56SQ8CJk",
         "title": "Узники «Ямагири-мару»",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 192
-        }
-    },
-    "PpxdsHgVGp": {
-        "id": "PpxdsHgVGp",
-        "title": "Убийства по алфавиту",
-        "author": "Кристи Агата",
-        "notes": "",
-        "createdAt": "2019-02-13 19:24:59",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 29
         }
     }
 }
