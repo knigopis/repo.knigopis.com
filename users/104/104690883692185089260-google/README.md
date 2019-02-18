@@ -1,7 +1,12 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>195</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>196</sup>
 ---
 
 ## 2019
+
+### Лиловый шар
+Кир Булычёв
+> [2019-02-18] 
+
 
 ### Козлик Иван Иванович
 Кир Булычёв
