@@ -1,4 +1,16 @@
 {
+    "RN0VXuu2CQ": {
+        "id": "RN0VXuu2CQ",
+        "title": "Найди точку опоры, переверни свой мир",
+        "author": "ЛИТВАК Борис",
+        "notes": "",
+        "createdAt": "2019-02-18 15:29:15",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 18
+        }
+    },
     "um54B_r16w": {
         "id": "um54B_r16w",
         "title": "Безмолвный свидетель",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 30
-        }
-    },
-    "xXrw52g75n": {
-        "id": "xXrw52g75n",
-        "title": "Молот ведьм",
-        "author": "Константин Образцов",
-        "notes": "Интересно, ново, однако сюжет прост, если бы не замешали.",
-        "createdAt": "2019-02-14 19:57:32",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 25
         }
     }
 }

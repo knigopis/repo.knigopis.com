@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 [fir137](users/176/176805114-yandex)<sup>32</sup> 
 [Вальдемар](users/614/614649752306644-facebook)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>14</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>348</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>16</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>9</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>6</sup> 
 
 
-_18.02.2019 14:13:20_
+_18.02.2019 15:29:15_
