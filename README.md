@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>32</sup> 
 [Вальдемар](users/614/614649752306644-facebook)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>14</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>200</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>60</sup> 
 [Ілона Кулик](users/115/115612203632373730372-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>104</sup> 
-[fir137](users/176/176805114-yandex)<sup>31</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>85</sup> 
 [Anya](users/383/383879357-vkontakte)<sup>1</sup> 
 [](users/115/115826717712507836033-google)<sup>130</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>6</sup> 
 
 
-_18.02.2019 13:21:00_
+_18.02.2019 14:13:20_
