@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>194</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>116</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>102</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>193</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>60</sup> 
 [Ілона Кулик](users/115/115612203632373730372-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>126</sup> 
 
 
-_17.02.2019 18:52:52_
+_18.02.2019 00:01:11_
