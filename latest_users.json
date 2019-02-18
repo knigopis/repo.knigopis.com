@@ -1,4 +1,10 @@
 {
+    "614649752306644-facebook": {
+        "id": "614649752306644-facebook",
+        "nickname": "Вальдемар",
+        "booksCount": 0,
+        "updatedAt": "2019-02-18 13:21:00"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "Таньчик",
         "booksCount": 6,
         "updatedAt": "2019-02-07 19:39:17"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 126,
-        "updatedAt": "2019-02-07 18:20:32"
     }
 }
