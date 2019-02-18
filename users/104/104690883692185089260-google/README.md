@@ -1,7 +1,12 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>196</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>197</sup>
 ---
 
 ## 2019
+
+### Пленники астероида
+Кир Булычёв
+> [2019-02-18] 
+
 
 ### Лиловый шар
 Кир Булычёв

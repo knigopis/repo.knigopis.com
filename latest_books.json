@@ -1,4 +1,16 @@
 {
+    "UgWwzYDoh0": {
+        "id": "UgWwzYDoh0",
+        "title": "Пленники астероида",
+        "author": "Кир Булычёв",
+        "notes": "",
+        "createdAt": "2019-02-18 05:45:45",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 197
+        }
+    },
     "0km1ncIXww": {
         "id": "0km1ncIXww",
         "title": "Лиловый шар",
@@ -345,18 +357,6 @@
             "id": "208969292-yandex",
             "nickname": "elena-gagina2014",
             "booksCount": 6
-        }
-    },
-    "NiCooOgK6y": {
-        "id": "NiCooOgK6y",
-        "title": "1Q84 апрель-июнь",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2019-02-12 14:56:29",
-        "user": {
-            "id": "32903202-vkontakte",
-            "nickname": "fire_ejik",
-            "booksCount": 45
         }
     }
 }
