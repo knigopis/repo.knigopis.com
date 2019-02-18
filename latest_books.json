@@ -1,4 +1,16 @@
 {
+    "HTNIT_stoj": {
+        "id": "HTNIT_stoj",
+        "title": "Город без памяти",
+        "author": "Кир Булычёв",
+        "notes": "",
+        "createdAt": "2019-02-18 22:00:37",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 201
+        }
+    },
     "RN0VXuu2CQ": {
         "id": "RN0VXuu2CQ",
         "title": "Найди точку опоры, переверни свой мир",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 100
-        }
-    },
-    "Slc7790fc_": {
-        "id": "Slc7790fc_",
-        "title": "Убийство в Месопотамии",
-        "author": "Кристи Агата",
-        "notes": "",
-        "createdAt": "2019-02-14 23:59:58",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 30
         }
     }
 }
