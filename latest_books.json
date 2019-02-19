@@ -1,4 +1,16 @@
 {
+    "kg1jcbDSil": {
+        "id": "kg1jcbDSil",
+        "title": "Личные финансы",
+        "author": "А.В. Покудов",
+        "notes": "",
+        "createdAt": "2019-02-19 17:56:40",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 160
+        }
+    },
     "14FiRlL-z6": {
         "id": "14FiRlL-z6",
         "title": "Печаль и меланхолия",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 200
-        }
-    },
-    "Te56SQ8CJk": {
-        "id": "Te56SQ8CJk",
-        "title": "Узники «Ямагири-мару»",
-        "author": "Кир Булычёв",
-        "notes": "",
-        "createdAt": "2019-02-18 06:47:04",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 199
         }
     }
 }
