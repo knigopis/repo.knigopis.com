@@ -1,4 +1,16 @@
 {
+    "Y8T2qpzxAf": {
+        "id": "Y8T2qpzxAf",
+        "title": "Дар страха",
+        "author": "Гэвин де Беккер",
+        "notes": "",
+        "createdAt": "2019-02-19 17:59:07",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 169
+        }
+    },
     "YqOtHEH0ms": {
         "id": "YqOtHEH0ms",
         "title": "Синастрическая астрология",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 10
-        }
-    },
-    "iBi5Ys3NzY": {
-        "id": "iBi5Ys3NzY",
-        "title": "Любовь, свобода, одиночество",
-        "author": "Ошо",
-        "notes": "В процессе",
-        "createdAt": "2019-02-19 09:43:19",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 105
         }
     }
 }
