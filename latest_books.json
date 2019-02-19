@@ -1,4 +1,16 @@
 {
+    "VE20-rdpbe": {
+        "id": "VE20-rdpbe",
+        "title": "Тени в Раю",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2019-02-19 18:02:59",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 181
+        }
+    },
     "wjBpKb9YqY": {
         "id": "wjBpKb9YqY",
         "title": "Управляющий мозг",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 152
-        }
-    },
-    "jZqt9sQydT": {
-        "id": "jZqt9sQydT",
-        "title": "Самый богатый человек в Вавилоне",
-        "author": "Д. Клейсон",
-        "notes": "",
-        "createdAt": "2019-02-19 17:54:46",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 151
         }
     }
 }
