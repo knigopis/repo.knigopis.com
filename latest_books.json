@@ -1,4 +1,16 @@
 {
+    "orbTxBRtx-": {
+        "id": "orbTxBRtx-",
+        "title": "Хороший день для кенгуру",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2019-02-19 17:58:26",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 165
+        }
+    },
     "NnaiOPYMSv": {
         "id": "NnaiOPYMSv",
         "title": "Сжечь сарай",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 202
-        }
-    },
-    "HTNIT_stoj": {
-        "id": "HTNIT_stoj",
-        "title": "Город без памяти",
-        "author": "Кир Булычёв",
-        "notes": "",
-        "createdAt": "2019-02-18 22:00:37",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 201
         }
     }
 }
