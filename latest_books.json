@@ -1,4 +1,16 @@
 {
+    "DU4RG1zHqn": {
+        "id": "DU4RG1zHqn",
+        "title": "Цепочки диспозиций",
+        "author": "Екатерина Карпова",
+        "notes": "",
+        "createdAt": "2019-02-19 18:01:11",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 178
+        }
+    },
     "c6BJhBNPP5": {
         "id": "c6BJhBNPP5",
         "title": "Секретные бункеры Кёнигсберга",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 149
-        }
-    },
-    "FankI73xC7": {
-        "id": "FankI73xC7",
-        "title": "Классическая астрология Том11",
-        "author": "С.А. Вронский",
-        "notes": "",
-        "createdAt": "2019-02-19 17:54:13",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 148
         }
     }
 }
