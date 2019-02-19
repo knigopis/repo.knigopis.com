@@ -1,4 +1,16 @@
 {
+    "usHx13EhZW": {
+        "id": "usHx13EhZW",
+        "title": "Классическая астрология Том6",
+        "author": "С.А. Вронский",
+        "notes": "",
+        "createdAt": "2019-02-19 17:53:28",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 143
+        }
+    },
     "N5EFKSbpPh": {
         "id": "N5EFKSbpPh",
         "title": "Классическая астрология Том5",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 85
-        }
-    },
-    "tvn0gMnfwX": {
-        "id": "tvn0gMnfwX",
-        "title": "",
-        "author": "Гиллиан Флинн Острые предметы",
-        "notes": "",
-        "createdAt": "2019-02-16 17:53:53",
-        "user": {
-            "id": "383879357-vkontakte",
-            "nickname": "Anya",
-            "booksCount": 1
         }
     }
 }
