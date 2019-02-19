@@ -1,4 +1,16 @@
 {
+    "mJtNq1aFW9": {
+        "id": "mJtNq1aFW9",
+        "title": "Классическая астрология Том1",
+        "author": "С.А. Вронский",
+        "notes": "",
+        "createdAt": "2019-02-19 17:53:07",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 141
+        }
+    },
     "M3hhjsQMKu": {
         "id": "M3hhjsQMKu",
         "title": "Стойкость: Мой год в космосе",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 13
-        }
-    },
-    "kwc3mTn9eJ": {
-        "id": "kwc3mTn9eJ",
-        "title": "Наказание без преступления",
-        "author": "Рэй Бредбери",
-        "notes": "",
-        "createdAt": "2019-02-16 06:28:28",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 130
         }
     }
 }

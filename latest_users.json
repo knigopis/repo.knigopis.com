@@ -1,4 +1,10 @@
 {
+    "158304782-vkontakte": {
+        "id": "158304782-vkontakte",
+        "nickname": "Madlax",
+        "booksCount": 141,
+        "updatedAt": "2019-02-19 17:53:07"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 348,
         "updatedAt": "2019-02-08 20:00:48"
-    },
-    "695244810674916-facebook": {
-        "id": "695244810674916-facebook",
-        "nickname": "Eugene",
-        "booksCount": 16,
-        "updatedAt": "2019-02-08 10:55:05"
     }
 }
