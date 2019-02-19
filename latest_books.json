@@ -1,4 +1,16 @@
 {
+    "DclcZQsCj1": {
+        "id": "DclcZQsCj1",
+        "title": "Паника",
+        "author": "Лорен Оливер",
+        "notes": "",
+        "createdAt": "2019-02-19 17:55:35",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 155
+        }
+    },
     "tSjmmr2U-h": {
         "id": "tSjmmr2U-h",
         "title": "Гуманистический психоанализ",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 195
-        }
-    },
-    "Povipdn4UZ": {
-        "id": "Povipdn4UZ",
-        "title": "Заповедник сказок",
-        "author": "Кир Булычёв",
-        "notes": "",
-        "createdAt": "2019-02-18 00:01:11",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 194
         }
     }
 }
