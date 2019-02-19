@@ -1,4 +1,16 @@
 {
+    "RtapEgmQ6F": {
+        "id": "RtapEgmQ6F",
+        "title": "Интерпретация астрологической карты",
+        "author": "Маркина",
+        "notes": "",
+        "createdAt": "2019-02-19 18:00:33",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 176
+        }
+    },
     "RnaTk3c1C1": {
         "id": "RnaTk3c1C1",
         "title": "Практический трансферсинг за 78 дней",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 147
-        }
-    },
-    "p8hPBbb0Lq": {
-        "id": "p8hPBbb0Lq",
-        "title": "Классическая астрология Том9",
-        "author": "С.А. Вронский",
-        "notes": "",
-        "createdAt": "2019-02-19 17:53:56",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 146
         }
     }
 }
