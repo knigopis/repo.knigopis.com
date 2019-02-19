@@ -1,4 +1,16 @@
 {
+    "qvTXmjxD3t": {
+        "id": "qvTXmjxD3t",
+        "title": "О чем думает Стив",
+        "author": "Лендер Кени",
+        "notes": "",
+        "createdAt": "2019-02-19 17:56:02",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 157
+        }
+    },
     "LeV0zys8F8": {
         "id": "LeV0zys8F8",
         "title": "Пол мозга. Истинные отличия мужчин от женщин",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 197
-        }
-    },
-    "0km1ncIXww": {
-        "id": "0km1ncIXww",
-        "title": "Лиловый шар",
-        "author": "Кир Булычёв",
-        "notes": "",
-        "createdAt": "2019-02-18 02:57:40",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 196
         }
     }
 }
