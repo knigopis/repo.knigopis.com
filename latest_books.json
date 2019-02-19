@@ -1,4 +1,16 @@
 {
+    "86antsxS6j": {
+        "id": "86antsxS6j",
+        "title": "Классическая астрология Том8",
+        "author": "С.А. Вронский",
+        "notes": "",
+        "createdAt": "2019-02-19 17:53:47",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 145
+        }
+    },
     "NcP2K-m77c": {
         "id": "NcP2K-m77c",
         "title": "Классическая астрология Том7",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 104
-        }
-    },
-    "BSQmPXvyhO": {
-        "id": "BSQmPXvyhO",
-        "title": "Карты памяти на стол",
-        "author": "Кристи Агата",
-        "notes": "Можно читать ради разоблачения.",
-        "createdAt": "2019-02-16 22:17:18",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 31
         }
     }
 }
