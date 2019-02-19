@@ -1,4 +1,16 @@
 {
+    "grdpqSOviB": {
+        "id": "grdpqSOviB",
+        "title": "Мы рождены для успеха",
+        "author": "Колин Тернер",
+        "notes": "",
+        "createdAt": "2019-02-19 17:59:34",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 171
+        }
+    },
     "stXyOLu-49": {
         "id": "stXyOLu-49",
         "title": "MBTI",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 142
-        }
-    },
-    "mJtNq1aFW9": {
-        "id": "mJtNq1aFW9",
-        "title": "Классическая астрология Том1",
-        "author": "С.А. Вронский",
-        "notes": "",
-        "createdAt": "2019-02-19 17:53:07",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 141
         }
     }
 }
