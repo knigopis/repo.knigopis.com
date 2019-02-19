@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Управляющий мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>180</sup>
+    > Интересная книга о лобных долях и принятии решений.
+
 * Секретные бункеры Кёнигсберга ~ [Madlax](users/158/158304782-vkontakte)<sup>177</sup>
     > Очень нудная и утомительная
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > В процессе
 
 * Йога для всех возрастов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>14</sup>
-    > Просмотрено.
 
 * Мистер Смерть и чокнутая ведьма ~ [Chiffi](users/105/105831994080785626680-google)<sup>102</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Молот ведьм ~ [Quaff](users/122/12267158-vkontakte)<sup>25</sup>
 
-* Маверик. История успеха самой необычной компании в мире ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Madlax](users/158/158304782-vkontakte)<sup>179</sup> 
+[Madlax](users/158/158304782-vkontakte)<sup>180</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>10</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>204</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>348</sup> 
 
 
-_19.02.2019 18:01:25_
+_19.02.2019 18:01:50_
