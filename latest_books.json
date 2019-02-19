@@ -1,4 +1,16 @@
 {
+    "3Zik2ZM4Qn": {
+        "id": "3Zik2ZM4Qn",
+        "title": "Истории похорон",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2019-02-19 17:57:03",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 162
+        }
+    },
     "XEvzgVK-wZ": {
         "id": "XEvzgVK-wZ",
         "title": "По направлению к психологии бытия",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 32
-        }
-    },
-    "gXc-O_megN": {
-        "id": "gXc-O_megN",
-        "title": "Йога для всех возрастов",
-        "author": "Макс Гандосси и Сильвия Романи",
-        "notes": "Просмотрено.",
-        "createdAt": "2019-02-18 10:04:56",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 14
         }
     }
 }
