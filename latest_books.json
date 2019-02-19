@@ -1,4 +1,16 @@
 {
+    "f0mN3l1srG": {
+        "id": "f0mN3l1srG",
+        "title": "Похороните меня за плинтусом",
+        "author": "Павел Санаев",
+        "notes": "",
+        "createdAt": "2019-02-19 17:59:57",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 173
+        }
+    },
     "2lrBcoaFJm": {
         "id": "2lrBcoaFJm",
         "title": "На западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 144
-        }
-    },
-    "usHx13EhZW": {
-        "id": "usHx13EhZW",
-        "title": "Классическая астрология Том6",
-        "author": "С.А. Вронский",
-        "notes": "",
-        "createdAt": "2019-02-19 17:53:28",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 143
         }
     }
 }
