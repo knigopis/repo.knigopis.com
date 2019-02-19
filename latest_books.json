@@ -1,4 +1,16 @@
 {
+    "sN7k1-nRjr": {
+        "id": "sN7k1-nRjr",
+        "title": "Астрология для жизни",
+        "author": "Павел Андреев",
+        "notes": "",
+        "createdAt": "2019-02-19 17:55:11",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 153
+        }
+    },
     "evns_wDf1q": {
         "id": "evns_wDf1q",
         "title": "Результативный тайм-менеджмент",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 116
-        }
-    },
-    "bQRjqs3KJE": {
-        "id": "bQRjqs3KJE",
-        "title": "Чистый код",
-        "author": "Роберт Мартин",
-        "notes": "",
-        "createdAt": "2019-02-17 18:51:39",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 115
         }
     }
 }
