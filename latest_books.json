@@ -1,4 +1,16 @@
 {
+    "NcP2K-m77c": {
+        "id": "NcP2K-m77c",
+        "title": "Классическая астрология Том7",
+        "author": "С.А. Вронский",
+        "notes": "",
+        "createdAt": "2019-02-19 17:53:37",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 144
+        }
+    },
     "usHx13EhZW": {
         "id": "usHx13EhZW",
         "title": "Классическая астрология Том6",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 31
-        }
-    },
-    "BVqntd3DXA": {
-        "id": "BVqntd3DXA",
-        "title": "Шантарам",
-        "author": "Робертс Грегори Дэвид",
-        "notes": "",
-        "createdAt": "2019-02-16 20:05:20",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 85
         }
     }
 }
