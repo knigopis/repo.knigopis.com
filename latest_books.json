@@ -1,4 +1,16 @@
 {
+    "NnaiOPYMSv": {
+        "id": "NnaiOPYMSv",
+        "title": "Сжечь сарай",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2019-02-19 17:58:13",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 164
+        }
+    },
     "U3ZZjb-UBS": {
         "id": "U3ZZjb-UBS",
         "title": "Призраки Лексингтона",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 201
-        }
-    },
-    "RN0VXuu2CQ": {
-        "id": "RN0VXuu2CQ",
-        "title": "Найди точку опоры, переверни свой мир",
-        "author": "ЛИТВАК Борис",
-        "notes": "",
-        "createdAt": "2019-02-18 15:29:15",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 18
         }
     }
 }
