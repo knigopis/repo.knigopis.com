@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Любовь, свобода, одиночество ~ [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup>
+    > В процессе
+
 * Йога для всех возрастов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>14</sup>
     > Просмотрено.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > отдыхающая книжка,  как и все у автора. зверушки,  юмор,  очаровательная ГГ и ее спутник. что еще нужно для веселого отдыха
 
 * Девочка, с которой ничего не случится ~ [Йолант](users/104/104690883692185089260-google)<sup>190</sup>
-    > Чтобы совместить и желание прочесть что-то новое, и необходимость не тревожиться от острых сюжетов новых книг, я обратился к детской литературе, начав изучать цикл об Алисе Селезнёвой, который в детстве читал разрозненно. Мне в принципе очень нравится слог Булычёва и то, какой мир он создаёт в своих произведениях, нравятся его идеи и персонажи, так что книги цикла, по-видимому, будут вызывать у меня удовольствие и ностальгические воспоминания.
 
 * Кратчайшая история времени ~ [Apprentice ](users/528/52821952-vkontakte)<sup>104</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Быть богатым, что вам мешает ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>192</sup>
 
-* Фантомная боль ~ [elena-gagina2014](users/208/208969292-yandex)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>105</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>204</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 [fir137](users/176/176805114-yandex)<sup>32</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>102</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>60</sup> 
 [Ілона Кулик](users/115/115612203632373730372-google)<sup>0</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>104</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>85</sup> 
 [Anya](users/383/383879357-vkontakte)<sup>1</sup> 
 [](users/115/115826717712507836033-google)<sup>130</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>9</sup> 
 
 
-_19.02.2019 09:03:49_
+_19.02.2019 09:43:20_

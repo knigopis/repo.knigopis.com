@@ -1,4 +1,16 @@
 {
+    "iBi5Ys3NzY": {
+        "id": "iBi5Ys3NzY",
+        "title": "Любовь, свобода, одиночество",
+        "author": "Ошо",
+        "notes": "В процессе",
+        "createdAt": "2019-02-19 09:43:19",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 105
+        }
+    },
     "VKW-u3hgzs": {
         "id": "VKW-u3hgzs",
         "title": "Война с лилипутами",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 101
-        }
-    },
-    "PZFD7VKUY-": {
-        "id": "PZFD7VKUY-",
-        "title": "чсч",
-        "author": "мсчсмч",
-        "notes": "",
-        "createdAt": "2019-02-15 14:48:48",
-        "user": {
-            "id": "5342064-vkontakte",
-            "nickname": "bunneh",
-            "booksCount": 1
         }
     }
 }

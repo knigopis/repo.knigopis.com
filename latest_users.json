@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 105,
+        "updatedAt": "2019-02-19 09:43:19"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -52,12 +58,6 @@
         "nickname": "Ілона Кулик",
         "booksCount": 0,
         "updatedAt": "2019-02-17 10:35:29"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 104,
-        "updatedAt": "2019-02-17 00:18:51"
     },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
