@@ -1,4 +1,16 @@
 {
+    "U3ZZjb-UBS": {
+        "id": "U3ZZjb-UBS",
+        "title": "Призраки Лексингтона",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2019-02-19 17:58:04",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 163
+        }
+    },
     "3Zik2ZM4Qn": {
         "id": "3Zik2ZM4Qn",
         "title": "Истории похорон",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 18
-        }
-    },
-    "um54B_r16w": {
-        "id": "um54B_r16w",
-        "title": "Безмолвный свидетель",
-        "author": "Кристи Агата",
-        "notes": "",
-        "createdAt": "2019-02-18 14:13:20",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 32
         }
     }
 }
