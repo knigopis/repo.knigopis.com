@@ -1,4 +1,16 @@
 {
+    "RnaTk3c1C1": {
+        "id": "RnaTk3c1C1",
+        "title": "Практический трансферсинг за 78 дней",
+        "author": "Вадим Зеланд",
+        "notes": "",
+        "createdAt": "2019-02-19 18:00:20",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 175
+        }
+    },
     "-cPw0VmY1k": {
         "id": "-cPw0VmY1k",
         "title": "Женская Интуиция",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 146
-        }
-    },
-    "86antsxS6j": {
-        "id": "86antsxS6j",
-        "title": "Классическая астрология Том8",
-        "author": "С.А. Вронский",
-        "notes": "",
-        "createdAt": "2019-02-19 17:53:47",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 145
         }
     }
 }
