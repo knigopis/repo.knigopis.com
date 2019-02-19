@@ -1,4 +1,16 @@
 {
+    "VKW-u3hgzs": {
+        "id": "VKW-u3hgzs",
+        "title": "Война с лилипутами",
+        "author": "Кир Булычёв",
+        "notes": "",
+        "createdAt": "2019-02-19 09:03:48",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 204
+        }
+    },
     "i4HVdkuEq_": {
         "id": "i4HVdkuEq_",
         "title": "Гай-До",
@@ -345,18 +357,6 @@
             "id": "5342064-vkontakte",
             "nickname": "bunneh",
             "booksCount": 1
-        }
-    },
-    "GtxzYm0Dq5": {
-        "id": "GtxzYm0Dq5",
-        "title": "На пределе. Границы возможностей человеческого организма",
-        "author": "Кевин Фонг",
-        "notes": "",
-        "createdAt": "2019-02-15 10:13:56",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 52
         }
     }
 }
