@@ -1,4 +1,16 @@
 {
+    "c6BJhBNPP5": {
+        "id": "c6BJhBNPP5",
+        "title": "Секретные бункеры Кёнигсберга",
+        "author": "А.С. Пржездомский",
+        "notes": "Очень нудная и утомительная",
+        "createdAt": "2019-02-19 18:00:52",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 177
+        }
+    },
     "iBi5Ys3NzY": {
         "id": "iBi5Ys3NzY",
         "title": "Любовь, свобода, одиночество",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 186
-        }
-    },
-    "bxLHnet9qy": {
-        "id": "bxLHnet9qy",
-        "title": "Бот 2. Ґуаякільський парадокс.",
-        "author": "Макс Кідрук",
-        "notes": "З телефона. 10/10. Продовження технотрилера. Відкритий фінал.",
-        "createdAt": "2019-02-02 06:34:33",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 8
         }
     }
 }

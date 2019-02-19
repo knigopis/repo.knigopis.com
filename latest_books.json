@@ -1,4 +1,16 @@
 {
+    "c6BJhBNPP5": {
+        "id": "c6BJhBNPP5",
+        "title": "Секретные бункеры Кёнигсберга",
+        "author": "А.С. Пржездомский",
+        "notes": "Очень нудная и утомительная",
+        "createdAt": "2019-02-19 18:00:52",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 177
+        }
+    },
     "RtapEgmQ6F": {
         "id": "RtapEgmQ6F",
         "title": "Интерпретация астрологической карты",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 148
-        }
-    },
-    "U0ekoVSJwd": {
-        "id": "U0ekoVSJwd",
-        "title": "Классическая астрология Том10",
-        "author": "С.А. Вронский",
-        "notes": "",
-        "createdAt": "2019-02-19 17:54:05",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 147
         }
     }
 }
