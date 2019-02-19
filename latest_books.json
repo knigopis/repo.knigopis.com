@@ -1,4 +1,16 @@
 {
+    "2lrBcoaFJm": {
+        "id": "2lrBcoaFJm",
+        "title": "На западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2019-02-19 17:59:46",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 172
+        }
+    },
     "grdpqSOviB": {
         "id": "grdpqSOviB",
         "title": "Мы рождены для успеха",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 143
-        }
-    },
-    "N5EFKSbpPh": {
-        "id": "N5EFKSbpPh",
-        "title": "Классическая астрология Том5",
-        "author": "С.А. Вронский",
-        "notes": "",
-        "createdAt": "2019-02-19 17:53:19",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 142
         }
     }
 }
