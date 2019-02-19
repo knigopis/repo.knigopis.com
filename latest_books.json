@@ -1,4 +1,16 @@
 {
+    "JgvkDoCYaY": {
+        "id": "JgvkDoCYaY",
+        "title": "Классическая астрология Том12",
+        "author": "С.А. Вронский",
+        "notes": "",
+        "createdAt": "2019-02-19 17:54:23",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 149
+        }
+    },
     "FankI73xC7": {
         "id": "FankI73xC7",
         "title": "Классическая астрология Том11",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 60
-        }
-    },
-    "EnajjlwIQm": {
-        "id": "EnajjlwIQm",
-        "title": "День рождения Алисы",
-        "author": "Кир Булычёв",
-        "notes": "",
-        "createdAt": "2019-02-17 09:43:50",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 192
         }
     }
 }
