@@ -1,4 +1,16 @@
 {
+    "p8hPBbb0Lq": {
+        "id": "p8hPBbb0Lq",
+        "title": "Классическая астрология Том9",
+        "author": "С.А. Вронский",
+        "notes": "",
+        "createdAt": "2019-02-19 17:53:56",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 146
+        }
+    },
     "86antsxS6j": {
         "id": "86antsxS6j",
         "title": "Классическая астрология Том8",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 190
-        }
-    },
-    "vRGbkirPmJ": {
-        "id": "vRGbkirPmJ",
-        "title": "Кратчайшая история времени",
-        "author": "Стивен Хокинг, Леонард Млодинов",
-        "notes": "8/10",
-        "createdAt": "2019-02-17 00:18:51",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 104
         }
     }
 }
