@@ -1,4 +1,16 @@
 {
+    "BQcqvMs6K7": {
+        "id": "BQcqvMs6K7",
+        "title": "Лунные узлы в Гороскопе",
+        "author": "Селеста Тиль",
+        "notes": "",
+        "createdAt": "2019-02-19 18:01:24",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 179
+        }
+    },
     "DU4RG1zHqn": {
         "id": "DU4RG1zHqn",
         "title": "Цепочки диспозиций",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 150
-        }
-    },
-    "JgvkDoCYaY": {
-        "id": "JgvkDoCYaY",
-        "title": "Классическая астрология Том12",
-        "author": "С.А. Вронский",
-        "notes": "",
-        "createdAt": "2019-02-19 17:54:23",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 149
         }
     }
 }

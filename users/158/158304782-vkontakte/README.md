@@ -1,7 +1,12 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>178</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>179</sup>
 ---
 
 ## 2019
+
+### Лунные узлы в Гороскопе
+Селеста Тиль
+> [2019-01] 
+
 
 ### Цепочки диспозиций
 Екатерина Карпова
