@@ -1,4 +1,16 @@
 {
+    "jZqt9sQydT": {
+        "id": "jZqt9sQydT",
+        "title": "Самый богатый человек в Вавилоне",
+        "author": "Д. Клейсон",
+        "notes": "",
+        "createdAt": "2019-02-19 17:54:46",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 151
+        }
+    },
     "nkULjm2CDD": {
         "id": "nkULjm2CDD",
         "title": "Не навреди",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 102
-        }
-    },
-    "HzZ6TFG6F5": {
-        "id": "HzZ6TFG6F5",
-        "title": "Сто лет тому вперед",
-        "author": "Кир Булычёв",
-        "notes": "",
-        "createdAt": "2019-02-17 14:27:56",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 193
         }
     }
 }
