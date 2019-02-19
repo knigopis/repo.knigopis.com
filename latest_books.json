@@ -1,4 +1,16 @@
 {
+    "YqOtHEH0ms": {
+        "id": "YqOtHEH0ms",
+        "title": "Синастрическая астрология",
+        "author": "Максимов",
+        "notes": "",
+        "createdAt": "2019-02-19 17:58:58",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 168
+        }
+    },
     "fkPs_adThx": {
         "id": "fkPs_adThx",
         "title": "Облачный атлас",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 105
-        }
-    },
-    "VKW-u3hgzs": {
-        "id": "VKW-u3hgzs",
-        "title": "Война с лилипутами",
-        "author": "Кир Булычёв",
-        "notes": "",
-        "createdAt": "2019-02-19 09:03:48",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 204
         }
     }
 }
