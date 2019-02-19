@@ -1,4 +1,16 @@
 {
+    "tSjmmr2U-h": {
+        "id": "tSjmmr2U-h",
+        "title": "Гуманистический психоанализ",
+        "author": "Фромм Эрих",
+        "notes": "",
+        "createdAt": "2019-02-19 17:55:26",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 154
+        }
+    },
     "sN7k1-nRjr": {
         "id": "sN7k1-nRjr",
         "title": "Астрология для жизни",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 194
-        }
-    },
-    "coKsrNLfF8": {
-        "id": "coKsrNLfF8",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2019-02-17 18:52:51",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 116
         }
     }
 }
