@@ -1,4 +1,16 @@
 {
+    "evns_wDf1q": {
+        "id": "evns_wDf1q",
+        "title": "Результативный тайм-менеджмент",
+        "author": "Брайан Трейси",
+        "notes": "",
+        "createdAt": "2019-02-19 17:55:01",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 152
+        }
+    },
     "jZqt9sQydT": {
         "id": "jZqt9sQydT",
         "title": "Самый богатый человек в Вавилоне",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 115
-        }
-    },
-    "ypjPQKOUHv": {
-        "id": "ypjPQKOUHv",
-        "title": "Мистер Смерть и чокнутая ведьма",
-        "author": "Завойчинская Милена",
-        "notes": "отдыхающая книжка,  как и все у автора. зверушки,  юмор,  очаровательная ГГ и ее спутник. что еще нужно для веселого отдыха",
-        "createdAt": "2019-02-17 18:24:53",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 102
         }
     }
 }
