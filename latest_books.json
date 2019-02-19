@@ -1,4 +1,16 @@
 {
+    "M3hhjsQMKu": {
+        "id": "M3hhjsQMKu",
+        "title": "Стойкость: Мой год в космосе",
+        "author": "Скот Келли",
+        "notes": "",
+        "createdAt": "2019-02-19 14:00:39",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 10
+        }
+    },
     "iBi5Ys3NzY": {
         "id": "iBi5Ys3NzY",
         "title": "Любовь, свобода, одиночество",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 130
-        }
-    },
-    "rcMY2hICR6": {
-        "id": "rcMY2hICR6",
-        "title": "Черная Роза",
-        "author": "Завойчинская Милена",
-        "notes": "",
-        "createdAt": "2019-02-16 05:09:16",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 101
         }
     }
 }
