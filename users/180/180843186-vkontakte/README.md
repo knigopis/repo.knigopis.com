@@ -1,7 +1,12 @@
-# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>55</sup>
+# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>56</sup>
 ---
 
 ## Other years
+
+### Летящая против ветра
+НАДЕЖДА КУЗЬМИНА
+> 0/10
+
 
 ### Белый клык
 Джек Лондон
