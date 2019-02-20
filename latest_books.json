@@ -1,4 +1,16 @@
 {
+    "ekHg6kmLpt": {
+        "id": "ekHg6kmLpt",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "Странная книжка для любителей долбежки в глаза (50% произведения- речь умственно отсталого). Читать можно",
+        "createdAt": "2019-02-20 18:09:42",
+        "user": {
+            "id": "180843186-vkontakte",
+            "nickname": "Виктория Ромашко",
+            "booksCount": 1
+        }
+    },
     "JTp7QxHMke": {
         "id": "JTp7QxHMke",
         "title": "Голодній дом",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 156
-        }
-    },
-    "DclcZQsCj1": {
-        "id": "DclcZQsCj1",
-        "title": "Паника",
-        "author": "Лорен Оливер",
-        "notes": "",
-        "createdAt": "2019-02-19 17:55:35",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 155
         }
     }
 }
