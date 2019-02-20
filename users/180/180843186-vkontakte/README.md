@@ -1,7 +1,12 @@
-# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>35</sup>
+# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>36</sup>
 ---
 
 ## Other years
+
+### Одиночество в сети
+Януш Леон Вишневский
+> -2/10
+
 
 ### Анна Каренина
 Толстой
