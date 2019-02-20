@@ -1,4 +1,16 @@
 {
+    "sUD2eAa8eI": {
+        "id": "sUD2eAa8eI",
+        "title": "451 градус по Фаренгейту",
+        "author": "Бредбери",
+        "notes": "Слабая антиутопийка, нереалистичные мотивы гг, в целом читать можно",
+        "createdAt": "2019-02-20 18:16:46",
+        "user": {
+            "id": "180843186-vkontakte",
+            "nickname": "Виктория Ромашко",
+            "booksCount": 4
+        }
+    },
     "SB9trqw0Wp": {
         "id": "SB9trqw0Wp",
         "title": "Вишневый сад",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 159
-        }
-    },
-    "O3U_HOKmq6": {
-        "id": "O3U_HOKmq6",
-        "title": "Любовь живет три года",
-        "author": "Фредерик Бегбедер",
-        "notes": "",
-        "createdAt": "2019-02-19 17:56:15",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 158
         }
     }
 }
