@@ -1,7 +1,11 @@
-# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>54</sup>
+# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>55</sup>
 ---
 
 ## Other years
+
+### Белый клык
+Джек Лондон
+
 
 ### Игрок
 Достоевский

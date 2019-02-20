@@ -1,4 +1,16 @@
 {
+    "ZT7HVriJCW": {
+        "id": "ZT7HVriJCW",
+        "title": "Белый клык",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2019-02-20 20:47:34",
+        "user": {
+            "id": "180843186-vkontakte",
+            "nickname": "Виктория Ромашко",
+            "booksCount": 55
+        }
+    },
     "MZeTZhXNaZ": {
         "id": "MZeTZhXNaZ",
         "title": "Игрок",
@@ -345,18 +357,6 @@
             "id": "180843186-vkontakte",
             "nickname": "Виктория Ромашко",
             "booksCount": 26
-        }
-    },
-    "aeFpzwIYmb": {
-        "id": "aeFpzwIYmb",
-        "title": "Аэропорт",
-        "author": "Артур Хейли",
-        "notes": "Куча действующих лиц, ведущих повествование, чьи судьбы сплетаются в одну большую историю о жизни крупного аэропорта в мегаполисе. 7/10, но на один раз",
-        "createdAt": "2019-02-20 19:06:40",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 25
         }
     }
 }
