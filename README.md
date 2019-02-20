@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darb_el](users/184/184135339-vkontakte)<sup>23</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>127</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>181</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>10</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Kurokuma](users/114/114867625557587940583-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>60</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>14</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>210</sup> 
 
 
-_20.02.2019 03:33:13_
+_20.02.2019 03:46:49_

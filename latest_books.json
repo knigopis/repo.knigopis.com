@@ -1,4 +1,16 @@
 {
+    "c2LZ4jCf9K": {
+        "id": "c2LZ4jCf9K",
+        "title": "Слепой часовщик",
+        "author": "Ричард Докинз",
+        "notes": "",
+        "createdAt": "2019-02-20 03:46:49",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 23
+        }
+    },
     "wrjQoq4ZV7": {
         "id": "wrjQoq4ZV7",
         "title": "Граф Монте-Кристо",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 154
-        }
-    },
-    "sN7k1-nRjr": {
-        "id": "sN7k1-nRjr",
-        "title": "Астрология для жизни",
-        "author": "Павел Андреев",
-        "notes": "",
-        "createdAt": "2019-02-19 17:55:11",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 153
         }
     }
 }
