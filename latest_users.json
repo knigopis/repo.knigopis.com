@@ -1,4 +1,10 @@
 {
+    "180843186-vkontakte": {
+        "id": "180843186-vkontakte",
+        "nickname": "Виктория Ромашко",
+        "booksCount": 0,
+        "updatedAt": "2019-02-20 17:45:53"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ",
         "booksCount": 60,
         "updatedAt": "2019-02-10 13:49:10"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 14,
-        "updatedAt": "2019-02-09 19:45:02"
     }
 }
