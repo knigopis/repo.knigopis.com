@@ -1,4 +1,16 @@
 {
+    "kNq03yRge7": {
+        "id": "kNq03yRge7",
+        "title": "Великий Гэтсби",
+        "author": "Френсис Фицджеральд",
+        "notes": "8/10 драмочка, концовка- уныние и совсем упадок, мне нравится",
+        "createdAt": "2019-02-20 18:19:29",
+        "user": {
+            "id": "180843186-vkontakte",
+            "nickname": "Виктория Ромашко",
+            "booksCount": 6
+        }
+    },
     "ukt0ZtPA9g": {
         "id": "ukt0ZtPA9g",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 161
-        }
-    },
-    "kg1jcbDSil": {
-        "id": "kg1jcbDSil",
-        "title": "Личные финансы",
-        "author": "А.В. Покудов",
-        "notes": "",
-        "createdAt": "2019-02-19 17:56:40",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 160
         }
     }
 }
