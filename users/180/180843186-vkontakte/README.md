@@ -1,7 +1,12 @@
-# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>31</sup>
+# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>32</sup>
 ---
 
 ## Other years
+
+### Бегущий человек
+Стивен Кинг
+> Классека, 6/10
+
 
 ### Голодные игры
 Сьюзен Коллинз
