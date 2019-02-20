@@ -1,4 +1,16 @@
 {
+    "Rw8vbKDchN": {
+        "id": "Rw8vbKDchN",
+        "title": "Мастер и Маргарита",
+        "author": "Булгаков",
+        "notes": "Общих восторгов не разделяю, ничего гениального не усматриваю. Не стала бы советовать никому ровным счетом, 5/10",
+        "createdAt": "2019-02-20 18:44:28",
+        "user": {
+            "id": "180843186-vkontakte",
+            "nickname": "Виктория Ромашко",
+            "booksCount": 19
+        }
+    },
     "knmC0hfSs0": {
         "id": "knmC0hfSs0",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 174
-        }
-    },
-    "f0mN3l1srG": {
-        "id": "f0mN3l1srG",
-        "title": "Похороните меня за плинтусом",
-        "author": "Павел Санаев",
-        "notes": "",
-        "createdAt": "2019-02-19 17:59:57",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 173
         }
     }
 }
