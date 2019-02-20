@@ -1,7 +1,12 @@
-# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>28</sup>
+# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>29</sup>
 ---
 
 ## Other years
+
+### 50 оттенков серого
+Э. Л. Джеймс
+> Мама прости
+
 
 ### Шантарам
 Грегори Дэвид Робертс
