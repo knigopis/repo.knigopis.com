@@ -1,4 +1,4 @@
-# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>48</sup>
+# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>49</sup>
 ---
 
 ## 2019
@@ -10,6 +10,10 @@
 
 
 ## Other years
+
+### Союз рыжих
+Артур Конан Дойл
+
 
 ### Долина ужаса
 Артур Конан Дойл
