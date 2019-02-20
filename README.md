@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Голодній дом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup>
+    > 6/10 Фантастика, украденніе души.
+
 * Управляющий мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>180</sup>
     > Интересная книга о лобных долях и принятии решений.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень нудная и утомительная
 
 * Любовь, свобода, одиночество ~ [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup>
-    > В процессе
 
 * Йога для всех возрастов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>14</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * У війни не жіноче обличчя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>13</sup>
 
-* Молот ведьм ~ [Quaff](users/122/12267158-vkontakte)<sup>25</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>23</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>127</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>181</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 [fir137](users/176/176805114-yandex)<sup>32</sup> 
 [Вальдемар](users/614/614649752306644-facebook)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>14</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>116</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>102</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>60</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>14</sup> 
 
 
-_20.02.2019 03:46:49_
+_20.02.2019 14:26:44_

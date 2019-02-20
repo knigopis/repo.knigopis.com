@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Голодній дом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup>
 * Управляющий мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>180</sup>
 * Секретные бункеры Кёнигсберга ~ [Madlax](users/158/158304782-vkontakte)<sup>177</sup>
 * Любовь, свобода, одиночество ~ [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup>
@@ -30,7 +31,6 @@
 * В інтернеті хтось помиляється! ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>9</sup>
 * Голодание ради здоровья. Забытые достижения советской медицины ~ [sonics](users/588/5880221-vkontakte)<sup>60</sup>
 * Расследует Паркер Пайн ~ [fir137](users/176/176805114-yandex)<sup>24</sup>
-* Вечера на хуторе близ Диканьки ~ [Йолант](users/104/104690883692185089260-google)<sup>187</sup>
 
 
-_19.02.2019 18:01:50_
+_20.02.2019 14:26:44_
