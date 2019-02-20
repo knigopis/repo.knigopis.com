@@ -1,7 +1,12 @@
-# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>17</sup>
+# List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>18</sup>
 ---
 
 ## Other years
+
+### Лолита
+Набоков
+> Просто 6/10
+
 
 ### Дракула
 Брэм Стокер

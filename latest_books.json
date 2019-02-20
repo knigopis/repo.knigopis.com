@@ -1,4 +1,16 @@
 {
+    "knmC0hfSs0": {
+        "id": "knmC0hfSs0",
+        "title": "Лолита",
+        "author": "Набоков",
+        "notes": "Просто 6/10",
+        "createdAt": "2019-02-20 18:43:20",
+        "user": {
+            "id": "180843186-vkontakte",
+            "nickname": "Виктория Ромашко",
+            "booksCount": 18
+        }
+    },
     "OTLY0Vctua": {
         "id": "OTLY0Vctua",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 173
-        }
-    },
-    "2lrBcoaFJm": {
-        "id": "2lrBcoaFJm",
-        "title": "На западном фронте без перемен",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2019-02-19 17:59:46",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 172
         }
     }
 }
