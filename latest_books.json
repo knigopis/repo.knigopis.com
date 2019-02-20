@@ -1,4 +1,16 @@
 {
+    "4-odAbIkie": {
+        "id": "4-odAbIkie",
+        "title": "Овод",
+        "author": "Этель Войнич",
+        "notes": "Заебись, здесь честно об архиепископах, революционерах и семейных узах. Хорошая, мб к перепрочтению",
+        "createdAt": "2019-02-20 18:12:14",
+        "user": {
+            "id": "180843186-vkontakte",
+            "nickname": "Виктория Ромашко",
+            "booksCount": 2
+        }
+    },
     "ekHg6kmLpt": {
         "id": "ekHg6kmLpt",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 157
-        }
-    },
-    "LeV0zys8F8": {
-        "id": "LeV0zys8F8",
-        "title": "Пол мозга. Истинные отличия мужчин от женщин",
-        "author": "Энн Мойр и Дэвид Джессл",
-        "notes": "",
-        "createdAt": "2019-02-19 17:55:49",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 156
         }
     }
 }
