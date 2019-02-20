@@ -1,15 +1,12 @@
 # List of books read by [Виктория Ромашко](http://vk.com/id180843186)<sup>3</sup>
 ---
 
-## 2019
+## Other years
 
 ### Вишневый сад
 Чехов
 > Хуета 0/10
 
-
-
-## Other years
 
 ### Овод
 Этель Войнич
