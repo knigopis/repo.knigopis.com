@@ -1,4 +1,16 @@
 {
+    "2xo5-5yLy4": {
+        "id": "2xo5-5yLy4",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "Худшая антиутопия в истории, единственная годная вещь в книге- сома, но и она не вывозит",
+        "createdAt": "2019-02-20 18:46:08",
+        "user": {
+            "id": "180843186-vkontakte",
+            "nickname": "Виктория Ромашко",
+            "booksCount": 20
+        }
+    },
     "Rw8vbKDchN": {
         "id": "Rw8vbKDchN",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 175
-        }
-    },
-    "-cPw0VmY1k": {
-        "id": "-cPw0VmY1k",
-        "title": "Женская Интуиция",
-        "author": "Айзек Азимов",
-        "notes": "",
-        "createdAt": "2019-02-19 18:00:09",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 174
         }
     }
 }
