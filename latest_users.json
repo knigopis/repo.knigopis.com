@@ -1,4 +1,10 @@
 {
+    "106041720551307935303-googleplus": {
+        "id": "106041720551307935303-googleplus",
+        "nickname": "pusash",
+        "booksCount": 0,
+        "updatedAt": "2019-02-21 22:31:39"
+    },
     "114972986504829220090-google": {
         "id": "114972986504829220090-google",
         "nickname": "astreya",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-02-11 08:06:34"
-    },
-    "114867625557587940583-google": {
-        "id": "114867625557587940583-google",
-        "nickname": "Kurokuma",
-        "booksCount": 0,
-        "updatedAt": "2019-02-10 14:22:55"
     }
 }
