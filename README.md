@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[astreya](users/114/114972986504829220090-google)<sup>0</sup> 
 [Виктория Ромашко](users/180/180843186-vkontakte)<sup>59</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>23</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fire_ejik](users/329/32903202-vkontakte)<sup>45</sup> 
 [](users/103/103018351090055633128-google)<sup>0</sup> 
 [Kurokuma](users/114/114867625557587940583-google)<sup>0</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>60</sup> 
 
 
-_20.02.2019 21:37:42_
+_21.02.2019 21:25:29_
