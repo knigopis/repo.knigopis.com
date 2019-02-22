@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>52</sup>
+# List of books read by inna.besprozvannykh<sup>53</sup>
 ---
 
 ## 2019
+
+### Сильнее смерти
+Джон Голсуорси
+> [2019-02-21] 
+
 
 ### На пределе. Границы возможностей человеческого организма
 Кевин Фонг

@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 53,
+        "updatedAt": "2019-02-22 07:18:15"
+    },
     "106041720551307935303-googleplus": {
         "id": "106041720551307935303-googleplus",
         "nickname": "pusash",
@@ -130,12 +136,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-02-15 13:01:38"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 52,
-        "updatedAt": "2019-02-15 10:13:56"
     },
     "973496-vkontakte": {
         "id": "973496-vkontakte",
