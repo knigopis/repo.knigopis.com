@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>128</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>61</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>55</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>53</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Виктория Ромашко](users/180/180843186-vkontakte)<sup>59</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>23</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>127</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>181</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>10</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>6</sup> 
 
 
-_22.02.2019 15:30:37_
+_22.02.2019 17:54:31_

@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>127</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>128</sup>
 ---
 
 ## 2019
+
+### Сага о Видящих 1. Ученик убийцы
+Робин Хобб
+> [2019-02-21] 
+
 
 ### Граф Монте-Кристо
 Александр Дюма
