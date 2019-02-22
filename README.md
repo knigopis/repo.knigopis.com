@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>61</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>55</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>53</sup> 
 [pusash](users/106/106041720551307935303-googleplus)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>6</sup> 
-[fire_ejik](users/329/32903202-vkontakte)<sup>45</sup> 
 
 
-_22.02.2019 10:38:55_
+_22.02.2019 15:30:37_
