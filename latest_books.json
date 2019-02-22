@@ -1,4 +1,16 @@
 {
+    "sdeVya52V1": {
+        "id": "sdeVya52V1",
+        "title": "Смерть на Ниле",
+        "author": "Кристи Агата",
+        "notes": "",
+        "createdAt": "2019-02-22 18:42:44",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 33
+        }
+    },
     "iOoeXID8uM": {
         "id": "iOoeXID8uM",
         "title": "Сага о Видящих 1. Ученик убийцы",
@@ -345,18 +357,6 @@
             "id": "180843186-vkontakte",
             "nickname": "Виктория Ромашко",
             "booksCount": 37
-        }
-    },
-    "VsojVCtMC0": {
-        "id": "VsojVCtMC0",
-        "title": "Одиночество в сети",
-        "author": "Януш Леон Вишневский",
-        "notes": "-2/10",
-        "createdAt": "2019-02-20 19:51:37",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 36
         }
     }
 }

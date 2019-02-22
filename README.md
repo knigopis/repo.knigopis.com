@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>128</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>61</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>55</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>204</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
-[fir137](users/176/176805114-yandex)<sup>32</sup> 
 [Вальдемар](users/614/614649752306644-facebook)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>116</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>102</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>6</sup> 
 
 
-_22.02.2019 17:54:31_
+_22.02.2019 18:42:44_
