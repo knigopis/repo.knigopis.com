@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[radeonx801](users/973/973496-vkontakte)<sup>202</sup> 
 [fir137](users/176/176805114-yandex)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>128</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>61</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>130</sup> 
 [bunneh](users/534/5342064-vkontakte)<sup>1</sup> 
 [](users/125/125225849-vkontakte)<sup>0</sup> 
-[radeonx801](users/973/973496-vkontakte)<sup>201</sup> 
 [arinka09200401](users/445/445767549-vkontakte)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>6</sup> 
 
 
-_22.02.2019 18:42:44_
+_22.02.2019 22:24:54_

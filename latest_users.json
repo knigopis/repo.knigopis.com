@@ -1,4 +1,10 @@
 {
+    "973496-vkontakte": {
+        "id": "973496-vkontakte",
+        "nickname": "radeonx801",
+        "booksCount": 202,
+        "updatedAt": "2019-02-22 22:24:53"
+    },
     "176805114-yandex": {
         "id": "176805114-yandex",
         "nickname": "fir137",
@@ -148,12 +154,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-02-15 13:01:38"
-    },
-    "973496-vkontakte": {
-        "id": "973496-vkontakte",
-        "nickname": "radeonx801",
-        "booksCount": 201,
-        "updatedAt": "2019-02-15 09:59:07"
     },
     "445767549-vkontakte": {
         "id": "445767549-vkontakte",
