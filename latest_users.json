@@ -1,4 +1,10 @@
 {
+    "152488954-vkontakte": {
+        "id": "152488954-vkontakte",
+        "nickname": "kasikandriena",
+        "booksCount": 55,
+        "updatedAt": "2019-02-22 10:38:55"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "fire_ejik",
         "booksCount": 45,
         "updatedAt": "2019-02-12 14:56:29"
-    },
-    "103018351090055633128-google": {
-        "id": "103018351090055633128-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-02-11 08:06:34"
     }
 }

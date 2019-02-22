@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kasikandriena](users/152/152488954-vkontakte)<sup>55</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>53</sup> 
 [pusash](users/106/106041720551307935303-googleplus)<sup>0</sup> 
 [astreya](users/114/114972986504829220090-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>6</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>45</sup> 
-[](users/103/103018351090055633128-google)<sup>0</sup> 
 
 
-_22.02.2019 07:18:15_
+_22.02.2019 10:38:55_
