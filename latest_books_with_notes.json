@@ -1,4 +1,16 @@
 {
+    "22MrF0wmfH": {
+        "id": "22MrF0wmfH",
+        "title": "The Future of Capitalism: Facing the New Anxieties",
+        "author": "Paul Collier",
+        "notes": "ASIN: B077M9MCVW",
+        "createdAt": "2019-02-23 11:36:57",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 97
+        }
+    },
     "M18VflIP-p": {
         "id": "M18VflIP-p",
         "title": "Начала политической экономии и налогового обложения",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 9
-        }
-    },
-    "XDlaIO_jl6": {
-        "id": "XDlaIO_jl6",
-        "title": "Голодание ради здоровья. Забытые достижения советской медицины",
-        "author": "Николаев Ю.С., Нилов Е.И., Черкасов В.Г",
-        "notes": "Информация общая, очень полезная для введение в эту сферу.\nИсторическое наследие.",
-        "createdAt": "2019-02-03 10:05:49",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 60
         }
     }
 }

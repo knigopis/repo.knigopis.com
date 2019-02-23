@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>96</sup>
+# Список прочитанных книг пользователя exulted<sup>97</sup>
 ---
 
 ## 2019
+
+### The Future of Capitalism: Facing the New Anxieties
+Paul Collier
+> [2019-02-17] ASIN: B077M9MCVW
+
 
 ### Дворянское гнездо
 Тургенев Иван Сергееевич

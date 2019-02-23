@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Future of Capitalism: Facing the New Anxieties ~ [exulted](users/100/100599204551896265722-google)<sup>97</sup>
+    > ASIN: B077M9MCVW
+
 * Начала политической экономии и налогового обложения ~ [kissamasya](users/684/68439978-vkontakte)<sup>46</sup>
     > Очень тяжёлая для прочтения книга
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Фантастика, украденніе души.
 
 * Управляющий мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>180</sup>
-    > Интересная книга о лобных долях и принятии решений.
 
 * Секретные бункеры Кёнигсберга ~ [Madlax](users/158/158304782-vkontakte)<sup>177</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кратчайшая история времени ~ [Apprentice ](users/528/52821952-vkontakte)<sup>104</sup>
 
-* Карты памяти на стол ~ [fir137](users/176/176805114-yandex)<sup>31</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>97</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>86</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>46</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>202</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/125/125225849-vkontakte)<sup>0</sup> 
 [arinka09200401](users/445/445767549-vkontakte)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup> 
 
 
-_23.02.2019 06:56:18_
+_23.02.2019 11:36:57_

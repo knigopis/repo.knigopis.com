@@ -1,4 +1,16 @@
 {
+    "22MrF0wmfH": {
+        "id": "22MrF0wmfH",
+        "title": "The Future of Capitalism: Facing the New Anxieties",
+        "author": "Paul Collier",
+        "notes": "ASIN: B077M9MCVW",
+        "createdAt": "2019-02-23 11:36:57",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 97
+        }
+    },
     "t2_-XODpK8": {
         "id": "t2_-XODpK8",
         "title": "Мертвая зыбь",
@@ -345,18 +357,6 @@
             "id": "180843186-vkontakte",
             "nickname": "Виктория Ромашко",
             "booksCount": 41
-        }
-    },
-    "FbaGSocJbI": {
-        "id": "FbaGSocJbI",
-        "title": "Мальчик в полосатой пижаме",
-        "author": "Джон Бойн",
-        "notes": "Типикал рассказик о пленнике концлагеря",
-        "createdAt": "2019-02-20 20:08:19",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 40
         }
     }
 }
