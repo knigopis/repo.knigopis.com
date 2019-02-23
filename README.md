@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>87</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>97</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>86</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>46</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>202</sup> 
 [fir137](users/176/176805114-yandex)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
 
 
-_23.02.2019 11:36:57_
+_23.02.2019 16:25:45_

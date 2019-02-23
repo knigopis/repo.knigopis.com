@@ -1,4 +1,16 @@
 {
+    "eFxl1SuYXK": {
+        "id": "eFxl1SuYXK",
+        "title": "Коллекционер",
+        "author": "Фаулз Джон",
+        "notes": "",
+        "createdAt": "2019-02-23 16:25:44",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 87
+        }
+    },
     "22MrF0wmfH": {
         "id": "22MrF0wmfH",
         "title": "The Future of Capitalism: Facing the New Anxieties",
@@ -345,18 +357,6 @@
             "id": "180843186-vkontakte",
             "nickname": "Виктория Ромашко",
             "booksCount": 42
-        }
-    },
-    "W5EQN9TAr3": {
-        "id": "W5EQN9TAr3",
-        "title": "Виноваты звезды",
-        "author": "Джон Грин",
-        "notes": "Тошнота с нулевой секунды",
-        "createdAt": "2019-02-20 20:09:47",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 41
         }
     }
 }
