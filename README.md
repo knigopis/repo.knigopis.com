@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Начала политической экономии и налогового обложения ~ [kissamasya](users/684/68439978-vkontakte)<sup>46</sup>
+    > Очень тяжёлая для прочтения книга
+
 * Голодній дом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup>
     > 6/10 Фантастика, украденніе души.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Интересная книга о лобных долях и принятии решений.
 
 * Секретные бункеры Кёнигсберга ~ [Madlax](users/158/158304782-vkontakte)<sup>177</sup>
-    > Очень нудная и утомительная
 
 * Любовь, свобода, одиночество ~ [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Карты памяти на стол ~ [fir137](users/176/176805114-yandex)<sup>31</sup>
 
-* У війни не жіноче обличчя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>46</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>202</sup> 
 [fir137](users/176/176805114-yandex)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>128</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [arinka09200401](users/445/445767549-vkontakte)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup> 
-[elena-gagina2014](users/208/208969292-yandex)<sup>6</sup> 
 
 
-_22.02.2019 22:24:54_
+_23.02.2019 06:49:13_

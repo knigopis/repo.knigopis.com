@@ -1,4 +1,16 @@
 {
+    "M18VflIP-p": {
+        "id": "M18VflIP-p",
+        "title": "Начала политической экономии и налогового обложения",
+        "author": "Давид Рикардо",
+        "notes": "Очень тяжёлая для прочтения книга",
+        "createdAt": "2019-02-23 06:49:13",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 46
+        }
+    },
     "JTp7QxHMke": {
         "id": "JTp7QxHMke",
         "title": "Голодній дом",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 60
-        }
-    },
-    "F3xSVwmsCt": {
-        "id": "F3xSVwmsCt",
-        "title": "Расследует Паркер Пайн",
-        "author": "Кристи Агата",
-        "notes": "Лёгкая пародия на Пуаро",
-        "createdAt": "2019-02-02 19:23:36",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 24
         }
     }
 }

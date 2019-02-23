@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 46,
+        "updatedAt": "2019-02-23 06:49:13"
+    },
     "973496-vkontakte": {
         "id": "973496-vkontakte",
         "nickname": "radeonx801",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 193,
         "updatedAt": "2019-02-13 22:20:22"
-    },
-    "208969292-yandex": {
-        "id": "208969292-yandex",
-        "nickname": "elena-gagina2014",
-        "booksCount": 6,
-        "updatedAt": "2019-02-12 17:13:13"
     }
 }

@@ -1,5 +1,13 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>45</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>46</sup>
 ---
+
+## 2019
+
+### Начала политической экономии и налогового обложения
+Давид Рикардо
+> [2019-02-22] Очень тяжёлая для прочтения книга
+
+
 
 ## 2018
 
