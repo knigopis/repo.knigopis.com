@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Список возмездия ~ [kissamasya](users/684/68439978-vkontakte)<sup>47</sup>
 * The Future of Capitalism: Facing the New Anxieties ~ [exulted](users/100/100599204551896265722-google)<sup>97</sup>
 * Начала политической экономии и налогового обложения ~ [kissamasya](users/684/68439978-vkontakte)<sup>46</sup>
 * Голодній дом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup>
@@ -30,7 +31,6 @@
 * Тайна лорда Листердейла (сборник) ~ [fir137](users/176/176805114-yandex)<sup>25</sup>
 * Рябиновый мед. Августина ~ [Chiffi](users/105/105831994080785626680-google)<sup>96</sup>
 * Происхождение жизни: наука и вера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>10</sup>
-* В інтернеті хтось помиляється! ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>9</sup>
 
 
-_23.02.2019 11:36:57_
+_23.02.2019 18:38:08_

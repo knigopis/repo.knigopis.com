@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Список возмездия ~ [kissamasya](users/684/68439978-vkontakte)<sup>47</sup>
+    > На ученицу старшей школы Эллу кто-то напал. Ей повезло и злодея спугнули прохожие, благодаря чему девушка и осталась жива. Вот только этим все не закончилось - одноклассники Эллы продолжают исчезать. Спустя какое-то время полиция начинает понимать кому именно грозит опасность. Ведь у всех жертв в прошлом было кое-что общее...
+
 * The Future of Capitalism: Facing the New Anxieties ~ [exulted](users/100/100599204551896265722-google)<sup>97</sup>
     > ASIN: B077M9MCVW
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень тяжёлая для прочтения книга
 
 * Голодній дом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup>
-    > 6/10 Фантастика, украденніе души.
 
 * Управляющий мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>180</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Девочка, с которой ничего не случится ~ [Йолант](users/104/104690883692185089260-google)<sup>190</sup>
 
-* Кратчайшая история времени ~ [Apprentice ](users/528/52821952-vkontakte)<sup>104</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>47</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>87</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>97</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>46</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>202</sup> 
 [fir137](users/176/176805114-yandex)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>128</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
 
 
-_23.02.2019 16:25:45_
+_23.02.2019 18:38:08_
