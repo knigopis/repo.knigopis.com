@@ -1,4 +1,10 @@
 {
+    "13330781-vkontakte": {
+        "id": "13330781-vkontakte",
+        "nickname": "le_brouillard",
+        "booksCount": 86,
+        "updatedAt": "2019-02-23 06:56:17"
+    },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
         "nickname": "kissamasya",
@@ -130,12 +136,6 @@
         "nickname": "Ілона Кулик",
         "booksCount": 0,
         "updatedAt": "2019-02-17 10:35:29"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 85,
-        "updatedAt": "2019-02-16 20:05:20"
     },
     "383879357-vkontakte": {
         "id": "383879357-vkontakte",

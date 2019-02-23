@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>86</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>46</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>202</sup> 
 [fir137](users/176/176805114-yandex)<sup>33</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>102</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>60</sup> 
 [Ілона Кулик](users/115/115612203632373730372-google)<sup>0</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>85</sup> 
 [Anya](users/383/383879357-vkontakte)<sup>1</sup> 
 [](users/115/115826717712507836033-google)<sup>130</sup> 
 [bunneh](users/534/5342064-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup> 
 
 
-_23.02.2019 06:49:13_
+_23.02.2019 06:56:18_

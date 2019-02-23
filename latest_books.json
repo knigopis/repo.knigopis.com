@@ -1,4 +1,16 @@
 {
+    "t2_-XODpK8": {
+        "id": "t2_-XODpK8",
+        "title": "Мертвая зыбь",
+        "author": "Теорин Юхан",
+        "notes": "",
+        "createdAt": "2019-02-23 06:56:17",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 86
+        }
+    },
     "M18VflIP-p": {
         "id": "M18VflIP-p",
         "title": "Начала политической экономии и налогового обложения",
@@ -345,18 +357,6 @@
             "id": "180843186-vkontakte",
             "nickname": "Виктория Ромашко",
             "booksCount": 40
-        }
-    },
-    "sCG8b7GET1": {
-        "id": "sCG8b7GET1",
-        "title": "Вишневый сад",
-        "author": "Чехов",
-        "notes": "Хуита 0/10",
-        "createdAt": "2019-02-20 20:06:29",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 39
         }
     }
 }
