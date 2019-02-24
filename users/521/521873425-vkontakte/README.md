@@ -1,7 +1,11 @@
-# List of books read by [Lecowi](http://vk.com/id521873425)<sup>6</sup>
+# List of books read by [Lecowi](http://vk.com/id521873425)<sup>7</sup>
 ---
 
 ## 2019
+
+### Обсидиан
+Дженнифер Арментроут
+
 
 ### Школьный надзор
 Сергей Лукьяненко

@@ -1,4 +1,16 @@
 {
+    "o9eLYXMlW8": {
+        "id": "o9eLYXMlW8",
+        "title": "Обсидиан",
+        "author": "Дженнифер Арментроут",
+        "notes": "",
+        "createdAt": "2019-02-24 09:46:40",
+        "user": {
+            "id": "521873425-vkontakte",
+            "nickname": "Lecowi",
+            "booksCount": 7
+        }
+    },
     "OovN0cDiJq": {
         "id": "OovN0cDiJq",
         "title": "Школьный надзор",
@@ -345,18 +357,6 @@
             "id": "180843186-vkontakte",
             "nickname": "Виктория Ромашко",
             "booksCount": 51
-        }
-    },
-    "QuY2hWwNzi": {
-        "id": "QuY2hWwNzi",
-        "title": "Посторонний",
-        "author": "Альбер Камю",
-        "notes": "экзистенциализм круто",
-        "createdAt": "2019-02-20 20:26:33",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 50
         }
     }
 }
