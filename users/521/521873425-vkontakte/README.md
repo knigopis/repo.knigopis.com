@@ -1,7 +1,11 @@
-# List of books read by [Lecowi](http://vk.com/id521873425)<sup>8</sup>
+# List of books read by [Lecowi](http://vk.com/id521873425)<sup>9</sup>
 ---
 
 ## 2018
+
+### Таинственная история Билли Миллигана
+Дэниел Киз
+
 
 ### Академия пандемониум Королевский зодиак
 Евгений Гаглоев
