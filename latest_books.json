@@ -1,4 +1,16 @@
 {
+    "TX4O2I_Fxl": {
+        "id": "TX4O2I_Fxl",
+        "title": "Ночь в Лиссабоне",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2019-02-24 09:42:56",
+        "user": {
+            "id": "521873425-vkontakte",
+            "nickname": "Lecowi",
+            "booksCount": 1
+        }
+    },
     "EwaLBPfj3i": {
         "id": "EwaLBPfj3i",
         "title": "Другой Путь",
@@ -345,18 +357,6 @@
             "id": "180843186-vkontakte",
             "nickname": "Виктория Ромашко",
             "booksCount": 45
-        }
-    },
-    "Dy6QYHDspq": {
-        "id": "Dy6QYHDspq",
-        "title": "Гроза",
-        "author": "Островский",
-        "notes": "*скрип зубов",
-        "createdAt": "2019-02-20 20:19:46",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 44
         }
     }
 }
