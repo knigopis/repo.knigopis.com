@@ -1,4 +1,16 @@
 {
+    "TcDhOTMNBH": {
+        "id": "TcDhOTMNBH",
+        "title": "Эльфийская стража",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2019-02-24 09:44:46",
+        "user": {
+            "id": "521873425-vkontakte",
+            "nickname": "Lecowi",
+            "booksCount": 5
+        }
+    },
     "Vsb5aqEZN2": {
         "id": "Vsb5aqEZN2",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "180843186-vkontakte",
             "nickname": "Виктория Ромашко",
             "booksCount": 49
-        }
-    },
-    "BEKvww0rxN": {
-        "id": "BEKvww0rxN",
-        "title": "Долина ужаса",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2019-02-20 20:24:54",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 48
         }
     }
 }
