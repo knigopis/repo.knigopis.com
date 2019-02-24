@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>87</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>88</sup>
 ---
 
 ## 2019
+
+### Полет аистов
+Гранже Жан-Кристоф
+> [2019-02-24] 
+
 
 ### Коллекционер
 Фаулз Джон

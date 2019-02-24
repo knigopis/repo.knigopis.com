@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>88</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>182</sup> 
 [takeover_of_music](users/493/493533189-vkontakte)<sup>0</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>9</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>103</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>47</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>87</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>97</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>202</sup> 
 [fir137](users/176/176805114-yandex)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/125/125225849-vkontakte)<sup>0</sup> 
 
 
-_24.02.2019 17:56:42_
+_24.02.2019 18:33:16_
