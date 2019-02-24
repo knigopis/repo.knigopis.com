@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Другой Путь ~ [Chiffi](users/105/105831994080785626680-google)<sup>103</sup>
 * Список возмездия ~ [kissamasya](users/684/68439978-vkontakte)<sup>47</sup>
 * The Future of Capitalism: Facing the New Anxieties ~ [exulted](users/100/100599204551896265722-google)<sup>97</sup>
 * Начала политической экономии и налогового обложения ~ [kissamasya](users/684/68439978-vkontakte)<sup>46</sup>
@@ -30,7 +31,6 @@
 * Охота на тринадцатого ~ [Chiffi](users/105/105831994080785626680-google)<sup>97</sup>
 * Тайна лорда Листердейла (сборник) ~ [fir137](users/176/176805114-yandex)<sup>25</sup>
 * Рябиновый мед. Августина ~ [Chiffi](users/105/105831994080785626680-google)<sup>96</sup>
-* Происхождение жизни: наука и вера ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>10</sup>
 
 
-_23.02.2019 18:38:08_
+_24.02.2019 06:02:01_

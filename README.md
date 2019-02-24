@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Другой Путь ~ [Chiffi](users/105/105831994080785626680-google)<sup>103</sup>
+    > продолжение Аристономии. Точно поняла,  что мне не нравится читать книги про революцию и гражд.войну
+
 * Список возмездия ~ [kissamasya](users/684/68439978-vkontakte)<sup>47</sup>
     > На ученицу старшей школы Эллу кто-то напал. Ей повезло и злодея спугнули прохожие, благодаря чему девушка и осталась жива. Вот только этим все не закончилось - одноклассники Эллы продолжают исчезать. Спустя какое-то время полиция начинает понимать кому именно грозит опасность. Ведь у всех жертв в прошлом было кое-что общее...
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN: B077M9MCVW
 
 * Начала политической экономии и налогового обложения ~ [kissamasya](users/684/68439978-vkontakte)<sup>46</sup>
-    > Очень тяжёлая для прочтения книга
 
 * Голодній дом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мистер Смерть и чокнутая ведьма ~ [Chiffi](users/105/105831994080785626680-google)<sup>102</sup>
 
-* Девочка, с которой ничего не случится ~ [Йолант](users/104/104690883692185089260-google)<sup>190</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>103</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>47</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>87</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>97</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 [Вальдемар](users/614/614649752306644-facebook)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>116</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>102</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>60</sup> 
 [Ілона Кулик](users/115/115612203632373730372-google)<sup>0</sup> 
 [Anya](users/383/383879357-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
 
 
-_23.02.2019 18:38:08_
+_24.02.2019 06:02:01_
