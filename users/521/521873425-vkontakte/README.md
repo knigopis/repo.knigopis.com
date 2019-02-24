@@ -1,7 +1,11 @@
-# List of books read by [Lecowi](http://vk.com/id521873425)<sup>7</sup>
+# List of books read by [Lecowi](http://vk.com/id521873425)<sup>8</sup>
 ---
 
 ## 2019
+
+### Академия пандемониум Королевский зодиак
+Евгений Гаглоев
+
 
 ### Обсидиан
 Дженнифер Арментроут
