@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Madlax](users/158/158304782-vkontakte)<sup>182</sup> 
 [takeover_of_music](users/493/493533189-vkontakte)<sup>0</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>9</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>103</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Виктория Ромашко](users/180/180843186-vkontakte)<sup>59</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>23</sup> 
-[Madlax](users/158/158304782-vkontakte)<sup>181</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>10</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>204</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/125/125225849-vkontakte)<sup>0</sup> 
 
 
-_24.02.2019 14:46:38_
+_24.02.2019 17:56:42_

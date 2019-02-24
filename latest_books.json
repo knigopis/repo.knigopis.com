@@ -1,4 +1,16 @@
 {
+    "le-Al8aQLW": {
+        "id": "le-Al8aQLW",
+        "title": "Время жить и время умирать",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2019-02-24 17:56:41",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 182
+        }
+    },
     "SpMqlk4Ql0": {
         "id": "SpMqlk4Ql0",
         "title": "Таинственная история Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "180843186-vkontakte",
             "nickname": "Виктория Ромашко",
             "booksCount": 54
-        }
-    },
-    "zuNyqeBpJx": {
-        "id": "zuNyqeBpJx",
-        "title": "Тень над Иннсмутом",
-        "author": "Говард Лавкрафт",
-        "notes": "Напомнило мое бытие, 10/10",
-        "createdAt": "2019-02-20 20:32:50",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 53
         }
     }
 }
