@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lecowi](users/521/521873425-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>103</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>47</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>87</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bunneh](users/534/5342064-vkontakte)<sup>1</sup> 
 [](users/125/125225849-vkontakte)<sup>0</sup> 
 [arinka09200401](users/445/445767549-vkontakte)<sup>0</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>25</sup> 
 
 
-_24.02.2019 06:02:01_
+_24.02.2019 09:34:55_
