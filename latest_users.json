@@ -1,4 +1,10 @@
 {
+    "493533189-vkontakte": {
+        "id": "493533189-vkontakte",
+        "nickname": "takeover_of_music",
+        "booksCount": 0,
+        "updatedAt": "2019-02-24 14:46:37"
+    },
     "521873425-vkontakte": {
         "id": "521873425-vkontakte",
         "nickname": "Lecowi",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-02-15 13:01:38"
-    },
-    "445767549-vkontakte": {
-        "id": "445767549-vkontakte",
-        "nickname": "arinka09200401",
-        "booksCount": 0,
-        "updatedAt": "2019-02-15 08:50:57"
     }
 }
