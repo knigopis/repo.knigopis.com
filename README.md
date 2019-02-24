@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>680</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>88</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>182</sup> 
 [takeover_of_music](users/493/493533189-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Anya](users/383/383879357-vkontakte)<sup>1</sup> 
 [](users/115/115826717712507836033-google)<sup>130</sup> 
 [bunneh](users/534/5342064-vkontakte)<sup>1</sup> 
-[](users/125/125225849-vkontakte)<sup>0</sup> 
 
 
-_24.02.2019 18:33:16_
+_24.02.2019 19:44:07_
