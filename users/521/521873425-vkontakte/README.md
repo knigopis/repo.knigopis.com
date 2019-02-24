@@ -1,7 +1,11 @@
-# List of books read by [Lecowi](http://vk.com/id521873425)<sup>3</sup>
+# List of books read by [Lecowi](http://vk.com/id521873425)<sup>4</sup>
 ---
 
 ## 2019
+
+### Портрет Дориана Грея
+Оскар Уайльд
+
 
 ### Черный обелиск
 Эрих Мария Ремарк

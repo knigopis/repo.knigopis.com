@@ -1,4 +1,16 @@
 {
+    "Vsb5aqEZN2": {
+        "id": "Vsb5aqEZN2",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2019-02-24 09:44:08",
+        "user": {
+            "id": "521873425-vkontakte",
+            "nickname": "Lecowi",
+            "booksCount": 4
+        }
+    },
     "uL47Q7_TFS": {
         "id": "uL47Q7_TFS",
         "title": "Черный обелиск",
@@ -345,18 +357,6 @@
             "id": "180843186-vkontakte",
             "nickname": "Виктория Ромашко",
             "booksCount": 48
-        }
-    },
-    "RdtLZJkyHf": {
-        "id": "RdtLZJkyHf",
-        "title": "Скандал в Богемии",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2019-02-20 20:24:36",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 47
         }
     }
 }
