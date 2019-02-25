@@ -1,4 +1,16 @@
 {
+    "iKKH5swnlO": {
+        "id": "iKKH5swnlO",
+        "title": "Вопреки абсурду. Как я покорял Россию, а она - меня",
+        "author": "Леннарт Дальгрен",
+        "notes": "Про продвижение бренда ИКЕА в России. Столкновение с коррупцией в России",
+        "createdAt": "2019-02-25 09:55:20",
+        "user": {
+            "id": "24345139-vkontakte",
+            "nickname": "boroda18",
+            "booksCount": 3
+        }
+    },
     "yfb2MJ0XOq": {
         "id": "yfb2MJ0XOq",
         "title": "К чёрту всё! Берись и делай!",
@@ -345,18 +357,6 @@
             "id": "180843186-vkontakte",
             "nickname": "Виктория Ромашко",
             "booksCount": 61
-        }
-    },
-    "6PFVIZFXPb": {
-        "id": "6PFVIZFXPb",
-        "title": "Множественные умы Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2019-02-20 21:06:27",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 60
         }
     }
 }
