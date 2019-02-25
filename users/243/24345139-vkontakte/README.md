@@ -1,7 +1,12 @@
-# List of books read by [boroda18](http://vk.com/id24345139)<sup>1</sup>
+# List of books read by [boroda18](http://vk.com/id24345139)<sup>2</sup>
 ---
 
 ## 2016
+
+### К чёрту всё! Берись и делай!
+Ричард Брэнсон
+> Основатель Virgin, мини выдержка
+
 
 ### Теряя невинность
 Ричард Брэнсон

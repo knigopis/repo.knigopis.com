@@ -1,4 +1,16 @@
 {
+    "yfb2MJ0XOq": {
+        "id": "yfb2MJ0XOq",
+        "title": "К чёрту всё! Берись и делай!",
+        "author": "Ричард Брэнсон",
+        "notes": "Основатель Virgin, мини выдержка",
+        "createdAt": "2019-02-25 09:53:03",
+        "user": {
+            "id": "24345139-vkontakte",
+            "nickname": "boroda18",
+            "booksCount": 2
+        }
+    },
     "pkyxBB1B8u": {
         "id": "pkyxBB1B8u",
         "title": "Теряя невинность",
@@ -345,18 +357,6 @@
             "id": "180843186-vkontakte",
             "nickname": "Виктория Ромашко",
             "booksCount": 60
-        }
-    },
-    "hKPYn1N39z": {
-        "id": "hKPYn1N39z",
-        "title": "Загадочное ночное убийство собаки",
-        "author": "Марк Хэддон",
-        "notes": "8/10",
-        "createdAt": "2019-02-20 21:03:47",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 59
         }
     }
 }
