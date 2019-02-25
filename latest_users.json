@@ -1,4 +1,10 @@
 {
+    "117811929665876243039-google": {
+        "id": "117811929665876243039-google",
+        "nickname": "Барт",
+        "booksCount": 0,
+        "updatedAt": "2019-02-25 10:39:24"
+    },
     "24345139-vkontakte": {
         "id": "24345139-vkontakte",
         "nickname": "boroda18",
@@ -172,11 +178,5 @@
         "nickname": "Ілона Кулик",
         "booksCount": 0,
         "updatedAt": "2019-02-17 10:35:29"
-    },
-    "383879357-vkontakte": {
-        "id": "383879357-vkontakte",
-        "nickname": "Anya",
-        "booksCount": 1,
-        "updatedAt": "2019-02-16 17:53:53"
     }
 }
