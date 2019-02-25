@@ -1,4 +1,10 @@
 {
+    "12267158-vkontakte": {
+        "id": "12267158-vkontakte",
+        "nickname": "Quaff",
+        "booksCount": 26,
+        "updatedAt": "2019-02-25 15:19:15"
+    },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
         "nickname": "kissamasya",
@@ -172,11 +178,5 @@
         "nickname": "sab_olya",
         "booksCount": 60,
         "updatedAt": "2019-02-17 13:08:59"
-    },
-    "115612203632373730372-google": {
-        "id": "115612203632373730372-google",
-        "nickname": "Ілона Кулик",
-        "booksCount": 0,
-        "updatedAt": "2019-02-17 10:35:29"
     }
 }

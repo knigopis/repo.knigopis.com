@@ -1,4 +1,16 @@
 {
+    "QRHH5vVnuG": {
+        "id": "QRHH5vVnuG",
+        "title": "Любовница французского офицера",
+        "author": "Джон Фаулз",
+        "notes": "Долго, но неожиданно и любопытно",
+        "createdAt": "2019-02-25 15:19:15",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 26
+        }
+    },
     "Pq-SfJz1AQ": {
         "id": "Pq-SfJz1AQ",
         "title": "Организация бизнеса с нуля.С чего начать и как преуспеть",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 128
-        }
-    },
-    "fMePnSll-z": {
-        "id": "fMePnSll-z",
-        "title": "🔸️Morbus Dei. Inferno",
-        "author": "Бауер, Цах",
-        "notes": "",
-        "createdAt": "2019-02-22 15:30:37",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 61
         }
     }
 }

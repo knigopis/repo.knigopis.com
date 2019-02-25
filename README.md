@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Любовница французского офицера ~ [Quaff](users/122/12267158-vkontakte)<sup>26</sup>
+    > Долго, но неожиданно и любопытно
+
 * Организация бизнеса с нуля.С чего начать и как преуспеть ~ [kissamasya](users/684/68439978-vkontakte)<sup>48</sup>
     > Организация собственного бизнеса – это возможность обеспечить свое благосостояние и благосостояние своей семьи. Собственный бизнес – это уникальная возможность работать на себя и быть независимым.
     > 
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > продолжение Аристономии. Точно поняла,  что мне не нравится читать книги про революцию и гражд.войну
 
 * Список возмездия ~ [kissamasya](users/684/68439978-vkontakte)<sup>47</sup>
-    > На ученицу старшей школы Эллу кто-то напал. Ей повезло и злодея спугнули прохожие, благодаря чему девушка и осталась жива. Вот только этим все не закончилось - одноклассники Эллы продолжают исчезать. Спустя какое-то время полиция начинает понимать кому именно грозит опасность. Ведь у всех жертв в прошлом было кое-что общее...
 
 * The Future of Capitalism: Facing the New Anxieties ~ [exulted](users/100/100599204551896265722-google)<sup>97</sup>
 
@@ -34,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Любовь, свобода, одиночество ~ [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup>
 
-* Йога для всех возрастов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>26</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>48</sup> 
 [boroda18](users/243/24345139-vkontakte)<sup>5</sup> 
 [Барт](users/117/117811929665876243039-google)<sup>0</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Вальдемар](users/614/614649752306644-facebook)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>116</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>60</sup> 
-[Ілона Кулик](users/115/115612203632373730372-google)<sup>0</sup> 
 
 
-_25.02.2019 14:03:01_
+_25.02.2019 15:19:15_
