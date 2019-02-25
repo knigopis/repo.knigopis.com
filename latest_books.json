@@ -1,4 +1,16 @@
 {
+    "y2HFgtYZJn": {
+        "id": "y2HFgtYZJn",
+        "title": "Хризалида",
+        "author": "Джон Голд",
+        "notes": "",
+        "createdAt": "2019-02-25 23:11:52",
+        "user": {
+            "id": "15813417-vkontakte",
+            "nickname": "SantiagoSerg",
+            "booksCount": 1
+        }
+    },
     "g6ntulyJlm": {
         "id": "g6ntulyJlm",
         "title": "Жемчужина",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 46
-        }
-    },
-    "tZnn8TWfrz": {
-        "id": "tZnn8TWfrz",
-        "title": "Общага-на-Крови",
-        "author": "Алексей Иванов",
-        "notes": "",
-        "createdAt": "2019-02-22 22:24:53",
-        "user": {
-            "id": "973496-vkontakte",
-            "nickname": "radeonx801",
-            "booksCount": 202
         }
     }
 }
