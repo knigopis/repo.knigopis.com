@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Svecha](users/118/118041836581529110049-google)<sup>34</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>26</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>48</sup> 
 [boroda18](users/243/24345139-vkontakte)<sup>5</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 [Вальдемар](users/614/614649752306644-facebook)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>116</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>60</sup> 
 
 
-_25.02.2019 15:19:15_
+_25.02.2019 17:43:26_

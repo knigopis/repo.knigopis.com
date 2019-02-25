@@ -1,4 +1,16 @@
 {
+    "S8cU4PWhp2": {
+        "id": "S8cU4PWhp2",
+        "title": "О мышах и людях",
+        "author": "Джон Стейнбек",
+        "notes": "",
+        "createdAt": "2019-02-25 17:43:26",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": "Svecha",
+            "booksCount": 34
+        }
+    },
     "QRHH5vVnuG": {
         "id": "QRHH5vVnuG",
         "title": "Любовница французского офицера",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 33
-        }
-    },
-    "iOoeXID8uM": {
-        "id": "iOoeXID8uM",
-        "title": "Сага о Видящих 1. Ученик убийцы",
-        "author": "Робин Хобб",
-        "notes": "",
-        "createdAt": "2019-02-22 17:54:30",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 128
         }
     }
 }
