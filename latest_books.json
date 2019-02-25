@@ -1,4 +1,16 @@
 {
+    "g6ntulyJlm": {
+        "id": "g6ntulyJlm",
+        "title": "Жемчужина",
+        "author": "Джон Стейбек",
+        "notes": "",
+        "createdAt": "2019-02-25 17:44:20",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": "Svecha",
+            "booksCount": 35
+        }
+    },
     "S8cU4PWhp2": {
         "id": "S8cU4PWhp2",
         "title": "О мышах и людях",
@@ -345,18 +357,6 @@
             "id": "973496-vkontakte",
             "nickname": "radeonx801",
             "booksCount": 202
-        }
-    },
-    "sdeVya52V1": {
-        "id": "sdeVya52V1",
-        "title": "Смерть на Ниле",
-        "author": "Кристи Агата",
-        "notes": "",
-        "createdAt": "2019-02-22 18:42:44",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 33
         }
     }
 }
