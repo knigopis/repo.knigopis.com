@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[boroda18](users/243/24345139-vkontakte)<sup>5</sup> 
 [Барт](users/117/117811929665876243039-google)<sup>0</sup> 
-[boroda18](users/243/24345139-vkontakte)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>681</sup> 
 [dzha](users/102/10212840038667920-facebook)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>88</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ілона Кулик](users/115/115612203632373730372-google)<sup>0</sup> 
 
 
-_25.02.2019 10:39:24_
+_25.02.2019 11:45:53_
