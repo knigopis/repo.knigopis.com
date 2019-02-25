@@ -1,4 +1,16 @@
 {
+    "_6u7-Xfe-N": {
+        "id": "_6u7-Xfe-N",
+        "title": "Все расследования отца Брауна",
+        "author": "Гильберт Кит Честертон",
+        "notes": "",
+        "createdAt": "2019-02-25 03:00:38",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 681
+        }
+    },
     "0iLu7Byb_p": {
         "id": "0iLu7Byb_p",
         "title": "Вторая жизнь Уве",
@@ -345,18 +357,6 @@
             "id": "180843186-vkontakte",
             "nickname": "Виктория Ромашко",
             "booksCount": 58
-        }
-    },
-    "gWRScAqgSS": {
-        "id": "gWRScAqgSS",
-        "title": "Человек, который смеется",
-        "author": "Виктор Гюго",
-        "notes": "пиздец, 20/10",
-        "createdAt": "2019-02-20 20:59:28",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 57
         }
     }
 }
