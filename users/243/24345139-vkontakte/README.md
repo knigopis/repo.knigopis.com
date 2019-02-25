@@ -1,5 +1,13 @@
-# List of books read by [boroda18](http://vk.com/id24345139)<sup>3</sup>
+# List of books read by [boroda18](http://vk.com/id24345139)<sup>4</sup>
 ---
+
+## 2017
+
+### Я такой как все
+Олег Тиньков
+> Тиньков про пельмени, пиво и т.д.
+
+
 
 ## 2016
 

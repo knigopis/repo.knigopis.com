@@ -1,4 +1,16 @@
 {
+    "XeSEuXNKcT": {
+        "id": "XeSEuXNKcT",
+        "title": "Я такой как все",
+        "author": "Олег Тиньков",
+        "notes": "Тиньков про пельмени, пиво и т.д.",
+        "createdAt": "2019-02-25 10:32:26",
+        "user": {
+            "id": "24345139-vkontakte",
+            "nickname": "boroda18",
+            "booksCount": 4
+        }
+    },
     "iKKH5swnlO": {
         "id": "iKKH5swnlO",
         "title": "Вопреки абсурду. Как я покорял Россию, а она - меня",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 53
-        }
-    },
-    "XE_N86a-0L": {
-        "id": "XE_N86a-0L",
-        "title": "Поводок",
-        "author": "Франсуаза Саган",
-        "notes": "",
-        "createdAt": "2019-02-20 21:07:51",
-        "user": {
-            "id": "180843186-vkontakte",
-            "nickname": "Виктория Ромашко",
-            "booksCount": 61
         }
     }
 }
