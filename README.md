@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Найкоротша історія часу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>16</sup>
+    > 5/10 Не все зрозуміла, читати цікаво, але важко.
+
 * Любовница французского офицера ~ [Quaff](users/122/12267158-vkontakte)<sup>26</sup>
     > Долго, но неожиданно и любопытно
 
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > Огромный практический материал (в качестве приложений приведены все необходимые документы: учредительный договор, устав и т. д.) поможет будущему предпринимателю без проблем создать свою фирму.
 
 * Другой Путь ~ [Chiffi](users/105/105831994080785626680-google)<sup>103</sup>
-    > продолжение Аристономии. Точно поняла,  что мне не нравится читать книги про революцию и гражд.войну
 
 * Список возмездия ~ [kissamasya](users/684/68439978-vkontakte)<sup>47</sup>
 
@@ -34,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Секретные бункеры Кёнигсберга ~ [Madlax](users/158/158304782-vkontakte)<sup>177</sup>
 
-* Любовь, свобода, одиночество ~ [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>16</sup> 
 [SantiagoSerg](users/158/15813417-vkontakte)<sup>1</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>35</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>26</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pusash](users/106/106041720551307935303-googleplus)<sup>0</sup> 
 [astreya](users/114/114972986504829220090-google)<sup>0</sup> 
 [Виктория Ромашко](users/180/180843186-vkontakte)<sup>59</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>23</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>10</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Вальдемар](users/614/614649752306644-facebook)<sup>0</sup> 
 
 
-_25.02.2019 23:11:52_
+_26.02.2019 18:34:42_

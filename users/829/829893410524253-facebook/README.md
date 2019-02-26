@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>15</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>16</sup>
 ---
 
 ## 2019
+
+### Найкоротша історія часу
+Стівен Гокінґ і Леонард Млодінов
+> [2019-02-26] 5/10 Не все зрозуміла, читати цікаво, але важко.
+
 
 ### Голодный дом
 Дэвид Митчел

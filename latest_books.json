@@ -1,4 +1,16 @@
 {
+    "H07Ue-JssT": {
+        "id": "H07Ue-JssT",
+        "title": "Найкоротша історія часу",
+        "author": "Стівен Гокінґ і Леонард Млодінов",
+        "notes": "5/10 Не все зрозуміла, читати цікаво, але важко.",
+        "createdAt": "2019-02-26 18:34:42",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 16
+        }
+    },
     "y2HFgtYZJn": {
         "id": "y2HFgtYZJn",
         "title": "Хризалида",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 86
-        }
-    },
-    "M18VflIP-p": {
-        "id": "M18VflIP-p",
-        "title": "Начала политической экономии и налогового обложения",
-        "author": "Давид Рикардо",
-        "notes": "Очень тяжёлая для прочтения книга",
-        "createdAt": "2019-02-23 06:49:13",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 46
         }
     }
 }
