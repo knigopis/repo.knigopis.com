@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>62</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>212</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>154</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>2</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [radeonx801](users/973/973496-vkontakte)<sup>202</sup> 
 [fir137](users/176/176805114-yandex)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>128</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>61</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>55</sup> 
 [pusash](users/106/106041720551307935303-googleplus)<sup>0</sup> 
 [astreya](users/114/114972986504829220090-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup> 
 
 
-_27.02.2019 10:25:57_
+_27.02.2019 13:02:53_
