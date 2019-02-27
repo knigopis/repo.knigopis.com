@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сердце Змеи ~ [Garka](users/115/115753719718250012620-google)<sup>212</sup>
+    > Короткий рассказ о первом физическом контакте землян с другой формой жизни в открытом космосе.
+
 * Туманность Андромеды ~ [Garka](users/115/115753719718250012620-google)<sup>211</sup>
     > Научно-философский роман как- то больше философский конечно, чем научный. Куча придуманных автором терминов, теорий и изобретений только засорили повествование. Сюжетная линия о путешествии звездолета и авария на планете железной звезды понравилось, а вот описание жизни на самой Земле очень скучное и какое-то наивное что ли
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10 Не все зрозуміла, читати цікаво, але важко.
 
 * Любовница французского офицера ~ [Quaff](users/122/12267158-vkontakte)<sup>26</sup>
-    > Долго, но неожиданно и любопытно
 
 * Организация бизнеса с нуля.С чего начать и как преуспеть ~ [kissamasya](users/684/68439978-vkontakte)<sup>48</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Голодній дом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup>
 
-* Управляющий мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>180</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>211</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>212</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>154</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>2</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup> 
 
 
-_27.02.2019 10:24:00_
+_27.02.2019 10:25:57_

@@ -1,4 +1,16 @@
 {
+    "8t5XdTo7vZ": {
+        "id": "8t5XdTo7vZ",
+        "title": "Сердце Змеи",
+        "author": "Ефремов, Иван Антонович",
+        "notes": "Короткий рассказ о первом физическом контакте землян с другой формой жизни в открытом космосе.",
+        "createdAt": "2019-02-27 10:25:56",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 212
+        }
+    },
     "hGXestmSa8": {
         "id": "hGXestmSa8",
         "title": "Туманность Андромеды",
@@ -345,18 +357,6 @@
             "id": "521873425-vkontakte",
             "nickname": "Lecowi",
             "booksCount": 2
-        }
-    },
-    "TX4O2I_Fxl": {
-        "id": "TX4O2I_Fxl",
-        "title": "Ночь в Лиссабоне",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2019-02-24 09:42:56",
-        "user": {
-            "id": "521873425-vkontakte",
-            "nickname": "Lecowi",
-            "booksCount": 1
         }
     }
 }
