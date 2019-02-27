@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>53</sup>
+# List of books read by inna.besprozvannykh<sup>54</sup>
 ---
 
 ## 2019
+
+### О мышах и людях
+Джон Стейнбек
+> [2019-02-27] 
+
 
 ### Сильнее смерти
 Джон Голсуорси

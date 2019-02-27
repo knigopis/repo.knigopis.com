@@ -1,4 +1,16 @@
 {
+    "bVSmhdhOFA": {
+        "id": "bVSmhdhOFA",
+        "title": "О мышах и людях",
+        "author": "Джон Стейнбек",
+        "notes": "",
+        "createdAt": "2019-02-27 06:42:25",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 54
+        }
+    },
     "H07Ue-JssT": {
         "id": "H07Ue-JssT",
         "title": "Найкоротша історія часу",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 97
-        }
-    },
-    "t2_-XODpK8": {
-        "id": "t2_-XODpK8",
-        "title": "Мертвая зыбь",
-        "author": "Теорин Юхан",
-        "notes": "",
-        "createdAt": "2019-02-23 06:56:17",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 86
         }
     }
 }
