@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чому нації занепадають. Походження влади, багатства та бізнесу. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>17</sup>
+    > 7/10 Дослідження економічного розвитку країн світу.
+
 * Сердце Змеи ~ [Garka](users/115/115753719718250012620-google)<sup>212</sup>
     > Короткий рассказ о первом физическом контакте землян с другой формой жизни в открытом космосе.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Научно-философский роман как- то больше философский конечно, чем научный. Куча придуманных автором терминов, теорий и изобретений только засорили повествование. Сюжетная линия о путешествии звездолета и авария на планете железной звезды понравилось, а вот описание жизни на самой Земле очень скучное и какое-то наивное что ли
 
 * Найкоротша історія часу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>16</sup>
-    > 5/10 Не все зрозуміла, читати цікаво, але важко.
 
 * Любовница французского офицера ~ [Quaff](users/122/12267158-vkontakte)<sup>26</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Начала политической экономии и налогового обложения ~ [kissamasya](users/684/68439978-vkontakte)<sup>46</sup>
 
-* Голодній дом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>17</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>62</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>212</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>154</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>2</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>54</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>16</sup> 
 [SantiagoSerg](users/158/15813417-vkontakte)<sup>1</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>35</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>26</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup> 
 
 
-_27.02.2019 13:02:53_
+_27.02.2019 21:23:40_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>16</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>17</sup>
 ---
 
 ## 2019
+
+### Чому нації занепадають. Походження влади, багатства та бізнесу.
+Дарон Аджемоґлу, Джеймс Робінсон
+> [2019-02-27] 7/10 Дослідження економічного розвитку країн світу.
+
 
 ### Найкоротша історія часу
 Стівен Гокінґ і Леонард Млодінов
