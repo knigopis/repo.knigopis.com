@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[johnybond32](users/304/304041461-yandex)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>54</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>16</sup> 
 [SantiagoSerg](users/158/15813417-vkontakte)<sup>1</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>204</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
-[Вальдемар](users/614/614649752306644-facebook)<sup>0</sup> 
 
 
-_27.02.2019 06:42:26_
+_27.02.2019 08:40:37_

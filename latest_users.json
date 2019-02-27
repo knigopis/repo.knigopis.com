@@ -1,4 +1,10 @@
 {
+    "304041461-yandex": {
+        "id": "304041461-yandex",
+        "nickname": "johnybond32",
+        "booksCount": 1,
+        "updatedAt": "2019-02-27 08:40:37"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "Окс",
         "booksCount": 18,
         "updatedAt": "2019-02-18 15:29:15"
-    },
-    "614649752306644-facebook": {
-        "id": "614649752306644-facebook",
-        "nickname": "Вальдемар",
-        "booksCount": 0,
-        "updatedAt": "2019-02-18 13:21:00"
     }
 }
