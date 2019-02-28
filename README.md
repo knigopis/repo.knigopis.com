@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Счастливая Россия ~ [Chiffi](users/105/105831994080785626680-google)<sup>104</sup>
+    > третья часть Семейного альбома (первая =Аристономия)
+
 * Автостопом по галактике ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup>
     > "Артур уставился на экраны, хлопая глазами. Ему не хватало чего-то крайне важного... Внезапно он догадался:
     > - А чай на этом корабле есть?"
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 7/10 Дослідження економічного розвитку країн світу.
 
 * Сердце Змеи ~ [Garka](users/115/115753719718250012620-google)<sup>212</sup>
-    > Короткий рассказ о первом физическом контакте землян с другой формой жизни в открытом космосе.
 
 * Туманность Андромеды ~ [Garka](users/115/115753719718250012620-google)<sup>211</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Список возмездия ~ [kissamasya](users/684/68439978-vkontakte)<sup>47</sup>
 
-* The Future of Capitalism: Facing the New Anxieties ~ [exulted](users/100/100599204551896265722-google)<sup>97</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>104</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>155</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>17</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>182</sup> 
 [takeover_of_music](users/493/493533189-vkontakte)<sup>0</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>9</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>103</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>97</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>202</sup> 
 [fir137](users/176/176805114-yandex)<sup>33</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>10</sup> 
 
 
-_28.02.2019 16:09:53_
+_28.02.2019 17:35:09_

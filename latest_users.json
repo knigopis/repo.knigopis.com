@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 104,
+        "updatedAt": "2019-02-28 17:35:09"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -112,12 +118,6 @@
         "nickname": "Lecowi",
         "booksCount": 9,
         "updatedAt": "2019-02-24 09:52:39"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 103,
-        "updatedAt": "2019-02-24 06:02:01"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
