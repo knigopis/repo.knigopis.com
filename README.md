@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Автостопом по галактике ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup>
+    > "Артур уставился на экраны, хлопая глазами. Ему не хватало чего-то крайне важного... Внезапно он догадался:
+    > - А чай на этом корабле есть?"
+    > ISBN 978-5-17-085637-4
+
 * Чому нації занепадають. Походження влади, багатства та бізнесу. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>17</sup>
     > 7/10 Дослідження економічного розвитку країн світу.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Короткий рассказ о первом физическом контакте землян с другой формой жизни в открытом космосе.
 
 * Туманность Андромеды ~ [Garka](users/115/115753719718250012620-google)<sup>211</sup>
-    > Научно-философский роман как- то больше философский конечно, чем научный. Куча придуманных автором терминов, теорий и изобретений только засорили повествование. Сюжетная линия о путешествии звездолета и авария на планете железной звезды понравилось, а вот описание жизни на самой Земле очень скучное и какое-то наивное что ли
 
 * Найкоротша історія часу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>16</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * The Future of Capitalism: Facing the New Anxieties ~ [exulted](users/100/100599204551896265722-google)<sup>97</sup>
 
-* Начала политической экономии и налогового обложения ~ [kissamasya](users/684/68439978-vkontakte)<sup>46</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>155</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>17</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>62</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Виктория Ромашко](users/180/180843186-vkontakte)<sup>59</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>23</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>10</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>105</sup> 
 
 
-_28.02.2019 09:25:42_
+_28.02.2019 16:09:53_

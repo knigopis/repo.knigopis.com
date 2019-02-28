@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Автостопом по галактике ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup>
 * Чому нації занепадають. Походження влади, багатства та бізнесу. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>17</sup>
 * Сердце Змеи ~ [Garka](users/115/115753719718250012620-google)<sup>212</sup>
 * Туманность Андромеды ~ [Garka](users/115/115753719718250012620-google)<sup>211</sup>
@@ -30,7 +31,6 @@
 * Надвигается беда ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>14</sup>
 * Ведьмы за границей ~ [Garka](users/115/115753719718250012620-google)<sup>210</sup>
 * Мерфі і Паркінсон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>12</sup>
-* Люина розумна ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>11</sup>
 
 
-_27.02.2019 21:23:40_
+_28.02.2019 16:09:53_
