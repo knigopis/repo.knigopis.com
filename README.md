@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>155</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>17</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>62</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>212</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>154</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>2</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>54</sup> 
 [SantiagoSerg](users/158/15813417-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>105</sup> 
 
 
-_27.02.2019 21:23:40_
+_28.02.2019 09:25:42_

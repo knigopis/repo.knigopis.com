@@ -1,4 +1,16 @@
 {
+    "CSRDPPEf69": {
+        "id": "CSRDPPEf69",
+        "title": "Странный человек",
+        "author": "Михаил Лермонтов",
+        "notes": "",
+        "createdAt": "2019-02-28 09:25:41",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 155
+        }
+    },
     "sJ-rOa_LPP": {
         "id": "sJ-rOa_LPP",
         "title": "Чому нації занепадають. Походження влади, багатства та бізнесу.",
@@ -345,18 +357,6 @@
             "id": "521873425-vkontakte",
             "nickname": "Lecowi",
             "booksCount": 5
-        }
-    },
-    "Vsb5aqEZN2": {
-        "id": "Vsb5aqEZN2",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2019-02-24 09:44:08",
-        "user": {
-            "id": "521873425-vkontakte",
-            "nickname": "Lecowi",
-            "booksCount": 4
         }
     }
 }
