@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Черевиски Божьей Матери ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>18</sup>
+    > 8/10 Буковина, совецкая оккупация, начало второй мировой.
+
 * Счастливая Россия ~ [Chiffi](users/105/105831994080785626680-google)<sup>104</sup>
     > третья часть Семейного альбома (первая =Аристономия)
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > ISBN 978-5-17-085637-4
 
 * Чому нації занепадають. Походження влади, багатства та бізнесу. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>17</sup>
-    > 7/10 Дослідження економічного розвитку країн світу.
 
 * Сердце Змеи ~ [Garka](users/115/115753719718250012620-google)<sup>212</sup>
 
@@ -28,17 +30,15 @@ Do not use pull requests to make changes here.
 
 * Другой Путь ~ [Chiffi](users/105/105831994080785626680-google)<sup>103</sup>
 
-* Список возмездия ~ [kissamasya](users/684/68439978-vkontakte)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>18</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>104</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>155</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>17</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>62</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>212</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>2</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>10</sup> 
 
 
-_28.02.2019 17:35:09_
+_28.02.2019 22:09:29_

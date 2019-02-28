@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>17</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>18</sup>
 ---
 
 ## 2019
+
+### Черевиски Божьей Матери
+Мария Матиос
+> [2019-02-28] 8/10 Буковина, совецкая оккупация, начало второй мировой.
+
 
 ### Чому нації занепадають. Походження влади, багатства та бізнесу.
 Дарон Аджемоґлу, Джеймс Робінсон
