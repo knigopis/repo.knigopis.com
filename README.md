@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>682</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>18</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>104</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>48</sup> 
 [boroda18](users/243/24345139-vkontakte)<sup>5</sup> 
 [Барт](users/117/117811929665876243039-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>681</sup> 
 [dzha](users/102/10212840038667920-facebook)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>88</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>182</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>10</sup> 
 
 
-_28.02.2019 22:09:29_
+_01.03.2019 18:33:32_

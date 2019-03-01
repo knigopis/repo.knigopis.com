@@ -1,4 +1,16 @@
 {
+    "cgrLEAW7nw": {
+        "id": "cgrLEAW7nw",
+        "title": "Поколение А",
+        "author": "Дуглас Коупленд",
+        "notes": "",
+        "createdAt": "2019-03-01 18:33:31",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 682
+        }
+    },
     "zN24bCbCcw": {
         "id": "zN24bCbCcw",
         "title": "Черевиски Божьей Матери",
@@ -345,18 +357,6 @@
             "id": "521873425-vkontakte",
             "nickname": "Lecowi",
             "booksCount": 9
-        }
-    },
-    "L3BehXe3i5": {
-        "id": "L3BehXe3i5",
-        "title": "Академия пандемониум Королевский зодиак",
-        "author": "Евгений Гаглоев",
-        "notes": "",
-        "createdAt": "2019-02-24 09:49:26",
-        "user": {
-            "id": "521873425-vkontakte",
-            "nickname": "Lecowi",
-            "booksCount": 8
         }
     }
 }
