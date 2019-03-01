@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ігри, у які грають люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup>
+    > 5/10 Книга більше розрахована на професійних психологів. Треба заглиблюватись в аналіз.
+
 * Черевиски Божьей Матери ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>18</sup>
     > 8/10 Буковина, совецкая оккупация, начало второй мировой.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > третья часть Семейного альбома (первая =Аристономия)
 
 * Автостопом по галактике ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup>
-    > "Артур уставился на экраны, хлопая глазами. Ему не хватало чего-то крайне важного... Внезапно он догадался:
-    > - А чай на этом корабле есть?"
-    > ISBN 978-5-17-085637-4
 
 * Чому нації занепадають. Походження влади, багатства та бізнесу. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>17</sup>
 
@@ -28,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Организация бизнеса с нуля.С чего начать и как преуспеть ~ [kissamasya](users/684/68439978-vkontakte)<sup>48</sup>
 
-* Другой Путь ~ [Chiffi](users/105/105831994080785626680-google)<sup>103</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>682</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>18</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>104</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>155</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>10</sup> 
 
 
-_01.03.2019 18:33:32_
+_01.03.2019 22:14:21_

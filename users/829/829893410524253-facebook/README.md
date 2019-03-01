@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>18</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>19</sup>
 ---
 
 ## 2019
+
+### Ігри, у які грають люди
+Ерік Берн
+> [2019-03-01] 5/10 Книга більше розрахована на професійних психологів. Треба заглиблюватись в аналіз.
+
 
 ### Черевиски Божьей Матери
 Мария Матиос

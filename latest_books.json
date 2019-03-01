@@ -1,4 +1,16 @@
 {
+    "cQvuePUxNd": {
+        "id": "cQvuePUxNd",
+        "title": "Ігри, у які грають люди",
+        "author": "Ерік Берн",
+        "notes": "5/10 Книга більше розрахована на професійних психологів. Треба заглиблюватись в аналіз.",
+        "createdAt": "2019-03-01 22:14:21",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 19
+        }
+    },
     "cgrLEAW7nw": {
         "id": "cgrLEAW7nw",
         "title": "Поколение А",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 182
-        }
-    },
-    "SpMqlk4Ql0": {
-        "id": "SpMqlk4Ql0",
-        "title": "Таинственная история Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2019-02-24 09:52:39",
-        "user": {
-            "id": "521873425-vkontakte",
-            "nickname": "Lecowi",
-            "booksCount": 9
         }
     }
 }
