@@ -1,4 +1,16 @@
 {
+    "DUozpRtMbo": {
+        "id": "DUozpRtMbo",
+        "title": "Чужая Земля",
+        "author": "Дивов Олег",
+        "notes": "Сначала они нарисуют границы на картах,  потом у нас в головах и душах.",
+        "createdAt": "2019-03-02 05:39:27",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 105
+        }
+    },
     "cQvuePUxNd": {
         "id": "cQvuePUxNd",
         "title": "Ігри, у які грають люди",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 88
-        }
-    },
-    "le-Al8aQLW": {
-        "id": "le-Al8aQLW",
-        "title": "Время жить и время умирать",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2019-02-24 17:56:41",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 182
         }
     }
 }
