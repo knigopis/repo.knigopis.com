@@ -1,4 +1,16 @@
 {
+    "OHdMQ_HCue": {
+        "id": "OHdMQ_HCue",
+        "title": "Антихрупкость",
+        "author": "Нассим Талеб",
+        "notes": "",
+        "createdAt": "2019-03-02 08:28:56",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 349
+        }
+    },
     "DUozpRtMbo": {
         "id": "DUozpRtMbo",
         "title": "Чужая Земля",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 680
-        }
-    },
-    "M_f3m0mAwm": {
-        "id": "M_f3m0mAwm",
-        "title": "Полет аистов",
-        "author": "Гранже Жан-Кристоф",
-        "notes": "",
-        "createdAt": "2019-02-24 18:33:16",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 88
         }
     }
 }
