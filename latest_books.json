@@ -1,4 +1,16 @@
 {
+    "J_6YBdispc": {
+        "id": "J_6YBdispc",
+        "title": "",
+        "author": "Джоджо мойес",
+        "notes": "",
+        "createdAt": "2019-03-02 12:28:33",
+        "user": {
+            "id": "153635074-vkontakte",
+            "nickname": "alena.oparina",
+            "booksCount": 1
+        }
+    },
     "yPUQ0UePiA": {
         "id": "yPUQ0UePiA",
         "title": "Задача трёх тел",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 681
-        }
-    },
-    "0iLu7Byb_p": {
-        "id": "0iLu7Byb_p",
-        "title": "Вторая жизнь Уве",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-02-24 23:03:19",
-        "user": {
-            "id": "10212840038667920-facebook",
-            "nickname": "dzha",
-            "booksCount": 1
         }
     }
 }
