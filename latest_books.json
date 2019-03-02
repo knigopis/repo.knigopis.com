@@ -1,4 +1,16 @@
 {
+    "yPUQ0UePiA": {
+        "id": "yPUQ0UePiA",
+        "title": "Задача трёх тел",
+        "author": "Ли Цыссинь",
+        "notes": "",
+        "createdAt": "2019-03-02 08:29:56",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 350
+        }
+    },
     "OHdMQ_HCue": {
         "id": "OHdMQ_HCue",
         "title": "Антихрупкость",
@@ -345,18 +357,6 @@
             "id": "10212840038667920-facebook",
             "nickname": "dzha",
             "booksCount": 1
-        }
-    },
-    "-tz4ZxVK7r": {
-        "id": "-tz4ZxVK7r",
-        "title": "Очарованная душа",
-        "author": "Ромен Роллан",
-        "notes": "",
-        "createdAt": "2019-02-24 19:44:06",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 680
         }
     }
 }
