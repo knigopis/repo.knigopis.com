@@ -1,4 +1,10 @@
 {
+    "139716432-vkontakte": {
+        "id": "139716432-vkontakte",
+        "nickname": "volkova_spamspamspam",
+        "booksCount": 0,
+        "updatedAt": "2019-03-02 08:40:49"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "Виктория Ромашко",
         "booksCount": 59,
         "updatedAt": "2019-02-20 21:37:42"
-    },
-    "184135339-vkontakte": {
-        "id": "184135339-vkontakte",
-        "nickname": "darb_el",
-        "booksCount": 23,
-        "updatedAt": "2019-02-20 03:46:49"
     }
 }
