@@ -1,4 +1,10 @@
 {
+    "1690081420889444238-mailru": {
+        "id": "1690081420889444238-mailru",
+        "nickname": "Димон Зотов",
+        "booksCount": 0,
+        "updatedAt": "2019-03-03 12:08:02"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": "kasikandriena",
         "booksCount": 55,
         "updatedAt": "2019-02-22 10:38:55"
-    },
-    "106041720551307935303-googleplus": {
-        "id": "106041720551307935303-googleplus",
-        "nickname": "pusash",
-        "booksCount": 0,
-        "updatedAt": "2019-02-21 22:31:39"
     }
 }
