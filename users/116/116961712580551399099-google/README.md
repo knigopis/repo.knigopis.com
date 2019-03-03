@@ -1,7 +1,23 @@
-# List of books read by violet_velva<sup>56</sup>
+# List of books read by violet_velva<sup>57</sup>
 ---
 
 ## 2019
+
+### The adventures of Sherlock Holmes
+Arthur Conan Doyle
+> [2019-02] 1 A scandal in Bohemia
+> 2 The red-headed league 
+> 3 A case of identity
+> 4 The Boscombe Valley Mystery 
+> 5 The five orange pips 
+> 6 The man with the twisted lip 
+> 7 The adventure of the blue carbuncle
+> 8 The adventure of the specked band
+> 9 The adventure of the engineer's thumb 
+> 10 The adventure of the noble bachelor
+> 11 The adventure of the Beryl Coronet 
+> 12 The adventure of the Copper Beeches
+
 
 ### Хюгге или уютное счастье по-датски
 Хелен Расселл

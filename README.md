@@ -5,6 +5,20 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The adventures of Sherlock Holmes ~ [violet_velva](users/116/116961712580551399099-google)<sup>57</sup>
+    > 1 A scandal in Bohemia
+    > 2 The red-headed league 
+    > 3 A case of identity
+    > 4 The Boscombe Valley Mystery 
+    > 5 The five orange pips 
+    > 6 The man with the twisted lip 
+    > 7 The adventure of the blue carbuncle
+    > 8 The adventure of the specked band
+    > 9 The adventure of the engineer's thumb 
+    > 10 The adventure of the noble bachelor
+    > 11 The adventure of the Beryl Coronet 
+    > 12 The adventure of the Copper Beeches
+
 * Чужая Земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>105</sup>
     > Сначала они нарисуют границы на картах,  потом у нас в головах и душах.
 
@@ -12,7 +26,6 @@ Do not use pull requests to make changes here.
     > 5/10 Книга більше розрахована на професійних психологів. Треба заглиблюватись в аналіз.
 
 * Черевиски Божьей Матери ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>18</sup>
-    > 8/10 Буковина, совецкая оккупация, начало второй мировой.
 
 * Счастливая Россия ~ [Chiffi](users/105/105831994080785626680-google)<sup>104</sup>
 
@@ -26,13 +39,12 @@ Do not use pull requests to make changes here.
 
 * Найкоротша історія часу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>16</sup>
 
-* Любовница французского офицера ~ [Quaff](users/122/12267158-vkontakte)<sup>26</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>57</sup> 
 [alena.oparina](users/153/153635074-vkontakte)<sup>1</sup> 
 [volkova_spamspamspam](users/139/139716432-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>350</sup> 
@@ -62,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>128</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>55</sup> 
 [pusash](users/106/106041720551307935303-googleplus)<sup>0</sup> 
-[astreya](users/114/114972986504829220090-google)<sup>0</sup> 
 
 
-_02.03.2019 12:28:33_
+_03.03.2019 08:45:01_

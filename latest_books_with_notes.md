@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The adventures of Sherlock Holmes ~ [violet_velva](users/116/116961712580551399099-google)<sup>57</sup>
 * Чужая Земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>105</sup>
 * Ігри, у які грають люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup>
 * Черевиски Божьей Матери ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>18</sup>
@@ -30,7 +31,6 @@
 * Маверик. История успеха самой необычной компании в мире ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup>
 * Быть богатым, что вам мешает ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>192</sup>
 * Фантомная боль ~ [elena-gagina2014](users/208/208969292-yandex)<sup>6</sup>
-* Смерть в облаках ~ [fir137](users/176/176805114-yandex)<sup>28</sup>
 
 
-_02.03.2019 05:39:27_
+_03.03.2019 08:45:01_
