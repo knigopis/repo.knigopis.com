@@ -63,6 +63,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Димон Зотов](users/169/1690081420889444238-mailru)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>58</sup> 
 [alena.oparina](users/153/153635074-vkontakte)<sup>1</sup> 
@@ -92,7 +93,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fir137](users/176/176805114-yandex)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>128</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>55</sup> 
-[pusash](users/106/106041720551307935303-googleplus)<sup>0</sup> 
 
 
-_03.03.2019 11:36:18_
+_03.03.2019 12:08:03_
