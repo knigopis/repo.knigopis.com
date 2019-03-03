@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>57</sup>
+# List of books read by violet_velva<sup>58</sup>
 ---
 
 ## 2019
+
+### Твоя вторая жизнь, или книга о счастье
+Рафаэлла Джордано
+> [2019-02] 
+
 
 ### The adventures of Sherlock Holmes
 Arthur Conan Doyle
