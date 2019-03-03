@@ -5,6 +5,28 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ваши письма я храню под матрасом ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup>
+    > Сегодня я увидела вашу книгу у детей на полке и вдруг ощутила, как это трудно - быть человеком и тосковать по другим людям. [Бурос, весна 2002]
+    > 
+    > И тогда появились птицы,
+    > Каждый день, когда я поднималась на холм,
+    > они появлялись и заполняли всё небо.
+    > Вместе взлетали с огромных деревьев,
+    > галдели и пели высоко над головой.
+    > Когда я достигала вершины холма,
+    > они впадали в исступление, и голова каждый раз
+    > кружилась
+    > от ощущения простора и вечности.
+    > Однажды, дойдя до вершины,
+    > я собралась, как обычно, шагнуть по тропинке вниз
+    > и взлетела за ними следом. [1976-02-20, Сара]
+    > 
+    > Благороднее жизнь швырнуть на кон,
+    > чем ждать, пока силы увянут.
+    > Предпочту тетивы разорванной звон
+    > луку, что не был натянут.
+    > Вернер фон Хейденстам
+
 * The adventures of Sherlock Holmes ~ [violet_velva](users/116/116961712580551399099-google)<sup>57</sup>
     > 1 A scandal in Bohemia
     > 2 The red-headed league 
@@ -23,7 +45,6 @@ Do not use pull requests to make changes here.
     > Сначала они нарисуют границы на картах,  потом у нас в головах и душах.
 
 * Ігри, у які грають люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup>
-    > 5/10 Книга більше розрахована на професійних психологів. Треба заглиблюватись в аналіз.
 
 * Черевиски Божьей Матери ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>18</sup>
 
@@ -37,13 +58,12 @@ Do not use pull requests to make changes here.
 
 * Туманность Андромеды ~ [Garka](users/115/115753719718250012620-google)<sup>211</sup>
 
-* Найкоротша історія часу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>16</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>58</sup> 
 [alena.oparina](users/153/153635074-vkontakte)<sup>1</sup> 
 [volkova_spamspamspam](users/139/139716432-vkontakte)<sup>0</sup> 
@@ -51,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>105</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>682</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>155</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>62</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>212</sup> 
@@ -76,4 +95,4 @@ _More notes [here](latest_books_with_notes.md)._
 [pusash](users/106/106041720551307935303-googleplus)<sup>0</sup> 
 
 
-_03.03.2019 08:46:06_
+_03.03.2019 11:36:18_
