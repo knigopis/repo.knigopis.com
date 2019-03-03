@@ -1,4 +1,10 @@
 {
+    "12282474-vkontakte": {
+        "id": "12282474-vkontakte",
+        "nickname": "Tr",
+        "booksCount": 69,
+        "updatedAt": "2019-03-03 15:15:46"
+    },
     "1690081420889444238-mailru": {
         "id": "1690081420889444238-mailru",
         "nickname": "Димон Зотов",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 128,
         "updatedAt": "2019-02-22 17:54:30"
-    },
-    "152488954-vkontakte": {
-        "id": "152488954-vkontakte",
-        "nickname": "kasikandriena",
-        "booksCount": 55,
-        "updatedAt": "2019-02-22 10:38:55"
     }
 }

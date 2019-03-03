@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Серый ворон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>69</sup>
+    > Серый ворон, Пузырь, Фея, Каришка, Камилетта, гильдия воров, Эрафия
+
 * Ваши письма я храню под матрасом ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup>
     > Сегодня я увидела вашу книгу у детей на полке и вдруг ощутила, как это трудно - быть человеком и тосковать по другим людям. [Бурос, весна 2002]
     > 
@@ -42,7 +45,6 @@ Do not use pull requests to make changes here.
     > 12 The adventure of the Copper Beeches
 
 * Чужая Земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>105</sup>
-    > Сначала они нарисуют границы на картах,  потом у нас в головах и душах.
 
 * Ігри, у які грають люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup>
 
@@ -56,13 +58,12 @@ Do not use pull requests to make changes here.
 
 * Сердце Змеи ~ [Garka](users/115/115753719718250012620-google)<sup>212</sup>
 
-* Туманность Андромеды ~ [Garka](users/115/115753719718250012620-google)<sup>211</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>69</sup> 
 [Димон Зотов](users/169/1690081420889444238-mailru)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>58</sup> 
@@ -92,7 +93,6 @@ _More notes [here](latest_books_with_notes.md)._
 [radeonx801](users/973/973496-vkontakte)<sup>202</sup> 
 [fir137](users/176/176805114-yandex)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>128</sup> 
-[kasikandriena](users/152/152488954-vkontakte)<sup>55</sup> 
 
 
-_03.03.2019 12:08:03_
+_03.03.2019 15:15:46_
