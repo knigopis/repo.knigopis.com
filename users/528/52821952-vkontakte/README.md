@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>105</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>106</sup>
 ---
 
 ## 2019
+
+### Пена дней
+Борис Виан
+> [2019-03-03] 7/10
+
 
 ### Любовь. Свобода. Одиночество
 Ошо
