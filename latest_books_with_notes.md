@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Искажающие реальность ~ [Tr](users/122/12282474-vkontakte)<sup>70</sup>
 * Серый ворон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>69</sup>
 * Ваши письма я храню под матрасом ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup>
 * The adventures of Sherlock Holmes ~ [violet_velva](users/116/116961712580551399099-google)<sup>57</sup>
@@ -30,7 +31,6 @@
 * Карты памяти на стол ~ [fir137](users/176/176805114-yandex)<sup>31</sup>
 * У війни не жіноче обличчя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>13</sup>
 * Молот ведьм ~ [Quaff](users/122/12267158-vkontakte)<sup>25</sup>
-* Маверик. История успеха самой необычной компании в мире ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>193</sup>
 
 
-_03.03.2019 15:15:46_
+_03.03.2019 15:19:57_
