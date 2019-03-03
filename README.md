@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Квинтэссенция решения. На примере Карибского кризиса 1962 года ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>194</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/147954711/
+
 * Пена дней ~ [Apprentice ](users/528/52821952-vkontakte)<sup>106</sup>
     > 7/10
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Слышаший, раса Гекхо, Герд Тамара, Шиамиру
 
 * Серый ворон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>69</sup>
-    > Серый ворон, Пузырь, Фея, Каришка, Камилетта, гильдия воров, Эрафия
 
 * Ваши письма я храню под матрасом ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Счастливая Россия ~ [Chiffi](users/105/105831994080785626680-google)<sup>104</sup>
 
-* Автостопом по галактике ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>194</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>106</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>70</sup> 
 [Димон Зотов](users/169/1690081420889444238-mailru)<sup>0</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>9</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>97</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>202</sup> 
-[fir137](users/176/176805114-yandex)<sup>33</sup> 
 
 
-_03.03.2019 20:08:03_
+_03.03.2019 20:34:23_

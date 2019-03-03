@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 194,
+        "updatedAt": "2019-03-03 20:34:23"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "radeonx801",
         "booksCount": 202,
         "updatedAt": "2019-02-22 22:24:53"
-    },
-    "176805114-yandex": {
-        "id": "176805114-yandex",
-        "nickname": "fir137",
-        "booksCount": 33,
-        "updatedAt": "2019-02-22 18:42:44"
     }
 }

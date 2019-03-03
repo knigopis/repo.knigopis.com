@@ -1,4 +1,16 @@
 {
+    "QmiU4cYc0W": {
+        "id": "QmiU4cYc0W",
+        "title": "Квинтэссенция решения. На примере Карибского кризиса 1962 года",
+        "author": "Грэм Т. Аллисон, Филип Зеликов",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/147954711/",
+        "createdAt": "2019-03-03 20:34:23",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 194
+        }
+    },
     "5U-S5aRwee": {
         "id": "5U-S5aRwee",
         "title": "Пена дней",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 31
-        }
-    },
-    "Ie3Nym3ppT": {
-        "id": "Ie3Nym3ppT",
-        "title": "У війни не жіноче обличчя",
-        "author": "Світлан Алексієвич",
-        "notes": "7/10 Дуже важко читати. Страшна правда про війну.",
-        "createdAt": "2019-02-16 12:53:21",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 13
         }
     }
 }
