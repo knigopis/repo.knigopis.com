@@ -1,4 +1,16 @@
 {
+    "OcIBuGHFXn": {
+        "id": "OcIBuGHFXn",
+        "title": "Незримые академики",
+        "author": "ПРАТЧЕТТ Терри",
+        "notes": "",
+        "createdAt": "2019-03-04 10:53:35",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 24
+        }
+    },
     "MW7hs3SVcq": {
         "id": "MW7hs3SVcq",
         "title": "Уловка 22",
@@ -345,18 +357,6 @@
             "id": "304041461-yandex",
             "nickname": "johnybond32",
             "booksCount": 2
-        }
-    },
-    "-bTFzw-4xZ": {
-        "id": "-bTFzw-4xZ",
-        "title": "Брисбен",
-        "author": "Евгений Водолазкин",
-        "notes": "",
-        "createdAt": "2019-02-27 08:40:37",
-        "user": {
-            "id": "304041461-yandex",
-            "nickname": "johnybond32",
-            "booksCount": 1
         }
     }
 }
