@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сумерки ~ [Chiffi](users/105/105831994080785626680-google)<sup>106</sup>
+    > Очень затягивающе и атмосферно...
+    > Ибо беда мира в том,что болен Бог его,оттого и мир болен. В горячке Господь, и творение его лихорадит. Умирает Бог,и созданный им мир умирает.
+
 * как далеко до завтрашнего дня ~ [johnybond32](users/304/304041461-yandex)<sup>3</sup>
     > К прочтению
 
@@ -14,7 +18,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/147954711/
 
 * Пена дней ~ [Apprentice ](users/528/52821952-vkontakte)<sup>106</sup>
-    > 7/10
 
 * Искажающие реальность ~ [Tr](users/122/12282474-vkontakte)<sup>70</sup>
 
@@ -28,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Ігри, у які грають люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup>
 
-* Черевиски Божьей Матери ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>106</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>203</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>2</sup> 
@@ -47,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alena.oparina](users/153/153635074-vkontakte)<sup>1</sup> 
 [volkova_spamspamspam](users/139/139716432-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>350</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>105</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>682</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>155</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>9</sup> 
 
 
-_04.03.2019 10:56:05_
+_04.03.2019 18:07:32_
