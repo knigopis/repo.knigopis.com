@@ -1,4 +1,16 @@
 {
+    "o_04UuMGLE": {
+        "id": "o_04UuMGLE",
+        "title": "Блуда и МУДО",
+        "author": "Алексей Иванов",
+        "notes": "",
+        "createdAt": "2019-03-04 06:32:13",
+        "user": {
+            "id": "973496-vkontakte",
+            "nickname": "radeonx801",
+            "booksCount": 203
+        }
+    },
     "7BeS-R9qFf": {
         "id": "7BeS-R9qFf",
         "title": "как далеко до завтрашнего дня",
@@ -345,18 +357,6 @@
             "id": "118041836581529110049-google",
             "nickname": "Svecha",
             "booksCount": 35
-        }
-    },
-    "S8cU4PWhp2": {
-        "id": "S8cU4PWhp2",
-        "title": "О мышах и людях",
-        "author": "Джон Стейнбек",
-        "notes": "",
-        "createdAt": "2019-02-25 17:43:26",
-        "user": {
-            "id": "118041836581529110049-google",
-            "nickname": "Svecha",
-            "booksCount": 34
         }
     }
 }
