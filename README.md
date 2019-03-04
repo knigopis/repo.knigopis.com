@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* как далеко до завтрашнего дня ~ [johnybond32](users/304/304041461-yandex)<sup>3</sup>
+    > К прочтению
+
 * Квинтэссенция решения. На примере Карибского кризиса 1962 года ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>194</sup>
     > в процессе
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Искажающие реальность ~ [Tr](users/122/12282474-vkontakte)<sup>70</sup>
-    > Слышаший, раса Гекхо, Герд Тамара, Шиамиру
 
 * Серый ворон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>69</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Черевиски Божьей Матери ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>18</sup>
 
-* Счастливая Россия ~ [Chiffi](users/105/105831994080785626680-google)<sup>104</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[johnybond32](users/304/304041461-yandex)<sup>3</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>194</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>106</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>70</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>155</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>62</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>212</sup> 
-[johnybond32](users/304/304041461-yandex)<sup>2</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>54</sup> 
 [SantiagoSerg](users/158/15813417-vkontakte)<sup>1</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>35</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [radeonx801](users/973/973496-vkontakte)<sup>202</sup> 
 
 
-_03.03.2019 20:34:23_
+_04.03.2019 06:04:51_

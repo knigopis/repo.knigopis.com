@@ -1,4 +1,10 @@
 {
+    "304041461-yandex": {
+        "id": "304041461-yandex",
+        "nickname": "johnybond32",
+        "booksCount": 3,
+        "updatedAt": "2019-03-04 06:04:51"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -88,12 +94,6 @@
         "nickname": "Garka",
         "booksCount": 212,
         "updatedAt": "2019-02-27 10:25:56"
-    },
-    "304041461-yandex": {
-        "id": "304041461-yandex",
-        "nickname": "johnybond32",
-        "booksCount": 2,
-        "updatedAt": "2019-02-27 08:41:04"
     },
     "73323849-yandex": {
         "id": "73323849-yandex",

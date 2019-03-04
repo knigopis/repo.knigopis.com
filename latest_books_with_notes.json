@@ -1,4 +1,16 @@
 {
+    "7BeS-R9qFf": {
+        "id": "7BeS-R9qFf",
+        "title": "как далеко до завтрашнего дня",
+        "author": "александр поляков",
+        "notes": "К прочтению",
+        "createdAt": "2019-03-04 06:04:51",
+        "user": {
+            "id": "304041461-yandex",
+            "nickname": "johnybond32",
+            "booksCount": 3
+        }
+    },
     "QmiU4cYc0W": {
         "id": "QmiU4cYc0W",
         "title": "Квинтэссенция решения. На примере Карибского кризиса 1962 года",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 104
-        }
-    },
-    "BSQmPXvyhO": {
-        "id": "BSQmPXvyhO",
-        "title": "Карты памяти на стол",
-        "author": "Кристи Агата",
-        "notes": "Можно читать ради разоблачения.",
-        "createdAt": "2019-02-16 22:17:18",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 31
         }
     }
 }

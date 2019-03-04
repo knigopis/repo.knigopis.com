@@ -1,4 +1,16 @@
 {
+    "7BeS-R9qFf": {
+        "id": "7BeS-R9qFf",
+        "title": "как далеко до завтрашнего дня",
+        "author": "александр поляков",
+        "notes": "К прочтению",
+        "createdAt": "2019-03-04 06:04:51",
+        "user": {
+            "id": "304041461-yandex",
+            "nickname": "johnybond32",
+            "booksCount": 3
+        }
+    },
     "QmiU4cYc0W": {
         "id": "QmiU4cYc0W",
         "title": "Квинтэссенция решения. На примере Карибского кризиса 1962 года",
@@ -345,18 +357,6 @@
             "id": "118041836581529110049-google",
             "nickname": "Svecha",
             "booksCount": 34
-        }
-    },
-    "QRHH5vVnuG": {
-        "id": "QRHH5vVnuG",
-        "title": "Любовница французского офицера",
-        "author": "Джон Фаулз",
-        "notes": "Долго, но неожиданно и любопытно",
-        "createdAt": "2019-02-25 15:19:15",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 26
         }
     }
 }
