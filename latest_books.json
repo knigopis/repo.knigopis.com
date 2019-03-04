@@ -1,4 +1,16 @@
 {
+    "DRi22U8vh4": {
+        "id": "DRi22U8vh4",
+        "title": "Автостопом по галактике",
+        "author": "АДАМС Дуглас",
+        "notes": "",
+        "createdAt": "2019-03-04 10:49:55",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 20
+        }
+    },
     "d7guC-lT1R": {
         "id": "d7guC-lT1R",
         "title": "Подземелья Ватикана",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 16
-        }
-    },
-    "y2HFgtYZJn": {
-        "id": "y2HFgtYZJn",
-        "title": "Хризалида",
-        "author": "Джон Голд",
-        "notes": "",
-        "createdAt": "2019-02-25 23:11:52",
-        "user": {
-            "id": "15813417-vkontakte",
-            "nickname": "SantiagoSerg",
-            "booksCount": 1
         }
     }
 }
