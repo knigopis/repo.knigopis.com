@@ -1,4 +1,16 @@
 {
+    "iynwMTB56P": {
+        "id": "iynwMTB56P",
+        "title": "Цветы для Элджернона",
+        "author": "КИЗ Дэниел",
+        "notes": "",
+        "createdAt": "2019-03-04 10:54:36",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 25
+        }
+    },
     "OcIBuGHFXn": {
         "id": "OcIBuGHFXn",
         "title": "Незримые академики",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 154
-        }
-    },
-    "mKZ3nYEyA3": {
-        "id": "mKZ3nYEyA3",
-        "title": "Авиатор",
-        "author": "Евгений Водолазкин",
-        "notes": "",
-        "createdAt": "2019-02-27 08:41:04",
-        "user": {
-            "id": "304041461-yandex",
-            "nickname": "johnybond32",
-            "booksCount": 2
         }
     }
 }
