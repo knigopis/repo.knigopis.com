@@ -1,4 +1,16 @@
 {
+    "LfkcTbgOo_": {
+        "id": "LfkcTbgOo_",
+        "title": "Терапия",
+        "author": "ФИТЦЕК Себастьян",
+        "notes": "",
+        "createdAt": "2019-03-04 10:51:34",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 22
+        }
+    },
     "C-Agr7a5Fn": {
         "id": "C-Agr7a5Fn",
         "title": "Автостопом по галактике",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 54
-        }
-    },
-    "H07Ue-JssT": {
-        "id": "H07Ue-JssT",
-        "title": "Найкоротша історія часу",
-        "author": "Стівен Гокінґ і Леонард Млодінов",
-        "notes": "5/10 Не все зрозуміла, читати цікаво, але важко.",
-        "createdAt": "2019-02-26 18:34:42",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 16
         }
     }
 }
