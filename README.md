@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[johnybond32](users/304/304041461-yandex)<sup>3</sup> 
+[johnybond32](users/304/304041461-yandex)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>194</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>106</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>70</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [radeonx801](users/973/973496-vkontakte)<sup>202</sup> 
 
 
-_04.03.2019 06:04:51_
+_04.03.2019 06:05:33_
