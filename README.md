@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>683</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>106</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>203</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [volkova_spamspamspam](users/139/139716432-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>350</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>682</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>155</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>62</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>212</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>9</sup> 
 
 
-_04.03.2019 18:07:32_
+_04.03.2019 18:25:30_

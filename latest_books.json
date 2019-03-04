@@ -1,4 +1,16 @@
 {
+    "CF2Ap9s87F": {
+        "id": "CF2Ap9s87F",
+        "title": "Фрекен Смилла и её чувство снега",
+        "author": "Питер Хёг",
+        "notes": "",
+        "createdAt": "2019-03-04 18:25:29",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 683
+        }
+    },
     "L8eo50RAQe": {
         "id": "L8eo50RAQe",
         "title": "Сумерки",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 17
-        }
-    },
-    "QkpDX7bGav": {
-        "id": "QkpDX7bGav",
-        "title": "🔹️Поступь хаоса",
-        "author": "Патрик Нэсс",
-        "notes": "",
-        "createdAt": "2019-02-27 13:02:53",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 62
         }
     }
 }
