@@ -1,4 +1,16 @@
 {
+    "MW7hs3SVcq": {
+        "id": "MW7hs3SVcq",
+        "title": "Уловка 22",
+        "author": "ХЕЛЛЕР ДЖОЗЕФ",
+        "notes": "",
+        "createdAt": "2019-03-04 10:52:56",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 23
+        }
+    },
     "LfkcTbgOo_": {
         "id": "LfkcTbgOo_",
         "title": "Терапия",
@@ -345,18 +357,6 @@
             "id": "304041461-yandex",
             "nickname": "johnybond32",
             "booksCount": 1
-        }
-    },
-    "bVSmhdhOFA": {
-        "id": "bVSmhdhOFA",
-        "title": "О мышах и людях",
-        "author": "Джон Стейнбек",
-        "notes": "",
-        "createdAt": "2019-02-27 06:42:25",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 54
         }
     }
 }
