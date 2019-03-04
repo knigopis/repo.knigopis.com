@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>19</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>203</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>194</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>182</sup> 
 [takeover_of_music](users/493/493533189-vkontakte)<sup>0</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>9</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>97</sup> 
 
 
-_04.03.2019 06:32:13_
+_04.03.2019 10:48:03_

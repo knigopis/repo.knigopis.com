@@ -1,4 +1,10 @@
 {
+    "102536471289425216982-google": {
+        "id": "102536471289425216982-google",
+        "nickname": "Окс",
+        "booksCount": 19,
+        "updatedAt": "2019-03-04 10:48:03"
+    },
     "973496-vkontakte": {
         "id": "973496-vkontakte",
         "nickname": "radeonx801",
@@ -172,11 +178,5 @@
         "nickname": "Lecowi",
         "booksCount": 9,
         "updatedAt": "2019-02-24 09:52:39"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 97,
-        "updatedAt": "2019-02-23 11:36:57"
     }
 }

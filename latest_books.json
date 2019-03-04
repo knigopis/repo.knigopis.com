@@ -1,4 +1,16 @@
 {
+    "d7guC-lT1R": {
+        "id": "d7guC-lT1R",
+        "title": "Подземелья Ватикана",
+        "author": "ЖИД Андре",
+        "notes": "",
+        "createdAt": "2019-03-04 10:48:03",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 19
+        }
+    },
     "o_04UuMGLE": {
         "id": "o_04UuMGLE",
         "title": "Блуда и МУДО",
@@ -345,18 +357,6 @@
             "id": "15813417-vkontakte",
             "nickname": "SantiagoSerg",
             "booksCount": 1
-        }
-    },
-    "g6ntulyJlm": {
-        "id": "g6ntulyJlm",
-        "title": "Жемчужина",
-        "author": "Джон Стейбек",
-        "notes": "",
-        "createdAt": "2019-02-25 17:44:20",
-        "user": {
-            "id": "118041836581529110049-google",
-            "nickname": "Svecha",
-            "booksCount": 35
         }
     }
 }
