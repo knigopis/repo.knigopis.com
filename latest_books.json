@@ -1,4 +1,16 @@
 {
+    "n8Vz9rCtpp": {
+        "id": "n8Vz9rCtpp",
+        "title": "Солярис",
+        "author": "Станислав Лем",
+        "notes": "",
+        "createdAt": "2019-03-05 04:57:37",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": "Svecha",
+            "booksCount": 36
+        }
+    },
     "CF2Ap9s87F": {
         "id": "CF2Ap9s87F",
         "title": "Фрекен Смилла и её чувство снега",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 155
-        }
-    },
-    "sJ-rOa_LPP": {
-        "id": "sJ-rOa_LPP",
-        "title": "Чому нації занепадають. Походження влади, багатства та бізнесу.",
-        "author": "Дарон Аджемоґлу, Джеймс Робінсон",
-        "notes": "7/10 Дослідження економічного розвитку країн світу.",
-        "createdAt": "2019-02-27 21:23:40",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 17
         }
     }
 }

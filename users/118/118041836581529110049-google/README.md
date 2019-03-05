@@ -1,7 +1,12 @@
-# List of books read by [Svecha](http://www.knigopis.com/#/user/books?u=118041836581529110049-google)<sup>35</sup>
+# List of books read by [Svecha](http://www.knigopis.com/#/user/books?u=118041836581529110049-google)<sup>36</sup>
 ---
 
 ## 2019
+
+### Солярис
+Станислав Лем
+> [2019-03-05] 
+
 
 ### Жемчужина
 Джон Стейбек
