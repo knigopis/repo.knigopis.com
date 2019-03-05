@@ -1,4 +1,10 @@
 {
+    "283856668-yandex": {
+        "id": "283856668-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-03-05 20:14:16"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -172,11 +178,5 @@
         "nickname": "takeover_of_music",
         "booksCount": 0,
         "updatedAt": "2019-02-24 14:46:37"
-    },
-    "521873425-vkontakte": {
-        "id": "521873425-vkontakte",
-        "nickname": "Lecowi",
-        "booksCount": 9,
-        "updatedAt": "2019-02-24 09:52:39"
     }
 }
