@@ -1,4 +1,10 @@
 {
+    "102536471289425216982-google": {
+        "id": "102536471289425216982-google",
+        "nickname": "Окс",
+        "booksCount": 28,
+        "updatedAt": "2019-03-05 12:37:01"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -22,12 +28,6 @@
         "nickname": "Chiffi",
         "booksCount": 106,
         "updatedAt": "2019-03-04 18:07:31"
-    },
-    "102536471289425216982-google": {
-        "id": "102536471289425216982-google",
-        "nickname": "Окс",
-        "booksCount": 27,
-        "updatedAt": "2019-03-04 10:56:05"
     },
     "973496-vkontakte": {
         "id": "973496-vkontakte",
