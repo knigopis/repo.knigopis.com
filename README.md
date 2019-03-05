@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 🧙🏻‍♂️ БЕЗЦМНАЯ ЗВЕЗДА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>63</sup>
+    > Плоский мир 2
+
 * Сумерки ~ [Chiffi](users/105/105831994080785626680-google)<sup>106</sup>
     > Очень затягивающе и атмосферно...
     > Ибо беда мира в том,что болен Бог его,оттого и мир болен. В горячке Господь, и творение его лихорадит. Умирает Бог,и созданный им мир умирает.
@@ -13,9 +16,6 @@ Do not use pull requests to make changes here.
     > К прочтению
 
 * Квинтэссенция решения. На примере Карибского кризиса 1962 года ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>194</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/147954711/
 
 * Пена дней ~ [Apprentice ](users/528/52821952-vkontakte)<sup>106</sup>
 
@@ -29,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Чужая Земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>105</sup>
 
-* Ігри, у які грають люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>63</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>36</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>683</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>106</sup> 
@@ -53,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>350</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>155</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>62</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>212</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>54</sup> 
 [SantiagoSerg](users/158/15813417-vkontakte)<sup>1</sup> 
@@ -68,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>9</sup> 
 
 
-_05.03.2019 04:58:48_
+_05.03.2019 09:00:03_

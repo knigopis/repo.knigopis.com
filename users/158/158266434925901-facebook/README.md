@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>62</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>63</sup>
 ---
 
 ## 2019
+
+### 🧙🏻‍♂️ БЕЗЦМНАЯ ЗВЕЗДА
+Терри Пратчетт
+> [2019-03-05] Плоский мир 2
+
 
 ### 🔹️Поступь хаоса
 Патрик Нэсс
