@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/283/283856668-yandex)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>28</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>63</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>36</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>88</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>182</sup> 
 [takeover_of_music](users/493/493533189-vkontakte)<sup>0</sup> 
-[Lecowi](users/521/521873425-vkontakte)<sup>9</sup> 
 
 
-_05.03.2019 12:37:01_
+_05.03.2019 20:14:19_
