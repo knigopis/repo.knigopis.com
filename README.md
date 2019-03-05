@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Svecha](users/118/118041836581529110049-google)<sup>36</sup> 
+[Svecha](users/118/118041836581529110049-google)<sup>35</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>683</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>106</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>9</sup> 
 
 
-_05.03.2019 04:57:37_
+_05.03.2019 04:57:54_
