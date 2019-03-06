@@ -1,5 +1,13 @@
-# List of books read by [boroda18](http://vk.com/id24345139)<sup>5</sup>
+# List of books read by [boroda18](http://vk.com/id24345139)<sup>6</sup>
 ---
+
+## 2019
+
+### STALKER Игры с запредельным
+Андрей Альтанов
+> [2019-03-06] Средняя книжка, про шоумена в зоне
+
+
 
 ## 2017
 

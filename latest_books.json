@@ -1,4 +1,16 @@
 {
+    "7OTgO8hWa1": {
+        "id": "7OTgO8hWa1",
+        "title": "STALKER Игры с запредельным",
+        "author": "Андрей Альтанов",
+        "notes": "Средняя книжка, про шоумена в зоне",
+        "createdAt": "2019-03-06 18:01:27",
+        "user": {
+            "id": "24345139-vkontakte",
+            "nickname": "boroda18",
+            "booksCount": 6
+        }
+    },
     "9wJ_wnKyQE": {
         "id": "9wJ_wnKyQE",
         "title": "Герой и бунтарь. Создание бренда с помощью архетипов",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 350
-        }
-    },
-    "OHdMQ_HCue": {
-        "id": "OHdMQ_HCue",
-        "title": "Антихрупкость",
-        "author": "Нассим Талеб",
-        "notes": "",
-        "createdAt": "2019-03-02 08:28:56",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 349
         }
     }
 }

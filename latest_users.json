@@ -1,4 +1,10 @@
 {
+    "24345139-vkontakte": {
+        "id": "24345139-vkontakte",
+        "nickname": "boroda18",
+        "booksCount": 6,
+        "updatedAt": "2019-03-06 18:01:27"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -148,12 +154,6 @@
         "nickname": "kissamasya",
         "booksCount": 48,
         "updatedAt": "2019-02-25 14:03:01"
-    },
-    "24345139-vkontakte": {
-        "id": "24345139-vkontakte",
-        "nickname": "boroda18",
-        "booksCount": 5,
-        "updatedAt": "2019-02-25 11:45:53"
     },
     "117811929665876243039-google": {
         "id": "117811929665876243039-google",
