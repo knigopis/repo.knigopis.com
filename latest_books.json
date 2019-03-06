@@ -1,4 +1,16 @@
 {
+    "Mp5-N3rXlt": {
+        "id": "Mp5-N3rXlt",
+        "title": "Краткая история человечества",
+        "author": "Юваль Ной Харари",
+        "notes": "",
+        "createdAt": "2019-03-06 15:08:29",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 684
+        }
+    },
     "-gC_pPI-f3": {
         "id": "-gC_pPI-f3",
         "title": "Снова убивать",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 105
-        }
-    },
-    "cQvuePUxNd": {
-        "id": "cQvuePUxNd",
-        "title": "Ігри, у які грають люди",
-        "author": "Ерік Берн",
-        "notes": "5/10 Книга більше розрахована на професійних психологів. Треба заглиблюватись в аналіз.",
-        "createdAt": "2019-03-01 22:14:21",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 19
         }
     }
 }

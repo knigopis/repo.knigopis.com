@@ -34,12 +34,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>684</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>206</sup> 
 [](users/283/283856668-yandex)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>28</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>63</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>36</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>683</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>106</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>203</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>2</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>182</sup> 
 
 
-_06.03.2019 14:39:34_
+_06.03.2019 15:08:30_
