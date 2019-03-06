@@ -1,4 +1,16 @@
 {
+    "-gC_pPI-f3": {
+        "id": "-gC_pPI-f3",
+        "title": "Снова убивать",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2019-03-06 14:39:34",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 206
+        }
+    },
     "enJQOobPMD": {
         "id": "enJQOobPMD",
         "title": "Лига перепуганных мужчин",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 19
-        }
-    },
-    "cgrLEAW7nw": {
-        "id": "cgrLEAW7nw",
-        "title": "Поколение А",
-        "author": "Дуглас Коупленд",
-        "notes": "",
-        "createdAt": "2019-03-01 18:33:31",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 682
         }
     }
 }
