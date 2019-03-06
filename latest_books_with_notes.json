@@ -1,4 +1,16 @@
 {
+    "9wJ_wnKyQE": {
+        "id": "9wJ_wnKyQE",
+        "title": "Герой и бунтарь. Создание бренда с помощью архетипов",
+        "author": "Маргарет Марк, Кэрол Пирсон",
+        "notes": "в процессе",
+        "createdAt": "2019-03-06 15:45:25",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 195
+        }
+    },
     "enJQOobPMD": {
         "id": "enJQOobPMD",
         "title": "Лига перепуганных мужчин",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 105
-        }
-    },
-    "gXc-O_megN": {
-        "id": "gXc-O_megN",
-        "title": "Йога для всех возрастов",
-        "author": "Макс Гандосси и Сильвия Романи",
-        "notes": "Просмотрено.",
-        "createdAt": "2019-02-18 10:04:56",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 14
         }
     }
 }

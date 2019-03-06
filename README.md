@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Герой и бунтарь. Создание бренда с помощью архетипов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>195</sup>
+    > в процессе
+
 * Лига перепуганных мужчин ~ [Йолант](users/104/104690883692185089260-google)<sup>205</sup>
     > Вторая книга из цикла о Ниро Вульфе, прочтённая мной. Честно говоря, американские детективы после английских вызывают у меня восхищение, потому что герой может сказать другому "Пошёл к чёрту" просто потому, что ему так захотелось - это несомненно приятная возможность для человека столь импульсивного, как я. Сама же книга несколько напоминает фарс, и мне несомненно нравится динамичность событий. А вот эксцентричные привычки Вульфа дают мне некоторые якори, мелкие детали в каждой книге, за которые я могу цепляться взглядом и чувствовать себя уютно.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Плоский мир 2
 
 * Сумерки ~ [Chiffi](users/105/105831994080785626680-google)<sup>106</sup>
-    > Очень затягивающе и атмосферно...
-    > Ибо беда мира в том,что болен Бог его,оттого и мир болен. В горячке Господь, и творение его лихорадит. Умирает Бог,и созданный им мир умирает.
 
 * как далеко до завтрашнего дня ~ [johnybond32](users/304/304041461-yandex)<sup>3</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ваши письма я храню под матрасом ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup>
 
-* The adventures of Sherlock Holmes ~ [violet_velva](users/116/116961712580551399099-google)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>195</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>684</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>206</sup> 
 [](users/283/283856668-yandex)<sup>0</sup> 
@@ -43,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>106</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>203</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>2</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>194</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>106</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>70</sup> 
 [Димон Зотов](users/169/1690081420889444238-mailru)<sup>0</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>182</sup> 
 
 
-_06.03.2019 15:08:30_
+_06.03.2019 15:45:26_
