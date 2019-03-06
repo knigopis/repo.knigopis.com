@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 205,
+        "updatedAt": "2019-03-06 07:11:41"
+    },
     "283856668-yandex": {
         "id": "283856668-yandex",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Madlax",
         "booksCount": 182,
         "updatedAt": "2019-02-24 17:56:41"
-    },
-    "493533189-vkontakte": {
-        "id": "493533189-vkontakte",
-        "nickname": "takeover_of_music",
-        "booksCount": 0,
-        "updatedAt": "2019-02-24 14:46:37"
     }
 }
