@@ -1,4 +1,16 @@
 {
+    "kZ58niL1KX": {
+        "id": "kZ58niL1KX",
+        "title": "Потерянные девушки Рима",
+        "author": "Донато Кариззи",
+        "notes": "",
+        "createdAt": "2019-03-07 21:29:04",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 8
+        }
+    },
     "fyHz3-mxVB": {
         "id": "fyHz3-mxVB",
         "title": "Квартира в Париже",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 106
-        }
-    },
-    "zOOX2R2sij": {
-        "id": "zOOX2R2sij",
-        "title": "Искажающие реальность",
-        "author": "Михаил Атаманов",
-        "notes": "Слышаший, раса Гекхо, Герд Тамара, Шиамиру",
-        "createdAt": "2019-03-03 15:19:57",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 70
         }
     }
 }

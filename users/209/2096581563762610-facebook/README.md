@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>7</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>8</sup>
 ---
 
 ## 2019
+
+### Потерянные девушки Рима
+Донато Кариззи
+> [2019-03-07] 
+
 
 ### Квартира в Париже
 Гийом Мюссо
