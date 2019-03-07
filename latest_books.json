@@ -1,4 +1,16 @@
 {
+    "XmlD7mg_Se": {
+        "id": "XmlD7mg_Se",
+        "title": "STALKER Квест на выживание",
+        "author": "Андрей Левицкий, Алексей Бобл",
+        "notes": "виртуальный мир и хакеры в сталкере",
+        "createdAt": "2019-03-07 20:49:27",
+        "user": {
+            "id": "24345139-vkontakte",
+            "nickname": "boroda18",
+            "booksCount": 7
+        }
+    },
     "_w1rx7TWrl": {
         "id": "_w1rx7TWrl",
         "title": "Ундина",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 58
-        }
-    },
-    "tuRRXjewnP": {
-        "id": "tuRRXjewnP",
-        "title": "The adventures of Sherlock Holmes",
-        "author": "Arthur Conan Doyle",
-        "notes": "1 A scandal in Bohemia\n2 The red-headed league \n3 A case of identity\n4 The Boscombe Valley Mystery \n5 The five orange pips \n6 The man with the twisted lip \n7 The adventure of the blue carbuncle\n8 The adventure of the specked band\n9 The adventure of the engineer's thumb \n10 The adventure of the noble bachelor\n11 The adventure of the Beryl Coronet \n12 The adventure of the Copper Beeches",
-        "createdAt": "2019-03-03 08:45:01",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 57
         }
     }
 }

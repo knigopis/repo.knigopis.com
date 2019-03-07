@@ -1,4 +1,10 @@
 {
+    "24345139-vkontakte": {
+        "id": "24345139-vkontakte",
+        "nickname": "boroda18",
+        "booksCount": 7,
+        "updatedAt": "2019-03-07 20:49:27"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -10,12 +16,6 @@
         "nickname": "Йолант",
         "booksCount": 207,
         "updatedAt": "2019-03-07 05:09:36"
-    },
-    "24345139-vkontakte": {
-        "id": "24345139-vkontakte",
-        "nickname": "boroda18",
-        "booksCount": 6,
-        "updatedAt": "2019-03-06 18:01:27"
     },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",

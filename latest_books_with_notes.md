@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* STALKER Квест на выживание ~ [boroda18](users/243/24345139-vkontakte)<sup>7</sup>
 * STALKER Игры с запредельным ~ [boroda18](users/243/24345139-vkontakte)<sup>6</sup>
 * Герой и бунтарь. Создание бренда с помощью архетипов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>195</sup>
 * Лига перепуганных мужчин ~ [Йолант](users/104/104690883692185089260-google)<sup>205</sup>
@@ -30,7 +31,6 @@
 * Начала политической экономии и налогового обложения ~ [kissamasya](users/684/68439978-vkontakte)<sup>46</sup>
 * Голодній дом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup>
 * Управляющий мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>180</sup>
-* Секретные бункеры Кёнигсберга ~ [Madlax](users/158/158304782-vkontakte)<sup>177</sup>
 
 
-_06.03.2019 18:01:27_
+_07.03.2019 20:49:27_

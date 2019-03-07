@@ -1,4 +1,16 @@
 {
+    "XmlD7mg_Se": {
+        "id": "XmlD7mg_Se",
+        "title": "STALKER Квест на выживание",
+        "author": "Андрей Левицкий, Алексей Бобл",
+        "notes": "виртуальный мир и хакеры в сталкере",
+        "createdAt": "2019-03-07 20:49:27",
+        "user": {
+            "id": "24345139-vkontakte",
+            "nickname": "boroda18",
+            "booksCount": 7
+        }
+    },
     "7OTgO8hWa1": {
         "id": "7OTgO8hWa1",
         "title": "STALKER Игры с запредельным",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 180
-        }
-    },
-    "c6BJhBNPP5": {
-        "id": "c6BJhBNPP5",
-        "title": "Секретные бункеры Кёнигсберга",
-        "author": "А.С. Пржездомский",
-        "notes": "Очень нудная и утомительная",
-        "createdAt": "2019-02-19 18:00:52",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 177
         }
     }
 }

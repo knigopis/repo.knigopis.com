@@ -1,7 +1,12 @@
-# List of books read by [boroda18](http://vk.com/id24345139)<sup>6</sup>
+# List of books read by [boroda18](http://vk.com/id24345139)<sup>7</sup>
 ---
 
 ## 2019
+
+### STALKER Квест на выживание
+Андрей Левицкий, Алексей Бобл
+> [2019-03-07] виртуальный мир и хакеры в сталкере
+
 
 ### STALKER Игры с запредельным
 Андрей Альтанов
