@@ -1,4 +1,16 @@
 {
+    "fyHz3-mxVB": {
+        "id": "fyHz3-mxVB",
+        "title": "Квартира в Париже",
+        "author": "Гийом Мюссо",
+        "notes": "",
+        "createdAt": "2019-03-07 21:27:47",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 7
+        }
+    },
     "CF8UPdQTmT": {
         "id": "CF8UPdQTmT",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 70
-        }
-    },
-    "DxmTcmbMIW": {
-        "id": "DxmTcmbMIW",
-        "title": "Серый ворон 1-4",
-        "author": "Михаил Атаманов",
-        "notes": "Серый ворон, Пузырь, Фея, Каришка, Камилетта, гильдия воров, Эрафия",
-        "createdAt": "2019-03-03 15:15:46",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 69
         }
     }
 }

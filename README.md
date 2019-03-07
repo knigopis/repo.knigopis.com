@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>7</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>18</sup> 
 [boroda18](users/243/24345139-vkontakte)<sup>7</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>129</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>26</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>48</sup> 
 [Барт](users/117/117811929665876243039-google)<sup>0</sup> 
-[dzha](users/102/10212840038667920-facebook)<sup>1</sup> 
 
 
-_07.03.2019 21:16:48_
+_07.03.2019 21:27:47_
