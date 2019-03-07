@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 129,
+        "updatedAt": "2019-03-07 05:10:43"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "le_brouillard",
         "booksCount": 88,
         "updatedAt": "2019-02-24 18:33:16"
-    },
-    "158304782-vkontakte": {
-        "id": "158304782-vkontakte",
-        "nickname": "Madlax",
-        "booksCount": 182,
-        "updatedAt": "2019-02-24 17:56:41"
     }
 }

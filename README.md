@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>129</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>207</sup> 
 [boroda18](users/243/24345139-vkontakte)<sup>6</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>195</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Барт](users/117/117811929665876243039-google)<sup>0</sup> 
 [dzha](users/102/10212840038667920-facebook)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>88</sup> 
-[Madlax](users/158/158304782-vkontakte)<sup>182</sup> 
 
 
-_07.03.2019 05:09:37_
+_07.03.2019 05:10:43_

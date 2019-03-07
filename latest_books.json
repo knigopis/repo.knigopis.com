@@ -1,4 +1,16 @@
 {
+    "_w1rx7TWrl": {
+        "id": "_w1rx7TWrl",
+        "title": "Ундина",
+        "author": "Фридрих де Ла Мотт Фуке",
+        "notes": "",
+        "createdAt": "2019-03-07 05:10:43",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 129
+        }
+    },
     "0lmDdvMnSg": {
         "id": "0lmDdvMnSg",
         "title": "Красная шкатулка",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 57
-        }
-    },
-    "J_6YBdispc": {
-        "id": "J_6YBdispc",
-        "title": "",
-        "author": "Джоджо мойес",
-        "notes": "",
-        "createdAt": "2019-03-02 12:28:33",
-        "user": {
-            "id": "153635074-vkontakte",
-            "nickname": "alena.oparina",
-            "booksCount": 1
         }
     }
 }
