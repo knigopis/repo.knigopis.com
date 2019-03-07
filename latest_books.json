@@ -1,4 +1,16 @@
 {
+    "0lmDdvMnSg": {
+        "id": "0lmDdvMnSg",
+        "title": "Красная шкатулка",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2019-03-07 05:09:36",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 207
+        }
+    },
     "7OTgO8hWa1": {
         "id": "7OTgO8hWa1",
         "title": "STALKER Игры с запредельным",
@@ -345,18 +357,6 @@
             "id": "153635074-vkontakte",
             "nickname": "alena.oparina",
             "booksCount": 1
-        }
-    },
-    "yPUQ0UePiA": {
-        "id": "yPUQ0UePiA",
-        "title": "Задача трёх тел",
-        "author": "Ли Цыссинь",
-        "notes": "",
-        "createdAt": "2019-03-02 08:29:56",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 350
         }
     }
 }

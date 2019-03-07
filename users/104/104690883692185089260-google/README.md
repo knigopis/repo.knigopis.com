@@ -1,7 +1,12 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>206</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>207</sup>
 ---
 
 ## 2019
+
+### Красная шкатулка
+Рекс Стаут
+> [2019-03-07] 
+
 
 ### Снова убивать
 Рекс Стаут
