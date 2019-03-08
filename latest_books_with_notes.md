@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Спектр ~ [Chiffi](users/105/105831994080785626680-google)<sup>107</sup>
 * STALKER Квест на выживание ~ [boroda18](users/243/24345139-vkontakte)<sup>7</sup>
 * STALKER Игры с запредельным ~ [boroda18](users/243/24345139-vkontakte)<sup>6</sup>
 * Герой и бунтарь. Создание бренда с помощью архетипов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>195</sup>
@@ -30,7 +31,6 @@
 * The Future of Capitalism: Facing the New Anxieties ~ [exulted](users/100/100599204551896265722-google)<sup>97</sup>
 * Начала политической экономии и налогового обложения ~ [kissamasya](users/684/68439978-vkontakte)<sup>46</sup>
 * Голодній дом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>15</sup>
-* Управляющий мозг ~ [Madlax](users/158/158304782-vkontakte)<sup>180</sup>
 
 
-_07.03.2019 20:49:27_
+_08.03.2019 17:00:57_
