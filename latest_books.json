@@ -1,4 +1,16 @@
 {
+    "hW0BlQwrEC": {
+        "id": "hW0BlQwrEC",
+        "title": "Слишком страшное оружие",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2019-03-09 14:23:38",
+        "user": {
+            "id": "461882414-vkontakte",
+            "nickname": "dfgfdgf365",
+            "booksCount": 1
+        }
+    },
     "514f7FmDeu": {
         "id": "514f7FmDeu",
         "title": "Спектр",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 19
-        }
-    },
-    "o_04UuMGLE": {
-        "id": "o_04UuMGLE",
-        "title": "Блуда и МУДО",
-        "author": "Алексей Иванов",
-        "notes": "",
-        "createdAt": "2019-03-04 06:32:13",
-        "user": {
-            "id": "973496-vkontakte",
-            "nickname": "radeonx801",
-            "booksCount": 203
         }
     }
 }
