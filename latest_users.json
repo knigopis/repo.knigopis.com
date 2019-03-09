@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 685,
+        "updatedAt": "2019-03-09 09:29:23"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -46,12 +52,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 195,
         "updatedAt": "2019-03-06 15:45:25"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 684,
-        "updatedAt": "2019-03-06 15:08:29"
     },
     "283856668-yandex": {
         "id": "283856668-yandex",
