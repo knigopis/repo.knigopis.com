@@ -1,4 +1,16 @@
 {
+    "1cSBmWoFIJ": {
+        "id": "1cSBmWoFIJ",
+        "title": "Полдень, XXII век",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2019-03-09 16:47:14",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 171
+        }
+    },
     "hW0BlQwrEC": {
         "id": "hW0BlQwrEC",
         "title": "Слишком страшное оружие",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 21
-        }
-    },
-    "d7guC-lT1R": {
-        "id": "d7guC-lT1R",
-        "title": "Подземелья Ватикана",
-        "author": "ЖИД Андре",
-        "notes": "",
-        "createdAt": "2019-03-04 10:48:03",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 19
         }
     }
 }

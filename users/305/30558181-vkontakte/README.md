@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>170</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>171</sup>
 ---
 
 ## 2019
+
+### Полдень, XXII век
+Аркадий и Борис Стругацкие
+> [2019-03-04] 
+
 
 ### Рассказы о Родине
 Дмитрий Глуховский

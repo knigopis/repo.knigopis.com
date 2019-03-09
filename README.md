@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>171</sup> 
 [dfgfdgf365](users/461/461882414-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>108</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>685</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>54</sup> 
 [SantiagoSerg](users/158/15813417-vkontakte)<sup>1</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>26</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>48</sup> 
 
 
-_09.03.2019 14:23:38_
+_09.03.2019 16:47:14_
