@@ -1,4 +1,16 @@
 {
+    "rDMA8bB8ji": {
+        "id": "rDMA8bB8ji",
+        "title": "👩‍🚀 Алита. Айрон Сити",
+        "author": "Пэт Кэдиган",
+        "notes": "",
+        "createdAt": "2019-03-09 06:08:48",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 64
+        }
+    },
     "bfqBVYnEz9": {
         "id": "bfqBVYnEz9",
         "title": "Спектр",
@@ -345,18 +357,6 @@
             "id": "304041461-yandex",
             "nickname": "johnybond32",
             "booksCount": 3
-        }
-    },
-    "QmiU4cYc0W": {
-        "id": "QmiU4cYc0W",
-        "title": "Квинтэссенция решения. На примере Карибского кризиса 1962 года",
-        "author": "Грэм Т. Аллисон, Филип Зеликов",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/147954711/",
-        "createdAt": "2019-03-03 20:34:23",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 194
         }
     }
 }

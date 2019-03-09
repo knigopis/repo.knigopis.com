@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>64</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>107</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>8</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>18</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>684</sup> 
 [](users/283/283856668-yandex)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>28</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>63</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>36</sup> 
 [radeonx801](users/973/973496-vkontakte)<sup>203</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>2</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Барт](users/117/117811929665876243039-google)<sup>0</sup> 
 
 
-_08.03.2019 17:00:57_
+_09.03.2019 06:08:48_
