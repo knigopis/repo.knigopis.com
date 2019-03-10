@@ -1,4 +1,16 @@
 {
+    "xbqf3ObkVl": {
+        "id": "xbqf3ObkVl",
+        "title": "Sapiens - Краткая история человечества",
+        "author": "Юваль Ной Харари",
+        "notes": "",
+        "createdAt": "2019-03-10 10:06:46",
+        "user": {
+            "id": "461882414-vkontakte",
+            "nickname": "dfgfdgf365",
+            "booksCount": 2
+        }
+    },
     "vhxWjOFjaq": {
         "id": "vhxWjOFjaq",
         "title": "The True Believer: Thoughts on the Nature of Mass Movements",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 24
-        }
-    },
-    "MW7hs3SVcq": {
-        "id": "MW7hs3SVcq",
-        "title": "Уловка 22",
-        "author": "ХЕЛЛЕР ДЖОЗЕФ",
-        "notes": "",
-        "createdAt": "2019-03-04 10:52:56",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 23
         }
     }
 }
