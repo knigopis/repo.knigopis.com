@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 98,
+        "updatedAt": "2019-03-10 08:22:41"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "SantiagoSerg",
         "booksCount": 1,
         "updatedAt": "2019-02-25 23:11:52"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 26,
-        "updatedAt": "2019-02-25 15:19:15"
     }
 }

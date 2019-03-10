@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>97</sup>
+# Список прочитанных книг пользователя exulted<sup>98</sup>
 ---
 
 ## 2019
+
+### Тобол. Много званых
+Иванов Алексей
+> [2019-03-03] ISBN: 978-5-17-100420-0
+
 
 ### The Future of Capitalism: Facing the New Anxieties
 Paul Collier

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тобол. Много званых ~ [exulted](users/100/100599204551896265722-google)<sup>98</sup>
+    > ISBN: 978-5-17-100420-0
+
 * Спектр ~ [Chiffi](users/105/105831994080785626680-google)<sup>108</sup>
     > Разглядывая глянцевые страницы кулинарных книг, легко поверить в красивую ложь – цари и бояре на Руси испокон веков только и ели, что блины с зернистой икоркой, фаршированных по-хитрому гусей, гурьевские пироги и белорыбицу. А уж любовь Петра Первого к перловой каше иначе чем странностями и болезнями великого монарха и не объяснишь.
     > 
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > виртуальный мир и хакеры в сталкере
 
 * STALKER Игры с запредельным ~ [boroda18](users/243/24345139-vkontakte)<sup>6</sup>
-    > Средняя книжка, про шоумена в зоне
 
 * Герой и бунтарь. Создание бренда с помощью архетипов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>195</sup>
 
@@ -34,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Квинтэссенция решения. На примере Карибского кризиса 1962 года ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>194</sup>
 
-* Пена дней ~ [Apprentice ](users/528/52821952-vkontakte)<sup>106</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>98</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>171</sup> 
 [dfgfdgf365](users/461/461882414-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>108</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>212</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>54</sup> 
 [SantiagoSerg](users/158/15813417-vkontakte)<sup>1</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>26</sup> 
 
 
-_09.03.2019 16:47:14_
+_10.03.2019 08:22:41_
