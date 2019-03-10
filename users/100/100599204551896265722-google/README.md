@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>98</sup>
+# Список прочитанных книг пользователя exulted<sup>99</sup>
 ---
 
 ## 2019
+
+### The True Believer: Thoughts on the Nature of Mass Movements
+Eric Hoffer
+> [2019-03-10] ASIN: B003TO5838
+
 
 ### Тобол. Много званых
 Иванов Алексей

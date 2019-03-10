@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The True Believer: Thoughts on the Nature of Mass Movements ~ [exulted](users/100/100599204551896265722-google)<sup>99</sup>
 * Тобол. Много званых ~ [exulted](users/100/100599204551896265722-google)<sup>98</sup>
 * Спектр ~ [Chiffi](users/105/105831994080785626680-google)<sup>108</sup>
 * STALKER Квест на выживание ~ [boroda18](users/243/24345139-vkontakte)<sup>7</sup>
@@ -30,7 +31,6 @@
 * Другой Путь ~ [Chiffi](users/105/105831994080785626680-google)<sup>103</sup>
 * Список возмездия ~ [kissamasya](users/684/68439978-vkontakte)<sup>47</sup>
 * The Future of Capitalism: Facing the New Anxieties ~ [exulted](users/100/100599204551896265722-google)<sup>97</sup>
-* Начала политической экономии и налогового обложения ~ [kissamasya](users/684/68439978-vkontakte)<sup>46</sup>
 
 
-_10.03.2019 08:22:41_
+_10.03.2019 08:23:54_

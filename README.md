@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The True Believer: Thoughts on the Nature of Mass Movements ~ [exulted](users/100/100599204551896265722-google)<sup>99</sup>
+    > ASIN: B003TO5838
+
 * Тобол. Много званых ~ [exulted](users/100/100599204551896265722-google)<sup>98</sup>
     > ISBN: 978-5-17-100420-0
 
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > Когда тебя оскорбляют словами, не стоит доставать меч.  Надо убить врага словами
 
 * STALKER Квест на выживание ~ [boroda18](users/243/24345139-vkontakte)<sup>7</sup>
-    > виртуальный мир и хакеры в сталкере
 
 * STALKER Игры с запредельным ~ [boroda18](users/243/24345139-vkontakte)<sup>6</sup>
 
@@ -34,14 +36,12 @@ Do not use pull requests to make changes here.
 
 * как далеко до завтрашнего дня ~ [johnybond32](users/304/304041461-yandex)<sup>3</sup>
 
-* Квинтэссенция решения. На примере Карибского кризиса 1962 года ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>194</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>98</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>99</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>171</sup> 
 [dfgfdgf365](users/461/461882414-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>108</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [SantiagoSerg](users/158/15813417-vkontakte)<sup>1</sup> 
 
 
-_10.03.2019 08:22:41_
+_10.03.2019 08:23:54_
