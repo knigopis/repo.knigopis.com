@@ -1,4 +1,16 @@
 {
+    "hBDh00_ckg": {
+        "id": "hBDh00_ckg",
+        "title": "Детство",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2019-03-11 09:13:21",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 156
+        }
+    },
     "xbqf3ObkVl": {
         "id": "xbqf3ObkVl",
         "title": "Sapiens - Краткая история человечества",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 25
-        }
-    },
-    "OcIBuGHFXn": {
-        "id": "OcIBuGHFXn",
-        "title": "Незримые академики",
-        "author": "ПРАТЧЕТТ Терри",
-        "notes": "",
-        "createdAt": "2019-03-04 10:53:35",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 24
         }
     }
 }

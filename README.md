@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>156</sup> 
 [dfgfdgf365](users/461/461882414-vkontakte)<sup>2</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>99</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>171</sup> 
@@ -67,10 +68,9 @@ _More notes [here](latest_books_with_notes.md)._
 [volkova_spamspamspam](users/139/139716432-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>350</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>155</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>212</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>54</sup> 
 [SantiagoSerg](users/158/15813417-vkontakte)<sup>1</sup> 
 
 
-_10.03.2019 10:06:46_
+_11.03.2019 09:13:21_
