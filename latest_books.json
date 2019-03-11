@@ -1,4 +1,16 @@
 {
+    "ZLjcnB7I5u": {
+        "id": "ZLjcnB7I5u",
+        "title": "Террариум",
+        "author": "Соломатин А.В.",
+        "notes": "",
+        "createdAt": "2019-03-11 19:06:41",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 11
+        }
+    },
     "TzfMcxAhzy": {
         "id": "TzfMcxAhzy",
         "title": "Заводной апельсин",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 27
-        }
-    },
-    "IFZOz79wZD": {
-        "id": "IFZOz79wZD",
-        "title": "Вино из одуванчиков",
-        "author": "БРЭДБЕРИ Рэй",
-        "notes": "",
-        "createdAt": "2019-03-04 10:55:34",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 26
         }
     }
 }
