@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ира](users/153/153315674-vkontakte)<sup>0</sup> 
 [v2space](users/107/107093389362314609212-googleplus)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>11</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>61</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alena.oparina](users/153/153635074-vkontakte)<sup>1</sup> 
 [volkova_spamspamspam](users/139/139716432-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>350</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup> 
 
 
-_12.03.2019 14:28:35_
+_12.03.2019 20:14:48_
