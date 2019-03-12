@@ -1,4 +1,10 @@
 {
+    "153315674-vkontakte": {
+        "id": "153315674-vkontakte",
+        "nickname": "Ира",
+        "booksCount": 0,
+        "updatedAt": "2019-03-12 20:14:46"
+    },
     "107093389362314609212-googleplus": {
         "id": "107093389362314609212-googleplus",
         "nickname": "v2space",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 350,
         "updatedAt": "2019-03-02 08:29:56"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 19,
-        "updatedAt": "2019-03-01 22:14:21"
     }
 }
