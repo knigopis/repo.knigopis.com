@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[v2space](users/107/107093389362314609212-googleplus)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>11</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>61</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>156</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [volkova_spamspamspam](users/139/139716432-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>350</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>212</sup> 
 
 
-_11.03.2019 19:06:41_
+_12.03.2019 14:25:22_
