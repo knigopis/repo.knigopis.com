@@ -1,4 +1,16 @@
 {
+    "yU6AgHbdJ7": {
+        "id": "yU6AgHbdJ7",
+        "title": "Тест",
+        "author": "Я",
+        "notes": "Тестттт",
+        "createdAt": "2019-03-12 14:28:34",
+        "user": {
+            "id": "107093389362314609212-googleplus",
+            "nickname": "v2space",
+            "booksCount": 1
+        }
+    },
     "ZLjcnB7I5u": {
         "id": "ZLjcnB7I5u",
         "title": "Террариум",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 106
-        }
-    },
-    "0TUtiaZVUZ": {
-        "id": "0TUtiaZVUZ",
-        "title": "Гордость и предубеждение",
-        "author": "ОСТИН Джейн",
-        "notes": "",
-        "createdAt": "2019-03-04 10:56:05",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 27
         }
     }
 }

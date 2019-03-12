@@ -41,7 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[v2space](users/107/107093389362314609212-googleplus)<sup>0</sup> 
+[v2space](users/107/107093389362314609212-googleplus)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>11</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>61</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>156</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup> 
 
 
-_12.03.2019 14:25:22_
+_12.03.2019 14:28:35_
