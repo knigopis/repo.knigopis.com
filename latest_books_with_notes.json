@@ -1,4 +1,16 @@
 {
+    "RJ7SdM929G": {
+        "id": "RJ7SdM929G",
+        "title": "Час Быка",
+        "author": "Ефремов, Иван Антонович",
+        "notes": "Какая-то карикатура на общество и политический строй, причем и на коммунистический (видимо поэтому в СССР книгу и запретили), и не капиталистический. Много однообразных рассуждений на одни и те же темы. В цело скучная книга",
+        "createdAt": "2019-03-13 07:41:48",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 213
+        }
+    },
     "vhxWjOFjaq": {
         "id": "vhxWjOFjaq",
         "title": "The True Believer: Thoughts on the Nature of Mass Movements",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 47
-        }
-    },
-    "22MrF0wmfH": {
-        "id": "22MrF0wmfH",
-        "title": "The Future of Capitalism: Facing the New Anxieties",
-        "author": "Paul Collier",
-        "notes": "ASIN: B077M9MCVW",
-        "createdAt": "2019-02-23 11:36:57",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 97
         }
     }
 }

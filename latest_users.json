@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 213,
+        "updatedAt": "2019-03-13 07:41:48"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "volkova_spamspamspam",
         "booksCount": 0,
         "updatedAt": "2019-03-02 08:40:49"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 350,
-        "updatedAt": "2019-03-02 08:29:56"
     }
 }
