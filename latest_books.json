@@ -1,4 +1,16 @@
 {
+    "FKp7boORYl": {
+        "id": "FKp7boORYl",
+        "title": "ECMAScript 6 для разработчиков",
+        "author": "Николас закос",
+        "notes": "",
+        "createdAt": "2019-03-13 07:55:55",
+        "user": {
+            "id": "25313025-vkontakte",
+            "nickname": "m1kash",
+            "booksCount": 1
+        }
+    },
     "RJ7SdM929G": {
         "id": "RJ7SdM929G",
         "title": "Час Быка",
@@ -341,18 +353,6 @@
         "author": "Кристофер Прист",
         "notes": "",
         "createdAt": "2019-03-05 04:58:47",
-        "user": {
-            "id": "118041836581529110049-google",
-            "nickname": "Svecha",
-            "booksCount": 36
-        }
-    },
-    "n8Vz9rCtpp": {
-        "id": "n8Vz9rCtpp",
-        "title": "Солярис",
-        "author": "Станислав Лем",
-        "notes": "",
-        "createdAt": "2019-03-05 04:57:37",
         "user": {
             "id": "118041836581529110049-google",
             "nickname": "Svecha",
