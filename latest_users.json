@@ -1,4 +1,10 @@
 {
+    "63584582-yandex": {
+        "id": "63584582-yandex",
+        "nickname": "dashulich2009",
+        "booksCount": 0,
+        "updatedAt": "2019-03-13 08:29:35"
+    },
     "55208736-vkontakte": {
         "id": "55208736-vkontakte",
         "nickname": "ve_le_no",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 16,
         "updatedAt": "2019-03-03 11:36:18"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 58,
-        "updatedAt": "2019-03-03 08:46:06"
     }
 }
