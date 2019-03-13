@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>89</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>209</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>157</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>65</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>106</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>70</sup> 
 [Димон Зотов](users/169/1690081420889444238-mailru)<sup>0</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup> 
 
 
-_13.03.2019 13:32:45_
+_13.03.2019 17:54:14_

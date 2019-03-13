@@ -1,4 +1,10 @@
 {
+    "13330781-vkontakte": {
+        "id": "13330781-vkontakte",
+        "nickname": "le_brouillard",
+        "booksCount": 89,
+        "updatedAt": "2019-03-13 17:54:14"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "Димон Зотов",
         "booksCount": 0,
         "updatedAt": "2019-03-03 12:08:02"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 16,
-        "updatedAt": "2019-03-03 11:36:18"
     }
 }
