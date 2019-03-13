@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>157</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>208</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>65</sup> 
 [dashulich2009](users/635/63584582-yandex)<sup>0</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [v2space](users/107/107093389362314609212-googleplus)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>11</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>61</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>156</sup> 
 [dfgfdgf365](users/461/461882414-vkontakte)<sup>2</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>99</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>171</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup> 
 
 
-_13.03.2019 09:26:32_
+_13.03.2019 11:51:10_
