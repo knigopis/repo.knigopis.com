@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dashulich2009](users/635/63584582-yandex)<sup>0</sup> 
 [ve_le_no](users/552/55208736-vkontakte)<sup>0</sup> 
 [m1kash](users/253/25313025-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>213</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>70</sup> 
 [Димон Зотов](users/169/1690081420889444238-mailru)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>58</sup> 
 
 
-_13.03.2019 07:58:20_
+_13.03.2019 08:29:36_
