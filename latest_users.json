@@ -1,4 +1,10 @@
 {
+    "55208736-vkontakte": {
+        "id": "55208736-vkontakte",
+        "nickname": "ve_le_no",
+        "booksCount": 0,
+        "updatedAt": "2019-03-13 07:58:19"
+    },
     "25313025-vkontakte": {
         "id": "25313025-vkontakte",
         "nickname": "m1kash",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 58,
         "updatedAt": "2019-03-03 08:46:06"
-    },
-    "153635074-vkontakte": {
-        "id": "153635074-vkontakte",
-        "nickname": "alena.oparina",
-        "booksCount": 1,
-        "updatedAt": "2019-03-02 12:28:33"
     }
 }
