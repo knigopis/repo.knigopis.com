@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 👹 Судные дни ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>65</sup>
+    > Лучшее из ужасов
+
 * Час Быка ~ [Garka](users/115/115753719718250012620-google)<sup>213</sup>
     > Какая-то карикатура на общество и политический строй, причем и на коммунистический (видимо поэтому в СССР книгу и запретили), и не капиталистический. Много однообразных рассуждений на одни и те же темы. В цело скучная книга
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN: B003TO5838
 
 * Тобол. Много званых ~ [exulted](users/100/100599204551896265722-google)<sup>98</sup>
-    > ISBN: 978-5-17-100420-0
 
 * Спектр ~ [Chiffi](users/105/105831994080785626680-google)<sup>108</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 🧙🏻‍♂️ БЕЗЦМНАЯ ЗВЕЗДА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>63</sup>
 
-* Сумерки ~ [Chiffi](users/105/105831994080785626680-google)<sup>106</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>65</sup> 
 [dashulich2009](users/635/63584582-yandex)<sup>0</sup> 
 [ve_le_no](users/552/55208736-vkontakte)<sup>0</sup> 
 [m1kash](users/253/25313025-vkontakte)<sup>1</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>99</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>171</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>108</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>64</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>8</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>18</sup> 
 [boroda18](users/243/24345139-vkontakte)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup> 
 
 
-_13.03.2019 08:29:36_
+_13.03.2019 08:44:50_

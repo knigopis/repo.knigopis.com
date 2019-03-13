@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 👹 Судные дни ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>65</sup>
 * Час Быка ~ [Garka](users/115/115753719718250012620-google)<sup>213</sup>
 * The True Believer: Thoughts on the Nature of Mass Movements ~ [exulted](users/100/100599204551896265722-google)<sup>99</sup>
 * Тобол. Много званых ~ [exulted](users/100/100599204551896265722-google)<sup>98</sup>
@@ -30,7 +31,6 @@
 * Любовница французского офицера ~ [Quaff](users/122/12267158-vkontakte)<sup>26</sup>
 * Организация бизнеса с нуля.С чего начать и как преуспеть ~ [kissamasya](users/684/68439978-vkontakte)<sup>48</sup>
 * Другой Путь ~ [Chiffi](users/105/105831994080785626680-google)<sup>103</sup>
-* Список возмездия ~ [kissamasya](users/684/68439978-vkontakte)<sup>47</sup>
 
 
-_13.03.2019 07:41:49_
+_13.03.2019 08:44:50_
