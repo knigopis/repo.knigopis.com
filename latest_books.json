@@ -1,4 +1,16 @@
 {
+    "Feul0GjZfO": {
+        "id": "Feul0GjZfO",
+        "title": "Алхимик",
+        "author": "Паоло Коэльо",
+        "notes": "",
+        "createdAt": "2019-03-14 10:33:46",
+        "user": {
+            "id": "118041836581529110049-google",
+            "nickname": "Svecha",
+            "booksCount": 37
+        }
+    },
     "Y4wQkUF0oy": {
         "id": "Y4wQkUF0oy",
         "title": "Глодные игры",
@@ -345,18 +357,6 @@
             "id": "24345139-vkontakte",
             "nickname": "boroda18",
             "booksCount": 6
-        }
-    },
-    "9wJ_wnKyQE": {
-        "id": "9wJ_wnKyQE",
-        "title": "Герой и бунтарь. Создание бренда с помощью архетипов",
-        "author": "Маргарет Марк, Кэрол Пирсон",
-        "notes": "в процессе",
-        "createdAt": "2019-03-06 15:45:25",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 195
         }
     }
 }
