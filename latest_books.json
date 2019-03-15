@@ -1,4 +1,16 @@
 {
+    "GiXEK0BddG": {
+        "id": "GiXEK0BddG",
+        "title": "Хаджи-Мурат",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2019-03-15 09:14:28",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 158
+        }
+    },
     "Or8YA8ak1S": {
         "id": "Or8YA8ak1S",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "695244810674916-facebook",
             "nickname": "Eugene",
             "booksCount": 17
-        }
-    },
-    "XmlD7mg_Se": {
-        "id": "XmlD7mg_Se",
-        "title": "STALKER Квест на выживание",
-        "author": "Андрей Левицкий, Алексей Бобл",
-        "notes": "виртуальный мир и хакеры в сталкере",
-        "createdAt": "2019-03-07 20:49:27",
-        "user": {
-            "id": "24345139-vkontakte",
-            "nickname": "boroda18",
-            "booksCount": 7
         }
     }
 }
