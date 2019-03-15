@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>109</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>210</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>37</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>49</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dfgfdgf365](users/461/461882414-vkontakte)<sup>2</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>99</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>171</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>108</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>8</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>18</sup> 
 [boroda18](users/243/24345139-vkontakte)<sup>7</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>70</sup> 
 
 
-_14.03.2019 21:01:57_
+_15.03.2019 05:32:26_

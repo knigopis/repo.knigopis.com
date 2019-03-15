@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 109,
+        "updatedAt": "2019-03-15 05:32:26"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -106,12 +112,6 @@
         "nickname": "EsterHani",
         "booksCount": 171,
         "updatedAt": "2019-03-09 16:47:14"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 108,
-        "updatedAt": "2019-03-09 13:32:17"
     },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",

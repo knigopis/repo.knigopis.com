@@ -1,4 +1,16 @@
 {
+    "lIbWllO6cQ": {
+        "id": "lIbWllO6cQ",
+        "title": "Джедайские техники. Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо",
+        "author": "Дорофеев Максим",
+        "notes": "",
+        "createdAt": "2019-03-15 05:32:26",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 109
+        }
+    },
     "19aDiVBUSm": {
         "id": "19aDiVBUSm",
         "title": "Только через мой труп",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 129
-        }
-    },
-    "0lmDdvMnSg": {
-        "id": "0lmDdvMnSg",
-        "title": "Красная шкатулка",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2019-03-07 05:09:36",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 207
         }
     }
 }
