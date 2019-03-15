@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>110</sup>
+    > https://rutlib5.com/book/28223
+
 * Глодные игры ~ [kissamasya](users/684/68439978-vkontakte)<sup>49</sup>
     > Часто жизнь оборачивается так, что люди, которые ранее были необычайно близки, становятся врагами… Порой случается и так, что близкие должны сойтись в смертельной схватке. Такое необычайное зрелище завораживает толпу, заставляет кровь закипать, а разум безумствовать...
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Лучшее из ужасов
 
 * Час Быка ~ [Garka](users/115/115753719718250012620-google)<sup>213</sup>
-    > Какая-то карикатура на общество и политический строй, причем и на коммунистический (видимо поэтому в СССР книгу и запретили), и не капиталистический. Много однообразных рассуждений на одни и те же темы. В цело скучная книга
 
 * The True Believer: Thoughts on the Nature of Mass Movements ~ [exulted](users/100/100599204551896265722-google)<sup>99</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Герой и бунтарь. Создание бренда с помощью архетипов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>195</sup>
 
-* Лига перепуганных мужчин ~ [Йолант](users/104/104690883692185089260-google)<sup>205</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>109</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>110</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>210</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>37</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>49</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>70</sup> 
 
 
-_15.03.2019 05:32:26_
+_15.03.2019 05:32:36_
