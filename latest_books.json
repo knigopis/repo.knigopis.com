@@ -1,4 +1,16 @@
 {
+    "w7oJBJvPOi": {
+        "id": "w7oJBJvPOi",
+        "title": "Побег из Шоушенка",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2019-03-16 07:00:29",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 90
+        }
+    },
     "GiXEK0BddG": {
         "id": "GiXEK0BddG",
         "title": "Хаджи-Мурат",
@@ -345,18 +357,6 @@
             "id": "695244810674916-facebook",
             "nickname": "Eugene",
             "booksCount": 18
-        }
-    },
-    "fV1jtEeePp": {
-        "id": "fV1jtEeePp",
-        "title": "Волшебники",
-        "author": "Лев Гроссман",
-        "notes": "",
-        "createdAt": "2019-03-07 21:15:55",
-        "user": {
-            "id": "695244810674916-facebook",
-            "nickname": "Eugene",
-            "booksCount": 17
         }
     }
 }
