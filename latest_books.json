@@ -1,4 +1,16 @@
 {
+    "qdwVTH1Z0W": {
+        "id": "qdwVTH1Z0W",
+        "title": "Завещание",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2019-03-16 07:47:35",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 211
+        }
+    },
     "w7oJBJvPOi": {
         "id": "w7oJBJvPOi",
         "title": "Побег из Шоушенка",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 7
-        }
-    },
-    "CF8UPdQTmT": {
-        "id": "CF8UPdQTmT",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2019-03-07 21:16:48",
-        "user": {
-            "id": "695244810674916-facebook",
-            "nickname": "Eugene",
-            "booksCount": 18
         }
     }
 }
