@@ -1,4 +1,16 @@
 {
+    "dhpO9AQYkU": {
+        "id": "dhpO9AQYkU",
+        "title": "Я, робот",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2019-03-16 15:25:04",
+        "user": {
+            "id": "461882414-vkontakte",
+            "nickname": "dfgfdgf365",
+            "booksCount": 3
+        }
+    },
     "8OkFc0RHYr": {
         "id": "8OkFc0RHYr",
         "title": "Ведьмак",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 98
-        }
-    },
-    "1cSBmWoFIJ": {
-        "id": "1cSBmWoFIJ",
-        "title": "Полдень, XXII век",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2019-03-09 16:47:14",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 171
         }
     }
 }
