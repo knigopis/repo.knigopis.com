@@ -1,4 +1,10 @@
 {
+    "144954219-vkontakte": {
+        "id": "144954219-vkontakte",
+        "nickname": "mangilyov",
+        "booksCount": 0,
+        "updatedAt": "2019-03-16 15:11:51"
+    },
     "104481210200104709566-google": {
         "id": "104481210200104709566-google",
         "nickname": "Дана",
@@ -172,11 +178,5 @@
         "nickname": "johnybond32",
         "booksCount": 2,
         "updatedAt": "2019-03-04 06:05:33"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 106,
-        "updatedAt": "2019-03-03 20:08:03"
     }
 }
