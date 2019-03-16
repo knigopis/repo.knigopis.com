@@ -1,4 +1,16 @@
 {
+    "8OkFc0RHYr": {
+        "id": "8OkFc0RHYr",
+        "title": "Ведьмак",
+        "author": "Анджей Сапковский",
+        "notes": "Интересная серия книг в сеттинге темного фэнтези.\nМногогранные персонажи с правдоподобно прописанными характерами. Провисание под конец серии, самый существенный из немногочисленных минусов.",
+        "createdAt": "2019-03-16 15:18:03",
+        "user": {
+            "id": "144954219-vkontakte",
+            "nickname": "mangilyov",
+            "booksCount": 1
+        }
+    },
     "4x1yBAzOFG": {
         "id": "4x1yBAzOFG",
         "title": "С прискорбием извещаем",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 171
-        }
-    },
-    "hW0BlQwrEC": {
-        "id": "hW0BlQwrEC",
-        "title": "Слишком страшное оружие",
-        "author": "Айзек Азимов",
-        "notes": "",
-        "createdAt": "2019-03-09 14:23:38",
-        "user": {
-            "id": "461882414-vkontakte",
-            "nickname": "dfgfdgf365",
-            "booksCount": 1
         }
     }
 }

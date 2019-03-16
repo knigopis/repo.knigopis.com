@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mangilyov](users/144/144954219-vkontakte)<sup>0</sup> 
+[mangilyov](users/144/144954219-vkontakte)<sup>1</sup> 
 [Дана](users/104/104481210200104709566-google)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>214</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>50</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [johnybond32](users/304/304041461-yandex)<sup>2</sup> 
 
 
-_16.03.2019 15:11:53_
+_16.03.2019 15:18:03_
