@@ -1,4 +1,16 @@
 {
+    "C9UVFMABgq": {
+        "id": "C9UVFMABgq",
+        "title": "Сезон Гроз",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2019-03-16 09:55:42",
+        "user": {
+            "id": "695244810674916-facebook",
+            "nickname": "Eugene",
+            "booksCount": 19
+        }
+    },
     "CSLqmPz8sV": {
         "id": "CSLqmPz8sV",
         "title": "Горький конец",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 64
-        }
-    },
-    "kZ58niL1KX": {
-        "id": "kZ58niL1KX",
-        "title": "Потерянные девушки Рима",
-        "author": "Донато Кариззи",
-        "notes": "",
-        "createdAt": "2019-03-07 21:29:04",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 8
         }
     }
 }

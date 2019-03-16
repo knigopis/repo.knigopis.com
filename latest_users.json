@@ -1,4 +1,10 @@
 {
+    "695244810674916-facebook": {
+        "id": "695244810674916-facebook",
+        "nickname": "Eugene",
+        "booksCount": 19,
+        "updatedAt": "2019-03-16 09:55:42"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -118,12 +124,6 @@
         "nickname": "Таньчик",
         "booksCount": 8,
         "updatedAt": "2019-03-07 21:29:04"
-    },
-    "695244810674916-facebook": {
-        "id": "695244810674916-facebook",
-        "nickname": "Eugene",
-        "booksCount": 18,
-        "updatedAt": "2019-03-07 21:16:48"
     },
     "24345139-vkontakte": {
         "id": "24345139-vkontakte",
