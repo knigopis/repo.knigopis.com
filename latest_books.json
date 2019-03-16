@@ -1,4 +1,16 @@
 {
+    "tVjAuNbsg0": {
+        "id": "tVjAuNbsg0",
+        "title": "Сага о Видящих 2. Королевский убийца",
+        "author": "Робин Хобб",
+        "notes": "",
+        "createdAt": "2019-03-16 18:02:31",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 130
+        }
+    },
     "bvecBZ03NN": {
         "id": "bvecBZ03NN",
         "title": "Смертельная ловушка",
@@ -345,18 +357,6 @@
             "id": "461882414-vkontakte",
             "nickname": "dfgfdgf365",
             "booksCount": 2
-        }
-    },
-    "vhxWjOFjaq": {
-        "id": "vhxWjOFjaq",
-        "title": "The True Believer: Thoughts on the Nature of Mass Movements",
-        "author": "Eric Hoffer",
-        "notes": "ASIN: B003TO5838",
-        "createdAt": "2019-03-10 08:23:54",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 99
         }
     }
 }

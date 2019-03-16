@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>129</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>130</sup>
 ---
 
 ## 2019
+
+### Сага о Видящих 2. Королевский убийца
+Робин Хобб
+> [2019-03-16] 
+
 
 ### Ундина
 Фридрих де Ла Мотт Фуке
