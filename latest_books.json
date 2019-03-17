@@ -1,4 +1,16 @@
 {
+    "01o6iXva0p": {
+        "id": "01o6iXva0p",
+        "title": "ВОПРОС И ОТВЕТ",
+        "author": "Патрик Нэсс",
+        "notes": "",
+        "createdAt": "2019-03-17 10:29:32",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 66
+        }
+    },
     "aMcZZKmHMb": {
         "id": "aMcZZKmHMb",
         "title": "Вместо улики",
@@ -345,18 +357,6 @@
             "id": "107093389362314609212-googleplus",
             "nickname": "v2space",
             "booksCount": 1
-        }
-    },
-    "ZLjcnB7I5u": {
-        "id": "ZLjcnB7I5u",
-        "title": "Террариум",
-        "author": "Соломатин А.В.",
-        "notes": "",
-        "createdAt": "2019-03-11 19:06:41",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 11
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 66,
+        "updatedAt": "2019-03-17 10:29:32"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -82,12 +88,6 @@
         "nickname": "Svecha",
         "booksCount": 37,
         "updatedAt": "2019-03-14 10:33:46"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 65,
-        "updatedAt": "2019-03-13 08:44:50"
     },
     "63584582-yandex": {
         "id": "63584582-yandex",
