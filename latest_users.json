@@ -1,4 +1,10 @@
 {
+    "4090910004-instagram": {
+        "id": "4090910004-instagram",
+        "nickname": "irinamolchanova2009",
+        "booksCount": 0,
+        "updatedAt": "2019-03-17 05:24:18"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-03-05 20:14:16"
-    },
-    "102536471289425216982-google": {
-        "id": "102536471289425216982-google",
-        "nickname": "Окс",
-        "booksCount": 28,
-        "updatedAt": "2019-03-05 12:37:01"
     }
 }
