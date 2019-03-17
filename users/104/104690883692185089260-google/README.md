@@ -1,7 +1,12 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>217</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>218</sup>
 ---
 
 ## 2019
+
+### Умолкнувший оратор
+Рекс Стаут
+> [2019-03-17] 
+
 
 ### Вместо улики
 Рекс Стаут
