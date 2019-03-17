@@ -1,4 +1,16 @@
 {
+    "rG4wNB6N4E": {
+        "id": "rG4wNB6N4E",
+        "title": "Требуется мужчина",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2019-03-17 01:32:31",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 216
+        }
+    },
     "tVjAuNbsg0": {
         "id": "tVjAuNbsg0",
         "title": "Сага о Видящих 2. Королевский убийца",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 156
-        }
-    },
-    "xbqf3ObkVl": {
-        "id": "xbqf3ObkVl",
-        "title": "Sapiens - Краткая история человечества",
-        "author": "Юваль Ной Харари",
-        "notes": "",
-        "createdAt": "2019-03-10 10:06:46",
-        "user": {
-            "id": "461882414-vkontakte",
-            "nickname": "dfgfdgf365",
-            "booksCount": 2
         }
     }
 }
