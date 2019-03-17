@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>91</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>66</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>217</sup> 
 [irinamolchanova2009](users/409/4090910004-instagram)<sup>0</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Дана](users/104/104481210200104709566-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>50</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>19</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>90</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>158</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>110</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>37</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/283/283856668-yandex)<sup>0</sup> 
 
 
-_17.03.2019 10:29:32_
+_17.03.2019 14:02:55_
