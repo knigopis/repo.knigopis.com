@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>687</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>91</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>66</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>217</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ve_le_no](users/552/55208736-vkontakte)<sup>0</sup> 
 [m1kash](users/253/25313025-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>213</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>686</sup> 
 [Ира](users/153/153315674-vkontakte)<sup>0</sup> 
 [v2space](users/107/107093389362314609212-googleplus)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>11</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/283/283856668-yandex)<sup>0</sup> 
 
 
-_17.03.2019 14:02:55_
+_17.03.2019 16:47:09_

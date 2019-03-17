@@ -1,4 +1,16 @@
 {
+    "TtLFgXTcbe": {
+        "id": "TtLFgXTcbe",
+        "title": "Homo Deus: краткая история будущего",
+        "author": "Юваль Ной Харари",
+        "notes": "",
+        "createdAt": "2019-03-17 16:47:09",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 687
+        }
+    },
     "n6a3Opqc07": {
         "id": "n6a3Opqc07",
         "title": "Маленький лорд",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 213
-        }
-    },
-    "Cp7MhVo7HR": {
-        "id": "Cp7MhVo7HR",
-        "title": "Добрый мэр",
-        "author": "Эндрю Николл",
-        "notes": "",
-        "createdAt": "2019-03-12 21:45:21",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 686
         }
     }
 }
