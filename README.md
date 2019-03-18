@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>29</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>219</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>687</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>91</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>8</sup> 
 [boroda18](users/243/24345139-vkontakte)<sup>7</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>195</sup> 
-[](users/283/283856668-yandex)<sup>0</sup> 
 
 
-_17.03.2019 18:02:13_
+_18.03.2019 03:07:16_
