@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>159</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>29</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>219</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>687</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Дана](users/104/104481210200104709566-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>50</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>19</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>158</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>110</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>37</sup> 
 [dashulich2009](users/635/63584582-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>195</sup> 
 
 
-_18.03.2019 03:07:16_
+_18.03.2019 08:55:59_
