@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тринадцатая сказка ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup>
 * Непослушное дитя биосферы ~ [youno](users/302/302928912-vkontakte)<sup>21</sup>
 * Техасская страсть ~ [kissamasya](users/684/68439978-vkontakte)<sup>50</sup>
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>110</sup>
@@ -30,7 +31,6 @@
 * Автостопом по галактике ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup>
 * Чому нації занепадають. Походження влади, багатства та бізнесу. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>17</sup>
 * Сердце Змеи ~ [Garka](users/115/115753719718250012620-google)<sup>212</sup>
-* Туманность Андромеды ~ [Garka](users/115/115753719718250012620-google)<sup>211</sup>
 
 
-_17.03.2019 03:43:35_
+_18.03.2019 21:21:14_
