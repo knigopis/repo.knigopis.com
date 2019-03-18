@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>174</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>175</sup>
 ---
 
 ## 2019
@@ -15,6 +15,11 @@
 ### Полдень, XXII век
 Аркадий и Борис Стругацкие
 > [2019-03-04] 
+
+
+### Кров кожана
+Василь Шкляр
+> [2019-02-18] 
 
 
 ### Рассказы о Родине
