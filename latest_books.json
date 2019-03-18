@@ -1,4 +1,16 @@
 {
+    "61eEozFnqX": {
+        "id": "61eEozFnqX",
+        "title": "Лайфхакер. 55 светлых идей по улучшению себя и своей жизни",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-03-18 09:46:30",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 172
+        }
+    },
     "H0_IrJrCmm": {
         "id": "H0_IrJrCmm",
         "title": "Хамелеон",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 209
-        }
-    },
-    "H1g2JfC7iO": {
-        "id": "H1g2JfC7iO",
-        "title": "Фактотум",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2019-03-13 11:51:10",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 157
         }
     }
 }
