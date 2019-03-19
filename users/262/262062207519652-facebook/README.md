@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>2</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>3</sup>
 ---
 
 ## 2019
+
+### Декларация смерти
+Джемма Мэлли
+> [2019-03-14] Антиутопия с предсказуемым окончанием, на один раз.
+
 
 ### Как я теперь живу
 Мэг Рософф

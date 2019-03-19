@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Декларация смерти ~ [](users/262/262062207519652-facebook)<sup>3</sup>
 * Тринадцатая сказка ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup>
 * Непослушное дитя биосферы ~ [youno](users/302/302928912-vkontakte)<sup>21</sup>
 * Техасская страсть ~ [kissamasya](users/684/68439978-vkontakte)<sup>50</sup>
@@ -30,7 +31,6 @@
 * Счастливая Россия ~ [Chiffi](users/105/105831994080785626680-google)<sup>104</sup>
 * Автостопом по галактике ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup>
 * Чому нації занепадають. Походження влади, багатства та бізнесу. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>17</sup>
-* Сердце Змеи ~ [Garka](users/115/115753719718250012620-google)<sup>212</sup>
 
 
-_18.03.2019 21:21:14_
+_19.03.2019 22:47:43_

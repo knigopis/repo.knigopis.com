@@ -1,4 +1,16 @@
 {
+    "kGC6mblOYk": {
+        "id": "kGC6mblOYk",
+        "title": "Декларация смерти",
+        "author": "Джемма Мэлли",
+        "notes": "Антиутопия с предсказуемым окончанием, на один раз.",
+        "createdAt": "2019-03-19 22:47:43",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "_0D00akG3-": {
         "id": "_0D00akG3-",
         "title": "Оживший покойник",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 158
-        }
-    },
-    "Or8YA8ak1S": {
-        "id": "Or8YA8ak1S",
-        "title": "",
-        "author": "",
-        "notes": "https://rutlib5.com/book/28223",
-        "createdAt": "2019-03-15 05:32:36",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 110
         }
     }
 }

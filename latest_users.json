@@ -1,4 +1,10 @@
 {
+    "262062207519652-facebook": {
+        "id": "262062207519652-facebook",
+        "nickname": null,
+        "booksCount": 3,
+        "updatedAt": "2019-03-19 22:47:43"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "Таньчик",
         "booksCount": 8,
         "updatedAt": "2019-03-07 21:29:04"
-    },
-    "24345139-vkontakte": {
-        "id": "24345139-vkontakte",
-        "nickname": "boroda18",
-        "booksCount": 7,
-        "updatedAt": "2019-03-07 20:49:27"
     }
 }
