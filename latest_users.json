@@ -1,4 +1,10 @@
 {
+    "83788782-vkontakte": {
+        "id": "83788782-vkontakte",
+        "nickname": "Ангелина",
+        "booksCount": 56,
+        "updatedAt": "2019-03-20 12:51:20"
+    },
     "814211208673534-facebook": {
         "id": "814211208673534-facebook",
         "nickname": "Anna",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 11,
         "updatedAt": "2019-03-11 19:06:41"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 61,
-        "updatedAt": "2019-03-11 16:49:02"
     }
 }

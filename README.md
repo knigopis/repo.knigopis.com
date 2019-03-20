@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* О дивный новый мир ~ [Ангелина](users/837/83788782-vkontakte)<sup>56</sup>
+    > Слишком переоценёно, но в целом неплохо. Читалось медленно, но сейчас всё так читается. Всё это время читала немного, но просто не записывала.
+
 * Декларация смерти ~ [](users/262/262062207519652-facebook)<sup>3</sup>
     > Антиутопия с предсказуемым окончанием, на один раз.
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > "Кто-то повадился воровать клубнику..." с. 393-398
 
 * Непослушное дитя биосферы ~ [youno](users/302/302928912-vkontakte)<sup>21</sup>
-    > Отличная книга!
 
 * Техасская страсть ~ [kissamasya](users/684/68439978-vkontakte)<sup>50</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * The True Believer: Thoughts on the Nature of Mass Movements ~ [exulted](users/100/100599204551896265722-google)<sup>99</sup>
 
-* Тобол. Много званых ~ [exulted](users/100/100599204551896265722-google)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ангелина](users/837/83788782-vkontakte)<sup>56</sup> 
 [Anna](users/814/814211208673534-facebook)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>42</sup> 
 [](users/262/262062207519652-facebook)<sup>3</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ира](users/153/153315674-vkontakte)<sup>0</sup> 
 [v2space](users/107/107093389362314609212-googleplus)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>11</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>61</sup> 
 
 
-_20.03.2019 10:11:08_
+_20.03.2019 12:51:20_

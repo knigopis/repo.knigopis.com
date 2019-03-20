@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* О дивный новый мир ~ [Ангелина](users/837/83788782-vkontakte)<sup>56</sup>
 * Декларация смерти ~ [](users/262/262062207519652-facebook)<sup>3</sup>
 * Тринадцатая сказка ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup>
 * Непослушное дитя биосферы ~ [youno](users/302/302928912-vkontakte)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Черевиски Божьей Матери ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>18</sup>
 * Счастливая Россия ~ [Chiffi](users/105/105831994080785626680-google)<sup>104</sup>
 * Автостопом по галактике ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup>
-* Чому нації занепадають. Походження влади, багатства та бізнесу. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>17</sup>
 
 
-_19.03.2019 22:47:43_
+_20.03.2019 12:51:20_
