@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шум и ярость ~ [Ангелина](users/837/83788782-vkontakte)<sup>57</sup>
+    > читала, но с трудом помнится сюжет.
+
 * О дивный новый мир ~ [Ангелина](users/837/83788782-vkontakte)<sup>56</sup>
     > Слишком переоценёно, но в целом неплохо. Читалось медленно, но сейчас всё так читается. Всё это время читала немного, но просто не записывала.
 
@@ -12,10 +15,6 @@ Do not use pull requests to make changes here.
     > Антиутопия с предсказуемым окончанием, на один раз.
 
 * Тринадцатая сказка ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup>
-    > ISBN 978-5-389-07353-1
-    > "Тайны невозможно хранить в доме, где есть дети".
-    > "Я потянулась к столику за рецептом. Энергичным размашистым почерком на листке было написано: 'Сэр Артур Конан Дойль. Рассказы о Шерлоке Холмсе. По десять страниц дважды в день вплоть до окончания курса' ".
-    > "Кто-то повадился воровать клубнику..." с. 393-398
 
 * Непослушное дитя биосферы ~ [youno](users/302/302928912-vkontakte)<sup>21</sup>
 
@@ -29,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Час Быка ~ [Garka](users/115/115753719718250012620-google)<sup>213</sup>
 
-* The True Believer: Thoughts on the Nature of Mass Movements ~ [exulted](users/100/100599204551896265722-google)<sup>99</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ангелина](users/837/83788782-vkontakte)<sup>56</sup> 
+[Ангелина](users/837/83788782-vkontakte)<sup>57</sup> 
 [Anna](users/814/814211208673534-facebook)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>42</sup> 
 [](users/262/262062207519652-facebook)<sup>3</sup> 
@@ -68,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>11</sup> 
 
 
-_20.03.2019 12:51:20_
+_20.03.2019 13:01:54_

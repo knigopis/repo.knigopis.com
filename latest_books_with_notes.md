@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шум и ярость ~ [Ангелина](users/837/83788782-vkontakte)<sup>57</sup>
 * О дивный новый мир ~ [Ангелина](users/837/83788782-vkontakte)<sup>56</sup>
 * Декларация смерти ~ [](users/262/262062207519652-facebook)<sup>3</sup>
 * Тринадцатая сказка ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup>
@@ -30,7 +31,6 @@
 * Ігри, у які грають люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup>
 * Черевиски Божьей Матери ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>18</sup>
 * Счастливая Россия ~ [Chiffi](users/105/105831994080785626680-google)<sup>104</sup>
-* Автостопом по галактике ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>15</sup>
 
 
-_20.03.2019 12:51:20_
+_20.03.2019 13:01:54_

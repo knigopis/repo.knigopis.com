@@ -1,4 +1,16 @@
 {
+    "KB11hrWdf9": {
+        "id": "KB11hrWdf9",
+        "title": "Шум и ярость",
+        "author": "Уильям Фолкнер",
+        "notes": "читала, но с трудом помнится сюжет.",
+        "createdAt": "2019-03-20 13:01:54",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 57
+        }
+    },
     "t7lRko82Rs": {
         "id": "t7lRko82Rs",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 50
-        }
-    },
-    "C9UVFMABgq": {
-        "id": "C9UVFMABgq",
-        "title": "Сезон Гроз",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2019-03-16 09:55:42",
-        "user": {
-            "id": "695244810674916-facebook",
-            "nickname": "Eugene",
-            "booksCount": 19
         }
     }
 }
