@@ -1,4 +1,16 @@
 {
+    "0s1c7uY8gu": {
+        "id": "0s1c7uY8gu",
+        "title": "Путешествие души",
+        "author": "Майкл Ньютон",
+        "notes": "",
+        "createdAt": "2019-03-20 07:36:32",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 40
+        }
+    },
     "kGC6mblOYk": {
         "id": "kGC6mblOYk",
         "title": "Декларация смерти",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 90
-        }
-    },
-    "GiXEK0BddG": {
-        "id": "GiXEK0BddG",
-        "title": "Хаджи-Мурат",
-        "author": "Лев Толстой",
-        "notes": "",
-        "createdAt": "2019-03-15 09:14:28",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 158
         }
     }
 }
