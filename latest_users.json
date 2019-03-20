@@ -1,4 +1,10 @@
 {
+    "12282474-vkontakte": {
+        "id": "12282474-vkontakte",
+        "nickname": "Tr",
+        "booksCount": 71,
+        "updatedAt": "2019-03-20 17:02:36"
+    },
     "83788782-vkontakte": {
         "id": "83788782-vkontakte",
         "nickname": "Ангелина",
@@ -172,11 +178,5 @@
         "nickname": "v2space",
         "booksCount": 1,
         "updatedAt": "2019-03-12 14:28:34"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 11,
-        "updatedAt": "2019-03-11 19:06:41"
     }
 }

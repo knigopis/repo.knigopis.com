@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Игра кота 1-7 ~ [Tr](users/122/12282474-vkontakte)<sup>71</sup>
+    > Кот, 7 ключей, истинный огонь
+
 * Шум и ярость ~ [Ангелина](users/837/83788782-vkontakte)<sup>57</sup>
     > читала, но с трудом помнится сюжет.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Слишком переоценёно, но в целом неплохо. Читалось медленно, но сейчас всё так читается. Всё это время читала немного, но просто не записывала.
 
 * Декларация смерти ~ [](users/262/262062207519652-facebook)<sup>3</sup>
-    > Антиутопия с предсказуемым окончанием, на один раз.
 
 * Тринадцатая сказка ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 👹 Судные дни ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>65</sup>
 
-* Час Быка ~ [Garka](users/115/115753719718250012620-google)<sup>213</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>71</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>57</sup> 
 [Anna](users/814/814211208673534-facebook)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>42</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>213</sup> 
 [Ира](users/153/153315674-vkontakte)<sup>0</sup> 
 [v2space](users/107/107093389362314609212-googleplus)<sup>1</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>11</sup> 
 
 
-_20.03.2019 13:01:54_
+_20.03.2019 17:02:36_

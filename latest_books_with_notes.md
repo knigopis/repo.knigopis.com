@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Игра кота 1-7 ~ [Tr](users/122/12282474-vkontakte)<sup>71</sup>
 * Шум и ярость ~ [Ангелина](users/837/83788782-vkontakte)<sup>57</sup>
 * О дивный новый мир ~ [Ангелина](users/837/83788782-vkontakte)<sup>56</sup>
 * Декларация смерти ~ [](users/262/262062207519652-facebook)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Чужая Земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>105</sup>
 * Ігри, у які грають люди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>19</sup>
 * Черевиски Божьей Матери ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>18</sup>
-* Счастливая Россия ~ [Chiffi](users/105/105831994080785626680-google)<sup>104</sup>
 
 
-_20.03.2019 13:01:54_
+_20.03.2019 17:02:36_
