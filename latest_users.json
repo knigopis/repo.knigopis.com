@@ -1,4 +1,10 @@
 {
+    "104352857087990900583-google": {
+        "id": "104352857087990900583-google",
+        "nickname": "kate_keks",
+        "booksCount": 0,
+        "updatedAt": "2019-03-21 10:10:42"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Ира",
         "booksCount": 0,
         "updatedAt": "2019-03-12 20:14:46"
-    },
-    "107093389362314609212-googleplus": {
-        "id": "107093389362314609212-googleplus",
-        "nickname": "v2space",
-        "booksCount": 1,
-        "updatedAt": "2019-03-12 14:28:34"
     }
 }
