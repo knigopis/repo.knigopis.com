@@ -1,4 +1,10 @@
 {
+    "10201286419319569-facebook": {
+        "id": "10201286419319569-facebook",
+        "nickname": "dininha",
+        "booksCount": 0,
+        "updatedAt": "2019-03-21 14:40:31"
+    },
     "198290211-vkontakte": {
         "id": "198290211-vkontakte",
         "nickname": "naxer_sxodi",
@@ -172,11 +178,5 @@
         "nickname": "m1kash",
         "booksCount": 1,
         "updatedAt": "2019-03-13 07:55:56"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 213,
-        "updatedAt": "2019-03-13 07:41:48"
     }
 }
