@@ -1,4 +1,10 @@
 {
+    "198290211-vkontakte": {
+        "id": "198290211-vkontakte",
+        "nickname": "naxer_sxodi",
+        "booksCount": 0,
+        "updatedAt": "2019-03-21 12:30:47"
+    },
     "104352857087990900583-google": {
         "id": "104352857087990900583-google",
         "nickname": "kate_keks",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 213,
         "updatedAt": "2019-03-13 07:41:48"
-    },
-    "153315674-vkontakte": {
-        "id": "153315674-vkontakte",
-        "nickname": "Ира",
-        "booksCount": 0,
-        "updatedAt": "2019-03-12 20:14:46"
     }
 }
