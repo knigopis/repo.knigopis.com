@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dininha](users/102/10201286419319569-facebook)<sup>1</sup> 
+[dininha](users/102/10201286419319569-facebook)<sup>2</sup> 
 [naxer_sxodi](users/198/198290211-vkontakte)<sup>0</sup> 
 [kate_keks](users/104/104352857087990900583-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>688</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [m1kash](users/253/25313025-vkontakte)<sup>1</sup> 
 
 
-_21.03.2019 14:45:30_
+_21.03.2019 14:46:58_

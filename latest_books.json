@@ -1,4 +1,16 @@
 {
+    "QEkiqGlRBZ": {
+        "id": "QEkiqGlRBZ",
+        "title": "Шантарам",
+        "author": "Грегори Дэвид Робертс",
+        "notes": "Не впечатлил.",
+        "createdAt": "2019-03-21 14:46:58",
+        "user": {
+            "id": "10201286419319569-facebook",
+            "nickname": "dininha",
+            "booksCount": 2
+        }
+    },
     "kygpWO2IY9": {
         "id": "kygpWO2IY9",
         "title": "Алхмик",
@@ -345,18 +357,6 @@
             "id": "461882414-vkontakte",
             "nickname": "dfgfdgf365",
             "booksCount": 3
-        }
-    },
-    "8OkFc0RHYr": {
-        "id": "8OkFc0RHYr",
-        "title": "Ведьмак",
-        "author": "Анджей Сапковский",
-        "notes": "Интересная серия книг в сеттинге темного фэнтези.\nМногогранные персонажи с правдоподобно прописанными характерами. Провисание под конец серии, самый существенный из немногочисленных минусов.",
-        "createdAt": "2019-03-16 15:18:03",
-        "user": {
-            "id": "144954219-vkontakte",
-            "nickname": "mangilyov",
-            "booksCount": 1
         }
     }
 }
