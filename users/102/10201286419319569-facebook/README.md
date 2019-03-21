@@ -1,4 +1,4 @@
-# List of books read by [dininha](https://www.facebook.com/profile.php?id=10201286419319569)<sup>6</sup>
+# List of books read by [dininha](https://www.facebook.com/profile.php?id=10201286419319569)<sup>7</sup>
 ---
 
 ## 2019
@@ -19,6 +19,11 @@
 ### Шантарам
 Грегори Дэвид Робертс
 > [2018-09] Не впечатлил.
+
+
+### Хюгге, или Уютное счастье по-датски.
+Хелен Расселл
+> [2018-08] Нудновато и много воды.
 
 
 ### Наблюдая за англичанами
