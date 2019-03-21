@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[naxer_sxodi](users/198/198290211-vkontakte)<sup>0</sup> 
 [kate_keks](users/104/104352857087990900583-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>688</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>71</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ve_le_no](users/552/55208736-vkontakte)<sup>0</sup> 
 [m1kash](users/253/25313025-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>213</sup> 
-[Ира](users/153/153315674-vkontakte)<sup>0</sup> 
 
 
-_21.03.2019 10:10:44_
+_21.03.2019 12:30:49_
