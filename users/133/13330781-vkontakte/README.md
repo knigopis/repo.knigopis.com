@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>91</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>92</sup>
 ---
 
 ## 2019
+
+### Единственная дочь
+Снокстра Анна
+> [2019-03-21] 
+
 
 ### Маленький лорд
 Борген Юхан
