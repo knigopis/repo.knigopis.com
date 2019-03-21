@@ -1,4 +1,4 @@
-# List of books read by [dininha](https://www.facebook.com/profile.php?id=10201286419319569)<sup>5</sup>
+# List of books read by [dininha](https://www.facebook.com/profile.php?id=10201286419319569)<sup>6</sup>
 ---
 
 ## 2019
@@ -28,6 +28,11 @@
 
 
 ## 2017
+
+### Петр I
+Толстой А.Н.
+> [2017-11] Исторический роман о Петре и событиях той эпохи. Было интересно.
+
 
 ### Рассказы. Повести. Пьесы
 Чехов А.П.

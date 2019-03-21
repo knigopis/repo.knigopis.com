@@ -1,4 +1,16 @@
 {
+    "X80tHMCSW6": {
+        "id": "X80tHMCSW6",
+        "title": "Петр I",
+        "author": "Толстой А.Н.",
+        "notes": "Исторический роман о Петре и событиях той эпохи. Было интересно.",
+        "createdAt": "2019-03-21 15:05:16",
+        "user": {
+            "id": "10201286419319569-facebook",
+            "nickname": "dininha",
+            "booksCount": 6
+        }
+    },
     "Xu8f6-MCWy": {
         "id": "Xu8f6-MCWy",
         "title": "Рассказы. Повести. Пьесы",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 21
-        }
-    },
-    "rG4wNB6N4E": {
-        "id": "rG4wNB6N4E",
-        "title": "Требуется мужчина",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2019-03-17 01:32:31",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 216
         }
     }
 }
