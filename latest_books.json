@@ -1,4 +1,16 @@
 {
+    "GbyLByW0U7": {
+        "id": "GbyLByW0U7",
+        "title": "История Российского государства",
+        "author": "Акунин",
+        "notes": "",
+        "createdAt": "2019-03-21 15:13:50",
+        "user": {
+            "id": "10201286419319569-facebook",
+            "nickname": "dininha",
+            "booksCount": 8
+        }
+    },
     "yA_nAyhppc": {
         "id": "yA_nAyhppc",
         "title": "Хюгге, или Уютное счастье по-датски.",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 66
-        }
-    },
-    "aMcZZKmHMb": {
-        "id": "aMcZZKmHMb",
-        "title": "Вместо улики",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2019-03-17 06:16:50",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 217
         }
     }
 }
