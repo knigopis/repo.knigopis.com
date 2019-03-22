@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>92</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>93</sup>
 ---
 
 ## 2019
+
+### Белое на чёрном
+Гальего Рубен
+> [2019-03-22] 
+
 
 ### Единственная дочь
 Снокстра Анна
