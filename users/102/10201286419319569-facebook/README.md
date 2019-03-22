@@ -1,4 +1,4 @@
-# List of books read by [dininha](https://www.facebook.com/profile.php?id=10201286419319569)<sup>12</sup>
+# List of books read by [dininha](https://www.facebook.com/profile.php?id=10201286419319569)<sup>13</sup>
 ---
 
 ## 2019
@@ -70,6 +70,11 @@
 ### Пир
 Платон
 > [2016-11] 
+
+
+### Афоризмы житейской мудрости
+Шопенгауэр Артур
+> [2016-10] пока самый любимый из известных мне философов
 
 
 
