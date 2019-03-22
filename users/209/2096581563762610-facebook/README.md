@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>9</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>10</sup>
 ---
 
 ## 2019
+
+### Хорошие девочки не получают больших денег и хороших мужчин
+Карен Финерман
+> [2019-03-22] 
+
 
 ### Привычка жениться
 Сборник рассказов
