@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 9,
+        "updatedAt": "2019-03-22 17:49:46"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "ve_le_no",
         "booksCount": 0,
         "updatedAt": "2019-03-13 07:58:19"
-    },
-    "25313025-vkontakte": {
-        "id": "25313025-vkontakte",
-        "nickname": "m1kash",
-        "booksCount": 1,
-        "updatedAt": "2019-03-13 07:55:56"
     }
 }

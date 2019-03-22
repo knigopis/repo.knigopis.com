@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>9</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>67</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>51</sup> 
 [dininha](users/102/10201286419319569-facebook)<sup>10</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Svecha](users/118/118041836581529110049-google)<sup>37</sup> 
 [dashulich2009](users/635/63584582-yandex)<sup>0</sup> 
 [ve_le_no](users/552/55208736-vkontakte)<sup>0</sup> 
-[m1kash](users/253/25313025-vkontakte)<sup>1</sup> 
 
 
-_22.03.2019 16:14:36_
+_22.03.2019 17:49:46_
