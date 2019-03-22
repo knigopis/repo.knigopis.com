@@ -1,4 +1,4 @@
-# List of books read by [dininha](https://www.facebook.com/profile.php?id=10201286419319569)<sup>11</sup>
+# List of books read by [dininha](https://www.facebook.com/profile.php?id=10201286419319569)<sup>12</sup>
 ---
 
 ## 2019
@@ -61,6 +61,11 @@
 
 
 ## 2016
+
+### Царь Эдип
+Софокл
+> [2016-12] 
+
 
 ### Пир
 Платон
