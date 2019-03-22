@@ -1,4 +1,16 @@
 {
+    "-bSKI3qh9W": {
+        "id": "-bSKI3qh9W",
+        "title": "Тошнота",
+        "author": "Сартр Жан Поль",
+        "notes": "",
+        "createdAt": "2019-03-22 20:23:39",
+        "user": {
+            "id": "10201286419319569-facebook",
+            "nickname": "dininha",
+            "booksCount": 14
+        }
+    },
     "BMhWzXUofn": {
         "id": "BMhWzXUofn",
         "title": "Афоризмы житейской мудрости",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 17
-        }
-    },
-    "n86eWGu7V-": {
-        "id": "n86eWGu7V-",
-        "title": "Слишком много женщин",
-        "author": "Рекс Стаут",
-        "notes": "",
-        "createdAt": "2019-03-18 20:03:14",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 220
         }
     }
 }

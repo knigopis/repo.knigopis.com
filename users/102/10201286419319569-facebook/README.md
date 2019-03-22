@@ -1,4 +1,4 @@
-# List of books read by [dininha](https://www.facebook.com/profile.php?id=10201286419319569)<sup>13</sup>
+# List of books read by [dininha](https://www.facebook.com/profile.php?id=10201286419319569)<sup>14</sup>
 ---
 
 ## 2019
@@ -75,6 +75,11 @@
 ### Афоризмы житейской мудрости
 Шопенгауэр Артур
 > [2016-10] пока самый любимый из известных мне философов
+
+
+### Тошнота
+Сартр Жан Поль
+> [2016-09] 
 
 
 
