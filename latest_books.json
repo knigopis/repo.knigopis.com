@@ -1,4 +1,16 @@
 {
+    "go_rylhy5D": {
+        "id": "go_rylhy5D",
+        "title": "Пир",
+        "author": "Платон",
+        "notes": "",
+        "createdAt": "2019-03-22 20:12:20",
+        "user": {
+            "id": "10201286419319569-facebook",
+            "nickname": "dininha",
+            "booksCount": 11
+        }
+    },
     "vPObkQgXr7": {
         "id": "vPObkQgXr7",
         "title": "Белое на чёрном",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 174
-        }
-    },
-    "D2d1Dc2qqj": {
-        "id": "D2d1Dc2qqj",
-        "title": "Harry potter and the Сhamber of Secrets",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2019-03-18 10:34:55",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 173
         }
     }
 }
