@@ -1,4 +1,16 @@
 {
+    "Kv41pFl1Kr": {
+        "id": "Kv41pFl1Kr",
+        "title": "За гранью времён",
+        "author": "Лавкрафт Говард Филлипс",
+        "notes": "Стиль отличается от алхимика. Местами наивное фэнтези,но все же не плохо.",
+        "createdAt": "2019-03-22 06:12:25",
+        "user": {
+            "id": "10201286419319569-facebook",
+            "nickname": "dininha",
+            "booksCount": 10
+        }
+    },
     "SAH62hf1h_": {
         "id": "SAH62hf1h_",
         "title": "Единственная дочь",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 218
-        }
-    },
-    "TtLFgXTcbe": {
-        "id": "TtLFgXTcbe",
-        "title": "Homo Deus: краткая история будущего",
-        "author": "Юваль Ной Харари",
-        "notes": "",
-        "createdAt": "2019-03-17 16:47:09",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 687
         }
     }
 }
