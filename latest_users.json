@@ -1,4 +1,10 @@
 {
+    "102536471289425216982-google": {
+        "id": "102536471289425216982-google",
+        "nickname": "Окс",
+        "booksCount": 29,
+        "updatedAt": "2019-03-23 22:36:03"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -172,11 +178,5 @@
         "nickname": "Svecha",
         "booksCount": 37,
         "updatedAt": "2019-03-14 10:33:46"
-    },
-    "63584582-yandex": {
-        "id": "63584582-yandex",
-        "nickname": "dashulich2009",
-        "booksCount": 0,
-        "updatedAt": "2019-03-13 08:29:35"
     }
 }

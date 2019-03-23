@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>29</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>96</sup> 
 [LeronAsk](users/476/476920338-yandex)<sup>0</sup> 
 [dininha](users/102/10201286419319569-facebook)<sup>14</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eugene](users/695/695244810674916-facebook)<sup>19</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>110</sup> 
 [Svecha](users/118/118041836581529110049-google)<sup>37</sup> 
-[dashulich2009](users/635/63584582-yandex)<sup>0</sup> 
 
 
-_23.03.2019 18:32:48_
+_23.03.2019 22:36:03_
