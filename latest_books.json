@@ -1,4 +1,16 @@
 {
+    "sh0zaEHAdz": {
+        "id": "sh0zaEHAdz",
+        "title": "Пышечка",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-03-23 18:32:47",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 96
+        }
+    },
     "6BA7PB87TS": {
         "id": "6BA7PB87TS",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 40
-        }
-    },
-    "kGC6mblOYk": {
-        "id": "kGC6mblOYk",
-        "title": "Декларация смерти",
-        "author": "Джемма Мэлли",
-        "notes": "Антиутопия с предсказуемым окончанием, на один раз.",
-        "createdAt": "2019-03-19 22:47:43",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }
