@@ -1,4 +1,10 @@
 {
+    "476920338-yandex": {
+        "id": "476920338-yandex",
+        "nickname": "LeronAsk",
+        "booksCount": 0,
+        "updatedAt": "2019-03-23 07:22:40"
+    },
     "10201286419319569-facebook": {
         "id": "10201286419319569-facebook",
         "nickname": "dininha",
@@ -172,11 +178,5 @@
         "nickname": "dashulich2009",
         "booksCount": 0,
         "updatedAt": "2019-03-13 08:29:35"
-    },
-    "55208736-vkontakte": {
-        "id": "55208736-vkontakte",
-        "nickname": "ve_le_no",
-        "booksCount": 0,
-        "updatedAt": "2019-03-13 07:58:19"
     }
 }
