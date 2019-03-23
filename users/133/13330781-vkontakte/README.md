@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>94</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>95</sup>
 ---
 
 ## 2019
+
+### Старик и море
+Хемингуэй Эрнест
+> [2019-03-23] 
+
 
 ### Дневник дебильного кота
 Жуффа Сюзи, Пуйе Фредерик
