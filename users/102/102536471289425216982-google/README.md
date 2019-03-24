@@ -1,4 +1,4 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>30</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>31</sup>
 ---
 
 ## 2019
@@ -98,6 +98,11 @@ BARBERY Muriel
 
 
 ## 2017
+
+### Королёк - птичка певчая
+ГЮНТЕКИН Решат Нури
+> [2017-02] 
+
 
 ### Слушайте свое тело, вашего лучшего друга на Земле
 БУРБО Лиз
