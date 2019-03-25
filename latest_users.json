@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 689,
+        "updatedAt": "2019-03-25 05:55:39"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -58,12 +64,6 @@
         "nickname": "kate_keks",
         "booksCount": 0,
         "updatedAt": "2019-03-21 10:10:42"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 688,
-        "updatedAt": "2019-03-21 09:26:31"
     },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",
