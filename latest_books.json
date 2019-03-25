@@ -1,4 +1,16 @@
 {
+    "BE6d347HR5": {
+        "id": "BE6d347HR5",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2019-03-25 17:50:37",
+        "user": {
+            "id": "521873425-vkontakte",
+            "nickname": "Lecowi",
+            "booksCount": 10
+        }
+    },
     "AnYaNKpbPg": {
         "id": "AnYaNKpbPg",
         "title": "Артемис Фаул",
@@ -345,18 +357,6 @@
             "id": "10201286419319569-facebook",
             "nickname": "dininha",
             "booksCount": 1
-        }
-    },
-    "Q5zt4ACvda": {
-        "id": "Q5zt4ACvda",
-        "title": "Нулевой номер",
-        "author": "Умберто Эко",
-        "notes": "",
-        "createdAt": "2019-03-21 09:26:31",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 688
         }
     }
 }

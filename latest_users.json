@@ -1,4 +1,10 @@
 {
+    "521873425-vkontakte": {
+        "id": "521873425-vkontakte",
+        "nickname": "Lecowi",
+        "booksCount": 10,
+        "updatedAt": "2019-03-25 17:50:37"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "mangilyov",
         "booksCount": 1,
         "updatedAt": "2019-03-16 15:18:03"
-    },
-    "104481210200104709566-google": {
-        "id": "104481210200104709566-google",
-        "nickname": "Дана",
-        "booksCount": 0,
-        "updatedAt": "2019-03-16 15:01:27"
     }
 }
