@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Maria](users/109/109518477210427634221-google)<sup>0</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>10</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>131</sup> 
 [zxcvbnz](users/131/1319458480-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>21</sup> 
 [тык](users/219/2196527137344058-facebook)<sup>0</sup> 
 [dfgfdgf365](users/461/461882414-vkontakte)<sup>3</sup> 
-[mangilyov](users/144/144954219-vkontakte)<sup>1</sup> 
 
 
-_25.03.2019 17:50:37_
+_25.03.2019 18:56:25_
