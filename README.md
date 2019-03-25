@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zxcvbnz](users/131/1319458480-facebook)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>65</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>689</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>31</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dfgfdgf365](users/461/461882414-vkontakte)<sup>3</sup> 
 [mangilyov](users/144/144954219-vkontakte)<sup>1</sup> 
 [Дана](users/104/104481210200104709566-google)<sup>0</sup> 
-[Eugene](users/695/695244810674916-facebook)<sup>19</sup> 
 
 
-_25.03.2019 09:36:48_
+_25.03.2019 12:12:04_
