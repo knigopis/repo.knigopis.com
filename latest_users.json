@@ -1,4 +1,10 @@
 {
+    "109518477210427634221-google": {
+        "id": "109518477210427634221-google",
+        "nickname": "Maria",
+        "booksCount": 0,
+        "updatedAt": "2019-03-25 18:56:22"
+    },
     "521873425-vkontakte": {
         "id": "521873425-vkontakte",
         "nickname": "Lecowi",
@@ -172,11 +178,5 @@
         "nickname": "dfgfdgf365",
         "booksCount": 3,
         "updatedAt": "2019-03-16 15:25:04"
-    },
-    "144954219-vkontakte": {
-        "id": "144954219-vkontakte",
-        "nickname": "mangilyov",
-        "booksCount": 1,
-        "updatedAt": "2019-03-16 15:18:03"
     }
 }
