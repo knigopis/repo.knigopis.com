@@ -1,4 +1,10 @@
 {
+    "1319458480-facebook": {
+        "id": "1319458480-facebook",
+        "nickname": "zxcvbnz",
+        "booksCount": 0,
+        "updatedAt": "2019-03-25 12:12:02"
+    },
     "106304994652616315178-google": {
         "id": "106304994652616315178-google",
         "nickname": "Euphoria",
@@ -172,11 +178,5 @@
         "nickname": "Дана",
         "booksCount": 0,
         "updatedAt": "2019-03-16 15:01:27"
-    },
-    "695244810674916-facebook": {
-        "id": "695244810674916-facebook",
-        "nickname": "Eugene",
-        "booksCount": 19,
-        "updatedAt": "2019-03-16 09:55:42"
     }
 }
