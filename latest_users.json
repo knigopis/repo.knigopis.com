@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 690,
+        "updatedAt": "2019-03-26 07:53:36"
+    },
     "181937782-vkontakte": {
         "id": "181937782-vkontakte",
         "nickname": "Анна Зимина ",
@@ -34,12 +40,6 @@
         "nickname": "Euphoria",
         "booksCount": 65,
         "updatedAt": "2019-03-25 09:36:48"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 689,
-        "updatedAt": "2019-03-25 05:55:39"
     },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
