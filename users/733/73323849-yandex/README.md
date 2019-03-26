@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>54</sup>
+# List of books read by inna.besprozvannykh<sup>55</sup>
 ---
 
 ## 2019
+
+### Новая земля
+Экхарт Толле
+> [2019-03-25] 
+
 
 ### О мышах и людях
 Джон Стейнбек
