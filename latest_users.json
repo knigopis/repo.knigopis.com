@@ -1,4 +1,10 @@
 {
+    "185991558-yandex": {
+        "id": "185991558-yandex",
+        "nickname": "igor.dobryninsky",
+        "booksCount": 0,
+        "updatedAt": "2019-03-26 10:40:03"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 21,
         "updatedAt": "2019-03-17 03:43:35"
-    },
-    "2196527137344058-facebook": {
-        "id": "2196527137344058-facebook",
-        "nickname": "тык",
-        "booksCount": 0,
-        "updatedAt": "2019-03-16 17:19:37"
     }
 }
