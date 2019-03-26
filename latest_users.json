@@ -1,4 +1,10 @@
 {
+    "181937782-vkontakte": {
+        "id": "181937782-vkontakte",
+        "nickname": "Анна Зимина ",
+        "booksCount": 0,
+        "updatedAt": "2019-03-26 06:10:08"
+    },
     "109518477210427634221-google": {
         "id": "109518477210427634221-google",
         "nickname": "Maria",
@@ -172,11 +178,5 @@
         "nickname": "тык",
         "booksCount": 0,
         "updatedAt": "2019-03-16 17:19:37"
-    },
-    "461882414-vkontakte": {
-        "id": "461882414-vkontakte",
-        "nickname": "dfgfdgf365",
-        "booksCount": 3,
-        "updatedAt": "2019-03-16 15:25:04"
     }
 }
