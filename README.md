@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>97</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>55</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>68</sup> 
 [igor.dobryninsky](users/185/185991558-yandex)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>65</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>31</sup> 
 [000](users/222/2227528524173849-facebook)<sup>0</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>96</sup> 
 [LeronAsk](users/476/476920338-yandex)<sup>0</sup> 
 [dininha](users/102/10201286419319569-facebook)<sup>14</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [irinamolchanova2009](users/409/4090910004-instagram)<sup>0</sup> 
 
 
-_26.03.2019 12:38:34_
+_26.03.2019 18:35:29_

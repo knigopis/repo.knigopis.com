@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>96</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>97</sup>
 ---
 
 ## 2019
+
+### Дворец для сероглазого принца
+Тронина Татьяна
+> [2019-03-26] 
+
 
 ### Пышечка
 > [2019-03-23] 

@@ -1,4 +1,16 @@
 {
+    "h4FF3oftTL": {
+        "id": "h4FF3oftTL",
+        "title": "Дворец для сероглазого принца",
+        "author": "Тронина Татьяна",
+        "notes": "",
+        "createdAt": "2019-03-26 18:35:29",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 97
+        }
+    },
     "tlDhQLtL-d": {
         "id": "tlDhQLtL-d",
         "title": "Новая земля",
@@ -345,18 +357,6 @@
             "id": "10201286419319569-facebook",
             "nickname": "dininha",
             "booksCount": 5
-        }
-    },
-    "e4cSk_6lN2": {
-        "id": "e4cSk_6lN2",
-        "title": "Sapiens: Краткая история человечества",
-        "author": "Харари Юваль Ной",
-        "notes": "При чтении постоянное ощущение что все это уже было описано ранее в других источниках. Практически ничего нового не удалось почерпнуть.",
-        "createdAt": "2019-03-21 14:58:36",
-        "user": {
-            "id": "10201286419319569-facebook",
-            "nickname": "dininha",
-            "booksCount": 4
         }
     }
 }
