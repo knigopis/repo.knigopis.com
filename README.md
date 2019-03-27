@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>691</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>133</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>97</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>55</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>68</sup> 
 [igor.dobryninsky](users/185/185991558-yandex)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>690</sup> 
 [Анна Зимина ](users/181/181937782-vkontakte)<sup>0</sup> 
 [Maria](users/109/109518477210427634221-google)<sup>0</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>29</sup> 
 
 
-_27.03.2019 07:14:03_
+_27.03.2019 07:41:59_
