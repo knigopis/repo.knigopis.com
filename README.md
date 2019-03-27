@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>693</sup> 
 [Anastasia](users/197/197404441-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>692</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>133</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>97</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>55</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>159</sup> 
 
 
-_27.03.2019 08:59:21_
+_27.03.2019 12:12:33_
