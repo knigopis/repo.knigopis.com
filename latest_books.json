@@ -1,4 +1,16 @@
 {
+    "PXUoQlzdmH": {
+        "id": "PXUoQlzdmH",
+        "title": "Правая кисть",
+        "author": "Александр Солженицын",
+        "notes": "",
+        "createdAt": "2019-03-27 08:53:34",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 692
+        }
+    },
     "BCacOirqPm": {
         "id": "BCacOirqPm",
         "title": "Мэр Кэстербриджа",
@@ -345,18 +357,6 @@
             "id": "10201286419319569-facebook",
             "nickname": "dininha",
             "booksCount": 9
-        }
-    },
-    "GbyLByW0U7": {
-        "id": "GbyLByW0U7",
-        "title": "История Российского государства",
-        "author": "Акунин",
-        "notes": "",
-        "createdAt": "2019-03-21 15:13:50",
-        "user": {
-            "id": "10201286419319569-facebook",
-            "nickname": "dininha",
-            "booksCount": 8
         }
     }
 }
