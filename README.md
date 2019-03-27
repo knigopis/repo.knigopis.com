@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Anastasia](users/197/197404441-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>692</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>133</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>97</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>175</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>159</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>29</sup> 
 
 
-_27.03.2019 08:53:35_
+_27.03.2019 08:59:21_
