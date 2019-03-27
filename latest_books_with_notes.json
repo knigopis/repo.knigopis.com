@@ -1,4 +1,16 @@
 {
+    "ksIb3v8H1r": {
+        "id": "ksIb3v8H1r",
+        "title": "Раны заживают медленно. Записки штабного офицера",
+        "author": "Толконюк Илларион",
+        "notes": "ISBN: 978-5-227-07501-7",
+        "createdAt": "2019-03-27 14:45:07",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 100
+        }
+    },
     "h0lvgWtxzS": {
         "id": "h0lvgWtxzS",
         "title": "Ботагоз",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 105
-        }
-    },
-    "cQvuePUxNd": {
-        "id": "cQvuePUxNd",
-        "title": "Ігри, у які грають люди",
-        "author": "Ерік Берн",
-        "notes": "5/10 Книга більше розрахована на професійних психологів. Треба заглиблюватись в аналіз.",
-        "createdAt": "2019-03-01 22:14:21",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 19
         }
     }
 }

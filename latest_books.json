@@ -1,4 +1,16 @@
 {
+    "ksIb3v8H1r": {
+        "id": "ksIb3v8H1r",
+        "title": "Раны заживают медленно. Записки штабного офицера",
+        "author": "Толконюк Илларион",
+        "notes": "ISBN: 978-5-227-07501-7",
+        "createdAt": "2019-03-27 14:45:07",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 100
+        }
+    },
     "vTz8J9q0O0": {
         "id": "vTz8J9q0O0",
         "title": "Захар-калита",
@@ -345,18 +357,6 @@
             "id": "10201286419319569-facebook",
             "nickname": "dininha",
             "booksCount": 10
-        }
-    },
-    "SAH62hf1h_": {
-        "id": "SAH62hf1h_",
-        "title": "Единственная дочь",
-        "author": "Снокстра Анна",
-        "notes": "",
-        "createdAt": "2019-03-21 18:58:03",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 92
         }
     }
 }

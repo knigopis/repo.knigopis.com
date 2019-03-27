@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Раны заживают медленно. Записки штабного офицера ~ [exulted](users/100/100599204551896265722-google)<sup>100</sup>
+    > ISBN: 978-5-227-07501-7
+
 * Ботагоз ~ [Euphoria](users/106/106304994652616315178-google)<sup>65</sup>
     > Хорошая книга,  читается в целом легко, но по некоторым причинам читала ее целый год.  История казахского народа,  происходящих изменениях и революции, начинающаяся с казахской семьи, в которой росла Ботагоз
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Кот, 7 ключей, истинный огонь
 
 * Шум и ярость ~ [Ангелина](users/837/83788782-vkontakte)<sup>57</sup>
-    > читала, но с трудом помнится сюжет.
 
 * О дивный новый мир ~ [Ангелина](users/837/83788782-vkontakte)<sup>56</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Chiffi](users/105/105831994080785626680-google)<sup>110</sup>
 
-* Глодные игры ~ [kissamasya](users/684/68439978-vkontakte)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>100</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>693</sup> 
 [Anastasia](users/197/197404441-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>133</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>221</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>175</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>159</sup> 
 
 
-_27.03.2019 12:12:33_
+_27.03.2019 14:45:07_
