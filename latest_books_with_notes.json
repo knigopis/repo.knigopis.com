@@ -1,4 +1,16 @@
 {
+    "5nm5G_3wc7": {
+        "id": "5nm5G_3wc7",
+        "title": "A Game for Assassins (The Redaction Chronicles Book 1)",
+        "author": "James Quinn",
+        "notes": "ASIN: B00VQORC0K",
+        "createdAt": "2019-03-27 15:57:33",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 101
+        }
+    },
     "ksIb3v8H1r": {
         "id": "ksIb3v8H1r",
         "title": "Раны заживают медленно. Записки штабного офицера",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 57
-        }
-    },
-    "DUozpRtMbo": {
-        "id": "DUozpRtMbo",
-        "title": "Чужая Земля",
-        "author": "Дивов Олег",
-        "notes": "Сначала они нарисуют границы на картах,  потом у нас в головах и душах.",
-        "createdAt": "2019-03-02 05:39:27",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 105
         }
     }
 }

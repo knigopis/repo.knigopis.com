@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>100</sup>
+# Список прочитанных книг пользователя exulted<sup>101</sup>
 ---
 
 ## 2019
+
+### A Game for Assassins (The Redaction Chronicles Book 1)
+James Quinn
+> [2019-03-27] ASIN: B00VQORC0K
+
 
 ### Раны заживают медленно. Записки штабного офицера
 Толконюк Илларион

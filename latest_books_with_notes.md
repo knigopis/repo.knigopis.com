@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* A Game for Assassins (The Redaction Chronicles Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>101</sup>
 * Раны заживают медленно. Записки штабного офицера ~ [exulted](users/100/100599204551896265722-google)<sup>100</sup>
 * Ботагоз ~ [Euphoria](users/106/106304994652616315178-google)<sup>65</sup>
 * Игра кота 1-7 ~ [Tr](users/122/12282474-vkontakte)<sup>71</sup>
@@ -30,7 +31,6 @@
 * Серый ворон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>69</sup>
 * Ваши письма я храню под матрасом ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup>
 * The adventures of Sherlock Holmes ~ [violet_velva](users/116/116961712580551399099-google)<sup>57</sup>
-* Чужая Земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>105</sup>
 
 
-_27.03.2019 14:45:07_
+_27.03.2019 15:57:33_

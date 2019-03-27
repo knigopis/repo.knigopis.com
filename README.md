@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* A Game for Assassins (The Redaction Chronicles Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>101</sup>
+    > ASIN: B00VQORC0K
+
 * Раны заживают медленно. Записки штабного офицера ~ [exulted](users/100/100599204551896265722-google)<sup>100</sup>
     > ISBN: 978-5-227-07501-7
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хорошая книга,  читается в целом легко, но по некоторым причинам читала ее целый год.  История казахского народа,  происходящих изменениях и революции, начинающаяся с казахской семьи, в которой росла Ботагоз
 
 * Игра кота 1-7 ~ [Tr](users/122/12282474-vkontakte)<sup>71</sup>
-    > Кот, 7 ключей, истинный огонь
 
 * Шум и ярость ~ [Ангелина](users/837/83788782-vkontakte)<sup>57</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Техасская страсть ~ [kissamasya](users/684/68439978-vkontakte)<sup>50</sup>
 
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>110</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>100</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>101</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>693</sup> 
 [Anastasia](users/197/197404441-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>133</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>175</sup> 
 
 
-_27.03.2019 14:45:07_
+_27.03.2019 15:57:33_
