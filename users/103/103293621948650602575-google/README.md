@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>132</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>133</sup>
 ---
 
 ## 2019
@@ -342,6 +342,10 @@ Blake Pierce
 
 
 ## 2014
+
+### Новый голод
+Айзек Марион
+
 
 ### Тепло наших тел
 Айзек Марион
