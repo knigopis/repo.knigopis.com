@@ -1,4 +1,16 @@
 {
+    "CqPkCpwrd6": {
+        "id": "CqPkCpwrd6",
+        "title": "Мечтают ли андроиды об электроовцах?",
+        "author": "Филип К. Дик",
+        "notes": "ISBN 978-5-699-90756-4\n\"Паучий труп трубит победу\" с. 306\n\"Но ты должен перестать искать меня, потому что я никогда не перестану искать тебя\" с. 309",
+        "createdAt": "2019-03-27 19:14:47",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 18
+        }
+    },
     "5nm5G_3wc7": {
         "id": "5nm5G_3wc7",
         "title": "A Game for Assassins (The Redaction Chronicles Book 1)",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 16
-        }
-    },
-    "tuRRXjewnP": {
-        "id": "tuRRXjewnP",
-        "title": "The adventures of Sherlock Holmes",
-        "author": "Arthur Conan Doyle",
-        "notes": "1 A scandal in Bohemia\n2 The red-headed league \n3 A case of identity\n4 The Boscombe Valley Mystery \n5 The five orange pips \n6 The man with the twisted lip \n7 The adventure of the blue carbuncle\n8 The adventure of the specked band\n9 The adventure of the engineer's thumb \n10 The adventure of the noble bachelor\n11 The adventure of the Beryl Coronet \n12 The adventure of the Copper Beeches",
-        "createdAt": "2019-03-03 08:45:01",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 57
         }
     }
 }

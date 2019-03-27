@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мечтают ли андроиды об электроовцах? ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup>
+    > ISBN 978-5-699-90756-4
+    > "Паучий труп трубит победу" с. 306
+    > "Но ты должен перестать искать меня, потому что я никогда не перестану искать тебя" с. 309
+
 * A Game for Assassins (The Redaction Chronicles Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>101</sup>
     > ASIN: B00VQORC0K
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-227-07501-7
 
 * Ботагоз ~ [Euphoria](users/106/106304994652616315178-google)<sup>65</sup>
-    > Хорошая книга,  читается в целом легко, но по некоторым причинам читала ее целый год.  История казахского народа,  происходящих изменениях и революции, начинающаяся с казахской семьи, в которой росла Ботагоз
 
 * Игра кота 1-7 ~ [Tr](users/122/12282474-vkontakte)<sup>71</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Непослушное дитя биосферы ~ [youno](users/302/302928912-vkontakte)<sup>21</sup>
 
-* Техасская страсть ~ [kissamasya](users/684/68439978-vkontakte)<sup>50</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>101</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>693</sup> 
 [Anastasia](users/197/197404441-vkontakte)<sup>0</sup> 
@@ -61,8 +64,7 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>42</sup> 
 [](users/262/262062207519652-facebook)<sup>3</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>221</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>175</sup> 
 
 
-_27.03.2019 15:57:33_
+_27.03.2019 19:14:47_
