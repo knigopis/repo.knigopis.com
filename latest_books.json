@@ -1,4 +1,16 @@
 {
+    "j52MllbSfr": {
+        "id": "j52MllbSfr",
+        "title": "Кровные сестры",
+        "author": "Джейн Корри",
+        "notes": "",
+        "createdAt": "2019-03-28 20:17:52",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 11
+        }
+    },
     "QIDmT66Qff": {
         "id": "QIDmT66Qff",
         "title": "Мелкие боги",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 93
-        }
-    },
-    "kOnxxSRxH3": {
-        "id": "kOnxxSRxH3",
-        "title": "Хорошие девочки не получают больших денег и хороших мужчин",
-        "author": "Карен Финерман",
-        "notes": "",
-        "createdAt": "2019-03-22 17:50:54",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 10
         }
     }
 }

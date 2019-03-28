@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>11</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>214</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>27</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [000](users/222/2227528524173849-facebook)<sup>0</sup> 
 [LeronAsk](users/476/476920338-yandex)<sup>0</sup> 
 [dininha](users/102/10201286419319569-facebook)<sup>14</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>10</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>51</sup> 
 [naxer_sxodi](users/198/198290211-vkontakte)<sup>0</sup> 
 [kate_keks](users/104/104352857087990900583-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/262/262062207519652-facebook)<sup>3</sup> 
 
 
-_28.03.2019 17:24:27_
+_28.03.2019 20:17:52_
