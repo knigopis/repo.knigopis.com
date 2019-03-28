@@ -1,4 +1,16 @@
 {
+    "QIDmT66Qff": {
+        "id": "QIDmT66Qff",
+        "title": "Мелкие боги",
+        "author": "Пратчетт, Терри",
+        "notes": "Шикарная сатира на религию, пророков и т.д.",
+        "createdAt": "2019-03-28 17:24:27",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 214
+        }
+    },
     "cye2OwMV86": {
         "id": "cye2OwMV86",
         "title": "Братья карамазовы",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 10
-        }
-    },
-    "lYUqczshdl": {
-        "id": "lYUqczshdl",
-        "title": "Привычка жениться",
-        "author": "Сборник рассказов",
-        "notes": "",
-        "createdAt": "2019-03-22 17:49:46",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 9
         }
     }
 }

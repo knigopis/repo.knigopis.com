@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мелкие боги ~ [Garka](users/115/115753719718250012620-google)<sup>214</sup>
+    > Шикарная сатира на религию, пророков и т.д.
+
 * Братья карамазовы ~ [Quaff](users/122/12267158-vkontakte)<sup>27</sup>
     > Высосанная из пальца история про ложное обвинение, но уж очень хорошо написано!
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > "Но ты должен перестать искать меня, потому что я никогда не перестану искать тебя" с. 309
 
 * A Game for Assassins (The Redaction Chronicles Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>101</sup>
-    > ASIN: B00VQORC0K
 
 * Раны заживают медленно. Записки штабного офицера ~ [exulted](users/100/100599204551896265722-google)<sup>100</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Декларация смерти ~ [](users/262/262062207519652-facebook)<sup>3</sup>
 
-* Тринадцатая сказка ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>214</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>27</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>101</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Anna](users/814/814211208673534-facebook)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>42</sup> 
 [](users/262/262062207519652-facebook)<sup>3</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>221</sup> 
 
 
-_28.03.2019 17:15:59_
+_28.03.2019 17:24:27_

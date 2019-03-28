@@ -1,4 +1,16 @@
 {
+    "QIDmT66Qff": {
+        "id": "QIDmT66Qff",
+        "title": "Мелкие боги",
+        "author": "Пратчетт, Терри",
+        "notes": "Шикарная сатира на религию, пророков и т.д.",
+        "createdAt": "2019-03-28 17:24:27",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 214
+        }
+    },
     "cye2OwMV86": {
         "id": "cye2OwMV86",
         "title": "Братья карамазовы",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 70
-        }
-    },
-    "DxmTcmbMIW": {
-        "id": "DxmTcmbMIW",
-        "title": "Серый ворон 1-4",
-        "author": "Михаил Атаманов",
-        "notes": "Серый ворон, Пузырь, Фея, Каришка, Камилетта, гильдия воров, Эрафия",
-        "createdAt": "2019-03-03 15:15:46",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 69
         }
     }
 }
