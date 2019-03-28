@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Братья карамазовы ~ [Quaff](users/122/12267158-vkontakte)<sup>27</sup>
+    > Высосанная из пальца история про ложное обвинение, но уж очень хорошо написано!
+
 * Мечтают ли андроиды об электроовцах? ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup>
     > ISBN 978-5-699-90756-4
     > "Паучий труп трубит победу" с. 306
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > ASIN: B00VQORC0K
 
 * Раны заживают медленно. Записки штабного офицера ~ [exulted](users/100/100599204551896265722-google)<sup>100</sup>
-    > ISBN: 978-5-227-07501-7
 
 * Ботагоз ~ [Euphoria](users/106/106304994652616315178-google)<sup>65</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Тринадцатая сказка ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup>
 
-* Непослушное дитя биосферы ~ [youno](users/302/302928912-vkontakte)<sup>21</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>27</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>101</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>693</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>42</sup> 
 [](users/262/262062207519652-facebook)<sup>3</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>221</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>175</sup> 
 
 
-_27.03.2019 19:14:47_
+_28.03.2019 17:15:59_

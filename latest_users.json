@@ -1,4 +1,10 @@
 {
+    "12267158-vkontakte": {
+        "id": "12267158-vkontakte",
+        "nickname": "Quaff",
+        "booksCount": 27,
+        "updatedAt": "2019-03-28 17:15:59"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": "Йолант",
         "booksCount": 221,
         "updatedAt": "2019-03-18 21:42:17"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 175,
-        "updatedAt": "2019-03-18 10:38:25"
     }
 }

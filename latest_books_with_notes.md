@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Братья карамазовы ~ [Quaff](users/122/12267158-vkontakte)<sup>27</sup>
 * Мечтают ли андроиды об электроовцах? ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup>
 * A Game for Assassins (The Redaction Chronicles Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>101</sup>
 * Раны заживают медленно. Записки штабного офицера ~ [exulted](users/100/100599204551896265722-google)<sup>100</sup>
@@ -30,7 +31,6 @@
 * Пена дней ~ [Apprentice ](users/528/52821952-vkontakte)<sup>106</sup>
 * Искажающие реальность ~ [Tr](users/122/12282474-vkontakte)<sup>70</sup>
 * Серый ворон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>69</sup>
-* Ваши письма я храню под матрасом ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>16</sup>
 
 
-_27.03.2019 19:14:47_
+_28.03.2019 17:15:59_
