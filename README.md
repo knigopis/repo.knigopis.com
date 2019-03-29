@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убийство на пляже ~ [kissamasya](users/684/68439978-vkontakte)<sup>52</sup>
+    > В небольшом городке исчез одиннадцатилетний Дэнни. Спустя сутки его тело нашли на берегу моря...Детективы Алек Харди и Элли Миллер намерены вычислить убийцу. Один за другим под подозрение попадают добропорядочные горожане, среди которых викарий, владелец магазина и даже отец мальчика! Оказывается, что у каждого из них есть свой скелет в шкафу. Но когда тайна перестанет быть тайной, городок содрогнется...
+
 * Билет на балкон ~ [Chiffi](users/105/105831994080785626680-google)<sup>111</sup>
     > Очень красивый язык, трогательные персонажи, но мне не понравился Глорский. в последнее время не люблю таких "легких" людей
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Шикарная сатира на религию, пророков и т.д.
 
 * Братья карамазовы ~ [Quaff](users/122/12267158-vkontakte)<sup>27</sup>
-    > Высосанная из пальца история про ложное обвинение, но уж очень хорошо написано!
 
 * Мечтают ли андроиды об электроовцах? ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Шум и ярость ~ [Ангелина](users/837/83788782-vkontakte)<sup>57</sup>
 
-* О дивный новый мир ~ [Ангелина](users/837/83788782-vkontakte)<sup>56</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>52</sup> 
 [El_chico](users/103/103517499148226684110-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>111</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>25</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [000](users/222/2227528524173849-facebook)<sup>0</sup> 
 [LeronAsk](users/476/476920338-yandex)<sup>0</sup> 
 [dininha](users/102/10201286419319569-facebook)<sup>14</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>51</sup> 
 [naxer_sxodi](users/198/198290211-vkontakte)<sup>0</sup> 
 [kate_keks](users/104/104352857087990900583-google)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>71</sup> 
 
 
-_29.03.2019 11:27:30_
+_29.03.2019 19:07:53_
