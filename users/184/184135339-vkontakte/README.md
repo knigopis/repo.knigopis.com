@@ -1,7 +1,12 @@
-# List of books read by [darb_el](http://vk.com/id184135339)<sup>23</sup>
+# List of books read by [darb_el](http://vk.com/id184135339)<sup>24</sup>
 ---
 
 ## 2019
+
+### Кризис мирового капитализма
+Джордж Сорос
+> [2019-03] 
+
 
 ### Слепой часовщик
 Ричард Докинз

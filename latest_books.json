@@ -1,4 +1,16 @@
 {
+    "YpZyLn9EpP": {
+        "id": "YpZyLn9EpP",
+        "title": "Кризис мирового капитализма",
+        "author": "Джордж Сорос",
+        "notes": "",
+        "createdAt": "2019-03-29 02:17:29",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 24
+        }
+    },
     "JKRnvMR1hu": {
         "id": "JKRnvMR1hu",
         "title": "Последнее желание",
@@ -345,18 +357,6 @@
             "id": "10201286419319569-facebook",
             "nickname": "dininha",
             "booksCount": 12
-        }
-    },
-    "go_rylhy5D": {
-        "id": "go_rylhy5D",
-        "title": "Пир",
-        "author": "Платон",
-        "notes": "",
-        "createdAt": "2019-03-22 20:12:20",
-        "user": {
-            "id": "10201286419319569-facebook",
-            "nickname": "dininha",
-            "booksCount": 11
         }
     }
 }
