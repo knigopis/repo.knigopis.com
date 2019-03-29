@@ -1,7 +1,12 @@
-# List of books read by [darb_el](http://vk.com/id184135339)<sup>24</sup>
+# List of books read by [darb_el](http://vk.com/id184135339)<sup>25</sup>
 ---
 
 ## 2019
+
+### Мамаша Кураж и её дети
+Бертольт Брехт
+> [2019-03-28] 
+
 
 ### Кризис мирового капитализма
 Джордж Сорос
