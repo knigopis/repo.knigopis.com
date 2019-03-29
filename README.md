@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Blaze](users/405/405143526966995-facebook)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>11</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>214</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>27</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>57</sup> 
 [Anna](users/814/814211208673534-facebook)<sup>0</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>42</sup> 
-[](users/262/262062207519652-facebook)<sup>3</sup> 
 
 
-_28.03.2019 20:17:52_
+_29.03.2019 00:55:21_
