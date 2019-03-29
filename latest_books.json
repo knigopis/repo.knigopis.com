@@ -1,4 +1,16 @@
 {
+    "JKRnvMR1hu": {
+        "id": "JKRnvMR1hu",
+        "title": "Последнее желание",
+        "author": "А. Сапковский",
+        "notes": "",
+        "createdAt": "2019-03-29 00:56:30",
+        "user": {
+            "id": "405143526966995-facebook",
+            "nickname": "Blaze",
+            "booksCount": 1
+        }
+    },
     "j52MllbSfr": {
         "id": "j52MllbSfr",
         "title": "Кровные сестры",
@@ -345,18 +357,6 @@
             "id": "10201286419319569-facebook",
             "nickname": "dininha",
             "booksCount": 11
-        }
-    },
-    "vPObkQgXr7": {
-        "id": "vPObkQgXr7",
-        "title": "Белое на чёрном",
-        "author": "Гальего Рубен",
-        "notes": "",
-        "createdAt": "2019-03-22 19:10:16",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 93
         }
     }
 }
