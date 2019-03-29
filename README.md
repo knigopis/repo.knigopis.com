@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Билет на балкон ~ [Chiffi](users/105/105831994080785626680-google)<sup>111</sup>
+    > Очень красивый язык, трогательные персонажи, но мне не понравился Глорский. в последнее время не люблю таких "легких" людей
+
 * Мелкие боги ~ [Garka](users/115/115753719718250012620-google)<sup>214</sup>
     > Шикарная сатира на религию, пророков и т.д.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Высосанная из пальца история про ложное обвинение, но уж очень хорошо написано!
 
 * Мечтают ли андроиды об электроовцах? ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup>
-    > ISBN 978-5-699-90756-4
-    > "Паучий труп трубит победу" с. 306
-    > "Но ты должен перестать искать меня, потому что я никогда не перестану искать тебя" с. 309
 
 * A Game for Assassins (The Redaction Chronicles Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>101</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * О дивный новый мир ~ [Ангелина](users/837/83788782-vkontakte)<sup>56</sup>
 
-* Декларация смерти ~ [](users/262/262062207519652-facebook)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>111</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>25</sup> 
 [Blaze](users/405/405143526966995-facebook)<sup>1</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>11</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kate_keks](users/104/104352857087990900583-google)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>71</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>57</sup> 
-[Anna](users/814/814211208673534-facebook)<sup>0</sup> 
 
 
-_29.03.2019 02:18:16_
+_29.03.2019 06:09:56_

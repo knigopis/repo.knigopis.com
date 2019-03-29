@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Билет на балкон ~ [Chiffi](users/105/105831994080785626680-google)<sup>111</sup>
 * Мелкие боги ~ [Garka](users/115/115753719718250012620-google)<sup>214</sup>
 * Братья карамазовы ~ [Quaff](users/122/12267158-vkontakte)<sup>27</sup>
 * Мечтают ли андроиды об электроовцах? ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup>
@@ -30,7 +31,6 @@
 * как далеко до завтрашнего дня ~ [johnybond32](users/304/304041461-yandex)<sup>3</sup>
 * Квинтэссенция решения. На примере Карибского кризиса 1962 года ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>194</sup>
 * Пена дней ~ [Apprentice ](users/528/52821952-vkontakte)<sup>106</sup>
-* Искажающие реальность ~ [Tr](users/122/12282474-vkontakte)<sup>70</sup>
 
 
-_28.03.2019 17:24:27_
+_29.03.2019 06:09:56_

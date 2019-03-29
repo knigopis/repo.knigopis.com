@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 111,
+        "updatedAt": "2019-03-29 06:09:56"
+    },
     "184135339-vkontakte": {
         "id": "184135339-vkontakte",
         "nickname": "darb_el",
@@ -172,11 +178,5 @@
         "nickname": "Ангелина",
         "booksCount": 57,
         "updatedAt": "2019-03-20 13:01:54"
-    },
-    "814211208673534-facebook": {
-        "id": "814211208673534-facebook",
-        "nickname": "Anna",
-        "booksCount": 0,
-        "updatedAt": "2019-03-20 10:11:06"
     }
 }
