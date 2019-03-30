@@ -1,4 +1,16 @@
 {
+    "bGrqzmlUGj": {
+        "id": "bGrqzmlUGj",
+        "title": "Ребенок и компьютер",
+        "author": "Ирина Медведева и Татьяна Шишова",
+        "notes": "",
+        "createdAt": "2019-03-30 06:58:18",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 17
+        }
+    },
     "iwl96Lg6Cl": {
         "id": "iwl96Lg6Cl",
         "title": "Я выбираю Христа",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 692
-        }
-    },
-    "BCacOirqPm": {
-        "id": "BCacOirqPm",
-        "title": "Мэр Кэстербриджа",
-        "author": "Томас Харди",
-        "notes": "",
-        "createdAt": "2019-03-27 07:41:59",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 691
         }
     }
 }
