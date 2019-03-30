@@ -1,4 +1,16 @@
 {
+    "gz9rKfiAUX": {
+        "id": "gz9rKfiAUX",
+        "title": "История России в рассказах для детей",
+        "author": "Александра Ишимова",
+        "notes": "",
+        "createdAt": "2019-03-30 06:53:33",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 6
+        }
+    },
     "Hkep71pZb4": {
         "id": "Hkep71pZb4",
         "title": "Детский катехизис",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 689
-        }
-    },
-    "13oh6f6nNJ": {
-        "id": "13oh6f6nNJ",
-        "title": "Королёк - птичка певчая",
-        "author": "ГЮНТЕКИН Решат Нури",
-        "notes": "",
-        "createdAt": "2019-03-24 20:11:54",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 31
         }
     }
 }
