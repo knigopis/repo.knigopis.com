@@ -1,4 +1,16 @@
 {
+    "8rzO7NX-NB": {
+        "id": "8rzO7NX-NB",
+        "title": "Что необходимо знать каждому мальчику",
+        "author": "Алексий Грачев",
+        "notes": "",
+        "createdAt": "2019-03-30 06:53:59",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 7
+        }
+    },
     "gz9rKfiAUX": {
         "id": "gz9rKfiAUX",
         "title": "История России в рассказах для детей",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 65
-        }
-    },
-    "ZktwXjGTjW": {
-        "id": "ZktwXjGTjW",
-        "title": "Недобрый час",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2019-03-25 05:55:39",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 689
         }
     }
 }

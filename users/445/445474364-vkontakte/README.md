@@ -1,7 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>6</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>7</sup>
 ---
 
 ## 2015
+
+### Что необходимо знать каждому мальчику
+Алексий Грачев
+
 
 ### История России в рассказах для детей
 Александра Ишимова
