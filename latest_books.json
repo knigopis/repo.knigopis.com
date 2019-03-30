@@ -1,4 +1,16 @@
 {
+    "DtCX0PhYYt": {
+        "id": "DtCX0PhYYt",
+        "title": "Гора",
+        "author": "Николай Лесков",
+        "notes": "",
+        "createdAt": "2019-03-30 07:18:11",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 46
+        }
+    },
     "pXMnMmfQQx": {
         "id": "pXMnMmfQQx",
         "title": "Дуэль",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 17
-        }
-    },
-    "iwl96Lg6Cl": {
-        "id": "iwl96Lg6Cl",
-        "title": "Я выбираю Христа",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-03-30 06:57:48",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 16
         }
     }
 }
