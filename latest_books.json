@@ -1,4 +1,16 @@
 {
+    "OIdEMu6m_C": {
+        "id": "OIdEMu6m_C",
+        "title": "Марш тридцатого года",
+        "author": "Антон Макаренко",
+        "notes": "",
+        "createdAt": "2019-03-30 07:22:16",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 55
+        }
+    },
     "jDDODJC86p": {
         "id": "jDDODJC86p",
         "title": "Ангелы и демоны",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 26
-        }
-    },
-    "EwoPBGmDz9": {
-        "id": "EwoPBGmDz9",
-        "title": "Странник",
-        "author": "Сурен Цормудян",
-        "notes": "",
-        "createdAt": "2019-03-30 07:01:44",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 25
         }
     }
 }
