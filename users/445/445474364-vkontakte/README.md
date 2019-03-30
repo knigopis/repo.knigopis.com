@@ -1,13 +1,5 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>41</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>40</sup>
 ---
-
-## 2017
-
-### Маркус и Диана
-Клаус Хагерюп
-> [2017-01] 
-
-
 
 ## 2016
 
