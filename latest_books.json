@@ -1,4 +1,16 @@
 {
+    "iwl96Lg6Cl": {
+        "id": "iwl96Lg6Cl",
+        "title": "Я выбираю Христа",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-03-30 06:57:48",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 16
+        }
+    },
     "VBI-WYUMPo": {
         "id": "VBI-WYUMPo",
         "title": "Лоскутик и Облако",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 691
-        }
-    },
-    "n8ByRnudHr": {
-        "id": "n8ByRnudHr",
-        "title": "Новый голод",
-        "author": "Айзек Марион",
-        "notes": "",
-        "createdAt": "2019-03-27 07:14:03",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 133
         }
     }
 }

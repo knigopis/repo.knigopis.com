@@ -1,4 +1,4 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>15</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>16</sup>
 ---
 
 ## 2016
@@ -6,6 +6,9 @@
 ### Битва
 Ричард Холмс
 > [2016-01] 
+
+
+### Я выбираю Христа
 
 
 ### Лоскутик и Облако
