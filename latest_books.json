@@ -1,4 +1,16 @@
 {
+    "DKl0JAkTKx": {
+        "id": "DKl0JAkTKx",
+        "title": "Маркус и Диана",
+        "author": "Клаус Хагерюп",
+        "notes": "",
+        "createdAt": "2019-03-30 07:08:22",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 36
+        }
+    },
     "p_i-0Mw50e": {
         "id": "p_i-0Mw50e",
         "title": "Люди-феномены",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 7
-        }
-    },
-    "gz9rKfiAUX": {
-        "id": "gz9rKfiAUX",
-        "title": "История России в рассказах для детей",
-        "author": "Александра Ишимова",
-        "notes": "",
-        "createdAt": "2019-03-30 06:53:33",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 6
         }
     }
 }

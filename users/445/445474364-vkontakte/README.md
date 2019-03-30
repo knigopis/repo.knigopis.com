@@ -1,4 +1,4 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>35</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>36</sup>
 ---
 
 ## 2016
@@ -6,6 +6,10 @@
 ### Битва
 Ричард Холмс
 > [2016-01] 
+
+
+### Маркус и Диана
+Клаус Хагерюп
 
 
 ### Люди-феномены
