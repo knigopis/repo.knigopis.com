@@ -1,7 +1,11 @@
-# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>25</sup>
+# List of books read by [rosaviktuk](http://vk.com/id31359243)<sup>26</sup>
 ---
 
 ## 2019
+
+### Две королевы
+Александр Дюма
+
 
 ### Царица сладострастия
 Александр Дюма
