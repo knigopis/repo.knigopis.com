@@ -1,4 +1,16 @@
 {
+    "yHJfV-0ASR": {
+        "id": "yHJfV-0ASR",
+        "title": "Руслан и Людмила",
+        "author": "Александр Пушкин",
+        "notes": "",
+        "createdAt": "2019-03-30 07:00:23",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 21
+        }
+    },
     "WjL8LX7uDA": {
         "id": "WjL8LX7uDA",
         "title": "Темный мир: Равновесие",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 18
-        }
-    },
-    "5nm5G_3wc7": {
-        "id": "5nm5G_3wc7",
-        "title": "A Game for Assassins (The Redaction Chronicles Book 1)",
-        "author": "James Quinn",
-        "notes": "ASIN: B00VQORC0K",
-        "createdAt": "2019-03-27 15:57:33",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 101
         }
     }
 }
