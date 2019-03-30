@@ -1,4 +1,16 @@
 {
+    "4Xy1_BthNH": {
+        "id": "4Xy1_BthNH",
+        "title": "Путь к себе",
+        "author": "Михаил Гинзбург",
+        "notes": "",
+        "createdAt": "2019-03-30 07:00:47",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 22
+        }
+    },
     "yHJfV-0ASR": {
         "id": "yHJfV-0ASR",
         "title": "Руслан и Людмила",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 27
-        }
-    },
-    "CqPkCpwrd6": {
-        "id": "CqPkCpwrd6",
-        "title": "Мечтают ли андроиды об электроовцах?",
-        "author": "Филип К. Дик",
-        "notes": "ISBN 978-5-699-90756-4\n\"Паучий труп трубит победу\" с. 306\n\"Но ты должен перестать искать меня, потому что я никогда не перестану искать тебя\" с. 309",
-        "createdAt": "2019-03-27 19:14:47",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 18
         }
     }
 }
