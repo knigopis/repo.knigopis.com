@@ -1,4 +1,16 @@
 {
+    "Br7YHdQOBw": {
+        "id": "Br7YHdQOBw",
+        "title": "Сталин: в преддверии войны",
+        "author": "Александр Орлов",
+        "notes": "",
+        "createdAt": "2019-03-30 07:27:45",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 66
+        }
+    },
     "5a2TAbTF3-": {
         "id": "5a2TAbTF3-",
         "title": "Тайные слуги",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 37
-        }
-    },
-    "OkR53VMayq": {
-        "id": "OkR53VMayq",
-        "title": "Маркус и Диана",
-        "author": "Клаус Хагерюп",
-        "notes": "",
-        "createdAt": "2019-03-30 07:15:53",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 36
         }
     }
 }
