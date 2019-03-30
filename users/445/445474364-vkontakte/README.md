@@ -1,4 +1,4 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>29</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>30</sup>
 ---
 
 ## 2016
@@ -6,6 +6,10 @@
 ### Битва
 Ричард Холмс
 > [2016-01] 
+
+
+### Капитанская дочка
+Александр Пушкин
 
 
 ### Дубровский
