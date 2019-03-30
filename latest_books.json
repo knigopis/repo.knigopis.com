@@ -1,4 +1,16 @@
 {
+    "pXMnMmfQQx": {
+        "id": "pXMnMmfQQx",
+        "title": "Дуэль",
+        "author": "Антон Чехов",
+        "notes": "",
+        "createdAt": "2019-03-30 07:17:46",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 45
+        }
+    },
     "EU143s_ktq": {
         "id": "EU143s_ktq",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 16
-        }
-    },
-    "VBI-WYUMPo": {
-        "id": "VBI-WYUMPo",
-        "title": "Лоскутик и Облако",
-        "author": "Софья Прокофьева",
-        "notes": "",
-        "createdAt": "2019-03-30 06:57:38",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 15
         }
     }
 }

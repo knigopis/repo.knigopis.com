@@ -1,7 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>44</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>45</sup>
 ---
 
 ## 2017
+
+### Дуэль
+Антон Чехов
+
 
 ### Герой нашего времени
 Михаил Лермонтов
