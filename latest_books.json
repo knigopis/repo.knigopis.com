@@ -1,4 +1,16 @@
 {
+    "UdYDOgD-hq": {
+        "id": "UdYDOgD-hq",
+        "title": "Путешествие из Петербурга в Москву",
+        "author": "Александр Радищев",
+        "notes": "",
+        "createdAt": "2019-03-30 07:11:13",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 41
+        }
+    },
     "t8GSjPSQhY": {
         "id": "t8GSjPSQhY",
         "title": "Гамлет, принц Датский",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 12
-        }
-    },
-    "fmBl97bsFM": {
-        "id": "fmBl97bsFM",
-        "title": "Битва",
-        "author": "Ричард Холмс",
-        "notes": "",
-        "createdAt": "2019-03-30 06:55:58",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 11
         }
     }
 }
