@@ -1,4 +1,16 @@
 {
+    "HTBC3y7jA7": {
+        "id": "HTBC3y7jA7",
+        "title": "Путин",
+        "author": "Владимир Соловьев",
+        "notes": "",
+        "createdAt": "2019-03-30 07:32:01",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 70
+        }
+    },
     "fpoeJMTNDh": {
         "id": "fpoeJMTNDh",
         "title": "Драматическая трилогия",
@@ -105,18 +117,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 61
-        }
-    },
-    "9qjVP6eX97": {
-        "id": "9qjVP6eX97",
-        "title": "Путин",
-        "author": "Крис Хатчинс и Александр Коробко",
-        "notes": "",
-        "createdAt": "2019-03-30 07:24:41",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 60
         }
     },
     "t8Ga4moOZg": {
