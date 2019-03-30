@@ -1,7 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>42</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>43</sup>
 ---
 
 ## 2017
+
+### Собачье сердце
+Михаил Булгаков
+
 
 ### Евгений Онегин
 Александр Пушкин
