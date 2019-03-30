@@ -1,7 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>49</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>50</sup>
 ---
 
 ## 2018
+
+### Книга собаковода
+Михаил Псалмов
+
 
 ### Куколка
 Андрей Кивинов
