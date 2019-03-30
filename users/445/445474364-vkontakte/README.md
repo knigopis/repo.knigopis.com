@@ -1,7 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>41</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>42</sup>
 ---
 
 ## 2017
+
+### Евгений Онегин
+Александр Пушкин
+
 
 ### Путешествие из Петербурга в Москву
 Александр Радищев
