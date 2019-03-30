@@ -1,4 +1,16 @@
 {
+    "Kq4zKRWJnL": {
+        "id": "Kq4zKRWJnL",
+        "title": "Евгений Онегин",
+        "author": "Александр Пушкин",
+        "notes": "",
+        "createdAt": "2019-03-30 07:11:29",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 42
+        }
+    },
     "UdYDOgD-hq": {
         "id": "UdYDOgD-hq",
         "title": "Путешествие из Петербурга в Москву",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 13
-        }
-    },
-    "zp5MXCVt3S": {
-        "id": "zp5MXCVt3S",
-        "title": "Никакая сила не поборет истину",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-03-30 06:56:27",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 12
         }
     }
 }
