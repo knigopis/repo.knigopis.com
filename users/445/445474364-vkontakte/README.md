@@ -1,4 +1,4 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>38</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>37</sup>
 ---
 
 ## 2016
@@ -9,10 +9,6 @@
 
 ### Путешествие из Петербурга в Москву
 Александр Радищев
-
-
-### Гамлет, принц Датский
-Уильям Шекспир
 
 
 ### Люди-феномены
