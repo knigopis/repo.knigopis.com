@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[olegshirokikh2001](users/445/445474364-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>52</sup> 
 [El_chico](users/103/103517499148226684110-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>111</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dininha](users/102/10201286419319569-facebook)<sup>14</sup> 
 [naxer_sxodi](users/198/198290211-vkontakte)<sup>0</sup> 
 [kate_keks](users/104/104352857087990900583-google)<sup>0</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>71</sup> 
 
 
-_29.03.2019 19:07:53_
+_30.03.2019 06:48:55_
