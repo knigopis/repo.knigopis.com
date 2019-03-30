@@ -1,4 +1,4 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>12</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>13</sup>
 ---
 
 ## 2016
@@ -6,6 +6,10 @@
 ### Битва
 Ричард Холмс
 > [2016-01] 
+
+
+### Загадка сапфирового креста
+Антон Иванов и Анна Устинова
 
 
 ### Никакая сила не поборет истину
