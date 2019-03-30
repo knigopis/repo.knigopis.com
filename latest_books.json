@@ -1,4 +1,16 @@
 {
+    "TF1JQouAFl": {
+        "id": "TF1JQouAFl",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2019-03-30 07:02:25",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 27
+        }
+    },
     "09_kqFpmb8": {
         "id": "09_kqFpmb8",
         "title": "Неугасимая лампада \"Курска\"",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 25
-        }
-    },
-    "YpZyLn9EpP": {
-        "id": "YpZyLn9EpP",
-        "title": "Кризис мирового капитализма",
-        "author": "Джордж Сорос",
-        "notes": "",
-        "createdAt": "2019-03-29 02:17:29",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 24
         }
     }
 }
