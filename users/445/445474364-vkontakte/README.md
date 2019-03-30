@@ -1,7 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>52</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>53</sup>
 ---
 
 ## 2018
+
+### Вампир против оборотня
+Мартин Хоуден
+
 
 ### Имя дома твоего
 Лев Успенский
