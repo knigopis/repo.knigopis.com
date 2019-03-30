@@ -1,4 +1,16 @@
 {
+    "09_kqFpmb8": {
+        "id": "09_kqFpmb8",
+        "title": "Неугасимая лампада \"Курска\"",
+        "author": "Митрофан Баданин",
+        "notes": "",
+        "createdAt": "2019-03-30 07:02:06",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 26
+        }
+    },
     "EwoPBGmDz9": {
         "id": "EwoPBGmDz9",
         "title": "Странник",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 24
-        }
-    },
-    "JKRnvMR1hu": {
-        "id": "JKRnvMR1hu",
-        "title": "Последнее желание",
-        "author": "А. Сапковский",
-        "notes": "",
-        "createdAt": "2019-03-29 00:56:30",
-        "user": {
-            "id": "405143526966995-facebook",
-            "nickname": "Blaze",
-            "booksCount": 1
         }
     }
 }
