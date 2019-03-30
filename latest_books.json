@@ -1,4 +1,16 @@
 {
+    "Ap18KS_pFr": {
+        "id": "Ap18KS_pFr",
+        "title": "Радуга для друга",
+        "author": "Михаил Самарский",
+        "notes": "",
+        "createdAt": "2019-03-30 06:52:22",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 4
+        }
+    },
     "cr775X63qp": {
         "id": "cr775X63qp",
         "title": "Книга будущих адмиралов",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 30
-        }
-    },
-    "IxFPfPUlrp": {
-        "id": "IxFPfPUlrp",
-        "title": "Дочь Монтесумы",
-        "author": "РАЙДЕР ХАГГАРД Генри",
-        "notes": "",
-        "createdAt": "2019-03-23 22:36:03",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 29
         }
     }
 }
