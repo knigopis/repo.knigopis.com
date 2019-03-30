@@ -1,4 +1,16 @@
 {
+    "KFN2enDbvy": {
+        "id": "KFN2enDbvy",
+        "title": "Горе от ума",
+        "author": "Александр Грибоедов",
+        "notes": "",
+        "createdAt": "2019-03-30 07:10:23",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 39
+        }
+    },
     "MyvdIzOmAH": {
         "id": "MyvdIzOmAH",
         "title": "Недоросль",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 10
-        }
-    },
-    "SN_719wA1u": {
-        "id": "SN_719wA1u",
-        "title": "Необыкновенные приключения Карика и Вали",
-        "author": "Ян Ларри",
-        "notes": "",
-        "createdAt": "2019-03-30 06:54:45",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 9
         }
     }
 }
