@@ -1,4 +1,16 @@
 {
+    "1MYQUFss-Q": {
+        "id": "1MYQUFss-Q",
+        "title": "Школа Робинзонов",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2019-03-30 07:01:26",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 24
+        }
+    },
     "caJzeZjdhT": {
         "id": "caJzeZjdhT",
         "title": "Приключения Одиссея",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 11
-        }
-    },
-    "QIDmT66Qff": {
-        "id": "QIDmT66Qff",
-        "title": "Мелкие боги",
-        "author": "Пратчетт, Терри",
-        "notes": "Шикарная сатира на религию, пророков и т.д.",
-        "createdAt": "2019-03-28 17:24:27",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 214
         }
     }
 }
