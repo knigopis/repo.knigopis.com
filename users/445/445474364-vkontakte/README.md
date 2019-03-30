@@ -1,7 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>2</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>3</sup>
 ---
 
 ## 2015
+
+### Книга будущих адмиралов
+Анатолий Митяев
+
 
 ### Книга будущих командиров
 Анатолий Митяев

@@ -1,4 +1,16 @@
 {
+    "cr775X63qp": {
+        "id": "cr775X63qp",
+        "title": "Книга будущих адмиралов",
+        "author": "Анатолий Митяев",
+        "notes": "",
+        "createdAt": "2019-03-30 06:52:05",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 3
+        }
+    },
     "I0NpnuQyEM": {
         "id": "I0NpnuQyEM",
         "title": "Книга будущих командиров",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 29
-        }
-    },
-    "sh0zaEHAdz": {
-        "id": "sh0zaEHAdz",
-        "title": "Пышечка",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-03-23 18:32:47",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 96
         }
     }
 }
