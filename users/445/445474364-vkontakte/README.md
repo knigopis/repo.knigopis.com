@@ -1,7 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>48</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>49</sup>
 ---
 
 ## 2018
+
+### Куколка
+Андрей Кивинов
+
 
 ### Автографы на льду и в жизни
 Александр Гольцев
