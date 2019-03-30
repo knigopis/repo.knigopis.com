@@ -1,4 +1,16 @@
 {
+    "WjL8LX7uDA": {
+        "id": "WjL8LX7uDA",
+        "title": "Темный мир: Равновесие",
+        "author": "Марина и Сергей Дяченко",
+        "notes": "",
+        "createdAt": "2019-03-30 06:59:59",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 20
+        }
+    },
     "CXJPeLVJ_X": {
         "id": "CXJPeLVJ_X",
         "title": "Ключ от библиотеки Ивана Грозного",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 101
-        }
-    },
-    "ksIb3v8H1r": {
-        "id": "ksIb3v8H1r",
-        "title": "Раны заживают медленно. Записки штабного офицера",
-        "author": "Толконюк Илларион",
-        "notes": "ISBN: 978-5-227-07501-7",
-        "createdAt": "2019-03-27 14:45:07",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 100
         }
     }
 }
