@@ -1,4 +1,4 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>14</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>15</sup>
 ---
 
 ## 2016
@@ -6,6 +6,10 @@
 ### Битва
 Ричард Холмс
 > [2016-01] 
+
+
+### Лоскутик и Облако
+Софья Прокофьева
 
 
 ### Загадка вечернего звонка
