@@ -1,4 +1,10 @@
 {
+    "31359243-vkontakte": {
+        "id": "31359243-vkontakte",
+        "nickname": "rosaviktuk",
+        "booksCount": 25,
+        "updatedAt": "2019-03-30 18:58:59"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -172,11 +178,5 @@
         "nickname": "naxer_sxodi",
         "booksCount": 0,
         "updatedAt": "2019-03-21 12:30:47"
-    },
-    "104352857087990900583-google": {
-        "id": "104352857087990900583-google",
-        "nickname": "kate_keks",
-        "booksCount": 0,
-        "updatedAt": "2019-03-21 10:10:42"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "KtE4ziBNon": {
+        "id": "KtE4ziBNon",
+        "title": "Царица сладострастия",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2019-03-30 18:58:59",
+        "user": {
+            "id": "31359243-vkontakte",
+            "nickname": "rosaviktuk",
+            "booksCount": 25
+        }
+    },
     "pDZVZRagYg": {
         "id": "pDZVZRagYg",
         "title": "Десять негритят",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 45
-        }
-    },
-    "EU143s_ktq": {
-        "id": "EU143s_ktq",
-        "title": "Герой нашего времени",
-        "author": "Михаил Лермонтов",
-        "notes": "",
-        "createdAt": "2019-03-30 07:17:34",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 44
         }
     }
 }
