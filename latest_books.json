@@ -1,4 +1,16 @@
 {
+    "6CdzmixYxy": {
+        "id": "6CdzmixYxy",
+        "title": "Кузнецкий арсенал",
+        "author": "Ростислав Бардокин",
+        "notes": "",
+        "createdAt": "2019-03-30 07:28:02",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 67
+        }
+    },
     "Br7YHdQOBw": {
         "id": "Br7YHdQOBw",
         "title": "Сталин: в преддверии войны",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 38
-        }
-    },
-    "yzJ-VG_hLl": {
-        "id": "yzJ-VG_hLl",
-        "title": "Веселые похороны",
-        "author": "Людмила Улицкая",
-        "notes": "",
-        "createdAt": "2019-03-30 07:16:06",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 37
         }
     }
 }
