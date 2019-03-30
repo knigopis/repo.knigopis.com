@@ -1,4 +1,16 @@
 {
+    "p_i-0Mw50e": {
+        "id": "p_i-0Mw50e",
+        "title": "Люди-феномены",
+        "author": "Николай Непомнящий",
+        "notes": "",
+        "createdAt": "2019-03-30 07:07:43",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 35
+        }
+    },
     "V1D6HumVEJ": {
         "id": "V1D6HumVEJ",
         "title": "Записки охотника",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 6
-        }
-    },
-    "Hkep71pZb4": {
-        "id": "Hkep71pZb4",
-        "title": "Детский катехизис",
-        "author": "Максим Козлов",
-        "notes": "",
-        "createdAt": "2019-03-30 06:52:49",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 5
         }
     }
 }
