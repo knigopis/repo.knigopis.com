@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>36</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>35</sup>
 ---
 
 ## 2016
-
-### Евгений Онегин
-Александр Пушкин
-
 
 ### Люди-феномены
 Николай Непомнящий
