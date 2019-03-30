@@ -1,4 +1,16 @@
 {
+    "9qjVP6eX97": {
+        "id": "9qjVP6eX97",
+        "title": "Путин",
+        "author": "Крис Хатчинс и Александр Коробко",
+        "notes": "",
+        "createdAt": "2019-03-30 07:24:41",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 60
+        }
+    },
     "t8Ga4moOZg": {
         "id": "t8Ga4moOZg",
         "title": "Мифы русского народа",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 31
-        }
-    },
-    "6zYqQS2Wl0": {
-        "id": "6zYqQS2Wl0",
-        "title": "Капитанская дочка",
-        "author": "Александр Пушкин",
-        "notes": "",
-        "createdAt": "2019-03-30 07:03:25",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 30
         }
     }
 }
