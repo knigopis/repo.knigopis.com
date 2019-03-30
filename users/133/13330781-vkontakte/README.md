@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>97</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>98</sup>
 ---
 
 ## 2019
+
+### Багдадская встреча
+Кристи Агата
+> [2019-03-30] 
+
 
 ### Дворец для сероглазого принца
 Тронина Татьяна

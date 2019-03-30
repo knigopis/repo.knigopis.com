@@ -1,4 +1,16 @@
 {
+    "EfpMbC-6oX": {
+        "id": "EfpMbC-6oX",
+        "title": "Багдадская встреча",
+        "author": "Кристи Агата",
+        "notes": "",
+        "createdAt": "2019-03-30 10:32:04",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 98
+        }
+    },
     "HTBC3y7jA7": {
         "id": "HTBC3y7jA7",
         "title": "Путин",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 41
-        }
-    },
-    "4NEE4tB0cP": {
-        "id": "4NEE4tB0cP",
-        "title": "Гамлет, принц Датский",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2019-03-30 07:16:36",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 40
         }
     }
 }
