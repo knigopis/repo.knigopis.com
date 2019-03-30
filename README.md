@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[rosaviktuk](users/313/31359243-vkontakte)<sup>28</sup> 
+[rosaviktuk](users/313/31359243-vkontakte)<sup>27</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>99</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>694</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>69</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [naxer_sxodi](users/198/198290211-vkontakte)<sup>0</sup> 
 
 
-_30.03.2019 19:00:40_
+_30.03.2019 19:00:52_
