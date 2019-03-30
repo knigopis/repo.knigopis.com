@@ -1,7 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>43</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>44</sup>
 ---
 
 ## 2017
+
+### Герой нашего времени
+Михаил Лермонтов
+
 
 ### Собачье сердце
 Михаил Булгаков
