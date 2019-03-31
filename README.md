@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Грибы на асфальте ~ [Chiffi](users/105/105831994080785626680-google)<sup>112</sup>
+    > почему-то на меня этот автор действует угнетающе. может потому, что хороший язык  и сильные образы?
+
 * Убийство на пляже ~ [kissamasya](users/684/68439978-vkontakte)<sup>52</sup>
     > В небольшом городке исчез одиннадцатилетний Дэнни. Спустя сутки его тело нашли на берегу моря...Детективы Алек Харди и Элли Миллер намерены вычислить убийцу. Один за другим под подозрение попадают добропорядочные горожане, среди которых викарий, владелец магазина и даже отец мальчика! Оказывается, что у каждого из них есть свой скелет в шкафу. Но когда тайна перестанет быть тайной, городок содрогнется...
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень красивый язык, трогательные персонажи, но мне не понравился Глорский. в последнее время не люблю таких "легких" людей
 
 * Мелкие боги ~ [Garka](users/115/115753719718250012620-google)<sup>214</sup>
-    > Шикарная сатира на религию, пророков и т.д.
 
 * Братья карамазовы ~ [Quaff](users/122/12267158-vkontakte)<sup>27</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Игра кота 1-7 ~ [Tr](users/122/12282474-vkontakte)<sup>71</sup>
 
-* Шум и ярость ~ [Ангелина](users/837/83788782-vkontakte)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>112</sup> 
 [rosaviktuk](users/313/31359243-vkontakte)<sup>27</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>99</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>694</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [olegshirokikh2001](users/445/445474364-vkontakte)<sup>70</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>52</sup> 
 [El_chico](users/103/103517499148226684110-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>111</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>25</sup> 
 [Blaze](users/405/405143526966995-facebook)<sup>1</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>11</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [naxer_sxodi](users/198/198290211-vkontakte)<sup>0</sup> 
 
 
-_30.03.2019 19:00:52_
+_31.03.2019 05:21:58_
