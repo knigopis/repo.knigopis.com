@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mavrentik](users/200/200666735-vkontakte)<sup>17</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>695</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>53</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>60</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>65</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>31</sup> 
 [000](users/222/2227528524173849-facebook)<sup>0</sup> 
-[LeronAsk](users/476/476920338-yandex)<sup>0</sup> 
 
 
-_31.03.2019 19:31:03_
+_31.03.2019 22:31:04_
