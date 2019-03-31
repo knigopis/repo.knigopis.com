@@ -1,4 +1,16 @@
 {
+    "xGzfOHpIIZ": {
+        "id": "xGzfOHpIIZ",
+        "title": "Мифы Древнего Китая",
+        "author": "Кэ Юань",
+        "notes": "",
+        "createdAt": "2019-03-31 18:12:15",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 57
+        }
+    },
     "t0sQO6YeTa": {
         "id": "t0sQO6YeTa",
         "title": "Шелковый путь. Дорога тканей, рабов, идей и религий",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 53
-        }
-    },
-    "r9hQ0hY6dt": {
-        "id": "r9hQ0hY6dt",
-        "title": "Имя дома твоего",
-        "author": "Лев Успенский",
-        "notes": "",
-        "createdAt": "2019-03-30 07:20:52",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 52
         }
     }
 }
