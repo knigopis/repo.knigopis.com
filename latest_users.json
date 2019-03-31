@@ -1,4 +1,10 @@
 {
+    "170278332-vkontakte": {
+        "id": "170278332-vkontakte",
+        "nickname": "AlexeyNovikov",
+        "booksCount": 56,
+        "updatedAt": "2019-03-31 18:11:55"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -172,11 +178,5 @@
         "nickname": "LeronAsk",
         "booksCount": 0,
         "updatedAt": "2019-03-23 07:22:40"
-    },
-    "10201286419319569-facebook": {
-        "id": "10201286419319569-facebook",
-        "nickname": "dininha",
-        "booksCount": 14,
-        "updatedAt": "2019-03-22 20:23:39"
     }
 }

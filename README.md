@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexeyNovikov](users/170/170278332-vkontakte)<sup>56</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>102</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>113</sup> 
 [svaliotsyudachmo](users/313/313258874-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>31</sup> 
 [000](users/222/2227528524173849-facebook)<sup>0</sup> 
 [LeronAsk](users/476/476920338-yandex)<sup>0</sup> 
-[dininha](users/102/10201286419319569-facebook)<sup>14</sup> 
 
 
-_31.03.2019 17:42:16_
+_31.03.2019 18:11:55_
