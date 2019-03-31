@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Безумен род людской ~ [kissamasya](users/684/68439978-vkontakte)<sup>53</sup>
+    > Юный Ричард Шекспир – актёр, пытающийся сделать карьеру в труппе своего старшего брата Уильяма, с которым он не близок. Их соперничество, как и соперничество театров, драматургов и актёров за славу и признание, ведёт к конфликтам и предательствам, и ставки в этой игре высоки.
+
 * Техподдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>113</sup>
     > Обожаю Дивова)))
     > Жрец божка Исподтишка
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > почему-то на меня этот автор действует угнетающе. может потому, что хороший язык  и сильные образы?
 
 * Убийство на пляже ~ [kissamasya](users/684/68439978-vkontakte)<sup>52</sup>
-    > В небольшом городке исчез одиннадцатилетний Дэнни. Спустя сутки его тело нашли на берегу моря...Детективы Алек Харди и Элли Миллер намерены вычислить убийцу. Один за другим под подозрение попадают добропорядочные горожане, среди которых викарий, владелец магазина и даже отец мальчика! Оказывается, что у каждого из них есть свой скелет в шкафу. Но когда тайна перестанет быть тайной, городок содрогнется...
 
 * Билет на балкон ~ [Chiffi](users/105/105831994080785626680-google)<sup>111</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Раны заживают медленно. Записки штабного офицера ~ [exulted](users/100/100599204551896265722-google)<sup>100</sup>
 
-* Ботагоз ~ [Euphoria](users/106/106304994652616315178-google)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>53</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>60</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>102</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>113</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>694</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>69</sup> 
 [olegshirokikh2001](users/445/445474364-vkontakte)<sup>70</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>52</sup> 
 [El_chico](users/103/103517499148226684110-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>25</sup> 
 [Blaze](users/405/405143526966995-facebook)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [LeronAsk](users/476/476920338-yandex)<sup>0</sup> 
 
 
-_31.03.2019 18:15:08_
+_31.03.2019 18:40:13_
