@@ -1,4 +1,10 @@
 {
+    "313258874-vkontakte": {
+        "id": "313258874-vkontakte",
+        "nickname": "svaliotsyudachmo",
+        "booksCount": 0,
+        "updatedAt": "2019-03-31 11:37:28"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -172,11 +178,5 @@
         "nickname": "dininha",
         "booksCount": 14,
         "updatedAt": "2019-03-22 20:23:39"
-    },
-    "198290211-vkontakte": {
-        "id": "198290211-vkontakte",
-        "nickname": "naxer_sxodi",
-        "booksCount": 0,
-        "updatedAt": "2019-03-21 12:30:47"
     }
 }
