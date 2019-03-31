@@ -1,4 +1,4 @@
-# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>59</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>60</sup>
 ---
 
 ## 2019
@@ -74,6 +74,9 @@ Ray Bradbury
 ### Владычица озера
 А. Сапковский
 > [2018-01] 
+
+
+### Армии Древнего Китая. 3 в. до н.э. - 3 в. н.э.
 
 
 ### Хризантема и меч

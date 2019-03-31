@@ -1,4 +1,16 @@
 {
+    "VPHj8gS4mf": {
+        "id": "VPHj8gS4mf",
+        "title": "Армии Древнего Китая. 3 в. до н.э. - 3 в. н.э.",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-03-31 18:15:08",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 60
+        }
+    },
     "eCWvLp3qLP": {
         "id": "eCWvLp3qLP",
         "title": "Троецарствие",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 56
-        }
-    },
-    "OIdEMu6m_C": {
-        "id": "OIdEMu6m_C",
-        "title": "Марш тридцатого года",
-        "author": "Антон Макаренко",
-        "notes": "",
-        "createdAt": "2019-03-30 07:22:16",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 55
         }
     }
 }
