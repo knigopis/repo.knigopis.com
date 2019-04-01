@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 12,
+        "updatedAt": "2019-04-01 10:37:17"
+    },
     "200666735-vkontakte": {
         "id": "200666735-vkontakte",
         "nickname": "mavrentik",
@@ -172,11 +178,5 @@
         "nickname": "Окс",
         "booksCount": 31,
         "updatedAt": "2019-03-24 20:11:54"
-    },
-    "2227528524173849-facebook": {
-        "id": "2227528524173849-facebook",
-        "nickname": "000",
-        "booksCount": 0,
-        "updatedAt": "2019-03-24 05:49:37"
     }
 }
