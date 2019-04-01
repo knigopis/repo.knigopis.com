@@ -1,4 +1,16 @@
 {
+    "D9oj3zBnRJ": {
+        "id": "D9oj3zBnRJ",
+        "title": "Сад чудовищ",
+        "author": "Дивер Джеффри",
+        "notes": "",
+        "createdAt": "2019-04-01 12:23:43",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 114
+        }
+    },
     "8QG4YZZVXl": {
         "id": "8QG4YZZVXl",
         "title": "100 рассказов о стыковке",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 62
-        }
-    },
-    "ke4kmG9cLz": {
-        "id": "ke4kmG9cLz",
-        "title": "История Кузбасса",
-        "author": "Дмитрий Кацюба",
-        "notes": "",
-        "createdAt": "2019-03-30 07:25:07",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 61
         }
     }
 }

@@ -35,13 +35,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>114</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>12</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>17</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>695</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>53</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>60</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>102</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>113</sup> 
 [svaliotsyudachmo](users/313/313258874-vkontakte)<sup>0</sup> 
 [rosaviktuk](users/313/31359243-vkontakte)<sup>27</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>69</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>31</sup> 
 
 
-_01.04.2019 10:37:17_
+_01.04.2019 12:23:43_
