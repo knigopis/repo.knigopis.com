@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Продажное королевство ~ [En](users/333/333646551-vkontakte)<sup>63</sup>
+    > вторая часть книги, немного скучновата в середине. больше поразил в такой мрачной книге счастливый конец.
+
 * Танатонавты ~ [En](users/333/333646551-vkontakte)<sup>62</sup>
     > книга о смерти и покорении континента смерти. интересные вставки обо всех религиях по-немногу.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Юный Ричард Шекспир – актёр, пытающийся сделать карьеру в труппе своего старшего брата Уильяма, с которым он не близок. Их соперничество, как и соперничество театров, драматургов и актёров за славу и признание, ведёт к конфликтам и предательствам, и ставки в этой игре высоки.
 
 * Техподдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>113</sup>
-    > Обожаю Дивова)))
-    > Жрец божка Исподтишка
-    > Современная война, она такая: непонятно, кто, непонятно, против кого, да всем и наплевать, а победителя объявят в новостях. Война Шрёдингера. Неизвестно, то ли она есть, то ли ее нет…
 
 * Грибы на асфальте ~ [Chiffi](users/105/105831994080785626680-google)<sup>112</sup>
 
@@ -28,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мечтают ли андроиды об электроовцах? ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup>
 
-* A Game for Assassins (The Redaction Chronicles Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>101</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[En](users/333/333646551-vkontakte)<sup>62</sup> 
+[En](users/333/333646551-vkontakte)<sup>63</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>114</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>12</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>17</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>65</sup> 
 
 
-_02.04.2019 02:19:45_
+_02.04.2019 02:21:58_

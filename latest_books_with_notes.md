@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Продажное королевство ~ [En](users/333/333646551-vkontakte)<sup>63</sup>
 * Танатонавты ~ [En](users/333/333646551-vkontakte)<sup>62</sup>
 * Безумен род людской ~ [kissamasya](users/684/68439978-vkontakte)<sup>53</sup>
 * Техподдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>113</sup>
@@ -30,7 +31,6 @@
 * STALKER Квест на выживание ~ [boroda18](users/243/24345139-vkontakte)<sup>7</sup>
 * STALKER Игры с запредельным ~ [boroda18](users/243/24345139-vkontakte)<sup>6</sup>
 * Герой и бунтарь. Создание бренда с помощью архетипов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>195</sup>
-* Лига перепуганных мужчин ~ [Йолант](users/104/104690883692185089260-google)<sup>205</sup>
 
 
-_02.04.2019 02:19:45_
+_02.04.2019 02:21:58_
