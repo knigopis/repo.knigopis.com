@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я попара ~ [Quaff](users/122/12267158-vkontakte)<sup>28</sup>
+    > Когда писательство, как развлечение.
+
 * Продажное королевство ~ [En](users/333/333646551-vkontakte)<sup>63</sup>
     > вторая часть книги, немного скучновата в середине. больше поразил в такой мрачной книге счастливый конец.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > книга о смерти и покорении континента смерти. интересные вставки обо всех религиях по-немногу.
 
 * Безумен род людской ~ [kissamasya](users/684/68439978-vkontakte)<sup>53</sup>
-    > Юный Ричард Шекспир – актёр, пытающийся сделать карьеру в труппе своего старшего брата Уильяма, с которым он не близок. Их соперничество, как и соперничество театров, драматургов и актёров за славу и признание, ведёт к конфликтам и предательствам, и ставки в этой игре высоки.
 
 * Техподдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>113</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Братья карамазовы ~ [Quaff](users/122/12267158-vkontakte)<sup>27</sup>
 
-* Мечтают ли андроиды об электроовцах? ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>28</sup> 
 [](users/135/135346607-vkontakte)<sup>1</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>20</sup> 
 [En](users/333/333646551-vkontakte)<sup>63</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Blaze](users/405/405143526966995-facebook)<sup>1</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>11</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>214</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>27</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>101</sup> 
 [Anastasia](users/197/197404441-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>131</sup> 
 
 
-_02.04.2019 08:20:18_
+_02.04.2019 14:31:18_

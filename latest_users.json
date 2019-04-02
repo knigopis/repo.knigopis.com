@@ -1,4 +1,10 @@
 {
+    "12267158-vkontakte": {
+        "id": "12267158-vkontakte",
+        "nickname": "Quaff",
+        "booksCount": 28,
+        "updatedAt": "2019-04-02 14:31:18"
+    },
     "135346607-vkontakte": {
         "id": "135346607-vkontakte",
         "nickname": null,
@@ -112,12 +118,6 @@
         "nickname": "Garka",
         "booksCount": 214,
         "updatedAt": "2019-03-28 17:24:27"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 27,
-        "updatedAt": "2019-03-28 17:15:59"
     },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",

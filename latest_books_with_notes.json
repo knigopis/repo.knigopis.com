@@ -1,4 +1,16 @@
 {
+    "BZfOzxug_m": {
+        "id": "BZfOzxug_m",
+        "title": "Я попара",
+        "author": "Кира Измайлова",
+        "notes": "Когда писательство, как развлечение.",
+        "createdAt": "2019-04-02 14:31:18",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 28
+        }
+    },
     "5wCyX-eTMD": {
         "id": "5wCyX-eTMD",
         "title": "Продажное королевство",
@@ -345,18 +357,6 @@
             "id": "24345139-vkontakte",
             "nickname": "boroda18",
             "booksCount": 6
-        }
-    },
-    "9wJ_wnKyQE": {
-        "id": "9wJ_wnKyQE",
-        "title": "Герой и бунтарь. Создание бренда с помощью архетипов",
-        "author": "Маргарет Марк, Кэрол Пирсон",
-        "notes": "в процессе",
-        "createdAt": "2019-03-06 15:45:25",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 195
         }
     }
 }
