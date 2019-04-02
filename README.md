@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eugene](users/695/695244810674916-facebook)<sup>20</sup> 
 [En](users/333/333646551-vkontakte)<sup>63</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>114</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>12</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>10</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>131</sup> 
 [zxcvbnz](users/131/1319458480-facebook)<sup>0</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>65</sup> 
 
 
-_02.04.2019 02:21:58_
+_02.04.2019 06:04:35_
