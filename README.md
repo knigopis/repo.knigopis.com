@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Танатонавты ~ [En](users/333/333646551-vkontakte)<sup>62</sup>
+    > книга о смерти и покорении континента смерти. интересные вставки обо всех религиях по-немногу.
+
 * Безумен род людской ~ [kissamasya](users/684/68439978-vkontakte)<sup>53</sup>
     > Юный Ричард Шекспир – актёр, пытающийся сделать карьеру в труппе своего старшего брата Уильяма, с которым он не близок. Их соперничество, как и соперничество театров, драматургов и актёров за славу и признание, ведёт к конфликтам и предательствам, и ставки в этой игре высоки.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Современная война, она такая: непонятно, кто, непонятно, против кого, да всем и наплевать, а победителя объявят в новостях. Война Шрёдингера. Неизвестно, то ли она есть, то ли ее нет…
 
 * Грибы на асфальте ~ [Chiffi](users/105/105831994080785626680-google)<sup>112</sup>
-    > почему-то на меня этот автор действует угнетающе. может потому, что хороший язык  и сильные образы?
 
 * Убийство на пляже ~ [kissamasya](users/684/68439978-vkontakte)<sup>52</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * A Game for Assassins (The Redaction Chronicles Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>101</sup>
 
-* Раны заживают медленно. Записки штабного офицера ~ [exulted](users/100/100599204551896265722-google)<sup>100</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>62</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>114</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>12</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>17</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>131</sup> 
 [zxcvbnz](users/131/1319458480-facebook)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>65</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>31</sup> 
 
 
-_01.04.2019 12:23:43_
+_02.04.2019 02:19:45_
