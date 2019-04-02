@@ -1,4 +1,10 @@
 {
+    "135346607-vkontakte": {
+        "id": "135346607-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-04-02 08:18:49"
+    },
     "695244810674916-facebook": {
         "id": "695244810674916-facebook",
         "nickname": "Eugene",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 131,
         "updatedAt": "2019-03-25 15:14:48"
-    },
-    "1319458480-facebook": {
-        "id": "1319458480-facebook",
-        "nickname": "zxcvbnz",
-        "booksCount": 0,
-        "updatedAt": "2019-03-25 12:12:02"
     }
 }
