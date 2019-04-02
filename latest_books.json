@@ -1,4 +1,16 @@
 {
+    "RxUEGcZs05": {
+        "id": "RxUEGcZs05",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "ISBN 978-5-17-083520-1\n- Боялся, что тебя арестуют, боялся, что придётся отвечать за то, что натворил?\n- Нет, сэр, боялся - придётся отвечать за то, чего не делал.",
+        "createdAt": "2019-04-02 17:20:43",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 19
+        }
+    },
     "BZfOzxug_m": {
         "id": "BZfOzxug_m",
         "title": "Я попара",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 68
-        }
-    },
-    "6CdzmixYxy": {
-        "id": "6CdzmixYxy",
-        "title": "Кузнецкий арсенал",
-        "author": "Ростислав Бардокин",
-        "notes": "",
-        "createdAt": "2019-03-30 07:28:02",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 67
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "RxUEGcZs05": {
+        "id": "RxUEGcZs05",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "ISBN 978-5-17-083520-1\n- Боялся, что тебя арестуют, боялся, что придётся отвечать за то, что натворил?\n- Нет, сэр, боялся - придётся отвечать за то, чего не делал.",
+        "createdAt": "2019-04-02 17:20:43",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 19
+        }
+    },
     "BZfOzxug_m": {
         "id": "BZfOzxug_m",
         "title": "Я попара",
@@ -345,18 +357,6 @@
             "id": "24345139-vkontakte",
             "nickname": "boroda18",
             "booksCount": 7
-        }
-    },
-    "7OTgO8hWa1": {
-        "id": "7OTgO8hWa1",
-        "title": "STALKER Игры с запредельным",
-        "author": "Андрей Альтанов",
-        "notes": "Средняя книжка, про шоумена в зоне",
-        "createdAt": "2019-03-06 18:01:27",
-        "user": {
-            "id": "24345139-vkontakte",
-            "nickname": "boroda18",
-            "booksCount": 6
         }
     }
 }

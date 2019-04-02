@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Убить пересмешника ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>19</sup>
 * Я попара ~ [Quaff](users/122/12267158-vkontakte)<sup>28</sup>
 * Продажное королевство ~ [En](users/333/333646551-vkontakte)<sup>63</sup>
 * Танатонавты ~ [En](users/333/333646551-vkontakte)<sup>62</sup>
@@ -30,7 +31,6 @@
 * Тобол. Много званых ~ [exulted](users/100/100599204551896265722-google)<sup>98</sup>
 * Спектр ~ [Chiffi](users/105/105831994080785626680-google)<sup>108</sup>
 * STALKER Квест на выживание ~ [boroda18](users/243/24345139-vkontakte)<sup>7</sup>
-* STALKER Игры с запредельным ~ [boroda18](users/243/24345139-vkontakte)<sup>6</sup>
 
 
-_02.04.2019 14:31:18_
+_02.04.2019 17:20:43_
