@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[panfilova.lena1](users/428/428829792-yandex)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>19</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>28</sup> 
 [](users/135/135346607-vkontakte)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Анна Зимина ](users/181/181937782-vkontakte)<sup>0</sup> 
 [Maria](users/109/109518477210427634221-google)<sup>0</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>10</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>131</sup> 
 
 
-_02.04.2019 17:20:43_
+_03.04.2019 08:29:53_
