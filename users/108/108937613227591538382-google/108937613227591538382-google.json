@@ -3,7 +3,9 @@
     "profile": "",
     "identity": "https://plus.google.com/u/0/108937613227591538382/",
     "booksCount": 0,
-    "subscriptions": [],
+    "subscriptions": {
+        "333646551-vkontakte": 63
+    },
     "createdAt": "2019-01-26 16:14:28",
-    "updatedAt": "2019-01-26 16:26:05"
+    "updatedAt": "2019-04-03 20:49:56"
 }
