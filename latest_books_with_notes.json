@@ -1,4 +1,16 @@
 {
+    "g25s6bFeXE": {
+        "id": "g25s6bFeXE",
+        "title": "В круге первом",
+        "author": "Александр Солженицын",
+        "notes": "7/10 Интересный сюжет, глубоко раскрыта психология осужденных инжинеров, отлично описана гнилая совковая система.",
+        "createdAt": "2019-04-03 12:24:55",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 20
+        }
+    },
     "RxUEGcZs05": {
         "id": "RxUEGcZs05",
         "title": "Убить пересмешника",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 108
-        }
-    },
-    "XmlD7mg_Se": {
-        "id": "XmlD7mg_Se",
-        "title": "STALKER Квест на выживание",
-        "author": "Андрей Левицкий, Алексей Бобл",
-        "notes": "виртуальный мир и хакеры в сталкере",
-        "createdAt": "2019-03-07 20:49:27",
-        "user": {
-            "id": "24345139-vkontakte",
-            "nickname": "boroda18",
-            "booksCount": 7
         }
     }
 }

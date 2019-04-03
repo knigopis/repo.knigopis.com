@@ -1,4 +1,16 @@
 {
+    "g25s6bFeXE": {
+        "id": "g25s6bFeXE",
+        "title": "В круге первом",
+        "author": "Александр Солженицын",
+        "notes": "7/10 Интересный сюжет, глубоко раскрыта психология осужденных инжинеров, отлично описана гнилая совковая система.",
+        "createdAt": "2019-04-03 12:24:55",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 20
+        }
+    },
     "RxUEGcZs05": {
         "id": "RxUEGcZs05",
         "title": "Убить пересмешника",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 69
-        }
-    },
-    "JJ9MQEXET5": {
-        "id": "JJ9MQEXET5",
-        "title": "Трон Люцифера",
-        "author": "Еремей Парнов",
-        "notes": "",
-        "createdAt": "2019-03-30 07:28:30",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 68
         }
     }
 }

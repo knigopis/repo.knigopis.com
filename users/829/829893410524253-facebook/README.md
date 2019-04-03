@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>19</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>20</sup>
 ---
 
 ## 2019
+
+### В круге первом
+Александр Солженицын
+> [2019-03-02] 7/10 Интересный сюжет, глубоко раскрыта психология осужденных инжинеров, отлично описана гнилая совковая система.
+
 
 ### Ігри, у які грають люди
 Ерік Берн

@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 20,
+        "updatedAt": "2019-04-03 12:24:55"
+    },
     "428829792-yandex": {
         "id": "428829792-yandex",
         "nickname": "panfilova.lena1",
@@ -172,11 +178,5 @@
         "nickname": "Maria",
         "booksCount": 0,
         "updatedAt": "2019-03-25 18:56:22"
-    },
-    "521873425-vkontakte": {
-        "id": "521873425-vkontakte",
-        "nickname": "Lecowi",
-        "booksCount": 10,
-        "updatedAt": "2019-03-25 17:50:37"
     }
 }
