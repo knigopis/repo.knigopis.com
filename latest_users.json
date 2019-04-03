@@ -1,4 +1,10 @@
 {
+    "428829792-yandex": {
+        "id": "428829792-yandex",
+        "nickname": "panfilova.lena1",
+        "booksCount": 0,
+        "updatedAt": "2019-04-03 08:29:51"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": "Lecowi",
         "booksCount": 10,
         "updatedAt": "2019-03-25 17:50:37"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 131,
-        "updatedAt": "2019-03-25 15:14:48"
     }
 }
