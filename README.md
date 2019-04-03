@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Код лихорадки (Бегущий в лабиринте) ~ [realest1954](users/439/439398-vkontakte)<sup>2</sup>
+    > То ли фантастика, то ли фэнтези. Очень слабенько написано или перевод такой. Сюжет нереальный. Вспышки на солнце уничтожили города. У нас тут по сто раз в год вспышки на Солнце и ничего. Вирус привел к гибели населения, но не всех.Некая организация захватывает детей с иммунитетом от вируса и с помощью программистов и иных мозгоправов ищет противоядие. А я думал, что противоядие ищут люди с медицинским (биологическим) образованием...
+
 * В круге первом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>20</sup>
     > 7/10 Интересный сюжет, глубоко раскрыта психология осужденных инжинеров, отлично описана гнилая совковая система.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > - Нет, сэр, боялся - придётся отвечать за то, чего не делал.
 
 * Я попара ~ [Quaff](users/122/12267158-vkontakte)<sup>28</sup>
-    > Когда писательство, как развлечение.
 
 * Продажное королевство ~ [En](users/333/333646551-vkontakte)<sup>63</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Убийство на пляже ~ [kissamasya](users/684/68439978-vkontakte)<sup>52</sup>
 
-* Билет на балкон ~ [Chiffi](users/105/105831994080785626680-google)<sup>111</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[realest1954](users/439/439398-vkontakte)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>20</sup> 
 [panfilova.lena1](users/428/428829792-yandex)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>19</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>55</sup> 
 [igor.dobryninsky](users/185/185991558-yandex)<sup>0</sup> 
 [Анна Зимина ](users/181/181937782-vkontakte)<sup>0</sup> 
-[Maria](users/109/109518477210427634221-google)<sup>0</sup> 
 
 
-_03.04.2019 12:24:55_
+_03.04.2019 15:25:00_
