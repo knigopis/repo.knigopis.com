@@ -1,4 +1,16 @@
 {
+    "IzEP76vJ9E": {
+        "id": "IzEP76vJ9E",
+        "title": "В дороге",
+        "author": "Джек Керуак",
+        "notes": "",
+        "createdAt": "2019-04-04 00:13:39",
+        "user": {
+            "id": "104448632954411726505-google",
+            "nickname": "белая плесень",
+            "booksCount": 16
+        }
+    },
     "2CTiszjQmo": {
         "id": "2CTiszjQmo",
         "title": "Горе от ума",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 69
-        }
-    },
-    "EfpMbC-6oX": {
-        "id": "EfpMbC-6oX",
-        "title": "Багдадская встреча",
-        "author": "Кристи Агата",
-        "notes": "",
-        "createdAt": "2019-03-30 10:32:04",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 98
         }
     }
 }
