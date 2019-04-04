@@ -1,4 +1,16 @@
 {
+    "2CTiszjQmo": {
+        "id": "2CTiszjQmo",
+        "title": "Горе от ума",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-04-04 00:12:28",
+        "user": {
+            "id": "104448632954411726505-google",
+            "nickname": "белая плесень",
+            "booksCount": 15
+        }
+    },
     "m6yPH99m9k": {
         "id": "m6yPH99m9k",
         "title": "Код лихорадки (Бегущий в лабиринте)",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 98
-        }
-    },
-    "HTBC3y7jA7": {
-        "id": "HTBC3y7jA7",
-        "title": "Путин",
-        "author": "Владимир Соловьев",
-        "notes": "",
-        "createdAt": "2019-03-30 07:32:01",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 70
         }
     }
 }

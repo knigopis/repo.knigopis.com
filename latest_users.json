@@ -1,4 +1,10 @@
 {
+    "104448632954411726505-google": {
+        "id": "104448632954411726505-google",
+        "nickname": "белая плесень",
+        "booksCount": 15,
+        "updatedAt": "2019-04-04 00:12:28"
+    },
     "439398-vkontakte": {
         "id": "439398-vkontakte",
         "nickname": "realest1954",
@@ -172,11 +178,5 @@
         "nickname": "igor.dobryninsky",
         "booksCount": 0,
         "updatedAt": "2019-03-26 10:40:03"
-    },
-    "181937782-vkontakte": {
-        "id": "181937782-vkontakte",
-        "nickname": "Анна Зимина ",
-        "booksCount": 0,
-        "updatedAt": "2019-03-26 06:10:08"
     }
 }
