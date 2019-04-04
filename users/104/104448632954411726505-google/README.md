@@ -1,7 +1,12 @@
-# List of books read by [белая плесень](https://plus.google.com/104448632954411726505)<sup>19</sup>
+# List of books read by [белая плесень](https://plus.google.com/104448632954411726505)<sup>20</sup>
 ---
 
 ## 2019
+
+### Сторож
+Максим Горький
+> [2019-04-04] 
+
 
 ### Карамора
 Максим Горький
