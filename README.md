@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[белая плесень](users/104/104448632954411726505-google)<sup>20</sup> 
+[белая плесень](users/104/104448632954411726505-google)<sup>19</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>20</sup> 
 [panfilova.lena1](users/428/428829792-yandex)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [igor.dobryninsky](users/185/185991558-yandex)<sup>0</sup> 
 
 
-_04.04.2019 00:18:32_
+_04.04.2019 00:18:54_
