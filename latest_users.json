@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 196,
+        "updatedAt": "2019-04-05 21:08:44"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 55,
         "updatedAt": "2019-03-26 12:38:34"
-    },
-    "185991558-yandex": {
-        "id": "185991558-yandex",
-        "nickname": "igor.dobryninsky",
-        "booksCount": 0,
-        "updatedAt": "2019-03-26 10:40:03"
     }
 }

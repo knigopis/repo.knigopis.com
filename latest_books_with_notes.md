@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Записки с мёртвой станции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>196</sup>
 * КлаТбище домашних жЫвотных ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>70</sup>
 * Код лихорадки (Бегущий в лабиринте) ~ [realest1954](users/439/439398-vkontakte)<sup>2</sup>
 * В круге первом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>20</sup>
@@ -30,7 +31,6 @@
 * Глодные игры ~ [kissamasya](users/684/68439978-vkontakte)<sup>49</sup>
 * 👹 Судные дни ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>65</sup>
 * Час Быка ~ [Garka](users/115/115753719718250012620-google)<sup>213</sup>
-* The True Believer: Thoughts on the Nature of Mass Movements ~ [exulted](users/100/100599204551896265722-google)<sup>99</sup>
 
 
-_05.04.2019 14:26:37_
+_05.04.2019 21:08:45_
