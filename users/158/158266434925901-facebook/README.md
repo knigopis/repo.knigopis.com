@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>69</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>70</sup>
 ---
 
 ## 2019
+
+### КлаТбище домашних жЫвотных
+Стивен Кинг
+> [2019-04-06] 477 страниц
+
 
 ### 🧚‍♀️ЖИЗНЬ ЭЛЬФОВ
 Мюриель Барбери

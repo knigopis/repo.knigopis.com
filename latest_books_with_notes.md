@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* КлаТбище домашних жЫвотных ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>70</sup>
 * Код лихорадки (Бегущий в лабиринте) ~ [realest1954](users/439/439398-vkontakte)<sup>2</sup>
 * В круге первом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>20</sup>
 * Убить пересмешника ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>19</sup>
@@ -30,7 +31,6 @@
 * 👹 Судные дни ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>65</sup>
 * Час Быка ~ [Garka](users/115/115753719718250012620-google)<sup>213</sup>
 * The True Believer: Thoughts on the Nature of Mass Movements ~ [exulted](users/100/100599204551896265722-google)<sup>99</sup>
-* Тобол. Много званых ~ [exulted](users/100/100599204551896265722-google)<sup>98</sup>
 
 
-_03.04.2019 15:25:00_
+_05.04.2019 14:26:37_
