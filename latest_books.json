@@ -1,4 +1,16 @@
 {
+    "50KEyVQBop": {
+        "id": "50KEyVQBop",
+        "title": "Охотник за тенью",
+        "author": "Донато Кариззи",
+        "notes": "",
+        "createdAt": "2019-04-07 19:11:04",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 12
+        }
+    },
     "51YIlmsAXV": {
         "id": "51YIlmsAXV",
         "title": "Селфи. Почему мы зациклены на себе и как это на нас влияет",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 60
-        }
-    },
-    "eCWvLp3qLP": {
-        "id": "eCWvLp3qLP",
-        "title": "Троецарствие",
-        "author": "Ло Гуань-Чжун",
-        "notes": "",
-        "createdAt": "2019-03-31 18:13:19",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 59
         }
     }
 }

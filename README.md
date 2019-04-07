@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>12</sup> 
 [marino4kasweet](users/992/99235108-yandex)<sup>8</sup> 
 [](users/114/114658477696541181930-google)<sup>3</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>196</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [El_chico](users/103/103517499148226684110-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>25</sup> 
 [Blaze](users/405/405143526966995-facebook)<sup>1</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>11</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>214</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>101</sup> 
 [Anastasia](users/197/197404441-vkontakte)<sup>0</sup> 
 
 
-_07.04.2019 13:24:39_
+_07.04.2019 19:11:04_
