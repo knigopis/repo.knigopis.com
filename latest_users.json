@@ -1,4 +1,10 @@
 {
+    "114658477696541181930-google": {
+        "id": "114658477696541181930-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-04-07 10:54:09"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "Lost in Frost",
         "booksCount": 133,
         "updatedAt": "2019-03-27 07:14:03"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 55,
-        "updatedAt": "2019-03-26 12:38:34"
     }
 }
