@@ -1,4 +1,16 @@
 {
+    "eOrS5kOLfn": {
+        "id": "eOrS5kOLfn",
+        "title": "Дюна",
+        "author": "Фрэнк Герберт",
+        "notes": "",
+        "createdAt": "2019-04-07 10:56:47",
+        "user": {
+            "id": "114658477696541181930-google",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "wAqmyZjVfx": {
         "id": "wAqmyZjVfx",
         "title": "Правила виноделов",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 56
-        }
-    },
-    "wp4MB4f7_S": {
-        "id": "wp4MB4f7_S",
-        "title": "Пять поросят",
-        "author": "Кристи Агата",
-        "notes": "",
-        "createdAt": "2019-03-31 17:42:15",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 102
         }
     }
 }

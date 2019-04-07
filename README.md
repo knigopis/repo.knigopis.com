@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/114/114658477696541181930-google)<sup>1</sup> 
+[](users/114/114658477696541181930-google)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>196</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>70</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>20</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>133</sup> 
 
 
-_07.04.2019 10:55:21_
+_07.04.2019 10:56:47_
