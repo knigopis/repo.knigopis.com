@@ -1,4 +1,16 @@
 {
+    "C5s5-ZrLiE": {
+        "id": "C5s5-ZrLiE",
+        "title": "Homo Deus. Краткая история будущего",
+        "author": "Юваль Ной Харари",
+        "notes": "",
+        "createdAt": "2019-04-07 13:22:50",
+        "user": {
+            "id": "99235108-yandex",
+            "nickname": "marino4kasweet",
+            "booksCount": 7
+        }
+    },
     "YFHuFV5xBo": {
         "id": "YFHuFV5xBo",
         "title": "Похороните меня за плинтусом",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 58
-        }
-    },
-    "xGzfOHpIIZ": {
-        "id": "xGzfOHpIIZ",
-        "title": "Мифы Древнего Китая",
-        "author": "Кэ Юань",
-        "notes": "",
-        "createdAt": "2019-03-31 18:12:15",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 57
         }
     }
 }

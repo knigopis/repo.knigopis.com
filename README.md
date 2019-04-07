@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[marino4kasweet](users/992/99235108-yandex)<sup>7</sup> 
 [](users/114/114658477696541181930-google)<sup>3</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>196</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>70</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>214</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>101</sup> 
 [Anastasia](users/197/197404441-vkontakte)<sup>0</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>133</sup> 
 
 
-_07.04.2019 10:57:27_
+_07.04.2019 13:22:50_

@@ -1,7 +1,12 @@
-# List of books read by marino4kasweet<sup>6</sup>
+# List of books read by marino4kasweet<sup>7</sup>
 ---
 
 ## 2019
+
+### Homo Deus. Краткая история будущего
+Юваль Ной Харари
+> [2019-03] 
+
 
 ### Подсознание может все!
 Джон Кехо

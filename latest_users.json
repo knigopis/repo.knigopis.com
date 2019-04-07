@@ -1,4 +1,10 @@
 {
+    "99235108-yandex": {
+        "id": "99235108-yandex",
+        "nickname": "marino4kasweet",
+        "booksCount": 7,
+        "updatedAt": "2019-04-07 13:22:50"
+    },
     "114658477696541181930-google": {
         "id": "114658477696541181930-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Anastasia",
         "booksCount": 0,
         "updatedAt": "2019-03-27 08:59:18"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Lost in Frost",
-        "booksCount": 133,
-        "updatedAt": "2019-03-27 07:14:03"
     }
 }
