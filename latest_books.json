@@ -1,4 +1,16 @@
 {
+    "YFHuFV5xBo": {
+        "id": "YFHuFV5xBo",
+        "title": "Похороните меня за плинтусом",
+        "author": "Павел Санаев",
+        "notes": "",
+        "createdAt": "2019-04-07 10:57:27",
+        "user": {
+            "id": "114658477696541181930-google",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "eOrS5kOLfn": {
         "id": "eOrS5kOLfn",
         "title": "Дюна",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 57
-        }
-    },
-    "t0sQO6YeTa": {
-        "id": "t0sQO6YeTa",
-        "title": "Шелковый путь. Дорога тканей, рабов, идей и религий",
-        "author": "Питер Франкопан",
-        "notes": "",
-        "createdAt": "2019-03-31 18:11:55",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 56
         }
     }
 }
