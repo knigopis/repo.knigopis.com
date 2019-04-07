@@ -1,4 +1,16 @@
 {
+    "51YIlmsAXV": {
+        "id": "51YIlmsAXV",
+        "title": "Селфи. Почему мы зациклены на себе и как это на нас влияет",
+        "author": "Уилл Сторр",
+        "notes": "",
+        "createdAt": "2019-04-07 13:24:39",
+        "user": {
+            "id": "99235108-yandex",
+            "nickname": "marino4kasweet",
+            "booksCount": 8
+        }
+    },
     "C5s5-ZrLiE": {
         "id": "C5s5-ZrLiE",
         "title": "Homo Deus. Краткая история будущего",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 59
-        }
-    },
-    "-a_i39JBRY": {
-        "id": "-a_i39JBRY",
-        "title": "Хризантема и меч",
-        "author": "Рут Бенедикт",
-        "notes": "",
-        "createdAt": "2019-03-31 18:12:54",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 58
         }
     }
 }

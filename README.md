@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[marino4kasweet](users/992/99235108-yandex)<sup>7</sup> 
+[marino4kasweet](users/992/99235108-yandex)<sup>8</sup> 
 [](users/114/114658477696541181930-google)<sup>3</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>196</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>70</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Anastasia](users/197/197404441-vkontakte)<sup>0</sup> 
 
 
-_07.04.2019 13:22:50_
+_07.04.2019 13:24:39_
