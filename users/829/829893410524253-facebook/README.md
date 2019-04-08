@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>20</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>21</sup>
 ---
 
 ## 2019
+
+### Джек-потрошитель с Хрещатика
+Лада Лузина
+> [2019-04-08] 10/10 Киевские ведьмы ищут Третий провал. Биография Котарбинского.
+
 
 ### В круге первом
 Александр Солженицын

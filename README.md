@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Джек-потрошитель с Хрещатика ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>21</sup>
+    > 10/10 Киевские ведьмы ищут Третий провал. Биография Котарбинского.
+
 * Записки с мёртвой станции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>196</sup>
     > Очень хорошая и в общем небольшая книга, которую полез перечитывать по мотивам блокбастера "Салют-7". Про фильм - ни слова. Снят отлично, но руки бы режиссёру вырвать. Виктор Петрович очень хорошо рассказывает о работе космонавтов и очень ярко показывает простую истину: даже при отличном планировании КПД отдельного дня иногда очень невелик. Это нормально :)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 477 страниц
 
 * Код лихорадки (Бегущий в лабиринте) ~ [realest1954](users/439/439398-vkontakte)<sup>2</sup>
-    > То ли фантастика, то ли фэнтези. Очень слабенько написано или перевод такой. Сюжет нереальный. Вспышки на солнце уничтожили города. У нас тут по сто раз в год вспышки на Солнце и ничего. Вирус привел к гибели населения, но не всех.Некая организация захватывает детей с иммунитетом от вируса и с помощью программистов и иных мозгоправов ищет противоядие. А я думал, что противоядие ищут люди с медицинским (биологическим) образованием...
 
 * В круге первом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>20</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Безумен род людской ~ [kissamasya](users/684/68439978-vkontakte)<sup>53</sup>
 
-* Техподдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>113</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>21</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>160</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>12</sup> 
 [marino4kasweet](users/992/99235108-yandex)<sup>8</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>70</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>20</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>2</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>20</sup> 
 [panfilova.lena1](users/428/428829792-yandex)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>19</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>28</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>101</sup> 
 
 
-_08.04.2019 11:52:20_
+_08.04.2019 13:25:49_
