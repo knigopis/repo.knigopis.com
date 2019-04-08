@@ -1,4 +1,16 @@
 {
+    "7jSg3Xf_16": {
+        "id": "7jSg3Xf_16",
+        "title": "Холодный дом",
+        "author": "Чарльз Диккенс",
+        "notes": "",
+        "createdAt": "2019-04-08 11:52:19",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 160
+        }
+    },
     "50KEyVQBop": {
         "id": "50KEyVQBop",
         "title": "Охотник за тенью",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 53
-        }
-    },
-    "VPHj8gS4mf": {
-        "id": "VPHj8gS4mf",
-        "title": "Армии Древнего Китая. 3 в. до н.э. - 3 в. н.э.",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-03-31 18:15:08",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 60
         }
     }
 }
