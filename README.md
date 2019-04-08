@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сияние ~ [Garka](users/115/115753719718250012620-google)<sup>215</sup>
+    > Книга супер. Очень зацепило описание психологического состояния Джека - одно дело наблюдать, как сходит с ума любимый человек (что, безусловно, ужасно), но еще хуже самому сходить постепенно с ума, осознавать это, но не суметь противостоять этому
+
 * Джек-потрошитель с Хрещатика ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>21</sup>
     > 10/10 Киевские ведьмы ищут Третий провал. Биография Котарбинского.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень хорошая и в общем небольшая книга, которую полез перечитывать по мотивам блокбастера "Салют-7". Про фильм - ни слова. Снят отлично, но руки бы режиссёру вырвать. Виктор Петрович очень хорошо рассказывает о работе космонавтов и очень ярко показывает простую истину: даже при отличном планировании КПД отдельного дня иногда очень невелик. Это нормально :)
 
 * КлаТбище домашних жЫвотных ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>70</sup>
-    > 477 страниц
 
 * Код лихорадки (Бегущий в лабиринте) ~ [realest1954](users/439/439398-vkontakte)<sup>2</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Танатонавты ~ [En](users/333/333646551-vkontakte)<sup>62</sup>
 
-* Безумен род людской ~ [kissamasya](users/684/68439978-vkontakte)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>215</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>21</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>160</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>12</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [El_chico](users/103/103517499148226684110-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>25</sup> 
 [Blaze](users/405/405143526966995-facebook)<sup>1</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>214</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>101</sup> 
 
 
-_08.04.2019 13:25:49_
+_08.04.2019 15:52:35_
