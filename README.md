@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>351</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>215</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>21</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>160</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [El_chico](users/103/103517499148226684110-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>25</sup> 
 [Blaze](users/405/405143526966995-facebook)<sup>1</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>101</sup> 
 
 
-_08.04.2019 15:52:35_
+_09.04.2019 03:19:47_

@@ -1,4 +1,16 @@
 {
+    "t7YpDBeg70": {
+        "id": "t7YpDBeg70",
+        "title": "Ген директора",
+        "author": "Владимир Моженков",
+        "notes": "",
+        "createdAt": "2019-04-09 03:19:47",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 351
+        }
+    },
     "bifHvqtNUf": {
         "id": "bifHvqtNUf",
         "title": "Сияние",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 12
-        }
-    },
-    "uWZTvvjZVl": {
-        "id": "uWZTvvjZVl",
-        "title": "Завод апельсин",
-        "author": "Энтони Бёрджесс",
-        "notes": "",
-        "createdAt": "2019-03-31 22:31:04",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 17
         }
     }
 }
