@@ -1,4 +1,10 @@
 {
+    "108877393333244243144-google": {
+        "id": "108877393333244243144-google",
+        "nickname": "MaXFeeD",
+        "booksCount": 0,
+        "updatedAt": "2019-04-09 07:19:13"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "darb_el",
         "booksCount": 25,
         "updatedAt": "2019-03-29 02:18:16"
-    },
-    "405143526966995-facebook": {
-        "id": "405143526966995-facebook",
-        "nickname": "Blaze",
-        "booksCount": 1,
-        "updatedAt": "2019-03-29 00:56:30"
     }
 }
