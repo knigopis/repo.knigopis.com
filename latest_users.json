@@ -1,4 +1,10 @@
 {
+    "172616235-vkontakte": {
+        "id": "172616235-vkontakte",
+        "nickname": "black.kebab",
+        "booksCount": 0,
+        "updatedAt": "2019-04-09 21:02:05"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "olegshirokikh2001",
         "booksCount": 70,
         "updatedAt": "2019-03-30 07:32:01"
-    },
-    "103517499148226684110-google": {
-        "id": "103517499148226684110-google",
-        "nickname": "El_chico",
-        "booksCount": 0,
-        "updatedAt": "2019-03-29 11:27:28"
     }
 }
