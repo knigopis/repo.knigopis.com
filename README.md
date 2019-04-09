@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>696</sup> 
 [lucius](users/838/83820536-yandex)<sup>148</sup> 
 [MaXFeeD](users/108/108877393333244243144-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>351</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>114</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>12</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>17</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>695</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>53</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>60</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>102</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [El_chico](users/103/103517499148226684110-google)<sup>0</sup> 
 
 
-_09.04.2019 11:15:55_
+_09.04.2019 16:33:36_
