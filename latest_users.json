@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 148,
+        "updatedAt": "2019-04-09 11:15:55"
+    },
     "108877393333244243144-google": {
         "id": "108877393333244243144-google",
         "nickname": "MaXFeeD",
@@ -172,11 +178,5 @@
         "nickname": "El_chico",
         "booksCount": 0,
         "updatedAt": "2019-03-29 11:27:28"
-    },
-    "184135339-vkontakte": {
-        "id": "184135339-vkontakte",
-        "nickname": "darb_el",
-        "booksCount": 25,
-        "updatedAt": "2019-03-29 02:18:16"
     }
 }
