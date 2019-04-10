@@ -1,4 +1,16 @@
 {
+    "glcFOg6ZXD": {
+        "id": "glcFOg6ZXD",
+        "title": "Чайка",
+        "author": "А. П. Чехов",
+        "notes": "",
+        "createdAt": "2019-04-10 03:29:29",
+        "user": {
+            "id": "334696193054530347-mailru",
+            "nickname": "Даша",
+            "booksCount": 3
+        }
+    },
     "WQSuSIuKTL": {
         "id": "WQSuSIuKTL",
         "title": "Загадочная история Бенджамина Баттона",
@@ -345,18 +357,6 @@
             "id": "135346607-vkontakte",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "60Alew8FIz": {
-        "id": "60Alew8FIz",
-        "title": "Открытие Ведьм",
-        "author": "Дебора Харкнесс",
-        "notes": "",
-        "createdAt": "2019-04-02 06:04:35",
-        "user": {
-            "id": "695244810674916-facebook",
-            "nickname": "Eugene",
-            "booksCount": 20
         }
     }
 }
