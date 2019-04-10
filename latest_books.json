@@ -1,4 +1,16 @@
 {
+    "AOebGRhVQU": {
+        "id": "AOebGRhVQU",
+        "title": "Год, прожитый по-библейски",
+        "author": "Эй Джей Джейкобс",
+        "notes": "",
+        "createdAt": "2019-04-10 03:39:50",
+        "user": {
+            "id": "334696193054530347-mailru",
+            "nickname": "Даша",
+            "booksCount": 23
+        }
+    },
     "A1WjQx1Tti": {
         "id": "A1WjQx1Tti",
         "title": "Вторая жизнь Уве",
@@ -345,18 +357,6 @@
             "id": "99235108-yandex",
             "nickname": "marino4kasweet",
             "booksCount": 8
-        }
-    },
-    "C5s5-ZrLiE": {
-        "id": "C5s5-ZrLiE",
-        "title": "Homo Deus. Краткая история будущего",
-        "author": "Юваль Ной Харари",
-        "notes": "",
-        "createdAt": "2019-04-07 13:22:50",
-        "user": {
-            "id": "99235108-yandex",
-            "nickname": "marino4kasweet",
-            "booksCount": 7
         }
     }
 }
