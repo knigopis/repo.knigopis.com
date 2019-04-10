@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>74</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>18</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>32</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>114</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>53</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>60</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>102</sup> 
 
 
-_10.04.2019 16:15:18_
+_10.04.2019 18:13:05_
