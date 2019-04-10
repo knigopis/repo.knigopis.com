@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 13,
+        "updatedAt": "2019-04-10 09:53:00"
+    },
     "616195292-yandex": {
         "id": "616195292-yandex",
         "nickname": "uid-crjawhqa",
@@ -142,12 +148,6 @@
         "nickname": "Chiffi",
         "booksCount": 114,
         "updatedAt": "2019-04-01 12:23:43"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 12,
-        "updatedAt": "2019-04-01 10:37:17"
     },
     "200666735-vkontakte": {
         "id": "200666735-vkontakte",
