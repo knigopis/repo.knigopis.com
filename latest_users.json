@@ -1,4 +1,10 @@
 {
+    "168352502-vkontakte": {
+        "id": "168352502-vkontakte",
+        "nickname": "ohlordplsmakeanonlessofafaggot",
+        "booksCount": 0,
+        "updatedAt": "2019-04-10 20:45:54"
+    },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
         "nickname": "katrinvredina",
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 53,
         "updatedAt": "2019-03-31 18:40:13"
-    },
-    "170278332-vkontakte": {
-        "id": "170278332-vkontakte",
-        "nickname": "AlexeyNovikov",
-        "booksCount": 60,
-        "updatedAt": "2019-03-31 18:15:08"
     }
 }
