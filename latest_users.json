@@ -1,4 +1,10 @@
 {
+    "616195292-yandex": {
+        "id": "616195292-yandex",
+        "nickname": "uid-crjawhqa",
+        "booksCount": 0,
+        "updatedAt": "2019-04-10 05:52:22"
+    },
     "334696193054530347-mailru": {
         "id": "334696193054530347-mailru",
         "nickname": "Даша",
@@ -172,11 +178,5 @@
         "nickname": "svaliotsyudachmo",
         "booksCount": 0,
         "updatedAt": "2019-03-31 11:37:28"
-    },
-    "31359243-vkontakte": {
-        "id": "31359243-vkontakte",
-        "nickname": "rosaviktuk",
-        "booksCount": 27,
-        "updatedAt": "2019-03-30 19:00:51"
     }
 }
