@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Даша](users/334/334696193054530347-mailru)<sup>0</sup> 
 [black.kebab](users/172/172616235-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>696</sup> 
 [lucius](users/838/83820536-yandex)<sup>148</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>102</sup> 
 [svaliotsyudachmo](users/313/313258874-vkontakte)<sup>0</sup> 
 [rosaviktuk](users/313/31359243-vkontakte)<sup>27</sup> 
-[olegshirokikh2001](users/445/445474364-vkontakte)<sup>70</sup> 
 
 
-_09.04.2019 21:02:09_
+_10.04.2019 03:17:05_
