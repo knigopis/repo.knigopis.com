@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ohlordplsmakeanonlessofafaggot](users/168/168352502-vkontakte)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>74</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>18</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>32</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>63</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>114</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>53</sup> 
-[AlexeyNovikov](users/170/170278332-vkontakte)<sup>60</sup> 
 
 
-_10.04.2019 18:13:05_
+_10.04.2019 20:45:57_
