@@ -1,4 +1,10 @@
 {
+    "102536471289425216982-google": {
+        "id": "102536471289425216982-google",
+        "nickname": "Окс",
+        "booksCount": 32,
+        "updatedAt": "2019-04-10 15:28:41"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "le_brouillard",
         "booksCount": 102,
         "updatedAt": "2019-03-31 17:42:15"
-    },
-    "313258874-vkontakte": {
-        "id": "313258874-vkontakte",
-        "nickname": "svaliotsyudachmo",
-        "booksCount": 0,
-        "updatedAt": "2019-03-31 11:37:28"
     }
 }

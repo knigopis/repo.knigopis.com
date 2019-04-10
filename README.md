@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>32</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>13</sup> 
 [uid-crjawhqa](users/616/616195292-yandex)<sup>0</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>53</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>60</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>102</sup> 
-[svaliotsyudachmo](users/313/313258874-vkontakte)<sup>0</sup> 
 
 
-_10.04.2019 15:19:03_
+_10.04.2019 15:28:41_
