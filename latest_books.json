@@ -1,4 +1,16 @@
 {
+    "A1WjQx1Tti": {
+        "id": "A1WjQx1Tti",
+        "title": "Вторая жизнь Уве",
+        "author": "Фредрик Бакман",
+        "notes": "",
+        "createdAt": "2019-04-10 03:39:27",
+        "user": {
+            "id": "334696193054530347-mailru",
+            "nickname": "Даша",
+            "booksCount": 22
+        }
+    },
     "xy1A-tPr3w": {
         "id": "xy1A-tPr3w",
         "title": "Капитанская дочка",
@@ -345,18 +357,6 @@
             "id": "99235108-yandex",
             "nickname": "marino4kasweet",
             "booksCount": 7
-        }
-    },
-    "YFHuFV5xBo": {
-        "id": "YFHuFV5xBo",
-        "title": "Похороните меня за плинтусом",
-        "author": "Павел Санаев",
-        "notes": "",
-        "createdAt": "2019-04-07 10:57:27",
-        "user": {
-            "id": "114658477696541181930-google",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }
