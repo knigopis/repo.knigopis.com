@@ -1,4 +1,16 @@
 {
+    "uDiPibgMJg": {
+        "id": "uDiPibgMJg",
+        "title": "Дядя Ваня",
+        "author": "А. П. Чехов",
+        "notes": "",
+        "createdAt": "2019-04-10 03:30:06",
+        "user": {
+            "id": "334696193054530347-mailru",
+            "nickname": "Даша",
+            "booksCount": 6
+        }
+    },
     "kvbKEZ7ufN": {
         "id": "kvbKEZ7ufN",
         "title": "Вишневый сад",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 20
-        }
-    },
-    "RxUEGcZs05": {
-        "id": "RxUEGcZs05",
-        "title": "Убить пересмешника",
-        "author": "Харпер Ли",
-        "notes": "ISBN 978-5-17-083520-1\n- Боялся, что тебя арестуют, боялся, что придётся отвечать за то, что натворил?\n- Нет, сэр, боялся - придётся отвечать за то, чего не делал.",
-        "createdAt": "2019-04-02 17:20:43",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 19
         }
     }
 }
