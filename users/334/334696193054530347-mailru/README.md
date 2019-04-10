@@ -1,4 +1,4 @@
-# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>26</sup>
+# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>27</sup>
 ---
 
 ## 2018
@@ -119,6 +119,10 @@
 
 
 ## 2010
+
+### Мёртвые души
+Н.В. Гоголь
+
 
 ### Тёмные аллеи
 И.А. Бунин
