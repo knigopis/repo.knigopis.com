@@ -1,4 +1,16 @@
 {
+    "xcmkzWILxs": {
+        "id": "xcmkzWILxs",
+        "title": "Из глубины",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2019-04-10 03:40:19",
+        "user": {
+            "id": "334696193054530347-mailru",
+            "nickname": "Даша",
+            "booksCount": 24
+        }
+    },
     "AOebGRhVQU": {
         "id": "AOebGRhVQU",
         "title": "Год, прожитый по-библейски",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 12
-        }
-    },
-    "51YIlmsAXV": {
-        "id": "51YIlmsAXV",
-        "title": "Селфи. Почему мы зациклены на себе и как это на нас влияет",
-        "author": "Уилл Сторр",
-        "notes": "",
-        "createdAt": "2019-04-07 13:24:39",
-        "user": {
-            "id": "99235108-yandex",
-            "nickname": "marino4kasweet",
-            "booksCount": 8
         }
     }
 }
