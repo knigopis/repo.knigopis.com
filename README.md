@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Думай как миллиардер ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup>
+    > Понятно, я вряд ли буду когда-то совершать скажем те операции с недвижимостью, о которых пишет Трамп. Но мне интересно прежде всего то, как он мыслит и свои мысли излагает. В этом смысле очень простая и доходчивая книжка.
+    > 
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/137388914/
+
 * Происхождение видов путем естественного отбора ~ [lucius](users/838/83820536-yandex)<sup>148</sup>
     > Титанический труд великого ученого, которой перелопатил горы литературы, проводил множество опытов, общался со множеством натуралистов. 
     > Книга читается местами немного тяжело, просто потому что это научный труд и он весьма концетрирован.
@@ -14,7 +21,6 @@ Do not use pull requests to make changes here.
     > Книга супер. Очень зацепило описание психологического состояния Джека - одно дело наблюдать, как сходит с ума любимый человек (что, безусловно, ужасно), но еще хуже самому сходить постепенно с ума, осознавать это, но не суметь противостоять этому
 
 * Джек-потрошитель с Хрещатика ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>21</sup>
-    > 10/10 Киевские ведьмы ищут Третий провал. Биография Котарбинского.
 
 * Записки с мёртвой станции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>196</sup>
 
@@ -28,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Я попара ~ [Quaff](users/122/12267158-vkontakte)<sup>28</sup>
 
-* Продажное королевство ~ [En](users/333/333646551-vkontakte)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>13</sup> 
 [uid-crjawhqa](users/616/616195292-yandex)<sup>0</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>43</sup> 
@@ -49,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>12</sup> 
 [marino4kasweet](users/992/99235108-yandex)<sup>8</sup> 
 [](users/114/114658477696541181930-google)<sup>3</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>196</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>70</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>20</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>2</sup> 
@@ -67,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [svaliotsyudachmo](users/313/313258874-vkontakte)<sup>0</sup> 
 
 
-_10.04.2019 09:53:00_
+_10.04.2019 15:19:03_

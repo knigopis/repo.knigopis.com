@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Думай как миллиардер ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup>
 * Происхождение видов путем естественного отбора ~ [lucius](users/838/83820536-yandex)<sup>148</sup>
 * Сияние ~ [Garka](users/115/115753719718250012620-google)<sup>215</sup>
 * Джек-потрошитель с Хрещатика ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Тринадцатая сказка ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup>
 * Непослушное дитя биосферы ~ [youno](users/302/302928912-vkontakte)<sup>21</sup>
 * Техасская страсть ~ [kissamasya](users/684/68439978-vkontakte)<sup>50</sup>
-*  ~ [Chiffi](users/105/105831994080785626680-google)<sup>110</sup>
 
 
-_09.04.2019 11:15:55_
+_10.04.2019 15:19:03_

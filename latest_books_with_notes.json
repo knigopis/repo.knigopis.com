@@ -1,4 +1,16 @@
 {
+    "UfP2aLiSxn": {
+        "id": "UfP2aLiSxn",
+        "title": "Думай как миллиардер",
+        "author": "Дональд Трамп",
+        "notes": "Понятно, я вряд ли буду когда-то совершать скажем те операции с недвижимостью, о которых пишет Трамп. Но мне интересно прежде всего то, как он мыслит и свои мысли излагает. В этом смысле очень простая и доходчивая книжка.\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/137388914/",
+        "createdAt": "2019-04-10 15:19:03",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 197
+        }
+    },
     "xA87lxvjxw": {
         "id": "xA87lxvjxw",
         "title": "Происхождение видов путем естественного отбора",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 50
-        }
-    },
-    "Or8YA8ak1S": {
-        "id": "Or8YA8ak1S",
-        "title": "",
-        "author": "",
-        "notes": "https://rutlib5.com/book/28223",
-        "createdAt": "2019-03-15 05:32:36",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 110
         }
     }
 }
