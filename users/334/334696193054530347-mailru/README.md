@@ -1,4 +1,4 @@
-# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>35</sup>
+# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>36</sup>
 ---
 
 ## 2018
@@ -110,6 +110,10 @@
 
 
 ## 2015
+
+### Маленький принц
+Антуан де Сент-Экзюпери
+
 
 ### Собака Баскервилей
 Артур Конан Дойл
