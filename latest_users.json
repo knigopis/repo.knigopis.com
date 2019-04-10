@@ -1,4 +1,10 @@
 {
+    "200666735-vkontakte": {
+        "id": "200666735-vkontakte",
+        "nickname": "mavrentik",
+        "booksCount": 18,
+        "updatedAt": "2019-04-10 16:15:18"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -154,12 +160,6 @@
         "nickname": "Chiffi",
         "booksCount": 114,
         "updatedAt": "2019-04-01 12:23:43"
-    },
-    "200666735-vkontakte": {
-        "id": "200666735-vkontakte",
-        "nickname": "mavrentik",
-        "booksCount": 17,
-        "updatedAt": "2019-03-31 22:31:04"
     },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",

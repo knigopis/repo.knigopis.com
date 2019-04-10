@@ -1,7 +1,12 @@
-# List of books read by [mavrentik](http://vk.com/id200666735)<sup>17</sup>
+# List of books read by [mavrentik](http://vk.com/id200666735)<sup>18</sup>
 ---
 
 ## 2019
+
+### Над кукушкиным гнездом
+Кен Кизи
+> [2019-04-10] 
+
 
 ### Завод апельсин
 Энтони Бёрджесс
