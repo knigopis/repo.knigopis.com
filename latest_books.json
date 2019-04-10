@@ -1,4 +1,16 @@
 {
+    "0SCz3IL2G_": {
+        "id": "0SCz3IL2G_",
+        "title": "Великий Гэтсби",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2019-04-10 03:28:23",
+        "user": {
+            "id": "334696193054530347-mailru",
+            "nickname": "Даша",
+            "booksCount": 1
+        }
+    },
     "C9YGmqw7Wo": {
         "id": "C9YGmqw7Wo",
         "title": "Снег",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 63
-        }
-    },
-    "65AMIttMZZ": {
-        "id": "65AMIttMZZ",
-        "title": "Танатонавты",
-        "author": "Бернар Вербер",
-        "notes": "книга о смерти и покорении континента смерти. интересные вставки обо всех религиях по-немногу.",
-        "createdAt": "2019-04-02 02:19:45",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 62
         }
     }
 }
