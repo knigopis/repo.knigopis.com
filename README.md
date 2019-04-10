@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[uid-crjawhqa](users/616/616195292-yandex)<sup>0</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>43</sup> 
 [black.kebab](users/172/172616235-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>696</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>60</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>102</sup> 
 [svaliotsyudachmo](users/313/313258874-vkontakte)<sup>0</sup> 
-[rosaviktuk](users/313/31359243-vkontakte)<sup>27</sup> 
 
 
-_10.04.2019 03:58:22_
+_10.04.2019 05:52:25_
