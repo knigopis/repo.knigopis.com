@@ -1,4 +1,16 @@
 {
+    "TGypMOZQkr": {
+        "id": "TGypMOZQkr",
+        "title": "Три сестры",
+        "author": "А. П. Чехов",
+        "notes": "",
+        "createdAt": "2019-04-10 03:29:42",
+        "user": {
+            "id": "334696193054530347-mailru",
+            "nickname": "Даша",
+            "booksCount": 4
+        }
+    },
     "glcFOg6ZXD": {
         "id": "glcFOg6ZXD",
         "title": "Чайка",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 28
-        }
-    },
-    "I4mbQo8Tdm": {
-        "id": "I4mbQo8Tdm",
-        "title": "Атлант расправил плечи",
-        "author": "Айн Рэнд",
-        "notes": "",
-        "createdAt": "2019-04-02 08:20:18",
-        "user": {
-            "id": "135346607-vkontakte",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
