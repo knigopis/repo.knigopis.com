@@ -1,7 +1,11 @@
-# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>8</sup>
+# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>9</sup>
 ---
 
 ## 2018
+
+### Мартин Иден
+Джек Лондон
+
 
 ### Драма на охоте
 А. П. Чехов
