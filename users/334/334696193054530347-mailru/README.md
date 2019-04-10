@@ -1,7 +1,11 @@
-# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>24</sup>
+# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>25</sup>
 ---
 
 ## 2018
+
+### Краткая история времени
+Стивен Хоккинг
+
 
 ### Вторая жизнь Уве
 Фредрик Бакман
