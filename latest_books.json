@@ -1,4 +1,16 @@
 {
+    "kvbKEZ7ufN": {
+        "id": "kvbKEZ7ufN",
+        "title": "Вишневый сад",
+        "author": "А. П. Чехов",
+        "notes": "",
+        "createdAt": "2019-04-10 03:29:52",
+        "user": {
+            "id": "334696193054530347-mailru",
+            "nickname": "Даша",
+            "booksCount": 5
+        }
+    },
     "TGypMOZQkr": {
         "id": "TGypMOZQkr",
         "title": "Три сестры",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 19
-        }
-    },
-    "BZfOzxug_m": {
-        "id": "BZfOzxug_m",
-        "title": "Я попара",
-        "author": "Кира Измайлова",
-        "notes": "Когда писательство, как развлечение.",
-        "createdAt": "2019-04-02 14:31:18",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 28
         }
     }
 }
