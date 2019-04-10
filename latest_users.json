@@ -1,4 +1,10 @@
 {
+    "334696193054530347-mailru": {
+        "id": "334696193054530347-mailru",
+        "nickname": "Даша",
+        "booksCount": 0,
+        "updatedAt": "2019-04-10 03:17:01"
+    },
     "172616235-vkontakte": {
         "id": "172616235-vkontakte",
         "nickname": "black.kebab",
@@ -172,11 +178,5 @@
         "nickname": "rosaviktuk",
         "booksCount": 27,
         "updatedAt": "2019-03-30 19:00:51"
-    },
-    "445474364-vkontakte": {
-        "id": "445474364-vkontakte",
-        "nickname": "olegshirokikh2001",
-        "booksCount": 70,
-        "updatedAt": "2019-03-30 07:32:01"
     }
 }
