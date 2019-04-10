@@ -1,4 +1,4 @@
-# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>31</sup>
+# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>32</sup>
 ---
 
 ## 2018
@@ -106,6 +106,10 @@
 
 
 ## 2015
+
+### Этюд в багровых тонах
+Артур Конан Дойл
+
 
 ### Приключения Шерлока Холмса
 Артур Конан Дойл
