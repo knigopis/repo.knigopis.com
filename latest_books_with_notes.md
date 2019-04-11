@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Неизвестный Кими Райкконен ~ [Garka](users/115/115753719718250012620-google)<sup>216</sup>
 * Думай как миллиардер ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup>
 * Происхождение видов путем естественного отбора ~ [lucius](users/838/83820536-yandex)<sup>148</sup>
 * Сияние ~ [Garka](users/115/115753719718250012620-google)<sup>215</sup>
@@ -30,7 +31,6 @@
 * Декларация смерти ~ [](users/262/262062207519652-facebook)<sup>3</sup>
 * Тринадцатая сказка ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup>
 * Непослушное дитя биосферы ~ [youno](users/302/302928912-vkontakte)<sup>21</sup>
-* Техасская страсть ~ [kissamasya](users/684/68439978-vkontakte)<sup>50</sup>
 
 
-_10.04.2019 15:19:03_
+_11.04.2019 16:36:26_

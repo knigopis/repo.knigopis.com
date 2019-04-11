@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Неизвестный Кими Райкконен ~ [Garka](users/115/115753719718250012620-google)<sup>216</sup>
+    > Слежу за карьерой Кими ещё с 2002года, со времён Макларена. Всегда восхищалась его талантом, его спокойствием и уморительными репликами на пресс-конференциях. Книга очень понравилась, особую изюминку предало то, что автор очень далёк от мира автоспорта и абсолютно не разбирается в Формуле-1
+
 * Думай как миллиардер ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup>
     > Понятно, я вряд ли буду когда-то совершать скажем те операции с недвижимостью, о которых пишет Трамп. Но мне интересно прежде всего то, как он мыслит и свои мысли излагает. В этом смысле очень простая и доходчивая книжка.
     > 
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > Основные идеи учения я, конечно, знал, но на многие аспекты не обращал внимания. В книге так же рассмотрены основные возражения к теории, что тоже даёт прекрасную пищу для ума.
 
 * Сияние ~ [Garka](users/115/115753719718250012620-google)<sup>215</sup>
-    > Книга супер. Очень зацепило описание психологического состояния Джека - одно дело наблюдать, как сходит с ума любимый человек (что, безусловно, ужасно), но еще хуже самому сходить постепенно с ума, осознавать это, но не суметь противостоять этому
 
 * Джек-потрошитель с Хрещатика ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>21</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Убить пересмешника ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>19</sup>
 
-* Я попара ~ [Quaff](users/122/12267158-vkontakte)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>216</sup> 
 [ohlordplsmakeanonlessofafaggot](users/168/168352502-vkontakte)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>74</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>18</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>148</sup> 
 [MaXFeeD](users/108/108877393333244243144-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>351</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>215</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>21</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>160</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>12</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>53</sup> 
 
 
-_10.04.2019 20:45:57_
+_11.04.2019 16:36:26_
