@@ -1,7 +1,12 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>32</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>16</sup>
 ---
 
 ## 2019
+
+### Испанская живопись XIV-XVIII веков в Эрмитаже
+КАГАНЭ Л.Л.
+> [2019-04-13] 
+
 
 ### Фламандская доска
 ПЕРЕС-РЕВЕРТЕ Артуро

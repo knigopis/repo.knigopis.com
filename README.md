@@ -39,11 +39,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>216</sup> 
 [ohlordplsmakeanonlessofafaggot](users/168/168352502-vkontakte)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>74</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>18</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>32</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>13</sup> 
 [uid-crjawhqa](users/616/616195292-yandex)<sup>0</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>53</sup> 
 
 
-_11.04.2019 16:36:26_
+_12.04.2019 22:34:34_
