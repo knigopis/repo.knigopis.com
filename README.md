@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fox_mi](users/220/220022778-vkontakte)<sup>24</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>216</sup> 
 [ohlordplsmakeanonlessofafaggot](users/168/168352502-vkontakte)<sup>0</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eugene](users/695/695244810674916-facebook)<sup>20</sup> 
 [En](users/333/333646551-vkontakte)<sup>63</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>114</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>53</sup> 
 
 
-_12.04.2019 22:34:34_
+_13.04.2019 09:52:56_

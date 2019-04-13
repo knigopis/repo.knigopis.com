@@ -1,4 +1,10 @@
 {
+    "220022778-vkontakte": {
+        "id": "220022778-vkontakte",
+        "nickname": "fox_mi",
+        "booksCount": 24,
+        "updatedAt": "2019-04-13 09:52:56"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 114,
         "updatedAt": "2019-04-01 12:23:43"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 53,
-        "updatedAt": "2019-03-31 18:40:13"
     }
 }
