@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Retona](users/531/531751113661013-facebook)<sup>0</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>24</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>216</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/135/135346607-vkontakte)<sup>1</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>20</sup> 
 [En](users/333/333646551-vkontakte)<sup>63</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>114</sup> 
 
 
-_13.04.2019 09:52:56_
+_13.04.2019 10:16:00_
