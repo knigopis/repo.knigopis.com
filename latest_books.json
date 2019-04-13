@@ -1,4 +1,16 @@
 {
+    "gP1oxnNXul": {
+        "id": "gP1oxnNXul",
+        "title": "Кладбище домашних животных",
+        "author": "Стивен Кинг",
+        "notes": "Захватывающий роман от короля ужасов, рекомендую к прочтению!",
+        "createdAt": "2019-04-13 10:47:54",
+        "user": {
+            "id": "531751113661013-facebook",
+            "nickname": "Retona",
+            "booksCount": 1
+        }
+    },
     "Z5uX-YqeV6": {
         "id": "Z5uX-YqeV6",
         "title": "все новые сказки",
@@ -345,18 +357,6 @@
             "id": "334696193054530347-mailru",
             "nickname": "Даша",
             "booksCount": 22
-        }
-    },
-    "xy1A-tPr3w": {
-        "id": "xy1A-tPr3w",
-        "title": "Капитанская дочка",
-        "author": "А. С. Пушкин",
-        "notes": "",
-        "createdAt": "2019-04-10 03:37:39",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 21
         }
     }
 }
