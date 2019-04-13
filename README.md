@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>697</sup> 
 [Retona](users/531/531751113661013-facebook)<sup>3</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>133</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>24</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [uid-crjawhqa](users/616/616195292-yandex)<sup>0</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>43</sup> 
 [black.kebab](users/172/172616235-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>696</sup> 
 [lucius](users/838/83820536-yandex)<sup>148</sup> 
 [MaXFeeD](users/108/108877393333244243144-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>351</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eugene](users/695/695244810674916-facebook)<sup>20</sup> 
 
 
-_13.04.2019 16:53:04_
+_13.04.2019 18:17:15_

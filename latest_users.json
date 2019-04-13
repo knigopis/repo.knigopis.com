@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 697,
+        "updatedAt": "2019-04-13 18:17:15"
+    },
     "531751113661013-facebook": {
         "id": "531751113661013-facebook",
         "nickname": "Retona",
@@ -76,12 +82,6 @@
         "nickname": "black.kebab",
         "booksCount": 0,
         "updatedAt": "2019-04-09 21:02:05"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 696,
-        "updatedAt": "2019-04-09 16:33:35"
     },
     "83820536-yandex": {
         "id": "83820536-yandex",
