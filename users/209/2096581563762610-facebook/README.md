@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>12</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>13</sup>
 ---
 
 ## 2019
+
+### Маэстро теней
+Донато Кариззи
+> [2019-04-13] 
+
 
 ### Охотник за тенью
 Донато Кариззи
