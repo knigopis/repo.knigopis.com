@@ -1,4 +1,10 @@
 {
+    "531751113661013-facebook": {
+        "id": "531751113661013-facebook",
+        "nickname": "Retona",
+        "booksCount": 0,
+        "updatedAt": "2019-04-13 10:15:58"
+    },
     "220022778-vkontakte": {
         "id": "220022778-vkontakte",
         "nickname": "fox_mi",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 63,
         "updatedAt": "2019-04-02 02:21:58"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 114,
-        "updatedAt": "2019-04-01 12:23:43"
     }
 }
