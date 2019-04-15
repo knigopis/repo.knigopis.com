@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* ВОЙНА ХАОСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>71</sup>
 * Неизвестный Кими Райкконен ~ [Garka](users/115/115753719718250012620-google)<sup>216</sup>
 * Думай как миллиардер ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup>
 * Происхождение видов путем естественного отбора ~ [lucius](users/838/83820536-yandex)<sup>148</sup>
@@ -30,7 +31,6 @@
 * О дивный новый мир ~ [Ангелина](users/837/83788782-vkontakte)<sup>56</sup>
 * Декларация смерти ~ [](users/262/262062207519652-facebook)<sup>3</sup>
 * Тринадцатая сказка ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup>
-* Непослушное дитя биосферы ~ [youno](users/302/302928912-vkontakte)<sup>21</sup>
 
 
-_11.04.2019 16:36:26_
+_15.04.2019 05:53:18_

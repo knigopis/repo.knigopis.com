@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>70</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>71</sup>
 ---
 
 ## 2019
+
+### ВОЙНА ХАОСА
+Патрик Несс
+> [2019-04-15] 543
+
 
 ### КлаТбище домашних жЫвотных
 Стивен Кинг
