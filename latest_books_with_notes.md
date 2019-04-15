@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Введение в контент-маркетинг. Теория и практика ~ [kissamasya](users/684/68439978-vkontakte)<sup>54</sup>
 * ВОЙНА ХАОСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>71</sup>
 * Неизвестный Кими Райкконен ~ [Garka](users/115/115753719718250012620-google)<sup>216</sup>
 * Думай как миллиардер ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup>
@@ -30,7 +31,6 @@
 * Шум и ярость ~ [Ангелина](users/837/83788782-vkontakte)<sup>57</sup>
 * О дивный новый мир ~ [Ангелина](users/837/83788782-vkontakte)<sup>56</sup>
 * Декларация смерти ~ [](users/262/262062207519652-facebook)<sup>3</sup>
-* Тринадцатая сказка ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>17</sup>
 
 
-_15.04.2019 05:53:18_
+_15.04.2019 07:36:30_
