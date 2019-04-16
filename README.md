@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Властелин хаоса (Серия: Колесо времени 6/16) ~ [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup>
+    > Стала читать медленней, ибо времени нет.
+    > 6я книга, 6! Умираю. Но черт, как же интересно
+
 * Введение в контент-маркетинг. Теория и практика ~ [kissamasya](users/684/68439978-vkontakte)<sup>54</sup>
     > Книга рассказывает об основах контент-маркетинга, его отличиях от других подходов и практик. Как создать стратегию контент-маркетинга, измерять эффективность? Как используется контент-маркетинг в разных сферах и отраслях? «Введение в контент-маркетинг» – это ответы на базовые вопросы об этом инструменте.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > 543
 
 * Неизвестный Кими Райкконен ~ [Garka](users/115/115753719718250012620-google)<sup>216</sup>
-    > Слежу за карьерой Кими ещё с 2002года, со времён Макларена. Всегда восхищалась его талантом, его спокойствием и уморительными репликами на пресс-конференциях. Книга очень понравилась, особую изюминку предало то, что автор очень далёк от мира автоспорта и абсолютно не разбирается в Формуле-1
 
 * Думай как миллиардер ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * КлаТбище домашних жЫвотных ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>70</sup>
 
-* Код лихорадки (Бегущий в лабиринте) ~ [realest1954](users/439/439398-vkontakte)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kasikandriena](users/152/152488954-vkontakte)<sup>56</sup> 
 [CherlockAlex](users/100/100784255659089961550-google)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>54</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>71</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [realest1954](users/439/439398-vkontakte)<sup>2</sup> 
 [panfilova.lena1](users/428/428829792-yandex)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>19</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>28</sup> 
 
 
-_16.04.2019 06:35:06_
+_16.04.2019 12:41:53_

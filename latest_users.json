@@ -1,4 +1,10 @@
 {
+    "152488954-vkontakte": {
+        "id": "152488954-vkontakte",
+        "nickname": "kasikandriena",
+        "booksCount": 56,
+        "updatedAt": "2019-04-16 12:41:53"
+    },
     "100784255659089961550-google": {
         "id": "100784255659089961550-google",
         "nickname": "CherlockAlex",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 19,
         "updatedAt": "2019-04-02 17:20:43"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 28,
-        "updatedAt": "2019-04-02 14:31:18"
     }
 }

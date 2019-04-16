@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Властелин хаоса (Серия: Колесо времени 6/16) ~ [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup>
 * Введение в контент-маркетинг. Теория и практика ~ [kissamasya](users/684/68439978-vkontakte)<sup>54</sup>
 * ВОЙНА ХАОСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>71</sup>
 * Неизвестный Кими Райкконен ~ [Garka](users/115/115753719718250012620-google)<sup>216</sup>
@@ -30,7 +31,6 @@
 * Игра кота 1-7 ~ [Tr](users/122/12282474-vkontakte)<sup>71</sup>
 * Шум и ярость ~ [Ангелина](users/837/83788782-vkontakte)<sup>57</sup>
 * О дивный новый мир ~ [Ангелина](users/837/83788782-vkontakte)<sup>56</sup>
-* Декларация смерти ~ [](users/262/262062207519652-facebook)<sup>3</sup>
 
 
-_15.04.2019 07:36:30_
+_16.04.2019 12:41:53_
