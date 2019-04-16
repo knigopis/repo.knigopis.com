@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ПИШИ, СОКРАЩАЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup>
+    > 440 страниц
+
 * Властелин хаоса (Серия: Колесо времени 6/16) ~ [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup>
     > Стала читать медленней, ибо времени нет.
     > 6я книга, 6! Умираю. Но черт, как же интересно
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Книга рассказывает об основах контент-маркетинга, его отличиях от других подходов и практик. Как создать стратегию контент-маркетинга, измерять эффективность? Как используется контент-маркетинг в разных сферах и отраслях? «Введение в контент-маркетинг» – это ответы на базовые вопросы об этом инструменте.
 
 * ВОЙНА ХАОСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>71</sup>
-    > 543
 
 * Неизвестный Кими Райкконен ~ [Garka](users/115/115753719718250012620-google)<sup>216</sup>
 
@@ -27,17 +29,15 @@ Do not use pull requests to make changes here.
 
 * Записки с мёртвой станции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>196</sup>
 
-* КлаТбище домашних жЫвотных ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>70</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup> 
 [CherlockAlex](users/100/100784255659089961550-google)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>54</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>71</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>697</sup> 
 [Retona](users/531/531751113661013-facebook)<sup>3</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>19</sup> 
 
 
-_16.04.2019 12:41:53_
+_16.04.2019 15:10:22_

@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>71</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>72</sup>
 ---
 
 ## 2019
+
+### ПИШИ, СОКРАЩАЙ
+Ильяхов  Сарычева
+> [2019-04-17] 440 страниц
+
 
 ### ВОЙНА ХАОСА
 Патрик Несс
