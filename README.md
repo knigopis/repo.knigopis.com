@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[CherlockAlex](users/100/100784255659089961550-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>54</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>71</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>13</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [panfilova.lena1](users/428/428829792-yandex)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>19</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>28</sup> 
-[](users/135/135346607-vkontakte)<sup>1</sup> 
 
 
-_15.04.2019 07:36:30_
+_16.04.2019 06:34:35_
