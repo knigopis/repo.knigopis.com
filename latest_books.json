@@ -1,4 +1,16 @@
 {
+    "8YhmcxBPX5": {
+        "id": "8YhmcxBPX5",
+        "title": "Ntsdsds",
+        "author": "sdsds",
+        "notes": "sddddddddddddd",
+        "createdAt": "2019-04-16 06:35:06",
+        "user": {
+            "id": "100784255659089961550-google",
+            "nickname": "CherlockAlex",
+            "booksCount": 1
+        }
+    },
     "xm6hkIdxz2": {
         "id": "xm6hkIdxz2",
         "title": "Введение в контент-маркетинг. Теория и практика",
@@ -345,18 +357,6 @@
             "id": "334696193054530347-mailru",
             "nickname": "Даша",
             "booksCount": 34
-        }
-    },
-    "yfTjGQMv1K": {
-        "id": "yfTjGQMv1K",
-        "title": "Собака Баскервилей",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2019-04-10 03:46:03",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 33
         }
     }
 }
