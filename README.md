@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>107</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup> 
 [CherlockAlex](users/100/100784255659089961550-google)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [белая плесень](users/104/104448632954411726505-google)<sup>20</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>2</sup> 
 [panfilova.lena1](users/428/428829792-yandex)<sup>0</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>19</sup> 
 
 
-_16.04.2019 15:10:22_
+_16.04.2019 20:53:24_

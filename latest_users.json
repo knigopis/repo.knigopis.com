@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 107,
+        "updatedAt": "2019-04-16 20:53:23"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "panfilova.lena1",
         "booksCount": 0,
         "updatedAt": "2019-04-03 08:29:51"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 19,
-        "updatedAt": "2019-04-02 17:20:43"
     }
 }
