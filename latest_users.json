@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 22,
+        "updatedAt": "2019-04-16 21:17:38"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "realest1954",
         "booksCount": 2,
         "updatedAt": "2019-04-03 15:25:00"
-    },
-    "428829792-yandex": {
-        "id": "428829792-yandex",
-        "nickname": "panfilova.lena1",
-        "booksCount": 0,
-        "updatedAt": "2019-04-03 08:29:51"
     }
 }

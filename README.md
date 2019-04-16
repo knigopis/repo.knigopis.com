@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жнец ~ [youno](users/302/302928912-vkontakte)<sup>22</sup>
+    > Понравилось!
+
 * ПИШИ, СОКРАЩАЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup>
     > 440 страниц
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > 6я книга, 6! Умираю. Но черт, как же интересно
 
 * Введение в контент-маркетинг. Теория и практика ~ [kissamasya](users/684/68439978-vkontakte)<sup>54</sup>
-    > Книга рассказывает об основах контент-маркетинга, его отличиях от других подходов и практик. Как создать стратегию контент-маркетинга, измерять эффективность? Как используется контент-маркетинг в разных сферах и отраслях? «Введение в контент-маркетинг» – это ответы на базовые вопросы об этом инструменте.
 
 * ВОЙНА ХАОСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>71</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Джек-потрошитель с Хрещатика ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>21</sup>
 
-* Записки с мёртвой станции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>196</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>22</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114658477696541181930-google)<sup>3</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>20</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>2</sup> 
-[panfilova.lena1](users/428/428829792-yandex)<sup>0</sup> 
 
 
-_16.04.2019 20:53:52_
+_16.04.2019 21:17:38_

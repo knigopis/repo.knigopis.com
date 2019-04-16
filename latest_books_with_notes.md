@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Жнец ~ [youno](users/302/302928912-vkontakte)<sup>22</sup>
 * ПИШИ, СОКРАЩАЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup>
 * Властелин хаоса (Серия: Колесо времени 6/16) ~ [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup>
 * Введение в контент-маркетинг. Теория и практика ~ [kissamasya](users/684/68439978-vkontakte)<sup>54</sup>
@@ -30,7 +31,6 @@
 * Раны заживают медленно. Записки штабного офицера ~ [exulted](users/100/100599204551896265722-google)<sup>100</sup>
 * Ботагоз ~ [Euphoria](users/106/106304994652616315178-google)<sup>65</sup>
 * Игра кота 1-7 ~ [Tr](users/122/12282474-vkontakte)<sup>71</sup>
-* Шум и ярость ~ [Ангелина](users/837/83788782-vkontakte)<sup>57</sup>
 
 
-_16.04.2019 15:10:22_
+_16.04.2019 21:17:38_
