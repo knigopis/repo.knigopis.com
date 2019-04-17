@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Живі свідеи історії ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>22</sup>
+    > 6/10 Спогади про німецьку окурацію Луганщини.
+
 * Жнец ~ [youno](users/302/302928912-vkontakte)<sup>22</sup>
     > Понравилось!
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > 440 страниц
 
 * Властелин хаоса (Серия: Колесо времени 6/16) ~ [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup>
-    > Стала читать медленней, ибо времени нет.
-    > 6я книга, 6! Умираю. Но черт, как же интересно
 
 * Введение в контент-маркетинг. Теория и практика ~ [kissamasya](users/684/68439978-vkontakte)<sup>54</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сияние ~ [Garka](users/115/115753719718250012620-google)<sup>215</sup>
 
-* Джек-потрошитель с Хрещатика ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>21</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>22</sup> 
 [youno](users/302/302928912-vkontakte)<sup>22</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup> 
@@ -58,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>148</sup> 
 [MaXFeeD](users/108/108877393333244243144-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>351</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>21</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>160</sup> 
 [marino4kasweet](users/992/99235108-yandex)<sup>8</sup> 
 [](users/114/114658477696541181930-google)<sup>3</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [realest1954](users/439/439398-vkontakte)<sup>2</sup> 
 
 
-_16.04.2019 21:17:38_
+_17.04.2019 21:16:24_

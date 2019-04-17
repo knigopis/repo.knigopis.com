@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>21</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>22</sup>
 ---
 
 ## 2019
+
+### Живі свідеи історії
+Низькодубова, Сімонова, Дрьомова
+> [2019-04-17] 6/10 Спогади про німецьку окурацію Луганщини.
+
 
 ### Джек-потрошитель с Хрещатика
 Лада Лузина

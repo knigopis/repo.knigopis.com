@@ -1,4 +1,16 @@
 {
+    "7T8SNxTNt0": {
+        "id": "7T8SNxTNt0",
+        "title": "Живі свідеи історії",
+        "author": "Низькодубова, Сімонова, Дрьомова",
+        "notes": "6/10 Спогади про німецьку окурацію Луганщини.",
+        "createdAt": "2019-04-17 21:16:24",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 22
+        }
+    },
     "gWJsJsJqIs": {
         "id": "gWJsJsJqIs",
         "title": "Жнец",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 65
-        }
-    },
-    "yTSpewnG9E": {
-        "id": "yTSpewnG9E",
-        "title": "Игра кота 1-7",
-        "author": "Роман Прокофьев",
-        "notes": "Кот, 7 ключей, истинный огонь",
-        "createdAt": "2019-03-20 17:02:36",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 71
         }
     }
 }

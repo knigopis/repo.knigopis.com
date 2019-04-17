@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Живі свідеи історії ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>22</sup>
 * Жнец ~ [youno](users/302/302928912-vkontakte)<sup>22</sup>
 * ПИШИ, СОКРАЩАЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup>
 * Властелин хаоса (Серия: Колесо времени 6/16) ~ [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup>
@@ -30,7 +31,6 @@
 * A Game for Assassins (The Redaction Chronicles Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>101</sup>
 * Раны заживают медленно. Записки штабного офицера ~ [exulted](users/100/100599204551896265722-google)<sup>100</sup>
 * Ботагоз ~ [Euphoria](users/106/106304994652616315178-google)<sup>65</sup>
-* Игра кота 1-7 ~ [Tr](users/122/12282474-vkontakte)<sup>71</sup>
 
 
-_16.04.2019 21:17:38_
+_17.04.2019 21:16:24_
