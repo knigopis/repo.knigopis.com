@@ -1,4 +1,16 @@
 {
+    "7YiPe5XnaY": {
+        "id": "7YiPe5XnaY",
+        "title": "След Смерти",
+        "author": "Блейк Пирс",
+        "notes": "",
+        "createdAt": "2019-04-18 07:59:01",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 11
+        }
+    },
     "5Q0L01TLFK": {
         "id": "5Q0L01TLFK",
         "title": "Когда она ушла",
@@ -345,18 +357,6 @@
             "id": "531751113661013-facebook",
             "nickname": "Retona",
             "booksCount": 1
-        }
-    },
-    "Z5uX-YqeV6": {
-        "id": "Z5uX-YqeV6",
-        "title": "все новые сказки",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2019-04-13 09:52:56",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 24
         }
     }
 }

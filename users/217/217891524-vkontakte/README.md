@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>10</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>11</sup>
 ---
 
 ## 2019
@@ -54,6 +54,11 @@ Blake Pierce
 ### Когда она ушла
 Блейк Пирс
 > [2018-06-01] 
+
+
+### След Смерти
+Блейк Пирс
+> [2018-05-31] 
 
 
 
