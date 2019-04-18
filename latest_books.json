@@ -1,4 +1,16 @@
 {
+    "XbFVSl1vSC": {
+        "id": "XbFVSl1vSC",
+        "title": "Макбет",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2019-04-18 09:16:11",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 110
+        }
+    },
     "b_P8yz79kg": {
         "id": "b_P8yz79kg",
         "title": "Гамлет",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 81
-        }
-    },
-    "BlicFFtfvD": {
-        "id": "BlicFFtfvD",
-        "title": "Ревун (рассказ)",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2019-04-18 08:52:55",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 80
         }
     }
 }
