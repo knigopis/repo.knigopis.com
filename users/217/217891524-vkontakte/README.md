@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>23</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>24</sup>
 ---
 
 ## 2019
@@ -122,6 +122,11 @@ Blake Pierce
 ### Танец с драконами. Книга 1. Грёзы и пыль
 Джордж Мартин
 > [2017-08-24] 
+
+
+### Пир Стервятников
+Джордж Мартин
+> [2017-08-10] 
 
 
 

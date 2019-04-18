@@ -1,4 +1,16 @@
 {
+    "2L_hBX_lpT": {
+        "id": "2L_hBX_lpT",
+        "title": "Пир Стервятников",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2019-04-18 08:03:27",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 24
+        }
+    },
     "0EXypzmHLO": {
         "id": "0EXypzmHLO",
         "title": "Танец с драконами. Книга 1. Грёзы и пыль",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 107
-        }
-    },
-    "Vv7YhAm6XG": {
-        "id": "Vv7YhAm6XG",
-        "title": "ПИШИ, СОКРАЩАЙ",
-        "author": "Ильяхов  Сарычева",
-        "notes": "440 страниц",
-        "createdAt": "2019-04-16 15:10:21",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 72
         }
     }
 }
