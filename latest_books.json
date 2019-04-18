@@ -1,4 +1,16 @@
 {
+    "VzpaH6avRf": {
+        "id": "VzpaH6avRf",
+        "title": "Будущее одной иллюзии",
+        "author": "Зигмунд Фрейд",
+        "notes": "",
+        "createdAt": "2019-04-18 08:00:20",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 15
+        }
+    },
     "hI0C-Hff3y": {
         "id": "hI0C-Hff3y",
         "title": "Один День",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 133
-        }
-    },
-    "Ca_qDN3mBb": {
-        "id": "Ca_qDN3mBb",
-        "title": "Артемис Фаул 2. Миссия в Арктику",
-        "author": "Йон Колфер",
-        "notes": "",
-        "createdAt": "2019-04-13 16:30:27",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 132
         }
     }
 }
