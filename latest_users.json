@@ -1,4 +1,10 @@
 {
+    "217891524-vkontakte": {
+        "id": "217891524-vkontakte",
+        "nickname": "lostinfrost",
+        "booksCount": 22,
+        "updatedAt": "2019-04-18 08:02:50"
+    },
     "99235108-yandex": {
         "id": "99235108-yandex",
         "nickname": "marino4kasweet",
@@ -10,12 +16,6 @@
         "nickname": "borodach",
         "booksCount": 161,
         "updatedAt": "2019-04-18 08:02:29"
-    },
-    "217891524-vkontakte": {
-        "id": "217891524-vkontakte",
-        "nickname": "lostinfrost",
-        "booksCount": 21,
-        "updatedAt": "2019-04-18 08:02:22"
     },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
