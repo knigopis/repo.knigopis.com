@@ -1,7 +1,12 @@
-# List of books read by marino4kasweet<sup>9</sup>
+# List of books read by marino4kasweet<sup>10</sup>
 ---
 
 ## 2019
+
+### Искра жизни
+Эрих Мария Ремарк
+> [2019-04] 
+
 
 ### ДОБАВИТЬ СКАЗАТЬ ЖИЗНИ "ДА!". ПСИХОЛОГ В КОНЦЛАГЕРЕ
 Франкл Виктор Эмиль
