@@ -1,4 +1,16 @@
 {
+    "d53PoQoU1n": {
+        "id": "d53PoQoU1n",
+        "title": "Жизнь Пи",
+        "author": "Янн Мартел",
+        "notes": "",
+        "createdAt": "2019-04-18 08:02:22",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 21
+        }
+    },
     "oBweOY_KHO": {
         "id": "oBweOY_KHO",
         "title": "Книжный Вор",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 71
-        }
-    },
-    "ieN123VdMD": {
-        "id": "ieN123VdMD",
-        "title": "Маэстро теней",
-        "author": "Донато Кариззи",
-        "notes": "",
-        "createdAt": "2019-04-13 20:25:22",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 13
         }
     }
 }

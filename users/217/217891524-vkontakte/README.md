@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>20</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>21</sup>
 ---
 
 ## 2019
@@ -107,6 +107,11 @@ Blake Pierce
 ### Книжный Вор
 Маркус Зусак
 > [2017-12-07] 
+
+
+### Жизнь Пи
+Янн Мартел
+> [2017-11-21] 
 
 
 
