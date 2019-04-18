@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>76</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>77</sup>
 ---
 
 ## 2019
@@ -347,6 +347,11 @@ Blake Pierce
 
 
 ## 2014
+
+### Герой Нашего Времени
+Михаил Лермонтов
+> [2014-05] 
+
 
 ### Великий Гэтсби
 Фрэнсис Скотт Фицджеральд

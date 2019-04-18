@@ -1,4 +1,16 @@
 {
+    "frNw8O5gth": {
+        "id": "frNw8O5gth",
+        "title": "Герой Нашего Времени",
+        "author": "Михаил Лермонтов",
+        "notes": "",
+        "createdAt": "2019-04-18 08:52:10",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 77
+        }
+    },
     "cDeFcFG37z": {
         "id": "cDeFcFG37z",
         "title": "Сойка-пересмешница",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 48
-        }
-    },
-    "QQ6rSRqD7c": {
-        "id": "QQ6rSRqD7c",
-        "title": "Гарри Поттер и Философский Камень",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2019-04-18 08:19:49",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 47
         }
     }
 }
