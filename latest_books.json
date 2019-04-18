@@ -1,4 +1,16 @@
 {
+    "YvBpsL72Bw": {
+        "id": "YvBpsL72Bw",
+        "title": "Показания Рэндольфа Картера (рассказ)",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2019-04-18 08:07:28",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 31
+        }
+    },
     "vhurFzd6dr": {
         "id": "vhurFzd6dr",
         "title": "Багровый Пик",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 4
-        }
-    },
-    "Ar_Sqqaau4": {
-        "id": "Ar_Sqqaau4",
-        "title": "Гордость и Предубеждение",
-        "author": "Джейн Остин",
-        "notes": "",
-        "createdAt": "2019-04-18 07:44:29",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 3
         }
     }
 }

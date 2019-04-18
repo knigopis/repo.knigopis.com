@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>30</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>31</sup>
 ---
 
 ## 2019
@@ -152,6 +152,11 @@ Blake Pierce
 ### Эдем
 Станислав Лем
 > [2017-07-15] 
+
+
+### Показания Рэндольфа Картера (рассказ)
+Говард Филлипс Лавкрафт
+> [2017-03-25] 
 
 
 ### Багровый Пик
