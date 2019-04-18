@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[marino4kasweet](users/992/99235108-yandex)<sup>10</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>21</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>22</sup> 
 [youno](users/302/302928912-vkontakte)<sup>22</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [MaXFeeD](users/108/108877393333244243144-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>351</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>160</sup> 
-[marino4kasweet](users/992/99235108-yandex)<sup>8</sup> 
 [](users/114/114658477696541181930-google)<sup>3</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>20</sup> 
 
 
-_18.04.2019 08:02:22_
+_18.04.2019 08:02:27_

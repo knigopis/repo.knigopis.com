@@ -1,4 +1,16 @@
 {
+    "c1_HTGA0lr": {
+        "id": "c1_HTGA0lr",
+        "title": "ДОБАВИТЬ СКАЗАТЬ ЖИЗНИ \"ДА!\". ПСИХОЛОГ В КОНЦЛАГЕРЕ",
+        "author": "Франкл Виктор Эмиль",
+        "notes": "",
+        "createdAt": "2019-04-18 08:02:27",
+        "user": {
+            "id": "99235108-yandex",
+            "nickname": "marino4kasweet",
+            "booksCount": 10
+        }
+    },
     "d53PoQoU1n": {
         "id": "d53PoQoU1n",
         "title": "Жизнь Пи",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 54
-        }
-    },
-    "G15BXyv2T3": {
-        "id": "G15BXyv2T3",
-        "title": "ВОЙНА ХАОСА",
-        "author": "Патрик Несс",
-        "notes": "543",
-        "createdAt": "2019-04-15 05:53:18",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 71
         }
     }
 }

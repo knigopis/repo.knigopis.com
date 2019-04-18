@@ -1,4 +1,10 @@
 {
+    "99235108-yandex": {
+        "id": "99235108-yandex",
+        "nickname": "marino4kasweet",
+        "booksCount": 10,
+        "updatedAt": "2019-04-18 08:02:27"
+    },
     "217891524-vkontakte": {
         "id": "217891524-vkontakte",
         "nickname": "lostinfrost",
@@ -160,12 +166,6 @@
         "nickname": "borodach",
         "booksCount": 160,
         "updatedAt": "2019-04-08 11:52:19"
-    },
-    "99235108-yandex": {
-        "id": "99235108-yandex",
-        "nickname": "marino4kasweet",
-        "booksCount": 8,
-        "updatedAt": "2019-04-07 13:24:39"
     },
     "114658477696541181930-google": {
         "id": "114658477696541181930-google",
