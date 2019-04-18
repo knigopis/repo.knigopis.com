@@ -1,4 +1,16 @@
 {
+    "O4zHV0MNcQ": {
+        "id": "O4zHV0MNcQ",
+        "title": "О Дивный Новый Мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2019-04-18 08:23:34",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 58
+        }
+    },
     "dIR2ABGQXD": {
         "id": "dIR2ABGQXD",
         "title": "Повелитель Мух",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 29
-        }
-    },
-    "lb0JtjWrQy": {
-        "id": "lb0JtjWrQy",
-        "title": "Ужас Данвича (рассказ)",
-        "author": "Говард Филлипс Лавкрафт",
-        "notes": "",
-        "createdAt": "2019-04-18 08:05:33",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 28
         }
     }
 }

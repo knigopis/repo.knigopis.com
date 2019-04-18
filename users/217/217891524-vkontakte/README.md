@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>57</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>58</sup>
 ---
 
 ## 2019
@@ -224,6 +224,11 @@ Blake Pierce
 
 
 ## 2015
+
+### О Дивный Новый Мир
+Олдос Хаксли
+> [2015-05] 
+
 
 ### Повелитель Мух
 Уильям Голдинг
