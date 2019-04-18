@@ -1,4 +1,16 @@
 {
+    "vU8lswejTK": {
+        "id": "vU8lswejTK",
+        "title": "Тимон Афинский",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2019-04-18 09:17:50",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 117
+        }
+    },
     "9kT3bkl7pf": {
         "id": "9kT3bkl7pf",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 88
-        }
-    },
-    "zBBcjOWRFS": {
-        "id": "zBBcjOWRFS",
-        "title": "Как важно быть серьёзным (пьеса)",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2019-04-18 09:06:18",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 87
         }
     }
 }
