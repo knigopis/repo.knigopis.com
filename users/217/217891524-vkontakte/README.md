@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>70</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>71</sup>
 ---
 
 ## 2019
@@ -347,6 +347,10 @@ Blake Pierce
 
 
 ## 2014
+
+### Счастливый Принц (сказка)
+Оскар Уайльд
+
 
 ### Хоббит или Туда и обратно
 Джон Рональд Руэл Толкин
