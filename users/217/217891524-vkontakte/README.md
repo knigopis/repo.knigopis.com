@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>22</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>23</sup>
 ---
 
 ## 2019
@@ -117,6 +117,11 @@ Blake Pierce
 ### Грозовой Перевал
 Эмили Бронте
 > [2017-08-26] 
+
+
+### Танец с драконами. Книга 1. Грёзы и пыль
+Джордж Мартин
+> [2017-08-24] 
 
 
 

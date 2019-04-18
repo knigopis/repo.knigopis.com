@@ -1,4 +1,16 @@
 {
+    "0EXypzmHLO": {
+        "id": "0EXypzmHLO",
+        "title": "Танец с драконами. Книга 1. Грёзы и пыль",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2019-04-18 08:03:09",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 23
+        }
+    },
     "8tamrDx7rF": {
         "id": "8tamrDx7rF",
         "title": "Грозовой Перевал",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 72
-        }
-    },
-    "Ge_pHpBbzk": {
-        "id": "Ge_pHpBbzk",
-        "title": "Властелин хаоса (Серия: Колесо времени 6/16)",
-        "author": "Роберт Джордан",
-        "notes": "Стала читать медленней, ибо времени нет.\n6я книга, 6! Умираю. Но черт, как же интересно",
-        "createdAt": "2019-04-16 12:41:53",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 56
         }
     }
 }
