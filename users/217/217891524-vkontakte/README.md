@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>136</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>137</sup>
 ---
 
 ## 2019
@@ -679,6 +679,10 @@ Lewis Carroll
 
 
 ## 2008
+
+### Затмение
+Стефани Майер
+
 
 ### Новолуние
 Стефани Майер
