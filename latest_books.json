@@ -1,4 +1,16 @@
 {
+    "5Q0L01TLFK": {
+        "id": "5Q0L01TLFK",
+        "title": "Когда она ушла",
+        "author": "Блейк Пирс",
+        "notes": "",
+        "createdAt": "2019-04-18 07:58:43",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 10
+        }
+    },
     "3ZOlCnkr6q": {
         "id": "3ZOlCnkr6q",
         "title": "Эти странные шведы",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 24
-        }
-    },
-    "mnD7BnmT0g": {
-        "id": "mnD7BnmT0g",
-        "title": "Испанская живопись XIV-XVIII веков в Эрмитаже",
-        "author": "КАГАНЭ Л.Л.",
-        "notes": "",
-        "createdAt": "2019-04-12 22:34:34",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 16
         }
     }
 }

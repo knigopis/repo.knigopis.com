@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>9</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>10</sup>
 ---
 
 ## 2019
@@ -49,6 +49,11 @@ Blake Pierce
 ### Эти странные шведы
 Петер Берлин
 > [2018-06-03] 
+
+
+### Когда она ушла
+Блейк Пирс
+> [2018-06-01] 
 
 
 
