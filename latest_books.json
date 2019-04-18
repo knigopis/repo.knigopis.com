@@ -1,4 +1,16 @@
 {
+    "ISTQ_ZBVV_": {
+        "id": "ISTQ_ZBVV_",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2019-04-18 08:52:24",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 78
+        }
+    },
     "frNw8O5gth": {
         "id": "frNw8O5gth",
         "title": "Герой Нашего Времени",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 49
-        }
-    },
-    "TKcK7uRIvC": {
-        "id": "TKcK7uRIvC",
-        "title": "Великий Бог Пан (рассказ)",
-        "author": "Артур Мейчен",
-        "notes": "",
-        "createdAt": "2019-04-18 08:20:09",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 48
         }
     }
 }
