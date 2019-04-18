@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>101</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>102</sup>
 ---
 
 ## 2019
@@ -500,6 +500,11 @@ Blake Pierce
 
 
 ## 2013
+
+### Туннели Крови
+Даррен Шэн
+> [2013-05] 
+
 
 ### Гора Вампиров
 Даррен Шэн
