@@ -1,4 +1,16 @@
 {
+    "YrDBE5KsYo": {
+        "id": "YrDBE5KsYo",
+        "title": "Остров",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2019-04-18 07:59:19",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 12
+        }
+    },
     "7YiPe5XnaY": {
         "id": "7YiPe5XnaY",
         "title": "След Смерти",
@@ -345,18 +357,6 @@
             "id": "531751113661013-facebook",
             "nickname": "Retona",
             "booksCount": 2
-        }
-    },
-    "gP1oxnNXul": {
-        "id": "gP1oxnNXul",
-        "title": "Кладбище домашних животных",
-        "author": "Стивен Кинг",
-        "notes": "Захватывающий роман от короля ужасов, рекомендую к прочтению!",
-        "createdAt": "2019-04-13 10:47:54",
-        "user": {
-            "id": "531751113661013-facebook",
-            "nickname": "Retona",
-            "booksCount": 1
         }
     }
 }

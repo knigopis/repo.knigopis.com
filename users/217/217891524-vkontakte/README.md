@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>11</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>12</sup>
 ---
 
 ## 2019
@@ -59,6 +59,11 @@ Blake Pierce
 ### След Смерти
 Блейк Пирс
 > [2018-05-31] 
+
+
+### Остров
+Олдос Хаксли
+> [2018-05-29] 
 
 
 
