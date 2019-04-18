@@ -1,4 +1,16 @@
 {
+    "bjVFTzOCBV": {
+        "id": "bjVFTzOCBV",
+        "title": "Соловей и Роза (сказка)",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2019-04-18 09:06:32",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 88
+        }
+    },
     "zBBcjOWRFS": {
         "id": "zBBcjOWRFS",
         "title": "Как важно быть серьёзным (пьеса)",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 59
-        }
-    },
-    "O4zHV0MNcQ": {
-        "id": "O4zHV0MNcQ",
-        "title": "О Дивный Новый Мир",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2019-04-18 08:23:34",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 58
         }
     }
 }
