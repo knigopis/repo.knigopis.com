@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>112</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>113</sup>
 ---
 
 ## 2019
@@ -558,6 +558,10 @@ Blake Pierce
 
 
 ## 2012
+
+### Сон в летнюю ночь
+Уильям Шекспир
+
 
 ### Кориолан
 Уильям Шекспир
