@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>114</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>115</sup>
 ---
 
 ## 2019
@@ -558,6 +558,10 @@ Blake Pierce
 
 
 ## 2012
+
+### Ромео и Джульетта
+Уильям Шекспир
+
 
 ### Король Лир
 Уильям Шекспир
