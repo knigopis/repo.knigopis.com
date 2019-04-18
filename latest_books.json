@@ -1,4 +1,16 @@
 {
+    "hI0C-Hff3y": {
+        "id": "hI0C-Hff3y",
+        "title": "Один День",
+        "author": "Дэвид Николс",
+        "notes": "",
+        "createdAt": "2019-04-18 07:59:53",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 14
+        }
+    },
     "6IYpCzAz-9": {
         "id": "6IYpCzAz-9",
         "title": "Вий",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 132
-        }
-    },
-    "EJGmCXj-Hj": {
-        "id": "EJGmCXj-Hj",
-        "title": "Дракула",
-        "author": "Брэм Стокер",
-        "notes": "",
-        "createdAt": "2019-04-13 15:56:03",
-        "user": {
-            "id": "531751113661013-facebook",
-            "nickname": "Retona",
-            "booksCount": 3
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>13</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>14</sup>
 ---
 
 ## 2019
@@ -69,6 +69,11 @@ Blake Pierce
 ### Вий
 Николай Гоголь
 > [2018-04-18] 
+
+
+### Один День
+Дэвид Николс
+> [2018-04-16] 
 
 
 
