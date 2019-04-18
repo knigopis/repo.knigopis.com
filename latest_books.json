@@ -1,4 +1,16 @@
 {
+    "P1leyVmjTD": {
+        "id": "P1leyVmjTD",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2019-04-18 09:28:18",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 129
+        }
+    },
     "tAXFzg3DKe": {
         "id": "tAXFzg3DKe",
         "title": "Техану: последняя книга о Земноморье",
@@ -141,18 +153,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 117
-        }
-    },
-    "9kT3bkl7pf": {
-        "id": "9kT3bkl7pf",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2019-04-18 09:17:39",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 116
         }
     },
     "QNn5EO3WZT": {
