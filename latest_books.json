@@ -1,4 +1,16 @@
 {
+    "cHAUIHXTh7": {
+        "id": "cHAUIHXTh7",
+        "title": "Гранатовый Браслет",
+        "author": "Александр Куприн",
+        "notes": "",
+        "createdAt": "2019-04-18 08:22:00",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 53
+        }
+    },
     "I9k7lETT1x": {
         "id": "I9k7lETT1x",
         "title": "Лекарство от Смерти",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 24
-        }
-    },
-    "0EXypzmHLO": {
-        "id": "0EXypzmHLO",
-        "title": "Танец с драконами. Книга 1. Грёзы и пыль",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2019-04-18 08:03:09",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 23
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>52</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>53</sup>
 ---
 
 ## 2019
@@ -224,6 +224,11 @@ Blake Pierce
 
 
 ## 2015
+
+### Гранатовый Браслет
+Александр Куприн
+> [2015-03] 
+
 
 ### Лекарство от Смерти
 Джеймс Дэшнер
