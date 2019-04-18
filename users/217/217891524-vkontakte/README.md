@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>50</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>51</sup>
 ---
 
 ## 2019
@@ -224,6 +224,11 @@ Blake Pierce
 
 
 ## 2015
+
+### Маленькие Люди (рассказ)
+Артур Мейчен
+> [2015-02] 
+
 
 ### Гарри Поттер и Тайная Комната
 Джоан Роулинг
