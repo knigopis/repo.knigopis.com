@@ -1,4 +1,16 @@
 {
+    "8GwUqqNFyR": {
+        "id": "8GwUqqNFyR",
+        "title": "Эдем",
+        "author": "Станислав Лем",
+        "notes": "",
+        "createdAt": "2019-04-18 08:06:24",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 29
+        }
+    },
     "lb0JtjWrQy": {
         "id": "lb0JtjWrQy",
         "title": "Ужас Данвича (рассказ)",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 2
-        }
-    },
-    "I__dqls9Sf": {
-        "id": "I__dqls9Sf",
-        "title": "До встречи с тобой",
-        "author": "Джорджо Мойес",
-        "notes": "",
-        "createdAt": "2019-04-18 07:42:27",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 1
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>28</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>29</sup>
 ---
 
 ## 2019
@@ -147,6 +147,11 @@ Blake Pierce
 ### Ужас Данвича (рассказ)
 Говард Филлипс Лавкрафт
 > [2017-07-17] 
+
+
+### Эдем
+Станислав Лем
+> [2017-07-15] 
 
 
 
