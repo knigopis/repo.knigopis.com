@@ -1,4 +1,16 @@
 {
+    "554C8NcaQy": {
+        "id": "554C8NcaQy",
+        "title": "Оскар и Розовая Дама",
+        "author": "Эрик-Эммануэль Шмитт",
+        "notes": "",
+        "createdAt": "2019-04-18 09:15:53",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 108
+        }
+    },
     "S6vyw2H0ML": {
         "id": "S6vyw2H0ML",
         "title": "Изумрудная Книга",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 79
-        }
-    },
-    "ISTQ_ZBVV_": {
-        "id": "ISTQ_ZBVV_",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2019-04-18 08:52:24",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 78
         }
     }
 }

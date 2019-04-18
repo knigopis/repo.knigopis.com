@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>107</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>108</sup>
 ---
 
 ## 2019
@@ -554,6 +554,13 @@ Blake Pierce
 ### Цветы для Элджернона
 Дэниел Киз
 > [2013-01] 
+
+
+
+## 2012
+
+### Оскар и Розовая Дама
+Эрик-Эммануэль Шмитт
 
 
 
