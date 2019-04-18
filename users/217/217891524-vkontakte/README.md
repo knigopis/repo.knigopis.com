@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>37</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>38</sup>
 ---
 
 ## 2019
@@ -195,6 +195,11 @@ Blake Pierce
 ### Битва Королей
 Джордж Мартин
 > [2016-09] 
+
+
+### Город Костей
+Кассандра Клэр
+> [2016-05] 
 
 
 
