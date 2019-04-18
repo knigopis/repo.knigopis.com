@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>29</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>30</sup>
 ---
 
 ## 2019
@@ -152,6 +152,11 @@ Blake Pierce
 ### Эдем
 Станислав Лем
 > [2017-07-15] 
+
+
+### Багровый Пик
+Нэнси Холдер
+> [2017-03-25] 
 
 
 

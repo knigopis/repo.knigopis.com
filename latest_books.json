@@ -1,4 +1,16 @@
 {
+    "vhurFzd6dr": {
+        "id": "vhurFzd6dr",
+        "title": "Багровый Пик",
+        "author": "Нэнси Холдер",
+        "notes": "",
+        "createdAt": "2019-04-18 08:06:56",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 30
+        }
+    },
     "8GwUqqNFyR": {
         "id": "8GwUqqNFyR",
         "title": "Эдем",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 3
-        }
-    },
-    "wz2hCgmFli": {
-        "id": "wz2hCgmFli",
-        "title": "Обитаемый Остров",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2019-04-18 07:44:09",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 2
         }
     }
 }
