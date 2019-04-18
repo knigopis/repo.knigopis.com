@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>54</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>55</sup>
 ---
 
 ## 2019
@@ -224,6 +224,11 @@ Blake Pierce
 
 
 ## 2015
+
+### Бесконечное Море
+Рик Янси
+> [2015-04] 
+
 
 ### 5-ая Волна
 Рик Янси
