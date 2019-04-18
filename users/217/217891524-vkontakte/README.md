@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>115</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>116</sup>
 ---
 
 ## 2019
@@ -558,6 +558,10 @@ Blake Pierce
 
 
 ## 2012
+
+### Портрет Дориана Грея
+Оскар Уайльд
+
 
 ### Ромео и Джульетта
 Уильям Шекспир

@@ -1,4 +1,16 @@
 {
+    "9kT3bkl7pf": {
+        "id": "9kT3bkl7pf",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2019-04-18 09:17:39",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 116
+        }
+    },
     "QNn5EO3WZT": {
         "id": "QNn5EO3WZT",
         "title": "Ромео и Джульетта",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 87
-        }
-    },
-    "ZJBeRbXN2o": {
-        "id": "ZJBeRbXN2o",
-        "title": "Звездная пыль",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2019-04-18 09:06:03",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 86
         }
     }
 }
