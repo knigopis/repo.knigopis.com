@@ -1,4 +1,10 @@
 {
+    "217891524-vkontakte": {
+        "id": "217891524-vkontakte",
+        "nickname": "lostinfrost",
+        "booksCount": 0,
+        "updatedAt": "2019-04-18 07:40:57"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "белая плесень",
         "booksCount": 20,
         "updatedAt": "2019-04-04 00:21:58"
-    },
-    "439398-vkontakte": {
-        "id": "439398-vkontakte",
-        "nickname": "realest1954",
-        "booksCount": 2,
-        "updatedAt": "2019-04-03 15:25:00"
     }
 }
