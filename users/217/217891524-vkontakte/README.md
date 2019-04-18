@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>38</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>39</sup>
 ---
 
 ## 2019
@@ -200,6 +200,11 @@ Blake Pierce
 ### Город Костей
 Кассандра Клэр
 > [2016-05] 
+
+
+### Гарри Поттер и Дары Смерти
+Джоан Роулинг
+> [2016-04] 
 
 
 
