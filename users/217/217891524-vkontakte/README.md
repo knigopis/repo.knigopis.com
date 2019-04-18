@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>132</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>133</sup>
 ---
 
 ## 2019
@@ -645,6 +645,10 @@ Lewis Carroll
 
 
 ## 2010
+
+### Любовь к жизни (рассказ)
+Джек Лондон
+
 
 ### Белый Клык
 Джек Лондон

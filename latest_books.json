@@ -1,4 +1,16 @@
 {
+    "ANU23t44jN": {
+        "id": "ANU23t44jN",
+        "title": "Любовь к жизни (рассказ)",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2019-04-18 09:29:08",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 133
+        }
+    },
     "Nt69lc0LAL": {
         "id": "Nt69lc0LAL",
         "title": "Белый Клык",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 103
-        }
-    },
-    "kE8TGzeKg5": {
-        "id": "kE8TGzeKg5",
-        "title": "Туннели Крови",
-        "author": "Даррен Шэн",
-        "notes": "",
-        "createdAt": "2019-04-18 09:14:00",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 102
         }
     }
 }
