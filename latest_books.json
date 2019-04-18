@@ -1,4 +1,16 @@
 {
+    "XE4BUKObTS": {
+        "id": "XE4BUKObTS",
+        "title": "Фауст",
+        "author": "Иоганн Вольфганг фон Гёте",
+        "notes": "",
+        "createdAt": "2019-04-18 09:17:59",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 118
+        }
+    },
     "vU8lswejTK": {
         "id": "vU8lswejTK",
         "title": "Тимон Афинский",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 89
-        }
-    },
-    "bjVFTzOCBV": {
-        "id": "bjVFTzOCBV",
-        "title": "Соловей и Роза (сказка)",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2019-04-18 09:06:32",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 88
         }
     }
 }
