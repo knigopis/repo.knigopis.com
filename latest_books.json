@@ -1,4 +1,16 @@
 {
+    "VlFel-Ctwb": {
+        "id": "VlFel-Ctwb",
+        "title": "Снеговик",
+        "author": "Ю Несбё",
+        "notes": "",
+        "createdAt": "2019-04-18 08:01:44",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 19
+        }
+    },
     "oHDJDkS74a": {
         "id": "oHDJDkS74a",
         "title": "Танец с Драконами. Книга 2. Искры над Пеплом",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 697
-        }
-    },
-    "bATRJZ3gpr": {
-        "id": "bATRJZ3gpr",
-        "title": "*?\"...",
-        "author": ".....",
-        "notes": "",
-        "createdAt": "2019-04-13 16:49:08",
-        "user": {
-            "id": "531751113661013-facebook",
-            "nickname": "Retona",
-            "booksCount": 4
         }
     }
 }
