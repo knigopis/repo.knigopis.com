@@ -1,4 +1,16 @@
 {
+    "wDQtebSRwp": {
+        "id": "wDQtebSRwp",
+        "title": "Страна Слепых (рассказ)",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2019-04-18 08:23:52",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 59
+        }
+    },
     "O4zHV0MNcQ": {
         "id": "O4zHV0MNcQ",
         "title": "О Дивный Новый Мир",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 30
-        }
-    },
-    "8GwUqqNFyR": {
-        "id": "8GwUqqNFyR",
-        "title": "Эдем",
-        "author": "Станислав Лем",
-        "notes": "",
-        "createdAt": "2019-04-18 08:06:24",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 29
         }
     }
 }

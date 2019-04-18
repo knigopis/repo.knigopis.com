@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>58</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>59</sup>
 ---
 
 ## 2019
@@ -224,6 +224,11 @@ Blake Pierce
 
 
 ## 2015
+
+### Страна Слепых (рассказ)
+Герберт Уэллс
+> [2015-05] 
+
 
 ### О Дивный Новый Мир
 Олдос Хаксли
