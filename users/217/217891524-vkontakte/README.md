@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>27</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>28</sup>
 ---
 
 ## 2019
@@ -142,6 +142,11 @@ Blake Pierce
 ### Человек, который смеется
 Виктор Гюго
 > [2017-07-28] 
+
+
+### Ужас Данвича (рассказ)
+Говард Филлипс Лавкрафт
+> [2017-07-17] 
 
 
 

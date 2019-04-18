@@ -1,4 +1,16 @@
 {
+    "lb0JtjWrQy": {
+        "id": "lb0JtjWrQy",
+        "title": "Ужас Данвича (рассказ)",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2019-04-18 08:05:33",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 28
+        }
+    },
     "M4p1krtBDn": {
         "id": "M4p1krtBDn",
         "title": "Хребты Безумия",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 1
-        }
-    },
-    "7T8SNxTNt0": {
-        "id": "7T8SNxTNt0",
-        "title": "Живі свідеи історії",
-        "author": "Низькодубова, Сімонова, Дрьомова",
-        "notes": "6/10 Спогади про німецьку окурацію Луганщини.",
-        "createdAt": "2019-04-17 21:16:24",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 22
         }
     }
 }
