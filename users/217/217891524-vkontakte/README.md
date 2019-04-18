@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>3</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>4</sup>
 ---
 
 ## 2019
+
+### Север и Юг
+Элизабет Гаскелл
+> [2019-10-01] 
+
 
 ### До встречи с тобой
 Джорджо Мойес

@@ -1,4 +1,16 @@
 {
+    "zNDcrXlxYP": {
+        "id": "zNDcrXlxYP",
+        "title": "Север и Юг",
+        "author": "Элизабет Гаскелл",
+        "notes": "",
+        "createdAt": "2019-04-18 07:45:50",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 4
+        }
+    },
     "Ar_Sqqaau4": {
         "id": "Ar_Sqqaau4",
         "title": "Гордость и Предубеждение",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 197
-        }
-    },
-    "8qQyW8fU6o": {
-        "id": "8qQyW8fU6o",
-        "title": "Skunk Works",
-        "author": "Бен Рич",
-        "notes": "",
-        "createdAt": "2019-04-10 09:53:00",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 13
         }
     }
 }
