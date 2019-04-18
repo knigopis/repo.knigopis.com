@@ -1,4 +1,16 @@
 {
+    "LGO5i29NQM": {
+        "id": "LGO5i29NQM",
+        "title": "Морской Волк",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2019-04-18 09:28:43",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 131
+        }
+    },
     "R8o7Tm-Hh3": {
         "id": "R8o7Tm-Hh3",
         "title": "Всадник без головы",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 101
-        }
-    },
-    "ji53qU9jqw": {
-        "id": "ji53qU9jqw",
-        "title": "Помощник Вампира",
-        "author": "Даррен Шэн",
-        "notes": "",
-        "createdAt": "2019-04-18 09:13:17",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 100
         }
     }
 }
