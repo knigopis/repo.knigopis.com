@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>14</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>138</sup> 
 [marino4kasweet](users/992/99235108-yandex)<sup>10</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>161</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup> 
 [CherlockAlex](users/100/100784255659089961550-google)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>54</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>697</sup> 
 [Retona](users/531/531751113661013-facebook)<sup>3</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>133</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [белая плесень](users/104/104448632954411726505-google)<sup>20</sup> 
 
 
-_18.04.2019 09:31:44_
+_18.04.2019 20:02:30_
