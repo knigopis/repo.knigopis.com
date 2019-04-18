@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>6</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>7</sup>
 ---
 
 ## 2019
@@ -34,6 +34,11 @@
 ### Тараканы
 Ю Несбё
 > [2018-08-31] 
+
+
+### Пандемия
+Франк Тилье
+> [2018-08-20] 
 
 
 
