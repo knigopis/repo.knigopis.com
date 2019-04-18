@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>131</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>132</sup>
 ---
 
 ## 2019
@@ -645,6 +645,10 @@ Lewis Carroll
 
 
 ## 2010
+
+### Белый Клык
+Джек Лондон
+
 
 ### Морской Волк
 Джек Лондон

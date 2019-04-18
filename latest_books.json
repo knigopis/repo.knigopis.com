@@ -1,4 +1,16 @@
 {
+    "Nt69lc0LAL": {
+        "id": "Nt69lc0LAL",
+        "title": "Белый Клык",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2019-04-18 09:28:55",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 132
+        }
+    },
     "LGO5i29NQM": {
         "id": "LGO5i29NQM",
         "title": "Морской Волк",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 102
-        }
-    },
-    "q9gz_faonm": {
-        "id": "q9gz_faonm",
-        "title": "Гора Вампиров",
-        "author": "Даррен Шэн",
-        "notes": "",
-        "createdAt": "2019-04-18 09:13:44",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 101
         }
     }
 }
