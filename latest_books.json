@@ -1,4 +1,16 @@
 {
+    "juJnQ0qJXN": {
+        "id": "juJnQ0qJXN",
+        "title": "Тюремная Исповедь",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2019-04-18 09:06:55",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 89
+        }
+    },
     "bjVFTzOCBV": {
         "id": "bjVFTzOCBV",
         "title": "Соловей и Роза (сказка)",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 60
-        }
-    },
-    "wDQtebSRwp": {
-        "id": "wDQtebSRwp",
-        "title": "Страна Слепых (рассказ)",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2019-04-18 08:23:52",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 59
         }
     }
 }

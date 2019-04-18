@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>88</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>89</sup>
 ---
 
 ## 2019
@@ -371,6 +371,11 @@ Blake Pierce
 ### Герой Нашего Времени
 Михаил Лермонтов
 > [2014-05] 
+
+
+### Тюремная Исповедь
+Оскар Уайльд
+> [2014-04] 
 
 
 ### Звездная пыль
