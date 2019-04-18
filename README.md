@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lostinfrost](users/217/217891524-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>22</sup> 
 [youno](users/302/302928912-vkontakte)<sup>22</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [marino4kasweet](users/992/99235108-yandex)<sup>8</sup> 
 [](users/114/114658477696541181930-google)<sup>3</sup> 
 [белая плесень](users/104/104448632954411726505-google)<sup>20</sup> 
-[realest1954](users/439/439398-vkontakte)<sup>2</sup> 
 
 
-_17.04.2019 21:16:24_
+_18.04.2019 07:41:01_
