@@ -1,4 +1,16 @@
 {
+    "ji53qU9jqw": {
+        "id": "ji53qU9jqw",
+        "title": "Помощник Вампира",
+        "author": "Даррен Шэн",
+        "notes": "",
+        "createdAt": "2019-04-18 09:13:17",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 100
+        }
+    },
     "OZWvX-LyHK": {
         "id": "OZWvX-LyHK",
         "title": "Цирк Уродов",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 71
-        }
-    },
-    "JObx2CWKdv": {
-        "id": "JObx2CWKdv",
-        "title": "Хоббит или Туда и обратно",
-        "author": "Джон Рональд Руэл Толкин",
-        "notes": "",
-        "createdAt": "2019-04-18 08:27:48",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 70
         }
     }
 }
