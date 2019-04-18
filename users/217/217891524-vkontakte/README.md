@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>93</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>94</sup>
 ---
 
 ## 2019
@@ -426,6 +426,11 @@ Blake Pierce
 ### Никогде
 Нил Гейман
 > [2014-03] 
+
+
+### Мальчик-звезда (сказка)
+Оскар Уайльд
+> [2014-02] 
 
 
 ### День Рождения Инфанты (сказка)
