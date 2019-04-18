@@ -1,4 +1,16 @@
 {
+    "wz2hCgmFli": {
+        "id": "wz2hCgmFli",
+        "title": "Обитаемый Остров",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2019-04-18 07:44:09",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 2
+        }
+    },
     "I__dqls9Sf": {
         "id": "I__dqls9Sf",
         "title": "До встречи с тобой",
@@ -345,18 +357,6 @@
             "id": "334696193054530347-mailru",
             "nickname": "Даша",
             "booksCount": 43
-        }
-    },
-    "fyN89pIBkR": {
-        "id": "fyN89pIBkR",
-        "title": "Человек, который умел летать",
-        "author": "Карел Чапек",
-        "notes": "",
-        "createdAt": "2019-04-10 03:57:47",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 42
         }
     }
 }
