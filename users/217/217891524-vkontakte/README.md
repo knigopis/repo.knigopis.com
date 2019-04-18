@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>19</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>20</sup>
 ---
 
 ## 2019
@@ -102,6 +102,11 @@ Blake Pierce
 ### Снеговик
 Ю Несбё
 > [2017-12-19] 
+
+
+### Книжный Вор
+Маркус Зусак
+> [2017-12-07] 
 
 
 
