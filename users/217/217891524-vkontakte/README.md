@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>48</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>49</sup>
 ---
 
 ## 2019
@@ -224,6 +224,11 @@ Blake Pierce
 
 
 ## 2015
+
+### Испытание Огнем
+Джеймс Дэшнер
+> [2015-02] 
+
 
 ### Великий Бог Пан (рассказ)
 Артур Мейчен
