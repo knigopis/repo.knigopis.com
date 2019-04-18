@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>95</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>96</sup>
 ---
 
 ## 2019
@@ -426,6 +426,11 @@ Blake Pierce
 ### Никогде
 Нил Гейман
 > [2014-03] 
+
+
+### Замечательная Ракета (сказка)
+Оскар Уайльд
+> [2014-02] 
 
 
 ### Идеальный муж (пьеса)
