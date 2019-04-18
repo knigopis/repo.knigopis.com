@@ -1,4 +1,16 @@
 {
+    "ZJBeRbXN2o": {
+        "id": "ZJBeRbXN2o",
+        "title": "Звездная пыль",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2019-04-18 09:06:03",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 86
+        }
+    },
     "jlLMAolwqh": {
         "id": "jlLMAolwqh",
         "title": "Кентервильское привидение",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 57
-        }
-    },
-    "A7o8TTm-vw": {
-        "id": "A7o8TTm-vw",
-        "title": "Ученик Монстролога",
-        "author": "Рик Янси",
-        "notes": "",
-        "createdAt": "2019-04-18 08:22:57",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 56
         }
     }
 }
