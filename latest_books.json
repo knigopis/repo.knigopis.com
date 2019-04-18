@@ -1,4 +1,16 @@
 {
+    "rMu0c3ax0P": {
+        "id": "rMu0c3ax0P",
+        "title": "Война Миров",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2019-04-18 09:25:49",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 123
+        }
+    },
     "c4pv7G24Mo": {
         "id": "c4pv7G24Mo",
         "title": "Призрак Оперы",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 94
-        }
-    },
-    "B_qDd3kSCU": {
-        "id": "B_qDd3kSCU",
-        "title": "День Рождения Инфанты (сказка)",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2019-04-18 09:08:06",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 93
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>122</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>123</sup>
 ---
 
 ## 2019
@@ -610,6 +610,10 @@ Lewis Carroll
 
 
 ## 2011
+
+### Война Миров
+Герберт Уэллс
+
 
 ### Призрак Оперы
 Гастон Леру
