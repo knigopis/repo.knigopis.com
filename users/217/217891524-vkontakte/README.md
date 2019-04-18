@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>102</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>103</sup>
 ---
 
 ## 2019
@@ -509,6 +509,11 @@ Blake Pierce
 ### Гора Вампиров
 Даррен Шэн
 > [2013-04] 
+
+
+### Субмарина
+Джо Данторн
+> [2013-02] 
 
 
 ### Помощник Вампира
