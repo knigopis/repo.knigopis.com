@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>40</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>41</sup>
 ---
 
 ## 2019
@@ -210,6 +210,11 @@ Blake Pierce
 ### Стихи, афоризмы и парадоксы
 Оскар Уайльд
 > [2016-03] 
+
+
+### 1984
+Джордж Оруэлл
+> [2016-02] 
 
 
 

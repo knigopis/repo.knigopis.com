@@ -1,4 +1,16 @@
 {
+    "9i2GEOnZJC": {
+        "id": "9i2GEOnZJC",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2019-04-18 08:14:39",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 41
+        }
+    },
     "ZMqkyIkzZU": {
         "id": "ZMqkyIkzZU",
         "title": "Стихи, афоризмы и парадоксы",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 14
-        }
-    },
-    "6IYpCzAz-9": {
-        "id": "6IYpCzAz-9",
-        "title": "Вий",
-        "author": "Николай Гоголь",
-        "notes": "",
-        "createdAt": "2019-04-18 07:59:32",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 13
         }
     }
 }
