@@ -1,4 +1,16 @@
 {
+    "MjMLQruWXH": {
+        "id": "MjMLQruWXH",
+        "title": "Властелин Колец",
+        "author": "Джон Рональд Руэл Толкин",
+        "notes": "",
+        "createdAt": "2019-04-18 08:29:19",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 75
+        }
+    },
     "2XY60DzpZi": {
         "id": "2XY60DzpZi",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 46
-        }
-    },
-    "5LPsK-IV7r": {
-        "id": "5LPsK-IV7r",
-        "title": "Но молоко, к счастью...",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2019-04-18 08:17:00",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 45
         }
     }
 }
