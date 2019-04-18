@@ -1,4 +1,16 @@
 {
+    "u-8OIE-cEy": {
+        "id": "u-8OIE-cEy",
+        "title": "Сотня",
+        "author": "Кэсс Морган",
+        "notes": "",
+        "createdAt": "2019-04-18 08:24:02",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 60
+        }
+    },
     "wDQtebSRwp": {
         "id": "wDQtebSRwp",
         "title": "Страна Слепых (рассказ)",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 31
-        }
-    },
-    "vhurFzd6dr": {
-        "id": "vhurFzd6dr",
-        "title": "Багровый Пик",
-        "author": "Нэнси Холдер",
-        "notes": "",
-        "createdAt": "2019-04-18 08:06:56",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 30
         }
     }
 }
