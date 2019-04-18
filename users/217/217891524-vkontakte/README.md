@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>106</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>107</sup>
 ---
 
 ## 2019
@@ -500,6 +500,11 @@ Blake Pierce
 
 
 ## 2013
+
+### Изумрудная Книга
+Керстин Гир
+> [2013-10] 
+
 
 ### Сапфировая Книга
 Керстин Гир

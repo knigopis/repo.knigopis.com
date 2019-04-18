@@ -1,4 +1,16 @@
 {
+    "S6vyw2H0ML": {
+        "id": "S6vyw2H0ML",
+        "title": "Изумрудная Книга",
+        "author": "Керстин Гир",
+        "notes": "",
+        "createdAt": "2019-04-18 09:15:27",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 107
+        }
+    },
     "Dl3siB7Gu3": {
         "id": "Dl3siB7Gu3",
         "title": "Сапфировая Книга",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 78
-        }
-    },
-    "frNw8O5gth": {
-        "id": "frNw8O5gth",
-        "title": "Герой Нашего Времени",
-        "author": "Михаил Лермонтов",
-        "notes": "",
-        "createdAt": "2019-04-18 08:52:10",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 77
         }
     }
 }
