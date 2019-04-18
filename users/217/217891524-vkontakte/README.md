@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>7</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>8</sup>
 ---
 
 ## 2019
@@ -39,6 +39,11 @@
 ### Пандемия
 Франк Тилье
 > [2018-08-20] 
+
+
+### Before he Kills
+Blake Pierce
+> [2018-06-23] 
 
 
 
