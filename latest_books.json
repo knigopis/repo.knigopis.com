@@ -1,4 +1,16 @@
 {
+    "q9gz_faonm": {
+        "id": "q9gz_faonm",
+        "title": "Гора Вампиров",
+        "author": "Даррен Шэн",
+        "notes": "",
+        "createdAt": "2019-04-18 09:13:44",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 101
+        }
+    },
     "ji53qU9jqw": {
         "id": "ji53qU9jqw",
         "title": "Помощник Вампира",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 72
-        }
-    },
-    "u7glYc-tsZ": {
-        "id": "u7glYc-tsZ",
-        "title": "Счастливый Принц (сказка)",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2019-04-18 08:28:02",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 71
         }
     }
 }
