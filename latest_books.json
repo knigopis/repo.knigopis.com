@@ -1,4 +1,16 @@
 {
+    "zBBcjOWRFS": {
+        "id": "zBBcjOWRFS",
+        "title": "Как важно быть серьёзным (пьеса)",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2019-04-18 09:06:18",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 87
+        }
+    },
     "ZJBeRbXN2o": {
         "id": "ZJBeRbXN2o",
         "title": "Звездная пыль",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 58
-        }
-    },
-    "dIR2ABGQXD": {
-        "id": "dIR2ABGQXD",
-        "title": "Повелитель Мух",
-        "author": "Уильям Голдинг",
-        "notes": "",
-        "createdAt": "2019-04-18 08:23:14",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 57
         }
     }
 }

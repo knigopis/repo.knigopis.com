@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>86</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>87</sup>
 ---
 
 ## 2019
@@ -406,6 +406,11 @@ Blake Pierce
 ### Никогде
 Нил Гейман
 > [2014-03] 
+
+
+### Как важно быть серьёзным (пьеса)
+Оскар Уайльд
+> [2014-02] 
 
 
 ### Кентервильское привидение
