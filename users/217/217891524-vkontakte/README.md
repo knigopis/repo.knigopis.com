@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>81</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>82</sup>
 ---
 
 ## 2019
@@ -406,6 +406,11 @@ Blake Pierce
 ### Веер леди Уиндермир (пьеса)
 Оскар Уайльд
 > [2014-02] 
+
+
+### Голодные Игры
+Сьюзен Коллинз
+> [2014-01] 
 
 
 ### Властелин Колец
