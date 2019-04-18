@@ -1,4 +1,16 @@
 {
+    "GdfR8FoSXL": {
+        "id": "GdfR8FoSXL",
+        "title": "Человек-невидимка",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2019-04-18 09:26:01",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 124
+        }
+    },
     "rMu0c3ax0P": {
         "id": "rMu0c3ax0P",
         "title": "Война Миров",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 95
-        }
-    },
-    "hFDD8rE_GY": {
-        "id": "hFDD8rE_GY",
-        "title": "Мальчик-звезда (сказка)",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2019-04-18 09:08:25",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 94
         }
     }
 }
