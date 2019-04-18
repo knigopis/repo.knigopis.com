@@ -1,4 +1,16 @@
 {
+    "A7o8TTm-vw": {
+        "id": "A7o8TTm-vw",
+        "title": "Ученик Монстролога",
+        "author": "Рик Янси",
+        "notes": "",
+        "createdAt": "2019-04-18 08:22:57",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 56
+        }
+    },
     "405OahSIks": {
         "id": "405OahSIks",
         "title": "Бесконечное Море",
@@ -341,18 +353,6 @@
         "author": "Говард Филлипс Лавкрафт",
         "notes": "",
         "createdAt": "2019-04-18 08:05:15",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 27
-        }
-    },
-    "GrPvHHsY0e": {
-        "id": "GrPvHHsY0e",
-        "title": "Почти идеальные люди. Вся правда о жизни в \"Скандинавском раю\"",
-        "author": "Майкл Бут",
-        "notes": "",
-        "createdAt": "2019-04-18 08:04:14",
         "user": {
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
