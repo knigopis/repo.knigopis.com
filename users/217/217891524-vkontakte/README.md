@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>33</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>34</sup>
 ---
 
 ## 2019
@@ -175,6 +175,11 @@ Blake Pierce
 ### Буря Мечей
 Джордж Мартин
 > [2016-10] 
+
+
+### Битва Королей
+Джордж Мартин
+> [2016-09] 
 
 
 

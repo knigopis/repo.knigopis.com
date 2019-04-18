@@ -1,4 +1,16 @@
 {
+    "uquM6R0nP0": {
+        "id": "uquM6R0nP0",
+        "title": "Битва Королей",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2019-04-18 08:12:12",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 34
+        }
+    },
     "SEmrdl4j1n": {
         "id": "SEmrdl4j1n",
         "title": "Буря Мечей",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 7
-        }
-    },
-    "DNafEcLs2T": {
-        "id": "DNafEcLs2T",
-        "title": "Тараканы",
-        "author": "Ю Несбё",
-        "notes": "",
-        "createdAt": "2019-04-18 07:56:52",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 6
         }
     }
 }
