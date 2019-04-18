@@ -1,4 +1,16 @@
 {
+    "I__dqls9Sf": {
+        "id": "I__dqls9Sf",
+        "title": "До встречи с тобой",
+        "author": "Джорджо Мойес",
+        "notes": "",
+        "createdAt": "2019-04-18 07:42:27",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 1
+        }
+    },
     "7T8SNxTNt0": {
         "id": "7T8SNxTNt0",
         "title": "Живі свідеи історії",
@@ -345,18 +357,6 @@
             "id": "334696193054530347-mailru",
             "nickname": "Даша",
             "booksCount": 42
-        }
-    },
-    "bxRdbrY0qW": {
-        "id": "bxRdbrY0qW",
-        "title": "Чёрный человек",
-        "author": "С.А. Есенин",
-        "notes": "",
-        "createdAt": "2019-04-10 03:57:11",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 41
         }
     }
 }
