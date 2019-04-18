@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>39</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>40</sup>
 ---
 
 ## 2019
@@ -205,6 +205,11 @@ Blake Pierce
 ### Гарри Поттер и Дары Смерти
 Джоан Роулинг
 > [2016-04] 
+
+
+### Стихи, афоризмы и парадоксы
+Оскар Уайльд
+> [2016-03] 
 
 
 
