@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>80</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>81</sup>
 ---
 
 ## 2019
@@ -351,6 +351,11 @@ Blake Pierce
 ### Великий Гэтсби
 Фрэнсис Скотт Фицджеральд
 > [2014-07] 
+
+
+### Тепло наших тел
+Айзек Марион
+> [2014-05] 
 
 
 ### Портрет Дориана Грея
