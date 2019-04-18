@@ -1,4 +1,16 @@
 {
+    "YyvOAiKtL6": {
+        "id": "YyvOAiKtL6",
+        "title": "Гарри Поттер и Тайная Комната",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2019-04-18 08:20:52",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 50
+        }
+    },
     "jebsLuVAjV": {
         "id": "jebsLuVAjV",
         "title": "Испытание Огнем",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 161
-        }
-    },
-    "c1_HTGA0lr": {
-        "id": "c1_HTGA0lr",
-        "title": "ДОБАВИТЬ СКАЗАТЬ ЖИЗНИ \"ДА!\". ПСИХОЛОГ В КОНЦЛАГЕРЕ",
-        "author": "Франкл Виктор Эмиль",
-        "notes": "",
-        "createdAt": "2019-04-18 08:02:27",
-        "user": {
-            "id": "99235108-yandex",
-            "nickname": "marino4kasweet",
-            "booksCount": 10
         }
     }
 }
