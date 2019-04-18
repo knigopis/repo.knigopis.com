@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>56</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>57</sup>
 ---
 
 ## 2019
@@ -224,6 +224,11 @@ Blake Pierce
 
 
 ## 2015
+
+### Повелитель Мух
+Уильям Голдинг
+> [2015-04] 
+
 
 ### Ученик Монстролога
 Рик Янси

@@ -1,4 +1,16 @@
 {
+    "dIR2ABGQXD": {
+        "id": "dIR2ABGQXD",
+        "title": "Повелитель Мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2019-04-18 08:23:14",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 57
+        }
+    },
     "A7o8TTm-vw": {
         "id": "A7o8TTm-vw",
         "title": "Ученик Монстролога",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 28
-        }
-    },
-    "M4p1krtBDn": {
-        "id": "M4p1krtBDn",
-        "title": "Хребты Безумия",
-        "author": "Говард Филлипс Лавкрафт",
-        "notes": "",
-        "createdAt": "2019-04-18 08:05:15",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 27
         }
     }
 }
