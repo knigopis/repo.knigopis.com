@@ -1,4 +1,16 @@
 {
+    "ySq6WScKKD": {
+        "id": "ySq6WScKKD",
+        "title": "Игра Престолов",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2019-04-18 08:13:23",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 37
+        }
+    },
     "s987gZjfLC": {
         "id": "s987gZjfLC",
         "title": "Возвращение со Звёзд",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 10
-        }
-    },
-    "3ZOlCnkr6q": {
-        "id": "3ZOlCnkr6q",
-        "title": "Эти странные шведы",
-        "author": "Петер Берлин",
-        "notes": "",
-        "createdAt": "2019-04-18 07:58:29",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 9
         }
     }
 }
