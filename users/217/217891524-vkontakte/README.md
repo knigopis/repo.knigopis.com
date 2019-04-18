@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>4</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>5</sup>
 ---
 
 ## 2019
@@ -24,6 +24,11 @@
 ### Север и Юг
 Элизабет Гаскелл
 > [2018-10-01] 
+
+
+### Адский поезд для Красного Ангела
+Франк Тилье
+> [2018-09-18] 
 
 
 
