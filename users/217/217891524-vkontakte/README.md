@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>5</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>6</sup>
 ---
 
 ## 2019
@@ -29,6 +29,11 @@
 ### Адский поезд для Красного Ангела
 Франк Тилье
 > [2018-09-18] 
+
+
+### Тараканы
+Ю Несбё
+> [2018-08-31] 
 
 
 
