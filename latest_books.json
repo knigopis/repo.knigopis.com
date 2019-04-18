@@ -1,4 +1,16 @@
 {
+    "b_P8yz79kg": {
+        "id": "b_P8yz79kg",
+        "title": "Гамлет",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2019-04-18 09:16:02",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 109
+        }
+    },
     "554C8NcaQy": {
         "id": "554C8NcaQy",
         "title": "Оскар и Розовая Дама",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 80
-        }
-    },
-    "g4_UQCu3r6": {
-        "id": "g4_UQCu3r6",
-        "title": "Вельд (рассказ)",
-        "author": "Рэй Бредбери",
-        "notes": "",
-        "createdAt": "2019-04-18 08:52:42",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 79
         }
     }
 }

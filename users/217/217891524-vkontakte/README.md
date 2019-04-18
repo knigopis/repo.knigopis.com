@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>108</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>109</sup>
 ---
 
 ## 2019
@@ -558,6 +558,10 @@ Blake Pierce
 
 
 ## 2012
+
+### Гамлет
+Уильям Шекспир
+
 
 ### Оскар и Розовая Дама
 Эрик-Эммануэль Шмитт
