@@ -1,4 +1,16 @@
 {
+    "GQ8nGzLFya": {
+        "id": "GQ8nGzLFya",
+        "title": "Сказка Сказок",
+        "author": "Джамбаттиста Базиле",
+        "notes": "",
+        "createdAt": "2019-04-18 08:12:39",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 35
+        }
+    },
     "uquM6R0nP0": {
         "id": "uquM6R0nP0",
         "title": "Битва Королей",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 8
-        }
-    },
-    "FYr9fZRqHn": {
-        "id": "FYr9fZRqHn",
-        "title": "Пандемия",
-        "author": "Франк Тилье",
-        "notes": "",
-        "createdAt": "2019-04-18 07:57:20",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 7
         }
     }
 }
