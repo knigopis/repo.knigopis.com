@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>84</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>85</sup>
 ---
 
 ## 2019
@@ -401,6 +401,11 @@ Blake Pierce
 ### Никогде
 Нил Гейман
 > [2014-03] 
+
+
+### Кентервильское привидение
+Оскар Уайльд
+> [2014-02] 
 
 
 ### И Вспыхнет Пламя
