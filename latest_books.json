@@ -1,4 +1,16 @@
 {
+    "6IYpCzAz-9": {
+        "id": "6IYpCzAz-9",
+        "title": "Вий",
+        "author": "Николай Гоголь",
+        "notes": "",
+        "createdAt": "2019-04-18 07:59:32",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 13
+        }
+    },
     "YrDBE5KsYo": {
         "id": "YrDBE5KsYo",
         "title": "Остров",
@@ -345,18 +357,6 @@
             "id": "531751113661013-facebook",
             "nickname": "Retona",
             "booksCount": 3
-        }
-    },
-    "dQ89fWYNq2": {
-        "id": "dQ89fWYNq2",
-        "title": "Анна Каренина",
-        "author": "Лев Николаевич Толстой",
-        "notes": "",
-        "createdAt": "2019-04-13 11:09:25",
-        "user": {
-            "id": "531751113661013-facebook",
-            "nickname": "Retona",
-            "booksCount": 2
         }
     }
 }
