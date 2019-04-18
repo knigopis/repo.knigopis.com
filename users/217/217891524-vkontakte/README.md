@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>98</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>99</sup>
 ---
 
 ## 2019
@@ -500,6 +500,11 @@ Blake Pierce
 
 
 ## 2013
+
+### Цирк Уродов
+Даррен Шэн
+> [2013-02] 
+
 
 ### Хорошо быть тихоней
 Стивен Чбоски
