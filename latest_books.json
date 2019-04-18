@@ -1,4 +1,16 @@
 {
+    "RGUYYX9aQK": {
+        "id": "RGUYYX9aQK",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2019-04-18 09:12:47",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 98
+        }
+    },
     "RRdfEXFgqt": {
         "id": "RRdfEXFgqt",
         "title": "Хорошо быть тихоней",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 69
-        }
-    },
-    "zrt8lBYD5O": {
-        "id": "zrt8lBYD5O",
-        "title": "Новый Голод",
-        "author": "Айзек Марион",
-        "notes": "",
-        "createdAt": "2019-04-18 08:27:09",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 68
         }
     }
 }
