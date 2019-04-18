@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>104</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>105</sup>
 ---
 
 ## 2019
@@ -500,6 +500,11 @@ Blake Pierce
 
 
 ## 2013
+
+### Рубиновая Книга
+Керстин Гир
+> [2013-08] 
+
 
 ### 451 Градус по Фаренгейту
 Рэй Брэдбери
