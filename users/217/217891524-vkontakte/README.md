@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>113</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>114</sup>
 ---
 
 ## 2019
@@ -558,6 +558,10 @@ Blake Pierce
 
 
 ## 2012
+
+### Король Лир
+Уильям Шекспир
+
 
 ### Сон в летнюю ночь
 Уильям Шекспир
