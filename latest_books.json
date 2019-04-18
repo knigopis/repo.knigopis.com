@@ -1,4 +1,16 @@
 {
+    "s987gZjfLC": {
+        "id": "s987gZjfLC",
+        "title": "Возвращение со Звёзд",
+        "author": "Станислав Лем",
+        "notes": "",
+        "createdAt": "2019-04-18 08:12:49",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 36
+        }
+    },
     "GQ8nGzLFya": {
         "id": "GQ8nGzLFya",
         "title": "Сказка Сказок",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 9
-        }
-    },
-    "hsoTABhTwJ": {
-        "id": "hsoTABhTwJ",
-        "title": "Before he Kills",
-        "author": "Blake Pierce",
-        "notes": "",
-        "createdAt": "2019-04-18 07:58:10",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 8
         }
     }
 }
