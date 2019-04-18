@@ -1,4 +1,16 @@
 {
+    "A0IOvlbILy": {
+        "id": "A0IOvlbILy",
+        "title": "451 Градус по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2019-04-18 09:14:36",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 104
+        }
+    },
     "6BSYpZd9pq": {
         "id": "6BSYpZd9pq",
         "title": "Субмарина",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 75
-        }
-    },
-    "2XY60DzpZi": {
-        "id": "2XY60DzpZi",
-        "title": "Дракула",
-        "author": "Брэм Стокер",
-        "notes": "",
-        "createdAt": "2019-04-18 08:28:51",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 74
         }
     }
 }
