@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>68</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>69</sup>
 ---
 
 ## 2019
@@ -347,6 +347,10 @@ Blake Pierce
 
 
 ## 2014
+
+### Великан-эгоист (сказка)
+Оскар Уайльд
+
 
 ### Новый Голод
 Айзек Марион
