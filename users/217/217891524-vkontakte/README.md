@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>110</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>111</sup>
 ---
 
 ## 2019
@@ -558,6 +558,10 @@ Blake Pierce
 
 
 ## 2012
+
+### Перси Джексон и Похититель Молний
+Рик Риордан
+
 
 ### Макбет
 Уильям Шекспир
