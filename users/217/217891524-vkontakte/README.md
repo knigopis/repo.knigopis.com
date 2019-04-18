@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>17</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>18</sup>
 ---
 
 ## 2019
@@ -92,6 +92,11 @@ Blake Pierce
 ### Нетопырь
 Ю Несбё
 > [2017-12-31] 
+
+
+### Танец с Драконами. Книга 2. Искры над Пеплом
+Джордж Мартин
+> [2017-12-26] 
 
 
 

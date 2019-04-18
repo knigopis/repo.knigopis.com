@@ -1,4 +1,16 @@
 {
+    "oHDJDkS74a": {
+        "id": "oHDJDkS74a",
+        "title": "Танец с Драконами. Книга 2. Искры над Пеплом",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2019-04-18 08:01:27",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 18
+        }
+    },
     "uHVdP0ihBg": {
         "id": "uHVdP0ihBg",
         "title": "Нетопырь",
@@ -345,18 +357,6 @@
             "id": "531751113661013-facebook",
             "nickname": "Retona",
             "booksCount": 4
-        }
-    },
-    "6i_F3UPxNG": {
-        "id": "6i_F3UPxNG",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-04-13 16:43:58",
-        "user": {
-            "id": "531751113661013-facebook",
-            "nickname": "Retona",
-            "booksCount": 5
         }
     }
 }
