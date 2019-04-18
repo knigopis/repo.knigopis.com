@@ -1,4 +1,16 @@
 {
+    "SF97LW_Dds": {
+        "id": "SF97LW_Dds",
+        "title": "Идеальный муж (пьеса)",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2019-04-18 09:08:39",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 95
+        }
+    },
     "hFDD8rE_GY": {
         "id": "hFDD8rE_GY",
         "title": "Мальчик-звезда (сказка)",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 66
-        }
-    },
-    "xTilSvE29z": {
-        "id": "xTilSvE29z",
-        "title": "Гарри Поттер и Кубок Огня",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2019-04-18 08:25:53",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 65
         }
     }
 }
