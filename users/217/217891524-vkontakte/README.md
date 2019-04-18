@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>31</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>32</sup>
 ---
 
 ## 2019
@@ -162,6 +162,11 @@ Blake Pierce
 ### Багровый Пик
 Нэнси Холдер
 > [2017-03-25] 
+
+
+### Тринадцатая Сказка
+Диана Сеттерфилд
+> [2017-02-07] 
 
 
 
