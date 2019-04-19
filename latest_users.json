@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 23,
+        "updatedAt": "2019-04-19 19:19:05"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -22,12 +28,6 @@
         "nickname": "marino4kasweet",
         "booksCount": 10,
         "updatedAt": "2019-04-18 08:03:29"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 22,
-        "updatedAt": "2019-04-17 21:16:24"
     },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>22</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>23</sup>
 ---
 
 ## 2019
+
+### Чорнобильска молитва
+Світлана Алексієвич
+> [2019-04-19] 10/10 трагічні свідчення білорусів про катастрофу, відкриває людську перспективу трагедії.
+
 
 ### Живі свідки історії
 Низькодубова, Сімонова, Дрьомова

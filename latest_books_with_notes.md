@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чорнобильска молитва ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>23</sup>
 * Живі свідеи історії ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>22</sup>
 * Жнец ~ [youno](users/302/302928912-vkontakte)<sup>22</sup>
 * ПИШИ, СОКРАЩАЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup>
@@ -30,7 +31,6 @@
 * Мечтают ли андроиды об электроовцах? ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup>
 * A Game for Assassins (The Redaction Chronicles Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>101</sup>
 * Раны заживают медленно. Записки штабного офицера ~ [exulted](users/100/100599204551896265722-google)<sup>100</sup>
-* Ботагоз ~ [Euphoria](users/106/106304994652616315178-google)<sup>65</sup>
 
 
-_17.04.2019 21:16:24_
+_19.04.2019 19:19:05_
