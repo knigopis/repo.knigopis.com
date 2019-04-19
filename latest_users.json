@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 162,
+        "updatedAt": "2019-04-19 11:55:43"
+    },
     "217891524-vkontakte": {
         "id": "217891524-vkontakte",
         "nickname": "lostinfrost",
@@ -16,12 +22,6 @@
         "nickname": "marino4kasweet",
         "booksCount": 10,
         "updatedAt": "2019-04-18 08:03:29"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 161,
-        "updatedAt": "2019-04-18 08:02:29"
     },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
