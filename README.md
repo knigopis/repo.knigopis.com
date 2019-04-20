@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сад чудовищ ~ [Chiffi](users/105/105831994080785626680-google)<sup>115</sup>
+    > интересный исторический детектив. но почему-то гитлеровская Германия напоминает сталинский СССР. более жесткая, более безумная, но люди везде одинаковые
+
 * Чорнобильска молитва ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>23</sup>
     > 10/10 трагічні свідчення білорусів про катастрофу, відкриває людську перспективу трагедії.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Спогади про німецьку окурацію Луганщини.
 
 * Жнец ~ [youno](users/302/302928912-vkontakte)<sup>22</sup>
-    > Понравилось!
 
 * ПИШИ, СОКРАЩАЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Думай как миллиардер ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup>
 
-* Происхождение видов путем естественного отбора ~ [lucius](users/838/83820536-yandex)<sup>148</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>115</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>140</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>23</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>15</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [MaXFeeD](users/108/108877393333244243144-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>351</sup> 
 [](users/114/114658477696541181930-google)<sup>3</sup> 
-[белая плесень](users/104/104448632954411726505-google)<sup>20</sup> 
 
 
-_20.04.2019 14:55:18_
+_20.04.2019 15:16:19_

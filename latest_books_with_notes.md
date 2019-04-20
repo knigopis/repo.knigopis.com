@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сад чудовищ ~ [Chiffi](users/105/105831994080785626680-google)<sup>115</sup>
 * Чорнобильска молитва ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>23</sup>
 * Живі свідеи історії ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>22</sup>
 * Жнец ~ [youno](users/302/302928912-vkontakte)<sup>22</sup>
@@ -30,7 +31,6 @@
 * Братья карамазовы ~ [Quaff](users/122/12267158-vkontakte)<sup>27</sup>
 * Мечтают ли андроиды об электроовцах? ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>18</sup>
 * A Game for Assassins (The Redaction Chronicles Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>101</sup>
-* Раны заживают медленно. Записки штабного офицера ~ [exulted](users/100/100599204551896265722-google)<sup>100</sup>
 
 
-_19.04.2019 19:19:05_
+_20.04.2019 15:16:19_

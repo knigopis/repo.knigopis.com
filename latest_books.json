@@ -1,4 +1,16 @@
 {
+    "KhYBNV9ua6": {
+        "id": "KhYBNV9ua6",
+        "title": "Сад чудовищ",
+        "author": "Дивер Джефри",
+        "notes": "интересный исторический детектив. но почему-то гитлеровская Германия напоминает сталинский СССР. более жесткая, более безумная, но люди везде одинаковые",
+        "createdAt": "2019-04-20 15:16:19",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 115
+        }
+    },
     "GT6OAemp5q": {
         "id": "GT6OAemp5q",
         "title": "Впусти меня",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 115
-        }
-    },
-    "g2r0A9nfdo": {
-        "id": "g2r0A9nfdo",
-        "title": "Король Лир",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2019-04-18 09:17:09",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 114
         }
     }
 }
