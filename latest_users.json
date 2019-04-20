@@ -1,4 +1,10 @@
 {
+    "217891524-vkontakte": {
+        "id": "217891524-vkontakte",
+        "nickname": "lostinfrost",
+        "booksCount": 140,
+        "updatedAt": "2019-04-20 14:55:18"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -16,12 +22,6 @@
         "nickname": "borodach",
         "booksCount": 162,
         "updatedAt": "2019-04-19 11:55:43"
-    },
-    "217891524-vkontakte": {
-        "id": "217891524-vkontakte",
-        "nickname": "lostinfrost",
-        "booksCount": 139,
-        "updatedAt": "2019-04-19 09:46:10"
     },
     "99235108-yandex": {
         "id": "99235108-yandex",
