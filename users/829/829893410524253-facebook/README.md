@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>23</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>24</sup>
 ---
 
 ## 2019
+
+### Де немає бога
+Макс Кідрук
+> [2019-04-20] 8/10 Літак розбивається у горах Пакістану, пасажири борються за своє життя.
+
 
 ### Чорнобильска молитва
 Світлана Алексієвич
