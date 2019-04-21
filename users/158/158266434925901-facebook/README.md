@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>72</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>73</sup>
 ---
 
 ## 2019
+
+### ЭРИК, А ТАК ЖЕ НОЧГАЯ СТРАЖА  ВЕДЬМЫ И КОЭН-ВАРВАР
+Терри Пратчетт
+> [2019-04-21] 384 стр
+
 
 ### ПИШИ, СОКРАЩАЙ
 Ильяхов  Сарычева

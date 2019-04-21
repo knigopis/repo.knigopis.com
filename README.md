@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ЭРИК, А ТАК ЖЕ НОЧГАЯ СТРАЖА  ВЕДЬМЫ И КОЭН-ВАРВАР ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>73</sup>
+    > 384 стр
+
 * Де немає бога ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>24</sup>
     > 8/10 Літак розбивається у горах Пакістану, пасажири борються за своє життя.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > интересный исторический детектив. но почему-то гитлеровская Германия напоминает сталинский СССР. более жесткая, более безумная, но люди везде одинаковые
 
 * Чорнобильска молитва ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>23</sup>
-    > 10/10 трагічні свідчення білорусів про катастрофу, відкриває людську перспективу трагедії.
 
 * Живі свідеи історії ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>22</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * ВОЙНА ХАОСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>71</sup>
 
-* Неизвестный Кими Райкконен ~ [Garka](users/115/115753719718250012620-google)<sup>216</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>73</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>24</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>115</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>140</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [marino4kasweet](users/992/99235108-yandex)<sup>10</sup> 
 [youno](users/302/302928912-vkontakte)<sup>22</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup> 
 [CherlockAlex](users/100/100784255659089961550-google)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114658477696541181930-google)<sup>3</sup> 
 
 
-_20.04.2019 21:19:31_
+_21.04.2019 03:18:25_
