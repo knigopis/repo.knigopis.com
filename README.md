@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zxiencee](users/116/116459284797724113226-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>134</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>141</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>73</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>148</sup> 
 [MaXFeeD](users/108/108877393333244243144-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>351</sup> 
-[](users/114/114658477696541181930-google)<sup>3</sup> 
 
 
-_22.04.2019 18:09:35_
+_22.04.2019 18:14:01_
