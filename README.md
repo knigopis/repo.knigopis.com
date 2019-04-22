@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ледяная царевна с Андреевского ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>25</sup>
+    > 10/10 Киевицы знакомятся с Дедом Морозом.
+
 * ЭРИК, А ТАК ЖЕ НОЧГАЯ СТРАЖА  ВЕДЬМЫ И КОЭН-ВАРВАР ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>73</sup>
     > 384 стр
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Літак розбивається у горах Пакістану, пасажири борються за своє життя.
 
 * Сад чудовищ ~ [Chiffi](users/105/105831994080785626680-google)<sup>115</sup>
-    > интересный исторический детектив. но почему-то гитлеровская Германия напоминает сталинский СССР. более жесткая, более безумная, но люди везде одинаковые
 
 * Чорнобильска молитва ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>23</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Введение в контент-маркетинг. Теория и практика ~ [kissamasya](users/684/68439978-vkontakte)<sup>54</sup>
 
-* ВОЙНА ХАОСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>71</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>25</sup> 
 [zxiencee](users/116/116459284797724113226-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>134</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>141</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>73</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>24</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>115</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>15</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>162</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>351</sup> 
 
 
-_22.04.2019 18:14:01_
+_22.04.2019 19:12:02_

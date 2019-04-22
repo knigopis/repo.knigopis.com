@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>24</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>25</sup>
 ---
 
 ## 2019
+
+### Ледяная царевна с Андреевского
+Лада Лузина
+> [2019-04-22] 10/10 Киевицы знакомятся с Дедом Морозом.
+
 
 ### Де немає бога
 Макс Кідрук
