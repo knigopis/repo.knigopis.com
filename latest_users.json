@@ -1,4 +1,10 @@
 {
+    "217891524-vkontakte": {
+        "id": "217891524-vkontakte",
+        "nickname": "lostinfrost",
+        "booksCount": 141,
+        "updatedAt": "2019-04-22 11:34:44"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -16,12 +22,6 @@
         "nickname": "Chiffi",
         "booksCount": 115,
         "updatedAt": "2019-04-20 15:16:19"
-    },
-    "217891524-vkontakte": {
-        "id": "217891524-vkontakte",
-        "nickname": "lostinfrost",
-        "booksCount": 140,
-        "updatedAt": "2019-04-20 14:55:18"
     },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
