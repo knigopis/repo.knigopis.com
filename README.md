@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Apprentice ](users/528/52821952-vkontakte)<sup>109</sup> 
+[Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>14</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>25</sup> 
 [zxiencee](users/116/116459284797724113226-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>351</sup> 
 
 
-_22.04.2019 22:24:54_
+_22.04.2019 22:25:38_
