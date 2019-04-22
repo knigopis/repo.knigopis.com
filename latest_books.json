@@ -1,4 +1,16 @@
 {
+    "2t-g8W1jJ3": {
+        "id": "2t-g8W1jJ3",
+        "title": "Хоббит, или Туда и Обратно",
+        "author": "Джон Рональд Руэл Толкин",
+        "notes": "10/10 Перечитала",
+        "createdAt": "2019-04-22 22:24:54",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 109
+        }
+    },
     "jMVHJpYf8h": {
         "id": "jMVHJpYf8h",
         "title": "Золотой век космонавтики. Мечты и реальность",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 123
-        }
-    },
-    "c4pv7G24Mo": {
-        "id": "c4pv7G24Mo",
-        "title": "Призрак Оперы",
-        "author": "Гастон Леру",
-        "notes": "",
-        "createdAt": "2019-04-18 09:25:37",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 122
         }
     }
 }

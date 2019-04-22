@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хоббит, или Туда и Обратно ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
 * Ледяная царевна с Андреевского ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>25</sup>
 * ЭРИК, А ТАК ЖЕ НОЧГАЯ СТРАЖА  ВЕДЬМЫ И КОЭН-ВАРВАР ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>73</sup>
 * Де немає бога ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>24</sup>
@@ -30,7 +31,6 @@
 * Грибы на асфальте ~ [Chiffi](users/105/105831994080785626680-google)<sup>112</sup>
 * Убийство на пляже ~ [kissamasya](users/684/68439978-vkontakte)<sup>52</sup>
 * Билет на балкон ~ [Chiffi](users/105/105831994080785626680-google)<sup>111</sup>
-* Мелкие боги ~ [Garka](users/115/115753719718250012620-google)<sup>214</sup>
 
 
-_22.04.2019 19:12:02_
+_22.04.2019 22:24:54_

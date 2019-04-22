@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>108</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>109</sup>
 ---
 
 ## 2019
+
+### Хоббит, или Туда и Обратно
+Джон Рональд Руэл Толкин
+> [2019-04-22] 10/10 Перечитала
+
 
 ### Ultima Thule
 Владимир Набоков

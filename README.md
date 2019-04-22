@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хоббит, или Туда и Обратно ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
+    > 10/10 Перечитала
+
 * Ледяная царевна с Андреевского ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>25</sup>
     > 10/10 Киевицы знакомятся с Дедом Морозом.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 384 стр
 
 * Де немає бога ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>24</sup>
-    > 8/10 Літак розбивається у горах Пакістану, пасажири борються за своє життя.
 
 * Сад чудовищ ~ [Chiffi](users/105/105831994080785626680-google)<sup>115</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Властелин хаоса (Серия: Колесо времени 6/16) ~ [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup>
 
-* Введение в контент-маркетинг. Теория и практика ~ [kissamasya](users/684/68439978-vkontakte)<sup>54</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>109</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>14</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>25</sup> 
 [zxiencee](users/116/116459284797724113226-google)<sup>0</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>162</sup> 
 [marino4kasweet](users/992/99235108-yandex)<sup>10</sup> 
 [youno](users/302/302928912-vkontakte)<sup>22</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup> 
 [CherlockAlex](users/100/100784255659089961550-google)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>351</sup> 
 
 
-_22.04.2019 19:30:59_
+_22.04.2019 22:24:54_
