@@ -1,4 +1,4 @@
-# List of books read by regnabo<sup>15</sup>
+# List of books read by regnabo<sup>14</sup>
 ---
 
 ## 2019
@@ -56,11 +56,6 @@
 ### Никогде
 Нил Гейман
 > [2019-02] https://tiefanakis.wordpress.com/2019/02/26/никогде/
-
-
-### Убийство в "Восточном экспрессе"
-Агата Кристи
-> [2019-01] https://tiefanakis.wordpress.com/2019/01/29/убийство-в-восточном-экспрессе-агат/
 
 
 ### Убийство в "Восточном экспрессе"
