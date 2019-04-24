@@ -1,4 +1,4 @@
-# List of books read by regnabo<sup>9</sup>
+# List of books read by regnabo<sup>10</sup>
 ---
 
 ## 2019
@@ -21,6 +21,11 @@
 ### Мальчик и Тьма
 Сергей Лукьяненко
 > [2019-03] https://tiefanakis.wordpress.com/2019/03/01/мальчик-и-тьма/
+
+
+### Мор, ученик Смерти
+Терри Пратчетт
+> [2019-02] https://tiefanakis.wordpress.com/2019/02/05/мор-ученик-смерти-терри-пратчетт/
 
 
 ### Мрачный жнец

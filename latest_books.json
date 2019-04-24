@@ -1,4 +1,16 @@
 {
+    "KoKHb0WrEn": {
+        "id": "KoKHb0WrEn",
+        "title": "Мор, ученик Смерти",
+        "author": "Терри Пратчетт",
+        "notes": "https://tiefanakis.wordpress.com/2019/02/05/мор-ученик-смерти-терри-пратчетт/",
+        "createdAt": "2019-04-24 09:27:44",
+        "user": {
+            "id": "870059322-yandex",
+            "nickname": "regnabo",
+            "booksCount": 10
+        }
+    },
     "Z6iU6aB2RK": {
         "id": "Z6iU6aB2RK",
         "title": "Мрачный жнец",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 134
-        }
-    },
-    "ANU23t44jN": {
-        "id": "ANU23t44jN",
-        "title": "Любовь к жизни (рассказ)",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2019-04-18 09:29:08",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 133
         }
     }
 }
