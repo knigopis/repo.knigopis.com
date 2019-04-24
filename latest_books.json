@@ -1,4 +1,16 @@
 {
+    "guS8DrzBE8": {
+        "id": "guS8DrzBE8",
+        "title": "Второе правило волшебника",
+        "author": "Терри Гудкайнд",
+        "notes": "",
+        "createdAt": "2019-04-24 09:38:24",
+        "user": {
+            "id": "870059322-yandex",
+            "nickname": "regnabo",
+            "booksCount": 17
+        }
+    },
     "V8fKctiy2G": {
         "id": "V8fKctiy2G",
         "title": "Первое правило волшебка",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 162
-        }
-    },
-    "EXCOfjBATc": {
-        "id": "EXCOfjBATc",
-        "title": "Виноваты звезды",
-        "author": "Джон Грин",
-        "notes": "",
-        "createdAt": "2019-04-19 09:46:10",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 139
         }
     }
 }
