@@ -1,4 +1,16 @@
 {
+    "4fcMdWAksI": {
+        "id": "4fcMdWAksI",
+        "title": "Седьмое правило волшебника",
+        "author": "Терри Гудкайнд",
+        "notes": "",
+        "createdAt": "2019-04-24 09:39:30",
+        "user": {
+            "id": "870059322-yandex",
+            "nickname": "regnabo",
+            "booksCount": 22
+        }
+    },
     "hTTOKs4ef0": {
         "id": "hTTOKs4ef0",
         "title": "Шестое правило волшебника",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 24
-        }
-    },
-    "KhYBNV9ua6": {
-        "id": "KhYBNV9ua6",
-        "title": "Сад чудовищ",
-        "author": "Дивер Джефри",
-        "notes": "интересный исторический детектив. но почему-то гитлеровская Германия напоминает сталинский СССР. более жесткая, более безумная, но люди везде одинаковые",
-        "createdAt": "2019-04-20 15:16:19",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 115
         }
     }
 }
