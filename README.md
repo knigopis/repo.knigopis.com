@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kissamasya](users/684/68439978-vkontakte)<sup>55</sup> 
+[kissamasya](users/684/68439978-vkontakte)<sup>54</sup> 
 [regnabo](users/870/870059322-yandex)<sup>27</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>21</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>148</sup> 
 
 
-_24.04.2019 09:43:19_
+_24.04.2019 09:43:29_
