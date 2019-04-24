@@ -1,4 +1,16 @@
 {
+    "TLC5ItcQCG": {
+        "id": "TLC5ItcQCG",
+        "title": "Третье правило волшебника",
+        "author": "Терри Гудкайнд",
+        "notes": "",
+        "createdAt": "2019-04-24 09:38:38",
+        "user": {
+            "id": "870059322-yandex",
+            "nickname": "regnabo",
+            "booksCount": 18
+        }
+    },
     "guS8DrzBE8": {
         "id": "guS8DrzBE8",
         "title": "Второе правило волшебника",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 15
-        }
-    },
-    "hjFdH_hAi5": {
-        "id": "hjFdH_hAi5",
-        "title": "Чайка по имени Джонатан Ливингстон",
-        "author": "Ричард Бах",
-        "notes": "",
-        "createdAt": "2019-04-19 11:55:43",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 162
         }
     }
 }
