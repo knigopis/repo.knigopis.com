@@ -1,4 +1,10 @@
 {
+    "695244810674916-facebook": {
+        "id": "695244810674916-facebook",
+        "nickname": "Eugene",
+        "booksCount": 21,
+        "updatedAt": "2019-04-24 06:53:33"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "MaXFeeD",
         "booksCount": 0,
         "updatedAt": "2019-04-09 07:19:13"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 351,
-        "updatedAt": "2019-04-09 03:19:47"
     }
 }

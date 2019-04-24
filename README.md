@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eugene](users/695/695244810674916-facebook)<sup>21</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>14</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>25</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [black.kebab](users/172/172616235-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>148</sup> 
 [MaXFeeD](users/108/108877393333244243144-google)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>351</sup> 
 
 
-_22.04.2019 22:25:38_
+_24.04.2019 06:53:33_
