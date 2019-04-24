@@ -1,4 +1,16 @@
 {
+    "V8fKctiy2G": {
+        "id": "V8fKctiy2G",
+        "title": "Первое правило волшебка",
+        "author": "Терри Гудкайнд",
+        "notes": "я часто перечитываю эту серию книг. недаром она в \"избранном\"",
+        "createdAt": "2019-04-24 09:37:59",
+        "user": {
+            "id": "870059322-yandex",
+            "nickname": "regnabo",
+            "booksCount": 16
+        }
+    },
     "wfIVdVhxwA": {
         "id": "wfIVdVhxwA",
         "title": "Орикс и Коростель",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 139
-        }
-    },
-    "Scpn0HOR3r": {
-        "id": "Scpn0HOR3r",
-        "title": "Жена моего мужа",
-        "author": "Джейн Корри",
-        "notes": "",
-        "createdAt": "2019-04-18 20:02:30",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 14
         }
     }
 }
