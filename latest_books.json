@@ -1,4 +1,16 @@
 {
+    "46FjwqR0iM": {
+        "id": "46FjwqR0iM",
+        "title": "Девятое правило волшебника",
+        "author": "Терри Гудкайнд",
+        "notes": "",
+        "createdAt": "2019-04-24 09:39:48",
+        "user": {
+            "id": "870059322-yandex",
+            "nickname": "regnabo",
+            "booksCount": 24
+        }
+    },
     "u40-boTwe-": {
         "id": "u40-boTwe-",
         "title": "Восьмое правило волшебника",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 141
-        }
-    },
-    "93OTfVhmkS": {
-        "id": "93OTfVhmkS",
-        "title": "ЭРИК, А ТАК ЖЕ НОЧГАЯ СТРАЖА  ВЕДЬМЫ И КОЭН-ВАРВАР",
-        "author": "Терри Пратчетт",
-        "notes": "384 стр",
-        "createdAt": "2019-04-21 03:18:25",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 73
         }
     }
 }
