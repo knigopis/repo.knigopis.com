@@ -1,4 +1,4 @@
-# List of books read by regnabo<sup>8</sup>
+# List of books read by regnabo<sup>9</sup>
 ---
 
 ## 2019
@@ -21,6 +21,11 @@
 ### Мальчик и Тьма
 Сергей Лукьяненко
 > [2019-03] https://tiefanakis.wordpress.com/2019/03/01/мальчик-и-тьма/
+
+
+### Мрачный жнец
+Терри Пратчетт
+> [2019-02] https://tiefanakis.wordpress.com/2019/02/07/мрачный-жнец-2/
 
 
 ### Роковая музыка

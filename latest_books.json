@@ -1,4 +1,16 @@
 {
+    "Z6iU6aB2RK": {
+        "id": "Z6iU6aB2RK",
+        "title": "Мрачный жнец",
+        "author": "Терри Пратчетт",
+        "notes": "https://tiefanakis.wordpress.com/2019/02/07/мрачный-жнец-2/",
+        "createdAt": "2019-04-24 09:27:06",
+        "user": {
+            "id": "870059322-yandex",
+            "nickname": "regnabo",
+            "booksCount": 9
+        }
+    },
     "H42VqkJVFL": {
         "id": "H42VqkJVFL",
         "title": "Роковая музыка",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 133
-        }
-    },
-    "Nt69lc0LAL": {
-        "id": "Nt69lc0LAL",
-        "title": "Белый Клык",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2019-04-18 09:28:55",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 132
         }
     }
 }
