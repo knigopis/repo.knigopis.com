@@ -1,4 +1,16 @@
 {
+    "hTTOKs4ef0": {
+        "id": "hTTOKs4ef0",
+        "title": "Шестое правило волшебника",
+        "author": "Терри Гудкайнд",
+        "notes": "",
+        "createdAt": "2019-04-24 09:39:20",
+        "user": {
+            "id": "870059322-yandex",
+            "nickname": "regnabo",
+            "booksCount": 21
+        }
+    },
     "CZlWBtMiQU": {
         "id": "CZlWBtMiQU",
         "title": "Пятое правило волшебника",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 115
-        }
-    },
-    "GT6OAemp5q": {
-        "id": "GT6OAemp5q",
-        "title": "Впусти меня",
-        "author": "Юн Линдквист",
-        "notes": "",
-        "createdAt": "2019-04-20 14:55:18",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 140
         }
     }
 }
