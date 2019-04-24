@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>53</sup> 
 [regnabo](users/870/870059322-yandex)<sup>26</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>21</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>22</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup> 
 [CherlockAlex](users/100/100784255659089961550-google)<sup>1</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>54</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>697</sup> 
 [Retona](users/531/531751113661013-facebook)<sup>3</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>24</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>148</sup> 
 
 
-_24.04.2019 09:40:37_
+_24.04.2019 09:40:57_
