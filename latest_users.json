@@ -1,4 +1,10 @@
 {
+    "870059322-yandex": {
+        "id": "870059322-yandex",
+        "nickname": "register.log",
+        "booksCount": 0,
+        "updatedAt": "2019-04-24 09:18:51"
+    },
     "695244810674916-facebook": {
         "id": "695244810674916-facebook",
         "nickname": "Eugene",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 148,
         "updatedAt": "2019-04-09 11:15:55"
-    },
-    "108877393333244243144-google": {
-        "id": "108877393333244243144-google",
-        "nickname": "MaXFeeD",
-        "booksCount": 0,
-        "updatedAt": "2019-04-09 07:19:13"
     }
 }
