@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Garka](users/115/115753719718250012620-google)<sup>217</sup>
+    > Оригинальная прислуга в Англии - указывают что делать хозяевам, лезут везде, возмущаются. Роман хорошего качества
+
 * Стыд & Sex.Эротические рассказы ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
     > Вы что, правда, собрались это читать?! Да боже вас упаси! Даже и не думайте – Мишка и Белка тут такое вытворяют, что вы просто от стыда умрете!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Перечитала
 
 * Ледяная царевна с Андреевского ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>25</sup>
-    > 10/10 Киевицы знакомятся с Дедом Морозом.
 
 * ЭРИК, А ТАК ЖЕ НОЧГАЯ СТРАЖА  ВЕДЬМЫ И КОЭН-ВАРВАР ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>73</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Жнец ~ [youno](users/302/302928912-vkontakte)<sup>22</sup>
 
-* ПИШИ, СОКРАЩАЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>217</sup> 
 [ms.madoka](users/272/272093386-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>54</sup> 
 [regnabo](users/870/870059322-yandex)<sup>27</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Retona](users/531/531751113661013-facebook)<sup>3</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>24</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>16</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>216</sup> 
 [ohlordplsmakeanonlessofafaggot](users/168/168352502-vkontakte)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>74</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>18</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [black.kebab](users/172/172616235-vkontakte)<sup>0</sup> 
 
 
-_24.04.2019 17:32:02_
+_24.04.2019 20:12:20_

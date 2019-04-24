@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Garka](users/115/115753719718250012620-google)<sup>217</sup>
 * Стыд & Sex.Эротические рассказы ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
 * Хоббит, или Туда и Обратно ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
 * Ледяная царевна с Андреевского ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>25</sup>
@@ -30,7 +31,6 @@
 * Безумен род людской ~ [kissamasya](users/684/68439978-vkontakte)<sup>53</sup>
 * Техподдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>113</sup>
 * Грибы на асфальте ~ [Chiffi](users/105/105831994080785626680-google)<sup>112</sup>
-* Убийство на пляже ~ [kissamasya](users/684/68439978-vkontakte)<sup>52</sup>
 
 
-_24.04.2019 09:43:19_
+_24.04.2019 20:12:20_
