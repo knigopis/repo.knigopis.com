@@ -1,4 +1,16 @@
 {
+    "H42VqkJVFL": {
+        "id": "H42VqkJVFL",
+        "title": "Роковая музыка",
+        "author": "Терри Пратчетт",
+        "notes": "https://tiefanakis.wordpress.com/2019/02/11/роковая-музыка/",
+        "createdAt": "2019-04-24 09:26:39",
+        "user": {
+            "id": "870059322-yandex",
+            "nickname": "regnabo",
+            "booksCount": 8
+        }
+    },
     "r63xaelWKU": {
         "id": "r63xaelWKU",
         "title": "Санта-Хрякус",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 132
-        }
-    },
-    "LGO5i29NQM": {
-        "id": "LGO5i29NQM",
-        "title": "Морской Волк",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2019-04-18 09:28:43",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 131
         }
     }
 }
