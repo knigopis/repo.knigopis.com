@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Стыд & Sex.Эротические рассказы ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
+    > Вы что, правда, собрались это читать?! Да боже вас упаси! Даже и не думайте – Мишка и Белка тут такое вытворяют, что вы просто от стыда умрете!
+
 * Хоббит, или Туда и Обратно ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
     > 10/10 Перечитала
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Киевицы знакомятся с Дедом Морозом.
 
 * ЭРИК, А ТАК ЖЕ НОЧГАЯ СТРАЖА  ВЕДЬМЫ И КОЭН-ВАРВАР ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>73</sup>
-    > 384 стр
 
 * Де немає бога ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>24</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * ПИШИ, СОКРАЩАЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup>
 
-* Властелин хаоса (Серия: Колесо времени 6/16) ~ [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>55</sup> 
 [regnabo](users/870/870059322-yandex)<sup>27</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>53</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>21</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>148</sup> 
 
 
-_24.04.2019 09:42:10_
+_24.04.2019 09:43:19_
