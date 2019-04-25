@@ -1,4 +1,10 @@
 {
+    "304041461-yandex": {
+        "id": "304041461-yandex",
+        "nickname": "johnybond32",
+        "booksCount": 3,
+        "updatedAt": "2019-04-25 13:50:33"
+    },
     "112563761151554776409-google": {
         "id": "112563761151554776409-google",
         "nickname": "RenStel",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 197,
         "updatedAt": "2019-04-10 15:19:03"
-    },
-    "616195292-yandex": {
-        "id": "616195292-yandex",
-        "nickname": "uid-crjawhqa",
-        "booksCount": 0,
-        "updatedAt": "2019-04-10 05:52:22"
     }
 }
