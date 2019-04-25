@@ -1,4 +1,16 @@
 {
+    "42ryreYZrw": {
+        "id": "42ryreYZrw",
+        "title": "Убийство Роджера Экройда",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2019-04-25 11:50:13",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 142
+        }
+    },
     "kVWIZzm6JW": {
         "id": "kVWIZzm6JW",
         "title": "КАРТА ДНЕЙ",
@@ -345,18 +357,6 @@
             "id": "870059322-yandex",
             "nickname": "regnabo",
             "booksCount": 3
-        }
-    },
-    "aV3IMSyKDq": {
-        "id": "aV3IMSyKDq",
-        "title": "Туннель в небе",
-        "author": "Роберт Хайнлайн",
-        "notes": "немного не то, чего ожидаешь от такой книги. сюжет и посыл близок к \"повелителю мух\".",
-        "createdAt": "2019-04-24 09:22:48",
-        "user": {
-            "id": "870059322-yandex",
-            "nickname": "regnabo",
-            "booksCount": 2
         }
     }
 }

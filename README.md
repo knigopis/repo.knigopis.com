@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lostinfrost](users/217/217891524-vkontakte)<sup>142</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup> 
 [gredin_as](users/277/277067555-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>217</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>25</sup> 
 [zxiencee](users/116/116459284797724113226-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>134</sup> 
-[lostinfrost](users/217/217891524-vkontakte)<sup>141</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>115</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>15</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>162</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>43</sup> 
 
 
-_25.04.2019 05:17:39_
+_25.04.2019 11:50:13_

@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>141</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>142</sup>
 ---
 
 ## 2019
+
+### Убийство Роджера Экройда
+Агата Кристи
+> [2019-04-25] 
+
 
 ### Десять негритят
 Агата Кристи
