@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>73</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>74</sup>
 ---
 
 ## 2019
+
+### КАРТА ДНЕЙ
+Ренсом Риггз
+> [2019-04-25] 576 стр
+
 
 ### ЭРИК, А ТАК ЖЕ НОЧГАЯ СТРАЖА  ВЕДЬМЫ И КОЭН-ВАРВАР
 Терри Пратчетт

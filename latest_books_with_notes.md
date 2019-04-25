@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* КАРТА ДНЕЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup>
 *  ~ [Garka](users/115/115753719718250012620-google)<sup>217</sup>
 * Стыд & Sex.Эротические рассказы ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
 * Хоббит, или Туда и Обратно ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
@@ -30,7 +31,6 @@
 * Танатонавты ~ [En](users/333/333646551-vkontakte)<sup>62</sup>
 * Безумен род людской ~ [kissamasya](users/684/68439978-vkontakte)<sup>53</sup>
 * Техподдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>113</sup>
-* Грибы на асфальте ~ [Chiffi](users/105/105831994080785626680-google)<sup>112</sup>
 
 
-_24.04.2019 20:12:20_
+_25.04.2019 05:17:39_

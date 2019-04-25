@@ -1,4 +1,16 @@
 {
+    "kVWIZzm6JW": {
+        "id": "kVWIZzm6JW",
+        "title": "КАРТА ДНЕЙ",
+        "author": "Ренсом Риггз",
+        "notes": "576 стр",
+        "createdAt": "2019-04-25 05:17:39",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 74
+        }
+    },
     "RG8Ydt11Hd": {
         "id": "RG8Ydt11Hd",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 113
-        }
-    },
-    "25qjS10GRx": {
-        "id": "25qjS10GRx",
-        "title": "Грибы на асфальте",
-        "author": "Дубровин Евгений",
-        "notes": "почему-то на меня этот автор действует угнетающе. может потому, что хороший язык  и сильные образы?",
-        "createdAt": "2019-03-31 05:21:58",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 112
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* КАРТА ДНЕЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup>
+    > 576 стр
+
 *  ~ [Garka](users/115/115753719718250012620-google)<sup>217</sup>
     > Оригинальная прислуга в Англии - указывают что делать хозяевам, лезут везде, возмущаются. Роман хорошего качества
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Вы что, правда, собрались это читать?! Да боже вас упаси! Даже и не думайте – Мишка и Белка тут такое вытворяют, что вы просто от стыда умрете!
 
 * Хоббит, или Туда и Обратно ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
-    > 10/10 Перечитала
 
 * Ледяная царевна с Андреевского ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>25</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Живі свідеи історії ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>22</sup>
 
-* Жнец ~ [youno](users/302/302928912-vkontakte)<sup>22</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup> 
 [gredin_as](users/277/277067555-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>217</sup> 
 [ms.madoka](users/272/272093386-vkontakte)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zxiencee](users/116/116459284797724113226-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>134</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>141</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>73</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>115</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>15</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>162</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>43</sup> 
 
 
-_25.04.2019 04:13:32_
+_25.04.2019 05:17:39_

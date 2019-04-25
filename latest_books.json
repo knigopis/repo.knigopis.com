@@ -1,4 +1,16 @@
 {
+    "kVWIZzm6JW": {
+        "id": "kVWIZzm6JW",
+        "title": "КАРТА ДНЕЙ",
+        "author": "Ренсом Риггз",
+        "notes": "576 стр",
+        "createdAt": "2019-04-25 05:17:39",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 74
+        }
+    },
     "nGO74lgzUj": {
         "id": "nGO74lgzUj",
         "title": "Я забыл умереть",
@@ -345,18 +357,6 @@
             "id": "870059322-yandex",
             "nickname": "regnabo",
             "booksCount": 2
-        }
-    },
-    "yC5v31S-J5": {
-        "id": "yC5v31S-J5",
-        "title": "Аппетит",
-        "author": "Филип Казан",
-        "notes": "совсем не похоже на \"парфюмера\", как заявлялось в рекомендациях, но есть своя изюминка и свой стиль, превосходящий в моих глазах \"парфюмера\".",
-        "createdAt": "2019-04-24 09:21:24",
-        "user": {
-            "id": "870059322-yandex",
-            "nickname": "regnabo",
-            "booksCount": 1
         }
     }
 }
