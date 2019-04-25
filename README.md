@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[gredin_as](users/277/277067555-vkontakte)<sup>0</sup> 
+[gredin_as](users/277/277067555-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>217</sup> 
 [ms.madoka](users/272/272093386-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>43</sup> 
 
 
-_25.04.2019 04:06:56_
+_25.04.2019 04:13:32_
