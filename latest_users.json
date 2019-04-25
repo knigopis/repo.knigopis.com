@@ -1,4 +1,10 @@
 {
+    "112563761151554776409-google": {
+        "id": "112563761151554776409-google",
+        "nickname": "RenStel",
+        "booksCount": 0,
+        "updatedAt": "2019-04-25 12:31:18"
+    },
     "217891524-vkontakte": {
         "id": "217891524-vkontakte",
         "nickname": "lostinfrost",
@@ -172,11 +178,5 @@
         "nickname": "uid-crjawhqa",
         "booksCount": 0,
         "updatedAt": "2019-04-10 05:52:22"
-    },
-    "334696193054530347-mailru": {
-        "id": "334696193054530347-mailru",
-        "nickname": "Даша",
-        "booksCount": 43,
-        "updatedAt": "2019-04-10 03:58:22"
     }
 }
