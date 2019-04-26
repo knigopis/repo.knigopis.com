@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 176,
+        "updatedAt": "2019-04-26 04:36:37"
+    },
     "304041461-yandex": {
         "id": "304041461-yandex",
         "nickname": "johnybond32",
@@ -172,11 +178,5 @@
         "nickname": "mavrentik",
         "booksCount": 18,
         "updatedAt": "2019-04-10 16:15:18"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 197,
-        "updatedAt": "2019-04-10 15:19:03"
     }
 }

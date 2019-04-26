@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>176</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
 [RenStel](users/112/112563761151554776409-google)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>142</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ohlordplsmakeanonlessofafaggot](users/168/168352502-vkontakte)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>74</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>18</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup> 
 
 
-_25.04.2019 13:50:33_
+_26.04.2019 04:36:37_
