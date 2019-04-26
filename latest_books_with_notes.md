@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Колыбель для кошки (Cat's Cradle) ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup>
 * КАРТА ДНЕЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup>
 *  ~ [Garka](users/115/115753719718250012620-google)<sup>217</sup>
 * Стыд & Sex.Эротические рассказы ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
@@ -30,7 +31,6 @@
 * Продажное королевство ~ [En](users/333/333646551-vkontakte)<sup>63</sup>
 * Танатонавты ~ [En](users/333/333646551-vkontakte)<sup>62</sup>
 * Безумен род людской ~ [kissamasya](users/684/68439978-vkontakte)<sup>53</sup>
-* Техподдержка ~ [Chiffi](users/105/105831994080785626680-google)<sup>113</sup>
 
 
-_25.04.2019 05:17:39_
+_26.04.2019 14:36:14_

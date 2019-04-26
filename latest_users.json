@@ -1,4 +1,10 @@
 {
+    "126368737-vkontakte": {
+        "id": "126368737-vkontakte",
+        "nickname": "Макар Коренюк",
+        "booksCount": 5,
+        "updatedAt": "2019-04-26 14:36:14"
+    },
     "521873425-vkontakte": {
         "id": "521873425-vkontakte",
         "nickname": "Lecowi",
@@ -172,11 +178,5 @@
         "nickname": "ohlordplsmakeanonlessofafaggot",
         "booksCount": 0,
         "updatedAt": "2019-04-10 20:45:54"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 74,
-        "updatedAt": "2019-04-10 18:13:05"
     }
 }
