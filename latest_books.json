@@ -1,4 +1,16 @@
 {
+    "xbC1kYa5uV": {
+        "id": "xbC1kYa5uV",
+        "title": "Прислуга",
+        "author": "Стокетт Кэтрин",
+        "notes": "",
+        "createdAt": "2019-04-26 09:36:05",
+        "user": {
+            "id": "521873425-vkontakte",
+            "nickname": "Lecowi",
+            "booksCount": 11
+        }
+    },
     "nCn3zVOlfL": {
         "id": "nCn3zVOlfL",
         "title": "Ученица",
@@ -345,18 +357,6 @@
             "id": "870059322-yandex",
             "nickname": "regnabo",
             "booksCount": 6
-        }
-    },
-    "Jy6Fb3Y1Rw": {
-        "id": "Jy6Fb3Y1Rw",
-        "title": "Никогде",
-        "author": "Нил Гейман",
-        "notes": "https://tiefanakis.wordpress.com/2019/02/26/никогде/",
-        "createdAt": "2019-04-24 09:24:56",
-        "user": {
-            "id": "870059322-yandex",
-            "nickname": "regnabo",
-            "booksCount": 5
         }
     }
 }
