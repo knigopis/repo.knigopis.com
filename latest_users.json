@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 55,
+        "updatedAt": "2019-04-27 07:38:02"
+    },
     "83820536-yandex": {
         "id": "83820536-yandex",
         "nickname": "lucius",
@@ -70,12 +76,6 @@
         "nickname": "ms.madoka",
         "booksCount": 0,
         "updatedAt": "2019-04-24 17:32:00"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 54,
-        "updatedAt": "2019-04-24 09:43:28"
     },
     "870059322-yandex": {
         "id": "870059322-yandex",

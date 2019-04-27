@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Герои племён ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
 * Империализм как высшая стадия развития капитализма ~ [lucius](users/838/83820536-yandex)<sup>149</sup>
 * Колыбель для кошки (Cat's Cradle) ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup>
 * КАРТА ДНЕЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup>
@@ -30,7 +31,6 @@
 * Убить пересмешника ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>19</sup>
 * Я попара ~ [Quaff](users/122/12267158-vkontakte)<sup>28</sup>
 * Продажное королевство ~ [En](users/333/333646551-vkontakte)<sup>63</sup>
-* Танатонавты ~ [En](users/333/333646551-vkontakte)<sup>62</sup>
 
 
-_27.04.2019 02:36:34_
+_27.04.2019 07:38:02_
