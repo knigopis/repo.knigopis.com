@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Одинокий мужчина с кошкой ~ [kissamasya](users/684/68439978-vkontakte)<sup>56</sup>
 * Герои племён ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
 * Империализм как высшая стадия развития капитализма ~ [lucius](users/838/83820536-yandex)<sup>149</sup>
 * Колыбель для кошки (Cat's Cradle) ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup>
@@ -30,7 +31,6 @@
 * В круге первом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>20</sup>
 * Убить пересмешника ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>19</sup>
 * Я попара ~ [Quaff](users/122/12267158-vkontakte)<sup>28</sup>
-* Продажное королевство ~ [En](users/333/333646551-vkontakte)<sup>63</sup>
 
 
-_27.04.2019 07:38:02_
+_27.04.2019 11:57:28_
