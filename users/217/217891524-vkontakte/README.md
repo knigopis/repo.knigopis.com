@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>142</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>143</sup>
 ---
 
 ## 2019
+
+### Убийство на улице Морг (рассказ)
+Эдгар Аллан По
+> [2019-04-27] 
+
 
 ### Убийство Роджера Экройда
 Агата Кристи
