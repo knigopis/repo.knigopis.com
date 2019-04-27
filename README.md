@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[xxx](users/109/109882790085735415479-google)<sup>0</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>11</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>176</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Retona](users/531/531751113661013-facebook)<sup>3</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>24</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>16</sup> 
-[ohlordplsmakeanonlessofafaggot](users/168/168352502-vkontakte)<sup>0</sup> 
 
 
-_26.04.2019 14:36:14_
+_27.04.2019 00:16:12_
