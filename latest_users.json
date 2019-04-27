@@ -1,4 +1,10 @@
 {
+    "109882790085735415479-google": {
+        "id": "109882790085735415479-google",
+        "nickname": "xxx",
+        "booksCount": 0,
+        "updatedAt": "2019-04-27 00:16:08"
+    },
     "126368737-vkontakte": {
         "id": "126368737-vkontakte",
         "nickname": "Макар Коренюк",
@@ -172,11 +178,5 @@
         "nickname": "Окс",
         "booksCount": 16,
         "updatedAt": "2019-04-12 22:34:34"
-    },
-    "168352502-vkontakte": {
-        "id": "168352502-vkontakte",
-        "nickname": "ohlordplsmakeanonlessofafaggot",
-        "booksCount": 0,
-        "updatedAt": "2019-04-10 20:45:54"
     }
 }
