@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Империализм как высшая стадия развития капитализма ~ [lucius](users/838/83820536-yandex)<sup>149</sup>
+    > Супер актуальный труд, ставящий все на свои места. Немного погодя прочту ещё раз.
+
 * Колыбель для кошки (Cat's Cradle) ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup>
     > Начну с того, что я очень много раз слышал о Курте Воннегуте. Это было связано и с литературным наследием и в связи с его политическими взглядами, а также с многими отсылками к его творчеству в произведениях музыкантов или философов. 
     > "Колыбель для кошки" произвело на меня по-настоящему поразило и смогло вернуть желание читать, которого у меня не было как минимум год. 
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > 576 стр
 
 *  ~ [Garka](users/115/115753719718250012620-google)<sup>217</sup>
-    > Оригинальная прислуга в Англии - указывают что делать хозяевам, лезут везде, возмущаются. Роман хорошего качества
 
 * Стыд & Sex.Эротические рассказы ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Сад чудовищ ~ [Chiffi](users/105/105831994080785626680-google)<sup>115</sup>
 
-* Чорнобильска молитва ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>149</sup> 
 [xxx](users/109/109882790085735415479-google)<sup>0</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>11</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>697</sup> 
 [Retona](users/531/531751113661013-facebook)<sup>3</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>24</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>16</sup> 
 
 
-_27.04.2019 00:16:12_
+_27.04.2019 02:36:34_

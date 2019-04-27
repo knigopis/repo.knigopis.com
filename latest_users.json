@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 149,
+        "updatedAt": "2019-04-27 02:36:34"
+    },
     "109882790085735415479-google": {
         "id": "109882790085735415479-google",
         "nickname": "xxx",
@@ -172,11 +178,5 @@
         "nickname": "fox_mi",
         "booksCount": 24,
         "updatedAt": "2019-04-13 09:52:56"
-    },
-    "102536471289425216982-google": {
-        "id": "102536471289425216982-google",
-        "nickname": "Окс",
-        "booksCount": 16,
-        "updatedAt": "2019-04-12 22:34:34"
     }
 }
