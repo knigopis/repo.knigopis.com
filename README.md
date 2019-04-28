@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>102</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>103</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>116</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>143</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>56</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Retona](users/531/531751113661013-facebook)<sup>3</sup> 
 
 
-_28.04.2019 07:07:02_
+_28.04.2019 07:08:16_

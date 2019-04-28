@@ -1,4 +1,16 @@
 {
+    "gkiKc9ZZet": {
+        "id": "gkiKc9ZZet",
+        "title": "За речкой шла война…",
+        "author": "Прокудин Николай",
+        "notes": "",
+        "createdAt": "2019-04-28 07:08:16",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 103
+        }
+    },
     "kfIhDb3HCQ": {
         "id": "kfIhDb3HCQ",
         "title": "Танец продавца, или Нестандартный учебник по системным продажам",
@@ -345,18 +357,6 @@
             "id": "870059322-yandex",
             "nickname": "regnabo",
             "booksCount": 14
-        }
-    },
-    "lSQM-8L7ie": {
-        "id": "lSQM-8L7ie",
-        "title": "Убийство в \"Восточном экспрессе\"",
-        "author": "Агата Кристи",
-        "notes": "https://tiefanakis.wordpress.com/2019/01/29/убийство-в-восточном-экспрессе-агат/",
-        "createdAt": "2019-04-24 09:31:03",
-        "user": {
-            "id": "870059322-yandex",
-            "nickname": "regnabo",
-            "booksCount": 17
         }
     }
 }
