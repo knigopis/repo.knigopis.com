@@ -1,4 +1,16 @@
 {
+    "kfIhDb3HCQ": {
+        "id": "kfIhDb3HCQ",
+        "title": "Танец продавца, или Нестандартный учебник по системным продажам",
+        "author": "Самсонова Елена",
+        "notes": "",
+        "createdAt": "2019-04-28 07:07:02",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 102
+        }
+    },
     "kKwmK4HgWk": {
         "id": "kKwmK4HgWk",
         "title": "Дочь болотного царя",
@@ -345,18 +357,6 @@
             "id": "870059322-yandex",
             "nickname": "regnabo",
             "booksCount": 17
-        }
-    },
-    "gn08DeA8LO": {
-        "id": "gn08DeA8LO",
-        "title": "Бессердечная",
-        "author": "Марисса Мейер",
-        "notes": "https://tiefanakis.wordpress.com/2019/01/25/бессердечная-марисса-мейер-ч-1/\nhttps://tiefanakis.wordpress.com/2019/01/28/бессердечная-марисса-мейер-ч-2/",
-        "createdAt": "2019-04-24 09:29:36",
-        "user": {
-            "id": "870059322-yandex",
-            "nickname": "regnabo",
-            "booksCount": 12
         }
     }
 }
