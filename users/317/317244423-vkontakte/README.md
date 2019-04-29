@@ -1,7 +1,11 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>5</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>6</sup>
 ---
 
 ## 2014
+
+### Декоратор
+Борис Акунин
+
 
 ### Смерть Ахилеса
 Борис Акунин

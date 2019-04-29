@@ -1,4 +1,16 @@
 {
+    "eispbKEnjI": {
+        "id": "eispbKEnjI",
+        "title": "Декоратор",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2019-04-29 09:55:39",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 6
+        }
+    },
     "yz_fR98sr9": {
         "id": "yz_fR98sr9",
         "title": "Смерть Ахилеса",
@@ -345,18 +357,6 @@
             "id": "870059322-yandex",
             "nickname": "regnabo",
             "booksCount": 20
-        }
-    },
-    "Q1YeJzMwMo": {
-        "id": "Q1YeJzMwMo",
-        "title": "Четвертое правило волшебника",
-        "author": "Терри Гудкайнд",
-        "notes": "",
-        "createdAt": "2019-04-24 09:39:00",
-        "user": {
-            "id": "870059322-yandex",
-            "nickname": "regnabo",
-            "booksCount": 19
         }
     }
 }
