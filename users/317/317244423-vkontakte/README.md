@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>39</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>40</sup>
 ---
 
 ## 2019
@@ -128,6 +128,11 @@
 
 
 ## 2009
+
+### Странствие во тьме
+Маргит Сандему
+> Сага о Людях Льда
+
 
 ### Ягге и магия вуду
 Дмитрий Емец
