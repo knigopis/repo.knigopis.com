@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>26</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>27</sup>
 ---
 
 ## 2014
@@ -75,6 +75,10 @@
 
 
 ## 2008
+
+### Мефодий Буслаев. Свиток желаний.
+Дмитрий Емец
+
 
 ### Лис Улисс и клад саблезубых
 Фред Адра
