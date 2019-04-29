@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>41</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>42</sup>
 ---
 
 ## 2019
@@ -90,6 +90,10 @@
 
 
 ## 2013
+
+### Детская книга
+Борис Акунин
+
 
 ### Волшебные твари и где их искать
 Дж.К. Роулинг
