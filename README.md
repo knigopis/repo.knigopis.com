@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[RenStel](users/112/112563761151554776409-google)<sup>1</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>45</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>103</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>116</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>11</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>176</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
-[RenStel](users/112/112563761151554776409-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup> 
 [gredin_as](users/277/277067555-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>217</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>697</sup> 
 
 
-_29.04.2019 10:47:15_
+_29.04.2019 17:50:05_

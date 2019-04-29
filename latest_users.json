@@ -1,4 +1,10 @@
 {
+    "112563761151554776409-google": {
+        "id": "112563761151554776409-google",
+        "nickname": "RenStel",
+        "booksCount": 1,
+        "updatedAt": "2019-04-29 17:50:05"
+    },
     "317244423-vkontakte": {
         "id": "317244423-vkontakte",
         "nickname": "thejokerinthefog",
@@ -64,12 +70,6 @@
         "nickname": "johnybond32",
         "booksCount": 3,
         "updatedAt": "2019-04-25 13:50:33"
-    },
-    "112563761151554776409-google": {
-        "id": "112563761151554776409-google",
-        "nickname": "RenStel",
-        "booksCount": 0,
-        "updatedAt": "2019-04-25 12:31:18"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
