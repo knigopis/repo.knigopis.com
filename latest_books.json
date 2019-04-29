@@ -1,4 +1,16 @@
 {
+    "jhiIUNM4EE": {
+        "id": "jhiIUNM4EE",
+        "title": "Алмазная колесница. Том 2",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2019-04-29 09:58:23",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 12
+        }
+    },
     "sV7pr_XMNL": {
         "id": "sV7pr_XMNL",
         "title": "Алмазная колесница. Том 1",
@@ -345,18 +357,6 @@
             "id": "870059322-yandex",
             "nickname": "regnabo",
             "booksCount": 26
-        }
-    },
-    "QHJz9dp5yd": {
-        "id": "QHJz9dp5yd",
-        "title": "Десятое правило волшебника",
-        "author": "Терри Гудкайнд",
-        "notes": "",
-        "createdAt": "2019-04-24 09:40:27",
-        "user": {
-            "id": "870059322-yandex",
-            "nickname": "regnabo",
-            "booksCount": 25
         }
     }
 }
