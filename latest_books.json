@@ -1,4 +1,16 @@
 {
+    "9cSDnsuY2E": {
+        "id": "9cSDnsuY2E",
+        "title": "Морок",
+        "author": "Юлия Аксёнова",
+        "notes": "",
+        "createdAt": "2019-04-29 10:24:28",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 28
+        }
+    },
     "Ggct3JTx_A": {
         "id": "Ggct3JTx_A",
         "title": "Мефодий Буслаев. Свиток желаний.",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 102
-        }
-    },
-    "kKwmK4HgWk": {
-        "id": "kKwmK4HgWk",
-        "title": "Дочь болотного царя",
-        "author": "Карен Дионне",
-        "notes": "",
-        "createdAt": "2019-04-27 19:22:23",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 116
         }
     }
 }
