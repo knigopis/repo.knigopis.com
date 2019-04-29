@@ -1,7 +1,12 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>28</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>29</sup>
 ---
 
 ## 2014
+
+### Стихи о любви
+Николай Заболоцкий
+> Сборник любовной лирики
+
 
 ### Квиддич сквозь века
 Дж.К. Роулинг
