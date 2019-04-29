@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>42</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>43</sup>
 ---
 
 ## 2019
@@ -105,6 +105,10 @@
 
 
 ## 2012
+
+### Чайка
+Борис Акунин
+
 
 ### Последняя осада
 Джонатан Страуд
