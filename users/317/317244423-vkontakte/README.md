@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>34</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>35</sup>
 ---
 
 ## 2019
@@ -117,6 +117,10 @@
 
 
 ## 2008
+
+### Война и мир
+Л. Н. Толстой
+
 
 ### Мефодий Буслаев. Свиток желаний.
 Дмитрий Емец
