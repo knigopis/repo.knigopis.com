@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>22</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>23</sup>
 ---
 
 ## 2014
@@ -61,6 +61,10 @@
 
 
 ## 2008
+
+### Лис Улисс и клад саблезубых
+Фред Адра
+
 
 ### Гарри Поттер и Дары Смерти
 Дж.К. Роулинг
