@@ -1,7 +1,11 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>7</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>8</sup>
 ---
 
 ## 2014
+
+### Коронация, или последний из романов
+Борис Акунин
+
 
 ### Статский Советник
 Борис Акунин
