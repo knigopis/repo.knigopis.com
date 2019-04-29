@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>35</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>36</sup>
 ---
 
 ## 2019
@@ -110,6 +110,10 @@
 
 
 ## 2009
+
+### Ягге и магия вуду
+Дмитрий Емец
+
 
 ### Морок
 Юлия Аксёнова
