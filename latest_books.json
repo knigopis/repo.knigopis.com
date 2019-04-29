@@ -1,4 +1,16 @@
 {
+    "sV7pr_XMNL": {
+        "id": "sV7pr_XMNL",
+        "title": "Алмазная колесница. Том 1",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2019-04-29 09:58:01",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 11
+        }
+    },
     "4UI5ApCAis": {
         "id": "4UI5ApCAis",
         "title": "Любовник смерти",
@@ -345,18 +357,6 @@
             "id": "870059322-yandex",
             "nickname": "regnabo",
             "booksCount": 25
-        }
-    },
-    "46FjwqR0iM": {
-        "id": "46FjwqR0iM",
-        "title": "Девятое правило волшебника",
-        "author": "Терри Гудкайнд",
-        "notes": "",
-        "createdAt": "2019-04-24 09:39:48",
-        "user": {
-            "id": "870059322-yandex",
-            "nickname": "regnabo",
-            "booksCount": 24
         }
     }
 }

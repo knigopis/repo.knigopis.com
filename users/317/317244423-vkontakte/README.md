@@ -1,7 +1,11 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>10</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>11</sup>
 ---
 
 ## 2014
+
+### Алмазная колесница. Том 1
+Борис Акунин
+
 
 ### Любовник смерти
 Борис Акунин
