@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>25</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>26</sup>
 ---
 
 ## 2014
@@ -82,6 +82,13 @@
 
 ### Гарри Поттер и Дары Смерти
 Дж.К. Роулинг
+
+
+
+## 2007
+
+### Мефодий Буслаев и маг полуночи
+Дмитрий Емец
 
 
 
