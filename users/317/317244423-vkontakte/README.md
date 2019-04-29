@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>37</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>38</sup>
 ---
 
 ## 2019
@@ -110,6 +110,11 @@
 
 
 ## 2010
+
+### Глаз Голема
+Джонатан Страуд
+> Трилогия Бартимеуса
+
 
 ### Амулет Самарканда
 Джонатан Страуд
