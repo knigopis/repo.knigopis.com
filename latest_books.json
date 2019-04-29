@@ -1,4 +1,16 @@
 {
+    "NthDIWbeob": {
+        "id": "NthDIWbeob",
+        "title": "Левиафан",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2019-04-29 09:54:02",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 3
+        }
+    },
     "STOBp5nkUA": {
         "id": "STOBp5nkUA",
         "title": "Турецкий гамбит",
@@ -345,18 +357,6 @@
             "id": "870059322-yandex",
             "nickname": "regnabo",
             "booksCount": 17
-        }
-    },
-    "V8fKctiy2G": {
-        "id": "V8fKctiy2G",
-        "title": "Первое правило волшебка",
-        "author": "Терри Гудкайнд",
-        "notes": "я часто перечитываю эту серию книг. недаром она в \"избранном\"",
-        "createdAt": "2019-04-24 09:37:59",
-        "user": {
-            "id": "870059322-yandex",
-            "nickname": "regnabo",
-            "booksCount": 16
         }
     }
 }
