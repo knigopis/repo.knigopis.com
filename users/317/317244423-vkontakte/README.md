@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>21</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>22</sup>
 ---
 
 ## 2014
@@ -100,6 +100,14 @@
 
 ### Гарри Поттер и филосовский камень
 Дж.К. Роулинг
+
+
+
+## 2000
+
+### Ортис - десятая планета
+Георгий Антипов
+> Первая осознанная книга.
 
 
 
