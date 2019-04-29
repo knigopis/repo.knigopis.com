@@ -1,7 +1,11 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>8</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>9</sup>
 ---
 
 ## 2014
+
+### Любовница смерти
+Борис Акунин
+
 
 ### Коронация, или последний из романов
 Борис Акунин
