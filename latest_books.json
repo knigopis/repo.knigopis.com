@@ -1,4 +1,16 @@
 {
+    "ov389I2nXE": {
+        "id": "ov389I2nXE",
+        "title": "Гарри Поттер и узник Азкабана",
+        "author": "Дж.К. Роулинг",
+        "notes": "",
+        "createdAt": "2019-04-29 10:03:41",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 16
+        }
+    },
     "aGJ0vQ2zHG": {
         "id": "aGJ0vQ2zHG",
         "title": "Гарри Поттер и Тайная комната",
@@ -345,18 +357,6 @@
             "id": "277067555-vkontakte",
             "nickname": "gredin_as",
             "booksCount": 1
-        }
-    },
-    "RG8Ydt11Hd": {
-        "id": "RG8Ydt11Hd",
-        "title": "",
-        "author": "Бронте, Эмилия",
-        "notes": "Оригинальная прислуга в Англии - указывают что делать хозяевам, лезут везде, возмущаются. Роман хорошего качества",
-        "createdAt": "2019-04-24 20:12:20",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 217
         }
     }
 }
