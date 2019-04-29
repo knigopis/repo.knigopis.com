@@ -1,7 +1,11 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>6</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>7</sup>
 ---
 
 ## 2014
+
+### Статский Советник
+Борис Акунин
+
 
 ### Декоратор
 Борис Акунин
