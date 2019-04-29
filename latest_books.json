@@ -1,4 +1,16 @@
 {
+    "p1kcDjjqvj": {
+        "id": "p1kcDjjqvj",
+        "title": "Кто там во тьме",
+        "author": "Маргит Сандему",
+        "notes": "Сага о Людях Льда",
+        "createdAt": "2019-04-29 10:41:12",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 41
+        }
+    },
     "xVZ7b_izOo": {
         "id": "xVZ7b_izOo",
         "title": "Странствие во тьме",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 12
-        }
-    },
-    "sV7pr_XMNL": {
-        "id": "sV7pr_XMNL",
-        "title": "Алмазная колесница. Том 1",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2019-04-29 09:58:01",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 11
         }
     }
 }
