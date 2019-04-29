@@ -1,4 +1,16 @@
 {
+    "4UI5ApCAis": {
+        "id": "4UI5ApCAis",
+        "title": "Любовник смерти",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2019-04-29 09:57:34",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 10
+        }
+    },
     "lHyx0iIlM8": {
         "id": "lHyx0iIlM8",
         "title": "Любовница смерти",
@@ -345,18 +357,6 @@
             "id": "870059322-yandex",
             "nickname": "regnabo",
             "booksCount": 24
-        }
-    },
-    "u40-boTwe-": {
-        "id": "u40-boTwe-",
-        "title": "Восьмое правило волшебника",
-        "author": "Терри Гудкайнд",
-        "notes": "",
-        "createdAt": "2019-04-24 09:39:40",
-        "user": {
-            "id": "870059322-yandex",
-            "nickname": "regnabo",
-            "booksCount": 23
         }
     }
 }

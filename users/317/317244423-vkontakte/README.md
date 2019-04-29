@@ -1,7 +1,11 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>9</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>10</sup>
 ---
 
 ## 2014
+
+### Любовник смерти
+Борис Акунин
+
 
 ### Любовница смерти
 Борис Акунин
