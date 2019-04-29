@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>36</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>37</sup>
 ---
 
 ## 2019
@@ -106,6 +106,14 @@
 
 ### Жажда снящих
 Юлия Остапенко
+
+
+
+## 2010
+
+### Амулет Самарканда
+Джонатан Страуд
+> Трилогия Бартимеуса
 
 
 

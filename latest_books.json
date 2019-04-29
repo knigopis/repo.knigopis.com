@@ -1,4 +1,16 @@
 {
+    "gRUOEsFGrh": {
+        "id": "gRUOEsFGrh",
+        "title": "Амулет Самарканда",
+        "author": "Джонатан Страуд",
+        "notes": "Трилогия Бартимеуса",
+        "createdAt": "2019-04-29 10:36:11",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 37
+        }
+    },
     "Q8sh6cSeHT": {
         "id": "Q8sh6cSeHT",
         "title": "Ягге и магия вуду",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 8
-        }
-    },
-    "Rb67xd6G8z": {
-        "id": "Rb67xd6G8z",
-        "title": "Статский Советник",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2019-04-29 09:56:03",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 7
         }
     }
 }
