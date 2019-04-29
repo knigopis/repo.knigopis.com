@@ -1,4 +1,16 @@
 {
+    "aGJ0vQ2zHG": {
+        "id": "aGJ0vQ2zHG",
+        "title": "Гарри Поттер и Тайная комната",
+        "author": "Дж.К. Роулинг",
+        "notes": "",
+        "createdAt": "2019-04-29 10:01:54",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 15
+        }
+    },
     "QTHtyEbF7t": {
         "id": "QTHtyEbF7t",
         "title": "Гарри Поттер и филосовский камень",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 217
-        }
-    },
-    "rDxnL5fvmb": {
-        "id": "rDxnL5fvmb",
-        "title": "Стыд & Sex.Эротические рассказы",
-        "author": "Марк Довлатов",
-        "notes": "Вы что, правда, собрались это читать?! Да боже вас упаси! Даже и не думайте – Мишка и Белка тут такое вытворяют, что вы просто от стыда умрете!",
-        "createdAt": "2019-04-24 09:43:19",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 55
         }
     }
 }
