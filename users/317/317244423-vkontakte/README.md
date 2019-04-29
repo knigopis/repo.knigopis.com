@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>38</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>39</sup>
 ---
 
 ## 2019
@@ -110,6 +110,11 @@
 
 
 ## 2010
+
+### Врата Птолемея
+Джонатан Страуд
+> Трилогия Бартимеуса
+
 
 ### Глаз Голема
 Джонатан Страуд
