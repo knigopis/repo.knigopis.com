@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>23</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>24</sup>
 ---
 
 ## 2014
@@ -57,6 +57,13 @@
 
 ### Азазель
 Борис Акунин
+
+
+
+## 2012
+
+### Последняя осада
+Джонатан Страуд
 
 
 
