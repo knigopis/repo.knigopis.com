@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mantizzoma](users/113/113990901159060096197-google)<sup>0</sup> 
+[Mantizzoma](users/113/113990901159060096197-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>163</sup> 
 [Def](users/726/7264253353800808630-mailru)<sup>3</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>56</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>22</sup> 
 
 
-_30.04.2019 14:15:58_
+_30.04.2019 14:16:39_
