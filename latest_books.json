@@ -1,4 +1,16 @@
 {
+    "5V5fJvlolJ": {
+        "id": "5V5fJvlolJ",
+        "title": "Кладбище домашних животных",
+        "author": "С. Кинг",
+        "notes": "",
+        "createdAt": "2019-04-30 19:13:06",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 41
+        }
+    },
     "KG0MR2MPjz": {
         "id": "KG0MR2MPjz",
         "title": "Смятая постель",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 28
-        }
-    },
-    "Ggct3JTx_A": {
-        "id": "Ggct3JTx_A",
-        "title": "Мефодий Буслаев. Свиток желаний.",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2019-04-29 10:22:48",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 27
         }
     }
 }
