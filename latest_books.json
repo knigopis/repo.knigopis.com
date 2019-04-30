@@ -1,4 +1,16 @@
 {
+    "SQWuf9exPf": {
+        "id": "SQWuf9exPf",
+        "title": "Маркетинг без бюджета",
+        "author": "Игорь Манн",
+        "notes": "",
+        "createdAt": "2019-04-30 14:45:02",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 17
+        }
+    },
     "CNzslQSW39": {
         "id": "CNzslQSW39",
         "title": "Ну, мам!",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 25
-        }
-    },
-    "NcD1XsbsDj": {
-        "id": "NcD1XsbsDj",
-        "title": "Последняя осада",
-        "author": "Джонатан Страуд",
-        "notes": "",
-        "createdAt": "2019-04-29 10:20:28",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 24
         }
     }
 }

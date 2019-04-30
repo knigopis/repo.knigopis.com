@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>16</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>17</sup>
 ---
 
 ## 2019
+
+### Маркетинг без бюджета
+Игорь Манн
+> [2019-04-30] 
+
 
 ### Ну, мам!
 Ольга Савельева
