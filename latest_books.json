@@ -1,4 +1,16 @@
 {
+    "wQgYQkS-cx": {
+        "id": "wQgYQkS-cx",
+        "title": "Файролл. Игра не ради игры",
+        "author": "Васильев Андрей",
+        "notes": "",
+        "createdAt": "2019-04-30 11:14:07",
+        "user": {
+            "id": "7264253353800808630-mailru",
+            "nickname": "Def",
+            "booksCount": 1
+        }
+    },
     "zNkl8KmULf": {
         "id": "zNkl8KmULf",
         "title": "Большая маленькая ложь",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 18
-        }
-    },
-    "vgwT3chvnm": {
-        "id": "vgwT3chvnm",
-        "title": "Гарри Поттер и Кубок огня",
-        "author": "Дж.К. Роулинг",
-        "notes": "",
-        "createdAt": "2019-04-29 10:04:31",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 17
         }
     }
 }
