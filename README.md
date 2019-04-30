@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>75</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>17</sup> 
 [Mantizzoma](users/113/113990901159060096197-google)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>163</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zxiencee](users/116/116459284797724113226-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>134</sup> 
 [marino4kasweet](users/992/99235108-yandex)<sup>10</sup> 
-[youno](users/302/302928912-vkontakte)<sup>22</sup> 
 
 
-_30.04.2019 14:45:02_
+_30.04.2019 17:15:07_
