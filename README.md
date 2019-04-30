@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>163</sup> 
 [Def](users/726/7264253353800808630-mailru)<sup>3</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>56</sup> 
 [RenStel](users/112/112563761151554776409-google)<sup>1</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [zxiencee](users/116/116459284797724113226-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>134</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>15</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>162</sup> 
 [marino4kasweet](users/992/99235108-yandex)<sup>10</sup> 
 [youno](users/302/302928912-vkontakte)<sup>22</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup> 
 
 
-_30.04.2019 11:19:51_
+_30.04.2019 12:53:31_
