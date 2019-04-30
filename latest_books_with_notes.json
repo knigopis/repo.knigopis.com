@@ -1,4 +1,16 @@
 {
+    "88Ebi4Lkni": {
+        "id": "88Ebi4Lkni",
+        "title": "Настя",
+        "author": "В. Сорокин",
+        "notes": "О девочке в печи",
+        "createdAt": "2019-04-30 19:18:58",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 43
+        }
+    },
     "pwG1oZ_W5A": {
         "id": "pwG1oZ_W5A",
         "title": "Одинокий мужчина с кошкой",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 19
-        }
-    },
-    "BZfOzxug_m": {
-        "id": "BZfOzxug_m",
-        "title": "Я попара",
-        "author": "Кира Измайлова",
-        "notes": "Когда писательство, как развлечение.",
-        "createdAt": "2019-04-02 14:31:18",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 28
         }
     }
 }
