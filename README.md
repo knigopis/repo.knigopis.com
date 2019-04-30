@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>56</sup> 
 [RenStel](users/112/112563761151554776409-google)<sup>1</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>45</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>103</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>22</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup> 
 [CherlockAlex](users/100/100784255659089961550-google)<sup>1</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>697</sup> 
 
 
-_29.04.2019 17:50:05_
+_30.04.2019 08:32:13_

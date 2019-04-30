@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>55</sup>
+# List of books read by inna.besprozvannykh<sup>56</sup>
 ---
 
 ## 2019
+
+### Большая маленькая ложь
+Лиана Мориарти
+> [2019-04-26] 7
+
 
 ### Новая земля
 Экхарт Толле
