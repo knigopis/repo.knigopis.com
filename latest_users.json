@@ -1,4 +1,10 @@
 {
+    "7264253353800808630-mailru": {
+        "id": "7264253353800808630-mailru",
+        "nickname": "Def",
+        "booksCount": 0,
+        "updatedAt": "2019-04-30 11:12:40"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "kasikandriena",
         "booksCount": 56,
         "updatedAt": "2019-04-16 12:41:53"
-    },
-    "100784255659089961550-google": {
-        "id": "100784255659089961550-google",
-        "nickname": "CherlockAlex",
-        "booksCount": 1,
-        "updatedAt": "2019-04-16 06:35:06"
     }
 }
