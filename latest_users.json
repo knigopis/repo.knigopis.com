@@ -1,4 +1,10 @@
 {
+    "113990901159060096197-google": {
+        "id": "113990901159060096197-google",
+        "nickname": "Mantizzoma",
+        "booksCount": 0,
+        "updatedAt": "2019-04-30 14:15:56"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 22,
         "updatedAt": "2019-04-16 21:17:38"
-    },
-    "152488954-vkontakte": {
-        "id": "152488954-vkontakte",
-        "nickname": "kasikandriena",
-        "booksCount": 56,
-        "updatedAt": "2019-04-16 12:41:53"
     }
 }
