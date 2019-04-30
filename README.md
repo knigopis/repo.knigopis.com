@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Def](users/726/7264253353800808630-mailru)<sup>2</sup> 
+[Def](users/726/7264253353800808630-mailru)<sup>3</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>56</sup> 
 [RenStel](users/112/112563761151554776409-google)<sup>1</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>45</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup> 
 
 
-_30.04.2019 11:19:10_
+_30.04.2019 11:19:51_

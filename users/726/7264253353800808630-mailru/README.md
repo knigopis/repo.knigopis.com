@@ -1,7 +1,11 @@
-# List of books read by [Def](https://my.mail.ru/mail/rocket_91/)<sup>2</sup>
+# List of books read by [Def](https://my.mail.ru/mail/rocket_91/)<sup>3</sup>
 ---
 
 ## 2019
+
+### Рыцарь Теней
+Желязны Роджер
+
 
 ### Путь Изгоя
 Алексей Осадчук
