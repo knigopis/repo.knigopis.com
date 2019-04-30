@@ -1,4 +1,10 @@
 {
+    "113794223924688167852-google": {
+        "id": "113794223924688167852-google",
+        "nickname": "Victoria",
+        "booksCount": 40,
+        "updatedAt": "2019-04-30 19:12:31"
+    },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
         "nickname": "katrinvredina",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 134,
         "updatedAt": "2019-04-22 18:09:35"
-    },
-    "99235108-yandex": {
-        "id": "99235108-yandex",
-        "nickname": "marino4kasweet",
-        "booksCount": 10,
-        "updatedAt": "2019-04-18 08:03:29"
     }
 }

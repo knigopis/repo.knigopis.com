@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoria](users/113/113794223924688167852-google)<sup>40</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>75</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>17</sup> 
 [Mantizzoma](users/113/113990901159060096197-google)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>25</sup> 
 [zxiencee](users/116/116459284797724113226-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>134</sup> 
-[marino4kasweet](users/992/99235108-yandex)<sup>10</sup> 
 
 
-_30.04.2019 17:15:07_
+_30.04.2019 19:12:31_
