@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 16,
+        "updatedAt": "2019-04-30 14:44:20"
+    },
     "113990901159060096197-google": {
         "id": "113990901159060096197-google",
         "nickname": "Mantizzoma",
@@ -160,12 +166,6 @@
         "nickname": "Sky",
         "booksCount": 134,
         "updatedAt": "2019-04-22 18:09:35"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 15,
-        "updatedAt": "2019-04-19 18:57:38"
     },
     "99235108-yandex": {
         "id": "99235108-yandex",
