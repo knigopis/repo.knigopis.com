@@ -1,4 +1,16 @@
 {
+    "HbmjuZ0gB6": {
+        "id": "HbmjuZ0gB6",
+        "title": "Множественные умы Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2019-04-30 14:16:59",
+        "user": {
+            "id": "113990901159060096197-google",
+            "nickname": "Mantizzoma",
+            "booksCount": 2
+        }
+    },
     "8oCc0QE4TK": {
         "id": "8oCc0QE4TK",
         "title": "День Триффидов",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 23
-        }
-    },
-    "ycHajmOZMN": {
-        "id": "ycHajmOZMN",
-        "title": "Ортис - десятая планета",
-        "author": "Георгий Антипов",
-        "notes": "Первая осознанная книга.",
-        "createdAt": "2019-04-29 10:11:25",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 22
         }
     }
 }
