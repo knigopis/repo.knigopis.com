@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Madlax](users/158/158304782-vkontakte)<sup>183</sup> 
 [ajluc](users/880/88086807-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>26</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>43</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eugene](users/695/695244810674916-facebook)<sup>21</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>14</sup> 
-[zxiencee](users/116/116459284797724113226-google)<sup>0</sup> 
 
 
-_01.05.2019 14:31:42_
+_01.05.2019 17:09:55_

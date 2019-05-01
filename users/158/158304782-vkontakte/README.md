@@ -1,7 +1,12 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>182</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>183</sup>
 ---
 
 ## 2019
+
+### Фокусы языка
+Ричард Зеленский
+> [2019-04] 
+
 
 ### Время жить и время умирать
 Эрих Мария Ремарк
