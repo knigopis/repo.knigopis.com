@@ -1,4 +1,10 @@
 {
+    "521873425-vkontakte": {
+        "id": "521873425-vkontakte",
+        "nickname": "Lecowi",
+        "booksCount": 12,
+        "updatedAt": "2019-05-01 18:28:58"
+    },
     "158304782-vkontakte": {
         "id": "158304782-vkontakte",
         "nickname": "Madlax",
@@ -112,12 +118,6 @@
         "nickname": "Макар Коренюк",
         "booksCount": 5,
         "updatedAt": "2019-04-26 14:36:14"
-    },
-    "521873425-vkontakte": {
-        "id": "521873425-vkontakte",
-        "nickname": "Lecowi",
-        "booksCount": 11,
-        "updatedAt": "2019-04-26 09:36:05"
     },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",

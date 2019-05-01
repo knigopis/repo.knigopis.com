@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lecowi](users/521/521873425-vkontakte)<sup>12</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>183</sup> 
 [ajluc](users/880/88086807-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>26</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>149</sup> 
 [xxx](users/109/109882790085735415479-google)<sup>0</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup> 
-[Lecowi](users/521/521873425-vkontakte)<sup>11</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>176</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>14</sup> 
 
 
-_01.05.2019 17:09:55_
+_01.05.2019 18:28:58_
