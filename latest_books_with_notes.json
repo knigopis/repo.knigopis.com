@@ -1,4 +1,16 @@
 {
+    "TdPAJ5p2G_": {
+        "id": "TdPAJ5p2G_",
+        "title": "Українська культура",
+        "author": "проф. Іван Огієнко",
+        "notes": "Лекції з української культури.",
+        "createdAt": "2019-05-01 07:30:05",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 26
+        }
+    },
     "88Ebi4Lkni": {
         "id": "88Ebi4Lkni",
         "title": "Настя",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 20
-        }
-    },
-    "RxUEGcZs05": {
-        "id": "RxUEGcZs05",
-        "title": "Убить пересмешника",
-        "author": "Харпер Ли",
-        "notes": "ISBN 978-5-17-083520-1\n- Боялся, что тебя арестуют, боялся, что придётся отвечать за то, что натворил?\n- Нет, сэр, боялся - придётся отвечать за то, чего не делал.",
-        "createdAt": "2019-04-02 17:20:43",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 19
         }
     }
 }

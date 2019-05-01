@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Українська культура ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>26</sup>
 * Настя ~ [Victoria](users/113/113794223924688167852-google)<sup>43</sup>
 * Одинокий мужчина с кошкой ~ [kissamasya](users/684/68439978-vkontakte)<sup>56</sup>
 * Герои племён ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
@@ -30,7 +31,6 @@
 * КлаТбище домашних жЫвотных ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>70</sup>
 * Код лихорадки (Бегущий в лабиринте) ~ [realest1954](users/439/439398-vkontakte)<sup>2</sup>
 * В круге первом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>20</sup>
-* Убить пересмешника ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>19</sup>
 
 
-_30.04.2019 19:18:58_
+_01.05.2019 07:30:05_
