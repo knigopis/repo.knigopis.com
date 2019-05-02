@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* БУРЯ СТОЛЕТИЯ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>75</sup>
+    > По факту прочитано в апреле
+
 * Кладбище домашних животных ~ [kissamasya](users/684/68439978-vkontakte)<sup>57</sup>
     > Луис Крид и не предполагал, чем обернется для него и его семьи переезд в новый дом. До сих пор он и слыхом не слыхивал о Вендиго — зловещем духе индейских легенд. И уж тем более не догадывался, что рядом с этим домом находится кладбище домашних животных. Однако очень скоро ему пришлось пожалеть о своем неведении...
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Лекції з української культури.
 
 * Настя ~ [Victoria](users/113/113794223924688167852-google)<sup>43</sup>
-    > О девочке в печи
 
 * Одинокий мужчина с кошкой ~ [kissamasya](users/684/68439978-vkontakte)<sup>56</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Garka](users/115/115753719718250012620-google)<sup>217</sup>
 
-* Стыд & Sex.Эротические рассказы ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>75</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>57</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>12</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>183</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>176</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup> 
 [gredin_as](users/277/277067555-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>217</sup> 
 [ms.madoka](users/272/272093386-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>14</sup> 
 
 
-_02.05.2019 07:45:57_
+_02.05.2019 12:03:05_

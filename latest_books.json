@@ -1,4 +1,16 @@
 {
+    "c0dlQ0yzQy": {
+        "id": "c0dlQ0yzQy",
+        "title": "БУРЯ СТОЛЕТИЯ",
+        "author": "Стивен Кинг",
+        "notes": "По факту прочитано в апреле",
+        "createdAt": "2019-05-02 12:03:05",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 75
+        }
+    },
     "OUo4aeUc-5": {
         "id": "OUo4aeUc-5",
         "title": "Кладбище домашних животных",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 35
-        }
-    },
-    "pHfnHkMiaH": {
-        "id": "pHfnHkMiaH",
-        "title": "Волшебные твари и где их искать",
-        "author": "Дж.К. Роулинг",
-        "notes": "",
-        "createdAt": "2019-04-29 10:29:44",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 34
         }
     }
 }
