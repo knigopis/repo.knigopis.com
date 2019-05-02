@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кладбище домашних животных ~ [kissamasya](users/684/68439978-vkontakte)<sup>57</sup>
+    > Луис Крид и не предполагал, чем обернется для него и его семьи переезд в новый дом. До сих пор он и слыхом не слыхивал о Вендиго — зловещем духе индейских легенд. И уж тем более не догадывался, что рядом с этим домом находится кладбище домашних животных. Однако очень скоро ему пришлось пожалеть о своем неведении...
+
 * Українська культура ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>26</sup>
     > Лекції з української культури.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > О девочке в печи
 
 * Одинокий мужчина с кошкой ~ [kissamasya](users/684/68439978-vkontakte)<sup>56</sup>
-    > Все идет как всегда: Ксения Баркова возвращается с пробежки по парку, пребывает в приятных размышлениях о скором отпуске и о своем близком друге Никеше Рассветове – инструкторе по фитнесу. Встреча с ротвейлером и его хозяином оборачивается для Ксении чередой неприятностей. Кто заступится за одинокую девушку? Кто подставит свое могучее плечо – коллега, которого Ксения терпеть не может, или любимый инструктор по фитнесу?
 
 * Герои племён ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Стыд & Sex.Эротические рассказы ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
 
-* Хоббит, или Туда и Обратно ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>57</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>12</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>183</sup> 
 [ajluc](users/880/88086807-vkontakte)<sup>0</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>103</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>116</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>143</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>56</sup> 
 [lucius](users/838/83820536-yandex)<sup>149</sup> 
 [xxx](users/109/109882790085735415479-google)<sup>0</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>14</sup> 
 
 
-_01.05.2019 18:28:58_
+_02.05.2019 07:45:57_

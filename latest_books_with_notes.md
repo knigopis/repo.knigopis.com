@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кладбище домашних животных ~ [kissamasya](users/684/68439978-vkontakte)<sup>57</sup>
 * Українська культура ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>26</sup>
 * Настя ~ [Victoria](users/113/113794223924688167852-google)<sup>43</sup>
 * Одинокий мужчина с кошкой ~ [kissamasya](users/684/68439978-vkontakte)<sup>56</sup>
@@ -30,7 +31,6 @@
 * Записки с мёртвой станции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>196</sup>
 * КлаТбище домашних жЫвотных ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>70</sup>
 * Код лихорадки (Бегущий в лабиринте) ~ [realest1954](users/439/439398-vkontakte)<sup>2</sup>
-* В круге первом ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>20</sup>
 
 
-_01.05.2019 07:30:05_
+_02.05.2019 07:45:57_
