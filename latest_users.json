@@ -1,4 +1,10 @@
 {
+    "102536471289425216982-google": {
+        "id": "102536471289425216982-google",
+        "nickname": "Окс",
+        "booksCount": 17,
+        "updatedAt": "2019-05-03 08:51:09"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 108,
         "updatedAt": "2019-04-22 22:25:37"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 14,
-        "updatedAt": "2019-04-22 19:30:59"
     }
 }

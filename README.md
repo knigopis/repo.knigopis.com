@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>75</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>57</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>12</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [regnabo](users/870/870059322-yandex)<sup>27</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>21</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>14</sup> 
 
 
-_02.05.2019 12:03:05_
+_03.05.2019 08:51:09_
