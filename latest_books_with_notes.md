@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дім дивних дітей: Карта днів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>27</sup>
 * БУРЯ СТОЛЕТИЯ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>75</sup>
 * Кладбище домашних животных ~ [kissamasya](users/684/68439978-vkontakte)<sup>57</sup>
 * Українська культура ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Сияние ~ [Garka](users/115/115753719718250012620-google)<sup>215</sup>
 * Джек-потрошитель с Хрещатика ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>21</sup>
 * Записки с мёртвой станции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>196</sup>
-* КлаТбище домашних жЫвотных ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>70</sup>
 
 
-_02.05.2019 12:03:05_
+_03.05.2019 14:23:24_

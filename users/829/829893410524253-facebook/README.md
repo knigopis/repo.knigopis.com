@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>26</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>27</sup>
 ---
 
 ## 2019
+
+### Дім дивних дітей: Карта днів
+Ренсом Ріґґз
+> [2019-05-03] 9/10 Продовження пригод дивних у Америці.
+
 
 ### Українська культура
 проф. Іван Огієнко

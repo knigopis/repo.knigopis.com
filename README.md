@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дім дивних дітей: Карта днів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>27</sup>
+    > 9/10 Продовження пригод дивних у Америці.
+
 * БУРЯ СТОЛЕТИЯ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>75</sup>
     > По факту прочитано в апреле
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Луис Крид и не предполагал, чем обернется для него и его семьи переезд в новый дом. До сих пор он и слыхом не слыхивал о Вендиго — зловещем духе индейских легенд. И уж тем более не догадывался, что рядом с этим домом находится кладбище домашних животных. Однако очень скоро ему пришлось пожалеть о своем неведении...
 
 * Українська культура ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>26</sup>
-    > Лекції з української культури.
 
 * Настя ~ [Victoria](users/113/113794223924688167852-google)<sup>43</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * КАРТА ДНЕЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup>
 
-*  ~ [Garka](users/115/115753719718250012620-google)<sup>217</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>27</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>75</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>57</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>12</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>183</sup> 
 [ajluc](users/880/88086807-vkontakte)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>26</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>43</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>75</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>17</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
 
 
-_03.05.2019 08:51:09_
+_03.05.2019 14:23:24_

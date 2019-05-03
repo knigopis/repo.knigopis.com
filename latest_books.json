@@ -1,4 +1,16 @@
 {
+    "lzXf8LjO0Z": {
+        "id": "lzXf8LjO0Z",
+        "title": "Дім дивних дітей: Карта днів",
+        "author": "Ренсом Ріґґз",
+        "notes": "9/10 Продовження пригод дивних у Америці.",
+        "createdAt": "2019-05-03 14:23:23",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 27
+        }
+    },
     "aCDY7JUKna": {
         "id": "aCDY7JUKna",
         "title": "Гиперболоид инженера Гарина",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 37
-        }
-    },
-    "Q8sh6cSeHT": {
-        "id": "Q8sh6cSeHT",
-        "title": "Ягге и магия вуду",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2019-04-29 10:33:07",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 36
         }
     }
 }
