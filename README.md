@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вавилон-17 ~ [Chiffi](users/105/105831994080785626680-google)<sup>117</sup>
+    > оказывается, я читала эту книгу  лет 20 назад (тогда было прочитано много классики фантастики))
+
 * Дім дивних дітей: Карта днів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>27</sup>
     > 9/10 Продовження пригод дивних у Америці.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > По факту прочитано в апреле
 
 * Кладбище домашних животных ~ [kissamasya](users/684/68439978-vkontakte)<sup>57</sup>
-    > Луис Крид и не предполагал, чем обернется для него и его семьи переезд в новый дом. До сих пор он и слыхом не слыхивал о Вендиго — зловещем духе индейских легенд. И уж тем более не догадывался, что рядом с этим домом находится кладбище домашних животных. Однако очень скоро ему пришлось пожалеть о своем неведении...
 
 * Українська культура ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>26</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Колыбель для кошки (Cat's Cradle) ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup>
 
-* КАРТА ДНЕЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>117</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>27</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>75</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [RenStel](users/112/112563761151554776409-google)<sup>1</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>45</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>103</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>116</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>143</sup> 
 [lucius](users/838/83820536-yandex)<sup>149</sup> 
 [xxx](users/109/109882790085735415479-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>108</sup> 
 
 
-_03.05.2019 14:23:24_
+_04.05.2019 07:04:52_
