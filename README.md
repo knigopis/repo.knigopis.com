@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[denisstrekitcyn](users/226/226617025-vkontakte)<sup>0</sup> 
+[denisstrekitcyn](users/226/226617025-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>117</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>27</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eugene](users/695/695244810674916-facebook)<sup>21</sup> 
 
 
-_04.05.2019 09:05:29_
+_04.05.2019 09:09:43_

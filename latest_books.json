@@ -1,4 +1,16 @@
 {
+    "2Yg1OjEvCY": {
+        "id": "2Yg1OjEvCY",
+        "title": "Ирка Хортица - надднепрянская ведьма || Сезон охоты на ведьм",
+        "author": "Илона Волынская, Кирилл Кащеев",
+        "notes": "Первая книга серии Ирка Хортица -надднепрянская ведьма",
+        "createdAt": "2019-05-04 09:09:43",
+        "user": {
+            "id": "226617025-vkontakte",
+            "nickname": "denisstrekitcyn",
+            "booksCount": 1
+        }
+    },
     "vHSuGPkcsj": {
         "id": "vHSuGPkcsj",
         "title": "Вавилон-17",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 39
-        }
-    },
-    "yUs9L0LYOL": {
-        "id": "yUs9L0LYOL",
-        "title": "Глаз Голема",
-        "author": "Джонатан Страуд",
-        "notes": "Трилогия Бартимеуса",
-        "createdAt": "2019-04-29 10:36:47",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 38
         }
     }
 }
