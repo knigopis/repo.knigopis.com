@@ -1,4 +1,10 @@
 {
+    "1428344393-facebook": {
+        "id": "1428344393-facebook",
+        "nickname": "Bafnita",
+        "booksCount": 0,
+        "updatedAt": "2019-05-04 12:08:19"
+    },
     "226617025-vkontakte": {
         "id": "226617025-vkontakte",
         "nickname": "denisstrekitcyn",
@@ -172,11 +178,5 @@
         "nickname": "regnabo",
         "booksCount": 27,
         "updatedAt": "2019-04-24 09:42:10"
-    },
-    "695244810674916-facebook": {
-        "id": "695244810674916-facebook",
-        "nickname": "Eugene",
-        "booksCount": 21,
-        "updatedAt": "2019-04-24 06:53:33"
     }
 }
