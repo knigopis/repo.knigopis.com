@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>18</sup> 
 [Bafnita](users/142/1428344393-facebook)<sup>0</sup> 
 [denisstrekitcyn](users/226/226617025-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>117</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ajluc](users/880/88086807-vkontakte)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>43</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>75</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>17</sup> 
 [Mantizzoma](users/113/113990901159060096197-google)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>163</sup> 
 [Def](users/726/7264253353800808630-mailru)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [regnabo](users/870/870059322-yandex)<sup>27</sup> 
 
 
-_04.05.2019 12:08:21_
+_04.05.2019 19:52:07_

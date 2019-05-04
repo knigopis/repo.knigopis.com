@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>17</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>18</sup>
 ---
 
 ## 2019
+
+### Подсказчик
+Донато Кариззи
+> [2019-05-04] 
+
 
 ### Маркетинг без бюджета
 Игорь Манн
