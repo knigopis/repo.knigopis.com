@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>27</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>28</sup>
 ---
 
 ## 2019
+
+### Заради майбутнього
+Макс Кідрук
+> [2019-05-05] 9/10 збірка оповідань.
+
 
 ### Дім дивних дітей: Карта днів
 Ренсом Ріґґз

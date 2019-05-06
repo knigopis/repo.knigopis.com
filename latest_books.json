@@ -1,4 +1,16 @@
 {
+    "jPtz3zfPqS": {
+        "id": "jPtz3zfPqS",
+        "title": "Заради майбутнього",
+        "author": "Макс Кідрук",
+        "notes": "9/10 збірка оповідань.",
+        "createdAt": "2019-05-06 04:20:57",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 28
+        }
+    },
     "e6Za_erqVn": {
         "id": "e6Za_erqVn",
         "title": "Подсказчик",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 41
-        }
-    },
-    "xVZ7b_izOo": {
-        "id": "xVZ7b_izOo",
-        "title": "Странствие во тьме",
-        "author": "Маргит Сандему",
-        "notes": "Сага о Людях Льда",
-        "createdAt": "2019-04-29 10:40:39",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 40
         }
     }
 }

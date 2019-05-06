@@ -1,4 +1,16 @@
 {
+    "jPtz3zfPqS": {
+        "id": "jPtz3zfPqS",
+        "title": "Заради майбутнього",
+        "author": "Макс Кідрук",
+        "notes": "9/10 збірка оповідань.",
+        "createdAt": "2019-05-06 04:20:57",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 28
+        }
+    },
     "vHSuGPkcsj": {
         "id": "vHSuGPkcsj",
         "title": "Вавилон-17",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 215
-        }
-    },
-    "I6fAWlKiNJ": {
-        "id": "I6fAWlKiNJ",
-        "title": "Джек-потрошитель с Хрещатика",
-        "author": "Лада Лузина",
-        "notes": "10/10 Киевские ведьмы ищут Третий провал. Биография Котарбинского.",
-        "createdAt": "2019-04-08 13:25:48",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 21
         }
     }
 }

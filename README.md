@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Заради майбутнього ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>28</sup>
+    > 9/10 збірка оповідань.
+
 * Вавилон-17 ~ [Chiffi](users/105/105831994080785626680-google)<sup>117</sup>
     > оказывается, я читала эту книгу  лет 20 назад (тогда было прочитано много классики фантастики))
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Продовження пригод дивних у Америці.
 
 * БУРЯ СТОЛЕТИЯ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>75</sup>
-    > По факту прочитано в апреле
 
 * Кладбище домашних животных ~ [kissamasya](users/684/68439978-vkontakte)<sup>57</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Империализм как высшая стадия развития капитализма ~ [lucius](users/838/83820536-yandex)<sup>149</sup>
 
-* Колыбель для кошки (Cat's Cradle) ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>28</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>18</sup> 
 [Bafnita](users/142/1428344393-facebook)<sup>0</sup> 
 [denisstrekitcyn](users/226/226617025-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>117</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>27</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>75</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>57</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [regnabo](users/870/870059322-yandex)<sup>27</sup> 
 
 
-_04.05.2019 19:52:07_
+_06.05.2019 04:20:57_
