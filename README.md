@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В клетке со зверем ~ [kissamasya](users/684/68439978-vkontakte)<sup>58</sup>
+    > Она стояла на автобусной остановке, когда рядом остановился черный BMW. Водитель как ни в чем не бывало подошел к другой машине, припаркованной на противоположной стороне улицы, и взял из нее автомат. Вокруг началась паника, лишь она не могла отвести взгляд от таинственного незнакомца. Он улыбнулся и подмигнул ей, а в следующий миг его автомобиль с ревом скрылся вдали. Они оба могли забыть ту встречу, но судьба сыграла злую шутку, столкнув их вновь.
+
 * Множественные умы Билли Миллигана ~ [regnabo](users/870/870059322-yandex)<sup>28</sup>
     > поразительно
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 308 страниц
 
 * Заради майбутнього ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>28</sup>
-    > 9/10 збірка оповідань.
 
 * Вавилон-17 ~ [Chiffi](users/105/105831994080785626680-google)<sup>117</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Настя ~ [Victoria](users/113/113794223924688167852-google)<sup>43</sup>
 
-* Одинокий мужчина с кошкой ~ [kissamasya](users/684/68439978-vkontakte)<sup>56</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>58</sup> 
 [regnabo](users/870/870059322-yandex)<sup>28</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>698</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>76</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [denisstrekitcyn](users/226/226617025-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>117</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>57</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>12</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>183</sup> 
 [ajluc](users/880/88086807-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>217</sup> 
 
 
-_06.05.2019 14:04:37_
+_06.05.2019 17:43:30_
