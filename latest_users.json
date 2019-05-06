@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 698,
+        "updatedAt": "2019-05-06 09:30:13"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "ms.madoka",
         "booksCount": 0,
         "updatedAt": "2019-04-24 17:32:00"
-    },
-    "870059322-yandex": {
-        "id": "870059322-yandex",
-        "nickname": "regnabo",
-        "booksCount": 27,
-        "updatedAt": "2019-04-24 09:42:10"
     }
 }

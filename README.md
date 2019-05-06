@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>698</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>76</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>28</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>18</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [gredin_as](users/277/277067555-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>217</sup> 
 [ms.madoka](users/272/272093386-vkontakte)<sup>0</sup> 
-[regnabo](users/870/870059322-yandex)<sup>27</sup> 
 
 
-_06.05.2019 04:37:58_
+_06.05.2019 09:30:14_
