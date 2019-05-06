@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* ПРИЮТ. КНИГА ПЕРВАЯ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>76</sup>
 * Заради майбутнього ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>28</sup>
 * Вавилон-17 ~ [Chiffi](users/105/105831994080785626680-google)<sup>117</sup>
 * Дім дивних дітей: Карта днів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>27</sup>
@@ -30,7 +31,6 @@
 * Неизвестный Кими Райкконен ~ [Garka](users/115/115753719718250012620-google)<sup>216</sup>
 * Думай как миллиардер ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>197</sup>
 * Происхождение видов путем естественного отбора ~ [lucius](users/838/83820536-yandex)<sup>148</sup>
-* Сияние ~ [Garka](users/115/115753719718250012620-google)<sup>215</sup>
 
 
-_06.05.2019 04:20:57_
+_06.05.2019 04:37:58_

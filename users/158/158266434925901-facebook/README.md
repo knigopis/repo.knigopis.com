@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>75</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>76</sup>
 ---
 
 ## 2019
+
+### ПРИЮТ. КНИГА ПЕРВАЯ
+Меделин Ру
+> [2019-05-06] 308 страниц
+
 
 ### БУРЯ СТОЛЕТИЯ
 Стивен Кинг
