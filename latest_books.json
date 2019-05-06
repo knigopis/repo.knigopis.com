@@ -1,4 +1,16 @@
 {
+    "TmZtjKuxOP": {
+        "id": "TmZtjKuxOP",
+        "title": "Множественные умы Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "поразительно",
+        "createdAt": "2019-05-06 14:04:37",
+        "user": {
+            "id": "870059322-yandex",
+            "nickname": "regnabo",
+            "booksCount": 28
+        }
+    },
     "0rQ2-W6T1e": {
         "id": "0rQ2-W6T1e",
         "title": "Щегол",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 45
-        }
-    },
-    "NkEYQuISxz": {
-        "id": "NkEYQuISxz",
-        "title": "Чайка",
-        "author": "А.П.Чехов",
-        "notes": "",
-        "createdAt": "2019-04-29 10:45:08",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 44
         }
     }
 }

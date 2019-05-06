@@ -1,7 +1,12 @@
-# List of books read by regnabo<sup>27</sup>
+# List of books read by regnabo<sup>28</sup>
 ---
 
 ## 2019
+
+### Множественные умы Билли Миллигана
+Дэниел Киз
+> [2019-05-06] поразительно
+
 
 ### Звездная пыль
 Нил Гейман

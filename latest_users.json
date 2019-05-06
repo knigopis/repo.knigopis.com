@@ -1,4 +1,10 @@
 {
+    "870059322-yandex": {
+        "id": "870059322-yandex",
+        "nickname": "regnabo",
+        "booksCount": 28,
+        "updatedAt": "2019-05-06 14:04:37"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 217,
         "updatedAt": "2019-04-24 20:12:20"
-    },
-    "272093386-vkontakte": {
-        "id": "272093386-vkontakte",
-        "nickname": "ms.madoka",
-        "booksCount": 0,
-        "updatedAt": "2019-04-24 17:32:00"
     }
 }

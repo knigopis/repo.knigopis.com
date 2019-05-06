@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Множественные умы Билли Миллигана ~ [regnabo](users/870/870059322-yandex)<sup>28</sup>
+    > поразительно
+
 * ПРИЮТ. КНИГА ПЕРВАЯ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>76</sup>
     > 308 страниц
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 збірка оповідань.
 
 * Вавилон-17 ~ [Chiffi](users/105/105831994080785626680-google)<sup>117</sup>
-    > оказывается, я читала эту книгу  лет 20 назад (тогда было прочитано много классики фантастики))
 
 * Дім дивних дітей: Карта днів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>27</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Одинокий мужчина с кошкой ~ [kissamasya](users/684/68439978-vkontakte)<sup>56</sup>
 
-* Герои племён ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[regnabo](users/870/870059322-yandex)<sup>28</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>698</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>76</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>28</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
 [gredin_as](users/277/277067555-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>217</sup> 
-[ms.madoka](users/272/272093386-vkontakte)<sup>0</sup> 
 
 
-_06.05.2019 09:30:14_
+_06.05.2019 14:04:37_
