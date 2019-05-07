@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>58</sup> 
 [regnabo](users/870/870059322-yandex)<sup>28</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>698</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [denisstrekitcyn](users/226/226617025-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>117</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
-[Lecowi](users/521/521873425-vkontakte)<sup>12</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>183</sup> 
 [ajluc](users/880/88086807-vkontakte)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>43</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>217</sup> 
 
 
-_06.05.2019 17:43:30_
+_07.05.2019 07:56:11_

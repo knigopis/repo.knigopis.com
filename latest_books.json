@@ -1,4 +1,16 @@
 {
+    "Z9fhgzGXzZ": {
+        "id": "Z9fhgzGXzZ",
+        "title": "Тринадцатая сказка",
+        "author": "Диана Сеттерфилд",
+        "notes": "",
+        "createdAt": "2019-05-07 07:56:10",
+        "user": {
+            "id": "521873425-vkontakte",
+            "nickname": "Lecowi",
+            "booksCount": 13
+        }
+    },
     "aOEUe5FX3k": {
         "id": "aOEUe5FX3k",
         "title": "В клетке со зверем",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 56
-        }
-    },
-    "pMw5Xtg7fV": {
-        "id": "pMw5Xtg7fV",
-        "title": "ЖБО",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-04-29 17:50:05",
-        "user": {
-            "id": "112563761151554776409-google",
-            "nickname": "RenStel",
-            "booksCount": 1
         }
     }
 }

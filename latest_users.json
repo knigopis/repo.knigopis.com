@@ -1,4 +1,10 @@
 {
+    "521873425-vkontakte": {
+        "id": "521873425-vkontakte",
+        "nickname": "Lecowi",
+        "booksCount": 13,
+        "updatedAt": "2019-05-07 07:56:10"
+    },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
         "nickname": "kissamasya",
@@ -58,12 +64,6 @@
         "nickname": "Окс",
         "booksCount": 17,
         "updatedAt": "2019-05-03 08:51:09"
-    },
-    "521873425-vkontakte": {
-        "id": "521873425-vkontakte",
-        "nickname": "Lecowi",
-        "booksCount": 12,
-        "updatedAt": "2019-05-01 18:28:58"
     },
     "158304782-vkontakte": {
         "id": "158304782-vkontakte",
