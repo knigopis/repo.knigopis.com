@@ -1,4 +1,4 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>21</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>20</sup>
 ---
 
 ## 2019
@@ -101,9 +101,6 @@
 ### Я не могу без тебя
 Гийом Мюссо
 > [2019-01-11] 
-
-
-### Взлом маркетинга. Наука о том, почему мы покупаем
 
 
 
