@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Листи з того світу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup>
 * Анна Каренина ~ [Quaff](users/122/12267158-vkontakte)<sup>29</sup>
 * Сестра Керри ~ [regnabo](users/870/870059322-yandex)<sup>29</sup>
 * Неприятная профессия Джонатана Хога ~ [En](users/333/333646551-vkontakte)<sup>64</sup>
@@ -30,7 +31,6 @@
 * Живі свідеи історії ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>22</sup>
 * Жнец ~ [youno](users/302/302928912-vkontakte)<sup>22</sup>
 * ПИШИ, СОКРАЩАЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup>
-* Властелин хаоса (Серия: Колесо времени 6/16) ~ [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup>
 
 
-_07.05.2019 14:59:38_
+_07.05.2019 20:26:42_

@@ -1,4 +1,16 @@
 {
+    "ZMKAfcIkN9": {
+        "id": "ZMKAfcIkN9",
+        "title": "Листи з того світу",
+        "author": "Сергій Бут",
+        "notes": "10/10 Студент знаходить лист і поринає у детективний світ, історія, що тягнеться дисятьоліттями.",
+        "createdAt": "2019-05-07 20:26:42",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 29
+        }
+    },
     "f4roSRWqMq": {
         "id": "f4roSRWqMq",
         "title": "Записки e-mail маркетолога. Как сделать хорошую рассылку лучшей",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 16
-        }
-    },
-    "HbmjuZ0gB6": {
-        "id": "HbmjuZ0gB6",
-        "title": "Множественные умы Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2019-04-30 14:16:59",
-        "user": {
-            "id": "113990901159060096197-google",
-            "nickname": "Mantizzoma",
-            "booksCount": 2
         }
     }
 }

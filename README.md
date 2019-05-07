@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Листи з того світу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup>
+    > 10/10 Студент знаходить лист і поринає у детективний світ, історія, що тягнеться дисятьоліттями.
+
 * Анна Каренина ~ [Quaff](users/122/12267158-vkontakte)<sup>29</sup>
     > Бедная Анна
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > очень тронуло, было много моральных терзаний.
 
 * Неприятная профессия Джонатана Хога ~ [En](users/333/333646551-vkontakte)<sup>64</sup>
-    > Джонатан Хог не помнит, что он делает днем. Совсем! И прибегает к помощи частных детективов, чтобы выяснить это. То что те выясняют, может напугать кого угодно…
-    > В этом романе у небоскребов впервые появились несуществующие этажи, а реальность превратилась в бесформенную серую массу, которая проглядывает сквозь щели в декорациях жизни. Хайнлайн создал очень убедительный роман о том, что мир перестает существовать в тот самый момент, когда мы перестаем о нем думать.
 
 * В клетке со зверем ~ [kissamasya](users/684/68439978-vkontakte)<sup>58</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дім дивних дітей: Карта днів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>27</sup>
 
-* БУРЯ СТОЛЕТИЯ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>75</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>20</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>29</sup> 
 [regnabo](users/870/870059322-yandex)<sup>29</sup> 
@@ -43,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>58</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>698</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>76</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>28</sup> 
 [Bafnita](users/142/1428344393-facebook)<sup>0</sup> 
 [denisstrekitcyn](users/226/226617025-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>117</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
 
 
-_07.05.2019 16:30:49_
+_07.05.2019 20:26:42_
