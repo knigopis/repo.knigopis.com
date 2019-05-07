@@ -1,4 +1,16 @@
 {
+    "Sx44qdEAmr": {
+        "id": "Sx44qdEAmr",
+        "title": "Анна Каренина",
+        "author": "Достоевский",
+        "notes": "Бедная Анна",
+        "createdAt": "2019-05-07 14:59:38",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 29
+        }
+    },
     "94pg9jqdX4": {
         "id": "94pg9jqdX4",
         "title": "Сестра Керри",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 163
-        }
-    },
-    "XJN6O75bxc": {
-        "id": "XJN6O75bxc",
-        "title": "Рыцарь Теней",
-        "author": "Желязны Роджер",
-        "notes": "",
-        "createdAt": "2019-04-30 11:19:51",
-        "user": {
-            "id": "7264253353800808630-mailru",
-            "nickname": "Def",
-            "booksCount": 3
         }
     }
 }

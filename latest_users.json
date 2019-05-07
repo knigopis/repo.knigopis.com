@@ -1,4 +1,10 @@
 {
+    "12267158-vkontakte": {
+        "id": "12267158-vkontakte",
+        "nickname": "Quaff",
+        "booksCount": 29,
+        "updatedAt": "2019-05-07 14:59:38"
+    },
     "870059322-yandex": {
         "id": "870059322-yandex",
         "nickname": "regnabo",
@@ -172,11 +178,5 @@
         "nickname": "johnybond32",
         "booksCount": 3,
         "updatedAt": "2019-04-25 13:50:33"
-    },
-    "277067555-vkontakte": {
-        "id": "277067555-vkontakte",
-        "nickname": "gredin_as",
-        "booksCount": 1,
-        "updatedAt": "2019-04-25 04:13:32"
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Анна Каренина ~ [Quaff](users/122/12267158-vkontakte)<sup>29</sup>
+    > Бедная Анна
+
 * Сестра Керри ~ [regnabo](users/870/870059322-yandex)<sup>29</sup>
     > очень тронуло, было много моральных терзаний.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > В этом романе у небоскребов впервые появились несуществующие этажи, а реальность превратилась в бесформенную серую массу, которая проглядывает сквозь щели в декорациях жизни. Хайнлайн создал очень убедительный роман о том, что мир перестает существовать в тот самый момент, когда мы перестаем о нем думать.
 
 * В клетке со зверем ~ [kissamasya](users/684/68439978-vkontakte)<sup>58</sup>
-    > Она стояла на автобусной остановке, когда рядом остановился черный BMW. Водитель как ни в чем не бывало подошел к другой машине, припаркованной на противоположной стороне улицы, и взял из нее автомат. Вокруг началась паника, лишь она не могла отвести взгляд от таинственного незнакомца. Он улыбнулся и подмигнул ей, а в следующий миг его автомобиль с ревом скрылся вдали. Они оба могли забыть ту встречу, но судьба сыграла злую шутку, столкнув их вновь.
 
 * Множественные умы Билли Миллигана ~ [regnabo](users/870/870059322-yandex)<sup>28</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * БУРЯ СТОЛЕТИЯ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>75</sup>
 
-* Кладбище домашних животных ~ [kissamasya](users/684/68439978-vkontakte)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>29</sup> 
 [regnabo](users/870/870059322-yandex)<sup>29</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>164</sup> 
 [En](users/333/333646551-vkontakte)<sup>64</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>176</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
-[gredin_as](users/277/277067555-vkontakte)<sup>1</sup> 
 
 
-_07.05.2019 11:50:06_
+_07.05.2019 14:59:38_

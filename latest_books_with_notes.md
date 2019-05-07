@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Анна Каренина ~ [Quaff](users/122/12267158-vkontakte)<sup>29</sup>
 * Сестра Керри ~ [regnabo](users/870/870059322-yandex)<sup>29</sup>
 * Неприятная профессия Джонатана Хога ~ [En](users/333/333646551-vkontakte)<sup>64</sup>
 * В клетке со зверем ~ [kissamasya](users/684/68439978-vkontakte)<sup>58</sup>
@@ -30,7 +31,6 @@
 * Жнец ~ [youno](users/302/302928912-vkontakte)<sup>22</sup>
 * ПИШИ, СОКРАЩАЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup>
 * Властелин хаоса (Серия: Колесо времени 6/16) ~ [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup>
-* Введение в контент-маркетинг. Теория и практика ~ [kissamasya](users/684/68439978-vkontakte)<sup>54</sup>
 
 
-_07.05.2019 11:50:06_
+_07.05.2019 14:59:38_
