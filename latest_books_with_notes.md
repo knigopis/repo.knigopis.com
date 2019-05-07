@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сестра Керри ~ [regnabo](users/870/870059322-yandex)<sup>29</sup>
 * Неприятная профессия Джонатана Хога ~ [En](users/333/333646551-vkontakte)<sup>64</sup>
 * В клетке со зверем ~ [kissamasya](users/684/68439978-vkontakte)<sup>58</sup>
 * Множественные умы Билли Миллигана ~ [regnabo](users/870/870059322-yandex)<sup>28</sup>
@@ -30,7 +31,6 @@
 * ПИШИ, СОКРАЩАЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup>
 * Властелин хаоса (Серия: Колесо времени 6/16) ~ [kasikandriena](users/152/152488954-vkontakte)<sup>56</sup>
 * Введение в контент-маркетинг. Теория и практика ~ [kissamasya](users/684/68439978-vkontakte)<sup>54</sup>
-* ВОЙНА ХАОСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>71</sup>
 
 
-_07.05.2019 08:36:06_
+_07.05.2019 11:50:06_

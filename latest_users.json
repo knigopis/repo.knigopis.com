@@ -1,4 +1,10 @@
 {
+    "870059322-yandex": {
+        "id": "870059322-yandex",
+        "nickname": "regnabo",
+        "booksCount": 29,
+        "updatedAt": "2019-05-07 11:50:06"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -22,12 +28,6 @@
         "nickname": "kissamasya",
         "booksCount": 58,
         "updatedAt": "2019-05-06 17:43:30"
-    },
-    "870059322-yandex": {
-        "id": "870059322-yandex",
-        "nickname": "regnabo",
-        "booksCount": 28,
-        "updatedAt": "2019-05-06 14:04:37"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
