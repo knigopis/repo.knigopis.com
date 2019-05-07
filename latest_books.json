@@ -1,4 +1,16 @@
 {
+    "f4roSRWqMq": {
+        "id": "f4roSRWqMq",
+        "title": "Записки e-mail маркетолога. Как сделать хорошую рассылку лучшей",
+        "author": "Тарас Мискевич",
+        "notes": "",
+        "createdAt": "2019-05-07 16:29:56",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 21
+        }
+    },
     "S_wBOOfXBA": {
         "id": "S_wBOOfXBA",
         "title": "Взлом маркетинга. Наука о том, почему мы покупаем",
@@ -345,18 +357,6 @@
             "id": "113990901159060096197-google",
             "nickname": "Mantizzoma",
             "booksCount": 2
-        }
-    },
-    "8oCc0QE4TK": {
-        "id": "8oCc0QE4TK",
-        "title": "День Триффидов",
-        "author": "Джон Уиндем",
-        "notes": "",
-        "createdAt": "2019-04-30 14:16:39",
-        "user": {
-            "id": "113990901159060096197-google",
-            "nickname": "Mantizzoma",
-            "booksCount": 1
         }
     }
 }
