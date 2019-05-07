@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>164</sup> 
 [En](users/333/333646551-vkontakte)<sup>64</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>58</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>43</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>75</sup> 
 [Mantizzoma](users/113/113990901159060096197-google)<sup>2</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>163</sup> 
 [Def](users/726/7264253353800808630-mailru)<sup>3</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>56</sup> 
 [RenStel](users/112/112563761151554776409-google)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gredin_as](users/277/277067555-vkontakte)<sup>1</sup> 
 
 
-_07.05.2019 08:36:06_
+_07.05.2019 08:53:28_

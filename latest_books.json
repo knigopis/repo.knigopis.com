@@ -1,4 +1,16 @@
 {
+    "1o3BpFlD2w": {
+        "id": "1o3BpFlD2w",
+        "title": "Гарри Поттер и тайная комната",
+        "author": "Джоанн Роулинг",
+        "notes": "",
+        "createdAt": "2019-05-07 08:53:28",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 164
+        }
+    },
     "aQbIk4nIIn": {
         "id": "aQbIk4nIIn",
         "title": "Неприятная профессия Джонатана Хога",
@@ -345,18 +357,6 @@
             "id": "7264253353800808630-mailru",
             "nickname": "Def",
             "booksCount": 2
-        }
-    },
-    "wQgYQkS-cx": {
-        "id": "wQgYQkS-cx",
-        "title": "Файролл. Игра не ради игры",
-        "author": "Васильев Андрей",
-        "notes": "",
-        "createdAt": "2019-04-30 11:14:07",
-        "user": {
-            "id": "7264253353800808630-mailru",
-            "nickname": "Def",
-            "booksCount": 1
         }
     }
 }
