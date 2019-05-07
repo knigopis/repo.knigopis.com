@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>19</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>20</sup>
 ---
 
 ## 2019
+
+### Взлом маркетинга. Наука о том, почему мы покупаем
+Филипп Барден
+> [2019-05-07] 
+
 
 ### Подсказчик
 Донато Кариззи
