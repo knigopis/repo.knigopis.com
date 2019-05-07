@@ -1,4 +1,16 @@
 {
+    "WeYdsxIyep": {
+        "id": "WeYdsxIyep",
+        "title": "Взлом маркетинга. Наука о том, почему мы покупаем",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-05-07 16:27:37",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 19
+        }
+    },
     "Sx44qdEAmr": {
         "id": "Sx44qdEAmr",
         "title": "Анна Каренина",
@@ -345,18 +357,6 @@
             "id": "113990901159060096197-google",
             "nickname": "Mantizzoma",
             "booksCount": 1
-        }
-    },
-    "Vnuga44A5T": {
-        "id": "Vnuga44A5T",
-        "title": "Чужестранка",
-        "author": "Диана Гэблдон",
-        "notes": "",
-        "createdAt": "2019-04-30 12:53:31",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 163
         }
     }
 }

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>19</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>29</sup> 
 [regnabo](users/870/870059322-yandex)<sup>29</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>164</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>698</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>76</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>28</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>18</sup> 
 [Bafnita](users/142/1428344393-facebook)<sup>0</sup> 
 [denisstrekitcyn](users/226/226617025-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>117</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
 
 
-_07.05.2019 14:59:38_
+_07.05.2019 16:27:37_

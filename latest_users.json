@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 19,
+        "updatedAt": "2019-05-07 16:27:37"
+    },
     "12267158-vkontakte": {
         "id": "12267158-vkontakte",
         "nickname": "Quaff",
@@ -52,12 +58,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 28,
         "updatedAt": "2019-05-06 04:20:57"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 18,
-        "updatedAt": "2019-05-04 19:52:07"
     },
     "1428344393-facebook": {
         "id": "1428344393-facebook",
