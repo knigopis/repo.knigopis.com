@@ -1,4 +1,10 @@
 {
+    "2401650-vkontakte": {
+        "id": "2401650-vkontakte",
+        "nickname": "joan789",
+        "booksCount": 98,
+        "updatedAt": "2019-05-08 13:16:29"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 176,
         "updatedAt": "2019-04-26 04:36:37"
-    },
-    "304041461-yandex": {
-        "id": "304041461-yandex",
-        "nickname": "johnybond32",
-        "booksCount": 3,
-        "updatedAt": "2019-04-25 13:50:33"
     }
 }

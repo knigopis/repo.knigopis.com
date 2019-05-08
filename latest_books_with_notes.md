@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Безумная звезда ~ [joan789](users/240/2401650-vkontakte)<sup>98</sup>
 * Листи з того світу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup>
 * Анна Каренина ~ [Quaff](users/122/12267158-vkontakte)<sup>29</sup>
 * Сестра Керри ~ [regnabo](users/870/870059322-yandex)<sup>29</sup>
@@ -30,7 +31,6 @@
 * Чорнобильска молитва ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>23</sup>
 * Живі свідеи історії ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>22</sup>
 * Жнец ~ [youno](users/302/302928912-vkontakte)<sup>22</sup>
-* ПИШИ, СОКРАЩАЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>72</sup>
 
 
-_07.05.2019 20:26:42_
+_08.05.2019 13:16:29_
