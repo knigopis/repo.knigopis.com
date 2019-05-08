@@ -1,4 +1,16 @@
 {
+    "H0G2Mxf8uE": {
+        "id": "H0G2Mxf8uE",
+        "title": "Проект \"Рози\"",
+        "author": "Грэм Симсион",
+        "notes": "",
+        "createdAt": "2019-05-08 19:23:40",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 21
+        }
+    },
     "6cYbUkB3pa": {
         "id": "6cYbUkB3pa",
         "title": "Сеть Нанотех",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 40
-        }
-    },
-    "gvdadBB020": {
-        "id": "gvdadBB020",
-        "title": "15 жизней Гарри Огаста",
-        "author": "Клэр Норт",
-        "notes": "",
-        "createdAt": "2019-04-30 17:15:07",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 75
         }
     }
 }

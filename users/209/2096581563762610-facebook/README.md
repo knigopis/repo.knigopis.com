@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>20</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>21</sup>
 ---
 
 ## 2019
+
+### Проект "Рози"
+Грэм Симсион
+> [2019-05-08] 
+
 
 ### Записки e-mail маркетолога. Как сделать хорошую рассылку лучшей
 Тарас Мискевич

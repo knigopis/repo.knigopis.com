@@ -45,10 +45,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>21</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>6</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>98</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>20</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>29</sup> 
 [regnabo](users/870/870059322-yandex)<sup>29</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>164</sup> 
@@ -77,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>176</sup> 
 
 
-_08.05.2019 16:25:00_
+_08.05.2019 19:23:40_
