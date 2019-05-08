@@ -1,4 +1,10 @@
 {
+    "126368737-vkontakte": {
+        "id": "126368737-vkontakte",
+        "nickname": "Макар Коренюк",
+        "booksCount": 6,
+        "updatedAt": "2019-05-08 16:25:00"
+    },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",
         "nickname": "joan789",
@@ -166,12 +172,6 @@
         "nickname": "xxx",
         "booksCount": 0,
         "updatedAt": "2019-04-27 00:16:08"
-    },
-    "126368737-vkontakte": {
-        "id": "126368737-vkontakte",
-        "nickname": "Макар Коренюк",
-        "booksCount": 5,
-        "updatedAt": "2019-04-26 14:36:14"
     },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",

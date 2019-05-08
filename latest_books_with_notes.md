@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сеть Нанотех ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>6</sup>
 * Безумная звезда ~ [joan789](users/240/2401650-vkontakte)<sup>98</sup>
 * Листи з того світу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup>
 * Анна Каренина ~ [Quaff](users/122/12267158-vkontakte)<sup>29</sup>
@@ -30,7 +31,6 @@
 * Сад чудовищ ~ [Chiffi](users/105/105831994080785626680-google)<sup>115</sup>
 * Чорнобильска молитва ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>23</sup>
 * Живі свідеи історії ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>22</sup>
-* Жнец ~ [youno](users/302/302928912-vkontakte)<sup>22</sup>
 
 
-_08.05.2019 13:16:29_
+_08.05.2019 16:25:00_
