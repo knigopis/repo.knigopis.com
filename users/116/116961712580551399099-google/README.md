@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>59</sup>
+# List of books read by violet_velva<sup>60</sup>
 ---
 
 ## 2019
+
+### L'homme qui regardait passer les trains
+Georges Simenon
+> [2019-04] Мне понравилось как удивительным образом описана психология сумасшедшего убийцы.
+
 
 ### Невыносимая легкость бытия
 Милан Кундера
