@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[theponycoder](users/195/195144442-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>218</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>104</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>21</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>45</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>143</sup> 
 [lucius](users/838/83820536-yandex)<sup>149</sup> 
-[xxx](users/109/109882790085735415479-google)<sup>0</sup> 
 
 
-_09.05.2019 16:01:35_
+_09.05.2019 16:34:21_
