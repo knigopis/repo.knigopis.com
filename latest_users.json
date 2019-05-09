@@ -1,4 +1,10 @@
 {
+    "195144442-vkontakte": {
+        "id": "195144442-vkontakte",
+        "nickname": "theponycoder",
+        "booksCount": 0,
+        "updatedAt": "2019-05-09 16:34:18"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 149,
         "updatedAt": "2019-04-27 02:36:34"
-    },
-    "109882790085735415479-google": {
-        "id": "109882790085735415479-google",
-        "nickname": "xxx",
-        "booksCount": 0,
-        "updatedAt": "2019-04-27 00:16:08"
     }
 }
