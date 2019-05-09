@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 104,
+        "updatedAt": "2019-05-09 05:50:03"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -148,12 +154,6 @@
         "nickname": "thejokerinthefog",
         "booksCount": 45,
         "updatedAt": "2019-04-29 10:47:15"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 103,
-        "updatedAt": "2019-04-28 07:08:16"
     },
     "217891524-vkontakte": {
         "id": "217891524-vkontakte",
