@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 15,
+        "updatedAt": "2019-05-10 20:15:06"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Def",
         "booksCount": 3,
         "updatedAt": "2019-04-30 11:19:51"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 56,
-        "updatedAt": "2019-04-30 08:32:13"
     }
 }
