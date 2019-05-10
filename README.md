@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>177</sup> 
 [глазастик](users/115/115257673890455357280-google)<sup>0</sup> 
 [blackwolf ](users/236/236639644-vkontakte)<sup>11</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>60</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mantizzoma](users/113/113990901159060096197-google)<sup>2</sup> 
 [Def](users/726/7264253353800808630-mailru)<sup>3</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>56</sup> 
-[RenStel](users/112/112563761151554776409-google)<sup>1</sup> 
 
 
-_10.05.2019 09:25:53_
+_10.05.2019 19:29:02_
