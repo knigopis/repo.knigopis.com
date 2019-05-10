@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[blackwolf ](users/236/236639644-vkontakte)<sup>5</sup> 
+[blackwolf ](users/236/236639644-vkontakte)<sup>6</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>60</sup> 
 [theponycoder](users/195/195144442-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>218</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>45</sup> 
 
 
-_10.05.2019 00:17:14_
+_10.05.2019 00:20:43_

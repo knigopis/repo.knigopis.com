@@ -1,4 +1,16 @@
 {
+    "2lU9Z5zgaP": {
+        "id": "2lU9Z5zgaP",
+        "title": "Война миров",
+        "author": "Герберт Джордж",
+        "notes": "",
+        "createdAt": "2019-05-10 00:20:43",
+        "user": {
+            "id": "236639644-vkontakte",
+            "nickname": "blackwolf ",
+            "booksCount": 6
+        }
+    },
     "lpiWas_4lV": {
         "id": "lpiWas_4lV",
         "title": "Вино из одуванчиков",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 27
-        }
-    },
-    "aCDY7JUKna": {
-        "id": "aCDY7JUKna",
-        "title": "Гиперболоид инженера Гарина",
-        "author": "ТОЛСТОЙ Алексей",
-        "notes": "",
-        "createdAt": "2019-05-03 08:51:09",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 17
         }
     }
 }

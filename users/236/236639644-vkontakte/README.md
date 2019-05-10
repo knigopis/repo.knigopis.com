@@ -1,7 +1,11 @@
-# List of books read by [blackwolf ](http://vk.com/id236639644)<sup>5</sup>
+# List of books read by [blackwolf ](http://vk.com/id236639644)<sup>6</sup>
 ---
 
 ## 2018
+
+### Война миров
+Герберт Джордж
+
 
 ### Вино из одуванчиков
 Рэй Брэдбери
