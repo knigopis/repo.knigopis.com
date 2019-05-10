@@ -1,4 +1,10 @@
 {
+    "115257673890455357280-google": {
+        "id": "115257673890455357280-google",
+        "nickname": "глазастик",
+        "booksCount": 0,
+        "updatedAt": "2019-05-10 09:25:50"
+    },
     "236639644-vkontakte": {
         "id": "236639644-vkontakte",
         "nickname": "blackwolf ",
@@ -172,11 +178,5 @@
         "nickname": "RenStel",
         "booksCount": 1,
         "updatedAt": "2019-04-29 17:50:05"
-    },
-    "317244423-vkontakte": {
-        "id": "317244423-vkontakte",
-        "nickname": "thejokerinthefog",
-        "booksCount": 45,
-        "updatedAt": "2019-04-29 10:47:15"
     }
 }
