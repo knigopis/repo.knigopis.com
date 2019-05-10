@@ -1,4 +1,16 @@
 {
+    "ZLcWHnDKTw": {
+        "id": "ZLcWHnDKTw",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2019-05-10 00:22:57",
+        "user": {
+            "id": "236639644-vkontakte",
+            "nickname": "blackwolf ",
+            "booksCount": 9
+        }
+    },
     "snvaixZILf": {
         "id": "snvaixZILf",
         "title": "Книжный вор",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 18
-        }
-    },
-    "2Yg1OjEvCY": {
-        "id": "2Yg1OjEvCY",
-        "title": "Ирка Хортица - надднепрянская ведьма || Сезон охоты на ведьм",
-        "author": "Илона Волынская, Кирилл Кащеев",
-        "notes": "Первая книга серии Ирка Хортица -надднепрянская ведьма",
-        "createdAt": "2019-05-04 09:09:43",
-        "user": {
-            "id": "226617025-vkontakte",
-            "nickname": "denisstrekitcyn",
-            "booksCount": 1
         }
     }
 }
