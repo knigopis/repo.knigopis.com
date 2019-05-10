@@ -1,7 +1,11 @@
-# List of books read by [blackwolf ](http://vk.com/id236639644)<sup>2</sup>
+# List of books read by [blackwolf ](http://vk.com/id236639644)<sup>3</sup>
 ---
 
 ## 2018
+
+### Человек-невидимка
+Герберт Джордж
+
 
 ### Портрет Дориана Грея
 Оскар Уайльд

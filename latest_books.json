@@ -1,4 +1,16 @@
 {
+    "NLk2shPjE0": {
+        "id": "NLk2shPjE0",
+        "title": "Человек-невидимка",
+        "author": "Герберт Джордж",
+        "notes": "",
+        "createdAt": "2019-05-10 00:16:12",
+        "user": {
+            "id": "236639644-vkontakte",
+            "nickname": "blackwolf ",
+            "booksCount": 3
+        }
+    },
     "6F4kDzBI9S": {
         "id": "6F4kDzBI9S",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 57
-        }
-    },
-    "7Y0jmAdE9t": {
-        "id": "7Y0jmAdE9t",
-        "title": "Письма с острова Скай",
-        "author": "Джессика Брокмоул",
-        "notes": "",
-        "createdAt": "2019-05-01 18:28:58",
-        "user": {
-            "id": "521873425-vkontakte",
-            "nickname": "Lecowi",
-            "booksCount": 12
         }
     }
 }
