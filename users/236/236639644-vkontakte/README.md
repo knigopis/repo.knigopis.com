@@ -1,7 +1,11 @@
-# List of books read by [blackwolf ](http://vk.com/id236639644)<sup>7</sup>
+# List of books read by [blackwolf ](http://vk.com/id236639644)<sup>8</sup>
 ---
 
 ## 2018
+
+### Книжный вор
+Маркус Зузак
+
 
 ### Дом, в котором...
 Мариам Петросян
