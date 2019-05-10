@@ -1,7 +1,11 @@
-# List of books read by [blackwolf ](http://vk.com/id236639644)<sup>1</sup>
+# List of books read by [blackwolf ](http://vk.com/id236639644)<sup>2</sup>
 ---
 
 ## 2018
+
+### Портрет Дориана Грея
+Оскар Уайльд
+
 
 ### Голова профессора Доуэля
 Александр Беляев

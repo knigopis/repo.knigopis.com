@@ -1,4 +1,16 @@
 {
+    "6F4kDzBI9S": {
+        "id": "6F4kDzBI9S",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2019-05-10 00:15:18",
+        "user": {
+            "id": "236639644-vkontakte",
+            "nickname": "blackwolf ",
+            "booksCount": 2
+        }
+    },
     "kfIQ1EUMtj": {
         "id": "kfIQ1EUMtj",
         "title": "Голова профессора Доуэля",
@@ -345,18 +357,6 @@
             "id": "521873425-vkontakte",
             "nickname": "Lecowi",
             "booksCount": 12
-        }
-    },
-    "KDrCmbDKSn": {
-        "id": "KDrCmbDKSn",
-        "title": "Фокусы языка",
-        "author": "Ричард Зеленский",
-        "notes": "",
-        "createdAt": "2019-05-01 17:09:55",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 183
         }
     }
 }
