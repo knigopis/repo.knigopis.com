@@ -1,4 +1,10 @@
 {
+    "30902475-vkontakte": {
+        "id": "30902475-vkontakte",
+        "nickname": "Stacy",
+        "booksCount": 4,
+        "updatedAt": "2019-05-11 11:27:41"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "Mantizzoma",
         "booksCount": 2,
         "updatedAt": "2019-04-30 14:16:59"
-    },
-    "7264253353800808630-mailru": {
-        "id": "7264253353800808630-mailru",
-        "nickname": "Def",
-        "booksCount": 3,
-        "updatedAt": "2019-04-30 11:19:51"
     }
 }

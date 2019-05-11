@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Stacy](users/309/30902475-vkontakte)<sup>4</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>77</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>15</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>177</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>43</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>75</sup> 
 [Mantizzoma](users/113/113990901159060096197-google)<sup>2</sup> 
-[Def](users/726/7264253353800808630-mailru)<sup>3</sup> 
 
 
-_11.05.2019 05:58:24_
+_11.05.2019 11:27:41_
