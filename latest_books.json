@@ -1,4 +1,16 @@
 {
+    "cWdAwRsixW": {
+        "id": "cWdAwRsixW",
+        "title": "Ученик монстролога",
+        "author": "Рик Янси",
+        "notes": "",
+        "createdAt": "2019-05-11 05:58:24",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 77
+        }
+    },
     "qr2zffkv1U": {
         "id": "qr2zffkv1U",
         "title": "Эверест",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 58
-        }
-    },
-    "TmZtjKuxOP": {
-        "id": "TmZtjKuxOP",
-        "title": "Множественные умы Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "поразительно",
-        "createdAt": "2019-05-06 14:04:37",
-        "user": {
-            "id": "870059322-yandex",
-            "nickname": "regnabo",
-            "booksCount": 28
         }
     }
 }

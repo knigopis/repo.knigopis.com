@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>76</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>77</sup>
 ---
 
 ## 2019
+
+### Ученик монстролога
+Рик Янси
+> [2019-05-11] 
+
 
 ### ПРИЮТ. КНИГА ПЕРВАЯ
 Меделин Ру
