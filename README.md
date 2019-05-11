@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Игра Ангела ~ [anvonamore](users/595/5957175-vkontakte)<sup>123</sup>
+    > 5/10
+
 * L'homme qui regardait passer les trains ~ [violet_velva](users/116/116961712580551399099-google)<sup>60</sup>
     > Мне понравилось как удивительным образом описана психология сумасшедшего убийцы.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Воспоминания ветеринара о начале его практики в 30х годах ХХ века. Познавательно, забавно, местами грустно.
 
 * Тобол. Мало избранных ~ [exulted](users/100/100599204551896265722-google)<sup>104</sup>
-    > ISBN: 978-5-17-982684-2
 
 * Сеть Нанотех ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>6</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Неприятная профессия Джонатана Хога ~ [En](users/333/333646551-vkontakte)<sup>64</sup>
 
-* В клетке со зверем ~ [kissamasya](users/684/68439978-vkontakte)<sup>58</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>123</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>4</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>77</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>15</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ajluc](users/880/88086807-vkontakte)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>43</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>75</sup> 
-[Mantizzoma](users/113/113990901159060096197-google)<sup>2</sup> 
 
 
-_11.05.2019 11:27:41_
+_11.05.2019 22:03:02_
