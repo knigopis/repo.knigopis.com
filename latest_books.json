@@ -1,4 +1,16 @@
 {
+    "te_btM-sHZ": {
+        "id": "te_btM-sHZ",
+        "title": "Числа",
+        "author": "Виктор Пелевин",
+        "notes": "Интересное предположение о методах устройства личной жизни успешных советских предпринимателей",
+        "createdAt": "2019-05-12 14:17:48",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 31
+        }
+    },
     "EkZyflPqhA": {
         "id": "EkZyflPqhA",
         "title": "Гордость и предубеждение",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 21
-        }
-    },
-    "S_wBOOfXBA": {
-        "id": "S_wBOOfXBA",
-        "title": "Взлом маркетинга. Наука о том, почему мы покупаем",
-        "author": "Филипп Барден",
-        "notes": "",
-        "createdAt": "2019-05-07 16:28:54",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 20
         }
     }
 }
