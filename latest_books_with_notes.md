@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Аркада. Эпизод первый. kamataYan ~ [Chiffi](users/105/105831994080785626680-google)<sup>118</sup>
 * Игра Ангела ~ [anvonamore](users/595/5957175-vkontakte)<sup>123</sup>
 * L'homme qui regardait passer les trains ~ [violet_velva](users/116/116961712580551399099-google)<sup>60</sup>
 * О всех созданиях – больших и малых ~ [Garka](users/115/115753719718250012620-google)<sup>218</sup>
@@ -30,7 +31,6 @@
 * Стыд & Sex.Эротические рассказы ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
 * Хоббит, или Туда и Обратно ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
 * Ледяная царевна с Андреевского ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>25</sup>
-* ЭРИК, А ТАК ЖЕ НОЧГАЯ СТРАЖА  ВЕДЬМЫ И КОЭН-ВАРВАР ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>73</sup>
 
 
-_11.05.2019 22:03:02_
+_12.05.2019 06:12:44_

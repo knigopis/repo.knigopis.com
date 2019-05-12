@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Аркада. Эпизод первый. kamataYan ~ [Chiffi](users/105/105831994080785626680-google)<sup>118</sup>
+    > не мысли, а последовательность действий, набор базовых потребностей, для обеспечения которых требуются помимо физических еще и интеллектуальные усилия.По большому счету, мы говорим об алгоритме муравья.
+
 * Игра Ангела ~ [anvonamore](users/595/5957175-vkontakte)<sup>123</sup>
     > 5/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мне понравилось как удивительным образом описана психология сумасшедшего убийцы.
 
 * О всех созданиях – больших и малых ~ [Garka](users/115/115753719718250012620-google)<sup>218</sup>
-    > Воспоминания ветеринара о начале его практики в 30х годах ХХ века. Познавательно, забавно, местами грустно.
 
 * Тобол. Мало избранных ~ [exulted](users/100/100599204551896265722-google)<sup>104</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сестра Керри ~ [regnabo](users/870/870059322-yandex)<sup>29</sup>
 
-* Неприятная профессия Джонатана Хога ~ [En](users/333/333646551-vkontakte)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>118</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>123</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>4</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>77</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>698</sup> 
 [Bafnita](users/142/1428344393-facebook)<sup>0</sup> 
 [denisstrekitcyn](users/226/226617025-vkontakte)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>117</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>183</sup> 
 [ajluc](users/880/88086807-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>75</sup> 
 
 
-_11.05.2019 22:03:02_
+_12.05.2019 06:12:44_
