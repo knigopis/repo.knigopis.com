@@ -1,4 +1,16 @@
 {
+    "EkZyflPqhA": {
+        "id": "EkZyflPqhA",
+        "title": "Гордость и предубеждение",
+        "author": "Джейн Остин",
+        "notes": "Интригующая тема в сопливой оправе",
+        "createdAt": "2019-05-12 14:16:36",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 30
+        }
+    },
     "NejruDk-in": {
         "id": "NejruDk-in",
         "title": "Аркада. Эпизод первый. kamataYan",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 109
-        }
-    },
-    "oyzlXJQav3": {
-        "id": "oyzlXJQav3",
-        "title": "Ледяная царевна с Андреевского",
-        "author": "Лада Лузина",
-        "notes": "10/10 Киевицы знакомятся с Дедом Морозом.",
-        "createdAt": "2019-04-22 19:12:02",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 25
         }
     }
 }

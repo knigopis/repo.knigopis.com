@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гордость и предубеждение ~ [Quaff](users/122/12267158-vkontakte)<sup>30</sup>
+    > Интригующая тема в сопливой оправе
+
 * Аркада. Эпизод первый. kamataYan ~ [Chiffi](users/105/105831994080785626680-google)<sup>118</sup>
     > не мысли, а последовательность действий, набор базовых потребностей, для обеспечения которых требуются помимо физических еще и интеллектуальные усилия.По большому счету, мы говорим об алгоритме муравья.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10
 
 * L'homme qui regardait passer les trains ~ [violet_velva](users/116/116961712580551399099-google)<sup>60</sup>
-    > Мне понравилось как удивительным образом описана психология сумасшедшего убийцы.
 
 * О всех созданиях – больших и малых ~ [Garka](users/115/115753719718250012620-google)<sup>218</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Анна Каренина ~ [Quaff](users/122/12267158-vkontakte)<sup>29</sup>
 
-* Сестра Керри ~ [regnabo](users/870/870059322-yandex)<sup>29</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>30</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>61</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>59</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>118</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>6</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>98</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>29</sup> 
 [regnabo](users/870/870059322-yandex)<sup>29</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>164</sup> 
 [En](users/333/333646551-vkontakte)<sup>64</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>75</sup> 
 
 
-_12.05.2019 13:08:16_
+_12.05.2019 14:16:36_

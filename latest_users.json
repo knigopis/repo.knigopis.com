@@ -1,4 +1,10 @@
 {
+    "12267158-vkontakte": {
+        "id": "12267158-vkontakte",
+        "nickname": "Quaff",
+        "booksCount": 30,
+        "updatedAt": "2019-05-12 14:16:36"
+    },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
         "nickname": "violet_velva",
@@ -100,12 +106,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 29,
         "updatedAt": "2019-05-07 20:26:42"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 29,
-        "updatedAt": "2019-05-07 14:59:38"
     },
     "870059322-yandex": {
         "id": "870059322-yandex",
