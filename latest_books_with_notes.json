@@ -1,4 +1,16 @@
 {
+    "ZrXj4f896s": {
+        "id": "ZrXj4f896s",
+        "title": "t",
+        "author": "Виктор Пелевин",
+        "notes": "Хаос мысли между писателем, главным героем и автором",
+        "createdAt": "2019-05-12 14:18:47",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 32
+        }
+    },
     "te_btM-sHZ": {
         "id": "te_btM-sHZ",
         "title": "Числа",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 217
-        }
-    },
-    "rDxnL5fvmb": {
-        "id": "rDxnL5fvmb",
-        "title": "Стыд & Sex.Эротические рассказы",
-        "author": "Марк Довлатов",
-        "notes": "Вы что, правда, собрались это читать?! Да боже вас упаси! Даже и не думайте – Мишка и Белка тут такое вытворяют, что вы просто от стыда умрете!",
-        "createdAt": "2019-04-24 09:43:19",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 55
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "ZrXj4f896s": {
+        "id": "ZrXj4f896s",
+        "title": "t",
+        "author": "Виктор Пелевин",
+        "notes": "Хаос мысли между писателем, главным героем и автором",
+        "createdAt": "2019-05-12 14:18:47",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 32
+        }
+    },
     "te_btM-sHZ": {
         "id": "te_btM-sHZ",
         "title": "Числа",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 29
-        }
-    },
-    "f4roSRWqMq": {
-        "id": "f4roSRWqMq",
-        "title": "Записки e-mail маркетолога. Как сделать хорошую рассылку лучшей",
-        "author": "Тарас Мискевич",
-        "notes": "",
-        "createdAt": "2019-05-07 16:29:56",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 21
         }
     }
 }

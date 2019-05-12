@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* t ~ [Quaff](users/122/12267158-vkontakte)<sup>32</sup>
+    > Хаос мысли между писателем, главным героем и автором
+
 * Числа ~ [Quaff](users/122/12267158-vkontakte)<sup>31</sup>
     > Интересное предположение о методах устройства личной жизни успешных советских предпринимателей
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Интригующая тема в сопливой оправе
 
 * Аркада. Эпизод первый. kamataYan ~ [Chiffi](users/105/105831994080785626680-google)<sup>118</sup>
-    > не мысли, а последовательность действий, набор базовых потребностей, для обеспечения которых требуются помимо физических еще и интеллектуальные усилия.По большому счету, мы говорим об алгоритме муравья.
 
 * Игра Ангела ~ [anvonamore](users/595/5957175-vkontakte)<sup>123</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Безумная звезда ~ [joan789](users/240/2401650-vkontakte)<sup>98</sup>
 
-* Листи з того світу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>31</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>32</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>61</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>59</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>118</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>75</sup> 
 
 
-_12.05.2019 14:17:48_
+_12.05.2019 14:18:47_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* t ~ [Quaff](users/122/12267158-vkontakte)<sup>32</sup>
 * Числа ~ [Quaff](users/122/12267158-vkontakte)<sup>31</sup>
 * Гордость и предубеждение ~ [Quaff](users/122/12267158-vkontakte)<sup>30</sup>
 * Аркада. Эпизод первый. kamataYan ~ [Chiffi](users/105/105831994080785626680-google)<sup>118</sup>
@@ -30,7 +31,6 @@
 * Колыбель для кошки (Cat's Cradle) ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup>
 * КАРТА ДНЕЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup>
 *  ~ [Garka](users/115/115753719718250012620-google)<sup>217</sup>
-* Стыд & Sex.Эротические рассказы ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
 
 
-_12.05.2019 14:17:48_
+_12.05.2019 14:18:47_
