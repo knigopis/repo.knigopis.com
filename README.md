@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>61</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>59</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>118</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>123</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>177</sup> 
 [глазастик](users/115/115257673890455357280-google)<sup>0</sup> 
 [blackwolf ](users/236/236639644-vkontakte)<sup>11</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>60</sup> 
 [theponycoder](users/195/195144442-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>218</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>75</sup> 
 
 
-_12.05.2019 10:27:22_
+_12.05.2019 13:08:16_
