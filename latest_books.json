@@ -1,4 +1,16 @@
 {
+    "2JkLxbvCnF": {
+        "id": "2JkLxbvCnF",
+        "title": "Снегурочка",
+        "author": "Ринка Кейти",
+        "notes": "",
+        "createdAt": "2019-05-12 10:27:22",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 59
+        }
+    },
     "NejruDk-in": {
         "id": "NejruDk-in",
         "title": "Аркада. Эпизод первый. kamataYan",
@@ -345,18 +357,6 @@
             "id": "870059322-yandex",
             "nickname": "regnabo",
             "booksCount": 29
-        }
-    },
-    "1o3BpFlD2w": {
-        "id": "1o3BpFlD2w",
-        "title": "Гарри Поттер и тайная комната",
-        "author": "Джоанн Роулинг",
-        "notes": "",
-        "createdAt": "2019-05-07 08:53:28",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 164
         }
     }
 }
