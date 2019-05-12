@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Если бы она знала ~ [kissamasya](users/684/68439978-vkontakte)<sup>60</sup>
 * t ~ [Quaff](users/122/12267158-vkontakte)<sup>32</sup>
 * Числа ~ [Quaff](users/122/12267158-vkontakte)<sup>31</sup>
 * Гордость и предубеждение ~ [Quaff](users/122/12267158-vkontakte)<sup>30</sup>
@@ -30,7 +31,6 @@
 * Империализм как высшая стадия развития капитализма ~ [lucius](users/838/83820536-yandex)<sup>149</sup>
 * Колыбель для кошки (Cat's Cradle) ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup>
 * КАРТА ДНЕЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup>
-*  ~ [Garka](users/115/115753719718250012620-google)<sup>217</sup>
 
 
-_12.05.2019 14:18:47_
+_12.05.2019 18:42:29_

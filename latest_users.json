@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 60,
+        "updatedAt": "2019-05-12 18:42:29"
+    },
     "12267158-vkontakte": {
         "id": "12267158-vkontakte",
         "nickname": "Quaff",
@@ -10,12 +16,6 @@
         "nickname": "violet_velva",
         "booksCount": 61,
         "updatedAt": "2019-05-12 13:08:16"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 59,
-        "updatedAt": "2019-05-12 10:27:22"
     },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
