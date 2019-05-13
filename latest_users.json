@@ -1,4 +1,10 @@
 {
+    "114792281744850455512-google": {
+        "id": "114792281744850455512-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-05-13 23:13:02"
+    },
     "103352250712959229257-google": {
         "id": "103352250712959229257-google",
         "nickname": "Alla",
@@ -172,11 +178,5 @@
         "nickname": "ajluc",
         "booksCount": 0,
         "updatedAt": "2019-05-01 14:31:38"
-    },
-    "113794223924688167852-google": {
-        "id": "113794223924688167852-google",
-        "nickname": "Victoria",
-        "booksCount": 43,
-        "updatedAt": "2019-04-30 19:18:58"
     }
 }
