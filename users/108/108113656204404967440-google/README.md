@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>698</sup>
+# List of books read by Janet<sup>699</sup>
 ---
 
 ## 2019
+
+### Выкрикивается лот 49
+Томас Пинчон
+> [2019-05] 
+
 
 ### Щегол
 Донна Тартт

@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>699</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>60</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>32</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>61</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>164</sup> 
 [En](users/333/333646551-vkontakte)<sup>64</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>698</sup> 
 [Bafnita](users/142/1428344393-facebook)<sup>0</sup> 
 [denisstrekitcyn](users/226/226617025-vkontakte)<sup>1</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>75</sup> 
 
 
-_12.05.2019 18:42:29_
+_13.05.2019 04:48:50_
