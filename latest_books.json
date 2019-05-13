@@ -1,4 +1,16 @@
 {
+    "YJyzapkKmz": {
+        "id": "YJyzapkKmz",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2019-05-13 23:14:21",
+        "user": {
+            "id": "114792281744850455512-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "2oKYmRqT9S": {
         "id": "2oKYmRqT9S",
         "title": "Дети Хурина",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 104
-        }
-    },
-    "H0G2Mxf8uE": {
-        "id": "H0G2Mxf8uE",
-        "title": "Проект \"Рози\"",
-        "author": "Грэм Симсион",
-        "notes": "",
-        "createdAt": "2019-05-08 19:23:40",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 21
         }
     }
 }
