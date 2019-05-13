@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Alla](users/103/103352250712959229257-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>178</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>699</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>60</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>183</sup> 
 [ajluc](users/880/88086807-vkontakte)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>43</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>75</sup> 
 
 
-_13.05.2019 09:35:13_
+_13.05.2019 18:37:08_
