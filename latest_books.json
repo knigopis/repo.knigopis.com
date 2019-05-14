@@ -1,4 +1,16 @@
 {
+    "4LCX-oOzJK": {
+        "id": "4LCX-oOzJK",
+        "title": "Долгая дорога",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2019-05-14 22:27:04",
+        "user": {
+            "id": "111038749-vkontakte",
+            "nickname": "Людка",
+            "booksCount": 2
+        }
+    },
     "9Ubyc56uFB": {
         "id": "9Ubyc56uFB",
         "title": "Шантарам",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 59
-        }
-    },
-    "11hkw0zYqN": {
-        "id": "11hkw0zYqN",
-        "title": "О всех созданиях – больших и малых",
-        "author": "Хэрриот, Джеймс",
-        "notes": "Воспоминания ветеринара о начале его практики в 30х годах ХХ века. Познавательно, забавно, местами грустно.",
-        "createdAt": "2019-05-09 16:01:35",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 218
         }
     }
 }
