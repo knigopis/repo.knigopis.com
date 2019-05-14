@@ -1,4 +1,16 @@
 {
+    "Uk4N-npDUm": {
+        "id": "Uk4N-npDUm",
+        "title": "Крещение огнем",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2019-05-14 22:34:01",
+        "user": {
+            "id": "111038749-vkontakte",
+            "nickname": "Людка",
+            "booksCount": 8
+        }
+    },
     "CGLad10Bte": {
         "id": "CGLad10Bte",
         "title": "Час презрения",
@@ -345,18 +357,6 @@
             "id": "236639644-vkontakte",
             "nickname": "blackwolf ",
             "booksCount": 5
-        }
-    },
-    "NFauP_88pV": {
-        "id": "NFauP_88pV",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2019-05-10 00:16:56",
-        "user": {
-            "id": "236639644-vkontakte",
-            "nickname": "blackwolf ",
-            "booksCount": 4
         }
     }
 }
