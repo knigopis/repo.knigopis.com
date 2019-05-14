@@ -1,4 +1,16 @@
 {
+    "CGLad10Bte": {
+        "id": "CGLad10Bte",
+        "title": "Час презрения",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2019-05-14 22:33:03",
+        "user": {
+            "id": "111038749-vkontakte",
+            "nickname": "Людка",
+            "booksCount": 7
+        }
+    },
     "hwKJnDArFt": {
         "id": "hwKJnDArFt",
         "title": "Кровь эльфов",
@@ -345,18 +357,6 @@
             "id": "236639644-vkontakte",
             "nickname": "blackwolf ",
             "booksCount": 4
-        }
-    },
-    "NLk2shPjE0": {
-        "id": "NLk2shPjE0",
-        "title": "Человек-невидимка",
-        "author": "Герберт Джордж",
-        "notes": "",
-        "createdAt": "2019-05-10 00:16:12",
-        "user": {
-            "id": "236639644-vkontakte",
-            "nickname": "blackwolf ",
-            "booksCount": 3
         }
     }
 }
