@@ -1,4 +1,16 @@
 {
+    "9Ubyc56uFB": {
+        "id": "9Ubyc56uFB",
+        "title": "Шантарам",
+        "author": "Грегори Д. Робертс",
+        "notes": "",
+        "createdAt": "2019-05-14 22:24:43",
+        "user": {
+            "id": "111038749-vkontakte",
+            "nickname": "Людка",
+            "booksCount": 1
+        }
+    },
     "YJyzapkKmz": {
         "id": "YJyzapkKmz",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 218
-        }
-    },
-    "xt-muG0kMx": {
-        "id": "xt-muG0kMx",
-        "title": "Тобол. Мало избранных",
-        "author": "Иванов Алексей",
-        "notes": "ISBN: 978-5-17-982684-2",
-        "createdAt": "2019-05-09 05:50:03",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 104
         }
     }
 }
