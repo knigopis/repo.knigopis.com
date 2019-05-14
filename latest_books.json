@@ -1,4 +1,16 @@
 {
+    "hwKJnDArFt": {
+        "id": "hwKJnDArFt",
+        "title": "Кровь эльфов",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2019-05-14 22:32:42",
+        "user": {
+            "id": "111038749-vkontakte",
+            "nickname": "Людка",
+            "booksCount": 6
+        }
+    },
     "Nvpi3FJZCs": {
         "id": "Nvpi3FJZCs",
         "title": "Мечта предназначения",
@@ -345,18 +357,6 @@
             "id": "236639644-vkontakte",
             "nickname": "blackwolf ",
             "booksCount": 3
-        }
-    },
-    "6F4kDzBI9S": {
-        "id": "6F4kDzBI9S",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2019-05-10 00:15:18",
-        "user": {
-            "id": "236639644-vkontakte",
-            "nickname": "blackwolf ",
-            "booksCount": 2
         }
     }
 }
