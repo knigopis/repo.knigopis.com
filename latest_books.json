@@ -1,4 +1,16 @@
 {
+    "SC039mBMuO": {
+        "id": "SC039mBMuO",
+        "title": "Последнее желание",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2019-05-14 22:30:45",
+        "user": {
+            "id": "111038749-vkontakte",
+            "nickname": "Людка",
+            "booksCount": 4
+        }
+    },
     "bROYP2bLRF": {
         "id": "bROYP2bLRF",
         "title": "Как разговаривать с кем угодно, когда угодно, где угодно",
@@ -345,18 +357,6 @@
             "id": "236639644-vkontakte",
             "nickname": "blackwolf ",
             "booksCount": 1
-        }
-    },
-    "JoR20DllZA": {
-        "id": "JoR20DllZA",
-        "title": "L'homme qui regardait passer les trains",
-        "author": "Georges Simenon",
-        "notes": "Мне понравилось как удивительным образом описана психология сумасшедшего убийцы.",
-        "createdAt": "2019-05-09 19:32:29",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 60
         }
     }
 }
