@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Затворник и Шестипалый ~ [Quaff](users/122/12267158-vkontakte)<sup>35</sup>
+    > оригинально представленная история о побеге из курятника (очеловечено)
+
 * Омон Ра ~ [Quaff](users/122/12267158-vkontakte)<sup>34</sup>
     > утрированная картина обратной стороны ссср
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > интересная история про оборотней в москве
 
 * Brotherhood of Warriors: Behind Enemy Lines with a Commando in One of the World's Most Elite Counterterrorism Units ~ [exulted](users/100/100599204551896265722-google)<sup>105</sup>
-    > ASIN: B0017ZMYZG
 
 * Если бы она знала ~ [kissamasya](users/684/68439978-vkontakte)<sup>60</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Игра Ангела ~ [anvonamore](users/595/5957175-vkontakte)<sup>123</sup>
 
-* L'homme qui regardait passer les trains ~ [violet_velva](users/116/116961712580551399099-google)<sup>60</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>34</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>35</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>105</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>165</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>57</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 
 
-_15.05.2019 21:08:57_
+_15.05.2019 21:12:14_
