@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Священная книга оборотня ~ [Quaff](users/122/12267158-vkontakte)<sup>33</sup>
+    > интересная история про оборотней в москве
+
 * Brotherhood of Warriors: Behind Enemy Lines with a Commando in One of the World's Most Elite Counterterrorism Units ~ [exulted](users/100/100599204551896265722-google)<sup>105</sup>
     > ASIN: B0017ZMYZG
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Отправившись на поиски убийцы, Кейт оказывается в первых рядах большого расследования, потому что появляются новые жертвы – счастливые мамы и жёны, жительницы пригорода, – и становится ясно, что тихий городок оказался во власти серийного убийцы. Она узнаёт тайны и секреты соседей, которые предпочла бы не знать, осознавая, что жизнь идеальных улочек и красивых районов вовсе
 
 * t ~ [Quaff](users/122/12267158-vkontakte)<sup>32</sup>
-    > Хаос мысли между писателем, главным героем и автором
 
 * Числа ~ [Quaff](users/122/12267158-vkontakte)<sup>31</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * О всех созданиях – больших и малых ~ [Garka](users/115/115753719718250012620-google)<sup>218</sup>
 
-* Тобол. Мало избранных ~ [exulted](users/100/100599204551896265722-google)<sup>104</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>33</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>105</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>165</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>57</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>178</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>699</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>60</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>32</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>61</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>118</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>123</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 
 
-_15.05.2019 19:29:11_
+_15.05.2019 21:06:50_
