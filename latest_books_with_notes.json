@@ -1,4 +1,16 @@
 {
+    "KEc8VaGnoO": {
+        "id": "KEc8VaGnoO",
+        "title": "Омон Ра",
+        "author": "Виктор Пелевин",
+        "notes": "утрированная картина обратной стороны ссср",
+        "createdAt": "2019-05-15 21:08:57",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 34
+        }
+    },
     "uff1Z5tSp0": {
         "id": "uff1Z5tSp0",
         "title": "Священная книга оборотня",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 55
-        }
-    },
-    "CNy0lITMjY": {
-        "id": "CNy0lITMjY",
-        "title": "Империализм как высшая стадия развития капитализма",
-        "author": "Владимир Ленин",
-        "notes": "Супер актуальный труд, ставящий все на свои места. Немного погодя прочту ещё раз.",
-        "createdAt": "2019-04-27 02:36:34",
-        "user": {
-            "id": "83820536-yandex",
-            "nickname": "lucius",
-            "booksCount": 149
         }
     }
 }
