@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>165</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>57</sup> 
 [Людка](users/111/111038749-vkontakte)<sup>11</sup> 
 [](users/114/114792281744850455512-google)<sup>1</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>98</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup> 
 [regnabo](users/870/870059322-yandex)<sup>29</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>164</sup> 
 [En](users/333/333646551-vkontakte)<sup>64</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 [Bafnita](users/142/1428344393-facebook)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 
 
-_15.05.2019 06:19:56_
+_15.05.2019 11:17:14_

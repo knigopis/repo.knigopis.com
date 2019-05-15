@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 165,
+        "updatedAt": "2019-05-15 11:17:14"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -142,12 +148,6 @@
         "nickname": "regnabo",
         "booksCount": 29,
         "updatedAt": "2019-05-07 11:50:06"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 164,
-        "updatedAt": "2019-05-07 08:53:28"
     },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
