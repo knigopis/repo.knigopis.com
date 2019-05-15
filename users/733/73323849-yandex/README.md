@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>56</sup>
+# List of books read by inna.besprozvannykh<sup>57</sup>
 ---
 
 ## 2019
+
+### Сердца трёх
+Джек Лондон
+> [2019-05-14] 8
+
 
 ### Большая маленькая ложь
 Лиана Мориарти
