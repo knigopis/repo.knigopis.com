@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Brotherhood of Warriors: Behind Enemy Lines with a Commando in One of the World's Most Elite Counterterrorism Units ~ [exulted](users/100/100599204551896265722-google)<sup>105</sup>
 * Если бы она знала ~ [kissamasya](users/684/68439978-vkontakte)<sup>60</sup>
 * t ~ [Quaff](users/122/12267158-vkontakte)<sup>32</sup>
 * Числа ~ [Quaff](users/122/12267158-vkontakte)<sup>31</sup>
@@ -30,7 +31,6 @@
 * Герои племён ~ [kissamasya](users/684/68439978-vkontakte)<sup>55</sup>
 * Империализм как высшая стадия развития капитализма ~ [lucius](users/838/83820536-yandex)<sup>149</sup>
 * Колыбель для кошки (Cat's Cradle) ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>5</sup>
-* КАРТА ДНЕЙ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>74</sup>
 
 
-_12.05.2019 18:42:29_
+_15.05.2019 19:29:11_

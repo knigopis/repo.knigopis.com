@@ -1,4 +1,16 @@
 {
+    "LUOcJTca4b": {
+        "id": "LUOcJTca4b",
+        "title": "Brotherhood of Warriors: Behind Enemy Lines with a Commando in One of the World's Most Elite Counterterrorism Units",
+        "author": "Aaron Cohen",
+        "notes": "ASIN: B0017ZMYZG",
+        "createdAt": "2019-05-15 19:29:11",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 105
+        }
+    },
     "PWLbgIh4EP": {
         "id": "PWLbgIh4EP",
         "title": "Гарри Поттер и узник Азкабана",
@@ -345,18 +357,6 @@
             "id": "236639644-vkontakte",
             "nickname": "blackwolf ",
             "booksCount": 11
-        }
-    },
-    "2fQgAy4vMt": {
-        "id": "2fQgAy4vMt",
-        "title": "Таинственная история Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2019-05-10 00:23:41",
-        "user": {
-            "id": "236639644-vkontakte",
-            "nickname": "blackwolf ",
-            "booksCount": 10
         }
     }
 }

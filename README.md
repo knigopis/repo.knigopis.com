@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Brotherhood of Warriors: Behind Enemy Lines with a Commando in One of the World's Most Elite Counterterrorism Units ~ [exulted](users/100/100599204551896265722-google)<sup>105</sup>
+    > ASIN: B0017ZMYZG
+
 * Если бы она знала ~ [kissamasya](users/684/68439978-vkontakte)<sup>60</sup>
     > Ей 55, её дети давно выросли и разъехались, к тому же она сама недавно вышла на пенсию после службы в ФБР, но спокойная жизнь в тихом пригороде заканчивается для Кейт Уайз тогда, когда дочь её подруги убивают в собственном доме, а её саму умоляют помочь с расследованием.
     > Кейт казалось, что после 30 лет успешной службы агентом она навсегда оставила ФБР, где её уважали за острый ум, навыки выживания в суровых условиях городских улиц и уникальную способность выслеживать серийных убийц. Уставшая от тихого города и оказавшаяся на жизненном перепутье, Кейт не может отказать подруге в её просьбе.
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Хаос мысли между писателем, главным героем и автором
 
 * Числа ~ [Quaff](users/122/12267158-vkontakte)<sup>31</sup>
-    > Интересное предположение о методах устройства личной жизни успешных советских предпринимателей
 
 * Гордость и предубеждение ~ [Quaff](users/122/12267158-vkontakte)<sup>30</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Тобол. Мало избранных ~ [exulted](users/100/100599204551896265722-google)<sup>104</sup>
 
-* Сеть Нанотех ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>105</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>165</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>57</sup> 
 [Людка](users/111/111038749-vkontakte)<sup>11</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [blackwolf ](users/236/236639644-vkontakte)<sup>11</sup> 
 [theponycoder](users/195/195144442-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>218</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>104</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>21</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>6</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>98</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 
 
-_15.05.2019 11:17:14_
+_15.05.2019 19:29:11_

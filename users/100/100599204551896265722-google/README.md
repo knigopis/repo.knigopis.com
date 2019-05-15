@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>104</sup>
+# Список прочитанных книг пользователя exulted<sup>105</sup>
 ---
 
 ## 2019
+
+### Brotherhood of Warriors: Behind Enemy Lines with a Commando in One of the World's Most Elite Counterterrorism Units
+Aaron Cohen
+> [2019-05-15] ASIN: B0017ZMYZG
+
 
 ### Тобол. Мало избранных
 Иванов Алексей

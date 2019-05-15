@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 105,
+        "updatedAt": "2019-05-15 19:29:11"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -112,12 +118,6 @@
         "nickname": "Garka",
         "booksCount": 218,
         "updatedAt": "2019-05-09 16:01:35"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 104,
-        "updatedAt": "2019-05-09 05:50:03"
     },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
