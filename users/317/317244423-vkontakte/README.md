@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>321</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>322</sup>
 ---
 
 ## 2019
@@ -1355,6 +1355,11 @@ Hayla
 ### Кёнсу и "Розовый цвет любви"
 Artemi
 > [2016-09-22] Фанфик
+
+
+### Завтра будет завтра
+somewhere at sea
+> [2016-09-21] Фанфик
 
 
 ### I аm your girlman

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Завтра будет завтра ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>322</sup>
 * Shatter ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>321</sup>
 * Кёнсу и "Розовый цвет любви" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>320</sup>
 * of puppies, little sisters and 'a happy new year' ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>319</sup>
@@ -30,7 +31,6 @@
 * Впусти меня и я разрушу тебя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>295</sup>
 * Чилдрен-сюрприз! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>294</sup>
 * "Шесть" - это не цифра! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>293</sup>
-* Ролевая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>292</sup>
 
 
-_16.05.2019 15:46:41_
+_16.05.2019 15:47:09_
