@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>282</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>283</sup>
 ---
 
 ## 2019
@@ -1196,6 +1196,11 @@ WhiteBloodOfGod
 ### Фрэнк - "на удачу". Франк - "на счастье"
 Shinas smile
 > [2016-11-08] Фанфик
+
+
+### Только мой Бэкки
+Yi_Fan_Yi_Xing
+> [2016-11-03] Фанфик
 
 
 ### The Outsider

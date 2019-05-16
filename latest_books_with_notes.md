@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Только мой Бэкки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>283</sup>
 * fifth century: Digamma. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>282</sup>
 * Фрэнк - "на удачу". Франк - "на счастье" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>281</sup>
 * Загадки Отдела Тайн ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>280</sup>
@@ -30,7 +31,6 @@
 * Русские не сдаются ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>256</sup>
 * Русские - 2 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>255</sup>
 * thirsty souls. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>254</sup>
-* И пришел день... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>253</sup>
 
 
-_16.05.2019 15:20:05_
+_16.05.2019 15:20:33_
