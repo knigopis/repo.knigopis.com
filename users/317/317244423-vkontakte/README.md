@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>129</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>130</sup>
 ---
 
 ## 2019
@@ -429,6 +429,11 @@ Chibi Sanmin
 ### Могущество и слабость.
 Сергей_Старец_Батик
 > [2018-08-24] Фанфик
+
+
+### Тихая сказка
+_finch_
+> [2018-08-22] Фанфик
 
 
 ### Гордость и предубеждение

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тихая сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>130</sup>
 * Могущество и слабость. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>129</sup>
 * Молчи громче ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>128</sup>
 * "Дыра" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>127</sup>
@@ -30,7 +31,6 @@
 * Up to the house ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>103</sup>
 * Природа вейлы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>102</sup>
 * Дорогущий ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>101</sup>
-* Шаги в тумане ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>100</sup>
 
 
-_16.05.2019 12:40:51_
+_16.05.2019 12:41:14_
