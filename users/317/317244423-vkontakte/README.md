@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>172</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>173</sup>
 ---
 
 ## 2019
@@ -46,6 +46,11 @@ Kefalion
 ### Иллюзия правды
 СкальдЪ
 > [2019-04-09] Фанфик
+
+
+### Растяпа
+zhanna_12_09
+> [2019-04-08] Фанфик
 
 
 ### Sowilo

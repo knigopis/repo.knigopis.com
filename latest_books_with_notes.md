@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Растяпа ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>173</sup>
 * И смерть лишь начало ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>172</sup>
 * Иллюзия правды ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>171</sup>
 * Неслучайные случайности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>170</sup>
@@ -30,7 +31,6 @@
 * My baby boy. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>146</sup>
 * Дикий ветер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>145</sup>
 * Lights will guide you home 131 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>144</sup>
-* not such as all. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>143</sup>
 
 
-_16.05.2019 14:11:18_
+_16.05.2019 14:11:50_
