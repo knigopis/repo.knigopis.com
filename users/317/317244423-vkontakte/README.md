@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>430</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>432</sup>
 ---
 
 ## 2019
@@ -1905,6 +1905,16 @@ callmezombie
 ### Artificial Universe
 perfect.velvet
 > [2016-05-22] Фанфик
+
+
+### Поттер в моей голове
+Редкая Прелесть
+> [2016-05-21] Фанфик
+
+
+### "Second chance"
+Slizerinka
+> [2016-05-21] Фанфик
 
 
 ### Проснись со мной

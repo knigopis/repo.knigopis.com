@@ -1,6 +1,8 @@
 # List of the latest books with notes
 ---
 
+* Поттер в моей голове ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>432</sup>
+* "Second chance" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>431</sup>
 * Проснись со мной ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>430</sup>
 * Гарри Поттер и Трудности преподавания ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>429</sup>
 * Artificial Universe ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>428</sup>
@@ -29,8 +31,6 @@
 * Домашний арест ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>405</sup>
 * Я влюблён в своего учителя математики ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>404</sup>
 * Черно-белый фактор ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>403</sup>
-* Спасибо за снег! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>402</sup>
-* game starts ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>401</sup>
 
 
-_16.05.2019 18:22:10_
+_16.05.2019 18:23:46_
