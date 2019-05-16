@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>286</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>287</sup>
 ---
 
 ## 2019
@@ -1221,6 +1221,11 @@ leaderkyuzizi
 ### МЯТЕЖНЫЕ ДУШИ
 Кира Ким
 > [2016-10-03] Фанфик
+
+
+### Ангел с дефектами
+Little E.L.F.
+> [2016-07-12] Фанфик
 
 
 ### Предыстория

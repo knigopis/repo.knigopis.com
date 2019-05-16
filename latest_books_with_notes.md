@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ангел с дефектами ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>287</sup>
 * МЯТЕЖНЫЕ ДУШИ ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>286</sup>
 * I'm (not a) monster ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>285</sup>
 * Serenata Immortale II. Lucifer's angel. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>284</sup>
@@ -30,7 +31,6 @@
 * Няня для Гарри Поттера, или план Дамблдора №394 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>260</sup>
 * I'm preying on you. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>259</sup>
 * Неожиданная история. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>258</sup>
-* Александр Н. и месть волшебного мира ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>257</sup>
 
 
-_16.05.2019 15:22:33_
+_16.05.2019 15:23:10_
