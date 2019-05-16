@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>208</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>209</sup>
 ---
 
 ## 2019
@@ -271,6 +271,11 @@ Nelly Colst
 ### Во что ты верил, Драко Малфой?
 Star Spall
 > [2019-01-14] Фанфик
+
+
+### История седьмая. Гермиона Грейнджер и Дар Жизни
+Hoshi_Murasaki
+> [2019-01-11] Фанфик
 
 
 ### Рождение чуда

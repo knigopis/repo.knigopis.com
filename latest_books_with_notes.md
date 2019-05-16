@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* История седьмая. Гермиона Грейнджер и Дар Жизни ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>209</sup>
 * Рождение чуда ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>208</sup>
 * Хозяйка Принц-мэнора ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>207</sup>
 * Бюро находок ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>206</sup>
@@ -30,7 +31,6 @@
 * Я найду тебя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>182</sup>
 * Тату салон «Чёрная лилия» ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>181</sup>
 * Заполучить во что бы то ни стало ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>180</sup>
-* The truth is... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>179</sup>
 
 
-_16.05.2019 14:31:00_
+_16.05.2019 14:31:19_
