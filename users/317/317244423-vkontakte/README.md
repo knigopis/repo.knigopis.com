@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>408</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>409</sup>
 ---
 
 ## 2019
@@ -1790,6 +1790,11 @@ Bell Ell
 ### Домашний арест
 Su.мрак
 > [2016-06-14] Фанфик
+
+
+### Иди ко мне, глупый
+OhhhYeah
+> [2016-06-13] Фанфик
 
 
 ### Byun Baekhyun decides to die.

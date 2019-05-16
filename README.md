@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Иди ко мне, глупый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>409</sup>
+    > Фанфик
+
 * Byun Baekhyun decides to die. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>408</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Как стать фамилиаром ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>406</sup>
-    > Фанфик
 
 * Домашний арест ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>405</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Выше нас только небо ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>400</sup>
 
-* В полночь принцесса превращается в... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>399</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>408</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>409</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 18:05:18_
+_16.05.2019 18:05:37_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Иди ко мне, глупый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>409</sup>
 * Byun Baekhyun decides to die. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>408</sup>
 * Съешь меня ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>407</sup>
 * Как стать фамилиаром ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>406</sup>
@@ -30,7 +31,6 @@
 * Доктор До и мистер Никто ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>382</sup>
 * Грааль ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>381</sup>
 * Младший брат ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>380</sup>
-* Оборотная сторона бессмертия ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>379</sup>
 
 
-_16.05.2019 18:05:18_
+_16.05.2019 18:05:37_
