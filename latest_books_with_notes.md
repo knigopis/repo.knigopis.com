@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Последняя из рода Блэк ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>160</sup>
 * Другая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>159</sup>
 * Гарри Поттер и Разговоры о Пчелках ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>158</sup>
 * Аромат лимонной мяты. Книга первая. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>157</sup>
@@ -30,7 +31,6 @@
 * Почему не стоит злить Гарри Поттера... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>133</sup>
 * Долгая дорога к тебе ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>132</sup>
 * В ловушке времени ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>131</sup>
-* Тихая сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>130</sup>
 
 
-_16.05.2019 14:03:00_
+_16.05.2019 14:03:25_

@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>159</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>160</sup>
 ---
 
 ## 2019
@@ -579,6 +579,11 @@ WhiteBloodOfGod
 ### Гарри Поттер и Разговоры о Пчелках
 Vivian Veini
 > [2018-06-06] Фанфик
+
+
+### Последняя из рода Блэк
+Anastay
+> [2018-05-29] Фанфик
 
 
 ### Гордость и предубеждение
