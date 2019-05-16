@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Vampire Heart ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>192</sup>
 * Оголодавший ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>191</sup>
 * Наследник Блэков ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>190</sup>
 * Поймай этот долбаный снитч, если сможешь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>189</sup>
@@ -30,7 +31,6 @@
 * Не желаете сменить фамилию? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>164</sup>
 *  ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>163</sup>
 * Чужая тень ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>162</sup>
-* Поздно для любви. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>161</sup>
 
 
-_16.05.2019 14:22:29_
+_16.05.2019 14:22:50_
