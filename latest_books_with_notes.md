@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Драко Малфой и Тайная комната ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>55</sup>
 * Sowilo ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>54</sup>
 * Of Wizards and Heroes ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>53</sup>
 * Гарри, Драко и Кубок Огня ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>52</sup>
@@ -30,7 +31,6 @@
 * Сестра Керри ~ [regnabo](users/870/870059322-yandex)<sup>29</sup>
 * Неприятная профессия Джонатана Хога ~ [En](users/333/333646551-vkontakte)<sup>64</sup>
 * В клетке со зверем ~ [kissamasya](users/684/68439978-vkontakte)<sup>58</sup>
-* Множественные умы Билли Миллигана ~ [regnabo](users/870/870059322-yandex)<sup>28</sup>
 
 
-_16.05.2019 11:50:12_
+_16.05.2019 11:50:54_
