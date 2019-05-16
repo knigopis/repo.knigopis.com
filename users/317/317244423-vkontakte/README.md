@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>73</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>74</sup>
 ---
 
 ## 2019
@@ -131,6 +131,11 @@ MissK
 ### Кисэн
 DOD.O
 > [2019-02-22] Фанфик
+
+
+### 23
+just B.
+> [2019-02-21] Фанфик
 
 
 ### Endlessly, He Said
