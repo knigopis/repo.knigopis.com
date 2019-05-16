@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 3 поцелуя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>137</sup>
 * О ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>136</sup>
 * sugarless. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>135</sup>
 * Я научу вас стоять на коленях! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>134</sup>
@@ -30,7 +31,6 @@
 * Шедевр ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>110</sup>
 * Ripples ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>109</sup>
 * Мозгошмыгнутый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>108</sup>
-* Тихий омут круглых очков ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>107</sup>
 
 
-_16.05.2019 12:44:07_
+_16.05.2019 12:44:28_
