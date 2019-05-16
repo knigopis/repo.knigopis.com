@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Не хочу, не могу, не буду! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>251</sup>
+    > Фанфик
+
 * Academy of Roses ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>250</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Это не я, это не он (от 18) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>248</sup>
-    > Фанфик
 
 * Не пиши "the end" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>248</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * отвратительно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>242</sup>
 
-* Человек ждал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>241</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>250</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>251</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:57:46_
+_16.05.2019 14:58:19_
