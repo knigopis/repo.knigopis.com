@@ -1,4 +1,16 @@
 {
+    "8rWa2hcjxw": {
+        "id": "8rWa2hcjxw",
+        "title": "Вернуть тебя.",
+        "author": "Вернуть тебя.",
+        "notes": "Фанфик",
+        "createdAt": "2019-05-16 12:04:46",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 75
+        }
+    },
     "YhxGMcp9TT": {
         "id": "YhxGMcp9TT",
         "title": "23",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 46
-        }
-    },
-    "tlnMXslAti": {
-        "id": "tlnMXslAti",
-        "title": "Затворник и Шестипалый",
-        "author": "Виктор Пелевин",
-        "notes": "оригинально представленная история о побеге из курятника (очеловечено)",
-        "createdAt": "2019-05-15 21:12:14",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 35
         }
     }
 }
