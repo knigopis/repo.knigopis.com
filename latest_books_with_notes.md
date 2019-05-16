@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Unkissed Kisses and Songs Never Sung ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>331</sup>
 * Он хотел... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>330</sup>
 * Articulo mortis ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>329</sup>
 * "Оранжевый и серый" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>328</sup>
@@ -30,7 +31,6 @@
 * Ёжик и Крош ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>304</sup>
 * Голубой кролик ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>303</sup>
 * «Багдад - Лондон: Совершенно секретно» ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>302</sup>
-* Мой альфа' ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>301</sup>
 
 
-_16.05.2019 16:56:11_
+_16.05.2019 16:56:48_
