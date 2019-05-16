@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Неожиданная история. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>258</sup>
 * Александр Н. и месть волшебного мира ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>257</sup>
 * Русские не сдаются ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>256</sup>
 * Русские - 2 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>255</sup>
@@ -30,7 +31,6 @@
 * NRX ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>231</sup>
 * (Не)обретенное ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>230</sup>
 * the kids aren't alright ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>229</sup>
-* как разбить сердце Уилла Байерса ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>228</sup>
 
 
-_16.05.2019 15:01:01_
+_16.05.2019 15:01:26_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Неожиданная история. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>258</sup>
+    > Фанфик
+
 * Александр Н. и месть волшебного мира ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>257</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Русские - 2 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>255</sup>
-    > Фанфик
 
 * thirsty souls. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>254</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Жених из Ада ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>249</sup>
 
-* Это не я, это не он (от 18) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>248</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>257</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>258</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 15:01:01_
+_16.05.2019 15:01:26_

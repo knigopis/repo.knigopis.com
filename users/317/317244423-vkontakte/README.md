@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>257</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>258</sup>
 ---
 
 ## 2019
@@ -1068,6 +1068,11 @@ Leka-splushka
 ### Александр Н. и месть волшебного мира
 Jero3000
 > [2017-07-04] Фанфик
+
+
+### Неожиданная история.
+SeaFox
+> [2017-07-02] Фанфик
 
 
 
