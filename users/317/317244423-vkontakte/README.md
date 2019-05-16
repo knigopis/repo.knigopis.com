@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>125</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>126</sup>
 ---
 
 ## 2019
@@ -409,6 +409,11 @@ kuzzjoma
 ### Боец
 Сехмет
 > [2018-09-22] Фанфик
+
+
+### Мне нужна моя омега.
+Эвика
+> [2018-09-21] Фанфик
 
 
 ### Гордость и предубеждение
