@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* A Slytherin in Gryffindor Clothing ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>121</sup>
+    > Фанфик
+
 * Неко ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>120</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * В борьбе обретёшь ты... (часть 1) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>118</sup>
-    > Фанфик
 
 * В борьбе обретёшь ты... (часть 2) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>117</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Angels and Devils ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>112</sup>
 
-* Шелест прошлого ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>111</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>120</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>121</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>35</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 12:34:11_
+_16.05.2019 12:36:05_

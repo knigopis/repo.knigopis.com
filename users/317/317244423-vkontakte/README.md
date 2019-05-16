@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>120</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>121</sup>
 ---
 
 ## 2019
@@ -384,6 +384,11 @@ iolka
 ### Неко
 Риель
 > [2018-09-30] Фанфик
+
+
+### A Slytherin in Gryffindor Clothing
+mahaliem
+> [2018-09-29] Фанфик
 
 
 ### Гордость и предубеждение

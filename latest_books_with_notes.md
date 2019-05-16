@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* A Slytherin in Gryffindor Clothing ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>121</sup>
 * Неко ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>120</sup>
 * Русал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>119</sup>
 * В борьбе обретёшь ты... (часть 1) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>118</sup>
@@ -30,7 +31,6 @@
 * I hate sober ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>94</sup>
 * Особые потребности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>93</sup>
 * Я тебя понимаю ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>92</sup>
-* Кошки-мышки. Поиграем? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>91</sup>
 
 
-_16.05.2019 12:34:11_
+_16.05.2019 12:36:05_
