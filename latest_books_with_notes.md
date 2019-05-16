@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* День п*****а ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>305</sup>
 * Ёжик и Крош ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>304</sup>
 * Голубой кролик ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>303</sup>
 * «Багдад - Лондон: Совершенно секретно» ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>302</sup>
@@ -30,7 +31,6 @@
 * Все любят пудинг ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>278</sup>
 * Самые прекрасные цветы растут из грязи ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>277</sup>
 * alpha x2. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>276</sup>
-* Неповторимый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>275</sup>
 
 
-_16.05.2019 15:33:19_
+_16.05.2019 15:34:18_

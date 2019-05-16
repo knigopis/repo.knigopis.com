@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>304</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>305</sup>
 ---
 
 ## 2019
@@ -1275,6 +1275,11 @@ Madr57
 ### МЯТЕЖНЫЕ ДУШИ
 Кира Ким
 > [2016-10-03] Фанфик
+
+
+### День п*****а
+Artemi
+> [2016-09-30] Фанфик
 
 
 ### Ангел с дефектами
