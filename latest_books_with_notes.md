@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* У ревности твои глаза ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>359</sup>
 * Ночь под ивой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>358</sup>
 * Русалочка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>357</sup>
 * Где ты будешь спать завтра? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>356</sup>
@@ -30,7 +31,6 @@
 * Доказательство любви ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>332</sup>
 * Unkissed Kisses and Songs Never Sung ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>331</sup>
 * Он хотел... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>330</sup>
-* Articulo mortis ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>329</sup>
 
 
-_16.05.2019 17:29:47_
+_16.05.2019 17:30:10_
