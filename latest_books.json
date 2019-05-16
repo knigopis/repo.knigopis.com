@@ -1,4 +1,16 @@
 {
+    "6BVxe3UlB1": {
+        "id": "6BVxe3UlB1",
+        "title": "Как все это было. Измененная версия.",
+        "author": "Himerus",
+        "notes": "Фанфик",
+        "createdAt": "2019-05-16 17:22:21",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 350
+        }
+    },
     "4tJ5oYVAMc": {
         "id": "4tJ5oYVAMc",
         "title": "Личный артефакт Гарри Поттера",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 321
-        }
-    },
-    "-CLLU_4MUX": {
-        "id": "-CLLU_4MUX",
-        "title": "Кёнсу и \"Розовый цвет любви\"",
-        "author": "Artemi",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 15:44:58",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 320
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как все это было. Измененная версия. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>350</sup>
 * Личный артефакт Гарри Поттера ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>349</sup>
 * Все имеет свою цену, или принц для Гарри ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>348</sup>
 * Мандаринки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>347</sup>
@@ -30,7 +31,6 @@
 * Сердце дракона ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>323</sup>
 * Завтра будет завтра ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>322</sup>
 * Shatter ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>321</sup>
-* Кёнсу и "Розовый цвет любви" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>320</sup>
 
 
-_16.05.2019 17:21:18_
+_16.05.2019 17:22:21_
