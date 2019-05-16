@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Яма на троих ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>217</sup>
 * Поттер, одолжи фамилию? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>216</sup>
 * Oppa's Not My Style ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>215</sup>
 * Лето на двоих ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>214</sup>
@@ -30,7 +31,6 @@
 * Наследник Блэков ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>190</sup>
 * Поймай этот долбаный снитч, если сможешь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>189</sup>
 * Вкус чужой крови ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>188</sup>
-* Ты пахнешь мятой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>187</sup>
 
 
-_16.05.2019 14:36:33_
+_16.05.2019 14:37:04_

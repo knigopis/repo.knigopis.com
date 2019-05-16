@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>216</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>217</sup>
 ---
 
 ## 2019
@@ -868,6 +868,11 @@ Babbler
 ### Oppa's Not My Style
 Vampyreunnie
 > [2017-12-06] Фанфик
+
+
+### Яма на троих
+tuuli-veter
+> [2017-12-04] Фанфик
 
 
 

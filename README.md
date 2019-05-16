@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Яма на троих ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>217</sup>
+    > Фанфик
+
 * Поттер, одолжи фамилию? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>216</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Лето на двоих ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>214</sup>
-    > Фанфик
 
 * История первая. Гермиона Грейнджер и Техника безопасности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>213</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Рождение чуда ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>208</sup>
 
-* Хозяйка Принц-мэнора ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>207</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>216</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>217</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:36:33_
+_16.05.2019 14:37:04_
