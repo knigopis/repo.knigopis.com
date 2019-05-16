@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Проблемы перевода ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>444</sup>
+    > Фанфик
+
 * Гарри Поттер... Хакер? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>443</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Драко Малфой: Любовь по Кодексу ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>441</sup>
-    > Фанфик
 
 * Назад в прошлое ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>440</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * В полшаге... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>435</sup>
 
-* Время расплаты ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>434</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>443</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>444</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 18:31:10_
+_16.05.2019 18:31:37_
