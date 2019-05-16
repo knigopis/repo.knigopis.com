@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>423</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>424</sup>
 ---
 
 ## 2019
@@ -1875,6 +1875,11 @@ chaos-
 ### runway freaks
 Park_Noodle
 > [2016-05-28] Фанфик
+
+
+### Поцелуйные губы
+Tuono
+> [2016-05-27] Фанфик
 
 
 ### Предыстория

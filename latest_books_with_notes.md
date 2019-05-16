@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Поцелуйные губы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>424</sup>
 * runway freaks ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>423</sup>
 * Единственная тайна ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>422</sup>
 * Полюбить лучшего друга ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>421</sup>
@@ -30,7 +31,6 @@
 * Double fake ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>397</sup>
 * Это он! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>396</sup>
 * Здесь солнца не видно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>395</sup>
-* С чистого листа. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>394</sup>
 
 
-_16.05.2019 18:17:25_
+_16.05.2019 18:18:27_
