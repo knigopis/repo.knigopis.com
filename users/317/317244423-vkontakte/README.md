@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>94</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>95</sup>
 ---
 
 ## 2019
@@ -251,6 +251,11 @@ Eleeniyara
 ### I hate sober
 Nelly Colst
 > [2019-01-25] Фанфик
+
+
+### Добрая сказка на ночь
+Каури-4
+> [2019-01-18] Фанфик
 
 
 
