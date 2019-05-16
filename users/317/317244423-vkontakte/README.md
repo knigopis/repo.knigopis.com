@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>347</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>348</sup>
 ---
 
 ## 2019
@@ -1152,6 +1152,11 @@ Chibi Sanmin
 
 
 ## 2016
+
+### Все имеет свою цену, или принц для Гарри
+A. Jane
+> [2016-12-01] Фанфик
+
 
 ### Не пиши "the end"
 NZMar
