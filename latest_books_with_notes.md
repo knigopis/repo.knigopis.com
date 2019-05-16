@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ни капли царской крови ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>433</sup>
 * Поттер в моей голове ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>432</sup>
 * "Second chance" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>431</sup>
 * Проснись со мной ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>430</sup>
@@ -30,7 +31,6 @@
 * Как стать фамилиаром ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>406</sup>
 * Домашний арест ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>405</sup>
 * Я влюблён в своего учителя математики ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>404</sup>
-* Черно-белый фактор ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>403</sup>
 
 
-_16.05.2019 18:23:46_
+_16.05.2019 18:24:08_

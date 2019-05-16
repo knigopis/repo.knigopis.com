@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ни капли царской крови ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>433</sup>
+    > Фанфик
+
 * Поттер в моей голове ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>432</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Проснись со мной ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>430</sup>
-    > Фанфик
 
 * Гарри Поттер и Трудности преподавания ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>429</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Поцелуйные губы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>424</sup>
 
-* runway freaks ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>423</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>432</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>433</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 18:23:46_
+_16.05.2019 18:24:08_
