@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>213</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>214</sup>
 ---
 
 ## 2019
@@ -850,6 +850,14 @@ EXObubz
 
 ### Гордость и предубеждение
 Джейн Остин
+
+
+
+## 2017
+
+### Лето на двоих
+tuuli-veter
+> [2017-12-09] Фанфик
 
 
 
