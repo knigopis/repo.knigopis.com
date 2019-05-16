@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Подожди ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>185</sup>
 * makemedark.net ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>184</sup>
 * Журавлики ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>183</sup>
 * Я найду тебя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>182</sup>
@@ -30,7 +31,6 @@
 * Аромат лимонной мяты. Книга первая. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>157</sup>
 * Человек-хомяк ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>156</sup>
 * Леди Малфой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>155</sup>
-* И в горе, и в радости... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>154</sup>
 
 
-_16.05.2019 14:19:09_
+_16.05.2019 14:19:35_
