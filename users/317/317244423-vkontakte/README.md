@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>255</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>256</sup>
 ---
 
 ## 2019
@@ -1058,6 +1058,11 @@ Leka-splushka
 ### thirsty souls.
 herr.roysh
 > [2017-07-14] Фанфик
+
+
+### Русские не сдаются
+Leka-splushka
+> [2017-07-10] Фанфик
 
 
 

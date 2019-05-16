@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Русские не сдаются ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>256</sup>
 * Русские - 2 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>255</sup>
 * thirsty souls. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>254</sup>
 * И пришел день... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>253</sup>
@@ -30,7 +31,6 @@
 * the kids aren't alright ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>229</sup>
 * как разбить сердце Уилла Байерса ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>228</sup>
 * Внимание к деталям ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>227</sup>
-* Мой дом там, где ты ждешь меня ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>226</sup>
 
 
-_16.05.2019 15:00:19_
+_16.05.2019 15:00:41_
