@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Что вы знаете о Поттере? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>377</sup>
 * Как умеет... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>376</sup>
 * "Шире!" или Занимательная стоматология ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>375</sup>
 * Неверный путь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>374</sup>
@@ -30,7 +31,6 @@
 * Как все это было. Измененная версия. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>350</sup>
 * Личный артефакт Гарри Поттера ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>349</sup>
 * Все имеет свою цену, или принц для Гарри ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>348</sup>
-* Мандаринки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>347</sup>
 
 
-_16.05.2019 17:41:09_
+_16.05.2019 17:41:31_
