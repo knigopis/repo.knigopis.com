@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>300</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>301</sup>
 ---
 
 ## 2019
@@ -1250,6 +1250,11 @@ kotkate
 ### The Outsider
 leaderkyuzizi
 > [2016-10-28] Фанфик
+
+
+### Мой альфа'
+Алиса_Котяткина
+> [2016-10-27] Фанфик
 
 
 ### МЯТЕЖНЫЕ ДУШИ

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мой альфа' ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>301</sup>
 * The Maturity Sucks. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>300</sup>
 * Миндально-шоколадный альфа ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>299</sup>
 * Игра на выживание ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>298</sup>
@@ -30,7 +31,6 @@
 * В пустыне нет слёз ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>274</sup>
 * На маяк ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>273</sup>
 * We've got three rules. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>272</sup>
-* Вместе ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>271</sup>
 
 
-_16.05.2019 15:31:16_
+_16.05.2019 15:31:56_
