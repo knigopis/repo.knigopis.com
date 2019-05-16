@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>178</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>179</sup>
 ---
 
 ## 2019
@@ -668,6 +668,11 @@ Leka-splushka
 ### Любовные записки
 LEVA48
 > [2018-03-15] Фанфик
+
+
+### The truth is...
+wolfypuppypiles
+> [2018-03-13] Фанфик
 
 
 

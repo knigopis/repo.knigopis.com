@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The truth is... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>179</sup>
 * Любовные записки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>178</sup>
 * Фехтовальщица ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>177</sup>
 * Эффект птеродактиля ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>175</sup>
@@ -30,7 +31,6 @@
 * Stalker. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>151</sup>
 * Презервативы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>150</sup>
 * Well, let's lie ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>149</sup>
-* В процентах ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>148</sup>
 
 
-_16.05.2019 14:16:02_
+_16.05.2019 14:16:56_
