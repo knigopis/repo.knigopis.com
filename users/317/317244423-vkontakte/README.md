@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>241</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>242</sup>
 ---
 
 ## 2019
@@ -993,6 +993,11 @@ Ykino Kieshi
 ### Личный колдомедик Поттера
 Nika777Less
 > [2017-11-09] Фанфик
+
+
+### отвратительно
+lavlien
+> [2017-08-21] Фанфик
 
 
 
