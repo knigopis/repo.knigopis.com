@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Не прикасайся ко мне, Поттер! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>445</sup>
 * Проблемы перевода ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>444</sup>
 * Гарри Поттер... Хакер? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>443</sup>
 * Фьюр ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>442</sup>
@@ -30,7 +31,6 @@
 * неформал и Бен Бекхен. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>418</sup>
 * Interrobang ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>417</sup>
 * Two strips, оne big Stress and Love for a dessert ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>416</sup>
-* Wait... She's a Dude?! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>415</sup>
 
 
-_16.05.2019 18:31:37_
+_16.05.2019 18:32:18_
