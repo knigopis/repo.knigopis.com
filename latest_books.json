@@ -1,4 +1,16 @@
 {
+    "SGZNrmRX-M": {
+        "id": "SGZNrmRX-M",
+        "title": "Черно-белый фактор",
+        "author": "Himerus",
+        "notes": "Фанфик",
+        "createdAt": "2019-05-16 18:02:12",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 403
+        }
+    },
     "mhkPpReDMC": {
         "id": "mhkPpReDMC",
         "title": "Спасибо за снег!",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 374
-        }
-    },
-    "REy_eo7kUk": {
-        "id": "REy_eo7kUk",
-        "title": "Другой я, такой же ты",
-        "author": "Fran is Varia",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 17:38:17",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 373
         }
     }
 }

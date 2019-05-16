@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>402</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>403</sup>
 ---
 
 ## 2019
@@ -1770,6 +1770,11 @@ Marti
 ### game starts
 19XXXVII
 > [2016-06-23] Фанфик
+
+
+### Черно-белый фактор
+Himerus
+> [2016-06-16] Фанфик
 
 
 ### Предыстория

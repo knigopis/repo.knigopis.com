@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Черно-белый фактор ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>403</sup>
 * Спасибо за снег! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>402</sup>
 * game starts ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>401</sup>
 * Выше нас только небо ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>400</sup>
@@ -30,7 +31,6 @@
 * Как умеет... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>376</sup>
 * "Шире!" или Занимательная стоматология ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>375</sup>
 * Неверный путь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>374</sup>
-* Другой я, такой же ты ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>373</sup>
 
 
-_16.05.2019 18:01:40_
+_16.05.2019 18:02:12_
