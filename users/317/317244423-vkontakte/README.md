@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>48</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>49</sup>
 ---
 
 ## 2019
@@ -16,6 +16,11 @@ DreamSVV
 ### Неожиданная сделка.
 Сhaton
 > [2019-04-15] Фанфик.
+
+
+### Неожиданный договор.
+Сhaton
+> [2019-04-13] Фанфик.
 
 
 ### Внеклассное чтение
