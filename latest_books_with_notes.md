@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* sugarless. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>135</sup>
 * Я научу вас стоять на коленях! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>134</sup>
 * Почему не стоит злить Гарри Поттера... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>133</sup>
 * Долгая дорога к тебе ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>132</sup>
@@ -30,7 +31,6 @@
 * Мозгошмыгнутый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>108</sup>
 * Тихий омут круглых очков ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>107</sup>
 * Мальчик, в котором выжил ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>106</sup>
-* Вейла ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>105</sup>
 
 
-_16.05.2019 12:43:08_
+_16.05.2019 12:43:36_

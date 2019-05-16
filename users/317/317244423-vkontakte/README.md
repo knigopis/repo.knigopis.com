@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>134</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>135</sup>
 ---
 
 ## 2019
@@ -324,6 +324,11 @@ Loreanna
 ### Мозгошмыгнутый
 Jadwiga
 > [2018-11-19] Фанфик
+
+
+### sugarless.
+Amaya_Kudo
+> [2018-11-18] Фанфик
 
 
 ### Шедевр
