@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>269</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>270</sup>
 ---
 
 ## 2019
@@ -1118,6 +1118,11 @@ shurshic-chan
 ### О приручении упрямых хёнов
 Auau
 > [2017-01-19] Фанфик
+
+
+### The Standard You Walk Past
+bafflinghaze
+> [2017-01-17] Фанфик
 
 
 
