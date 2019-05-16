@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Lights will guide you home 131 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>144</sup>
 * not such as all. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>143</sup>
 * Яблоки на снегу ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>142</sup>
 * влечение ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>141</sup>
@@ -30,7 +31,6 @@
 * В борьбе обретёшь ты... (часть 2) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>117</sup>
 * In One Basket ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>116</sup>
 * Нэко ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>115</sup>
-* Под скорлупой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>114</sup>
 
 
-_16.05.2019 13:55:00_
+_16.05.2019 13:55:49_

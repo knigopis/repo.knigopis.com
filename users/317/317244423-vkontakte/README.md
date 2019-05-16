@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>143</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>144</sup>
 ---
 
 ## 2019
@@ -499,6 +499,11 @@ Jululu
 ### not such as all.
 herr.roysh
 > [2018-07-19] Фанфик
+
+
+### Lights will guide you home 131
+Щука-семпай
+> [2018-07-18] Фанфик
 
 
 ### Гордость и предубеждение
