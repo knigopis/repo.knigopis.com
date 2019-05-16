@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Улыбка Блейза Забини ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>166</sup>
 * Змея Давида ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>165</sup>
 * Не желаете сменить фамилию? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>164</sup>
 *  ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>163</sup>
@@ -30,7 +31,6 @@
 * Странный парень за дверью ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>139</sup>
 * «LOL: Live, Outplay & Love» ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>138</sup>
 * 3 поцелуя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>137</sup>
-* О ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>136</sup>
 
 
-_16.05.2019 14:06:19_
+_16.05.2019 14:06:43_

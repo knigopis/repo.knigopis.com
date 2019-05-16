@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>165</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>166</sup>
 ---
 
 ## 2019
@@ -608,6 +608,11 @@ Irdis.
 ### Змея Давида
 g.allena
 > [2018-05-15] Фанфик
+
+
+### Улыбка Блейза Забини
+Alex-80
+> [2018-05-06] Фанфик
 
 
 ### Гордость и предубеждение
