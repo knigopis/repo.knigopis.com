@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>458</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>459</sup>
 ---
 
 ## 2019
@@ -2050,6 +2050,11 @@ Stella1408
 ### Дожди и туманы Драко Малфоя (Then Comes a Mist and a Weeping Rain)
 Faith Wood
 > [2016-05-02] Фанфик
+
+
+### И снова про любовь, или Нелепая, лохматая любовь моя проклятая
+Smaragd
+> [2016-03-26] Фанфик
 
 
 ### Предыстория

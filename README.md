@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* И снова про любовь, или Нелепая, лохматая любовь моя проклятая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup>
+    > Фанфик
+
 * Дожди и туманы Драко Малфоя (Then Comes a Mist and a Weeping Rain) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>458</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>456</sup>
-    > Фанфики
 
 * "Долг жизни" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>455</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Не по-настоящему ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>450</sup>
 
-* Смерть не конец ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>449</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>458</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 18:41:41_
+_16.05.2019 18:42:38_
