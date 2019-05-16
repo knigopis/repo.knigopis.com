@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Самые прекрасные цветы растут из грязи ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>277</sup>
 * alpha x2. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>276</sup>
 * Неповторимый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>275</sup>
 * В пустыне нет слёз ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>274</sup>
@@ -30,7 +31,6 @@
 * Academy of Roses ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>250</sup>
 * Жених из Ада ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>249</sup>
 * Это не я, это не он (от 18) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>248</sup>
-* Не пиши "the end" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>248</sup>
 
 
-_16.05.2019 15:15:05_
+_16.05.2019 15:15:26_

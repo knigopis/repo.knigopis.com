@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>276</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>277</sup>
 ---
 
 ## 2019
@@ -1166,6 +1166,11 @@ Deyvon
 ### alpha x2.
 Amaya_Kudo
 > [2016-11-19] Фанфик
+
+
+### Самые прекрасные цветы растут из грязи
+Amira19
+> [2016-11-18] Фанфик
 
 
 ### The Outsider
