@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>151</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>152</sup>
 ---
 
 ## 2019
@@ -539,6 +539,11 @@ your reiko
 ### В процентах
 Xiuchennie
 > [2018-06-28] Фанфик
+
+
+### Доска треснула, фигуры разлетелись на куски...
+Transistor
+> [2018-06-26] Фанфик
 
 
 ### Гордость и предубеждение

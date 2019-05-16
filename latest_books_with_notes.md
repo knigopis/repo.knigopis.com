@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Доска треснула, фигуры разлетелись на куски... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>152</sup>
 * Stalker. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>151</sup>
 * Презервативы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>150</sup>
 * Well, let's lie ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>149</sup>
@@ -30,7 +31,6 @@
 * Давай встречаться, Малфой! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>125</sup>
 * Боец ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>124</sup>
 * Проверка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>123</sup>
-* Happily Ever After ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>122</sup>
 
 
-_16.05.2019 13:59:37_
+_16.05.2019 14:00:05_
