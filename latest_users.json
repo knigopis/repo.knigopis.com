@@ -1,4 +1,10 @@
 {
+    "317244423-vkontakte": {
+        "id": "317244423-vkontakte",
+        "nickname": "thejokerinthefog",
+        "booksCount": 46,
+        "updatedAt": "2019-05-16 11:41:49"
+    },
     "116845519572391639637-google": {
         "id": "116845519572391639637-google",
         "nickname": "lazyleo",
@@ -172,11 +178,5 @@
         "nickname": "Lecowi",
         "booksCount": 13,
         "updatedAt": "2019-05-07 07:56:10"
-    },
-    "1428344393-facebook": {
-        "id": "1428344393-facebook",
-        "nickname": "Bafnita",
-        "booksCount": 0,
-        "updatedAt": "2019-05-04 12:08:19"
     }
 }

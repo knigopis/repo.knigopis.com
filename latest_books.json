@@ -1,4 +1,16 @@
 {
+    "nkEmmz_0CH": {
+        "id": "nkEmmz_0CH",
+        "title": "Чёрная лилия.",
+        "author": "DreamSVV",
+        "notes": "Фанфик",
+        "createdAt": "2019-05-16 11:41:49",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 46
+        }
+    },
     "UQ9guA4y7L": {
         "id": "UQ9guA4y7L",
         "title": "Игра Эндера",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 123
-        }
-    },
-    "wGWLTz78wl": {
-        "id": "wGWLTz78wl",
-        "title": "Вечера на хуторе близ Диканьки",
-        "author": "Николай Васильевич Гоголь",
-        "notes": "",
-        "createdAt": "2019-05-11 11:27:41",
-        "user": {
-            "id": "30902475-vkontakte",
-            "nickname": "Stacy",
-            "booksCount": 4
         }
     }
 }

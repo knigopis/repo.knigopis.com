@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чёрная лилия. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>46</sup>
+    > Фанфик
+
 * Затворник и Шестипалый ~ [Quaff](users/122/12267158-vkontakte)<sup>35</sup>
     > оригинально представленная история о побеге из курятника (очеловечено)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > утрированная картина обратной стороны ссср
 
 * Священная книга оборотня ~ [Quaff](users/122/12267158-vkontakte)<sup>33</sup>
-    > интересная история про оборотней в москве
 
 * Brotherhood of Warriors: Behind Enemy Lines with a Commando in One of the World's Most Elite Counterterrorism Units ~ [exulted](users/100/100599204551896265722-google)<sup>105</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Аркада. Эпизод первый. kamataYan ~ [Chiffi](users/105/105831994080785626680-google)<sup>118</sup>
 
-* Игра Ангела ~ [anvonamore](users/595/5957175-vkontakte)<sup>123</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>46</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>35</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [regnabo](users/870/870059322-yandex)<sup>29</sup> 
 [En](users/333/333646551-vkontakte)<sup>64</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
-[Bafnita](users/142/1428344393-facebook)<sup>0</sup> 
 
 
-_16.05.2019 09:51:37_
+_16.05.2019 11:41:49_
