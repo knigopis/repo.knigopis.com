@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>354</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>355</sup>
 ---
 
 ## 2019
@@ -1515,6 +1515,11 @@ tuuli-veter
 ### Как все это было. Измененная версия.
 Himerus
 > [2016-07-25] Фанфик
+
+
+### Про блудных сов и охоту за сокровищами
+Cheryl Dyson
+> [2016-07-24] Фанфик
 
 
 ### Пуховый Поттер

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Про блудных сов и охоту за сокровищами ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>355</sup>
 * Пуховый Поттер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>354</sup>
 * Сказки Малфой-мэнора ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>353</sup>
 * Любовь под рёв стадиона ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>352</sup>
@@ -30,7 +31,6 @@
 * "Оранжевый и серый" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>328</sup>
 * "To catch Malfoy" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>327</sup>
 * Бомбейский сапфир ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>326</sup>
-* Развлечения по субботам ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>325</sup>
 
 
-_16.05.2019 17:26:32_
+_16.05.2019 17:28:02_
