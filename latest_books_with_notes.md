@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* My wild beast. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>61</sup>
 * Make you scream ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>60</sup>
 * The giggle at a funeral. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>59</sup>
 * desperate. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>58</sup>
@@ -30,7 +31,6 @@
 * О всех созданиях – больших и малых ~ [Garka](users/115/115753719718250012620-google)<sup>218</sup>
 * Тобол. Мало избранных ~ [exulted](users/100/100599204551896265722-google)<sup>104</sup>
 * Сеть Нанотех ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>6</sup>
-* Безумная звезда ~ [joan789](users/240/2401650-vkontakte)<sup>98</sup>
 
 
-_16.05.2019 11:55:14_
+_16.05.2019 11:55:53_

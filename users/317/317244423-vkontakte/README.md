@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>60</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>61</sup>
 ---
 
 ## 2019
@@ -76,6 +76,11 @@ Heika Mitich
 ### Внеклассное чтение
 Борис Акунин
 > [2019-03] 
+
+
+### My wild beast.
+herr.roysh
+> [2019-02-28] Фанфик
 
 
 ### Make you scream
