@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дожди и туманы Драко Малфоя (Then Comes a Mist and a Weeping Rain) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>458</sup>
 * Потеря памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>457</sup>
 * Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>456</sup>
 * "Долг жизни" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>455</sup>
@@ -30,7 +31,6 @@
 * "Second chance" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>431</sup>
 * Проснись со мной ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>430</sup>
 * Гарри Поттер и Трудности преподавания ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>429</sup>
-* Artificial Universe ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>428</sup>
 
 
-_16.05.2019 18:39:07_
+_16.05.2019 18:41:41_
