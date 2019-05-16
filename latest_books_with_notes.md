@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Несносные эльфы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>97</sup>
 * Во что ты верил, Драко Малфой? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>96</sup>
 * Добрая сказка на ночь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>95</sup>
 * I hate sober ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>94</sup>
@@ -30,7 +31,6 @@
 * Кисэн ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>70</sup>
 * Один месяц с кумиром ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>69</sup>
 * Совершенно секретно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>68</sup>
-* 78 секретарей. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>67</sup>
 
 
-_16.05.2019 12:16:57_
+_16.05.2019 12:17:35_
