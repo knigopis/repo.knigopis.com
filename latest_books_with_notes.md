@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дневник: Что вы знаете о ненависти? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>84</sup>
 * Гарри - Санта ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>83</sup>
 * Всегда к твоим услугам ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>82</sup>
 * Тайна ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>81</sup>
@@ -30,7 +31,6 @@
 * Такоцубо ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>57</sup>
 * Отстрой все заново ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>56</sup>
 * Драко Малфой и Тайная комната ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>55</sup>
-* Sowilo ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>54</sup>
 
 
-_16.05.2019 12:09:47_
+_16.05.2019 12:10:21_
