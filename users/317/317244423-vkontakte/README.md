@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>97</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>98</sup>
 ---
 
 ## 2019
@@ -270,6 +270,11 @@ Star Spall
 
 
 ## 2018
+
+### Про трусы
+tuuli-veter
+> [2018-12-25] Фанфик
+
 
 ### Гордость и предубеждение
 Джейн Остин
