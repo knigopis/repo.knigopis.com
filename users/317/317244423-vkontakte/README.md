@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>275</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>276</sup>
 ---
 
 ## 2019
@@ -1161,6 +1161,11 @@ Deyvon
 ### Женаты поневоле
 Злая тетя
 > [2016-11-29] Фанфик
+
+
+### alpha x2.
+Amaya_Kudo
+> [2016-11-19] Фанфик
 
 
 ### The Outsider

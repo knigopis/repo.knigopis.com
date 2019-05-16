@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* alpha x2. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>276</sup>
 * Неповторимый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>275</sup>
 * В пустыне нет слёз ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>274</sup>
 * На маяк ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>273</sup>
@@ -30,7 +31,6 @@
 * Жених из Ада ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>249</sup>
 * Это не я, это не он (от 18) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>248</sup>
 * Не пиши "the end" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>248</sup>
-* Не каждая омега - твоя омега. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>246</sup>
 
 
-_16.05.2019 15:14:08_
+_16.05.2019 15:15:05_
