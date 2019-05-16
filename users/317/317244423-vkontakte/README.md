@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>254</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>255</sup>
 ---
 
 ## 2019
@@ -1048,6 +1048,11 @@ Chibi Sanmin
 ### Academy of Roses
 perfect.velvet
 > [2017-07-17] Фанфик
+
+
+### Русские - 2
+Leka-splushka
+> [2017-07-14] Фанфик
 
 
 ### thirsty souls.

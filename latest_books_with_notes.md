@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Русские - 2 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>255</sup>
 * thirsty souls. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>254</sup>
 * И пришел день... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>253</sup>
 * Пара слов про месть и прочее дерьмо. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>252</sup>
@@ -30,7 +31,6 @@
 * как разбить сердце Уилла Байерса ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>228</sup>
 * Внимание к деталям ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>227</sup>
 * Мой дом там, где ты ждешь меня ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>226</sup>
-* everything you want to see ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>225</sup>
 
 
-_16.05.2019 14:59:56_
+_16.05.2019 15:00:19_
