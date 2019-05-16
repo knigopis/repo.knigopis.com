@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>245</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>246</sup>
 ---
 
 ## 2019
@@ -1008,6 +1008,11 @@ Immortal song
 ### Там, где твой дом
 tuuli-veter
 > [2017-08-07] Фанфик
+
+
+### Не каждая омега - твоя омега.
+Miky
+> [2017-08-04] Фанфик
 
 
 ### Научи меня любить, Пак Чанёль
