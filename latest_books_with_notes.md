@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бюро находок ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>206</sup>
 * Not Intended ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>205</sup>
 * Семья для Гарри ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>204</sup>
 * Казнить нельзя помиловать ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>203</sup>
@@ -30,7 +31,6 @@
 * The truth is... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>179</sup>
 * Любовные записки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>178</sup>
 * Фехтовальщица ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>177</sup>
-* Эффект птеродактиля ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>175</sup>
 
 
-_16.05.2019 14:29:21_
+_16.05.2019 14:30:18_

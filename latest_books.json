@@ -1,4 +1,16 @@
 {
+    "4Em8bcusWr": {
+        "id": "4Em8bcusWr",
+        "title": "Бюро находок",
+        "author": "Terra Celtika",
+        "notes": "Фанфик",
+        "createdAt": "2019-05-16 14:30:18",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 206
+        }
+    },
     "lq6J25oKjM": {
         "id": "lq6J25oKjM",
         "title": "Not Intended",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 177
-        }
-    },
-    "pFuIUc8Yvd": {
-        "id": "pFuIUc8Yvd",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-05-16 14:14:03",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 176
         }
     }
 }
