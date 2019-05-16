@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>251</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>252</sup>
 ---
 
 ## 2019
@@ -1033,6 +1033,11 @@ Himerus
 ### Не хочу, не могу, не буду!
 Chibi Sanmin
 > [2017-07-21] Фанфик
+
+
+### Пара слов про месть и прочее дерьмо.
+Натаниэль-2
+> [2017-07-18] Фанфик
 
 
 ### Academy of Roses

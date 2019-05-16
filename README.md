@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пара слов про месть и прочее дерьмо. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>252</sup>
+    > Фанфик
+
 * Не хочу, не могу, не буду! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>251</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Жених из Ада ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>249</sup>
-    > Фанфик
 
 * Это не я, это не он (от 18) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>248</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сливовый цвет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>243</sup>
 
-* отвратительно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>242</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>251</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>252</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:58:19_
+_16.05.2019 14:59:11_
