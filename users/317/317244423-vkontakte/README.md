@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>292</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>293</sup>
 ---
 
 ## 2019
@@ -1242,6 +1242,11 @@ Little E.L.F.
 ### Коротышка.
 Artemi
 > [2015-10-10] Фанфик
+
+
+### "Шесть" - это не цифра!
+Редактор Снов
+> [2015-07-24] Фанфик
 
 
 ### Ролевая
