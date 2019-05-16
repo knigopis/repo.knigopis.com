@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>188</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>189</sup>
 ---
 
 ## 2019
@@ -708,6 +708,11 @@ Amaya_Kudo
 ### Бомб-вояж
 Map the Soul
 > [2018-02-26] Фанфик
+
+
+### Поймай этот долбаный снитч, если сможешь
+.Злобный Гений.
+> [2018-02-25] Фанфик
 
 
 ### Вкус чужой крови
