@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>155</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>156</sup>
 ---
 
 ## 2019
@@ -559,6 +559,11 @@ AnnaVail
 ### Леди Малфой
 Milada.
 > [2018-06-17] Фанфик
+
+
+### Человек-хомяк
+Konatasusu
+> [2018-06-12] Фанфик
 
 
 ### Гордость и предубеждение
