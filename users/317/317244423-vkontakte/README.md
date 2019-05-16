@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>118</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>119</sup>
 ---
 
 ## 2019
@@ -374,6 +374,11 @@ Gweezle
 ### В борьбе обретёшь ты... (часть 1)
 Кукулькан
 > [2018-10-15] Фанфик
+
+
+### Русал
+iolka
+> [2018-10-08] Фанфик
 
 
 ### Гордость и предубеждение
