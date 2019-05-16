@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Наказание ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>439</sup>
 * Молодые асы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>438</sup>
 * Попасть по полной... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>437</sup>
 * Метаморфозы любви или зачем нужны сестры ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>436</sup>
@@ -30,7 +31,6 @@
 * Рондо в четыре руки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>412</sup>
 * Яблоки в Карамели - Рецепт ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>411</sup>
 * i want you to be the first in my bed ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>410</sup>
-* Иди ко мне, глупый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>409</sup>
 
 
-_16.05.2019 18:27:42_
+_16.05.2019 18:28:18_
