@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Wait... She's a Dude?! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>415</sup>
 * Серебром по нежной коже ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>414</sup>
 * Зеленый шарф ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>413</sup>
 * Рондо в четыре руки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>412</sup>
@@ -30,7 +31,6 @@
 * Быть пойманным ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>388</sup>
 * Три шестерки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>387</sup>
 * it's time to pay the debts, Byun Baekhyun ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>386</sup>
-* Слюнки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>385</sup>
 
 
-_16.05.2019 18:08:13_
+_16.05.2019 18:08:41_

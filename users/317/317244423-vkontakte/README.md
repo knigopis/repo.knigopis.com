@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>414</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>415</sup>
 ---
 
 ## 2019
@@ -1830,6 +1830,11 @@ Disira
 ### i want you to be the first in my bed
 Happy Poison
 > [2016-06-12] Фанфик
+
+
+### Wait... She's a Dude?!
+Channicki
+> [2016-06-08] Фанфик
 
 
 ### Предыстория
