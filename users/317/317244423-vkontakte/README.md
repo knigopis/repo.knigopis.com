@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>113</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>114</sup>
 ---
 
 ## 2019
@@ -349,6 +349,11 @@ Made Of Stone
 ### Angels and Devils
 Beren (aka Didi)
 > [2018-11-10] Фанфик
+
+
+### Под скорлупой
+Shinas smile
+> [2018-11-05] Фанфик
 
 
 ### Гордость и предубеждение
