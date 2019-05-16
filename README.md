@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Леди Малфой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>155</sup>
+    > Фанфик
+
 * И в горе, и в радости... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>154</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Доска треснула, фигуры разлетелись на куски... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>152</sup>
-    > Фанфик
 
 * Stalker. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>151</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * My baby boy. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>146</sup>
 
-* Дикий ветер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>145</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>154</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>155</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:00:52_
+_16.05.2019 14:01:16_
