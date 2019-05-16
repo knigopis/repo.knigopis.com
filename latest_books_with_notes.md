@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Взаимная ненависть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>262</sup>
 * Жатва ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>261</sup>
 * Няня для Гарри Поттера, или план Дамблдора №394 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>260</sup>
 * I'm preying on you. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>259</sup>
@@ -30,7 +31,6 @@
 * Истинных не выбирают ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>235</sup>
 * Happy End?.. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>234</sup>
 * За что тебя ненавижу... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>233</sup>
-* Love and Marriage. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>232</sup>
 
 
-_16.05.2019 15:06:10_
+_16.05.2019 15:06:30_

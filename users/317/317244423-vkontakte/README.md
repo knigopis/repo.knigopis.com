@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>261</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>262</sup>
 ---
 
 ## 2019
@@ -1083,6 +1083,11 @@ SeaFox
 ### I'm preying on you.
 herr.roysh
 > [2017-05-11] Фанфик
+
+
+### Взаимная ненависть
+Похоть
+> [2017-05-05] Фанфик
 
 
 ### Жатва
