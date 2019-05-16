@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Доказательство любви ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>332</sup>
+    > Фанфик
+
 * Unkissed Kisses and Songs Never Sung ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>331</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Articulo mortis ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>329</sup>
-    > Фанфик
 
 * "Оранжевый и серый" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>328</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сердце дракона ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>323</sup>
 
-* Завтра будет завтра ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>322</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>331</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>332</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 16:56:48_
+_16.05.2019 17:01:38_
