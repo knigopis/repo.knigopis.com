@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Голубой кролик ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>303</sup>
 * «Багдад - Лондон: Совершенно секретно» ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>302</sup>
 * Мой альфа' ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>301</sup>
 * The Maturity Sucks. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>300</sup>
@@ -30,7 +31,6 @@
 * alpha x2. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>276</sup>
 * Неповторимый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>275</sup>
 * В пустыне нет слёз ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>274</sup>
-* На маяк ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>273</sup>
 
 
-_16.05.2019 15:32:25_
+_16.05.2019 15:32:51_
