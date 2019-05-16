@@ -1,4 +1,16 @@
 {
+    "1-i79unrqY": {
+        "id": "1-i79unrqY",
+        "title": "Кисэн",
+        "author": "DOD.O",
+        "notes": "Фанфик",
+        "createdAt": "2019-05-16 12:01:55",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 70
+        }
+    },
     "CvNYpmmvDz": {
         "id": "CvNYpmmvDz",
         "title": "Один месяц с кумиром",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 60
-        }
-    },
-    "ZrXj4f896s": {
-        "id": "ZrXj4f896s",
-        "title": "t",
-        "author": "Виктор Пелевин",
-        "notes": "Хаос мысли между писателем, главным героем и автором",
-        "createdAt": "2019-05-12 14:18:47",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 32
         }
     }
 }

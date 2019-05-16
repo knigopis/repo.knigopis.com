@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>69</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>70</sup>
 ---
 
 ## 2019
@@ -126,6 +126,11 @@ Panda_Yoko
 ### Как добиться своей пары, ну и прочие неприятности.
 MissK
 > [2019-02-23] Фанфик
+
+
+### Кисэн
+DOD.O
+> [2019-02-22] Фанфик
 
 
 
