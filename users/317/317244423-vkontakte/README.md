@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>283</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>284</sup>
 ---
 
 ## 2019
@@ -1191,6 +1191,11 @@ WhiteBloodOfGod
 ### Фрэнк - "на удачу". Франк - "на счастье"
 Shinas smile
 > [2016-11-08] Фанфик
+
+
+### Serenata Immortale II. Lucifer's angel.
+царь и истеричка
+> [2016-11-03] Фанфик
 
 
 ### Только мой Бэкки
