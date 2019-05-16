@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>316</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>317</sup>
 ---
 
 ## 2019
@@ -1320,6 +1320,11 @@ Femme
 ### Ну и олень же ты, Поттер.
 Cleona
 > [2016-09-27] Фанфик
+
+
+### Dе Walletjes
+Amaya_Kudo
+> [2016-09-25] Фанфик
 
 
 ### Площадь наших сердец
