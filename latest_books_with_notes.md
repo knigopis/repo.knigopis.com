@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Endlessly, He Said ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>73</sup>
 * (не) реальный альфа ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>72</sup>
 * Жёлтая ленточка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>71</sup>
 * Кисэн ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>70</sup>
@@ -30,7 +31,6 @@
 * Чёрная лилия. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>46</sup>
 * Затворник и Шестипалый ~ [Quaff](users/122/12267158-vkontakte)<sup>35</sup>
 * Омон Ра ~ [Quaff](users/122/12267158-vkontakte)<sup>34</sup>
-* Священная книга оборотня ~ [Quaff](users/122/12267158-vkontakte)<sup>33</sup>
 
 
-_16.05.2019 12:03:24_
+_16.05.2019 12:03:54_
