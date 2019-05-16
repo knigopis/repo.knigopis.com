@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>63</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>64</sup>
 ---
 
 ## 2019
@@ -96,6 +96,11 @@ Ellyz
 ### Behind Blue Eyes
 aprilclash
 > [2019-02-25] Фанфик
+
+
+### Бракованный омега
+a lost ghost
+> [2019-02-24] Фанфик
 
 
 

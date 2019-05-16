@@ -1,4 +1,16 @@
 {
+    "4WCPOIJJoV": {
+        "id": "4WCPOIJJoV",
+        "title": "Бракованный омега",
+        "author": "a lost ghost",
+        "notes": "Фанфик",
+        "createdAt": "2019-05-16 11:58:18",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 64
+        }
+    },
     "XWuCJ7NKHD": {
         "id": "XWuCJ7NKHD",
         "title": "Behind Blue Eyes",
@@ -345,18 +357,6 @@
             "id": "111038749-vkontakte",
             "nickname": "Людка",
             "booksCount": 8
-        }
-    },
-    "CGLad10Bte": {
-        "id": "CGLad10Bte",
-        "title": "Час презрения",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2019-05-14 22:33:03",
-        "user": {
-            "id": "111038749-vkontakte",
-            "nickname": "Людка",
-            "booksCount": 7
         }
     }
 }
