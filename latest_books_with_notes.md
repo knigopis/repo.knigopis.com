@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Фьюр ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>442</sup>
 * Драко Малфой: Любовь по Кодексу ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>441</sup>
 * Назад в прошлое ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>440</sup>
 * Наказание ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>439</sup>
@@ -30,7 +31,6 @@
 * Wait... She's a Dude?! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>415</sup>
 * Серебром по нежной коже ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>414</sup>
 * Зеленый шарф ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>413</sup>
-* Рондо в четыре руки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>412</sup>
 
 
-_16.05.2019 18:29:44_
+_16.05.2019 18:30:12_
