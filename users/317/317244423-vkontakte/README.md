@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>361</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>362</sup>
 ---
 
 ## 2019
@@ -1540,6 +1540,11 @@ Charoit
 ### Любовь под рёв стадиона
 Draco kls
 > [2016-07-24] Фанфик
+
+
+### Не тот, кем кажется
+Charoit
+> [2016-07-23] Фанфик
 
 
 ### Еще одно лето
