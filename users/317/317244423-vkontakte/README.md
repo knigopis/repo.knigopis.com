@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>53</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>54</sup>
 ---
 
 ## 2019
@@ -36,6 +36,11 @@ Shtil
 ### Ожидание
 Kefalion
 > [2019-04-10] Фанфик
+
+
+### Sowilo
+Evandar
+> [2019-04-05] Фанфик
 
 
 ### Of Wizards and Heroes
