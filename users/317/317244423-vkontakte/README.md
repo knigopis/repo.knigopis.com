@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>326</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>329</sup>
 ---
 
 ## 2019
@@ -1385,6 +1385,21 @@ MC_Mutant
 ### Бомбейский сапфир
 Smaragd
 > [2016-09-17] Фанфик
+
+
+### "To catch Malfoy"
+Slizerinka
+> [2016-09-15] Фанфик
+
+
+### "Оранжевый и серый"
+Slizerinka
+> [2016-09-12] Фанфик
+
+
+### Articulo mortis
+helvasova
+> [2016-09-02] Фанфик
 
 
 ### Ангел с дефектами

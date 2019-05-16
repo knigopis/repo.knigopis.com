@@ -1,6 +1,9 @@
 # List of the latest books with notes
 ---
 
+* Articulo mortis ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>329</sup>
+* "Оранжевый и серый" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>328</sup>
+* "To catch Malfoy" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>327</sup>
 * Бомбейский сапфир ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>326</sup>
 * Развлечения по субботам ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>325</sup>
 * Незабытый сон ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>324</sup>
@@ -28,9 +31,6 @@
 * «Багдад - Лондон: Совершенно секретно» ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>302</sup>
 * Мой альфа' ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>301</sup>
 * The Maturity Sucks. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>300</sup>
-* Миндально-шоколадный альфа ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>299</sup>
-* Игра на выживание ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>298</sup>
-* Stop the clocks ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>297</sup>
 
 
-_16.05.2019 15:51:30_
+_16.05.2019 16:55:40_
