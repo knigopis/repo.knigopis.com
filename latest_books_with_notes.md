@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Единственная тайна ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>422</sup>
 * Полюбить лучшего друга ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>421</sup>
 * Привычка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>420</sup>
 * Увидеть в новом свете ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>419</sup>
@@ -30,7 +31,6 @@
 * Здесь солнца не видно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>395</sup>
 * С чистого листа. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>394</sup>
 * Признаться и забыть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>393</sup>
-* Фак ю ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>392</sup>
 
 
-_16.05.2019 18:14:26_
+_16.05.2019 18:16:56_

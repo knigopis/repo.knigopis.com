@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>421</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>422</sup>
 ---
 
 ## 2019
@@ -1860,6 +1860,11 @@ Artemi
 ### Interrobang
 chaos-
 > [2016-06-06] Фанфик
+
+
+### Единственная тайна
+Адочка_Музыка
+> [2016-06-05] Фанфик
 
 
 ### Полюбить лучшего друга
