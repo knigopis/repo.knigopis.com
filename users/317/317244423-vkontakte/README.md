@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>285</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>286</sup>
 ---
 
 ## 2019
@@ -1216,6 +1216,11 @@ u t s u . y u u s u
 ### The Outsider
 leaderkyuzizi
 > [2016-10-28] Фанфик
+
+
+### МЯТЕЖНЫЕ ДУШИ
+Кира Ким
+> [2016-10-03] Фанфик
 
 
 ### Предыстория
