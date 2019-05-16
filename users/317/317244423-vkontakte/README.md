@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>135</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>136</sup>
 ---
 
 ## 2019
@@ -459,6 +459,11 @@ NikMac
 ### Я научу вас стоять на коленях!
 Инна^^Вария
 > [2018-08-12] Фанфик
+
+
+### О
+ZO_YA
+> [2018-07-21] Фанфик
 
 
 ### Гордость и предубеждение
