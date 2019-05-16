@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>119</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>120</sup>
 ---
 
 ## 2019
@@ -379,6 +379,11 @@ Gweezle
 ### Русал
 iolka
 > [2018-10-08] Фанфик
+
+
+### Неко
+Риель
+> [2018-09-30] Фанфик
 
 
 ### Гордость и предубеждение
