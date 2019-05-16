@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мозгошмыгнутый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>108</sup>
 * Тихий омут круглых очков ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>107</sup>
 * Мальчик, в котором выжил ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>106</sup>
 * Вейла ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>105</sup>
@@ -30,7 +31,6 @@
 * Тайна ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>81</sup>
 * Не так, как кажется ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>80</sup>
 * Венки из одуванчиков. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>79</sup>
-* Первый шаг или После стольких лет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>78</sup>
 
 
-_16.05.2019 12:23:20_
+_16.05.2019 12:23:54_

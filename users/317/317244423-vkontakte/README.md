@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>107</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>108</sup>
 ---
 
 ## 2019
@@ -319,6 +319,11 @@ kamidess
 ### Мальчик, в котором выжил
 Loreanna
 > [2018-11-20] Фанфик
+
+
+### Мозгошмыгнутый
+Jadwiga
+> [2018-11-19] Фанфик
 
 
 ### Гордость и предубеждение
