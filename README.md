@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Там, на неведомых дорожках ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>168</sup>
+    > Фанфик
+
 * И где сейчас ваши мстители? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>167</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Змея Давида ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>165</sup>
-    > Фанфик
 
 * Не желаете сменить фамилию? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>164</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Другая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>159</sup>
 
-* Гарри Поттер и Разговоры о Пчелках ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>158</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>167</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>168</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:07:17_
+_16.05.2019 14:07:54_

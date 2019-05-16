@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>167</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>168</sup>
 ---
 
 ## 2019
@@ -618,6 +618,11 @@ Alex-80
 ### И где сейчас ваши мстители?
 Не-погода
 > [2018-04-14] Фанфик
+
+
+### Там, на неведомых дорожках
+СкальдЪ
+> [2018-04-11] Фанфик
 
 
 ### Гордость и предубеждение

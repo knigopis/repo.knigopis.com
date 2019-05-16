@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Там, на неведомых дорожках ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>168</sup>
 * И где сейчас ваши мстители? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>167</sup>
 * Улыбка Блейза Забини ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>166</sup>
 * Змея Давида ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>165</sup>
@@ -30,7 +31,6 @@
 * влечение ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>141</sup>
 * Sound of Heart ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>140</sup>
 * Странный парень за дверью ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>139</sup>
-* «LOL: Live, Outplay & Love» ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>138</sup>
 
 
-_16.05.2019 14:07:17_
+_16.05.2019 14:07:54_
