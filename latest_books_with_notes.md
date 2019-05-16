@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Другой я, такой же ты ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>373</sup>
 * Зеркала всегда врут ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>372</sup>
 * In Need of a Proper Hug ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>371</sup>
 * Он - мой, и идите все к черту! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>370</sup>
@@ -30,7 +31,6 @@
 * Диалоги в Париже накануне Рождества ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>346</sup>
 * Подарки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>345</sup>
 * Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>344</sup>
-* Draco is awaiting ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>343</sup>
 
 
-_16.05.2019 17:37:48_
+_16.05.2019 17:38:17_

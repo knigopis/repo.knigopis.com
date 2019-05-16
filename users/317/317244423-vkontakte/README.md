@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>372</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>373</sup>
 ---
 
 ## 2019
@@ -1171,6 +1171,11 @@ Deyvon
 ### Женаты поневоле
 Злая тетя
 > [2016-11-29] Фанфик
+
+
+### Другой я, такой же ты
+Fran is Varia
+> [2016-11-24] Фанфик
 
 
 ### alpha x2.
