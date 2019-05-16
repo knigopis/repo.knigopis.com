@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Let's do it together? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>312</sup>
 * I аm your girlman ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>311</sup>
 * Touch me, touch me more ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>310</sup>
 * Let me love you ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>309</sup>
@@ -30,7 +31,6 @@
 * I'm (not a) monster ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>285</sup>
 * Serenata Immortale II. Lucifer's angel. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>284</sup>
 * Только мой Бэкки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>283</sup>
-* fifth century: Digamma. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>282</sup>
 
 
-_16.05.2019 15:40:09_
+_16.05.2019 15:40:48_
