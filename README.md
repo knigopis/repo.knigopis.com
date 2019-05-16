@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Девять кругов ада ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>265</sup>
+    > Фанфик
+
 * The Outsider ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>264</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Взаимная ненависть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>262</sup>
-    > Фанфик
 
 * Жатва ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>261</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Русские не сдаются ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>256</sup>
 
-* Русские - 2 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>255</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>264</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>265</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 15:08:15_
+_16.05.2019 15:08:48_
