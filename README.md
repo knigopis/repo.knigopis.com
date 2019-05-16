@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шаги в тумане ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>100</sup>
+    > Фанфик
+
 * Hurricane ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>99</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Несносные эльфы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>97</sup>
-    > Фанфик
 
 * Во что ты верил, Драко Малфой? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>96</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кошки-мышки. Поиграем? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>91</sup>
 
-* Только не молчи ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>90</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>99</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>100</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>35</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 12:18:40_
+_16.05.2019 12:19:28_

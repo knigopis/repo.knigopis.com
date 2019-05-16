@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>99</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>100</sup>
 ---
 
 ## 2019
@@ -279,6 +279,11 @@ tuuli-veter
 ### Hurricane
 Dark_K
 > [2018-12-23] Фанфик
+
+
+### Шаги в тумане
+Парящий
+> [2018-12-09] Фанфик
 
 
 ### Гордость и предубеждение

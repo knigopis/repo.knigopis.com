@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шаги в тумане ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>100</sup>
 * Hurricane ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>99</sup>
 * Про трусы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>98</sup>
 * Несносные эльфы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>97</sup>
@@ -30,7 +31,6 @@
 * Endlessly, He Said ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>73</sup>
 * (не) реальный альфа ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>72</sup>
 * Жёлтая ленточка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>71</sup>
-* Кисэн ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>70</sup>
 
 
-_16.05.2019 12:18:40_
+_16.05.2019 12:19:28_
