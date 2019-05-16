@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Память героя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>113</sup>
 * Angels and Devils ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>112</sup>
 * Шелест прошлого ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>111</sup>
 * Шедевр ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>110</sup>
@@ -30,7 +31,6 @@
 * Я жду ребёнка! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>86</sup>
 * Короткие встречи ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>85</sup>
 * Дневник: Что вы знаете о ненависти? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>84</sup>
-* Гарри - Санта ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>83</sup>
 
 
-_16.05.2019 12:26:28_
+_16.05.2019 12:26:50_

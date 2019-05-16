@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>112</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>113</sup>
 ---
 
 ## 2019
@@ -339,6 +339,11 @@ Pancake M.D.
 ### Шелест прошлого
 Made Of Stone
 > [2018-11-12] Фанфик
+
+
+### Память героя
+химера-читатель
+> [2018-11-10] Фанфик
 
 
 ### Angels and Devils
