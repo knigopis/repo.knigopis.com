@@ -1,7 +1,12 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>280</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>282</sup>
 ---
 
 ## 2019
+
+### fifth century: Digamma.
+u t s u . y u u s u
+> [2019-11-03] Фанфик
+
 
 ### Потерянное время
 Батон-праведник
@@ -1186,6 +1191,11 @@ just Snake
 ### Загадки Отдела Тайн
 WhiteBloodOfGod
 > [2016-11-09] Фанфик
+
+
+### Фрэнк - "на удачу". Франк - "на счастье"
+Shinas smile
+> [2016-11-08] Фанфик
 
 
 ### The Outsider

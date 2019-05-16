@@ -5,14 +5,18 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* fifth century: Digamma. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>282</sup>
+    > Фанфик
+
+* Фрэнк - "на удачу". Франк - "на счастье" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>281</sup>
+    > Фанфик
+
 * Загадки Отдела Тайн ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>280</sup>
     > Фанфик
 
 * Silentium! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>279</sup>
-    > Фанфик
 
 * Все любят пудинг ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>278</sup>
-    > Фанфик
 
 * Самые прекрасные цветы растут из грязи ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>277</sup>
 
@@ -24,16 +28,12 @@ Do not use pull requests to make changes here.
 
 * На маяк ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>273</sup>
 
-* We've got three rules. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>272</sup>
-
-* Вместе ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>271</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>280</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>282</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 15:16:38_
+_16.05.2019 15:20:05_

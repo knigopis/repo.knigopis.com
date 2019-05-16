@@ -1,6 +1,8 @@
 # List of the latest books with notes
 ---
 
+* fifth century: Digamma. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>282</sup>
+* Фрэнк - "на удачу". Франк - "на счастье" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>281</sup>
 * Загадки Отдела Тайн ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>280</sup>
 * Silentium! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>279</sup>
 * Все любят пудинг ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>278</sup>
@@ -29,8 +31,6 @@
 * Русские - 2 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>255</sup>
 * thirsty souls. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>254</sup>
 * И пришел день... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>253</sup>
-* Пара слов про месть и прочее дерьмо. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>252</sup>
-* Не хочу, не могу, не буду! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>251</sup>
 
 
-_16.05.2019 15:16:38_
+_16.05.2019 15:20:05_
