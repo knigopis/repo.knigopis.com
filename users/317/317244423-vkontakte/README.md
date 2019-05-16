@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>346</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>347</sup>
 ---
 
 ## 2019
@@ -1480,6 +1480,11 @@ Charoit
 ### Это просто невозможно!
 Филомена
 > [2016-08-01] Фанфик
+
+
+### Мандаринки
+Lanfir
+> [2016-07-29] Фанфик
 
 
 ### Диалоги в Париже накануне Рождества

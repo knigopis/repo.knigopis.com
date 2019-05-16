@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мандаринки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>347</sup>
 * Диалоги в Париже накануне Рождества ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>346</sup>
 * Подарки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>345</sup>
 * Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>344</sup>
@@ -30,7 +31,6 @@
 * Кёнсу и "Розовый цвет любви" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>320</sup>
 * of puppies, little sisters and 'a happy new year' ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>319</sup>
 * Лухан-в-Мине или Мин-в-Лухане? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>318</sup>
-* Dе Walletjes ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>317</sup>
 
 
-_16.05.2019 17:19:20_
+_16.05.2019 17:20:13_
