@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>413</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>414</sup>
 ---
 
 ## 2019
@@ -1805,6 +1805,11 @@ Heika Mitich
 ### Съешь меня
 Hik
 > [2016-06-13] Фанфик
+
+
+### Серебром по нежной коже
+Amira19
+> [2016-06-12] Фанфик
 
 
 ### Зеленый шарф
