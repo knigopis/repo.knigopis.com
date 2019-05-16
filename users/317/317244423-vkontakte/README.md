@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>84</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>85</sup>
 ---
 
 ## 2019
@@ -181,6 +181,11 @@ Victoire
 ### Не так, как кажется
 Robix
 > [2019-02-17] Фанфик
+
+
+### Короткие встречи
+Smaragd
+> [2019-02-16] Фанфик
 
 
 ### Дневник: Что вы знаете о ненависти?
