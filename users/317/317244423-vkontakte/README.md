@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>61</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>62</sup>
 ---
 
 ## 2019
@@ -86,6 +86,11 @@ herr.roysh
 ### Make you scream
 Ellyz
 > [2019-02-28] Фанфик
+
+
+### Анонимная любовь
+Тэри
+> [2019-02-26] Фанфик
 
 
 
