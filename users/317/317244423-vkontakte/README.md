@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>325</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>326</sup>
 ---
 
 ## 2019
@@ -1380,6 +1380,11 @@ somewhere at sea
 ### I аm your girlman
 MC_Mutant
 > [2016-09-21] Фанфик
+
+
+### Бомбейский сапфир
+Smaragd
+> [2016-09-17] Фанфик
 
 
 ### Ангел с дефектами

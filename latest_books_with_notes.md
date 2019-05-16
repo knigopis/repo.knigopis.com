@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бомбейский сапфир ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>326</sup>
 * Развлечения по субботам ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>325</sup>
 * Незабытый сон ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>324</sup>
 * Сердце дракона ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>323</sup>
@@ -30,7 +31,6 @@
 * Миндально-шоколадный альфа ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>299</sup>
 * Игра на выживание ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>298</sup>
 * Stop the clocks ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>297</sup>
-* Наваждение. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>296</sup>
 
 
-_16.05.2019 15:49:09_
+_16.05.2019 15:51:30_
