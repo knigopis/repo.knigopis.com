@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>404</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>405</sup>
 ---
 
 ## 2019
@@ -1780,6 +1780,11 @@ Himerus
 ### Я влюблён в своего учителя математики
 MaryIQ
 > [2016-06-15] Фанфик
+
+
+### Домашний арест
+Su.мрак
+> [2016-06-14] Фанфик
 
 
 ### Предыстория

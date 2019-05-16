@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Домашний арест ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>405</sup>
 * Я влюблён в своего учителя математики ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>404</sup>
 * Черно-белый фактор ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>403</sup>
 * Спасибо за снег! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>402</sup>
@@ -30,7 +31,6 @@
 * Джентльмены предпочитают блондинов ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>378</sup>
 * Что вы знаете о Поттере? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>377</sup>
 * Как умеет... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>376</sup>
-* "Шире!" или Занимательная стоматология ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>375</sup>
 
 
-_16.05.2019 18:02:36_
+_16.05.2019 18:03:20_
