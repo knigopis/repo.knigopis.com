@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* как разбить сердце Уилла Байерса ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>228</sup>
 * Внимание к деталям ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>227</sup>
 * Мой дом там, где ты ждешь меня ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>226</sup>
 * everything you want to see ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>225</sup>
@@ -30,7 +31,6 @@
 * The show time ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>201</sup>
 * со времен второй мировой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>200</sup>
 * Точка невозврата ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>199</sup>
-* Фестрал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>198</sup>
 
 
-_16.05.2019 14:41:04_
+_16.05.2019 14:41:31_

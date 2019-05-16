@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>227</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>228</sup>
 ---
 
 ## 2019
@@ -893,6 +893,11 @@ Rednol
 ### 404
 stolen v
 > [2017-12-01] Фанфик
+
+
+### как разбить сердце Уилла Байерса
+миш.
+> [2017-11-29] Фанфик
 
 
 ### Внимание к деталям

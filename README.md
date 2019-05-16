@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* как разбить сердце Уилла Байерса ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>228</sup>
+    > Фанфик
+
 * Внимание к деталям ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>227</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * everything you want to see ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>225</sup>
-    > Фанфик
 
 * по надорванным связкам крик ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>224</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Let go ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>219</sup>
 
-* When you are not around. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>218</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>227</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>228</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:41:04_
+_16.05.2019 14:41:31_
