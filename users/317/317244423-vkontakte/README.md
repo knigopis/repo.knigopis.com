@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>318</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>319</sup>
 ---
 
 ## 2019
@@ -1335,6 +1335,11 @@ thisismylastlie
 ### Лухан-в-Мине или Мин-в-Лухане?
 Amaya_Kudo
 > [2016-09-24] Фанфик
+
+
+### of puppies, little sisters and 'a happy new year'
+haneulie
+> [2016-09-23] Фанфик
 
 
 ### Let's do it together?
