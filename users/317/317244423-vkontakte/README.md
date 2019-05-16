@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>88</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>89</sup>
 ---
 
 ## 2019
@@ -221,6 +221,11 @@ Smaragd
 ### Отравлен тобой
 Хельга снежная
 > [2019-02-08] Фанфик
+
+
+### Ночь в Министерстве
+Maeglin_Yedi
+> [2019-02-07] Фанфик
 
 
 

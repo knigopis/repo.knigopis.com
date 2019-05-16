@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ночь в Министерстве ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>89</sup>
 * Отравлен тобой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>88</sup>
 * Рождественская сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>87</sup>
 * Я жду ребёнка! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>86</sup>
@@ -30,7 +31,6 @@
 * Анонимная любовь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>62</sup>
 * My wild beast. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>61</sup>
 * Make you scream ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>60</sup>
-* The giggle at a funeral. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>59</sup>
 
 
-_16.05.2019 12:12:57_
+_16.05.2019 12:13:23_
