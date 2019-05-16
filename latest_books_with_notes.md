@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Я жду ребёнка! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>86</sup>
 * Короткие встречи ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>85</sup>
 * Дневник: Что вы знаете о ненависти? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>84</sup>
 * Гарри - Санта ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>83</sup>
@@ -30,7 +31,6 @@
 * The giggle at a funeral. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>59</sup>
 * desperate. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>58</sup>
 * Такоцубо ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>57</sup>
-* Отстрой все заново ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>56</sup>
 
 
-_16.05.2019 12:10:46_
+_16.05.2019 12:11:25_
