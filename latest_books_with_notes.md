@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вкус чужой крови ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>188</sup>
 * Ты пахнешь мятой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>187</sup>
 * Бомб-вояж ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>186</sup>
 * Подожди ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>185</sup>
@@ -30,7 +31,6 @@
 * Последняя из рода Блэк ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>160</sup>
 * Другая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>159</sup>
 * Гарри Поттер и Разговоры о Пчелках ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>158</sup>
-* Аромат лимонной мяты. Книга первая. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>157</sup>
 
 
-_16.05.2019 14:20:24_
+_16.05.2019 14:20:51_

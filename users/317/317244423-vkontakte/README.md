@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>187</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>188</sup>
 ---
 
 ## 2019
@@ -708,6 +708,11 @@ Amaya_Kudo
 ### Бомб-вояж
 Map the Soul
 > [2018-02-26] Фанфик
+
+
+### Вкус чужой крови
+Etan Scarabey
+> [2018-02-25] Фанфик
 
 
 ### Ты пахнешь мятой
