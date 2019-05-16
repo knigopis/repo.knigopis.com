@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Поттер, заткнись! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>367</sup>
 * У него такие глаза ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>366</sup>
 * Месть блондинки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>365</sup>
 * Магический киндер-сюрприз ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>364</sup>
@@ -30,7 +31,6 @@
 * Новая жизнь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>340</sup>
 * Не дай мне упасть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>339</sup>
 * Однажды в визжащей хижине ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>338</sup>
-* Любовь без памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>337</sup>
 
 
-_16.05.2019 17:34:16_
+_16.05.2019 17:34:54_
