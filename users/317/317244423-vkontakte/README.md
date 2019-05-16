@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>192</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>193</sup>
 ---
 
 ## 2019
@@ -738,6 +738,11 @@ birdsofshore
 ### Наследник Блэков
 leska.nastya
 > [2018-02-23] Фанфик
+
+
+### Ожившая карта
+Potash
+> [2018-02-22] Фанфик
 
 
 

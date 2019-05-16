@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ожившая карта ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>193</sup>
 * Vampire Heart ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>192</sup>
 * Оголодавший ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>191</sup>
 * Наследник Блэков ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>190</sup>
@@ -30,7 +31,6 @@
 * Змея Давида ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>165</sup>
 * Не желаете сменить фамилию? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>164</sup>
 *  ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>163</sup>
-* Чужая тень ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>162</sup>
 
 
-_16.05.2019 14:22:50_
+_16.05.2019 14:23:12_
