@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Неверный путь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>374</sup>
 * Другой я, такой же ты ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>373</sup>
 * Зеркала всегда врут ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>372</sup>
 * In Need of a Proper Hug ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>371</sup>
@@ -30,7 +31,6 @@
 * Мандаринки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>347</sup>
 * Диалоги в Париже накануне Рождества ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>346</sup>
 * Подарки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>345</sup>
-* Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>344</sup>
 
 
-_16.05.2019 17:38:17_
+_16.05.2019 17:38:42_

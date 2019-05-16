@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>373</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>374</sup>
 ---
 
 ## 2019
@@ -1620,6 +1620,11 @@ FaithWood
 ### Он - мой, и идите все к черту!
 Himerus
 > [2016-07-21] Фанфик
+
+
+### Неверный путь
+TsissiBlack
+> [2016-07-20] Фанфик
 
 
 ### Ангел с дефектами
