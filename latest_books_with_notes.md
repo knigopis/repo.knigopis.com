@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Я слежу за тобой. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>290</sup>
 * Коротышка. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>289</sup>
 * You're so fuckin' special ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>288</sup>
 * Ангел с дефектами ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>287</sup>
@@ -30,7 +31,6 @@
 * Женаты поневоле ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>263</sup>
 * Взаимная ненависть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>262</sup>
 * Жатва ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>261</sup>
-* Няня для Гарри Поттера, или план Дамблдора №394 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>260</sup>
 
 
-_16.05.2019 15:25:33_
+_16.05.2019 15:26:04_
