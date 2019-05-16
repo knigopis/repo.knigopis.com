@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>351</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>352</sup>
 ---
 
 ## 2019
@@ -1510,6 +1510,11 @@ tuuli-veter
 ### Как все это было. Измененная версия.
 Himerus
 > [2016-07-25] Фанфик
+
+
+### Любовь под рёв стадиона
+Draco kls
+> [2016-07-24] Фанфик
 
 
 ### Ангел с дефектами
