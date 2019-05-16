@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>138</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>139</sup>
 ---
 
 ## 2019
@@ -464,6 +464,11 @@ NikMac
 ### О
 ZO_YA
 > [2018-07-21] Фанфик
+
+
+### Странный парень за дверью
+дитя зари
+> [2018-07-20] Фанфик
 
 
 ### «LOL: Live, Outplay & Love»
