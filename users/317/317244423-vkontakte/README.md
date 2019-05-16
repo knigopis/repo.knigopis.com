@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>173</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>174</sup>
 ---
 
 ## 2019
@@ -51,6 +51,11 @@ Kefalion
 ### Растяпа
 zhanna_12_09
 > [2019-04-08] Фанфик
+
+
+### Перерожденный
+Dr. Richtofen
+> [2019-04-07] Фанфик
 
 
 ### Sowilo
