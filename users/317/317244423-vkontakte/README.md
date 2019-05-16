@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>252</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>253</sup>
 ---
 
 ## 2019
@@ -1028,6 +1028,11 @@ atashi_no_seishun
 ### Это не я, это не он (от 18)
 Himerus
 > [2017-08-03] Фанфик
+
+
+### И пришел день...
+Fargen
+> [2017-07-27] Фанфик
 
 
 ### Не хочу, не могу, не буду!

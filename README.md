@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* И пришел день... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>253</sup>
+    > Фанфик
+
 * Пара слов про месть и прочее дерьмо. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>252</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Academy of Roses ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>250</sup>
-    > Фанфик
 
 * Жених из Ада ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>249</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Там, где твой дом ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>244</sup>
 
-* Сливовый цвет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>243</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>252</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>253</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:59:11_
+_16.05.2019 14:59:32_

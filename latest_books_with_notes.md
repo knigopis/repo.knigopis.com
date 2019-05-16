@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* И пришел день... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>253</sup>
 * Пара слов про месть и прочее дерьмо. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>252</sup>
 * Не хочу, не могу, не буду! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>251</sup>
 * Academy of Roses ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>250</sup>
@@ -30,7 +31,6 @@
 * Мой дом там, где ты ждешь меня ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>226</sup>
 * everything you want to see ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>225</sup>
 * по надорванным связкам крик ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>224</sup>
-* full of monsters ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>223</sup>
 
 
-_16.05.2019 14:59:11_
+_16.05.2019 14:59:32_
