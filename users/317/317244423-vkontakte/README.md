@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>218</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>219</sup>
 ---
 
 ## 2019
@@ -873,6 +873,11 @@ Vampyreunnie
 ### Яма на троих
 tuuli-veter
 > [2017-12-04] Фанфик
+
+
+### Let go
+Nelly Colst
+> [2017-12-03] Фанфик
 
 
 ### When you are not around.

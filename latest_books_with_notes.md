@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Let go ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>219</sup>
 * When you are not around. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>218</sup>
 * Яма на троих ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>217</sup>
 * Поттер, одолжи фамилию? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>216</sup>
@@ -30,7 +31,6 @@
 * Vampire Heart ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>192</sup>
 * Оголодавший ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>191</sup>
 * Наследник Блэков ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>190</sup>
-* Поймай этот долбаный снитч, если сможешь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>189</sup>
 
 
-_16.05.2019 14:37:23_
+_16.05.2019 14:37:42_
