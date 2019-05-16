@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>324</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>325</sup>
 ---
 
 ## 2019
@@ -1345,6 +1345,11 @@ Smaragd
 ### Лухан-в-Мине или Мин-в-Лухане?
 Amaya_Kudo
 > [2016-09-24] Фанфик
+
+
+### Развлечения по субботам
+Leo_L
+> [2016-09-23] Фанфик
 
 
 ### Shatter
