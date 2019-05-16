@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сердце дракона ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>323</sup>
 * Завтра будет завтра ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>322</sup>
 * Shatter ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>321</sup>
 * Кёнсу и "Розовый цвет любви" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>320</sup>
@@ -30,7 +31,6 @@
 * Наваждение. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>296</sup>
 * Впусти меня и я разрушу тебя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>295</sup>
 * Чилдрен-сюрприз! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>294</sup>
-* "Шесть" - это не цифра! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>293</sup>
 
 
-_16.05.2019 15:47:09_
+_16.05.2019 15:47:36_
