@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* влечение ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>141</sup>
 * Sound of Heart ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>140</sup>
 * Странный парень за дверью ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>139</sup>
 * «LOL: Live, Outplay & Love» ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>138</sup>
@@ -30,7 +31,6 @@
 * Под скорлупой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>114</sup>
 * Память героя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>113</sup>
 * Angels and Devils ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>112</sup>
-* Шелест прошлого ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>111</sup>
 
 
-_16.05.2019 12:45:34_
+_16.05.2019 12:45:54_
