@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Не дай мне упасть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>339</sup>
+    > Фанфик
+
 * Однажды в визжащей хижине ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>338</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Страсть... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>336</sup>
-    > Фанфик
 
 * Оставь поля цвести ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>335</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Он хотел... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>330</sup>
 
-* Articulo mortis ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>329</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>338</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>339</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 17:12:38_
+_16.05.2019 17:13:12_
