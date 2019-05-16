@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Новая жизнь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>340</sup>
+    > Фанфик
+
 * Не дай мне упасть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>339</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Любовь без памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>337</sup>
-    > Фанфик
 
 * Страсть... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>336</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Unkissed Kisses and Songs Never Sung ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>331</sup>
 
-* Он хотел... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>330</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>339</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>340</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 17:13:12_
+_16.05.2019 17:14:10_

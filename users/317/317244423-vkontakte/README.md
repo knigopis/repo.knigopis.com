@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>339</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>340</sup>
 ---
 
 ## 2019
@@ -1445,6 +1445,11 @@ anntimmy
 ### Однажды в визжащей хижине
 Meryto
 > [2016-08-07] Фанфик
+
+
+### Новая жизнь
+Stacy_Borc
+> [2016-08-06] Фанфик
 
 
 ### Не дай мне упасть
