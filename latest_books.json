@@ -1,4 +1,16 @@
 {
+    "qxWk5fyUUE": {
+        "id": "qxWk5fyUUE",
+        "title": "(не) реальный альфа",
+        "author": "just B.",
+        "notes": "Фанфик",
+        "createdAt": "2019-05-16 12:03:24",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 72
+        }
+    },
     "P7DrbEH1qc": {
         "id": "P7DrbEH1qc",
         "title": "Жёлтая ленточка",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 34
-        }
-    },
-    "uff1Z5tSp0": {
-        "id": "uff1Z5tSp0",
-        "title": "Священная книга оборотня",
-        "author": "Виктор Пелевин",
-        "notes": "интересная история про оборотней в москве",
-        "createdAt": "2019-05-15 21:06:50",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 33
         }
     }
 }

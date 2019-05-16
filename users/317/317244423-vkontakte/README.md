@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>71</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>72</sup>
 ---
 
 ## 2019
@@ -131,6 +131,11 @@ MissK
 ### Кисэн
 DOD.O
 > [2019-02-22] Фанфик
+
+
+### (не) реальный альфа
+just B.
+> [2019-02-21] Фанфик
 
 
 ### Жёлтая ленточка

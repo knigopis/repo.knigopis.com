@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* (не) реальный альфа ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>72</sup>
 * Жёлтая ленточка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>71</sup>
 * Кисэн ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>70</sup>
 * Один месяц с кумиром ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>69</sup>
@@ -30,7 +31,6 @@
 * Затворник и Шестипалый ~ [Quaff](users/122/12267158-vkontakte)<sup>35</sup>
 * Омон Ра ~ [Quaff](users/122/12267158-vkontakte)<sup>34</sup>
 * Священная книга оборотня ~ [Quaff](users/122/12267158-vkontakte)<sup>33</sup>
-* Brotherhood of Warriors: Behind Enemy Lines with a Commando in One of the World's Most Elite Counterterrorism Units ~ [exulted](users/100/100599204551896265722-google)<sup>105</sup>
 
 
-_16.05.2019 12:02:30_
+_16.05.2019 12:03:24_
