@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>174</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>175</sup>
 ---
 
 ## 2019
@@ -653,6 +653,11 @@ Alex-80
 ### Ещё один год
 СкальдЪ
 > [2018-04-10] Фанфик
+
+
+### Эффект птеродактиля
+Заязочка
+> [2018-04-04] Фанфик
 
 
 ### Гордость и предубеждение
