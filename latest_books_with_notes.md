@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Семикурсники ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>77</sup>
 * Растекающаяся реальность ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>76</sup>
 * Вернуть тебя. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>75</sup>
 * 23 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>74</sup>
@@ -30,7 +31,6 @@
 * Потерянное время ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>50</sup>
 * Неожиданный договор. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>49</sup>
 * Неожиданная сделка. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>48</sup>
-* Сильные мира всего. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>47</sup>
 
 
-_16.05.2019 12:05:15_
+_16.05.2019 12:05:43_
