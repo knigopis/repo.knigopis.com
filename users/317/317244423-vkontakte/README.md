@@ -1,7 +1,12 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>49</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>50</sup>
 ---
 
 ## 2019
+
+### Потерянное время
+Батон-праведник
+> [2019-05-11] Фанфик.
+
 
 ### Чёрная лилия.
 DreamSVV
