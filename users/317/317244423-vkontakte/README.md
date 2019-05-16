@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>231</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>232</sup>
 ---
 
 ## 2019
@@ -943,6 +943,11 @@ postb1ack
 ### NRX
 мэнди блант
 > [2017-11-17] Фанфик
+
+
+### Love and Marriage.
+Heika Mitich
+> [2017-11-16] Фанфик
 
 
 
