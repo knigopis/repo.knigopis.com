@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Няня для Гарри Поттера, или план Дамблдора №394 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>260</sup>
 * I'm preying on you. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>259</sup>
 * Неожиданная история. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>258</sup>
 * Александр Н. и месть волшебного мира ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>257</sup>
@@ -30,7 +31,6 @@
 * За что тебя ненавижу... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>233</sup>
 * Love and Marriage. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>232</sup>
 * NRX ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>231</sup>
-* (Не)обретенное ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>230</sup>
 
 
-_16.05.2019 15:05:21_
+_16.05.2019 15:05:51_
