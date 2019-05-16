@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>193</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>194</sup>
 ---
 
 ## 2019
@@ -743,6 +743,11 @@ leska.nastya
 ### Ожившая карта
 Potash
 > [2018-02-22] Фанфик
+
+
+### Принц для Драко, или Три орешка для Золушка
+Рейна Рей
+> [2018-02-21] Фанфик
 
 
 

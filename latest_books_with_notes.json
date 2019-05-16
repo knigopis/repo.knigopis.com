@@ -1,4 +1,16 @@
 {
+    "cv07gCOx2k": {
+        "id": "cv07gCOx2k",
+        "title": "Принц для Драко, или Три орешка для Золушка",
+        "author": "Рейна Рей",
+        "notes": "Фанфик",
+        "createdAt": "2019-05-16 14:23:33",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 194
+        }
+    },
     "oFqFo01q0W": {
         "id": "oFqFo01q0W",
         "title": "Ожившая карта",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 164
-        }
-    },
-    "cWUWuiMuGP": {
-        "id": "cWUWuiMuGP",
-        "title": "",
-        "author": "Девушка для героя",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 14:04:54",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 163
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Принц для Драко, или Три орешка для Золушка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>194</sup>
 * Ожившая карта ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>193</sup>
 * Vampire Heart ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>192</sup>
 * Оголодавший ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>191</sup>
@@ -30,7 +31,6 @@
 * Улыбка Блейза Забини ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>166</sup>
 * Змея Давида ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>165</sup>
 * Не желаете сменить фамилию? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>164</sup>
-*  ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>163</sup>
 
 
-_16.05.2019 14:23:12_
+_16.05.2019 14:23:33_
