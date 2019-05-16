@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* У него такие глаза ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>366</sup>
 * Месть блондинки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>365</sup>
 * Магический киндер-сюрприз ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>364</sup>
 * Кролик по имени Поттер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>363</sup>
@@ -30,7 +31,6 @@
 * Не дай мне упасть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>339</sup>
 * Однажды в визжащей хижине ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>338</sup>
 * Любовь без памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>337</sup>
-* Страсть... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>336</sup>
 
 
-_16.05.2019 17:33:35_
+_16.05.2019 17:34:16_
