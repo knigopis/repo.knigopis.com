@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* За что тебя ненавижу... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>233</sup>
 * Love and Marriage. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>232</sup>
 * NRX ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>231</sup>
 * (Не)обретенное ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>230</sup>
@@ -30,7 +31,6 @@
 * Бюро находок ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>206</sup>
 * Not Intended ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>205</sup>
 * Семья для Гарри ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>204</sup>
-* Казнить нельзя помиловать ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>203</sup>
 
 
-_16.05.2019 14:43:03_
+_16.05.2019 14:48:01_
