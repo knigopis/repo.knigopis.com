@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Где ты будешь спать завтра? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>356</sup>
+    > Фанфик
+
 * Про блудных сов и охоту за сокровищами ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>355</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Сказки Малфой-мэнора ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>353</sup>
-    > Фанфик
 
 * Любовь под рёв стадиона ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>352</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мандаринки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>347</sup>
 
-* Диалоги в Париже накануне Рождества ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>346</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>355</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>356</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 17:28:02_
+_16.05.2019 17:28:50_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Где ты будешь спать завтра? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>356</sup>
 * Про блудных сов и охоту за сокровищами ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>355</sup>
 * Пуховый Поттер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>354</sup>
 * Сказки Малфой-мэнора ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>353</sup>
@@ -30,7 +31,6 @@
 * Articulo mortis ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>329</sup>
 * "Оранжевый и серый" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>328</sup>
 * "To catch Malfoy" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>327</sup>
-* Бомбейский сапфир ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>326</sup>
 
 
-_16.05.2019 17:28:02_
+_16.05.2019 17:28:50_
