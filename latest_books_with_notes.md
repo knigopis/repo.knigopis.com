@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Проснись со мной ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>430</sup>
 * Гарри Поттер и Трудности преподавания ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>429</sup>
 * Artificial Universe ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>428</sup>
 * Мой первый роман ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>427</sup>
@@ -30,7 +31,6 @@
 * Черно-белый фактор ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>403</sup>
 * Спасибо за снег! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>402</sup>
 * game starts ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>401</sup>
-* Выше нас только небо ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>400</sup>
 
 
-_16.05.2019 18:21:41_
+_16.05.2019 18:22:10_
