@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* In Need of a Proper Hug ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>371</sup>
+    > Фанфик
+
 * Он - мой, и идите все к черту! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>370</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Там, где остановилось время ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>368</sup>
-    > Фанфик
 
 * Поттер, заткнись! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>367</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Не тот, кем кажется ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>362</sup>
 
-* Еще одно лето ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>361</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>370</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>371</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 17:36:29_
+_16.05.2019 17:37:00_
