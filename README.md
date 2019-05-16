@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>142</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114792281744850455512-google)<sup>1</sup> 
 [Alla](users/103/103352250712959229257-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>178</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>699</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>60</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>61</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>118</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 12:46:26_
+_16.05.2019 12:57:16_
