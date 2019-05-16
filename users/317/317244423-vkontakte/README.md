@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>369</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>370</sup>
 ---
 
 ## 2019
@@ -1600,6 +1600,11 @@ Himerus
 ### Кролик по имени Поттер
 tuuli-veter
 > [2016-07-22] Фанфик
+
+
+### Он - мой, и идите все к черту!
+Himerus
+> [2016-07-21] Фанфик
 
 
 ### Ангел с дефектами

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Он - мой, и идите все к черту! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>370</sup>
 * Как лучше ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>369</sup>
 * Там, где остановилось время ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>368</sup>
 * Поттер, заткнись! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>367</sup>
@@ -30,7 +31,6 @@
 * Draco is awaiting ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>343</sup>
 * Башни, сигареты, любовь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>342</sup>
 * Время жить ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>341</sup>
-* Новая жизнь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>340</sup>
 
 
-_16.05.2019 17:35:57_
+_16.05.2019 17:36:29_
