@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>313</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>314</sup>
 ---
 
 ## 2019
@@ -1310,6 +1310,11 @@ haneulie
 ### День п*****а
 Artemi
 > [2016-09-30] Фанфик
+
+
+### Ну и олень же ты, Поттер.
+Cleona
+> [2016-09-27] Фанфик
 
 
 ### Let's do it together?
