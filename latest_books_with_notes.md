@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Площадь наших сердец ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>316</sup>
 * Cigarettes Will Kill You ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>315</sup>
 * Ну и олень же ты, Поттер. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>314</sup>
 * Женушка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>313</sup>
@@ -30,7 +31,6 @@
 * Коротышка. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>289</sup>
 * You're so fuckin' special ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>288</sup>
 * Ангел с дефектами ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>287</sup>
-* МЯТЕЖНЫЕ ДУШИ ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>286</sup>
 
 
-_16.05.2019 15:42:27_
+_16.05.2019 15:42:49_
