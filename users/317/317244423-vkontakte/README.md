@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>230</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>231</sup>
 ---
 
 ## 2019
@@ -938,6 +938,11 @@ ria push.
 ### Байерс плюс Уилер
 postb1ack
 > [2017-11-29] Фанфик
+
+
+### NRX
+мэнди блант
+> [2017-11-17] Фанфик
 
 
 
