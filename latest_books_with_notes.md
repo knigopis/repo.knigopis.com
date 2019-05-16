@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Behind Blue Eyes ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>63</sup>
 * Анонимная любовь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>62</sup>
 * My wild beast. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>61</sup>
 * Make you scream ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>60</sup>
@@ -30,7 +31,6 @@
 * Игра Ангела ~ [anvonamore](users/595/5957175-vkontakte)<sup>123</sup>
 * L'homme qui regardait passer les trains ~ [violet_velva](users/116/116961712580551399099-google)<sup>60</sup>
 * О всех созданиях – больших и малых ~ [Garka](users/115/115753719718250012620-google)<sup>218</sup>
-* Тобол. Мало избранных ~ [exulted](users/100/100599204551896265722-google)<sup>104</sup>
 
 
-_16.05.2019 11:56:31_
+_16.05.2019 11:57:07_
