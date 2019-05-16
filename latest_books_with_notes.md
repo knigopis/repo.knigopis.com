@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Stalker. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>151</sup>
 * Презервативы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>150</sup>
 * Well, let's lie ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>149</sup>
 * В процентах ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>148</sup>
@@ -30,7 +31,6 @@
 * Боец ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>124</sup>
 * Проверка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>123</sup>
 * Happily Ever After ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>122</sup>
-* A Slytherin in Gryffindor Clothing ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>121</sup>
 
 
-_16.05.2019 13:58:27_
+_16.05.2019 13:59:37_
