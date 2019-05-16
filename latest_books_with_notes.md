@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The Outsider ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>264</sup>
 * Женаты поневоле ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>263</sup>
 * Взаимная ненависть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>262</sup>
 * Жатва ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>261</sup>
@@ -30,7 +31,6 @@
 * Личный колдомедик Поттера ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>237</sup>
 * Поймать Тень ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>236</sup>
 * Истинных не выбирают ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>235</sup>
-* Happy End?.. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>234</sup>
 
 
-_16.05.2019 15:07:33_
+_16.05.2019 15:08:15_

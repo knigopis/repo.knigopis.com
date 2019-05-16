@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>263</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>264</sup>
 ---
 
 ## 2019
@@ -1106,6 +1106,11 @@ NZMar
 ### Женаты поневоле
 Злая тетя
 > [2016-11-29] Фанфик
+
+
+### The Outsider
+leaderkyuzizi
+> [2016-10-28] Фанфик
 
 
 ### Предыстория
