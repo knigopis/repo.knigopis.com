@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>279</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>280</sup>
 ---
 
 ## 2019
@@ -1181,6 +1181,11 @@ just Snake
 ### Silentium!
 Кьюба
 > [2016-11-11] Фанфик
+
+
+### Загадки Отдела Тайн
+WhiteBloodOfGod
+> [2016-11-09] Фанфик
 
 
 ### The Outsider

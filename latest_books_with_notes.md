@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Загадки Отдела Тайн ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>280</sup>
 * Silentium! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>279</sup>
 * Все любят пудинг ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>278</sup>
 * Самые прекрасные цветы растут из грязи ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>277</sup>
@@ -30,7 +31,6 @@
 * И пришел день... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>253</sup>
 * Пара слов про месть и прочее дерьмо. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>252</sup>
 * Не хочу, не могу, не буду! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>251</sup>
-* Academy of Roses ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>250</sup>
 
 
-_16.05.2019 15:16:12_
+_16.05.2019 15:16:38_
