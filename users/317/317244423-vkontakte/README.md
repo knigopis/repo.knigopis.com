@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>128</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>129</sup>
 ---
 
 ## 2019
@@ -424,6 +424,11 @@ Slizerinka
 ### Молчи громче
 Chibi Sanmin
 > [2018-08-31] Фанфик
+
+
+### Могущество и слабость.
+Сергей_Старец_Батик
+> [2018-08-24] Фанфик
 
 
 ### Гордость и предубеждение

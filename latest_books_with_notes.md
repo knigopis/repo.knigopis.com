@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Могущество и слабость. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>129</sup>
 * Молчи громче ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>128</sup>
 * "Дыра" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>127</sup>
 * Мне нужна моя омега. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>126</sup>
@@ -30,7 +31,6 @@
 * Природа вейлы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>102</sup>
 * Дорогущий ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>101</sup>
 * Шаги в тумане ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>100</sup>
-* Hurricane ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>99</sup>
 
 
-_16.05.2019 12:40:23_
+_16.05.2019 12:40:51_
