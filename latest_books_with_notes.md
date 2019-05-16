@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>163</sup>
 * Чужая тень ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>162</sup>
 * Поздно для любви. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>161</sup>
 * Последняя из рода Блэк ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>160</sup>
@@ -30,7 +31,6 @@
 * О ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>136</sup>
 * sugarless. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>135</sup>
 * Я научу вас стоять на коленях! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>134</sup>
-* Почему не стоит злить Гарри Поттера... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>133</sup>
 
 
-_16.05.2019 14:04:24_
+_16.05.2019 14:04:54_

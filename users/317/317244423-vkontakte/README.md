@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>162</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>163</sup>
 ---
 
 ## 2019
@@ -594,6 +594,10 @@ YourMystery
 ### Поздно для любви.
 Irdis.
 > [2018-05-22] Фанфик
+
+
+Девушка для героя
+> [2018-05-21] Фанфик
 
 
 ### Гордость и предубеждение
