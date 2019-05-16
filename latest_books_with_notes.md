@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как лучше ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>369</sup>
 * Там, где остановилось время ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>368</sup>
 * Поттер, заткнись! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>367</sup>
 * У него такие глаза ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>366</sup>
@@ -30,7 +31,6 @@
 * Башни, сигареты, любовь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>342</sup>
 * Время жить ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>341</sup>
 * Новая жизнь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>340</sup>
-* Не дай мне упасть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>339</sup>
 
 
-_16.05.2019 17:35:28_
+_16.05.2019 17:35:57_

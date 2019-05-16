@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>368</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>369</sup>
 ---
 
 ## 2019
@@ -1570,6 +1570,11 @@ Shinas smile
 ### Русалочка
 Charoit
 > [2016-07-23] Фанфик
+
+
+### Как лучше
+Маниакальная_Шизофрения
+> [2016-07-22] Фанфик
 
 
 ### Там, где остановилось время
