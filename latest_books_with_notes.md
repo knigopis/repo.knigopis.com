@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Страсть... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>336</sup>
 * Оставь поля цвести ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>335</sup>
 * Окклюменция ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>334</sup>
 * The future is now ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>333</sup>
@@ -30,7 +31,6 @@
 * Let me love you ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>309</sup>
 * Не верно. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>308</sup>
 * not another scary movie ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>307</sup>
-* hate u ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>306</sup>
 
 
-_16.05.2019 17:09:13_
+_16.05.2019 17:11:19_

@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>335</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>336</sup>
 ---
 
 ## 2019
@@ -1430,6 +1430,11 @@ Jean Sugui
 ### Оставь поля цвести
 emmagrant01
 > [2016-08-16] Фанфик
+
+
+### Страсть...
+Lifeless_Doll
+> [2016-08-12] Фанфик
 
 
 ### Ангел с дефектами
