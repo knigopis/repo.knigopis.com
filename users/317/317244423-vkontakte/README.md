@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>398</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>399</sup>
 ---
 
 ## 2019
@@ -1745,6 +1745,11 @@ Blaidd
 ### Это он!
 Alino4ka17
 > [2016-06-28] Фанфик
+
+
+### В полночь принцесса превращается в...
+Reiters
+> [2016-06-27] Фанфик
 
 
 ### Грань между светом и тьмой

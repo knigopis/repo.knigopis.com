@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В полночь принцесса превращается в... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>399</sup>
 * Бывший - дело тонкое ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>398</sup>
 * Double fake ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>397</sup>
 * Это он! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>396</sup>
@@ -30,7 +31,6 @@
 * Зеркала всегда врут ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>372</sup>
 * In Need of a Proper Hug ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>371</sup>
 * Он - мой, и идите все к черту! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>370</sup>
-* Как лучше ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>369</sup>
 
 
-_16.05.2019 17:58:02_
+_16.05.2019 17:58:58_
