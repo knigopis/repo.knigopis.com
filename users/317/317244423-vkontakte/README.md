@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>426</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>427</sup>
 ---
 
 ## 2019
@@ -1890,6 +1890,11 @@ Tekken_17
 ### Eternal Feelings
 mariaw88
 > [2016-05-24] Фанфик
+
+
+### Мой первый роман
+sayaboutit
+> [2016-05-23] Фанфик
 
 
 ### Предыстория
