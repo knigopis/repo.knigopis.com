@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* История третья. Гермиона Грейнджер и Узники Хогвартса ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>211</sup>
 * История четвертая. Гермиона Грейнджер и Дружба народов ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>210</sup>
 * История седьмая. Гермиона Грейнджер и Дар Жизни ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>209</sup>
 * Рождение чуда ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>208</sup>
@@ -30,7 +31,6 @@
 * makemedark.net ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>184</sup>
 * Журавлики ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>183</sup>
 * Я найду тебя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>182</sup>
-* Тату салон «Чёрная лилия» ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>181</sup>
 
 
-_16.05.2019 14:31:46_
+_16.05.2019 14:32:08_
