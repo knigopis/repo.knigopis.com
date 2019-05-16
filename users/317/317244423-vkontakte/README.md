@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>127</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>128</sup>
 ---
 
 ## 2019
@@ -419,6 +419,11 @@ Slizerinka
 ### Мне нужна моя омега.
 Эвика
 > [2018-09-21] Фанфик
+
+
+### Молчи громче
+Chibi Sanmin
+> [2018-08-31] Фанфик
 
 
 ### Гордость и предубеждение

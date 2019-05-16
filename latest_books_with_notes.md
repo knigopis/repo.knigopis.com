@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Молчи громче ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>128</sup>
 * "Дыра" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>127</sup>
 * Мне нужна моя омега. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>126</sup>
 * Давай встречаться, Малфой! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>125</sup>
@@ -30,7 +31,6 @@
 * Дорогущий ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>101</sup>
 * Шаги в тумане ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>100</sup>
 * Hurricane ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>99</sup>
-* Про трусы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>98</sup>
 
 
-_16.05.2019 12:39:50_
+_16.05.2019 12:40:23_
