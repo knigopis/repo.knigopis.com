@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Диалоги в Париже накануне Рождества ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>346</sup>
 * Подарки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>345</sup>
 * Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>344</sup>
 * Draco is awaiting ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>343</sup>
@@ -30,7 +31,6 @@
 * of puppies, little sisters and 'a happy new year' ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>319</sup>
 * Лухан-в-Мине или Мин-в-Лухане? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>318</sup>
 * Dе Walletjes ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>317</sup>
-* Площадь наших сердец ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>316</sup>
 
 
-_16.05.2019 17:18:49_
+_16.05.2019 17:19:20_
