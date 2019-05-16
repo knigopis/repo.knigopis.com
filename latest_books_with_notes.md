@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Touch me, touch me more ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>310</sup>
 * Let me love you ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>309</sup>
 * Не верно. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>308</sup>
 * not another scary movie ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>307</sup>
@@ -30,7 +31,6 @@
 * Только мой Бэкки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>283</sup>
 * fifth century: Digamma. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>282</sup>
 * Фрэнк - "на удачу". Франк - "на счастье" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>281</sup>
-* Загадки Отдела Тайн ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>280</sup>
 
 
-_16.05.2019 15:38:34_
+_16.05.2019 15:39:05_
