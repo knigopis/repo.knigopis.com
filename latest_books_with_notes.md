@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Венки из одуванчиков. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>79</sup>
 * Первый шаг или После стольких лет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>78</sup>
 * Семикурсники ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>77</sup>
 * Растекающаяся реальность ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>76</sup>
@@ -30,7 +31,6 @@
 * Гарри, Драко и Кубок Огня ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>52</sup>
 * Ожидание ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>51</sup>
 * Потерянное время ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>50</sup>
-* Неожиданный договор. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>49</sup>
 
 
-_16.05.2019 12:06:14_
+_16.05.2019 12:06:42_
