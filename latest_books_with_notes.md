@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Фехтовальщица ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>177</sup>
 * Эффект птеродактиля ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>175</sup>
 * Перерожденный ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>174</sup>
 * Растяпа ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>173</sup>
@@ -30,7 +31,6 @@
 * Well, let's lie ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>149</sup>
 * В процентах ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>148</sup>
 * капризуля ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>147</sup>
-* My baby boy. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>146</sup>
 
 
-_16.05.2019 14:12:43_
+_16.05.2019 14:15:37_

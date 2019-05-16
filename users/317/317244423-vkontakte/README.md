@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>176</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>177</sup>
 ---
 
 ## 2019
@@ -653,6 +653,11 @@ zhanna_12_09
 ### Перерожденный
 Dr. Richtofen
 > [2018-04-07] Фанфик
+
+
+### Фехтовальщица
+Leka-splushka
+> [2018-04-06] Фанфик
 
 
 ### Эффект птеродактиля
