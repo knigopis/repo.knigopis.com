@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>169</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>170</sup>
 ---
 
 ## 2019
@@ -623,6 +623,11 @@ Alex-80
 ### Там, на неведомых дорожках
 СкальдЪ
 > [2018-04-11] Фанфик
+
+
+### Неслучайные случайности
+СкальдЪ
+> [2018-04-10] Фанфик
 
 
 ### Ещё один год

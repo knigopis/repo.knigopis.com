@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Неслучайные случайности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>170</sup>
 * Ещё один год ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>169</sup>
 * Там, на неведомых дорожках ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>168</sup>
 * И где сейчас ваши мстители? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>167</sup>
@@ -30,7 +31,6 @@
 * not such as all. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>143</sup>
 * Яблоки на снегу ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>142</sup>
 * влечение ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>141</sup>
-* Sound of Heart ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>140</sup>
 
 
-_16.05.2019 14:09:22_
+_16.05.2019 14:10:04_
