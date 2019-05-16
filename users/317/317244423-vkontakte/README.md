@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>55</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>56</sup>
 ---
 
 ## 2019
@@ -51,6 +51,11 @@ storyforsomeone
 ### Драко Малфой и Тайная комната
 Jude Brownie
 > [2019-03-29] Фанфик
+
+
+### Отстрой все заново
+godofhammers (kishafisha)
+> [2019-03-26] Фанфик
 
 
 ### Внеклассное чтение
