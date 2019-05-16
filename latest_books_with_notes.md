@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Коротышка. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>289</sup>
 * You're so fuckin' special ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>288</sup>
 * Ангел с дефектами ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>287</sup>
 * МЯТЕЖНЫЕ ДУШИ ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>286</sup>
@@ -30,7 +31,6 @@
 * Взаимная ненависть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>262</sup>
 * Жатва ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>261</sup>
 * Няня для Гарри Поттера, или план Дамблдора №394 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>260</sup>
-* I'm preying on you. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>259</sup>
 
 
-_16.05.2019 15:24:28_
+_16.05.2019 15:25:33_

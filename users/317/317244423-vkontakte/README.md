@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>288</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>289</sup>
 ---
 
 ## 2019
@@ -1238,6 +1238,11 @@ Little E.L.F.
 
 
 ## 2015
+
+### Коротышка.
+Artemi
+> [2015-10-10] Фанфик
+
 
 ### You're so fuckin' special
 Лись_я морда
