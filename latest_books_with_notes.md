@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Проверка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>123</sup>
 * Happily Ever After ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>122</sup>
 * A Slytherin in Gryffindor Clothing ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>121</sup>
 * Неко ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>120</sup>
@@ -30,7 +31,6 @@
 * Во что ты верил, Драко Малфой? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>96</sup>
 * Добрая сказка на ночь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>95</sup>
 * I hate sober ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>94</sup>
-* Особые потребности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>93</sup>
 
 
-_16.05.2019 12:36:39_
+_16.05.2019 12:37:00_
