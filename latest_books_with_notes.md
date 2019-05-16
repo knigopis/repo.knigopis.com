@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The Call (9/11) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>196</sup>
 * Влюблённый Поттер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>195</sup>
 * Принц для Драко, или Три орешка для Золушка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>194</sup>
 * Ожившая карта ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>193</sup>
@@ -30,7 +31,6 @@
 * Там, на неведомых дорожках ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>168</sup>
 * И где сейчас ваши мстители? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>167</sup>
 * Улыбка Блейза Забини ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>166</sup>
-* Змея Давида ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>165</sup>
 
 
-_16.05.2019 14:23:54_
+_16.05.2019 14:24:17_
