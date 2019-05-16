@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Съешь меня ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>407</sup>
 * Как стать фамилиаром ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>406</sup>
 * Домашний арест ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>405</sup>
 * Я влюблён в своего учителя математики ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>404</sup>
@@ -30,7 +31,6 @@
 * Младший брат ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>380</sup>
 * Оборотная сторона бессмертия ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>379</sup>
 * Джентльмены предпочитают блондинов ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>378</sup>
-* Что вы знаете о Поттере? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>377</sup>
 
 
-_16.05.2019 18:03:43_
+_16.05.2019 18:04:30_
