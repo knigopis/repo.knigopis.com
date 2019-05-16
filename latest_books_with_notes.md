@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* О приручении упрямых хёнов ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>269</sup>
 * Я бы тебя выбрал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>268</sup>
 * Соврем судьбе ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>267</sup>
 * As Souls From Bodies Steal ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>266</sup>
@@ -30,7 +31,6 @@
 * отвратительно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>242</sup>
 * Человек ждал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>241</sup>
 * Случайных встреч не бывает ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>240</sup>
-* Одиннадцать ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>239</sup>
 
 
-_16.05.2019 15:10:17_
+_16.05.2019 15:10:41_

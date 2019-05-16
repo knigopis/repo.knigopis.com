@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>268</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>269</sup>
 ---
 
 ## 2019
@@ -1113,6 +1113,11 @@ Amira19
 ### Я бы тебя выбрал
 shurshic-chan
 > [2017-01-22] Фанфик
+
+
+### О приручении упрямых хёнов
+Auau
+> [2017-01-19] Фанфик
 
 
 

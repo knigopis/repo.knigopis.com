@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* О приручении упрямых хёнов ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>269</sup>
+    > Фанфик
+
 * Я бы тебя выбрал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>268</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * As Souls From Bodies Steal ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>266</sup>
-    > Фанфик
 
 * Девять кругов ада ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>265</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Няня для Гарри Поттера, или план Дамблдора №394 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>260</sup>
 
-* I'm preying on you. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>259</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>268</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>269</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 15:10:17_
+_16.05.2019 15:10:41_
