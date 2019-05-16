@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Первый шаг или После стольких лет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>78</sup>
+    > Фанфик
+
 * Семикурсники ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>77</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Вернуть тебя. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>75</sup>
-    > Фанфик
 
 * 23 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>74</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Один месяц с кумиром ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>69</sup>
 
-* Совершенно секретно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>68</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>77</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>78</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>35</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 12:05:43_
+_16.05.2019 12:06:14_
