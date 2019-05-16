@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>389</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>390</sup>
 ---
 
 ## 2019
@@ -1705,6 +1705,11 @@ Lexi.тян
 ### Лондонский мост падает
 Yеllow
 > [2016-07-04] Фанфик
+
+
+### Грань между тьмой и светом
+Shtil
+> [2016-07-02] Фанфик
 
 
 ### Предыстория

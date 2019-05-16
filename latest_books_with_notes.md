@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Грань между тьмой и светом ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>390</sup>
 * Лондонский мост падает ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>389</sup>
 * Быть пойманным ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>388</sup>
 * Три шестерки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>387</sup>
@@ -30,7 +31,6 @@
 * Кролик по имени Поттер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>363</sup>
 * Не тот, кем кажется ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>362</sup>
 * Еще одно лето ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>361</sup>
-* Люблю тебя навечно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>360</sup>
 
 
-_16.05.2019 17:50:57_
+_16.05.2019 17:51:20_
