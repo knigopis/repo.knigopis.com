@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>86</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>87</sup>
 ---
 
 ## 2019
@@ -211,6 +211,11 @@ Mate
 ### Тайна
 Smaragd
 > [2019-02-16] Фанфик
+
+
+### Рождественская сказка
+Чёрная Птица
+> [2019-02-09] Фанфик
 
 
 

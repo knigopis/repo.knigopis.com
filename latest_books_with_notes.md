@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Рождественская сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>87</sup>
 * Я жду ребёнка! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>86</sup>
 * Короткие встречи ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>85</sup>
 * Дневник: Что вы знаете о ненависти? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>84</sup>
@@ -30,7 +31,6 @@
 * Make you scream ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>60</sup>
 * The giggle at a funeral. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>59</sup>
 * desperate. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>58</sup>
-* Такоцубо ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>57</sup>
 
 
-_16.05.2019 12:11:25_
+_16.05.2019 12:12:30_
