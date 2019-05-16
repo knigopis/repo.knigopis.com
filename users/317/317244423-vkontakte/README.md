@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>297</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>298</sup>
 ---
 
 ## 2019
@@ -1226,6 +1226,11 @@ Ghost
 ### Впусти меня и я разрушу тебя
 Apple_Juice
 > [2016-10-31] Фанфик
+
+
+### Игра на выживание
+jonghyun_
+> [2016-10-30] Фанфик
 
 
 ### Stop the clocks
