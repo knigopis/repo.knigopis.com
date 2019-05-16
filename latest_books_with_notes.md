@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* со времен второй мировой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>200</sup>
 * Точка невозврата ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>199</sup>
 * Фестрал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>198</sup>
 * На войну ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>197</sup>
@@ -30,7 +31,6 @@
 * И смерть лишь начало ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>172</sup>
 * Иллюзия правды ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>171</sup>
 * Неслучайные случайности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>170</sup>
-* Ещё один год ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>169</sup>
 
 
-_16.05.2019 14:26:42_
+_16.05.2019 14:27:01_
