@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Remedium desperatio ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>453</sup>
 * Каникулы с Малфоем ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>452</sup>
 * Попробуй узнать мои грязные мысли. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>451</sup>
 * Не по-настоящему ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>450</sup>
@@ -30,7 +31,6 @@
 * Eternal Feelings ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>426</sup>
 * Это Россия, детка! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>425</sup>
 * Поцелуйные губы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>424</sup>
-* runway freaks ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>423</sup>
 
 
-_16.05.2019 18:36:06_
+_16.05.2019 18:36:30_
