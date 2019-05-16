@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Во что ты верил, Драко Малфой? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>96</sup>
 * Добрая сказка на ночь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>95</sup>
 * I hate sober ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>94</sup>
 * Особые потребности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>93</sup>
@@ -30,7 +31,6 @@
 * Один месяц с кумиром ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>69</sup>
 * Совершенно секретно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>68</sup>
 * 78 секретарей. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>67</sup>
-* Как добиться своей пары, ну и прочие неприятности. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>66</sup>
 
 
-_16.05.2019 12:16:24_
+_16.05.2019 12:16:57_
