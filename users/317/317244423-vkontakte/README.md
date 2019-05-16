@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>98</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>99</sup>
 ---
 
 ## 2019
@@ -274,6 +274,11 @@ Star Spall
 ### Про трусы
 tuuli-veter
 > [2018-12-25] Фанфик
+
+
+### Hurricane
+Dark_K
+> [2018-12-23] Фанфик
 
 
 ### Гордость и предубеждение

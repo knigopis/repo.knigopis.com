@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Hurricane ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>99</sup>
 * Про трусы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>98</sup>
 * Несносные эльфы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>97</sup>
 * Во что ты верил, Драко Малфой? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>96</sup>
@@ -30,7 +31,6 @@
 * (не) реальный альфа ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>72</sup>
 * Жёлтая ленточка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>71</sup>
 * Кисэн ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>70</sup>
-* Один месяц с кумиром ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>69</sup>
 
 
-_16.05.2019 12:18:08_
+_16.05.2019 12:18:40_
