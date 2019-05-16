@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>153</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>154</sup>
 ---
 
 ## 2019
@@ -549,6 +549,11 @@ Transistor
 ### Случайности не случайны
 AnnaVail
 > [2018-06-19] Фанфик
+
+
+### И в горе, и в радости...
+Аспер
+> [2018-06-18] Фанфик
 
 
 ### Гордость и предубеждение

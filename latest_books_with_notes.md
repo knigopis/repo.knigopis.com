@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* И в горе, и в радости... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>154</sup>
 * Случайности не случайны ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>153</sup>
 * Доска треснула, фигуры разлетелись на куски... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>152</sup>
 * Stalker. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>151</sup>
@@ -30,7 +31,6 @@
 * "Дыра" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>127</sup>
 * Мне нужна моя омега. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>126</sup>
 * Давай встречаться, Малфой! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>125</sup>
-* Боец ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>124</sup>
 
 
-_16.05.2019 14:00:32_
+_16.05.2019 14:00:52_
