@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Слюнки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>385</sup>
 * You belong with me ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>384</sup>
 * Nanny for Park Chanyeol ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>383</sup>
 * Доктор До и мистер Никто ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>382</sup>
@@ -30,7 +31,6 @@
 * Ночь под ивой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>358</sup>
 * Русалочка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>357</sup>
 * Где ты будешь спать завтра? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>356</sup>
-* Про блудных сов и охоту за сокровищами ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>355</sup>
 
 
-_16.05.2019 17:47:20_
+_16.05.2019 17:48:12_
