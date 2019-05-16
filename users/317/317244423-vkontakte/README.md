@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>219</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>220</sup>
 ---
 
 ## 2019
@@ -883,6 +883,11 @@ Nelly Colst
 ### When you are not around.
 Heika Mitich
 > [2017-12-03] Фанфик
+
+
+### Это война!
+Rednol
+> [2017-12-02] Фанфик
 
 
 
