@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>183</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>184</sup>
 ---
 
 ## 2019
@@ -693,6 +693,11 @@ miss Destinу
 ### Тату салон «Чёрная лилия»
 Problematic
 > [2018-03-03] Фанфик
+
+
+### makemedark.net
+Amaya_Kudo
+> [2018-02-28] фанфик
 
 
 
