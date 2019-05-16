@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>149</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>150</sup>
 ---
 
 ## 2019
@@ -519,6 +519,11 @@ herr.roysh
 ### капризуля
 crystalised22
 > [2018-06-29] Фанфик
+
+
+### Презервативы
+chikilod
+> [2018-06-28] Фанфик
 
 
 ### Well, let's lie

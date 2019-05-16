@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Презервативы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>150</sup>
 * Well, let's lie ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>149</sup>
 * В процентах ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>148</sup>
 * капризуля ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>147</sup>
@@ -30,7 +31,6 @@
 * Проверка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>123</sup>
 * Happily Ever After ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>122</sup>
 * A Slytherin in Gryffindor Clothing ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>121</sup>
-* Неко ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>120</sup>
 
 
-_16.05.2019 13:58:00_
+_16.05.2019 13:58:27_
