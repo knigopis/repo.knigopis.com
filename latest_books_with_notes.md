@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The future is now ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>333</sup>
 * Доказательство любви ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>332</sup>
 * Unkissed Kisses and Songs Never Sung ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>331</sup>
 * Он хотел... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>330</sup>
@@ -30,7 +31,6 @@
 * hate u ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>306</sup>
 * День п*****а ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>305</sup>
 * Ёжик и Крош ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>304</sup>
-* Голубой кролик ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>303</sup>
 
 
-_16.05.2019 17:01:38_
+_16.05.2019 17:02:29_
