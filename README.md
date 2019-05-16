@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Личный колдомедик Поттера ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>237</sup>
+    > Фанфик
+
 * Поймать Тень ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>236</sup>
     > Фанфик, ориджинал
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик, ориджинал
 
 * Happy End?.. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>234</sup>
-    > Фанфик
 
 * За что тебя ненавижу... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>233</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * как разбить сердце Уилла Байерса ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>228</sup>
 
-* Внимание к деталям ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>227</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>236</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>237</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:50:03_
+_16.05.2019 14:50:26_
