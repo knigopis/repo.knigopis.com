@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Давай встречаться, Малфой! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>125</sup>
 * Боец ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>124</sup>
 * Проверка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>123</sup>
 * Happily Ever After ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>122</sup>
@@ -30,7 +31,6 @@
 * Про трусы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>98</sup>
 * Несносные эльфы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>97</sup>
 * Во что ты верил, Драко Малфой? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>96</sup>
-* Добрая сказка на ночь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>95</sup>
 
 
-_16.05.2019 12:37:25_
+_16.05.2019 12:37:49_

@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>124</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>125</sup>
 ---
 
 ## 2019
@@ -399,6 +399,11 @@ IvoryPari
 ### Проверка
 tuuli-veter
 > [2018-09-23] Фанфик
+
+
+### Давай встречаться, Малфой!
+kuzzjoma
+> [2018-09-22] Фанфик
 
 
 ### Боец
