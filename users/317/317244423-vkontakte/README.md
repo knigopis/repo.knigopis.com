@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>182</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>183</sup>
 ---
 
 ## 2019
@@ -678,6 +678,11 @@ wolfypuppypiles
 ### Заполучить во что бы то ни стало
 Apple_Juice
 > [2018-03-08] Фанфик
+
+
+### Журавлики
+Kitenokk
+> [2018-03-03] Фанфик
 
 
 ### Я найду тебя

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Журавлики ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>183</sup>
 * Я найду тебя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>182</sup>
 * Тату салон «Чёрная лилия» ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>181</sup>
 * Заполучить во что бы то ни стало ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>180</sup>
@@ -30,7 +31,6 @@
 * Леди Малфой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>155</sup>
 * И в горе, и в радости... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>154</sup>
 * Случайности не случайны ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>153</sup>
-* Доска треснула, фигуры разлетелись на куски... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>152</sup>
 
 
-_16.05.2019 14:18:11_
+_16.05.2019 14:18:44_
