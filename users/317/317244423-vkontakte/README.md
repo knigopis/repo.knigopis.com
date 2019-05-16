@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>294</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>295</sup>
 ---
 
 ## 2019
@@ -1216,6 +1216,11 @@ u t s u . y u u s u
 ### Чилдрен-сюрприз!
 Натаэль
 > [2016-11-02] Фанфик
+
+
+### Впусти меня и я разрушу тебя
+Apple_Juice
+> [2016-10-31] Фанфик
 
 
 ### The Outsider
