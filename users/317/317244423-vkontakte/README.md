@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>317</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>318</sup>
 ---
 
 ## 2019
@@ -1330,6 +1330,11 @@ Amaya_Kudo
 ### Площадь наших сердец
 thisismylastlie
 > [2016-09-25] Фанфик
+
+
+### Лухан-в-Мине или Мин-в-Лухане?
+Amaya_Kudo
+> [2016-09-24] Фанфик
 
 
 ### Let's do it together?

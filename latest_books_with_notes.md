@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лухан-в-Мине или Мин-в-Лухане? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>318</sup>
 * Dе Walletjes ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>317</sup>
 * Площадь наших сердец ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>316</sup>
 * Cigarettes Will Kill You ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>315</sup>
@@ -30,7 +31,6 @@
 * Шоу "Кто мой парень?" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>291</sup>
 * Я слежу за тобой. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>290</sup>
 * Коротышка. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>289</sup>
-* You're so fuckin' special ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>288</sup>
 
 
-_16.05.2019 15:43:19_
+_16.05.2019 15:43:55_
