@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* С чистого листа. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>394</sup>
 * Признаться и забыть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>393</sup>
 * Фак ю ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>392</sup>
 * Грань между светом и тьмой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>391</sup>
@@ -30,7 +31,6 @@
 * Поттер, заткнись! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>367</sup>
 * У него такие глаза ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>366</sup>
 * Месть блондинки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>365</sup>
-* Магический киндер-сюрприз ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>364</sup>
 
 
-_16.05.2019 17:55:16_
+_16.05.2019 17:55:55_
