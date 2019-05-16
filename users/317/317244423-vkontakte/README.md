@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>57</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>58</sup>
 ---
 
 ## 2019
@@ -61,6 +61,11 @@ godofhammers (kishafisha)
 ### Такоцубо
 Minkikiki
 > [2019-03-20] Фанфик
+
+
+### desperate.
+herr.roysh
+> [2019-03-17] Фанфик
 
 
 ### Внеклассное чтение

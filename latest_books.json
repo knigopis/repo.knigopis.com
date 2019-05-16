@@ -1,4 +1,16 @@
 {
+    "ko7j5x6FtE": {
+        "id": "ko7j5x6FtE",
+        "title": "desperate.",
+        "author": "herr.roysh",
+        "notes": "Фанфик",
+        "createdAt": "2019-05-16 11:53:50",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 58
+        }
+    },
     "SII6Yaiszh": {
         "id": "SII6Yaiszh",
         "title": "Такоцубо",
@@ -345,18 +357,6 @@
             "id": "111038749-vkontakte",
             "nickname": "Людка",
             "booksCount": 2
-        }
-    },
-    "9Ubyc56uFB": {
-        "id": "9Ubyc56uFB",
-        "title": "Шантарам",
-        "author": "Грегори Д. Робертс",
-        "notes": "",
-        "createdAt": "2019-05-14 22:24:43",
-        "user": {
-            "id": "111038749-vkontakte",
-            "nickname": "Людка",
-            "booksCount": 1
         }
     }
 }
