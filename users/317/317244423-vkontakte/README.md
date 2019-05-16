@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>146</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>147</sup>
 ---
 
 ## 2019
@@ -514,6 +514,11 @@ herr.roysh
 ### My baby boy.
 herr.roysh
 > [2018-07-01] Фанфик
+
+
+### капризуля
+crystalised22
+> [2018-06-29] Фанфик
 
 
 ### Гордость и предубеждение

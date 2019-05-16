@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* капризуля ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>147</sup>
 * My baby boy. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>146</sup>
 * Дикий ветер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>145</sup>
 * Lights will guide you home 131 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>144</sup>
@@ -30,7 +31,6 @@
 * Неко ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>120</sup>
 * Русал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>119</sup>
 * В борьбе обретёшь ты... (часть 1) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>118</sup>
-* В борьбе обретёшь ты... (часть 2) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>117</sup>
 
 
-_16.05.2019 13:56:40_
+_16.05.2019 13:57:06_
