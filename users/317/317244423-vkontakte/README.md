@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>201</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>202</sup>
 ---
 
 ## 2019
@@ -784,6 +784,11 @@ melting snow
 ### The show time
 Apple_Juice
 > [2018-02-14] Фанфик
+
+
+### Солнце в кармане
+Gay Grin
+> [2018-02-13] Фанфик
 
 
 

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Солнце в кармане ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>202</sup>
 * The show time ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>201</sup>
 * со времен второй мировой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>200</sup>
 * Точка невозврата ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>199</sup>
@@ -30,7 +31,6 @@
 * Перерожденный ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>174</sup>
 * Растяпа ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>173</sup>
 * И смерть лишь начало ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>172</sup>
-* Иллюзия правды ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>171</sup>
 
 
-_16.05.2019 14:27:25_
+_16.05.2019 14:27:45_
