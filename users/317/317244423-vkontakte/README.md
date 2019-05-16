@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>446</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>447</sup>
 ---
 
 ## 2019
@@ -1980,6 +1980,11 @@ Lafaet
 ### Проблемы перевода
 Arekusandora
 > [2016-05-16] Фанфик
+
+
+### Пусть думают те, кто умеет
+Nemi
+> [2016-05-15] Фанфик
 
 
 ### When do we start?

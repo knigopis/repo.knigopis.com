@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пусть думают те, кто умеет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>447</sup>
 * When do we start? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>446</sup>
 * Не прикасайся ко мне, Поттер! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>445</sup>
 * Проблемы перевода ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>444</sup>
@@ -30,7 +31,6 @@
 * Привычка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>420</sup>
 * Увидеть в новом свете ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>419</sup>
 * неформал и Бен Бекхен. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>418</sup>
-* Interrobang ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>417</sup>
 
 
-_16.05.2019 18:32:43_
+_16.05.2019 18:33:10_
