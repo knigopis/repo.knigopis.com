@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Драко Малфой: Любовь по Кодексу ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>441</sup>
 * Назад в прошлое ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>440</sup>
 * Наказание ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>439</sup>
 * Молодые асы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>438</sup>
@@ -30,7 +31,6 @@
 * Серебром по нежной коже ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>414</sup>
 * Зеленый шарф ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>413</sup>
 * Рондо в четыре руки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>412</sup>
-* Яблоки в Карамели - Рецепт ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>411</sup>
 
 
-_16.05.2019 18:29:20_
+_16.05.2019 18:29:44_
