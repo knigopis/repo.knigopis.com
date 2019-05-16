@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Увидеть в новом свете ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>419</sup>
 * неформал и Бен Бекхен. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>418</sup>
 * Interrobang ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>417</sup>
 * Two strips, оne big Stress and Love for a dessert ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>416</sup>
@@ -30,7 +31,6 @@
 * Фак ю ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>392</sup>
 * Грань между светом и тьмой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>391</sup>
 * Грань между тьмой и светом ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>390</sup>
-* Лондонский мост падает ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>389</sup>
 
 
-_16.05.2019 18:11:32_
+_16.05.2019 18:12:33_
