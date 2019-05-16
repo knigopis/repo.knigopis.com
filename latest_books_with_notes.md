@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Три шестерки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>387</sup>
 * it's time to pay the debts, Byun Baekhyun ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>386</sup>
 * Слюнки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>385</sup>
 * You belong with me ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>384</sup>
@@ -30,7 +31,6 @@
 * Люблю тебя навечно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>360</sup>
 * У ревности твои глаза ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>359</sup>
 * Ночь под ивой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>358</sup>
-* Русалочка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>357</sup>
 
 
-_16.05.2019 17:49:00_
+_16.05.2019 17:49:28_
