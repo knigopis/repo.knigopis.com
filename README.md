@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* На маяк ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>273</sup>
+    > Фанфик
+
 * We've got three rules. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>272</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * The Standard You Walk Past ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>270</sup>
-    > Фанфик
 
 * О приручении упрямых хёнов ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>269</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * The Outsider ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>264</sup>
 
-* Женаты поневоле ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>263</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>272</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>273</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 15:12:20_
+_16.05.2019 15:12:46_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* На маяк ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>273</sup>
 * We've got three rules. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>272</sup>
 * Вместе ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>271</sup>
 * The Standard You Walk Past ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>270</sup>
@@ -30,7 +31,6 @@
 * Не каждая омега - твоя омега. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>246</sup>
 * Научи меня любить, Пак Чанёль ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>245</sup>
 * Там, где твой дом ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>244</sup>
-* Сливовый цвет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>243</sup>
 
 
-_16.05.2019 15:12:20_
+_16.05.2019 15:12:46_
