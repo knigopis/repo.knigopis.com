@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Смерть не конец ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>449</sup>
 * Нежданчик. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>448</sup>
 * Пусть думают те, кто умеет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>447</sup>
 * When do we start? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>446</sup>
@@ -30,7 +31,6 @@
 * Единственная тайна ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>422</sup>
 * Полюбить лучшего друга ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>421</sup>
 * Привычка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>420</sup>
-* Увидеть в новом свете ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>419</sup>
 
 
-_16.05.2019 18:33:36_
+_16.05.2019 18:34:08_
