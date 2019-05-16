@@ -1,4 +1,16 @@
 {
+    "hL4LYZX-_V": {
+        "id": "hL4LYZX-_V",
+        "title": "Неожиданная сделка.",
+        "author": "Сhaton",
+        "notes": "Фанфик.",
+        "createdAt": "2019-05-16 11:44:07",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 48
+        }
+    },
     "Eyq0pJsmnP": {
         "id": "Eyq0pJsmnP",
         "title": "Сильные мира всего.",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 57
-        }
-    },
-    "TdPAJ5p2G_": {
-        "id": "TdPAJ5p2G_",
-        "title": "Українська культура",
-        "author": "проф. Іван Огієнко",
-        "notes": "Лекції з української культури.",
-        "createdAt": "2019-05-01 07:30:05",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 26
         }
     }
 }

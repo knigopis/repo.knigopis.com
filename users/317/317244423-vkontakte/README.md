@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>47</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>48</sup>
 ---
 
 ## 2019
@@ -11,6 +11,11 @@ DreamSVV
 ### Сильные мира всего.
 Макбет
 > [2019-05-01] Фанфик
+
+
+### Неожиданная сделка.
+Сhaton
+> [2019-04-15] Фанфик.
 
 
 ### Внеклассное чтение
