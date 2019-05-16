@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>412</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>413</sup>
 ---
 
 ## 2019
@@ -1805,6 +1805,11 @@ Heika Mitich
 ### Съешь меня
 Hik
 > [2016-06-13] Фанфик
+
+
+### Зеленый шарф
+tuuli-veter
+> [2016-06-12] Фанфик
 
 
 ### Рондо в четыре руки

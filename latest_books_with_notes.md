@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Зеленый шарф ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>413</sup>
 * Рондо в четыре руки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>412</sup>
 * Яблоки в Карамели - Рецепт ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>411</sup>
 * i want you to be the first in my bed ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>410</sup>
@@ -30,7 +31,6 @@
 * it's time to pay the debts, Byun Baekhyun ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>386</sup>
 * Слюнки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>385</sup>
 * You belong with me ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>384</sup>
-* Nanny for Park Chanyeol ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>383</sup>
 
 
-_16.05.2019 18:06:56_
+_16.05.2019 18:07:39_

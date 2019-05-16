@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зеленый шарф ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>413</sup>
+    > Фанфик
+
 * Рондо в четыре руки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>412</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * i want you to be the first in my bed ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>410</sup>
-    > Фанфик
 
 * Иди ко мне, глупый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>409</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Я влюблён в своего учителя математики ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>404</sup>
 
-* Черно-белый фактор ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>403</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>412</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>413</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 18:06:56_
+_16.05.2019 18:07:39_
