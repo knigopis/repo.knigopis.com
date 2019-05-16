@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Подарки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>345</sup>
 * Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>344</sup>
 * Draco is awaiting ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>343</sup>
 * Башни, сигареты, любовь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>342</sup>
@@ -30,7 +31,6 @@
 * Лухан-в-Мине или Мин-в-Лухане? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>318</sup>
 * Dе Walletjes ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>317</sup>
 * Площадь наших сердец ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>316</sup>
-* Cigarettes Will Kill You ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>315</sup>
 
 
-_16.05.2019 17:17:35_
+_16.05.2019 17:18:49_

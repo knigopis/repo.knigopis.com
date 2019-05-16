@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>344</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>345</sup>
 ---
 
 ## 2019
@@ -1470,6 +1470,11 @@ Smaragd
 ### Башни, сигареты, любовь
 Lil Ryden
 > [2016-08-02] Фанфик
+
+
+### Подарки
+Charoit
+> [2016-08-01] Фанфик
 
 
 ### Это просто невозможно!
