@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>139</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>140</sup>
 ---
 
 ## 2019
@@ -464,6 +464,11 @@ NikMac
 ### О
 ZO_YA
 > [2018-07-21] Фанфик
+
+
+### Sound of Heart
+Umi Mo
+> [2018-07-20] Фанфик
 
 
 ### Странный парень за дверью
