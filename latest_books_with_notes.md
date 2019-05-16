@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В процентах ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>148</sup>
 * капризуля ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>147</sup>
 * My baby boy. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>146</sup>
 * Дикий ветер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>145</sup>
@@ -30,7 +31,6 @@
 * A Slytherin in Gryffindor Clothing ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>121</sup>
 * Неко ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>120</sup>
 * Русал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>119</sup>
-* В борьбе обретёшь ты... (часть 1) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>118</sup>
 
 
-_16.05.2019 13:57:06_
+_16.05.2019 13:57:37_
