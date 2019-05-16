@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>106</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>107</sup>
 ---
 
 ## 2019
@@ -309,6 +309,11 @@ kamidess
 ### Вейла
 Рейна Рей
 > [2018-11-23] Фанфик
+
+
+### Тихий омут круглых очков
+слэш форева и ваще
+> [2018-11-20] Фанфик
 
 
 ### Мальчик, в котором выжил
