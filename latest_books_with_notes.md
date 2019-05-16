@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Artificial Universe ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>428</sup>
 * Мой первый роман ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>427</sup>
 * Eternal Feelings ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>426</sup>
 * Это Россия, детка! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>425</sup>
@@ -30,7 +31,6 @@
 * game starts ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>401</sup>
 * Выше нас только небо ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>400</sup>
 * В полночь принцесса превращается в... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>399</sup>
-* Бывший - дело тонкое ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>398</sup>
 
 
-_16.05.2019 18:20:16_
+_16.05.2019 18:20:45_

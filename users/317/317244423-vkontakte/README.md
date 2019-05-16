@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>427</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>428</sup>
 ---
 
 ## 2019
@@ -1895,6 +1895,11 @@ mariaw88
 ### Мой первый роман
 sayaboutit
 > [2016-05-23] Фанфик
+
+
+### Artificial Universe
+perfect.velvet
+> [2016-05-22] Фанфик
 
 
 ### Предыстория
