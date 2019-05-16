@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Байерс плюс Уилер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>222</sup>
+    > Фанфик
+
 * 404 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>221</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Let go ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>219</sup>
-    > Фанфик
 
 * When you are not around. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>218</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * История первая. Гермиона Грейнджер и Техника безопасности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>213</sup>
 
-* История вторая. Гермиона Грейнджер и Ужас подземелий ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>212</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>221</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>222</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:38:22_
+_16.05.2019 14:38:44_
