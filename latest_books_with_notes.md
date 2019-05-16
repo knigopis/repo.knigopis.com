@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Твоя метка на мне ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>238</sup>
 * Личный колдомедик Поттера ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>237</sup>
 * Поймать Тень ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>236</sup>
 * Истинных не выбирают ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>235</sup>
@@ -30,7 +31,6 @@
 * История третья. Гермиона Грейнджер и Узники Хогвартса ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>211</sup>
 * История четвертая. Гермиона Грейнджер и Дружба народов ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>210</sup>
 * История седьмая. Гермиона Грейнджер и Дар Жизни ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>209</sup>
-* Рождение чуда ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>208</sup>
 
 
-_16.05.2019 14:50:26_
+_16.05.2019 14:50:50_
