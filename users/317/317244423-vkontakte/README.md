@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>108</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>109</sup>
 ---
 
 ## 2019
@@ -324,6 +324,11 @@ Loreanna
 ### Мозгошмыгнутый
 Jadwiga
 > [2018-11-19] Фанфик
+
+
+### Ripples
+Pancake M.D.
+> [2018-11-18] Фанфик
 
 
 ### Гордость и предубеждение

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ripples ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>109</sup>
 * Мозгошмыгнутый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>108</sup>
 * Тихий омут круглых очков ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>107</sup>
 * Мальчик, в котором выжил ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>106</sup>
@@ -30,7 +31,6 @@
 * Всегда к твоим услугам ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>82</sup>
 * Тайна ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>81</sup>
 * Не так, как кажется ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>80</sup>
-* Венки из одуванчиков. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>79</sup>
 
 
-_16.05.2019 12:23:54_
+_16.05.2019 12:24:22_
