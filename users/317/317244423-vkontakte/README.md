@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>450</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>451</sup>
 ---
 
 ## 2019
@@ -2010,6 +2010,11 @@ GVELA
 ### Не по-настоящему
 Shinas smile
 > [2016-05-12] Фанфик
+
+
+### Попробуй узнать мои грязные мысли.
+Dianonan
+> [2016-05-11] Фанфик
 
 
 ### Предыстория
