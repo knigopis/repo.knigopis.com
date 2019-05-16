@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вейла ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>105</sup>
 * Прикрытие для принцев ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>104</sup>
 * Up to the house ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>103</sup>
 * Природа вейлы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>102</sup>
@@ -30,7 +31,6 @@
 * Первый шаг или После стольких лет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>78</sup>
 * Семикурсники ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>77</sup>
 * Растекающаяся реальность ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>76</sup>
-* Вернуть тебя. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>75</sup>
 
 
-_16.05.2019 12:21:32_
+_16.05.2019 12:22:02_

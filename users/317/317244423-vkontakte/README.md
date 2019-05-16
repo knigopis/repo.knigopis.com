@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>104</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>105</sup>
 ---
 
 ## 2019
@@ -304,6 +304,11 @@ Vavilon V
 ### Прикрытие для принцев
 kamidess
 > [2018-11-28] Фанфик
+
+
+### Вейла
+Рейна Рей
+> [2018-11-23] Фанфик
 
 
 ### Гордость и предубеждение
