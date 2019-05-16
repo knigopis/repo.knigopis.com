@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Семья для Гарри ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>204</sup>
 * Казнить нельзя помиловать ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>203</sup>
 * Солнце в кармане ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>202</sup>
 * The show time ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>201</sup>
@@ -30,7 +31,6 @@
 * Фехтовальщица ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>177</sup>
 * Эффект птеродактиля ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>175</sup>
 * Перерожденный ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>174</sup>
-* Растяпа ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>173</sup>
 
 
-_16.05.2019 14:28:41_
+_16.05.2019 14:29:03_

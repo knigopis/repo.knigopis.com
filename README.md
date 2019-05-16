@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Семья для Гарри ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>204</sup>
+    > Фанфик
+
 * Казнить нельзя помиловать ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>203</sup>
     > Фанфик, ориджинал
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * The show time ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>201</sup>
-    > Фанфик
 
 * со времен второй мировой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>200</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Влюблённый Поттер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>195</sup>
 
-* Принц для Драко, или Три орешка для Золушка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>194</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>203</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>204</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:28:41_
+_16.05.2019 14:29:03_
