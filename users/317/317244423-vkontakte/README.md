@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>152</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>153</sup>
 ---
 
 ## 2019
@@ -544,6 +544,11 @@ Xiuchennie
 ### Доска треснула, фигуры разлетелись на куски...
 Transistor
 > [2018-06-26] Фанфик
+
+
+### Случайности не случайны
+AnnaVail
+> [2018-06-19] Фанфик
 
 
 ### Гордость и предубеждение
