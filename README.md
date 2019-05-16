@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гарри Поттер и Разговоры о Пчелках ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>158</sup>
+    > Фанфик
+
 * Аромат лимонной мяты. Книга первая. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>157</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Леди Малфой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>155</sup>
-    > Фанфик
 
 * И в горе, и в радости... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>154</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Well, let's lie ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>149</sup>
 
-* В процентах ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>148</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>157</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>158</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:02:07_
+_16.05.2019 14:02:31_

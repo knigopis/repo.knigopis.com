@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гарри Поттер и Разговоры о Пчелках ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>158</sup>
 * Аромат лимонной мяты. Книга первая. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>157</sup>
 * Человек-хомяк ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>156</sup>
 * Леди Малфой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>155</sup>
@@ -30,7 +31,6 @@
 * В ловушке времени ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>131</sup>
 * Тихая сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>130</sup>
 * Могущество и слабость. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>129</sup>
-* Молчи громче ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>128</sup>
 
 
-_16.05.2019 14:02:07_
+_16.05.2019 14:02:31_
