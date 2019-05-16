@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Быть пойманным ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>388</sup>
+    > Фанфик
+
 * Три шестерки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>387</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Слюнки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>385</sup>
-    > Фанфик
 
 * You belong with me ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>384</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Оборотная сторона бессмертия ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>379</sup>
 
-* Джентльмены предпочитают блондинов ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>378</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>387</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>388</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 17:49:28_
+_16.05.2019 17:50:03_
