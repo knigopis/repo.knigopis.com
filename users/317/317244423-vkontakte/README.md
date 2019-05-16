@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>158</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>159</sup>
 ---
 
 ## 2019
@@ -569,6 +569,11 @@ Konatasusu
 ### Аромат лимонной мяты. Книга первая.
 spring_twister
 > [2018-06-08] Фанфик
+
+
+### Другая
+WhiteBloodOfGod
+> [2018-06-06] Фанфик
 
 
 ### Гарри Поттер и Разговоры о Пчелках
