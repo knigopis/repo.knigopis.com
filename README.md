@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бывший - дело тонкое ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>398</sup>
+    > Фанфик
+
 * Double fake ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>397</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Здесь солнца не видно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>395</sup>
-    > Фанфик
 
 * С чистого листа. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>394</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Лондонский мост падает ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>389</sup>
 
-* Быть пойманным ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>388</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>397</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>398</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 17:57:19_
+_16.05.2019 17:58:02_
