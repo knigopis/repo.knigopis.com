@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Нэко ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>115</sup>
 * Под скорлупой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>114</sup>
 * Память героя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>113</sup>
 * Angels and Devils ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>112</sup>
@@ -30,7 +31,6 @@
 * Отравлен тобой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>88</sup>
 * Рождественская сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>87</sup>
 * Я жду ребёнка! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>86</sup>
-* Короткие встречи ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>85</sup>
 
 
-_16.05.2019 12:27:13_
+_16.05.2019 12:27:34_

@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>114</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>115</sup>
 ---
 
 ## 2019
@@ -354,6 +354,11 @@ Beren (aka Didi)
 ### Под скорлупой
 Shinas smile
 > [2018-11-05] Фанфик
+
+
+### Нэко
+FluffyAngel90
+> [2018-11-04] Фанфик
 
 
 ### Гордость и предубеждение
