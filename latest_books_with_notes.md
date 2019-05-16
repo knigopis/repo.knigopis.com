@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лондонский мост падает ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>389</sup>
 * Быть пойманным ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>388</sup>
 * Три шестерки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>387</sup>
 * it's time to pay the debts, Byun Baekhyun ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>386</sup>
@@ -30,7 +31,6 @@
 * Не тот, кем кажется ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>362</sup>
 * Еще одно лето ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>361</sup>
 * Люблю тебя навечно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>360</sup>
-* У ревности твои глаза ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>359</sup>
 
 
-_16.05.2019 17:50:03_
+_16.05.2019 17:50:57_
