@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Не пиши "the end" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>248</sup>
 * Не каждая омега - твоя омега. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>246</sup>
 * Научи меня любить, Пак Чанёль ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>245</sup>
 * Там, где твой дом ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>244</sup>
@@ -30,7 +31,6 @@
 * Это война! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>220</sup>
 * Let go ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>219</sup>
 * When you are not around. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>218</sup>
-* Яма на троих ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>217</sup>
 
 
-_16.05.2019 14:54:10_
+_16.05.2019 14:55:21_

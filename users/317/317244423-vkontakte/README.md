@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>246</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>248</sup>
 ---
 
 ## 2019
@@ -1022,6 +1022,16 @@ OhhhYeah
 
 
 ## 2016
+
+### Не пиши "the end"
+NZMar
+> [2016-12-01] Фанфик
+
+
+### Не пиши "the end"
+NZMar
+> [2016-12-01] Фанфик
+
 
 ### Предыстория
 Дж.К. Роулинг
