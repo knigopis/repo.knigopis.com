@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>156</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>157</sup>
 ---
 
 ## 2019
@@ -564,6 +564,11 @@ Milada.
 ### Человек-хомяк
 Konatasusu
 > [2018-06-12] Фанфик
+
+
+### Аромат лимонной мяты. Книга первая.
+spring_twister
+> [2018-06-08] Фанфик
 
 
 ### Гордость и предубеждение
