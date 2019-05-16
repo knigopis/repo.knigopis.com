@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* In One Basket ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>116</sup>
 * Нэко ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>115</sup>
 * Под скорлупой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>114</sup>
 * Память героя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>113</sup>
@@ -30,7 +31,6 @@
 * Ночь в Министерстве ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>89</sup>
 * Отравлен тобой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>88</sup>
 * Рождественская сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>87</sup>
-* Я жду ребёнка! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>86</sup>
 
 
-_16.05.2019 12:27:34_
+_16.05.2019 12:28:33_
