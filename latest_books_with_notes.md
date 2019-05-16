@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Истинных не выбирают ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>235</sup>
 * Happy End?.. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>234</sup>
 * За что тебя ненавижу... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>233</sup>
 * Love and Marriage. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>232</sup>
@@ -30,7 +31,6 @@
 * Рождение чуда ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>208</sup>
 * Хозяйка Принц-мэнора ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>207</sup>
 * Бюро находок ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>206</sup>
-* Not Intended ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>205</sup>
 
 
-_16.05.2019 14:48:57_
+_16.05.2019 14:49:33_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Истинных не выбирают ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>235</sup>
+    > Фанфик, ориджинал
+
 * Happy End?.. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>234</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик, ориджинал
 
 * Love and Marriage. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>232</sup>
-    > Фанфик
 
 * NRX ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>231</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мой дом там, где ты ждешь меня ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>226</sup>
 
-* everything you want to see ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>225</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>234</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>235</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:48:57_
+_16.05.2019 14:49:33_
