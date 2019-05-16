@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как умеет... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>376</sup>
 * "Шире!" или Занимательная стоматология ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>375</sup>
 * Неверный путь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>374</sup>
 * Другой я, такой же ты ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>373</sup>
@@ -30,7 +31,6 @@
 * Личный артефакт Гарри Поттера ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>349</sup>
 * Все имеет свою цену, или принц для Гарри ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>348</sup>
 * Мандаринки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>347</sup>
-* Диалоги в Париже накануне Рождества ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>346</sup>
 
 
-_16.05.2019 17:39:24_
+_16.05.2019 17:41:09_
