@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>425</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>426</sup>
 ---
 
 ## 2019
@@ -1885,6 +1885,11 @@ Tuono
 ### Это Россия, детка!
 Tekken_17
 > [2016-05-26] Фанфик
+
+
+### Eternal Feelings
+mariaw88
+> [2016-05-24] Фанфик
 
 
 ### Предыстория

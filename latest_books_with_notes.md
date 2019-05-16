@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Eternal Feelings ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>426</sup>
 * Это Россия, детка! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>425</sup>
 * Поцелуйные губы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>424</sup>
 * runway freaks ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>423</sup>
@@ -30,7 +31,6 @@
 * В полночь принцесса превращается в... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>399</sup>
 * Бывший - дело тонкое ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>398</sup>
 * Double fake ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>397</sup>
-* Это он! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>396</sup>
 
 
-_16.05.2019 18:18:56_
+_16.05.2019 18:19:20_
