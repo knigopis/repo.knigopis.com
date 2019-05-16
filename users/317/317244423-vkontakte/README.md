@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>378</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>379</sup>
 ---
 
 ## 2019
@@ -1650,6 +1650,11 @@ ViLiSSa
 ### Ангел с дефектами
 Little E.L.F.
 > [2016-07-12] Фанфик
+
+
+### Оборотная сторона бессмертия
+Kedavra
+> [2016-07-09] Фанфик
 
 
 ### Предыстория
