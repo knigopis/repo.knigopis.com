@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Фестрал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>198</sup>
 * На войну ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>197</sup>
 * The Call (9/11) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>196</sup>
 * Влюблённый Поттер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>195</sup>
@@ -30,7 +31,6 @@
 * Неслучайные случайности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>170</sup>
 * Ещё один год ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>169</sup>
 * Там, на неведомых дорожках ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>168</sup>
-* И где сейчас ваши мстители? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>167</sup>
 
 
-_16.05.2019 14:24:40_
+_16.05.2019 14:26:16_
