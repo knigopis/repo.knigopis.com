@@ -1,4 +1,16 @@
 {
+    "Z_YWgqSRbd": {
+        "id": "Z_YWgqSRbd",
+        "title": "I'm (not a) monster",
+        "author": "Лись_я морда",
+        "notes": "Фанфик",
+        "createdAt": "2019-05-16 15:21:45",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 285
+        }
+    },
     "Bi3fshmL9W": {
         "id": "Bi3fshmL9W",
         "title": "Serenata Immortale II. Lucifer's angel.",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 256
-        }
-    },
-    "xdr-3ydvcH": {
-        "id": "xdr-3ydvcH",
-        "title": "Русские - 2",
-        "author": "Leka-splushka",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 15:00:19",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 255
         }
     }
 }

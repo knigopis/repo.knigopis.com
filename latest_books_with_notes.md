@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* I'm (not a) monster ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>285</sup>
 * Serenata Immortale II. Lucifer's angel. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>284</sup>
 * Только мой Бэкки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>283</sup>
 * fifth century: Digamma. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>282</sup>
@@ -30,7 +31,6 @@
 * Неожиданная история. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>258</sup>
 * Александр Н. и месть волшебного мира ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>257</sup>
 * Русские не сдаются ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>256</sup>
-* Русские - 2 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>255</sup>
 
 
-_16.05.2019 15:21:25_
+_16.05.2019 15:21:45_
