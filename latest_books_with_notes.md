@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Женушка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>313</sup>
 * Let's do it together? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>312</sup>
 * I аm your girlman ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>311</sup>
 * Touch me, touch me more ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>310</sup>
@@ -30,7 +31,6 @@
 * МЯТЕЖНЫЕ ДУШИ ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>286</sup>
 * I'm (not a) monster ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>285</sup>
 * Serenata Immortale II. Lucifer's angel. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>284</sup>
-* Только мой Бэкки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>283</sup>
 
 
-_16.05.2019 15:40:48_
+_16.05.2019 15:41:17_
