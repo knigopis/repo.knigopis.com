@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хозяйка Принц-мэнора ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>207</sup>
 * Бюро находок ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>206</sup>
 * Not Intended ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>205</sup>
 * Семья для Гарри ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>204</sup>
@@ -30,7 +31,6 @@
 * Заполучить во что бы то ни стало ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>180</sup>
 * The truth is... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>179</sup>
 * Любовные записки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>178</sup>
-* Фехтовальщица ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>177</sup>
 
 
-_16.05.2019 14:30:18_
+_16.05.2019 14:30:39_
