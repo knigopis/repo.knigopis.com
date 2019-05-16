@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>58</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>59</sup>
 ---
 
 ## 2019
@@ -66,6 +66,11 @@ Minkikiki
 ### desperate.
 herr.roysh
 > [2019-03-17] Фанфик
+
+
+### The giggle at a funeral.
+Heika Mitich
+> [2019-03-02] Фанфик
 
 
 ### Внеклассное чтение

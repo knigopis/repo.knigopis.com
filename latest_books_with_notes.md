@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The giggle at a funeral. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>59</sup>
 * desperate. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>58</sup>
 * Такоцубо ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>57</sup>
 * Отстрой все заново ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>56</sup>
@@ -30,7 +31,6 @@
 * Сеть Нанотех ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>6</sup>
 * Безумная звезда ~ [joan789](users/240/2401650-vkontakte)<sup>98</sup>
 * Листи з того світу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup>
-* Анна Каренина ~ [Quaff](users/122/12267158-vkontakte)<sup>29</sup>
 
 
-_16.05.2019 11:53:50_
+_16.05.2019 11:54:25_
