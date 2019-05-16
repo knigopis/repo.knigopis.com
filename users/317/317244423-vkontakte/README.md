@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>67</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>68</sup>
 ---
 
 ## 2019
@@ -106,6 +106,11 @@ LMoriarty
 ### Бракованный омега
 a lost ghost
 > [2019-02-24] Фанфик
+
+
+### Совершенно секретно
+Panda_Yoko
+> [2019-02-23] Фанфик
 
 
 ### 78 секретарей.

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Совершенно секретно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>68</sup>
 * 78 секретарей. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>67</sup>
 * Как добиться своей пары, ну и прочие неприятности. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>66</sup>
 * Baekhyun Kissed A Boy ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>65</sup>
@@ -30,7 +31,6 @@
 * Если бы она знала ~ [kissamasya](users/684/68439978-vkontakte)<sup>60</sup>
 * t ~ [Quaff](users/122/12267158-vkontakte)<sup>32</sup>
 * Числа ~ [Quaff](users/122/12267158-vkontakte)<sup>31</sup>
-* Гордость и предубеждение ~ [Quaff](users/122/12267158-vkontakte)<sup>30</sup>
 
 
-_16.05.2019 12:00:08_
+_16.05.2019 12:00:40_
