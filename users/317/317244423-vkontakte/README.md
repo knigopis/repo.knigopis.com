@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>179</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>180</sup>
 ---
 
 ## 2019
@@ -673,6 +673,11 @@ LEVA48
 ### The truth is...
 wolfypuppypiles
 > [2018-03-13] Фанфик
+
+
+### Заполучить во что бы то ни стало
+Apple_Juice
+> [2018-03-08] Фанфик
 
 
 
