@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>344</sup>
+    > Фанфик
+
 * Draco is awaiting ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>343</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Время жить ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>341</sup>
-    > Фанфик
 
 * Новая жизнь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>340</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Оставь поля цвести ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>335</sup>
 
-* Окклюменция ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>334</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>343</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>344</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 17:16:31_
+_16.05.2019 17:17:35_
