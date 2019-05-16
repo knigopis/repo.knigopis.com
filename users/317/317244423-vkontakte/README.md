@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>342</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>343</sup>
 ---
 
 ## 2019
@@ -1460,6 +1460,11 @@ Ayliten
 ### Время жить
 Ayliten
 > [2016-08-04] Фанфик
+
+
+### Draco is awaiting
+Smaragd
+> [2016-08-02] Фанфик
 
 
 ### Башни, сигареты, любовь
