@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Яблоки в Карамели - Рецепт ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>411</sup>
 * i want you to be the first in my bed ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>410</sup>
 * Иди ко мне, глупый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>409</sup>
 * Byun Baekhyun decides to die. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>408</sup>
@@ -30,7 +31,6 @@
 * You belong with me ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>384</sup>
 * Nanny for Park Chanyeol ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>383</sup>
 * Доктор До и мистер Никто ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>382</sup>
-* Грааль ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>381</sup>
 
 
-_16.05.2019 18:05:59_
+_16.05.2019 18:06:36_
