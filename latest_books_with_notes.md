@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Джентльмены предпочитают блондинов ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>378</sup>
 * Что вы знаете о Поттере? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>377</sup>
 * Как умеет... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>376</sup>
 * "Шире!" или Занимательная стоматология ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>375</sup>
@@ -30,7 +31,6 @@
 * Вернуть или вернуться ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>351</sup>
 * Как все это было. Измененная версия. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>350</sup>
 * Личный артефакт Гарри Поттера ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>349</sup>
-* Все имеет свою цену, или принц для Гарри ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>348</sup>
 
 
-_16.05.2019 17:41:31_
+_16.05.2019 17:42:09_

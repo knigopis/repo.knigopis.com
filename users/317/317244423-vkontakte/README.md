@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>377</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>378</sup>
 ---
 
 ## 2019
@@ -1640,6 +1640,11 @@ Shinas smile
 ### Неверный путь
 TsissiBlack
 > [2016-07-20] Фанфик
+
+
+### Джентльмены предпочитают блондинов
+ViLiSSa
+> [2016-07-19] Фанфик
 
 
 ### Ангел с дефектами
