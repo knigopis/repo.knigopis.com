@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>137</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>138</sup>
 ---
 
 ## 2019
@@ -464,6 +464,11 @@ NikMac
 ### О
 ZO_YA
 > [2018-07-21] Фанфик
+
+
+### «LOL: Live, Outplay & Love»
+Jululu
+> [2018-07-20] Фанфик
 
 
 ### 3 поцелуя

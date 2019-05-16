@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «LOL: Live, Outplay & Love» ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>138</sup>
 * 3 поцелуя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>137</sup>
 * О ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>136</sup>
 * sugarless. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>135</sup>
@@ -30,7 +31,6 @@
 * Шелест прошлого ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>111</sup>
 * Шедевр ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>110</sup>
 * Ripples ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>109</sup>
-* Мозгошмыгнутый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>108</sup>
 
 
-_16.05.2019 12:44:28_
+_16.05.2019 12:44:53_
