@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>68</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>69</sup>
 ---
 
 ## 2019
@@ -106,6 +106,11 @@ LMoriarty
 ### Бракованный омега
 a lost ghost
 > [2019-02-24] Фанфик
+
+
+### Один месяц с кумиром
+dantes
+> [2019-02-23] Фанфик
 
 
 ### Совершенно секретно

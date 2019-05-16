@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Один месяц с кумиром ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>69</sup>
 * Совершенно секретно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>68</sup>
 * 78 секретарей. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>67</sup>
 * Как добиться своей пары, ну и прочие неприятности. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>66</sup>
@@ -30,7 +31,6 @@
 * Brotherhood of Warriors: Behind Enemy Lines with a Commando in One of the World's Most Elite Counterterrorism Units ~ [exulted](users/100/100599204551896265722-google)<sup>105</sup>
 * Если бы она знала ~ [kissamasya](users/684/68439978-vkontakte)<sup>60</sup>
 * t ~ [Quaff](users/122/12267158-vkontakte)<sup>32</sup>
-* Числа ~ [Quaff](users/122/12267158-vkontakte)<sup>31</sup>
 
 
-_16.05.2019 12:00:40_
+_16.05.2019 12:01:17_
