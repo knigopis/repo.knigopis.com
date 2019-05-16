@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* everything you want to see ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>225</sup>
+    > Фанфик
+
 * по надорванным связкам крик ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>224</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Байерс плюс Уилер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>222</sup>
-    > Фанфик
 
 * 404 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>221</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Поттер, одолжи фамилию? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>216</sup>
 
-* Oppa's Not My Style ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>215</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>224</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>225</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:39:43_
+_16.05.2019 14:40:06_
