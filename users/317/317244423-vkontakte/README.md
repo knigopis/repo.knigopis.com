@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>396</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>397</sup>
 ---
 
 ## 2019
@@ -1730,6 +1730,11 @@ Yеllow
 ### Грань между тьмой и светом
 Shtil
 > [2016-07-02] Фанфик
+
+
+### Double fake
+Blaidd
+> [2016-06-28] Фанфик
 
 
 ### Это он!

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Double fake ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>397</sup>
 * Это он! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>396</sup>
 * Здесь солнца не видно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>395</sup>
 * С чистого листа. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>394</sup>
@@ -30,7 +31,6 @@
 * Он - мой, и идите все к черту! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>370</sup>
 * Как лучше ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>369</sup>
 * Там, где остановилось время ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>368</sup>
-* Поттер, заткнись! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>367</sup>
 
 
-_16.05.2019 17:56:53_
+_16.05.2019 17:57:19_
