@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Baekhyun Kissed A Boy ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>65</sup>
 * Бракованный омега ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>64</sup>
 * Behind Blue Eyes ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>63</sup>
 * Анонимная любовь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>62</sup>
@@ -30,7 +31,6 @@
 * Гордость и предубеждение ~ [Quaff](users/122/12267158-vkontakte)<sup>30</sup>
 * Аркада. Эпизод первый. kamataYan ~ [Chiffi](users/105/105831994080785626680-google)<sup>118</sup>
 * Игра Ангела ~ [anvonamore](users/595/5957175-vkontakte)<sup>123</sup>
-* L'homme qui regardait passer les trains ~ [violet_velva](users/116/116961712580551399099-google)<sup>60</sup>
 
 
-_16.05.2019 11:58:19_
+_16.05.2019 11:59:00_
