@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>451</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>452</sup>
 ---
 
 ## 2019
@@ -2015,6 +2015,11 @@ Shinas smile
 ### Попробуй узнать мои грязные мысли.
 Dianonan
 > [2016-05-11] Фанфик
+
+
+### Каникулы с Малфоем
+bisquite
+> [2016-05-09] Фанфик
 
 
 ### Предыстория
