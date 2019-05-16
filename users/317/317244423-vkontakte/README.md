@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>271</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>272</sup>
 ---
 
 ## 2019
@@ -1128,6 +1128,11 @@ bafflinghaze
 ### Вместе
 tuuli-veter
 > [2017-01-15] Фанфик
+
+
+### We've got three rules.
+Starsky
+> [2017-01-14] Фанфик
 
 
 
