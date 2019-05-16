@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>23</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>35</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>105</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>165</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 [Bafnita](users/142/1428344393-facebook)<sup>0</sup> 
 [denisstrekitcyn](users/226/226617025-vkontakte)<sup>1</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 
 
-_15.05.2019 21:12:14_
+_16.05.2019 04:42:52_
