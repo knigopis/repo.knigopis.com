@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Наваждение. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>296</sup>
 * Впусти меня и я разрушу тебя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>295</sup>
 * Чилдрен-сюрприз! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>294</sup>
 * "Шесть" - это не цифра! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>293</sup>
@@ -30,7 +31,6 @@
 * О приручении упрямых хёнов ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>269</sup>
 * Я бы тебя выбрал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>268</sup>
 * Соврем судьбе ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>267</sup>
-* As Souls From Bodies Steal ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>266</sup>
 
 
-_16.05.2019 15:29:16_
+_16.05.2019 15:29:45_
