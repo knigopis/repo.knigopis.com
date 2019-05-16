@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сливовый цвет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>243</sup>
 * отвратительно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>242</sup>
 * Человек ждал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>241</sup>
 * Случайных встреч не бывает ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>240</sup>
@@ -30,7 +31,6 @@
 * Поттер, одолжи фамилию? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>216</sup>
 * Oppa's Not My Style ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>215</sup>
 * Лето на двоих ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>214</sup>
-* История первая. Гермиона Грейнджер и Техника безопасности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>213</sup>
 
 
-_16.05.2019 14:52:36_
+_16.05.2019 14:53:06_

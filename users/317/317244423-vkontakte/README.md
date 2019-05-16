@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>242</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>243</sup>
 ---
 
 ## 2019
@@ -998,6 +998,11 @@ Nika777Less
 ### отвратительно
 lavlien
 > [2017-08-21] Фанфик
+
+
+### Сливовый цвет
+Immortal song
+> [2017-08-08] Фанфик
 
 
 
