@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>337</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>338</sup>
 ---
 
 ## 2019
@@ -1440,6 +1440,11 @@ Lifeless_Doll
 ### Любовь без памяти
 anntimmy
 > [2016-08-11] Фанфик
+
+
+### Однажды в визжащей хижине
+Meryto
+> [2016-08-07] Фанфик
 
 
 ### Ангел с дефектами

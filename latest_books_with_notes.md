@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Однажды в визжащей хижине ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>338</sup>
 * Любовь без памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>337</sup>
 * Страсть... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>336</sup>
 * Оставь поля цвести ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>335</sup>
@@ -30,7 +31,6 @@
 * I аm your girlman ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>311</sup>
 * Touch me, touch me more ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>310</sup>
 * Let me love you ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>309</sup>
-* Не верно. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>308</sup>
 
 
-_16.05.2019 17:11:51_
+_16.05.2019 17:12:38_
