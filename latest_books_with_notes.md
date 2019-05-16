@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В полшаге... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>435</sup>
 * Время расплаты ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>434</sup>
 * Ни капли царской крови ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>433</sup>
 * Поттер в моей голове ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>432</sup>
@@ -30,7 +31,6 @@
 * Byun Baekhyun decides to die. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>408</sup>
 * Съешь меня ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>407</sup>
 * Как стать фамилиаром ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>406</sup>
-* Домашний арест ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>405</sup>
 
 
-_16.05.2019 18:24:50_
+_16.05.2019 18:25:24_
