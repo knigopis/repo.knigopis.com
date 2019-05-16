@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Башни, сигареты, любовь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>342</sup>
 * Время жить ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>341</sup>
 * Новая жизнь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>340</sup>
 * Не дай мне упасть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>339</sup>
@@ -30,7 +31,6 @@
 * Cigarettes Will Kill You ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>315</sup>
 * Ну и олень же ты, Поттер. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>314</sup>
 * Женушка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>313</sup>
-* Let's do it together? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>312</sup>
 
 
-_16.05.2019 17:15:17_
+_16.05.2019 17:15:47_
