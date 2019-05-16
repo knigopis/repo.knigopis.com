@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Потеря памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>457</sup>
 * Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>456</sup>
 * "Долг жизни" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>455</sup>
 * What If ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>454</sup>
@@ -30,7 +31,6 @@
 * Проснись со мной ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>430</sup>
 * Гарри Поттер и Трудности преподавания ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>429</sup>
 * Artificial Universe ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>428</sup>
-* Мой первый роман ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>427</sup>
 
 
-_16.05.2019 18:38:24_
+_16.05.2019 18:39:07_

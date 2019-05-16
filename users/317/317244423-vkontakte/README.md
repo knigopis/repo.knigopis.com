@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>456</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>457</sup>
 ---
 
 ## 2019
@@ -2035,6 +2035,11 @@ listokklevera
 ### What If
 Katrina Marie Pace
 > [2016-05-05] Фанфик
+
+
+### Потеря памяти
+Cheryl Dyson
+> [2016-05-04] Фанфик
 
 
 ### "Долг жизни"
