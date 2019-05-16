@@ -1,4 +1,16 @@
 {
+    "Eyq0pJsmnP": {
+        "id": "Eyq0pJsmnP",
+        "title": "Сильные мира всего.",
+        "author": "Макбет",
+        "notes": "Фанфик",
+        "createdAt": "2019-05-16 11:43:21",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 47
+        }
+    },
     "nkEmmz_0CH": {
         "id": "nkEmmz_0CH",
         "title": "Чёрная лилия.",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 26
-        }
-    },
-    "88Ebi4Lkni": {
-        "id": "88Ebi4Lkni",
-        "title": "Настя",
-        "author": "В. Сорокин",
-        "notes": "О девочке в печи",
-        "createdAt": "2019-04-30 19:18:58",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 43
         }
     }
 }

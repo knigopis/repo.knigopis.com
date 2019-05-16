@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>46</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>47</sup>
 ---
 
 ## 2019
@@ -6,6 +6,11 @@
 ### Чёрная лилия.
 DreamSVV
 > [2019-05-07] Фанфик
+
+
+### Сильные мира всего.
+Макбет
+> [2019-05-01] Фанфик
 
 
 ### Внеклассное чтение

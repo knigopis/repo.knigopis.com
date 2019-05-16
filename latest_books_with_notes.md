@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сильные мира всего. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>47</sup>
 * Чёрная лилия. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>46</sup>
 * Затворник и Шестипалый ~ [Quaff](users/122/12267158-vkontakte)<sup>35</sup>
 * Омон Ра ~ [Quaff](users/122/12267158-vkontakte)<sup>34</sup>
@@ -30,7 +31,6 @@
 * БУРЯ СТОЛЕТИЯ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>75</sup>
 * Кладбище домашних животных ~ [kissamasya](users/684/68439978-vkontakte)<sup>57</sup>
 * Українська культура ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>26</sup>
-* Настя ~ [Victoria](users/113/113794223924688167852-google)<sup>43</sup>
 
 
-_16.05.2019 11:41:49_
+_16.05.2019 11:43:21_
