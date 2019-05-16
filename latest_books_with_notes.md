@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Byun Baekhyun decides to die. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>408</sup>
 * Съешь меня ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>407</sup>
 * Как стать фамилиаром ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>406</sup>
 * Домашний арест ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>405</sup>
@@ -30,7 +31,6 @@
 * Грааль ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>381</sup>
 * Младший брат ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>380</sup>
 * Оборотная сторона бессмертия ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>379</sup>
-* Джентльмены предпочитают блондинов ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>378</sup>
 
 
-_16.05.2019 18:04:30_
+_16.05.2019 18:05:18_
