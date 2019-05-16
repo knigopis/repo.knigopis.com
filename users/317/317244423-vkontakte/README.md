@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>270</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>271</sup>
 ---
 
 ## 2019
@@ -1123,6 +1123,11 @@ Auau
 ### The Standard You Walk Past
 bafflinghaze
 > [2017-01-17] Фанфик
+
+
+### Вместе
+tuuli-veter
+> [2017-01-15] Фанфик
 
 
 
