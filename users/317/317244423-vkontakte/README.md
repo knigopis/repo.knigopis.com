@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>166</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>167</sup>
 ---
 
 ## 2019
@@ -613,6 +613,11 @@ g.allena
 ### Улыбка Блейза Забини
 Alex-80
 > [2018-05-06] Фанфик
+
+
+### И где сейчас ваши мстители?
+Не-погода
+> [2018-04-14] Фанфик
 
 
 ### Гордость и предубеждение
