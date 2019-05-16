@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 78 секретарей. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>67</sup>
+    > Фанфик
+
 * Как добиться своей пары, ну и прочие неприятности. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>66</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Бракованный омега ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>64</sup>
-    > Фанфик
 
 * Behind Blue Eyes ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>63</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * desperate. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>58</sup>
 
-* Такоцубо ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>66</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>67</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>35</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 11:59:35_
+_16.05.2019 12:00:08_

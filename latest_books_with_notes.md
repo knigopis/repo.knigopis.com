@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 78 секретарей. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>67</sup>
 * Как добиться своей пары, ну и прочие неприятности. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>66</sup>
 * Baekhyun Kissed A Boy ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>65</sup>
 * Бракованный омега ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>64</sup>
@@ -30,7 +31,6 @@
 * t ~ [Quaff](users/122/12267158-vkontakte)<sup>32</sup>
 * Числа ~ [Quaff](users/122/12267158-vkontakte)<sup>31</sup>
 * Гордость и предубеждение ~ [Quaff](users/122/12267158-vkontakte)<sup>30</sup>
-* Аркада. Эпизод первый. kamataYan ~ [Chiffi](users/105/105831994080785626680-google)<sup>118</sup>
 
 
-_16.05.2019 11:59:35_
+_16.05.2019 12:00:08_
