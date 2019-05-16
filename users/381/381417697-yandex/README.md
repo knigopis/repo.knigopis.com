@@ -1,4 +1,4 @@
-# List of books read by [me]( )<sup>45</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>45</sup>
 ---
 
 ## 2018
@@ -127,7 +127,7 @@ Joshua Bloch
 > [2011-02] 
 
 
-### Мартин Иден Джек Лондон
+### Мартин Иден
 Джек Лондон
 
 
