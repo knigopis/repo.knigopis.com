@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>380</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>381</sup>
 ---
 
 ## 2019
@@ -1655,6 +1655,11 @@ Little E.L.F.
 ### Оборотная сторона бессмертия
 Kedavra
 > [2016-07-09] Фанфик
+
+
+### Грааль
+Ie-rey
+> [2016-07-07] Фанфик
 
 
 ### Младший брат
