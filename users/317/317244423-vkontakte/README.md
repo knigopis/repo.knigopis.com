@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>290</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>292</sup>
 ---
 
 ## 2019
@@ -1244,6 +1244,11 @@ Artemi
 > [2015-10-10] Фанфик
 
 
+### Ролевая
+Редактор Снов
+> [2015-07-03] Фанфик
+
+
 ### You're so fuckin' special
 Лись_я морда
 > [2015-05-13] Фанфик
@@ -1251,6 +1256,11 @@ Artemi
 
 
 ## 2014
+
+### Шоу "Кто мой парень?"
+IN.G
+> [2014-07-25] Фанфик
+
 
 ### Я слежу за тобой.
 YA_Shimi-aa

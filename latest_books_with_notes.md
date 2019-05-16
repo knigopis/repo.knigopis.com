@@ -1,6 +1,8 @@
 # List of the latest books with notes
 ---
 
+* Ролевая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>292</sup>
+* Шоу "Кто мой парень?" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>291</sup>
 * Я слежу за тобой. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>290</sup>
 * Коротышка. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>289</sup>
 * You're so fuckin' special ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>288</sup>
@@ -29,8 +31,6 @@
 * Девять кругов ада ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>265</sup>
 * The Outsider ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>264</sup>
 * Женаты поневоле ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>263</sup>
-* Взаимная ненависть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>262</sup>
-* Жатва ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>261</sup>
 
 
-_16.05.2019 15:26:04_
+_16.05.2019 15:27:47_
