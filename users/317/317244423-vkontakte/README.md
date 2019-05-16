@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>116</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>117</sup>
 ---
 
 ## 2019
@@ -359,6 +359,11 @@ Shinas smile
 ### Нэко
 FluffyAngel90
 > [2018-11-04] Фанфик
+
+
+### В борьбе обретёшь ты... (часть 2)
+Кукулькан
+> [2018-10-21] Фанфик
 
 
 ### In One Basket
