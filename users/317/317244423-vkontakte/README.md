@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>399</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>400</sup>
 ---
 
 ## 2019
@@ -1755,6 +1755,11 @@ Reiters
 ### Грань между светом и тьмой
 Shtil
 > [2016-06-26] Фанфик
+
+
+### Выше нас только небо
+tuuli-veter
+> [2016-06-24] Фанфик
 
 
 ### Предыстория

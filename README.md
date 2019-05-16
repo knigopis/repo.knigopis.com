@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Выше нас только небо ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>400</sup>
+    > Фанфик
+
 * В полночь принцесса превращается в... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>399</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Double fake ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>397</sup>
-    > Фанфик
 
 * Это он! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>396</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Грань между светом и тьмой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>391</sup>
 
-* Грань между тьмой и светом ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>390</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>399</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>400</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 17:58:58_
+_16.05.2019 18:00:57_
