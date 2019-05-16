@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>100</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>101</sup>
 ---
 
 ## 2019
@@ -284,6 +284,11 @@ Dark_K
 ### Шаги в тумане
 Парящий
 > [2018-12-09] Фанфик
+
+
+### Дорогущий
+Cheryl Dyson
+> [2018-12-03] Фанфик
 
 
 ### Гордость и предубеждение
