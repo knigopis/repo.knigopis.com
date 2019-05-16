@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>101</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>102</sup>
 ---
 
 ## 2019
@@ -289,6 +289,11 @@ Dark_K
 ### Дорогущий
 Cheryl Dyson
 > [2018-12-03] Фанфик
+
+
+### Природа вейлы
+boyz_luv
+> [2018-12-02] Фанфик
 
 
 ### Гордость и предубеждение
