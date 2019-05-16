@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Спасибо за снег! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>402</sup>
 * game starts ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>401</sup>
 * Выше нас только небо ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>400</sup>
 * В полночь принцесса превращается в... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>399</sup>
@@ -30,7 +31,6 @@
 * "Шире!" или Занимательная стоматология ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>375</sup>
 * Неверный путь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>374</sup>
 * Другой я, такой же ты ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>373</sup>
-* Зеркала всегда врут ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>372</sup>
 
 
-_16.05.2019 18:01:17_
+_16.05.2019 18:01:40_
