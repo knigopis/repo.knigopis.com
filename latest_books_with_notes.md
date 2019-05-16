@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Научи меня любить, Пак Чанёль ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>245</sup>
 * Там, где твой дом ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>244</sup>
 * Сливовый цвет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>243</sup>
 * отвратительно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>242</sup>
@@ -30,7 +31,6 @@
 * When you are not around. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>218</sup>
 * Яма на троих ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>217</sup>
 * Поттер, одолжи фамилию? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>216</sup>
-* Oppa's Not My Style ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>215</sup>
 
 
-_16.05.2019 14:53:30_
+_16.05.2019 14:53:51_
