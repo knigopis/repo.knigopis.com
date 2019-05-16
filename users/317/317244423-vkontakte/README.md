@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>130</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>131</sup>
 ---
 
 ## 2019
@@ -434,6 +434,11 @@ Chibi Sanmin
 ### Тихая сказка
 _finch_
 > [2018-08-22] Фанфик
+
+
+### В ловушке времени
+shaitanka
+> [2018-08-21] Фанфик
 
 
 ### Гордость и предубеждение

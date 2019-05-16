@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В ловушке времени ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>131</sup>
+    > Фанфик
+
 * Тихая сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>130</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Молчи громче ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>128</sup>
-    > Фанфик
 
 * "Дыра" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>127</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Happily Ever After ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>122</sup>
 
-* A Slytherin in Gryffindor Clothing ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>121</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>130</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>131</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>35</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 12:41:14_
+_16.05.2019 12:41:38_
