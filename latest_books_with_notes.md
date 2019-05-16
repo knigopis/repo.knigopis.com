@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чилдрен-сюрприз! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>294</sup>
 * "Шесть" - это не цифра! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>293</sup>
 * Ролевая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>292</sup>
 * Шоу "Кто мой парень?" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>291</sup>
@@ -30,7 +31,6 @@
 * Соврем судьбе ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>267</sup>
 * As Souls From Bodies Steal ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>266</sup>
 * Девять кругов ада ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>265</sup>
-* The Outsider ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>264</sup>
 
 
-_16.05.2019 15:28:27_
+_16.05.2019 15:28:54_

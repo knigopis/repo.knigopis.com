@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>293</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>294</sup>
 ---
 
 ## 2019
@@ -1211,6 +1211,11 @@ Yi_Fan_Yi_Xing
 ### fifth century: Digamma.
 u t s u . y u u s u
 > [2016-11-03] Фанфик
+
+
+### Чилдрен-сюрприз!
+Натаэль
+> [2016-11-02] Фанфик
 
 
 ### The Outsider
