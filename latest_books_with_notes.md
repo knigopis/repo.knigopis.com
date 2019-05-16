@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* по надорванным связкам крик ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>224</sup>
 * full of monsters ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>223</sup>
 * Байерс плюс Уилер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>222</sup>
 * 404 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>221</sup>
@@ -30,7 +31,6 @@
 * На войну ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>197</sup>
 * The Call (9/11) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>196</sup>
 * Влюблённый Поттер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>195</sup>
-* Принц для Драко, или Три орешка для Золушка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>194</sup>
 
 
-_16.05.2019 14:39:22_
+_16.05.2019 14:39:43_
