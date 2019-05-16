@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Это Россия, детка! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>425</sup>
 * Поцелуйные губы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>424</sup>
 * runway freaks ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>423</sup>
 * Единственная тайна ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>422</sup>
@@ -30,7 +31,6 @@
 * Бывший - дело тонкое ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>398</sup>
 * Double fake ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>397</sup>
 * Это он! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>396</sup>
-* Здесь солнца не видно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>395</sup>
 
 
-_16.05.2019 18:18:27_
+_16.05.2019 18:18:56_

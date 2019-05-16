@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>424</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>425</sup>
 ---
 
 ## 2019
@@ -1880,6 +1880,11 @@ Park_Noodle
 ### Поцелуйные губы
 Tuono
 > [2016-05-27] Фанфик
+
+
+### Это Россия, детка!
+Tekken_17
+> [2016-05-26] Фанфик
 
 
 ### Предыстория
