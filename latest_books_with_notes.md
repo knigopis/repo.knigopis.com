@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* runway freaks ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>423</sup>
 * Единственная тайна ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>422</sup>
 * Полюбить лучшего друга ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>421</sup>
 * Привычка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>420</sup>
@@ -30,7 +31,6 @@
 * Это он! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>396</sup>
 * Здесь солнца не видно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>395</sup>
 * С чистого листа. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>394</sup>
-* Признаться и забыть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>393</sup>
 
 
-_16.05.2019 18:16:56_
+_16.05.2019 18:17:25_
