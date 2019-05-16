@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>132</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>133</sup>
 ---
 
 ## 2019
@@ -359,6 +359,11 @@ Shinas smile
 ### Нэко
 FluffyAngel90
 > [2018-11-04] Фанфик
+
+
+### Почему не стоит злить Гарри Поттера...
+Stefan77
+> [2018-10-23] Фанфик
 
 
 ### В борьбе обретёшь ты... (часть 2)
