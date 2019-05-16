@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дикий ветер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>145</sup>
+    > Фанфик
+
 * Lights will guide you home 131 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>144</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Яблоки на снегу ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>142</sup>
-    > Фанфик
 
 * влечение ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>141</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * О ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>136</sup>
 
-* sugarless. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>135</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>144</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>145</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 13:55:49_
+_16.05.2019 13:56:11_
