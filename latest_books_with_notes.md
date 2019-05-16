@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Я влюблён в своего учителя математики ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>404</sup>
 * Черно-белый фактор ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>403</sup>
 * Спасибо за снег! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>402</sup>
 * game starts ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>401</sup>
@@ -30,7 +31,6 @@
 * Что вы знаете о Поттере? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>377</sup>
 * Как умеет... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>376</sup>
 * "Шире!" или Занимательная стоматология ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>375</sup>
-* Неверный путь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>374</sup>
 
 
-_16.05.2019 18:02:12_
+_16.05.2019 18:02:36_

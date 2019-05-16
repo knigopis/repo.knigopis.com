@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>403</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>404</sup>
 ---
 
 ## 2019
@@ -1775,6 +1775,11 @@ Marti
 ### Черно-белый фактор
 Himerus
 > [2016-06-16] Фанфик
+
+
+### Я влюблён в своего учителя математики
+MaryIQ
+> [2016-06-15] Фанфик
 
 
 ### Предыстория
