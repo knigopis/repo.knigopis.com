@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бомб-вояж ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>186</sup>
+    > Фанфик
+
 * Подожди ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>185</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > фанфик
 
 * Журавлики ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>183</sup>
-    > Фанфик
 
 * Я найду тебя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>182</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Фехтовальщица ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>177</sup>
 
-* Эффект птеродактиля ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>175</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>185</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>186</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:19:35_
+_16.05.2019 14:20:03_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бомб-вояж ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>186</sup>
 * Подожди ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>185</sup>
 * makemedark.net ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>184</sup>
 * Журавлики ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>183</sup>
@@ -30,7 +31,6 @@
 * Гарри Поттер и Разговоры о Пчелках ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>158</sup>
 * Аромат лимонной мяты. Книга первая. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>157</sup>
 * Человек-хомяк ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>156</sup>
-* Леди Малфой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>155</sup>
 
 
-_16.05.2019 14:19:35_
+_16.05.2019 14:20:03_

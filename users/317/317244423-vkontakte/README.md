@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>185</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>186</sup>
 ---
 
 ## 2019
@@ -703,6 +703,11 @@ Amaya_Kudo
 ### makemedark.net
 Amaya_Kudo
 > [2018-02-28] фанфик
+
+
+### Бомб-вояж
+Map the Soul
+> [2018-02-26] Фанфик
 
 
 
