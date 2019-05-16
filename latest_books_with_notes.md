@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Такоцубо ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>57</sup>
 * Отстрой все заново ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>56</sup>
 * Драко Малфой и Тайная комната ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>55</sup>
 * Sowilo ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>54</sup>
@@ -30,7 +31,6 @@
 * Листи з того світу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup>
 * Анна Каренина ~ [Quaff](users/122/12267158-vkontakte)<sup>29</sup>
 * Сестра Керри ~ [regnabo](users/870/870059322-yandex)<sup>29</sup>
-* Неприятная профессия Джонатана Хога ~ [En](users/333/333646551-vkontakte)<sup>64</sup>
 
 
-_16.05.2019 11:52:26_
+_16.05.2019 11:53:15_

@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>56</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>57</sup>
 ---
 
 ## 2019
@@ -56,6 +56,11 @@ Jude Brownie
 ### Отстрой все заново
 godofhammers (kishafisha)
 > [2019-03-26] Фанфик
+
+
+### Такоцубо
+Minkikiki
+> [2019-03-20] Фанфик
 
 
 ### Внеклассное чтение
