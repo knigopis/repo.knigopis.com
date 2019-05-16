@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Oppa's Not My Style ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>215</sup>
 * Лето на двоих ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>214</sup>
 * История первая. Гермиона Грейнджер и Техника безопасности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>213</sup>
 * История вторая. Гермиона Грейнджер и Ужас подземелий ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>212</sup>
@@ -30,7 +31,6 @@
 * Вкус чужой крови ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>188</sup>
 * Ты пахнешь мятой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>187</sup>
 * Бомб-вояж ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>186</sup>
-* Подожди ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>185</sup>
 
 
-_16.05.2019 14:33:24_
+_16.05.2019 14:36:07_
