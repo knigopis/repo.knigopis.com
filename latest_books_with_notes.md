@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гарри Поттер... Хакер? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>443</sup>
 * Фьюр ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>442</sup>
 * Драко Малфой: Любовь по Кодексу ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>441</sup>
 * Назад в прошлое ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>440</sup>
@@ -30,7 +31,6 @@
 * Two strips, оne big Stress and Love for a dessert ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>416</sup>
 * Wait... She's a Dude?! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>415</sup>
 * Серебром по нежной коже ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>414</sup>
-* Зеленый шарф ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>413</sup>
 
 
-_16.05.2019 18:30:12_
+_16.05.2019 18:31:10_
