@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>180</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>181</sup>
 ---
 
 ## 2019
@@ -678,6 +678,11 @@ wolfypuppypiles
 ### Заполучить во что бы то ни стало
 Apple_Juice
 > [2018-03-08] Фанфик
+
+
+### Тату салон «Чёрная лилия»
+Problematic
+> [2018-03-03] Фанфик
 
 
 

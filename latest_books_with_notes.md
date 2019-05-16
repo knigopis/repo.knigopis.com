@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тату салон «Чёрная лилия» ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>181</sup>
 * Заполучить во что бы то ни стало ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>180</sup>
 * The truth is... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>179</sup>
 * Любовные записки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>178</sup>
@@ -30,7 +31,6 @@
 * Случайности не случайны ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>153</sup>
 * Доска треснула, фигуры разлетелись на куски... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>152</sup>
 * Stalker. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>151</sup>
-* Презервативы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>150</sup>
 
 
-_16.05.2019 14:17:27_
+_16.05.2019 14:17:51_
