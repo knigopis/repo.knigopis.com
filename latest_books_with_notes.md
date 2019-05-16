@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Полюбить лучшего друга ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>421</sup>
 * Привычка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>420</sup>
 * Увидеть в новом свете ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>419</sup>
 * неформал и Бен Бекхен. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>418</sup>
@@ -30,7 +31,6 @@
 * С чистого листа. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>394</sup>
 * Признаться и забыть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>393</sup>
 * Фак ю ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>392</sup>
-* Грань между светом и тьмой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>391</sup>
 
 
-_16.05.2019 18:13:46_
+_16.05.2019 18:14:26_
