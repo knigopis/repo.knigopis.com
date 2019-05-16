@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>301</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>302</sup>
 ---
 
 ## 2019
@@ -1250,6 +1250,11 @@ kotkate
 ### The Outsider
 leaderkyuzizi
 > [2016-10-28] Фанфик
+
+
+### «Багдад - Лондон: Совершенно секретно»
+WhiteBloodOfGod
+> [2016-10-27] Фанфик
 
 
 ### Мой альфа'
