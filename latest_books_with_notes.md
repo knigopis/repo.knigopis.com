@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ожидание ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>51</sup>
 * Потерянное время ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>50</sup>
 * Неожиданный договор. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>49</sup>
 * Неожиданная сделка. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>48</sup>
@@ -30,7 +31,6 @@
 * ПРИЮТ. КНИГА ПЕРВАЯ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>76</sup>
 * Заради майбутнього ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>28</sup>
 * Вавилон-17 ~ [Chiffi](users/105/105831994080785626680-google)<sup>117</sup>
-* Дім дивних дітей: Карта днів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>27</sup>
 
 
-_16.05.2019 11:46:05_
+_16.05.2019 11:48:07_
