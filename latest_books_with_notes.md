@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Это он! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>396</sup>
 * Здесь солнца не видно ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>395</sup>
 * С чистого листа. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>394</sup>
 * Признаться и забыть ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>393</sup>
@@ -30,7 +31,6 @@
 * Как лучше ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>369</sup>
 * Там, где остановилось время ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>368</sup>
 * Поттер, заткнись! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>367</sup>
-* У него такие глаза ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>366</sup>
 
 
-_16.05.2019 17:56:16_
+_16.05.2019 17:56:53_
