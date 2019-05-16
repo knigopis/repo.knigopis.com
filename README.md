@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* История вторая. Гермиона Грейнджер и Ужас подземелий ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>212</sup>
+    > Фанфик
+
 * История третья. Гермиона Грейнджер и Узники Хогвартса ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>211</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * История седьмая. Гермиона Грейнджер и Дар Жизни ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>209</sup>
-    > Фанфик
 
 * Рождение чуда ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>208</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Казнить нельзя помиловать ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>203</sup>
 
-* Солнце в кармане ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>202</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>211</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>212</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:32:08_
+_16.05.2019 14:32:28_
