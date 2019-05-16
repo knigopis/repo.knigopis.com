@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мальчик, в котором выжил ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>106</sup>
 * Вейла ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>105</sup>
 * Прикрытие для принцев ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>104</sup>
 * Up to the house ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>103</sup>
@@ -30,7 +31,6 @@
 * Венки из одуванчиков. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>79</sup>
 * Первый шаг или После стольких лет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>78</sup>
 * Семикурсники ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>77</sup>
-* Растекающаяся реальность ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>76</sup>
 
 
-_16.05.2019 12:22:02_
+_16.05.2019 12:22:33_
