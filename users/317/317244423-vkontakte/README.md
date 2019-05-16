@@ -1,7 +1,12 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>142</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>143</sup>
 ---
 
 ## 2019
+
+### not such as all.
+herr.roysh
+> [2019-07-19] Фанфик
+
 
 ### Потерянное время
 Батон-праведник
