@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>273</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>274</sup>
 ---
 
 ## 2019
@@ -1138,6 +1138,11 @@ Starsky
 ### На маяк
 Зимний горностай
 > [2017-01-11] Фанфик
+
+
+### В пустыне нет слёз
+Chibi Sanmin
+> [2017-01-08] Фанфик
 
 
 
