@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Соврем судьбе ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>267</sup>
 * As Souls From Bodies Steal ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>266</sup>
 * Девять кругов ада ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>265</sup>
 * The Outsider ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>264</sup>
@@ -30,7 +31,6 @@
 * Случайных встреч не бывает ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>240</sup>
 * Одиннадцать ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>239</sup>
 * Твоя метка на мне ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>238</sup>
-* Личный колдомедик Поттера ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>237</sup>
 
 
-_16.05.2019 15:09:09_
+_16.05.2019 15:09:38_

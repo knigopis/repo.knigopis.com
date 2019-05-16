@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>266</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>267</sup>
 ---
 
 ## 2019
@@ -1103,6 +1103,11 @@ _Disi_
 ### As Souls From Bodies Steal
 Femme
 > [2017-04-11] Фанфик
+
+
+### Соврем судьбе
+Amira19
+> [2017-04-10] Фанфик
 
 
 
