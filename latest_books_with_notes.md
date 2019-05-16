@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Nanny for Park Chanyeol ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>383</sup>
 * Доктор До и мистер Никто ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>382</sup>
 * Грааль ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>381</sup>
 * Младший брат ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>380</sup>
@@ -30,7 +31,6 @@
 * Где ты будешь спать завтра? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>356</sup>
 * Про блудных сов и охоту за сокровищами ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>355</sup>
 * Пуховый Поттер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>354</sup>
-* Сказки Малфой-мэнора ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>353</sup>
 
 
-_16.05.2019 17:45:59_
+_16.05.2019 17:46:44_
