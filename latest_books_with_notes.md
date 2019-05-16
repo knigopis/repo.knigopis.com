@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Любовь без памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>337</sup>
 * Страсть... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>336</sup>
 * Оставь поля цвести ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>335</sup>
 * Окклюменция ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>334</sup>
@@ -30,7 +31,6 @@
 * Touch me, touch me more ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>310</sup>
 * Let me love you ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>309</sup>
 * Не верно. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>308</sup>
-* not another scary movie ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>307</sup>
 
 
-_16.05.2019 17:11:19_
+_16.05.2019 17:11:51_

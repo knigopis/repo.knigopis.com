@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>336</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>337</sup>
 ---
 
 ## 2019
@@ -1435,6 +1435,11 @@ emmagrant01
 ### Страсть...
 Lifeless_Doll
 > [2016-08-12] Фанфик
+
+
+### Любовь без памяти
+anntimmy
+> [2016-08-11] Фанфик
 
 
 ### Ангел с дефектами
