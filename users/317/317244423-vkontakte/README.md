@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>278</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>279</sup>
 ---
 
 ## 2019
@@ -1176,6 +1176,11 @@ Amira19
 ### Все любят пудинг
 just Snake
 > [2016-11-13] Фанфик
+
+
+### Silentium!
+Кьюба
+> [2016-11-11] Фанфик
 
 
 ### The Outsider
