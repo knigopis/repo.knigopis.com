@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Магический киндер-сюрприз ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>364</sup>
 * Кролик по имени Поттер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>363</sup>
 * Не тот, кем кажется ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>362</sup>
 * Еще одно лето ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>361</sup>
@@ -30,7 +31,6 @@
 * Любовь без памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>337</sup>
 * Страсть... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>336</sup>
 * Оставь поля цвести ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>335</sup>
-* Окклюменция ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>334</sup>
 
 
-_16.05.2019 17:32:37_
+_16.05.2019 17:33:03_
