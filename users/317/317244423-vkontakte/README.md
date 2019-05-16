@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>145</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>146</sup>
 ---
 
 ## 2019
@@ -509,6 +509,11 @@ herr.roysh
 ### Lights will guide you home 131
 Щука-семпай
 > [2018-07-18] Фанфик
+
+
+### My baby boy.
+herr.roysh
+> [2018-07-01] Фанфик
 
 
 ### Гордость и предубеждение
