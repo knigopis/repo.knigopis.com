@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>164</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>165</sup>
 ---
 
 ## 2019
@@ -603,6 +603,11 @@ Irdis.
 ### Не желаете сменить фамилию?
 Солнцеслава
 > [2018-05-20] Фанфик
+
+
+### Змея Давида
+g.allena
+> [2018-05-15] Фанфик
 
 
 ### Гордость и предубеждение
