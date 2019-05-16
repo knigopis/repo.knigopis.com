@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>247</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>248</sup>
 ---
 
 ## 2019
@@ -1018,6 +1018,11 @@ Miky
 ### Научи меня любить, Пак Чанёль
 OhhhYeah
 > [2017-08-04] Фанфик
+
+
+### Это не я, это не он (от 18)
+Himerus
+> [2017-08-03] Фанфик
 
 
 
