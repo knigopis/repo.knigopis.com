@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Незабытый сон ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>324</sup>
 * Сердце дракона ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>323</sup>
 * Завтра будет завтра ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>322</sup>
 * Shatter ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>321</sup>
@@ -30,7 +31,6 @@
 * Stop the clocks ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>297</sup>
 * Наваждение. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>296</sup>
 * Впусти меня и я разрушу тебя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>295</sup>
-* Чилдрен-сюрприз! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>294</sup>
 
 
-_16.05.2019 15:47:36_
+_16.05.2019 15:48:43_
