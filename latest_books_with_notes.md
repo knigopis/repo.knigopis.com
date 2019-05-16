@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сказки Малфой-мэнора ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>353</sup>
 * Любовь под рёв стадиона ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>352</sup>
 * Вернуть или вернуться ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>351</sup>
 * Как все это было. Измененная версия. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>350</sup>
@@ -30,7 +31,6 @@
 * Бомбейский сапфир ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>326</sup>
 * Развлечения по субботам ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>325</sup>
 * Незабытый сон ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>324</sup>
-* Сердце дракона ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>323</sup>
 
 
-_16.05.2019 17:25:10_
+_16.05.2019 17:25:55_

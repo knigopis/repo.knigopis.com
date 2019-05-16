@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>352</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>353</sup>
 ---
 
 ## 2019
@@ -1181,6 +1181,11 @@ Amaya_Kudo
 ### Самые прекрасные цветы растут из грязи
 Amira19
 > [2016-11-18] Фанфик
+
+
+### Сказки Малфой-мэнора
+tuuli-veter
+> [2016-11-15] Фанфик
 
 
 ### Все любят пудинг
