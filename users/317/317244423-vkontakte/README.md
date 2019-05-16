@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>267</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>268</sup>
 ---
 
 ## 2019
@@ -1108,6 +1108,11 @@ Femme
 ### Соврем судьбе
 Amira19
 > [2017-04-10] Фанфик
+
+
+### Я бы тебя выбрал
+shurshic-chan
+> [2017-01-22] Фанфик
 
 
 
