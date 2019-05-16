@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>235</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>236</sup>
 ---
 
 ## 2019
@@ -953,6 +953,11 @@ Heika Mitich
 ### За что тебя ненавижу...
 Иванка
 > [2017-11-12] Фанфик, ориджинал
+
+
+### Поймать Тень
+Пессимия
+> [2017-11-11] Фанфик, ориджинал
 
 
 ### Истинных не выбирают

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Поймать Тень ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>236</sup>
 * Истинных не выбирают ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>235</sup>
 * Happy End?.. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>234</sup>
 * За что тебя ненавижу... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>233</sup>
@@ -30,7 +31,6 @@
 * История седьмая. Гермиона Грейнджер и Дар Жизни ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>209</sup>
 * Рождение чуда ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>208</sup>
 * Хозяйка Принц-мэнора ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>207</sup>
-* Бюро находок ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>206</sup>
 
 
-_16.05.2019 14:49:33_
+_16.05.2019 14:50:03_
