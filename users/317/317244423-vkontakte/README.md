@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>350</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>351</sup>
 ---
 
 ## 2019
@@ -1500,6 +1500,11 @@ Smaragd
 ### Личный артефакт Гарри Поттера
 Shinas smile
 > [2016-07-26] Фанфик
+
+
+### Вернуть или вернуться
+tuuli-veter
+> [2016-07-25] Фанфик
 
 
 ### Как все это было. Измененная версия.

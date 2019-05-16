@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вернуть или вернуться ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>351</sup>
 * Как все это было. Измененная версия. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>350</sup>
 * Личный артефакт Гарри Поттера ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>349</sup>
 * Все имеет свою цену, или принц для Гарри ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>348</sup>
@@ -30,7 +31,6 @@
 * Незабытый сон ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>324</sup>
 * Сердце дракона ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>323</sup>
 * Завтра будет завтра ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>322</sup>
-* Shatter ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>321</sup>
 
 
-_16.05.2019 17:22:21_
+_16.05.2019 17:22:49_
