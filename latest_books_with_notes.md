@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ночь под ивой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>358</sup>
 * Русалочка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>357</sup>
 * Где ты будешь спать завтра? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>356</sup>
 * Про блудных сов и охоту за сокровищами ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>355</sup>
@@ -30,7 +31,6 @@
 * Unkissed Kisses and Songs Never Sung ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>331</sup>
 * Он хотел... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>330</sup>
 * Articulo mortis ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>329</sup>
-* "Оранжевый и серый" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>328</sup>
 
 
-_16.05.2019 17:29:15_
+_16.05.2019 17:29:47_
