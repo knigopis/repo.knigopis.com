@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>256</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>257</sup>
 ---
 
 ## 2019
@@ -1063,6 +1063,11 @@ herr.roysh
 ### Русские не сдаются
 Leka-splushka
 > [2017-07-10] Фанфик
+
+
+### Александр Н. и месть волшебного мира
+Jero3000
+> [2017-07-04] Фанфик
 
 
 
