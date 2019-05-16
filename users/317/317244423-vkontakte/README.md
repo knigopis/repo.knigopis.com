@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>190</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>191</sup>
 ---
 
 ## 2019
@@ -723,6 +723,11 @@ Etan Scarabey
 ### Ты пахнешь мятой
 Caninae
 > [2018-02-25] Фанфик
+
+
+### Оголодавший
+birdsofshore
+> [2018-02-23] Фанфик
 
 
 ### Наследник Блэков

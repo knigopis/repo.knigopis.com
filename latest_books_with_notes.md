@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Оголодавший ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>191</sup>
 * Наследник Блэков ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>190</sup>
 * Поймай этот долбаный снитч, если сможешь ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>189</sup>
 * Вкус чужой крови ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>188</sup>
@@ -30,7 +31,6 @@
 *  ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>163</sup>
 * Чужая тень ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>162</sup>
 * Поздно для любви. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>161</sup>
-* Последняя из рода Блэк ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>160</sup>
 
 
-_16.05.2019 14:21:42_
+_16.05.2019 14:22:29_
