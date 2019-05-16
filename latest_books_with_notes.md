@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Не верно. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>308</sup>
 * not another scary movie ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>307</sup>
 * hate u ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>306</sup>
 * День п*****а ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>305</sup>
@@ -30,7 +31,6 @@
 * Фрэнк - "на удачу". Франк - "на счастье" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>281</sup>
 * Загадки Отдела Тайн ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>280</sup>
 * Silentium! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>279</sup>
-* Все любят пудинг ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>278</sup>
 
 
-_16.05.2019 15:37:24_
+_16.05.2019 15:38:02_
