@@ -1,4 +1,16 @@
 {
+    "iRQ0m3M9pf": {
+        "id": "iRQ0m3M9pf",
+        "title": "Гарри, Драко и Кубок Огня",
+        "author": "Shtil",
+        "notes": "Фанфик",
+        "createdAt": "2019-05-16 11:48:40",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 52
+        }
+    },
     "ZQ1H0PHrnn": {
         "id": "ZQ1H0PHrnn",
         "title": "Ожидание",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 28
-        }
-    },
-    "vHSuGPkcsj": {
-        "id": "vHSuGPkcsj",
-        "title": "Вавилон-17",
-        "author": "Дилени",
-        "notes": "оказывается, я читала эту книгу  лет 20 назад (тогда было прочитано много классики фантастики))",
-        "createdAt": "2019-05-04 07:04:52",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 117
         }
     }
 }
