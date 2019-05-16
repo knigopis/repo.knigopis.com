@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В борьбе обретёшь ты... (часть 1) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>118</sup>
 * В борьбе обретёшь ты... (часть 2) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>117</sup>
 * In One Basket ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>116</sup>
 * Нэко ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>115</sup>
@@ -30,7 +31,6 @@
 * Кошки-мышки. Поиграем? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>91</sup>
 * Только не молчи ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>90</sup>
 * Ночь в Министерстве ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>89</sup>
-* Отравлен тобой ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>88</sup>
 
 
-_16.05.2019 12:32:03_
+_16.05.2019 12:32:35_

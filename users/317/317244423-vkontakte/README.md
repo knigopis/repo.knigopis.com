@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>117</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>118</sup>
 ---
 
 ## 2019
@@ -369,6 +369,11 @@ FluffyAngel90
 ### In One Basket
 Gweezle
 > [2018-10-21] Фанфик
+
+
+### В борьбе обретёшь ты... (часть 1)
+Кукулькан
+> [2018-10-15] Фанфик
 
 
 ### Гордость и предубеждение
