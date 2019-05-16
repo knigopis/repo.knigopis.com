@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>303</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>304</sup>
 ---
 
 ## 2019
@@ -1260,6 +1260,11 @@ WhiteBloodOfGod
 ### Мой альфа'
 Алиса_Котяткина
 > [2016-10-27] Фанфик
+
+
+### Ёжик и Крош
+fluffhead
+> [2016-10-25] Фанфик
 
 
 ### Голубой кролик
