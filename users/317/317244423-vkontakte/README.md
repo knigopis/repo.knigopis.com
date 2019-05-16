@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>310</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>311</sup>
 ---
 
 ## 2019
@@ -1305,6 +1305,11 @@ haneulie
 ### День п*****а
 Artemi
 > [2016-09-30] Фанфик
+
+
+### I аm your girlman
+MC_Mutant
+> [2016-09-21] Фанфик
 
 
 ### Ангел с дефектами
