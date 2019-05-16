@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Личный артефакт Гарри Поттера ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>349</sup>
 * Все имеет свою цену, или принц для Гарри ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>348</sup>
 * Мандаринки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>347</sup>
 * Диалоги в Париже накануне Рождества ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>346</sup>
@@ -30,7 +31,6 @@
 * Завтра будет завтра ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>322</sup>
 * Shatter ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>321</sup>
 * Кёнсу и "Розовый цвет любви" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>320</sup>
-* of puppies, little sisters and 'a happy new year' ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>319</sup>
 
 
-_16.05.2019 17:20:51_
+_16.05.2019 17:21:18_

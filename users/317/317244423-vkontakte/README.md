@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>348</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>349</sup>
 ---
 
 ## 2019
@@ -1495,6 +1495,11 @@ Lanfir
 ### Диалоги в Париже накануне Рождества
 Smaragd
 > [2016-07-29] Фанфик
+
+
+### Личный артефакт Гарри Поттера
+Shinas smile
+> [2016-07-26] Фанфик
 
 
 ### Ангел с дефектами
