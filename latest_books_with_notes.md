@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Прикрытие для принцев ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>104</sup>
 * Up to the house ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>103</sup>
 * Природа вейлы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>102</sup>
 * Дорогущий ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>101</sup>
@@ -30,7 +31,6 @@
 * Семикурсники ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>77</sup>
 * Растекающаяся реальность ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>76</sup>
 * Вернуть тебя. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>75</sup>
-* 23 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>74</sup>
 
 
-_16.05.2019 12:21:00_
+_16.05.2019 12:21:32_

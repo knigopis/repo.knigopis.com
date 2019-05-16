@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>103</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>104</sup>
 ---
 
 ## 2019
@@ -299,6 +299,11 @@ boyz_luv
 ### Up to the house
 Vavilon V
 > [2018-12-01] Фанфик
+
+
+### Прикрытие для принцев
+kamidess
+> [2018-11-28] Фанфик
 
 
 ### Гордость и предубеждение
