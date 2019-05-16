@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>194</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>195</sup>
 ---
 
 ## 2019
@@ -748,6 +748,11 @@ Potash
 ### Принц для Драко, или Три орешка для Золушка
 Рейна Рей
 > [2018-02-21] Фанфик
+
+
+### Влюблённый Поттер
+Рейна Рей
+> [2018-02-20] Фанфик
 
 
 
