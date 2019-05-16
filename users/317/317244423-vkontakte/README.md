@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>228</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>229</sup>
 ---
 
 ## 2019
@@ -893,6 +893,11 @@ Rednol
 ### 404
 stolen v
 > [2017-12-01] Фанфик
+
+
+### the kids aren't alright
+миш.
+> [2017-11-29] Фанфик
 
 
 ### как разбить сердце Уилла Байерса
