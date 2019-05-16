@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шелест прошлого ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>111</sup>
 * Шедевр ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>110</sup>
 * Ripples ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>109</sup>
 * Мозгошмыгнутый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>108</sup>
@@ -30,7 +31,6 @@
 * Дневник: Что вы знаете о ненависти? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>84</sup>
 * Гарри - Санта ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>83</sup>
 * Всегда к твоим услугам ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>82</sup>
-* Тайна ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>81</sup>
 
 
-_16.05.2019 12:24:41_
+_16.05.2019 12:25:06_

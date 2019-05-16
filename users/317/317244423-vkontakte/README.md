@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>110</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>111</sup>
 ---
 
 ## 2019
@@ -334,6 +334,11 @@ Velva
 ### Ripples
 Pancake M.D.
 > [2018-11-18] Фанфик
+
+
+### Шелест прошлого
+Made Of Stone
+> [2018-11-12] Фанфик
 
 
 ### Гордость и предубеждение
