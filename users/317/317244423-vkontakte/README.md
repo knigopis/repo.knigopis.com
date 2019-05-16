@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>249</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>250</sup>
 ---
 
 ## 2019
@@ -1028,6 +1028,11 @@ atashi_no_seishun
 ### Это не я, это не он (от 18)
 Himerus
 > [2017-08-03] Фанфик
+
+
+### Academy of Roses
+perfect.velvet
+> [2017-07-17] Фанфик
 
 
 

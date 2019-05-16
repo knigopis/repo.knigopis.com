@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Academy of Roses ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>250</sup>
 * Жених из Ада ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>249</sup>
 * Это не я, это не он (от 18) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>248</sup>
 * Не пиши "the end" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>248</sup>
@@ -30,7 +31,6 @@
 * full of monsters ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>223</sup>
 * Байерс плюс Уилер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>222</sup>
 * 404 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>221</sup>
-* Это война! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>220</sup>
 
 
-_16.05.2019 14:57:17_
+_16.05.2019 14:57:46_
