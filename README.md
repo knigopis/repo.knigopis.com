@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Человек ждал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>241</sup>
+    > Фанфик
+
 * Случайных встреч не бывает ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>240</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Твоя метка на мне ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>238</sup>
-    > Фанфик
 
 * Личный колдомедик Поттера ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>237</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Love and Marriage. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>232</sup>
 
-* NRX ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>231</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>240</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>241</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 14:51:38_
+_16.05.2019 14:51:58_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Человек ждал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>241</sup>
 * Случайных встреч не бывает ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>240</sup>
 * Одиннадцать ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>239</sup>
 * Твоя метка на мне ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>238</sup>
@@ -30,7 +31,6 @@
 * Лето на двоих ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>214</sup>
 * История первая. Гермиона Грейнджер и Техника безопасности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>213</sup>
 * История вторая. Гермиона Грейнджер и Ужас подземелий ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>212</sup>
-* История третья. Гермиона Грейнджер и Узники Хогвартса ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>211</sup>
 
 
-_16.05.2019 14:51:38_
+_16.05.2019 14:51:58_
