@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* И смерть лишь начало ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>172</sup>
 * Иллюзия правды ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>171</sup>
 * Неслучайные случайности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>170</sup>
 * Ещё один год ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>169</sup>
@@ -30,7 +31,6 @@
 * Дикий ветер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>145</sup>
 * Lights will guide you home 131 ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>144</sup>
 * not such as all. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>143</sup>
-* Яблоки на снегу ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>142</sup>
 
 
-_16.05.2019 14:10:52_
+_16.05.2019 14:11:18_

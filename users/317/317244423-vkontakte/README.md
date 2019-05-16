@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>171</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>172</sup>
 ---
 
 ## 2019
@@ -36,6 +36,11 @@ Shtil
 ### Ожидание
 Kefalion
 > [2019-04-10] Фанфик
+
+
+### И смерть лишь начало
+СкальдЪ
+> [2019-04-09] Фанфик
 
 
 ### Иллюзия правды
