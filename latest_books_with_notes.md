@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Молодые асы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>438</sup>
 * Попасть по полной... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>437</sup>
 * Метаморфозы любви или зачем нужны сестры ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>436</sup>
 * В полшаге... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>435</sup>
@@ -30,7 +31,6 @@
 * Яблоки в Карамели - Рецепт ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>411</sup>
 * i want you to be the first in my bed ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>410</sup>
 * Иди ко мне, глупый ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>409</sup>
-* Byun Baekhyun decides to die. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>408</sup>
 
 
-_16.05.2019 18:27:10_
+_16.05.2019 18:27:42_
