@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Миндально-шоколадный альфа ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>299</sup>
 * Игра на выживание ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>298</sup>
 * Stop the clocks ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>297</sup>
 * Наваждение. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>296</sup>
@@ -30,7 +31,6 @@
 * We've got three rules. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>272</sup>
 * Вместе ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>271</sup>
 * The Standard You Walk Past ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>270</sup>
-* О приручении упрямых хёнов ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>269</sup>
 
 
-_16.05.2019 15:30:25_
+_16.05.2019 15:30:45_

@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>298</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>299</sup>
 ---
 
 ## 2019
@@ -1235,6 +1235,11 @@ jonghyun_
 
 ### Stop the clocks
 > [2016-10-30] Фанфик
+
+
+### Миндально-шоколадный альфа
+kotkate
+> [2016-10-28] Фанфик
 
 
 ### The Outsider
