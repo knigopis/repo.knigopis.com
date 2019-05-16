@@ -1,6 +1,8 @@
 # List of the latest books with notes
 ---
 
+* Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>456</sup>
+* "Долг жизни" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>455</sup>
 * What If ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>454</sup>
 * Remedium desperatio ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>453</sup>
 * Каникулы с Малфоем ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>452</sup>
@@ -29,8 +31,6 @@
 * Гарри Поттер и Трудности преподавания ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>429</sup>
 * Artificial Universe ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>428</sup>
 * Мой первый роман ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>427</sup>
-* Eternal Feelings ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>426</sup>
-* Это Россия, детка! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>425</sup>
 
 
-_16.05.2019 18:36:53_
+_16.05.2019 18:38:24_

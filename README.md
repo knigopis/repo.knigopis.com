@@ -5,14 +5,18 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>456</sup>
+    > Фанфики
+
+* "Долг жизни" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>455</sup>
+    > Фанфик
+
 * What If ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>454</sup>
     > Фанфик
 
 * Remedium desperatio ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>453</sup>
-    > Фанфик
 
 * Каникулы с Малфоем ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>452</sup>
-    > Фанфик
 
 * Попробуй узнать мои грязные мысли. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>451</sup>
 
@@ -24,16 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пусть думают те, кто умеет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>447</sup>
 
-* When do we start? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>446</sup>
-
-* Не прикасайся ко мне, Поттер! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>445</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>454</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>456</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 18:36:53_
+_16.05.2019 18:38:24_

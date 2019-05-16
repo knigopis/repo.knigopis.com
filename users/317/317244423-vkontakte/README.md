@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>454</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>456</sup>
 ---
 
 ## 2019
@@ -11,6 +11,11 @@
 ### Чёрная лилия.
 DreamSVV
 > [2019-05-07] Фанфик
+
+
+### Это просто невозможно!
+Stella1408
+> [2019-05-04] Фанфики
 
 
 ### Сильные мира всего.
@@ -2030,6 +2035,11 @@ listokklevera
 ### What If
 Katrina Marie Pace
 > [2016-05-05] Фанфик
+
+
+### "Долг жизни"
+Феникс_задира
+> [2016-05-04] Фанфик
 
 
 ### Предыстория
