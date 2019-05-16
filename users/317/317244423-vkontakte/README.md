@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>75</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>76</sup>
 ---
 
 ## 2019
@@ -151,6 +151,11 @@ just B.
 ### Жёлтая ленточка
 DOD.O
 > [2019-02-21] Фанфик
+
+
+### Растекающаяся реальность
+Julilynx
+> [2019-02-20] Фанфик
 
 
 ### Вернуть тебя.

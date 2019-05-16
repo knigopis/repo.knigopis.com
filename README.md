@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Растекающаяся реальность ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>76</sup>
+    > Фанфик
+
 * Вернуть тебя. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>75</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Endlessly, He Said ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>73</sup>
-    > Фанфик
 
 * (не) реальный альфа ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>72</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * 78 секретарей. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>67</sup>
 
-* Как добиться своей пары, ну и прочие неприятности. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>66</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>75</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>76</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>35</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 12:04:46_
+_16.05.2019 12:05:15_
