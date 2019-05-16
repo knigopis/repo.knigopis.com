@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>161</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>162</sup>
 ---
 
 ## 2019
@@ -584,6 +584,11 @@ Vivian Veini
 ### Последняя из рода Блэк
 Anastay
 > [2018-05-29] Фанфик
+
+
+### Чужая тень
+YourMystery
+> [2018-05-22] Фанфик
 
 
 ### Поздно для любви.
