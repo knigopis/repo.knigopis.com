@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Младший брат ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>380</sup>
 * Оборотная сторона бессмертия ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>379</sup>
 * Джентльмены предпочитают блондинов ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>378</sup>
 * Что вы знаете о Поттере? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>377</sup>
@@ -30,7 +31,6 @@
 * Сказки Малфой-мэнора ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>353</sup>
 * Любовь под рёв стадиона ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>352</sup>
 * Вернуть или вернуться ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>351</sup>
-* Как все это было. Измененная версия. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>350</sup>
 
 
-_16.05.2019 17:42:48_
+_16.05.2019 17:43:14_
