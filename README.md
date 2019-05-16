@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Долгая дорога к тебе ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>132</sup>
+    > Фанфик
+
 * В ловушке времени ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>131</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Могущество и слабость. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>129</sup>
-    > Фанфик
 
 * Молчи громче ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>128</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Проверка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>123</sup>
 
-* Happily Ever After ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>122</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>131</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>132</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>35</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 12:41:38_
+_16.05.2019 12:42:00_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Долгая дорога к тебе ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>132</sup>
 * В ловушке времени ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>131</sup>
 * Тихая сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>130</sup>
 * Могущество и слабость. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>129</sup>
@@ -30,7 +31,6 @@
 * Вейла ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>105</sup>
 * Прикрытие для принцев ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>104</sup>
 * Up to the house ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>103</sup>
-* Природа вейлы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>102</sup>
 
 
-_16.05.2019 12:41:38_
+_16.05.2019 12:42:00_

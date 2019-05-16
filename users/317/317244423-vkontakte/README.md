@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>131</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>132</sup>
 ---
 
 ## 2019
@@ -439,6 +439,11 @@ _finch_
 ### В ловушке времени
 shaitanka
 > [2018-08-21] Фанфик
+
+
+### Долгая дорога к тебе
+NikMac
+> [2018-08-19] Фанфик
 
 
 ### Гордость и предубеждение
