@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пуховый Поттер ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>354</sup>
+    > Фанфик
+
 * Сказки Малфой-мэнора ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>353</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Вернуть или вернуться ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>351</sup>
-    > Фанфик
 
 * Как все это было. Измененная версия. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>350</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Подарки ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>345</sup>
 
-* Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>344</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>353</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>354</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 17:25:55_
+_16.05.2019 17:26:32_
