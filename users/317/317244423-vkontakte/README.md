@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>212</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>213</sup>
 ---
 
 ## 2019
@@ -286,6 +286,11 @@ Catksan
 ### Хозяйка Принц-мэнора
 ATAKA24
 > [2019-01-11] Фанфик
+
+
+### История первая. Гермиона Грейнджер и Техника безопасности
+Hoshi_Murasaki
+> [2019-01-10] Фанфик
 
 
 ### История вторая. Гермиона Грейнджер и Ужас подземелий
