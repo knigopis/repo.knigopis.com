@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мой дом там, где ты ждешь меня ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>226</sup>
 * everything you want to see ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>225</sup>
 * по надорванным связкам крик ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>224</sup>
 * full of monsters ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>223</sup>
@@ -30,7 +31,6 @@
 * Точка невозврата ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>199</sup>
 * Фестрал ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>198</sup>
 * На войну ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>197</sup>
-* The Call (9/11) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>196</sup>
 
 
-_16.05.2019 14:40:06_
+_16.05.2019 14:40:40_
