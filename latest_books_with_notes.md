@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* I hate sober ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>94</sup>
 * Особые потребности ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>93</sup>
 * Я тебя понимаю ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>92</sup>
 * Кошки-мышки. Поиграем? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>91</sup>
@@ -30,7 +31,6 @@
 * 78 секретарей. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>67</sup>
 * Как добиться своей пары, ну и прочие неприятности. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>66</sup>
 * Baekhyun Kissed A Boy ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>65</sup>
-* Бракованный омега ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>64</sup>
 
 
-_16.05.2019 12:15:21_
+_16.05.2019 12:15:52_
