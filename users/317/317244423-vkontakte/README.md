@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>319</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>321</sup>
 ---
 
 ## 2019
@@ -1337,6 +1337,11 @@ Amaya_Kudo
 > [2016-09-24] Фанфик
 
 
+### Shatter
+Roozette
+> [2016-09-23] Фанфик
+
+
 ### of puppies, little sisters and 'a happy new year'
 haneulie
 > [2016-09-23] Фанфик
@@ -1345,6 +1350,11 @@ haneulie
 ### Let's do it together?
 Hayla
 > [2016-09-23] Фанфик
+
+
+### Кёнсу и "Розовый цвет любви"
+Artemi
+> [2016-09-22] Фанфик
 
 
 ### I аm your girlman

@@ -1,6 +1,8 @@
 # List of the latest books with notes
 ---
 
+* Shatter ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>321</sup>
+* Кёнсу и "Розовый цвет любви" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>320</sup>
 * of puppies, little sisters and 'a happy new year' ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>319</sup>
 * Лухан-в-Мине или Мин-в-Лухане? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>318</sup>
 * Dе Walletjes ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>317</sup>
@@ -29,8 +31,6 @@
 * Чилдрен-сюрприз! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>294</sup>
 * "Шесть" - это не цифра! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>293</sup>
 * Ролевая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>292</sup>
-* Шоу "Кто мой парень?" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>291</sup>
-* Я слежу за тобой. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>290</sup>
 
 
-_16.05.2019 15:44:29_
+_16.05.2019 15:46:41_
