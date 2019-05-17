@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 198,
+        "updatedAt": "2019-05-17 13:23:58"
+    },
     "200666735-vkontakte": {
         "id": "200666735-vkontakte",
         "nickname": "mavrentik",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 29,
         "updatedAt": "2019-05-07 20:26:42"
-    },
-    "870059322-yandex": {
-        "id": "870059322-yandex",
-        "nickname": "regnabo",
-        "booksCount": 29,
-        "updatedAt": "2019-05-07 11:50:06"
     }
 }

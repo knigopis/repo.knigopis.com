@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сакура и дуб ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>198</sup>
 * И снова про любовь, или Нелепая, лохматая любовь моя проклятая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup>
 * Дожди и туманы Драко Малфоя (Then Comes a Mist and a Weeping Rain) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>458</sup>
 * Потеря памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>457</sup>
@@ -30,7 +31,6 @@
 * Ни капли царской крови ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>433</sup>
 * Поттер в моей голове ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>432</sup>
 * "Second chance" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>431</sup>
-* Проснись со мной ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>430</sup>
 
 
-_16.05.2019 18:42:38_
+_17.05.2019 13:23:58_

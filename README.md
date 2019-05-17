@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сакура и дуб ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>198</sup>
+    > Замечательная книга о внутренностях жизни Японии и Соединенного Королевства (не Великобритании и не Англии - это три разных страны!). Но если Япония показана именно в призме людей, то Соединенное Королевство через призму скорее системы, политики. Ну и плюс это книга, написанная еще в СССР, с мощной социалистической моралью. Категорически рекомендую!
+    > 
+    > https://www.ozon.ru/context/detail/id/27711627/
+
 * И снова про любовь, или Нелепая, лохматая любовь моя проклятая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup>
     > Фанфик
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Потеря памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>457</sup>
-    > Фанфик
 
 * Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>456</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Попробуй узнать мои грязные мысли. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>451</sup>
 
-* Не по-настоящему ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>450</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>198</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>19</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>6</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>98</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup> 
-[regnabo](users/870/870059322-yandex)<sup>29</sup> 
 
 
-_17.05.2019 12:07:45_
+_17.05.2019 13:23:58_
