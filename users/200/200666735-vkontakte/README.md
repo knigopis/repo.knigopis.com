@@ -1,7 +1,12 @@
-# List of books read by [mavrentik](http://vk.com/id200666735)<sup>18</sup>
+# List of books read by [mavrentik](http://vk.com/id200666735)<sup>19</sup>
 ---
 
 ## 2019
+
+### Кладбище домашних животных
+Стивен Кинг
+> [2019-05-16] 
+
 
 ### Над кукушкиным гнездом
 Кен Кизи
