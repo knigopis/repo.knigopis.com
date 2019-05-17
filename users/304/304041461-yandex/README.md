@@ -1,4 +1,4 @@
-# List of books read by johnybond32<sup>4</sup>
+# List of books read by johnybond32<sup>3</sup>
 ---
 
 ## 2019
@@ -11,10 +11,6 @@
 ### Брисбен
 Евгений Водолазкин
 > [2019-02] 
-
-
-### Один в океане
-Курилов
 
 
 
