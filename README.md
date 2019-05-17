@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[johnybond32](users/304/304041461-yandex)<sup>4</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup> 
 [regnabo](users/870/870059322-yandex)<sup>29</sup> 
 [En](users/333/333646551-vkontakte)<sup>64</sup> 
-[Lecowi](users/521/521873425-vkontakte)<sup>13</sup> 
 
 
-_16.05.2019 18:42:38_
+_17.05.2019 10:37:24_
