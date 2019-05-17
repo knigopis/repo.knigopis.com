@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 30,
+        "updatedAt": "2019-05-17 22:52:34"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "joan789",
         "booksCount": 98,
         "updatedAt": "2019-05-08 13:16:29"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 29,
-        "updatedAt": "2019-05-07 20:26:42"
     }
 }

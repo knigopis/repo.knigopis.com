@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>30</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>19</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>21</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>6</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>98</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup> 
 
 
-_17.05.2019 13:25:11_
+_17.05.2019 22:52:34_
