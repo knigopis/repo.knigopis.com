@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бизнес и инновации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/3178885/
+
 * Сакура и дуб ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>198</sup>
     > Замечательная книга о внутренностях жизни Японии и Соединенного Королевства (не Великобритании и не Англии - это три разных страны!). Но если Япония показана именно в призме людей, то Соединенное Королевство через призму скорее системы, политики. Ну и плюс это книга, написанная еще в СССР, с мощной социалистической моралью. Категорически рекомендую!
     > 
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Дожди и туманы Драко Малфоя (Then Comes a Mist and a Weeping Rain) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>458</sup>
-    > Фанфик
 
 * Потеря памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>457</sup>
 
@@ -28,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Каникулы с Малфоем ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>452</sup>
 
-* Попробуй узнать мои грязные мысли. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>451</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>198</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>19</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>29</sup> 
 
 
-_17.05.2019 13:23:58_
+_17.05.2019 13:25:11_

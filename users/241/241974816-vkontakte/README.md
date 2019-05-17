@@ -1,7 +1,14 @@
-# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>198</sup>
+# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>199</sup>
 ---
 
 ## 2019
+
+### Бизнес и инновации
+Питер Друкер
+> [2019-05-17] в процессе
+> 
+> https://www.ozon.ru/context/detail/id/3178885/
+
 
 ### Сакура и дуб
 Всеволод Овчинников
