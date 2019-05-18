@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Desperate Measures ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup>
+    > Фанфик
+
 * Бизнес и инновации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup>
     > в процессе
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/27711627/
 
 * И снова про любовь, или Нелепая, лохматая любовь моя проклятая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup>
-    > Фанфик
 
 * Дожди и туманы Драко Малфоя (Then Comes a Mist and a Weeping Rain) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>458</sup>
 
@@ -30,18 +32,16 @@ Do not use pull requests to make changes here.
 
 * Remedium desperatio ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>453</sup>
 
-* Каникулы с Малфоем ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>452</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>30</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>19</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>98</sup> 
 
 
-_17.05.2019 22:52:34_
+_18.05.2019 07:02:15_

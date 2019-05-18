@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Desperate Measures ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup>
 * Бизнес и инновации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup>
 * Сакура и дуб ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>198</sup>
 * И снова про любовь, или Нелепая, лохматая любовь моя проклятая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup>
@@ -30,7 +31,6 @@
 * В полшаге... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>435</sup>
 * Время расплаты ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>434</sup>
 * Ни капли царской крови ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>433</sup>
-* Поттер в моей голове ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>432</sup>
 
 
-_17.05.2019 13:25:11_
+_18.05.2019 07:02:15_

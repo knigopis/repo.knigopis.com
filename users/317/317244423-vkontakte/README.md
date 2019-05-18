@@ -1,7 +1,12 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>459</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>460</sup>
 ---
 
 ## 2019
+
+### Desperate Measures
+vvc
+> [2019-05-17] Фанфик
+
 
 ### Потерянное время
 Батон-праведник
