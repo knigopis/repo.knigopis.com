@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The circle ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup>
+    > 10/10 Our digital horrible future.
+
 * Моби Дик ~ [Garka](users/115/115753719718250012620-google)<sup>219</sup>
     > Не особо впечатлили книга, но и не особо разочаровала. То ли автор в процессе написания чуть "кукухой поехал", то ли это был изобразительный приём, призванный подчеркнуть психическое состояния капитана Ахава. Монолог Ахава в конце книге тронул.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Бизнес и инновации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/3178885/
 
 * Сакура и дуб ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>198</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * "Долг жизни" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>455</sup>
 
-* What If ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>454</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>219</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>30</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [theponycoder](users/195/195144442-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>21</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>6</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>98</sup> 
 
 
-_18.05.2019 17:12:48_
+_18.05.2019 17:46:02_

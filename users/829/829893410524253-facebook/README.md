@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>29</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>30</sup>
 ---
 
 ## 2019
+
+### The circle
+Dave Eggers
+> [2019-05-18] 10/10 Our digital horrible future.
+
 
 ### Листи з того світу
 Сергій Бут

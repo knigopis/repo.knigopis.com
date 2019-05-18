@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The circle ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup>
 * Моби Дик ~ [Garka](users/115/115753719718250012620-google)<sup>219</sup>
 * Desperate Measures ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup>
 * Бизнес и инновации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup>
@@ -30,7 +31,6 @@
 * Попасть по полной... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>437</sup>
 * Метаморфозы любви или зачем нужны сестры ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>436</sup>
 * В полшаге... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>435</sup>
-* Время расплаты ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>434</sup>
 
 
-_18.05.2019 17:12:48_
+_18.05.2019 17:46:02_
