@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Убить пересмешника ~ [kissamasya](users/684/68439978-vkontakte)<sup>61</sup>
 * The circle ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup>
 * Моби Дик ~ [Garka](users/115/115753719718250012620-google)<sup>219</sup>
 * Desperate Measures ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup>
@@ -30,7 +31,6 @@
 * Молодые асы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>438</sup>
 * Попасть по полной... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>437</sup>
 * Метаморфозы любви или зачем нужны сестры ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>436</sup>
-* В полшаге... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>435</sup>
 
 
-_18.05.2019 17:46:02_
+_18.05.2019 18:28:26_

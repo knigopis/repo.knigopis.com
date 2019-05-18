@@ -1,4 +1,16 @@
 {
+    "gyNgVPjbC4": {
+        "id": "gyNgVPjbC4",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "Роман американской писательницы Харпер Ли написан от лица восьмилетней девочки и рассказывает о жизни скромной семьи Аттикуса Финча. Действие романа происходит в 1935 г. в маленьком американском городке.",
+        "createdAt": "2019-05-18 18:28:26",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 61
+        }
+    },
     "o2_w94gq4B": {
         "id": "o2_w94gq4B",
         "title": "The circle",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 436
-        }
-    },
-    "FyS96YPrR4": {
-        "id": "FyS96YPrR4",
-        "title": "В полшаге...",
-        "author": "Lady Delirium",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 18:25:23",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 435
         }
     }
 }

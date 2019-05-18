@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убить пересмешника ~ [kissamasya](users/684/68439978-vkontakte)<sup>61</sup>
+    > Роман американской писательницы Харпер Ли написан от лица восьмилетней девочки и рассказывает о жизни скромной семьи Аттикуса Финча. Действие романа происходит в 1935 г. в маленьком американском городке.
+
 * The circle ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup>
     > 10/10 Our digital horrible future.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не особо впечатлили книга, но и не особо разочаровала. То ли автор в процессе написания чуть "кукухой поехал", то ли это был изобразительный приём, призванный подчеркнуть психическое состояния капитана Ахава. Монолог Ахава в конце книге тронул.
 
 * Desperate Measures ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup>
-    > Фанфик
 
 * Бизнес и инновации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>456</sup>
 
-* "Долг жизни" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>455</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>61</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>219</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114792281744850455512-google)<sup>1</sup> 
 [Alla](users/103/103352250712959229257-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>178</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>60</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>61</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>118</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>123</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>6</sup> 
 
 
-_18.05.2019 17:46:02_
+_18.05.2019 18:28:26_
