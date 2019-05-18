@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Моби Дик ~ [Garka](users/115/115753719718250012620-google)<sup>219</sup>
 * Desperate Measures ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup>
 * Бизнес и инновации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup>
 * Сакура и дуб ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>198</sup>
@@ -30,7 +31,6 @@
 * Метаморфозы любви или зачем нужны сестры ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>436</sup>
 * В полшаге... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>435</sup>
 * Время расплаты ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>434</sup>
-* Ни капли царской крови ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>433</sup>
 
 
-_18.05.2019 07:02:15_
+_18.05.2019 17:12:48_
