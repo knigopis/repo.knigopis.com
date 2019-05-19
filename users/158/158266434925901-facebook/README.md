@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>77</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>78</sup>
 ---
 
 ## 2019
+
+### ДОМ С ПРИВИДЕНИЯМИ
+Коллектив авторов
+> [2019-05-19] 320 стр
+
 
 ### Ученик монстролога
 Рик Янси
