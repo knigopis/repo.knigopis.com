@@ -1,4 +1,4 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>11</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>12</sup>
 ---
 
 ## 2019
@@ -25,6 +25,13 @@
 
 ### Крыса из нержавеющей стали
 Гарри Гаррисон
+
+
+
+## 2016
+
+### Особые поручения: Пиковый Валет, Декоратор
+Борис Акунин
 
 
 
