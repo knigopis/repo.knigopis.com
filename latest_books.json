@@ -1,4 +1,16 @@
 {
+    "dtCalJuDna": {
+        "id": "dtCalJuDna",
+        "title": "Этногенез. Сомнамбула: Звезда по имени Солнце",
+        "author": "Александр Зорич",
+        "notes": "",
+        "createdAt": "2019-05-19 12:55:14",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 33
+        }
+    },
     "RW2HU-RK60": {
         "id": "RW2HU-RK60",
         "title": "Этногенез. Чингисхан: солдат удачи",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 4
-        }
-    },
-    "JnaFD8HnJ7": {
-        "id": "JnaFD8HnJ7",
-        "title": "Инферно",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2019-05-19 12:27:38",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 3
         }
     }
 }
