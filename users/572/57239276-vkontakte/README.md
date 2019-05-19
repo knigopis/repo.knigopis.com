@@ -1,4 +1,4 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>29</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>30</sup>
 ---
 
 ## 2019
@@ -96,6 +96,10 @@
 
 
 ## 2012
+
+### Этногенез. Чингисхан: повелитель страха
+Сергей Волков
+
 
 ### Азазель
 Борис Акунин
