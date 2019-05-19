@@ -30,12 +30,12 @@ Miran Lipovača
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
 
+### `10` Источник
+Айн Рэнд
+
 ### `5` What If?
 Randall Munroe
 > Serious Scientific Answers to Absurd Hypothetical Questions
-
-### `5` Источник
-Айн Рэнд
 
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
