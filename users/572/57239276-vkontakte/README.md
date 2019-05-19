@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>19</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>20</sup>
 ---
 
 ## 2019
+
+### Блокада: взгляд орла
+Кирилл Бенедиктов
+
 
 ### Кэрри
 Стивен Кинг

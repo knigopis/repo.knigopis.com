@@ -1,4 +1,16 @@
 {
+    "-GCCcivFT2": {
+        "id": "-GCCcivFT2",
+        "title": "Блокада: взгляд орла",
+        "author": "Кирилл Бенедиктов",
+        "notes": "",
+        "createdAt": "2019-05-19 12:40:20",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 20
+        }
+    },
     "iRjH6INNvo": {
         "id": "iRjH6INNvo",
         "title": "Марсианин",
@@ -345,18 +357,6 @@
             "id": "304041461-yandex",
             "nickname": "johnybond32",
             "booksCount": 4
-        }
-    },
-    "JmZVkxJaKK": {
-        "id": "JmZVkxJaKK",
-        "title": "И снова про любовь, или Нелепая, лохматая любовь моя проклятая",
-        "author": "Smaragd",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 18:42:37",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 459
         }
     }
 }
