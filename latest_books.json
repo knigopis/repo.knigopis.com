@@ -1,4 +1,16 @@
 {
+    "9zQa8jYcKc": {
+        "id": "9zQa8jYcKc",
+        "title": "Этногенез. Сомнамбула: бегство сквозь время",
+        "author": "Сергей Волков",
+        "notes": "",
+        "createdAt": "2019-05-19 12:56:19",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 35
+        }
+    },
     "EkERPaXZKM": {
         "id": "EkERPaXZKM",
         "title": "Этногенез. Сомнамбула: другая сторона Луны",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 6
-        }
-    },
-    "m_YVukcGYo": {
-        "id": "m_YVukcGYo",
-        "title": "Диверсант",
-        "author": "Анатолий Азольский",
-        "notes": "",
-        "createdAt": "2019-05-19 12:28:50",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 5
         }
     }
 }
