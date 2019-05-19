@@ -1,4 +1,16 @@
 {
+    "LBjmu2de97": {
+        "id": "LBjmu2de97",
+        "title": "Сталкер: песочные часы",
+        "author": "Сергей Недоруб",
+        "notes": "",
+        "createdAt": "2019-05-19 12:35:05",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 16
+        }
+    },
     "eGsS5G-lv1": {
         "id": "eGsS5G-lv1",
         "title": "Капитан Сорвиголова",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 456
-        }
-    },
-    "vBKYiNAg2o": {
-        "id": "vBKYiNAg2o",
-        "title": "\"Долг жизни\"",
-        "author": "Феникс_задира",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 18:37:35",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 455
         }
     }
 }
