@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/572/57239276-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>61</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [blackwolf ](users/236/236639644-vkontakte)<sup>11</sup> 
 [theponycoder](users/195/195144442-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>21</sup> 
-[Макар Коренюк](users/126/126368737-vkontakte)<sup>6</sup> 
 
 
-_19.05.2019 10:58:14_
+_19.05.2019 12:24:57_
