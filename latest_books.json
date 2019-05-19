@@ -1,4 +1,16 @@
 {
+    "Ahyn5u1lN9": {
+        "id": "Ahyn5u1lN9",
+        "title": "Остров проклятых",
+        "author": "Дэннис Лихэйн",
+        "notes": "",
+        "createdAt": "2019-05-19 12:45:21",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 25
+        }
+    },
     "B4r9quSRjN": {
         "id": "B4r9quSRjN",
         "title": "Чёрный город",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 460
-        }
-    },
-    "BvixIc1gla": {
-        "id": "BvixIc1gla",
-        "title": "Кладбище домашних животных",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2019-05-17 22:52:34",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 30
         }
     }
 }
