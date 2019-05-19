@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vladkozz](users/572/57239276-vkontakte)<sup>10</sup> 
+[vladkozz](users/572/57239276-vkontakte)<sup>11</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>61</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>21</sup> 
 
 
-_19.05.2019 12:30:59_
+_19.05.2019 12:31:30_
