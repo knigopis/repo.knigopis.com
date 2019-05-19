@@ -1,4 +1,4 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>23</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>24</sup>
 ---
 
 ## 2019
@@ -36,6 +36,10 @@
 
 
 ## 2016
+
+### Чёрный город
+Борис Акунин
+
 
 ### Особые поручения: Пиковый Валет, Декоратор
 Борис Акунин

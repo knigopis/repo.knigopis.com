@@ -1,4 +1,16 @@
 {
+    "B4r9quSRjN": {
+        "id": "B4r9quSRjN",
+        "title": "Чёрный город",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2019-05-19 12:44:48",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 24
+        }
+    },
     "4JU7aenu_G": {
         "id": "4JU7aenu_G",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "10202544960024508-facebook",
             "nickname": "Beaviska",
             "booksCount": 30
-        }
-    },
-    "z60rKT5sXg": {
-        "id": "z60rKT5sXg",
-        "title": "Бизнес и инновации",
-        "author": "Питер Друкер",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/3178885/",
-        "createdAt": "2019-05-17 13:25:11",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 199
         }
     }
 }
