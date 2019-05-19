@@ -1,4 +1,16 @@
 {
+    "m-PRdPe0gm": {
+        "id": "m-PRdPe0gm",
+        "title": "Турецкий Гамбит",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2019-05-19 12:32:47",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 13
+        }
+    },
     "AkX4VtMogv": {
         "id": "AkX4VtMogv",
         "title": "Особые поручения: Пиковый Валет, Декоратор",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 453
-        }
-    },
-    "Eo2DCGR0rY": {
-        "id": "Eo2DCGR0rY",
-        "title": "Каникулы с Малфоем",
-        "author": "bisquite",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 18:36:06",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 452
         }
     }
 }
