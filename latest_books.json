@@ -1,4 +1,16 @@
 {
+    "q1-LqLYqWz": {
+        "id": "q1-LqLYqWz",
+        "title": "Этногенез. Блокада: война в зазеркалье",
+        "author": "Кирилл Бенедиктов",
+        "notes": "",
+        "createdAt": "2019-05-19 12:41:06",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 21
+        }
+    },
     "-GCCcivFT2": {
         "id": "-GCCcivFT2",
         "title": "Блокада: взгляд орла",
@@ -345,18 +357,6 @@
             "id": "200666735-vkontakte",
             "nickname": "mavrentik",
             "booksCount": 19
-        }
-    },
-    "j3BQ-5GKOQ": {
-        "id": "j3BQ-5GKOQ",
-        "title": "Один в океане",
-        "author": "Курилов",
-        "notes": "",
-        "createdAt": "2019-05-17 10:37:24",
-        "user": {
-            "id": "304041461-yandex",
-            "nickname": "johnybond32",
-            "booksCount": 4
         }
     }
 }
