@@ -1,4 +1,16 @@
 {
+    "OkvibrM2cK": {
+        "id": "OkvibrM2cK",
+        "title": "Этногенез. Блокада: тень Зигфрида",
+        "author": "Кирилл Бенедиктов",
+        "notes": "",
+        "createdAt": "2019-05-19 12:42:12",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 22
+        }
+    },
     "q1-LqLYqWz": {
         "id": "q1-LqLYqWz",
         "title": "Этногенез. Блокада: война в зазеркалье",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 198
-        }
-    },
-    "0PLu9hJ0BD": {
-        "id": "0PLu9hJ0BD",
-        "title": "Кладбище домашних животных",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2019-05-17 12:07:45",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 19
         }
     }
 }
