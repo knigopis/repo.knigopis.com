@@ -1,4 +1,4 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>22</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>23</sup>
 ---
 
 ## 2019
@@ -62,6 +62,10 @@
 
 
 ## 2014
+
+### Бойцовский клуб
+Чак Паланик
+
 
 ### Призраки
 Чак Паланик
