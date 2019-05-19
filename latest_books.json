@@ -1,4 +1,16 @@
 {
+    "b0EQkj3St2": {
+        "id": "b0EQkj3St2",
+        "title": "Lost: вымирающие виды",
+        "author": "Кэти Хапка",
+        "notes": "",
+        "createdAt": "2019-05-19 12:46:51",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 26
+        }
+    },
     "Ahyn5u1lN9": {
         "id": "Ahyn5u1lN9",
         "title": "Остров проклятых",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 219
-        }
-    },
-    "8Ue516a5rE": {
-        "id": "8Ue516a5rE",
-        "title": "Desperate Measures",
-        "author": "vvc",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-18 07:02:15",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 460
         }
     }
 }
