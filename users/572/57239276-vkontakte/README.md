@@ -1,4 +1,4 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>26</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>27</sup>
 ---
 
 ## 2019
@@ -125,6 +125,10 @@
 
 
 ## 2008
+
+### Lost: символ бытия
+Фрэнк Томпсон
+
 
 ### Lost: вымирающие виды
 Кэти Хапка
