@@ -1,4 +1,4 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>17</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>18</sup>
 ---
 
 ## 2019
@@ -69,6 +69,13 @@
 
 ### Зелёная миля
 Стивен Кинг
+
+
+
+## 2010
+
+### Сталкер: трое против Зоны
+Андрей Левицкий
 
 
 

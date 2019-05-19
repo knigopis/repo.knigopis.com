@@ -1,4 +1,16 @@
 {
+    "LFLIIz_oAC": {
+        "id": "LFLIIz_oAC",
+        "title": "Сталкер: трое против Зоны",
+        "author": "Андрей Левицкий",
+        "notes": "",
+        "createdAt": "2019-05-19 12:36:22",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 18
+        }
+    },
     "b8F-ACHH3S": {
         "id": "b8F-ACHH3S",
         "title": "Сталкер: тринадцатый сектор",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 458
-        }
-    },
-    "OKVQ7SmASZ": {
-        "id": "OKVQ7SmASZ",
-        "title": "Потеря памяти",
-        "author": "Cheryl Dyson",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 18:39:06",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 457
         }
     }
 }
