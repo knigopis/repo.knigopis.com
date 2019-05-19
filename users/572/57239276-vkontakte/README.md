@@ -1,4 +1,4 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>16</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>17</sup>
 ---
 
 ## 2019
@@ -73,6 +73,10 @@
 
 
 ## 2009
+
+### Сталкер: тринадцатый сектор
+Вячеслав Шальгин
+
 
 ### Сталкер: песочные часы
 Сергей Недоруб
