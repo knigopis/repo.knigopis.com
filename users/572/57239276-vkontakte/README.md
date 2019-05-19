@@ -1,4 +1,4 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>6</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>7</sup>
 ---
 
 ## 2019
@@ -31,6 +31,13 @@
 
 ### Хоббит
 Джонн Р. Р. Толкин
+
+
+
+## 2012
+
+### Зелёная миля
+Стивен Кинг
 
 
 

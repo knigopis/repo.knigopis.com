@@ -1,4 +1,16 @@
 {
+    "AG4BPMalIA": {
+        "id": "AG4BPMalIA",
+        "title": "Зелёная миля",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2019-05-19 12:29:42",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 7
+        }
+    },
     "zsyQ9IvmJs": {
         "id": "zsyQ9IvmJs",
         "title": "Хоббит",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 447
-        }
-    },
-    "S6vi-oeWKW": {
-        "id": "S6vi-oeWKW",
-        "title": "When do we start?",
-        "author": "Holy Ghost",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 18:32:42",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 446
         }
     }
 }
