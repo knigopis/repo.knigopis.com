@@ -1,4 +1,4 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>31</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>32</sup>
 ---
 
 ## 2019
@@ -73,6 +73,10 @@
 
 
 ## 2014
+
+### Этногенез. Чингисхан: солдат удачи
+Сергей Волков
+
 
 ### Вечный хлеб
 Александр Беляев

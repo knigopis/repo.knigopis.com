@@ -1,4 +1,16 @@
 {
+    "RW2HU-RK60": {
+        "id": "RW2HU-RK60",
+        "title": "Этногенез. Чингисхан: солдат удачи",
+        "author": "Сергей Волков",
+        "notes": "",
+        "createdAt": "2019-05-19 12:52:25",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 32
+        }
+    },
     "R61fWCYJbv": {
         "id": "R61fWCYJbv",
         "title": "Этногенез. Чингисхан: чужие земли",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 3
-        }
-    },
-    "geNoxnkJ_C": {
-        "id": "geNoxnkJ_C",
-        "title": "Ангелы и Демоны",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2019-05-19 12:27:16",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 2
         }
     }
 }
