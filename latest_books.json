@@ -1,4 +1,16 @@
 {
+    "JHKnhXnbd0": {
+        "id": "JHKnhXnbd0",
+        "title": "Человек-амфибия",
+        "author": "Александр Беляев",
+        "notes": "",
+        "createdAt": "2019-05-19 12:57:17",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 36
+        }
+    },
     "9zQa8jYcKc": {
         "id": "9zQa8jYcKc",
         "title": "Этногенез. Сомнамбула: бегство сквозь время",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 7
-        }
-    },
-    "zsyQ9IvmJs": {
-        "id": "zsyQ9IvmJs",
-        "title": "Хоббит",
-        "author": "Джонн Р. Р. Толкин",
-        "notes": "",
-        "createdAt": "2019-05-19 12:29:21",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 6
         }
     }
 }
