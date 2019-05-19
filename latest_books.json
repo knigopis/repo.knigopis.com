@@ -1,4 +1,16 @@
 {
+    "EkERPaXZKM": {
+        "id": "EkERPaXZKM",
+        "title": "Этногенез. Сомнамбула: другая сторона Луны",
+        "author": "Александр Зорич",
+        "notes": "",
+        "createdAt": "2019-05-19 12:55:45",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 34
+        }
+    },
     "dtCalJuDna": {
         "id": "dtCalJuDna",
         "title": "Этногенез. Сомнамбула: Звезда по имени Солнце",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 5
-        }
-    },
-    "oOQ85uT80z": {
-        "id": "oOQ85uT80z",
-        "title": "Мотылёк",
-        "author": "Анри Шарьер",
-        "notes": "",
-        "createdAt": "2019-05-19 12:28:13",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 4
         }
     }
 }
