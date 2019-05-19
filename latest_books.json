@@ -1,4 +1,16 @@
 {
+    "Zqfz8txtJF": {
+        "id": "Zqfz8txtJF",
+        "title": "Вечный хлеб",
+        "author": "Александр Беляев",
+        "notes": "",
+        "createdAt": "2019-05-19 12:49:37",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 29
+        }
+    },
     "ByexbYpXJd": {
         "id": "ByexbYpXJd",
         "title": "Lost: тайное имя",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 78
-        }
-    },
-    "gyNgVPjbC4": {
-        "id": "gyNgVPjbC4",
-        "title": "Убить пересмешника",
-        "author": "Харпер Ли",
-        "notes": "Роман американской писательницы Харпер Ли написан от лица восьмилетней девочки и рассказывает о жизни скромной семьи Аттикуса Финча. Действие романа происходит в 1935 г. в маленьком американском городке.",
-        "createdAt": "2019-05-18 18:28:26",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 61
         }
     }
 }

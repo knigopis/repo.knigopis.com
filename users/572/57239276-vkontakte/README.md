@@ -1,4 +1,4 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>28</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>29</sup>
 ---
 
 ## 2019
@@ -73,6 +73,10 @@
 
 
 ## 2014
+
+### Вечный хлеб
+Александр Беляев
+
 
 ### Бойцовский клуб
 Чак Паланик
