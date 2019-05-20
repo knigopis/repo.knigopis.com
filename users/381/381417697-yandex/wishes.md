@@ -20,6 +20,9 @@ Miran Lipovača
 ### `20` Слово живое и мертвое
 Нора Галь
 
+### `15` Источник
+Айн Рэнд
+
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
@@ -29,9 +32,6 @@ Miran Lipovača
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
-
-### `10` Источник
-Айн Рэнд
 
 ### `5` What If?
 Randall Munroe
