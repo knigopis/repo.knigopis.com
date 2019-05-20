@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>36</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>37</sup>
 ---
 
 ## 2019
+
+### Кирза
+Вадим Чекунов
+
 
 ### Кэрри
 Стивен Кинг
