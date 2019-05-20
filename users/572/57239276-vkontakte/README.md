@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>37</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>38</sup>
 ---
 
 ## 2019
+
+### Президентский полк. Дневник солдата
+Сергей Давыдов
+
 
 ### Кирза
 Вадим Чекунов

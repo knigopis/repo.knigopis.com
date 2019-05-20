@@ -1,4 +1,16 @@
 {
+    "NIQVxkvsk3": {
+        "id": "NIQVxkvsk3",
+        "title": "Президентский полк. Дневник солдата",
+        "author": "Сергей Давыдов",
+        "notes": "",
+        "createdAt": "2019-05-20 06:04:14",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 38
+        }
+    },
     "QwpeRWnIw_": {
         "id": "QwpeRWnIw_",
         "title": "Кирза",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 9
-        }
-    },
-    "BijYAizdaO": {
-        "id": "BijYAizdaO",
-        "title": "Метро 2033",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2019-05-19 12:29:56",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 8
         }
     }
 }
