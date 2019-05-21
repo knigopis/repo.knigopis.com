@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nochnoj_hichnik](users/402/402672243-vkontakte)<sup>0</sup> 
+[nochnoj_hichnik](users/402/402672243-vkontakte)<sup>1</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>38</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>61</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [theponycoder](users/195/195144442-vkontakte)<sup>0</sup> 
 
 
-_21.05.2019 18:59:08_
+_21.05.2019 19:00:21_

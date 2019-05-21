@@ -1,4 +1,16 @@
 {
+    "y4hlupFo7X": {
+        "id": "y4hlupFo7X",
+        "title": "&#13;",
+        "author": "&#13;",
+        "notes": "&#13;",
+        "createdAt": "2019-05-21 19:00:21",
+        "user": {
+            "id": "402672243-vkontakte",
+            "nickname": "nochnoj_hichnik",
+            "booksCount": 1
+        }
+    },
     "NIQVxkvsk3": {
         "id": "NIQVxkvsk3",
         "title": "Президентский полк. Дневник солдата",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 10
-        }
-    },
-    "YabXwCse1u": {
-        "id": "YabXwCse1u",
-        "title": "Под куполом",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2019-05-19 12:30:28",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 9
         }
     }
 }
