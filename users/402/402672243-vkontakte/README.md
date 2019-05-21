@@ -3,9 +3,6 @@
 
 ## 2000
 
-### It's the BIG TEST
-HaCkEr
-> You're hacked!
 
 
 
