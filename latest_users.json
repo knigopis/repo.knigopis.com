@@ -1,4 +1,10 @@
 {
+    "402672243-vkontakte": {
+        "id": "402672243-vkontakte",
+        "nickname": "nochnoj_hichnik",
+        "booksCount": 0,
+        "updatedAt": "2019-05-21 18:59:04"
+    },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",
         "nickname": "vladkozz",
@@ -172,11 +178,5 @@
         "nickname": "theponycoder",
         "booksCount": 0,
         "updatedAt": "2019-05-09 16:34:18"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 21,
-        "updatedAt": "2019-05-08 19:23:40"
     }
 }
