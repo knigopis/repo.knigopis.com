@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/224/2245578549027834-facebook)<sup>0</sup> 
 [nochnoj_hichnik](users/402/402672243-vkontakte)<sup>2</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>38</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>15</sup> 
 [глазастик](users/115/115257673890455357280-google)<sup>0</sup> 
 [blackwolf ](users/236/236639644-vkontakte)<sup>11</sup> 
-[theponycoder](users/195/195144442-vkontakte)<sup>0</sup> 
 
 
-_21.05.2019 19:06:27_
+_22.05.2019 14:35:39_
