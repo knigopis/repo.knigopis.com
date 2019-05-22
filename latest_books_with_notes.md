@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Повесть о двух городах ~ [Quaff](users/122/12267158-vkontakte)<sup>36</sup>
 * ДОМ С ПРИВИДЕНИЯМИ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup>
 * Убить пересмешника ~ [kissamasya](users/684/68439978-vkontakte)<sup>61</sup>
 * The circle ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup>
@@ -30,7 +31,6 @@
 * Назад в прошлое ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>440</sup>
 * Наказание ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>439</sup>
 * Молодые асы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>438</sup>
-* Попасть по полной... ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>437</sup>
 
 
-_19.05.2019 10:58:14_
+_22.05.2019 14:36:02_

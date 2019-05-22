@@ -1,4 +1,16 @@
 {
+    "R8MZE9PoKT": {
+        "id": "R8MZE9PoKT",
+        "title": "Повесть о двух городах",
+        "author": "Чарльз Диккенс",
+        "notes": "Продуманная и складная история закрутившейся драмы",
+        "createdAt": "2019-05-22 14:36:02",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 36
+        }
+    },
     "DdDe_8CdQL": {
         "id": "DdDe_8CdQL",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 12
-        }
-    },
-    "6CUmNkJ72S": {
-        "id": "6CUmNkJ72S",
-        "title": "Призраки",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2019-05-19 12:31:30",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 11
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Повесть о двух городах ~ [Quaff](users/122/12267158-vkontakte)<sup>36</sup>
+    > Продуманная и складная история закрутившейся драмы
+
 * ДОМ С ПРИВИДЕНИЯМИ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup>
     > 320 стр
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Роман американской писательницы Харпер Ли написан от лица восьмилетней девочки и рассказывает о жизни скромной семьи Аттикуса Финча. Действие романа происходит в 1935 г. в маленьком американском городке.
 
 * The circle ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup>
-    > 10/10 Our digital horrible future.
 
 * Моби Дик ~ [Garka](users/115/115753719718250012620-google)<sup>219</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дожди и туманы Драко Малфоя (Then Comes a Mist and a Weeping Rain) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>458</sup>
 
-* Потеря памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>457</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>36</sup> 
 [Quaff](users/224/2245578549027834-facebook)<sup>0</sup> 
 [nochnoj_hichnik](users/402/402672243-vkontakte)<sup>2</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>38</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>35</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>105</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>165</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>57</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [blackwolf ](users/236/236639644-vkontakte)<sup>11</sup> 
 
 
-_22.05.2019 14:35:39_
+_22.05.2019 14:36:02_
