@@ -1,4 +1,10 @@
 {
+    "110931306939441771638-google": {
+        "id": "110931306939441771638-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-05-24 14:08:31"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "глазастик",
         "booksCount": 0,
         "updatedAt": "2019-05-10 09:25:50"
-    },
-    "236639644-vkontakte": {
-        "id": "236639644-vkontakte",
-        "nickname": "blackwolf ",
-        "booksCount": 11,
-        "updatedAt": "2019-05-10 00:24:51"
     }
 }
