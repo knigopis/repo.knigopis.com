@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/110/110931306939441771638-google)<sup>0</sup> 
+[ Елюене](users/110/110931306939441771638-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>166</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>36</sup> 
 [Quaff](users/224/2245578549027834-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [глазастик](users/115/115257673890455357280-google)<sup>0</sup> 
 
 
-_24.05.2019 14:08:34_
+_24.05.2019 14:10:35_
