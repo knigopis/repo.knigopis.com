@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>38</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>39</sup>
 ---
 
 ## 2019
+
+### Пикник на обочине
+Аркадий и Борис Стругацкие
+
 
 ### Президентский полк. Дневник солдата
 Сергей Давыдов

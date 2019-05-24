@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>39</sup> 
 [ Елюене](users/110/110931306939441771638-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>166</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>36</sup> 
 [Quaff](users/224/2245578549027834-facebook)<sup>0</sup> 
 [nochnoj_hichnik](users/402/402672243-vkontakte)<sup>2</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>38</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>61</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [глазастик](users/115/115257673890455357280-google)<sup>0</sup> 
 
 
-_24.05.2019 14:10:35_
+_24.05.2019 14:38:38_
