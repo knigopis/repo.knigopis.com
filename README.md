@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/110/110931306939441771638-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>166</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>36</sup> 
 [Quaff](users/224/2245578549027834-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Stacy](users/309/30902475-vkontakte)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>15</sup> 
 [глазастик](users/115/115257673890455357280-google)<sup>0</sup> 
-[blackwolf ](users/236/236639644-vkontakte)<sup>11</sup> 
 
 
-_24.05.2019 09:21:40_
+_24.05.2019 14:08:34_
