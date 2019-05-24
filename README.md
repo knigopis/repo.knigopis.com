@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>166</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>36</sup> 
 [Quaff](users/224/2245578549027834-facebook)<sup>0</sup> 
 [nochnoj_hichnik](users/402/402672243-vkontakte)<sup>2</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>105</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>165</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>57</sup> 
 [Людка](users/111/111038749-vkontakte)<sup>11</sup> 
 [](users/114/114792281744850455512-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [blackwolf ](users/236/236639644-vkontakte)<sup>11</sup> 
 
 
-_22.05.2019 14:36:02_
+_24.05.2019 09:21:40_
