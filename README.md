@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ночь в одиноком октябре ~ [Garka](users/115/115753719718250012620-google)<sup>220</sup>
+    > Фэнтези, детектив, юмор и много еще чего. Понравилось. Занятный взгляд на Джека Потрошителя, Франкенштейна, Дракулу и прочих
+
 * La petite fille sur la banquise ~ [violet_velva](users/116/116961712580551399099-google)<sup>62</sup>
     > Книга, основанная на реальной истории девочки, которая подверглась насилию в возрасте 9-ти лет. С тех пор ее жизнь складывалась сложно и болезненно. Грустная история борьбы и триумфа справедливости над детским насилием.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Продуманная и складная история закрутившейся драмы
 
 * ДОМ С ПРИВИДЕНИЯМИ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup>
-    > 320 стр
 
 * Убить пересмешника ~ [kissamasya](users/684/68439978-vkontakte)<sup>61</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сакура и дуб ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>198</sup>
 
-* И снова про любовь, или Нелепая, лохматая любовь моя проклятая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>220</sup> 
 [Neotmira](users/187/1872054813045606-facebook)<sup>1</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>39</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>61</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>219</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>30</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>15</sup> 
 
 
-_25.05.2019 17:50:56_
+_25.05.2019 19:11:55_

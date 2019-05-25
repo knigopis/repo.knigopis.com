@@ -1,4 +1,16 @@
 {
+    "XFyv9hozh1": {
+        "id": "XFyv9hozh1",
+        "title": "Ночь в одиноком октябре",
+        "author": "Желязны, Роджер",
+        "notes": "Фэнтези, детектив, юмор и много еще чего. Понравилось. Занятный взгляд на Джека Потрошителя, Франкенштейна, Дракулу и прочих",
+        "createdAt": "2019-05-25 19:11:55",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 220
+        }
+    },
     "_o6vUMR7rV": {
         "id": "_o6vUMR7rV",
         "title": "La petite fille sur la banquise",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 440
-        }
-    },
-    "J6g43tchrP": {
-        "id": "J6g43tchrP",
-        "title": "Наказание",
-        "author": "shizandra",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 18:28:17",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 439
         }
     }
 }
