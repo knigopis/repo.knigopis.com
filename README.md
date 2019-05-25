@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Neotmira](users/187/1872054813045606-facebook)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>39</sup> 
 [ Елюене](users/110/110931306939441771638-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>123</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>15</sup> 
-[глазастик](users/115/115257673890455357280-google)<sup>0</sup> 
 
 
-_25.05.2019 13:59:56_
+_25.05.2019 17:45:29_
