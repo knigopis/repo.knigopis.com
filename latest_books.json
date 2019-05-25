@@ -1,4 +1,16 @@
 {
+    "_o6vUMR7rV": {
+        "id": "_o6vUMR7rV",
+        "title": "La petite fille sur la banquise",
+        "author": "Adélaïde Bon",
+        "notes": "Книга, основанная на реальной истории девочки, которая подверглась насилию в возрасте 9-ти лет. С тех пор ее жизнь складывалась сложно и болезненно. Грустная история борьбы и триумфа справедливости над детским насилием.",
+        "createdAt": "2019-05-25 13:59:56",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 62
+        }
+    },
     "_BpZ4eRZTz": {
         "id": "_BpZ4eRZTz",
         "title": "Пикник на обочине",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 16
-        }
-    },
-    "eGsS5G-lv1": {
-        "id": "eGsS5G-lv1",
-        "title": "Капитан Сорвиголова",
-        "author": "Луи Анри Буссенар",
-        "notes": "",
-        "createdAt": "2019-05-19 12:34:25",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 15
         }
     }
 }

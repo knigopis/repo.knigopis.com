@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* La petite fille sur la banquise ~ [violet_velva](users/116/116961712580551399099-google)<sup>62</sup>
+    > Книга, основанная на реальной истории девочки, которая подверглась насилию в возрасте 9-ти лет. С тех пор ее жизнь складывалась сложно и болезненно. Грустная история борьбы и триумфа справедливости над детским насилием.
+
 * Повесть о двух городах ~ [Quaff](users/122/12267158-vkontakte)<sup>36</sup>
     > Продуманная и складная история закрутившейся драмы
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 320 стр
 
 * Убить пересмешника ~ [kissamasya](users/684/68439978-vkontakte)<sup>61</sup>
-    > Роман американской писательницы Харпер Ли написан от лица восьмилетней девочки и рассказывает о жизни скромной семьи Аттикуса Финча. Действие романа происходит в 1935 г. в маленьком американском городке.
 
 * The circle ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * И снова про любовь, или Нелепая, лохматая любовь моя проклятая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup>
 
-* Дожди и туманы Драко Малфоя (Then Comes a Mist and a Weeping Rain) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>458</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>39</sup> 
 [ Елюене](users/110/110931306939441771638-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>166</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114792281744850455512-google)<sup>1</sup> 
 [Alla](users/103/103352250712959229257-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>178</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>61</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>118</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>123</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [глазастик](users/115/115257673890455357280-google)<sup>0</sup> 
 
 
-_24.05.2019 14:38:38_
+_25.05.2019 13:59:56_

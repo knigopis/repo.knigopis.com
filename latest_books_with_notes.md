@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* La petite fille sur la banquise ~ [violet_velva](users/116/116961712580551399099-google)<sup>62</sup>
 * Повесть о двух городах ~ [Quaff](users/122/12267158-vkontakte)<sup>36</sup>
 * ДОМ С ПРИВИДЕНИЯМИ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup>
 * Убить пересмешника ~ [kissamasya](users/684/68439978-vkontakte)<sup>61</sup>
@@ -30,7 +31,6 @@
 * Драко Малфой: Любовь по Кодексу ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>441</sup>
 * Назад в прошлое ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>440</sup>
 * Наказание ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>439</sup>
-* Молодые асы ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>438</sup>
 
 
-_22.05.2019 14:36:02_
+_25.05.2019 13:59:56_
