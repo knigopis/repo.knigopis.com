@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как завоевывать друзей и оказывать влияние на людей ~ [kissamasya](users/684/68439978-vkontakte)<sup>62</sup>
+    > Более чем за 75 лет своего существования этот величайший бестселлер всех времен помог тысячам знаменитых сегодня людей подняться на вершину успеха и славы. И сейчас, в XXI веке, всегда актуальные советы Дейла Карнеги позволят каждому читателю раскрыть свой потенциал и наконец-то громко заявить о себе.
+
 * The Messianic Legacy ~ [exulted](users/100/100599204551896265722-google)<sup>106</sup>
     > ASIN: B00CA88GC4
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фэнтези, детектив, юмор и много еще чего. Понравилось. Занятный взгляд на Джека Потрошителя, Франкенштейна, Дракулу и прочих
 
 * La petite fille sur la banquise ~ [violet_velva](users/116/116961712580551399099-google)<sup>62</sup>
-    > Книга, основанная на реальной истории девочки, которая подверглась насилию в возрасте 9-ти лет. С тех пор ее жизнь складывалась сложно и болезненно. Грустная история борьбы и триумфа справедливости над детским насилием.
 
 * Повесть о двух городах ~ [Quaff](users/122/12267158-vkontakte)<sup>36</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Desperate Measures ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup>
 
-* Бизнес и инновации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>62</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>106</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>220</sup> 
 [Neotmira](users/187/1872054813045606-facebook)<sup>1</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/224/2245578549027834-facebook)<sup>0</sup> 
 [nochnoj_hichnik](users/402/402672243-vkontakte)<sup>2</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>61</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>30</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>15</sup> 
 
 
-_26.05.2019 09:50:34_
+_26.05.2019 11:16:06_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как завоевывать друзей и оказывать влияние на людей ~ [kissamasya](users/684/68439978-vkontakte)<sup>62</sup>
 * The Messianic Legacy ~ [exulted](users/100/100599204551896265722-google)<sup>106</sup>
 * Ночь в одиноком октябре ~ [Garka](users/115/115753719718250012620-google)<sup>220</sup>
 * La petite fille sur la banquise ~ [violet_velva](users/116/116961712580551399099-google)<sup>62</sup>
@@ -30,7 +31,6 @@
 * Проблемы перевода ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>444</sup>
 * Гарри Поттер... Хакер? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>443</sup>
 * Фьюр ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>442</sup>
-* Драко Малфой: Любовь по Кодексу ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>441</sup>
 
 
-_26.05.2019 09:50:34_
+_26.05.2019 11:16:06_
