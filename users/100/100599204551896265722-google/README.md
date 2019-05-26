@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>105</sup>
+# Список прочитанных книг пользователя exulted<sup>106</sup>
 ---
 
 ## 2019
+
+### The Messianic Legacy
+Henry Lincoln, Michael Baigent, Richard Leigh
+> [2019-05-25] ASIN: B00CA88GC4
+
 
 ### Brotherhood of Warriors: Behind Enemy Lines with a Commando in One of the World's Most Elite Counterterrorism Units
 Aaron Cohen

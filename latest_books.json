@@ -1,4 +1,16 @@
 {
+    "Dbx_oEhQvj": {
+        "id": "Dbx_oEhQvj",
+        "title": "The Messianic Legacy",
+        "author": "Henry Lincoln, Michael Baigent, Richard Leigh",
+        "notes": "ASIN: B00CA88GC4",
+        "createdAt": "2019-05-26 09:50:34",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 106
+        }
+    },
     "XFyv9hozh1": {
         "id": "XFyv9hozh1",
         "title": "Ночь в одиноком октябре",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 19
-        }
-    },
-    "LFLIIz_oAC": {
-        "id": "LFLIIz_oAC",
-        "title": "Сталкер: трое против Зоны",
-        "author": "Андрей Левицкий",
-        "notes": "",
-        "createdAt": "2019-05-19 12:36:22",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 18
         }
     }
 }

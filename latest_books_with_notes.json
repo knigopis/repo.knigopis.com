@@ -1,4 +1,16 @@
 {
+    "Dbx_oEhQvj": {
+        "id": "Dbx_oEhQvj",
+        "title": "The Messianic Legacy",
+        "author": "Henry Lincoln, Michael Baigent, Richard Leigh",
+        "notes": "ASIN: B00CA88GC4",
+        "createdAt": "2019-05-26 09:50:34",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 106
+        }
+    },
     "XFyv9hozh1": {
         "id": "XFyv9hozh1",
         "title": "Ночь в одиноком октябре",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 441
-        }
-    },
-    "fh7wE4UUCC": {
-        "id": "fh7wE4UUCC",
-        "title": "Назад в прошлое",
-        "author": "Lafaet",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 18:29:20",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 440
         }
     }
 }

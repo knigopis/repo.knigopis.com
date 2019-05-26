@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Messianic Legacy ~ [exulted](users/100/100599204551896265722-google)<sup>106</sup>
+    > ASIN: B00CA88GC4
+
 * Ночь в одиноком октябре ~ [Garka](users/115/115753719718250012620-google)<sup>220</sup>
     > Фэнтези, детектив, юмор и много еще чего. Понравилось. Занятный взгляд на Джека Потрошителя, Франкенштейна, Дракулу и прочих
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга, основанная на реальной истории девочки, которая подверглась насилию в возрасте 9-ти лет. С тех пор ее жизнь складывалась сложно и болезненно. Грустная история борьбы и триумфа справедливости над детским насилием.
 
 * Повесть о двух городах ~ [Quaff](users/122/12267158-vkontakte)<sup>36</sup>
-    > Продуманная и складная история закрутившейся драмы
 
 * ДОМ С ПРИВИДЕНИЯМИ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Бизнес и инновации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup>
 
-* Сакура и дуб ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>198</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>106</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>220</sup> 
 [Neotmira](users/187/1872054813045606-facebook)<sup>1</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>105</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>57</sup> 
 [Людка](users/111/111038749-vkontakte)<sup>11</sup> 
 [](users/114/114792281744850455512-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>15</sup> 
 
 
-_25.05.2019 19:11:55_
+_26.05.2019 09:50:34_
