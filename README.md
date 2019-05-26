@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alexvodopyanov](users/312/3129491-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>62</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>106</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>220</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>118</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>123</sup> 
 [Stacy](users/309/30902475-vkontakte)<sup>4</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>15</sup> 
 
 
-_26.05.2019 11:16:06_
+_26.05.2019 22:58:48_
