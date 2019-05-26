@@ -1,4 +1,10 @@
 {
+    "3129491-vkontakte": {
+        "id": "3129491-vkontakte",
+        "nickname": "alexvodopyanov",
+        "booksCount": 0,
+        "updatedAt": "2019-05-26 22:58:44"
+    },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
         "nickname": "kissamasya",
@@ -172,11 +178,5 @@
         "nickname": "Stacy",
         "booksCount": 4,
         "updatedAt": "2019-05-11 11:27:41"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 15,
-        "updatedAt": "2019-05-10 20:15:06"
     }
 }
