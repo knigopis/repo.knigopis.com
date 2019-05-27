@@ -1,4 +1,16 @@
 {
+    "NFdgEZ4YC2": {
+        "id": "NFdgEZ4YC2",
+        "title": "Мага уводит стаю",
+        "author": "Виктор Потиевский",
+        "notes": "",
+        "createdAt": "2019-05-27 10:27:56",
+        "user": {
+            "id": "372550556-vkontakte",
+            "nickname": "narkokamaz",
+            "booksCount": 3
+        }
+    },
     "WnGMfcO0gw": {
         "id": "WnGMfcO0gw",
         "title": "Человек-амфибия",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 23
-        }
-    },
-    "OkvibrM2cK": {
-        "id": "OkvibrM2cK",
-        "title": "Этногенез. Блокада: тень Зигфрида",
-        "author": "Кирилл Бенедиктов",
-        "notes": "",
-        "createdAt": "2019-05-19 12:42:12",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 22
         }
     }
 }
