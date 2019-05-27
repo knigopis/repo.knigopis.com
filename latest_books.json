@@ -1,4 +1,16 @@
 {
+    "F68UjoF1z0": {
+        "id": "F68UjoF1z0",
+        "title": "Жизнь взаймы",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2019-05-27 10:24:59",
+        "user": {
+            "id": "372550556-vkontakte",
+            "nickname": "narkokamaz",
+            "booksCount": 1
+        }
+    },
     "N9keE5BE5U": {
         "id": "N9keE5BE5U",
         "title": "Как завоевывать друзей и оказывать влияние на людей",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 21
-        }
-    },
-    "-GCCcivFT2": {
-        "id": "-GCCcivFT2",
-        "title": "Блокада: взгляд орла",
-        "author": "Кирилл Бенедиктов",
-        "notes": "",
-        "createdAt": "2019-05-19 12:40:20",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 20
         }
     }
 }

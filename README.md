@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[narkokamaz](users/372/372550556-vkontakte)<sup>0</sup> 
+[narkokamaz](users/372/372550556-vkontakte)<sup>1</sup> 
 [alexvodopyanov](users/312/3129491-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>62</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>106</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>123</sup> 
 
 
-_27.05.2019 10:23:13_
+_27.05.2019 10:24:59_
