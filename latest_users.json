@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 31,
+        "updatedAt": "2019-05-27 19:56:52"
+    },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
         "nickname": "mfevralev",
@@ -106,12 +112,6 @@
         "nickname": "thejokerinthefog",
         "booksCount": 460,
         "updatedAt": "2019-05-18 07:02:15"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 30,
-        "updatedAt": "2019-05-17 22:52:34"
     },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",

@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Великий Гэтсби ~ [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup>
+    > Красиво
+    > Джордан Бейкер
+
 * Родимый Край 1964-1966 ~ [mfevralev](users/140/140966150-vkontakte)<sup>39</sup>
     > 8 Есаул Бобров 12 февраля ездил по заданию походного Атамана в станицы 1 Донского округа но нек ого не поднял и приехал с 10 казаками.
     > 9 китайский отряд в степном походе.
@@ -52,7 +56,6 @@ Do not use pull requests to make changes here.
     > Более чем за 75 лет своего существования этот величайший бестселлер всех времен помог тысячам знаменитых сегодня людей подняться на вершину успеха и славы. И сейчас, в XXI веке, всегда актуальные советы Дейла Карнеги позволят каждому читателю раскрыть свой потенциал и наконец-то громко заявить о себе.
 
 * The Messianic Legacy ~ [exulted](users/100/100599204551896265722-google)<sup>106</sup>
-    > ASIN: B00CA88GC4
 
 * Ночь в одиноком октябре ~ [Garka](users/115/115753719718250012620-google)<sup>220</sup>
 
@@ -66,13 +69,12 @@ Do not use pull requests to make changes here.
 
 * The circle ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup>
 
-* Моби Дик ~ [Garka](users/115/115753719718250012620-google)<sup>219</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>31</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>39</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>14</sup> 
 [narkokamaz](users/372/372550556-vkontakte)<sup>7</sup> 
@@ -91,7 +93,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>30</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>19</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
@@ -105,4 +106,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>178</sup> 
 
 
-_27.05.2019 19:37:18_
+_27.05.2019 19:56:52_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Великий Гэтсби ~ [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup>
 * Родимый Край 1964-1966 ~ [mfevralev](users/140/140966150-vkontakte)<sup>39</sup>
 * Как завоевывать друзей и оказывать влияние на людей ~ [kissamasya](users/684/68439978-vkontakte)<sup>62</sup>
 * The Messianic Legacy ~ [exulted](users/100/100599204551896265722-google)<sup>106</sup>
@@ -30,7 +31,6 @@
 * When do we start? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>446</sup>
 * Не прикасайся ко мне, Поттер! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>445</sup>
 * Проблемы перевода ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>444</sup>
-* Гарри Поттер... Хакер? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>443</sup>
 
 
-_27.05.2019 19:37:18_
+_27.05.2019 19:56:52_
