@@ -1,4 +1,16 @@
 {
+    "OeT0krbVvF": {
+        "id": "OeT0krbVvF",
+        "title": "Сказки волшебной страны",
+        "author": "Джон Роналд Руэл Толкин",
+        "notes": "",
+        "createdAt": "2019-05-27 10:32:37",
+        "user": {
+            "id": "372550556-vkontakte",
+            "nickname": "narkokamaz",
+            "booksCount": 7
+        }
+    },
     "C39HsiDXPZ": {
         "id": "C39HsiDXPZ",
         "title": "Черная стрела",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 27
-        }
-    },
-    "b0EQkj3St2": {
-        "id": "b0EQkj3St2",
-        "title": "Lost: вымирающие виды",
-        "author": "Кэти Хапка",
-        "notes": "",
-        "createdAt": "2019-05-19 12:46:51",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 26
         }
     }
 }

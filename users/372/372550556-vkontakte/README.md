@@ -1,7 +1,11 @@
-# List of books read by [narkokamaz](http://vk.com/id372550556)<sup>6</sup>
+# List of books read by [narkokamaz](http://vk.com/id372550556)<sup>7</sup>
 ---
 
 ## 2019
+
+### Сказки волшебной страны
+Джон Роналд Руэл Толкин
+
 
 ### Черная стрела
 Роберт Льюис Стивенсон
