@@ -1,4 +1,16 @@
 {
+    "6ym3t7Gg3k": {
+        "id": "6ym3t7Gg3k",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2019-05-27 19:03:44",
+        "user": {
+            "id": "521873425-vkontakte",
+            "nickname": "Lecowi",
+            "booksCount": 14
+        }
+    },
     "OeT0krbVvF": {
         "id": "OeT0krbVvF",
         "title": "Сказки волшебной страны",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 28
-        }
-    },
-    "t-DSxXwp4V": {
-        "id": "t-DSxXwp4V",
-        "title": "Lost: символ бытия",
-        "author": "Фрэнк Томпсон",
-        "notes": "",
-        "createdAt": "2019-05-19 12:47:39",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 27
         }
     }
 }

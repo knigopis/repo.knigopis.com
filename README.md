@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lecowi](users/521/521873425-vkontakte)<sup>14</sup> 
 [narkokamaz](users/372/372550556-vkontakte)<sup>7</sup> 
 [alexvodopyanov](users/312/3129491-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>62</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Alla](users/103/103352250712959229257-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>178</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>118</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>123</sup> 
 
 
-_27.05.2019 10:32:37_
+_27.05.2019 19:03:44_
