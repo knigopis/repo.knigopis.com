@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>75</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>76</sup>
 ---
 
 ## 2019
+
+### 1984
+Джордж Оруэлл
+> [2019-05-15] 
+
 
 ### 15 жизней Гарри Огаста
 Клэр Норт

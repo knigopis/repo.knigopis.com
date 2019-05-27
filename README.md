@@ -74,6 +74,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>76</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>39</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>14</sup> 
@@ -103,7 +104,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Людка](users/111/111038749-vkontakte)<sup>11</sup> 
 [](users/114/114792281744850455512-google)<sup>1</sup> 
 [Alla](users/103/103352250712959229257-google)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>178</sup> 
 
 
-_27.05.2019 19:56:52_
+_27.05.2019 20:04:47_
