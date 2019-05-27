@@ -1,4 +1,16 @@
 {
+    "Fjpf3-RO2V": {
+        "id": "Fjpf3-RO2V",
+        "title": "Остров сокровищ",
+        "author": "Роберт Льюис Стивенсон",
+        "notes": "",
+        "createdAt": "2019-05-27 10:30:57",
+        "user": {
+            "id": "372550556-vkontakte",
+            "nickname": "narkokamaz",
+            "booksCount": 5
+        }
+    },
     "pWfCexjbM0": {
         "id": "pWfCexjbM0",
         "title": "Двадцать тысяч лье под водой",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 25
-        }
-    },
-    "B4r9quSRjN": {
-        "id": "B4r9quSRjN",
-        "title": "Чёрный город",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2019-05-19 12:44:48",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 24
         }
     }
 }
