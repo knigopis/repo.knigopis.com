@@ -1,4 +1,16 @@
 {
+    "WnGMfcO0gw": {
+        "id": "WnGMfcO0gw",
+        "title": "Человек-амфибия",
+        "author": "Александр Романович Беляев",
+        "notes": "",
+        "createdAt": "2019-05-27 10:26:46",
+        "user": {
+            "id": "372550556-vkontakte",
+            "nickname": "narkokamaz",
+            "booksCount": 2
+        }
+    },
     "F68UjoF1z0": {
         "id": "F68UjoF1z0",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 22
-        }
-    },
-    "q1-LqLYqWz": {
-        "id": "q1-LqLYqWz",
-        "title": "Этногенез. Блокада: война в зазеркалье",
-        "author": "Кирилл Бенедиктов",
-        "notes": "",
-        "createdAt": "2019-05-19 12:41:06",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 21
         }
     }
 }
