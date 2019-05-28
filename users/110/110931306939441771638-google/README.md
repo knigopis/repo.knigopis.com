@@ -1,7 +1,12 @@
-# List of books read by [ Елюене](https://plus.google.com/u/0/110931306939441771638/)<sup>1</sup>
+# List of books read by [](https://plus.google.com/u/0/110931306939441771638/)<sup>1</sup>
 ---
 
 ## 2019
+
+### Лайфхак на каждый день
+Игорь Манн
+> [2019-05-28] 
+
 
 ### Не прощаюсь
 Б.Акунин

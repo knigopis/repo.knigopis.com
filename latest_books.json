@@ -1,4 +1,16 @@
 {
+    "DPZ1-WZT4i": {
+        "id": "DPZ1-WZT4i",
+        "title": "Лайфхак на каждый день",
+        "author": "Игорь Манн",
+        "notes": "",
+        "createdAt": "2019-05-28 16:44:24",
+        "user": {
+            "id": "110931306939441771638-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "FD_aUv5f1T": {
         "id": "FD_aUv5f1T",
         "title": "За западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 34
-        }
-    },
-    "dtCalJuDna": {
-        "id": "dtCalJuDna",
-        "title": "Этногенез. Сомнамбула: Звезда по имени Солнце",
-        "author": "Александр Зорич",
-        "notes": "",
-        "createdAt": "2019-05-19 12:55:14",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 33
         }
     }
 }
