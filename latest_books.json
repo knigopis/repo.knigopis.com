@@ -1,4 +1,16 @@
 {
+    "FD_aUv5f1T": {
+        "id": "FD_aUv5f1T",
+        "title": "За западном фронте без перемен",
+        "author": "Ремарк Эрих Мария",
+        "notes": "Повесть о ужасах войны от лица простого солдата",
+        "createdAt": "2019-05-28 14:33:19",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 38
+        }
+    },
     "rxf9PpOKJo": {
         "id": "rxf9PpOKJo",
         "title": "Как закалялась сталь",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 33
-        }
-    },
-    "RW2HU-RK60": {
-        "id": "RW2HU-RK60",
-        "title": "Этногенез. Чингисхан: солдат удачи",
-        "author": "Сергей Волков",
-        "notes": "",
-        "createdAt": "2019-05-19 12:52:25",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 32
         }
     }
 }

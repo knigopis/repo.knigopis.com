@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* За западном фронте без перемен ~ [Quaff](users/122/12267158-vkontakte)<sup>38</sup>
 * Как закалялась сталь ~ [Quaff](users/122/12267158-vkontakte)<sup>37</sup>
 * Великий Гэтсби ~ [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup>
 * Родимый Край 1964-1966 ~ [mfevralev](users/140/140966150-vkontakte)<sup>39</sup>
@@ -30,7 +31,6 @@
 * Нежданчик. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>448</sup>
 * Пусть думают те, кто умеет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>447</sup>
 * When do we start? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>446</sup>
-* Не прикасайся ко мне, Поттер! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>445</sup>
 
 
-_28.05.2019 14:31:31_
+_28.05.2019 14:33:19_
