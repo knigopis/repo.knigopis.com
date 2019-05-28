@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как закалялась сталь ~ [Quaff](users/122/12267158-vkontakte)<sup>37</sup>
+    > История о трагической жизни советского человека
+
 * Великий Гэтсби ~ [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup>
     > Красиво
     > Джордан Бейкер
@@ -53,7 +56,6 @@ Do not use pull requests to make changes here.
     > 844 интересны рассказ про гранату
 
 * Как завоевывать друзей и оказывать влияние на людей ~ [kissamasya](users/684/68439978-vkontakte)<sup>62</sup>
-    > Более чем за 75 лет своего существования этот величайший бестселлер всех времен помог тысячам знаменитых сегодня людей подняться на вершину успеха и славы. И сейчас, в XXI веке, всегда актуальные советы Дейла Карнеги позволят каждому читателю раскрыть свой потенциал и наконец-то громко заявить о себе.
 
 * The Messianic Legacy ~ [exulted](users/100/100599204551896265722-google)<sup>106</sup>
 
@@ -67,13 +69,12 @@ Do not use pull requests to make changes here.
 
 * Убить пересмешника ~ [kissamasya](users/684/68439978-vkontakte)<sup>61</sup>
 
-* The circle ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>37</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>76</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>39</sup> 
@@ -88,7 +89,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>39</sup> 
 [ Елюене](users/110/110931306939441771638-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>166</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>36</sup> 
 [Quaff](users/224/2245578549027834-facebook)<sup>0</sup> 
 [nochnoj_hichnik](users/402/402672243-vkontakte)<sup>2</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
@@ -106,4 +106,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Alla](users/103/103352250712959229257-google)<sup>0</sup> 
 
 
-_27.05.2019 20:04:47_
+_28.05.2019 14:31:31_

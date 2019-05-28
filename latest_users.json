@@ -1,4 +1,10 @@
 {
+    "12267158-vkontakte": {
+        "id": "12267158-vkontakte",
+        "nickname": "Quaff",
+        "booksCount": 37,
+        "updatedAt": "2019-05-28 14:31:31"
+    },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
         "nickname": "katrinvredina",
@@ -82,12 +88,6 @@
         "nickname": "borodach",
         "booksCount": 166,
         "updatedAt": "2019-05-24 09:21:40"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 36,
-        "updatedAt": "2019-05-22 14:36:02"
     },
     "2245578549027834-facebook": {
         "id": "2245578549027834-facebook",

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как закалялась сталь ~ [Quaff](users/122/12267158-vkontakte)<sup>37</sup>
 * Великий Гэтсби ~ [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup>
 * Родимый Край 1964-1966 ~ [mfevralev](users/140/140966150-vkontakte)<sup>39</sup>
 * Как завоевывать друзей и оказывать влияние на людей ~ [kissamasya](users/684/68439978-vkontakte)<sup>62</sup>
@@ -30,7 +31,6 @@
 * Пусть думают те, кто умеет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>447</sup>
 * When do we start? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>446</sup>
 * Не прикасайся ко мне, Поттер! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>445</sup>
-* Проблемы перевода ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>444</sup>
 
 
-_27.05.2019 19:56:52_
+_28.05.2019 14:31:31_

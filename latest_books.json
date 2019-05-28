@@ -1,4 +1,16 @@
 {
+    "rxf9PpOKJo": {
+        "id": "rxf9PpOKJo",
+        "title": "Как закалялась сталь",
+        "author": "Николай Островский",
+        "notes": "История о трагической жизни советского человека",
+        "createdAt": "2019-05-28 14:31:31",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 37
+        }
+    },
     "NXrc-crf9h": {
         "id": "NXrc-crf9h",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 32
-        }
-    },
-    "R61fWCYJbv": {
-        "id": "R61fWCYJbv",
-        "title": "Этногенез. Чингисхан: чужие земли",
-        "author": "Сергей Волков",
-        "notes": "",
-        "createdAt": "2019-05-19 12:51:37",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 31
         }
     }
 }
