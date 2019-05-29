@@ -1,7 +1,13 @@
-# List of books read by [mementomori2017](http://vk.com/id431794049)<sup>6</sup>
+# List of books read by [mementomori2017](http://vk.com/id431794049)<sup>7</sup>
 ---
 
 ## 2018
+
+### Таинственная история Билли Миллигана
+Дэниел Киз
+> [2018-03-18] Безумно интересно!
+> 9/10
+
 
 ### Цветы для Элджернона
 Дэниел Киз

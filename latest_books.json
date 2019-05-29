@@ -1,4 +1,16 @@
 {
+    "HiobhFvuN-": {
+        "id": "HiobhFvuN-",
+        "title": "Таинственная история Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "Безумно интересно!\n9/10",
+        "createdAt": "2019-05-29 10:34:45",
+        "user": {
+            "id": "431794049-vkontakte",
+            "nickname": "mementomori2017",
+            "booksCount": 7
+        }
+    },
     "ov6ufrgYxr": {
         "id": "ov6ufrgYxr",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 36
-        }
-    },
-    "DdDe_8CdQL": {
-        "id": "DdDe_8CdQL",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-05-21 19:06:27",
-        "user": {
-            "id": "402672243-vkontakte",
-            "nickname": "nochnoj_hichnik",
-            "booksCount": 2
         }
     }
 }
