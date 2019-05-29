@@ -1,7 +1,13 @@
-# List of books read by [mementomori2017](http://vk.com/id431794049)<sup>5</sup>
+# List of books read by [mementomori2017](http://vk.com/id431794049)<sup>6</sup>
 ---
 
 ## 2018
+
+### Цветы для Элджернона
+Дэниел Киз
+> [2018-03-10] Быстро читается. Хорошо осмысливается.
+> 8/10
+
 
 ### Фауст
 Гёте

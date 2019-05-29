@@ -1,4 +1,16 @@
 {
+    "ov6ufrgYxr": {
+        "id": "ov6ufrgYxr",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "Быстро читается. Хорошо осмысливается.\n8/10",
+        "createdAt": "2019-05-29 10:33:17",
+        "user": {
+            "id": "431794049-vkontakte",
+            "nickname": "mementomori2017",
+            "booksCount": 6
+        }
+    },
     "qhySwiTBuc": {
         "id": "qhySwiTBuc",
         "title": "Фауст",
@@ -345,18 +357,6 @@
             "id": "402672243-vkontakte",
             "nickname": "nochnoj_hichnik",
             "booksCount": 2
-        }
-    },
-    "y4hlupFo7X": {
-        "id": "y4hlupFo7X",
-        "title": "&#13;",
-        "author": "&#13;",
-        "notes": "&#13;",
-        "createdAt": "2019-05-21 19:00:21",
-        "user": {
-            "id": "402672243-vkontakte",
-            "nickname": "nochnoj_hichnik",
-            "booksCount": 1
         }
     }
 }
