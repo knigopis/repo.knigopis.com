@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mementomori2017](users/431/431794049-vkontakte)<sup>0</sup> 
 [](users/110/110931306939441771638-google)<sup>1</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>38</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>76</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>57</sup> 
 [Людка](users/111/111038749-vkontakte)<sup>11</sup> 
 [](users/114/114792281744850455512-google)<sup>1</sup> 
-[Alla](users/103/103352250712959229257-google)<sup>0</sup> 
 
 
-_28.05.2019 16:44:24_
+_29.05.2019 10:17:26_
