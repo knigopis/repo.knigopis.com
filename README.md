@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Руководство к действию на ближайшие дни ~ [Sky](users/118/118049897850017649660-google)<sup>136</sup>
+    > Словоблудство и графоманство
+
 * Потерянные девушки Рима ~ [Sky](users/118/118049897850017649660-google)<sup>135</sup>
     > Не осилила до конца, почему так хвалят - непонятно.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Повесть о ужасах войны от лица простого солдата
 
 * Как закалялась сталь ~ [Quaff](users/122/12267158-vkontakte)<sup>37</sup>
-    > История о трагической жизни советского человека
 
 * Великий Гэтсби ~ [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * La petite fille sur la banquise ~ [violet_velva](users/116/116961712580551399099-google)<sup>62</sup>
 
-* Повесть о двух городах ~ [Quaff](users/122/12267158-vkontakte)<sup>36</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>135</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>136</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>99</sup> 
 [mementomori2017](users/431/431794049-vkontakte)<sup>8</sup> 
 [](users/110/110931306939441771638-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>57</sup> 
 
 
-_29.05.2019 16:45:57_
+_29.05.2019 16:47:50_

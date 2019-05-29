@@ -1,4 +1,4 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>135</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>136</sup>
 ---
 
 ## 2019
@@ -86,6 +86,11 @@
 ### Тихая сельская жизнь
 Ти Кинси
 > [2019-01-05] Более отвратительно написанной детективной истории свет еще не видывал
+
+
+### Руководство к действию на ближайшие дни
+Йоав Блум
+> Словоблудство и графоманство
 
 
 

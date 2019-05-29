@@ -1,4 +1,16 @@
 {
+    "G5gluBSngk": {
+        "id": "G5gluBSngk",
+        "title": "Руководство к действию на ближайшие дни",
+        "author": "Йоав Блум",
+        "notes": "Словоблудство и графоманство",
+        "createdAt": "2019-05-29 16:47:50",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 136
+        }
+    },
     "Ww0YG2judU": {
         "id": "Ww0YG2judU",
         "title": "Потерянные девушки Рима",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 62
-        }
-    },
-    "_BpZ4eRZTz": {
-        "id": "_BpZ4eRZTz",
-        "title": "Пикник на обочине",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2019-05-24 14:38:38",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 39
         }
     }
 }
