@@ -1,4 +1,10 @@
 {
+    "431794049-vkontakte": {
+        "id": "431794049-vkontakte",
+        "nickname": "mementomori2017",
+        "booksCount": 0,
+        "updatedAt": "2019-05-29 10:17:22"
+    },
     "110931306939441771638-google": {
         "id": "110931306939441771638-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2019-05-13 23:14:21"
-    },
-    "103352250712959229257-google": {
-        "id": "103352250712959229257-google",
-        "nickname": "Alla",
-        "booksCount": 0,
-        "updatedAt": "2019-05-13 18:37:04"
     }
 }
