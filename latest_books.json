@@ -1,4 +1,16 @@
 {
+    "7g3BEdIdWO": {
+        "id": "7g3BEdIdWO",
+        "title": "Оно",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2019-05-29 16:50:30",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 139
+        }
+    },
     "nc_HlIoWZR": {
         "id": "nc_HlIoWZR",
         "title": "Высокое искусство",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 106
-        }
-    },
-    "XFyv9hozh1": {
-        "id": "XFyv9hozh1",
-        "title": "Ночь в одиноком октябре",
-        "author": "Желязны, Роджер",
-        "notes": "Фэнтези, детектив, юмор и много еще чего. Понравилось. Занятный взгляд на Джека Потрошителя, Франкенштейна, Дракулу и прочих",
-        "createdAt": "2019-05-25 19:11:55",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 220
         }
     }
 }
