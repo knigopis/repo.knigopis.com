@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/107/107170915323495140313-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>140</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>99</sup> 
 [mementomori2017](users/431/431794049-vkontakte)<sup>8</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>57</sup> 
 
 
-_29.05.2019 16:51:00_
+_29.05.2019 19:39:36_
