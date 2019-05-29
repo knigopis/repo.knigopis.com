@@ -1,4 +1,16 @@
 {
+    "yRD1vIFAsf": {
+        "id": "yRD1vIFAsf",
+        "title": "Собачье сердце",
+        "author": "Михаил Булгаков",
+        "notes": "Прекрасная сатира",
+        "createdAt": "2019-05-29 10:26:39",
+        "user": {
+            "id": "431794049-vkontakte",
+            "nickname": "mementomori2017",
+            "booksCount": 3
+        }
+    },
     "SVvUttF6eZ": {
         "id": "SVvUttF6eZ",
         "title": "Путинская Россия",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 37
-        }
-    },
-    "JHKnhXnbd0": {
-        "id": "JHKnhXnbd0",
-        "title": "Человек-амфибия",
-        "author": "Александр Беляев",
-        "notes": "",
-        "createdAt": "2019-05-19 12:57:17",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 36
         }
     }
 }

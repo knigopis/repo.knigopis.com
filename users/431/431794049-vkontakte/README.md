@@ -1,7 +1,12 @@
-# List of books read by [mementomori2017](http://vk.com/id431794049)<sup>2</sup>
+# List of books read by [mementomori2017](http://vk.com/id431794049)<sup>3</sup>
 ---
 
 ## 2018
+
+### Собачье сердце
+Михаил Булгаков
+> [2018-02-02] Прекрасная сатира
+
 
 ### Путинская Россия
 Анна Политковская
