@@ -1,4 +1,16 @@
 {
+    "-L6wx2k8-T": {
+        "id": "-L6wx2k8-T",
+        "title": "Охота на князя Дракулу",
+        "author": "Керри Манискалко",
+        "notes": "",
+        "createdAt": "2019-05-29 16:51:00",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 140
+        }
+    },
     "7g3BEdIdWO": {
         "id": "7g3BEdIdWO",
         "title": "Оно",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 62
-        }
-    },
-    "Dbx_oEhQvj": {
-        "id": "Dbx_oEhQvj",
-        "title": "The Messianic Legacy",
-        "author": "Henry Lincoln, Michael Baigent, Richard Leigh",
-        "notes": "ASIN: B00CA88GC4",
-        "createdAt": "2019-05-26 09:50:34",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 106
         }
     }
 }
