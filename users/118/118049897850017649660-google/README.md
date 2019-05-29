@@ -1,4 +1,4 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>137</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>138</sup>
 ---
 
 ## 2019
@@ -96,6 +96,10 @@
 ### Тихая сельская жизнь
 Ти Кинси
 > [2019-01-05] Более отвратительно написанной детективной истории свет еще не видывал
+
+
+### Высокое искусство
+Корней Иванович Чуковский
 
 
 
