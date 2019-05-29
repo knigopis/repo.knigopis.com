@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>134</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>135</sup>
 ---
 
 ## 2019
+
+### Потерянные девушки Рима
+Донато Карризи
+> [2019-05-06] Не осилила до конца, почему так хвалят - непонятно.
+
 
 ### Знаменитый каталог Уокер и Даун
 Давиде Морозинотто

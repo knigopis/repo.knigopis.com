@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Потерянные девушки Рима ~ [Sky](users/118/118049897850017649660-google)<sup>135</sup>
+    > Не осилила до конца, почему так хвалят - непонятно.
+
 * За западном фронте без перемен ~ [Quaff](users/122/12267158-vkontakte)<sup>38</sup>
     > Повесть о ужасах войны от лица простого солдата
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > История о трагической жизни советского человека
 
 * Великий Гэтсби ~ [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup>
-    > Красиво
-    > Джордан Бейкер
 
 * Родимый Край 1964-1966 ~ [mfevralev](users/140/140966150-vkontakte)<sup>39</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Повесть о двух городах ~ [Quaff](users/122/12267158-vkontakte)<sup>36</sup>
 
-* ДОМ С ПРИВИДЕНИЯМИ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>135</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>99</sup> 
 [mementomori2017](users/431/431794049-vkontakte)<sup>8</sup> 
 [](users/110/110931306939441771638-google)<sup>1</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>57</sup> 
-[Людка](users/111/111038749-vkontakte)<sup>11</sup> 
 
 
-_29.05.2019 16:03:19_
+_29.05.2019 16:45:57_

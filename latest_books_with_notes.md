@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Потерянные девушки Рима ~ [Sky](users/118/118049897850017649660-google)<sup>135</sup>
 * За западном фронте без перемен ~ [Quaff](users/122/12267158-vkontakte)<sup>38</sup>
 * Как закалялась сталь ~ [Quaff](users/122/12267158-vkontakte)<sup>37</sup>
 * Великий Гэтсби ~ [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup>
@@ -30,7 +31,6 @@
 * Смерть не конец ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>449</sup>
 * Нежданчик. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>448</sup>
 * Пусть думают те, кто умеет ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>447</sup>
-* When do we start? ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>446</sup>
 
 
-_28.05.2019 14:33:19_
+_29.05.2019 16:45:57_

@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 135,
+        "updatedAt": "2019-05-29 16:45:57"
+    },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",
         "nickname": "joan789",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 57,
         "updatedAt": "2019-05-15 06:19:56"
-    },
-    "111038749-vkontakte": {
-        "id": "111038749-vkontakte",
-        "nickname": "Людка",
-        "booksCount": 11,
-        "updatedAt": "2019-05-14 22:35:40"
     }
 }
