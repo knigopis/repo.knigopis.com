@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>99</sup> 
 [mementomori2017](users/431/431794049-vkontakte)<sup>8</sup> 
 [](users/110/110931306939441771638-google)<sup>1</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>38</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>57</sup> 
 [Людка](users/111/111038749-vkontakte)<sup>11</sup> 
-[](users/114/114792281744850455512-google)<sup>1</sup> 
 
 
-_29.05.2019 10:36:43_
+_29.05.2019 16:02:22_
