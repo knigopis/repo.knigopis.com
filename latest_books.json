@@ -1,4 +1,16 @@
 {
+    "ogJXQHlLnk": {
+        "id": "ogJXQHlLnk",
+        "title": "",
+        "author": "Дж. Роулинг",
+        "notes": "Книга хорошая, но не зацепила, исключительно\nввиду того, что не в том возрасте прочла ГР. Обязательно буду рекомендовать детям!",
+        "createdAt": "2019-05-29 10:21:06",
+        "user": {
+            "id": "431794049-vkontakte",
+            "nickname": "mementomori2017",
+            "booksCount": 1
+        }
+    },
     "DPZ1-WZT4i": {
         "id": "DPZ1-WZT4i",
         "title": "Лайфхак на каждый день",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 35
-        }
-    },
-    "EkERPaXZKM": {
-        "id": "EkERPaXZKM",
-        "title": "Этногенез. Сомнамбула: другая сторона Луны",
-        "author": "Александр Зорич",
-        "notes": "",
-        "createdAt": "2019-05-19 12:55:45",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 34
         }
     }
 }
