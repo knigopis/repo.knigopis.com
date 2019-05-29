@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>136</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>137</sup>
 ---
 
 ## 2019
+
+### Охота на Джека Потрошителя
+Керри Манискалко
+> [2019-05-29] 
+
 
 ### Руководство к действию на ближайшие дни
 Йоав Блум

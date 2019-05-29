@@ -1,4 +1,16 @@
 {
+    "Il8cvR4QR7": {
+        "id": "Il8cvR4QR7",
+        "title": "Охота на Джека Потрошителя",
+        "author": "Керри Манискалко",
+        "notes": "",
+        "createdAt": "2019-05-29 16:49:19",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 137
+        }
+    },
     "G5gluBSngk": {
         "id": "G5gluBSngk",
         "title": "Руководство к действию на ближайшие дни",
@@ -345,18 +357,6 @@
             "id": "1872054813045606-facebook",
             "nickname": "Neotmira",
             "booksCount": 1
-        }
-    },
-    "_o6vUMR7rV": {
-        "id": "_o6vUMR7rV",
-        "title": "La petite fille sur la banquise",
-        "author": "Adélaïde Bon",
-        "notes": "Книга, основанная на реальной истории девочки, которая подверглась насилию в возрасте 9-ти лет. С тех пор ее жизнь складывалась сложно и болезненно. Грустная история борьбы и триумфа справедливости над детским насилием.",
-        "createdAt": "2019-05-25 13:59:56",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 62
         }
     }
 }
