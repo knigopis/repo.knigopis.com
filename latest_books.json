@@ -1,4 +1,16 @@
 {
+    "qhySwiTBuc": {
+        "id": "qhySwiTBuc",
+        "title": "Фауст",
+        "author": "Гёте",
+        "notes": "Классика!\n7/10",
+        "createdAt": "2019-05-29 10:32:14",
+        "user": {
+            "id": "431794049-vkontakte",
+            "nickname": "mementomori2017",
+            "booksCount": 5
+        }
+    },
     "zY1Bohqxdi": {
         "id": "zY1Bohqxdi",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "402672243-vkontakte",
             "nickname": "nochnoj_hichnik",
             "booksCount": 1
-        }
-    },
-    "NIQVxkvsk3": {
-        "id": "NIQVxkvsk3",
-        "title": "Президентский полк. Дневник солдата",
-        "author": "Сергей Давыдов",
-        "notes": "",
-        "createdAt": "2019-05-20 06:04:14",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 38
         }
     }
 }

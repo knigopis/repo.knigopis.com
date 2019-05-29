@@ -1,7 +1,13 @@
-# List of books read by [mementomori2017](http://vk.com/id431794049)<sup>4</sup>
+# List of books read by [mementomori2017](http://vk.com/id431794049)<sup>5</sup>
 ---
 
 ## 2018
+
+### Фауст
+Гёте
+> [2018-02-30] Классика!
+> 7/10
+
 
 ### Мастер и Маргарита
 Михаил Булгаков
