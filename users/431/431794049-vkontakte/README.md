@@ -1,7 +1,13 @@
-# List of books read by [mementomori2017](http://vk.com/id431794049)<sup>7</sup>
+# List of books read by [mementomori2017](http://vk.com/id431794049)<sup>8</sup>
 ---
 
 ## 2018
+
+### bobo в раю
+Дэвид Брукс
+> [2018-04-04] Откуда берётся новая элита. Социология. 
+> 7.5/10
+
 
 ### Таинственная история Билли Миллигана
 Дэниел Киз

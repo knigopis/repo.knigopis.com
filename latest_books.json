@@ -1,4 +1,16 @@
 {
+    "uLexpqkHbT": {
+        "id": "uLexpqkHbT",
+        "title": "bobo в раю",
+        "author": "Дэвид Брукс",
+        "notes": "Откуда берётся новая элита. Социология. \n7.5/10",
+        "createdAt": "2019-05-29 10:36:43",
+        "user": {
+            "id": "431794049-vkontakte",
+            "nickname": "mementomori2017",
+            "booksCount": 8
+        }
+    },
     "HiobhFvuN-": {
         "id": "HiobhFvuN-",
         "title": "Таинственная история Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 166
-        }
-    },
-    "R8MZE9PoKT": {
-        "id": "R8MZE9PoKT",
-        "title": "Повесть о двух городах",
-        "author": "Чарльз Диккенс",
-        "notes": "Продуманная и складная история закрутившейся драмы",
-        "createdAt": "2019-05-22 14:36:02",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 36
         }
     }
 }
