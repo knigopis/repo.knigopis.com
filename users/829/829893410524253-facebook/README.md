@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>30</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>31</sup>
 ---
 
 ## 2019
+
+### Паморочливий запах джунглів
+Юрко Покальчук
+> [2019-05-28] 5/10 Читається легко, але огидно. Автор збоченець і ставиться до жінок як до секс-іграшок.
+
 
 ### The circle
 Dave Eggers

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Паморочливий запах джунглів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup>
 * Руководство к действию на ближайшие дни ~ [Sky](users/118/118049897850017649660-google)<sup>136</sup>
 * Потерянные девушки Рима ~ [Sky](users/118/118049897850017649660-google)<sup>135</sup>
 * За западном фронте без перемен ~ [Quaff](users/122/12267158-vkontakte)<sup>38</sup>
@@ -30,7 +31,6 @@
 * Попробуй узнать мои грязные мысли. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>451</sup>
 * Не по-настоящему ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>450</sup>
 * Смерть не конец ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>449</sup>
-* Нежданчик. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>448</sup>
 
 
-_29.05.2019 16:47:50_
+_29.05.2019 20:20:02_

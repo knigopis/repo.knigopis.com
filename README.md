@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Паморочливий запах джунглів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup>
+    > 5/10 Читається легко, але огидно. Автор збоченець і ставиться до жінок як до секс-іграшок.
+
 * Руководство к действию на ближайшие дни ~ [Sky](users/118/118049897850017649660-google)<sup>136</sup>
     > Словоблудство и графоманство
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не осилила до конца, почему так хвалят - непонятно.
 
 * За западном фронте без перемен ~ [Quaff](users/122/12267158-vkontakte)<sup>38</sup>
-    > Повесть о ужасах войны от лица простого солдата
 
 * Как закалялась сталь ~ [Quaff](users/122/12267158-vkontakte)<sup>37</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ночь в одиноком октябре ~ [Garka](users/115/115753719718250012620-google)<sup>220</sup>
 
-* La petite fille sur la banquise ~ [violet_velva](users/116/116961712580551399099-google)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup> 
 [](users/107/107170915323495140313-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>140</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>99</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/224/2245578549027834-facebook)<sup>0</sup> 
 [nochnoj_hichnik](users/402/402672243-vkontakte)<sup>2</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>19</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>23</sup> 
 
 
-_29.05.2019 19:40:43_
+_29.05.2019 20:20:02_
