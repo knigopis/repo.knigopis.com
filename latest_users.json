@@ -1,4 +1,10 @@
 {
+    "107170915323495140313-google": {
+        "id": "107170915323495140313-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-05-29 19:39:32"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 23,
         "updatedAt": "2019-05-16 04:42:52"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 57,
-        "updatedAt": "2019-05-15 06:19:56"
     }
 }
