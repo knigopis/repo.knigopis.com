@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 701,
+        "updatedAt": "2019-05-30 17:48:32"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -172,11 +178,5 @@
         "nickname": "johnybond32",
         "booksCount": 3,
         "updatedAt": "2019-05-17 11:19:03"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 700,
-        "updatedAt": "2019-05-16 12:57:15"
     }
 }

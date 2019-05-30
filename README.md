@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>701</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>39</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>119</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>19</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 
 
-_30.05.2019 15:08:10_
+_30.05.2019 17:48:33_
