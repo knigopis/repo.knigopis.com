@@ -1,4 +1,16 @@
 {
+    "1Djmenx4Rx": {
+        "id": "1Djmenx4Rx",
+        "title": "Франкенштейн",
+        "author": "ШЕЛЛИ Мэри",
+        "notes": "",
+        "createdAt": "2019-05-30 20:21:56",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 22
+        }
+    },
     "NnSKAD7zyi": {
         "id": "NnSKAD7zyi",
         "title": "Рудин",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 76
-        }
-    },
-    "Yck930tgkc": {
-        "id": "Yck930tgkc",
-        "title": "Великий Гэтсби",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "Красиво\nДжордан Бейкер",
-        "createdAt": "2019-05-27 19:56:52",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 31
         }
     }
 }
