@@ -1,4 +1,16 @@
 {
+    "oD5e9YN7PC": {
+        "id": "oD5e9YN7PC",
+        "title": "Барселона. История города",
+        "author": "ХЬЮЗ Роберт",
+        "notes": "",
+        "createdAt": "2019-05-30 20:24:10",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 26
+        }
+    },
     "qkO4vPkNmm": {
         "id": "qkO4vPkNmm",
         "title": "Приключения бравого солдата Швейка",
@@ -344,18 +356,6 @@
         "user": {
             "id": "431794049-vkontakte",
             "nickname": "mementomori2017",
-            "booksCount": 1
-        }
-    },
-    "DPZ1-WZT4i": {
-        "id": "DPZ1-WZT4i",
-        "title": "Лайфхак на каждый день",
-        "author": "Игорь Манн",
-        "notes": "",
-        "createdAt": "2019-05-28 16:44:24",
-        "user": {
-            "id": "110931306939441771638-google",
-            "nickname": null,
             "booksCount": 1
         }
     }

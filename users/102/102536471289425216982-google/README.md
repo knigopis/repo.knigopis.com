@@ -1,4 +1,4 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>25</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>26</sup>
 ---
 
 ## 2019
@@ -219,6 +219,11 @@ BARBERY Muriel
 ### Приключения бравого солдата Швейка
 ГАШЕК Ярослав
 > [2013-07] 
+
+
+### Барселона. История города
+ХЬЮЗ Роберт
+> [2013-05] 
 
 
 
