@@ -1,4 +1,4 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>24</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>25</sup>
 ---
 
 ## 2019
@@ -211,6 +211,14 @@ BARBERY Muriel
 ### Мировое искусство. Интриги, скандалы, расследования в живописи
 АФОНЬКИН С.Ю.
 > [2014-02] 
+
+
+
+## 2013
+
+### Приключения бравого солдата Швейка
+ГАШЕК Ярослав
+> [2013-07] 
 
 
 
