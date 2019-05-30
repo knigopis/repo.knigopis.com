@@ -1,4 +1,16 @@
 {
+    "SIOnEnUqSH": {
+        "id": "SIOnEnUqSH",
+        "title": "Три товарища",
+        "author": "Ремарк Эрих Мария",
+        "notes": "Мелодрама о трех верных друзьях и их несчастных случаях",
+        "createdAt": "2019-05-30 15:06:26",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 39
+        }
+    },
     "Q6L7ORN_d_": {
         "id": "Q6L7ORN_d_",
         "title": "Смерть на кончике хвоста",
@@ -345,18 +357,6 @@
             "id": "372550556-vkontakte",
             "nickname": "narkokamaz",
             "booksCount": 4
-        }
-    },
-    "NFdgEZ4YC2": {
-        "id": "NFdgEZ4YC2",
-        "title": "Мага уводит стаю",
-        "author": "Виктор Потиевский",
-        "notes": "",
-        "createdAt": "2019-05-27 10:27:56",
-        "user": {
-            "id": "372550556-vkontakte",
-            "nickname": "narkokamaz",
-            "booksCount": 3
         }
     }
 }

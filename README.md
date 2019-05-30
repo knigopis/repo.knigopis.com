@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Три товарища ~ [Quaff](users/122/12267158-vkontakte)<sup>39</sup>
+    > Мелодрама о трех верных друзьях и их несчастных случаях
+
 * Смерть на кончике хвоста ~ [Chiffi](users/105/105831994080785626680-google)<sup>119</sup>
     > неплохой детектив. не понравился только эпилог: какой-то хеппи энд из дамского романа (они поженились,  щенки и она беременна)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10 Читається легко, але огидно. Автор збоченець і ставиться до жінок як до секс-іграшок.
 
 * Руководство к действию на ближайшие дни ~ [Sky](users/118/118049897850017649660-google)<sup>136</sup>
-    > Словоблудство и графоманство
 
 * Потерянные девушки Рима ~ [Sky](users/118/118049897850017649660-google)<sup>135</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Как завоевывать друзей и оказывать влияние на людей ~ [kissamasya](users/684/68439978-vkontakte)<sup>62</sup>
 
-* The Messianic Legacy ~ [exulted](users/100/100599204551896265722-google)<sup>106</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>39</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>119</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup> 
 [](users/107/107170915323495140313-google)<sup>1</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>99</sup> 
 [mementomori2017](users/431/431794049-vkontakte)<sup>8</sup> 
 [](users/110/110931306939441771638-google)<sup>1</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>38</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>76</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
 
 
-_30.05.2019 04:18:19_
+_30.05.2019 15:06:26_
