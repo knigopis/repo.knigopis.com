@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>19</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>22</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>701</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>39</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>119</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>19</sup> 
 
 
-_30.05.2019 20:01:17_
+_30.05.2019 20:20:36_

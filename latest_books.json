@@ -1,4 +1,16 @@
 {
+    "qU-7XuPJni": {
+        "id": "qU-7XuPJni",
+        "title": "Бедные люди",
+        "author": "ДОСТОЕВСКИЙ Ф.М.",
+        "notes": "",
+        "createdAt": "2019-05-30 20:20:36",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 19
+        }
+    },
     "QVXXw3ew4B": {
         "id": "QVXXw3ew4B",
         "title": "Грозовой перевал",
@@ -345,18 +357,6 @@
             "id": "521873425-vkontakte",
             "nickname": "Lecowi",
             "booksCount": 14
-        }
-    },
-    "OeT0krbVvF": {
-        "id": "OeT0krbVvF",
-        "title": "Сказки волшебной страны",
-        "author": "Джон Роналд Руэл Толкин",
-        "notes": "",
-        "createdAt": "2019-05-27 10:32:37",
-        "user": {
-            "id": "372550556-vkontakte",
-            "nickname": "narkokamaz",
-            "booksCount": 7
         }
     }
 }
