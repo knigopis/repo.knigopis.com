@@ -1,4 +1,4 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>23</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>24</sup>
 ---
 
 ## 2019
@@ -206,6 +206,11 @@ BARBERY Muriel
 ### Жизнь
 МОПАССАН Ги де
 > [2014-08] 
+
+
+### Мировое искусство. Интриги, скандалы, расследования в живописи
+АФОНЬКИН С.Ю.
+> [2014-02] 
 
 
 

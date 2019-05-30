@@ -1,4 +1,16 @@
 {
+    "x262ZvodfF": {
+        "id": "x262ZvodfF",
+        "title": "Мировое искусство. Интриги, скандалы, расследования в живописи",
+        "author": "АФОНЬКИН С.Ю.",
+        "notes": "",
+        "createdAt": "2019-05-30 20:23:12",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 24
+        }
+    },
     "RR-8r0r0-4": {
         "id": "RR-8r0r0-4",
         "title": "Жизнь",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 38
-        }
-    },
-    "rxf9PpOKJo": {
-        "id": "rxf9PpOKJo",
-        "title": "Как закалялась сталь",
-        "author": "Николай Островский",
-        "notes": "История о трагической жизни советского человека",
-        "createdAt": "2019-05-28 14:31:31",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 37
         }
     }
 }
