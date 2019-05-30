@@ -1,4 +1,16 @@
 {
+    "QVXXw3ew4B": {
+        "id": "QVXXw3ew4B",
+        "title": "Грозовой перевал",
+        "author": "Эмили Бронте",
+        "notes": "",
+        "createdAt": "2019-05-30 20:01:17",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 22
+        }
+    },
     "U3EcZH5mD2": {
         "id": "U3EcZH5mD2",
         "title": "Динка",
@@ -345,18 +357,6 @@
             "id": "372550556-vkontakte",
             "nickname": "narkokamaz",
             "booksCount": 7
-        }
-    },
-    "C39HsiDXPZ": {
-        "id": "C39HsiDXPZ",
-        "title": "Черная стрела",
-        "author": "Роберт Льюис Стивенсон",
-        "notes": "",
-        "createdAt": "2019-05-27 10:31:25",
-        "user": {
-            "id": "372550556-vkontakte",
-            "nickname": "narkokamaz",
-            "booksCount": 6
         }
     }
 }

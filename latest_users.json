@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 22,
+        "updatedAt": "2019-05-30 20:01:17"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "mavrentik",
         "booksCount": 19,
         "updatedAt": "2019-05-17 12:07:45"
-    },
-    "304041461-yandex": {
-        "id": "304041461-yandex",
-        "nickname": "johnybond32",
-        "booksCount": 3,
-        "updatedAt": "2019-05-17 11:19:03"
     }
 }
