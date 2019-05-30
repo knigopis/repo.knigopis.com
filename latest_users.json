@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 65,
+        "updatedAt": "2019-05-30 23:19:44"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 199,
         "updatedAt": "2019-05-17 13:25:11"
-    },
-    "200666735-vkontakte": {
-        "id": "200666735-vkontakte",
-        "nickname": "mavrentik",
-        "booksCount": 19,
-        "updatedAt": "2019-05-17 12:07:45"
     }
 }

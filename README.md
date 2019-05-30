@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Антитела ~ [En](users/333/333646551-vkontakte)<sup>65</sup>
+    > интересная, но не слишком захватывающая книга по секретным материалам
+
 * Три товарища ~ [Quaff](users/122/12267158-vkontakte)<sup>39</sup>
     > Мелодрама о трех верных друзьях и их несчастных случаях
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > неплохой детектив. не понравился только эпилог: какой-то хеппи энд из дамского романа (они поженились,  щенки и она беременна)
 
 * Паморочливий запах джунглів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup>
-    > 5/10 Читається легко, але огидно. Автор збоченець і ставиться до жінок як до секс-іграшок.
 
 * Руководство к действию на ближайшие дни ~ [Sky](users/118/118049897850017649660-google)<sup>136</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Родимый Край 1964-1966 ~ [mfevralev](users/140/140966150-vkontakte)<sup>39</sup>
 
-* Как завоевывать друзей и оказывать влияние на людей ~ [kissamasya](users/684/68439978-vkontakte)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>65</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>22</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>701</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup> 
-[mavrentik](users/200/200666735-vkontakte)<sup>19</sup> 
 
 
-_30.05.2019 20:24:29_
+_30.05.2019 23:19:44_

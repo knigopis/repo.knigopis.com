@@ -1,4 +1,16 @@
 {
+    "1LhlFezyUf": {
+        "id": "1LhlFezyUf",
+        "title": "Антитела",
+        "author": "Кевин Андерсон",
+        "notes": "интересная, но не слишком захватывающая книга по секретным материалам",
+        "createdAt": "2019-05-30 23:19:44",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 65
+        }
+    },
     "SIOnEnUqSH": {
         "id": "SIOnEnUqSH",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 452
-        }
-    },
-    "STIOaG3Z_Z": {
-        "id": "STIOaG3Z_Z",
-        "title": "Попробуй узнать мои грязные мысли.",
-        "author": "Dianonan",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 18:35:18",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 451
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Антитела ~ [En](users/333/333646551-vkontakte)<sup>65</sup>
 * Три товарища ~ [Quaff](users/122/12267158-vkontakte)<sup>39</sup>
 * Смерть на кончике хвоста ~ [Chiffi](users/105/105831994080785626680-google)<sup>119</sup>
 * Паморочливий запах джунглів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup>
@@ -30,7 +31,6 @@
 * What If ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>454</sup>
 * Remedium desperatio ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>453</sup>
 * Каникулы с Малфоем ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>452</sup>
-* Попробуй узнать мои грязные мысли. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>451</sup>
 
 
-_30.05.2019 15:06:26_
+_30.05.2019 23:19:44_

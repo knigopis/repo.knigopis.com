@@ -1,4 +1,16 @@
 {
+    "1LhlFezyUf": {
+        "id": "1LhlFezyUf",
+        "title": "Антитела",
+        "author": "Кевин Андерсон",
+        "notes": "интересная, но не слишком захватывающая книга по секретным материалам",
+        "createdAt": "2019-05-30 23:19:44",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 65
+        }
+    },
     "8WxHjbzuER": {
         "id": "8WxHjbzuER",
         "title": "Красное и черное",
@@ -345,18 +357,6 @@
             "id": "431794049-vkontakte",
             "nickname": "mementomori2017",
             "booksCount": 3
-        }
-    },
-    "SVvUttF6eZ": {
-        "id": "SVvUttF6eZ",
-        "title": "Путинская Россия",
-        "author": "Анна Политковская",
-        "notes": "Война в Чечне. Буданов. Армия.  Норд-Ост. Беслан.  Политика 0-х. Приватизация. Бизнес в РФ на тот момент.",
-        "createdAt": "2019-05-29 10:24:29",
-        "user": {
-            "id": "431794049-vkontakte",
-            "nickname": "mementomori2017",
-            "booksCount": 2
         }
     }
 }
