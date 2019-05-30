@@ -1,4 +1,4 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>22</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>23</sup>
 ---
 
 ## 2019
@@ -201,6 +201,11 @@ BARBERY Muriel
 ### Франкенштейн
 ШЕЛЛИ Мэри
 > [2014-09] 
+
+
+### Жизнь
+МОПАССАН Ги Де
+> [2014-08] 
 
 
 

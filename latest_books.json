@@ -1,4 +1,16 @@
 {
+    "RR-8r0r0-4": {
+        "id": "RR-8r0r0-4",
+        "title": "Жизнь",
+        "author": "МОПАССАН Ги Де",
+        "notes": "",
+        "createdAt": "2019-05-30 20:22:27",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 23
+        }
+    },
     "1Djmenx4Rx": {
         "id": "1Djmenx4Rx",
         "title": "Франкенштейн",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 37
-        }
-    },
-    "NXrc-crf9h": {
-        "id": "NXrc-crf9h",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2019-05-27 20:04:47",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 76
         }
     }
 }
