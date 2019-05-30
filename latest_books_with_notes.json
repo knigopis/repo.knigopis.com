@@ -1,4 +1,16 @@
 {
+    "Q6L7ORN_d_": {
+        "id": "Q6L7ORN_d_",
+        "title": "Смерть на кончике хвоста",
+        "author": "Платонова Виктория",
+        "notes": "неплохой детектив. не понравился только эпилог: какой-то хеппи энд из дамского романа (они поженились,  щенки и она беременна)",
+        "createdAt": "2019-05-30 04:18:19",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 119
+        }
+    },
     "ON_4R4C199": {
         "id": "ON_4R4C199",
         "title": "Паморочливий запах джунглів",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 450
-        }
-    },
-    "IzLtUAhPSC": {
-        "id": "IzLtUAhPSC",
-        "title": "Смерть не конец",
-        "author": "Jane_Svon",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 18:34:08",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 449
         }
     }
 }

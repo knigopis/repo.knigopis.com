@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Смерть на кончике хвоста ~ [Chiffi](users/105/105831994080785626680-google)<sup>119</sup>
 * Паморочливий запах джунглів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup>
 * Руководство к действию на ближайшие дни ~ [Sky](users/118/118049897850017649660-google)<sup>136</sup>
 * Потерянные девушки Рима ~ [Sky](users/118/118049897850017649660-google)<sup>135</sup>
@@ -30,7 +31,6 @@
 * Каникулы с Малфоем ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>452</sup>
 * Попробуй узнать мои грязные мысли. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>451</sup>
 * Не по-настоящему ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>450</sup>
-* Смерть не конец ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>449</sup>
 
 
-_29.05.2019 20:20:02_
+_30.05.2019 04:18:19_

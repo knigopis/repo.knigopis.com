@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Смерть на кончике хвоста ~ [Chiffi](users/105/105831994080785626680-google)<sup>119</sup>
+    > неплохой детектив. не понравился только эпилог: какой-то хеппи энд из дамского романа (они поженились,  щенки и она беременна)
+
 * Паморочливий запах джунглів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup>
     > 5/10 Читається легко, але огидно. Автор збоченець і ставиться до жінок як до секс-іграшок.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Словоблудство и графоманство
 
 * Потерянные девушки Рима ~ [Sky](users/118/118049897850017649660-google)<sup>135</sup>
-    > Не осилила до конца, почему так хвалят - непонятно.
 
 * За западном фронте без перемен ~ [Quaff](users/122/12267158-vkontakte)<sup>38</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * The Messianic Legacy ~ [exulted](users/100/100599204551896265722-google)<sup>106</sup>
 
-* Ночь в одиноком октябре ~ [Garka](users/115/115753719718250012620-google)<sup>220</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>119</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup> 
 [](users/107/107170915323495140313-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>140</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [johnybond32](users/304/304041461-yandex)<sup>3</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>700</sup> 
 [lazyleo](users/116/116845519572391639637-google)<sup>0</sup> 
-[youno](users/302/302928912-vkontakte)<sup>23</sup> 
 
 
-_29.05.2019 20:20:02_
+_30.05.2019 04:18:19_
