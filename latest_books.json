@@ -1,4 +1,16 @@
 {
+    "ZPscixbqx9": {
+        "id": "ZPscixbqx9",
+        "title": "Накануне",
+        "author": "ТУРГЕНЕВ И.А.",
+        "notes": "",
+        "createdAt": "2019-05-30 20:21:10",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 20
+        }
+    },
     "qU-7XuPJni": {
         "id": "qU-7XuPJni",
         "title": "Бедные люди",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 39
-        }
-    },
-    "6ym3t7Gg3k": {
-        "id": "6ym3t7Gg3k",
-        "title": "Три товарища",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2019-05-27 19:03:44",
-        "user": {
-            "id": "521873425-vkontakte",
-            "nickname": "Lecowi",
-            "booksCount": 14
         }
     }
 }
