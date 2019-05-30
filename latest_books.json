@@ -1,4 +1,16 @@
 {
+    "8WxHjbzuER": {
+        "id": "8WxHjbzuER",
+        "title": "Красное и черное",
+        "author": "СТЕНДАЛЬ",
+        "notes": "",
+        "createdAt": "2019-05-30 20:24:29",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 27
+        }
+    },
     "oD5e9YN7PC": {
         "id": "oD5e9YN7PC",
         "title": "Барселона. История города",
@@ -345,18 +357,6 @@
             "id": "431794049-vkontakte",
             "nickname": "mementomori2017",
             "booksCount": 2
-        }
-    },
-    "ogJXQHlLnk": {
-        "id": "ogJXQHlLnk",
-        "title": "",
-        "author": "Дж. Роулинг",
-        "notes": "Книга хорошая, но не зацепила, исключительно\nввиду того, что не в том возрасте прочла ГР. Обязательно буду рекомендовать детям!",
-        "createdAt": "2019-05-29 10:21:06",
-        "user": {
-            "id": "431794049-vkontakte",
-            "nickname": "mementomori2017",
-            "booksCount": 1
         }
     }
 }

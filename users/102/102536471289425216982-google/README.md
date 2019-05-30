@@ -1,4 +1,4 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>26</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>27</sup>
 ---
 
 ## 2019
@@ -224,6 +224,11 @@ BARBERY Muriel
 ### Барселона. История города
 ХЬЮЗ Роберт
 > [2013-05] 
+
+
+### Красное и черное
+СТЕНДАЛЬ
+> [2013-02] 
 
 
 
