@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[regnabo](users/870/870059322-yandex)<sup>30</sup> 
 [En](users/333/333646551-vkontakte)<sup>65</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>22</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nochnoj_hichnik](users/402/402672243-vkontakte)<sup>2</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup> 
 
 
-_30.05.2019 23:19:44_
+_31.05.2019 11:10:57_
