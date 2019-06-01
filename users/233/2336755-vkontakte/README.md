@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>76</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>77</sup>
 ---
 
 ## 2019
+
+### Регуляторы
+Стивен Кинг
+> [2019-06-01] 
+
 
 ### 1984
 Джордж Оруэлл
