@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eugene](users/695/695244810674916-facebook)<sup>22</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>32</sup> 
 [](users/118/118178474749808643951-google)<sup>0</sup> 
 [regnabo](users/870/870059322-yandex)<sup>30</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>166</sup> 
 [Quaff](users/224/2245578549027834-facebook)<sup>0</sup> 
 [nochnoj_hichnik](users/402/402672243-vkontakte)<sup>2</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
 
 
-_01.06.2019 12:10:55_
+_01.06.2019 14:07:02_
