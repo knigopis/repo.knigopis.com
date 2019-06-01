@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>31</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>32</sup>
 ---
 
 ## 2019
+
+### Приятель
+Дэвид Макгроги
+> [2019-05-30] 5/10 нудноватая книга о задиристом петухе
+
 
 ### Паморочливий запах джунглів
 Юрко Покальчук

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Приятель ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>32</sup>
+    > 5/10 нудноватая книга о задиристом петухе
+
 * Антитела ~ [En](users/333/333646551-vkontakte)<sup>65</sup>
     > интересная, но не слишком захватывающая книга по секретным материалам
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мелодрама о трех верных друзьях и их несчастных случаях
 
 * Смерть на кончике хвоста ~ [Chiffi](users/105/105831994080785626680-google)<sup>119</sup>
-    > неплохой детектив. не понравился только эпилог: какой-то хеппи энд из дамского романа (они поженились,  щенки и она беременна)
 
 * Паморочливий запах джунглів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Великий Гэтсби ~ [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup>
 
-* Родимый Край 1964-1966 ~ [mfevralev](users/140/140966150-vkontakte)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>32</sup> 
 [](users/118/118178474749808643951-google)<sup>0</sup> 
 [regnabo](users/870/870059322-yandex)<sup>30</sup> 
 [En](users/333/333646551-vkontakte)<sup>65</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>701</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>39</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>119</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup> 
 [](users/107/107170915323495140313-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>140</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>99</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup> 
 
 
-_31.05.2019 21:30:09_
+_01.06.2019 12:10:55_
