@@ -1,4 +1,10 @@
 {
+    "110931306939441771638-google": {
+        "id": "110931306939441771638-google",
+        "nickname": null,
+        "booksCount": 2,
+        "updatedAt": "2019-06-02 17:18:06"
+    },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
         "nickname": "katrinvredina",
@@ -88,12 +94,6 @@
         "nickname": "mementomori2017",
         "booksCount": 8,
         "updatedAt": "2019-05-29 10:36:43"
-    },
-    "110931306939441771638-google": {
-        "id": "110931306939441771638-google",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2019-05-28 16:44:24"
     },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",

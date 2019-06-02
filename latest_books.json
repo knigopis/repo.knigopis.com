@@ -1,4 +1,16 @@
 {
+    "HiTa1U02il": {
+        "id": "HiTa1U02il",
+        "title": "Дверь в лето",
+        "author": "Роберт Хайнлайн",
+        "notes": "",
+        "createdAt": "2019-06-02 17:18:06",
+        "user": {
+            "id": "110931306939441771638-google",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "Azr7W8aUXG": {
         "id": "Azr7W8aUXG",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 100
-        }
-    },
-    "uLexpqkHbT": {
-        "id": "uLexpqkHbT",
-        "title": "bobo в раю",
-        "author": "Дэвид Брукс",
-        "notes": "Откуда берётся новая элита. Социология. \n7.5/10",
-        "createdAt": "2019-05-29 10:36:43",
-        "user": {
-            "id": "431794049-vkontakte",
-            "nickname": "mementomori2017",
-            "booksCount": 8
         }
     }
 }
