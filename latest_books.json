@@ -1,4 +1,16 @@
 {
+    "Azr7W8aUXG": {
+        "id": "Azr7W8aUXG",
+        "title": "Старик и море",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2019-06-02 16:56:20",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 78
+        }
+    },
     "uJwXLtajPC": {
         "id": "uJwXLtajPC",
         "title": "Регуляторы",
@@ -345,18 +357,6 @@
             "id": "431794049-vkontakte",
             "nickname": "mementomori2017",
             "booksCount": 8
-        }
-    },
-    "HiobhFvuN-": {
-        "id": "HiobhFvuN-",
-        "title": "Таинственная история Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "Безумно интересно!\n9/10",
-        "createdAt": "2019-05-29 10:34:45",
-        "user": {
-            "id": "431794049-vkontakte",
-            "nickname": "mementomori2017",
-            "booksCount": 7
         }
     }
 }

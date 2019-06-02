@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[katrinvredina](users/233/2336755-vkontakte)<sup>77</sup> 
+[katrinvredina](users/233/2336755-vkontakte)<sup>78</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>22</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>32</sup> 
 [](users/118/118178474749808643951-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nochnoj_hichnik](users/402/402672243-vkontakte)<sup>2</sup> 
 
 
-_01.06.2019 18:39:35_
+_02.06.2019 16:56:20_

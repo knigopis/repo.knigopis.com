@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>77</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>78</sup>
 ---
 
 ## 2019
+
+### Старик и море
+Эрнест Хемингуэй
+> [2019-06-01] 
+
 
 ### Регуляторы
 Стивен Кинг
