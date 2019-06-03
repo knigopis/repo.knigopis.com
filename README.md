@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Два раза в одну реку ~ [Chiffi](users/105/105831994080785626680-google)<sup>120</sup>
+    > интересный детектив с уклоном в историю
+
 * Приятель ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>32</sup>
     > 5/10 нудноватая книга о задиристом петухе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > интересная, но не слишком захватывающая книга по секретным материалам
 
 * Три товарища ~ [Quaff](users/122/12267158-vkontakte)<sup>39</sup>
-    > Мелодрама о трех верных друзьях и их несчастных случаях
 
 * Смерть на кончике хвоста ~ [Chiffi](users/105/105831994080785626680-google)<sup>119</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Как закалялась сталь ~ [Quaff](users/122/12267158-vkontakte)<sup>37</sup>
 
-* Великий Гэтсби ~ [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>120</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>78</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>22</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>22</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>701</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>39</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>119</sup> 
 [](users/107/107170915323495140313-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>140</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>99</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nochnoj_hichnik](users/402/402672243-vkontakte)<sup>2</sup> 
 
 
-_02.06.2019 17:18:06_
+_03.06.2019 18:19:36_

@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 120,
+        "updatedAt": "2019-06-03 18:19:35"
+    },
     "110931306939441771638-google": {
         "id": "110931306939441771638-google",
         "nickname": null,
@@ -64,12 +70,6 @@
         "nickname": "Quaff",
         "booksCount": 39,
         "updatedAt": "2019-05-30 15:06:26"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 119,
-        "updatedAt": "2019-05-30 04:18:19"
     },
     "107170915323495140313-google": {
         "id": "107170915323495140313-google",
