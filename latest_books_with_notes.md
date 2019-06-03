@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 1984 ~ [Quaff](users/122/12267158-vkontakte)<sup>40</sup>
 * Два раза в одну реку ~ [Chiffi](users/105/105831994080785626680-google)<sup>120</sup>
 * Приятель ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>32</sup>
 * Антитела ~ [En](users/333/333646551-vkontakte)<sup>65</sup>
@@ -30,7 +31,6 @@
 * Потеря памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>457</sup>
 * Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>456</sup>
 * "Долг жизни" ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>455</sup>
-* What If ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>454</sup>
 
 
-_03.06.2019 18:19:36_
+_03.06.2019 18:48:11_

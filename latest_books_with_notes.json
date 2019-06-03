@@ -1,4 +1,16 @@
 {
+    "sHZlMFXWQO": {
+        "id": "sHZlMFXWQO",
+        "title": "1984",
+        "author": "Джордж Оруэл",
+        "notes": "это адово! ХЕРОТА БЕСПРОСВЕТНАЯ! Однако, если подумать о времени, когда написано, закрыть глаза на отвратительное мне, как индивидууму, утрирование тоталитарности, то, пожалуй, это шедевр)",
+        "createdAt": "2019-06-03 18:48:11",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 40
+        }
+    },
     "mI6HT94MQP": {
         "id": "mI6HT94MQP",
         "title": "Два раза в одну реку",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 455
-        }
-    },
-    "_5Lrzq3j4A": {
-        "id": "_5Lrzq3j4A",
-        "title": "What If",
-        "author": "Katrina Marie Pace",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 18:36:52",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 454
         }
     }
 }

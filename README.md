@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 1984 ~ [Quaff](users/122/12267158-vkontakte)<sup>40</sup>
+    > это адово! ХЕРОТА БЕСПРОСВЕТНАЯ! Однако, если подумать о времени, когда написано, закрыть глаза на отвратительное мне, как индивидууму, утрирование тоталитарности, то, пожалуй, это шедевр)
+
 * Два раза в одну реку ~ [Chiffi](users/105/105831994080785626680-google)<sup>120</sup>
     > интересный детектив с уклоном в историю
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10 нудноватая книга о задиристом петухе
 
 * Антитела ~ [En](users/333/333646551-vkontakte)<sup>65</sup>
-    > интересная, но не слишком захватывающая книга по секретным материалам
 
 * Три товарища ~ [Quaff](users/122/12267158-vkontakte)<sup>39</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * За западном фронте без перемен ~ [Quaff](users/122/12267158-vkontakte)<sup>38</sup>
 
-* Как закалялась сталь ~ [Quaff](users/122/12267158-vkontakte)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>40</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>120</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>78</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>22</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>701</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>39</sup> 
 [](users/107/107170915323495140313-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>140</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>99</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nochnoj_hichnik](users/402/402672243-vkontakte)<sup>2</sup> 
 
 
-_03.06.2019 18:19:36_
+_03.06.2019 18:48:11_
