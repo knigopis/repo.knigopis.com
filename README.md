@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Илион ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>200</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/7972430/
+
 * 1984 ~ [Quaff](users/122/12267158-vkontakte)<sup>40</sup>
     > это адово! ХЕРОТА БЕСПРОСВЕТНАЯ! Однако, если подумать о времени, когда написано, закрыть глаза на отвратительное мне, как индивидууму, утрирование тоталитарности, то, пожалуй, это шедевр)
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > интересный детектив с уклоном в историю
 
 * Приятель ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>32</sup>
-    > 5/10 нудноватая книга о задиристом петухе
 
 * Антитела ~ [En](users/333/333646551-vkontakte)<sup>65</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Потерянные девушки Рима ~ [Sky](users/118/118049897850017649660-google)<sup>135</sup>
 
-* За западном фронте без перемен ~ [Quaff](users/122/12267158-vkontakte)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>200</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>40</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>120</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>39</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>166</sup> 
 [Quaff](users/224/2245578549027834-facebook)<sup>0</sup> 
-[nochnoj_hichnik](users/402/402672243-vkontakte)<sup>2</sup> 
 
 
-_03.06.2019 18:48:11_
+_03.06.2019 19:11:09_
