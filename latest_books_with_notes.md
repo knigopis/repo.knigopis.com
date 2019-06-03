@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup>
 * Илион ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>200</sup>
 * 1984 ~ [Quaff](users/122/12267158-vkontakte)<sup>40</sup>
 * Два раза в одну реку ~ [Chiffi](users/105/105831994080785626680-google)<sup>120</sup>
@@ -30,7 +31,6 @@
 * И снова про любовь, или Нелепая, лохматая любовь моя проклятая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup>
 * Дожди и туманы Драко Малфоя (Then Comes a Mist and a Weeping Rain) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>458</sup>
 * Потеря памяти ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>457</sup>
-* Это просто невозможно! ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>456</sup>
 
 
-_03.06.2019 19:11:09_
+_03.06.2019 19:15:10_

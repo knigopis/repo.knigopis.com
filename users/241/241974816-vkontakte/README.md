@@ -1,7 +1,16 @@
-# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>200</sup>
+# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>201</sup>
 ---
 
 ## 2019
+
+### Стартап по Кавасаки. Проверенные методы начала любого дела
+Кавасаки Гай
+> [2019-06-03] Кавасаки как обычно божественен :)
+> 
+> в процессе
+> 
+> https://www.ozon.ru/context/detail/id/137817839/
+
 
 ### Илион
 Дэн Симмонс

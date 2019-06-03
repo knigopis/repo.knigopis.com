@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup>
+    > Кавасаки как обычно божественен :)
+    > 
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/137817839/
+
 * Илион ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>200</sup>
     > в процессе
     > 
@@ -14,7 +21,6 @@ Do not use pull requests to make changes here.
     > это адово! ХЕРОТА БЕСПРОСВЕТНАЯ! Однако, если подумать о времени, когда написано, закрыть глаза на отвратительное мне, как индивидууму, утрирование тоталитарности, то, пожалуй, это шедевр)
 
 * Два раза в одну реку ~ [Chiffi](users/105/105831994080785626680-google)<sup>120</sup>
-    > интересный детектив с уклоном в историю
 
 * Приятель ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>32</sup>
 
@@ -28,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Руководство к действию на ближайшие дни ~ [Sky](users/118/118049897850017649660-google)<sup>136</sup>
 
-* Потерянные девушки Рима ~ [Sky](users/118/118049897850017649660-google)<sup>135</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>200</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>40</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>120</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
@@ -67,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/224/2245578549027834-facebook)<sup>0</sup> 
 
 
-_03.06.2019 19:11:09_
+_03.06.2019 19:15:10_
