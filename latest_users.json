@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 46,
+        "updatedAt": "2019-06-03 23:35:11"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 166,
         "updatedAt": "2019-05-24 09:21:40"
-    },
-    "2245578549027834-facebook": {
-        "id": "2245578549027834-facebook",
-        "nickname": "Quaff",
-        "booksCount": 0,
-        "updatedAt": "2019-05-22 14:35:36"
     }
 }

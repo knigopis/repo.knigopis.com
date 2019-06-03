@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>46</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>40</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>120</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>39</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>166</sup> 
-[Quaff](users/224/2245578549027834-facebook)<sup>0</sup> 
 
 
-_03.06.2019 19:15:10_
+_03.06.2019 23:35:11_
