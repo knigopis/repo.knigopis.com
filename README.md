@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[roma_meloman](users/207/207896276-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup> 
 [й1](users/202/202234967408363-facebook)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>66</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>220</sup> 
 [Neotmira](users/187/1872054813045606-facebook)<sup>1</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>39</sup> 
 
 
-_04.06.2019 19:50:30_
+_04.06.2019 21:06:40_
