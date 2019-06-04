@@ -1,4 +1,10 @@
 {
+    "207896276-vkontakte": {
+        "id": "207896276-vkontakte",
+        "nickname": "roma_meloman",
+        "booksCount": 0,
+        "updatedAt": "2019-06-04 21:06:37"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 62,
         "updatedAt": "2019-05-25 13:59:56"
-    },
-    "57239276-vkontakte": {
-        "id": "57239276-vkontakte",
-        "nickname": "vladkozz",
-        "booksCount": 39,
-        "updatedAt": "2019-05-24 14:38:38"
     }
 }
