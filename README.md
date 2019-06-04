@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Руины ~ [En](users/333/333646551-vkontakte)<sup>66</sup>
+    > книга про секретные материалы. в этот раз гг оказываются в развалинах майи и древней капсулы инопланетян
+
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup>
     > Кавасаки как обычно божественен :)
     > 
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/7972430/
 
 * 1984 ~ [Quaff](users/122/12267158-vkontakte)<sup>40</sup>
-    > это адово! ХЕРОТА БЕСПРОСВЕТНАЯ! Однако, если подумать о времени, когда написано, закрыть глаза на отвратительное мне, как индивидууму, утрирование тоталитарности, то, пожалуй, это шедевр)
 
 * Два раза в одну реку ~ [Chiffi](users/105/105831994080785626680-google)<sup>120</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Паморочливий запах джунглів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup>
 
-* Руководство к действию на ближайшие дни ~ [Sky](users/118/118049897850017649660-google)<sup>136</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>66</sup> 
 [me](users/381/381417697-yandex)<sup>46</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>40</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>32</sup> 
 [](users/118/118178474749808643951-google)<sup>0</sup> 
 [regnabo](users/870/870059322-yandex)<sup>30</sup> 
-[En](users/333/333646551-vkontakte)<sup>65</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>22</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>701</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>166</sup> 
 
 
-_03.06.2019 23:35:11_
+_04.06.2019 08:47:43_

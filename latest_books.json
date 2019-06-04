@@ -1,4 +1,16 @@
 {
+    "AyXMi5MC7j": {
+        "id": "AyXMi5MC7j",
+        "title": "Руины",
+        "author": "Кевин Андерсон",
+        "notes": "книга про секретные материалы. в этот раз гг оказываются в развалинах майи и древней капсулы инопланетян",
+        "createdAt": "2019-06-04 08:47:43",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 66
+        }
+    },
     "pb37sOjgeP": {
         "id": "pb37sOjgeP",
         "title": "Источник",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 140
-        }
-    },
-    "7g3BEdIdWO": {
-        "id": "7g3BEdIdWO",
-        "title": "Оно",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2019-05-29 16:50:30",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 139
         }
     }
 }
