@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[й1](users/202/202234967408363-facebook)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>66</sup> 
 [me](users/381/381417697-yandex)<sup>46</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Neotmira](users/187/1872054813045606-facebook)<sup>1</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>39</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>166</sup> 
 
 
-_04.06.2019 08:47:43_
+_04.06.2019 11:24:21_
