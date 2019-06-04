@@ -1,4 +1,10 @@
 {
+    "202234967408363-facebook": {
+        "id": "202234967408363-facebook",
+        "nickname": "й1",
+        "booksCount": 0,
+        "updatedAt": "2019-06-04 11:24:18"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "vladkozz",
         "booksCount": 39,
         "updatedAt": "2019-05-24 14:38:38"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 166,
-        "updatedAt": "2019-05-24 09:21:40"
     }
 }
