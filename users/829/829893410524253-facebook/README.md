@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>32</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>33</sup>
 ---
 
 ## 2019
+
+### Ініціація
+Люко Дашвар
+> [2019-06-04] 7/10 нуднувато і не жалко головних героїв.
+
 
 ### Приятель
 Дэвид Макгроги

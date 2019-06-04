@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ініціація ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup>
 * Руины ~ [En](users/333/333646551-vkontakte)<sup>66</sup>
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup>
 * Илион ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>200</sup>
@@ -30,7 +31,6 @@
 * Бизнес и инновации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup>
 * Сакура и дуб ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>198</sup>
 * И снова про любовь, или Нелепая, лохматая любовь моя проклятая ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>459</sup>
-* Дожди и туманы Драко Малфоя (Then Comes a Mist and a Weeping Rain) ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>458</sup>
 
 
-_04.06.2019 08:47:43_
+_04.06.2019 19:50:30_

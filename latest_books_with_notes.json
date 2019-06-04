@@ -1,4 +1,16 @@
 {
+    "LwQnhxmZHq": {
+        "id": "LwQnhxmZHq",
+        "title": "Ініціація",
+        "author": "Люко Дашвар",
+        "notes": "7/10 нуднувато і не жалко головних героїв.",
+        "createdAt": "2019-06-04 19:50:30",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 33
+        }
+    },
     "AyXMi5MC7j": {
         "id": "AyXMi5MC7j",
         "title": "Руины",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 459
-        }
-    },
-    "SJA60QYMn7": {
-        "id": "SJA60QYMn7",
-        "title": "Дожди и туманы Драко Малфоя (Then Comes a Mist and a Weeping Rain)",
-        "author": "Faith Wood",
-        "notes": "Фанфик",
-        "createdAt": "2019-05-16 18:41:40",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 458
         }
     }
 }

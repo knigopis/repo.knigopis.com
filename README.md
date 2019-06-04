@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ініціація ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup>
+    > 7/10 нуднувато і не жалко головних героїв.
+
 * Руины ~ [En](users/333/333646551-vkontakte)<sup>66</sup>
     > книга про секретные материалы. в этот раз гг оказываются в развалинах майи и древней капсулы инопланетян
 
@@ -16,9 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/137817839/
 
 * Илион ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>200</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/7972430/
 
 * 1984 ~ [Quaff](users/122/12267158-vkontakte)<sup>40</sup>
 
@@ -32,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Смерть на кончике хвоста ~ [Chiffi](users/105/105831994080785626680-google)<sup>119</sup>
 
-* Паморочливий запах джунглів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup> 
 [й1](users/202/202234967408363-facebook)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>66</sup> 
 [me](users/381/381417697-yandex)<sup>46</sup> 
@@ -48,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>2</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>78</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>22</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>32</sup> 
 [](users/118/118178474749808643951-google)<sup>0</sup> 
 [regnabo](users/870/870059322-yandex)<sup>30</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
@@ -71,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>39</sup> 
 
 
-_04.06.2019 11:24:21_
+_04.06.2019 19:50:30_
