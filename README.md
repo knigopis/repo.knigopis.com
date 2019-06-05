@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>702</sup> 
 [roma_meloman](users/207/207896276-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup> 
 [й1](users/202/202234967408363-facebook)<sup>0</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [regnabo](users/870/870059322-yandex)<sup>30</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>22</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>701</sup> 
 [](users/107/107170915323495140313-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>140</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>99</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 
 
-_04.06.2019 21:06:40_
+_05.06.2019 10:51:09_

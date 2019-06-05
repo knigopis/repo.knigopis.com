@@ -1,4 +1,16 @@
 {
+    "7uXxh9iMp9": {
+        "id": "7uXxh9iMp9",
+        "title": "Динка прощается с детством",
+        "author": "Валентина Осеева",
+        "notes": "",
+        "createdAt": "2019-06-05 10:51:09",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 702
+        }
+    },
     "LwQnhxmZHq": {
         "id": "LwQnhxmZHq",
         "title": "Ініціація",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 31
-        }
-    },
-    "KLgw5RI2wZ": {
-        "id": "KLgw5RI2wZ",
-        "title": "Жутко громко и запредельно близко",
-        "author": "Джонатан Фоер",
-        "notes": "",
-        "createdAt": "2019-05-29 19:40:43",
-        "user": {
-            "id": "107170915323495140313-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
