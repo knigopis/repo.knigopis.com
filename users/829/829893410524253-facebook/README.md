@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>33</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>34</sup>
 ---
 
 ## 2019
+
+### Маг
+Джон Фаулз
+> [2019-06-07] 4/10 Игра в бога на греческом острове.
+
 
 ### Ініціація
 Люко Дашвар

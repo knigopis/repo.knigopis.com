@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup>
+    > 4/10 Игра в бога на греческом острове.
+
 * Охота на князя Дракулу ~ [Sky](users/118/118049897850017649660-google)<sup>141</sup>
     > 3/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 нуднувато і не жалко головних героїв.
 
 * Руины ~ [En](users/333/333646551-vkontakte)<sup>66</sup>
-    > книга про секретные материалы. в этот раз гг оказываются в развалинах майи и древней капсулы инопланетян
 
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Антитела ~ [En](users/333/333646551-vkontakte)<sup>65</sup>
 
-* Три товарища ~ [Quaff](users/122/12267158-vkontakte)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>141</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>702</sup> 
 [roma_meloman](users/207/207896276-vkontakte)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup> 
 [й1](users/202/202234967408363-facebook)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>66</sup> 
 [me](users/381/381417697-yandex)<sup>46</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 
 
-_07.06.2019 04:40:59_
+_07.06.2019 17:27:07_

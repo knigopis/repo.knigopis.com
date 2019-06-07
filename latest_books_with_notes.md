@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Маг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup>
 * Охота на князя Дракулу ~ [Sky](users/118/118049897850017649660-google)<sup>141</sup>
 * Ініціація ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup>
 * Руины ~ [En](users/333/333646551-vkontakte)<sup>66</sup>
@@ -30,7 +31,6 @@
 * Моби Дик ~ [Garka](users/115/115753719718250012620-google)<sup>219</sup>
 * Desperate Measures ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup>
 * Бизнес и инновации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup>
-* Сакура и дуб ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>198</sup>
 
 
-_07.06.2019 04:40:59_
+_07.06.2019 17:27:07_

@@ -1,4 +1,16 @@
 {
+    "vPN4RODIO4": {
+        "id": "vPN4RODIO4",
+        "title": "Маг",
+        "author": "Джон Фаулз",
+        "notes": "4/10 Игра в бога на греческом острове.",
+        "createdAt": "2019-06-07 17:27:07",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 34
+        }
+    },
     "nTvp4bljCy": {
         "id": "nTvp4bljCy",
         "title": "Охота на князя Дракулу",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 39
-        }
-    },
-    "Q6L7ORN_d_": {
-        "id": "Q6L7ORN_d_",
-        "title": "Смерть на кончике хвоста",
-        "author": "Платонова Виктория",
-        "notes": "неплохой детектив. не понравился только эпилог: какой-то хеппи энд из дамского романа (они поженились,  щенки и она беременна)",
-        "createdAt": "2019-05-30 04:18:19",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 119
         }
     }
 }

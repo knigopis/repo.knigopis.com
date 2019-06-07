@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 34,
+        "updatedAt": "2019-06-07 17:27:07"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -16,12 +22,6 @@
         "nickname": "roma_meloman",
         "booksCount": 0,
         "updatedAt": "2019-06-04 21:06:37"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 33,
-        "updatedAt": "2019-06-04 19:50:30"
     },
     "202234967408363-facebook": {
         "id": "202234967408363-facebook",
