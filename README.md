@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Охота на князя Дракулу ~ [Sky](users/118/118049897850017649660-google)<sup>141</sup>
+    > 3/10
+
 * Ініціація ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup>
     > 7/10 нуднувато і не жалко головних героїв.
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > книга про секретные материалы. в этот раз гг оказываются в развалинах майи и древней капсулы инопланетян
 
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup>
-    > Кавасаки как обычно божественен :)
-    > 
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/137817839/
 
 * Илион ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>200</sup>
 
@@ -30,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Три товарища ~ [Quaff](users/122/12267158-vkontakte)<sup>39</sup>
 
-* Смерть на кончике хвоста ~ [Chiffi](users/105/105831994080785626680-google)<sup>119</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>141</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>702</sup> 
 [roma_meloman](users/207/207896276-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup> 
@@ -54,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>22</sup> 
 [](users/107/107170915323495140313-google)<sup>1</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>140</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>99</sup> 
 [mementomori2017](users/431/431794049-vkontakte)<sup>8</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup> 
@@ -69,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 
 
-_05.06.2019 10:51:09_
+_07.06.2019 04:40:59_
