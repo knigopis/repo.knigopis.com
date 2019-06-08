@@ -1,4 +1,16 @@
 {
+    "0DyM6kFPSm": {
+        "id": "0DyM6kFPSm",
+        "title": "The Myth of the Andalusian Paradise",
+        "author": "Darío Fernández-Morera",
+        "notes": "ASIN: B01AL2SP76",
+        "createdAt": "2019-06-08 04:37:55",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 108
+        }
+    },
     "fmtWlIQq22": {
         "id": "fmtWlIQq22",
         "title": "56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 22
-        }
-    },
-    "U3EcZH5mD2": {
-        "id": "U3EcZH5mD2",
-        "title": "Динка",
-        "author": "Валентина Осеева",
-        "notes": "",
-        "createdAt": "2019-05-30 17:48:32",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 701
         }
     }
 }
