@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>39</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>40</sup>
 ---
 
 ## 2019
+
+### Ловец снов
+Стивен Кинг
+
 
 ### Пикник на обочине
 Аркадий и Борис Стругацкие

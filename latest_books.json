@@ -1,4 +1,16 @@
 {
+    "MX7jzeVzdB": {
+        "id": "MX7jzeVzdB",
+        "title": "Ловец снов",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2019-06-08 08:17:52",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 40
+        }
+    },
     "po7EFS4AJH": {
         "id": "po7EFS4AJH",
         "title": "Range: Why Generalists Triumph in a Specialized World",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 20
-        }
-    },
-    "qU-7XuPJni": {
-        "id": "qU-7XuPJni",
-        "title": "Бедные люди",
-        "author": "ДОСТОЕВСКИЙ Ф.М.",
-        "notes": "",
-        "createdAt": "2019-05-30 20:20:36",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 19
         }
     }
 }
