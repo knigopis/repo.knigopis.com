@@ -34,32 +34,35 @@ Randall Munroe
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Joel on Software
-Joel Spolsky
+### `2` Овод
+Этель Лилиан Войнич
 
 ### `1` Портной из Панамы
 Джон Ле Карре
 
+### `1` Joel on Software
+Joel Spolsky
+
 ### `` A Briefer History of Time
 Stephen Hawking
-
-### `` Три товарища
-Эрих Мария Ремарк
 
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
 
-### `` Посторонний
-Камю
-
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
+### `` Мертвые души
+Николай Гоголь
 
 ### `` Герой нашего времени
 Михаил Лермонтов
 
-### `` Мертвые души
-Николай Гоголь
+### `` Три товарища
+Эрих Мария Ремарк
+
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
+
+### `` Посторонний
+Камю
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
@@ -68,8 +71,8 @@ Peter Kim
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
 
-### `` Овод
-Этель Лилиан Войнич
+### `` Атлант расправил плечи
+Айн Рэнд
 
 ### `` Искусство программирования
 Дональд Кнут
@@ -81,26 +84,23 @@ Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes
 Linus Torvalds, David Diamond
 > The Story of an Accidental Revolutionary
 
-### `` Атлант расправил плечи
-Айн Рэнд
-
 ### `` Повелитель мух
 Уильям Голдинг
+
+### `` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
+
+### `` Cracking the code interview
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
 > В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
-
-### `` Cracking the code interview
 
 ### `` Братья Карамазовы
 Фёдор Достоевский
 
 ### `` Науки об искусственном
 > Когда-то читал эту книгу давно, но не помню, дочитал или нет
-
-### `` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
 
 ### `` Hacking: Art of Exploitation
 Jon Erickson
