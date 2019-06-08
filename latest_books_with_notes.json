@@ -1,4 +1,16 @@
 {
+    "UidIAD2Bqi": {
+        "id": "UidIAD2Bqi",
+        "title": "Пляж",
+        "author": "Гарленд, Алекс",
+        "notes": "Даже в раю люди ведут себя хуже зверей...",
+        "createdAt": "2019-06-08 14:49:09",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 221
+        }
+    },
     "po7EFS4AJH": {
         "id": "po7EFS4AJH",
         "title": "Range: Why Generalists Triumph in a Specialized World",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 61
-        }
-    },
-    "o2_w94gq4B": {
-        "id": "o2_w94gq4B",
-        "title": "The circle",
-        "author": "Dave Eggers",
-        "notes": "10/10 Our digital horrible future.",
-        "createdAt": "2019-05-18 17:46:02",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 30
         }
     }
 }

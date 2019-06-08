@@ -1,4 +1,16 @@
 {
+    "UidIAD2Bqi": {
+        "id": "UidIAD2Bqi",
+        "title": "Пляж",
+        "author": "Гарленд, Алекс",
+        "notes": "Даже в раю люди ведут себя хуже зверей...",
+        "createdAt": "2019-06-08 14:49:09",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 221
+        }
+    },
     "MX7jzeVzdB": {
         "id": "MX7jzeVzdB",
         "title": "Ловец снов",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 21
-        }
-    },
-    "ZPscixbqx9": {
-        "id": "ZPscixbqx9",
-        "title": "Накануне",
-        "author": "ТУРГЕНЕВ И.А.",
-        "notes": "",
-        "createdAt": "2019-05-30 20:21:10",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 20
         }
     }
 }

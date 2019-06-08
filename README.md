@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пляж ~ [Garka](users/115/115753719718250012620-google)<sup>221</sup>
+    > Даже в раю люди ведут себя хуже зверей...
+
 * Range: Why Generalists Triumph in a Specialized World ~ [exulted](users/100/100599204551896265722-google)<sup>109</sup>
     > ASIN: B07H1ZYWTM
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN: B01AL2SP76
 
 * 56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585 ~ [exulted](users/100/100599204551896265722-google)<sup>107</sup>
-    > ISBN: 978-5-227-04904-9
 
 * Маг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Илион ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>200</sup>
 
-* 1984 ~ [Quaff](users/122/12267158-vkontakte)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>221</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>40</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>109</sup> 
 [me](users/381/381417697-yandex)<sup>47</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [narkokamaz](users/372/372550556-vkontakte)<sup>7</sup> 
 [alexvodopyanov](users/312/3129491-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>62</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>220</sup> 
 [Neotmira](users/187/1872054813045606-facebook)<sup>1</sup> 
 
 
-_08.06.2019 08:17:52_
+_08.06.2019 14:49:10_
