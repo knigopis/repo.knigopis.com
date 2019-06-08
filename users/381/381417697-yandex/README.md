@@ -1,7 +1,12 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>46</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>47</sup>
 ---
 
 ## 2019
+
+### 97 этюдов для программистов
+Пит Гудлиф, Роберт Мартин, Диомидис Спинеллис, Кевлин Хенни и др.
+> [2019-06-08] 
+
 
 ### Источник
 Айн Рэнд

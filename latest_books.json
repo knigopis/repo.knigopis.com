@@ -1,4 +1,16 @@
 {
+    "cZ--Gmu8P9": {
+        "id": "cZ--Gmu8P9",
+        "title": "97 этюдов для программистов",
+        "author": "Пит Гудлиф, Роберт Мартин, Диомидис Спинеллис, Кевлин Хенни и др.",
+        "notes": "",
+        "createdAt": "2019-06-08 01:24:29",
+        "user": {
+            "id": "381417697-yandex",
+            "nickname": "me",
+            "booksCount": 47
+        }
+    },
     "vPN4RODIO4": {
         "id": "vPN4RODIO4",
         "title": "Маг",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 18
-        }
-    },
-    "SIOnEnUqSH": {
-        "id": "SIOnEnUqSH",
-        "title": "Три товарища",
-        "author": "Ремарк Эрих Мария",
-        "notes": "Мелодрама о трех верных друзьях и их несчастных случаях",
-        "createdAt": "2019-05-30 15:06:26",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 39
         }
     }
 }
