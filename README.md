@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>221</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>40</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>109</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [narkokamaz](users/372/372550556-vkontakte)<sup>7</sup> 
 [alexvodopyanov](users/312/3129491-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>62</sup> 
-[Neotmira](users/187/1872054813045606-facebook)<sup>1</sup> 
 
 
-_08.06.2019 14:49:10_
+_08.06.2019 17:44:41_
