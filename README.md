@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585 ~ [exulted](users/100/100599204551896265722-google)<sup>107</sup>
+    > ISBN: 978-5-227-04904-9
+
 * Маг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup>
     > 4/10 Игра в бога на греческом острове.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 3/10
 
 * Ініціація ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup>
-    > 7/10 нуднувато і не жалко головних героїв.
 
 * Руины ~ [En](users/333/333646551-vkontakte)<sup>66</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Приятель ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>32</sup>
 
-* Антитела ~ [En](users/333/333646551-vkontakte)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>107</sup> 
 [me](users/381/381417697-yandex)<sup>47</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>141</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [narkokamaz](users/372/372550556-vkontakte)<sup>7</sup> 
 [alexvodopyanov](users/312/3129491-vkontakte)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>62</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>106</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>220</sup> 
 [Neotmira](users/187/1872054813045606-facebook)<sup>1</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 
 
-_08.06.2019 01:24:30_
+_08.06.2019 04:34:44_

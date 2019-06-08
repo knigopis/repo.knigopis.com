@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585 ~ [exulted](users/100/100599204551896265722-google)<sup>107</sup>
 * Маг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup>
 * Охота на князя Дракулу ~ [Sky](users/118/118049897850017649660-google)<sup>141</sup>
 * Ініціація ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup>
@@ -30,7 +31,6 @@
 * The circle ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup>
 * Моби Дик ~ [Garka](users/115/115753719718250012620-google)<sup>219</sup>
 * Desperate Measures ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>460</sup>
-* Бизнес и инновации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>199</sup>
 
 
-_07.06.2019 17:27:07_
+_08.06.2019 04:34:44_

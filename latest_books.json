@@ -1,4 +1,16 @@
 {
+    "fmtWlIQq22": {
+        "id": "fmtWlIQq22",
+        "title": "56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585",
+        "author": "Бикбаев Равиль",
+        "notes": "ISBN: 978-5-227-04904-9",
+        "createdAt": "2019-06-08 04:34:43",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 107
+        }
+    },
     "cZ--Gmu8P9": {
         "id": "cZ--Gmu8P9",
         "title": "97 этюдов для программистов",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 701
-        }
-    },
-    "QSseuSdMbi": {
-        "id": "QSseuSdMbi",
-        "title": "О дивный новый мир",
-        "author": "ХАКСЛИ Олдос",
-        "notes": "",
-        "createdAt": "2019-05-30 15:08:10",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 18
         }
     }
 }

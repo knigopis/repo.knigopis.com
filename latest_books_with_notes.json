@@ -1,4 +1,16 @@
 {
+    "fmtWlIQq22": {
+        "id": "fmtWlIQq22",
+        "title": "56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585",
+        "author": "Бикбаев Равиль",
+        "notes": "ISBN: 978-5-227-04904-9",
+        "createdAt": "2019-06-08 04:34:43",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 107
+        }
+    },
     "vPN4RODIO4": {
         "id": "vPN4RODIO4",
         "title": "Маг",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 460
-        }
-    },
-    "z60rKT5sXg": {
-        "id": "z60rKT5sXg",
-        "title": "Бизнес и инновации",
-        "author": "Питер Друкер",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/3178885/",
-        "createdAt": "2019-05-17 13:25:11",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 199
         }
     }
 }
