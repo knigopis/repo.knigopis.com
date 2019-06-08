@@ -1,4 +1,16 @@
 {
+    "po7EFS4AJH": {
+        "id": "po7EFS4AJH",
+        "title": "Range: Why Generalists Triumph in a Specialized World",
+        "author": "David J. Epstein",
+        "notes": "ASIN: B07H1ZYWTM",
+        "createdAt": "2019-06-08 04:38:53",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 109
+        }
+    },
     "0DyM6kFPSm": {
         "id": "0DyM6kFPSm",
         "title": "The Myth of the Andalusian Paradise",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 30
-        }
-    },
-    "nG3F1B3-nC": {
-        "id": "nG3F1B3-nC",
-        "title": "Моби Дик",
-        "author": "Мелвилл, Герман",
-        "notes": "Не особо впечатлили книга, но и не особо разочаровала. То ли автор в процессе написания чуть \"кукухой поехал\", то ли это был изобразительный приём, призванный подчеркнуть психическое состояния капитана Ахава. Монолог Ахава в конце книге тронул.",
-        "createdAt": "2019-05-18 17:12:48",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 219
         }
     }
 }

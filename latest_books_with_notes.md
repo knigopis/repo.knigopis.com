@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Range: Why Generalists Triumph in a Specialized World ~ [exulted](users/100/100599204551896265722-google)<sup>109</sup>
 * The Myth of the Andalusian Paradise ~ [exulted](users/100/100599204551896265722-google)<sup>108</sup>
 * 56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585 ~ [exulted](users/100/100599204551896265722-google)<sup>107</sup>
 * Маг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup>
@@ -30,7 +31,6 @@
 * ДОМ С ПРИВИДЕНИЯМИ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup>
 * Убить пересмешника ~ [kissamasya](users/684/68439978-vkontakte)<sup>61</sup>
 * The circle ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>30</sup>
-* Моби Дик ~ [Garka](users/115/115753719718250012620-google)<sup>219</sup>
 
 
-_08.06.2019 04:37:55_
+_08.06.2019 04:38:53_

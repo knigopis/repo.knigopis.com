@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>108</sup>
+# Список прочитанных книг пользователя exulted<sup>109</sup>
 ---
 
 ## 2019
+
+### Range: Why Generalists Triumph in a Specialized World
+David J. Epstein
+> [2019-06-08] ASIN: B07H1ZYWTM
+
 
 ### The Myth of the Andalusian Paradise
 Darío Fernández-Morera

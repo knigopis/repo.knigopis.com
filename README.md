@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Range: Why Generalists Triumph in a Specialized World ~ [exulted](users/100/100599204551896265722-google)<sup>109</sup>
+    > ASIN: B07H1ZYWTM
+
 * The Myth of the Andalusian Paradise ~ [exulted](users/100/100599204551896265722-google)<sup>108</sup>
     > ASIN: B01AL2SP76
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-227-04904-9
 
 * Маг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup>
-    > 4/10 Игра в бога на греческом острове.
 
 * Охота на князя Дракулу ~ [Sky](users/118/118049897850017649660-google)<sup>141</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * 1984 ~ [Quaff](users/122/12267158-vkontakte)<sup>40</sup>
 
-* Два раза в одну реку ~ [Chiffi](users/105/105831994080785626680-google)<sup>120</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>108</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>109</sup> 
 [me](users/381/381417697-yandex)<sup>47</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>141</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 
 
-_08.06.2019 04:37:55_
+_08.06.2019 04:38:53_

@@ -1,4 +1,16 @@
 {
+    "po7EFS4AJH": {
+        "id": "po7EFS4AJH",
+        "title": "Range: Why Generalists Triumph in a Specialized World",
+        "author": "David J. Epstein",
+        "notes": "ASIN: B07H1ZYWTM",
+        "createdAt": "2019-06-08 04:38:53",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 109
+        }
+    },
     "0DyM6kFPSm": {
         "id": "0DyM6kFPSm",
         "title": "The Myth of the Andalusian Paradise",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 19
-        }
-    },
-    "QVXXw3ew4B": {
-        "id": "QVXXw3ew4B",
-        "title": "Грозовой перевал",
-        "author": "Эмили Бронте",
-        "notes": "",
-        "createdAt": "2019-05-30 20:01:17",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 22
         }
     }
 }
