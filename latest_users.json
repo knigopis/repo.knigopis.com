@@ -1,4 +1,10 @@
 {
+    "106983266780546745776-google": {
+        "id": "106983266780546745776-google",
+        "nickname": "Aleks",
+        "booksCount": 0,
+        "updatedAt": "2019-06-08 17:44:39"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 62,
         "updatedAt": "2019-05-26 11:16:06"
-    },
-    "1872054813045606-facebook": {
-        "id": "1872054813045606-facebook",
-        "nickname": "Neotmira",
-        "booksCount": 1,
-        "updatedAt": "2019-05-25 17:50:56"
     }
 }
