@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Таємне життя грошей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>35</sup>
+    > 7/10 Просто та цікаво пояснені основні фінансові терміни.
+
 * Пляж ~ [Garka](users/115/115753719718250012620-google)<sup>221</sup>
     > Даже в раю люди ведут себя хуже зверей...
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN: B07H1ZYWTM
 
 * The Myth of the Andalusian Paradise ~ [exulted](users/100/100599204551896265722-google)<sup>108</sup>
-    > ASIN: B01AL2SP76
 
 * 56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585 ~ [exulted](users/100/100599204551896265722-google)<sup>107</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup>
 
-* Илион ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>200</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>35</sup> 
 [Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>221</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>40</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>109</sup> 
 [me](users/381/381417697-yandex)<sup>47</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>141</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>702</sup> 
 [roma_meloman](users/207/207896276-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>62</sup> 
 
 
-_08.06.2019 17:54:26_
+_08.06.2019 19:53:32_

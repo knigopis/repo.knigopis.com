@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>34</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>35</sup>
 ---
 
 ## 2019
+
+### Таємне життя грошей
+Кіра Вермонд
+> [2019-06-08] 7/10 Просто та цікаво пояснені основні фінансові терміни.
+
 
 ### Маг
 Джон Фаулз

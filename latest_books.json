@@ -1,4 +1,16 @@
 {
+    "q8UDfdLn0r": {
+        "id": "q8UDfdLn0r",
+        "title": "Таємне життя грошей",
+        "author": "Кіра Вермонд",
+        "notes": "7/10 Просто та цікаво пояснені основні фінансові терміни.",
+        "createdAt": "2019-06-08 19:53:32",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 35
+        }
+    },
     "-nOUtpna4R": {
         "id": "-nOUtpna4R",
         "title": "Думай медленно, решай быстро",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 23
-        }
-    },
-    "1Djmenx4Rx": {
-        "id": "1Djmenx4Rx",
-        "title": "Франкенштейн",
-        "author": "ШЕЛЛИ Мэри",
-        "notes": "",
-        "createdAt": "2019-05-30 20:21:56",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 22
         }
     }
 }
