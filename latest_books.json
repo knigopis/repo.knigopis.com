@@ -1,4 +1,16 @@
 {
+    "-nOUtpna4R": {
+        "id": "-nOUtpna4R",
+        "title": "Думай медленно, решай быстро",
+        "author": "Даниэль Канеман",
+        "notes": "",
+        "createdAt": "2019-06-08 17:53:26",
+        "user": {
+            "id": "106983266780546745776-google",
+            "nickname": "Aleks",
+            "booksCount": 1
+        }
+    },
     "UidIAD2Bqi": {
         "id": "UidIAD2Bqi",
         "title": "Пляж",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 22
-        }
-    },
-    "NnSKAD7zyi": {
-        "id": "NnSKAD7zyi",
-        "title": "Рудин",
-        "author": "ТУРГЕНЕВ И.А.",
-        "notes": "",
-        "createdAt": "2019-05-30 20:21:26",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 21
         }
     }
 }
