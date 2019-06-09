@@ -1,4 +1,10 @@
 {
+    "74201901-vkontakte": {
+        "id": "74201901-vkontakte",
+        "nickname": "harmful_iojik",
+        "booksCount": 0,
+        "updatedAt": "2019-06-09 19:04:33"
+    },
     "117525336121885011584-google": {
         "id": "117525336121885011584-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "narkokamaz",
         "booksCount": 7,
         "updatedAt": "2019-05-27 10:32:37"
-    },
-    "3129491-vkontakte": {
-        "id": "3129491-vkontakte",
-        "nickname": "alexvodopyanov",
-        "booksCount": 0,
-        "updatedAt": "2019-05-26 22:58:44"
     }
 }
