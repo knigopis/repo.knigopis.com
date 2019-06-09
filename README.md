@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Таке було ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>36</sup>
+    > 6/10 походження назв Борівське, Щедрищеве, Осколонівка, Синецький, Павлоград, Метьолкіне.
+
 * Таємне життя грошей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>35</sup>
     > 7/10 Просто та цікаво пояснені основні фінансові терміни.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Даже в раю люди ведут себя хуже зверей...
 
 * Range: Why Generalists Triumph in a Specialized World ~ [exulted](users/100/100599204551896265722-google)<sup>109</sup>
-    > ASIN: B07H1ZYWTM
 
 * The Myth of the Andalusian Paradise ~ [exulted](users/100/100599204551896265722-google)<sup>108</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Руины ~ [En](users/333/333646551-vkontakte)<sup>66</sup>
 
-* Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>36</sup> 
 [harmful_iojik](users/742/74201901-vkontakte)<sup>0</sup> 
 [](users/117/117525336121885011584-google)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>35</sup> 
 [Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>221</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>40</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [narkokamaz](users/372/372550556-vkontakte)<sup>7</sup> 
 
 
-_09.06.2019 19:04:36_
+_09.06.2019 19:24:27_

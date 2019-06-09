@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>35</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>36</sup>
 ---
 
 ## 2019
+
+### Таке було
+Сергій Каленюк
+> [2019-06-09] 6/10 походження назв Борівське, Щедрищеве, Осколонівка, Синецький, Павлоград, Метьолкіне.
+
 
 ### Таємне життя грошей
 Кіра Вермонд

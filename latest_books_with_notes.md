@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Таке було ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>36</sup>
 * Таємне життя грошей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>35</sup>
 * Пляж ~ [Garka](users/115/115753719718250012620-google)<sup>221</sup>
 * Range: Why Generalists Triumph in a Specialized World ~ [exulted](users/100/100599204551896265722-google)<sup>109</sup>
@@ -30,7 +31,6 @@
 * Ночь в одиноком октябре ~ [Garka](users/115/115753719718250012620-google)<sup>220</sup>
 * La petite fille sur la banquise ~ [violet_velva](users/116/116961712580551399099-google)<sup>62</sup>
 * Повесть о двух городах ~ [Quaff](users/122/12267158-vkontakte)<sup>36</sup>
-* ДОМ С ПРИВИДЕНИЯМИ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>78</sup>
 
 
-_08.06.2019 19:53:32_
+_09.06.2019 19:24:27_
