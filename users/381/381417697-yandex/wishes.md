@@ -11,7 +11,7 @@
 ### `38` Learn You a Haskell for Great Good
 Miran Lipovača
 
-### `23` Овод
+### `30` Овод
 Этель Лилиан Войнич
 
 ### `23` Тайм-драйв
