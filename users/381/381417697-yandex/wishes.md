@@ -17,6 +17,9 @@ Miran Lipovača
 ### `20` Слово живое и мертвое
 Нора Галь
 
+### `17` Овод
+Этель Лилиан Войнич
+
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
@@ -26,9 +29,6 @@ Miran Lipovača
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
-
-### `10` Овод
-Этель Лилиан Войнич
 
 ### `5` What If?
 Randall Munroe
@@ -43,11 +43,11 @@ Randall Munroe
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` A Briefer History of Time
-Stephen Hawking
-
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
+
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` Мертвые души
 Николай Гоголь
