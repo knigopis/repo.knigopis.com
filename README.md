@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[harmful_iojik](users/742/74201901-vkontakte)<sup>0</sup> 
 [](users/117/117525336121885011584-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>35</sup> 
 [Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>39</sup> 
 [Lecowi](users/521/521873425-vkontakte)<sup>14</sup> 
 [narkokamaz](users/372/372550556-vkontakte)<sup>7</sup> 
-[alexvodopyanov](users/312/3129491-vkontakte)<sup>0</sup> 
 
 
-_09.06.2019 16:05:52_
+_09.06.2019 19:04:36_
