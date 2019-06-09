@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/117/117525336121885011584-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>35</sup> 
 [Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>221</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>14</sup> 
 [narkokamaz](users/372/372550556-vkontakte)<sup>7</sup> 
 [alexvodopyanov](users/312/3129491-vkontakte)<sup>0</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>62</sup> 
 
 
-_08.06.2019 19:53:32_
+_09.06.2019 16:05:52_
