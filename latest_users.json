@@ -1,4 +1,10 @@
 {
+    "117525336121885011584-google": {
+        "id": "117525336121885011584-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-06-09 16:05:49"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "alexvodopyanov",
         "booksCount": 0,
         "updatedAt": "2019-05-26 22:58:44"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 62,
-        "updatedAt": "2019-05-26 11:16:06"
     }
 }
