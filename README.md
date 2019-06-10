@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Приключения Гекльберри Финна ~ [Quaff](users/122/12267158-vkontakte)<sup>42</sup>
+    > Приключения на грани фантастики, подростковое.
+
 * Ребекка ~ [Quaff](users/122/12267158-vkontakte)<sup>41</sup>
     > Интересный роман, убийство и чувства, драма и предубеждение.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 походження назв Борівське, Щедрищеве, Осколонівка, Синецький, Павлоград, Метьолкіне.
 
 * Таємне життя грошей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>35</sup>
-    > 7/10 Просто та цікаво пояснені основні фінансові терміни.
 
 * Пляж ~ [Garka](users/115/115753719718250012620-google)<sup>221</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Охота на князя Дракулу ~ [Sky](users/118/118049897850017649660-google)<sup>141</sup>
 
-* Ініціація ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>41</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>42</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>167</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>121</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>36</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>14</sup> 
 
 
-_10.06.2019 14:34:26_
+_10.06.2019 14:35:47_

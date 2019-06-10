@@ -1,4 +1,16 @@
 {
+    "Bb6UKxhpCL": {
+        "id": "Bb6UKxhpCL",
+        "title": "Приключения Гекльберри Финна",
+        "author": "Марк Твен",
+        "notes": "Приключения на грани фантастики, подростковое.",
+        "createdAt": "2019-06-10 14:35:47",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 42
+        }
+    },
     "mEHSXQQv0T": {
         "id": "mEHSXQQv0T",
         "title": "Ребекка",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 220
-        }
-    },
-    "_o6vUMR7rV": {
-        "id": "_o6vUMR7rV",
-        "title": "La petite fille sur la banquise",
-        "author": "Adélaïde Bon",
-        "notes": "Книга, основанная на реальной истории девочки, которая подверглась насилию в возрасте 9-ти лет. С тех пор ее жизнь складывалась сложно и болезненно. Грустная история борьбы и триумфа справедливости над детским насилием.",
-        "createdAt": "2019-05-25 13:59:56",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 62
         }
     }
 }

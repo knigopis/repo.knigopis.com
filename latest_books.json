@@ -1,4 +1,16 @@
 {
+    "Bb6UKxhpCL": {
+        "id": "Bb6UKxhpCL",
+        "title": "Приключения Гекльберри Финна",
+        "author": "Марк Твен",
+        "notes": "Приключения на грани фантастики, подростковое.",
+        "createdAt": "2019-06-10 14:35:47",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 42
+        }
+    },
     "mEHSXQQv0T": {
         "id": "mEHSXQQv0T",
         "title": "Ребекка",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 65
-        }
-    },
-    "8WxHjbzuER": {
-        "id": "8WxHjbzuER",
-        "title": "Красное и черное",
-        "author": "СТЕНДАЛЬ",
-        "notes": "",
-        "createdAt": "2019-05-30 20:24:29",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 27
         }
     }
 }
