@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>120</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>121</sup>
 ---
 
 ## 2019
+
+### Дни в Бирме. Дочь священника
+Оруэл Джордж
+> [2019-06-10] 
+
 
 ### Два раза в одну реку
 Островская Екатерина

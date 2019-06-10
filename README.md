@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>121</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>36</sup> 
 [harmful_iojik](users/742/74201901-vkontakte)<sup>0</sup> 
 [](users/117/117525336121885011584-google)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>66</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>40</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>120</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>78</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [narkokamaz](users/372/372550556-vkontakte)<sup>7</sup> 
 
 
-_09.06.2019 19:24:27_
+_10.06.2019 04:22:36_

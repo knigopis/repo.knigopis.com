@@ -1,4 +1,16 @@
 {
+    "JnuNBpz9bv": {
+        "id": "JnuNBpz9bv",
+        "title": "Дни в Бирме. Дочь священника",
+        "author": "Оруэл Джордж",
+        "notes": "",
+        "createdAt": "2019-06-10 04:22:36",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 121
+        }
+    },
     "ooHGU9NTYC": {
         "id": "ooHGU9NTYC",
         "title": "Таке було",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 25
-        }
-    },
-    "x262ZvodfF": {
-        "id": "x262ZvodfF",
-        "title": "Мировое искусство. Интриги, скандалы, расследования в живописи",
-        "author": "АФОНЬКИН С.Ю.",
-        "notes": "",
-        "createdAt": "2019-05-30 20:23:12",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 24
         }
     }
 }
