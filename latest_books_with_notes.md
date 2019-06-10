@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* У пропасти во ржи ~ [Quaff](users/122/12267158-vkontakte)<sup>43</sup>
 * Приключения Гекльберри Финна ~ [Quaff](users/122/12267158-vkontakte)<sup>42</sup>
 * Ребекка ~ [Quaff](users/122/12267158-vkontakte)<sup>41</sup>
 * Таке було ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>36</sup>
@@ -30,7 +31,6 @@
 * Родимый Край 1964-1966 ~ [mfevralev](users/140/140966150-vkontakte)<sup>39</sup>
 * Как завоевывать друзей и оказывать влияние на людей ~ [kissamasya](users/684/68439978-vkontakte)<sup>62</sup>
 * The Messianic Legacy ~ [exulted](users/100/100599204551896265722-google)<sup>106</sup>
-* Ночь в одиноком октябре ~ [Garka](users/115/115753719718250012620-google)<sup>220</sup>
 
 
-_10.06.2019 14:35:47_
+_10.06.2019 14:38:06_

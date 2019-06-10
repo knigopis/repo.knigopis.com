@@ -1,4 +1,16 @@
 {
+    "volEkGq53r": {
+        "id": "volEkGq53r",
+        "title": "У пропасти во ржи",
+        "author": "Джером Д Солинджер",
+        "notes": "Мальчишеские пиздострадания",
+        "createdAt": "2019-06-10 14:38:06",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 43
+        }
+    },
     "Bb6UKxhpCL": {
         "id": "Bb6UKxhpCL",
         "title": "Приключения Гекльберри Финна",
@@ -345,18 +357,6 @@
             "id": "870059322-yandex",
             "nickname": "regnabo",
             "booksCount": 31
-        }
-    },
-    "1LhlFezyUf": {
-        "id": "1LhlFezyUf",
-        "title": "Антитела",
-        "author": "Кевин Андерсон",
-        "notes": "интересная, но не слишком захватывающая книга по секретным материалам",
-        "createdAt": "2019-05-30 23:19:44",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 65
         }
     }
 }
