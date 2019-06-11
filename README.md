@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Величественные дома Уилтшира ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>462</sup>
+    > Фанфик
+
 * Записи психолога ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>461</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > книга с несколькими маленькими рассказами про сталкеров и зону
 
 * У пропасти во ржи ~ [Quaff](users/122/12267158-vkontakte)<sup>43</sup>
-    > Мальчишеские пиздострадания
 
 * Приключения Гекльберри Финна ~ [Quaff](users/122/12267158-vkontakte)<sup>42</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Range: Why Generalists Triumph in a Specialized World ~ [exulted](users/100/100599204551896265722-google)<sup>109</sup>
 
-* The Myth of the Andalusian Paradise ~ [exulted](users/100/100599204551896265722-google)<sup>108</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>461</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>462</sup> 
 [En](users/333/333646551-vkontakte)<sup>67</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>43</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>167</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>39</sup> 
 
 
-_11.06.2019 16:19:20_
+_11.06.2019 16:20:04_
