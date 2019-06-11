@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>464</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>465</sup>
 ---
 
 ## 2019
@@ -236,6 +236,11 @@ Smaragd
 ### Рождественская сказка
 Чёрная Птица
 > [2019-02-09] Фанфик
+
+
+### Рождественская сказка
+Черная Птица
+> [2019-02-08] Фанфик
 
 
 ### Отравлен тобой

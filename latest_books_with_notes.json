@@ -1,4 +1,16 @@
 {
+    "cCi52nSqD_": {
+        "id": "cCi52nSqD_",
+        "title": "Рождественская сказка",
+        "author": "Черная Птица",
+        "notes": "Фанфик",
+        "createdAt": "2019-06-11 16:24:48",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 465
+        }
+    },
     "hHSP0P67lH": {
         "id": "hHSP0P67lH",
         "title": "Харальд Поттер. Огнём и сталью.",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 135
-        }
-    },
-    "FD_aUv5f1T": {
-        "id": "FD_aUv5f1T",
-        "title": "За западном фронте без перемен",
-        "author": "Ремарк Эрих Мария",
-        "notes": "Повесть о ужасах войны от лица простого солдата",
-        "createdAt": "2019-05-28 14:33:19",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 38
         }
     }
 }

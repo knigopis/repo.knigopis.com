@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Рождественская сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup>
 * Харальд Поттер. Огнём и сталью. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>464</sup>
 * Семикурсники ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>463</sup>
 * Величественные дома Уилтшира ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>462</sup>
@@ -30,7 +31,6 @@
 * Паморочливий запах джунглів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup>
 * Руководство к действию на ближайшие дни ~ [Sky](users/118/118049897850017649660-google)<sup>136</sup>
 * Потерянные девушки Рима ~ [Sky](users/118/118049897850017649660-google)<sup>135</sup>
-* За западном фронте без перемен ~ [Quaff](users/122/12267158-vkontakte)<sup>38</sup>
 
 
-_11.06.2019 16:23:56_
+_11.06.2019 16:24:49_

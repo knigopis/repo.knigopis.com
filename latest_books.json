@@ -1,4 +1,16 @@
 {
+    "cCi52nSqD_": {
+        "id": "cCi52nSqD_",
+        "title": "Рождественская сказка",
+        "author": "Черная Птица",
+        "notes": "Фанфик",
+        "createdAt": "2019-06-11 16:24:48",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 465
+        }
+    },
     "hHSP0P67lH": {
         "id": "hHSP0P67lH",
         "title": "Харальд Поттер. Огнём и сталью.",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 120
-        }
-    },
-    "HiTa1U02il": {
-        "id": "HiTa1U02il",
-        "title": "Дверь в лето",
-        "author": "Роберт Хайнлайн",
-        "notes": "",
-        "createdAt": "2019-06-02 17:18:06",
-        "user": {
-            "id": "110931306939441771638-google",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
