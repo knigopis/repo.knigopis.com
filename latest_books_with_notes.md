@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сборник Сталкер ~ [En](users/333/333646551-vkontakte)<sup>67</sup>
 * У пропасти во ржи ~ [Quaff](users/122/12267158-vkontakte)<sup>43</sup>
 * Приключения Гекльберри Финна ~ [Quaff](users/122/12267158-vkontakte)<sup>42</sup>
 * Ребекка ~ [Quaff](users/122/12267158-vkontakte)<sup>41</sup>
@@ -30,7 +31,6 @@
 * Великий Гэтсби ~ [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup>
 * Родимый Край 1964-1966 ~ [mfevralev](users/140/140966150-vkontakte)<sup>39</sup>
 * Как завоевывать друзей и оказывать влияние на людей ~ [kissamasya](users/684/68439978-vkontakte)<sup>62</sup>
-* The Messianic Legacy ~ [exulted](users/100/100599204551896265722-google)<sup>106</sup>
 
 
-_10.06.2019 14:38:06_
+_11.06.2019 00:33:04_

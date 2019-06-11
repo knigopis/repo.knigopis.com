@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сборник Сталкер ~ [En](users/333/333646551-vkontakte)<sup>67</sup>
+    > книга с несколькими маленькими рассказами про сталкеров и зону
+
 * У пропасти во ржи ~ [Quaff](users/122/12267158-vkontakte)<sup>43</sup>
     > Мальчишеские пиздострадания
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Приключения на грани фантастики, подростковое.
 
 * Ребекка ~ [Quaff](users/122/12267158-vkontakte)<sup>41</sup>
-    > Интересный роман, убийство и чувства, драма и предубеждение.
 
 * Таке було ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>36</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585 ~ [exulted](users/100/100599204551896265722-google)<sup>107</sup>
 
-* Маг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>67</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>43</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>167</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>121</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>702</sup> 
 [roma_meloman](users/207/207896276-vkontakte)<sup>0</sup> 
 [й1](users/202/202234967408363-facebook)<sup>0</sup> 
-[En](users/333/333646551-vkontakte)<sup>66</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>78</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lecowi](users/521/521873425-vkontakte)<sup>14</sup> 
 
 
-_10.06.2019 14:38:06_
+_11.06.2019 00:33:04_

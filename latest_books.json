@@ -1,4 +1,16 @@
 {
+    "96s2OvLdMM": {
+        "id": "96s2OvLdMM",
+        "title": "Сборник Сталкер",
+        "author": "разные",
+        "notes": "книга с несколькими маленькими рассказами про сталкеров и зону",
+        "createdAt": "2019-06-11 00:33:04",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 67
+        }
+    },
     "volEkGq53r": {
         "id": "volEkGq53r",
         "title": "У пропасти во ржи",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 32
-        }
-    },
-    "jsVo5vDw6d": {
-        "id": "jsVo5vDw6d",
-        "title": "Игра престолов",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2019-05-31 11:11:53",
-        "user": {
-            "id": "870059322-yandex",
-            "nickname": "regnabo",
-            "booksCount": 31
         }
     }
 }

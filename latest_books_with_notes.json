@@ -1,4 +1,16 @@
 {
+    "96s2OvLdMM": {
+        "id": "96s2OvLdMM",
+        "title": "Сборник Сталкер",
+        "author": "разные",
+        "notes": "книга с несколькими маленькими рассказами про сталкеров и зону",
+        "createdAt": "2019-06-11 00:33:04",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 67
+        }
+    },
     "volEkGq53r": {
         "id": "volEkGq53r",
         "title": "У пропасти во ржи",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 62
-        }
-    },
-    "Dbx_oEhQvj": {
-        "id": "Dbx_oEhQvj",
-        "title": "The Messianic Legacy",
-        "author": "Henry Lincoln, Michael Baigent, Richard Leigh",
-        "notes": "ASIN: B00CA88GC4",
-        "createdAt": "2019-05-26 09:50:34",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 106
         }
     }
 }
