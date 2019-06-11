@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Записи психолога ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>461</sup>
 * Сборник Сталкер ~ [En](users/333/333646551-vkontakte)<sup>67</sup>
 * У пропасти во ржи ~ [Quaff](users/122/12267158-vkontakte)<sup>43</sup>
 * Приключения Гекльберри Финна ~ [Quaff](users/122/12267158-vkontakte)<sup>42</sup>
@@ -30,7 +31,6 @@
 * Как закалялась сталь ~ [Quaff](users/122/12267158-vkontakte)<sup>37</sup>
 * Великий Гэтсби ~ [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup>
 * Родимый Край 1964-1966 ~ [mfevralev](users/140/140966150-vkontakte)<sup>39</sup>
-* Как завоевывать друзей и оказывать влияние на людей ~ [kissamasya](users/684/68439978-vkontakte)<sup>62</sup>
 
 
-_11.06.2019 00:33:04_
+_11.06.2019 16:19:20_

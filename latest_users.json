@@ -1,4 +1,10 @@
 {
+    "317244423-vkontakte": {
+        "id": "317244423-vkontakte",
+        "nickname": "thejokerinthefog",
+        "booksCount": 461,
+        "updatedAt": "2019-06-11 16:19:20"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 39,
         "updatedAt": "2019-05-27 19:37:18"
-    },
-    "521873425-vkontakte": {
-        "id": "521873425-vkontakte",
-        "nickname": "Lecowi",
-        "booksCount": 14,
-        "updatedAt": "2019-05-27 19:03:44"
     }
 }
