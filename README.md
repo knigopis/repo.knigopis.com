@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Харальд Поттер. Огнём и сталью. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>464</sup>
+    > Фанфик
+
 * Семикурсники ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>463</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Записи психолога ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>461</sup>
-    > Фанфик
 
 * Сборник Сталкер ~ [En](users/333/333646551-vkontakte)<sup>67</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Таємне життя грошей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>35</sup>
 
-* Пляж ~ [Garka](users/115/115753719718250012620-google)<sup>221</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>463</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>464</sup> 
 [En](users/333/333646551-vkontakte)<sup>67</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>43</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>167</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>39</sup> 
 
 
-_11.06.2019 16:20:48_
+_11.06.2019 16:23:56_

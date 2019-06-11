@@ -1,4 +1,16 @@
 {
+    "hHSP0P67lH": {
+        "id": "hHSP0P67lH",
+        "title": "Харальд Поттер. Огнём и сталью.",
+        "author": "Set Sever",
+        "notes": "Фанфик",
+        "createdAt": "2019-06-11 16:23:56",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 464
+        }
+    },
     "RGLW2PQS9q": {
         "id": "RGLW2PQS9q",
         "title": "Семикурсники",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 38
-        }
-    },
-    "rxf9PpOKJo": {
-        "id": "rxf9PpOKJo",
-        "title": "Как закалялась сталь",
-        "author": "Николай Островский",
-        "notes": "История о трагической жизни советского человека",
-        "createdAt": "2019-05-28 14:31:31",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 37
         }
     }
 }

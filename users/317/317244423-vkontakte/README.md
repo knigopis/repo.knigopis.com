@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>463</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>464</sup>
 ---
 
 ## 2019
@@ -424,6 +424,11 @@ Gweezle
 ### Русал
 iolka
 > [2018-10-08] Фанфик
+
+
+### Харальд Поттер. Огнём и сталью.
+Set Sever
+> [2018-10-06] Фанфик
 
 
 ### Неко
