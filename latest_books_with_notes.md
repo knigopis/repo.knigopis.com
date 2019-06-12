@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Двенадцать стульев ~ [kissamasya](users/684/68439978-vkontakte)<sup>63</sup>
 * Рождественская сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup>
 * Харальд Поттер. Огнём и сталью. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>464</sup>
 * Семикурсники ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>463</sup>
@@ -30,7 +31,6 @@
 * Смерть на кончике хвоста ~ [Chiffi](users/105/105831994080785626680-google)<sup>119</sup>
 * Паморочливий запах джунглів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup>
 * Руководство к действию на ближайшие дни ~ [Sky](users/118/118049897850017649660-google)<sup>136</sup>
-* Потерянные девушки Рима ~ [Sky](users/118/118049897850017649660-google)<sup>135</sup>
 
 
-_11.06.2019 16:24:49_
+_12.06.2019 07:50:43_

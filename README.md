@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Двенадцать стульев ~ [kissamasya](users/684/68439978-vkontakte)<sup>63</sup>
+    > Судьба литературного содружества Ильфа и Петрова необычна. Она трогает и волнует. Они работали вместе недолго, всего десять лет, но в истории советской литературы оставили глубокий, неизгладимый след. Память о них не меркнет, и любовь читателей к их книгам не слабеет. Широкой известностью пользуются романы «Двенадцать стульев» и «Золотой теленок». Но романы эти возвышаются над целым литературным массивом, который составляют произведения самых различных жанров. Обозревая литературное наследие Ильфа и Петрова, не только произведения, написанные ими вместе, но и каждым в отдельности, нельзя не подивиться широте творческих возможностей писателей, литературному блеску фельетонов, очерков, комедий.
+
 * Рождественская сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Семикурсники ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>463</sup>
-    > Фанфик
 
 * Величественные дома Уилтшира ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>462</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ребекка ~ [Quaff](users/122/12267158-vkontakte)<sup>41</sup>
 
-* Таке було ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>36</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>63</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup> 
 [En](users/333/333646551-vkontakte)<sup>67</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>43</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>99</sup> 
 [mementomori2017](users/431/431794049-vkontakte)<sup>8</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>31</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>39</sup> 
 
 
-_11.06.2019 16:24:49_
+_12.06.2019 07:50:43_
