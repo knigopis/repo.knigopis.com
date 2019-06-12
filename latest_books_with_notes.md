@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Золото скифов ~ [kissamasya](users/684/68439978-vkontakte)<sup>64</sup>
 * Двенадцать стульев ~ [kissamasya](users/684/68439978-vkontakte)<sup>63</sup>
 * Рождественская сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup>
 * Харальд Поттер. Огнём и сталью. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>464</sup>
@@ -30,7 +31,6 @@
 * Три товарища ~ [Quaff](users/122/12267158-vkontakte)<sup>39</sup>
 * Смерть на кончике хвоста ~ [Chiffi](users/105/105831994080785626680-google)<sup>119</sup>
 * Паморочливий запах джунглів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup>
-* Руководство к действию на ближайшие дни ~ [Sky](users/118/118049897850017649660-google)<sup>136</sup>
 
 
-_12.06.2019 07:50:43_
+_12.06.2019 07:57:38_
