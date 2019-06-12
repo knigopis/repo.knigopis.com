@@ -1,4 +1,16 @@
 {
+    "W1tlWB52Rt": {
+        "id": "W1tlWB52Rt",
+        "title": "Зулейха открывает глаза",
+        "author": "Гюзель Яхина",
+        "notes": "",
+        "createdAt": "2019-06-12 19:41:56",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 24
+        }
+    },
     "gi5fdM1U2B": {
         "id": "gi5fdM1U2B",
         "title": "Особенности найма",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 46
-        }
-    },
-    "PLnkKUOR6s": {
-        "id": "PLnkKUOR6s",
-        "title": "Стартап по Кавасаки. Проверенные методы начала любого дела",
-        "author": "Кавасаки Гай",
-        "notes": "Кавасаки как обычно божественен :)\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/137817839/",
-        "createdAt": "2019-06-03 19:15:10",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 201
         }
     }
 }
