@@ -8,11 +8,11 @@
 Уолтер Гратцер
 > Об ученых и их открытиях
 
+### `42` Овод
+Этель Лилиан Войнич
+
 ### `38` Learn You a Haskell for Great Good
 Miran Lipovača
-
-### `30` Овод
-Этель Лилиан Войнич
 
 ### `23` Тайм-драйв
 Глеб Архангельский
@@ -37,14 +37,14 @@ Randall Munroe
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Портной из Панамы
-Джон Ле Карре
-
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
+### `1` Портной из Панамы
+Джон Ле Карре
+
+### `` Посторонний
+Камю
 
 ### `` A Briefer History of Time
 Stephen Hawking
@@ -58,11 +58,11 @@ Stephen Hawking
 ### `` Три товарища
 Эрих Мария Ремарк
 
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
+
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
-
-### `` Посторонний
-Камю
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
