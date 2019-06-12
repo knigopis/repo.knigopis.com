@@ -1,4 +1,16 @@
 {
+    "gi5fdM1U2B": {
+        "id": "gi5fdM1U2B",
+        "title": "Особенности найма",
+        "author": "Рон Хаббард",
+        "notes": "",
+        "createdAt": "2019-06-12 17:39:26",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 23
+        }
+    },
     "qIT5Yt9Uo6": {
         "id": "qIT5Yt9Uo6",
         "title": "Золото скифов",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 201
-        }
-    },
-    "7e4i89NsMn": {
-        "id": "7e4i89NsMn",
-        "title": "Илион",
-        "author": "Дэн Симмонс",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/7972430/",
-        "createdAt": "2019-06-03 19:11:09",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 200
         }
     }
 }

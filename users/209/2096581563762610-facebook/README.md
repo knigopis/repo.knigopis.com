@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>22</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>23</sup>
 ---
 
 ## 2019
+
+### Особенности найма
+Рон Хаббард
+> [2019-06-07] 
+
 
 ### Грозовой перевал
 Эмили Бронте
