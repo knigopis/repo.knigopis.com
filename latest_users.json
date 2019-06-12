@@ -1,4 +1,10 @@
 {
+    "117277044284589498872-google": {
+        "id": "117277044284589498872-google",
+        "nickname": "Яков",
+        "booksCount": 0,
+        "updatedAt": "2019-06-12 09:58:26"
+    },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
         "nickname": "kissamasya",
@@ -172,11 +178,5 @@
         "nickname": "mementomori2017",
         "booksCount": 8,
         "updatedAt": "2019-05-29 10:36:43"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 31,
-        "updatedAt": "2019-05-27 19:56:52"
     }
 }
