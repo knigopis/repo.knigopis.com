@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Яков](users/117/117277044284589498872-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>64</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup> 
 [En](users/333/333646551-vkontakte)<sup>67</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107170915323495140313-google)<sup>1</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>99</sup> 
 [mementomori2017](users/431/431794049-vkontakte)<sup>8</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>31</sup> 
 
 
-_12.06.2019 07:57:38_
+_12.06.2019 09:58:29_
