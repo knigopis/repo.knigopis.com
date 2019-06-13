@@ -1,4 +1,10 @@
 {
+    "12267158-vkontakte": {
+        "id": "12267158-vkontakte",
+        "nickname": "Quaff",
+        "booksCount": 44,
+        "updatedAt": "2019-06-13 14:28:03"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -28,12 +34,6 @@
         "nickname": "En",
         "booksCount": 67,
         "updatedAt": "2019-06-11 00:33:04"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 43,
-        "updatedAt": "2019-06-10 14:38:06"
     },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",

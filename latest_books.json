@@ -1,4 +1,16 @@
 {
+    "_QWTlCEzTk": {
+        "id": "_QWTlCEzTk",
+        "title": "Нейромант",
+        "author": "Уильям Гибсон",
+        "notes": "Занимательная история вымысла 1980х о будущем, ИИ и электронном мире!",
+        "createdAt": "2019-06-13 14:28:03",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 44
+        }
+    },
     "W1tlWB52Rt": {
         "id": "W1tlWB52Rt",
         "title": "Зулейха открывает глаза",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 66
-        }
-    },
-    "pb37sOjgeP": {
-        "id": "pb37sOjgeP",
-        "title": "Источник",
-        "author": "Айн Рэнд",
-        "notes": "",
-        "createdAt": "2019-06-03 23:35:11",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 46
         }
     }
 }

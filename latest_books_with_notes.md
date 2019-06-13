@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Нейромант ~ [Quaff](users/122/12267158-vkontakte)<sup>44</sup>
 * Золото скифов ~ [kissamasya](users/684/68439978-vkontakte)<sup>64</sup>
 * Двенадцать стульев ~ [kissamasya](users/684/68439978-vkontakte)<sup>63</sup>
 * Рождественская сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup>
@@ -30,7 +31,6 @@
 * Антитела ~ [En](users/333/333646551-vkontakte)<sup>65</sup>
 * Три товарища ~ [Quaff](users/122/12267158-vkontakte)<sup>39</sup>
 * Смерть на кончике хвоста ~ [Chiffi](users/105/105831994080785626680-google)<sup>119</sup>
-* Паморочливий запах джунглів ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>31</sup>
 
 
-_12.06.2019 07:57:38_
+_13.06.2019 14:28:03_
