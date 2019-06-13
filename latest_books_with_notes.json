@@ -1,4 +1,16 @@
 {
+    "gl-v3zPp9i": {
+        "id": "gl-v3zPp9i",
+        "title": "Тетрология Эрагон",
+        "author": "Кристофер Паолини",
+        "notes": "Прекрасная фэнтезийная история о наездниках драконов",
+        "createdAt": "2019-06-13 16:20:33",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 46
+        }
+    },
     "zQtW6s-RK9": {
         "id": "zQtW6s-RK9",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 32
-        }
-    },
-    "1LhlFezyUf": {
-        "id": "1LhlFezyUf",
-        "title": "Антитела",
-        "author": "Кевин Андерсон",
-        "notes": "интересная, но не слишком захватывающая книга по секретным материалам",
-        "createdAt": "2019-05-30 23:19:44",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 65
         }
     }
 }

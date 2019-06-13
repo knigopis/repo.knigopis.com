@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тетрология Эрагон ~ [Quaff](users/122/12267158-vkontakte)<sup>46</sup>
+    > Прекрасная фэнтезийная история о наездниках драконов
+
 * Герой нашего времени ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup>
     > Краткая предыстория: 
     > Прочёл это произведение ещё в 9 классе (15 лет) по школьной программе. Ещё тогда оно мне ужасно понравилось и я любил ассоциировать себя с Печориным. Хотя тогда скорее это было просто противопоставление себя всем остальным, ведь Печорин был во многом отрицательным персонажем. И вот в 19 лет я решил перечитать многое из школьной программы, будучи более опытным. Читал я, ожидая прибытия самолёта в зале ожидания. 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > История о трагической судьбе хорошего человека. Сколь же превратна может быть жизнь человека лучшего, в среде худших.
 
 * Нейромант ~ [Quaff](users/122/12267158-vkontakte)<sup>44</sup>
-    > Занимательная история вымысла 1980х о будущем, ИИ и электронном мире!
 
 * Золото скифов ~ [kissamasya](users/684/68439978-vkontakte)<sup>64</sup>
 
@@ -29,15 +31,13 @@ Do not use pull requests to make changes here.
 
 * Величественные дома Уилтшира ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>462</sup>
 
-* Записи психолога ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>461</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>46</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>45</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>24</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>64</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>99</sup> 
 
 
-_13.06.2019 15:39:49_
+_13.06.2019 16:20:33_

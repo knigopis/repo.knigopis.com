@@ -1,4 +1,16 @@
 {
+    "gl-v3zPp9i": {
+        "id": "gl-v3zPp9i",
+        "title": "Тетрология Эрагон",
+        "author": "Кристофер Паолини",
+        "notes": "Прекрасная фэнтезийная история о наездниках драконов",
+        "createdAt": "2019-06-13 16:20:33",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 46
+        }
+    },
     "zQtW6s-RK9": {
         "id": "zQtW6s-RK9",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 141
-        }
-    },
-    "7uXxh9iMp9": {
-        "id": "7uXxh9iMp9",
-        "title": "Динка прощается с детством",
-        "author": "Валентина Осеева",
-        "notes": "",
-        "createdAt": "2019-06-05 10:51:09",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 702
         }
     }
 }
