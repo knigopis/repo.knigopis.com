@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Герой нашего времени ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup>
 * Великий Гетсби ~ [Quaff](users/122/12267158-vkontakte)<sup>45</sup>
 * Нейромант ~ [Quaff](users/122/12267158-vkontakte)<sup>44</sup>
 * Золото скифов ~ [kissamasya](users/684/68439978-vkontakte)<sup>64</sup>
@@ -30,7 +31,6 @@
 * Два раза в одну реку ~ [Chiffi](users/105/105831994080785626680-google)<sup>120</sup>
 * Приятель ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>32</sup>
 * Антитела ~ [En](users/333/333646551-vkontakte)<sup>65</sup>
-* Три товарища ~ [Quaff](users/122/12267158-vkontakte)<sup>39</sup>
 
 
-_13.06.2019 14:29:36_
+_13.06.2019 15:39:49_

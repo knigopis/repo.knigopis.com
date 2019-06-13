@@ -1,4 +1,10 @@
 {
+    "126368737-vkontakte": {
+        "id": "126368737-vkontakte",
+        "nickname": "Макар Коренюк",
+        "booksCount": 7,
+        "updatedAt": "2019-06-13 15:39:49"
+    },
     "12267158-vkontakte": {
         "id": "12267158-vkontakte",
         "nickname": "Quaff",
@@ -172,11 +178,5 @@
         "nickname": "joan789",
         "booksCount": 99,
         "updatedAt": "2019-05-29 16:03:17"
-    },
-    "431794049-vkontakte": {
-        "id": "431794049-vkontakte",
-        "nickname": "mementomori2017",
-        "booksCount": 8,
-        "updatedAt": "2019-05-29 10:36:43"
     }
 }
