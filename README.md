@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>703</sup> 
 [lashmyash](users/836/83670525-vkontakte)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>46</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>109</sup> 
 [me](users/381/381417697-yandex)<sup>47</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>141</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>702</sup> 
 [roma_meloman](users/207/207896276-vkontakte)<sup>0</sup> 
 [й1](users/202/202234967408363-facebook)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/107/107170915323495140313-google)<sup>1</sup> 
 
 
-_14.06.2019 00:48:19_
+_14.06.2019 10:49:58_

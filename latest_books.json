@@ -1,4 +1,16 @@
 {
+    "4GKmpB3zRi": {
+        "id": "4GKmpB3zRi",
+        "title": "Признания авантюриста Феликса Круля",
+        "author": "Томас Манн",
+        "notes": "",
+        "createdAt": "2019-06-14 10:49:57",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 703
+        }
+    },
     "gl-v3zPp9i": {
         "id": "gl-v3zPp9i",
         "title": "Тетрология Эрагон",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 34
-        }
-    },
-    "nTvp4bljCy": {
-        "id": "nTvp4bljCy",
-        "title": "Охота на князя Дракулу",
-        "author": "Керри Манискалко",
-        "notes": "3/10",
-        "createdAt": "2019-06-07 04:40:59",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 141
         }
     }
 }
