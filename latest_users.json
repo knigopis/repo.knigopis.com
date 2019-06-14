@@ -1,4 +1,10 @@
 {
+    "83670525-vkontakte": {
+        "id": "83670525-vkontakte",
+        "nickname": "lashmyash",
+        "booksCount": 0,
+        "updatedAt": "2019-06-14 00:48:15"
+    },
     "12267158-vkontakte": {
         "id": "12267158-vkontakte",
         "nickname": "Quaff",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2019-05-29 19:40:43"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 99,
-        "updatedAt": "2019-05-29 16:03:17"
     }
 }
