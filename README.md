@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[johnybond32](users/304/304041461-yandex)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>703</sup> 
 [lashmyash](users/836/83670525-vkontakte)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>46</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118178474749808643951-google)<sup>0</sup> 
 [regnabo](users/870/870059322-yandex)<sup>30</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
-[](users/107/107170915323495140313-google)<sup>1</sup> 
 
 
-_14.06.2019 10:49:58_
+_14.06.2019 11:17:22_

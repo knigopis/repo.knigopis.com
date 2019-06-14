@@ -1,4 +1,16 @@
 {
+    "VJ67xys8O5": {
+        "id": "VJ67xys8O5",
+        "title": "Время жить и время умирать",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2019-06-14 11:17:22",
+        "user": {
+            "id": "304041461-yandex",
+            "nickname": "johnybond32",
+            "booksCount": 4
+        }
+    },
     "4GKmpB3zRi": {
         "id": "4GKmpB3zRi",
         "title": "Признания авантюриста Феликса Круля",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 47
-        }
-    },
-    "vPN4RODIO4": {
-        "id": "vPN4RODIO4",
-        "title": "Маг",
-        "author": "Джон Фаулз",
-        "notes": "4/10 Игра в бога на греческом острове.",
-        "createdAt": "2019-06-07 17:27:07",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 34
         }
     }
 }
