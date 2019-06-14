@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дэнни -  чемпион мира ~ [Garka](users/115/115753719718250012620-google)<sup>222</sup>
+    > Наивная история про мальчика, папу и ловлю фазанов
+
 * Тетрология Эрагон ~ [Quaff](users/122/12267158-vkontakte)<sup>46</sup>
     > Прекрасная фэнтезийная история о наездниках драконов
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > В целом, произведение снова смогло подтвердить свой статус одного из моих самых любимых.  Расписывать конкретно, что мне понравилось, я наверно не смогу. Возможно главный плюс этого произведения для меня - то, что я полностью (или почти полностью)  могу понять главного героя, предсказать его действия, зачастую неоднозначные, даже фразы. Читатель, как и зритель кино, всегда ассоциирует себя с кем-то в произведении (или может с писателем\режиссёром в более редких случаях) и в этом кроется интерес к произведению. Если этой ассоциации нет - человек вряд ли заинтересуется произведением, оно будет ему чуждо.
 
 * Великий Гетсби ~ [Quaff](users/122/12267158-vkontakte)<sup>45</sup>
-    > История о трагической судьбе хорошего человека. Сколь же превратна может быть жизнь человека лучшего, в среде худших.
 
 * Нейромант ~ [Quaff](users/122/12267158-vkontakte)<sup>44</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Семикурсники ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>463</sup>
 
-* Величественные дома Уилтшира ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>462</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>222</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>703</sup> 
 [lashmyash](users/836/83670525-vkontakte)<sup>0</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [harmful_iojik](users/742/74201901-vkontakte)<sup>0</sup> 
 [](users/117/117525336121885011584-google)<sup>0</sup> 
 [Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>221</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>40</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>109</sup> 
 [me](users/381/381417697-yandex)<sup>47</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
 
 
-_14.06.2019 11:17:22_
+_14.06.2019 17:02:25_
