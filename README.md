@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lashmyash](users/836/83670525-vkontakte)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>46</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>24</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [regnabo](users/870/870059322-yandex)<sup>30</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
 [](users/107/107170915323495140313-google)<sup>1</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>99</sup> 
 
 
-_13.06.2019 16:20:33_
+_14.06.2019 00:48:19_
