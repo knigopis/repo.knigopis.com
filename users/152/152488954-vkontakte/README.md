@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>56</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>57</sup>
 ---
 
 ## 2019
+
+### Чужак в стране су
+Роберт Хайнлайн
+> [2019-06-03] 
+
 
 ### Властелин хаоса (Серия: Колесо времени 6/14)
 Роберт Джордан

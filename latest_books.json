@@ -1,4 +1,16 @@
 {
+    "L9L4cB1NpN": {
+        "id": "L9L4cB1NpN",
+        "title": "Чужак в стране су",
+        "author": "Роберт Хайнлайн",
+        "notes": "",
+        "createdAt": "2019-06-15 09:25:13",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 57
+        }
+    },
     "ell75-xQRD": {
         "id": "ell75-xQRD",
         "title": "Снафф",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 109
-        }
-    },
-    "0DyM6kFPSm": {
-        "id": "0DyM6kFPSm",
-        "title": "The Myth of the Andalusian Paradise",
-        "author": "Darío Fernández-Morera",
-        "notes": "ASIN: B01AL2SP76",
-        "createdAt": "2019-06-08 04:37:55",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 108
         }
     }
 }
