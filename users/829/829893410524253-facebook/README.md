@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>36</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>37</sup>
 ---
 
 ## 2019
+
+### Гуцульські співанки
+Роман Кумилк
+> [2019-06-14] 5/5 Сатирично-політичні
+
 
 ### Таке було
 Сергій Каленюк

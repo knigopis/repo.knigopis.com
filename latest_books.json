@@ -1,4 +1,16 @@
 {
+    "3bJ9keCdW1": {
+        "id": "3bJ9keCdW1",
+        "title": "Гуцульські співанки",
+        "author": "Роман Кумилк",
+        "notes": "5/5 Сатирично-політичні",
+        "createdAt": "2019-06-15 18:31:04",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 37
+        }
+    },
     "BywSTl1BOZ": {
         "id": "BywSTl1BOZ",
         "title": "Относительная идея",
@@ -345,18 +357,6 @@
             "id": "106983266780546745776-google",
             "nickname": "Aleks",
             "booksCount": 1
-        }
-    },
-    "UidIAD2Bqi": {
-        "id": "UidIAD2Bqi",
-        "title": "Пляж",
-        "author": "Гарленд, Алекс",
-        "notes": "Даже в раю люди ведут себя хуже зверей...",
-        "createdAt": "2019-06-08 14:49:09",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 221
         }
     }
 }
