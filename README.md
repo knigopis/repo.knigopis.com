@@ -36,8 +36,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kasikandriena](users/152/152488954-vkontakte)<sup>58</sup> 
 [](users/116/116658081998844854155-googleplus)<sup>0</sup> 
-[kasikandriena](users/152/152488954-vkontakte)<sup>57</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>41</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>222</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>4</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118178474749808643951-google)<sup>0</sup> 
 
 
-_15.06.2019 09:27:29_
+_15.06.2019 09:27:53_

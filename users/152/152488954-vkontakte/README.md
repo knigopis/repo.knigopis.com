@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>57</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>58</sup>
 ---
 
 ## 2019
+
+### Война миров
+Герберт Уэллс
+> [2019-06-14] 
+
 
 ### Чужак в стране чужой
 Роберт Хайнлайн
