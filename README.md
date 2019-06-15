@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Заклятие дома с химерами ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>38</sup>
+    > 7/10 Странные традиции семейства Айрмонгер
+
 * Гуцульські співанки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>37</sup>
     > 5/5 Сатирично-політичні
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Наивная история про мальчика, папу и ловлю фазанов
 
 * Тетрология Эрагон ~ [Quaff](users/122/12267158-vkontakte)<sup>46</sup>
-    > Прекрасная фэнтезийная история о наездниках драконов
 
 * Герой нашего времени ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Рождественская сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup>
 
-* Харальд Поттер. Огнём и сталью. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>464</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>37</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>38</sup> 
 [](users/116/116658081998844854155-googleplus)<sup>1</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>58</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>41</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/118/118178474749808643951-google)<sup>0</sup> 
 
 
-_15.06.2019 18:31:04_
+_15.06.2019 18:32:21_

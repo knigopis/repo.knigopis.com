@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>37</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>38</sup>
 ---
 
 ## 2019
+
+### Заклятие дома с химерами
+Эдвард Кэри
+> [2019-06-15] 7/10 Странные традиции семейства Айрмонгер
+
 
 ### Гуцульські співанки
 Роман Кумилк

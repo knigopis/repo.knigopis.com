@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Заклятие дома с химерами ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>38</sup>
 * Гуцульські співанки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>37</sup>
 * Дэнни -  чемпион мира ~ [Garka](users/115/115753719718250012620-google)<sup>222</sup>
 * Тетрология Эрагон ~ [Quaff](users/122/12267158-vkontakte)<sup>46</sup>
@@ -30,7 +31,6 @@
 * Руины ~ [En](users/333/333646551-vkontakte)<sup>66</sup>
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup>
 * Илион ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>200</sup>
-* 1984 ~ [Quaff](users/122/12267158-vkontakte)<sup>40</sup>
 
 
-_15.06.2019 18:31:04_
+_15.06.2019 18:32:21_

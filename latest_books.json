@@ -1,4 +1,16 @@
 {
+    "hGRQwC_CSR": {
+        "id": "hGRQwC_CSR",
+        "title": "Заклятие дома с химерами",
+        "author": "Эдвард Кэри",
+        "notes": "7/10 Странные традиции семейства Айрмонгер",
+        "createdAt": "2019-06-15 18:32:21",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 38
+        }
+    },
     "3bJ9keCdW1": {
         "id": "3bJ9keCdW1",
         "title": "Гуцульські співанки",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 35
-        }
-    },
-    "-nOUtpna4R": {
-        "id": "-nOUtpna4R",
-        "title": "Думай медленно, решай быстро",
-        "author": "Даниэль Канеман",
-        "notes": "",
-        "createdAt": "2019-06-08 17:53:26",
-        "user": {
-            "id": "106983266780546745776-google",
-            "nickname": "Aleks",
-            "booksCount": 1
         }
     }
 }
