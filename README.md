@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rashidrush](users/114/114946019255563824371-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>38</sup> 
 [](users/116/116658081998844854155-googleplus)<sup>1</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>58</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>2</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>78</sup> 
 [Eugene](users/695/695244810674916-facebook)<sup>22</sup> 
-[](users/118/118178474749808643951-google)<sup>0</sup> 
 
 
-_15.06.2019 18:32:21_
+_15.06.2019 22:26:53_
