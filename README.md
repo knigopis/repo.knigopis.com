@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>41</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>222</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>703</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [harmful_iojik](users/742/74201901-vkontakte)<sup>0</sup> 
 [](users/117/117525336121885011584-google)<sup>0</sup> 
 [Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>40</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>109</sup> 
 [me](users/381/381417697-yandex)<sup>47</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>141</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>27</sup> 
 
 
-_14.06.2019 17:02:25_
+_15.06.2019 09:02:49_

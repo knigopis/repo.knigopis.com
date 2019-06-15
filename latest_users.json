@@ -1,4 +1,10 @@
 {
+    "57239276-vkontakte": {
+        "id": "57239276-vkontakte",
+        "nickname": "vladkozz",
+        "booksCount": 41,
+        "updatedAt": "2019-06-15 09:02:49"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -100,12 +106,6 @@
         "nickname": "Aleks",
         "booksCount": 0,
         "updatedAt": "2019-06-08 17:54:24"
-    },
-    "57239276-vkontakte": {
-        "id": "57239276-vkontakte",
-        "nickname": "vladkozz",
-        "booksCount": 40,
-        "updatedAt": "2019-06-08 08:17:52"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",

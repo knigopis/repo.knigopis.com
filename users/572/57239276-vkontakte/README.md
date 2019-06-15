@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>40</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>41</sup>
 ---
 
 ## 2019
+
+### Снафф
+Чак Паланик
+
 
 ### Ловец снов
 Стивен Кинг
