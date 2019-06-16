@@ -1,4 +1,16 @@
 {
+    "mWNLInfkpS": {
+        "id": "mWNLInfkpS",
+        "title": "Острова и море",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2019-06-16 18:34:52",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 79
+        }
+    },
     "3BiGZxHqAS": {
         "id": "3BiGZxHqAS",
         "title": "Дневники",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 41
-        }
-    },
-    "eAT0ErVq8t": {
-        "id": "eAT0ErVq8t",
-        "title": "Гарри Поттер и Орден Феникса",
-        "author": "Джоанн Роулинг",
-        "notes": "",
-        "createdAt": "2019-06-10 12:05:34",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 167
         }
     }
 }

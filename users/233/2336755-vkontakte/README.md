@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>78</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>79</sup>
 ---
 
 ## 2019
+
+### Острова и море
+Эрнест Хемингуэй
+> [2019-06-16] 
+
 
 ### Старик и море
 Эрнест Хемингуэй

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>79</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>16</sup> 
 [Rashidrush](users/114/114946019255563824371-google)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>38</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [й1](users/202/202234967408363-facebook)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>78</sup> 
 
 
-_16.06.2019 09:37:12_
+_16.06.2019 18:34:52_
