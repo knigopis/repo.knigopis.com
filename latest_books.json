@@ -1,4 +1,16 @@
 {
+    "3BiGZxHqAS": {
+        "id": "3BiGZxHqAS",
+        "title": "Дневники",
+        "author": "Н.П. Каманин",
+        "notes": "",
+        "createdAt": "2019-06-16 09:37:12",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 16
+        }
+    },
     "tmll0ggvq6": {
         "id": "tmll0ggvq6",
         "title": "Бедный папа, богатый папа",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 167
-        }
-    },
-    "JnuNBpz9bv": {
-        "id": "JnuNBpz9bv",
-        "title": "Дни в Бирме. Дочь священника",
-        "author": "Оруэл Джордж",
-        "notes": "",
-        "createdAt": "2019-06-10 04:22:36",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 121
         }
     }
 }
