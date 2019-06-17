@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>168</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>79</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>16</sup> 
 [Rashidrush](users/114/114946019255563824371-google)<sup>2</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>64</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup> 
 [En](users/333/333646551-vkontakte)<sup>67</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>167</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>121</sup> 
 [harmful_iojik](users/742/74201901-vkontakte)<sup>0</sup> 
 [](users/117/117525336121885011584-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>2</sup> 
 
 
-_16.06.2019 18:34:52_
+_17.06.2019 09:03:02_
