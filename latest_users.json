@@ -1,4 +1,10 @@
 {
+    "12267158-vkontakte": {
+        "id": "12267158-vkontakte",
+        "nickname": "Quaff",
+        "booksCount": 47,
+        "updatedAt": "2019-06-17 17:17:31"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -82,12 +88,6 @@
         "nickname": "lashmyash",
         "booksCount": 0,
         "updatedAt": "2019-06-14 00:48:15"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 46,
-        "updatedAt": "2019-06-13 16:20:33"
     },
     "126368737-vkontakte": {
         "id": "126368737-vkontakte",

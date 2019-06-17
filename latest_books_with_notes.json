@@ -1,4 +1,16 @@
 {
+    "Q4rDS9AxcL": {
+        "id": "Q4rDS9AxcL",
+        "title": "451 градус по фарингейту",
+        "author": "Рей Бредбери",
+        "notes": "Антиутопия на тупых, сюжет карточный",
+        "createdAt": "2019-06-17 17:17:31",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 47
+        }
+    },
     "E7gFWjZdag": {
         "id": "E7gFWjZdag",
         "title": "Ружья, микробы и сталь. История человеческих сообществ",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 33
-        }
-    },
-    "AyXMi5MC7j": {
-        "id": "AyXMi5MC7j",
-        "title": "Руины",
-        "author": "Кевин Андерсон",
-        "notes": "книга про секретные материалы. в этот раз гг оказываются в развалинах майи и древней капсулы инопланетян",
-        "createdAt": "2019-06-04 08:47:43",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 66
         }
     }
 }

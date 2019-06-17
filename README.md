@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 451 градус по фарингейту ~ [Quaff](users/122/12267158-vkontakte)<sup>47</sup>
+    > Антиутопия на тупых, сюжет карточный
+
 * Ружья, микробы и сталь. История человеческих сообществ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup>
     > в процессе
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 9/10 Цікаво про Сонячну систему для дітей.
 
 * Заклятие дома с химерами ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>38</sup>
-    > 7/10 Странные традиции семейства Айрмонгер
 
 * Гуцульські співанки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>37</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Нейромант ~ [Quaff](users/122/12267158-vkontakte)<sup>44</sup>
 
-* Золото скифов ~ [kissamasya](users/684/68439978-vkontakte)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>47</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup> 
 [panickme](users/545/545226830-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [johnybond32](users/304/304041461-yandex)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>703</sup> 
 [lashmyash](users/836/83670525-vkontakte)<sup>0</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>46</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>24</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [й1](users/202/202234967408363-facebook)<sup>0</sup> 
 
 
-_17.06.2019 12:58:06_
+_17.06.2019 17:17:31_

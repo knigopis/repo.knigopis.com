@@ -1,4 +1,16 @@
 {
+    "Q4rDS9AxcL": {
+        "id": "Q4rDS9AxcL",
+        "title": "451 градус по фарингейту",
+        "author": "Рей Бредбери",
+        "notes": "Антиутопия на тупых, сюжет карточный",
+        "createdAt": "2019-06-17 17:17:31",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 47
+        }
+    },
     "E7gFWjZdag": {
         "id": "E7gFWjZdag",
         "title": "Ружья, микробы и сталь. История человеческих сообществ",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 461
-        }
-    },
-    "96s2OvLdMM": {
-        "id": "96s2OvLdMM",
-        "title": "Сборник Сталкер",
-        "author": "разные",
-        "notes": "книга с несколькими маленькими рассказами про сталкеров и зону",
-        "createdAt": "2019-06-11 00:33:04",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 67
         }
     }
 }
