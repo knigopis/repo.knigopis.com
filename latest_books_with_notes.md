@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Джордж і таємний ключ до Всесвіту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup>
 * Заклятие дома с химерами ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>38</sup>
 * Гуцульські співанки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>37</sup>
 * Дэнни -  чемпион мира ~ [Garka](users/115/115753719718250012620-google)<sup>222</sup>
@@ -30,7 +31,6 @@
 * Ініціація ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup>
 * Руины ~ [En](users/333/333646551-vkontakte)<sup>66</sup>
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup>
-* Илион ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>200</sup>
 
 
-_15.06.2019 18:32:21_
+_17.06.2019 12:48:48_

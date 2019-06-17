@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Джордж і таємний ключ до Всесвіту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup>
+    > 9/10 Цікаво про Сонячну систему для дітей.
+
 * Заклятие дома с химерами ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>38</sup>
     > 7/10 Странные традиции семейства Айрмонгер
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/5 Сатирично-політичні
 
 * Дэнни -  чемпион мира ~ [Garka](users/115/115753719718250012620-google)<sup>222</sup>
-    > Наивная история про мальчика, папу и ловлю фазанов
 
 * Тетрология Эрагон ~ [Quaff](users/122/12267158-vkontakte)<sup>46</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Двенадцать стульев ~ [kissamasya](users/684/68439978-vkontakte)<sup>63</sup>
 
-* Рождественская сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>168</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>79</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>16</sup> 
 [Rashidrush](users/114/114946019255563824371-google)<sup>2</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>38</sup> 
 [](users/116/116658081998844854155-googleplus)<sup>1</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>58</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>41</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>2</sup> 
 
 
-_17.06.2019 09:03:02_
+_17.06.2019 12:48:48_
