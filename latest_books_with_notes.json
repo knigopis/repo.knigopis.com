@@ -1,4 +1,16 @@
 {
+    "E7gFWjZdag": {
+        "id": "E7gFWjZdag",
+        "title": "Ружья, микробы и сталь. История человеческих сообществ",
+        "author": "Даймонд Джаред М.",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/139578230/",
+        "createdAt": "2019-06-17 12:58:06",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 202
+        }
+    },
     "fbirDM8rs3": {
         "id": "fbirDM8rs3",
         "title": "Джордж і таємний ключ до Всесвіту",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 66
-        }
-    },
-    "PLnkKUOR6s": {
-        "id": "PLnkKUOR6s",
-        "title": "Стартап по Кавасаки. Проверенные методы начала любого дела",
-        "author": "Кавасаки Гай",
-        "notes": "Кавасаки как обычно божественен :)\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/137817839/",
-        "createdAt": "2019-06-03 19:15:10",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 201
         }
     }
 }

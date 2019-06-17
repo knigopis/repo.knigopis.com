@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ружья, микробы и сталь. История человеческих сообществ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/139578230/
+
 * Джордж і таємний ключ до Всесвіту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup>
     > 9/10 Цікаво про Сонячну систему для дітей.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > 7/10 Странные традиции семейства Айрмонгер
 
 * Гуцульські співанки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>37</sup>
-    > 5/5 Сатирично-політичні
 
 * Дэнни -  чемпион мира ~ [Garka](users/115/115753719718250012620-google)<sup>222</sup>
 
@@ -26,13 +30,13 @@ Do not use pull requests to make changes here.
 
 * Золото скифов ~ [kissamasya](users/684/68439978-vkontakte)<sup>64</sup>
 
-* Двенадцать стульев ~ [kissamasya](users/684/68439978-vkontakte)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup> 
+[panickme](users/545/545226830-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>168</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>79</sup> 
@@ -61,8 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>141</sup> 
 [roma_meloman](users/207/207896276-vkontakte)<sup>0</sup> 
 [й1](users/202/202234967408363-facebook)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>201</sup> 
-[](users/110/110931306939441771638-google)<sup>2</sup> 
 
 
-_17.06.2019 12:48:48_
+_17.06.2019 12:58:06_

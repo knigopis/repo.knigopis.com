@@ -1,4 +1,16 @@
 {
+    "E7gFWjZdag": {
+        "id": "E7gFWjZdag",
+        "title": "Ружья, микробы и сталь. История человеческих сообществ",
+        "author": "Даймонд Джаред М.",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/139578230/",
+        "createdAt": "2019-06-17 12:58:06",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 202
+        }
+    },
     "fbirDM8rs3": {
         "id": "fbirDM8rs3",
         "title": "Джордж і таємний ключ до Всесвіту",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 67
-        }
-    },
-    "volEkGq53r": {
-        "id": "volEkGq53r",
-        "title": "У пропасти во ржи",
-        "author": "Джером Д Солинджер",
-        "notes": "Мальчишеские пиздострадания",
-        "createdAt": "2019-06-10 14:38:06",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 43
         }
     }
 }
