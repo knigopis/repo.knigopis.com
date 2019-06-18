@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>16</sup>
+# List of books read by 4apa<sup>17</sup>
 ---
 
 ## 2019
+
+### День опричника
+В. Сорокин
+> [2019-06-15] 
+
 
 ### Дневники
 Н.П. Каманин
