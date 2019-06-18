@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* О дивный новый мир ~ [Quaff](users/122/12267158-vkontakte)<sup>48</sup>
 * 451 градус по фарингейту ~ [Quaff](users/122/12267158-vkontakte)<sup>47</sup>
 * Ружья, микробы и сталь. История человеческих сообществ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup>
 * Джордж і таємний ключ до Всесвіту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup>
@@ -30,7 +31,6 @@
 * 56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585 ~ [exulted](users/100/100599204551896265722-google)<sup>107</sup>
 * Маг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup>
 * Охота на князя Дракулу ~ [Sky](users/118/118049897850017649660-google)<sup>141</sup>
-* Ініціація ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>33</sup>
 
 
-_17.06.2019 17:17:31_
+_18.06.2019 20:09:48_

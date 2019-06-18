@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* О дивный новый мир ~ [Quaff](users/122/12267158-vkontakte)<sup>48</sup>
+    > Антиутопия на аморальное будущее, но весьма реалистичное!
+
 * 451 градус по фарингейту ~ [Quaff](users/122/12267158-vkontakte)<sup>47</sup>
     > Антиутопия на тупых, сюжет карточный
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/139578230/
 
 * Джордж і таємний ключ до Всесвіту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup>
-    > 9/10 Цікаво про Сонячну систему для дітей.
 
 * Заклятие дома с химерами ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>38</sup>
 
@@ -28,17 +30,15 @@ Do not use pull requests to make changes here.
 
 * Великий Гетсби ~ [Quaff](users/122/12267158-vkontakte)<sup>45</sup>
 
-* Нейромант ~ [Quaff](users/122/12267158-vkontakte)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>48</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>17</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>65</sup> 
 [me](users/381/381417697-yandex)<sup>48</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>47</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup> 
 [panickme](users/545/545226830-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [roma_meloman](users/207/207896276-vkontakte)<sup>0</sup> 
 
 
-_18.06.2019 12:20:20_
+_18.06.2019 20:09:48_

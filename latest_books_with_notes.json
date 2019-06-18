@@ -1,4 +1,16 @@
 {
+    "1irklHbnmF": {
+        "id": "1irklHbnmF",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "Антиутопия на аморальное будущее, но весьма реалистичное!",
+        "createdAt": "2019-06-18 20:09:48",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 48
+        }
+    },
     "Q4rDS9AxcL": {
         "id": "Q4rDS9AxcL",
         "title": "451 градус по фарингейту",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 141
-        }
-    },
-    "LwQnhxmZHq": {
-        "id": "LwQnhxmZHq",
-        "title": "Ініціація",
-        "author": "Люко Дашвар",
-        "notes": "7/10 нуднувато і не жалко головних героїв.",
-        "createdAt": "2019-06-04 19:50:30",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 33
         }
     }
 }
