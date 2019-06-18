@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>61</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>62</sup>
 ---
 
 ## 2019
+
+### Соблазн
+Хосе Карлос Сомоза
+> [2019-03-19] 
+
 
 ### Трое в лодке,не считая собаки
 Джером К. Джером

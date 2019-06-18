@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 62,
+        "updatedAt": "2019-06-18 07:57:08"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "roma_meloman",
         "booksCount": 0,
         "updatedAt": "2019-06-04 21:06:37"
-    },
-    "202234967408363-facebook": {
-        "id": "202234967408363-facebook",
-        "nickname": "й1",
-        "booksCount": 0,
-        "updatedAt": "2019-06-04 11:24:18"
     }
 }
