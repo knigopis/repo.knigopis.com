@@ -1,4 +1,10 @@
 {
+    "110931306939441771638-google": {
+        "id": "110931306939441771638-google",
+        "nickname": null,
+        "booksCount": 3,
+        "updatedAt": "2019-06-18 20:26:22"
+    },
     "12267158-vkontakte": {
         "id": "12267158-vkontakte",
         "nickname": "Quaff",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 141,
         "updatedAt": "2019-06-07 04:40:59"
-    },
-    "207896276-vkontakte": {
-        "id": "207896276-vkontakte",
-        "nickname": "roma_meloman",
-        "booksCount": 0,
-        "updatedAt": "2019-06-04 21:06:37"
     }
 }

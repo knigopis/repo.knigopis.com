@@ -1,4 +1,16 @@
 {
+    "Fg6qfq-7I7": {
+        "id": "Fg6qfq-7I7",
+        "title": "Бруклин",
+        "author": "Колм Тойбин",
+        "notes": "",
+        "createdAt": "2019-06-18 20:26:22",
+        "user": {
+            "id": "110931306939441771638-google",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "1irklHbnmF": {
         "id": "1irklHbnmF",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 24
-        }
-    },
-    "gi5fdM1U2B": {
-        "id": "gi5fdM1U2B",
-        "title": "Особенности найма",
-        "author": "Рон Хаббард",
-        "notes": "",
-        "createdAt": "2019-06-12 17:39:26",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 23
         }
     }
 }

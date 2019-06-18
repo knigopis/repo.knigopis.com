@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/110/110931306939441771638-google)<sup>3</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>48</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>17</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>65</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>109</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>141</sup> 
-[roma_meloman](users/207/207896276-vkontakte)<sup>0</sup> 
 
 
-_18.06.2019 20:09:48_
+_18.06.2019 20:26:22_
