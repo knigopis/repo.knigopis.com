@@ -35,6 +35,7 @@ Randall Munroe
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
 ### `1` Cracking the code interview
+Gayle Laakmann McDowell
 
 ### `1` Портной из Панамы
 Джон Ле Карре
