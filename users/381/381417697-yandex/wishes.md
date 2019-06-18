@@ -1,9 +1,6 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)
 ---
 
-### `85` Овод
-Этель Лилиан Войнич
-
 ### `55` Железная пята
 Джек Лондон
 
@@ -43,17 +40,10 @@ Joel Spolsky
 ### `1` Портной из Панамы
 Джон Ле Карре
 
-### `` Посторонний
-Камю
+### `1` Cracking the code interview
 
 ### `` A Briefer History of Time
 Stephen Hawking
-
-### `` Мертвые души
-Николай Гоголь
-
-### `` Герой нашего времени
-Михаил Лермонтов
 
 ### `` Три товарища
 Эрих Мария Ремарк
@@ -61,8 +51,14 @@ Stephen Hawking
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
 
+### `` Посторонний
+Камю
+
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
+
+### `` Мертвые души
+Николай Гоголь
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
@@ -90,7 +86,9 @@ Linus Torvalds, David Diamond
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
 
-### `` Cracking the code interview
+### `` Hacking: Art of Exploitation
+Jon Erickson
+> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
@@ -102,7 +100,6 @@ Dafydd Stuttard, Marcus Pinto
 ### `` Науки об искусственном
 > Когда-то читал эту книгу давно, но не помню, дочитал или нет
 
-### `` Hacking: Art of Exploitation
-Jon Erickson
-> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
+### `` Герой нашего времени
+Михаил Лермонтов
 
