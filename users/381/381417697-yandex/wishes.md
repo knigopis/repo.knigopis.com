@@ -40,29 +40,29 @@ Gayle Laakmann McDowell
 ### `1` Портной из Панамы
 Джон Ле Карре
 
+### `1` Посторонний
+Камю
+
 ### `1` Joel on Software
 Joel Spolsky
 
 ### `1` Атлант расправил плечи
 Айн Рэнд
 
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
-
 ### `` A Briefer History of Time
 Stephen Hawking
 
-### `` Посторонний
-Камю
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
+
+### `` Мертвые души
+Николай Гоголь
 
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
 
 ### `` Три товарища
 Эрих Мария Ремарк
-
-### `` Мертвые души
-Николай Гоголь
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
