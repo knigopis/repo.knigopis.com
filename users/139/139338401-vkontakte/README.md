@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>64</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>65</sup>
 ---
 
 ## 2019
+
+### Жизнь взаймы
+Эрих Мария Ремарк
+> [2019-06-17] 
+
 
 ### Дни Чудес
 Кит Стюарт

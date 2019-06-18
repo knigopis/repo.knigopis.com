@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sab_olya](users/139/139338401-vkontakte)<sup>64</sup> 
+[sab_olya](users/139/139338401-vkontakte)<sup>65</sup> 
 [me](users/381/381417697-yandex)<sup>48</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>47</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [roma_meloman](users/207/207896276-vkontakte)<sup>0</sup> 
 
 
-_18.06.2019 07:58:15_
+_18.06.2019 07:58:40_
