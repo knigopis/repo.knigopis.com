@@ -34,28 +34,31 @@ Randall Munroe
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Joel on Software
-Joel Spolsky
+### `1` Cracking the code interview
 
 ### `1` Портной из Панамы
 Джон Ле Карре
 
-### `1` Cracking the code interview
+### `1` Joel on Software
+Joel Spolsky
 
-### `` A Briefer History of Time
-Stephen Hawking
-
-### `` Три товарища
-Эрих Мария Ремарк
+### `1` Атлант расправил плечи
+Айн Рэнд
 
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
+
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` Посторонний
 Камю
 
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
+
+### `` Три товарища
+Эрих Мария Ремарк
 
 ### `` Мертвые души
 Николай Гоголь
@@ -66,9 +69,6 @@ Peter Kim
 
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
-
-### `` Атлант расправил плечи
-Айн Рэнд
 
 ### `` Искусство программирования
 Дональд Кнут
