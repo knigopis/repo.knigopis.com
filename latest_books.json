@@ -1,4 +1,16 @@
 {
+    "qQCwdql6ZR": {
+        "id": "qQCwdql6ZR",
+        "title": "Неестественные причины",
+        "author": "Ричард Шеперд",
+        "notes": "",
+        "createdAt": "2019-06-19 17:10:23",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 704
+        }
+    },
     "EwJhdfRiz-": {
         "id": "EwJhdfRiz-",
         "title": "Джон Стейнбек",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 45
-        }
-    },
-    "_QWTlCEzTk": {
-        "id": "_QWTlCEzTk",
-        "title": "Нейромант",
-        "author": "Уильям Гибсон",
-        "notes": "Занимательная история вымысла 1980х о будущем, ИИ и электронном мире!",
-        "createdAt": "2019-06-13 14:28:03",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 44
         }
     }
 }
