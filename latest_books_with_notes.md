@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Заводной апельсин ~ [Quaff](users/122/12267158-vkontakte)<sup>49</sup>
 * О дивный новый мир ~ [Quaff](users/122/12267158-vkontakte)<sup>48</sup>
 * 451 градус по фарингейту ~ [Quaff](users/122/12267158-vkontakte)<sup>47</sup>
 * Ружья, микробы и сталь. История человеческих сообществ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup>
@@ -30,7 +31,6 @@
 * The Myth of the Andalusian Paradise ~ [exulted](users/100/100599204551896265722-google)<sup>108</sup>
 * 56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585 ~ [exulted](users/100/100599204551896265722-google)<sup>107</sup>
 * Маг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup>
-* Охота на князя Дракулу ~ [Sky](users/118/118049897850017649660-google)<sup>141</sup>
 
 
-_18.06.2019 20:09:48_
+_19.06.2019 18:17:26_

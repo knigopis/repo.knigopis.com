@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Заводной апельсин ~ [Quaff](users/122/12267158-vkontakte)<sup>49</sup>
+    > Жизнь настоящего морального урода, ставшего убийцей и познавшего гипнофизическое изменение личности на запрет к насилию.
+
 * О дивный новый мир ~ [Quaff](users/122/12267158-vkontakte)<sup>48</sup>
     > Антиутопия на аморальное будущее, но весьма реалистичное!
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Антиутопия на тупых, сюжет карточный
 
 * Ружья, микробы и сталь. История человеческих сообществ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/139578230/
 
 * Джордж і таємний ключ до Всесвіту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup>
 
@@ -28,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Герой нашего времени ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup>
 
-* Великий Гетсби ~ [Quaff](users/122/12267158-vkontakte)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>49</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>704</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>169</sup> 
 [](users/110/110931306939441771638-google)<sup>3</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>48</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>17</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>65</sup> 
 [me](users/381/381417697-yandex)<sup>48</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>141</sup> 
 
 
-_19.06.2019 17:10:24_
+_19.06.2019 18:17:26_

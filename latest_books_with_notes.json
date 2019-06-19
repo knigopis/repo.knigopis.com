@@ -1,4 +1,16 @@
 {
+    "19cNXfwJew": {
+        "id": "19cNXfwJew",
+        "title": "Заводной апельсин",
+        "author": "Энтони Бёрджесс",
+        "notes": "Жизнь настоящего морального урода, ставшего убийцей и познавшего гипнофизическое изменение личности на запрет к насилию.",
+        "createdAt": "2019-06-19 18:17:26",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 49
+        }
+    },
     "1irklHbnmF": {
         "id": "1irklHbnmF",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 34
-        }
-    },
-    "nTvp4bljCy": {
-        "id": "nTvp4bljCy",
-        "title": "Охота на князя Дракулу",
-        "author": "Керри Манискалко",
-        "notes": "3/10",
-        "createdAt": "2019-06-07 04:40:59",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 141
         }
     }
 }
