@@ -1,4 +1,16 @@
 {
+    "EwJhdfRiz-": {
+        "id": "EwJhdfRiz-",
+        "title": "Джон Стейнбек",
+        "author": "Заблудившийся автобус",
+        "notes": "",
+        "createdAt": "2019-06-19 09:36:05",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 169
+        }
+    },
     "Fg6qfq-7I7": {
         "id": "Fg6qfq-7I7",
         "title": "Бруклин",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 44
-        }
-    },
-    "W1tlWB52Rt": {
-        "id": "W1tlWB52Rt",
-        "title": "Зулейха открывает глаза",
-        "author": "Гюзель Яхина",
-        "notes": "",
-        "createdAt": "2019-06-12 19:41:56",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 24
         }
     }
 }
