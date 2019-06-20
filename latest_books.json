@@ -1,4 +1,16 @@
 {
+    "w0h-CKIG9U": {
+        "id": "w0h-CKIG9U",
+        "title": "Метро 2034",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2019-06-20 13:50:02",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 42
+        }
+    },
     "NN7Xcbpcqa": {
         "id": "NN7Xcbpcqa",
         "title": "Овод",
@@ -345,18 +357,6 @@
             "id": "304041461-yandex",
             "nickname": "johnybond32",
             "booksCount": 4
-        }
-    },
-    "4GKmpB3zRi": {
-        "id": "4GKmpB3zRi",
-        "title": "Признания авантюриста Феликса Круля",
-        "author": "Томас Манн",
-        "notes": "",
-        "createdAt": "2019-06-14 10:49:57",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 703
         }
     }
 }
