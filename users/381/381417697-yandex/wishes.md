@@ -1,15 +1,15 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)
 ---
 
+### `77` Посторонний
+Камю
+
 ### `55` Железная пята
 Джек Лондон
 
 ### `50` Эврики и эйфории
 Уолтер Гратцер
 > Об ученых и их открытиях
-
-### `47` Посторонний
-Камю
 
 ### `38` Learn You a Haskell for Great Good
 Miran Lipovača
