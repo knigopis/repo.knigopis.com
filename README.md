@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Над пропастью во ржи ~ [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup>
+    > Подросток - бунтарь
+
 * Заводной апельсин ~ [Quaff](users/122/12267158-vkontakte)<sup>49</sup>
     > Жизнь настоящего морального урода, ставшего убийцей и познавшего гипнофизическое изменение личности на запрет к насилию.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Антиутопия на аморальное будущее, но весьма реалистичное!
 
 * 451 градус по фарингейту ~ [Quaff](users/122/12267158-vkontakte)<sup>47</sup>
-    > Антиутопия на тупых, сюжет карточный
 
 * Ружья, микробы и сталь. История человеческих сообществ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тетрология Эрагон ~ [Quaff](users/122/12267158-vkontakte)<sup>46</sup>
 
-* Герой нашего времени ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>32</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>42</sup> 
 [](users/102/102336841322497739470-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>705</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [harmful_iojik](users/742/74201901-vkontakte)<sup>0</sup> 
 [](users/117/117525336121885011584-google)<sup>0</sup> 
 [Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>109</sup> 
 
 
-_20.06.2019 13:50:02_
+_20.06.2019 14:47:07_

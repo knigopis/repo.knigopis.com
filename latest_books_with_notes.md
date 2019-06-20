@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Над пропастью во ржи ~ [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup>
 * Заводной апельсин ~ [Quaff](users/122/12267158-vkontakte)<sup>49</sup>
 * О дивный новый мир ~ [Quaff](users/122/12267158-vkontakte)<sup>48</sup>
 * 451 градус по фарингейту ~ [Quaff](users/122/12267158-vkontakte)<sup>47</sup>
@@ -30,7 +31,6 @@
 * Range: Why Generalists Triumph in a Specialized World ~ [exulted](users/100/100599204551896265722-google)<sup>109</sup>
 * The Myth of the Andalusian Paradise ~ [exulted](users/100/100599204551896265722-google)<sup>108</sup>
 * 56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585 ~ [exulted](users/100/100599204551896265722-google)<sup>107</sup>
-* Маг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>34</sup>
 
 
-_19.06.2019 18:17:26_
+_20.06.2019 14:47:07_

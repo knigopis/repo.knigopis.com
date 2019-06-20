@@ -1,4 +1,16 @@
 {
+    "K_bdVOLq4Z": {
+        "id": "K_bdVOLq4Z",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Дэвид Сэлинджер",
+        "notes": "Подросток - бунтарь",
+        "createdAt": "2019-06-20 14:47:07",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 32
+        }
+    },
     "w0h-CKIG9U": {
         "id": "w0h-CKIG9U",
         "title": "Метро 2034",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 222
-        }
-    },
-    "VJ67xys8O5": {
-        "id": "VJ67xys8O5",
-        "title": "Время жить и время умирать",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2019-06-14 11:17:22",
-        "user": {
-            "id": "304041461-yandex",
-            "nickname": "johnybond32",
-            "booksCount": 4
         }
     }
 }

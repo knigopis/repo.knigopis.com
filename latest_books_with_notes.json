@@ -1,4 +1,16 @@
 {
+    "K_bdVOLq4Z": {
+        "id": "K_bdVOLq4Z",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Дэвид Сэлинджер",
+        "notes": "Подросток - бунтарь",
+        "createdAt": "2019-06-20 14:47:07",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 32
+        }
+    },
     "19cNXfwJew": {
         "id": "19cNXfwJew",
         "title": "Заводной апельсин",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 107
-        }
-    },
-    "vPN4RODIO4": {
-        "id": "vPN4RODIO4",
-        "title": "Маг",
-        "author": "Джон Фаулз",
-        "notes": "4/10 Игра в бога на греческом острове.",
-        "createdAt": "2019-06-07 17:27:07",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 34
         }
     }
 }
