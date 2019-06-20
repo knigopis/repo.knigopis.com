@@ -17,12 +17,12 @@ Miran Lipovača
 ### `20` Слово живое и мертвое
 Нора Галь
 
+### `12` Совершенный код
+Стив Макконнелл
+
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
-
-### `12` Совершенный код
-Стив Макконнелл
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
@@ -37,8 +37,8 @@ Randall Munroe
 ### `1` Cracking the code interview
 Gayle Laakmann McDowell
 
-### `1` Портной из Панамы
-Джон Ле Карре
+### `1` Атлант расправил плечи
+Айн Рэнд
 
 ### `1` Посторонний
 Камю
@@ -46,54 +46,36 @@ Gayle Laakmann McDowell
 ### `1` Joel on Software
 Joel Spolsky
 
-### `1` Атлант расправил плечи
-Айн Рэнд
+### `1` Портной из Панамы
+Джон Ле Карре
 
-### `` A Briefer History of Time
-Stephen Hawking
-
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
-
-### `` Мертвые души
-Николай Гоголь
-
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
-
-### `` Три товарища
-Эрих Мария Ремарк
-
-### `` The Hacker Playbook: Practical Guide To Penetration Testing
-Peter Kim
-> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
-
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
+### `` Java Concurrency in Practice
+Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
 ### `` Искусство программирования
 Дональд Кнут
 
-### `` Java Concurrency in Practice
-Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
+### `` Мертвые души
+Николай Гоголь
+
+### `` Три товарища
+Эрих Мария Ремарк
+
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
+
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
 
 ### `` Just for Fun
 Linus Torvalds, David Diamond
 > The Story of an Accidental Revolutionary
 
-### `` Повелитель мух
-Уильям Голдинг
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
 
-### `` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
-
-### `` Hacking: Art of Exploitation
-Jon Erickson
-> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
-
-### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
-Dafydd Stuttard, Marcus Pinto
-> В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` Братья Карамазовы
 Фёдор Достоевский
@@ -101,6 +83,27 @@ Dafydd Stuttard, Marcus Pinto
 ### `` Науки об искусственном
 > Когда-то читал эту книгу давно, но не помню, дочитал или нет
 
+### `` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
+
+### `` The Hacker Playbook: Practical Guide To Penetration Testing
+Peter Kim
+> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
+
+### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
+Dafydd Stuttard, Marcus Pinto
+> В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
+
+### `` Повелитель мух
+Уильям Голдинг
+
 ### `` Герой нашего времени
 Михаил Лермонтов
+
+### `` Hacking: Art of Exploitation
+Jon Erickson
+> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
+
+### `` Agile Estimating and Planning
+Mike Cohn
 
