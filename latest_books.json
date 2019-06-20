@@ -1,4 +1,16 @@
 {
+    "NN7Xcbpcqa": {
+        "id": "NN7Xcbpcqa",
+        "title": "Овод",
+        "author": "Войнич",
+        "notes": "",
+        "createdAt": "2019-06-20 12:12:46",
+        "user": {
+            "id": "102336841322497739470-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "-CAhMXLOZD": {
         "id": "-CAhMXLOZD",
         "title": "Виктория",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 703
-        }
-    },
-    "gl-v3zPp9i": {
-        "id": "gl-v3zPp9i",
-        "title": "Тетрология Эрагон",
-        "author": "Кристофер Паолини",
-        "notes": "Прекрасная фэнтезийная история о наездниках драконов",
-        "createdAt": "2019-06-13 16:20:33",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 46
         }
     }
 }

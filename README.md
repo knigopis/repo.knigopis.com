@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/102/102336841322497739470-google)<sup>0</sup> 
+[](users/102/102336841322497739470-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>705</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>49</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>169</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>109</sup> 
 
 
-_20.06.2019 12:11:18_
+_20.06.2019 12:12:46_
