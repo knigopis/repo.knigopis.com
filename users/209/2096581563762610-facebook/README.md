@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>24</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>25</sup>
 ---
 
 ## 2019
+
+### Тень ветра
+Карлос Луис Сафон
+> [2019-06-21] 
+
 
 ### Зулейха открывает глаза
 Гюзель Яхина

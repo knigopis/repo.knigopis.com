@@ -1,4 +1,16 @@
 {
+    "cBztkJ35gL": {
+        "id": "cBztkJ35gL",
+        "title": "Тень ветра",
+        "author": "Карлос Луис Сафон",
+        "notes": "",
+        "createdAt": "2019-06-21 19:46:28",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 25
+        }
+    },
     "_sdB_YZT3Q": {
         "id": "_sdB_YZT3Q",
         "title": "Интимная теория относительности",
@@ -345,18 +357,6 @@
             "id": "116658081998844854155-googleplus",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "d1Y_2_cOqI": {
-        "id": "d1Y_2_cOqI",
-        "title": "Война миров",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2019-06-15 09:27:53",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 58
         }
     }
 }
