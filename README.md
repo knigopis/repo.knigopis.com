@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>80</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>50</sup> 
 [me](users/381/381417697-yandex)<sup>49</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup> 
 [panickme](users/545/545226830-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>79</sup> 
 [Rashidrush](users/114/114946019255563824371-google)<sup>2</sup> 
 [](users/116/116658081998844854155-googleplus)<sup>1</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>58</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
 
 
-_21.06.2019 15:09:09_
+_21.06.2019 19:18:50_

@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>79</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>80</sup>
 ---
 
 ## 2019
+
+### Интимная теория относительности
+Януш Леон Вишневский
+> [2019-06-19] 
+
 
 ### Острова и море
 Эрнест Хемингуэй

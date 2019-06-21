@@ -1,4 +1,16 @@
 {
+    "_sdB_YZT3Q": {
+        "id": "_sdB_YZT3Q",
+        "title": "Интимная теория относительности",
+        "author": "Януш Леон Вишневский",
+        "notes": "",
+        "createdAt": "2019-06-21 19:18:50",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 80
+        }
+    },
     "huzaUQhief": {
         "id": "huzaUQhief",
         "title": "Хазарский словарь",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 58
-        }
-    },
-    "L9L4cB1NpN": {
-        "id": "L9L4cB1NpN",
-        "title": "Чужак в стране су",
-        "author": "Роберт Хайнлайн",
-        "notes": "",
-        "createdAt": "2019-06-15 09:25:13",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 57
         }
     }
 }
