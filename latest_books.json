@@ -1,4 +1,16 @@
 {
+    "TJ1j1Ntqoz": {
+        "id": "TJ1j1Ntqoz",
+        "title": "Посторонний",
+        "author": "Камю",
+        "notes": "",
+        "createdAt": "2019-06-21 01:37:29",
+        "user": {
+            "id": "381417697-yandex",
+            "nickname": "me",
+            "booksCount": 49
+        }
+    },
     "K_bdVOLq4Z": {
         "id": "K_bdVOLq4Z",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 41
-        }
-    },
-    "Fp5Ds8RY9y": {
-        "id": "Fp5Ds8RY9y",
-        "title": "Дэнни -  чемпион мира",
-        "author": "Даль Роальд",
-        "notes": "Наивная история про мальчика, папу и ловлю фазанов",
-        "createdAt": "2019-06-14 17:02:24",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 222
         }
     }
 }

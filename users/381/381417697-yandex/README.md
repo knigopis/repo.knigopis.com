@@ -1,7 +1,12 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>48</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>49</sup>
 ---
 
 ## 2019
+
+### Посторонний
+Камю
+> [2019-06-21] 
+
 
 ### Овод
 Этель Лилиан Войнич
