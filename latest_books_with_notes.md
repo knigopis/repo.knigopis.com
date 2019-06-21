@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хазарский словарь ~ [Quaff](users/122/12267158-vkontakte)<sup>50</sup>
 * Над пропастью во ржи ~ [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup>
 * Заводной апельсин ~ [Quaff](users/122/12267158-vkontakte)<sup>49</sup>
 * О дивный новый мир ~ [Quaff](users/122/12267158-vkontakte)<sup>48</sup>
@@ -30,7 +31,6 @@
 * Пляж ~ [Garka](users/115/115753719718250012620-google)<sup>221</sup>
 * Range: Why Generalists Triumph in a Specialized World ~ [exulted](users/100/100599204551896265722-google)<sup>109</sup>
 * The Myth of the Andalusian Paradise ~ [exulted](users/100/100599204551896265722-google)<sup>108</sup>
-* 56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585 ~ [exulted](users/100/100599204551896265722-google)<sup>107</sup>
 
 
-_20.06.2019 14:47:07_
+_21.06.2019 15:09:09_

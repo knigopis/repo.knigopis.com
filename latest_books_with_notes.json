@@ -1,4 +1,16 @@
 {
+    "huzaUQhief": {
+        "id": "huzaUQhief",
+        "title": "Хазарский словарь",
+        "author": "Милорад Павич",
+        "notes": "Самая запутанная история ни о чем.",
+        "createdAt": "2019-06-21 15:09:09",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 50
+        }
+    },
     "K_bdVOLq4Z": {
         "id": "K_bdVOLq4Z",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 108
-        }
-    },
-    "fmtWlIQq22": {
-        "id": "fmtWlIQq22",
-        "title": "56-я ОДШБ уходит в горы. Боевой формуляр в/ч 44585",
-        "author": "Бикбаев Равиль",
-        "notes": "ISBN: 978-5-227-04904-9",
-        "createdAt": "2019-06-08 04:34:43",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 107
         }
     }
 }

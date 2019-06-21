@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хазарский словарь ~ [Quaff](users/122/12267158-vkontakte)<sup>50</sup>
+    > Самая запутанная история ни о чем.
+
 * Над пропастью во ржи ~ [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup>
     > Подросток - бунтарь
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Жизнь настоящего морального урода, ставшего убийцей и познавшего гипнофизическое изменение личности на запрет к насилию.
 
 * О дивный новый мир ~ [Quaff](users/122/12267158-vkontakte)<sup>48</sup>
-    > Антиутопия на аморальное будущее, но весьма реалистичное!
 
 * 451 градус по фарингейту ~ [Quaff](users/122/12267158-vkontakte)<sup>47</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Дэнни -  чемпион мира ~ [Garka](users/115/115753719718250012620-google)<sup>222</sup>
 
-* Тетрология Эрагон ~ [Quaff](users/122/12267158-vkontakte)<sup>46</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>50</sup> 
 [me](users/381/381417697-yandex)<sup>49</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>42</sup> 
 [](users/102/102336841322497739470-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>705</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>49</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>169</sup> 
 [](users/110/110931306939441771638-google)<sup>3</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>17</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
 
 
-_21.06.2019 01:37:29_
+_21.06.2019 15:09:09_
