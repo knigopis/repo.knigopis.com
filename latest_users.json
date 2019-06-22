@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 223,
+        "updatedAt": "2019-06-22 17:51:54"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -106,12 +112,6 @@
         "nickname": "kasikandriena",
         "booksCount": 58,
         "updatedAt": "2019-06-15 09:27:53"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 222,
-        "updatedAt": "2019-06-14 17:02:24"
     },
     "304041461-yandex": {
         "id": "304041461-yandex",

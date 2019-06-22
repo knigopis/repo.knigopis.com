@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дамы и Господа ~ [Garka](users/115/115753719718250012620-google)<sup>223</sup>
+    > Эльфы чудесны. Они творят чудеса. Эльфы удивительны. Они вызывают удивление. Эльфы фантастичны. Они создают фантазии. Эльфы очаровательны. Они очаровывают. Но никто никогда не говорит что эльфы хорошие. Потому что они плохие.
+    > Грань между мирами истончается и в Плоский мир проникают эльфы...
+
 * Хазарский словарь ~ [Quaff](users/122/12267158-vkontakte)<sup>50</sup>
     > Самая запутанная история ни о чем.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Подросток - бунтарь
 
 * Заводной апельсин ~ [Quaff](users/122/12267158-vkontakte)<sup>49</sup>
-    > Жизнь настоящего морального урода, ставшего убийцей и познавшего гипнофизическое изменение личности на запрет к насилию.
 
 * О дивный новый мир ~ [Quaff](users/122/12267158-vkontakte)<sup>48</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Гуцульські співанки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>37</sup>
 
-* Дэнни -  чемпион мира ~ [Garka](users/115/115753719718250012620-google)<sup>222</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>223</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>25</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>80</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>50</sup> 
@@ -51,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rashidrush](users/114/114946019255563824371-google)<sup>2</sup> 
 [](users/116/116658081998844854155-googleplus)<sup>1</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>58</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>222</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>4</sup> 
 [lashmyash](users/836/83670525-vkontakte)<sup>0</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
 
 
-_21.06.2019 19:46:28_
+_22.06.2019 17:51:54_

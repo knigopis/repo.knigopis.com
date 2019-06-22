@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дамы и Господа ~ [Garka](users/115/115753719718250012620-google)<sup>223</sup>
 * Хазарский словарь ~ [Quaff](users/122/12267158-vkontakte)<sup>50</sup>
 * Над пропастью во ржи ~ [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup>
 * Заводной апельсин ~ [Quaff](users/122/12267158-vkontakte)<sup>49</sup>
@@ -30,7 +31,6 @@
 * Таємне життя грошей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>35</sup>
 * Пляж ~ [Garka](users/115/115753719718250012620-google)<sup>221</sup>
 * Range: Why Generalists Triumph in a Specialized World ~ [exulted](users/100/100599204551896265722-google)<sup>109</sup>
-* The Myth of the Andalusian Paradise ~ [exulted](users/100/100599204551896265722-google)<sup>108</sup>
 
 
-_21.06.2019 15:09:09_
+_22.06.2019 17:51:54_
