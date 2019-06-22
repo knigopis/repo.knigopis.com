@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>80</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>81</sup>
 ---
 
 ## 2019
+
+### Прощай, Хемингуэй!
+Леонардо Падура
+> [2019-06-22] 
+
 
 ### Интимная теория относительности
 Януш Леон Вишневский

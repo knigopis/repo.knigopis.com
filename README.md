@@ -34,9 +34,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>81</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>223</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>25</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>80</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>50</sup> 
 [me](users/381/381417697-yandex)<sup>49</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
 
 
-_22.06.2019 17:51:54_
+_22.06.2019 18:10:23_

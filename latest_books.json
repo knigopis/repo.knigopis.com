@@ -1,4 +1,16 @@
 {
+    "S580aOQrbk": {
+        "id": "S580aOQrbk",
+        "title": "Прощай, Хемингуэй!",
+        "author": "Леонардо Падура",
+        "notes": "",
+        "createdAt": "2019-06-22 18:10:22",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 81
+        }
+    },
     "cx1HyB87rc": {
         "id": "cx1HyB87rc",
         "title": "Дамы и Господа",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 38
-        }
-    },
-    "3bJ9keCdW1": {
-        "id": "3bJ9keCdW1",
-        "title": "Гуцульські співанки",
-        "author": "Роман Кумилк",
-        "notes": "5/5 Сатирично-політичні",
-        "createdAt": "2019-06-15 18:31:04",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 37
         }
     }
 }
