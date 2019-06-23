@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чернобыльская молитва.Хроника будущего ~ [kissamasya](users/684/68439978-vkontakte)<sup>65</sup>
 * Дамы и Господа ~ [Garka](users/115/115753719718250012620-google)<sup>223</sup>
 * Хазарский словарь ~ [Quaff](users/122/12267158-vkontakte)<sup>50</sup>
 * Над пропастью во ржи ~ [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup>
@@ -30,7 +31,6 @@
 * Таке було ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>36</sup>
 * Таємне життя грошей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>35</sup>
 * Пляж ~ [Garka](users/115/115753719718250012620-google)<sup>221</sup>
-* Range: Why Generalists Triumph in a Specialized World ~ [exulted](users/100/100599204551896265722-google)<sup>109</sup>
 
 
-_22.06.2019 17:51:54_
+_23.06.2019 17:19:52_
