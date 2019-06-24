@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sssrg](users/110/110891893506198620129-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>65</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>81</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>223</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>121</sup> 
 [harmful_iojik](users/742/74201901-vkontakte)<sup>0</sup> 
 [](users/117/117525336121885011584-google)<sup>0</sup> 
-[Aleks](users/106/106983266780546745776-google)<sup>0</sup> 
 
 
-_23.06.2019 17:19:52_
+_24.06.2019 11:07:31_
