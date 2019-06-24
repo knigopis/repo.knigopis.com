@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sssrg](users/110/110891893506198620129-google)<sup>4</sup> 
+[sssrg](users/110/110891893506198620129-google)<sup>5</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>65</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>81</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>223</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/117/117525336121885011584-google)<sup>0</sup> 
 
 
-_24.06.2019 11:15:00_
+_24.06.2019 11:19:52_

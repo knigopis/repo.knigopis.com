@@ -1,4 +1,16 @@
 {
+    "cgHAOtUa8J": {
+        "id": "cgHAOtUa8J",
+        "title": "На пределе",
+        "author": "Эрик Ларсен",
+        "notes": "Адская неделя. Работа над привычками. Планы на неделю, месяц год. Переключение различных режимом",
+        "createdAt": "2019-06-24 11:19:52",
+        "user": {
+            "id": "110891893506198620129-google",
+            "nickname": "sssrg",
+            "booksCount": 5
+        }
+    },
     "F8gOC3g13U": {
         "id": "F8gOC3g13U",
         "title": "От нуля к единице",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 39
-        }
-    },
-    "-hL5n9Dv3u": {
-        "id": "-hL5n9Dv3u",
-        "title": "Дальше живите сами",
-        "author": "Джонатан Троппер",
-        "notes": "",
-        "createdAt": "2019-06-17 09:03:02",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 168
         }
     }
 }
