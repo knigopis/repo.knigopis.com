@@ -1,4 +1,16 @@
 {
+    "KJqzOl2mO0": {
+        "id": "KJqzOl2mO0",
+        "title": "Руководство по DevOps",
+        "author": "Дебуа Патрик , Ким Джен , Уиллис Джон , Хамбл Джез",
+        "notes": "",
+        "createdAt": "2019-06-24 20:44:32",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 71
+        }
+    },
     "VIQVrcJ7Cy": {
         "id": "VIQVrcJ7Cy",
         "title": "Улитка на склоне",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 62
-        }
-    },
-    "S-QEGdop7X": {
-        "id": "S-QEGdop7X",
-        "title": "Овод",
-        "author": "Этель Лилиан Войнич",
-        "notes": "",
-        "createdAt": "2019-06-17 21:18:14",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 48
         }
     }
 }
