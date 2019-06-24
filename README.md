@@ -35,11 +35,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>26</sup> 
 [sssrg](users/110/110891893506198620129-google)<sup>5</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>65</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>81</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>223</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>25</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>50</sup> 
 [me](users/381/381417697-yandex)<sup>49</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/117/117525336121885011584-google)<sup>0</sup> 
 
 
-_24.06.2019 11:19:52_
+_24.06.2019 17:56:23_

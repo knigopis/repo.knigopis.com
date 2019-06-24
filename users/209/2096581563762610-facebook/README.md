@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>25</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>26</sup>
 ---
 
 ## 2019
+
+### Женщина с бумажными цветами
+Донато Кариззи
+> [2019-06-24] 
+
 
 ### Тень ветра
 Карлос Луис Сафон
