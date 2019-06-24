@@ -1,4 +1,10 @@
 {
+    "100978570902186865324-google": {
+        "id": "100978570902186865324-google",
+        "nickname": "ODINSY",
+        "booksCount": 70,
+        "updatedAt": "2019-06-24 20:42:42"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 121,
         "updatedAt": "2019-06-10 04:22:36"
-    },
-    "74201901-vkontakte": {
-        "id": "74201901-vkontakte",
-        "nickname": "harmful_iojik",
-        "booksCount": 0,
-        "updatedAt": "2019-06-09 19:04:33"
     }
 }

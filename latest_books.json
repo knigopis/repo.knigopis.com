@@ -1,4 +1,16 @@
 {
+    "VIQVrcJ7Cy": {
+        "id": "VIQVrcJ7Cy",
+        "title": "Улитка на склоне",
+        "author": "Братья Стругацкие",
+        "notes": "",
+        "createdAt": "2019-06-24 20:42:42",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 70
+        }
+    },
     "Ku30bvghcP": {
         "id": "Ku30bvghcP",
         "title": "Как влюбить в себя любого",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 48
-        }
-    },
-    "Q4rDS9AxcL": {
-        "id": "Q4rDS9AxcL",
-        "title": "451 градус по фарингейту",
-        "author": "Рей Бредбери",
-        "notes": "Антиутопия на тупых, сюжет карточный",
-        "createdAt": "2019-06-17 17:17:31",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 47
         }
     }
 }
