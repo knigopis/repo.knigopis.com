@@ -1,4 +1,16 @@
 {
+    "Ku30bvghcP": {
+        "id": "Ku30bvghcP",
+        "title": "Как влюбить в себя любого",
+        "author": "ЛАУНДЕС Лейл",
+        "notes": "",
+        "createdAt": "2019-06-24 19:28:45",
+        "user": {
+            "id": "102536471289425216982-google",
+            "nickname": "Окс",
+            "booksCount": 28
+        }
+    },
     "cXf0HMpcF7": {
         "id": "cXf0HMpcF7",
         "title": "Женщина с бумажными цветами",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 47
-        }
-    },
-    "E7gFWjZdag": {
-        "id": "E7gFWjZdag",
-        "title": "Ружья, микробы и сталь. История человеческих сообществ",
-        "author": "Даймонд Джаред М.",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/139578230/",
-        "createdAt": "2019-06-17 12:58:06",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 202
         }
     }
 }

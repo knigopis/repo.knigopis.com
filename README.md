@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>28</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>26</sup> 
 [sssrg](users/110/110891893506198620129-google)<sup>5</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>65</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>67</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>121</sup> 
 [harmful_iojik](users/742/74201901-vkontakte)<sup>0</sup> 
-[](users/117/117525336121885011584-google)<sup>0</sup> 
 
 
-_24.06.2019 17:56:23_
+_24.06.2019 19:28:45_

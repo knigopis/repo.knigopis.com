@@ -1,7 +1,12 @@
-# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>27</sup>
+# List of books read by [Окс](http://www.knigopis.com/#/user/books?u=102536471289425216982-google)<sup>28</sup>
 ---
 
 ## 2019
+
+### Как влюбить в себя любого
+ЛАУНДЕС Лейл
+> [2019-06-23] 
+
 
 ### О дивный новый мир
 ХАКСЛИ Олдос
