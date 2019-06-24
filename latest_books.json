@@ -1,4 +1,16 @@
 {
+    "F8gOC3g13U": {
+        "id": "F8gOC3g13U",
+        "title": "От нуля к единице",
+        "author": "Питер Тиль",
+        "notes": "Компания должна продать себя сотрудникам и инвесторам. Команда всегда должна быть крутой",
+        "createdAt": "2019-06-24 11:15:00",
+        "user": {
+            "id": "110891893506198620129-google",
+            "nickname": "sssrg",
+            "booksCount": 4
+        }
+    },
     "N3eBE-aAcg": {
         "id": "N3eBE-aAcg",
         "title": "Доставляя счастье",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 168
-        }
-    },
-    "mWNLInfkpS": {
-        "id": "mWNLInfkpS",
-        "title": "Острова и море",
-        "author": "Эрнест Хемингуэй",
-        "notes": "",
-        "createdAt": "2019-06-16 18:34:52",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 79
         }
     }
 }
