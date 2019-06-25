@@ -1,4 +1,16 @@
 {
+    "54TUGgYXfl": {
+        "id": "54TUGgYXfl",
+        "title": "Маленькие тролли или большое наводнение",
+        "author": "Тувве Янсон",
+        "notes": "",
+        "createdAt": "2019-06-25 16:12:15",
+        "user": {
+            "id": "110931306939441771638-google",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "It4aL7UJwm": {
         "id": "It4aL7UJwm",
         "title": "Містер Мерседес",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 17
-        }
-    },
-    "E4hk71Z4CR": {
-        "id": "E4hk71Z4CR",
-        "title": "Жизнь взаймы",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2019-06-18 07:58:39",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 65
         }
     }
 }

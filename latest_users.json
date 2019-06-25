@@ -1,4 +1,10 @@
 {
+    "110931306939441771638-google": {
+        "id": "110931306939441771638-google",
+        "nickname": null,
+        "booksCount": 2,
+        "updatedAt": "2019-06-25 16:12:15"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -10,12 +16,6 @@
         "nickname": "borodach",
         "booksCount": 170,
         "updatedAt": "2019-06-25 09:03:39"
-    },
-    "110931306939441771638-google": {
-        "id": "110931306939441771638-google",
-        "nickname": null,
-        "booksCount": 4,
-        "updatedAt": "2019-06-25 05:39:15"
     },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",
