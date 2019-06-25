@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/110931306939441771638/)<sup>3</sup>
+# List of books read by [](https://plus.google.com/u/0/110931306939441771638/)<sup>4</sup>
 ---
 
 ## 2019
+
+### Париж
+Эдвард Резерфорд
+> [2019-06-25] 
+
 
 ### Бруклин
 Колм Тойбин
