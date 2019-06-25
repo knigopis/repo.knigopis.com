@@ -17,23 +17,23 @@ Miran Lipovača
 ### `20` Слово живое и мертвое
 Нора Галь
 
-### `12` Совершенный код
-Стив Макконнелл
-
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
 
+### `12` Совершенный код
+Стив Макконнелл
+
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
+
+### `7` Just for Fun
+Linus Torvalds, David Diamond
+> The Story of an Accidental Revolutionary
 
 ### `5` What If?
 Randall Munroe
 > Serious Scientific Answers to Absurd Hypothetical Questions
-
-### `4` Just for Fun
-Linus Torvalds, David Diamond
-> The Story of an Accidental Revolutionary
 
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
