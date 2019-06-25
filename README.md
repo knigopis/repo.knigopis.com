@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Містер Мерседес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup>
+    > 9/10 Схиблений маніяк проти дет. пенс. Ходжеса.
+
 * Чернобыльская молитва.Хроника будущего ~ [kissamasya](users/684/68439978-vkontakte)<sup>65</sup>
     > Главной техногенной катастрофе XX века посвящена четвертая книга знаменитого художественно-документального цикла Светланы Алексиевич "Голоса Утопии". "Совпали две катастрофы: космическая - Чернобыль, и социальная - ушел под воду огромный социалистический материк. И это, второе крушение, затмило космическое, потому что оно нам ближе и понятнее. То, что случилось в Чернобыле, - впервые на земле, и мы - первые люди, пережившие это".
     > "Чернобыльская молитва" публикуется в новой авторской редакции, с добавлением 30 процентов нового текста, с восстановлением фрагментов, исключенных из прежних изданий по цензурным соображениям.
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Грань между мирами истончается и в Плоский мир проникают эльфы...
 
 * Хазарский словарь ~ [Quaff](users/122/12267158-vkontakte)<sup>50</sup>
-    > Самая запутанная история ни о чем.
 
 * Над пропастью во ржи ~ [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Джордж і таємний ключ до Всесвіту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup>
 
-* Заклятие дома с химерами ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>170</sup> 
 [](users/110/110931306939441771638-google)<sup>4</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>71</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>65</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup> 
 [panickme](users/545/545226830-vkontakte)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup> 
 [Rashidrush](users/114/114946019255563824371-google)<sup>2</sup> 
 [](users/116/116658081998844854155-googleplus)<sup>1</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>58</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>121</sup> 
 
 
-_25.06.2019 09:03:39_
+_25.06.2019 10:41:58_

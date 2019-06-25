@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Містер Мерседес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup>
 * Чернобыльская молитва.Хроника будущего ~ [kissamasya](users/684/68439978-vkontakte)<sup>65</sup>
 * Дамы и Господа ~ [Garka](users/115/115753719718250012620-google)<sup>223</sup>
 * Хазарский словарь ~ [Quaff](users/122/12267158-vkontakte)<sup>50</sup>
@@ -30,7 +31,6 @@
 * Ребекка ~ [Quaff](users/122/12267158-vkontakte)<sup>41</sup>
 * Таке було ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>36</sup>
 * Таємне життя грошей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>35</sup>
-* Пляж ~ [Garka](users/115/115753719718250012620-google)<sup>221</sup>
 
 
-_23.06.2019 17:19:52_
+_25.06.2019 10:41:58_

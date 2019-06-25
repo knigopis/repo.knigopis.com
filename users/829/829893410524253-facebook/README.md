@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>39</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>40</sup>
 ---
 
 ## 2019
+
+### Містер Мерседес
+Стівен Кінг
+> [2019-06-25] 9/10 Схиблений маніяк проти дет. пенс. Ходжеса.
+
 
 ### Джордж і таємний ключ до Всесвіту
 Люсі Ґокінг, Стівен Ґокінг
