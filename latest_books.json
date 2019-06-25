@@ -1,4 +1,16 @@
 {
+    "gEUY4edVKu": {
+        "id": "gEUY4edVKu",
+        "title": "Здесь курят",
+        "author": "Кристофер Бакли",
+        "notes": "",
+        "createdAt": "2019-06-25 09:03:39",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 170
+        }
+    },
     "unmVnzMG-7": {
         "id": "unmVnzMG-7",
         "title": "Париж",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 64
-        }
-    },
-    "PLYzCtGn_4": {
-        "id": "PLYzCtGn_4",
-        "title": "Когда дыхание растворяется в воздухе",
-        "author": "Пол Каланити",
-        "notes": "",
-        "createdAt": "2019-06-18 07:57:51",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 63
         }
     }
 }
