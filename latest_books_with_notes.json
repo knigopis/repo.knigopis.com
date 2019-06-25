@@ -1,4 +1,16 @@
 {
+    "023DjR2fs3": {
+        "id": "023DjR2fs3",
+        "title": "Диктатор",
+        "author": "Сергей Снегов",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/34386065/",
+        "createdAt": "2019-06-25 16:53:56",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 203
+        }
+    },
     "It4aL7UJwm": {
         "id": "It4aL7UJwm",
         "title": "Містер Мерседес",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 36
-        }
-    },
-    "q8UDfdLn0r": {
-        "id": "q8UDfdLn0r",
-        "title": "Таємне життя грошей",
-        "author": "Кіра Вермонд",
-        "notes": "7/10 Просто та цікаво пояснені основні фінансові терміни.",
-        "createdAt": "2019-06-08 19:53:32",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 35
         }
     }
 }

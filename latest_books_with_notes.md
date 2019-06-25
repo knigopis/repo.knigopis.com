@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Диктатор ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup>
 * Містер Мерседес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup>
 * Чернобыльская молитва.Хроника будущего ~ [kissamasya](users/684/68439978-vkontakte)<sup>65</sup>
 * Дамы и Господа ~ [Garka](users/115/115753719718250012620-google)<sup>223</sup>
@@ -30,7 +31,6 @@
 * Приключения Гекльберри Финна ~ [Quaff](users/122/12267158-vkontakte)<sup>42</sup>
 * Ребекка ~ [Quaff](users/122/12267158-vkontakte)<sup>41</sup>
 * Таке було ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>36</sup>
-* Таємне життя грошей ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>35</sup>
 
 
-_25.06.2019 10:41:58_
+_25.06.2019 16:53:56_

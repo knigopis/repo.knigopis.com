@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Диктатор ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/34386065/
+
 * Містер Мерседес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup>
     > 9/10 Схиблений маніяк проти дет. пенс. Ходжеса.
 
@@ -13,8 +18,6 @@ Do not use pull requests to make changes here.
     > "Чернобыльская молитва" публикуется в новой авторской редакции, с добавлением 30 процентов нового текста, с восстановлением фрагментов, исключенных из прежних изданий по цензурным соображениям.
 
 * Дамы и Господа ~ [Garka](users/115/115753719718250012620-google)<sup>223</sup>
-    > Эльфы чудесны. Они творят чудеса. Эльфы удивительны. Они вызывают удивление. Эльфы фантастичны. Они создают фантазии. Эльфы очаровательны. Они очаровывают. Но никто никогда не говорит что эльфы хорошие. Потому что они плохие.
-    > Грань между мирами истончается и в Плоский мир проникают эльфы...
 
 * Хазарский словарь ~ [Quaff](users/122/12267158-vkontakte)<sup>50</sup>
 
@@ -28,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Ружья, микробы и сталь. История человеческих сообществ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup>
 
-* Джордж і таємний ключ до Всесвіту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>170</sup> 
@@ -53,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>705</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>17</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>65</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup> 
 [panickme](users/545/545226830-vkontakte)<sup>0</sup> 
 [Rashidrush](users/114/114946019255563824371-google)<sup>2</sup> 
 [](users/116/116658081998844854155-googleplus)<sup>1</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>121</sup> 
 
 
-_25.06.2019 16:12:15_
+_25.06.2019 16:53:56_

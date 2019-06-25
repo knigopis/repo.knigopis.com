@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 203,
+        "updatedAt": "2019-06-25 16:53:56"
+    },
     "110931306939441771638-google": {
         "id": "110931306939441771638-google",
         "nickname": null,
@@ -106,12 +112,6 @@
         "nickname": "sab_olya",
         "booksCount": 65,
         "updatedAt": "2019-06-18 07:58:39"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 202,
-        "updatedAt": "2019-06-17 12:58:06"
     },
     "545226830-vkontakte": {
         "id": "545226830-vkontakte",

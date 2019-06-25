@@ -1,4 +1,16 @@
 {
+    "023DjR2fs3": {
+        "id": "023DjR2fs3",
+        "title": "Диктатор",
+        "author": "Сергей Снегов",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/34386065/",
+        "createdAt": "2019-06-25 16:53:56",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 203
+        }
+    },
     "54TUGgYXfl": {
         "id": "54TUGgYXfl",
         "title": "Маленькие тролли или большое наводнение",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 48
-        }
-    },
-    "mj5h6m0aCI": {
-        "id": "mj5h6m0aCI",
-        "title": "День опричника",
-        "author": "В. Сорокин",
-        "notes": "",
-        "createdAt": "2019-06-18 12:20:20",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 17
         }
     }
 }
