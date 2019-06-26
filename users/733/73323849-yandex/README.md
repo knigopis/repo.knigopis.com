@@ -1,4 +1,4 @@
-# List of books read by inna.besprozvannykh<sup>58</sup>
+# List of books read by inna.besprozvannykh<sup>59</sup>
 ---
 
 ## 2019
@@ -6,6 +6,11 @@
 ### Невидимки
 Чак Паланик
 > [2019-06-24] на 8
+
+
+### Жоэль Диккер
+Правда о деле Гарри Квеберта
+> [2019-06] на 10
 
 
 ### Сердца трёх

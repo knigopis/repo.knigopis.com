@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жоэль Диккер ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup>
+    > на 10
+
 * Восьмой круг подземки ~ [En](users/333/333646551-vkontakte)<sup>69</sup>
     > Что стоит стать человеком ? Пройти семь кругов ада?Восемь. И не ада, а подземки, где любой неверный шаг — и адские машины изрубят твое несчастное тело на куски, сожгут, раздавят, выпустят кровь.Неужели когда-то здесь ездили люди?..
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/34386065/
 
 * Містер Мерседес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup>
-    > 9/10 Схиблений маніяк проти дет. пенс. Ходжеса.
 
 * Чернобыльская молитва.Хроника будущего ~ [kissamasya](users/684/68439978-vkontakte)<sup>65</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * О дивный новый мир ~ [Quaff](users/122/12267158-vkontakte)<sup>48</sup>
 
-* 451 градус по фарингейту ~ [Quaff](users/122/12267158-vkontakte)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>58</sup> 
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 [En](users/333/333646551-vkontakte)<sup>69</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup> 
 
 
-_26.06.2019 13:21:37_
+_26.06.2019 13:23:53_

@@ -1,4 +1,16 @@
 {
+    "c2d_c2cf7Q": {
+        "id": "c2d_c2cf7Q",
+        "title": "Жоэль Диккер",
+        "author": "Правда о деле Гарри Квеберта",
+        "notes": "на 10",
+        "createdAt": "2019-06-26 13:23:52",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 59
+        }
+    },
     "f4tKaCoHYI": {
         "id": "f4tKaCoHYI",
         "title": "Невидимки",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 49
-        }
-    },
-    "qQCwdql6ZR": {
-        "id": "qQCwdql6ZR",
-        "title": "Неестественные причины",
-        "author": "Ричард Шеперд",
-        "notes": "",
-        "createdAt": "2019-06-19 17:10:23",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 704
         }
     }
 }

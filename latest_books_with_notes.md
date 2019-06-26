@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Жоэль Диккер ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup>
 * Восьмой круг подземки ~ [En](users/333/333646551-vkontakte)<sup>69</sup>
 * Диктатор ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup>
 * Містер Мерседес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup>
@@ -30,7 +31,6 @@
 * Сборник Сталкер ~ [En](users/333/333646551-vkontakte)<sup>67</sup>
 * У пропасти во ржи ~ [Quaff](users/122/12267158-vkontakte)<sup>43</sup>
 * Приключения Гекльберри Финна ~ [Quaff](users/122/12267158-vkontakte)<sup>42</sup>
-* Ребекка ~ [Quaff](users/122/12267158-vkontakte)<sup>41</sup>
 
 
-_26.06.2019 04:02:03_
+_26.06.2019 13:23:53_
