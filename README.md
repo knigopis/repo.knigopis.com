@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В пробирке КИТ ~ [kissamasya](users/684/68439978-vkontakte)<sup>66</sup>
+    > Я училась до двенадцатого класса в пансионате для девочек — закрытой частной школе, где даже учителя были исключительно женского пола. Акцент в ней делался на углубленное изучение религии, и мои родители думали, что теперь я полноценный, готовый к жизни человек. Поэтому и выкинули спокойно в море студенческой жизни, полное крутых волн, плавающих айсбергов и акул в виде мужчин! Но что такое акула против кита?
+
 * Жоэль Диккер ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup>
     > на 10
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Что стоит стать человеком ? Пройти семь кругов ада?Восемь. И не ада, а подземки, где любой неверный шаг — и адские машины изрубят твое несчастное тело на куски, сожгут, раздавят, выпустят кровь.Неужели когда-то здесь ездили люди?..
 
 * Диктатор ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/34386065/
 
 * Містер Мерседес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup>
 
@@ -28,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Заводной апельсин ~ [Quaff](users/122/12267158-vkontakte)<sup>49</sup>
 
-* О дивный новый мир ~ [Quaff](users/122/12267158-vkontakte)<sup>48</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kissamasya](users/684/68439978-vkontakte)<sup>65</sup> 
+[kissamasya](users/684/68439978-vkontakte)<sup>66</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>141</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 [En](users/333/333646551-vkontakte)<sup>69</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Яков](users/117/117277044284589498872-google)<sup>0</sup> 
 
 
-_26.06.2019 14:40:48_
+_26.06.2019 14:47:19_

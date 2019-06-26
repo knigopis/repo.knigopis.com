@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В пробирке КИТ ~ [kissamasya](users/684/68439978-vkontakte)<sup>66</sup>
 * Жоэль Диккер ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup>
 * Восьмой круг подземки ~ [En](users/333/333646551-vkontakte)<sup>69</sup>
 * Диктатор ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup>
@@ -30,7 +31,6 @@
 * Записи психолога ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>461</sup>
 * Сборник Сталкер ~ [En](users/333/333646551-vkontakte)<sup>67</sup>
 * У пропасти во ржи ~ [Quaff](users/122/12267158-vkontakte)<sup>43</sup>
-* Приключения Гекльберри Финна ~ [Quaff](users/122/12267158-vkontakte)<sup>42</sup>
 
 
-_26.06.2019 13:23:53_
+_26.06.2019 14:47:19_
