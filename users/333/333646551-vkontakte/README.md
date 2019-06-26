@@ -1,7 +1,12 @@
-# List of books read by [En](http://vk.com/id333646551)<sup>67</sup>
+# List of books read by [En](http://vk.com/id333646551)<sup>68</sup>
 ---
 
 ## 2019
+
+### Тайна испанской шали
+Агата Кристи
+> [2019-06-21] 
+
 
 ### Сборник Сталкер
 разные

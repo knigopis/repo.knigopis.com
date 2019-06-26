@@ -1,4 +1,16 @@
 {
+    "vlNepk0k81": {
+        "id": "vlNepk0k81",
+        "title": "Тайна испанской шали",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2019-06-26 03:59:24",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 68
+        }
+    },
     "023DjR2fs3": {
         "id": "023DjR2fs3",
         "title": "Диктатор",
@@ -345,18 +357,6 @@
             "id": "110931306939441771638-google",
             "nickname": null,
             "booksCount": 3
-        }
-    },
-    "1irklHbnmF": {
-        "id": "1irklHbnmF",
-        "title": "О дивный новый мир",
-        "author": "Олдос Хаксли",
-        "notes": "Антиутопия на аморальное будущее, но весьма реалистичное!",
-        "createdAt": "2019-06-18 20:09:48",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 48
         }
     }
 }

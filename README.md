@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>68</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup> 
@@ -64,8 +65,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>0</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup> 
-[En](users/333/333646551-vkontakte)<sup>67</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>121</sup> 
 
 
-_25.06.2019 16:53:56_
+_26.06.2019 03:59:24_
