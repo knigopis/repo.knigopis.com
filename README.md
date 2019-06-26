@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kissamasya](users/684/68439978-vkontakte)<sup>64</sup> 
+[kissamasya](users/684/68439978-vkontakte)<sup>65</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>141</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 [En](users/333/333646551-vkontakte)<sup>69</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Яков](users/117/117277044284589498872-google)<sup>0</sup> 
 
 
-_26.06.2019 14:40:17_
+_26.06.2019 14:40:48_

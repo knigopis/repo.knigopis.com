@@ -1,4 +1,16 @@
 {
+    "EglK1tdT2Z": {
+        "id": "EglK1tdT2Z",
+        "title": "Ромео и Джульетта",
+        "author": "У.Шекспир",
+        "notes": "",
+        "createdAt": "2019-06-26 14:40:48",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 65
+        }
+    },
     "HV_6nbyr0X": {
         "id": "HV_6nbyr0X",
         "title": "Бегство от волшебника",
@@ -345,18 +357,6 @@
             "id": "102336841322497739470-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "-CAhMXLOZD": {
-        "id": "-CAhMXLOZD",
-        "title": "Виктория",
-        "author": "Кнут Гамсун",
-        "notes": "",
-        "createdAt": "2019-06-20 09:00:18",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 705
         }
     }
 }

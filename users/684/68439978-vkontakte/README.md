@@ -1,7 +1,12 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>64</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>65</sup>
 ---
 
 ## 2019
+
+### Ромео и Джульетта
+У.Шекспир
+> [2019-06-25] 
+
 
 ### Двенадцать стульев
 Илья Ильф;Евгений Петров
