@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Восьмой круг подземки ~ [En](users/333/333646551-vkontakte)<sup>69</sup>
 * Диктатор ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup>
 * Містер Мерседес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup>
 * Чернобыльская молитва.Хроника будущего ~ [kissamasya](users/684/68439978-vkontakte)<sup>65</sup>
@@ -30,7 +31,6 @@
 * У пропасти во ржи ~ [Quaff](users/122/12267158-vkontakte)<sup>43</sup>
 * Приключения Гекльберри Финна ~ [Quaff](users/122/12267158-vkontakte)<sup>42</sup>
 * Ребекка ~ [Quaff](users/122/12267158-vkontakte)<sup>41</sup>
-* Таке було ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>36</sup>
 
 
-_25.06.2019 16:53:56_
+_26.06.2019 04:02:03_
