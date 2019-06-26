@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>142</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 [En](users/333/333646551-vkontakte)<sup>69</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lashmyash](users/836/83670525-vkontakte)<sup>0</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>0</sup> 
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup> 
 
 
-_26.06.2019 13:23:53_
+_26.06.2019 13:35:41_
