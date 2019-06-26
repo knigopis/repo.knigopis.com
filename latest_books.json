@@ -1,4 +1,16 @@
 {
+    "f4tKaCoHYI": {
+        "id": "f4tKaCoHYI",
+        "title": "Невидимки",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2019-06-26 13:21:37",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 58
+        }
+    },
     "8hAktF3ifJ": {
         "id": "8hAktF3ifJ",
         "title": "Восьмой круг подземки",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 704
-        }
-    },
-    "EwJhdfRiz-": {
-        "id": "EwJhdfRiz-",
-        "title": "Джон Стейнбек",
-        "author": "Заблудившийся автобус",
-        "notes": "",
-        "createdAt": "2019-06-19 09:36:05",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 169
         }
     }
 }
