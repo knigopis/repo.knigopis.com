@@ -1,4 +1,16 @@
 {
+    "v9QyQ7SvU5": {
+        "id": "v9QyQ7SvU5",
+        "title": "Путин",
+        "author": "Крис Хатчинс, Александр Коробко",
+        "notes": "",
+        "createdAt": "2019-06-28 11:49:44",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 17
+        }
+    },
     "GKTs8swYlx": {
         "id": "GKTs8swYlx",
         "title": "Мифы русского народа",
@@ -345,18 +357,6 @@
             "id": "110931306939441771638-google",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "It4aL7UJwm": {
-        "id": "It4aL7UJwm",
-        "title": "Містер Мерседес",
-        "author": "Стівен Кінг",
-        "notes": "9/10 Схиблений маніяк проти дет. пенс. Ходжеса.",
-        "createdAt": "2019-06-25 10:41:58",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 40
         }
     }
 }
