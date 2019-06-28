@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>25</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>24</sup>
 ---
 
 ## 2016
-
-### Странник
-Сурен Цормудян
-
 
 ### Школа Робинзонов
 Жюль Верн
