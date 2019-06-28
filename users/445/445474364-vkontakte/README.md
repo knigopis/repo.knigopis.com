@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>33</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>32</sup>
 ---
 
 ## 2016
-
-### А зори здесь тихие...
-Борис Васильев
-
 
 ### Ходячий Замок
 Диана Уинн Джонс
