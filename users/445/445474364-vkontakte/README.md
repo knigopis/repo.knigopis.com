@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>4</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>3</sup>
 ---
 
 ## 2015
-
-### Радуга для друга
-Михаил Самарский
-
 
 ### Книга будущих адмиралов
 Анатолий Митяев
