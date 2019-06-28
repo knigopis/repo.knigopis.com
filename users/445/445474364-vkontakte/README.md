@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>22</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>21</sup>
 ---
 
 ## 2016
-
-### Путь к себе
-Михаил Гинзбург
-
 
 ### Руслан и Людмила
 Александр Пушкин
