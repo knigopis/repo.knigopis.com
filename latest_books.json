@@ -1,4 +1,16 @@
 {
+    "yfbAZzV3RZ": {
+        "id": "yfbAZzV3RZ",
+        "title": "Детский катехизис: 200 детских вопросов и недетских ответов о вере, церкви и христианской жизни",
+        "author": "Протоиерей Максим Козлов",
+        "notes": "",
+        "createdAt": "2019-06-28 10:51:57",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 1
+        }
+    },
     "cirH1N6NJU": {
         "id": "cirH1N6NJU",
         "title": "Гиперфокус Как я научился делать больше, тратя меньше времени",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 80
-        }
-    },
-    "huzaUQhief": {
-        "id": "huzaUQhief",
-        "title": "Хазарский словарь",
-        "author": "Милорад Павич",
-        "notes": "Самая запутанная история ни о чем.",
-        "createdAt": "2019-06-21 15:09:09",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 50
         }
     }
 }
