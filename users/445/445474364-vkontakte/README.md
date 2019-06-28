@@ -1,12 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>70</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>69</sup>
 ---
 
 ## 2019
-
-### Драматическая трилогия
-Алексей Толстой
-> [2019-02] 
-
 
 ### Трон Люцифера
 Еремей Парнов
