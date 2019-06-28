@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Не даренный подарок (Кася, Морра) ~ [Chiffi](users/105/105831994080785626680-google)<sup>122</sup>
 * Гаэльская волчица ~ [Quaff](users/122/12267158-vkontakte)<sup>54</sup>
 * Таинственный рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>53</sup>
 * Верный меч ~ [Quaff](users/122/12267158-vkontakte)<sup>52</sup>
@@ -30,7 +31,6 @@
 * Герой нашего времени ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup>
 * Великий Гетсби ~ [Quaff](users/122/12267158-vkontakte)<sup>45</sup>
 * Нейромант ~ [Quaff](users/122/12267158-vkontakte)<sup>44</sup>
-* Золото скифов ~ [kissamasya](users/684/68439978-vkontakte)<sup>64</sup>
 
 
-_28.06.2019 17:05:24_
+_28.06.2019 17:06:44_

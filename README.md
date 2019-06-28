@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Не даренный подарок (Кася, Морра) ~ [Chiffi](users/105/105831994080785626680-google)<sup>122</sup>
+    > женское фентези. Может и глупо, но мило
+
 * Гаэльская волчица ~ [Quaff](users/122/12267158-vkontakte)<sup>54</sup>
     > Занимательная микс историй, но не фонтан
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > заключительная часть приключений тупоумного рыцаря из игр престолов.
 
 * Верный меч ~ [Quaff](users/122/12267158-vkontakte)<sup>52</sup>
-    > История о междоусобицы рыцарских домов
 
 * Межевой рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>51</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * В пробирке КИТ ~ [kissamasya](users/684/68439978-vkontakte)<sup>66</sup>
 
-* Жоэль Диккер ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>122</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>54</sup> 
 [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup> 
 [En](users/333/333646551-vkontakte)<sup>71</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rashidrush](users/114/114946019255563824371-google)<sup>2</sup> 
 [](users/116/116658081998844854155-googleplus)<sup>1</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>58</sup> 
-[johnybond32](users/304/304041461-yandex)<sup>4</sup> 
 
 
-_28.06.2019 17:05:24_
+_28.06.2019 17:06:44_
