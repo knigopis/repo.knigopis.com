@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>57</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>56</sup>
 ---
 
 ## 2018
-
-### Робинзон Крузо
-Даниель Дефо
-
 
 ### Флаги на башнях
 Антон Макаренко
