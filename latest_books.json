@@ -1,4 +1,16 @@
 {
+    "8_9bkQQoGz": {
+        "id": "8_9bkQQoGz",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2019-06-28 11:45:17",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 6
+        }
+    },
     "gZRKQPMoXd": {
         "id": "gZRKQPMoXd",
         "title": "Происшествие в старом замке",
@@ -345,18 +357,6 @@
             "id": "110891893506198620129-google",
             "nickname": "sssrg",
             "booksCount": 2
-        }
-    },
-    "QTVufrnCXP": {
-        "id": "QTVufrnCXP",
-        "title": "Sapiens",
-        "author": "",
-        "notes": "Эволюция прямохождения всё ещё происходит",
-        "createdAt": "2019-06-24 11:08:19",
-        "user": {
-            "id": "110891893506198620129-google",
-            "nickname": "sssrg",
-            "booksCount": 1
         }
     }
 }
