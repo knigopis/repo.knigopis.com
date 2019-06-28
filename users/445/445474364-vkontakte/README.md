@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>46</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>45</sup>
 ---
 
 ## 2017
-
-### Гора
-Николай Лесков
-
 
 ### Дуэль
 Антон Чехов
