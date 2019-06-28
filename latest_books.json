@@ -1,4 +1,16 @@
 {
+    "8MO-YMsf3q": {
+        "id": "8MO-YMsf3q",
+        "title": "Пятнадцатилетний капитан",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2019-06-28 11:50:51",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 19
+        }
+    },
     "WI_0erU2wG": {
         "id": "WI_0erU2wG",
         "title": "Путин. Путеводитель для неравнодушных",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 68
-        }
-    },
-    "023DjR2fs3": {
-        "id": "023DjR2fs3",
-        "title": "Диктатор",
-        "author": "Сергей Снегов",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/34386065/",
-        "createdAt": "2019-06-25 16:53:56",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 203
         }
     }
 }
