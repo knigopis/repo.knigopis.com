@@ -1,7 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>4</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>5</sup>
 ---
 
 ## 2015
+
+### Неугасимая лампада "Курска"
+Митрофан Баданин
+
 
 ### Темный мир. Равновесие
 Марина и Сергей Дяченко
