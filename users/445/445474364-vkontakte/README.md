@@ -1,5 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>17</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>18</sup>
 ---
+
+## 2018
+
+### Путин. Путеводитель для неравнодушных
+
+
 
 ## 2017
 

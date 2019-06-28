@@ -1,4 +1,16 @@
 {
+    "WI_0erU2wG": {
+        "id": "WI_0erU2wG",
+        "title": "Путин. Путеводитель для неравнодушных",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-06-28 11:50:26",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 18
+        }
+    },
     "v9QyQ7SvU5": {
         "id": "v9QyQ7SvU5",
         "title": "Путин",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 203
-        }
-    },
-    "54TUGgYXfl": {
-        "id": "54TUGgYXfl",
-        "title": "Маленькие тролли или большое наводнение",
-        "author": "Тувве Янсон",
-        "notes": "",
-        "createdAt": "2019-06-25 16:12:15",
-        "user": {
-            "id": "110931306939441771638-google",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
