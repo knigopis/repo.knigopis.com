@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>27</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>26</sup>
 ---
 
 ## 2016
-
-### Мастер и Маргарита
-Михаил Булгаков
-
 
 ### Неугасимая лампада "Курска"
 Митрофан Баданин
