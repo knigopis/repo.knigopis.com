@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>9</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>8</sup>
 ---
 
 ## 2015
-
-### Необыкновенные приключения Карика и Вали
-Ян Ларри
-
 
 ### Владимир Аверин
 В поисках бриллиантовой диадемы
