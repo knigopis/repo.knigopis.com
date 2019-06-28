@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>26</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>25</sup>
 ---
 
 ## 2016
-
-### Неугасимая лампада "Курска"
-Митрофан Баданин
-
 
 ### Странник
 Сурен Цормудян
