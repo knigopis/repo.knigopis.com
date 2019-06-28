@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>38</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>37</sup>
 ---
 
 ## 2017
-
-### Недоросль
-Денис Фонвизин
-
 
 ### Веселые похороны
 Людмила Улицкая
