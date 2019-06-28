@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>28</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>27</sup>
 ---
 
 ## 2016
-
-### Сумерки
-Дмитрий Глуховский
-
 
 ### Мастер и Маргарита
 Михаил Булгаков
