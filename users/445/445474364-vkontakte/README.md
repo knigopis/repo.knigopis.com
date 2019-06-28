@@ -1,7 +1,12 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>27</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>28</sup>
 ---
 
 ## 2019
+
+### Белый вождь
+Майн Рид
+> [2019-05] 
+
 
 ### Измени свой мозг - изменится и тело!
 Дэниэл Амен
