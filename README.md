@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Межевой рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>51</sup>
+    > Интересная история про турнирные бои
+
 * Всадник без головы ~ [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup>
     > Книга, если рассматривать ее в качестве детектива, совершенно неинтересная и примитивная. Почти сразу можно догадаться (осторожно: спойлер!), что убийца - Колхаун. Чем она заслужила такое признание, мне непонятно. Спасибо капитану Майн Риду за зря потраченное время.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Искусно построенные произведения Агаты Кристи отличает поразительное умение направить читателя по неверному следу и держать в постоянном напряжении до момента ошеломительной развязки.
 
 * и грянул гром ~ [En](users/333/333646551-vkontakte)<sup>70</sup>
-    > Благодаря некой фирме, организующей путешествия в далекое прошлое, мистер Эккельс отправляется на 60 миллионов лет назад. Охотясь на динозавров, он нечаянно убивает бабочку, и это убийство, как ни странно, провоцирует серьезные изменения в настоящем.
 
 * 45 татуировок менеджера ~ [youno](users/302/302928912-vkontakte)<sup>24</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Містер Мерседес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup>
 
-* Чернобыльская молитва.Хроника будущего ~ [kissamasya](users/684/68439978-vkontakte)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>51</sup> 
 [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup> 
 [En](users/333/333646551-vkontakte)<sup>71</sup> 
 [Vitaly](users/109/109395490138181998437-google)<sup>8</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sssrg](users/110/110891893506198620129-google)<sup>5</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>81</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>223</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>50</sup> 
 [me](users/381/381417697-yandex)<sup>49</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>42</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [johnybond32](users/304/304041461-yandex)<sup>4</sup> 
 
 
-_28.06.2019 11:57:53_
+_28.06.2019 16:59:48_
