@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>67</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>66</sup>
 ---
 
 ## 2018
-
-### Кузнецкий арсенал
-Ростислав Бардокин
-
 
 ### Сталин: в преддверии войны
 Александр Орлов
