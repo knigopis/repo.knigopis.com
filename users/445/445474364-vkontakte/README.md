@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>59</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>58</sup>
 ---
 
 ## 2018
-
-### Мифы русского народа
-Елена Левкиевская
-
 
 ### Северный полюс
 Роберт Пири
