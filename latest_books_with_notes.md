@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лекции господина Пуфа ~ [Chiffi](users/105/105831994080785626680-google)<sup>123</sup>
 * Не даренный подарок (Кася, Морра) ~ [Chiffi](users/105/105831994080785626680-google)<sup>122</sup>
 * Гаэльская волчица ~ [Quaff](users/122/12267158-vkontakte)<sup>54</sup>
 * Таинственный рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>53</sup>
@@ -30,7 +31,6 @@
 * Тетрология Эрагон ~ [Quaff](users/122/12267158-vkontakte)<sup>46</sup>
 * Герой нашего времени ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup>
 * Великий Гетсби ~ [Quaff](users/122/12267158-vkontakte)<sup>45</sup>
-* Нейромант ~ [Quaff](users/122/12267158-vkontakte)<sup>44</sup>
 
 
-_28.06.2019 17:06:44_
+_28.06.2019 17:09:12_

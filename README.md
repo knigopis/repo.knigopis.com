@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лекции господина Пуфа ~ [Chiffi](users/105/105831994080785626680-google)<sup>123</sup>
+    > кулинарная книга 19 век. читать поучительно и интересно, но тяжело((
+
 * Не даренный подарок (Кася, Морра) ~ [Chiffi](users/105/105831994080785626680-google)<sup>122</sup>
     > женское фентези. Может и глупо, но мило
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Занимательная микс историй, но не фонтан
 
 * Таинственный рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>53</sup>
-    > заключительная часть приключений тупоумного рыцаря из игр престолов.
 
 * Верный меч ~ [Quaff](users/122/12267158-vkontakte)<sup>52</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * 45 татуировок менеджера ~ [youno](users/302/302928912-vkontakte)<sup>24</sup>
 
-* В пробирке КИТ ~ [kissamasya](users/684/68439978-vkontakte)<sup>66</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>122</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>123</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>54</sup> 
 [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup> 
 [En](users/333/333646551-vkontakte)<sup>71</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>58</sup> 
 
 
-_28.06.2019 17:06:44_
+_28.06.2019 17:09:12_
