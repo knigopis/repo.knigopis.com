@@ -1,7 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>23</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>24</sup>
 ---
 
 ## 2018
+
+### Трон Люцифера
+Еремей Парнов
+
 
 ### Кузнецкий арсенал: памятники боевой технике в Новокузнецке
 Ростислав Бардокин
