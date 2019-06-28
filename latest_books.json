@@ -1,4 +1,16 @@
 {
+    "dLUewfpoQw": {
+        "id": "dLUewfpoQw",
+        "title": "Сумерки",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2019-06-28 11:45:32",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 7
+        }
+    },
     "8_9bkQQoGz": {
         "id": "8_9bkQQoGz",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "110891893506198620129-google",
             "nickname": "sssrg",
             "booksCount": 3
-        }
-    },
-    "NhdGX7kuH5": {
-        "id": "NhdGX7kuH5",
-        "title": "Подсознание может всё",
-        "author": "Джон Кехо",
-        "notes": "Нужно закладывать верные картинки в подсознание и устанавливать правильные аффирмации",
-        "createdAt": "2019-06-24 11:10:02",
-        "user": {
-            "id": "110891893506198620129-google",
-            "nickname": "sssrg",
-            "booksCount": 2
         }
     }
 }
