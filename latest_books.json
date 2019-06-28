@@ -1,4 +1,16 @@
 {
+    "0r6Dd7C0Jx": {
+        "id": "0r6Dd7C0Jx",
+        "title": "Ты и твое имя",
+        "author": "Лев Успенский",
+        "notes": "",
+        "createdAt": "2019-06-28 11:46:37",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 11
+        }
+    },
     "Ytp1X9evT7": {
         "id": "Ytp1X9evT7",
         "title": "Куколка",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 28
-        }
-    },
-    "cXf0HMpcF7": {
-        "id": "cXf0HMpcF7",
-        "title": "Женщина с бумажными цветами",
-        "author": "Донато Кариззи",
-        "notes": "",
-        "createdAt": "2019-06-24 17:56:23",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 26
         }
     }
 }
