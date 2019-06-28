@@ -1,4 +1,16 @@
 {
+    "6S-30VSvtu": {
+        "id": "6S-30VSvtu",
+        "title": "Ангелы и демоны",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2019-06-28 11:48:01",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 14
+        }
+    },
     "WtaKwlFDd8": {
         "id": "WtaKwlFDd8",
         "title": "Вампир против оборотня: Роберт Паттинсон и Тейлор Лотнер",
@@ -345,18 +357,6 @@
             "id": "110931306939441771638-google",
             "nickname": null,
             "booksCount": 4
-        }
-    },
-    "KJqzOl2mO0": {
-        "id": "KJqzOl2mO0",
-        "title": "Руководство по DevOps",
-        "author": "Дебуа Патрик , Ким Джен , Уиллис Джон , Хамбл Джез",
-        "notes": "",
-        "createdAt": "2019-06-24 20:44:32",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 71
         }
     }
 }
