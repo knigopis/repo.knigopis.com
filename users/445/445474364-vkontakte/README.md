@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>20</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>19</sup>
 ---
 
 ## 2016
-
-### Темный мир: Равновесие
-Марина и Сергей Дяченко
-
 
 ### Ключ от библиотеки Ивана Грозного
 Ксения Рождественская
