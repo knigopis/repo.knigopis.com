@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>61</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>60</sup>
 ---
 
 ## 2018
-
-### История Кузбасса
-Дмитрий Кацюба
-
 
 ### Путин
 Крис Хатчинс и Александр Коробко
