@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>32</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>31</sup>
 ---
 
 ## 2016
-
-### Ходячий Замок
-Диана Уинн Джонс
-
 
 ### Очень темное дело
 Артем Кораблев
