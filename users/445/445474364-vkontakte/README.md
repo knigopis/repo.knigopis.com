@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>14</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>13</sup>
 ---
 
 ## 2016
-
-### Загадка вечернего звонка
-Антон Иванов и Анна Устинова
-
 
 ### Загадка сапфирового креста
 Антон Иванов и Анна Устинова
