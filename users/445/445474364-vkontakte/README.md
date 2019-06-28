@@ -1,13 +1,5 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>69</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>68</sup>
 ---
-
-## 2019
-
-### Трон Люцифера
-Еремей Парнов
-> [2019-01] 
-
-
 
 ## 2018
 
