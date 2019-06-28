@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>31</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>30</sup>
 ---
 
 ## 2016
-
-### Очень темное дело
-Артем Кораблев
-
 
 ### Капитанская дочка
 Александр Пушкин
