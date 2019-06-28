@@ -1,4 +1,16 @@
 {
+    "HBYVfk1dar": {
+        "id": "HBYVfk1dar",
+        "title": "45 татуировок менеджера",
+        "author": "Максим Батырев",
+        "notes": "Очень интересно и увлекательно",
+        "createdAt": "2019-06-28 02:18:50",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 24
+        }
+    },
     "LeMhmaSD97": {
         "id": "LeMhmaSD97",
         "title": "В пробирке КИТ",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 67
-        }
-    },
-    "volEkGq53r": {
-        "id": "volEkGq53r",
-        "title": "У пропасти во ржи",
-        "author": "Джером Д Солинджер",
-        "notes": "Мальчишеские пиздострадания",
-        "createdAt": "2019-06-10 14:38:06",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 43
         }
     }
 }

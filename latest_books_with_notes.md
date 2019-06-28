@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 45 татуировок менеджера ~ [youno](users/302/302928912-vkontakte)<sup>24</sup>
 * В пробирке КИТ ~ [kissamasya](users/684/68439978-vkontakte)<sup>66</sup>
 * Жоэль Диккер ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup>
 * Восьмой круг подземки ~ [En](users/333/333646551-vkontakte)<sup>69</sup>
@@ -30,7 +31,6 @@
 * Величественные дома Уилтшира ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>462</sup>
 * Записи психолога ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>461</sup>
 * Сборник Сталкер ~ [En](users/333/333646551-vkontakte)<sup>67</sup>
-* У пропасти во ржи ~ [Quaff](users/122/12267158-vkontakte)<sup>43</sup>
 
 
-_26.06.2019 14:47:19_
+_28.06.2019 02:18:50_

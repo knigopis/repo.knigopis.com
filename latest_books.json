@@ -1,4 +1,16 @@
 {
+    "HBYVfk1dar": {
+        "id": "HBYVfk1dar",
+        "title": "45 татуировок менеджера",
+        "author": "Максим Батырев",
+        "notes": "Очень интересно и увлекательно",
+        "createdAt": "2019-06-28 02:18:50",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 24
+        }
+    },
     "LeMhmaSD97": {
         "id": "LeMhmaSD97",
         "title": "В пробирке КИТ",
@@ -345,18 +357,6 @@
             "id": "10202544960024508-facebook",
             "nickname": "Beaviska",
             "booksCount": 32
-        }
-    },
-    "w0h-CKIG9U": {
-        "id": "w0h-CKIG9U",
-        "title": "Метро 2034",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2019-06-20 13:50:02",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 42
         }
     }
 }
