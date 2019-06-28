@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>8</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>7</sup>
 ---
 
 ## 2015
-
-### Владимир Аверин
-В поисках бриллиантовой диадемы
-
 
 ### Что необходимо знать каждому мальчику
 Алексий Грачев
