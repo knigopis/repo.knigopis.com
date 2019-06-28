@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* и грянул гром ~ [En](users/333/333646551-vkontakte)<sup>70</sup>
+    > Благодаря некой фирме, организующей путешествия в далекое прошлое, мистер Эккельс отправляется на 60 миллионов лет назад. Охотясь на динозавров, он нечаянно убивает бабочку, и это убийство, как ни странно, провоцирует серьезные изменения в настоящем.
+
 * 45 татуировок менеджера ~ [youno](users/302/302928912-vkontakte)<sup>24</sup>
     > Очень интересно и увлекательно
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Я училась до двенадцатого класса в пансионате для девочек — закрытой частной школе, где даже учителя были исключительно женского пола. Акцент в ней делался на углубленное изучение религии, и мои родители думали, что теперь я полноценный, готовый к жизни человек. Поэтому и выкинули спокойно в море студенческой жизни, полное крутых волн, плавающих айсбергов и акул в виде мужчин! Но что такое акула против кита?
 
 * Жоэль Диккер ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup>
-    > на 10
 
 * Восьмой круг подземки ~ [En](users/333/333646551-vkontakte)<sup>69</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Хазарский словарь ~ [Quaff](users/122/12267158-vkontakte)<sup>50</sup>
 
-* Над пропастью во ржи ~ [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>70</sup> 
 [youno](users/302/302928912-vkontakte)<sup>24</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>66</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>141</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
-[En](users/333/333646551-vkontakte)<sup>69</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup> 
 
 
-_28.06.2019 02:18:50_
+_28.06.2019 05:14:50_
