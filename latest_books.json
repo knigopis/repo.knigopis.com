@@ -1,4 +1,16 @@
 {
+    "svdzOV6HH2": {
+        "id": "svdzOV6HH2",
+        "title": "Чтобы слушали и слышали! Влияние вашего голоса",
+        "author": "Джуди Аппс",
+        "notes": "",
+        "createdAt": "2019-06-28 11:51:17",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 20
+        }
+    },
     "8MO-YMsf3q": {
         "id": "8MO-YMsf3q",
         "title": "Пятнадцатилетний капитан",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 69
-        }
-    },
-    "vlNepk0k81": {
-        "id": "vlNepk0k81",
-        "title": "Тайна испанской шали",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2019-06-26 03:59:24",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 68
         }
     }
 }

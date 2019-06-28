@@ -1,7 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>19</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>20</sup>
 ---
 
 ## 2018
+
+### Чтобы слушали и слышали! Влияние вашего голоса
+Джуди Аппс
+
 
 ### Пятнадцатилетний капитан
 Жюль Верн
