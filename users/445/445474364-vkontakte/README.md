@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>30</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>29</sup>
 ---
 
 ## 2016
-
-### Капитанская дочка
-Александр Пушкин
-
 
 ### Дубровский
 Александр Пушкин
