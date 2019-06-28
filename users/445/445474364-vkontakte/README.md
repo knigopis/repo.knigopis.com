@@ -1,12 +1,5 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>47</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>46</sup>
 ---
-
-## 2018
-
-### Сволочей тоже жалко
-Виктория Токарева
-
-
 
 ## 2017
 
