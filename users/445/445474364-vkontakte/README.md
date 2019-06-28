@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>19</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>18</sup>
 ---
 
 ## 2016
-
-### Ключ от библиотеки Ивана Грозного
-Ксения Рождественская
-
 
 ### Первый матч
 Екатерина Неволина
