@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>18</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>17</sup>
 ---
 
 ## 2016
-
-### Первый матч
-Екатерина Неволина
-
 
 ### Ребенок и компьютер
 Ирина Медведева и Татьяна Шишова
