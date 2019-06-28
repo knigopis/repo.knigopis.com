@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>2</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>1</sup>
 ---
 
 ## 2015
-
-### Книга будущих командиров
-Анатолий Митяев
-
 
 ### Витя Малеев в школе и дома
 Николай Носов
