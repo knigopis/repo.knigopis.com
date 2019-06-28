@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Таинственный рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>53</sup>
+    > заключительная часть приключений тупоумного рыцаря из игр престолов.
+
 * Верный меч ~ [Quaff](users/122/12267158-vkontakte)<sup>52</sup>
     > История о междоусобицы рыцарских домов
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Интересная история про турнирные бои
 
 * Всадник без головы ~ [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup>
-    > Книга, если рассматривать ее в качестве детектива, совершенно неинтересная и примитивная. Почти сразу можно догадаться (осторожно: спойлер!), что убийца - Колхаун. Чем она заслужила такое признание, мне непонятно. Спасибо капитану Майн Риду за зря потраченное время.
 
 * Происшествие в старом замке ~ [En](users/333/333646551-vkontakte)<sup>71</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Восьмой круг подземки ~ [En](users/333/333646551-vkontakte)<sup>69</sup>
 
-* Диктатор ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>52</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>53</sup> 
 [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup> 
 [En](users/333/333646551-vkontakte)<sup>71</sup> 
 [Vitaly](users/109/109395490138181998437-google)<sup>8</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [johnybond32](users/304/304041461-yandex)<sup>4</sup> 
 
 
-_28.06.2019 17:01:01_
+_28.06.2019 17:01:55_

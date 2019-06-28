@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Таинственный рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>53</sup>
 * Верный меч ~ [Quaff](users/122/12267158-vkontakte)<sup>52</sup>
 * Межевой рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>51</sup>
 * Всадник без головы ~ [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup>
@@ -30,7 +31,6 @@
 * Нейромант ~ [Quaff](users/122/12267158-vkontakte)<sup>44</sup>
 * Золото скифов ~ [kissamasya](users/684/68439978-vkontakte)<sup>64</sup>
 * Двенадцать стульев ~ [kissamasya](users/684/68439978-vkontakte)<sup>63</sup>
-* Рождественская сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup>
 
 
-_28.06.2019 17:01:01_
+_28.06.2019 17:01:55_

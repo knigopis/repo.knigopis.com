@@ -1,4 +1,16 @@
 {
+    "VsPkl8SSr4": {
+        "id": "VsPkl8SSr4",
+        "title": "Таинственный рыцарь",
+        "author": "Джордж Мартин",
+        "notes": "заключительная часть приключений тупоумного рыцаря из игр престолов.",
+        "createdAt": "2019-06-28 17:01:55",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 53
+        }
+    },
     "dR2S2jWszM": {
         "id": "dR2S2jWszM",
         "title": "Верный меч",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 5
-        }
-    },
-    "Sn9WucDGTb": {
-        "id": "Sn9WucDGTb",
-        "title": "Темный мир. Равновесие",
-        "author": "Марина и Сергей Дяченко",
-        "notes": "",
-        "createdAt": "2019-06-28 10:53:24",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 4
         }
     }
 }
