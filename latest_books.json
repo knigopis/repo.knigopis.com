@@ -1,4 +1,16 @@
 {
+    "2zw-kXZiXl": {
+        "id": "2zw-kXZiXl",
+        "title": "Белая перчатка",
+        "author": "Майн Рид",
+        "notes": "",
+        "createdAt": "2019-06-28 11:55:03",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 29
+        }
+    },
     "Xk8fJGpJnT": {
         "id": "Xk8fJGpJnT",
         "title": "Белый вождь",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 1
-        }
-    },
-    "cirH1N6NJU": {
-        "id": "cirH1N6NJU",
-        "title": "Гиперфокус Как я научился делать больше, тратя меньше времени",
-        "author": "Бэйли Крис",
-        "notes": "",
-        "createdAt": "2019-06-28 06:45:20",
-        "user": {
-            "id": "109395490138181998437-google",
-            "nickname": "Vitaly",
-            "booksCount": 8
         }
     }
 }

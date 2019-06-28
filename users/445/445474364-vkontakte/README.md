@@ -1,7 +1,12 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>28</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>29</sup>
 ---
 
 ## 2019
+
+### Белая перчатка
+Майн Рид
+> [2019-05] 
+
 
 ### Белый вождь
 Майн Рид
