@@ -1,7 +1,12 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>51</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>52</sup>
 ---
 
 ## 2019
+
+### Верный меч
+Джордж Мартин
+> [2019-06-25] История о междоусобицы рыцарских домов
+
 
 ### Межевой рыцарь
 Джордж Мартин

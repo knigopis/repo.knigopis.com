@@ -1,4 +1,16 @@
 {
+    "dR2S2jWszM": {
+        "id": "dR2S2jWszM",
+        "title": "Верный меч",
+        "author": "Джордж Мартин",
+        "notes": "История о междоусобицы рыцарских домов",
+        "createdAt": "2019-06-28 17:01:01",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 52
+        }
+    },
     "1vILqGnkP5": {
         "id": "1vILqGnkP5",
         "title": "Межевой рыцарь",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 4
-        }
-    },
-    "IrYKoD7bGp": {
-        "id": "IrYKoD7bGp",
-        "title": "Мистическая Москва. Ключ от библиотеки Ивана Грозного",
-        "author": "Ксения Рождественская",
-        "notes": "",
-        "createdAt": "2019-06-28 10:52:42",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 3
         }
     }
 }

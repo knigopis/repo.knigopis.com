@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Верный меч ~ [Quaff](users/122/12267158-vkontakte)<sup>52</sup>
 * Межевой рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>51</sup>
 * Всадник без головы ~ [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup>
 * Происшествие в старом замке ~ [En](users/333/333646551-vkontakte)<sup>71</sup>
@@ -30,7 +31,6 @@
 * Золото скифов ~ [kissamasya](users/684/68439978-vkontakte)<sup>64</sup>
 * Двенадцать стульев ~ [kissamasya](users/684/68439978-vkontakte)<sup>63</sup>
 * Рождественская сказка ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>465</sup>
-* Харальд Поттер. Огнём и сталью. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>464</sup>
 
 
-_28.06.2019 16:59:48_
+_28.06.2019 17:01:01_
