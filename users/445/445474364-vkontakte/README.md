@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>48</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>47</sup>
 ---
 
 ## 2018
-
-### Автографы на льду и в жизни
-Александр Гольцев
-
 
 ### Сволочей тоже жалко
 Виктория Токарева
