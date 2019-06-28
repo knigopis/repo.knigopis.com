@@ -1,7 +1,11 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>21</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>22</sup>
 ---
 
 ## 2018
+
+### Сталин: в преддверии войны
+Александр Орлов
+
 
 ### У нас это невозможно
 Синклер Льюис
