@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[olegshirokikh2001](users/445/445474364-vkontakte)<sup>69</sup> 
 [Vitaly](users/109/109395490138181998437-google)<sup>8</sup> 
 [En](users/333/333646551-vkontakte)<sup>70</sup> 
 [youno](users/302/302928912-vkontakte)<sup>24</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116658081998844854155-googleplus)<sup>1</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>58</sup> 
 [johnybond32](users/304/304041461-yandex)<sup>4</sup> 
-[lashmyash](users/836/83670525-vkontakte)<sup>0</sup> 
 
 
-_28.06.2019 06:45:20_
+_28.06.2019 10:24:06_
