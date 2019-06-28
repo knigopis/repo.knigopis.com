@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>55</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>54</sup>
 ---
 
 ## 2018
-
-### Марш тридцатого года
-Антон Макаренко
-
 
 ### Ангелы и демоны
 Дэн Браун
