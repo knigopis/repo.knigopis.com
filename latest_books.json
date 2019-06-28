@@ -1,4 +1,16 @@
 {
+    "GKTs8swYlx": {
+        "id": "GKTs8swYlx",
+        "title": "Мифы русского народа",
+        "author": "Елена Левкиевская",
+        "notes": "",
+        "createdAt": "2019-06-28 11:49:12",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 16
+        }
+    },
     "7IXwIjV75m": {
         "id": "7IXwIjV75m",
         "title": "Робинзон Крузо",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 40
-        }
-    },
-    "gEUY4edVKu": {
-        "id": "gEUY4edVKu",
-        "title": "Здесь курят",
-        "author": "Кристофер Бакли",
-        "notes": "",
-        "createdAt": "2019-06-25 09:03:39",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 170
         }
     }
 }
