@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>24</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>23</sup>
 ---
 
 ## 2016
-
-### Школа Робинзонов
-Жюль Верн
-
 
 ### Приключения Одиссея
 Елена Тудоровская
