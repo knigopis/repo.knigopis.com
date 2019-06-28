@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>65</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>64</sup>
 ---
 
 ## 2018
-
-### Тайные слуги
-Рональд Сет
-
 
 ### У нас это невозможно
 Синклер Льюис
