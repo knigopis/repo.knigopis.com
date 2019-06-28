@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>35</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>34</sup>
 ---
 
 ## 2016
-
-### Люди-феномены
-Николай Непомнящий
-
 
 ### Записки охотника
 Иван Тургенев
