@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>60</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>59</sup>
 ---
 
 ## 2018
-
-### Путин
-Крис Хатчинс и Александр Коробко
-
 
 ### Мифы русского народа
 Елена Левкиевская
