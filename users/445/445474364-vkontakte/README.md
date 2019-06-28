@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>37</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>36</sup>
 ---
 
 ## 2017
-
-### Веселые похороны
-Людмила Улицкая
-
 
 ### Маркус и Диана
 Клаус Хагерюп
