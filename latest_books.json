@@ -1,4 +1,16 @@
 {
+    "sBZxILeMyw": {
+        "id": "sBZxILeMyw",
+        "title": "Маркус и Диана",
+        "author": "Клаус Хагерюп",
+        "notes": "",
+        "createdAt": "2019-06-28 11:46:12",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 9
+        }
+    },
     "m3i2H2Qmap": {
         "id": "m3i2H2Qmap",
         "title": "Ходячий Замок",
@@ -345,18 +357,6 @@
             "id": "110891893506198620129-google",
             "nickname": "sssrg",
             "booksCount": 5
-        }
-    },
-    "F8gOC3g13U": {
-        "id": "F8gOC3g13U",
-        "title": "От нуля к единице",
-        "author": "Питер Тиль",
-        "notes": "Компания должна продать себя сотрудникам и инвесторам. Команда всегда должна быть крутой",
-        "createdAt": "2019-06-24 11:15:00",
-        "user": {
-            "id": "110891893506198620129-google",
-            "nickname": "sssrg",
-            "booksCount": 4
         }
     }
 }
