@@ -1,4 +1,16 @@
 {
+    "Ytp1X9evT7": {
+        "id": "Ytp1X9evT7",
+        "title": "Куколка",
+        "author": "Андрей Кивинов",
+        "notes": "",
+        "createdAt": "2019-06-28 11:46:29",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 10
+        }
+    },
     "sBZxILeMyw": {
         "id": "sBZxILeMyw",
         "title": "Маркус и Диана",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 26
-        }
-    },
-    "cgHAOtUa8J": {
-        "id": "cgHAOtUa8J",
-        "title": "На пределе",
-        "author": "Эрик Ларсен",
-        "notes": "Адская неделя. Работа над привычками. Планы на неделю, месяц год. Переключение различных режимом",
-        "createdAt": "2019-06-24 11:19:52",
-        "user": {
-            "id": "110891893506198620129-google",
-            "nickname": "sssrg",
-            "booksCount": 5
         }
     }
 }
