@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>56</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>55</sup>
 ---
 
 ## 2018
-
-### Флаги на башнях
-Антон Макаренко
-
 
 ### Марш тридцатого года
 Антон Макаренко
