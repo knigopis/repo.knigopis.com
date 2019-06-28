@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>15</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>14</sup>
 ---
 
 ## 2016
-
-### Лоскутик и Облако
-Софья Прокофьева
-
 
 ### Загадка вечернего звонка
 Антон Иванов и Анна Устинова
