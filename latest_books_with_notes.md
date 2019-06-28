@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Происшествие в старом замке ~ [En](users/333/333646551-vkontakte)<sup>71</sup>
 * и грянул гром ~ [En](users/333/333646551-vkontakte)<sup>70</sup>
 * 45 татуировок менеджера ~ [youno](users/302/302928912-vkontakte)<sup>24</sup>
 * В пробирке КИТ ~ [kissamasya](users/684/68439978-vkontakte)<sup>66</sup>
@@ -30,7 +31,6 @@
 * Харальд Поттер. Огнём и сталью. ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>464</sup>
 * Семикурсники ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>463</sup>
 * Величественные дома Уилтшира ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>462</sup>
-* Записи психолога ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>461</sup>
 
 
-_28.06.2019 05:14:50_
+_28.06.2019 11:27:00_

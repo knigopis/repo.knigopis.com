@@ -1,4 +1,16 @@
 {
+    "gZRKQPMoXd": {
+        "id": "gZRKQPMoXd",
+        "title": "Происшествие в старом замке",
+        "author": "Кристи Агата",
+        "notes": "Искусно построенные произведения Агаты Кристи отличает поразительное умение направить читателя по неверному следу и держать в постоянном напряжении до момента ошеломительной развязки.",
+        "createdAt": "2019-06-28 11:27:00",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 71
+        }
+    },
     "knPwJKChoM": {
         "id": "knPwJKChoM",
         "title": "и грянул гром",
@@ -345,18 +357,6 @@
             "id": "317244423-vkontakte",
             "nickname": "thejokerinthefog",
             "booksCount": 462
-        }
-    },
-    "iJFBE0K6OS": {
-        "id": "iJFBE0K6OS",
-        "title": "Записи психолога",
-        "author": "Loftr",
-        "notes": "Фанфик",
-        "createdAt": "2019-06-11 16:19:20",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 461
         }
     }
 }

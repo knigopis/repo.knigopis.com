@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 71,
+        "updatedAt": "2019-06-28 11:27:00"
+    },
     "445474364-vkontakte": {
         "id": "445474364-vkontakte",
         "nickname": "olegshirokikh2001",
@@ -10,12 +16,6 @@
         "nickname": "Vitaly",
         "booksCount": 8,
         "updatedAt": "2019-06-28 06:45:20"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 70,
-        "updatedAt": "2019-06-28 05:14:50"
     },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
