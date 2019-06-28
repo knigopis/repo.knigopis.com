@@ -1,4 +1,16 @@
 {
+    "cirH1N6NJU": {
+        "id": "cirH1N6NJU",
+        "title": "Гиперфокус Как я научился делать больше, тратя меньше времени",
+        "author": "Бэйли Крис",
+        "notes": "",
+        "createdAt": "2019-06-28 06:45:20",
+        "user": {
+            "id": "109395490138181998437-google",
+            "nickname": "Vitaly",
+            "booksCount": 8
+        }
+    },
     "knPwJKChoM": {
         "id": "knPwJKChoM",
         "title": "и грянул гром",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 50
-        }
-    },
-    "TJ1j1Ntqoz": {
-        "id": "TJ1j1Ntqoz",
-        "title": "Посторонний",
-        "author": "Камю",
-        "notes": "",
-        "createdAt": "2019-06-21 01:37:29",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 49
         }
     }
 }

@@ -1,5 +1,13 @@
-# List of books read by [Vitaly](https://plus.google.com/109395490138181998437)<sup>7</sup>
+# List of books read by [Vitaly](https://plus.google.com/109395490138181998437)<sup>8</sup>
 ---
+
+## 2019
+
+### Гиперфокус Как я научился делать больше, тратя меньше времени
+Бэйли Крис
+> [2019-06-27] 
+
+
 
 ## 2018
 
