@@ -1,4 +1,16 @@
 {
+    "PQWJvJO2Al": {
+        "id": "PQWJvJO2Al",
+        "title": "Драматическая трилогия",
+        "author": "Алексей Толстой",
+        "notes": "",
+        "createdAt": "2019-06-28 11:53:27",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 25
+        }
+    },
     "ZcfVSjMxCc": {
         "id": "ZcfVSjMxCc",
         "title": "Трон Люцифера",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 66
-        }
-    },
-    "EglK1tdT2Z": {
-        "id": "EglK1tdT2Z",
-        "title": "Ромео и Джульетта",
-        "author": "У.Шекспир",
-        "notes": "",
-        "createdAt": "2019-06-26 14:40:48",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 65
         }
     }
 }
