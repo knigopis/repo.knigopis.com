@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>51</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>50</sup>
 ---
 
 ## 2018
-
-### Ты и твое имя
-Лев Успенский
-
 
 ### Книга собаковода
 Михаил Псалмов
