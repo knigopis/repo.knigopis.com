@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гаэльская волчица ~ [Quaff](users/122/12267158-vkontakte)<sup>54</sup>
 * Таинственный рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>53</sup>
 * Верный меч ~ [Quaff](users/122/12267158-vkontakte)<sup>52</sup>
 * Межевой рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>51</sup>
@@ -30,7 +31,6 @@
 * Великий Гетсби ~ [Quaff](users/122/12267158-vkontakte)<sup>45</sup>
 * Нейромант ~ [Quaff](users/122/12267158-vkontakte)<sup>44</sup>
 * Золото скифов ~ [kissamasya](users/684/68439978-vkontakte)<sup>64</sup>
-* Двенадцать стульев ~ [kissamasya](users/684/68439978-vkontakte)<sup>63</sup>
 
 
-_28.06.2019 17:01:55_
+_28.06.2019 17:05:24_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гаэльская волчица ~ [Quaff](users/122/12267158-vkontakte)<sup>54</sup>
+    > Занимательная микс историй, но не фонтан
+
 * Таинственный рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>53</sup>
     > заключительная часть приключений тупоумного рыцаря из игр престолов.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > История о междоусобицы рыцарских домов
 
 * Межевой рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>51</sup>
-    > Интересная история про турнирные бои
 
 * Всадник без головы ~ [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Жоэль Диккер ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup>
 
-* Восьмой круг подземки ~ [En](users/333/333646551-vkontakte)<sup>69</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>53</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>54</sup> 
 [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup> 
 [En](users/333/333646551-vkontakte)<sup>71</sup> 
 [Vitaly](users/109/109395490138181998437-google)<sup>8</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [johnybond32](users/304/304041461-yandex)<sup>4</sup> 
 
 
-_28.06.2019 17:01:55_
+_28.06.2019 17:05:24_

@@ -1,4 +1,16 @@
 {
+    "Ot8FvRvlOo": {
+        "id": "Ot8FvRvlOo",
+        "title": "Гаэльская волчица",
+        "author": "Лёвенбрюк Анри",
+        "notes": "Занимательная микс историй, но не фонтан",
+        "createdAt": "2019-06-28 17:05:24",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 54
+        }
+    },
     "VsPkl8SSr4": {
         "id": "VsPkl8SSr4",
         "title": "Таинственный рыцарь",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 71
-        }
-    },
-    "LeHLK0mrhQ": {
-        "id": "LeHLK0mrhQ",
-        "title": "Неугасимая лампада \"Курска\"",
-        "author": "Митрофан Баданин",
-        "notes": "",
-        "createdAt": "2019-06-28 10:53:45",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 5
         }
     }
 }
