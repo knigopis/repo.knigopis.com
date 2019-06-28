@@ -1,4 +1,16 @@
 {
+    "G2Namm5YMN": {
+        "id": "G2Namm5YMN",
+        "title": "Кузнецкий арсенал: памятники боевой технике в Новокузнецке",
+        "author": "Ростислав Бардокин",
+        "notes": "",
+        "createdAt": "2019-06-28 11:52:24",
+        "user": {
+            "id": "445474364-vkontakte",
+            "nickname": "olegshirokikh2001",
+            "booksCount": 23
+        }
+    },
     "Vn64IzF-T5": {
         "id": "Vn64IzF-T5",
         "title": "Сталин: в преддверии войны",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 142
-        }
-    },
-    "c2d_c2cf7Q": {
-        "id": "c2d_c2cf7Q",
-        "title": "Жоэль Диккер",
-        "author": "Правда о деле Гарри Квеберта",
-        "notes": "на 10",
-        "createdAt": "2019-06-26 13:23:52",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 59
         }
     }
 }
