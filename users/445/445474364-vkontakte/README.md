@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>21</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>20</sup>
 ---
 
 ## 2016
-
-### Руслан и Людмила
-Александр Пушкин
-
 
 ### Темный мир: Равновесие
 Марина и Сергей Дяченко
