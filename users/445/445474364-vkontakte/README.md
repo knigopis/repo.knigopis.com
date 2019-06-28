@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>40</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>39</sup>
 ---
 
 ## 2017
-
-### Гамлет, принц Датский
-Уильям Шекспир
-
 
 ### Горе от ума
 Александр Грибоедов
