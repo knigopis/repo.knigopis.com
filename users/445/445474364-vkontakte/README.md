@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>34</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>33</sup>
 ---
 
 ## 2016
-
-### Записки охотника
-Иван Тургенев
-
 
 ### А зори здесь тихие...
 Борис Васильев
