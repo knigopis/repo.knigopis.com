@@ -1,11 +1,7 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>23</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>22</sup>
 ---
 
 ## 2016
-
-### Приключения Одиссея
-Елена Тудоровская
-
 
 ### Путь к себе
 Михаил Гинзбург
