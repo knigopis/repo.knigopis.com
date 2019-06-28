@@ -1,5 +1,12 @@
-# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>12</sup>
+# List of books read by [olegshirokikh2001](http://vk.com/id445474364)<sup>13</sup>
 ---
+
+## 2017
+
+### Вампир против оборотня: Роберт Паттинсон и Тейлор Лотнер
+Мартин Хоуден
+
+
 
 ## 2016
 
