@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>706</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>707</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>123</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>54</sup> 
 [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>58</sup> 
 
 
-_28.06.2019 20:30:16_
+_29.06.2019 08:55:43_
