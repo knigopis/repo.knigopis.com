@@ -1,4 +1,16 @@
 {
+    "A0M49rpF5G": {
+        "id": "A0M49rpF5G",
+        "title": "Невеста зверя",
+        "author": "Эллен Датлоу",
+        "notes": "",
+        "createdAt": "2019-06-29 19:13:07",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 82
+        }
+    },
     "D55iIqQMdY": {
         "id": "D55iIqQMdY",
         "title": "Восхождение Сенлина",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 15
-        }
-    },
-    "6S-30VSvtu": {
-        "id": "6S-30VSvtu",
-        "title": "Ангелы и демоны",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2019-06-28 11:48:01",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 14
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>81</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>82</sup>
 ---
 
 ## 2019
+
+### Невеста зверя
+Эллен Датлоу
+> [2019-06-28] 
+
 
 ### Прощай, Хемингуэй!
 Леонардо Падура
