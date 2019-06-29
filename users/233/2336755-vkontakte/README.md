@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>82</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>83</sup>
 ---
 
 ## 2019
+
+### На западном фронте без перемен
+Эрих Мария Ремарк
+> [2019-06-29] 
+
 
 ### Невеста зверя
 Эллен Датлоу
