@@ -1,4 +1,10 @@
 {
+    "178551812-vkontakte": {
+        "id": "178551812-vkontakte",
+        "nickname": "Bruss",
+        "booksCount": 0,
+        "updatedAt": "2019-06-29 16:00:40"
+    },
     "22742452-yandex": {
         "id": "22742452-yandex",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": "Rashidrush",
         "booksCount": 2,
         "updatedAt": "2019-06-15 22:31:25"
-    },
-    "116658081998844854155-googleplus": {
-        "id": "116658081998844854155-googleplus",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2019-06-15 09:33:32"
     }
 }
