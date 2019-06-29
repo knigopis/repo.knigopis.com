@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Bruss](users/178/178551812-vkontakte)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>64</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>707</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>123</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>65</sup> 
 [panickme](users/545/545226830-vkontakte)<sup>0</sup> 
 [Rashidrush](users/114/114946019255563824371-google)<sup>2</sup> 
-[](users/116/116658081998844854155-googleplus)<sup>1</sup> 
 
 
-_29.06.2019 13:08:57_
+_29.06.2019 16:00:43_
