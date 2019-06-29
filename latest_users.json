@@ -1,4 +1,10 @@
 {
+    "22742452-yandex": {
+        "id": "22742452-yandex",
+        "nickname": "rNix",
+        "booksCount": 64,
+        "updatedAt": "2019-06-29 13:08:57"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2019-06-15 09:33:32"
-    },
-    "152488954-vkontakte": {
-        "id": "152488954-vkontakte",
-        "nickname": "kasikandriena",
-        "booksCount": 58,
-        "updatedAt": "2019-06-15 09:27:53"
     }
 }
