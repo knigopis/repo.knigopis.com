@@ -1,4 +1,10 @@
 {
+    "244065473-vkontakte": {
+        "id": "244065473-vkontakte",
+        "nickname": "ulole",
+        "booksCount": 0,
+        "updatedAt": "2019-06-30 20:38:43"
+    },
     "13245747-vkontakte": {
         "id": "13245747-vkontakte",
         "nickname": "wdqwdqwd23",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2019-06-20 12:12:46"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 17,
-        "updatedAt": "2019-06-18 12:20:20"
     }
 }
