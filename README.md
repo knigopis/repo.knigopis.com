@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/116/116927503362988481359-googleplus)<sup>0</sup> 
 [Zarech](users/116/116927503362988481359-google)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>83</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>142</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102336841322497739470-google)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>17</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>65</sup> 
-[panickme](users/545/545226830-vkontakte)<sup>0</sup> 
 
 
-_30.06.2019 14:44:20_
+_30.06.2019 14:46:35_
