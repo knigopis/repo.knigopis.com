@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[wdqwdqwd23](users/132/13245747-vkontakte)<sup>0</sup> 
 [Zarech](users/116/116927503362988481359-google)<sup>1</sup> 
 [](users/116/116927503362988481359-googleplus)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>83</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>42</sup> 
 [](users/102/102336841322497739470-google)<sup>1</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>17</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>65</sup> 
 
 
-_30.06.2019 15:36:14_
+_30.06.2019 16:38:51_
