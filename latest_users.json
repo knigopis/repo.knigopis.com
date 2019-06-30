@@ -1,4 +1,10 @@
 {
+    "116927503362988481359-googleplus": {
+        "id": "116927503362988481359-googleplus",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-06-30 14:46:33"
+    },
     "116927503362988481359-google": {
         "id": "116927503362988481359-google",
         "nickname": "Zarech",
@@ -172,11 +178,5 @@
         "nickname": "sab_olya",
         "booksCount": 65,
         "updatedAt": "2019-06-18 07:58:39"
-    },
-    "545226830-vkontakte": {
-        "id": "545226830-vkontakte",
-        "nickname": "panickme",
-        "booksCount": 0,
-        "updatedAt": "2019-06-17 12:48:51"
     }
 }
