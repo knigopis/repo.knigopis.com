@@ -1,4 +1,16 @@
 {
+    "oSbVVpd7L0": {
+        "id": "oSbVVpd7L0",
+        "title": "LVLUP",
+        "author": "Данияр Сугралинов",
+        "notes": "Цикл из 3х книг",
+        "createdAt": "2019-06-30 15:36:14",
+        "user": {
+            "id": "116927503362988481359-google",
+            "nickname": "Zarech",
+            "booksCount": 1
+        }
+    },
     "NCe_iyEt8W": {
         "id": "NCe_iyEt8W",
         "title": "На западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 17
-        }
-    },
-    "GKTs8swYlx": {
-        "id": "GKTs8swYlx",
-        "title": "Мифы русского народа",
-        "author": "Елена Левкиевская",
-        "notes": "",
-        "createdAt": "2019-06-28 11:49:12",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 16
         }
     }
 }
