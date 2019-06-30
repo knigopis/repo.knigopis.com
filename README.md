@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ulole](users/244/244065473-vkontakte)<sup>0</sup> 
 [wdqwdqwd23](users/132/13245747-vkontakte)<sup>0</sup> 
 [Zarech](users/116/116927503362988481359-google)<sup>1</sup> 
 [](users/116/116927503362988481359-googleplus)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>42</sup> 
 [](users/102/102336841322497739470-google)<sup>1</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>17</sup> 
 
 
-_30.06.2019 16:38:51_
+_30.06.2019 20:38:45_
