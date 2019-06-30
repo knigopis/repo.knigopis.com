@@ -1,4 +1,10 @@
 {
+    "13245747-vkontakte": {
+        "id": "13245747-vkontakte",
+        "nickname": "wdqwdqwd23",
+        "booksCount": 0,
+        "updatedAt": "2019-06-30 16:38:49"
+    },
     "116927503362988481359-google": {
         "id": "116927503362988481359-google",
         "nickname": "Zarech",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 17,
         "updatedAt": "2019-06-18 12:20:20"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 65,
-        "updatedAt": "2019-06-18 07:58:39"
     }
 }
