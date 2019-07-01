@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кот Артур и ловушка для Земли ~ [kissamasya](users/684/68439978-vkontakte)<sup>67</sup>
 * Лекции господина Пуфа ~ [Chiffi](users/105/105831994080785626680-google)<sup>123</sup>
 * Не даренный подарок (Кася, Морра) ~ [Chiffi](users/105/105831994080785626680-google)<sup>122</sup>
 * Гаэльская волчица ~ [Quaff](users/122/12267158-vkontakte)<sup>54</sup>
@@ -30,7 +31,6 @@
 * Дэнни -  чемпион мира ~ [Garka](users/115/115753719718250012620-google)<sup>222</sup>
 * Тетрология Эрагон ~ [Quaff](users/122/12267158-vkontakte)<sup>46</sup>
 * Герой нашего времени ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>7</sup>
-* Великий Гетсби ~ [Quaff](users/122/12267158-vkontakte)<sup>45</sup>
 
 
-_28.06.2019 17:09:12_
+_01.07.2019 16:46:00_

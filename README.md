@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кот Артур и ловушка для Земли ~ [kissamasya](users/684/68439978-vkontakte)<sup>67</sup>
+    > Свершилось! Кот Артур сделал то, что не удавалось никому прежде: поймал неизвестный радиосигнал из космоса. Но открытие обернулось катастрофой. Артуру грозит отчисление из Градбургского университета, если в течение двух недель он не сумеет доказать существование инопланетян… Наконец-то! Эксперимент входит в финальную стадию. Скоро эта маленькая отсталая планета угодит в ловушку и займет свое место в грандиозных замыслах покорителей Галактики… Смогут ли спасти Землю упрямый студент, его изобретательные друзья и… Лис Улисс, который, конечно, появится в нужный момент?
+
 * Лекции господина Пуфа ~ [Chiffi](users/105/105831994080785626680-google)<sup>123</sup>
     > кулинарная книга 19 век. читать поучительно и интересно, но тяжело((
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > женское фентези. Может и глупо, но мило
 
 * Гаэльская волчица ~ [Quaff](users/122/12267158-vkontakte)<sup>54</sup>
-    > Занимательная микс историй, но не фонтан
 
 * Таинственный рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>53</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * и грянул гром ~ [En](users/333/333646551-vkontakte)<sup>70</sup>
 
-* 45 татуировок менеджера ~ [youno](users/302/302928912-vkontakte)<sup>24</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>67</sup> 
 [ulole](users/244/244065473-vkontakte)<sup>0</sup> 
 [wdqwdqwd23](users/132/13245747-vkontakte)<sup>0</sup> 
 [Zarech](users/116/116927503362988481359-google)<sup>1</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>71</sup> 
 [Vitaly](users/109/109395490138181998437-google)<sup>8</sup> 
 [youno](users/302/302928912-vkontakte)<sup>24</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>66</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102336841322497739470-google)<sup>1</sup> 
 
 
-_30.06.2019 20:38:45_
+_01.07.2019 16:46:00_
