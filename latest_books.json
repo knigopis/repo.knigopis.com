@@ -1,4 +1,16 @@
 {
+    "XpL2R-TV-f": {
+        "id": "XpL2R-TV-f",
+        "title": "Территория Дозоров",
+        "author": "сборник",
+        "notes": "не плохо, но читать не обязательно.",
+        "createdAt": "2019-07-02 04:59:54",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 124
+        }
+    },
     "hFcYtjkiqv": {
         "id": "hFcYtjkiqv",
         "title": "Кот Артур и ловушка для Земли",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 19
-        }
-    },
-    "WI_0erU2wG": {
-        "id": "WI_0erU2wG",
-        "title": "Путин. Путеводитель для неравнодушных",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-06-28 11:50:26",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 18
         }
     }
 }
