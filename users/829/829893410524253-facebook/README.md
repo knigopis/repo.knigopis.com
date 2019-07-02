@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>40</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>41</sup>
 ---
 
 ## 2019
+
+### Оно
+Стівен Кінг
+> [2019-07-02] 9/10 классика
+
 
 ### Містер Мерседес
 Стівен Кінг

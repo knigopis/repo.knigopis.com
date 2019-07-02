@@ -1,4 +1,16 @@
 {
+    "UO0vlMdrAC": {
+        "id": "UO0vlMdrAC",
+        "title": "Оно",
+        "author": "Стівен Кінг",
+        "notes": "9/10 классика",
+        "createdAt": "2019-07-02 19:29:56",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 41
+        }
+    },
     "XpL2R-TV-f": {
         "id": "XpL2R-TV-f",
         "title": "Территория Дозоров",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 20
-        }
-    },
-    "8MO-YMsf3q": {
-        "id": "8MO-YMsf3q",
-        "title": "Пятнадцатилетний капитан",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2019-06-28 11:50:51",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 19
         }
     }
 }

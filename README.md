@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Оно ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup>
+    > 9/10 классика
+
 * Территория Дозоров ~ [Chiffi](users/105/105831994080785626680-google)<sup>124</sup>
     > не плохо, но читать не обязательно.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Свершилось! Кот Артур сделал то, что не удавалось никому прежде: поймал неизвестный радиосигнал из космоса. Но открытие обернулось катастрофой. Артуру грозит отчисление из Градбургского университета, если в течение двух недель он не сумеет доказать существование инопланетян… Наконец-то! Эксперимент входит в финальную стадию. Скоро эта маленькая отсталая планета угодит в ловушку и займет свое место в грандиозных замыслах покорителей Галактики… Смогут ли спасти Землю упрямый студент, его изобретательные друзья и… Лис Улисс, который, конечно, появится в нужный момент?
 
 * Лекции господина Пуфа ~ [Chiffi](users/105/105831994080785626680-google)<sup>123</sup>
-    > кулинарная книга 19 век. читать поучительно и интересно, но тяжело((
 
 * Не даренный подарок (Кася, Морра) ~ [Chiffi](users/105/105831994080785626680-google)<sup>122</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Всадник без головы ~ [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup>
 
-* Происшествие в старом замке ~ [En](users/333/333646551-vkontakte)<sup>71</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>124</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>67</sup> 
 [ulole](users/244/244065473-vkontakte)<sup>0</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>170</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>71</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>28</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102336841322497739470-google)<sup>1</sup> 
 
 
-_02.07.2019 04:59:55_
+_02.07.2019 19:29:56_
