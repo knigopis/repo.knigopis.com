@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Проклятие соединившее наши сердца ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>469</sup>
 * Слизеринский принц ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>468</sup>
 * Хороший Доктор ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>467</sup>
 * Баллада об Аврорате и ближних его пределах ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>466</sup>
@@ -30,7 +31,6 @@
 * Заводной апельсин ~ [Quaff](users/122/12267158-vkontakte)<sup>49</sup>
 * О дивный новый мир ~ [Quaff](users/122/12267158-vkontakte)<sup>48</sup>
 * 451 градус по фарингейту ~ [Quaff](users/122/12267158-vkontakte)<sup>47</sup>
-* Ружья, микробы и сталь. История человеческих сообществ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup>
 
 
-_03.07.2019 16:07:28_
+_03.07.2019 16:08:04_

@@ -1,4 +1,16 @@
 {
+    "lvcgsqCRHL": {
+        "id": "lvcgsqCRHL",
+        "title": "Проклятие соединившее наши сердца",
+        "author": "Яойный Мандарин",
+        "notes": "Фанфик",
+        "createdAt": "2019-07-03 16:08:03",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 469
+        }
+    },
     "gW4Q-ju6zn": {
         "id": "gW4Q-ju6zn",
         "title": "Слизеринский принц",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 47
-        }
-    },
-    "E7gFWjZdag": {
-        "id": "E7gFWjZdag",
-        "title": "Ружья, микробы и сталь. История человеческих сообществ",
-        "author": "Даймонд Джаред М.",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/139578230/",
-        "createdAt": "2019-06-17 12:58:06",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 202
         }
     }
 }
