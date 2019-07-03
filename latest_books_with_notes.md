@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* К оружию! К оружию! ~ [Garka](users/115/115753719718250012620-google)<sup>224</sup>
 * Оно ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup>
 * Территория Дозоров ~ [Chiffi](users/105/105831994080785626680-google)<sup>124</sup>
 * Кот Артур и ловушка для Земли ~ [kissamasya](users/684/68439978-vkontakte)<sup>67</sup>
@@ -30,7 +31,6 @@
 * Джордж і таємний ключ до Всесвіту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup>
 * Заклятие дома с химерами ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>38</sup>
 * Гуцульські співанки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>37</sup>
-* Дэнни -  чемпион мира ~ [Garka](users/115/115753719718250012620-google)<sup>222</sup>
 
 
-_02.07.2019 19:29:56_
+_03.07.2019 15:35:00_

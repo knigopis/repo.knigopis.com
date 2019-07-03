@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* К оружию! К оружию! ~ [Garka](users/115/115753719718250012620-google)<sup>224</sup>
+    > Шикарная книга. Сочетание юмора, сарказма, философии и детектива. Моркоу и Ваймс отличные персонажи
+
 * Оно ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup>
     > 9/10 классика
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > не плохо, но читать не обязательно.
 
 * Кот Артур и ловушка для Земли ~ [kissamasya](users/684/68439978-vkontakte)<sup>67</sup>
-    > Свершилось! Кот Артур сделал то, что не удавалось никому прежде: поймал неизвестный радиосигнал из космоса. Но открытие обернулось катастрофой. Артуру грозит отчисление из Градбургского университета, если в течение двух недель он не сумеет доказать существование инопланетян… Наконец-то! Эксперимент входит в финальную стадию. Скоро эта маленькая отсталая планета угодит в ловушку и займет свое место в грандиозных замыслах покорителей Галактики… Смогут ли спасти Землю упрямый студент, его изобретательные друзья и… Лис Улисс, который, конечно, появится в нужный момент?
 
 * Лекции господина Пуфа ~ [Chiffi](users/105/105831994080785626680-google)<sup>123</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Межевой рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>51</sup>
 
-* Всадник без головы ~ [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>224</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>708</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>124</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>28</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>26</sup> 
 [sssrg](users/110/110891893506198620129-google)<sup>5</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>223</sup> 
 [me](users/381/381417697-yandex)<sup>49</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>42</sup> 
 [](users/102/102336841322497739470-google)<sup>1</sup> 
 
 
-_03.07.2019 11:35:25_
+_03.07.2019 15:35:00_
