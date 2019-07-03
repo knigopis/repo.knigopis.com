@@ -1,4 +1,16 @@
 {
+    "0axHJkWFWx": {
+        "id": "0axHJkWFWx",
+        "title": "Проклятое бессмертие",
+        "author": "Kotya mors",
+        "notes": "Фанфик",
+        "createdAt": "2019-07-03 16:09:18",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 471
+        }
+    },
     "kI9PU7GZYD": {
         "id": "kI9PU7GZYD",
         "title": "Страшный сон Драко Малфоя",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 28
-        }
-    },
-    "HbXOQwypwg": {
-        "id": "HbXOQwypwg",
-        "title": "Измени свой мозг - изменится и тело!",
-        "author": "Дэниэл Амен",
-        "notes": "",
-        "createdAt": "2019-06-28 11:54:30",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 27
         }
     }
 }

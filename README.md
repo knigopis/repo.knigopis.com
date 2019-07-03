@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Проклятое бессмертие ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup>
+    > Фанфик
+
 * Страшный сон Драко Малфоя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>470</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Слизеринский принц ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>468</sup>
-    > Фанфик
 
 * Хороший Доктор ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>467</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кот Артур и ловушка для Земли ~ [kissamasya](users/684/68439978-vkontakte)<sup>67</sup>
 
-* Лекции господина Пуфа ~ [Chiffi](users/105/105831994080785626680-google)<sup>123</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>470</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>224</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>708</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>42</sup> 
 
 
-_03.07.2019 16:08:36_
+_03.07.2019 16:09:18_

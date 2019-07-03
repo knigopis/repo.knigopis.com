@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>470</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>471</sup>
 ---
 
 ## 2019
@@ -26,6 +26,11 @@ Rosemary_fox
 ### Проклятие соединившее наши сердца
 Яойный Мандарин
 > [2019-06-15] Фанфик
+
+
+### Проклятое бессмертие
+Kotya mors
+> [2019-06-11] Фанфик
 
 
 ### Desperate Measures

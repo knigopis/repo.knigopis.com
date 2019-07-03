@@ -1,4 +1,16 @@
 {
+    "0axHJkWFWx": {
+        "id": "0axHJkWFWx",
+        "title": "Проклятое бессмертие",
+        "author": "Kotya mors",
+        "notes": "Фанфик",
+        "createdAt": "2019-07-03 16:09:18",
+        "user": {
+            "id": "317244423-vkontakte",
+            "nickname": "thejokerinthefog",
+            "booksCount": 471
+        }
+    },
     "kI9PU7GZYD": {
         "id": "kI9PU7GZYD",
         "title": "Страшный сон Драко Малфоя",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 49
-        }
-    },
-    "1irklHbnmF": {
-        "id": "1irklHbnmF",
-        "title": "О дивный новый мир",
-        "author": "Олдос Хаксли",
-        "notes": "Антиутопия на аморальное будущее, но весьма реалистичное!",
-        "createdAt": "2019-06-18 20:09:48",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 48
         }
     }
 }
