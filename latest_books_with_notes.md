@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Баллада об Аврорате и ближних его пределах ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>466</sup>
 * К оружию! К оружию! ~ [Garka](users/115/115753719718250012620-google)<sup>224</sup>
 * Оно ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup>
 * Территория Дозоров ~ [Chiffi](users/105/105831994080785626680-google)<sup>124</sup>
@@ -30,7 +31,6 @@
 * Ружья, микробы и сталь. История человеческих сообществ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>202</sup>
 * Джордж і таємний ключ до Всесвіту ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>39</sup>
 * Заклятие дома с химерами ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>38</sup>
-* Гуцульські співанки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>37</sup>
 
 
-_03.07.2019 15:35:00_
+_03.07.2019 16:05:56_

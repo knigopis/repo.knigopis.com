@@ -1,7 +1,12 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>465</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>466</sup>
 ---
 
 ## 2019
+
+### Баллада об Аврорате и ближних его пределах
+Terra Celtika, Vitce
+> [2019-06-18] Фафник
+
 
 ### Desperate Measures
 vvc
