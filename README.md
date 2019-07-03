@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>708</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>124</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>67</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>142</sup> 
 [Bruss](users/178/178551812-vkontakte)<sup>4</sup> 
 [rNix](users/227/22742452-yandex)<sup>64</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>707</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>54</sup> 
 [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup> 
 [En](users/333/333646551-vkontakte)<sup>71</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102336841322497739470-google)<sup>1</sup> 
 
 
-_02.07.2019 19:29:56_
+_03.07.2019 11:35:25_

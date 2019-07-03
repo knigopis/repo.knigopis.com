@@ -1,4 +1,16 @@
 {
+    "wsu9lAhmcZ": {
+        "id": "wsu9lAhmcZ",
+        "title": "Конец вечности",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2019-07-03 11:35:25",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 708
+        }
+    },
     "UO0vlMdrAC": {
         "id": "UO0vlMdrAC",
         "title": "Оно",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 21
-        }
-    },
-    "svdzOV6HH2": {
-        "id": "svdzOV6HH2",
-        "title": "Чтобы слушали и слышали! Влияние вашего голоса",
-        "author": "Джуди Аппс",
-        "notes": "",
-        "createdAt": "2019-06-28 11:51:17",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 20
         }
     }
 }
