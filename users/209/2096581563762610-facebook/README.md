@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>26</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>27</sup>
 ---
 
 ## 2019
+
+### Теория зла
+Донато Кариззи
+> [2019-07-03] 
+
 
 ### Женщина с бумажными цветами
 Донато Кариззи

@@ -1,4 +1,16 @@
 {
+    "Nvbx0cjiDH": {
+        "id": "Nvbx0cjiDH",
+        "title": "Теория зла",
+        "author": "Донато Кариззи",
+        "notes": "",
+        "createdAt": "2019-07-03 19:35:13",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 27
+        }
+    },
     "0axHJkWFWx": {
         "id": "0axHJkWFWx",
         "title": "Проклятое бессмертие",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 29
-        }
-    },
-    "Xk8fJGpJnT": {
-        "id": "Xk8fJGpJnT",
-        "title": "Белый вождь",
-        "author": "Майн Рид",
-        "notes": "",
-        "createdAt": "2019-06-28 11:54:44",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 28
         }
     }
 }
