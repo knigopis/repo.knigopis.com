@@ -1,7 +1,12 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>466</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>467</sup>
 ---
 
 ## 2019
+
+### Хороший Доктор
+Irmissmy
+> [2019-06-18] Фанфик
+
 
 ### Баллада об Аврорате и ближних его пределах
 Terra Celtika, Vitce

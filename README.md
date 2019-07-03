@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хороший Доктор ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>467</sup>
+    > Фанфик
+
 * Баллада об Аврорате и ближних его пределах ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>466</sup>
     > Фафник
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Шикарная книга. Сочетание юмора, сарказма, философии и детектива. Моркоу и Ваймс отличные персонажи
 
 * Оно ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup>
-    > 9/10 классика
 
 * Территория Дозоров ~ [Chiffi](users/105/105831994080785626680-google)<sup>124</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Таинственный рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>53</sup>
 
-* Верный меч ~ [Quaff](users/122/12267158-vkontakte)<sup>52</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thejokerinthefog](users/317/317244423-vkontakte)<sup>466</sup> 
+[thejokerinthefog](users/317/317244423-vkontakte)<sup>467</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>224</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>708</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>42</sup> 
 
 
-_03.07.2019 16:05:56_
+_03.07.2019 16:06:30_
