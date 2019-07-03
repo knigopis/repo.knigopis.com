@@ -1,7 +1,12 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>467</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>468</sup>
 ---
 
 ## 2019
+
+### Слизеринский принц
+Priana
+> [2019-06-26] Фанфик
+
 
 ### Хороший Доктор
 Irmissmy
