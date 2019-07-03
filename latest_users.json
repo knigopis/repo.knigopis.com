@@ -1,4 +1,10 @@
 {
+    "138142271868147910-mailru": {
+        "id": "138142271868147910-mailru",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-07-03 20:49:01"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 32,
         "updatedAt": "2019-06-20 14:47:07"
-    },
-    "57239276-vkontakte": {
-        "id": "57239276-vkontakte",
-        "nickname": "vladkozz",
-        "booksCount": 42,
-        "updatedAt": "2019-06-20 13:50:02"
     }
 }
