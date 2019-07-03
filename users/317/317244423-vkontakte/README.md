@@ -1,4 +1,4 @@
-# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>469</sup>
+# List of books read by [thejokerinthefog](http://vk.com/id317244423)<sup>470</sup>
 ---
 
 ## 2019
@@ -16,6 +16,11 @@ Irmissmy
 ### Баллада об Аврорате и ближних его пределах
 Terra Celtika, Vitce
 > [2019-06-18] Фафник
+
+
+### Страшный сон Драко Малфоя
+Rosemary_fox
+> [2019-06-16] Фанфик
 
 
 ### Проклятие соединившее наши сердца

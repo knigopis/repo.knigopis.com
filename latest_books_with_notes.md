@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Страшный сон Драко Малфоя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>470</sup>
 * Проклятие соединившее наши сердца ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>469</sup>
 * Слизеринский принц ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>468</sup>
 * Хороший Доктор ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>467</sup>
@@ -30,7 +31,6 @@
 * Над пропастью во ржи ~ [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup>
 * Заводной апельсин ~ [Quaff](users/122/12267158-vkontakte)<sup>49</sup>
 * О дивный новый мир ~ [Quaff](users/122/12267158-vkontakte)<sup>48</sup>
-* 451 градус по фарингейту ~ [Quaff](users/122/12267158-vkontakte)<sup>47</sup>
 
 
-_03.07.2019 16:08:04_
+_03.07.2019 16:08:36_
