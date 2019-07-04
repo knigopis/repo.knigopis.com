@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoria](users/113/113794223924688167852-google)<sup>44</sup> 
 [youno](users/302/302928912-vkontakte)<sup>25</sup> 
 [](users/138/138142271868147910-mailru)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>27</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>28</sup> 
 [sssrg](users/110/110891893506198620129-google)<sup>5</sup> 
 [me](users/381/381417697-yandex)<sup>49</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>32</sup> 
 
 
-_04.07.2019 01:59:16_
+_04.07.2019 06:54:00_
