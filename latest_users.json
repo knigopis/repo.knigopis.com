@@ -1,4 +1,10 @@
 {
+    "170796230-vkontakte": {
+        "id": "170796230-vkontakte",
+        "nickname": "katyarik17",
+        "booksCount": 0,
+        "updatedAt": "2019-07-04 10:54:06"
+    },
     "113794223924688167852-google": {
         "id": "113794223924688167852-google",
         "nickname": "Victoria",
@@ -172,11 +178,5 @@
         "nickname": "sssrg",
         "booksCount": 5,
         "updatedAt": "2019-06-24 11:19:52"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 49,
-        "updatedAt": "2019-06-21 01:37:29"
     }
 }
