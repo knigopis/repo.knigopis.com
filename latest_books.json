@@ -1,4 +1,16 @@
 {
+    "rMH206Kn8t": {
+        "id": "rMH206Kn8t",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2019-07-04 10:59:43",
+        "user": {
+            "id": "170796230-vkontakte",
+            "nickname": "katyarik17",
+            "booksCount": 3
+        }
+    },
     "g6zfq1Sgyg": {
         "id": "g6zfq1Sgyg",
         "title": "451° по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 123
-        }
-    },
-    "DufMrDsFnc": {
-        "id": "DufMrDsFnc",
-        "title": "Не даренный подарок (Кася, Морра)",
-        "author": "Огинская Купава",
-        "notes": "женское фентези. Может и глупо, но мило",
-        "createdAt": "2019-06-28 17:06:44",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 122
         }
     }
 }
