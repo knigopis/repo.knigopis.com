@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* И ботаники делают бизнес 1+2 ~ [youno](users/302/302928912-vkontakte)<sup>25</sup>
 * Проклятое бессмертие ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup>
 * Страшный сон Драко Малфоя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>470</sup>
 * Проклятие соединившее наши сердца ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>469</sup>
@@ -30,7 +31,6 @@
 * Дамы и Господа ~ [Garka](users/115/115753719718250012620-google)<sup>223</sup>
 * Хазарский словарь ~ [Quaff](users/122/12267158-vkontakte)<sup>50</sup>
 * Над пропастью во ржи ~ [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup>
-* Заводной апельсин ~ [Quaff](users/122/12267158-vkontakte)<sup>49</sup>
 
 
-_03.07.2019 16:09:18_
+_04.07.2019 01:59:16_

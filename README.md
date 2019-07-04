@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* И ботаники делают бизнес 1+2 ~ [youno](users/302/302928912-vkontakte)<sup>25</sup>
+    > Обновленная версия. Очень крутая книга.
+
 * Проклятое бессмертие ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup>
     > Фанфик
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Проклятие соединившее наши сердца ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>469</sup>
-    > Фанфик
 
 * Слизеринский принц ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>468</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Территория Дозоров ~ [Chiffi](users/105/105831994080785626680-google)<sup>124</sup>
 
-* Кот Артур и ловушка для Земли ~ [kissamasya](users/684/68439978-vkontakte)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>25</sup> 
 [](users/138/138142271868147910-mailru)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>27</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup> 
 [En](users/333/333646551-vkontakte)<sup>71</sup> 
 [Vitaly](users/109/109395490138181998437-google)<sup>8</sup> 
-[youno](users/302/302928912-vkontakte)<sup>24</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup> 
 
 
-_03.07.2019 20:49:04_
+_04.07.2019 01:59:16_

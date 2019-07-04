@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 25,
+        "updatedAt": "2019-07-04 01:59:15"
+    },
     "138142271868147910-mailru": {
         "id": "138142271868147910-mailru",
         "nickname": null,
@@ -118,12 +124,6 @@
         "nickname": "Vitaly",
         "booksCount": 8,
         "updatedAt": "2019-06-28 06:45:20"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 24,
-        "updatedAt": "2019-06-28 02:18:50"
     },
     "73323849-yandex": {
         "id": "73323849-yandex",

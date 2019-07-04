@@ -1,4 +1,16 @@
 {
+    "bM1rCtZPOg": {
+        "id": "bM1rCtZPOg",
+        "title": "И ботаники делают бизнес 1+2",
+        "author": "Максим Котин",
+        "notes": "Обновленная версия. Очень крутая книга.",
+        "createdAt": "2019-07-04 01:59:15",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 25
+        }
+    },
     "Nvbx0cjiDH": {
         "id": "Nvbx0cjiDH",
         "title": "Теория зла",
@@ -345,18 +357,6 @@
             "id": "445474364-vkontakte",
             "nickname": "olegshirokikh2001",
             "booksCount": 30
-        }
-    },
-    "2zw-kXZiXl": {
-        "id": "2zw-kXZiXl",
-        "title": "Белая перчатка",
-        "author": "Майн Рид",
-        "notes": "",
-        "createdAt": "2019-06-28 11:55:03",
-        "user": {
-            "id": "445474364-vkontakte",
-            "nickname": "olegshirokikh2001",
-            "booksCount": 29
         }
     }
 }

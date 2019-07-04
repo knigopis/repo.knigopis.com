@@ -1,4 +1,16 @@
 {
+    "bM1rCtZPOg": {
+        "id": "bM1rCtZPOg",
+        "title": "И ботаники делают бизнес 1+2",
+        "author": "Максим Котин",
+        "notes": "Обновленная версия. Очень крутая книга.",
+        "createdAt": "2019-07-04 01:59:15",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 25
+        }
+    },
     "0axHJkWFWx": {
         "id": "0axHJkWFWx",
         "title": "Проклятое бессмертие",
@@ -345,18 +357,6 @@
             "id": "10202544960024508-facebook",
             "nickname": "Beaviska",
             "booksCount": 32
-        }
-    },
-    "19cNXfwJew": {
-        "id": "19cNXfwJew",
-        "title": "Заводной апельсин",
-        "author": "Энтони Бёрджесс",
-        "notes": "Жизнь настоящего морального урода, ставшего убийцей и познавшего гипнофизическое изменение личности на запрет к насилию.",
-        "createdAt": "2019-06-19 18:17:26",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 49
         }
     }
 }
