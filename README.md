@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katyarik17](users/170/170796230-vkontakte)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>46</sup> 
 [youno](users/302/302928912-vkontakte)<sup>25</sup> 
 [](users/138/138142271868147910-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>71</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>28</sup> 
 [sssrg](users/110/110891893506198620129-google)<sup>5</sup> 
-[me](users/381/381417697-yandex)<sup>49</sup> 
 
 
-_04.07.2019 06:55:27_
+_04.07.2019 10:54:08_
