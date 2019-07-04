@@ -1,4 +1,16 @@
 {
+    "g6zfq1Sgyg": {
+        "id": "g6zfq1Sgyg",
+        "title": "451° по Фаренгейту",
+        "author": "Рей Брэдбери",
+        "notes": "",
+        "createdAt": "2019-07-04 10:59:17",
+        "user": {
+            "id": "170796230-vkontakte",
+            "nickname": "katyarik17",
+            "booksCount": 2
+        }
+    },
     "XWXFMW2Xdl": {
         "id": "XWXFMW2Xdl",
         "title": "Яи",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 122
-        }
-    },
-    "Ot8FvRvlOo": {
-        "id": "Ot8FvRvlOo",
-        "title": "Гаэльская волчица",
-        "author": "Лёвенбрюк Анри",
-        "notes": "Занимательная микс историй, но не фонтан",
-        "createdAt": "2019-06-28 17:05:24",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 54
         }
     }
 }
