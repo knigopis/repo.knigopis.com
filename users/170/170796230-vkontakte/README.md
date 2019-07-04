@@ -1,4 +1,4 @@
-# List of books read by [katyarik17](http://vk.com/id170796230)<sup>3</sup>
+# List of books read by [katyarik17](http://vk.com/id170796230)<sup>4</sup>
 ---
 
 ## 2019
@@ -22,6 +22,11 @@
 ### 451° по Фаренгейту
 Рей Брэдбери
 > [2014-10] 
+
+
+### Мастер и Маргарита
+Михаил Афанасьевич Булгаков
+> [2014-09] 
 
 
 
