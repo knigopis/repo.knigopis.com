@@ -1,4 +1,16 @@
 {
+    "aG3e9h226o": {
+        "id": "aG3e9h226o",
+        "title": "Убийство на улице морг и др. рассказы",
+        "author": "Э. А. По",
+        "notes": "",
+        "createdAt": "2019-07-04 06:54:39",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 45
+        }
+    },
     "Jr0SC4Fm3I": {
         "id": "Jr0SC4Fm3I",
         "title": "Убийство в месопотамии",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 52
-        }
-    },
-    "1vILqGnkP5": {
-        "id": "1vILqGnkP5",
-        "title": "Межевой рыцарь",
-        "author": "Джордж Мартин",
-        "notes": "Интересная история про турнирные бои",
-        "createdAt": "2019-06-28 16:59:48",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 51
         }
     }
 }
