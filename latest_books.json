@@ -1,4 +1,16 @@
 {
+    "SNl-EKI8C3": {
+        "id": "SNl-EKI8C3",
+        "title": "Сияние",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2019-07-04 23:05:58",
+        "user": {
+            "id": "200666735-vkontakte",
+            "nickname": "mavrentik",
+            "booksCount": 20
+        }
+    },
     "pdgwVXjtyg": {
         "id": "pdgwVXjtyg",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "178551812-vkontakte",
             "nickname": "Bruss",
             "booksCount": 1
-        }
-    },
-    "GmzCgakmuu": {
-        "id": "GmzCgakmuu",
-        "title": "Режиссер сказал: одевайся теплее, тут холодно",
-        "author": "Алеся Казанцева",
-        "notes": "",
-        "createdAt": "2019-06-29 08:55:42",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 707
         }
     }
 }

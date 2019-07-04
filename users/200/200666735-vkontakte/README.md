@@ -1,7 +1,12 @@
-# List of books read by [mavrentik](http://vk.com/id200666735)<sup>19</sup>
+# List of books read by [mavrentik](http://vk.com/id200666735)<sup>20</sup>
 ---
 
 ## 2019
+
+### Сияние
+Стивен Кинг
+> [2019-07-05] 
+
 
 ### Кладбище домашних животных
 Стивен Кинг
