@@ -1,4 +1,16 @@
 {
+    "pdgwVXjtyg": {
+        "id": "pdgwVXjtyg",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2019-07-04 11:00:39",
+        "user": {
+            "id": "170796230-vkontakte",
+            "nickname": "katyarik17",
+            "booksCount": 5
+        }
+    },
     "MvGRXo6ghd": {
         "id": "MvGRXo6ghd",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 707
-        }
-    },
-    "2pfrOy0AJG": {
-        "id": "2pfrOy0AJG",
-        "title": "Мотылёк",
-        "author": "Анри Шарьер",
-        "notes": "",
-        "createdAt": "2019-06-28 20:30:16",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 706
         }
     }
 }
