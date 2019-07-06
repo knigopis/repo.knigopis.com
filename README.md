@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[BunnyReader](users/117/117953264019715943446-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>111</sup> 
 [Tanya337](users/286/2867088343333019-facebook)<sup>0</sup> 
 [dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Vitaly](users/109/109395490138181998437-google)<sup>8</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup> 
-[](users/110/110931306939441771638-google)<sup>2</sup> 
 
 
-_06.07.2019 13:34:40_
+_06.07.2019 13:39:13_
