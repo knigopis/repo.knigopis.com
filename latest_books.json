@@ -1,4 +1,16 @@
 {
+    "OZaGU2n-Vt": {
+        "id": "OZaGU2n-Vt",
+        "title": "Завтра была война",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2019-07-06 13:44:22",
+        "user": {
+            "id": "117953264019715943446-google",
+            "nickname": "BunnyReader",
+            "booksCount": 5
+        }
+    },
     "QLySWayxMn": {
         "id": "QLySWayxMn",
         "title": "А зори здесь тихие",
@@ -345,18 +357,6 @@
             "id": "116927503362988481359-google",
             "nickname": "Zarech",
             "booksCount": 1
-        }
-    },
-    "NCe_iyEt8W": {
-        "id": "NCe_iyEt8W",
-        "title": "На западном фронте без перемен",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2019-06-29 19:13:31",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 83
         }
     }
 }
