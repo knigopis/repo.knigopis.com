@@ -1,4 +1,10 @@
 {
+    "2867088343333019-facebook": {
+        "id": "2867088343333019-facebook",
+        "nickname": "Tanya337",
+        "booksCount": 0,
+        "updatedAt": "2019-07-06 12:10:50"
+    },
     "6153637904214543420-mailru": {
         "id": "6153637904214543420-mailru",
         "nickname": "dominicusin",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 170,
         "updatedAt": "2019-06-25 09:03:39"
-    },
-    "100978570902186865324-google": {
-        "id": "100978570902186865324-google",
-        "nickname": "ODINSY",
-        "booksCount": 71,
-        "updatedAt": "2019-06-24 20:44:33"
     }
 }
