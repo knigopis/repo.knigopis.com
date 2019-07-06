@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tanya337](users/286/2867088343333019-facebook)<sup>0</sup> 
 [dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>20</sup> 
 [katyarik17](users/170/170796230-vkontakte)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>170</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>71</sup> 
 
 
-_05.07.2019 09:37:24_
+_06.07.2019 12:10:54_
