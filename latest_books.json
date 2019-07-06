@@ -1,4 +1,16 @@
 {
+    "fTMh5DzOIe": {
+        "id": "fTMh5DzOIe",
+        "title": "Бегущий за ветром",
+        "author": "Халед Хоссейни",
+        "notes": "",
+        "createdAt": "2019-07-06 13:46:46",
+        "user": {
+            "id": "117953264019715943446-google",
+            "nickname": "BunnyReader",
+            "booksCount": 6
+        }
+    },
     "OZaGU2n-Vt": {
         "id": "OZaGU2n-Vt",
         "title": "Завтра была война",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 67
-        }
-    },
-    "oSbVVpd7L0": {
-        "id": "oSbVVpd7L0",
-        "title": "LVLUP",
-        "author": "Данияр Сугралинов",
-        "notes": "Цикл из 3х книг",
-        "createdAt": "2019-06-30 15:36:14",
-        "user": {
-            "id": "116927503362988481359-google",
-            "nickname": "Zarech",
-            "booksCount": 1
         }
     }
 }
