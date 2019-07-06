@@ -1,4 +1,10 @@
 {
+    "117953264019715943446-google": {
+        "id": "117953264019715943446-google",
+        "nickname": "BunnyReader",
+        "booksCount": 0,
+        "updatedAt": "2019-07-06 13:39:10"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 203,
         "updatedAt": "2019-06-25 16:53:56"
-    },
-    "110931306939441771638-google": {
-        "id": "110931306939441771638-google",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2019-06-25 16:12:15"
     }
 }
