@@ -1,4 +1,16 @@
 {
+    "8ndkSefgVr": {
+        "id": "8ndkSefgVr",
+        "title": "Чучело",
+        "author": "Владимир Железников",
+        "notes": "",
+        "createdAt": "2019-07-06 18:04:39",
+        "user": {
+            "id": "117953264019715943446-google",
+            "nickname": "BunnyReader",
+            "booksCount": 8
+        }
+    },
     "AYvwvPVewx": {
         "id": "AYvwvPVewx",
         "title": "BTS",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 41
-        }
-    },
-    "XpL2R-TV-f": {
-        "id": "XpL2R-TV-f",
-        "title": "Территория Дозоров",
-        "author": "сборник",
-        "notes": "не плохо, но читать не обязательно.",
-        "createdAt": "2019-07-02 04:59:54",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 124
         }
     }
 }
