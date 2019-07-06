@@ -1,4 +1,16 @@
 {
+    "QLySWayxMn": {
+        "id": "QLySWayxMn",
+        "title": "А зори здесь тихие",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2019-07-06 13:42:46",
+        "user": {
+            "id": "117953264019715943446-google",
+            "nickname": "BunnyReader",
+            "booksCount": 4
+        }
+    },
     "hXQgs6XT4K": {
         "id": "hXQgs6XT4K",
         "title": "В списках не значился",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 83
-        }
-    },
-    "A0M49rpF5G": {
-        "id": "A0M49rpF5G",
-        "title": "Невеста зверя",
-        "author": "Эллен Датлоу",
-        "notes": "",
-        "createdAt": "2019-06-29 19:13:07",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 82
         }
     }
 }
