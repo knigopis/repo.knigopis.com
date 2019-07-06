@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>110</sup>
+# Список прочитанных книг пользователя exulted<sup>111</sup>
 ---
 
 ## 2019
+
+### Investing in Bonds For Dummies
+Russel Wild
+> [2019-07-01] ASIN: B012X5ZP9A
+
 
 ### The Mongoliad (The Mongoliad Series Book 1)
 Greg Bear, Neal Stephenson
