@@ -1,4 +1,16 @@
 {
+    "CO986sqBVJ": {
+        "id": "CO986sqBVJ",
+        "title": "The Mongoliad (The Mongoliad Series Book 1)",
+        "author": "Greg Bear, Neal Stephenson",
+        "notes": "ASIN: B007S0EF24",
+        "createdAt": "2019-07-06 13:30:27",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 110
+        }
+    },
     "SNl-EKI8C3": {
         "id": "SNl-EKI8C3",
         "title": "Сияние",
@@ -345,18 +357,6 @@
             "id": "178551812-vkontakte",
             "nickname": "Bruss",
             "booksCount": 2
-        }
-    },
-    "MRdj1G1c4E": {
-        "id": "MRdj1G1c4E",
-        "title": "Я - последний (Трилогия книг)",
-        "author": "Нимфар",
-        "notes": "Земля погибла от столкновения с метеоритом. ГГ отправляется в другой мир, чтобы получить там силу с помощью которой он сможет все изменить.",
-        "createdAt": "2019-06-29 16:04:21",
-        "user": {
-            "id": "178551812-vkontakte",
-            "nickname": "Bruss",
-            "booksCount": 1
         }
     }
 }

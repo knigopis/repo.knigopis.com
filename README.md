@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Mongoliad (The Mongoliad Series Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>110</sup>
+    > ASIN: B007S0EF24
+
 * И ботаники делают бизнес 1+2 ~ [youno](users/302/302928912-vkontakte)<sup>25</sup>
     > Обновленная версия. Очень крутая книга.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Фанфик
 
 * Страшный сон Драко Малфоя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>470</sup>
-    > Фанфик
 
 * Проклятие соединившее наши сердца ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>469</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Оно ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup>
 
-* Территория Дозоров ~ [Chiffi](users/105/105831994080785626680-google)<sup>124</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>110</sup> 
 [Tanya337](users/286/2867088343333019-facebook)<sup>0</sup> 
 [dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>20</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup> 
 [](users/110/110931306939441771638-google)<sup>2</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>170</sup> 
 
 
-_06.07.2019 12:10:54_
+_06.07.2019 13:30:27_

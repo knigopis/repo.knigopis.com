@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The Mongoliad (The Mongoliad Series Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>110</sup>
 * И ботаники делают бизнес 1+2 ~ [youno](users/302/302928912-vkontakte)<sup>25</sup>
 * Проклятое бессмертие ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup>
 * Страшный сон Драко Малфоя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>470</sup>
@@ -30,7 +31,6 @@
 * Чернобыльская молитва.Хроника будущего ~ [kissamasya](users/684/68439978-vkontakte)<sup>65</sup>
 * Дамы и Господа ~ [Garka](users/115/115753719718250012620-google)<sup>223</sup>
 * Хазарский словарь ~ [Quaff](users/122/12267158-vkontakte)<sup>50</sup>
-* Над пропастью во ржи ~ [Beaviska](users/102/10202544960024508-facebook)<sup>32</sup>
 
 
-_04.07.2019 01:59:16_
+_06.07.2019 13:30:27_

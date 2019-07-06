@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>109</sup>
+# Список прочитанных книг пользователя exulted<sup>110</sup>
 ---
 
 ## 2019
+
+### The Mongoliad (The Mongoliad Series Book 1)
+Greg Bear, Neal Stephenson
+> [2019-06-27] ASIN: B007S0EF24
+
 
 ### Range: Why Generalists Triumph in a Specialized World
 David J. Epstein

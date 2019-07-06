@@ -1,4 +1,16 @@
 {
+    "CO986sqBVJ": {
+        "id": "CO986sqBVJ",
+        "title": "The Mongoliad (The Mongoliad Series Book 1)",
+        "author": "Greg Bear, Neal Stephenson",
+        "notes": "ASIN: B007S0EF24",
+        "createdAt": "2019-07-06 13:30:27",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 110
+        }
+    },
     "bM1rCtZPOg": {
         "id": "bM1rCtZPOg",
         "title": "И ботаники делают бизнес 1+2",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 50
-        }
-    },
-    "K_bdVOLq4Z": {
-        "id": "K_bdVOLq4Z",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Дэвид Сэлинджер",
-        "notes": "Подросток - бунтарь",
-        "createdAt": "2019-06-20 14:47:07",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 32
         }
     }
 }
