@@ -6,7 +6,7 @@ Do not use pull requests to make changes here.
 
 ## Latest books with notes
 * Когда гений терпит поражение ~ [Яков](users/117/117277044284589498872-google)<sup>10</sup>
-    > Обычная экономика компании со взлетами и падениями. Описана тесная связь политики и экономики в современном мире.
+    > Обычная экономика компании Long-Term Capital Management со взлетами и падениями. Описана тесная связь политики и экономики в современном мире.
 
 * Над пропастью во ржи ~ [Яков](users/117/117277044284589498872-google)<sup>8</sup>
     > Ожидал большего ориентируясь на отзывы и рецензии :(
@@ -51,7 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Яков](users/117/117277044284589498872-google)<sup>9</sup> 
+[Яков](users/117/117277044284589498872-google)<sup>10</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
 [BunnyReader](users/117/117953264019715943446-google)<sup>8</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>111</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 
 
-_07.07.2019 10:25:52_
+_07.07.2019 10:26:35_
