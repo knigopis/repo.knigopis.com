@@ -1,4 +1,16 @@
 {
+    "E0NIgJzwnB": {
+        "id": "E0NIgJzwnB",
+        "title": "Атлант расправил плечи",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2019-07-07 05:36:32",
+        "user": {
+            "id": "117277044284589498872-google",
+            "nickname": "Яков",
+            "booksCount": 1
+        }
+    },
     "8ndkSefgVr": {
         "id": "8ndkSefgVr",
         "title": "Чучело",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 708
-        }
-    },
-    "UO0vlMdrAC": {
-        "id": "UO0vlMdrAC",
-        "title": "Оно",
-        "author": "Стівен Кінг",
-        "notes": "9/10 классика",
-        "createdAt": "2019-07-02 19:29:56",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 41
         }
     }
 }
