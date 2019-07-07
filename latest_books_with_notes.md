@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Алхимик ~ [Яков](users/117/117277044284589498872-google)<sup>6</sup>
 * Порог ~ [Chiffi](users/105/105831994080785626680-google)<sup>125</sup>
 * Investing in Bonds For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>111</sup>
 * The Mongoliad (The Mongoliad Series Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>110</sup>
@@ -30,7 +31,6 @@
 * Восьмой круг подземки ~ [En](users/333/333646551-vkontakte)<sup>69</sup>
 * Диктатор ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup>
 * Містер Мерседес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup>
-* Чернобыльская молитва.Хроника будущего ~ [kissamasya](users/684/68439978-vkontakte)<sup>65</sup>
 
 
-_07.07.2019 06:14:13_
+_07.07.2019 06:22:16_
