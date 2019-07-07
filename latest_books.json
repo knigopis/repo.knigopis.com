@@ -1,4 +1,16 @@
 {
+    "3XlThNV_SS": {
+        "id": "3XlThNV_SS",
+        "title": "Теряя невинность. Автобиография",
+        "author": "Ричард Брэнсон",
+        "notes": "",
+        "createdAt": "2019-07-07 10:22:44",
+        "user": {
+            "id": "117277044284589498872-google",
+            "nickname": "Яков",
+            "booksCount": 9
+        }
+    },
     "84PZb87oIX": {
         "id": "84PZb87oIX",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 25
-        }
-    },
-    "Nvbx0cjiDH": {
-        "id": "Nvbx0cjiDH",
-        "title": "Теория зла",
-        "author": "Донато Кариззи",
-        "notes": "",
-        "createdAt": "2019-07-03 19:35:13",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 27
         }
     }
 }
