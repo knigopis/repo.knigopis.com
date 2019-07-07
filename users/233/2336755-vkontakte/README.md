@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>83</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>84</sup>
 ---
 
 ## 2019
+
+### Гигантская плазма
+Дональд Вандри
+> [2019-07-06] 
+
 
 ### На западном фронте без перемен
 Эрих Мария Ремарк
