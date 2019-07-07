@@ -1,4 +1,16 @@
 {
+    "84PZb87oIX": {
+        "id": "84PZb87oIX",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Дэвид Сэлинджер",
+        "notes": "Ожидал большего ориентируясь на отзывы и рецензии :(",
+        "createdAt": "2019-07-07 10:20:14",
+        "user": {
+            "id": "117277044284589498872-google",
+            "nickname": "Яков",
+            "booksCount": 8
+        }
+    },
     "zoHCTOtyrC": {
         "id": "zoHCTOtyrC",
         "title": "Черный Лебедь. Под знаком непредсказуемости",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 27
-        }
-    },
-    "0axHJkWFWx": {
-        "id": "0axHJkWFWx",
-        "title": "Проклятое бессмертие",
-        "author": "Kotya mors",
-        "notes": "Фанфик",
-        "createdAt": "2019-07-03 16:09:18",
-        "user": {
-            "id": "317244423-vkontakte",
-            "nickname": "thejokerinthefog",
-            "booksCount": 471
         }
     }
 }

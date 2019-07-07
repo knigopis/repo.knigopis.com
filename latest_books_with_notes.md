@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Над пропастью во ржи ~ [Яков](users/117/117277044284589498872-google)<sup>8</sup>
 * Алхимик ~ [Яков](users/117/117277044284589498872-google)<sup>6</sup>
 * Порог ~ [Chiffi](users/105/105831994080785626680-google)<sup>125</sup>
 * Investing in Bonds For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>111</sup>
@@ -30,7 +31,6 @@
 * Жоэль Диккер ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup>
 * Восьмой круг подземки ~ [En](users/333/333646551-vkontakte)<sup>69</sup>
 * Диктатор ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>203</sup>
-* Містер Мерседес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>40</sup>
 
 
-_07.07.2019 06:22:16_
+_07.07.2019 10:20:14_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Над пропастью во ржи ~ [Яков](users/117/117277044284589498872-google)<sup>8</sup>
+    > Ожидал большего ориентируясь на отзывы и рецензии :(
+
 * Алхимик ~ [Яков](users/117/117277044284589498872-google)<sup>6</sup>
     > Когда один день похож на другой, люди перестают замечать то хорошее, что происходит с ними каждый день после восхода солнца. 
     > Страх страдания хуже самого страдания. 
@@ -31,7 +34,6 @@ Do not use pull requests to make changes here.
     > "Любая война,  как это не цинично, благо для экономики. Сначала к ней готовятся.Ученые получают массу денег для удовлетворения своего любопытства и изобретают кучу денег..Потом заводы и фвбрики выпускают кучу оружия,  работникам платят за сверхурочный труд...селяне заготавливают продукты, военные проводят учения,  журналисты пишут патриот.статьи,  режиссеры снимают фильмы. .. Все при деле..."
 
 * Investing in Bonds For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>111</sup>
-    > ASIN: B012X5ZP9A
 
 * The Mongoliad (The Mongoliad Series Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>110</sup>
 
@@ -45,14 +47,12 @@ Do not use pull requests to make changes here.
 
 * Слизеринский принц ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>468</sup>
 
-* Хороший Доктор ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>467</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Яков](users/117/117277044284589498872-google)<sup>7</sup> 
+[Яков](users/117/117277044284589498872-google)<sup>8</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
 [BunnyReader](users/117/117953264019715943446-google)<sup>8</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>111</sup> 
@@ -84,4 +84,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 
 
-_07.07.2019 10:15:44_
+_07.07.2019 10:20:14_
