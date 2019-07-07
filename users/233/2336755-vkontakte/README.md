@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>86</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>87</sup>
 ---
 
 ## 2019
+
+### Курган
+Силия Бишоп
+> [2019-07-06] 
+
 
 ### Вендиго
 Алджернон Блэквуд

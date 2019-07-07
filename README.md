@@ -51,7 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[katrinvredina](users/233/2336755-vkontakte)<sup>86</sup> 
+[katrinvredina](users/233/2336755-vkontakte)<sup>87</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>1</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>11</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vitaly](users/109/109395490138181998437-google)<sup>8</sup> 
 
 
-_07.07.2019 19:05:23_
+_07.07.2019 19:05:39_
