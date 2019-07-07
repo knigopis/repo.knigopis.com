@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Порог ~ [Chiffi](users/105/105831994080785626680-google)<sup>125</sup>
+    > Звездная фантастика.  Буду ждать продолжения. 
+    > "Любая война,  как это не цинично, благо для экономики. Сначала к ней готовятся.Ученые получают массу денег для удовлетворения своего любопытства и изобретают кучу денег..Потом заводы и фвбрики выпускают кучу оружия,  работникам платят за сверхурочный труд...селяне заготавливают продукты, военные проводят учения,  журналисты пишут патриот.статьи,  режиссеры снимают фильмы. .. Все при деле..."
+
 * Investing in Bonds For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>111</sup>
     > ASIN: B012X5ZP9A
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > ASIN: B007S0EF24
 
 * И ботаники делают бизнес 1+2 ~ [youno](users/302/302928912-vkontakte)<sup>25</sup>
-    > Обновленная версия. Очень крутая книга.
 
 * Проклятое бессмертие ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Баллада об Аврорате и ближних его пределах ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>466</sup>
 
-* К оружию! К оружию! ~ [Garka](users/115/115753719718250012620-google)<sup>224</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>5</sup> 
 [BunnyReader](users/117/117953264019715943446-google)<sup>8</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>111</sup> 
@@ -48,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>224</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>708</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>124</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>67</sup> 
 [ulole](users/244/244065473-vkontakte)<sup>0</sup> 
 [wdqwdqwd23](users/132/13245747-vkontakte)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 
 
-_07.07.2019 05:57:38_
+_07.07.2019 06:14:13_
