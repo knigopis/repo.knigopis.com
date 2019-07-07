@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>85</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>86</sup>
 ---
 
 ## 2019
+
+### Вендиго
+Алджернон Блэквуд
+> [2019-07-06] 
+
 
 ### Крылатая смерть
 Хизел Хилд

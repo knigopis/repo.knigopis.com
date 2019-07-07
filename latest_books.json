@@ -1,4 +1,16 @@
 {
+    "IBEAkjHv-S": {
+        "id": "IBEAkjHv-S",
+        "title": "Вендиго",
+        "author": "Алджернон Блэквуд",
+        "notes": "",
+        "createdAt": "2019-07-07 19:05:23",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 86
+        }
+    },
     "AHSGnEG_Qy": {
         "id": "AHSGnEG_Qy",
         "title": "Крылатая смерть",
@@ -345,18 +357,6 @@
             "id": "170796230-vkontakte",
             "nickname": "katyarik17",
             "booksCount": 3
-        }
-    },
-    "g6zfq1Sgyg": {
-        "id": "g6zfq1Sgyg",
-        "title": "451° по Фаренгейту",
-        "author": "Рей Брэдбери",
-        "notes": "",
-        "createdAt": "2019-07-04 10:59:17",
-        "user": {
-            "id": "170796230-vkontakte",
-            "nickname": "katyarik17",
-            "booksCount": 2
         }
     }
 }
