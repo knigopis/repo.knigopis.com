@@ -1,7 +1,12 @@
-# List of books read by [Яков](https://plus.google.com/u/0/117277044284589498872/)<sup>2</sup>
+# List of books read by [Яков](https://plus.google.com/u/0/117277044284589498872/)<sup>3</sup>
 ---
 
 ## 2019
+
+### Портрет Дориана Грея
+Оскар Уайльд
+> [2019-05] 
+
 
 ### Атлант расправил плечи
 Айн Рэнд

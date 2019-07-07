@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Яков](users/117/117277044284589498872-google)<sup>2</sup> 
+[Яков](users/117/117277044284589498872-google)<sup>3</sup> 
 [BunnyReader](users/117/117953264019715943446-google)<sup>8</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>111</sup> 
 [Tanya337](users/286/2867088343333019-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 
 
-_07.07.2019 05:36:38_
+_07.07.2019 05:37:58_
