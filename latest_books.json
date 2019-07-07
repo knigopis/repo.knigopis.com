@@ -1,4 +1,16 @@
 {
+    "EfeL4kJcRs": {
+        "id": "EfeL4kJcRs",
+        "title": "Таящийся у порога",
+        "author": "Ховард Филипс Лавкрафт и Огюст Дерлетт",
+        "notes": "",
+        "createdAt": "2019-07-07 19:06:31",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 88
+        }
+    },
     "OIhpND7lhw": {
         "id": "OIhpND7lhw",
         "title": "Курган",
@@ -345,18 +357,6 @@
             "id": "170796230-vkontakte",
             "nickname": "katyarik17",
             "booksCount": 5
-        }
-    },
-    "MvGRXo6ghd": {
-        "id": "MvGRXo6ghd",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Афанасьевич Булгаков",
-        "notes": "",
-        "createdAt": "2019-07-04 11:00:12",
-        "user": {
-            "id": "170796230-vkontakte",
-            "nickname": "katyarik17",
-            "booksCount": 4
         }
     }
 }

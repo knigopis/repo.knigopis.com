@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>87</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>88</sup>
 ---
 
 ## 2019
+
+### Таящийся у порога
+Ховард Филипс Лавкрафт и Огюст Дерлетт
+> [2019-07-06] 
+
 
 ### Курган
 Силия Бишоп
