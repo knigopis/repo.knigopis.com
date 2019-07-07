@@ -1,4 +1,16 @@
 {
+    "AHSGnEG_Qy": {
+        "id": "AHSGnEG_Qy",
+        "title": "Крылатая смерть",
+        "author": "Хизел Хилд",
+        "notes": "",
+        "createdAt": "2019-07-07 19:04:56",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 85
+        }
+    },
     "yq_yrVyKIu": {
         "id": "yq_yrVyKIu",
         "title": "Гигантская плазма",
@@ -345,18 +357,6 @@
             "id": "170796230-vkontakte",
             "nickname": "katyarik17",
             "booksCount": 2
-        }
-    },
-    "XWXFMW2Xdl": {
-        "id": "XWXFMW2Xdl",
-        "title": "Яи",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-07-04 10:57:32",
-        "user": {
-            "id": "170796230-vkontakte",
-            "nickname": "katyarik17",
-            "booksCount": 1
         }
     }
 }
