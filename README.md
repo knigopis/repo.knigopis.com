@@ -51,7 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Knigolub~](users/111/111878597279669641685-google)<sup>0</sup> 
+[Knigolub~](users/111/111878597279669641685-google)<sup>1</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>11</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
 [BunnyReader](users/117/117953264019715943446-google)<sup>8</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vitaly](users/109/109395490138181998437-google)<sup>8</sup> 
 
 
-_07.07.2019 12:54:50_
+_07.07.2019 12:55:44_

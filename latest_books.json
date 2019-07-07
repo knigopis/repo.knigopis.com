@@ -1,4 +1,16 @@
 {
+    "CIDVqP657O": {
+        "id": "CIDVqP657O",
+        "title": "В списках не значился",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2019-07-07 12:55:44",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 1
+        }
+    },
     "3D5xaQmiTG": {
         "id": "3D5xaQmiTG",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 46
-        }
-    },
-    "aG3e9h226o": {
-        "id": "aG3e9h226o",
-        "title": "Убийство на улице морг и др. рассказы",
-        "author": "Э. А. По",
-        "notes": "",
-        "createdAt": "2019-07-04 06:54:39",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 45
         }
     }
 }
