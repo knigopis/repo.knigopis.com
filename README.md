@@ -51,7 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Яков](users/117/117277044284589498872-google)<sup>10</sup> 
+[Яков](users/117/117277044284589498872-google)<sup>11</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
 [BunnyReader](users/117/117953264019715943446-google)<sup>8</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>111</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup> 
 
 
-_07.07.2019 10:26:35_
+_07.07.2019 10:30:13_
