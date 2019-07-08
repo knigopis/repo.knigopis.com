@@ -64,7 +64,8 @@
 ### `50` Ежевичное вино
 Джоанн Харрис
 
-### `50` https://www.adme.ru/tvorchestvo-pisateli/230-genialnyh-knig-kotorye-nado-prochitat-v-svoej-zhizni-860810/
+### `50` Список для прочтения
+https://www.adme.ru/tvorchestvo-pisateli/230-genialnyh-knig-kotorye-nado-prochitat-v-svoej-zhizni-860810/
 
 ### `50` Дикий Цветок
 Лейла Мичем
