@@ -1,4 +1,16 @@
 {
+    "aqVDv9LdgL": {
+        "id": "aqVDv9LdgL",
+        "title": "Завтра была война",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2019-07-08 17:31:59",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 5
+        }
+    },
     "tiWvyel6lH": {
         "id": "tiWvyel6lH",
         "title": "Бегущий за ветром",
@@ -345,18 +357,6 @@
             "id": "117953264019715943446-google",
             "nickname": "BunnyReader",
             "booksCount": 2
-        }
-    },
-    "zUZpllqLHg": {
-        "id": "zUZpllqLHg",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-07-06 13:39:22",
-        "user": {
-            "id": "117953264019715943446-google",
-            "nickname": "BunnyReader",
-            "booksCount": 1
         }
     }
 }
