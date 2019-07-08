@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>7</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>8</sup>
 ---
 
 ## 2019
+
+### Не стреляйте в белых лебедей
+Борис Васильев
+> [2019-07-07] 
+
 
 ### В списках не значился
 Борис Васильев
