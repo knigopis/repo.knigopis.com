@@ -1,4 +1,10 @@
 {
+    "117953264019715943446-google": {
+        "id": "117953264019715943446-google",
+        "nickname": "BunnyReader",
+        "booksCount": 7,
+        "updatedAt": "2019-07-08 05:20:01"
+    },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
         "nickname": "katrinvredina",
@@ -22,12 +28,6 @@
         "nickname": "Chiffi",
         "booksCount": 125,
         "updatedAt": "2019-07-07 06:14:13"
-    },
-    "117953264019715943446-google": {
-        "id": "117953264019715943446-google",
-        "nickname": "BunnyReader",
-        "booksCount": 8,
-        "updatedAt": "2019-07-06 18:04:39"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
