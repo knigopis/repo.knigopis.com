@@ -1,4 +1,16 @@
 {
+    "E6IxVx3I56": {
+        "id": "E6IxVx3I56",
+        "title": "Целебное питание",
+        "author": "Галина Шаталова",
+        "notes": "",
+        "createdAt": "2019-07-08 17:32:40",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 7
+        }
+    },
     "cfycrcLuUJ": {
         "id": "cfycrcLuUJ",
         "title": "А зори здесь тихие",
@@ -345,18 +357,6 @@
             "id": "117953264019715943446-google",
             "nickname": "BunnyReader",
             "booksCount": 4
-        }
-    },
-    "hXQgs6XT4K": {
-        "id": "hXQgs6XT4K",
-        "title": "В списках не значился",
-        "author": "Борис Васильев",
-        "notes": "",
-        "createdAt": "2019-07-06 13:42:01",
-        "user": {
-            "id": "117953264019715943446-google",
-            "nickname": "BunnyReader",
-            "booksCount": 3
         }
     }
 }
