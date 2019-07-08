@@ -1,4 +1,16 @@
 {
+    "S6TqIS0VdI": {
+        "id": "S6TqIS0VdI",
+        "title": "Чучело",
+        "author": "Владимир Железников",
+        "notes": "",
+        "createdAt": "2019-07-08 17:30:38",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 2
+        }
+    },
     "EI3WlaJDh7": {
         "id": "EI3WlaJDh7",
         "title": "Фиалки в марте",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 110
-        }
-    },
-    "SNl-EKI8C3": {
-        "id": "SNl-EKI8C3",
-        "title": "Сияние",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2019-07-04 23:05:58",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 20
         }
     }
 }
