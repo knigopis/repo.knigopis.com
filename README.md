@@ -51,11 +51,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[BunnyReader](users/117/117953264019715943446-google)<sup>7</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>88</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>1</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>11</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
-[BunnyReader](users/117/117953264019715943446-google)<sup>8</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>111</sup> 
 [Tanya337](users/286/2867088343333019-facebook)<sup>0</sup> 
 [dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vitaly](users/109/109395490138181998437-google)<sup>8</sup> 
 
 
-_07.07.2019 19:06:31_
+_08.07.2019 05:20:04_
