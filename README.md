@@ -51,7 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[BunnyReader](users/117/117953264019715943446-google)<sup>2</sup> 
+[BunnyReader](users/117/117953264019715943446-google)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>88</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>1</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>11</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vitaly](users/109/109395490138181998437-google)<sup>8</sup> 
 
 
-_08.07.2019 05:20:48_
+_08.07.2019 05:20:53_
