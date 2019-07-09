@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>9</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>10</sup>
 ---
 
 ## 2019
+
+### Мальчик в полосатой пижаме
+Джон Бойн
+> [2019-07-09] 
+
 
 ### Не стреляйте в белых лебедей
 Борис Васильев
