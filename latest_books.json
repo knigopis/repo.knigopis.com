@@ -1,4 +1,16 @@
 {
+    "36Ly1Hn53b": {
+        "id": "36Ly1Hn53b",
+        "title": "Гордость и предубеждение",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2019-07-10 07:25:04",
+        "user": {
+            "id": "17479508-vkontakte",
+            "nickname": null,
+            "booksCount": 7
+        }
+    },
     "8xre0SF6Wb": {
         "id": "8xre0SF6Wb",
         "title": "Джейн Эйр",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 125
-        }
-    },
-    "h_N40hB4AH": {
-        "id": "h_N40hB4AH",
-        "title": "Стив Джобс",
-        "author": "Уолтер Айзексон",
-        "notes": "",
-        "createdAt": "2019-07-07 05:57:38",
-        "user": {
-            "id": "117277044284589498872-google",
-            "nickname": "Яков",
-            "booksCount": 5
         }
     }
 }
