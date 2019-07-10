@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Доктор Сон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>42</sup>
 * Когда гений терпит поражение ~ [Яков](users/117/117277044284589498872-google)<sup>10</sup>
 * Над пропастью во ржи ~ [Яков](users/117/117277044284589498872-google)<sup>8</sup>
 * Алхимик ~ [Яков](users/117/117277044284589498872-google)<sup>6</sup>
@@ -30,7 +31,6 @@
 * 45 татуировок менеджера ~ [youno](users/302/302928912-vkontakte)<sup>24</sup>
 * В пробирке КИТ ~ [kissamasya](users/684/68439978-vkontakte)<sup>66</sup>
 * Жоэль Диккер ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>59</sup>
-* Восьмой круг подземки ~ [En](users/333/333646551-vkontakte)<sup>69</sup>
 
 
-_07.07.2019 10:26:35_
+_10.07.2019 12:43:57_

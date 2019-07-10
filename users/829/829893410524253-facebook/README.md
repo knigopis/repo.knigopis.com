@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>41</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>42</sup>
 ---
 
 ## 2019
+
+### Доктор Сон
+Стівен Кінг
+> [2019-07-09] 10/10 Продовження "Сяйва".
+
 
 ### Оно
 Стівен Кінг

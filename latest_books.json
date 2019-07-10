@@ -1,4 +1,16 @@
 {
+    "NGIB2GVCUz": {
+        "id": "NGIB2GVCUz",
+        "title": "Доктор Сон",
+        "author": "Стівен Кінг",
+        "notes": "10/10 Продовження \"Сяйва\".",
+        "createdAt": "2019-07-10 12:43:57",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 42
+        }
+    },
     "Bhb30BPV0h": {
         "id": "Bhb30BPV0h",
         "title": "Простушка",
@@ -345,18 +357,6 @@
             "id": "117277044284589498872-google",
             "nickname": "Яков",
             "booksCount": 8
-        }
-    },
-    "zoHCTOtyrC": {
-        "id": "zoHCTOtyrC",
-        "title": "Черный Лебедь. Под знаком непредсказуемости",
-        "author": "Нассим Николас Талеб",
-        "notes": "",
-        "createdAt": "2019-07-07 10:15:44",
-        "user": {
-            "id": "117277044284589498872-google",
-            "nickname": "Яков",
-            "booksCount": 7
         }
     }
 }
