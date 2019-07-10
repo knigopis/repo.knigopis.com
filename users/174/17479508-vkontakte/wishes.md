@@ -1,6 +1,6 @@
-# Wish list of books by [](http://vk.com/id17479508)
+# Wish list of books by [Дарья](http://vk.com/id17479508)
 ---
 
-### `15` Нейромант
+### `14` Нейромант
 Уильям Гибсон
 
