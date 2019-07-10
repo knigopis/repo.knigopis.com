@@ -1,4 +1,16 @@
 {
+    "5h9j2itBXj": {
+        "id": "5h9j2itBXj",
+        "title": "Клин клином",
+        "author": "Иоанна Хмелевская",
+        "notes": "",
+        "createdAt": "2019-07-10 15:35:45",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 143
+        }
+    },
     "NGIB2GVCUz": {
         "id": "NGIB2GVCUz",
         "title": "Доктор Сон",
@@ -345,18 +357,6 @@
             "id": "117277044284589498872-google",
             "nickname": "Яков",
             "booksCount": 9
-        }
-    },
-    "84PZb87oIX": {
-        "id": "84PZb87oIX",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Дэвид Сэлинджер",
-        "notes": "Ожидал большего ориентируясь на отзывы и рецензии :(",
-        "createdAt": "2019-07-07 10:20:14",
-        "user": {
-            "id": "117277044284589498872-google",
-            "nickname": "Яков",
-            "booksCount": 8
         }
     }
 }

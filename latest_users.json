@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 143,
+        "updatedAt": "2019-07-10 15:35:45"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -142,12 +148,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-06-30 14:46:33"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 142,
-        "updatedAt": "2019-06-29 17:07:28"
     },
     "178551812-vkontakte": {
         "id": "178551812-vkontakte",
