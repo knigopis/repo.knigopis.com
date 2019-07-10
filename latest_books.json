@@ -1,4 +1,16 @@
 {
+    "7LsxTsJZPz": {
+        "id": "7LsxTsJZPz",
+        "title": "Мемуары Гейши",
+        "author": "Артур Голден",
+        "notes": "",
+        "createdAt": "2019-07-10 07:18:40",
+        "user": {
+            "id": "17479508-vkontakte",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "336DU245Ug": {
         "id": "336DU245Ug",
         "title": "Мальчик в полосатой пижаме",
@@ -345,18 +357,6 @@
             "id": "117953264019715943446-google",
             "nickname": "BunnyReader",
             "booksCount": 8
-        }
-    },
-    "AYvwvPVewx": {
-        "id": "AYvwvPVewx",
-        "title": "BTS",
-        "author": "Эдриан Бесли",
-        "notes": "",
-        "createdAt": "2019-07-06 13:48:53",
-        "user": {
-            "id": "117953264019715943446-google",
-            "nickname": "BunnyReader",
-            "booksCount": 7
         }
     }
 }
