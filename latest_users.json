@@ -1,4 +1,10 @@
 {
+    "17479508-vkontakte": {
+        "id": "17479508-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-07-10 07:18:10"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 71,
         "updatedAt": "2019-06-28 11:27:00"
-    },
-    "109395490138181998437-google": {
-        "id": "109395490138181998437-google",
-        "nickname": "Vitaly",
-        "booksCount": 8,
-        "updatedAt": "2019-06-28 06:45:20"
     }
 }
