@@ -1,4 +1,16 @@
 {
+    "Frgh3zogSR": {
+        "id": "Frgh3zogSR",
+        "title": "Есть, молиться, любить",
+        "author": "Элизабет Гилберт",
+        "notes": "",
+        "createdAt": "2019-07-10 07:21:12",
+        "user": {
+            "id": "17479508-vkontakte",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "dAMeoLFaoL": {
         "id": "dAMeoLFaoL",
         "title": "Ночь нежна",
@@ -345,18 +357,6 @@
             "id": "117277044284589498872-google",
             "nickname": "Яков",
             "booksCount": 3
-        }
-    },
-    "PoQ_nbioYr": {
-        "id": "PoQ_nbioYr",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-07-07 05:36:38",
-        "user": {
-            "id": "117277044284589498872-google",
-            "nickname": "Яков",
-            "booksCount": 2
         }
     }
 }
