@@ -1,4 +1,16 @@
 {
+    "dAMeoLFaoL": {
+        "id": "dAMeoLFaoL",
+        "title": "Ночь нежна",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2019-07-10 07:20:18",
+        "user": {
+            "id": "17479508-vkontakte",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "dk2WNqEmsf": {
         "id": "dk2WNqEmsf",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "117277044284589498872-google",
             "nickname": "Яков",
             "booksCount": 2
-        }
-    },
-    "E0NIgJzwnB": {
-        "id": "E0NIgJzwnB",
-        "title": "Атлант расправил плечи",
-        "author": "Айн Рэнд",
-        "notes": "",
-        "createdAt": "2019-07-07 05:36:32",
-        "user": {
-            "id": "117277044284589498872-google",
-            "nickname": "Яков",
-            "booksCount": 1
         }
     }
 }
