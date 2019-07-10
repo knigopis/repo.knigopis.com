@@ -51,6 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/174/17479508-vkontakte)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>10</sup> 
 [BunnyReader](users/117/117953264019715943446-google)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>88</sup> 
@@ -80,7 +81,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>54</sup> 
 [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup> 
 [En](users/333/333646551-vkontakte)<sup>71</sup> 
-[Vitaly](users/109/109395490138181998437-google)<sup>8</sup> 
 
 
-_09.07.2019 18:30:50_
+_10.07.2019 07:18:14_
