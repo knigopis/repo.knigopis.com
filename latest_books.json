@@ -1,4 +1,16 @@
 {
+    "K7V12kpxTy": {
+        "id": "K7V12kpxTy",
+        "title": "Жизнь",
+        "author": "Ги де Мопассан",
+        "notes": "",
+        "createdAt": "2019-07-10 07:23:33",
+        "user": {
+            "id": "17479508-vkontakte",
+            "nickname": null,
+            "booksCount": 5
+        }
+    },
     "Frgh3zogSR": {
         "id": "Frgh3zogSR",
         "title": "Есть, молиться, любить",
@@ -345,18 +357,6 @@
             "id": "117277044284589498872-google",
             "nickname": "Яков",
             "booksCount": 4
-        }
-    },
-    "_e97agHzQT": {
-        "id": "_e97agHzQT",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2019-07-07 05:37:58",
-        "user": {
-            "id": "117277044284589498872-google",
-            "nickname": "Яков",
-            "booksCount": 3
         }
     }
 }
