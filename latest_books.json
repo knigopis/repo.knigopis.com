@@ -1,4 +1,16 @@
 {
+    "dk2WNqEmsf": {
+        "id": "dk2WNqEmsf",
+        "title": "Великий Гэтсби",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2019-07-10 07:19:44",
+        "user": {
+            "id": "17479508-vkontakte",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "7LsxTsJZPz": {
         "id": "7LsxTsJZPz",
         "title": "Мемуары Гейши",
@@ -345,18 +357,6 @@
             "id": "117277044284589498872-google",
             "nickname": "Яков",
             "booksCount": 1
-        }
-    },
-    "8ndkSefgVr": {
-        "id": "8ndkSefgVr",
-        "title": "Чучело",
-        "author": "Владимир Железников",
-        "notes": "",
-        "createdAt": "2019-07-06 18:04:39",
-        "user": {
-            "id": "117953264019715943446-google",
-            "nickname": "BunnyReader",
-            "booksCount": 8
         }
     }
 }
