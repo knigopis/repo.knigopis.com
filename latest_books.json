@@ -1,4 +1,16 @@
 {
+    "8xre0SF6Wb": {
+        "id": "8xre0SF6Wb",
+        "title": "Джейн Эйр",
+        "author": "Шарлотта Бронте",
+        "notes": "",
+        "createdAt": "2019-07-10 07:23:52",
+        "user": {
+            "id": "17479508-vkontakte",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "K7V12kpxTy": {
         "id": "K7V12kpxTy",
         "title": "Жизнь",
@@ -345,18 +357,6 @@
             "id": "117277044284589498872-google",
             "nickname": "Яков",
             "booksCount": 5
-        }
-    },
-    "QpSx8ofP3h": {
-        "id": "QpSx8ofP3h",
-        "title": "13213",
-        "author": "32132",
-        "notes": "",
-        "createdAt": "2019-07-07 05:47:00",
-        "user": {
-            "id": "117277044284589498872-google",
-            "nickname": "Яков",
-            "booksCount": 4
         }
     }
 }
