@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[cherryplombir](users/202/202904827-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>143</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>42</sup> 
 [](users/174/17479508-vkontakte)<sup>9</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>64</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>54</sup> 
 [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup> 
-[En](users/333/333646551-vkontakte)<sup>71</sup> 
 
 
-_10.07.2019 15:35:45_
+_11.07.2019 07:14:44_
