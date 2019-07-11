@@ -1,4 +1,16 @@
 {
+    "DJpR7ZP-d8": {
+        "id": "DJpR7ZP-d8",
+        "title": "Айн Рэнд",
+        "author": "Атлант расправил плечи",
+        "notes": "",
+        "createdAt": "2019-07-11 18:37:00",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 236
+        }
+    },
     "BPQhwhXYm7": {
         "id": "BPQhwhXYm7",
         "title": "Я обслуживал английского короля",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 1
-        }
-    },
-    "3D5xaQmiTG": {
-        "id": "3D5xaQmiTG",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2019-07-07 10:30:13",
-        "user": {
-            "id": "117277044284589498872-google",
-            "nickname": "Яков",
-            "booksCount": 11
         }
     }
 }
