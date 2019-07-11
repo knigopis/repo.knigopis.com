@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>11</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>12</sup>
 ---
 
 ## 2019
+
+### Куриный бульон для души. 101 лучшая история (1 часть, 2016 г.)
+Джек Кэнфилд
+> [2019-07-11] 
+
 
 ### Мальчик на вершине горы
 Джон Бойн

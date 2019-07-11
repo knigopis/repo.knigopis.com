@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Knigolub~](users/111/111878597279669641685-google)<sup>11</sup> 
+[Knigolub~](users/111/111878597279669641685-google)<sup>12</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>237</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>225</sup> 
 [cherryplombir](users/202/202904827-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>54</sup> 
 
 
-_11.07.2019 19:40:49_
+_11.07.2019 19:44:26_
