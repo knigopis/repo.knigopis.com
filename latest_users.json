@@ -1,4 +1,10 @@
 {
+    "10848515355906827860-mailru": {
+        "id": "10848515355906827860-mailru",
+        "nickname": "Оля-перекати-поле",
+        "booksCount": 235,
+        "updatedAt": "2019-07-11 18:35:29"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Quaff",
         "booksCount": 54,
         "updatedAt": "2019-06-28 17:05:24"
-    },
-    "445474364-vkontakte": {
-        "id": "445474364-vkontakte",
-        "nickname": "olegshirokikh2001",
-        "booksCount": 30,
-        "updatedAt": "2019-06-28 11:57:53"
     }
 }

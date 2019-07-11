@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>235</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>225</sup> 
 [cherryplombir](users/202/202904827-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>143</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Bruss](users/178/178551812-vkontakte)<sup>4</sup> 
 [rNix](users/227/22742452-yandex)<sup>64</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>54</sup> 
-[olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup> 
 
 
-_11.07.2019 15:05:16_
+_11.07.2019 18:35:29_
