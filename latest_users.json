@@ -1,4 +1,10 @@
 {
+    "202904827-vkontakte": {
+        "id": "202904827-vkontakte",
+        "nickname": "cherryplombir",
+        "booksCount": 0,
+        "updatedAt": "2019-07-11 07:14:40"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "olegshirokikh2001",
         "booksCount": 30,
         "updatedAt": "2019-06-28 11:57:53"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 71,
-        "updatedAt": "2019-06-28 11:27:00"
     }
 }
