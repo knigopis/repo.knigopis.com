@@ -1,4 +1,16 @@
 {
+    "qfQnNvV0Ou": {
+        "id": "qfQnNvV0Ou",
+        "title": "Заводной апельсин",
+        "author": "Энтони Бёрджесс",
+        "notes": "Муть какая-то",
+        "createdAt": "2019-07-11 15:05:16",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 225
+        }
+    },
     "5h9j2itBXj": {
         "id": "5h9j2itBXj",
         "title": "Клин клином",
@@ -345,18 +357,6 @@
             "id": "117277044284589498872-google",
             "nickname": "Яков",
             "booksCount": 10
-        }
-    },
-    "3XlThNV_SS": {
-        "id": "3XlThNV_SS",
-        "title": "Теряя невинность. Автобиография",
-        "author": "Ричард Брэнсон",
-        "notes": "",
-        "createdAt": "2019-07-07 10:22:44",
-        "user": {
-            "id": "117277044284589498872-google",
-            "nickname": "Яков",
-            "booksCount": 9
         }
     }
 }

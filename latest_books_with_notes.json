@@ -1,4 +1,16 @@
 {
+    "qfQnNvV0Ou": {
+        "id": "qfQnNvV0Ou",
+        "title": "Заводной апельсин",
+        "author": "Энтони Бёрджесс",
+        "notes": "Муть какая-то",
+        "createdAt": "2019-07-11 15:05:16",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 225
+        }
+    },
     "NGIB2GVCUz": {
         "id": "NGIB2GVCUz",
         "title": "Доктор Сон",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 66
-        }
-    },
-    "c2d_c2cf7Q": {
-        "id": "c2d_c2cf7Q",
-        "title": "Жоэль Диккер",
-        "author": "Правда о деле Гарри Квеберта",
-        "notes": "на 10",
-        "createdAt": "2019-06-26 13:23:52",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 59
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>224</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>225</sup>
 ---
 
 ## 2019
+
+### Заводной апельсин
+Энтони Бёрджесс
+> [2019-07-09] Муть какая-то
+
 
 ### К оружию! К оружию!
 Пратчетт, Терри

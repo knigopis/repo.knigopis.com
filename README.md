@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Заводной апельсин ~ [Garka](users/115/115753719718250012620-google)<sup>225</sup>
+    > Муть какая-то
+
 * Доктор Сон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>42</sup>
     > 10/10 Продовження "Сяйва".
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Обычная экономика компании Long-Term Capital Management со взлетами и падениями. Описана тесная связь политики и экономики в современном мире.
 
 * Над пропастью во ржи ~ [Яков](users/117/117277044284589498872-google)<sup>8</sup>
-    > Ожидал большего ориентируясь на отзывы и рецензии :(
 
 * Алхимик ~ [Яков](users/117/117277044284589498872-google)<sup>6</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Проклятое бессмертие ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup>
 
-* Страшный сон Драко Малфоя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>470</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>225</sup> 
 [cherryplombir](users/202/202904827-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>143</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>42</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/138/138142271868147910-mailru)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>27</sup> 
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>224</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>708</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>67</sup> 
 [ulole](users/244/244065473-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup> 
 
 
-_11.07.2019 07:14:44_
+_11.07.2019 15:05:16_
