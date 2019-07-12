@@ -1,4 +1,16 @@
 {
+    "y912FmD_Yk": {
+        "id": "y912FmD_Yk",
+        "title": "Искушение винодела",
+        "author": "Элизабет Нокс",
+        "notes": "",
+        "createdAt": "2019-07-12 09:29:46",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 13
+        }
+    },
     "4T7zz9eVLs": {
         "id": "4T7zz9eVLs",
         "title": "Куриный бульон для души. 101 лучшая история (1 часть, 2016 г.)",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 87
-        }
-    },
-    "IBEAkjHv-S": {
-        "id": "IBEAkjHv-S",
-        "title": "Вендиго",
-        "author": "Алджернон Блэквуд",
-        "notes": "",
-        "createdAt": "2019-07-07 19:05:23",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 86
         }
     }
 }
