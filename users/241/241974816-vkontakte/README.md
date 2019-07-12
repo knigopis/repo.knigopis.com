@@ -1,7 +1,12 @@
-# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>203</sup>
+# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>204</sup>
 ---
 
 ## 2019
+
+### Самоучитель по философии
+Андрей Курпатов
+> [2019-07-12] в процессе
+
 
 ### Диктатор
 Сергей Снегов

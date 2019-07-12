@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Самоучитель по философии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>204</sup>
+    > в процессе
+
 * Заводной апельсин ~ [Garka](users/115/115753719718250012620-google)<sup>225</sup>
     > Муть какая-то
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Продовження "Сяйва".
 
 * Когда гений терпит поражение ~ [Яков](users/117/117277044284589498872-google)<sup>10</sup>
-    > Обычная экономика компании Long-Term Capital Management со взлетами и падениями. Описана тесная связь политики и экономики в современном мире.
 
 * Над пропастью во ржи ~ [Яков](users/117/117277044284589498872-google)<sup>8</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * И ботаники делают бизнес 1+2 ~ [youno](users/302/302928912-vkontakte)<sup>25</sup>
 
-* Проклятое бессмертие ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>204</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>13</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>237</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>225</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/116/116927503362988481359-googleplus)<sup>0</sup> 
 [Bruss](users/178/178551812-vkontakte)<sup>4</sup> 
 [rNix](users/227/22742452-yandex)<sup>64</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>54</sup> 
 
 
-_12.07.2019 09:30:47_
+_12.07.2019 13:40:52_

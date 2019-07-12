@@ -1,4 +1,16 @@
 {
+    "LmNLbvcaqc": {
+        "id": "LmNLbvcaqc",
+        "title": "Самоучитель по философии",
+        "author": "Андрей Курпатов",
+        "notes": "в процессе",
+        "createdAt": "2019-07-12 13:40:52",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 204
+        }
+    },
     "44ZxygjKrI": {
         "id": "44ZxygjKrI",
         "title": "Искушение винодела",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 88
-        }
-    },
-    "OIhpND7lhw": {
-        "id": "OIhpND7lhw",
-        "title": "Курган",
-        "author": "Силия Бишоп",
-        "notes": "",
-        "createdAt": "2019-07-07 19:05:39",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 87
         }
     }
 }

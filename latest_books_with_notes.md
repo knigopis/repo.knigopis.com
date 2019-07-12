@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Самоучитель по философии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>204</sup>
 * Заводной апельсин ~ [Garka](users/115/115753719718250012620-google)<sup>225</sup>
 * Доктор Сон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>42</sup>
 * Когда гений терпит поражение ~ [Яков](users/117/117277044284589498872-google)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Происшествие в старом замке ~ [En](users/333/333646551-vkontakte)<sup>71</sup>
 * и грянул гром ~ [En](users/333/333646551-vkontakte)<sup>70</sup>
 * 45 татуировок менеджера ~ [youno](users/302/302928912-vkontakte)<sup>24</sup>
-* В пробирке КИТ ~ [kissamasya](users/684/68439978-vkontakte)<sup>66</sup>
 
 
-_11.07.2019 15:05:16_
+_12.07.2019 13:40:52_

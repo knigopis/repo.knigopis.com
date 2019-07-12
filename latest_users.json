@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 204,
+        "updatedAt": "2019-07-12 13:40:52"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "rNix",
         "booksCount": 64,
         "updatedAt": "2019-06-29 13:08:57"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 54,
-        "updatedAt": "2019-06-28 17:05:24"
     }
 }
