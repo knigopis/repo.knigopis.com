@@ -1,4 +1,10 @@
 {
+    "7717146768350199452-mailru": {
+        "id": "7717146768350199452-mailru",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-07-13 14:02:15"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "Bruss",
         "booksCount": 4,
         "updatedAt": "2019-06-29 16:13:55"
-    },
-    "22742452-yandex": {
-        "id": "22742452-yandex",
-        "nickname": "rNix",
-        "booksCount": 64,
-        "updatedAt": "2019-06-29 13:08:57"
     }
 }
