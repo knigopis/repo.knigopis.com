@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дочь Монтесумы ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
+    > В 15 лет эта книга хорошо зашла. Ну прочла ее через 14 лет и показалось достаточно наивно 😞
+
 * Самоучитель по философии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>204</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Муть какая-то
 
 * Доктор Сон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>42</sup>
-    > 10/10 Продовження "Сяйва".
 
 * Когда гений терпит поражение ~ [Яков](users/117/117277044284589498872-google)<sup>10</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * The Mongoliad (The Mongoliad Series Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>110</sup>
 
-* И ботаники делают бизнес 1+2 ~ [youno](users/302/302928912-vkontakte)<sup>25</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>63</sup> 
 [](users/771/7717146768350199452-mailru)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>204</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>13</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [wdqwdqwd23](users/132/13245747-vkontakte)<sup>0</sup> 
 [Zarech](users/116/116927503362988481359-google)<sup>1</sup> 
 [](users/116/116927503362988481359-googleplus)<sup>0</sup> 
-[Bruss](users/178/178551812-vkontakte)<sup>4</sup> 
 
 
-_13.07.2019 14:04:25_
+_13.07.2019 14:54:03_

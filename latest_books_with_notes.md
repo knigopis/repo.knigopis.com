@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дочь Монтесумы ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
 * Самоучитель по философии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>204</sup>
 * Заводной апельсин ~ [Garka](users/115/115753719718250012620-google)<sup>225</sup>
 * Доктор Сон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>42</sup>
@@ -30,7 +31,6 @@
 * Всадник без головы ~ [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup>
 * Происшествие в старом замке ~ [En](users/333/333646551-vkontakte)<sup>71</sup>
 * и грянул гром ~ [En](users/333/333646551-vkontakte)<sup>70</sup>
-* 45 татуировок менеджера ~ [youno](users/302/302928912-vkontakte)<sup>24</sup>
 
 
-_12.07.2019 13:40:52_
+_13.07.2019 14:54:03_

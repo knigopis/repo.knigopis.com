@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-google": {
+        "id": "116961712580551399099-google",
+        "nickname": "violet_velva",
+        "booksCount": 63,
+        "updatedAt": "2019-07-13 14:54:03"
+    },
     "7717146768350199452-mailru": {
         "id": "7717146768350199452-mailru",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-06-30 14:46:33"
-    },
-    "178551812-vkontakte": {
-        "id": "178551812-vkontakte",
-        "nickname": "Bruss",
-        "booksCount": 4,
-        "updatedAt": "2019-06-29 16:13:55"
     }
 }
