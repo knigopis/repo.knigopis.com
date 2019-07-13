@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/771/7717146768350199452-mailru)<sup>0</sup> 
+[](users/771/7717146768350199452-mailru)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>204</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>13</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>237</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Bruss](users/178/178551812-vkontakte)<sup>4</sup> 
 
 
-_13.07.2019 14:02:18_
+_13.07.2019 14:03:58_
