@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/156/156698528-vkontakte)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>63</sup> 
 [](users/771/7717146768350199452-mailru)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>204</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ulole](users/244/244065473-vkontakte)<sup>0</sup> 
 [wdqwdqwd23](users/132/13245747-vkontakte)<sup>0</sup> 
 [Zarech](users/116/116927503362988481359-google)<sup>1</sup> 
-[](users/116/116927503362988481359-googleplus)<sup>0</sup> 
 
 
-_13.07.2019 14:54:03_
+_14.07.2019 05:32:21_
