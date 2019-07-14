@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>29</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>14</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>710</sup> 
 [](users/156/156698528-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>67</sup> 
 [ulole](users/244/244065473-vkontakte)<sup>0</sup> 
 [wdqwdqwd23](users/132/13245747-vkontakte)<sup>0</sup> 
-[Zarech](users/116/116927503362988481359-google)<sup>1</sup> 
 
 
-_14.07.2019 20:45:36_
+_14.07.2019 22:07:24_
