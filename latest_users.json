@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 709,
+        "updatedAt": "2019-07-14 18:40:10"
+    },
     "156698528-vkontakte": {
         "id": "156698528-vkontakte",
         "nickname": null,
@@ -148,12 +154,6 @@
         "nickname": "thejokerinthefog",
         "booksCount": 471,
         "updatedAt": "2019-07-03 16:09:18"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 708,
-        "updatedAt": "2019-07-03 11:35:25"
     },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
