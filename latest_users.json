@@ -1,4 +1,10 @@
 {
+    "156698528-vkontakte": {
+        "id": "156698528-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-07-14 05:32:16"
+    },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
         "nickname": "violet_velva",
@@ -172,11 +178,5 @@
         "nickname": "Zarech",
         "booksCount": 1,
         "updatedAt": "2019-06-30 15:36:14"
-    },
-    "116927503362988481359-googleplus": {
-        "id": "116927503362988481359-googleplus",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-06-30 14:46:33"
     }
 }
