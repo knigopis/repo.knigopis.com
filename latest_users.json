@@ -1,4 +1,10 @@
 {
+    "358903447-vkontakte": {
+        "id": "358903447-vkontakte",
+        "nickname": "alexalex",
+        "booksCount": 0,
+        "updatedAt": "2019-07-15 07:43:06"
+    },
     "110931306939441771638-google": {
         "id": "110931306939441771638-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 67,
         "updatedAt": "2019-07-01 16:46:00"
-    },
-    "244065473-vkontakte": {
-        "id": "244065473-vkontakte",
-        "nickname": "ulole",
-        "booksCount": 0,
-        "updatedAt": "2019-06-30 20:38:43"
     }
 }
