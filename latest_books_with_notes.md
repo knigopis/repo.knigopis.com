@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Книжный вор ~ [sonics](users/588/5880221-vkontakte)<sup>61</sup>
 * Дочь Монтесумы ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
 * Самоучитель по философии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>204</sup>
 * Заводной апельсин ~ [Garka](users/115/115753719718250012620-google)<sup>225</sup>
@@ -30,7 +31,6 @@
 * Межевой рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>51</sup>
 * Всадник без головы ~ [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup>
 * Происшествие в старом замке ~ [En](users/333/333646551-vkontakte)<sup>71</sup>
-* и грянул гром ~ [En](users/333/333646551-vkontakte)<sup>70</sup>
 
 
-_13.07.2019 14:54:03_
+_15.07.2019 15:39:26_
