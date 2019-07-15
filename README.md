@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>113</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>114</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>61</sup> 
 [alexalex](users/358/358903447-vkontakte)<sup>0</sup> 
 [](users/110/110931306939441771638-google)<sup>3</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup> 
 
 
-_15.07.2019 17:59:04_
+_15.07.2019 17:59:28_
