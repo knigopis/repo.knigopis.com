@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 112,
+        "updatedAt": "2019-07-15 17:58:22"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -118,12 +124,6 @@
         "nickname": "Chiffi",
         "booksCount": 125,
         "updatedAt": "2019-07-07 06:14:13"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 111,
-        "updatedAt": "2019-07-06 13:34:40"
     },
     "2867088343333019-facebook": {
         "id": "2867088343333019-facebook",

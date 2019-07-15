@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>112</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>61</sup> 
 [alexalex](users/358/358903447-vkontakte)<sup>0</sup> 
 [](users/110/110931306939441771638-google)<sup>3</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>88</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>11</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>111</sup> 
 [Tanya337](users/286/2867088343333019-facebook)<sup>0</sup> 
 [dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>20</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup> 
 
 
-_15.07.2019 15:39:26_
+_15.07.2019 17:58:22_
