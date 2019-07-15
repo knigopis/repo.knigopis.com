@@ -1,4 +1,16 @@
 {
+    "FArwB17EKr": {
+        "id": "FArwB17EKr",
+        "title": "Убить Некроманта",
+        "author": "Макс Далин",
+        "notes": "",
+        "createdAt": "2019-07-15 19:47:57",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 15
+        }
+    },
     "IevQKkU0sj": {
         "id": "IevQKkU0sj",
         "title": "Не прощаюсь",
@@ -345,18 +357,6 @@
             "id": "17479508-vkontakte",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "7LsxTsJZPz": {
-        "id": "7LsxTsJZPz",
-        "title": "Мемуары Гейши",
-        "author": "Артур Голден",
-        "notes": "",
-        "createdAt": "2019-07-10 07:18:40",
-        "user": {
-            "id": "17479508-vkontakte",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

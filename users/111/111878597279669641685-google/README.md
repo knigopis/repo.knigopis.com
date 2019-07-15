@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>14</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>15</sup>
 ---
 
 ## 2019
+
+### Убить Некроманта
+Макс Далин
+> [2019-07-15] 
+
 
 ### Назови меня своим именем
 Андре Асиман
