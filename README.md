@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Timofei](users/110/110891576791282096366-google)<sup>0</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>44</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>15</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>114</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>46</sup> 
 [youno](users/302/302928912-vkontakte)<sup>25</sup> 
 [](users/138/138142271868147910-mailru)<sup>0</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>27</sup> 
 
 
-_16.07.2019 11:45:10_
+_16.07.2019 17:09:45_
