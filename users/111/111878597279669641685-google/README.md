@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>15</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>16</sup>
 ---
 
 ## 2019
+
+### Изысканный труп
+Поппи Брайт
+> [2019-07-17] 
+
 
 ### Убить Некроманта
 Макс Далин

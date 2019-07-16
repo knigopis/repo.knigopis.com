@@ -36,10 +36,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>16</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>55</sup> 
 [Timofei](users/110/110891576791282096366-google)<sup>0</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>44</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>15</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>114</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>61</sup> 
 [alexalex](users/358/358903447-vkontakte)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>25</sup> 
 
 
-_16.07.2019 18:46:54_
+_16.07.2019 19:58:02_

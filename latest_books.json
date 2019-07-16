@@ -1,4 +1,16 @@
 {
+    "7OYatTpSc_": {
+        "id": "7OYatTpSc_",
+        "title": "Изысканный труп",
+        "author": "Поппи Брайт",
+        "notes": "",
+        "createdAt": "2019-07-16 19:58:02",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 16
+        }
+    },
     "Q26-qiVXob": {
         "id": "Q26-qiVXob",
         "title": "Волчья сущность",
@@ -345,18 +357,6 @@
             "id": "17479508-vkontakte",
             "nickname": null,
             "booksCount": 5
-        }
-    },
-    "Frgh3zogSR": {
-        "id": "Frgh3zogSR",
-        "title": "Есть, молиться, любить",
-        "author": "Элизабет Гилберт",
-        "notes": "",
-        "createdAt": "2019-07-10 07:21:12",
-        "user": {
-            "id": "17479508-vkontakte",
-            "nickname": null,
-            "booksCount": 4
         }
     }
 }
