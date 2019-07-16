@@ -1,4 +1,10 @@
 {
+    "110891576791282096366-google": {
+        "id": "110891576791282096366-google",
+        "nickname": "Timofei",
+        "booksCount": 0,
+        "updatedAt": "2019-07-16 17:09:43"
+    },
     "334696193054530347-mailru": {
         "id": "334696193054530347-mailru",
         "nickname": "Даша",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-07-03 20:49:01"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 27,
-        "updatedAt": "2019-07-03 19:35:13"
     }
 }
