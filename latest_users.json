@@ -1,4 +1,10 @@
 {
+    "12267158-vkontakte": {
+        "id": "12267158-vkontakte",
+        "nickname": "Quaff",
+        "booksCount": 55,
+        "updatedAt": "2019-07-16 18:46:54"
+    },
     "110891576791282096366-google": {
         "id": "110891576791282096366-google",
         "nickname": "Timofei",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 25,
         "updatedAt": "2019-07-04 01:59:15"
-    },
-    "138142271868147910-mailru": {
-        "id": "138142271868147910-mailru",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-07-03 20:49:01"
     }
 }

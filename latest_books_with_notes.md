@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Волчья сущность ~ [Quaff](users/122/12267158-vkontakte)<sup>55</sup>
 * Книжный вор ~ [sonics](users/588/5880221-vkontakte)<sup>61</sup>
 * Дочь Монтесумы ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
 * Самоучитель по философии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>204</sup>
@@ -30,7 +31,6 @@
 * Верный меч ~ [Quaff](users/122/12267158-vkontakte)<sup>52</sup>
 * Межевой рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>51</sup>
 * Всадник без головы ~ [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup>
-* Происшествие в старом замке ~ [En](users/333/333646551-vkontakte)<sup>71</sup>
 
 
-_15.07.2019 15:39:26_
+_16.07.2019 18:46:54_
