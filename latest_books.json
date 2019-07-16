@@ -1,4 +1,16 @@
 {
+    "Rq1JKvgKdP": {
+        "id": "Rq1JKvgKdP",
+        "title": "Комната Джованни",
+        "author": "Джеймс Болдуин",
+        "notes": "",
+        "createdAt": "2019-07-16 20:01:55",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 17
+        }
+    },
     "7OYatTpSc_": {
         "id": "7OYatTpSc_",
         "title": "Изысканный труп",
@@ -345,18 +357,6 @@
             "id": "17479508-vkontakte",
             "nickname": null,
             "booksCount": 6
-        }
-    },
-    "K7V12kpxTy": {
-        "id": "K7V12kpxTy",
-        "title": "Жизнь",
-        "author": "Ги де Мопассан",
-        "notes": "",
-        "createdAt": "2019-07-10 07:23:33",
-        "user": {
-            "id": "17479508-vkontakte",
-            "nickname": null,
-            "booksCount": 5
         }
     }
 }
