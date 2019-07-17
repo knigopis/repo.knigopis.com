@@ -1,4 +1,10 @@
 {
+    "105187106410967287777-google": {
+        "id": "105187106410967287777-google",
+        "nickname": "Denision",
+        "booksCount": 0,
+        "updatedAt": "2019-07-17 14:57:38"
+    },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
         "nickname": "Beaviska",
@@ -172,11 +178,5 @@
         "nickname": "katyarik17",
         "booksCount": 5,
         "updatedAt": "2019-07-04 11:00:39"
-    },
-    "113794223924688167852-google": {
-        "id": "113794223924688167852-google",
-        "nickname": "Victoria",
-        "booksCount": 46,
-        "updatedAt": "2019-07-04 06:55:27"
     }
 }
