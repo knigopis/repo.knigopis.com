@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Denision](users/105/105187106410967287777-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>33</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>16</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>55</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>20</sup> 
 [katyarik17](users/170/170796230-vkontakte)<sup>5</sup> 
-[Victoria](users/113/113794223924688167852-google)<sup>46</sup> 
 
 
-_17.07.2019 14:39:36_
+_17.07.2019 14:57:40_
