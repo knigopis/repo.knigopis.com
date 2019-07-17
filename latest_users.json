@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 33,
+        "updatedAt": "2019-07-17 14:39:36"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "Victoria",
         "booksCount": 46,
         "updatedAt": "2019-07-04 06:55:27"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 25,
-        "updatedAt": "2019-07-04 01:59:15"
     }
 }

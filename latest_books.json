@@ -1,4 +1,16 @@
 {
+    "P1edsd872h": {
+        "id": "P1edsd872h",
+        "title": "Коллекционер",
+        "author": "Джон Фаулз",
+        "notes": "",
+        "createdAt": "2019-07-17 14:39:36",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 33
+        }
+    },
     "Rq1JKvgKdP": {
         "id": "Rq1JKvgKdP",
         "title": "Комната Джованни",
@@ -345,18 +357,6 @@
             "id": "17479508-vkontakte",
             "nickname": null,
             "booksCount": 7
-        }
-    },
-    "8xre0SF6Wb": {
-        "id": "8xre0SF6Wb",
-        "title": "Джейн Эйр",
-        "author": "Шарлотта Бронте",
-        "notes": "",
-        "createdAt": "2019-07-10 07:23:52",
-        "user": {
-            "id": "17479508-vkontakte",
-            "nickname": null,
-            "booksCount": 6
         }
     }
 }
