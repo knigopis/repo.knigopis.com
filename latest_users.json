@@ -1,4 +1,10 @@
 {
+    "28874284-vkontakte": {
+        "id": "28874284-vkontakte",
+        "nickname": "lionzam",
+        "booksCount": 0,
+        "updatedAt": "2019-07-17 15:08:36"
+    },
     "105187106410967287777-google": {
         "id": "105187106410967287777-google",
         "nickname": "Denision",
@@ -172,11 +178,5 @@
         "nickname": "mavrentik",
         "booksCount": 20,
         "updatedAt": "2019-07-04 23:05:58"
-    },
-    "170796230-vkontakte": {
-        "id": "170796230-vkontakte",
-        "nickname": "katyarik17",
-        "booksCount": 5,
-        "updatedAt": "2019-07-04 11:00:39"
     }
 }
