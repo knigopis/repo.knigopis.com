@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>42</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>43</sup>
 ---
 
 ## 2019
+
+### Що впало, те пропало
+Стівен Кінг
+> [2019-07-17] 10/10 Фанат-убивця викрадає записники. Дет. пенс. Ходжес рятує іншого фана.
+
 
 ### Доктор Сон
 Стівен Кінг

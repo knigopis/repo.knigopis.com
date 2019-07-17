@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Що впало, те пропало ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup>
 * Волчья сущность ~ [Quaff](users/122/12267158-vkontakte)<sup>55</sup>
 * Книжный вор ~ [sonics](users/588/5880221-vkontakte)<sup>61</sup>
 * Дочь Монтесумы ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
@@ -30,7 +31,6 @@
 * Таинственный рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>53</sup>
 * Верный меч ~ [Quaff](users/122/12267158-vkontakte)<sup>52</sup>
 * Межевой рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>51</sup>
-* Всадник без головы ~ [olegshirokikh2001](users/445/445474364-vkontakte)<sup>30</sup>
 
 
-_16.07.2019 18:46:54_
+_17.07.2019 19:06:50_

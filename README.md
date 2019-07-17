@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Що впало, те пропало ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup>
+    > 10/10 Фанат-убивця викрадає записники. Дет. пенс. Ходжес рятує іншого фана.
+
 * Волчья сущность ~ [Quaff](users/122/12267158-vkontakte)<sup>55</sup>
     > Человек не единая личность.
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > 8/10
 
 * Дочь Монтесумы ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
-    > В 15 лет эта книга хорошо зашла. Ну прочла ее через 14 лет и показалось достаточно наивно 😞
 
 * Самоучитель по философии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>204</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Алхимик ~ [Яков](users/117/117277044284589498872-google)<sup>6</sup>
 
-* Порог ~ [Chiffi](users/105/105831994080785626680-google)<sup>125</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup> 
 [lionzam](users/288/28874284-vkontakte)<sup>0</sup> 
 [Denision](users/105/105187106410967287777-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>33</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>225</sup> 
 [cherryplombir](users/202/202904827-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>143</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>42</sup> 
 [](users/174/17479508-vkontakte)<sup>9</sup> 
 [BunnyReader](users/117/117953264019715943446-google)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>88</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>20</sup> 
 
 
-_17.07.2019 15:08:38_
+_17.07.2019 19:06:50_
