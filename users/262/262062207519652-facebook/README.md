@@ -1,4 +1,4 @@
-# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>10</sup>
+# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>11</sup>
 ---
 
 ## 2019
@@ -693,6 +693,10 @@
 
 
 ## 2006
+
+### Месть валькирий (Мефодий Буслаев 5)
+Дмитрий Емец
+
 
 ### Билет на Лысую гору (Мефодий Буслаев 4)
 Дмитрий Емец
