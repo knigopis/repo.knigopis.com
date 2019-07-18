@@ -1,4 +1,16 @@
 {
+    "kBTD2RTLW8": {
+        "id": "kBTD2RTLW8",
+        "title": "Лестница в Эдем (Мефодий Буслаев 10)",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2019-07-18 10:38:53",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 16
+        }
+    },
     "Me9SRTN7dr": {
         "id": "Me9SRTN7dr",
         "title": "Светлые крылья для тёмного стража (Мефодий Буслаев 9)",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 710
-        }
-    },
-    "_hhtCriWQx": {
-        "id": "_hhtCriWQx",
-        "title": "Убийство командора",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2019-07-14 18:40:10",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 709
         }
     }
 }
