@@ -1,4 +1,16 @@
 {
+    "zRu40t8BIW": {
+        "id": "zRu40t8BIW",
+        "title": "Ожерелье дриады (Мефодий Буслаев 12)",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2019-07-18 10:39:45",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 18
+        }
+    },
     "FRlUle_1HV": {
         "id": "FRlUle_1HV",
         "title": "Карта Хаоса (Мефодий Буслаев 11)",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 29
-        }
-    },
-    "CJIk5dEj5S": {
-        "id": "CJIk5dEj5S",
-        "title": "Назови меня своим именем",
-        "author": "Андре Асиман",
-        "notes": "",
-        "createdAt": "2019-07-14 20:45:36",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 14
         }
     }
 }
