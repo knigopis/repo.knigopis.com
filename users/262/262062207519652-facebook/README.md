@@ -1,4 +1,4 @@
-# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>23</sup>
+# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>24</sup>
 ---
 
 ## 2019
@@ -766,6 +766,10 @@
 ### Гаррі Поттер і філософський камінь (Гаррі Поттер 1)
 Джоан Роулінг
 > [2005-01] 
+
+
+### Таня Гроттер и магический контрабас (Таня Гроттер 1)
+Дмитрий Емец
 
 
 ### Третий всадник мрака (Мефодий Буслаев 3)
