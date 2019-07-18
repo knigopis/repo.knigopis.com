@@ -1,4 +1,16 @@
 {
+    "gjXgavri7f": {
+        "id": "gjXgavri7f",
+        "title": "Будь моей мамой. Искалеченное детство",
+        "author": "Кэти Гласс",
+        "notes": "Пробирающая до мурашек история маленькой девочки из неблагополучной семьи и женщины из соцслужбы, пытающейся ей помочь.",
+        "createdAt": "2019-07-18 10:49:37",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 27
+        }
+    },
     "wbKlenmCbl": {
         "id": "wbKlenmCbl",
         "title": "13 причин почему",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 67
-        }
-    },
-    "LSpmyzgJAb": {
-        "id": "LSpmyzgJAb",
-        "title": "Лекции господина Пуфа",
-        "author": "Одоевский",
-        "notes": "кулинарная книга 19 век. читать поучительно и интересно, но тяжело((",
-        "createdAt": "2019-06-28 17:09:12",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 123
         }
     }
 }

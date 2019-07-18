@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Будь моей мамой. Искалеченное детство ~ [TheWildWind](users/262/262062207519652-facebook)<sup>27</sup>
 * 13 причин почему ~ [TheWildWind](users/262/262062207519652-facebook)<sup>26</sup>
 * Уличный кот по имени Боб. Как человек и кот обрели надежду на улицах Лондона ~ [TheWildWind](users/262/262062207519652-facebook)<sup>25</sup>
 * Я люблю тебя ~ [](users/262/262062207519652-facebook)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Оно ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup>
 * Территория Дозоров ~ [Chiffi](users/105/105831994080785626680-google)<sup>124</sup>
 * Кот Артур и ловушка для Земли ~ [kissamasya](users/684/68439978-vkontakte)<sup>67</sup>
-* Лекции господина Пуфа ~ [Chiffi](users/105/105831994080785626680-google)<sup>123</sup>
 
 
-_18.07.2019 10:47:50_
+_18.07.2019 10:49:37_

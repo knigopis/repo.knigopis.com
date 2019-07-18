@@ -1,4 +1,16 @@
 {
+    "gjXgavri7f": {
+        "id": "gjXgavri7f",
+        "title": "Будь моей мамой. Искалеченное детство",
+        "author": "Кэти Гласс",
+        "notes": "Пробирающая до мурашек история маленькой девочки из неблагополучной семьи и женщины из соцслужбы, пытающейся ей помочь.",
+        "createdAt": "2019-07-18 10:49:37",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 27
+        }
+    },
     "wbKlenmCbl": {
         "id": "wbKlenmCbl",
         "title": "13 причин почему",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 16
-        }
-    },
-    "Q26-qiVXob": {
-        "id": "Q26-qiVXob",
-        "title": "Волчья сущность",
-        "author": "Гёте, Иоганн Вольфганг фон",
-        "notes": "Человек не единая личность.",
-        "createdAt": "2019-07-16 18:46:54",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 55
         }
     }
 }
