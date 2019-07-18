@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Я чувствую тебя ~ [](users/262/262062207519652-facebook)<sup>5</sup>
 * Я смотрю на тебя ~ [](users/262/262062207519652-facebook)<sup>4</sup>
 * Що впало, те пропало ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup>
 * Волчья сущность ~ [Quaff](users/122/12267158-vkontakte)<sup>55</sup>
@@ -30,7 +31,6 @@
 * Не даренный подарок (Кася, Морра) ~ [Chiffi](users/105/105831994080785626680-google)<sup>122</sup>
 * Гаэльская волчица ~ [Quaff](users/122/12267158-vkontakte)<sup>54</sup>
 * Таинственный рыцарь ~ [Quaff](users/122/12267158-vkontakte)<sup>53</sup>
-* Верный меч ~ [Quaff](users/122/12267158-vkontakte)<sup>52</sup>
 
 
-_18.07.2019 10:30:03_
+_18.07.2019 10:30:45_

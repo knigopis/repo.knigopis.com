@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я чувствую тебя ~ [](users/262/262062207519652-facebook)<sup>5</sup>
+    > Прекрасное продолжение "Я смотрю на тебя".
+
 * Я смотрю на тебя ~ [](users/262/262062207519652-facebook)<sup>4</sup>
     > Красивый, томный, чувственный роман в трёх частях.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Фанат-убивця викрадає записники. Дет. пенс. Ходжес рятує іншого фана.
 
 * Волчья сущность ~ [Quaff](users/122/12267158-vkontakte)<sup>55</sup>
-    > Человек не единая личность.
 
 * Книжный вор ~ [sonics](users/588/5880221-vkontakte)<sup>61</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Когда гений терпит поражение ~ [Яков](users/117/117277044284589498872-google)<sup>10</sup>
 
-* Над пропастью во ржи ~ [Яков](users/117/117277044284589498872-google)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/262/262062207519652-facebook)<sup>4</sup> 
+[](users/262/262062207519652-facebook)<sup>5</sup> 
 [](users/110/110931306939441771638-google)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup> 
 [lionzam](users/288/28874284-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
 
 
-_18.07.2019 10:30:03_
+_18.07.2019 10:30:45_
