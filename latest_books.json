@@ -1,4 +1,16 @@
 {
+    "SbN9CpNWCB": {
+        "id": "SbN9CpNWCB",
+        "title": "Ладья света (Мефодий Буслаев 17)",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2019-07-18 10:42:00",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 23
+        }
+    },
     "1-g0SARsJo": {
         "id": "1-g0SARsJo",
         "title": "Книга семи дорог (Мефодий Буслаев 16)",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 114
-        }
-    },
-    "sAxqjqs-aV": {
-        "id": "sAxqjqs-aV",
-        "title": "Философия и механика итальянского глагола",
-        "author": "Петрожицкий Александр Иосифович",
-        "notes": "",
-        "createdAt": "2019-07-15 17:59:04",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 113
         }
     }
 }

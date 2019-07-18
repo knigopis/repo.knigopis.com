@@ -1,4 +1,4 @@
-# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>22</sup>
+# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>23</sup>
 ---
 
 ## 2019
@@ -346,6 +346,10 @@
 ### Ангел для сестры
 Джоди Пиколт
 > [2014-01] Качественная драма о выборе и принятии его, способности отпустить во благо другого.
+
+
+### Ладья света (Мефодий Буслаев 17)
+Дмитрий Емец
 
 
 
