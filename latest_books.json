@@ -1,4 +1,16 @@
 {
+    "CNldRM7RE6": {
+        "id": "CNldRM7RE6",
+        "title": "Элиза в сердце лабиринта",
+        "author": "Себастьен Перез",
+        "notes": "Атмосферная мини-страшилка на один раз.",
+        "createdAt": "2019-07-18 11:32:51",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 36
+        }
+    },
     "DtBEBJZmec": {
         "id": "DtBEBJZmec",
         "title": "Проснись в Никогда",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": "TheWildWind",
             "booksCount": 7
-        }
-    },
-    "p11q146SjM": {
-        "id": "p11q146SjM",
-        "title": "Я люблю тебя",
-        "author": "Ирэнэ Као",
-        "notes": "Красивое завершение Итальянской трилогии.",
-        "createdAt": "2019-07-18 10:31:20",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 6
         }
     }
 }

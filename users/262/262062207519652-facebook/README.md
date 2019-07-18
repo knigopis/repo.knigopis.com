@@ -1,7 +1,12 @@
-# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>35</sup>
+# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>36</sup>
 ---
 
 ## 2019
+
+### Элиза в сердце лабиринта
+Себастьен Перез
+> [2019-07-18] Атмосферная мини-страшилка на один раз.
+
 
 ### За закрытой дверью
 Бернадетт Энн Пэрис
