@@ -1,4 +1,4 @@
-# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>14</sup>
+# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>15</sup>
 ---
 
 ## 2019
@@ -617,6 +617,10 @@
 ### Гамлет
 Уильям Шекспир
 > [2008-02] 
+
+
+### Светлые крылья для тёмного стража (Мефодий Буслаев 9)
+Дмитрий Емец
 
 
 ### Первый эйдос (Мефодий Буслаев 8)
