@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>144</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup> 
 [](users/110/110931306939441771638-google)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>237</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>225</sup> 
 [cherryplombir](users/202/202904827-vkontakte)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>143</sup> 
 [](users/174/17479508-vkontakte)<sup>9</sup> 
 [BunnyReader](users/117/117953264019715943446-google)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>88</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
 
 
-_18.07.2019 11:32:51_
+_18.07.2019 15:07:19_
