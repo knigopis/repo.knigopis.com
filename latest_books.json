@@ -1,4 +1,16 @@
 {
+    "R5obsGMA11": {
+        "id": "R5obsGMA11",
+        "title": "Последняя",
+        "author": "Александра Олайва",
+        "notes": "Хороший постапокалиптический сюжет, легко и приятно читается, затягивает. Буду очень рада экранизации.",
+        "createdAt": "2019-07-18 11:04:22",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 34
+        }
+    },
     "KLTmuisG19": {
         "id": "KLTmuisG19",
         "title": "Отбор",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 5
-        }
-    },
-    "g4rlB4XsRh": {
-        "id": "g4rlB4XsRh",
-        "title": "Я смотрю на тебя",
-        "author": "Ирэнэ Као",
-        "notes": "Красивый, томный, чувственный роман в трёх частях.",
-        "createdAt": "2019-07-18 10:30:03",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 4
         }
     }
 }

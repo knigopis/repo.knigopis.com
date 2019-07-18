@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Последняя ~ [TheWildWind](users/262/262062207519652-facebook)<sup>34</sup>
 * Отбор ~ [TheWildWind](users/262/262062207519652-facebook)<sup>33</sup>
 * Не отпускай меня ~ [TheWildWind](users/262/262062207519652-facebook)<sup>32</sup>
 * Коснуться небес ~ [TheWildWind](users/262/262062207519652-facebook)<sup>31</sup>
@@ -30,7 +31,6 @@
 * Проклятое бессмертие ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup>
 * Страшный сон Драко Малфоя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>470</sup>
 * Проклятие соединившее наши сердца ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>469</sup>
-* Слизеринский принц ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>468</sup>
 
 
-_18.07.2019 11:02:33_
+_18.07.2019 11:04:22_
