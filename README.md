@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Отбор ~ [TheWildWind](users/262/262062207519652-facebook)<sup>33</sup>
+    > Одноразовое девчачье чтиво с оборванной концовкой. Будто в душу плюнули :(
+
 * Не отпускай меня ~ [TheWildWind](users/262/262062207519652-facebook)<sup>32</sup>
     > Не запомнилась.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Чтиво 18+, увлекает, хоть и не люблю книги о "сливках общества". Возможно, перечитаю.
 
 * Кое-что о Билли ~ [TheWildWind](users/262/262062207519652-facebook)<sup>30</sup>
-    > Что-то вроде "Дневник Бриджит Джонс", но от лица мужчины.
 
 * Завтра я всегда бывала львом ~ [TheWildWind](users/262/262062207519652-facebook)<sup>29</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Я люблю тебя ~ [](users/262/262062207519652-facebook)<sup>6</sup>
 
-* Я чувствую тебя ~ [](users/262/262062207519652-facebook)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[TheWildWind](users/262/262062207519652-facebook)<sup>32</sup> 
+[TheWildWind](users/262/262062207519652-facebook)<sup>33</sup> 
 [](users/110/110931306939441771638-google)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup> 
 [lionzam](users/288/28874284-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
 
 
-_18.07.2019 11:00:56_
+_18.07.2019 11:02:33_
