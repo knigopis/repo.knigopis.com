@@ -1,4 +1,16 @@
 {
+    "STb21Wnota": {
+        "id": "STb21Wnota",
+        "title": "Первый эйдос (Мефодий Буслаев 8)",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2019-07-18 10:37:56",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 14
+        }
+    },
     "RZ_wZvx6Ts": {
         "id": "RZ_wZvx6Ts",
         "title": "Лёд и пламя Тартара (Мефодий Буслаев 7)",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 63
-        }
-    },
-    "r5coRj3i6j": {
-        "id": "r5coRj3i6j",
-        "title": "Левая рука Тьмы",
-        "author": "Урсула Ле Гуин",
-        "notes": "Круть",
-        "createdAt": "2019-07-13 14:03:58",
-        "user": {
-            "id": "7717146768350199452-mailru",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

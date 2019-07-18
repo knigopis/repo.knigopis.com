@@ -1,4 +1,4 @@
-# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>13</sup>
+# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>14</sup>
 ---
 
 ## 2019
@@ -617,6 +617,10 @@
 ### Гамлет
 Уильям Шекспир
 > [2008-02] 
+
+
+### Первый эйдос (Мефодий Буслаев 8)
+Дмитрий Емец
 
 
 ### Предсказание (Город Эмбер 3)
