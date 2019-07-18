@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/110/110931306939441771638-google)<sup>4</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup> 
 [lionzam](users/288/28874284-vkontakte)<sup>0</sup> 
 [Denision](users/105/105187106410967287777-google)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>114</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>61</sup> 
 [alexalex](users/358/358903447-vkontakte)<sup>0</sup> 
-[](users/110/110931306939441771638-google)<sup>3</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>29</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>710</sup> 
 [](users/156/156698528-vkontakte)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>20</sup> 
 
 
-_17.07.2019 19:06:50_
+_18.07.2019 05:51:27_

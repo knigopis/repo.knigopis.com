@@ -1,4 +1,10 @@
 {
+    "110931306939441771638-google": {
+        "id": "110931306939441771638-google",
+        "nickname": null,
+        "booksCount": 4,
+        "updatedAt": "2019-07-18 05:51:27"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -64,12 +70,6 @@
         "nickname": "alexalex",
         "booksCount": 0,
         "updatedAt": "2019-07-15 07:43:06"
-    },
-    "110931306939441771638-google": {
-        "id": "110931306939441771638-google",
-        "nickname": null,
-        "booksCount": 3,
-        "updatedAt": "2019-07-15 07:08:59"
     },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
