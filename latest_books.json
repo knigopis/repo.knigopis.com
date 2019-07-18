@@ -1,4 +1,16 @@
 {
+    "wbKlenmCbl": {
+        "id": "wbKlenmCbl",
+        "title": "13 причин почему",
+        "author": "Джей Эшер",
+        "notes": "Мастрид для подростков.",
+        "createdAt": "2019-07-18 10:47:50",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 26
+        }
+    },
     "eEjCIX5nw0": {
         "id": "eEjCIX5nw0",
         "title": "Уличный кот по имени Боб. Как человек и кот обрели надежду на улицах Лондона",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 55
-        }
-    },
-    "S0Y2QWwEJJ": {
-        "id": "S0Y2QWwEJJ",
-        "title": "Невыносимая лёгкость бытия",
-        "author": "Милан Кундера",
-        "notes": "",
-        "createdAt": "2019-07-16 11:45:10",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 44
         }
     }
 }

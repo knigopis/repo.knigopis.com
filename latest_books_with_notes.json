@@ -1,4 +1,16 @@
 {
+    "wbKlenmCbl": {
+        "id": "wbKlenmCbl",
+        "title": "13 причин почему",
+        "author": "Джей Эшер",
+        "notes": "Мастрид для подростков.",
+        "createdAt": "2019-07-18 10:47:50",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 26
+        }
+    },
     "eEjCIX5nw0": {
         "id": "eEjCIX5nw0",
         "title": "Уличный кот по имени Боб. Как человек и кот обрели надежду на улицах Лондона",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 123
-        }
-    },
-    "DufMrDsFnc": {
-        "id": "DufMrDsFnc",
-        "title": "Не даренный подарок (Кася, Морра)",
-        "author": "Огинская Купава",
-        "notes": "женское фентези. Может и глупо, но мило",
-        "createdAt": "2019-06-28 17:06:44",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 122
         }
     }
 }
