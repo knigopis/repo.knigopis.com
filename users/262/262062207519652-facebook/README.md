@@ -1,4 +1,4 @@
-# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>9</sup>
+# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>10</sup>
 ---
 
 ## 2019
@@ -693,6 +693,10 @@
 
 
 ## 2006
+
+### Билет на Лысую гору (Мефодий Буслаев 4)
+Дмитрий Емец
+
 
 ### Мосты округа Мэдисон
 Роберт Джеймс Уоллер
