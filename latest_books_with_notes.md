@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Завтра я всегда бывала львом ~ [TheWildWind](users/262/262062207519652-facebook)<sup>29</sup>
 * За закрытой дверью ~ [TheWildWind](users/262/262062207519652-facebook)<sup>28</sup>
 * Будь моей мамой. Искалеченное детство ~ [TheWildWind](users/262/262062207519652-facebook)<sup>27</sup>
 * 13 причин почему ~ [TheWildWind](users/262/262062207519652-facebook)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Баллада об Аврорате и ближних его пределах ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>466</sup>
 * К оружию! К оружию! ~ [Garka](users/115/115753719718250012620-google)<sup>224</sup>
 * Оно ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>41</sup>
-* Территория Дозоров ~ [Chiffi](users/105/105831994080785626680-google)<sup>124</sup>
 
 
-_18.07.2019 10:53:14_
+_18.07.2019 10:55:15_
