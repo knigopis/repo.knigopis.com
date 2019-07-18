@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Проснись в Никогда ~ [TheWildWind](users/262/262062207519652-facebook)<sup>35</sup>
 * Последняя ~ [TheWildWind](users/262/262062207519652-facebook)<sup>34</sup>
 * Отбор ~ [TheWildWind](users/262/262062207519652-facebook)<sup>33</sup>
 * Не отпускай меня ~ [TheWildWind](users/262/262062207519652-facebook)<sup>32</sup>
@@ -30,7 +31,6 @@
 * И ботаники делают бизнес 1+2 ~ [youno](users/302/302928912-vkontakte)<sup>25</sup>
 * Проклятое бессмертие ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup>
 * Страшный сон Драко Малфоя ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>470</sup>
-* Проклятие соединившее наши сердца ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>469</sup>
 
 
-_18.07.2019 11:04:22_
+_18.07.2019 11:06:49_
