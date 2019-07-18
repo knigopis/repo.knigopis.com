@@ -1,4 +1,16 @@
 {
+    "xufzyVC6pf": {
+        "id": "xufzyVC6pf",
+        "title": "Острые предметы",
+        "author": "Гиллиан Флинн",
+        "notes": "",
+        "createdAt": "2019-07-18 05:52:33",
+        "user": {
+            "id": "110931306939441771638-google",
+            "nickname": null,
+            "booksCount": 5
+        }
+    },
     "fhH-4mF3CO": {
         "id": "fhH-4mF3CO",
         "title": "Мальчик в полосатой пижаме",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 42
-        }
-    },
-    "Bhb30BPV0h": {
-        "id": "Bhb30BPV0h",
-        "title": "Простушка",
-        "author": "Коди Кеплингер",
-        "notes": "",
-        "createdAt": "2019-07-10 07:51:27",
-        "user": {
-            "id": "17479508-vkontakte",
-            "nickname": null,
-            "booksCount": 9
         }
     }
 }

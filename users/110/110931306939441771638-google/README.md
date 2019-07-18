@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/110931306939441771638/)<sup>4</sup>
+# List of books read by [](https://plus.google.com/u/0/110931306939441771638/)<sup>5</sup>
 ---
 
 ## 2019
+
+### Острые предметы
+Гиллиан Флинн
+> [2019-07-18] 
+
 
 ### Мальчик в полосатой пижаме
 Джон Бойн
