@@ -1,4 +1,16 @@
 {
+    "RZ_wZvx6Ts": {
+        "id": "RZ_wZvx6Ts",
+        "title": "Лёд и пламя Тартара (Мефодий Буслаев 7)",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2019-07-18 10:37:27",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 13
+        }
+    },
     "0uCORQvfwI": {
         "id": "0uCORQvfwI",
         "title": "Тайная магия Депресняка (Мефодий Буслаев 6)",
@@ -345,18 +357,6 @@
             "id": "7717146768350199452-mailru",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "LmNLbvcaqc": {
-        "id": "LmNLbvcaqc",
-        "title": "Самоучитель по философии",
-        "author": "Андрей Курпатов",
-        "notes": "в процессе",
-        "createdAt": "2019-07-12 13:40:52",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 204
         }
     }
 }
