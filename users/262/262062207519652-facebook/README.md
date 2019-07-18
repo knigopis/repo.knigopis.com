@@ -1,4 +1,4 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=262062207519652)<sup>6</sup>
+# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>7</sup>
 ---
 
 ## 2019
@@ -710,6 +710,10 @@
 ### Гаррі Поттер і філософський камінь (Гаррі Поттер 1)
 Джоан Роулінг
 > [2005-01] 
+
+
+### Маг полуночи (Мефодий Буслаев 1)
+Дмитрий Емец
 
 
 ### Маленький принц
