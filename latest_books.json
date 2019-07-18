@@ -1,4 +1,16 @@
 {
+    "qvN9wGsTID": {
+        "id": "qvN9wGsTID",
+        "title": "Третий всадник мрака (Мефодий Буслаев 3)",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2019-07-18 10:35:49",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 9
+        }
+    },
     "GumPpgmeqX": {
         "id": "GumPpgmeqX",
         "title": "Свиток желаний (Мефодий Буслаев 2)",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 11
-        }
-    },
-    "bDyswJe6EE": {
-        "id": "bDyswJe6EE",
-        "title": "Держим удар, Дживс",
-        "author": "Пэлэм Грэнвил Вудхаус",
-        "notes": "",
-        "createdAt": "2019-07-11 18:39:14",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 237
         }
     }
 }
