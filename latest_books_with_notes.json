@@ -1,4 +1,16 @@
 {
+    "p11q146SjM": {
+        "id": "p11q146SjM",
+        "title": "Я люблю тебя",
+        "author": "Ирэнэ Као",
+        "notes": "Красивое завершение Итальянской трилогии.",
+        "createdAt": "2019-07-18 10:31:20",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "Oh7VU-QREY": {
         "id": "Oh7VU-QREY",
         "title": "Я чувствую тебя",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 54
-        }
-    },
-    "VsPkl8SSr4": {
-        "id": "VsPkl8SSr4",
-        "title": "Таинственный рыцарь",
-        "author": "Джордж Мартин",
-        "notes": "заключительная часть приключений тупоумного рыцаря из игр престолов.",
-        "createdAt": "2019-06-28 17:01:55",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 53
         }
     }
 }
