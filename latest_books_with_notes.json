@@ -1,4 +1,16 @@
 {
+    "g4rlB4XsRh": {
+        "id": "g4rlB4XsRh",
+        "title": "Я смотрю на тебя",
+        "author": "Ирэнэ Као",
+        "notes": "Красивый, томный, чувственный роман в трёх частях.",
+        "createdAt": "2019-07-18 10:30:03",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "K0PlbNF39k": {
         "id": "K0PlbNF39k",
         "title": "Що впало, те пропало",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 52
-        }
-    },
-    "1vILqGnkP5": {
-        "id": "1vILqGnkP5",
-        "title": "Межевой рыцарь",
-        "author": "Джордж Мартин",
-        "notes": "Интересная история про турнирные бои",
-        "createdAt": "2019-06-28 16:59:48",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 51
         }
     }
 }

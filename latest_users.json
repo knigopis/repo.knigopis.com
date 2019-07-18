@@ -1,4 +1,10 @@
 {
+    "262062207519652-facebook": {
+        "id": "262062207519652-facebook",
+        "nickname": null,
+        "booksCount": 4,
+        "updatedAt": "2019-07-18 10:30:03"
+    },
     "110931306939441771638-google": {
         "id": "110931306939441771638-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "dominicusin",
         "booksCount": 0,
         "updatedAt": "2019-07-05 09:37:23"
-    },
-    "200666735-vkontakte": {
-        "id": "200666735-vkontakte",
-        "nickname": "mavrentik",
-        "booksCount": 20,
-        "updatedAt": "2019-07-04 23:05:58"
     }
 }

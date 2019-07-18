@@ -1,4 +1,16 @@
 {
+    "g4rlB4XsRh": {
+        "id": "g4rlB4XsRh",
+        "title": "Я смотрю на тебя",
+        "author": "Ирэнэ Као",
+        "notes": "Красивый, томный, чувственный роман в трёх частях.",
+        "createdAt": "2019-07-18 10:30:03",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "xufzyVC6pf": {
         "id": "xufzyVC6pf",
         "title": "Острые предметы",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 143
-        }
-    },
-    "NGIB2GVCUz": {
-        "id": "NGIB2GVCUz",
-        "title": "Доктор Сон",
-        "author": "Стівен Кінг",
-        "notes": "10/10 Продовження \"Сяйва\".",
-        "createdAt": "2019-07-10 12:43:57",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 42
         }
     }
 }

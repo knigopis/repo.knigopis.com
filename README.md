@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я смотрю на тебя ~ [](users/262/262062207519652-facebook)<sup>4</sup>
+    > Красивый, томный, чувственный роман в трёх частях.
+
 * Що впало, те пропало ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup>
     > 10/10 Фанат-убивця викрадає записники. Дет. пенс. Ходжес рятує іншого фана.
 
@@ -12,10 +15,6 @@ Do not use pull requests to make changes here.
     > Человек не единая личность.
 
 * Книжный вор ~ [sonics](users/588/5880221-vkontakte)<sup>61</sup>
-    > Весьма зацепило лицо повествования. Рассказ ведется от лица смерти.
-    > Маленькая часть ВОВ, как проходила жизнь в бедном районе Мюнхена у простой девочки, которая с детства познала утрату матери, младшего брата и сына. Нашла новую семью и новых друзей, и снова потеряла всех, всех кроме одного... Человека, который думала она уже умер, который пережил войну и встретил ее вновь.
-    > Определенно отличная книга. Ее следует прочесть, внимательно.
-    > 8/10
 
 * Дочь Монтесумы ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
 
@@ -29,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Над пропастью во ржи ~ [Яков](users/117/117277044284589498872-google)<sup>8</sup>
 
-* Алхимик ~ [Яков](users/117/117277044284589498872-google)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/262/262062207519652-facebook)<sup>4</sup> 
 [](users/110/110931306939441771638-google)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup> 
 [lionzam](users/288/28874284-vkontakte)<sup>0</sup> 
@@ -65,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
 [Tanya337](users/286/2867088343333019-facebook)<sup>0</sup> 
 [dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
-[mavrentik](users/200/200666735-vkontakte)<sup>20</sup> 
 
 
-_18.07.2019 05:52:33_
+_18.07.2019 10:30:03_
