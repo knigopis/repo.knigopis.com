@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коснуться небес ~ [TheWildWind](users/262/262062207519652-facebook)<sup>31</sup>
+    > Чтиво 18+, увлекает, хоть и не люблю книги о "сливках общества". Возможно, перечитаю.
+
 * Кое-что о Билли ~ [TheWildWind](users/262/262062207519652-facebook)<sup>30</sup>
     > Что-то вроде "Дневник Бриджит Джонс", но от лица мужчины.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга, написанная бывшей пациенткой психиатрической больницы, сумевшей преодолеть шизофрению и стать практикующим психологом. Очень показательно для понимания картины видения мира больным шизофренией.
 
 * За закрытой дверью ~ [TheWildWind](users/262/262062207519652-facebook)<sup>28</sup>
-    > «Иногда идеальный брак — это всего лишь идеальная ложь» . Пробирающая история о женщине, попавшей в лапы психопата, и вынужденной выживать всеми способами, чтобы защитить от него свою сестру. Шикарная книга, мастрид однозначно.
 
 * Будь моей мамой. Искалеченное детство ~ [TheWildWind](users/262/262062207519652-facebook)<sup>27</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Я смотрю на тебя ~ [](users/262/262062207519652-facebook)<sup>4</sup>
 
-* Що впало, те пропало ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[TheWildWind](users/262/262062207519652-facebook)<sup>30</sup> 
+[TheWildWind](users/262/262062207519652-facebook)<sup>31</sup> 
 [](users/110/110931306939441771638-google)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup> 
 [lionzam](users/288/28874284-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
 
 
-_18.07.2019 10:57:42_
+_18.07.2019 10:59:40_

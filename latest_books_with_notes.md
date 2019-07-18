@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Коснуться небес ~ [TheWildWind](users/262/262062207519652-facebook)<sup>31</sup>
 * Кое-что о Билли ~ [TheWildWind](users/262/262062207519652-facebook)<sup>30</sup>
 * Завтра я всегда бывала львом ~ [TheWildWind](users/262/262062207519652-facebook)<sup>29</sup>
 * За закрытой дверью ~ [TheWildWind](users/262/262062207519652-facebook)<sup>28</sup>
@@ -30,7 +31,6 @@
 * Слизеринский принц ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>468</sup>
 * Хороший Доктор ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>467</sup>
 * Баллада об Аврорате и ближних его пределах ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>466</sup>
-* К оружию! К оружию! ~ [Garka](users/115/115753719718250012620-google)<sup>224</sup>
 
 
-_18.07.2019 10:57:42_
+_18.07.2019 10:59:40_
