@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кое-что о Билли ~ [TheWildWind](users/262/262062207519652-facebook)<sup>30</sup>
+    > Что-то вроде "Дневник Бриджит Джонс", но от лица мужчины.
+
 * Завтра я всегда бывала львом ~ [TheWildWind](users/262/262062207519652-facebook)<sup>29</sup>
     > Книга, написанная бывшей пациенткой психиатрической больницы, сумевшей преодолеть шизофрению и стать практикующим психологом. Очень показательно для понимания картины видения мира больным шизофренией.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > «Иногда идеальный брак — это всего лишь идеальная ложь» . Пробирающая история о женщине, попавшей в лапы психопата, и вынужденной выживать всеми способами, чтобы защитить от него свою сестру. Шикарная книга, мастрид однозначно.
 
 * Будь моей мамой. Искалеченное детство ~ [TheWildWind](users/262/262062207519652-facebook)<sup>27</sup>
-    > Пробирающая до мурашек история маленькой девочки из неблагополучной семьи и женщины из соцслужбы, пытающейся ей помочь.
 
 * 13 причин почему ~ [TheWildWind](users/262/262062207519652-facebook)<sup>26</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Що впало, те пропало ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup>
 
-* Волчья сущность ~ [Quaff](users/122/12267158-vkontakte)<sup>55</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[TheWildWind](users/262/262062207519652-facebook)<sup>29</sup> 
+[TheWildWind](users/262/262062207519652-facebook)<sup>30</sup> 
 [](users/110/110931306939441771638-google)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup> 
 [lionzam](users/288/28874284-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
 
 
-_18.07.2019 10:55:15_
+_18.07.2019 10:57:42_

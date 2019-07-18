@@ -1,4 +1,16 @@
 {
+    "-m3XKSAa0O": {
+        "id": "-m3XKSAa0O",
+        "title": "Кое-что о Билли",
+        "author": "Дуги Бримсон",
+        "notes": "Что-то вроде \"Дневник Бриджит Джонс\", но от лица мужчины.",
+        "createdAt": "2019-07-18 10:57:42",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 30
+        }
+    },
     "xEKmJ4uqMq": {
         "id": "xEKmJ4uqMq",
         "title": "Завтра я всегда бывала львом",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 43
-        }
-    },
-    "P1edsd872h": {
-        "id": "P1edsd872h",
-        "title": "Коллекционер",
-        "author": "Джон Фаулз",
-        "notes": "",
-        "createdAt": "2019-07-17 14:39:36",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 33
         }
     }
 }

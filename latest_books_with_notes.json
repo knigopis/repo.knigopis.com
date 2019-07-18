@@ -1,4 +1,16 @@
 {
+    "-m3XKSAa0O": {
+        "id": "-m3XKSAa0O",
+        "title": "Кое-что о Билли",
+        "author": "Дуги Бримсон",
+        "notes": "Что-то вроде \"Дневник Бриджит Джонс\", но от лица мужчины.",
+        "createdAt": "2019-07-18 10:57:42",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 30
+        }
+    },
     "xEKmJ4uqMq": {
         "id": "xEKmJ4uqMq",
         "title": "Завтра я всегда бывала львом",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 224
-        }
-    },
-    "UO0vlMdrAC": {
-        "id": "UO0vlMdrAC",
-        "title": "Оно",
-        "author": "Стівен Кінг",
-        "notes": "9/10 классика",
-        "createdAt": "2019-07-02 19:29:56",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 41
         }
     }
 }
