@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* За закрытой дверью ~ [TheWildWind](users/262/262062207519652-facebook)<sup>28</sup>
+    > «Иногда идеальный брак — это всего лишь идеальная ложь» . Пробирающая история о женщине, попавшей в лапы психопата, и вынужденной выживать всеми способами, чтобы защитить от него свою сестру. Шикарная книга, мастрид однозначно.
+
 * Будь моей мамой. Искалеченное детство ~ [TheWildWind](users/262/262062207519652-facebook)<sup>27</sup>
     > Пробирающая до мурашек история маленькой девочки из неблагополучной семьи и женщины из соцслужбы, пытающейся ей помочь.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мастрид для подростков.
 
 * Уличный кот по имени Боб. Как человек и кот обрели надежду на улицах Лондона ~ [TheWildWind](users/262/262062207519652-facebook)<sup>25</sup>
-    > Милая история о силе духа и спасительной ответственности, в которую могут толкнуть обстоятельства.
 
 * Я люблю тебя ~ [](users/262/262062207519652-facebook)<sup>6</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Книжный вор ~ [sonics](users/588/5880221-vkontakte)<sup>61</sup>
 
-* Дочь Монтесумы ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[TheWildWind](users/262/262062207519652-facebook)<sup>27</sup> 
+[TheWildWind](users/262/262062207519652-facebook)<sup>28</sup> 
 [](users/110/110931306939441771638-google)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup> 
 [lionzam](users/288/28874284-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
 
 
-_18.07.2019 10:49:37_
+_18.07.2019 10:53:14_
