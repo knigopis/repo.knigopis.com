@@ -1,4 +1,4 @@
-# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>11</sup>
+# List of books read by [TheWildWind](https://www.facebook.com/profile.php?id=262062207519652)<sup>12</sup>
 ---
 
 ## 2019
@@ -693,6 +693,10 @@
 
 
 ## 2006
+
+### Тайная магия Депресняка (Мефодий Буслаев 6)
+Дмитрий Емец
+
 
 ### Месть валькирий (Мефодий Буслаев 5)
 Дмитрий Емец
