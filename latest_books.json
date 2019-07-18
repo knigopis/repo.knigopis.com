@@ -1,4 +1,16 @@
 {
+    "GumPpgmeqX": {
+        "id": "GumPpgmeqX",
+        "title": "Свиток желаний (Мефодий Буслаев 2)",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2019-07-18 10:35:25",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 8
+        }
+    },
     "9lO6AgLb8d": {
         "id": "9lO6AgLb8d",
         "title": "Маг полуночи (Мефодий Буслаев 1)",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 237
-        }
-    },
-    "DJpR7ZP-d8": {
-        "id": "DJpR7ZP-d8",
-        "title": "Айн Рэнд",
-        "author": "Атлант расправил плечи",
-        "notes": "",
-        "createdAt": "2019-07-11 18:37:00",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 236
         }
     }
 }
