@@ -1,4 +1,16 @@
 {
+    "oqjyGadrtF": {
+        "id": "oqjyGadrtF",
+        "title": "Стеклянный страж (Мефодий Буслаев 13)",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2019-07-18 10:40:14",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 19
+        }
+    },
     "zRu40t8BIW": {
         "id": "zRu40t8BIW",
         "title": "Ожерелье дриады (Мефодий Буслаев 12)",
@@ -345,18 +357,6 @@
             "id": "110931306939441771638-google",
             "nickname": null,
             "booksCount": 3
-        }
-    },
-    "Sbsa5HzWhk": {
-        "id": "Sbsa5HzWhk",
-        "title": "Шафрановые врата",
-        "author": "ХОЛМАН Линда",
-        "notes": "",
-        "createdAt": "2019-07-14 22:07:24",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 29
         }
     }
 }
