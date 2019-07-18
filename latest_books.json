@@ -1,4 +1,16 @@
 {
+    "7-_9o64P77": {
+        "id": "7-_9o64P77",
+        "title": "Танец меча (Мефодий Буслаев 14)",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2019-07-18 10:40:36",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 20
+        }
+    },
     "oqjyGadrtF": {
         "id": "oqjyGadrtF",
         "title": "Стеклянный страж (Мефодий Буслаев 13)",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 61
-        }
-    },
-    "UnV9uoVJGa": {
-        "id": "UnV9uoVJGa",
-        "title": "Бегущий за ветром",
-        "author": "Халед Хоссейн",
-        "notes": "",
-        "createdAt": "2019-07-15 07:08:59",
-        "user": {
-            "id": "110931306939441771638-google",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }
