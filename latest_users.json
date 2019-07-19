@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 44,
+        "updatedAt": "2019-07-19 13:20:23"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -28,12 +34,6 @@
         "nickname": null,
         "booksCount": 5,
         "updatedAt": "2019-07-18 05:52:33"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 43,
-        "updatedAt": "2019-07-17 19:06:50"
     },
     "28874284-vkontakte": {
         "id": "28874284-vkontakte",

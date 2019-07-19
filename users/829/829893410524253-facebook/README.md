@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>43</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>44</sup>
 ---
 
 ## 2019
+
+### 21 урок для 21 сторіччя
+Ювал Ной Харар
+> [2019-07-19] 10/10 про тероризм, релігію, роботів, війну, екологію, нацвоналізм просто та цікаво.
+
 
 ### Що впало, те пропало
 Стівен Кінг

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 21 урок для 21 сторіччя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup>
 * Элиза в сердце лабиринта ~ [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup>
 * Проснись в Никогда ~ [TheWildWind](users/262/262062207519652-facebook)<sup>35</sup>
 * Последняя ~ [TheWildWind](users/262/262062207519652-facebook)<sup>34</sup>
@@ -30,7 +31,6 @@
 * Investing in Bonds For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>111</sup>
 * The Mongoliad (The Mongoliad Series Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>110</sup>
 * И ботаники делают бизнес 1+2 ~ [youno](users/302/302928912-vkontakte)<sup>25</sup>
-* Проклятое бессмертие ~ [thejokerinthefog](users/317/317244423-vkontakte)<sup>471</sup>
 
 
-_18.07.2019 11:32:51_
+_19.07.2019 13:20:23_

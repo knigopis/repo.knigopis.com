@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 21 урок для 21 сторіччя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup>
+    > 10/10 про тероризм, релігію, роботів, війну, екологію, нацвоналізм просто та цікаво.
+
 * Элиза в сердце лабиринта ~ [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup>
     > Атмосферная мини-страшилка на один раз.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Одноразовая трата времени. Сюжет не нов, но задумка с архитектурой Никогда неплохая. Жаль, концовка всё убила: автор как сценаристы Lost - накрутила не пойми чего и не сумела распутать.
 
 * Последняя ~ [TheWildWind](users/262/262062207519652-facebook)<sup>34</sup>
-    > Хороший постапокалиптический сюжет, легко и приятно читается, затягивает. Буду очень рада экранизации.
 
 * Отбор ~ [TheWildWind](users/262/262062207519652-facebook)<sup>33</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * За закрытой дверью ~ [TheWildWind](users/262/262062207519652-facebook)<sup>28</sup>
 
-* Будь моей мамой. Искалеченное детство ~ [TheWildWind](users/262/262062207519652-facebook)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>17</sup> 
 [Алеся В.](users/106/106887989031244091582-googleplus)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>144</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup> 
 [](users/110/110931306939441771638-google)<sup>5</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup> 
 [lionzam](users/288/28874284-vkontakte)<sup>0</sup> 
 [Denision](users/105/105187106410967287777-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tanya337](users/286/2867088343333019-facebook)<sup>0</sup> 
 
 
-_19.07.2019 11:52:46_
+_19.07.2019 13:20:23_
