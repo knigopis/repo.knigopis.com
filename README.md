@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>171</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>17</sup> 
 [Алеся В.](users/106/106887989031244091582-googleplus)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>88</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>11</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
-[Tanya337](users/286/2867088343333019-facebook)<sup>0</sup> 
 
 
-_19.07.2019 13:20:23_
+_19.07.2019 13:24:15_
