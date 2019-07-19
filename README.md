@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Алеся В.](users/106/106887989031244091582-googleplus)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>144</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup> 
 [](users/110/110931306939441771638-google)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Яков](users/117/117277044284589498872-google)<sup>11</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
 [Tanya337](users/286/2867088343333019-facebook)<sup>0</sup> 
-[dominicusin](users/615/6153637904214543420-mailru)<sup>0</sup> 
 
 
-_18.07.2019 15:07:19_
+_19.07.2019 09:32:51_
