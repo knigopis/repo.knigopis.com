@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>16</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>17</sup>
 ---
 
 ## 2019
+
+### Королёк - птичка певчая
+Решад Нури Гюнтекин
+> [2019-07-19] 
+
 
 ### Изысканный труп
 Поппи Брайт
