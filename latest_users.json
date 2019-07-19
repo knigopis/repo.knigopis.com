@@ -1,4 +1,10 @@
 {
+    "106887989031244091582-googleplus": {
+        "id": "106887989031244091582-googleplus",
+        "nickname": "Алеся В.",
+        "booksCount": 0,
+        "updatedAt": "2019-07-19 09:32:48"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "Tanya337",
         "booksCount": 0,
         "updatedAt": "2019-07-06 12:10:50"
-    },
-    "6153637904214543420-mailru": {
-        "id": "6153637904214543420-mailru",
-        "nickname": "dominicusin",
-        "booksCount": 0,
-        "updatedAt": "2019-07-05 09:37:23"
     }
 }
