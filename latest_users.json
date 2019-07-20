@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 226,
+        "updatedAt": "2019-07-20 17:48:24"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -136,12 +142,6 @@
         "nickname": "Оля-перекати-поле",
         "booksCount": 237,
         "updatedAt": "2019-07-11 18:39:14"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 225,
-        "updatedAt": "2019-07-11 15:05:16"
     },
     "202904827-vkontakte": {
         "id": "202904827-vkontakte",

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Роковая музыка ~ [Garka](users/115/115753719718250012620-google)<sup>226</sup>
+    > Как всегда шикарная книга из серии Плоский мир. Смерть куда-то ушёл, его обязанности выполняет внучка, а тут ещё рОковая музыка...
+
 * 21 урок для 21 сторіччя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup>
     > 10/10 про тероризм, релігію, роботів, війну, екологію, нацвоналізм просто та цікаво.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Атмосферная мини-страшилка на один раз.
 
 * Проснись в Никогда ~ [TheWildWind](users/262/262062207519652-facebook)<sup>35</sup>
-    > Одноразовая трата времени. Сюжет не нов, но задумка с архитектурой Никогда неплохая. Жаль, концовка всё убила: автор как сценаристы Lost - накрутила не пойми чего и не сумела распутать.
 
 * Последняя ~ [TheWildWind](users/262/262062207519652-facebook)<sup>34</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Завтра я всегда бывала львом ~ [TheWildWind](users/262/262062207519652-facebook)<sup>29</sup>
 
-* За закрытой дверью ~ [TheWildWind](users/262/262062207519652-facebook)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>226</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>171</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>17</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/771/7717146768350199452-mailru)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>204</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>237</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>225</sup> 
 [cherryplombir](users/202/202904827-vkontakte)<sup>0</sup> 
 [](users/174/17479508-vkontakte)<sup>9</sup> 
 [BunnyReader](users/117/117953264019715943446-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
 
 
-_19.07.2019 13:24:15_
+_20.07.2019 17:48:24_
