@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[adasher](users/329/329912611-yandex)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
 [](users/413/413911429-vkontakte)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>19</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>237</sup> 
 [cherryplombir](users/202/202904827-vkontakte)<sup>0</sup> 
 [](users/174/17479508-vkontakte)<sup>9</sup> 
-[BunnyReader](users/117/117953264019715943446-google)<sup>1</sup> 
 
 
-_21.07.2019 12:35:35_
+_21.07.2019 19:36:07_
