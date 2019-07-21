@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Последняя обойма ~ [exulted](users/100/100599204551896265722-google)<sup>116</sup>
+    > Слабоватый сюжет.  Трилогия Прокудина про Рейдовый батальон во сто раз лучше.
+
 * Gods of Money ~ [exulted](users/100/100599204551896265722-google)<sup>115</sup>
     > ASIN: B005Y4F4EE
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Как всегда шикарная книга из серии Плоский мир. Смерть куда-то ушёл, его обязанности выполняет внучка, а тут ещё рОковая музыка...
 
 * 21 урок для 21 сторіччя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup>
-    > 10/10 про тероризм, релігію, роботів, війну, екологію, нацвоналізм просто та цікаво.
 
 * Элиза в сердце лабиринта ~ [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Коснуться небес ~ [TheWildWind](users/262/262062207519652-facebook)<sup>31</sup>
 
-* Кое-что о Билли ~ [TheWildWind](users/262/262062207519652-facebook)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>115</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>116</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>226</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>171</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
 
 
-_21.07.2019 06:18:21_
+_21.07.2019 06:22:36_
