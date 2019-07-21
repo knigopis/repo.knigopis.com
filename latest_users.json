@@ -1,4 +1,10 @@
 {
+    "362572912-vkontakte": {
+        "id": "362572912-vkontakte",
+        "nickname": "kurraga113",
+        "booksCount": 0,
+        "updatedAt": "2019-07-21 20:06:42"
+    },
     "329912611-yandex": {
         "id": "329912611-yandex",
         "nickname": "adasher",
@@ -172,11 +178,5 @@
         "nickname": "cherryplombir",
         "booksCount": 0,
         "updatedAt": "2019-07-11 07:14:40"
-    },
-    "17479508-vkontakte": {
-        "id": "17479508-vkontakte",
-        "nickname": null,
-        "booksCount": 9,
-        "updatedAt": "2019-07-10 07:51:27"
     }
 }
