@@ -1,4 +1,16 @@
 {
+    "jy-E3tsHD8": {
+        "id": "jy-E3tsHD8",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-07-21 09:25:19",
+        "user": {
+            "id": "117277044284589498872-google",
+            "nickname": "Яков",
+            "booksCount": 13
+        }
+    },
     "qj-BfUD5nG": {
         "id": "qj-BfUD5nG",
         "title": "Мужчины с Марса, женщины с Венеры",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": "TheWildWind",
             "booksCount": 18
-        }
-    },
-    "FRlUle_1HV": {
-        "id": "FRlUle_1HV",
-        "title": "Карта Хаоса (Мефодий Буслаев 11)",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2019-07-18 10:39:28",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": "TheWildWind",
-            "booksCount": 17
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Яков](users/117/117277044284589498872-google)<sup>12</sup> 
+[Яков](users/117/117277044284589498872-google)<sup>13</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>18</sup> 
 [rNix](users/227/22742452-yandex)<sup>65</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>116</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>88</sup> 
 
 
-_21.07.2019 09:18:16_
+_21.07.2019 09:25:19_
