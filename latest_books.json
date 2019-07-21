@@ -1,4 +1,16 @@
 {
+    "dA1PbicT2c": {
+        "id": "dA1PbicT2c",
+        "title": "Gods of Money",
+        "author": "F. William Engdahl",
+        "notes": "ASIN: B005Y4F4EE",
+        "createdAt": "2019-07-21 06:18:20",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 115
+        }
+    },
     "7vBFFbEn_u": {
         "id": "7vBFFbEn_u",
         "title": "Роковая музыка",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": "TheWildWind",
             "booksCount": 13
-        }
-    },
-    "0uCORQvfwI": {
-        "id": "0uCORQvfwI",
-        "title": "Тайная магия Депресняка (Мефодий Буслаев 6)",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2019-07-18 10:37:02",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": "TheWildWind",
-            "booksCount": 12
         }
     }
 }

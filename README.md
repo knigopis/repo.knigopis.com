@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Gods of Money ~ [exulted](users/100/100599204551896265722-google)<sup>115</sup>
+    > ASIN: B005Y4F4EE
+
 * Роковая музыка ~ [Garka](users/115/115753719718250012620-google)<sup>226</sup>
     > Как всегда шикарная книга из серии Плоский мир. Смерть куда-то ушёл, его обязанности выполняет внучка, а тут ещё рОковая музыка...
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 про тероризм, релігію, роботів, війну, екологію, нацвоналізм просто та цікаво.
 
 * Элиза в сердце лабиринта ~ [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup>
-    > Атмосферная мини-страшилка на один раз.
 
 * Проснись в Никогда ~ [TheWildWind](users/262/262062207519652-facebook)<sup>35</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кое-что о Билли ~ [TheWildWind](users/262/262062207519652-facebook)<sup>30</sup>
 
-* Завтра я всегда бывала львом ~ [TheWildWind](users/262/262062207519652-facebook)<sup>29</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>115</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>226</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>171</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>55</sup> 
 [Timofei](users/110/110891576791282096366-google)<sup>0</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>44</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>114</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>61</sup> 
 [alexalex](users/358/358903447-vkontakte)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>29</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
 
 
-_20.07.2019 17:48:24_
+_21.07.2019 06:18:21_

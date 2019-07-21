@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Gods of Money ~ [exulted](users/100/100599204551896265722-google)<sup>115</sup>
 * Роковая музыка ~ [Garka](users/115/115753719718250012620-google)<sup>226</sup>
 * 21 урок для 21 сторіччя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup>
 * Элиза в сердце лабиринта ~ [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup>
@@ -30,7 +31,6 @@
 * Алхимик ~ [Яков](users/117/117277044284589498872-google)<sup>6</sup>
 * Порог ~ [Chiffi](users/105/105831994080785626680-google)<sup>125</sup>
 * Investing in Bonds For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>111</sup>
-* The Mongoliad (The Mongoliad Series Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>110</sup>
 
 
-_20.07.2019 17:48:24_
+_21.07.2019 06:18:21_
