@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>17</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>18</sup>
 ---
 
 ## 2019
+
+### Портрет Дориана Грея
+Оскар Уайльд
+> [2019-07-21] 
+
 
 ### Королёк - птичка певчая
 Решад Нури Гюнтекин

@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>18</sup> 
 [rNix](users/227/22742452-yandex)<sup>65</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>116</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>226</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>171</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>17</sup> 
 [Алеся В.](users/106/106887989031244091582-googleplus)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>144</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Яков](users/117/117277044284589498872-google)<sup>11</sup> 
 
 
-_21.07.2019 06:55:38_
+_21.07.2019 08:57:22_
