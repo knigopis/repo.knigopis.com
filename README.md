@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Открывая организации будущего ~ [rNix](users/227/22742452-yandex)<sup>65</sup>
+    > Слушал аудиокнигу. Дослушал только половину. Автор рассказывает о типах компаний и делает подробное описание бирюзовых компаний - там, где нет руководителей, только самоорганизация. Приводит много примеров существующих компаний и примеров того, как в них решаются самые разные ситуации. В целом, заманчиво, но для меня осталось много вопросов.
+
 * Последняя обойма ~ [exulted](users/100/100599204551896265722-google)<sup>116</sup>
     > Слабоватый сюжет.  Трилогия Прокудина про Рейдовый батальон во сто раз лучше.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN: B005Y4F4EE
 
 * Роковая музыка ~ [Garka](users/115/115753719718250012620-google)<sup>226</sup>
-    > Как всегда шикарная книга из серии Плоский мир. Смерть куда-то ушёл, его обязанности выполняет внучка, а тут ещё рОковая музыка...
 
 * 21 урок для 21 сторіччя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Не отпускай меня ~ [TheWildWind](users/262/262062207519652-facebook)<sup>32</sup>
 
-* Коснуться небес ~ [TheWildWind](users/262/262062207519652-facebook)<sup>31</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rNix](users/227/22742452-yandex)<sup>65</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>116</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>226</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>171</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [BunnyReader](users/117/117953264019715943446-google)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>88</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>11</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>125</sup> 
 
 
-_21.07.2019 06:22:36_
+_21.07.2019 06:55:38_
