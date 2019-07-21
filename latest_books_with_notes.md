@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кровь, пот и пиксели ~ [rNix](users/227/22742452-yandex)<sup>66</sup>
 * Открывая организации будущего ~ [rNix](users/227/22742452-yandex)<sup>65</sup>
 * Последняя обойма ~ [exulted](users/100/100599204551896265722-google)<sup>116</sup>
 * Gods of Money ~ [exulted](users/100/100599204551896265722-google)<sup>115</sup>
@@ -30,7 +31,6 @@
 * Доктор Сон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>42</sup>
 * Когда гений терпит поражение ~ [Яков](users/117/117277044284589498872-google)<sup>10</sup>
 * Над пропастью во ржи ~ [Яков](users/117/117277044284589498872-google)<sup>8</sup>
-* Алхимик ~ [Яков](users/117/117277044284589498872-google)<sup>6</sup>
 
 
-_21.07.2019 06:55:38_
+_21.07.2019 12:35:35_

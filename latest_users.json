@@ -1,4 +1,10 @@
 {
+    "22742452-yandex": {
+        "id": "22742452-yandex",
+        "nickname": "rNix",
+        "booksCount": 66,
+        "updatedAt": "2019-07-21 12:35:35"
+    },
     "413911429-vkontakte": {
         "id": "413911429-vkontakte",
         "nickname": null,
@@ -16,12 +22,6 @@
         "nickname": "Яков",
         "booksCount": 13,
         "updatedAt": "2019-07-21 09:25:19"
-    },
-    "22742452-yandex": {
-        "id": "22742452-yandex",
-        "nickname": "rNix",
-        "booksCount": 65,
-        "updatedAt": "2019-07-21 06:55:38"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
