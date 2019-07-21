@@ -1,4 +1,10 @@
 {
+    "329912611-yandex": {
+        "id": "329912611-yandex",
+        "nickname": "adasher",
+        "booksCount": 0,
+        "updatedAt": "2019-07-21 19:36:05"
+    },
     "22742452-yandex": {
         "id": "22742452-yandex",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 9,
         "updatedAt": "2019-07-10 07:51:27"
-    },
-    "117953264019715943446-google": {
-        "id": "117953264019715943446-google",
-        "nickname": "BunnyReader",
-        "booksCount": 1,
-        "updatedAt": "2019-07-08 05:20:52"
     }
 }
