@@ -1,4 +1,10 @@
 {
+    "117277044284589498872-google": {
+        "id": "117277044284589498872-google",
+        "nickname": "Яков",
+        "booksCount": 12,
+        "updatedAt": "2019-07-21 09:18:16"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 88,
         "updatedAt": "2019-07-07 19:06:31"
-    },
-    "117277044284589498872-google": {
-        "id": "117277044284589498872-google",
-        "nickname": "Яков",
-        "booksCount": 11,
-        "updatedAt": "2019-07-07 10:30:13"
     }
 }

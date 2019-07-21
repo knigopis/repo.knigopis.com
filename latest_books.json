@@ -1,4 +1,16 @@
 {
+    "qj-BfUD5nG": {
+        "id": "qj-BfUD5nG",
+        "title": "Мужчины с Марса, женщины с Венеры",
+        "author": "Джон Грэй",
+        "notes": "",
+        "createdAt": "2019-07-21 09:18:16",
+        "user": {
+            "id": "117277044284589498872-google",
+            "nickname": "Яков",
+            "booksCount": 12
+        }
+    },
     "VzKXYDiany": {
         "id": "VzKXYDiany",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": "TheWildWind",
             "booksCount": 17
-        }
-    },
-    "kBTD2RTLW8": {
-        "id": "kBTD2RTLW8",
-        "title": "Лестница в Эдем (Мефодий Буслаев 10)",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2019-07-18 10:38:53",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": "TheWildWind",
-            "booksCount": 16
         }
     }
 }
