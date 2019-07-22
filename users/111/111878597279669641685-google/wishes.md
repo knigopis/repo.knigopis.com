@@ -121,7 +121,7 @@ https://www.adme.ru/tvorchestvo-pisateli/230-genialnyh-knig-kotorye-nado-prochit
 ### `50` Запертая Комната
 Май Шёвалль
 
-### `50` Роковая красавица
+### `50` Цыганская сага
 Анастасия Туманова
 
 ### `50` Ежевичное вино
