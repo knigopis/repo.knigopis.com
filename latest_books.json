@@ -1,4 +1,16 @@
 {
+    "pVHzpSeVPl": {
+        "id": "pVHzpSeVPl",
+        "title": "Малахитовая Шкатулка",
+        "author": "Павел Петрович Бажов",
+        "notes": "",
+        "createdAt": "2019-07-22 07:13:58",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 21
+        }
+    },
     "UGNdEpIV3B": {
         "id": "UGNdEpIV3B",
         "title": "Два Капитана",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": "TheWildWind",
             "booksCount": 22
-        }
-    },
-    "mn-ewj3f7S": {
-        "id": "mn-ewj3f7S",
-        "title": "Огненный врата (Мефодий Буслаев 15)",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2019-07-18 10:41:12",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": "TheWildWind",
-            "booksCount": 21
         }
     }
 }

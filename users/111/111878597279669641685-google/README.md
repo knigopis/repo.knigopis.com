@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>20</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>21</sup>
 ---
 
 ## 2019
@@ -95,6 +95,10 @@
 
 
 ## Other years
+
+### Малахитовая Шкатулка
+Павел Петрович Бажов
+
 
 ### Два Капитана
 Вениамин Александрович Каверин
