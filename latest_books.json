@@ -1,4 +1,16 @@
 {
+    "MW2qyhBQWe": {
+        "id": "MW2qyhBQWe",
+        "title": "Илиада",
+        "author": "Гомер",
+        "notes": "",
+        "createdAt": "2019-07-22 08:04:12",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 46
+        }
+    },
     "9l1uISAHQ7": {
         "id": "9l1uISAHQ7",
         "title": "Приключение Бена Ганна",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 19
-        }
-    },
-    "jy-E3tsHD8": {
-        "id": "jy-E3tsHD8",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-07-21 09:25:19",
-        "user": {
-            "id": "117277044284589498872-google",
-            "nickname": "Яков",
-            "booksCount": 13
         }
     }
 }
