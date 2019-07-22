@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Таньчик](users/209/2096581563762610-facebook)<sup>28</sup> 
+[Таньчик](users/209/2096581563762610-facebook)<sup>29</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>48</sup> 
 [kurraga113](users/362/362572912-vkontakte)<sup>0</sup> 
 [adasher](users/329/329912611-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>237</sup> 
 
 
-_22.07.2019 13:01:47_
+_22.07.2019 13:02:39_
