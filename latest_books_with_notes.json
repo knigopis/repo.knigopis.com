@@ -1,4 +1,16 @@
 {
+    "9UtKDa6pSK": {
+        "id": "9UtKDa6pSK",
+        "title": "Проповеди",
+        "author": "Архимандрит Иоанн (Крестьянкин)",
+        "notes": "в процессе",
+        "createdAt": "2019-07-22 21:59:04",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 207
+        }
+    },
     "osbn-rg3Cn": {
         "id": "osbn-rg3Cn",
         "title": "Практическая характерология",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 204
-        }
-    },
-    "qfQnNvV0Ou": {
-        "id": "qfQnNvV0Ou",
-        "title": "Заводной апельсин",
-        "author": "Энтони Бёрджесс",
-        "notes": "Муть какая-то",
-        "createdAt": "2019-07-11 15:05:16",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 225
         }
     }
 }

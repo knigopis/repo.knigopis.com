@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Проповеди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>207</sup>
+    > в процессе
+
 * Практическая характерология ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>206</sup>
     > в процессе
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/137634276/
 
 * Улитка на склоне ~ [Quaff](users/122/12267158-vkontakte)<sup>56</sup>
-    > Захватывающая книга ни о чем
 
 * Кровь, пот и пиксели ~ [rNix](users/227/22742452-yandex)<sup>66</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * 21 урок для 21 сторіччя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup>
 
-* Элиза в сердце лабиринта ~ [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>206</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>207</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>56</sup> 
 [dkezikov](users/665/665843812-yandex)<sup>1</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>29</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/771/7717146768350199452-mailru)<sup>0</sup> 
 
 
-_22.07.2019 21:57:43_
+_22.07.2019 21:59:05_
