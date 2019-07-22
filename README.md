@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Knigolub~](users/111/111878597279669641685-google)<sup>44</sup> 
+[Knigolub~](users/111/111878597279669641685-google)<sup>45</sup> 
 [kurraga113](users/362/362572912-vkontakte)<sup>0</sup> 
 [adasher](users/329/329912611-yandex)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [cherryplombir](users/202/202904827-vkontakte)<sup>0</sup> 
 
 
-_22.07.2019 07:56:58_
+_22.07.2019 07:57:37_
