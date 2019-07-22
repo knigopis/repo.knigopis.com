@@ -1,4 +1,16 @@
 {
+    "osbn-rg3Cn": {
+        "id": "osbn-rg3Cn",
+        "title": "Практическая характерология",
+        "author": "Виктор Пономаренко",
+        "notes": "в процессе",
+        "createdAt": "2019-07-22 21:57:43",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 206
+        }
+    },
     "LP1BI6ZDE9": {
         "id": "LP1BI6ZDE9",
         "title": "Пиши, сокращай. Как создавать сильный текст",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 225
-        }
-    },
-    "NGIB2GVCUz": {
-        "id": "NGIB2GVCUz",
-        "title": "Доктор Сон",
-        "author": "Стівен Кінг",
-        "notes": "10/10 Продовження \"Сяйва\".",
-        "createdAt": "2019-07-10 12:43:57",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 42
         }
     }
 }
