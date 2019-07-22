@@ -1,4 +1,10 @@
 {
+    "12267158-vkontakte": {
+        "id": "12267158-vkontakte",
+        "nickname": "Quaff",
+        "booksCount": 56,
+        "updatedAt": "2019-07-22 17:44:22"
+    },
     "665843812-yandex": {
         "id": "665843812-yandex",
         "nickname": "dkezikov",
@@ -112,12 +118,6 @@
         "nickname": "Beaviska",
         "booksCount": 33,
         "updatedAt": "2019-07-17 14:39:36"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 55,
-        "updatedAt": "2019-07-16 18:46:54"
     },
     "110891576791282096366-google": {
         "id": "110891576791282096366-google",
