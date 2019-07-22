@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>39</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>40</sup>
 ---
 
 ## 2019
@@ -95,6 +95,10 @@
 
 
 ## Other years
+
+### Человек-Амфибия
+Александр Беляев
+
 
 ### Записки Шерлока Холмса
 Артур Конан Дойл
