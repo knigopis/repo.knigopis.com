@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>32</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>33</sup>
 ---
 
 ## 2019
@@ -99,6 +99,10 @@
 
 
 ## Other years
+
+### Чудеса живого мира
+Я познаю мир
+
 
 ### Три Толстяка
 Юрий Олеша
