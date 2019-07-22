@@ -1,4 +1,16 @@
 {
+    "K03m-1XO6M": {
+        "id": "K03m-1XO6M",
+        "title": "Моя планета - Земля",
+        "author": "Я познаю мир",
+        "notes": "",
+        "createdAt": "2019-07-22 07:46:14",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 34
+        }
+    },
     "fjUpR0NWv4": {
         "id": "fjUpR0NWv4",
         "title": "Чудеса живого мира",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": "TheWildWind",
             "booksCount": 35
-        }
-    },
-    "R5obsGMA11": {
-        "id": "R5obsGMA11",
-        "title": "Последняя",
-        "author": "Александра Олайва",
-        "notes": "Хороший постапокалиптический сюжет, легко и приятно читается, затягивает. Буду очень рада экранизации.",
-        "createdAt": "2019-07-18 11:04:22",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": "TheWildWind",
-            "booksCount": 34
         }
     }
 }
