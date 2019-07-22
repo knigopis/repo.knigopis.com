@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>38</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>37</sup>
 ---
 
 ## 2019
@@ -91,10 +91,6 @@
 ### BTS
 Эдриан Бесли
 > [2019-02-21] 
-
-
-### Всеобщая история пиратства
-Даниэль Дефо
 
 
 
