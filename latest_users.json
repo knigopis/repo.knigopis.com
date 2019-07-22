@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 28,
+        "updatedAt": "2019-07-22 13:01:47"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "Оля-перекати-поле",
         "booksCount": 237,
         "updatedAt": "2019-07-11 18:39:14"
-    },
-    "202904827-vkontakte": {
-        "id": "202904827-vkontakte",
-        "nickname": "cherryplombir",
-        "booksCount": 0,
-        "updatedAt": "2019-07-11 07:14:40"
     }
 }
