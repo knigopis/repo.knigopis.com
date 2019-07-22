@@ -1,4 +1,16 @@
 {
+    "lNf2qe6VdN": {
+        "id": "lNf2qe6VdN",
+        "title": "Мароны",
+        "author": "Майн Рид",
+        "notes": "",
+        "createdAt": "2019-07-22 07:54:26",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 42
+        }
+    },
     "nzI24LXBVT": {
         "id": "nzI24LXBVT",
         "title": "Алые паруса",
@@ -345,18 +357,6 @@
             "id": "22742452-yandex",
             "nickname": "rNix",
             "booksCount": 65
-        }
-    },
-    "R27Yun6FtF": {
-        "id": "R27Yun6FtF",
-        "title": "Последняя обойма",
-        "author": "Прокудин Николай, Волков Александр",
-        "notes": "Слабоватый сюжет.  Трилогия Прокудина про Рейдовый батальон во сто раз лучше.",
-        "createdAt": "2019-07-21 06:22:36",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 116
         }
     }
 }
