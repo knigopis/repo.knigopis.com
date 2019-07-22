@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>26</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>27</sup>
 ---
 
 ## 2019
@@ -99,6 +99,10 @@
 
 
 ## Other years
+
+### Жива Природа
+Издательство Перо
+
 
 ### Девочка на все 100%
 Наталья Зотова
