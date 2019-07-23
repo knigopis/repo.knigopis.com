@@ -1,4 +1,16 @@
 {
+    "Aq5SE1FkfD": {
+        "id": "Aq5SE1FkfD",
+        "title": "12 правил жизни. Противоядие от хаоса",
+        "author": "Джордан Питерсон",
+        "notes": "",
+        "createdAt": "2019-07-23 06:10:58",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 711
+        }
+    },
     "9UtKDa6pSK": {
         "id": "9UtKDa6pSK",
         "title": "Проповеди",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 28
-        }
-    },
-    "El5r9X8kNg": {
-        "id": "El5r9X8kNg",
-        "title": "Жива Природа",
-        "author": "Издательство Перо",
-        "notes": "",
-        "createdAt": "2019-07-22 07:41:21",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 27
         }
     }
 }

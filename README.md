@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>711</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>207</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>56</sup> 
 [dkezikov](users/665/665843812-yandex)<sup>1</sup> 
@@ -61,10 +62,9 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>61</sup> 
 [alexalex](users/358/358903447-vkontakte)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>29</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>710</sup> 
 [](users/156/156698528-vkontakte)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>63</sup> 
 [](users/771/7717146768350199452-mailru)<sup>0</sup> 
 
 
-_22.07.2019 21:59:05_
+_23.07.2019 06:10:59_
