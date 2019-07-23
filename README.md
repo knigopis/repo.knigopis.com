@@ -35,12 +35,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>49</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>711</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>207</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>56</sup> 
 [dkezikov](users/665/665843812-yandex)<sup>1</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>29</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>48</sup> 
 [kurraga113](users/362/362572912-vkontakte)<sup>0</sup> 
 [adasher](users/329/329912611-yandex)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/771/7717146768350199452-mailru)<sup>0</sup> 
 
 
-_23.07.2019 06:10:59_
+_23.07.2019 12:30:54_

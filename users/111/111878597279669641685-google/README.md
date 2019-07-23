@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>48</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>49</sup>
 ---
 
 ## 2019
@@ -91,6 +91,10 @@
 ### BTS
 Эдриан Бесли
 > [2019-02-21] 
+
+
+### Возлюби ближнего своего
+Эрих Мария Ремарк
 
 
 
