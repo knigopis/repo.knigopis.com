@@ -1,4 +1,10 @@
 {
+    "113895218432924460489-google": {
+        "id": "113895218432924460489-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-07-23 20:14:13"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 63,
         "updatedAt": "2019-07-13 14:54:03"
-    },
-    "7717146768350199452-mailru": {
-        "id": "7717146768350199452-mailru",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-07-13 14:04:24"
     }
 }
