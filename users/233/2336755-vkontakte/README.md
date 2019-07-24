@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>89</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>90</sup>
 ---
 
 ## 2019
+
+### Тёмная сторона Петербурга
+Артемьева Мария
+> [2019-07-22] 
+
 
 ### Остаток дня
 Кадзуо Исигуро

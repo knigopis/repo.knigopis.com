@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[katrinvredina](users/233/2336755-vkontakte)<sup>89</sup> 
+[katrinvredina](users/233/2336755-vkontakte)<sup>90</sup> 
 [](users/113/113895218432924460489-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>52</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>711</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/156/156698528-vkontakte)<sup>0</sup> 
 
 
-_24.07.2019 10:06:34_
+_24.07.2019 10:08:00_
