@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>89</sup> 
 [](users/113/113895218432924460489-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>52</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>711</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alexalex](users/358/358903447-vkontakte)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>29</sup> 
 [](users/156/156698528-vkontakte)<sup>0</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>63</sup> 
 
 
-_23.07.2019 20:14:16_
+_24.07.2019 10:06:34_

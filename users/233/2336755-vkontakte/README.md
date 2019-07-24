@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>88</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>89</sup>
 ---
 
 ## 2019
+
+### Остаток дня
+Кадзуо Исигуро
+> [2019-07-16] 
+
 
 ### Таящийся у порога
 Ховард Филипс Лавкрафт и Огюст Дерлетт
