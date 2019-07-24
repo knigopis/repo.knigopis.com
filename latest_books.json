@@ -1,4 +1,16 @@
 {
+    "r6ybGai0NZ": {
+        "id": "r6ybGai0NZ",
+        "title": "Эффективное коммерческое предложение",
+        "author": "Денис Каплунов",
+        "notes": "Очень много воды, самолюбования и самопиара.\n\nв процессе",
+        "createdAt": "2019-07-24 15:44:45",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 208
+        }
+    },
     "awTuEIQdVe": {
         "id": "awTuEIQdVe",
         "title": "Тёмная сторона Петербурга",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 37
-        }
-    },
-    "IYpzDpgN7P": {
-        "id": "IYpzDpgN7P",
-        "title": "Хочешь знать почему?",
-        "author": "Микеле Лауро",
-        "notes": "",
-        "createdAt": "2019-07-22 07:47:50",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 36
         }
     }
 }

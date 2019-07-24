@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Эффективное коммерческое предложение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>208</sup>
+    > Очень много воды, самолюбования и самопиара.
+    > 
+    > в процессе
+
 * Проповеди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>207</sup>
     > в процессе
 
@@ -12,9 +17,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Пиши, сокращай. Как создавать сильный текст ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>205</sup>
-    > Отличный настольный справочник - как работать с письменными текстами. Да и вообще с текстами. Простой, доходчивый и без халявы. Требует мозга при применении, дитям айфона точно не подходит. Отличная книга.
-    > 
-    > https://www.ozon.ru/context/detail/id/137634276/
 
 * Улитка на склоне ~ [Quaff](users/122/12267158-vkontakte)<sup>56</sup>
 
@@ -28,18 +30,16 @@ Do not use pull requests to make changes here.
 
 * Роковая музыка ~ [Garka](users/115/115753719718250012620-google)<sup>226</sup>
 
-* 21 урок для 21 сторіччя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>208</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>90</sup> 
 [](users/113/113895218432924460489-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>52</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>711</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>207</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>56</sup> 
 [dkezikov](users/665/665843812-yandex)<sup>1</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>29</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/156/156698528-vkontakte)<sup>0</sup> 
 
 
-_24.07.2019 10:08:00_
+_24.07.2019 15:44:46_

@@ -1,4 +1,16 @@
 {
+    "r6ybGai0NZ": {
+        "id": "r6ybGai0NZ",
+        "title": "Эффективное коммерческое предложение",
+        "author": "Денис Каплунов",
+        "notes": "Очень много воды, самолюбования и самопиара.\n\nв процессе",
+        "createdAt": "2019-07-24 15:44:45",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 208
+        }
+    },
     "9UtKDa6pSK": {
         "id": "9UtKDa6pSK",
         "title": "Проповеди",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 63
-        }
-    },
-    "LmNLbvcaqc": {
-        "id": "LmNLbvcaqc",
-        "title": "Самоучитель по философии",
-        "author": "Андрей Курпатов",
-        "notes": "в процессе",
-        "createdAt": "2019-07-12 13:40:52",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 204
         }
     }
 }
