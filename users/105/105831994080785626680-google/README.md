@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>125</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>126</sup>
 ---
 
 ## 2019
+
+### Хищницы
+Лурье Лев
+> [2019-07-24] было очень интересно читать - исторические расследования.
+
 
 ### Порог
 Лукьяненко Сергей

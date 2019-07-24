@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хищницы ~ [Chiffi](users/105/105831994080785626680-google)<sup>126</sup>
 * Эффективное коммерческое предложение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>208</sup>
 * Проповеди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>207</sup>
 * Практическая характерология ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>206</sup>
@@ -30,7 +31,6 @@
 * Що впало, те пропало ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup>
 * Волчья сущность ~ [Quaff](users/122/12267158-vkontakte)<sup>55</sup>
 * Книжный вор ~ [sonics](users/588/5880221-vkontakte)<sup>61</sup>
-* Дочь Монтесумы ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
 
 
-_24.07.2019 15:44:46_
+_24.07.2019 18:01:30_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хищницы ~ [Chiffi](users/105/105831994080785626680-google)<sup>126</sup>
+    > было очень интересно читать - исторические расследования.
+
 * Эффективное коммерческое предложение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>208</sup>
     > Очень много воды, самолюбования и самопиара.
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Практическая характерология ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>206</sup>
-    > в процессе
 
 * Пиши, сокращай. Как создавать сильный текст ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>205</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Gods of Money ~ [exulted](users/100/100599204551896265722-google)<sup>115</sup>
 
-* Роковая музыка ~ [Garka](users/115/115753719718250012620-google)<sup>226</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>126</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>208</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>90</sup> 
 [](users/113/113895218432924460489-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>61</sup> 
 [alexalex](users/358/358903447-vkontakte)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>29</sup> 
-[](users/156/156698528-vkontakte)<sup>0</sup> 
 
 
-_24.07.2019 15:44:46_
+_24.07.2019 18:01:30_
