@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лолита ~ [Quaff](users/122/12267158-vkontakte)<sup>57</sup>
+    > Интересная и неожиданная исповедь педофила
+
 * Хищницы ~ [Chiffi](users/105/105831994080785626680-google)<sup>126</sup>
     > было очень интересно читать - исторические расследования.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Проповеди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>207</sup>
-    > в процессе
 
 * Практическая характерология ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>206</sup>
 
@@ -28,20 +30,18 @@ Do not use pull requests to make changes here.
 
 * Последняя обойма ~ [exulted](users/100/100599204551896265722-google)<sup>116</sup>
 
-* Gods of Money ~ [exulted](users/100/100599204551896265722-google)<sup>115</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>57</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>126</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>208</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>90</sup> 
 [](users/113/113895218432924460489-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>52</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>711</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>56</sup> 
 [dkezikov](users/665/665843812-yandex)<sup>1</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>29</sup> 
 [kurraga113](users/362/362572912-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>29</sup> 
 
 
-_24.07.2019 18:01:30_
+_24.07.2019 18:14:52_

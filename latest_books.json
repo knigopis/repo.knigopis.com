@@ -1,4 +1,16 @@
 {
+    "DzThpxXQGv": {
+        "id": "DzThpxXQGv",
+        "title": "Лолита",
+        "author": "Владимир Набоков",
+        "notes": "Интересная и неожиданная исповедь педофила",
+        "createdAt": "2019-07-24 18:14:52",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 57
+        }
+    },
     "oLLGhGq0xI": {
         "id": "oLLGhGq0xI",
         "title": "Хищницы",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 38
-        }
-    },
-    "P1KHTC0sn4": {
-        "id": "P1KHTC0sn4",
-        "title": "Открой мир с Волли!",
-        "author": "Атлас",
-        "notes": "",
-        "createdAt": "2019-07-22 07:49:15",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 39
         }
     }
 }
