@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Обнаженное солнце ~ [En](users/333/333646551-vkontakte)<sup>72</sup>
 * Лолита ~ [Quaff](users/122/12267158-vkontakte)<sup>57</sup>
 * Хищницы ~ [Chiffi](users/105/105831994080785626680-google)<sup>126</sup>
 * Эффективное коммерческое предложение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>208</sup>
@@ -30,7 +31,6 @@
 * Я чувствую тебя ~ [](users/262/262062207519652-facebook)<sup>5</sup>
 * Я смотрю на тебя ~ [](users/262/262062207519652-facebook)<sup>4</sup>
 * Що впало, те пропало ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup>
-* Волчья сущность ~ [Quaff](users/122/12267158-vkontakte)<sup>55</sup>
 
 
-_24.07.2019 18:14:52_
+_25.07.2019 02:44:45_

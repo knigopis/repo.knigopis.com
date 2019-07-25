@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 72,
+        "updatedAt": "2019-07-25 02:44:45"
+    },
     "471364154-yandex": {
         "id": "471364154-yandex",
         "nickname": "submerged fish",
@@ -172,11 +178,5 @@
         "nickname": "sonics",
         "booksCount": 61,
         "updatedAt": "2019-07-15 15:39:26"
-    },
-    "358903447-vkontakte": {
-        "id": "358903447-vkontakte",
-        "nickname": "alexalex",
-        "booksCount": 0,
-        "updatedAt": "2019-07-15 07:43:06"
     }
 }

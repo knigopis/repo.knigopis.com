@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Обнаженное солнце ~ [En](users/333/333646551-vkontakte)<sup>72</sup>
+    > На планете Солярия совершено убийство. Обстоятельства преступления таковы, что жители планеты, презирающие землян, вынуждены пригласить для его расследования детектива с Земли - Элайджу Бэйли. Землянин не только раскрывает им глаза на причины преступления, но и осознает те опасности, которые несет в себе образ жизни, выбранный солярианами.
+
 * Лолита ~ [Quaff](users/122/12267158-vkontakte)<sup>57</sup>
     > Интересная и неожиданная исповедь педофила
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > было очень интересно читать - исторические расследования.
 
 * Эффективное коммерческое предложение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>208</sup>
-    > Очень много воды, самолюбования и самопиара.
-    > 
-    > в процессе
 
 * Проповеди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>207</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Открывая организации будущего ~ [rNix](users/227/22742452-yandex)<sup>65</sup>
 
-* Последняя обойма ~ [exulted](users/100/100599204551896265722-google)<sup>116</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>72</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>19</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>57</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>126</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Timofei](users/110/110891576791282096366-google)<sup>0</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>44</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>61</sup> 
-[alexalex](users/358/358903447-vkontakte)<sup>0</sup> 
 
 
-_25.07.2019 01:36:29_
+_25.07.2019 02:44:45_
