@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Патруль времени ~ [En](users/333/333646551-vkontakte)<sup>73</sup>
 * Обнаженное солнце ~ [En](users/333/333646551-vkontakte)<sup>72</sup>
 * Лолита ~ [Quaff](users/122/12267158-vkontakte)<sup>57</sup>
 * Хищницы ~ [Chiffi](users/105/105831994080785626680-google)<sup>126</sup>
@@ -30,7 +31,6 @@
 * Я люблю тебя ~ [](users/262/262062207519652-facebook)<sup>6</sup>
 * Я чувствую тебя ~ [](users/262/262062207519652-facebook)<sup>5</sup>
 * Я смотрю на тебя ~ [](users/262/262062207519652-facebook)<sup>4</sup>
-* Що впало, те пропало ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>43</sup>
 
 
-_25.07.2019 02:44:45_
+_25.07.2019 11:19:12_
