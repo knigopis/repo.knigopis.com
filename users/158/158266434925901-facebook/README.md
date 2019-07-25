@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>78</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>79</sup>
 ---
 
 ## 2019
+
+### ВОЗВРАЩЕНИЕ В ПРИЮТ
+Мэделин Ру
+> [2019-07-26] Вторая часть приюта.
+
 
 ### ДОМ С ПРИВИДЕНИЯМИ
 Коллектив авторов

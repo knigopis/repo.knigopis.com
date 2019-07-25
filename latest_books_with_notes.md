@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* ВОЗВРАЩЕНИЕ В ПРИЮТ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>79</sup>
 * Понедельник начинается в субботу ~ [En](users/333/333646551-vkontakte)<sup>74</sup>
 * Патруль времени ~ [En](users/333/333646551-vkontakte)<sup>73</sup>
 * Обнаженное солнце ~ [En](users/333/333646551-vkontakte)<sup>72</sup>
@@ -30,7 +31,6 @@
 * 13 причин почему ~ [TheWildWind](users/262/262062207519652-facebook)<sup>26</sup>
 * Уличный кот по имени Боб. Как человек и кот обрели надежду на улицах Лондона ~ [TheWildWind](users/262/262062207519652-facebook)<sup>25</sup>
 * Я люблю тебя ~ [](users/262/262062207519652-facebook)<sup>6</sup>
-* Я чувствую тебя ~ [](users/262/262062207519652-facebook)<sup>5</sup>
 
 
-_25.07.2019 11:20:37_
+_25.07.2019 14:57:29_

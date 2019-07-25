@@ -1,4 +1,16 @@
 {
+    "8LOPxBHOqC": {
+        "id": "8LOPxBHOqC",
+        "title": "ВОЗВРАЩЕНИЕ В ПРИЮТ",
+        "author": "Мэделин Ру",
+        "notes": "Вторая часть приюта.",
+        "createdAt": "2019-07-25 14:57:28",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 79
+        }
+    },
     "RgXS7KziRk": {
         "id": "RgXS7KziRk",
         "title": "Понедельник начинается в субботу",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": null,
             "booksCount": 6
-        }
-    },
-    "Oh7VU-QREY": {
-        "id": "Oh7VU-QREY",
-        "title": "Я чувствую тебя",
-        "author": "Ирэнэ Као",
-        "notes": "Прекрасное продолжение \"Я смотрю на тебя\".",
-        "createdAt": "2019-07-18 10:30:45",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": null,
-            "booksCount": 5
         }
     }
 }

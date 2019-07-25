@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 79,
+        "updatedAt": "2019-07-25 14:57:28"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "Даша",
         "booksCount": 44,
         "updatedAt": "2019-07-16 11:45:10"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 61,
-        "updatedAt": "2019-07-15 15:39:26"
     }
 }
