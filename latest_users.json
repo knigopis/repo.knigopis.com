@@ -1,4 +1,10 @@
 {
+    "471364154-yandex": {
+        "id": "471364154-yandex",
+        "nickname": "submerged fish",
+        "booksCount": 19,
+        "updatedAt": "2019-07-25 01:36:29"
+    },
     "12267158-vkontakte": {
         "id": "12267158-vkontakte",
         "nickname": "Quaff",
@@ -172,11 +178,5 @@
         "nickname": "alexalex",
         "booksCount": 0,
         "updatedAt": "2019-07-15 07:43:06"
-    },
-    "102536471289425216982-google": {
-        "id": "102536471289425216982-google",
-        "nickname": "Окс",
-        "booksCount": 29,
-        "updatedAt": "2019-07-14 22:07:24"
     }
 }

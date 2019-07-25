@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[submerged fish](users/471/471364154-yandex)<sup>19</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>57</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>126</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>208</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>44</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>61</sup> 
 [alexalex](users/358/358903447-vkontakte)<sup>0</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>29</sup> 
 
 
-_24.07.2019 18:14:52_
+_25.07.2019 01:36:29_
