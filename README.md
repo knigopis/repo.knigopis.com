@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/110/110931306939441771638-google)<sup>7</sup> 
+[](users/110/110931306939441771638-google)<sup>8</sup> 
 [youno](users/302/302928912-vkontakte)<sup>26</sup> 
 [Klepa055](users/110/110874063852183520490-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>63</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>33</sup> 
 
 
-_26.07.2019 13:25:01_
+_26.07.2019 13:25:19_
