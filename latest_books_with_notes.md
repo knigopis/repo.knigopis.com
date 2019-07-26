@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Маркетинг как стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup>
 * Единственная книга по брендингу ~ [youno](users/302/302928912-vkontakte)<sup>26</sup>
 * Хроники Амбера. Пятикнижие Корвина. Девять принцев Амбера ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
 * ВОЗВРАЩЕНИЕ В ПРИЮТ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>79</sup>
@@ -30,7 +31,6 @@
 * Завтра я всегда бывала львом ~ [TheWildWind](users/262/262062207519652-facebook)<sup>29</sup>
 * За закрытой дверью ~ [TheWildWind](users/262/262062207519652-facebook)<sup>28</sup>
 * Будь моей мамой. Искалеченное детство ~ [TheWildWind](users/262/262062207519652-facebook)<sup>27</sup>
-* 13 причин почему ~ [TheWildWind](users/262/262062207519652-facebook)<sup>26</sup>
 
 
-_26.07.2019 12:22:45_
+_26.07.2019 22:31:11_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маркетинг как стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup>
+    > в процессе
+
 * Единственная книга по брендингу ~ [youno](users/302/302928912-vkontakte)<sup>26</sup>
     > Ну хз, коротко, понятно, недостаточно подробно.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Знакомство с Амбером и его тенями. Мир, созданный Желязны очень понравился. Первая книга посвящена борьбе за трон Амбера.
 
 * ВОЗВРАЩЕНИЕ В ПРИЮТ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>79</sup>
-    > Вторая часть приюта.
 
 * Понедельник начинается в субботу ~ [En](users/333/333646551-vkontakte)<sup>74</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Эффективное коммерческое предложение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>208</sup>
 
-* Проповеди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>207</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup> 
 [](users/110/110931306939441771638-google)<sup>9</sup> 
 [youno](users/302/302928912-vkontakte)<sup>26</sup> 
 [Klepa055](users/110/110874063852183520490-google)<sup>0</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>19</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>57</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>126</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>208</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>90</sup> 
 [](users/113/113895218432924460489-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>711</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>33</sup> 
 
 
-_26.07.2019 13:25:24_
+_26.07.2019 22:31:11_

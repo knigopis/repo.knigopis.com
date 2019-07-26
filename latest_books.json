@@ -1,4 +1,16 @@
 {
+    "l2hXH1mh1p": {
+        "id": "l2hXH1mh1p",
+        "title": "Маркетинг как стратегия",
+        "author": "Нирмалия Кумар",
+        "notes": "в процессе",
+        "createdAt": "2019-07-26 22:31:11",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 209
+        }
+    },
     "ON9-vyVD2W": {
         "id": "ON9-vyVD2W",
         "title": "Между нами горы",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 49
-        }
-    },
-    "5ajSRnt-qQ": {
-        "id": "5ajSRnt-qQ",
-        "title": "Весь в",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-07-23 12:32:21",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 50
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "l2hXH1mh1p": {
+        "id": "l2hXH1mh1p",
+        "title": "Маркетинг как стратегия",
+        "author": "Нирмалия Кумар",
+        "notes": "в процессе",
+        "createdAt": "2019-07-26 22:31:11",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 209
+        }
+    },
     "L4MLzH-3cZ": {
         "id": "L4MLzH-3cZ",
         "title": "Единственная книга по брендингу",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": "TheWildWind",
             "booksCount": 27
-        }
-    },
-    "wbKlenmCbl": {
-        "id": "wbKlenmCbl",
-        "title": "13 причин почему",
-        "author": "Джей Эшер",
-        "notes": "Мастрид для подростков.",
-        "createdAt": "2019-07-18 10:47:50",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": "TheWildWind",
-            "booksCount": 26
         }
     }
 }
