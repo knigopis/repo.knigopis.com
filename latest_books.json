@@ -1,4 +1,16 @@
 {
+    "YrtbAW5jO2": {
+        "id": "YrtbAW5jO2",
+        "title": "Между нами горы",
+        "author": "Чарльз Мартин",
+        "notes": "",
+        "createdAt": "2019-07-26 13:25:01",
+        "user": {
+            "id": "110931306939441771638-google",
+            "nickname": null,
+            "booksCount": 7
+        }
+    },
     "VSDh0kaNJ3": {
         "id": "VSDh0kaNJ3",
         "title": "Голодный дом",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 50
-        }
-    },
-    "MnuzAaFUII": {
-        "id": "MnuzAaFUII",
-        "title": "Возлюби ближнего своего",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2019-07-23 12:30:53",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 49
         }
     }
 }
