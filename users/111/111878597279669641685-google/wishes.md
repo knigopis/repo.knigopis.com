@@ -280,7 +280,7 @@ https://www.adme.ru/tvorchestvo-pisateli/230-genialnyh-knig-kotorye-nado-prochit
 ### `50` Пандемониум
 Евгений Гаглоев
 
-### `50` Иоганн Вольвганг Фауст"
+### `50` Фауст
 Иоганн Вольвганг Гёте
 
 ### `50` Мартин Иден
