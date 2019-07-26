@@ -1,4 +1,10 @@
 {
+    "110931306939441771638-google": {
+        "id": "110931306939441771638-google",
+        "nickname": null,
+        "booksCount": 6,
+        "updatedAt": "2019-07-26 13:24:46"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -154,12 +160,6 @@
         "nickname": "TheWildWind",
         "booksCount": 36,
         "updatedAt": "2019-07-18 11:32:51"
-    },
-    "110931306939441771638-google": {
-        "id": "110931306939441771638-google",
-        "nickname": null,
-        "booksCount": 5,
-        "updatedAt": "2019-07-18 05:52:33"
     },
     "28874284-vkontakte": {
         "id": "28874284-vkontakte",

@@ -1,4 +1,16 @@
 {
+    "VSDh0kaNJ3": {
+        "id": "VSDh0kaNJ3",
+        "title": "Голодный дом",
+        "author": "Дэвид Митчел",
+        "notes": "",
+        "createdAt": "2019-07-26 13:24:46",
+        "user": {
+            "id": "110931306939441771638-google",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "L4MLzH-3cZ": {
         "id": "L4MLzH-3cZ",
         "title": "Единственная книга по брендингу",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 49
-        }
-    },
-    "Aq5SE1FkfD": {
-        "id": "Aq5SE1FkfD",
-        "title": "12 правил жизни. Противоядие от хаоса",
-        "author": "Джордан Питерсон",
-        "notes": "",
-        "createdAt": "2019-07-23 06:10:58",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 711
         }
     }
 }

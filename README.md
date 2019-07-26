@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/110/110931306939441771638-google)<sup>6</sup> 
 [youno](users/302/302928912-vkontakte)<sup>26</sup> 
 [Klepa055](users/110/110874063852183520490-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>63</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Алеся В.](users/106/106887989031244091582-googleplus)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>144</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup> 
-[](users/110/110931306939441771638-google)<sup>5</sup> 
 [lionzam](users/288/28874284-vkontakte)<sup>0</sup> 
 [Denision](users/105/105187106410967287777-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>33</sup> 
 
 
-_26.07.2019 12:22:45_
+_26.07.2019 13:24:46_
