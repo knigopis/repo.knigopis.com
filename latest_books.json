@@ -1,4 +1,16 @@
 {
+    "FGTq0xwdMY": {
+        "id": "FGTq0xwdMY",
+        "title": "Дон Кихот",
+        "author": "Мигель де Сервантес",
+        "notes": "",
+        "createdAt": "2019-07-26 07:23:34",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 63
+        }
+    },
     "-VdsZhFQZ9": {
         "id": "-VdsZhFQZ9",
         "title": "Поллианна",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 207
-        }
-    },
-    "osbn-rg3Cn": {
-        "id": "osbn-rg3Cn",
-        "title": "Практическая характерология",
-        "author": "Виктор Пономаренко",
-        "notes": "в процессе",
-        "createdAt": "2019-07-22 21:57:43",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 206
         }
     }
 }
