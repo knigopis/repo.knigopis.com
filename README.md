@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Одиночество в сети ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>57</sup>
+    > Якуб.
+    > Указательными пальцами обеих рук два раза под ключицы. Потом этими же пальцами дважды в направлении собеседника. Она расплакалась. Упала передо мной на колени и плакала. Два раза под ключицы. Два раза в направлении собеседника. Это так просто. «Я люблю тебя». Два раза под ключицы…
+
 * Маркетинг как стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup>
     > в процессе
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Ну хз, коротко, понятно, недостаточно подробно.
 
 * Хроники Амбера. Пятикнижие Корвина. Девять принцев Амбера ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
-    > Знакомство с Амбером и его тенями. Мир, созданный Желязны очень понравился. Первая книга посвящена борьбе за трон Амбера.
 
 * ВОЗВРАЩЕНИЕ В ПРИЮТ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>79</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Хищницы ~ [Chiffi](users/105/105831994080785626680-google)<sup>126</sup>
 
-* Эффективное коммерческое предложение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>208</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>57</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup> 
 [](users/110/110931306939441771638-google)<sup>9</sup> 
 [youno](users/302/302928912-vkontakte)<sup>26</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup> 
 [lionzam](users/288/28874284-vkontakte)<sup>0</sup> 
 [Denision](users/105/105187106410967287777-google)<sup>0</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>33</sup> 
 
 
-_26.07.2019 22:31:11_
+_27.07.2019 18:16:22_
