@@ -42,10 +42,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>713</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>127</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>17</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>34</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>712</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>57</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup> 
 [](users/110/110931306939441771638-google)<sup>9</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup> 
 
 
-_28.07.2019 16:41:13_
+_28.07.2019 18:41:13_

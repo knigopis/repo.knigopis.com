@@ -1,4 +1,16 @@
 {
+    "ggBaNn_EPD": {
+        "id": "ggBaNn_EPD",
+        "title": "Тиль Уленшпигель",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-07-28 18:41:12",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 713
+        }
+    },
     "kzPiRguGc5": {
         "id": "kzPiRguGc5",
         "title": "Кайнозой (Квази-2)",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 208
-        }
-    },
-    "awTuEIQdVe": {
-        "id": "awTuEIQdVe",
-        "title": "Тёмная сторона Петербурга",
-        "author": "Артемьева Мария",
-        "notes": "",
-        "createdAt": "2019-07-24 10:08:00",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 90
         }
     }
 }
