@@ -1,4 +1,16 @@
 {
+    "IxMBaOz5XT": {
+        "id": "IxMBaOz5XT",
+        "title": "Рукопись, найденная в чемодане",
+        "author": "Марк Хелприн",
+        "notes": "",
+        "createdAt": "2019-07-28 09:06:20",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 712
+        }
+    },
     "Eohxevxpnm": {
         "id": "Eohxevxpnm",
         "title": "Одиночество в сети",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 51
-        }
-    },
-    "8kOMGiNqnm": {
-        "id": "8kOMGiNqnm",
-        "title": "Пища Богов",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2019-07-23 12:39:12",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 50
         }
     }
 }
