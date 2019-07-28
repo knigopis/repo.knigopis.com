@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Егор Прохоров](users/481/481937529-vkontakte)<sup>17</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>34</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>712</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>57</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Алеся В.](users/106/106887989031244091582-googleplus)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>144</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup> 
-[lionzam](users/288/28874284-vkontakte)<sup>0</sup> 
 
 
-_28.07.2019 15:32:38_
+_28.07.2019 15:46:46_

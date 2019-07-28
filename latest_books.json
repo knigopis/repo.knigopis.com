@@ -1,4 +1,16 @@
 {
+    "PYC7-O2U2M": {
+        "id": "PYC7-O2U2M",
+        "title": "Кто я",
+        "author": "Пиккирилли Том",
+        "notes": "",
+        "createdAt": "2019-07-28 15:46:46",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "Егор Прохоров",
+            "booksCount": 17
+        }
+    },
     "Xguz31gFAT": {
         "id": "Xguz31gFAT",
         "title": "Гордость и предубеждение",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 89
-        }
-    },
-    "JYdOuLYxjt": {
-        "id": "JYdOuLYxjt",
-        "title": "Человек-Невидимка",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2019-07-23 12:40:08",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 52
         }
     }
 }
