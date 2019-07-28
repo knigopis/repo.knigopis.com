@@ -1,4 +1,16 @@
 {
+    "c6t9YnqNPj": {
+        "id": "c6t9YnqNPj",
+        "title": "Техника сжигания проблем",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-07-28 20:12:21",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "Егор Прохоров",
+            "booksCount": 18
+        }
+    },
     "ggBaNn_EPD": {
         "id": "ggBaNn_EPD",
         "title": "Тиль Уленшпигель",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 126
-        }
-    },
-    "r6ybGai0NZ": {
-        "id": "r6ybGai0NZ",
-        "title": "Эффективное коммерческое предложение",
-        "author": "Денис Каплунов",
-        "notes": "Очень много воды, самолюбования и самопиара.\n\nв процессе",
-        "createdAt": "2019-07-24 15:44:45",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 208
         }
     }
 }
