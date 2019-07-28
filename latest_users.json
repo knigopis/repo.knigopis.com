@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 127,
+        "updatedAt": "2019-07-28 16:41:13"
+    },
     "481937529-vkontakte": {
         "id": "481937529-vkontakte",
         "nickname": "Егор Прохоров",
@@ -82,12 +88,6 @@
         "nickname": "Quaff",
         "booksCount": 57,
         "updatedAt": "2019-07-24 18:14:52"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 126,
-        "updatedAt": "2019-07-24 18:01:29"
     },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
