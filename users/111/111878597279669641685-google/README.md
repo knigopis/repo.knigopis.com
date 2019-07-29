@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>81</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>80</sup>
 ---
 
 ## 2019
@@ -108,10 +108,6 @@
 
 ### Джельсомино в стране лгунов
 Джанни Родари
-
-
-### Замок Лгунов
-Автор: Витауте-Геновайте Жилинскайте
 
 
 ### Винни-Пух
