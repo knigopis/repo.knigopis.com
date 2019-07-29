@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>100</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>101</sup>
 ---
 
 ## 2019
+
+### Дом, в котором...(Шакалиный восьмидневник)
+Мариам Петросян
+> [2019-07-30] 
+
 
 ### Дом, в котором...(Курильщик)
 Мариам Петросян

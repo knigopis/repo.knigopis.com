@@ -42,8 +42,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>101</sup> 
 [Vix](users/109/109445053149434997046-google)<sup>0</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>100</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>60</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>713</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Алеся В.](users/106/106887989031244091582-googleplus)<sup>0</sup> 
 
 
-_29.07.2019 20:06:09_
+_29.07.2019 21:08:58_
