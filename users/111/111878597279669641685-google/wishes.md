@@ -8,7 +8,7 @@
 Наполеон Хилл
 
 ### `100` http://book-online.com.ua/index.php?cat=56&s_name=&s_year=&order=4
-ЧИТАТЬ!!
+!!!
 
 ### `62` Дом, в котором...
 Мариам Петросян
