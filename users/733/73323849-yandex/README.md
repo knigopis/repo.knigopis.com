@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>59</sup>
+# List of books read by inna.besprozvannykh<sup>60</sup>
 ---
 
 ## 2019
+
+### Выбор
+Николас Спаркс
+> [2019-07-25] 
+
 
 ### Невидимки
 Чак Паланик

@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 60,
+        "updatedAt": "2019-07-29 07:17:24"
+    },
     "481937529-vkontakte": {
         "id": "481937529-vkontakte",
         "nickname": "Егор Прохоров",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 144,
         "updatedAt": "2019-07-18 15:07:19"
-    },
-    "262062207519652-facebook": {
-        "id": "262062207519652-facebook",
-        "nickname": "TheWildWind",
-        "booksCount": 36,
-        "updatedAt": "2019-07-18 11:32:51"
     }
 }
