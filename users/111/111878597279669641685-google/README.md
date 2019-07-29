@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>68</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>69</sup>
 ---
 
 ## 2019
@@ -100,6 +100,10 @@
 
 
 ## Other years
+
+### Сказка о золотом петушке
+Александр Пушкин
+
 
 ### Руслан и Людмила
 Александр Пушкин
