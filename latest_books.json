@@ -1,4 +1,16 @@
 {
+    "6fVfJW2zbF": {
+        "id": "6fVfJW2zbF",
+        "title": "Барышня-крестьянка",
+        "author": "Александр Пушкин",
+        "notes": "",
+        "createdAt": "2019-07-29 10:02:44",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 64
+        }
+    },
     "QQ3AqaAW5e": {
         "id": "QQ3AqaAW5e",
         "title": "Выбор",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 72
-        }
-    },
-    "0c7qbSPrK7": {
-        "id": "0c7qbSPrK7",
-        "title": "Пепел Вавилона",
-        "author": "Джеймс Кори",
-        "notes": "",
-        "createdAt": "2019-07-25 01:36:29",
-        "user": {
-            "id": "471364154-yandex",
-            "nickname": "submerged fish",
-            "booksCount": 19
         }
     }
 }
