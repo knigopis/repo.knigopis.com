@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>99</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>100</sup>
 ---
 
 ## 2019
@@ -105,6 +105,10 @@
 
 
 ## Other years
+
+### Голубая бусинка
+Мария Крюгер
+
 
 ### Сказка о Мнимом Принце
 Вильгельм Гауф
