@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>103</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>104</sup>
 ---
 
 ## 2019
+
+### Коляска
+Николай Гоголь
+> [2019-07-30] 
+
 
 ### Стрелы Амура
 Редъярд Киплинг
