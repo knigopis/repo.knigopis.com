@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Когда отдыхают ангелы ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
+    > Полу-рассказ, полу-дневник учительницы. Педагогическая поэма. Попытка проникнуть в детский мир. Замечательным языком. Сразу после - читала Корчака "Матиуш первый"
+
 * Кайнозой (Квази-2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>127</sup>
     > Ведь не сказать лжи – вовсе не значит сказать правду. Опытный разведчик, которого проверяют на детекторе лжи, ускользает из паутины датчиков. «Вы русский шпион? Конечно же нет!
     > (Ведь я на четверть татарин.)
@@ -21,7 +24,6 @@ Do not use pull requests to make changes here.
     > Указательными пальцами обеих рук два раза под ключицы. Потом этими же пальцами дважды в направлении собеседника. Она расплакалась. Упала передо мной на колени и плакала. Два раза под ключицы. Два раза в направлении собеседника. Это так просто. «Я люблю тебя». Два раза под ключицы…
 
 * Маркетинг как стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup>
-    > в процессе
 
 * Единственная книга по брендингу ~ [youno](users/302/302928912-vkontakte)<sup>26</sup>
 
@@ -35,13 +37,12 @@ Do not use pull requests to make changes here.
 
 * Обнаженное солнце ~ [En](users/333/333646551-vkontakte)<sup>72</sup>
 
-* Лолита ~ [Quaff](users/122/12267158-vkontakte)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dilost](users/102/10206471247373307-facebook)<sup>3</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>101</sup> 
 [Vix](users/109/109445053149434997046-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>60</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>116</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>171</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup> 
-[Алеся В.](users/106/106887989031244091582-googleplus)<sup>0</sup> 
 
 
-_29.07.2019 21:08:58_
+_30.07.2019 13:51:54_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Когда отдыхают ангелы ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
 * Кайнозой (Квази-2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>127</sup>
 * Одиночество в сети ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>57</sup>
 * Маркетинг как стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup>
@@ -30,7 +31,6 @@
 * Не отпускай меня ~ [TheWildWind](users/262/262062207519652-facebook)<sup>32</sup>
 * Коснуться небес ~ [TheWildWind](users/262/262062207519652-facebook)<sup>31</sup>
 * Кое-что о Билли ~ [TheWildWind](users/262/262062207519652-facebook)<sup>30</sup>
-* Завтра я всегда бывала львом ~ [TheWildWind](users/262/262062207519652-facebook)<sup>29</sup>
 
 
-_28.07.2019 16:41:13_
+_30.07.2019 13:51:54_

@@ -1,4 +1,10 @@
 {
+    "10206471247373307-facebook": {
+        "id": "10206471247373307-facebook",
+        "nickname": "dilost",
+        "booksCount": 3,
+        "updatedAt": "2019-07-30 13:51:54"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 44,
         "updatedAt": "2019-07-19 13:20:23"
-    },
-    "106887989031244091582-googleplus": {
-        "id": "106887989031244091582-googleplus",
-        "nickname": "Алеся В.",
-        "booksCount": 0,
-        "updatedAt": "2019-07-19 09:32:48"
     }
 }
