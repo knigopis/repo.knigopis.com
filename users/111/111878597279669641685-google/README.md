@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>102</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>103</sup>
 ---
 
 ## 2019
+
+### Стрелы Амура
+Редъярд Киплинг
+> [2019-07-30] 
+
 
 ### Дом, в котором...(Пустые гнёзда)
 Мариам Петросян
