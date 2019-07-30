@@ -42,8 +42,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>102</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>3</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>101</sup> 
 [Vix](users/109/109445053149434997046-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>60</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>19</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup> 
 
 
-_30.07.2019 13:51:54_
+_30.07.2019 19:37:04_
