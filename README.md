@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>30</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>58</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>68</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>45</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>90</sup> 
 [](users/113/113895218432924460489-google)<sup>0</sup> 
 [dkezikov](users/665/665843812-yandex)<sup>1</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>29</sup> 
 [kurraga113](users/362/362572912-vkontakte)<sup>0</sup> 
 [adasher](users/329/329912611-yandex)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>116</sup> 
 
 
-_31.07.2019 16:52:31_
+_31.07.2019 19:08:29_
