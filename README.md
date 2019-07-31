@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>100</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>30</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>58</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>68</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
 [](users/413/413911429-vkontakte)<sup>0</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>13</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>116</sup> 
 
 
-_31.07.2019 19:08:29_
+_31.07.2019 20:31:09_

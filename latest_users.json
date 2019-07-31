@@ -1,4 +1,10 @@
 {
+    "2401650-vkontakte": {
+        "id": "2401650-vkontakte",
+        "nickname": "joan789",
+        "booksCount": 100,
+        "updatedAt": "2019-07-31 20:31:09"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "Яков",
         "booksCount": 13,
         "updatedAt": "2019-07-21 09:25:19"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 116,
-        "updatedAt": "2019-07-21 06:22:36"
     }
 }
