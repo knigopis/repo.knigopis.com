@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>105</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>104</sup>
 ---
 
 ## 2019
@@ -125,10 +125,6 @@
 
 
 ## Other years
-
-### http://11book.ru/
-Учебники!!!
-
 
 ### Голубая бусинка
 Мария Крюгер
