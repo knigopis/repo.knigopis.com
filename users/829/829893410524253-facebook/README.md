@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>44</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>45</sup>
 ---
 
 ## 2019
+
+### Текст из пяти магнитофонных кассет, надиктованных академиком Легасовым.
+Адамович
+> [2019-07-31] 8/10 с моб. Немного скучновато, но аргументировано об аварии на ЧАЭС.
+
 
 ### 21 урок для 21 сторіччя
 Ювал Ной Харар

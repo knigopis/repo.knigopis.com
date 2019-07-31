@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Текст из пяти магнитофонных кассет, надиктованных академиком Легасовым. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>45</sup>
 * Когда отдыхают ангелы ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
 * Кайнозой (Квази-2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>127</sup>
 * Одиночество в сети ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>57</sup>
@@ -30,7 +31,6 @@
 * Отбор ~ [TheWildWind](users/262/262062207519652-facebook)<sup>33</sup>
 * Не отпускай меня ~ [TheWildWind](users/262/262062207519652-facebook)<sup>32</sup>
 * Коснуться небес ~ [TheWildWind](users/262/262062207519652-facebook)<sup>31</sup>
-* Кое-что о Билли ~ [TheWildWind](users/262/262062207519652-facebook)<sup>30</sup>
 
 
-_30.07.2019 13:51:54_
+_31.07.2019 09:18:18_
