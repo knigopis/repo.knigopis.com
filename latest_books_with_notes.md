@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Оральный секс.Секреты взрывных ощущений ~ [kissamasya](users/684/68439978-vkontakte)<sup>68</sup>
 * Текст из пяти магнитофонных кассет, надиктованных академиком Легасовым. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>45</sup>
 * Когда отдыхают ангелы ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
 * Кайнозой (Квази-2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>127</sup>
@@ -30,7 +31,6 @@
 * Последняя ~ [TheWildWind](users/262/262062207519652-facebook)<sup>34</sup>
 * Отбор ~ [TheWildWind](users/262/262062207519652-facebook)<sup>33</sup>
 * Не отпускай меня ~ [TheWildWind](users/262/262062207519652-facebook)<sup>32</sup>
-* Коснуться небес ~ [TheWildWind](users/262/262062207519652-facebook)<sup>31</sup>
 
 
-_31.07.2019 09:18:18_
+_31.07.2019 16:46:48_

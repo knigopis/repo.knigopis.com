@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 68,
+        "updatedAt": "2019-07-31 16:46:48"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 116,
         "updatedAt": "2019-07-21 06:22:36"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 171,
-        "updatedAt": "2019-07-19 13:24:14"
     }
 }
