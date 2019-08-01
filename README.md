@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[designnat](users/514/5143815-vkontakte)<sup>0</sup> 
 [@Nika.book](users/101/101397067906124622805-google)<sup>1</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>31</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kurraga113](users/362/362572912-vkontakte)<sup>0</sup> 
 [adasher](users/329/329912611-yandex)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
-[](users/413/413911429-vkontakte)<sup>0</sup> 
 
 
-_01.08.2019 17:28:09_
+_01.08.2019 17:38:33_
