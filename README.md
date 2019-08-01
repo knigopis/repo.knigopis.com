@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>27</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>714</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>100</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>30</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>34</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup> 
 [](users/110/110931306939441771638-google)<sup>9</sup> 
-[youno](users/302/302928912-vkontakte)<sup>26</sup> 
 [Klepa055](users/110/110874063852183520490-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>227</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>79</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Яков](users/117/117277044284589498872-google)<sup>13</sup> 
 
 
-_01.08.2019 05:10:50_
+_01.08.2019 09:06:57_

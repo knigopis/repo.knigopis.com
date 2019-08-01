@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 27,
+        "updatedAt": "2019-08-01 09:06:57"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -88,12 +94,6 @@
         "nickname": null,
         "booksCount": 9,
         "updatedAt": "2019-07-26 13:25:24"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 26,
-        "updatedAt": "2019-07-26 12:22:45"
     },
     "110874063852183520490-google": {
         "id": "110874063852183520490-google",
