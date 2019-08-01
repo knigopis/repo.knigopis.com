@@ -1,4 +1,16 @@
 {
+    "9ZAhz_GSJe": {
+        "id": "9ZAhz_GSJe",
+        "title": "В ожидании бури: южный Кавказ",
+        "author": "",
+        "notes": "в процессе",
+        "createdAt": "2019-08-01 16:12:48",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 210
+        }
+    },
     "IjBHzUxiXi": {
         "id": "IjBHzUxiXi",
         "title": "Оральный секс.Секреты взрывных ощущений",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": "TheWildWind",
             "booksCount": 33
-        }
-    },
-    "dfW2a5Fvxj": {
-        "id": "dfW2a5Fvxj",
-        "title": "Не отпускай меня",
-        "author": "Кадзуо Исигуро",
-        "notes": "Не запомнилась.",
-        "createdAt": "2019-07-18 11:00:55",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": "TheWildWind",
-            "booksCount": 32
         }
     }
 }

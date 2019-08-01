@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В ожидании бури: южный Кавказ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup>
+    > в процессе
+
 * Оральный секс.Секреты взрывных ощущений ~ [kissamasya](users/684/68439978-vkontakte)<sup>68</sup>
     > Благодаря этой книге вы:• Узнаете больше об основных видах чувственных ласк губами и языком• Освоите смелые техники для незабываемого орального секса• Почерпнете новые сценарии и дерзкие идеи для стимуляции самых пикантных точек• 
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 с моб. Немного скучновато, но аргументировано об аварии на ЧАЭС.
 
 * Когда отдыхают ангелы ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
-    > Полу-рассказ, полу-дневник учительницы. Педагогическая поэма. Попытка проникнуть в детский мир. Замечательным языком. Сразу после - читала Корчака "Матиуш первый"
 
 * Кайнозой (Квази-2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>127</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * ВОЗВРАЩЕНИЕ В ПРИЮТ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>79</sup>
 
-* Понедельник начинается в субботу ~ [En](users/333/333646551-vkontakte)<sup>74</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup> 
 [youno](users/302/302928912-vkontakte)<sup>27</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>714</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>100</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>19</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>127</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>34</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup> 
 [](users/110/110931306939441771638-google)<sup>9</sup> 
 [Klepa055](users/110/110874063852183520490-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>227</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Яков](users/117/117277044284589498872-google)<sup>13</sup> 
 
 
-_01.08.2019 09:06:57_
+_01.08.2019 16:12:49_
