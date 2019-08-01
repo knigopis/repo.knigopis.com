@@ -1,4 +1,10 @@
 {
+    "101397067906124622805-google": {
+        "id": "101397067906124622805-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-08-01 17:26:43"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-07-21 10:04:27"
-    },
-    "117277044284589498872-google": {
-        "id": "117277044284589498872-google",
-        "nickname": "Яков",
-        "booksCount": 13,
-        "updatedAt": "2019-07-21 09:25:19"
     }
 }
