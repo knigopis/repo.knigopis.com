@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>108</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>715</sup> 
 [designnat](users/514/5143815-vkontakte)<sup>1</sup> 
 [@Nika.book](users/101/101397067906124622805-google)<sup>1</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>58</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>68</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>45</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>107</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>3</sup> 
 [Vix](users/109/109445053149434997046-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>60</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
 
 
-_02.08.2019 16:29:21_
+_02.08.2019 20:07:44_

@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>107</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>108</sup>
 ---
 
 ## 2019
+
+### Надвигается беда
+Рэй Брэдбери
+> [2019-08-02] 
+
 
 ### Белые Слоны
 Эрнест Хемингуэй
