@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 715,
+        "updatedAt": "2019-08-02 16:29:20"
+    },
     "5143815-vkontakte": {
         "id": "5143815-vkontakte",
         "nickname": "designnat",
@@ -28,12 +34,6 @@
         "nickname": "youno",
         "booksCount": 27,
         "updatedAt": "2019-08-01 09:06:57"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 714,
-        "updatedAt": "2019-08-01 05:10:50"
     },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",
