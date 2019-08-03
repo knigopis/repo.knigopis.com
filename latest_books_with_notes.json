@@ -1,4 +1,16 @@
 {
+    "tiDVXGjy61": {
+        "id": "tiDVXGjy61",
+        "title": "Пойди поставь сторожа",
+        "author": "Харпер Ли",
+        "notes": "ISBN 978-5-17-092966-5",
+        "createdAt": "2019-08-03 10:46:57",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 23
+        }
+    },
     "rZ3Rxyioin": {
         "id": "rZ3Rxyioin",
         "title": "Властелин Морморы. История, рассказанная сэром Джуффином Халли",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 44
-        }
-    },
-    "CNldRM7RE6": {
-        "id": "CNldRM7RE6",
-        "title": "Элиза в сердце лабиринта",
-        "author": "Себастьен Перез",
-        "notes": "Атмосферная мини-страшилка на один раз.",
-        "createdAt": "2019-07-18 11:32:51",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": "TheWildWind",
-            "booksCount": 36
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пойди поставь сторожа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup>
+    > ISBN 978-5-17-092966-5
+
 * Властелин Морморы. История, рассказанная сэром Джуффином Халли ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>22</sup>
     > ISBN 5-94278-811-1
     > "Всё, что может быть сочтено добрым знаком, будет им сочтено - я сам изобрёл это правило и до сих пор доволен им чрезвычайно".
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > "Выбирать любимого человека - примерно то же, что выбирать психотерапевта. А именно - прямо ответить на несколько вопросов: будет ли этот человек честен со мной, адекватно ли воспримет критику, сумеет ли признать свои ошибки и не станет ли давать неисполнимые обещания?"
 
 * ****Дебют в Ехо**** ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>20</sup>
-    > ISBN 978-5-04-097345-3
 
 * В ожидании бури: южный Кавказ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup>
 
@@ -30,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Одиночество в сети ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>57</sup>
 
-* Маркетинг как стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>22</sup> 
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>108</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>715</sup> 
 [designnat](users/514/5143815-vkontakte)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [adasher](users/329/329912611-yandex)<sup>0</sup> 
 
 
-_03.08.2019 10:45:35_
+_03.08.2019 10:46:57_
