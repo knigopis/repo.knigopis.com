@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Безмолвный пациент ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>21</sup>
+    > ISBN 978-5-04-097345-3
+    > "Выбирать любимого человека - примерно то же, что выбирать психотерапевта. А именно - прямо ответить на несколько вопросов: будет ли этот человек честен со мной, адекватно ли воспримет критику, сумеет ли признать свои ошибки и не станет ли давать неисполнимые обещания?"
+
 * ****Дебют в Ехо**** ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>20</sup>
     > ISBN 978-5-04-097345-3
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Оральный секс.Секреты взрывных ощущений ~ [kissamasya](users/684/68439978-vkontakte)<sup>68</sup>
-    > Благодаря этой книге вы:• Узнаете больше об основных видах чувственных ласк губами и языком• Освоите смелые техники для незабываемого орального секса• Почерпнете новые сценарии и дерзкие идеи для стимуляции самых пикантных точек• 
 
 * Текст из пяти магнитофонных кассет, надиктованных академиком Легасовым. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>45</sup>
 
@@ -26,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Единственная книга по брендингу ~ [youno](users/302/302928912-vkontakte)<sup>26</sup>
 
-* Хроники Амбера. Пятикнижие Корвина. Девять принцев Амбера ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>20</sup> 
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>21</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>108</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>715</sup> 
 [designnat](users/514/5143815-vkontakte)<sup>1</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [adasher](users/329/329912611-yandex)<sup>0</sup> 
 
 
-_03.08.2019 10:36:44_
+_03.08.2019 10:39:44_
