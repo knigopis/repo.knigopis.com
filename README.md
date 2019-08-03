@@ -36,9 +36,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>109</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>128</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>108</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>715</sup> 
 [designnat](users/514/5143815-vkontakte)<sup>1</sup> 
 [@Nika.book](users/101/101397067906124622805-google)<sup>1</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [adasher](users/329/329912611-yandex)<sup>0</sup> 
 
 
-_03.08.2019 19:42:41_
+_03.08.2019 19:55:44_

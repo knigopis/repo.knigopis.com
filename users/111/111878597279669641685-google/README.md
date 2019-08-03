@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>108</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>109</sup>
 ---
 
 ## 2019
+
+### Старик и море
+Эрнест Хемингуэй
+> [2019-08-03] 
+
 
 ### Надвигается беда
 Рэй Брэдбери
