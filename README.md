@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кей Дач. Трилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>128</sup>
+    > Важны точки отсчета,  а не их высота
+
 * Пойди поставь сторожа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup>
     > ISBN 978-5-17-092966-5
 
@@ -15,8 +18,6 @@ Do not use pull requests to make changes here.
     > "Итак, запомни, пожалуйста: сбывшихся жизней может быть так же бесконечно много, как и несбывшихся. Это и есть формула бессмертия, Макс. Твоя, персональная".
 
 * Безмолвный пациент ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>21</sup>
-    > ISBN 978-5-04-097345-3
-    > "Выбирать любимого человека - примерно то же, что выбирать психотерапевта. А именно - прямо ответить на несколько вопросов: будет ли этот человек честен со мной, адекватно ли воспримет критику, сумеет ли признать свои ошибки и не станет ли давать неисполнимые обещания?"
 
 * ****Дебют в Ехо**** ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>20</sup>
 
@@ -30,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Кайнозой (Квази-2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>127</sup>
 
-* Одиночество в сети ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>128</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>108</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>715</sup> 
@@ -53,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Vix](users/109/109445053149434997046-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>60</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>19</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>127</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>34</sup> 
 [](users/110/110931306939441771638-google)<sup>9</sup> 
 [Klepa055](users/110/110874063852183520490-google)<sup>0</sup> 
@@ -69,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [adasher](users/329/329912611-yandex)<sup>0</sup> 
 
 
-_03.08.2019 10:46:57_
+_03.08.2019 19:42:41_

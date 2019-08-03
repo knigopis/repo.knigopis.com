@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кей Дач. Трилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>128</sup>
 * Пойди поставь сторожа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup>
 * Властелин Морморы. История, рассказанная сэром Джуффином Халли ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>22</sup>
 * Безмолвный пациент ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Последняя обойма ~ [exulted](users/100/100599204551896265722-google)<sup>116</sup>
 * Gods of Money ~ [exulted](users/100/100599204551896265722-google)<sup>115</sup>
 * Роковая музыка ~ [Garka](users/115/115753719718250012620-google)<sup>226</sup>
-* 21 урок для 21 сторіччя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup>
 
 
-_03.08.2019 10:46:57_
+_03.08.2019 19:42:41_
