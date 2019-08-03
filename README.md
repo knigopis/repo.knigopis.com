@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/113/113385419764153208171-google)<sup>1</sup> 
+[](users/113/113385419764153208171-google)<sup>2</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>109</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>128</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kurraga113](users/362/362572912-vkontakte)<sup>0</sup> 
 
 
-_03.08.2019 23:11:14_
+_03.08.2019 23:12:14_
