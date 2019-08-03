@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* ****Дебют в Ехо**** ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>20</sup>
 * В ожидании бури: южный Кавказ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup>
 * Оральный секс.Секреты взрывных ощущений ~ [kissamasya](users/684/68439978-vkontakte)<sup>68</sup>
 * Текст из пяти магнитофонных кассет, надиктованных академиком Легасовым. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>45</sup>
@@ -30,7 +31,6 @@
 * Элиза в сердце лабиринта ~ [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup>
 * Проснись в Никогда ~ [TheWildWind](users/262/262062207519652-facebook)<sup>35</sup>
 * Последняя ~ [TheWildWind](users/262/262062207519652-facebook)<sup>34</sup>
-* Отбор ~ [TheWildWind](users/262/262062207519652-facebook)<sup>33</sup>
 
 
-_01.08.2019 16:12:49_
+_03.08.2019 10:36:44_

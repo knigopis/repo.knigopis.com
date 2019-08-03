@@ -1,4 +1,16 @@
 {
+    "UFARqWAqBM": {
+        "id": "UFARqWAqBM",
+        "title": "****Дебют в Ехо****",
+        "author": "Макс Фрай",
+        "notes": "ISBN 978-5-04-097345-3",
+        "createdAt": "2019-08-03 10:36:44",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 20
+        }
+    },
     "9ZAhz_GSJe": {
         "id": "9ZAhz_GSJe",
         "title": "В ожидании бури: южный Кавказ",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": "TheWildWind",
             "booksCount": 34
-        }
-    },
-    "KLTmuisG19": {
-        "id": "KLTmuisG19",
-        "title": "Отбор",
-        "author": "Кира Касс",
-        "notes": "Одноразовое девчачье чтиво с оборванной концовкой. Будто в душу плюнули :(",
-        "createdAt": "2019-07-18 11:02:33",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": "TheWildWind",
-            "booksCount": 33
         }
     }
 }

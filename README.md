@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ****Дебют в Ехо**** ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>20</sup>
+    > ISBN 978-5-04-097345-3
+
 * В ожидании бури: южный Кавказ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Благодаря этой книге вы:• Узнаете больше об основных видах чувственных ласк губами и языком• Освоите смелые техники для незабываемого орального секса• Почерпнете новые сценарии и дерзкие идеи для стимуляции самых пикантных точек• 
 
 * Текст из пяти магнитофонных кассет, надиктованных академиком Легасовым. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>45</sup>
-    > 8/10 с моб. Немного скучновато, но аргументировано об аварии на ЧАЭС.
 
 * Когда отдыхают ангелы ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Хроники Амбера. Пятикнижие Корвина. Девять принцев Амбера ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
 
-* ВОЗВРАЩЕНИЕ В ПРИЮТ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>79</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>20</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>108</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>715</sup> 
 [designnat](users/514/5143815-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dkezikov](users/665/665843812-yandex)<sup>1</sup> 
 [kurraga113](users/362/362572912-vkontakte)<sup>0</sup> 
 [adasher](users/329/329912611-yandex)<sup>0</sup> 
-[rNix](users/227/22742452-yandex)<sup>66</sup> 
 
 
-_02.08.2019 20:07:44_
+_03.08.2019 10:36:44_
