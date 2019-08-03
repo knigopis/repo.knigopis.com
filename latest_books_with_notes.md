@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Властелин Морморы. История, рассказанная сэром Джуффином Халли ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>22</sup>
 * Безмолвный пациент ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>21</sup>
 * ****Дебют в Ехо**** ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>20</sup>
 * В ожидании бури: южный Кавказ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup>
@@ -30,7 +31,6 @@
 * Роковая музыка ~ [Garka](users/115/115753719718250012620-google)<sup>226</sup>
 * 21 урок для 21 сторіччя ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>44</sup>
 * Элиза в сердце лабиринта ~ [TheWildWind](users/262/262062207519652-facebook)<sup>36</sup>
-* Проснись в Никогда ~ [TheWildWind](users/262/262062207519652-facebook)<sup>35</sup>
 
 
-_03.08.2019 10:39:44_
+_03.08.2019 10:45:35_

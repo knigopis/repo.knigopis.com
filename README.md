@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Властелин Морморы. История, рассказанная сэром Джуффином Халли ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>22</sup>
+    > ISBN 5-94278-811-1
+    > "Всё, что может быть сочтено добрым знаком, будет им сочтено - я сам изобрёл это правило и до сих пор доволен им чрезвычайно".
+    > С. 7-23, 306-316
+    > "Итак, запомни, пожалуйста: сбывшихся жизней может быть так же бесконечно много, как и несбывшихся. Это и есть формула бессмертия, Макс. Твоя, персональная".
+
 * Безмолвный пациент ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>21</sup>
     > ISBN 978-5-04-097345-3
     > "Выбирать любимого человека - примерно то же, что выбирать психотерапевта. А именно - прямо ответить на несколько вопросов: будет ли этот человек честен со мной, адекватно ли воспримет критику, сумеет ли признать свои ошибки и не станет ли давать неисполнимые обещания?"
@@ -13,7 +19,6 @@ Do not use pull requests to make changes here.
     > ISBN 978-5-04-097345-3
 
 * В ожидании бури: южный Кавказ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup>
-    > в процессе
 
 * Оральный секс.Секреты взрывных ощущений ~ [kissamasya](users/684/68439978-vkontakte)<sup>68</sup>
 
@@ -27,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Маркетинг как стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup>
 
-* Единственная книга по брендингу ~ [youno](users/302/302928912-vkontakte)<sup>26</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>21</sup> 
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>22</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>108</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>715</sup> 
 [designnat](users/514/5143815-vkontakte)<sup>1</sup> 
@@ -66,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [adasher](users/329/329912611-yandex)<sup>0</sup> 
 
 
-_03.08.2019 10:39:44_
+_03.08.2019 10:45:35_
