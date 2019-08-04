@@ -38,43 +38,46 @@ Randall Munroe
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Cracking the code interview
-Gayle Laakmann McDowell
-
-### `1` Атлант расправил плечи
-Айн Рэнд
+### `2` Бегство от безопасности
+Ричард Бах
 
 ### `1` Портной из Панамы
 Джон Ле Карре
 
+### `1` Атлант расправил плечи
+Айн Рэнд
+
+### `1` Cracking the code interview
+Gayle Laakmann McDowell
+
 ### `1` Joel on Software
 Joel Spolsky
-
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
 
 ### `` Искусство программирования
 Дональд Кнут
 
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
+
 ### `` Мертвые души
 Николай Гоголь
+
+### `` Тонкое искусство пофигизма
 
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
-
-### `` Тонкое искусство пофигизма
-
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
 
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` A Briefer History of Time
-Stephen Hawking
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
+
+### `` Agile Estimating and Planning
+Mike Cohn
 
 ### `` Братья Карамазовы
 Фёдор Достоевский
@@ -103,6 +106,6 @@ Dafydd Stuttard, Marcus Pinto
 Jon Erickson
 > ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
-### `` Agile Estimating and Planning
-Mike Cohn
+### `` A Briefer History of Time
+Stephen Hawking
 
