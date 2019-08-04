@@ -1,0 +1,7 @@
+# Wish list of books by [Bogdan](https://www.facebook.com/profile.php?id=100001618474012)
+---
+
+### `70` За миллиард лет до конца света
+Стругацкие
+> Технология предпринимательства
+
