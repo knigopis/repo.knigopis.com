@@ -1,4 +1,16 @@
 {
+    "W-uHV2V9nH": {
+        "id": "W-uHV2V9nH",
+        "title": "Осиная ферма",
+        "author": "Иен Бенкс",
+        "notes": "Очень интересная книга об опыте над личностью",
+        "createdAt": "2019-08-05 17:57:23",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 59
+        }
+    },
     "XBZHJMFM7Y": {
         "id": "XBZHJMFM7Y",
         "title": "Сто лет одиночества",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 116
-        }
-    },
-    "dA1PbicT2c": {
-        "id": "dA1PbicT2c",
-        "title": "Gods of Money",
-        "author": "F. William Engdahl",
-        "notes": "ASIN: B005Y4F4EE",
-        "createdAt": "2019-07-21 06:18:20",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 115
         }
     }
 }
