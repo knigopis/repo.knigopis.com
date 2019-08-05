@@ -1,4 +1,16 @@
 {
+    "rPU7PPcjYn": {
+        "id": "rPU7PPcjYn",
+        "title": "Куриный бульон для души: 101 вдохновляющая история о сильных людях и удивительных судьбах",
+        "author": "Эми Ньюмарк",
+        "notes": "",
+        "createdAt": "2019-08-05 07:51:42",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 716
+        }
+    },
     "CHZzfUJWGe": {
         "id": "CHZzfUJWGe",
         "title": "Горе от Ума",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 103
-        }
-    },
-    "cApHavGBKT": {
-        "id": "cApHavGBKT",
-        "title": "Дом, в котором...(Пустые гнёзда)",
-        "author": "Мариам Петросян",
-        "notes": "",
-        "createdAt": "2019-07-30 19:37:03",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 102
         }
     }
 }
