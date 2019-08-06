@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[neccochi](users/667/66767060-vkontakte)<sup>1</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>60</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>716</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>111</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>19</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>90</sup> 
 [](users/113/113895218432924460489-google)<sup>0</sup> 
-[dkezikov](users/665/665843812-yandex)<sup>1</sup> 
 
 
-_06.08.2019 15:24:07_
+_06.08.2019 17:14:21_

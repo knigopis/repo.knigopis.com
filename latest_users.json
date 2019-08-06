@@ -1,4 +1,10 @@
 {
+    "66767060-vkontakte": {
+        "id": "66767060-vkontakte",
+        "nickname": "neccochi",
+        "booksCount": 1,
+        "updatedAt": "2019-08-06 17:14:21"
+    },
     "12267158-vkontakte": {
         "id": "12267158-vkontakte",
         "nickname": "Quaff",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-07-23 20:14:13"
-    },
-    "665843812-yandex": {
-        "id": "665843812-yandex",
-        "nickname": "dkezikov",
-        "booksCount": 1,
-        "updatedAt": "2019-07-22 16:32:24"
     }
 }
