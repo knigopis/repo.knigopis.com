@@ -1,4 +1,16 @@
 {
+    "_wRSjz_k4J": {
+        "id": "_wRSjz_k4J",
+        "title": "Посторонний",
+        "author": "Альбер Камю",
+        "notes": "История о равнодушном человеке",
+        "createdAt": "2019-08-06 15:24:07",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 60
+        }
+    },
     "W-uHV2V9nH": {
         "id": "W-uHV2V9nH",
         "title": "Осиная ферма",
@@ -341,18 +353,6 @@
         "author": "Алан Милн",
         "notes": "",
         "createdAt": "2019-07-31 05:27:21",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 105
-        }
-    },
-    "B6uYOx20cQ": {
-        "id": "B6uYOx20cQ",
-        "title": "http://11book.ru/",
-        "author": "Учебники!!!",
-        "notes": "",
-        "createdAt": "2019-07-31 05:08:36",
         "user": {
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",

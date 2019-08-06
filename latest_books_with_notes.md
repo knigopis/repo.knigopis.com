@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Посторонний ~ [Quaff](users/122/12267158-vkontakte)<sup>60</sup>
 * Осиная ферма ~ [Quaff](users/122/12267158-vkontakte)<sup>59</sup>
 * Сто лет одиночества ~ [Quaff](users/122/12267158-vkontakte)<sup>58</sup>
 * Кей Дач. Трилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>128</sup>
@@ -30,7 +31,6 @@
 * Улитка на склоне ~ [Quaff](users/122/12267158-vkontakte)<sup>56</sup>
 * Кровь, пот и пиксели ~ [rNix](users/227/22742452-yandex)<sup>66</sup>
 * Открывая организации будущего ~ [rNix](users/227/22742452-yandex)<sup>65</sup>
-* Последняя обойма ~ [exulted](users/100/100599204551896265722-google)<sup>116</sup>
 
 
-_05.08.2019 17:57:23_
+_06.08.2019 15:24:07_

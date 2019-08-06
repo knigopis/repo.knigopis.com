@@ -1,7 +1,12 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>59</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>60</sup>
 ---
 
 ## 2019
+
+### Посторонний
+Альбер Камю
+> [2019-08-06] История о равнодушном человеке
+
 
 ### Осиная ферма
 Иен Бенкс

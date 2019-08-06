@@ -1,4 +1,16 @@
 {
+    "_wRSjz_k4J": {
+        "id": "_wRSjz_k4J",
+        "title": "Посторонний",
+        "author": "Альбер Камю",
+        "notes": "История о равнодушном человеке",
+        "createdAt": "2019-08-06 15:24:07",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 60
+        }
+    },
     "W-uHV2V9nH": {
         "id": "W-uHV2V9nH",
         "title": "Осиная ферма",
@@ -345,18 +357,6 @@
             "id": "22742452-yandex",
             "nickname": "rNix",
             "booksCount": 65
-        }
-    },
-    "R27Yun6FtF": {
-        "id": "R27Yun6FtF",
-        "title": "Последняя обойма",
-        "author": "Прокудин Николай, Волков Александр",
-        "notes": "Слабоватый сюжет.  Трилогия Прокудина про Рейдовый батальон во сто раз лучше.",
-        "createdAt": "2019-07-21 06:22:36",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 116
         }
     }
 }

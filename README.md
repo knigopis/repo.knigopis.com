@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Посторонний ~ [Quaff](users/122/12267158-vkontakte)<sup>60</sup>
+    > История о равнодушном человеке
+
 * Осиная ферма ~ [Quaff](users/122/12267158-vkontakte)<sup>59</sup>
     > Очень интересная книга об опыте над личностью
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Много воды, очень много воды, а суть в последней главе
 
 * Кей Дач. Трилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>128</sup>
-    > Важны точки отсчета,  а не их высота
 
 * Пойди поставь сторожа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Оральный секс.Секреты взрывных ощущений ~ [kissamasya](users/684/68439978-vkontakte)<sup>68</sup>
 
-* Текст из пяти магнитофонных кассет, надиктованных академиком Легасовым. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>59</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>60</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>716</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>111</sup> 
 [Bogdan](users/100/100001618474012-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dkezikov](users/665/665843812-yandex)<sup>1</sup> 
 
 
-_05.08.2019 17:57:23_
+_06.08.2019 15:24:07_
