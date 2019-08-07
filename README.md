@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>172</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>717</sup> 
 [neccochi](users/667/66767060-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>74</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>19</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>90</sup> 
-[](users/113/113895218432924460489-google)<sup>0</sup> 
 
 
-_07.08.2019 07:03:05_
+_07.08.2019 08:53:19_

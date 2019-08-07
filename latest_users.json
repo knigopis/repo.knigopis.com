@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 172,
+        "updatedAt": "2019-08-07 08:53:18"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 90,
         "updatedAt": "2019-07-24 10:08:00"
-    },
-    "113895218432924460489-google": {
-        "id": "113895218432924460489-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-07-23 20:14:13"
     }
 }
