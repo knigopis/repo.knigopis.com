@@ -1,4 +1,10 @@
 {
+    "7002759394-instagram": {
+        "id": "7002759394-instagram",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-08-07 09:11:21"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "submerged fish",
         "booksCount": 19,
         "updatedAt": "2019-07-25 01:36:29"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 90,
-        "updatedAt": "2019-07-24 10:08:00"
     }
 }
