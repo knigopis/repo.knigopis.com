@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жалобная книга ~ [violet_velva](users/116/116961712580551399099-google)<sup>64</sup>
+    > Как можно было таким низкопробным языком написать книгу?! Сюжет очень интересный и идея хорошая, но качество написания очень плохое.
+
 * ГОРОД МЕЧТАЮЩИХ КНИГ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
     > 461стр.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > История о равнодушном человеке
 
 * Осиная ферма ~ [Quaff](users/122/12267158-vkontakte)<sup>59</sup>
-    > Очень интересная книга об опыте над личностью
 
 * Сто лет одиночества ~ [Quaff](users/122/12267158-vkontakte)<sup>58</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * ****Дебют в Ехо**** ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>20</sup>
 
-* В ожидании бури: южный Кавказ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>64</sup> 
 [](users/700/7002759394-instagram)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>172</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Klepa055](users/110/110874063852183520490-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>227</sup> 
 [En](users/333/333646551-vkontakte)<sup>74</sup> 
-[submerged fish](users/471/471364154-yandex)<sup>19</sup> 
 
 
-_07.08.2019 09:11:24_
+_07.08.2019 14:44:26_

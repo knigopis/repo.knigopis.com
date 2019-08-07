@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-google": {
+        "id": "116961712580551399099-google",
+        "nickname": "violet_velva",
+        "booksCount": 64,
+        "updatedAt": "2019-08-07 14:44:26"
+    },
     "7002759394-instagram": {
         "id": "7002759394-instagram",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 74,
         "updatedAt": "2019-07-25 11:20:37"
-    },
-    "471364154-yandex": {
-        "id": "471364154-yandex",
-        "nickname": "submerged fish",
-        "booksCount": 19,
-        "updatedAt": "2019-07-25 01:36:29"
     }
 }
