@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* ГОРОД МЕЧТАЮЩИХ КНИГ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
 * Посторонний ~ [Quaff](users/122/12267158-vkontakte)<sup>60</sup>
 * Осиная ферма ~ [Quaff](users/122/12267158-vkontakte)<sup>59</sup>
 * Сто лет одиночества ~ [Quaff](users/122/12267158-vkontakte)<sup>58</sup>
@@ -30,7 +31,6 @@
 * Пиши, сокращай. Как создавать сильный текст ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>205</sup>
 * Улитка на склоне ~ [Quaff](users/122/12267158-vkontakte)<sup>56</sup>
 * Кровь, пот и пиксели ~ [rNix](users/227/22742452-yandex)<sup>66</sup>
-* Открывая организации будущего ~ [rNix](users/227/22742452-yandex)<sup>65</sup>
 
 
-_06.08.2019 15:24:07_
+_07.08.2019 07:03:05_

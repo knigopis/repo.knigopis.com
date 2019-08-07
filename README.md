@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ГОРОД МЕЧТАЮЩИХ КНИГ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
+    > 461стр.
+
 * Посторонний ~ [Quaff](users/122/12267158-vkontakte)<sup>60</sup>
     > История о равнодушном человеке
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень интересная книга об опыте над личностью
 
 * Сто лет одиночества ~ [Quaff](users/122/12267158-vkontakte)<sup>58</sup>
-    > Много воды, очень много воды, а суть в последней главе
 
 * Кей Дач. Трилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>128</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * В ожидании бури: южный Кавказ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup>
 
-* Оральный секс.Секреты взрывных ощущений ~ [kissamasya](users/684/68439978-vkontakte)<sup>68</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>717</sup> 
 [neccochi](users/667/66767060-vkontakte)<sup>1</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>60</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>9</sup> 
 [Klepa055](users/110/110874063852183520490-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>227</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>79</sup> 
 [En](users/333/333646551-vkontakte)<sup>74</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>19</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>90</sup> 
 [](users/113/113895218432924460489-google)<sup>0</sup> 
 
 
-_07.08.2019 04:15:28_
+_07.08.2019 07:03:05_
