@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>717</sup> 
 [neccochi](users/667/66767060-vkontakte)<sup>1</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>60</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>716</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>111</sup> 
 [Bogdan](users/100/100001618474012-facebook)<sup>0</sup> 
 [](users/113/113385419764153208171-google)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113895218432924460489-google)<sup>0</sup> 
 
 
-_06.08.2019 17:14:21_
+_07.08.2019 04:15:28_
