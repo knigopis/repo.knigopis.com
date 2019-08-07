@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Зависть кукушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>129</sup>
 * Жалобная книга ~ [violet_velva](users/116/116961712580551399099-google)<sup>64</sup>
 * ГОРОД МЕЧТАЮЩИХ КНИГ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
 * Посторонний ~ [Quaff](users/122/12267158-vkontakte)<sup>60</sup>
@@ -30,7 +31,6 @@
 * Проповеди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>207</sup>
 * Практическая характерология ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>206</sup>
 * Пиши, сокращай. Как создавать сильный текст ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>205</sup>
-* Улитка на склоне ~ [Quaff](users/122/12267158-vkontakte)<sup>56</sup>
 
 
-_07.08.2019 14:44:26_
+_07.08.2019 19:08:15_

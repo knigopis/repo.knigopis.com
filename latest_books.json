@@ -1,4 +1,16 @@
 {
+    "JBHNdBMODD": {
+        "id": "JBHNdBMODD",
+        "title": "Зависть кукушки",
+        "author": "Акимова Анна",
+        "notes": "милый детектив. почти семейная сага",
+        "createdAt": "2019-08-07 19:08:15",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 129
+        }
+    },
     "W6NRieH81M": {
         "id": "W6NRieH81M",
         "title": "Жалобная книга",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 30
-        }
-    },
-    "MkH8J2x_it": {
-        "id": "MkH8J2x_it",
-        "title": "Цветы для Элджернона",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2019-07-31 16:52:31",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 58
         }
     }
 }

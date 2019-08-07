@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зависть кукушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>129</sup>
+    > милый детектив. почти семейная сага
+
 * Жалобная книга ~ [violet_velva](users/116/116961712580551399099-google)<sup>64</sup>
     > Как можно было таким низкопробным языком написать книгу?! Сюжет очень интересный и идея хорошая, но качество написания очень плохое.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 461стр.
 
 * Посторонний ~ [Quaff](users/122/12267158-vkontakte)<sup>60</sup>
-    > История о равнодушном человеке
 
 * Осиная ферма ~ [Quaff](users/122/12267158-vkontakte)<sup>59</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Безмолвный пациент ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>21</sup>
 
-* ****Дебют в Ехо**** ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>129</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>64</sup> 
 [](users/700/7002759394-instagram)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>172</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>111</sup> 
 [Bogdan](users/100/100001618474012-facebook)<sup>0</sup> 
 [](users/113/113385419764153208171-google)<sup>2</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>128</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
 [designnat](users/514/5143815-vkontakte)<sup>1</sup> 
 [@Nika.book](users/101/101397067906124622805-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>74</sup> 
 
 
-_07.08.2019 14:44:26_
+_07.08.2019 19:08:15_

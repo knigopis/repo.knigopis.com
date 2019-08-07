@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>128</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>129</sup>
 ---
 
 ## 2019
+
+### Зависть кукушки
+Акимова Анна
+> [2019-08-07] милый детектив. почти семейная сага
+
 
 ### Кей Дач. Трилогия
 Лукьяненко Сергей
