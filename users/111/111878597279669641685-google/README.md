@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>115</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>116</sup>
 ---
 
 ## 2019
+
+### Чёрный человек
+Сергей Есенин
+> [2019-08-08] 
+
 
 ### Который из трёх?
 Антон Чехов
