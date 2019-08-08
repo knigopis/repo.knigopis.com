@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 227,
+        "updatedAt": "2019-08-08 19:17:39"
+    },
     "12267158-vkontakte": {
         "id": "12267158-vkontakte",
         "nickname": "Quaff",
@@ -172,11 +178,5 @@
         "nickname": "Егор Прохоров",
         "booksCount": 19,
         "updatedAt": "2019-07-28 20:52:32"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 34,
-        "updatedAt": "2019-07-28 15:32:38"
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники Амбера. Пятикнижие Корвина.Знак Единорога ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
+    > Разборки между детьми Оберона продолжаются, черная дорога протянулась через все Тени, Брана вытащили из заточения. Но вопросов у Корвина всё больше.
+
 * Евгений Онегин ~ [Quaff](users/122/12267158-vkontakte)<sup>62</sup>
     > Жизненная и интересная история в стихах
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Увлекательное повествование о форме псих расстройства или реального 4Д существования
 
 * Зависть кукушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>129</sup>
-    > милый детектив. почти семейная сага
 
 * Жалобная книга ~ [violet_velva](users/116/116961712580551399099-google)<sup>64</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кей Дач. Трилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>128</sup>
 
-* Пойди поставь сторожа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>227</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>62</sup> 
 [](users/102/102192880596368244877-googleplus)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>32</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Vix](users/109/109445053149434997046-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>60</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>19</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>34</sup> 
 
 
-_08.08.2019 18:20:56_
+_08.08.2019 19:17:39_
