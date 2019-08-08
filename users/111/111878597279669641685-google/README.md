@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>111</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>112</sup>
 ---
 
 ## 2019
+
+### Ежик. История о напрасной суете
+Григорий Горин
+> [2019-08-08] 
+
 
 ### Горе от Ума
 Александр Грибоедов
