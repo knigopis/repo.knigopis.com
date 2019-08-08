@@ -1,7 +1,12 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>61</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>62</sup>
 ---
 
 ## 2019
+
+### Евгений Онегин
+Александр Пушкин
+> [2019-08-08] Жизненная и интересная история в стихах
+
 
 ### Бойня №5
 Курт Воннегурт

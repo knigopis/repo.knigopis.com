@@ -1,4 +1,16 @@
 {
+    "BIVwe1kgnL": {
+        "id": "BIVwe1kgnL",
+        "title": "Евгений Онегин",
+        "author": "Александр Пушкин",
+        "notes": "Жизненная и интересная история в стихах",
+        "createdAt": "2019-08-08 18:20:56",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 62
+        }
+    },
     "ArzKvVaqSc": {
         "id": "ArzKvVaqSc",
         "title": "Бойня №5",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 108
-        }
-    },
-    "niwrywkPoX": {
-        "id": "niwrywkPoX",
-        "title": "Литературный призрак",
-        "author": "Дэвид Митчелл",
-        "notes": "",
-        "createdAt": "2019-08-02 16:29:20",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 715
         }
     }
 }

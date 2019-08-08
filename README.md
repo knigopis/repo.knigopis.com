@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Евгений Онегин ~ [Quaff](users/122/12267158-vkontakte)<sup>62</sup>
+    > Жизненная и интересная история в стихах
+
 * Бойня №5 ~ [Quaff](users/122/12267158-vkontakte)<sup>61</sup>
     > Увлекательное повествование о форме псих расстройства или реального 4Д существования
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > милый детектив. почти семейная сага
 
 * Жалобная книга ~ [violet_velva](users/116/116961712580551399099-google)<sup>64</sup>
-    > Как можно было таким низкопробным языком написать книгу?! Сюжет очень интересный и идея хорошая, но качество написания очень плохое.
 
 * ГОРОД МЕЧТАЮЩИХ КНИГ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пойди поставь сторожа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup>
 
-* Властелин Морморы. История, рассказанная сэром Джуффином Халли ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>22</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>61</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>62</sup> 
 [](users/102/102192880596368244877-googleplus)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>32</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>18</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>34</sup> 
 
 
-_08.08.2019 18:16:48_
+_08.08.2019 18:20:56_

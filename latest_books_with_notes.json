@@ -1,4 +1,16 @@
 {
+    "BIVwe1kgnL": {
+        "id": "BIVwe1kgnL",
+        "title": "Евгений Онегин",
+        "author": "Александр Пушкин",
+        "notes": "Жизненная и интересная история в стихах",
+        "createdAt": "2019-08-08 18:20:56",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 62
+        }
+    },
     "ArzKvVaqSc": {
         "id": "ArzKvVaqSc",
         "title": "Бойня №5",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 207
-        }
-    },
-    "osbn-rg3Cn": {
-        "id": "osbn-rg3Cn",
-        "title": "Практическая характерология",
-        "author": "Виктор Пономаренко",
-        "notes": "в процессе",
-        "createdAt": "2019-07-22 21:57:43",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 206
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Евгений Онегин ~ [Quaff](users/122/12267158-vkontakte)<sup>62</sup>
 * Бойня №5 ~ [Quaff](users/122/12267158-vkontakte)<sup>61</sup>
 * Зависть кукушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>129</sup>
 * Жалобная книга ~ [violet_velva](users/116/116961712580551399099-google)<sup>64</sup>
@@ -30,7 +31,6 @@
 * Хищницы ~ [Chiffi](users/105/105831994080785626680-google)<sup>126</sup>
 * Эффективное коммерческое предложение ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>208</sup>
 * Проповеди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>207</sup>
-* Практическая характерология ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>206</sup>
 
 
-_08.08.2019 18:16:48_
+_08.08.2019 18:20:56_
