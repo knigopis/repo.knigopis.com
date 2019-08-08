@@ -1,4 +1,10 @@
 {
+    "177017519607634-facebook": {
+        "id": "177017519607634-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-08-08 11:52:28"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 227,
         "updatedAt": "2019-07-25 16:57:54"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 74,
-        "updatedAt": "2019-07-25 11:20:37"
     }
 }
