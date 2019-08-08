@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[konitz68](users/220/220598790-vkontakte)<sup>0</sup> 
 [](users/177/177017519607634-facebook)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>116</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>129</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>34</sup> 
 [](users/110/110931306939441771638-google)<sup>9</sup> 
 [Klepa055](users/110/110874063852183520490-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>227</sup> 
 
 
-_08.08.2019 11:52:31_
+_08.08.2019 12:08:02_
