@@ -1,4 +1,10 @@
 {
+    "102192880596368244877-googleplus": {
+        "id": "102192880596368244877-googleplus",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-08-08 16:53:20"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 34,
         "updatedAt": "2019-07-28 15:32:38"
-    },
-    "110931306939441771638-google": {
-        "id": "110931306939441771638-google",
-        "nickname": null,
-        "booksCount": 9,
-        "updatedAt": "2019-07-26 13:25:24"
     }
 }
