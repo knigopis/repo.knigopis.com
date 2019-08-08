@@ -11,7 +11,7 @@
 !!!
 
 ### `100` http://11book.ru/
-Учебники!!!
+!!!
 
 ### `100` https://www.adme.ru/tvorchestvo-pisateli/230-genialnyh-knig-kotorye-nado-prochitat-v-svoej-zhizni-860810/
 !!!
