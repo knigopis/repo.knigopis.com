@@ -1,4 +1,16 @@
 {
+    "V6d_URVTHG": {
+        "id": "V6d_URVTHG",
+        "title": "Щегол",
+        "author": "Донна Тартт",
+        "notes": "",
+        "createdAt": "2019-08-08 16:17:42",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 32
+        }
+    },
     "47I_7eLuhO": {
         "id": "47I_7eLuhO",
         "title": "Дом правительства",
@@ -344,18 +356,6 @@
         "user": {
             "id": "5143815-vkontakte",
             "nickname": "designnat",
-            "booksCount": 1
-        }
-    },
-    "GgtUxiMVxN": {
-        "id": "GgtUxiMVxN",
-        "title": "Таймлесс",
-        "author": "Керстин Гир",
-        "notes": "",
-        "createdAt": "2019-08-01 17:28:09",
-        "user": {
-            "id": "101397067906124622805-google",
-            "nickname": "@Nika.book",
             "booksCount": 1
         }
     }

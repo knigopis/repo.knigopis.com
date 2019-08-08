@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>32</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>18</sup> 
 [konitz68](users/220/220598790-vkontakte)<sup>0</sup> 
 [](users/177/177017519607634-facebook)<sup>0</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
 [designnat](users/514/5143815-vkontakte)<sup>1</sup> 
 [@Nika.book](users/101/101397067906124622805-google)<sup>1</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>31</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup> 
 [youno](users/302/302928912-vkontakte)<sup>27</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>100</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>9</sup> 
 
 
-_08.08.2019 16:04:39_
+_08.08.2019 16:17:42_
