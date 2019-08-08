@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бойня №5 ~ [Quaff](users/122/12267158-vkontakte)<sup>61</sup>
+    > Увлекательное повествование о форме псих расстройства или реального 4Д существования
+
 * Зависть кукушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>129</sup>
     > милый детектив. почти семейная сага
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Как можно было таким низкопробным языком написать книгу?! Сюжет очень интересный и идея хорошая, но качество написания очень плохое.
 
 * ГОРОД МЕЧТАЮЩИХ КНИГ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
-    > 461стр.
 
 * Посторонний ~ [Quaff](users/122/12267158-vkontakte)<sup>60</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Властелин Морморы. История, рассказанная сэром Джуффином Халли ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>22</sup>
 
-* Безмолвный пациент ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>21</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>61</sup> 
 [](users/102/102192880596368244877-googleplus)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>32</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>18</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>717</sup> 
 [neccochi](users/667/66767060-vkontakte)<sup>1</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>60</sup> 
 [Bogdan](users/100/100001618474012-facebook)<sup>0</sup> 
 [](users/113/113385419764153208171-google)<sup>2</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>34</sup> 
 
 
-_08.08.2019 16:53:23_
+_08.08.2019 18:16:48_

@@ -1,4 +1,16 @@
 {
+    "ArzKvVaqSc": {
+        "id": "ArzKvVaqSc",
+        "title": "Бойня №5",
+        "author": "Курт Воннегурт",
+        "notes": "Увлекательное повествование о форме псих расстройства или реального 4Д существования",
+        "createdAt": "2019-08-08 18:16:48",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 61
+        }
+    },
     "V6d_URVTHG": {
         "id": "V6d_URVTHG",
         "title": "Щегол",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 715
-        }
-    },
-    "keCjhLYwHi": {
-        "id": "keCjhLYwHi",
-        "title": "Моя спальня, она же кабинет",
-        "author": "Джоанна Торнхилл",
-        "notes": "",
-        "createdAt": "2019-08-01 17:39:34",
-        "user": {
-            "id": "5143815-vkontakte",
-            "nickname": "designnat",
-            "booksCount": 1
         }
     }
 }
