@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/102/102192880596368244877-googleplus)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>32</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>18</sup> 
 [konitz68](users/220/220598790-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>60</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>19</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>34</sup> 
-[](users/110/110931306939441771638-google)<sup>9</sup> 
 
 
-_08.08.2019 16:17:42_
+_08.08.2019 16:53:23_
