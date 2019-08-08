@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 18,
+        "updatedAt": "2019-08-08 16:04:39"
+    },
     "220598790-vkontakte": {
         "id": "220598790-vkontakte",
         "nickname": "konitz68",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 9,
         "updatedAt": "2019-07-26 13:25:24"
-    },
-    "110874063852183520490-google": {
-        "id": "110874063852183520490-google",
-        "nickname": "Klepa055",
-        "booksCount": 0,
-        "updatedAt": "2019-07-26 11:09:56"
     }
 }
