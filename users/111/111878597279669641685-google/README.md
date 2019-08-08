@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>114</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>115</sup>
 ---
 
 ## 2019
@@ -170,6 +170,10 @@
 
 
 ## Other years
+
+### Путешествия Гулливера
+Джонатан Свифт
+
 
 ### Метель
 Александр Пушкин

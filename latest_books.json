@@ -1,4 +1,16 @@
 {
+    "ZZyYqKWgRN": {
+        "id": "ZZyYqKWgRN",
+        "title": "Путешествия Гулливера",
+        "author": "Джонатан Свифт",
+        "notes": "",
+        "createdAt": "2019-08-08 10:20:34",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 115
+        }
+    },
     "QH08gAiKeq": {
         "id": "QH08gAiKeq",
         "title": "Метель",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 210
-        }
-    },
-    "bDk8ZgeeCb": {
-        "id": "bDk8ZgeeCb",
-        "title": "Свобода воли, которой не существует",
-        "author": "Сэм Харрис",
-        "notes": "",
-        "createdAt": "2019-08-01 09:06:57",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 27
         }
     }
 }
