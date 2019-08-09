@@ -1,4 +1,16 @@
 {
+    "7LE2bD_3_f": {
+        "id": "7LE2bD_3_f",
+        "title": "Кінець зміни",
+        "author": "Стівен Кінг",
+        "notes": "10/10 Остання справа дет. пенс. Хлджеса.",
+        "createdAt": "2019-08-09 12:58:02",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 46
+        }
+    },
     "k8rePGf7aG": {
         "id": "k8rePGf7aG",
         "title": "Хроники Амбера. Пятикнижие Корвина. Ружья Авалона",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 57
-        }
-    },
-    "oLLGhGq0xI": {
-        "id": "oLLGhGq0xI",
-        "title": "Хищницы",
-        "author": "Лурье Лев",
-        "notes": "было очень интересно читать - исторические расследования.",
-        "createdAt": "2019-07-24 18:01:29",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 126
         }
     }
 }

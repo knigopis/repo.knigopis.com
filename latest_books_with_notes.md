@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кінець зміни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup>
 * Хроники Амбера. Пятикнижие Корвина. Ружья Авалона ~ [Garka](users/115/115753719718250012620-google)<sup>228</sup>
 * Хроники Амбера. Пятикнижие Корвина.Знак Единорога ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
 * Евгений Онегин ~ [Quaff](users/122/12267158-vkontakte)<sup>62</sup>
@@ -30,7 +31,6 @@
 * Патруль времени ~ [En](users/333/333646551-vkontakte)<sup>73</sup>
 * Обнаженное солнце ~ [En](users/333/333646551-vkontakte)<sup>72</sup>
 * Лолита ~ [Quaff](users/122/12267158-vkontakte)<sup>57</sup>
-* Хищницы ~ [Chiffi](users/105/105831994080785626680-google)<sup>126</sup>
 
 
-_08.08.2019 19:20:53_
+_09.08.2019 12:58:02_

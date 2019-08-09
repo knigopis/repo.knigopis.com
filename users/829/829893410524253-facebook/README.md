@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>45</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>46</sup>
 ---
 
 ## 2019
+
+### Кінець зміни
+Стівен Кінг
+> [2019-08-09] 10/10 Остання справа дет. пенс. Хлджеса.
+
 
 ### Текст из пяти магнитофонных кассет, надиктованных академиком Легасовым.
 Адамович Алесь

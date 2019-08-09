@@ -1,4 +1,16 @@
 {
+    "7LE2bD_3_f": {
+        "id": "7LE2bD_3_f",
+        "title": "Кінець зміни",
+        "author": "Стівен Кінг",
+        "notes": "10/10 Остання справа дет. пенс. Хлджеса.",
+        "createdAt": "2019-08-09 12:58:02",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 46
+        }
+    },
     "gx-OEbW-f2": {
         "id": "gx-OEbW-f2",
         "title": "Ходячий замок",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 128
-        }
-    },
-    "tiDVXGjy61": {
-        "id": "tiDVXGjy61",
-        "title": "Пойди поставь сторожа",
-        "author": "Харпер Ли",
-        "notes": "ISBN 978-5-17-092966-5",
-        "createdAt": "2019-08-03 10:46:57",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 23
         }
     }
 }

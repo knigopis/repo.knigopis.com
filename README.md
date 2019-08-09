@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кінець зміни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup>
+    > 10/10 Остання справа дет. пенс. Хлджеса.
+
 * Хроники Амбера. Пятикнижие Корвина. Ружья Авалона ~ [Garka](users/115/115753719718250012620-google)<sup>228</sup>
     > Корвин возвращается в Авалон. Появляется некая Дара, в которой тоже течёт кровь королевской семьи Амбера, но кто она никто не знает. Дара проходит Образ и заявляет, что Амбер будет уничтожен.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Разборки между детьми Оберона продолжаются, черная дорога протянулась через все Тени, Брана вытащили из заточения. Но вопросов у Корвина всё больше.
 
 * Евгений Онегин ~ [Quaff](users/122/12267158-vkontakte)<sup>62</sup>
-    > Жизненная и интересная история в стихах
 
 * Бойня №5 ~ [Quaff](users/122/12267158-vkontakte)<sup>61</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Осиная ферма ~ [Quaff](users/122/12267158-vkontakte)<sup>59</sup>
 
-* Сто лет одиночества ~ [Quaff](users/122/12267158-vkontakte)<sup>58</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>117</sup> 
 [youno](users/302/302928912-vkontakte)<sup>28</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>228</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>100</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>58</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>68</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>45</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>3</sup> 
 [Vix](users/109/109445053149434997046-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>60</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>19</sup> 
 
 
-_09.08.2019 05:09:28_
+_09.08.2019 12:58:02_
