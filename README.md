@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>33</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>117</sup> 
 [youno](users/302/302928912-vkontakte)<sup>28</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>228</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>62</sup> 
 [](users/102/102192880596368244877-googleplus)<sup>0</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>32</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>18</sup> 
 [konitz68](users/220/220598790-vkontakte)<sup>0</sup> 
 [](users/177/177017519607634-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>19</sup> 
 
 
-_09.08.2019 12:58:02_
+_09.08.2019 20:50:01_
