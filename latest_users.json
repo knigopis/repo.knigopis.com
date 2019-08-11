@@ -1,4 +1,10 @@
 {
+    "2336755-vkontakte": {
+        "id": "2336755-vkontakte",
+        "nickname": "katrinvredina",
+        "booksCount": 91,
+        "updatedAt": "2019-08-11 18:57:28"
+    },
     "7103025-vkontakte": {
         "id": "7103025-vkontakte",
         "nickname": "victor.gvozdikov",
@@ -172,11 +178,5 @@
         "nickname": "dilost",
         "booksCount": 3,
         "updatedAt": "2019-07-30 13:51:54"
-    },
-    "109445053149434997046-google": {
-        "id": "109445053149434997046-google",
-        "nickname": "Vix",
-        "booksCount": 0,
-        "updatedAt": "2019-07-29 20:06:06"
     }
 }
