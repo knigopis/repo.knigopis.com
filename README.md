@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[victor.gvozdikov](users/710/7103025-vkontakte)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>44</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>65</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>33</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>68</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>3</sup> 
 [Vix](users/109/109445053149434997046-google)<sup>0</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>60</sup> 
 
 
-_11.08.2019 16:47:13_
+_11.08.2019 17:28:04_
