@@ -1,4 +1,10 @@
 {
+    "7103025-vkontakte": {
+        "id": "7103025-vkontakte",
+        "nickname": "victor.gvozdikov",
+        "booksCount": 0,
+        "updatedAt": "2019-08-11 17:28:01"
+    },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",
         "nickname": "vladkozz",
@@ -172,11 +178,5 @@
         "nickname": "Vix",
         "booksCount": 0,
         "updatedAt": "2019-07-29 20:06:06"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 60,
-        "updatedAt": "2019-07-29 07:17:24"
     }
 }
