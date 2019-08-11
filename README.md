@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>44</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>65</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>43</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>33</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>117</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>60</sup> 
 
 
-_11.08.2019 09:20:02_
+_11.08.2019 16:47:13_

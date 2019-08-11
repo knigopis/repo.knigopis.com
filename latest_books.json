@@ -1,4 +1,16 @@
 {
+    "F6SWR6wjhX": {
+        "id": "F6SWR6wjhX",
+        "title": "Перевал Дятлова",
+        "author": "Анна Матвеева",
+        "notes": "",
+        "createdAt": "2019-08-11 16:47:13",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 44
+        }
+    },
     "Co1BY-TW9n": {
         "id": "Co1BY-TW9n",
         "title": "Преступление Сильвестра Бонара, академика",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 110
-        }
-    },
-    "Ib5P4U6v1b": {
-        "id": "Ib5P4U6v1b",
-        "title": "О любви и смерти",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2019-08-03 23:12:14",
-        "user": {
-            "id": "113385419764153208171-google",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
