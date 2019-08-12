@@ -1,4 +1,10 @@
 {
+    "112079165243671676533-google": {
+        "id": "112079165243671676533-google",
+        "nickname": "Altan",
+        "booksCount": 0,
+        "updatedAt": "2019-08-12 09:02:25"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 68,
         "updatedAt": "2019-07-31 16:46:48"
-    },
-    "10206471247373307-facebook": {
-        "id": "10206471247373307-facebook",
-        "nickname": "dilost",
-        "booksCount": 3,
-        "updatedAt": "2019-07-30 13:51:54"
     }
 }
