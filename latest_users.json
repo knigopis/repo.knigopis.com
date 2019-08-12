@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 40,
+        "updatedAt": "2019-08-12 10:11:17"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "~ARHANGEL~",
         "booksCount": 58,
         "updatedAt": "2019-07-31 16:52:31"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 68,
-        "updatedAt": "2019-07-31 16:46:48"
     }
 }

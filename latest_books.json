@@ -1,4 +1,16 @@
 {
+    "msg5zZKoBy": {
+        "id": "msg5zZKoBy",
+        "title": "Азоа",
+        "author": "Григорий Мирошниченко",
+        "notes": "Отличная книга",
+        "createdAt": "2019-08-12 10:11:17",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 40
+        }
+    },
     "hwgGQ4F4dd": {
         "id": "hwgGQ4F4dd",
         "title": "БДВ, или Большой и добрый великан",
@@ -345,18 +357,6 @@
             "id": "66767060-vkontakte",
             "nickname": "neccochi",
             "booksCount": 1
-        }
-    },
-    "_wRSjz_k4J": {
-        "id": "_wRSjz_k4J",
-        "title": "Посторонний",
-        "author": "Альбер Камю",
-        "notes": "История о равнодушном человеке",
-        "createdAt": "2019-08-06 15:24:07",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 60
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Азоа ~ [mfevralev](users/140/140966150-vkontakte)<sup>40</sup>
+    > Отличная книга
+
 * Жнец-2: Испытание ~ [youno](users/302/302928912-vkontakte)<sup>29</sup>
     > Нормуль
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Остання справа дет. пенс. Хлджеса.
 
 * Хроники Амбера. Пятикнижие Корвина. Ружья Авалона ~ [Garka](users/115/115753719718250012620-google)<sup>228</sup>
-    > Корвин возвращается в Авалон. Появляется некая Дара, в которой тоже течёт кровь королевской семьи Амбера, но кто она никто не знает. Дара проходит Образ и заявляет, что Амбер будет уничтожен.
 
 * Хроники Амбера. Пятикнижие Корвина.Знак Единорога ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * ГОРОД МЕЧТАЮЩИХ КНИГ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
 
-* Посторонний ~ [Quaff](users/122/12267158-vkontakte)<sup>60</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>40</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>118</sup> 
 [Altan](users/112/112079165243671676533-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>29</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>100</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>58</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>68</sup> 
 
 
-_12.08.2019 09:54:54_
+_12.08.2019 10:11:17_
