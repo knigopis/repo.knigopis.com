@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>18</sup>
+# List of books read by 4apa<sup>19</sup>
 ---
 
 ## 2019
+
+### Один в океане
+Станислав Курилов
+> [2019-08-08] 
+
 
 ### Дом правительства
 Юрий Слезкин
