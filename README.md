@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Altan](users/112/112079165243671676533-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>29</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>34</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>92</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>100</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>58</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>68</sup> 
-[dilost](users/102/10206471247373307-facebook)<sup>3</sup> 
 
 
-_12.08.2019 03:18:37_
+_12.08.2019 09:02:30_
