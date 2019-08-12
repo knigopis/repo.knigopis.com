@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жнец-2: Испытание ~ [youno](users/302/302928912-vkontakte)<sup>29</sup>
+    > Нормуль
+
 * Кінець зміни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup>
     > 10/10 Остання справа дет. пенс. Хлджеса.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Корвин возвращается в Авалон. Появляется некая Дара, в которой тоже течёт кровь королевской семьи Амбера, но кто она никто не знает. Дара проходит Образ и заявляет, что Амбер будет уничтожен.
 
 * Хроники Амбера. Пятикнижие Корвина.Знак Единорога ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
-    > Разборки между детьми Оберона продолжаются, черная дорога протянулась через все Тени, Брана вытащили из заточения. Но вопросов у Корвина всё больше.
 
 * Евгений Онегин ~ [Quaff](users/122/12267158-vkontakte)<sup>62</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Посторонний ~ [Quaff](users/122/12267158-vkontakte)<sup>60</sup>
 
-* Осиная ферма ~ [Quaff](users/122/12267158-vkontakte)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>29</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>34</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>92</sup> 
 [victor.gvozdikov](users/710/7103025-vkontakte)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>65</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>117</sup> 
-[youno](users/302/302928912-vkontakte)<sup>28</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>228</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>62</sup> 
 [](users/102/102192880596368244877-googleplus)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dilost](users/102/10206471247373307-facebook)<sup>3</sup> 
 
 
-_11.08.2019 20:41:25_
+_12.08.2019 03:18:37_

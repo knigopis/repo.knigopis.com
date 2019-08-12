@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 29,
+        "updatedAt": "2019-08-12 03:18:37"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -40,12 +46,6 @@
         "nickname": "Knigolub~",
         "booksCount": 117,
         "updatedAt": "2019-08-09 05:09:28"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 28,
-        "updatedAt": "2019-08-08 23:20:54"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",

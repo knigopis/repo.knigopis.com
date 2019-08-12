@@ -1,4 +1,16 @@
 {
+    "NHYvHuoidY": {
+        "id": "NHYvHuoidY",
+        "title": "Жнец-2: Испытание",
+        "author": "Нил Шустерман",
+        "notes": "Нормуль",
+        "createdAt": "2019-08-12 03:18:37",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 29
+        }
+    },
     "7LE2bD_3_f": {
         "id": "7LE2bD_3_f",
         "title": "Кінець зміни",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 72
-        }
-    },
-    "DzThpxXQGv": {
-        "id": "DzThpxXQGv",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "Интересная и неожиданная исповедь педофила",
-        "createdAt": "2019-07-24 18:14:52",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 57
         }
     }
 }

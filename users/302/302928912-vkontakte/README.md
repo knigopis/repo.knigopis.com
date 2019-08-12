@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>28</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>29</sup>
 ---
 
 ## 2019
+
+### Жнец-2: Испытание
+Нил Шустерман
+> [2019-08-12] Нормуль
+
 
 ### Бояться, но делать
 Брэндон Уэбб и Джон Дэвид Манн
