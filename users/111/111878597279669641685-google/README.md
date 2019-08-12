@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>117</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>118</sup>
 ---
 
 ## 2019
+
+### БДВ, или Большой и добрый великан
+Роальд Даль
+> [2019-08-12] 
+
 
 ### Чёрный человек
 Сергей Есенин

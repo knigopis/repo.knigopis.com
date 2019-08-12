@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>118</sup> 
 [Altan](users/112/112079165243671676533-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>29</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>34</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>44</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>65</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>117</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>228</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>62</sup> 
 [](users/102/102192880596368244877-googleplus)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>68</sup> 
 
 
-_12.08.2019 09:02:30_
+_12.08.2019 09:54:54_
