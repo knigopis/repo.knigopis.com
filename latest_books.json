@@ -1,4 +1,16 @@
 {
+    "jx2OvTqOno": {
+        "id": "jx2OvTqOno",
+        "title": "Роберт Мартин",
+        "author": "Чистая архитектура",
+        "notes": "",
+        "createdAt": "2019-08-13 05:21:33",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 120
+        }
+    },
     "ii1ycqvHdv": {
         "id": "ii1ycqvHdv",
         "title": "Скотный двор",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 129
-        }
-    },
-    "W6NRieH81M": {
-        "id": "W6NRieH81M",
-        "title": "Жалобная книга",
-        "author": "Макс Фрай",
-        "notes": "Как можно было таким низкопробным языком написать книгу?! Сюжет очень интересный и идея хорошая, но качество написания очень плохое.",
-        "createdAt": "2019-08-07 14:44:26",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 64
         }
     }
 }
