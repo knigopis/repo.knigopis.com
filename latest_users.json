@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 61,
+        "updatedAt": "2019-08-13 09:52:47"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 210,
         "updatedAt": "2019-08-01 16:12:48"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 100,
-        "updatedAt": "2019-07-31 20:31:09"
     }
 }

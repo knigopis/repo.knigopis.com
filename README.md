@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Каждый вдох ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup>
+    > " Уинстон Черчилль говорил, что тревога- это ручеек страха, текущий через разум, и, если ей позволять, она прорежет глубокое русло, куда канут все прочие мысли "
+
 * Азоа ~ [mfevralev](users/140/140966150-vkontakte)<sup>40</sup>
     > Отличная книга
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Нормуль
 
 * Кінець зміни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup>
-    > 10/10 Остання справа дет. пенс. Хлджеса.
 
 * Хроники Амбера. Пятикнижие Корвина. Ружья Авалона ~ [Garka](users/115/115753719718250012620-google)<sup>228</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Жалобная книга ~ [violet_velva](users/116/116961712580551399099-google)<sup>64</sup>
 
-* ГОРОД МЕЧТАЮЩИХ КНИГ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>120</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>19</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>40</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [designnat](users/514/5143815-vkontakte)<sup>1</sup> 
 [@Nika.book](users/101/101397067906124622805-google)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>100</sup> 
 
 
-_13.08.2019 05:21:33_
+_13.08.2019 09:52:47_
