@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>118</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>119</sup>
 ---
 
 ## 2019
+
+### Скотный двор
+Джордж Оруэл
+> [2019-07-11] 
+
 
 ### Angular для профессионалов
 Адам Фримен
