@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>116</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>117</sup>
 ---
 
 ## 2019
+
+### Оно
+Стивен Кинг
+> [2019-07] 
+
 
 ### Чистый код
 Роберт Мартин

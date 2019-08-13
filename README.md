@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>117</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>19</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>40</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>118</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [@Nika.book](users/101/101397067906124622805-google)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>100</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>58</sup> 
 
 
-_12.08.2019 15:51:51_
+_13.08.2019 05:19:15_
