@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>117</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>118</sup>
 ---
 
 ## 2019
+
+### Angular для профессионалов
+Адам Фримен
+> [2019-07] 
+
 
 ### Оно
 Стивен Кинг

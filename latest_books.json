@@ -1,4 +1,16 @@
 {
+    "N496rKjVn2": {
+        "id": "N496rKjVn2",
+        "title": "Angular для профессионалов",
+        "author": "Адам Фримен",
+        "notes": "",
+        "createdAt": "2019-08-13 05:19:49",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 118
+        }
+    },
     "mK4Ef0q5FN": {
         "id": "mK4Ef0q5FN",
         "title": "Оно",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 172
-        }
-    },
-    "1Cu8u2bipN": {
-        "id": "1Cu8u2bipN",
-        "title": "ГОРОД МЕЧТАЮЩИХ КНИГ",
-        "author": "Вальтер Моэрс",
-        "notes": "461стр.",
-        "createdAt": "2019-08-07 07:03:05",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 80
         }
     }
 }
