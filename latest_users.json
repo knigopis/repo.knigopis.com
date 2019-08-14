@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 229,
+        "updatedAt": "2019-08-14 17:14:01"
+    },
     "112077200253370688481-google": {
         "id": "112077200253370688481-google",
         "nickname": null,
@@ -88,12 +94,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 46,
         "updatedAt": "2019-08-09 12:58:02"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 228,
-        "updatedAt": "2019-08-08 19:20:52"
     },
     "12267158-vkontakte": {
         "id": "12267158-vkontakte",

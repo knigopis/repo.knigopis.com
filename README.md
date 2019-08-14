@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники Амбера. Пятикнижие Корвина. Рука Оберона ~ [Garka](users/115/115753719718250012620-google)<sup>229</sup>
+    > Дети Оберона объединяются (ну почти все) для защиты Амбера. Скандалы, интриги, расследования... А стоит за всем сам Оберон
+
 * Каждый вдох ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup>
     > " Уинстон Черчилль говорил, что тревога- это ручеек страха, текущий через разум, и, если ей позволять, она прорежет глубокое русло, куда канут все прочие мысли "
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Отличная книга
 
 * Жнец-2: Испытание ~ [youno](users/302/302928912-vkontakte)<sup>29</sup>
-    > Нормуль
 
 * Кінець зміни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Зависть кукушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>129</sup>
 
-* Жалобная книга ~ [violet_velva](users/116/116961712580551399099-google)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>229</sup> 
 [](users/112/112077200253370688481-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>173</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>121</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>44</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>65</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>228</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>62</sup> 
 [](users/102/102192880596368244877-googleplus)<sup>0</sup> 
 [konitz68](users/220/220598790-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [@Nika.book](users/101/101397067906124622805-google)<sup>1</sup> 
 
 
-_14.08.2019 16:15:50_
+_14.08.2019 17:14:01_

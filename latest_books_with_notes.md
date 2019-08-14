@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хроники Амбера. Пятикнижие Корвина. Рука Оберона ~ [Garka](users/115/115753719718250012620-google)<sup>229</sup>
 * Каждый вдох ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup>
 * Азоа ~ [mfevralev](users/140/140966150-vkontakte)<sup>40</sup>
 * Жнец-2: Испытание ~ [youno](users/302/302928912-vkontakte)<sup>29</sup>
@@ -30,7 +31,6 @@
 * Единственная книга по брендингу ~ [youno](users/302/302928912-vkontakte)<sup>26</sup>
 * Хроники Амбера. Пятикнижие Корвина. Девять принцев Амбера ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
 * ВОЗВРАЩЕНИЕ В ПРИЮТ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>79</sup>
-* Понедельник начинается в субботу ~ [En](users/333/333646551-vkontakte)<sup>74</sup>
 
 
-_13.08.2019 09:52:47_
+_14.08.2019 17:14:01_
