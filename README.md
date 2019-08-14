@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/112/112077200253370688481-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>173</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>121</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
 [designnat](users/514/5143815-vkontakte)<sup>1</sup> 
 [@Nika.book](users/101/101397067906124622805-google)<sup>1</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup> 
 
 
-_14.08.2019 08:32:42_
+_14.08.2019 16:15:50_
