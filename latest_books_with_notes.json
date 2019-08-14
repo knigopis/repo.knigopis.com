@@ -1,4 +1,16 @@
 {
+    "ppYTPb8a2Q": {
+        "id": "ppYTPb8a2Q",
+        "title": "Маленькие женщины",
+        "author": "Луиза Мэй Олкотт",
+        "notes": "5/10",
+        "createdAt": "2019-08-14 22:43:50",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 124
+        }
+    },
     "6jkAP46H5a": {
         "id": "6jkAP46H5a",
         "title": "Хроники Амбера. Пятикнижие Корвина. Рука Оберона",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 227
-        }
-    },
-    "8LOPxBHOqC": {
-        "id": "8LOPxBHOqC",
-        "title": "ВОЗВРАЩЕНИЕ В ПРИЮТ",
-        "author": "Мэделин Ру",
-        "notes": "Вторая часть приюта.",
-        "createdAt": "2019-07-25 14:57:28",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 79
         }
     }
 }

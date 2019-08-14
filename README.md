@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маленькие женщины ~ [anvonamore](users/595/5957175-vkontakte)<sup>124</sup>
+    > 5/10
+
 * Хроники Амбера. Пятикнижие Корвина. Рука Оберона ~ [Garka](users/115/115753719718250012620-google)<sup>229</sup>
     > Дети Оберона объединяются (ну почти все) для защиты Амбера. Скандалы, интриги, расследования... А стоит за всем сам Оберон
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > " Уинстон Черчилль говорил, что тревога- это ручеек страха, текущий через разум, и, если ей позволять, она прорежет глубокое русло, куда канут все прочие мысли "
 
 * Азоа ~ [mfevralev](users/140/140966150-vkontakte)<sup>40</sup>
-    > Отличная книга
 
 * Жнец-2: Испытание ~ [youno](users/302/302928912-vkontakte)<sup>29</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Бойня №5 ~ [Quaff](users/122/12267158-vkontakte)<sup>61</sup>
 
-* Зависть кукушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>129</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>124</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>35</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>229</sup> 
 [](users/112/112077200253370688481-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113385419764153208171-google)<sup>2</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
 [designnat](users/514/5143815-vkontakte)<sup>1</sup> 
-[@Nika.book](users/101/101397067906124622805-google)<sup>1</sup> 
 
 
-_14.08.2019 19:24:10_
+_14.08.2019 22:43:50_
