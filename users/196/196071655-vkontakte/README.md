@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>120</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>121</sup>
 ---
 
 ## 2019
+
+### PostgreSQL настройка и масштабирование
+А. Ю. Васильев
+> [2019-08-14] 
+
 
 ### Скотный двор
 Джордж Оруэл
