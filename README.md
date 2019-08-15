@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/110/110999981443018149639-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>124</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>35</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>229</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Bogdan](users/100/100001618474012-facebook)<sup>0</sup> 
 [](users/113/113385419764153208171-google)<sup>2</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
-[designnat](users/514/5143815-vkontakte)<sup>1</sup> 
 
 
-_14.08.2019 22:43:50_
+_15.08.2019 11:37:11_
