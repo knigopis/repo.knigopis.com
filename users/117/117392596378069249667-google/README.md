@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>19</sup>
+# List of books read by 4apa<sup>20</sup>
 ---
 
 ## 2019
+
+### Шаровая молния
+Лю Цысинь
+> [2019-08-15] 
+
 
 ### Один в океане
 Станислав Курилов
