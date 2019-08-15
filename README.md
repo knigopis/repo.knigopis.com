@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>119</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup> 
 [](users/110/110999981443018149639-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>124</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>19</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>40</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>118</sup> 
 [Altan](users/112/112079165243671676533-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>29</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>92</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
 
 
-_15.08.2019 13:55:47_
+_15.08.2019 18:35:01_
