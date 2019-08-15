@@ -1,4 +1,10 @@
 {
+    "69018982-yandex": {
+        "id": "69018982-yandex",
+        "nickname": "vikki-001",
+        "booksCount": 0,
+        "updatedAt": "2019-08-15 18:47:33"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 2,
         "updatedAt": "2019-08-03 23:12:14"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 23,
-        "updatedAt": "2019-08-03 10:46:57"
     }
 }
