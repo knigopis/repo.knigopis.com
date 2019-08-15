@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Коли Ніцше плакав ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup>
 * Маленькие женщины ~ [anvonamore](users/595/5957175-vkontakte)<sup>124</sup>
 * Хроники Амбера. Пятикнижие Корвина. Рука Оберона ~ [Garka](users/115/115753719718250012620-google)<sup>229</sup>
 * Каждый вдох ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup>
@@ -30,7 +31,6 @@
 * Одиночество в сети ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>57</sup>
 * Маркетинг как стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup>
 * Единственная книга по брендингу ~ [youno](users/302/302928912-vkontakte)<sup>26</sup>
-* Хроники Амбера. Пятикнижие Корвина. Девять принцев Амбера ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
 
 
-_14.08.2019 22:43:50_
+_15.08.2019 13:55:47_

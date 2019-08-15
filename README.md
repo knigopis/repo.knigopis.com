@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коли Ніцше плакав ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup>
+    > 6/10 початки психотерапії.
+
 * Маленькие женщины ~ [anvonamore](users/595/5957175-vkontakte)<sup>124</sup>
     > 5/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Дети Оберона объединяются (ну почти все) для защиты Амбера. Скандалы, интриги, расследования... А стоит за всем сам Оберон
 
 * Каждый вдох ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup>
-    > " Уинстон Черчилль говорил, что тревога- это ручеек страха, текущий через разум, и, если ей позволять, она прорежет глубокое русло, куда канут все прочие мысли "
 
 * Азоа ~ [mfevralev](users/140/140966150-vkontakte)<sup>40</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Евгений Онегин ~ [Quaff](users/122/12267158-vkontakte)<sup>62</sup>
 
-* Бойня №5 ~ [Quaff](users/122/12267158-vkontakte)<sup>61</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup> 
 [](users/110/110999981443018149639-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>124</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>35</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [victor.gvozdikov](users/710/7103025-vkontakte)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>44</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>65</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>62</sup> 
 [](users/102/102192880596368244877-googleplus)<sup>0</sup> 
 [konitz68](users/220/220598790-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
 
 
-_15.08.2019 11:38:22_
+_15.08.2019 13:55:47_

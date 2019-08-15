@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>46</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>47</sup>
 ---
 
 ## 2019
+
+### Коли Ніцше плакав
+Ірвін Ялом
+> [2019-08-17] 6/10 початки психотерапії.
+
 
 ### Кінець зміни
 Стівен Кінг
