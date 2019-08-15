@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vikki-001](users/690/69018982-yandex)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>119</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup> 
 [](users/110/110999981443018149639-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [neccochi](users/667/66767060-vkontakte)<sup>1</sup> 
 [Bogdan](users/100/100001618474012-facebook)<sup>0</sup> 
 [](users/113/113385419764153208171-google)<sup>2</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
 
 
-_15.08.2019 18:35:01_
+_15.08.2019 18:47:36_
