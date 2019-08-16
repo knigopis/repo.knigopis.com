@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The Apprentice ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup>
 * ЗАГАДКА СФИНКСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
 * Коли Ніцше плакав ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup>
 * Маленькие женщины ~ [anvonamore](users/595/5957175-vkontakte)<sup>124</sup>
@@ -30,7 +31,6 @@
 * Когда отдыхают ангелы ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
 * Кайнозой (Квази-2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>127</sup>
 * Одиночество в сети ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>57</sup>
-* Маркетинг как стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>209</sup>
 
 
-_16.08.2019 11:50:49_
+_16.08.2019 19:56:51_

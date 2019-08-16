@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Apprentice ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup>
+    > 7/10 Maniak hunting women.
+
 * ЗАГАДКА СФИНКСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
     > 392 стр.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 початки психотерапії.
 
 * Маленькие женщины ~ [anvonamore](users/595/5957175-vkontakte)<sup>124</sup>
-    > 5/10
 
 * Хроники Амбера. Пятикнижие Корвина. Рука Оберона ~ [Garka](users/115/115753719718250012620-google)<sup>229</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Хроники Амбера. Пятикнижие Корвина. Ружья Авалона ~ [Garka](users/115/115753719718250012620-google)<sup>228</sup>
 
-* Хроники Амбера. Пятикнижие Корвина.Знак Единорога ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>121</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>145</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>20</sup> 
 [vikki-001](users/690/69018982-yandex)<sup>1</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup> 
 [](users/110/110999981443018149639-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>124</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>35</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Bogdan](users/100/100001618474012-facebook)<sup>0</sup> 
 
 
-_16.08.2019 15:07:13_
+_16.08.2019 19:56:51_

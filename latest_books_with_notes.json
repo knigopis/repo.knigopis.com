@@ -1,4 +1,16 @@
 {
+    "UrPkpvzhkF": {
+        "id": "UrPkpvzhkF",
+        "title": "The Apprentice",
+        "author": "Tess Gerritsen",
+        "notes": "7/10 Maniak hunting women.",
+        "createdAt": "2019-08-16 19:56:51",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 48
+        }
+    },
     "-78XdrWkR9": {
         "id": "-78XdrWkR9",
         "title": "ЗАГАДКА СФИНКСА",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 57
-        }
-    },
-    "l2hXH1mh1p": {
-        "id": "l2hXH1mh1p",
-        "title": "Маркетинг как стратегия",
-        "author": "Нирмалия Кумар",
-        "notes": "в процессе",
-        "createdAt": "2019-07-26 22:31:11",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 209
         }
     }
 }

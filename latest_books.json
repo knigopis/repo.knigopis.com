@@ -1,4 +1,16 @@
 {
+    "UrPkpvzhkF": {
+        "id": "UrPkpvzhkF",
+        "title": "The Apprentice",
+        "author": "Tess Gerritsen",
+        "notes": "7/10 Maniak hunting women.",
+        "createdAt": "2019-08-16 19:56:51",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 48
+        }
+    },
     "OVuWkq5NGG": {
         "id": "OVuWkq5NGG",
         "title": "В дурном обществе",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 43
-        }
-    },
-    "PH1C0__pCn": {
-        "id": "PH1C0__pCn",
-        "title": "Супруги по соседству",
-        "author": "Шери Лапенья",
-        "notes": "",
-        "createdAt": "2019-08-09 20:50:01",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 33
         }
     }
 }
