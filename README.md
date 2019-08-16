@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ЗАГАДКА СФИНКСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
+    > 392 стр.
+
 * Коли Ніцше плакав ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup>
     > 6/10 початки психотерапії.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10
 
 * Хроники Амбера. Пятикнижие Корвина. Рука Оберона ~ [Garka](users/115/115753719718250012620-google)<sup>229</sup>
-    > Дети Оберона объединяются (ну почти все) для защиты Амбера. Скандалы, интриги, расследования... А стоит за всем сам Оберон
 
 * Каждый вдох ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Хроники Амбера. Пятикнижие Корвина.Знак Единорога ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
 
-* Евгений Онегин ~ [Quaff](users/122/12267158-vkontakte)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>145</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>20</sup> 
 [vikki-001](users/690/69018982-yandex)<sup>1</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/177/177017519607634-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>129</sup> 
 [](users/700/7002759394-instagram)<sup>0</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>717</sup> 
 [neccochi](users/667/66767060-vkontakte)<sup>1</sup> 
 [Bogdan](users/100/100001618474012-facebook)<sup>0</sup> 
 
 
-_16.08.2019 05:47:37_
+_16.08.2019 11:50:49_

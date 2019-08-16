@@ -1,4 +1,16 @@
 {
+    "-78XdrWkR9": {
+        "id": "-78XdrWkR9",
+        "title": "ЗАГАДКА СФИНКСА",
+        "author": "Грэм Хэнкок",
+        "notes": "392 стр.",
+        "createdAt": "2019-08-16 11:50:49",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 80
+        }
+    },
     "7-nJlDVnKa": {
         "id": "7-nJlDVnKa",
         "title": "Коли Ніцше плакав",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 209
-        }
-    },
-    "L4MLzH-3cZ": {
-        "id": "L4MLzH-3cZ",
-        "title": "Единственная книга по брендингу",
-        "author": "Мишель Маандаг, Лииса Пуолакка",
-        "notes": "Ну хз, коротко, понятно, недостаточно подробно.",
-        "createdAt": "2019-07-26 12:22:45",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 26
         }
     }
 }
