@@ -1,4 +1,16 @@
 {
+    "OVuWkq5NGG": {
+        "id": "OVuWkq5NGG",
+        "title": "В дурном обществе",
+        "author": "Владимир Короленко",
+        "notes": "",
+        "createdAt": "2019-08-16 15:07:13",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 121
+        }
+    },
     "5YRIWidzWv": {
         "id": "5YRIWidzWv",
         "title": "Косцы",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 33
-        }
-    },
-    "7LE2bD_3_f": {
-        "id": "7LE2bD_3_f",
-        "title": "Кінець зміни",
-        "author": "Стівен Кінг",
-        "notes": "10/10 Остання справа дет. пенс. Хлджеса.",
-        "createdAt": "2019-08-09 12:58:02",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 46
         }
     }
 }
