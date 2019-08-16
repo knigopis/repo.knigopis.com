@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>144</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>145</sup>
 ---
 
 ## 2019
+
+### Рука Сфинкса
+Джосайя Бэнкрофт
+> [2019-08-13] 
+
 
 ### Подозреваются все
 Иоанна Хмелевская

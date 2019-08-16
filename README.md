@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>145</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>20</sup> 
 [vikki-001](users/690/69018982-yandex)<sup>1</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>119</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>717</sup> 
 [neccochi](users/667/66767060-vkontakte)<sup>1</sup> 
 [Bogdan](users/100/100001618474012-facebook)<sup>0</sup> 
-[](users/113/113385419764153208171-google)<sup>2</sup> 
 
 
-_15.08.2019 19:17:34_
+_16.08.2019 05:47:37_
