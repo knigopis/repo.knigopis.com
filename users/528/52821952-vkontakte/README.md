@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>108</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>109</sup>
 ---
 
 ## 2019
+
+### По направлению к Свану
+Марсель Пруст
+> [2019-07-07] 10/10
+
 
 ### Хоббит, или Туда и Обратно
 Джон Рональд Руэл Толкин

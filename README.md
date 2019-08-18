@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* По направлению к Свану ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
+    > 10/10
+
 * Alibaba. История мирового восхождения от первого лица Подробнее: https://www.labirint.ru/books/586319/ ~ [youno](users/302/302928912-vkontakte)<sup>30</sup>
     > Сухо, много имен и названий фирм. На 3+
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Maniak hunting women.
 
 * ЗАГАДКА СФИНКСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
-    > 392 стр.
 
 * Коли Ніцше плакав ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Жнец-2: Испытание ~ [youno](users/302/302928912-vkontakte)<sup>29</sup>
 
-* Кінець зміни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>109</sup> 
 [youno](users/302/302928912-vkontakte)<sup>30</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>121</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/700/7002759394-instagram)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>717</sup> 
 [neccochi](users/667/66767060-vkontakte)<sup>1</sup> 
-[Bogdan](users/100/100001618474012-facebook)<sup>0</sup> 
 
 
-_18.08.2019 11:09:39_
+_18.08.2019 21:32:01_

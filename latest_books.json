@@ -1,4 +1,16 @@
 {
+    "59QWdYiw_v": {
+        "id": "59QWdYiw_v",
+        "title": "По направлению к Свану",
+        "author": "Марсель Пруст",
+        "notes": "10/10",
+        "createdAt": "2019-08-18 21:32:00",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 109
+        }
+    },
     "ber7cQyL0p": {
         "id": "ber7cQyL0p",
         "title": "Alibaba. История мирового восхождения от первого лица Подробнее: https://www.labirint.ru/books/586319/",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 44
-        }
-    },
-    "Co1BY-TW9n": {
-        "id": "Co1BY-TW9n",
-        "title": "Преступление Сильвестра Бонара, академика",
-        "author": "Анатоль Франс",
-        "notes": "",
-        "createdAt": "2019-08-11 09:20:02",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 65
         }
     }
 }
