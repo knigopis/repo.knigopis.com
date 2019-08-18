@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>29</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>30</sup>
 ---
 
 ## 2019
+
+### Alibaba. История мирового восхождения от первого лица Подробнее: https://www.labirint.ru/books/586319/
+Дункан Кларк
+> [2019-08-18] Сухо, много имен и названий фирм. На 3+
+
 
 ### Жнец-2: Испытание
 Нил Шустерман

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Alibaba. История мирового восхождения от первого лица Подробнее: https://www.labirint.ru/books/586319/ ~ [youno](users/302/302928912-vkontakte)<sup>30</sup>
 * The Apprentice ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup>
 * ЗАГАДКА СФИНКСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
 * Коли Ніцше плакав ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup>
@@ -30,7 +31,6 @@
 * Текст из пяти магнитофонных кассет, надиктованных академиком Легасовым. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>45</sup>
 * Когда отдыхают ангелы ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
 * Кайнозой (Квази-2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>127</sup>
-* Одиночество в сети ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>57</sup>
 
 
-_16.08.2019 19:56:51_
+_18.08.2019 11:09:39_

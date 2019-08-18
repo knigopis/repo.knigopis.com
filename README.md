@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Alibaba. История мирового восхождения от первого лица Подробнее: https://www.labirint.ru/books/586319/ ~ [youno](users/302/302928912-vkontakte)<sup>30</sup>
+    > Сухо, много имен и названий фирм. На 3+
+
 * The Apprentice ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup>
     > 7/10 Maniak hunting women.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 392 стр.
 
 * Коли Ніцше плакав ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup>
-    > 6/10 початки психотерапії.
 
 * Маленькие женщины ~ [anvonamore](users/595/5957175-vkontakte)<sup>124</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кінець зміни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup>
 
-* Хроники Амбера. Пятикнижие Корвина. Ружья Авалона ~ [Garka](users/115/115753719718250012620-google)<sup>228</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>30</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>121</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>40</sup> 
 [Altan](users/112/112079165243671676533-google)<sup>0</sup> 
-[youno](users/302/302928912-vkontakte)<sup>29</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>92</sup> 
 [victor.gvozdikov](users/710/7103025-vkontakte)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Bogdan](users/100/100001618474012-facebook)<sup>0</sup> 
 
 
-_16.08.2019 19:56:51_
+_18.08.2019 11:09:39_

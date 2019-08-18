@@ -1,4 +1,16 @@
 {
+    "ber7cQyL0p": {
+        "id": "ber7cQyL0p",
+        "title": "Alibaba. История мирового восхождения от первого лица Подробнее: https://www.labirint.ru/books/586319/",
+        "author": "Дункан Кларк",
+        "notes": "Сухо, много имен и названий фирм. На 3+",
+        "createdAt": "2019-08-18 11:09:39",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 30
+        }
+    },
     "UrPkpvzhkF": {
         "id": "UrPkpvzhkF",
         "title": "The Apprentice",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 65
-        }
-    },
-    "w8JgyrLLHI": {
-        "id": "w8JgyrLLHI",
-        "title": "Граф Монте-Кристо",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2019-08-10 18:12:58",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 43
         }
     }
 }
