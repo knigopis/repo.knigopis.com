@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники Амбера. Том 1. Пятикнижие Корвина. Владения Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>230</sup>
+    > Битва между Амбером и Хаосом, неожиданная развязка с престолонаследием.
+
 * По направлению к Свану ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
     > 10/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сухо, много имен и названий фирм. На 3+
 
 * The Apprentice ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup>
-    > 7/10 Maniak hunting women.
 
 * ЗАГАДКА СФИНКСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Азоа ~ [mfevralev](users/140/140966150-vkontakte)<sup>40</sup>
 
-* Жнец-2: Испытание ~ [youno](users/302/302928912-vkontakte)<sup>29</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>230</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>718</sup> 
 [JullyJully](users/117/117443283415472077372-google)<sup>24</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110999981443018149639-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>124</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>35</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>229</sup> 
 [](users/112/112077200253370688481-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>173</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>121</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/700/7002759394-instagram)<sup>0</sup> 
 
 
-_19.08.2019 15:24:53_
+_19.08.2019 15:49:41_

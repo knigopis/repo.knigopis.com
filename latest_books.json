@@ -1,4 +1,16 @@
 {
+    "f8kBCIraKW": {
+        "id": "f8kBCIraKW",
+        "title": "Хроники Амбера. Том 1. Пятикнижие Корвина. Владения Хаоса",
+        "author": "Желязны, Роджер",
+        "notes": "Битва между Амбером и Хаосом, неожиданная развязка с престолонаследием.",
+        "createdAt": "2019-08-19 15:49:41",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 230
+        }
+    },
     "g7zlXrZiuQ": {
         "id": "g7zlXrZiuQ",
         "title": "Лабиринт призраков",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 48
-        }
-    },
-    "OVuWkq5NGG": {
-        "id": "OVuWkq5NGG",
-        "title": "В дурном обществе",
-        "author": "Владимир Короленко",
-        "notes": "",
-        "createdAt": "2019-08-16 15:07:13",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 121
         }
     }
 }
