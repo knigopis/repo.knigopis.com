@@ -1,4 +1,16 @@
 {
+    "d8h2GMTZMz": {
+        "id": "d8h2GMTZMz",
+        "title": "Испытание близнецов (Сага о копье)",
+        "author": "Маргарет Уэйс и Трейси Хикмен",
+        "notes": "",
+        "createdAt": "2019-08-19 13:13:45",
+        "user": {
+            "id": "117443283415472077372-google",
+            "nickname": "JullyJully",
+            "booksCount": 17
+        }
+    },
     "U5ThcsbjDZ": {
         "id": "U5ThcsbjDZ",
         "title": "Битва близнецов (Сага о копье)",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 124
-        }
-    },
-    "iTunQceaUT": {
-        "id": "iTunQceaUT",
-        "title": "Стоит только замолчать",
-        "author": "Джесси Болл",
-        "notes": "",
-        "createdAt": "2019-08-14 19:24:10",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 35
         }
     }
 }
