@@ -1,4 +1,4 @@
-# List of books read by [JullyJully](https://plus.google.com/u/0/117443283415472077372/)<sup>3</sup>
+# List of books read by [JullyJully](https://plus.google.com/u/0/117443283415472077372/)<sup>4</sup>
 ---
 
 ## 2019
@@ -11,6 +11,10 @@
 ### Ведьмак: Крещение огнем
 Анжей Сапковский
 > [2019-01] 
+
+
+### Валькирия
+Мария Семенова
 
 
 ### Ведьмак: Владычица озера
