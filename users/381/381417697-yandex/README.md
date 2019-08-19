@@ -1,7 +1,12 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>49</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>50</sup>
 ---
 
 ## 2019
+
+### Бегство от безопасности
+Ричард Бах
+> [2019-08-20] 
+
 
 ### Посторонний
 Альбер Камю

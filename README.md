@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>50</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>230</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>718</sup> 
 [JullyJully](users/117/117443283415472077372-google)<sup>24</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [konitz68](users/220/220598790-vkontakte)<sup>0</sup> 
 [](users/177/177017519607634-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>129</sup> 
-[](users/700/7002759394-instagram)<sup>0</sup> 
 
 
-_19.08.2019 15:49:41_
+_19.08.2019 22:36:43_
