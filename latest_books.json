@@ -1,4 +1,16 @@
 {
+    "hMC3OryvJH": {
+        "id": "hMC3OryvJH",
+        "title": "Призрак оперы",
+        "author": "Гастон Леру",
+        "notes": "",
+        "createdAt": "2019-08-19 13:10:29",
+        "user": {
+            "id": "117443283415472077372-google",
+            "nickname": "JullyJully",
+            "booksCount": 10
+        }
+    },
     "F9DMa10JVW": {
         "id": "F9DMa10JVW",
         "title": "Сильмариллион",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 119
-        }
-    },
-    "N496rKjVn2": {
-        "id": "N496rKjVn2",
-        "title": "Angular для профессионалов",
-        "author": "Адам Фримен",
-        "notes": "",
-        "createdAt": "2019-08-13 05:19:49",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 118
         }
     }
 }
