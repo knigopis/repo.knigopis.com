@@ -1,4 +1,16 @@
 {
+    "XwQ4rho3PU": {
+        "id": "XwQ4rho3PU",
+        "title": "Темная Башня: стрелок",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2019-08-19 13:13:57",
+        "user": {
+            "id": "117443283415472077372-google",
+            "nickname": "JullyJully",
+            "booksCount": 18
+        }
+    },
     "d8h2GMTZMz": {
         "id": "d8h2GMTZMz",
         "title": "Испытание близнецов (Сага о копье)",
@@ -345,18 +357,6 @@
             "id": "110999981443018149639-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "ppYTPb8a2Q": {
-        "id": "ppYTPb8a2Q",
-        "title": "Маленькие женщины",
-        "author": "Луиза Мэй Олкотт",
-        "notes": "5/10",
-        "createdAt": "2019-08-14 22:43:50",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 124
         }
     }
 }
