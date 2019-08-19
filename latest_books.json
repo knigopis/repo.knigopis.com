@@ -1,4 +1,16 @@
 {
+    "M3uLQ6Z4TY": {
+        "id": "M3uLQ6Z4TY",
+        "title": "Ведьмак: Крещение огнем",
+        "author": "Анжей Сапковский",
+        "notes": "",
+        "createdAt": "2019-08-19 13:04:35",
+        "user": {
+            "id": "117443283415472077372-google",
+            "nickname": "JullyJully",
+            "booksCount": 1
+        }
+    },
     "59QWdYiw_v": {
         "id": "59QWdYiw_v",
         "title": "По направлению к Свану",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 91
-        }
-    },
-    "F6SWR6wjhX": {
-        "id": "F6SWR6wjhX",
-        "title": "Перевал Дятлова",
-        "author": "Анна Матвеева",
-        "notes": "",
-        "createdAt": "2019-08-11 16:47:13",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 44
         }
     }
 }
