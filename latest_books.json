@@ -1,4 +1,16 @@
 {
+    "GPJ-gkG_YO": {
+        "id": "GPJ-gkG_YO",
+        "title": "Катрин: Любовь, только Любовь",
+        "author": "Жульетта Бенцони",
+        "notes": "",
+        "createdAt": "2019-08-19 13:12:40",
+        "user": {
+            "id": "117443283415472077372-google",
+            "nickname": "JullyJully",
+            "booksCount": 13
+        }
+    },
     "tE3g8dP4bu": {
         "id": "tE3g8dP4bu",
         "title": "Собор парижской Богоматери",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 121
-        }
-    },
-    "__gKbeRWOH": {
-        "id": "__gKbeRWOH",
-        "title": "Каждый вдох",
-        "author": "Николас Спаркс",
-        "notes": "\" Уинстон Черчилль говорил, что тревога- это ручеек страха, текущий через разум, и, если ей позволять, она прорежет глубокое русло, куда канут все прочие мысли \"",
-        "createdAt": "2019-08-13 09:52:47",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 61
         }
     }
 }
