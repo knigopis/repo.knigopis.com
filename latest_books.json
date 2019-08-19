@@ -1,4 +1,16 @@
 {
+    "6twLsSiwEn": {
+        "id": "6twLsSiwEn",
+        "title": "Обитатели холмов",
+        "author": "Ричард Адамс",
+        "notes": "",
+        "createdAt": "2019-08-19 13:13:03",
+        "user": {
+            "id": "117443283415472077372-google",
+            "nickname": "JullyJully",
+            "booksCount": 14
+        }
+    },
     "GPJ-gkG_YO": {
         "id": "GPJ-gkG_YO",
         "title": "Катрин: Любовь, только Любовь",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 173
-        }
-    },
-    "bbDXfsLY9Y": {
-        "id": "bbDXfsLY9Y",
-        "title": "PostgreSQL настройка и масштабирование",
-        "author": "А. Ю. Васильев",
-        "notes": "",
-        "createdAt": "2019-08-14 04:10:45",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 121
         }
     }
 }
