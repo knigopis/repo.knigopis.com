@@ -1,4 +1,16 @@
 {
+    "DXxBQtAH_c": {
+        "id": "DXxBQtAH_c",
+        "title": "Ведьмак: сезон гроз",
+        "author": "Анжей Сапковский",
+        "notes": "",
+        "createdAt": "2019-08-19 13:09:18",
+        "user": {
+            "id": "117443283415472077372-google",
+            "nickname": "JullyJully",
+            "booksCount": 5
+        }
+    },
     "aakq-9zRMa": {
         "id": "aakq-9zRMa",
         "title": "Валькирия",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 118
-        }
-    },
-    "NHYvHuoidY": {
-        "id": "NHYvHuoidY",
-        "title": "Жнец-2: Испытание",
-        "author": "Нил Шустерман",
-        "notes": "Нормуль",
-        "createdAt": "2019-08-12 03:18:37",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 29
         }
     }
 }
