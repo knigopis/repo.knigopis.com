@@ -1,4 +1,16 @@
 {
+    "j4yssvN3Rx": {
+        "id": "j4yssvN3Rx",
+        "title": "Ветры ангелы и люди",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2019-08-19 13:09:52",
+        "user": {
+            "id": "117443283415472077372-google",
+            "nickname": "JullyJully",
+            "booksCount": 7
+        }
+    },
     "UJ4SJpDfUI": {
         "id": "UJ4SJpDfUI",
         "title": "О любви",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 19
-        }
-    },
-    "msg5zZKoBy": {
-        "id": "msg5zZKoBy",
-        "title": "Азоа",
-        "author": "Григорий Мирошниченко",
-        "notes": "Отличная книга",
-        "createdAt": "2019-08-12 10:11:17",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 40
         }
     }
 }
