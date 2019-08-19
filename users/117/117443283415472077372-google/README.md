@@ -1,12 +1,7 @@
-# List of books read by [JullyJully](https://plus.google.com/u/0/117443283415472077372/)<sup>25</sup>
+# List of books read by [JullyJully](https://plus.google.com/u/0/117443283415472077372/)<sup>24</sup>
 ---
 
 ## 2019
-
-### Ведьмак: башня ласточки
-Анжей Сапковский
-> [2019-01] 
-
 
 ### Ведьмак: Крещение огнем
 Анжей Сапковский
