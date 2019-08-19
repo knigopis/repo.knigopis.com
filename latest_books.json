@@ -1,4 +1,16 @@
 {
+    "ziji4kVy7v": {
+        "id": "ziji4kVy7v",
+        "title": "Темная Башня: извлечение троих",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2019-08-19 13:14:12",
+        "user": {
+            "id": "117443283415472077372-google",
+            "nickname": "JullyJully",
+            "booksCount": 19
+        }
+    },
     "XwQ4rho3PU": {
         "id": "XwQ4rho3PU",
         "title": "Темная Башня: стрелок",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 47
-        }
-    },
-    "ipQVg0dfYe": {
-        "id": "ipQVg0dfYe",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2019-08-15 11:38:22",
-        "user": {
-            "id": "110999981443018149639-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
