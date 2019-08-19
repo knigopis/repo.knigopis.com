@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[JullyJully](users/117/117443283415472077372-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup> 
 [youno](users/302/302928912-vkontakte)<sup>30</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>129</sup> 
 [](users/700/7002759394-instagram)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>717</sup> 
-[neccochi](users/667/66767060-vkontakte)<sup>1</sup> 
 
 
-_18.08.2019 21:32:01_
+_19.08.2019 13:03:51_
