@@ -1,4 +1,16 @@
 {
+    "CktS0Fa0U_": {
+        "id": "CktS0Fa0U_",
+        "title": "",
+        "author": "=",
+        "notes": "",
+        "createdAt": "2019-08-19 13:15:01",
+        "user": {
+            "id": "117443283415472077372-google",
+            "nickname": "JullyJully",
+            "booksCount": 23
+        }
+    },
     "y_aNEI5s-Y": {
         "id": "y_aNEI5s-Y",
         "title": "Темная Башня: ветер сквозь замочную скважину",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 145
-        }
-    },
-    "RpLKjhIkmR": {
-        "id": "RpLKjhIkmR",
-        "title": "Шаровая молния",
-        "author": "Лю Цысинь",
-        "notes": "",
-        "createdAt": "2019-08-15 19:17:34",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 20
         }
     }
 }
