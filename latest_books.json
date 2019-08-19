@@ -1,4 +1,16 @@
 {
+    "UJ4SJpDfUI": {
+        "id": "UJ4SJpDfUI",
+        "title": "О любви",
+        "author": "Михаил Веллер",
+        "notes": "",
+        "createdAt": "2019-08-19 13:09:30",
+        "user": {
+            "id": "117443283415472077372-google",
+            "nickname": "JullyJully",
+            "booksCount": 6
+        }
+    },
     "DXxBQtAH_c": {
         "id": "DXxBQtAH_c",
         "title": "Ведьмак: сезон гроз",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 40
-        }
-    },
-    "hwgGQ4F4dd": {
-        "id": "hwgGQ4F4dd",
-        "title": "БДВ, или Большой и добрый великан",
-        "author": "Роальд Даль",
-        "notes": "",
-        "createdAt": "2019-08-12 09:54:54",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 118
         }
     }
 }
