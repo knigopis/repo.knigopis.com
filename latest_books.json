@@ -1,4 +1,16 @@
 {
+    "3-1AoLGsGR": {
+        "id": "3-1AoLGsGR",
+        "title": "Чайка по имени Джонатан Ливингстон",
+        "author": "Ричард Бах",
+        "notes": "",
+        "createdAt": "2019-08-20 13:45:55",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 122
+        }
+    },
     "pUQsSZ9ERv": {
         "id": "pUQsSZ9ERv",
         "title": "Юные годы медбрата Паровозова",
@@ -345,18 +357,6 @@
             "id": "117443283415472077372-google",
             "nickname": "JullyJully",
             "booksCount": 1
-        }
-    },
-    "59QWdYiw_v": {
-        "id": "59QWdYiw_v",
-        "title": "По направлению к Свану",
-        "author": "Марсель Пруст",
-        "notes": "10/10",
-        "createdAt": "2019-08-18 21:32:00",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 109
         }
     }
 }
