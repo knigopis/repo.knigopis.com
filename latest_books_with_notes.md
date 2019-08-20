@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Государство ~ [Quaff](users/122/12267158-vkontakte)<sup>63</sup>
 * Хроники Амбера. Том 1. Пятикнижие Корвина. Владения Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>230</sup>
 * По направлению к Свану ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
 * Alibaba. История мирового восхождения от первого лица Подробнее: https://www.labirint.ru/books/586319/ ~ [youno](users/302/302928912-vkontakte)<sup>30</sup>
@@ -30,7 +31,6 @@
 * ****Дебют в Ехо**** ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>20</sup>
 * В ожидании бури: южный Кавказ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup>
 * Оральный секс.Секреты взрывных ощущений ~ [kissamasya](users/684/68439978-vkontakte)<sup>68</sup>
-* Текст из пяти магнитофонных кассет, надиктованных академиком Легасовым. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>45</sup>
 
 
-_19.08.2019 15:49:41_
+_20.08.2019 15:55:37_

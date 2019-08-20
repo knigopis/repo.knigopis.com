@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Государство ~ [Quaff](users/122/12267158-vkontakte)<sup>63</sup>
+    > Превосходящее все ожидание обсуждение справедливости и справедливого человека в идеальном государстве
+
 * Хроники Амбера. Том 1. Пятикнижие Корвина. Владения Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>230</sup>
     > Битва между Амбером и Хаосом, неожиданная развязка с престолонаследием.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * Alibaba. История мирового восхождения от первого лица Подробнее: https://www.labirint.ru/books/586319/ ~ [youno](users/302/302928912-vkontakte)<sup>30</sup>
-    > Сухо, много имен и названий фирм. На 3+
 
 * The Apprentice ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Каждый вдох ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup>
 
-* Азоа ~ [mfevralev](users/140/140966150-vkontakte)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>63</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>122</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>174</sup> 
 [me](users/381/381417697-yandex)<sup>50</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [victor.gvozdikov](users/710/7103025-vkontakte)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>44</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>65</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>62</sup> 
 [](users/102/102192880596368244877-googleplus)<sup>0</sup> 
 [konitz68](users/220/220598790-vkontakte)<sup>0</sup> 
 [](users/177/177017519607634-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>129</sup> 
 
 
-_20.08.2019 13:45:55_
+_20.08.2019 15:55:37_
