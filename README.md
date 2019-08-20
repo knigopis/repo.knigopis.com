@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пикник на обочине ~ [Quaff](users/122/12267158-vkontakte)<sup>64</sup>
+    > Интересная история о зоне инопланетного посещения. Сталкер тема.
+
 * Государство ~ [Quaff](users/122/12267158-vkontakte)<sup>63</sup>
     > Превосходящее все ожидание обсуждение справедливости и справедливого человека в идеальном государстве
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Битва между Амбером и Хаосом, неожиданная развязка с престолонаследием.
 
 * По направлению к Свану ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
-    > 10/10
 
 * Alibaba. История мирового восхождения от первого лица Подробнее: https://www.labirint.ru/books/586319/ ~ [youno](users/302/302928912-vkontakte)<sup>30</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Хроники Амбера. Пятикнижие Корвина. Рука Оберона ~ [Garka](users/115/115753719718250012620-google)<sup>229</sup>
 
-* Каждый вдох ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>63</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>64</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>122</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>174</sup> 
 [me](users/381/381417697-yandex)<sup>50</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>129</sup> 
 
 
-_20.08.2019 15:55:37_
+_20.08.2019 15:57:11_
