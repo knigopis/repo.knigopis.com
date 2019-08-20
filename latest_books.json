@@ -1,4 +1,16 @@
 {
+    "pUQsSZ9ERv": {
+        "id": "pUQsSZ9ERv",
+        "title": "Юные годы медбрата Паровозова",
+        "author": "Алексей Моторов",
+        "notes": "",
+        "createdAt": "2019-08-20 11:42:43",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 174
+        }
+    },
     "Pp5zm76p4G": {
         "id": "Pp5zm76p4G",
         "title": "Бегство от безопасности",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 109
-        }
-    },
-    "ber7cQyL0p": {
-        "id": "ber7cQyL0p",
-        "title": "Alibaba. История мирового восхождения от первого лица Подробнее: https://www.labirint.ru/books/586319/",
-        "author": "Дункан Кларк",
-        "notes": "Сухо, много имен и названий фирм. На 3+",
-        "createdAt": "2019-08-18 11:09:39",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 30
         }
     }
 }
