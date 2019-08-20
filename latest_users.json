@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 719,
+        "updatedAt": "2019-08-20 19:44:39"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -46,12 +52,6 @@
         "nickname": "Garka",
         "booksCount": 230,
         "updatedAt": "2019-08-19 15:49:41"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 718,
-        "updatedAt": "2019-08-19 15:24:52"
     },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",

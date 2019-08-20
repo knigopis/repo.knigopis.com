@@ -1,4 +1,16 @@
 {
+    "HNL9BRBAtl": {
+        "id": "HNL9BRBAtl",
+        "title": "Искусство жить просто. Как избавиться от лишнего и обогатить свою жизнь",
+        "author": "Доминик Лоро",
+        "notes": "",
+        "createdAt": "2019-08-20 19:44:39",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 719
+        }
+    },
     "RhYhLd6cKY": {
         "id": "RhYhLd6cKY",
         "title": "Чужак",
@@ -345,18 +357,6 @@
             "id": "117443283415472077372-google",
             "nickname": "JullyJully",
             "booksCount": 7
-        }
-    },
-    "UJ4SJpDfUI": {
-        "id": "UJ4SJpDfUI",
-        "title": "О любви",
-        "author": "Михаил Веллер",
-        "notes": "",
-        "createdAt": "2019-08-19 13:09:30",
-        "user": {
-            "id": "117443283415472077372-google",
-            "nickname": "JullyJully",
-            "booksCount": 6
         }
     }
 }
