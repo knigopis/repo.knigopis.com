@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>36</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>22</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>64</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>122</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vikki-001](users/690/69018982-yandex)<sup>1</sup> 
 [](users/110/110999981443018149639-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>124</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>35</sup> 
 [](users/112/112077200253370688481-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>121</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/177/177017519607634-facebook)<sup>0</sup> 
 
 
-_20.08.2019 18:14:53_
+_20.08.2019 19:16:37_

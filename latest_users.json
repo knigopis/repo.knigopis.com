@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 36,
+        "updatedAt": "2019-08-20 19:16:37"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -100,12 +106,6 @@
         "nickname": "anvonamore",
         "booksCount": 124,
         "updatedAt": "2019-08-14 22:43:50"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 35,
-        "updatedAt": "2019-08-14 19:24:10"
     },
     "112077200253370688481-google": {
         "id": "112077200253370688481-google",
