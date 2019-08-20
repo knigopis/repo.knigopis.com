@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>22</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>23</sup>
 ---
 
 ## 2019
+
+### Чужак
+Макс Фрай
+> [2019-08] 
+
 
 ### Пойди поставь сторожа
 Харпер Ли

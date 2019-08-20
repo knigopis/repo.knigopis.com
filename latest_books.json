@@ -1,4 +1,16 @@
 {
+    "RhYhLd6cKY": {
+        "id": "RhYhLd6cKY",
+        "title": "Чужак",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2019-08-20 19:28:27",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 23
+        }
+    },
     "Oj8PHA5HdI": {
         "id": "Oj8PHA5HdI",
         "title": "Ведьмак: башня ласточки",
@@ -345,18 +357,6 @@
             "id": "117443283415472077372-google",
             "nickname": "JullyJully",
             "booksCount": 6
-        }
-    },
-    "DXxBQtAH_c": {
-        "id": "DXxBQtAH_c",
-        "title": "Ведьмак: сезон гроз",
-        "author": "Анжей Сапковский",
-        "notes": "",
-        "createdAt": "2019-08-19 13:09:18",
-        "user": {
-            "id": "117443283415472077372-google",
-            "nickname": "JullyJully",
-            "booksCount": 5
         }
     }
 }
