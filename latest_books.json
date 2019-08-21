@@ -1,4 +1,16 @@
 {
+    "oaNGiZnYlE": {
+        "id": "oaNGiZnYlE",
+        "title": "Огненная роза",
+        "author": "Карлос Руис Сафон",
+        "notes": "",
+        "createdAt": "2019-08-21 08:49:35",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 720
+        }
+    },
     "HNL9BRBAtl": {
         "id": "HNL9BRBAtl",
         "title": "Искусство жить просто. Как избавиться от лишнего и обогатить свою жизнь",
@@ -345,18 +357,6 @@
             "id": "117443283415472077372-google",
             "nickname": "JullyJully",
             "booksCount": 8
-        }
-    },
-    "j4yssvN3Rx": {
-        "id": "j4yssvN3Rx",
-        "title": "Ветры ангелы и люди",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2019-08-19 13:09:52",
-        "user": {
-            "id": "117443283415472077372-google",
-            "nickname": "JullyJully",
-            "booksCount": 7
         }
     }
 }
