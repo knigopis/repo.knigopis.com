@@ -1,4 +1,10 @@
 {
+    "6820689443874545064-mailru": {
+        "id": "6820689443874545064-mailru",
+        "nickname": "Антон Тетенёв",
+        "booksCount": 0,
+        "updatedAt": "2019-08-24 10:14:44"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "konitz68",
         "booksCount": 0,
         "updatedAt": "2019-08-08 12:07:57"
-    },
-    "177017519607634-facebook": {
-        "id": "177017519607634-facebook",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-08-08 11:52:28"
     }
 }
