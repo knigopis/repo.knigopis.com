@@ -1,4 +1,16 @@
 {
+    "dFz7Mi9OFb": {
+        "id": "dFz7Mi9OFb",
+        "title": "Предчувствие конца",
+        "author": "Джулиан Барнс",
+        "notes": "",
+        "createdAt": "2019-08-25 11:42:32",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 722
+        }
+    },
     "yyHQYpuHR_": {
         "id": "yyHQYpuHR_",
         "title": "Уровень жизни",
@@ -345,18 +357,6 @@
             "id": "117443283415472077372-google",
             "nickname": "JullyJully",
             "booksCount": 13
-        }
-    },
-    "tE3g8dP4bu": {
-        "id": "tE3g8dP4bu",
-        "title": "Собор парижской Богоматери",
-        "author": "Виктор Гюго",
-        "notes": "",
-        "createdAt": "2019-08-19 13:11:28",
-        "user": {
-            "id": "117443283415472077372-google",
-            "nickname": "JullyJully",
-            "booksCount": 12
         }
     }
 }

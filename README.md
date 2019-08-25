@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>722</sup> 
 [Антон Тетенёв](users/682/6820689443874545064-mailru)<sup>2</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>721</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>37</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup> 
 [JullyJully](users/117/117443283415472077372-google)<sup>25</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [konitz68](users/220/220598790-vkontakte)<sup>0</sup> 
 
 
-_24.08.2019 10:46:49_
+_25.08.2019 11:42:34_
