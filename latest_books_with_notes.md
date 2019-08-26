@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тень и кость ~ [En](users/333/333646551-vkontakte)<sup>75</sup>
 * Пикник на обочине ~ [Quaff](users/122/12267158-vkontakte)<sup>64</sup>
 * Государство ~ [Quaff](users/122/12267158-vkontakte)<sup>63</sup>
 * Хроники Амбера. Том 1. Пятикнижие Корвина. Владения Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>230</sup>
@@ -30,7 +31,6 @@
 * Властелин Морморы. История, рассказанная сэром Джуффином Халли ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>22</sup>
 * Безмолвный пациент ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>21</sup>
 * ****Дебют в Ехо**** ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>20</sup>
-* В ожидании бури: южный Кавказ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>210</sup>
 
 
-_20.08.2019 15:57:11_
+_26.08.2019 12:32:07_

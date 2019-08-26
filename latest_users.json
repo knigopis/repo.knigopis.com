@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 75,
+        "updatedAt": "2019-08-26 12:32:07"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-08-08 16:53:20"
-    },
-    "220598790-vkontakte": {
-        "id": "220598790-vkontakte",
-        "nickname": "konitz68",
-        "booksCount": 0,
-        "updatedAt": "2019-08-08 12:07:57"
     }
 }
