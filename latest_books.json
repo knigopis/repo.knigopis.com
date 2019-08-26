@@ -1,4 +1,16 @@
 {
+    "qsl4MA3tq_": {
+        "id": "qsl4MA3tq_",
+        "title": "Ночь",
+        "author": "Эли Визель",
+        "notes": "",
+        "createdAt": "2019-08-26 06:42:43",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 723
+        }
+    },
     "dFz7Mi9OFb": {
         "id": "dFz7Mi9OFb",
         "title": "Предчувствие конца",
@@ -345,18 +357,6 @@
             "id": "117443283415472077372-google",
             "nickname": "JullyJully",
             "booksCount": 14
-        }
-    },
-    "GPJ-gkG_YO": {
-        "id": "GPJ-gkG_YO",
-        "title": "Катрин: Любовь, только Любовь",
-        "author": "Жульетта Бенцони",
-        "notes": "",
-        "createdAt": "2019-08-19 13:12:40",
-        "user": {
-            "id": "117443283415472077372-google",
-            "nickname": "JullyJully",
-            "booksCount": 13
         }
     }
 }
