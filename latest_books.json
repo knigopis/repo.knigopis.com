@@ -1,4 +1,16 @@
 {
+    "cTqn10PggW": {
+        "id": "cTqn10PggW",
+        "title": "Курс на Марс. Самый реалистичный проект полета к красной планете",
+        "author": "Р. Зубрин",
+        "notes": "",
+        "createdAt": "2019-08-26 15:19:25",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 21
+        }
+    },
     "dDSonNMiGK": {
         "id": "dDSonNMiGK",
         "title": "Тень и кость",
@@ -345,18 +357,6 @@
             "id": "117443283415472077372-google",
             "nickname": "JullyJully",
             "booksCount": 16
-        }
-    },
-    "xZVUUI2343": {
-        "id": "xZVUUI2343",
-        "title": "Час близнецов (Сага о копье)",
-        "author": "Маргарет Уэйс и Трейси Хикмен",
-        "notes": "",
-        "createdAt": "2019-08-19 13:13:22",
-        "user": {
-            "id": "117443283415472077372-google",
-            "nickname": "JullyJully",
-            "booksCount": 15
         }
     }
 }

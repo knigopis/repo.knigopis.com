@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 21,
+        "updatedAt": "2019-08-26 15:19:25"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -94,12 +100,6 @@
         "nickname": "Sky",
         "booksCount": 145,
         "updatedAt": "2019-08-16 05:47:37"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 20,
-        "updatedAt": "2019-08-15 19:17:34"
     },
     "69018982-yandex": {
         "id": "69018982-yandex",
