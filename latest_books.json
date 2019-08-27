@@ -1,4 +1,16 @@
 {
+    "iybKGLN8q7": {
+        "id": "iybKGLN8q7",
+        "title": "Нож",
+        "author": "Ю Несбё",
+        "notes": "",
+        "createdAt": "2019-08-27 18:13:37",
+        "user": {
+            "id": "13984651701920217604-mailru",
+            "nickname": "DanTerent",
+            "booksCount": 1
+        }
+    },
     "HeRrnTMfGk": {
         "id": "HeRrnTMfGk",
         "title": "Метро 2033: Питер",
@@ -341,18 +353,6 @@
         "author": "Стивен Кинг",
         "notes": "",
         "createdAt": "2019-08-19 13:16:20",
-        "user": {
-            "id": "117443283415472077372-google",
-            "nickname": "JullyJully",
-            "booksCount": 24
-        }
-    },
-    "ict4Bt3huc": {
-        "id": "ict4Bt3huc",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-08-19 13:15:21",
         "user": {
             "id": "117443283415472077372-google",
             "nickname": "JullyJully",
