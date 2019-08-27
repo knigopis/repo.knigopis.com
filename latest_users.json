@@ -1,4 +1,10 @@
 {
+    "13984651701920217604-mailru": {
+        "id": "13984651701920217604-mailru",
+        "nickname": "DanTerent",
+        "booksCount": 0,
+        "updatedAt": "2019-08-27 18:12:28"
+    },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",
         "nickname": "vladkozz",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 65,
         "updatedAt": "2019-08-11 09:20:02"
-    },
-    "102192880596368244877-googleplus": {
-        "id": "102192880596368244877-googleplus",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-08-08 16:53:20"
     }
 }
