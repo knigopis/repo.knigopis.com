@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 24,
+        "updatedAt": "2019-08-27 21:08:04"
+    },
     "84060805-vkontakte": {
         "id": "84060805-vkontakte",
         "nickname": "whitecompany",
@@ -52,12 +58,6 @@
         "nickname": "Таньчик",
         "booksCount": 37,
         "updatedAt": "2019-08-22 19:00:31"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 23,
-        "updatedAt": "2019-08-20 19:28:27"
     },
     "117443283415472077372-google": {
         "id": "117443283415472077372-google",
