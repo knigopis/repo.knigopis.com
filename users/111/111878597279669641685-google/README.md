@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>123</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>124</sup>
 ---
 
 ## 2019
@@ -200,6 +200,10 @@
 
 
 ## Other years
+
+### Волшебный мелок
+Синкен Хопп
+
 
 ### Людвиг Четырнадцатый и Тутта Карлссон
 Ян Экхольм
