@@ -1,4 +1,16 @@
 {
+    "HeRrnTMfGk": {
+        "id": "HeRrnTMfGk",
+        "title": "Метро 2033: Питер",
+        "author": "Шевун Врочек",
+        "notes": "",
+        "createdAt": "2019-08-27 15:28:16",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 45
+        }
+    },
     "Pi2tNsvFXI": {
         "id": "Pi2tNsvFXI",
         "title": "Одиссея",
@@ -345,18 +357,6 @@
             "id": "117443283415472077372-google",
             "nickname": "JullyJully",
             "booksCount": 24
-        }
-    },
-    "y_aNEI5s-Y": {
-        "id": "y_aNEI5s-Y",
-        "title": "Темная Башня: ветер сквозь замочную скважину",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2019-08-19 13:14:48",
-        "user": {
-            "id": "117443283415472077372-google",
-            "nickname": "JullyJully",
-            "booksCount": 22
         }
     }
 }
