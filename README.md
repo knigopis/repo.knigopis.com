@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[DanTerent](users/139/13984651701920217604-mailru)<sup>1</sup> 
+[DanTerent](users/139/13984651701920217604-mailru)<sup>2</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>45</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>127</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>21</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>65</sup> 
 
 
-_27.08.2019 18:13:37_
+_27.08.2019 18:15:10_
