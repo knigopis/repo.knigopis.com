@@ -1,4 +1,16 @@
 {
+    "68OFaARJjs": {
+        "id": "68OFaARJjs",
+        "title": "Чапаев и Пустота",
+        "author": "Пелевин Виктор",
+        "notes": "",
+        "createdAt": "2019-08-28 16:32:52",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 120
+        }
+    },
     "JZuWs-Scm2": {
         "id": "JZuWs-Scm2",
         "title": "От косяка до штанги",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 64
-        }
-    },
-    "XmprGxnCBA": {
-        "id": "XmprGxnCBA",
-        "title": "Государство",
-        "author": "Платон",
-        "notes": "Превосходящее все ожидание обсуждение справедливости и справедливого человека в идеальном государстве",
-        "createdAt": "2019-08-20 15:55:37",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 63
         }
     }
 }

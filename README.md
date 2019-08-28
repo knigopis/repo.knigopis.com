@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>119</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>120</sup> 
 [lo_st85](users/176/17659596-vkontakte)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>175</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>24</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Altan](users/112/112079165243671676533-google)<sup>0</sup> 
 
 
-_28.08.2019 16:31:11_
+_28.08.2019 16:32:52_
