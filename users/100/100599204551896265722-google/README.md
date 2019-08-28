@@ -3,7 +3,7 @@
 
 ## 2019
 
-### Operation Dark Heart: Spycraft and Special Ops on the Frontlines of Afghanistan -- and The Path to Victory
+### Operation Dark Heart: Spycraft and Special Ops on the Frontlines of Afghanistan and The Path to Victory
 Anthony Schaffer
 > [2019-08-05] ASIN: B003P9XJX8
 
