@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В'язні зеленої дачі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup>
 * Operation Dark Heart: Spycraft and Special Ops on the Frontlines of Afghanistan -- and The Path to Victory ~ [exulted](users/100/100599204551896265722-google)<sup>117</sup>
 * Тень и кость ~ [En](users/333/333646551-vkontakte)<sup>75</sup>
 * Пикник на обочине ~ [Quaff](users/122/12267158-vkontakte)<sup>64</sup>
@@ -30,7 +31,6 @@
 * Кей Дач. Трилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>128</sup>
 * Пойди поставь сторожа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup>
 * Властелин Морморы. История, рассказанная сэром Джуффином Халли ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>22</sup>
-* Безмолвный пациент ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>21</sup>
 
 
-_28.08.2019 16:24:27_
+_28.08.2019 19:24:42_

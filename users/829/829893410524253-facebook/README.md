@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>48</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>49</sup>
 ---
 
 ## 2019
+
+### В'язні зеленої дачі
+Володимир Лис
+> [2019-08-28] 7/10 Помилки минулого тягнуться за тобою.
+
 
 ### Коли Ніцше плакав
 Ірвін Ялом

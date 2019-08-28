@@ -1,4 +1,16 @@
 {
+    "8ezNcK2Pm3": {
+        "id": "8ezNcK2Pm3",
+        "title": "В'язні зеленої дачі",
+        "author": "Володимир Лис",
+        "notes": "7/10 Помилки минулого тягнуться за тобою.",
+        "createdAt": "2019-08-28 19:24:42",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 49
+        }
+    },
     "68OFaARJjs": {
         "id": "68OFaARJjs",
         "title": "Чапаев и Пустота",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 36
-        }
-    },
-    "rhRnimursN": {
-        "id": "rhRnimursN",
-        "title": "Пикник на обочине",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "Интересная история о зоне инопланетного посещения. Сталкер тема.",
-        "createdAt": "2019-08-20 15:57:11",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 64
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "8ezNcK2Pm3": {
+        "id": "8ezNcK2Pm3",
+        "title": "В'язні зеленої дачі",
+        "author": "Володимир Лис",
+        "notes": "7/10 Помилки минулого тягнуться за тобою.",
+        "createdAt": "2019-08-28 19:24:42",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 49
+        }
+    },
     "aID1IoyWc8": {
         "id": "aID1IoyWc8",
         "title": "Operation Dark Heart: Spycraft and Special Ops on the Frontlines of Afghanistan -- and The Path to Victory",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 22
-        }
-    },
-    "A40y4f9AdP": {
-        "id": "A40y4f9AdP",
-        "title": "Безмолвный пациент",
-        "author": "Алекс Михаэлидес",
-        "notes": "ISBN 978-5-04-097345-3\n\"Выбирать любимого человека - примерно то же, что выбирать психотерапевта. А именно - прямо ответить на несколько вопросов: будет ли этот человек честен со мной, адекватно ли воспримет критику, сумеет ли признать свои ошибки и не станет ли давать неисполнимые обещания?\"",
-        "createdAt": "2019-08-03 10:39:44",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 21
         }
     }
 }

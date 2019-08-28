@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В'язні зеленої дачі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup>
+    > 7/10 Помилки минулого тягнуться за тобою.
+
 * Operation Dark Heart: Spycraft and Special Ops on the Frontlines of Afghanistan -- and The Path to Victory ~ [exulted](users/100/100599204551896265722-google)<sup>117</sup>
     > ASIN: B003P9XJX8
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Окруженная врагами, некогда великая страна Равка разделена Тенистым Каньоном - полосой непроницаемой темноты, кишащей монстрами, которые жаждут человеческой плоти. И теперь судьба нации в руках одинокой девушки Алины Старковой. Алина не ждала слишком многого от жизни. Оставшись сиротой в результате приграничной войны, она уверена только в одном человеке - своем лучшем друге по имени Мал.
 
 * Пикник на обочине ~ [Quaff](users/122/12267158-vkontakte)<sup>64</sup>
-    > Интересная история о зоне инопланетного посещения. Сталкер тема.
 
 * Государство ~ [Quaff](users/122/12267158-vkontakte)<sup>63</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * ЗАГАДКА СФИНКСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
 
-* Коли Ніцше плакав ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
 [lo_st85](users/176/17659596-vkontakte)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>175</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>230</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup> 
 [youno](users/302/302928912-vkontakte)<sup>30</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>145</sup> 
 [vikki-001](users/690/69018982-yandex)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Altan](users/112/112079165243671676533-google)<sup>0</sup> 
 
 
-_28.08.2019 16:32:52_
+_28.08.2019 19:24:42_
