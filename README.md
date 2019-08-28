@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lo_st85](users/176/17659596-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>175</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>24</sup> 
 [whitecompany](users/840/84060805-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>40</sup> 
 [Altan](users/112/112079165243671676533-google)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>92</sup> 
-[victor.gvozdikov](users/710/7103025-vkontakte)<sup>0</sup> 
 
 
-_28.08.2019 07:20:50_
+_28.08.2019 07:24:08_
