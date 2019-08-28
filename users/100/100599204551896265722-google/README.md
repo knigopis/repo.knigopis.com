@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>117</sup>
+# Список прочитанных книг пользователя exulted<sup>118</sup>
 ---
 
 ## 2019
+
+### Каспий, 1920 год
+Исаков Иван Степанович
+> [2019-08-11] 
+
 
 ### Operation Dark Heart: Spycraft and Special Ops on the Frontlines of Afghanistan and The Path to Victory
 Anthony Schaffer
