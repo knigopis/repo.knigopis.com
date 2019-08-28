@@ -1,4 +1,16 @@
 {
+    "LtqdMno1Sc": {
+        "id": "LtqdMno1Sc",
+        "title": "Загадочное ночное убийство собаки",
+        "author": "Майк Хэддон",
+        "notes": "",
+        "createdAt": "2019-08-28 07:20:49",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 175
+        }
+    },
     "gV2LXbJkbU": {
         "id": "gV2LXbJkbU",
         "title": "Волкодав",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 230
-        }
-    },
-    "g7zlXrZiuQ": {
-        "id": "g7zlXrZiuQ",
-        "title": "Лабиринт призраков",
-        "author": "Карлос Руис Сафон",
-        "notes": "",
-        "createdAt": "2019-08-19 15:24:52",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 718
         }
     }
 }

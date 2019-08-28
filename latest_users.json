@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 175,
+        "updatedAt": "2019-08-28 07:20:49"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -70,12 +76,6 @@
         "nickname": "Quaff",
         "booksCount": 64,
         "updatedAt": "2019-08-20 15:57:11"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 174,
-        "updatedAt": "2019-08-20 11:42:43"
     },
     "381417697-yandex": {
         "id": "381417697-yandex",
