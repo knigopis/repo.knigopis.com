@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>118</sup>
+# Список прочитанных книг пользователя exulted<sup>119</sup>
 ---
 
 ## 2019
@@ -6,6 +6,11 @@
 ### Каспий, 1920 год
 Исаков Иван Степанович
 > [2019-08-11] 
+
+
+### От косяка до штанги
+Перец Павл
+> [2019-08-08] 
 
 
 ### Operation Dark Heart: Spycraft and Special Ops on the Frontlines of Afghanistan and The Path to Victory
