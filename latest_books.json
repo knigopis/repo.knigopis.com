@@ -1,4 +1,16 @@
 {
+    "ytrXrmFxjx": {
+        "id": "ytrXrmFxjx",
+        "title": "Код",
+        "author": "Петцольд",
+        "notes": "",
+        "createdAt": "2019-08-28 07:24:35",
+        "user": {
+            "id": "17659596-vkontakte",
+            "nickname": "lo_st85",
+            "booksCount": 1
+        }
+    },
     "LtqdMno1Sc": {
         "id": "LtqdMno1Sc",
         "title": "Загадочное ночное убийство собаки",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 50
-        }
-    },
-    "f8kBCIraKW": {
-        "id": "f8kBCIraKW",
-        "title": "Хроники Амбера. Том 1. Пятикнижие Корвина. Владения Хаоса",
-        "author": "Желязны, Роджер",
-        "notes": "Битва между Амбером и Хаосом, неожиданная развязка с престолонаследием.",
-        "createdAt": "2019-08-19 15:49:41",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 230
         }
     }
 }
