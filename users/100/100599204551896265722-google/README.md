@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>116</sup>
+# Список прочитанных книг пользователя exulted<sup>117</sup>
 ---
 
 ## 2019
+
+### Operation Dark Heart: Spycraft and Special Ops on the Frontlines of Afghanistan -- and The Path to Victory
+Anthony Schaffer
+> [2019-08-05] ASIN: B003P9XJX8
+
 
 ### Последняя обойма
 Прокудин Николай, Волков Александр

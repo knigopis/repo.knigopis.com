@@ -1,4 +1,16 @@
 {
+    "aID1IoyWc8": {
+        "id": "aID1IoyWc8",
+        "title": "Operation Dark Heart: Spycraft and Special Ops on the Frontlines of Afghanistan -- and The Path to Victory",
+        "author": "Anthony Schaffer",
+        "notes": "ASIN: B003P9XJX8",
+        "createdAt": "2019-08-28 16:24:27",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 117
+        }
+    },
     "ytrXrmFxjx": {
         "id": "ytrXrmFxjx",
         "title": "Код",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 174
-        }
-    },
-    "Pp5zm76p4G": {
-        "id": "Pp5zm76p4G",
-        "title": "Бегство от безопасности",
-        "author": "Ричард Бах",
-        "notes": "",
-        "createdAt": "2019-08-19 22:36:43",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 50
         }
     }
 }
