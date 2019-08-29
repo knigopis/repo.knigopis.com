@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Удивительная палеонтология ~ [lucius](users/838/83820536-yandex)<sup>150</sup>
+* Удивительная палеонтология ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
     > Замечательная книга! Затрагивает много научных сфер, рассказывая о происхождении земли и человека в современном представлении. Всем ее рекомендую!
 
 * В'язні зеленої дачі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup>
@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lucius](users/838/83820536-yandex)<sup>150</sup> 
+[lucius](users/838/83820536-yandex)<sup>151</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
 [lo_st85](users/176/17659596-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>40</sup> 
 
 
-_29.08.2019 01:56:46_
+_29.08.2019 01:57:02_

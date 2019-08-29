@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Удивительная палеонтология ~ [lucius](users/838/83820536-yandex)<sup>150</sup>
+* Удивительная палеонтология ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
 * В'язні зеленої дачі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup>
 * Operation Dark Heart: Spycraft and Special Ops on the Frontlines of Afghanistan -- and The Path to Victory ~ [exulted](users/100/100599204551896265722-google)<sup>117</sup>
 * Тень и кость ~ [En](users/333/333646551-vkontakte)<sup>75</sup>
@@ -33,4 +33,4 @@
 * Пойди поставь сторожа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup>
 
 
-_29.08.2019 01:56:46_
+_29.08.2019 01:57:02_
