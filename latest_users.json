@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 150,
+        "updatedAt": "2019-08-29 01:56:46"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 40,
         "updatedAt": "2019-08-12 10:11:17"
-    },
-    "112079165243671676533-google": {
-        "id": "112079165243671676533-google",
-        "nickname": "Altan",
-        "booksCount": 0,
-        "updatedAt": "2019-08-12 09:02:25"
     }
 }
