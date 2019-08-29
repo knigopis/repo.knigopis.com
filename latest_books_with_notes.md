@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Узорный покров ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup>
 * Удивительная палеонтология ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
 * В'язні зеленої дачі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup>
 * Operation Dark Heart: Spycraft and Special Ops on the Frontlines of Afghanistan -- and The Path to Victory ~ [exulted](users/100/100599204551896265722-google)<sup>117</sup>
@@ -30,7 +31,6 @@
 * Осиная ферма ~ [Quaff](users/122/12267158-vkontakte)<sup>59</sup>
 * Сто лет одиночества ~ [Quaff](users/122/12267158-vkontakte)<sup>58</sup>
 * Кей Дач. Трилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>128</sup>
-* Пойди поставь сторожа ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>23</sup>
 
 
-_29.08.2019 01:57:02_
+_29.08.2019 12:34:17_
