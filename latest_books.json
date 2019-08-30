@@ -1,4 +1,16 @@
 {
+    "huMGIItak_": {
+        "id": "huMGIItak_",
+        "title": "Ководство",
+        "author": "Артемий Лебедев",
+        "notes": "8/10",
+        "createdAt": "2019-08-30 16:48:37",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 125
+        }
+    },
     "zjKYeU678c": {
         "id": "zjKYeU678c",
         "title": "Девушка, которая играла с огнем",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 37
-        }
-    },
-    "oaNGiZnYlE": {
-        "id": "oaNGiZnYlE",
-        "title": "Огненная роза",
-        "author": "Карлос Руис Сафон",
-        "notes": "",
-        "createdAt": "2019-08-21 08:49:35",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 720
         }
     }
 }

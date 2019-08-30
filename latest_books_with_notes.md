@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ководство ~ [anvonamore](users/595/5957175-vkontakte)<sup>125</sup>
 * Узорный покров ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup>
 * Удивительная палеонтология ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
 * В'язні зеленої дачі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup>
@@ -30,7 +31,6 @@
 * Посторонний ~ [Quaff](users/122/12267158-vkontakte)<sup>60</sup>
 * Осиная ферма ~ [Quaff](users/122/12267158-vkontakte)<sup>59</sup>
 * Сто лет одиночества ~ [Quaff](users/122/12267158-vkontakte)<sup>58</sup>
-* Кей Дач. Трилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>128</sup>
 
 
-_29.08.2019 12:34:17_
+_30.08.2019 16:48:37_
