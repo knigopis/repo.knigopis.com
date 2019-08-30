@@ -35,12 +35,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>121</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>125</sup> 
 [](users/110/110931306939441771638-google)<sup>11</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup> 
 [lucius](users/838/83820536-yandex)<sup>151</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>120</sup> 
 [lo_st85](users/176/17659596-vkontakte)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>175</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>24</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>121</sup> 
 
 
-_30.08.2019 16:48:37_
+_30.08.2019 18:48:20_

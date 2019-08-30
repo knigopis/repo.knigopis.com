@@ -1,4 +1,16 @@
 {
+    "yyspxgI2Ei": {
+        "id": "yyspxgI2Ei",
+        "title": "Метро 2033",
+        "author": "Глуховский Дмитрий",
+        "notes": "",
+        "createdAt": "2019-08-30 18:48:19",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 121
+        }
+    },
     "huMGIItak_": {
         "id": "huMGIItak_",
         "title": "Ководство",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 721
-        }
-    },
-    "ICJtSzWS5l": {
-        "id": "ICJtSzWS5l",
-        "title": "Девушка во льду",
-        "author": "Роберт Брындза",
-        "notes": "",
-        "createdAt": "2019-08-22 19:00:31",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 37
         }
     }
 }
