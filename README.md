@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/110/110931306939441771638-google)<sup>10</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup> 
 [lucius](users/838/83820536-yandex)<sup>151</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>124</sup> 
 [](users/112/112077200253370688481-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>121</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>40</sup> 
 
 
-_29.08.2019 12:34:17_
+_30.08.2019 05:10:09_
