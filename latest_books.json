@@ -1,4 +1,16 @@
 {
+    "zjKYeU678c": {
+        "id": "zjKYeU678c",
+        "title": "Девушка, которая играла с огнем",
+        "author": "Стиг ЛАРРСОН",
+        "notes": "",
+        "createdAt": "2019-08-30 05:10:53",
+        "user": {
+            "id": "110931306939441771638-google",
+            "nickname": null,
+            "booksCount": 11
+        }
+    },
     "qVowwMUvgi": {
         "id": "qVowwMUvgi",
         "title": "Девушка с татуировкой дракона",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 720
-        }
-    },
-    "HNL9BRBAtl": {
-        "id": "HNL9BRBAtl",
-        "title": "Искусство жить просто. Как избавиться от лишнего и обогатить свою жизнь",
-        "author": "Доминик Лоро",
-        "notes": "",
-        "createdAt": "2019-08-20 19:44:39",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 719
         }
     }
 }
