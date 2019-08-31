@@ -1,4 +1,10 @@
 {
+    "76561198018016919-steam": {
+        "id": "76561198018016919-steam",
+        "nickname": "sible",
+        "booksCount": 0,
+        "updatedAt": "2019-08-31 17:03:29"
+    },
     "64251996-vkontakte": {
         "id": "64251996-vkontakte",
         "nickname": "~ARHANGEL~",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2019-08-15 11:38:22"
-    },
-    "112077200253370688481-google": {
-        "id": "112077200253370688481-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-08-14 16:15:45"
     }
 }
