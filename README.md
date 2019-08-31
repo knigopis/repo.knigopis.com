@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>724</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>121</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>125</sup> 
 [](users/110/110931306939441771638-google)<sup>11</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>127</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>21</sup> 
 [En](users/333/333646551-vkontakte)<sup>75</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>723</sup> 
 [Антон Тетенёв](users/682/6820689443874545064-mailru)<sup>2</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>37</sup> 
 [JullyJully](users/117/117443283415472077372-google)<sup>25</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>121</sup> 
 
 
-_30.08.2019 18:48:20_
+_31.08.2019 06:54:35_
