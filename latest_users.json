@@ -1,4 +1,10 @@
 {
+    "1178872-vkontakte": {
+        "id": "1178872-vkontakte",
+        "nickname": "Alex_lily",
+        "booksCount": 0,
+        "updatedAt": "2019-08-31 19:43:31"
+    },
     "76561198018016919-steam": {
         "id": "76561198018016919-steam",
         "nickname": "sible",
@@ -172,11 +178,5 @@
         "nickname": "vikki-001",
         "booksCount": 1,
         "updatedAt": "2019-08-15 18:51:57"
-    },
-    "110999981443018149639-google": {
-        "id": "110999981443018149639-google",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2019-08-15 11:38:22"
     }
 }
