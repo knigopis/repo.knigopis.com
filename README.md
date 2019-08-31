@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Alex_lily](users/117/1178872-vkontakte)<sup>0</sup> 
 [sible](users/765/76561198018016919-steam)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup> 
 [lucius](users/838/83820536-yandex)<sup>150</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>145</sup> 
 [vikki-001](users/690/69018982-yandex)<sup>1</sup> 
-[](users/110/110999981443018149639-google)<sup>1</sup> 
 
 
-_31.08.2019 17:03:33_
+_31.08.2019 19:43:35_
