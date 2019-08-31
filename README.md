@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кафка на пляже ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup>
+    > Кафка Тамуро, Саэки сан, Осима сан, Наката сан, Хасина сан
+
 * Ководство ~ [anvonamore](users/595/5957175-vkontakte)<sup>125</sup>
     > 8/10
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > "Мне представляется, что на мир, в котором мы живём, можно смотреть без отвращения только потому, что есть красота, которую человек время от времени создаёт из хаоса. Картины, музыка, книги, которые он пишет, жизнь, которую ему удаётся прожить. И больше всего красоты заключено в прекрасно прожитой жизни. Это — самое высокое произведение искусства."
 
 * Удивительная палеонтология ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
-    > Замечательная книга! Затрагивает много научных сфер, рассказывая о происхождении земли и человека в современном представлении. Всем ее рекомендую!
 
 * В'язні зеленої дачі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Хроники Амбера. Том 1. Пятикнижие Корвина. Владения Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>230</sup>
 
-* По направлению к Свану ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup> 
 [lucius](users/838/83820536-yandex)<sup>150</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>724</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>121</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vikki-001](users/690/69018982-yandex)<sup>1</sup> 
 [](users/110/110999981443018149639-google)<sup>1</sup> 
 [](users/112/112077200253370688481-google)<sup>0</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>121</sup> 
 
 
-_31.08.2019 07:02:11_
+_31.08.2019 10:12:49_

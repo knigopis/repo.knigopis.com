@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кафка на пляже ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup>
 * Ководство ~ [anvonamore](users/595/5957175-vkontakte)<sup>125</sup>
 * Узорный покров ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup>
 * Удивительная палеонтология ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
@@ -30,7 +31,6 @@
 * ГОРОД МЕЧТАЮЩИХ КНИГ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
 * Посторонний ~ [Quaff](users/122/12267158-vkontakte)<sup>60</sup>
 * Осиная ферма ~ [Quaff](users/122/12267158-vkontakte)<sup>59</sup>
-* Сто лет одиночества ~ [Quaff](users/122/12267158-vkontakte)<sup>58</sup>
 
 
-_30.08.2019 16:48:37_
+_31.08.2019 10:12:49_

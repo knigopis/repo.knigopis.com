@@ -1,4 +1,16 @@
 {
+    "4tXGz0rL4u": {
+        "id": "4tXGz0rL4u",
+        "title": "Кафка на пляже",
+        "author": "Харуки Мураками",
+        "notes": "Кафка Тамуро, Саэки сан, Осима сан, Наката сан, Хасина сан",
+        "createdAt": "2019-08-31 10:12:48",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 59
+        }
+    },
     "huMGIItak_": {
         "id": "huMGIItak_",
         "title": "Ководство",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 59
-        }
-    },
-    "XBZHJMFM7Y": {
-        "id": "XBZHJMFM7Y",
-        "title": "Сто лет одиночества",
-        "author": "Габриэль Гарсиа Маркес",
-        "notes": "Много воды, очень много воды, а суть в последней главе",
-        "createdAt": "2019-08-05 17:55:39",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 58
         }
     }
 }
