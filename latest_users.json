@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 150,
+        "updatedAt": "2019-08-31 07:02:09"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -28,12 +34,6 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 62,
         "updatedAt": "2019-08-29 12:34:17"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 151,
-        "updatedAt": "2019-08-29 01:57:01"
     },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
