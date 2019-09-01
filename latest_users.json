@@ -1,4 +1,10 @@
 {
+    "146934491-vkontakte": {
+        "id": "146934491-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-09-01 12:14:09"
+    },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",
         "nickname": "vladkozz",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 145,
         "updatedAt": "2019-08-16 05:47:37"
-    },
-    "69018982-yandex": {
-        "id": "69018982-yandex",
-        "nickname": "vikki-001",
-        "booksCount": 1,
-        "updatedAt": "2019-08-15 18:51:57"
     }
 }
