@@ -1,4 +1,16 @@
 {
+    "PP86Ap317-": {
+        "id": "PP86Ap317-",
+        "title": "Повелитель мух",
+        "author": "Ульям Голдинг",
+        "notes": "",
+        "createdAt": "2019-09-01 06:18:12",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 46
+        }
+    },
     "4tXGz0rL4u": {
         "id": "4tXGz0rL4u",
         "title": "Кафка на пляже",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 722
-        }
-    },
-    "yyHQYpuHR_": {
-        "id": "yyHQYpuHR_",
-        "title": "Уровень жизни",
-        "author": "Дороти Паркер",
-        "notes": "",
-        "createdAt": "2019-08-24 10:46:49",
-        "user": {
-            "id": "6820689443874545064-mailru",
-            "nickname": "Антон Тетенёв",
-            "booksCount": 2
         }
     }
 }

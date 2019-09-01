@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>45</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>46</sup>
 ---
 
 ## 2019
+
+### Повелитель мух
+Ульям Голдинг
+
 
 ### Метро 2033: Питер
 Шимун Врочек

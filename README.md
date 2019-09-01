@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>46</sup> 
 [Alex_lily](users/117/1178872-vkontakte)<sup>0</sup> 
 [sible](users/765/76561198018016919-steam)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>24</sup> 
 [whitecompany](users/840/84060805-vkontakte)<sup>0</sup> 
 [DanTerent](users/139/13984651701920217604-mailru)<sup>2</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>45</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>127</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>21</sup> 
 [En](users/333/333646551-vkontakte)<sup>75</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vikki-001](users/690/69018982-yandex)<sup>1</sup> 
 
 
-_31.08.2019 19:43:35_
+_01.09.2019 06:18:12_
