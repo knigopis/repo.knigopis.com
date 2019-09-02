@@ -1,4 +1,10 @@
 {
+    "109052178227950452885-google": {
+        "id": "109052178227950452885-google",
+        "nickname": "Босоногий",
+        "booksCount": 0,
+        "updatedAt": "2019-09-02 06:06:58"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 30,
         "updatedAt": "2019-08-18 11:09:39"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 80,
-        "updatedAt": "2019-08-16 11:50:49"
     }
 }
