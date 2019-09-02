@@ -1,4 +1,10 @@
 {
+    "102536471289425216982-google": {
+        "id": "102536471289425216982-google",
+        "nickname": "Окс",
+        "booksCount": 30,
+        "updatedAt": "2019-09-02 05:30:53"
+    },
     "146934491-vkontakte": {
         "id": "146934491-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ",
         "booksCount": 80,
         "updatedAt": "2019-08-16 11:50:49"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 145,
-        "updatedAt": "2019-08-16 05:47:37"
     }
 }
