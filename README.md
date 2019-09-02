@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>38</sup> 
 [Босоногий](users/109/109052178227950452885-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>30</sup> 
 [](users/146/146934491-vkontakte)<sup>0</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>21</sup> 
 [En](users/333/333646551-vkontakte)<sup>75</sup> 
 [Антон Тетенёв](users/682/6820689443874545064-mailru)<sup>2</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>37</sup> 
 [JullyJully](users/117/117443283415472077372-google)<sup>25</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>64</sup> 
 [me](users/381/381417697-yandex)<sup>50</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>30</sup> 
 
 
-_02.09.2019 06:07:03_
+_02.09.2019 17:50:56_

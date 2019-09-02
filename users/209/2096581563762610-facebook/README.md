@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>37</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>38</sup>
 ---
 
 ## 2019
+
+### Девушка с татуировкой дракона
+Стиг Ларссон
+> [2019-08-29] 
+
 
 ### Девушка во льду
 Роберт Брындза

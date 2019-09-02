@@ -1,4 +1,16 @@
 {
+    "_I1InWnVfJ": {
+        "id": "_I1InWnVfJ",
+        "title": "Девушка с татуировкой дракона",
+        "author": "Стиг Ларссон",
+        "notes": "",
+        "createdAt": "2019-09-02 17:50:56",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 38
+        }
+    },
     "WufLxhWUsN": {
         "id": "WufLxhWUsN",
         "title": "Подсказчик",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 75
-        }
-    },
-    "qsl4MA3tq_": {
-        "id": "qsl4MA3tq_",
-        "title": "Ночь",
-        "author": "Эли Визель",
-        "notes": "",
-        "createdAt": "2019-08-26 06:42:43",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 723
         }
     }
 }
