@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>30</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>31</sup>
 ---
 
 ## 2019
+
+### Малый бизнес: от иллюзий к успеху
+Майкл Гербер
+> [2019-09-02] 4+
+
 
 ### Alibaba. История мирового восхождения от первого лица
 Дункан Кларк

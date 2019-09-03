@@ -1,4 +1,16 @@
 {
+    "cyrRbPauND": {
+        "id": "cyrRbPauND",
+        "title": "Малый бизнес: от иллюзий к успеху",
+        "author": "Майкл Гербер",
+        "notes": "4+",
+        "createdAt": "2019-09-03 07:54:35",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 31
+        }
+    },
     "04QIHXz_27": {
         "id": "04QIHXz_27",
         "title": "Эгоистичный ген",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 122
-        }
-    },
-    "cTqn10PggW": {
-        "id": "cTqn10PggW",
-        "title": "Курс на Марс. Самый реалистичный проект полета к красной планете",
-        "author": "Р. Зубрин",
-        "notes": "",
-        "createdAt": "2019-08-26 15:19:25",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 21
         }
     }
 }

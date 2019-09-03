@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>31</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>725</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>38</sup> 
 [Босоногий](users/109/109052178227950452885-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>50</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>230</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup> 
-[youno](users/302/302928912-vkontakte)<sup>30</sup> 
 
 
-_03.09.2019 04:49:37_
+_03.09.2019 07:54:35_
