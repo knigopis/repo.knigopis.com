@@ -1,7 +1,12 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>65</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>66</sup>
 ---
 
 ## 2019
+
+### Легкое дыхание
+Иван Бунин
+> [2019-08-27] 
+
 
 ### Фиалки по средам
 Моруа Андре

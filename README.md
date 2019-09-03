@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>65</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>66</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>22</sup> 
 [youno](users/302/302928912-vkontakte)<sup>31</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>230</sup> 
 
 
-_03.09.2019 15:15:13_
+_03.09.2019 15:17:21_
