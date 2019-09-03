@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Игра в классики ~ [dilost](users/102/10206471247373307-facebook)<sup>4</sup>
 * Кафка на пляже ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup>
 * Ководство ~ [anvonamore](users/595/5957175-vkontakte)<sup>125</sup>
 * Узорный покров ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup>
@@ -30,7 +31,6 @@
 * Жалобная книга ~ [violet_velva](users/116/116961712580551399099-google)<sup>64</sup>
 * ГОРОД МЕЧТАЮЩИХ КНИГ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
 * Посторонний ~ [Quaff](users/122/12267158-vkontakte)<sup>60</sup>
-* Осиная ферма ~ [Quaff](users/122/12267158-vkontakte)<sup>59</sup>
 
 
-_31.08.2019 10:12:49_
+_03.09.2019 15:08:54_
