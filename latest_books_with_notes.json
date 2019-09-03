@@ -1,4 +1,16 @@
 {
+    "e7RCMujWE0": {
+        "id": "e7RCMujWE0",
+        "title": "Государь",
+        "author": "Никколо Макиавелли",
+        "notes": "Устаревшее произведение о видах государей и их разносторонности",
+        "createdAt": "2019-09-03 15:18:37",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 67
+        }
+    },
     "D1gBv0I4qV": {
         "id": "D1gBv0I4qV",
         "title": "Фиалки по средам",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 64
-        }
-    },
-    "1Cu8u2bipN": {
-        "id": "1Cu8u2bipN",
-        "title": "ГОРОД МЕЧТАЮЩИХ КНИГ",
-        "author": "Вальтер Моэрс",
-        "notes": "461стр.",
-        "createdAt": "2019-08-07 07:03:05",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 80
         }
     }
 }

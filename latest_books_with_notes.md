@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Государь ~ [Quaff](users/122/12267158-vkontakte)<sup>67</sup>
 * Фиалки по средам ~ [Quaff](users/122/12267158-vkontakte)<sup>65</sup>
 * Игра в классики ~ [dilost](users/102/10206471247373307-facebook)<sup>4</sup>
 * Кафка на пляже ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup>
@@ -30,7 +31,6 @@
 * Бойня №5 ~ [Quaff](users/122/12267158-vkontakte)<sup>61</sup>
 * Зависть кукушки ~ [Chiffi](users/105/105831994080785626680-google)<sup>129</sup>
 * Жалобная книга ~ [violet_velva](users/116/116961712580551399099-google)<sup>64</sup>
-* ГОРОД МЕЧТАЮЩИХ КНИГ ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
 
 
-_03.09.2019 15:15:13_
+_03.09.2019 15:18:37_

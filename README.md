@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Государь ~ [Quaff](users/122/12267158-vkontakte)<sup>67</sup>
+    > Устаревшее произведение о видах государей и их разносторонности
+
 * Фиалки по средам ~ [Quaff](users/122/12267158-vkontakte)<sup>65</sup>
     > Очень трогательная история неудавшейся любви
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > перечитать через пару лет. сильнейшее впечатление. важно только то, что придумываешь сам или что рождается в совместном придумывании - в той реальности, которую конструируем мы или которая конструируется на наших глазах. только это -- реальность. роман о писании романа и роман, воплощающий эти принципы: обманывать обывателя.
 
 * Кафка на пляже ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup>
-    > Кафка Тамуро, Саэки сан, Осима сан, Наката сан, Хасина сан
 
 * Ководство ~ [anvonamore](users/595/5957175-vkontakte)<sup>125</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тень и кость ~ [En](users/333/333646551-vkontakte)<sup>75</sup>
 
-* Пикник на обочине ~ [Quaff](users/122/12267158-vkontakte)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>66</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>67</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>22</sup> 
 [youno](users/302/302928912-vkontakte)<sup>31</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>230</sup> 
 
 
-_03.09.2019 15:17:21_
+_03.09.2019 15:18:37_
