@@ -1,4 +1,16 @@
 {
+    "67bzsBMWds": {
+        "id": "67bzsBMWds",
+        "title": "Сердце дракона",
+        "author": "Кирилл Клеванский",
+        "notes": "Захватывающая история по клеше лит рпг!",
+        "createdAt": "2019-09-03 15:27:09",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 70
+        }
+    },
     "t9sbX50ps_": {
         "id": "t9sbX50ps_",
         "title": "Сборник \"лекарство от меланхолии\"",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 61
-        }
-    },
-    "JBHNdBMODD": {
-        "id": "JBHNdBMODD",
-        "title": "Зависть кукушки",
-        "author": "Акимова Анна",
-        "notes": "милый детектив. почти семейная сага",
-        "createdAt": "2019-08-07 19:08:15",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 129
         }
     }
 }

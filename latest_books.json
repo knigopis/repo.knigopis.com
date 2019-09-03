@@ -1,4 +1,16 @@
 {
+    "67bzsBMWds": {
+        "id": "67bzsBMWds",
+        "title": "Сердце дракона",
+        "author": "Кирилл Клеванский",
+        "notes": "Захватывающая история по клеше лит рпг!",
+        "createdAt": "2019-09-03 15:27:09",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 70
+        }
+    },
     "t9sbX50ps_": {
         "id": "t9sbX50ps_",
         "title": "Сборник \"лекарство от меланхолии\"",
@@ -345,18 +357,6 @@
             "id": "13984651701920217604-mailru",
             "nickname": "DanTerent",
             "booksCount": 1
-        }
-    },
-    "HeRrnTMfGk": {
-        "id": "HeRrnTMfGk",
-        "title": "Метро 2033: Питер",
-        "author": "Шевун Врочек",
-        "notes": "",
-        "createdAt": "2019-08-27 15:28:16",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 45
         }
     }
 }

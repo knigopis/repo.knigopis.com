@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сердце дракона ~ [Quaff](users/122/12267158-vkontakte)<sup>70</sup>
+    > Захватывающая история по клеше лит рпг!
+
 * Сборник "лекарство от меланхолии" ~ [Quaff](users/122/12267158-vkontakte)<sup>69</sup>
     > Погожий день, Дракон, Лекарство от меланхолии, Конец начальной поры, Чудесный костюм цвета сливочного мороженого, Горячечный бред, Примирительница, Город, в котором никто не выходит, Запах сарсапарели, Икар Монгольфье Райт, Шлем, Были они смуглые и золотоглазые, Улыбка, Первая ночь великого поста, Время уходить, Всё лето в один день, Подарок, Страшная авария в понедельник на той неделе, Маленькие мышки, Берег на закате, Земляничное окошко, Пришло время дождей
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Устаревшее произведение о видах государей и их разносторонности
 
 * Фиалки по средам ~ [Quaff](users/122/12267158-vkontakte)<sup>65</sup>
-    > Очень трогательная история неудавшейся любви
 
 * Игра в классики ~ [dilost](users/102/10206471247373307-facebook)<sup>4</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * В'язні зеленої дачі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup>
 
-* Operation Dark Heart: Spycraft and Special Ops on the Frontlines of Afghanistan -- and The Path to Victory ~ [exulted](users/100/100599204551896265722-google)<sup>117</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>69</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>70</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>22</sup> 
 [youno](users/302/302928912-vkontakte)<sup>31</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>230</sup> 
 
 
-_03.09.2019 15:23:11_
+_03.09.2019 15:27:09_
