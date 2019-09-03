@@ -1,7 +1,12 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>64</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>65</sup>
 ---
 
 ## 2019
+
+### Фиалки по средам
+Моруа Андре
+> [2019-08-26] Очень трогательная история неудавшейся любви
+
 
 ### Государство
 Платон

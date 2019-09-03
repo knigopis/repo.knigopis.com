@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Фиалки по средам ~ [Quaff](users/122/12267158-vkontakte)<sup>65</sup>
+    > Очень трогательная история неудавшейся любви
+
 * Игра в классики ~ [dilost](users/102/10206471247373307-facebook)<sup>4</sup>
     > перечитать через пару лет. сильнейшее впечатление. важно только то, что придумываешь сам или что рождается в совместном придумывании - в той реальности, которую конструируем мы или которая конструируется на наших глазах. только это -- реальность. роман о писании романа и роман, воплощающий эти принципы: обманывать обывателя.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Кафка Тамуро, Саэки сан, Осима сан, Наката сан, Хасина сан
 
 * Ководство ~ [anvonamore](users/595/5957175-vkontakte)<sup>125</sup>
-    > 8/10
 
 * Узорный покров ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пикник на обочине ~ [Quaff](users/122/12267158-vkontakte)<sup>64</sup>
 
-* Государство ~ [Quaff](users/122/12267158-vkontakte)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>65</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>22</sup> 
 [youno](users/302/302928912-vkontakte)<sup>31</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>75</sup> 
 [Антон Тетенёв](users/682/6820689443874545064-mailru)<sup>2</sup> 
 [JullyJully](users/117/117443283415472077372-google)<sup>25</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>64</sup> 
 [me](users/381/381417697-yandex)<sup>50</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>230</sup> 
 
 
-_03.09.2019 15:08:54_
+_03.09.2019 15:15:13_
