@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>725</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>38</sup> 
 [Босоногий](users/109/109052178227950452885-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>30</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sible](users/765/76561198018016919-steam)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup> 
 [lucius](users/838/83820536-yandex)<sup>150</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>724</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>121</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>125</sup> 
 [](users/110/110931306939441771638-google)<sup>11</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>30</sup> 
 
 
-_02.09.2019 17:50:56_
+_03.09.2019 04:49:37_
