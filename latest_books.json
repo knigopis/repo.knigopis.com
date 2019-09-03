@@ -1,4 +1,16 @@
 {
+    "BYG0vCJtV0": {
+        "id": "BYG0vCJtV0",
+        "title": "Американские боги",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2019-09-03 09:01:50",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 22
+        }
+    },
     "cyrRbPauND": {
         "id": "cyrRbPauND",
         "title": "Малый бизнес: от иллюзий к успеху",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 123
-        }
-    },
-    "phw402TZ-D": {
-        "id": "phw402TZ-D",
-        "title": "Люди и разбойники из Кардамона",
-        "author": "Турбьерн Эгнер",
-        "notes": "",
-        "createdAt": "2019-08-27 05:58:07",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 122
         }
     }
 }
