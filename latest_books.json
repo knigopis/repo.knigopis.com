@@ -1,4 +1,16 @@
 {
+    "emf7iWD92Z": {
+        "id": "emf7iWD92Z",
+        "title": "Остров пингвинов",
+        "author": "Анатоль Франс",
+        "notes": "",
+        "createdAt": "2019-09-04 11:00:40",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 67
+        }
+    },
     "hCWyU5Wqtn": {
         "id": "hCWyU5Wqtn",
         "title": "Бумажная Девушка",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 175
-        }
-    },
-    "gV2LXbJkbU": {
-        "id": "gV2LXbJkbU",
-        "title": "Волкодав",
-        "author": "Мария Семёнова",
-        "notes": "",
-        "createdAt": "2019-08-27 21:08:04",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 24
         }
     }
 }

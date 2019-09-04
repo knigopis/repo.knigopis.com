@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[violet_velva](users/116/116961712580551399099-google)<sup>66</sup> 
+[violet_velva](users/116/116961712580551399099-google)<sup>67</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>146</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>70</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [JullyJully](users/117/117443283415472077372-google)<sup>25</sup> 
 
 
-_04.09.2019 11:00:05_
+_04.09.2019 11:00:40_
