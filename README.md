@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>146</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>70</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>22</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антон Тетенёв](users/682/6820689443874545064-mailru)<sup>2</sup> 
 [JullyJully](users/117/117443283415472077372-google)<sup>25</sup> 
 [me](users/381/381417697-yandex)<sup>50</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>230</sup> 
 
 
-_03.09.2019 15:27:09_
+_04.09.2019 07:35:33_

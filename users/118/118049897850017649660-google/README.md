@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>145</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>146</sup>
 ---
 
 ## 2019
+
+### Одиннадцать видов одиночества
+Ричард Йейтс
+> [2019-09-04] 
+
 
 ### Рука Сфинкса
 Джосайя Бэнкрофт

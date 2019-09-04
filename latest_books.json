@@ -1,4 +1,16 @@
 {
+    "eu0bz5Tq15": {
+        "id": "eu0bz5Tq15",
+        "title": "Одиннадцать видов одиночества",
+        "author": "Ричард Йейтс",
+        "notes": "",
+        "createdAt": "2019-09-04 07:35:32",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 146
+        }
+    },
     "67bzsBMWds": {
         "id": "67bzsBMWds",
         "title": "Сердце дракона",
@@ -345,18 +357,6 @@
             "id": "13984651701920217604-mailru",
             "nickname": "DanTerent",
             "booksCount": 2
-        }
-    },
-    "iybKGLN8q7": {
-        "id": "iybKGLN8q7",
-        "title": "Нож",
-        "author": "Ю Несбё",
-        "notes": "",
-        "createdAt": "2019-08-27 18:13:37",
-        "user": {
-            "id": "13984651701920217604-mailru",
-            "nickname": "DanTerent",
-            "booksCount": 1
         }
     }
 }
