@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>65</sup>
+# List of books read by violet_velva<sup>66</sup>
 ---
 
 ## 2019
+
+### Бумажная Девушка
+Гийом Мюссо
+> [2019-08] 
+
 
 ### Преступление Сильвестра Бонара, академика
 Анатоль Франс

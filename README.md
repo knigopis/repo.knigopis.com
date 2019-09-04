@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>66</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>146</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>70</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>75</sup> 
 [Антон Тетенёв](users/682/6820689443874545064-mailru)<sup>2</sup> 
 [JullyJully](users/117/117443283415472077372-google)<sup>25</sup> 
-[me](users/381/381417697-yandex)<sup>50</sup> 
 
 
-_04.09.2019 07:35:33_
+_04.09.2019 11:00:05_

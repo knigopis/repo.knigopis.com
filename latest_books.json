@@ -1,4 +1,16 @@
 {
+    "hCWyU5Wqtn": {
+        "id": "hCWyU5Wqtn",
+        "title": "Бумажная Девушка",
+        "author": "Гийом Мюссо",
+        "notes": "",
+        "createdAt": "2019-09-04 11:00:05",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 66
+        }
+    },
     "eu0bz5Tq15": {
         "id": "eu0bz5Tq15",
         "title": "Одиннадцать видов одиночества",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 24
-        }
-    },
-    "_vaTfpqpQg": {
-        "id": "_vaTfpqpQg",
-        "title": "Мор, ученик Смерти",
-        "author": "Терри Пратчет",
-        "notes": "",
-        "createdAt": "2019-08-27 18:15:10",
-        "user": {
-            "id": "13984651701920217604-mailru",
-            "nickname": "DanTerent",
-            "booksCount": 2
         }
     }
 }

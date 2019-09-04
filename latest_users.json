@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-google": {
+        "id": "116961712580551399099-google",
+        "nickname": "violet_velva",
+        "booksCount": 66,
+        "updatedAt": "2019-09-04 11:00:05"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "JullyJully",
         "booksCount": 25,
         "updatedAt": "2019-08-20 19:18:43"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 50,
-        "updatedAt": "2019-08-19 22:36:43"
     }
 }
