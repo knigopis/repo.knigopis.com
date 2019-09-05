@@ -1,8 +1,8 @@
 # List of the latest books with notes
 ---
 
+* Сердце дракона ~ [Quaff](users/122/12267158-vkontakte)<sup>71</sup>
 * Подсказчик ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
-* Сердце дракона ~ [Quaff](users/122/12267158-vkontakte)<sup>70</sup>
 * Сборник "лекарство от меланхолии" ~ [Quaff](users/122/12267158-vkontakte)<sup>69</sup>
 * Государь ~ [Quaff](users/122/12267158-vkontakte)<sup>67</sup>
 * Фиалки по средам ~ [Quaff](users/122/12267158-vkontakte)<sup>65</sup>
@@ -33,4 +33,4 @@
 * Евгений Онегин ~ [Quaff](users/122/12267158-vkontakte)<sup>62</sup>
 
 
-_05.09.2019 09:17:49_
+_05.09.2019 16:08:08_
