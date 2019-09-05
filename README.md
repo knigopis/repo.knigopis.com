@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>176</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>67</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>146</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>70</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup> 
 [lo_st85](users/176/17659596-vkontakte)<sup>1</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>175</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>24</sup> 
 [whitecompany](users/840/84060805-vkontakte)<sup>0</sup> 
 [DanTerent](users/139/13984651701920217604-mailru)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [JullyJully](users/117/117443283415472077372-google)<sup>25</sup> 
 
 
-_04.09.2019 11:00:40_
+_05.09.2019 09:16:07_

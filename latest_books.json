@@ -1,4 +1,16 @@
 {
+    "8H6eObu3Kf": {
+        "id": "8H6eObu3Kf",
+        "title": "Круглосуточный книжный мистера Пенумбры",
+        "author": "Робин Слоун",
+        "notes": "",
+        "createdAt": "2019-09-05 09:16:07",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 176
+        }
+    },
     "emf7iWD92Z": {
         "id": "emf7iWD92Z",
         "title": "Остров пингвинов",
@@ -345,18 +357,6 @@
             "id": "17659596-vkontakte",
             "nickname": "lo_st85",
             "booksCount": 1
-        }
-    },
-    "LtqdMno1Sc": {
-        "id": "LtqdMno1Sc",
-        "title": "Загадочное ночное убийство собаки",
-        "author": "Майк Хэддон",
-        "notes": "",
-        "createdAt": "2019-08-28 07:20:49",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 175
         }
     }
 }
