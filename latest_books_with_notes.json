@@ -1,4 +1,16 @@
 {
+    "qw-K0Icf1d": {
+        "id": "qw-K0Icf1d",
+        "title": "Abenteuer von Zitterbacke",
+        "author": "Gerhard Holtz-Baumert",
+        "notes": "1975 год. Книга представляет собой сокращённый и адаптированный вариант популярной в ГДР детской книги писателя Г. Гольц-Баумерта. Это несколько наивных, смешных и трогательных рассказов незадачливого мальчика Альфонса Циттербаке о его приключениях в школе и дома.",
+        "createdAt": "2019-09-05 17:31:42",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 25
+        }
+    },
     "1C0UAT6EMX": {
         "id": "1C0UAT6EMX",
         "title": "Сердце дракона",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 227
-        }
-    },
-    "BIVwe1kgnL": {
-        "id": "BIVwe1kgnL",
-        "title": "Евгений Онегин",
-        "author": "Александр Пушкин",
-        "notes": "Жизненная и интересная история в стихах",
-        "createdAt": "2019-08-08 18:20:56",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 62
         }
     }
 }

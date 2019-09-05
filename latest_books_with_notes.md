@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Abenteuer von Zitterbacke ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup>
 * Сердце дракона ~ [Quaff](users/122/12267158-vkontakte)<sup>71</sup>
 * Подсказчик ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
 * Сборник "лекарство от меланхолии" ~ [Quaff](users/122/12267158-vkontakte)<sup>69</sup>
@@ -30,7 +31,6 @@
 * Кінець зміни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup>
 * Хроники Амбера. Пятикнижие Корвина. Ружья Авалона ~ [Garka](users/115/115753719718250012620-google)<sup>228</sup>
 * Хроники Амбера. Пятикнижие Корвина.Знак Единорога ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
-* Евгений Онегин ~ [Quaff](users/122/12267158-vkontakte)<sup>62</sup>
 
 
-_05.09.2019 16:08:08_
+_05.09.2019 17:31:42_

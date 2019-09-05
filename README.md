@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Abenteuer von Zitterbacke ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup>
+    > 1975 год. Книга представляет собой сокращённый и адаптированный вариант популярной в ГДР детской книги писателя Г. Гольц-Баумерта. Это несколько наивных, смешных и трогательных рассказов незадачливого мальчика Альфонса Циттербаке о его приключениях в школе и дома.
+
 * Сердце дракона ~ [Quaff](users/122/12267158-vkontakte)<sup>71</sup>
     > Бессвязное клеше, утомляет однообразность
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Я осталась под неизгладимым впечатлением от этой книги. Удивительный, хоть и жестокий сюжет. В некоторых местах меня прямо шокировало. Проглотила книгу за 4 дня.
 
 * Сборник "лекарство от меланхолии" ~ [Quaff](users/122/12267158-vkontakte)<sup>69</sup>
-    > Погожий день, Дракон, Лекарство от меланхолии, Конец начальной поры, Чудесный костюм цвета сливочного мороженого, Горячечный бред, Примирительница, Город, в котором никто не выходит, Запах сарсапарели, Икар Монгольфье Райт, Шлем, Были они смуглые и золотоглазые, Улыбка, Первая ночь великого поста, Время уходить, Всё лето в один день, Подарок, Страшная авария в понедельник на той неделе, Маленькие мышки, Берег на закате, Земляничное окошко, Пришло время дождей
 
 * Государь ~ [Quaff](users/122/12267158-vkontakte)<sup>67</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Узорный покров ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup>
 
-* Удивительная палеонтология ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>71</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>176</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup> 
 [lo_st85](users/176/17659596-vkontakte)<sup>1</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>24</sup> 
 [whitecompany](users/840/84060805-vkontakte)<sup>0</sup> 
 [DanTerent](users/139/13984651701920217604-mailru)<sup>2</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>127</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [JullyJully](users/117/117443283415472077372-google)<sup>25</sup> 
 
 
-_05.09.2019 16:08:08_
+_05.09.2019 17:31:42_
