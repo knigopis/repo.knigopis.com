@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Подсказчик ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
 * Сердце дракона ~ [Quaff](users/122/12267158-vkontakte)<sup>70</sup>
 * Сборник "лекарство от меланхолии" ~ [Quaff](users/122/12267158-vkontakte)<sup>69</sup>
 * Государь ~ [Quaff](users/122/12267158-vkontakte)<sup>67</sup>
@@ -30,7 +31,6 @@
 * Хроники Амбера. Пятикнижие Корвина. Ружья Авалона ~ [Garka](users/115/115753719718250012620-google)<sup>228</sup>
 * Хроники Амбера. Пятикнижие Корвина.Знак Единорога ~ [Garka](users/115/115753719718250012620-google)<sup>227</sup>
 * Евгений Онегин ~ [Quaff](users/122/12267158-vkontakte)<sup>62</sup>
-* Бойня №5 ~ [Quaff](users/122/12267158-vkontakte)<sup>61</sup>
 
 
-_03.09.2019 15:27:09_
+_05.09.2019 09:17:49_

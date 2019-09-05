@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Подсказчик ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
+    > Я осталась под неизгладимым впечатлением от этой книги. Удивительный, хоть и жестокий сюжет. В некоторых местах меня прямо шокировало. Проглотила книгу за 4 дня.
+
 * Сердце дракона ~ [Quaff](users/122/12267158-vkontakte)<sup>70</sup>
     > Захватывающая история по клеше лит рпг!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Погожий день, Дракон, Лекарство от меланхолии, Конец начальной поры, Чудесный костюм цвета сливочного мороженого, Горячечный бред, Примирительница, Город, в котором никто не выходит, Запах сарсапарели, Икар Монгольфье Райт, Шлем, Были они смуглые и золотоглазые, Улыбка, Первая ночь великого поста, Время уходить, Всё лето в один день, Подарок, Страшная авария в понедельник на той неделе, Маленькие мышки, Берег на закате, Земляничное окошко, Пришло время дождей
 
 * Государь ~ [Quaff](users/122/12267158-vkontakte)<sup>67</sup>
-    > Устаревшее произведение о видах государей и их разносторонности
 
 * Фиалки по средам ~ [Quaff](users/122/12267158-vkontakte)<sup>65</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Удивительная палеонтология ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
 
-* В'язні зеленої дачі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>176</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>67</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>146</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>70</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [JullyJully](users/117/117443283415472077372-google)<sup>25</sup> 
 
 
-_05.09.2019 09:16:07_
+_05.09.2019 09:17:49_
