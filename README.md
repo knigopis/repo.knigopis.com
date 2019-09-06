@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Леди Сьюзан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>50</sup>
+    > 3/10 Неудачные пробы пера. Можно проследить развитие стиля.
+
 * Abenteuer von Zitterbacke ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup>
     > 1975 год. Книга представляет собой сокращённый и адаптированный вариант популярной в ГДР детской книги писателя Г. Гольц-Баумерта. Это несколько наивных, смешных и трогательных рассказов незадачливого мальчика Альфонса Циттербаке о его приключениях в школе и дома.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Бессвязное клеше, утомляет однообразность
 
 * Подсказчик ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
-    > Я осталась под неизгладимым впечатлением от этой книги. Удивительный, хоть и жестокий сюжет. В некоторых местах меня прямо шокировало. Проглотила книгу за 4 дня.
 
 * Сборник "лекарство от меланхолии" ~ [Quaff](users/122/12267158-vkontakte)<sup>69</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ководство ~ [anvonamore](users/595/5957175-vkontakte)<sup>125</sup>
 
-* Узорный покров ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>50</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>71</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>125</sup> 
 [](users/110/110931306939441771638-google)<sup>11</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup> 
 [lo_st85](users/176/17659596-vkontakte)<sup>1</sup> 
 [whitecompany](users/840/84060805-vkontakte)<sup>0</sup> 
 [DanTerent](users/139/13984651701920217604-mailru)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [JullyJully](users/117/117443283415472077372-google)<sup>25</sup> 
 
 
-_05.09.2019 17:31:42_
+_06.09.2019 16:27:23_

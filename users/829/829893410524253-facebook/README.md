@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>49</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>50</sup>
 ---
 
 ## 2019
+
+### Леди Сьюзан
+Джейн Остин
+> [2019-09-06] 3/10 Неудачные пробы пера. Можно проследить развитие стиля.
+
 
 ### В'язні зеленої дачі
 Володимир Лис

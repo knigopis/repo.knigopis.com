@@ -1,4 +1,16 @@
 {
+    "G-zDqN0CuL": {
+        "id": "G-zDqN0CuL",
+        "title": "Леди Сьюзан",
+        "author": "Джейн Остин",
+        "notes": "3/10 Неудачные пробы пера. Можно проследить развитие стиля.",
+        "createdAt": "2019-09-06 16:27:23",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 50
+        }
+    },
     "qw-K0Icf1d": {
         "id": "qw-K0Icf1d",
         "title": "Abenteuer von Zitterbacke",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 119
-        }
-    },
-    "3lec9IHttf": {
-        "id": "3lec9IHttf",
-        "title": "Каспий, 1920 год",
-        "author": "Исаков Иван Степанович",
-        "notes": "",
-        "createdAt": "2019-08-28 16:30:32",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 118
         }
     }
 }
