@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Amedus](users/110/110264801141878066061-google)<sup>0</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>50</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [DanTerent](users/139/13984651701920217604-mailru)<sup>2</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>127</sup> 
 [En](users/333/333646551-vkontakte)<sup>75</sup> 
-[Антон Тетенёв](users/682/6820689443874545064-mailru)<sup>2</sup> 
 
 
-_07.09.2019 09:26:21_
+_07.09.2019 11:16:15_
