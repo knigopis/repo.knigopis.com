@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Витающие в облаках ~ [Chiffi](users/105/105831994080785626680-google)<sup>130</sup>
+    > Мне очень понравились романы про Броуди (Чуть свет с собакою вдвоем), но этот....  хороший язык, но сюжет - не для меня(((( Такое ощущение,  что читаешь Зазеркалье
+
 * Леди Сьюзан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>50</sup>
     > 3/10 Неудачные пробы пера. Можно проследить развитие стиля.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 1975 год. Книга представляет собой сокращённый и адаптированный вариант популярной в ГДР детской книги писателя Г. Гольц-Баумерта. Это несколько наивных, смешных и трогательных рассказов незадачливого мальчика Альфонса Циттербаке о его приключениях в школе и дома.
 
 * Сердце дракона ~ [Quaff](users/122/12267158-vkontakte)<sup>71</sup>
-    > Бессвязное клеше, утомляет однообразность
 
 * Подсказчик ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кафка на пляже ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup>
 
-* Ководство ~ [anvonamore](users/595/5957175-vkontakte)<sup>125</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>130</sup> 
 [Amedus](users/110/110264801141878066061-google)<sup>0</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>50</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [whitecompany](users/840/84060805-vkontakte)<sup>0</sup> 
 [DanTerent](users/139/13984651701920217604-mailru)<sup>2</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>127</sup> 
-[En](users/333/333646551-vkontakte)<sup>75</sup> 
 
 
-_07.09.2019 11:16:15_
+_07.09.2019 17:49:52_
