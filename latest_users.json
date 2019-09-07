@@ -1,4 +1,10 @@
 {
+    "110264801141878066061-google": {
+        "id": "110264801141878066061-google",
+        "nickname": "Amedus",
+        "booksCount": 0,
+        "updatedAt": "2019-09-07 11:16:12"
+    },
     "103474005216004236389-google": {
         "id": "103474005216004236389-google",
         "nickname": "Woc4onok213",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 75,
         "updatedAt": "2019-08-26 12:32:07"
-    },
-    "6820689443874545064-mailru": {
-        "id": "6820689443874545064-mailru",
-        "nickname": "Антон Тетенёв",
-        "booksCount": 2,
-        "updatedAt": "2019-08-24 10:46:49"
     }
 }
