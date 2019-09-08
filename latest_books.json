@@ -1,4 +1,16 @@
 {
+    "zbrP1ZRKjA": {
+        "id": "zbrP1ZRKjA",
+        "title": "1Q84. Книга 2",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2019-09-08 11:43:47",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 9
+        }
+    },
     "drZJDGRnnU": {
         "id": "drZJDGRnnU",
         "title": "Алхимик",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 46
-        }
-    },
-    "4tXGz0rL4u": {
-        "id": "4tXGz0rL4u",
-        "title": "Кафка на пляже",
-        "author": "Харуки Мураками",
-        "notes": "Кафка Тамуро, Саэки сан, Осима сан, Наката сан, Хасина сан",
-        "createdAt": "2019-08-31 10:12:48",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 59
         }
     }
 }
