@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хто б міг подумати. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup>
 * Витающие в облаках ~ [Chiffi](users/105/105831994080785626680-google)<sup>130</sup>
 * Леди Сьюзан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>50</sup>
 * Abenteuer von Zitterbacke ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup>
@@ -30,7 +31,6 @@
 * Каждый вдох ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup>
 * Азоа ~ [mfevralev](users/140/140966150-vkontakte)<sup>40</sup>
 * Жнец-2: Испытание ~ [youno](users/302/302928912-vkontakte)<sup>29</sup>
-* Кінець зміни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>46</sup>
 
 
-_07.09.2019 17:49:52_
+_08.09.2019 08:16:50_

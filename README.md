@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хто б міг подумати. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup>
+    > 10/10 Дурниці, які мозг примушує нас робити. Їжа, кохання, залежність.
+
 * Витающие в облаках ~ [Chiffi](users/105/105831994080785626680-google)<sup>130</sup>
     > Мне очень понравились романы про Броуди (Чуть свет с собакою вдвоем), но этот....  хороший язык, но сюжет - не для меня(((( Такое ощущение,  что читаешь Зазеркалье
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 3/10 Неудачные пробы пера. Можно проследить развитие стиля.
 
 * Abenteuer von Zitterbacke ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup>
-    > 1975 год. Книга представляет собой сокращённый и адаптированный вариант популярной в ГДР детской книги писателя Г. Гольц-Баумерта. Это несколько наивных, смешных и трогательных рассказов незадачливого мальчика Альфонса Циттербаке о его приключениях в школе и дома.
 
 * Сердце дракона ~ [Quaff](users/122/12267158-vkontakte)<sup>71</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Игра в классики ~ [dilost](users/102/10206471247373307-facebook)<sup>4</sup>
 
-* Кафка на пляже ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>0</sup> 
 [Я П](users/945/9459928506407080566-mailru)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>130</sup> 
 [Amedus](users/110/110264801141878066061-google)<sup>0</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>50</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>71</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [whitecompany](users/840/84060805-vkontakte)<sup>0</sup> 
 
 
-_08.09.2019 06:49:05_
+_08.09.2019 08:16:50_

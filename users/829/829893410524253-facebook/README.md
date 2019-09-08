@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>50</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>51</sup>
 ---
 
 ## 2019
+
+### Хто б міг подумати.
+Ася Казанцева
+> [2019-09-07] 10/10 Дурниці, які мозг примушує нас робити. Їжа, кохання, залежність.
+
 
 ### Леди Сьюзан
 Джейн Остин

@@ -1,4 +1,16 @@
 {
+    "U7zg_qEHpJ": {
+        "id": "U7zg_qEHpJ",
+        "title": "Хто б міг подумати.",
+        "author": "Ася Казанцева",
+        "notes": "10/10 Дурниці, які мозг примушує нас робити. Їжа, кохання, залежність.",
+        "createdAt": "2019-09-08 08:16:50",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 51
+        }
+    },
     "8SSTgN00GK": {
         "id": "8SSTgN00GK",
         "title": "Витающие в облаках",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 49
-        }
-    },
-    "68OFaARJjs": {
-        "id": "68OFaARJjs",
-        "title": "Чапаев и Пустота",
-        "author": "Пелевин Виктор",
-        "notes": "",
-        "createdAt": "2019-08-28 16:32:52",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 120
         }
     }
 }
