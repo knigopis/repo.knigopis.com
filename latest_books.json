@@ -1,4 +1,16 @@
 {
+    "eLjntQQtLs": {
+        "id": "eLjntQQtLs",
+        "title": "Сквозь зеркала. Тайны Полюса",
+        "author": "Кристель Дабо",
+        "notes": "",
+        "createdAt": "2019-09-08 11:53:07",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 14
+        }
+    },
     "OkMh9oK-pg": {
         "id": "OkMh9oK-pg",
         "title": "Сквозь зеркала. Обученные холодом",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 22
-        }
-    },
-    "cyrRbPauND": {
-        "id": "cyrRbPauND",
-        "title": "Малый бизнес: от иллюзий к успеху",
-        "author": "Майкл Гербер",
-        "notes": "4+",
-        "createdAt": "2019-09-03 07:54:35",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 31
         }
     }
 }
