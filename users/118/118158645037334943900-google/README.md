@@ -1,7 +1,12 @@
-# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>1</sup>
+# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>2</sup>
 ---
 
 ## 2019
+
+### Искусство любить
+Эрих Фромм
+> [2019-02] 
+
 
 ### Демиан
 Герман Гессе
