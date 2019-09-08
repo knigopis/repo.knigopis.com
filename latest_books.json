@@ -1,4 +1,16 @@
 {
+    "HSixqUAzPV": {
+        "id": "HSixqUAzPV",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2019-09-08 11:36:15",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 5
+        }
+    },
     "rT7O2HWV7D": {
         "id": "rT7O2HWV7D",
         "title": "Автостопом по галактике",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 125
-        }
-    },
-    "zjKYeU678c": {
-        "id": "zjKYeU678c",
-        "title": "Девушка, которая играла с огнем",
-        "author": "Стиг ЛАРРСОН",
-        "notes": "",
-        "createdAt": "2019-08-30 05:10:53",
-        "user": {
-            "id": "110931306939441771638-google",
-            "nickname": null,
-            "booksCount": 11
         }
     }
 }
