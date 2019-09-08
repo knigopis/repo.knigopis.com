@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 0,
+        "updatedAt": "2019-09-08 06:48:58"
+    },
     "9459928506407080566-mailru": {
         "id": "9459928506407080566-mailru",
         "nickname": "Я П",
@@ -172,11 +178,5 @@
         "nickname": "whitecompany",
         "booksCount": 0,
         "updatedAt": "2019-08-27 18:22:25"
-    },
-    "13984651701920217604-mailru": {
-        "id": "13984651701920217604-mailru",
-        "nickname": "DanTerent",
-        "booksCount": 2,
-        "updatedAt": "2019-08-27 18:15:10"
     }
 }
