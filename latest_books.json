@@ -1,4 +1,16 @@
 {
+    "Bvpq9Oy4XY": {
+        "id": "Bvpq9Oy4XY",
+        "title": "Творец заклинаний",
+        "author": "Себастьян де Кастелл",
+        "notes": "",
+        "createdAt": "2019-09-08 11:57:23",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 19
+        }
+    },
     "2fmwzXLIur": {
         "id": "2fmwzXLIur",
         "title": "Шляпа волшебника",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 69
-        }
-    },
-    "e7RCMujWE0": {
-        "id": "e7RCMujWE0",
-        "title": "Государь",
-        "author": "Никколо Макиавелли",
-        "notes": "Устаревшее произведение о видах государей и их разносторонности",
-        "createdAt": "2019-09-03 15:18:37",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 67
         }
     }
 }
