@@ -1,4 +1,16 @@
 {
+    "GeHcvDq4-o": {
+        "id": "GeHcvDq4-o",
+        "title": "ОНО",
+        "author": "Стивен Кинг",
+        "notes": "1248 стр.",
+        "createdAt": "2019-09-08 13:24:18",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 81
+        }
+    },
     "U7zg_qEHpJ": {
         "id": "U7zg_qEHpJ",
         "title": "Хто б міг подумати.",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 40
-        }
-    },
-    "NHYvHuoidY": {
-        "id": "NHYvHuoidY",
-        "title": "Жнец-2: Испытание",
-        "author": "Нил Шустерман",
-        "notes": "Нормуль",
-        "createdAt": "2019-08-12 03:18:37",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 29
         }
     }
 }

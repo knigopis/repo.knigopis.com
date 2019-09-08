@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ОНО ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup>
+    > 1248 стр.
+
 * Хто б міг подумати. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup>
     > 10/10 Дурниці, які мозг примушує нас робити. Їжа, кохання, залежність.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мне очень понравились романы про Броуди (Чуть свет с собакою вдвоем), но этот....  хороший язык, но сюжет - не для меня(((( Такое ощущение,  что читаешь Зазеркалье
 
 * Леди Сьюзан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>50</sup>
-    > 3/10 Неудачные пробы пера. Можно проследить развитие стиля.
 
 * Abenteuer von Zitterbacke ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Фиалки по средам ~ [Quaff](users/122/12267158-vkontakte)<sup>65</sup>
 
-* Игра в классики ~ [dilost](users/102/10206471247373307-facebook)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>26</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup> 
 [Я П](users/945/9459928506407080566-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>11</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup> 
 [lo_st85](users/176/17659596-vkontakte)<sup>1</sup> 
-[whitecompany](users/840/84060805-vkontakte)<sup>0</sup> 
 
 
-_08.09.2019 12:24:56_
+_08.09.2019 13:24:19_
