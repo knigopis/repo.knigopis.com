@@ -1,4 +1,16 @@
 {
+    "rT7O2HWV7D": {
+        "id": "rT7O2HWV7D",
+        "title": "Автостопом по галактике",
+        "author": "Дуглас Адамс",
+        "notes": "",
+        "createdAt": "2019-09-08 11:34:18",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 4
+        }
+    },
     "jj5JAU6xcM": {
         "id": "jj5JAU6xcM",
         "title": "Введение в аналитическую психологию",
@@ -345,18 +357,6 @@
             "id": "110931306939441771638-google",
             "nickname": null,
             "booksCount": 11
-        }
-    },
-    "qVowwMUvgi": {
-        "id": "qVowwMUvgi",
-        "title": "Девушка с татуировкой дракона",
-        "author": "Стиг Ларссон",
-        "notes": "",
-        "createdAt": "2019-08-30 05:10:09",
-        "user": {
-            "id": "110931306939441771638-google",
-            "nickname": null,
-            "booksCount": 10
         }
     }
 }
