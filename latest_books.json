@@ -1,4 +1,16 @@
 {
+    "OWF2YWsvYZ": {
+        "id": "OWF2YWsvYZ",
+        "title": "1Q84. Книга 1",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2019-09-08 11:37:38",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 6
+        }
+    },
     "HSixqUAzPV": {
         "id": "HSixqUAzPV",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 121
-        }
-    },
-    "huMGIItak_": {
-        "id": "huMGIItak_",
-        "title": "Ководство",
-        "author": "Артемий Лебедев",
-        "notes": "8/10",
-        "createdAt": "2019-08-30 16:48:37",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 125
         }
     }
 }
