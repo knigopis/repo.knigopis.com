@@ -1,4 +1,16 @@
 {
+    "RhxGAiGulK": {
+        "id": "RhxGAiGulK",
+        "title": "Лавка чудес",
+        "author": "Джеймс Доти",
+        "notes": "",
+        "createdAt": "2019-09-08 12:24:56",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 26
+        }
+    },
     "qCREtpzxLO": {
         "id": "qCREtpzxLO",
         "title": "Человек, который принял жену за шляпу",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 25
-        }
-    },
-    "1C0UAT6EMX": {
-        "id": "1C0UAT6EMX",
-        "title": "Сердце дракона",
-        "author": "Кирилл Клеванский",
-        "notes": "Бессвязное клеше, утомляет однообразность",
-        "createdAt": "2019-09-05 16:08:08",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 71
         }
     }
 }
