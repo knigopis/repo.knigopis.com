@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>51</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>52</sup>
 ---
 
 ## 2019
+
+### Піднесення
+Стівен Кінг
+> [2019-09-08] 10/10 втрата ваги при збереженні маси, що станеться у день 0?
+
 
 ### Хто б міг подумати.
 Ася Казанцева

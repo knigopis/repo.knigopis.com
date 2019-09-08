@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Піднесення ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>52</sup>
+    > 10/10 втрата ваги при збереженні маси, що станеться у день 0?
+
 * ОНО ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup>
     > 1248 стр.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Дурниці, які мозг примушує нас робити. Їжа, кохання, залежність.
 
 * Витающие в облаках ~ [Chiffi](users/105/105831994080785626680-google)<sup>130</sup>
-    > Мне очень понравились романы про Броуди (Чуть свет с собакою вдвоем), но этот....  хороший язык, но сюжет - не для меня(((( Такое ощущение,  что читаешь Зазеркалье
 
 * Леди Сьюзан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>50</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Государь ~ [Quaff](users/122/12267158-vkontakte)<sup>67</sup>
 
-* Фиалки по средам ~ [Quaff](users/122/12267158-vkontakte)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>52</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>26</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup> 
 [Я П](users/945/9459928506407080566-mailru)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>130</sup> 
 [Amedus](users/110/110264801141878066061-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lo_st85](users/176/17659596-vkontakte)<sup>1</sup> 
 
 
-_08.09.2019 13:24:19_
+_08.09.2019 14:44:38_

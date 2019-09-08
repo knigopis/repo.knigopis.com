@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Піднесення ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>52</sup>
 * ОНО ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup>
 * Хто б міг подумати. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup>
 * Витающие в облаках ~ [Chiffi](users/105/105831994080785626680-google)<sup>130</sup>
@@ -30,7 +31,6 @@
 * Маленькие женщины ~ [anvonamore](users/595/5957175-vkontakte)<sup>124</sup>
 * Хроники Амбера. Пятикнижие Корвина. Рука Оберона ~ [Garka](users/115/115753719718250012620-google)<sup>229</sup>
 * Каждый вдох ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup>
-* Азоа ~ [mfevralev](users/140/140966150-vkontakte)<sup>40</sup>
 
 
-_08.09.2019 13:24:19_
+_08.09.2019 14:44:38_
