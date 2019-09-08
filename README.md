@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>0</sup> 
 [Я П](users/945/9459928506407080566-mailru)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>130</sup> 
 [Amedus](users/110/110264801141878066061-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup> 
 [lo_st85](users/176/17659596-vkontakte)<sup>1</sup> 
 [whitecompany](users/840/84060805-vkontakte)<sup>0</sup> 
-[DanTerent](users/139/13984651701920217604-mailru)<sup>2</sup> 
 
 
-_07.09.2019 18:34:43_
+_08.09.2019 06:49:05_
