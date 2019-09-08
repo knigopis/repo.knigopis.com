@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>0</sup> 
 [Я П](users/945/9459928506407080566-mailru)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>130</sup> 
 [Amedus](users/110/110264801141878066061-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [whitecompany](users/840/84060805-vkontakte)<sup>0</sup> 
 
 
-_08.09.2019 08:16:50_
+_08.09.2019 08:37:54_
