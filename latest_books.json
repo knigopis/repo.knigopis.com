@@ -1,4 +1,16 @@
 {
+    "QjLD1vnlZP": {
+        "id": "QjLD1vnlZP",
+        "title": "Сага о видящих. Ученик убийцы",
+        "author": "Робин Хобб",
+        "notes": "",
+        "createdAt": "2019-09-08 11:47:06",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 10
+        }
+    },
     "zbrP1ZRKjA": {
         "id": "zbrP1ZRKjA",
         "title": "1Q84. Книга 2",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 30
-        }
-    },
-    "PP86Ap317-": {
-        "id": "PP86Ap317-",
-        "title": "Повелитель мух",
-        "author": "Ульям Голдинг",
-        "notes": "",
-        "createdAt": "2019-09-01 06:18:12",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 46
         }
     }
 }
