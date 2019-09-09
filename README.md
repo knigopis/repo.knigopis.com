@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>128</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>122</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>52</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>125</sup> 
 [](users/110/110931306939441771638-google)<sup>11</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup> 
-[lo_st85](users/176/17659596-vkontakte)<sup>1</sup> 
 
 
-_09.09.2019 16:57:06_
+_09.09.2019 19:15:25_
