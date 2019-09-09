@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>122</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>52</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>26</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [sible](users/765/76561198018016919-steam)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup> 
 [lucius](users/838/83820536-yandex)<sup>150</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>121</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>125</sup> 
 [](users/110/110931306939441771638-google)<sup>11</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup> 
 [lo_st85](users/176/17659596-vkontakte)<sup>1</sup> 
 
 
-_08.09.2019 14:44:38_
+_09.09.2019 16:57:06_

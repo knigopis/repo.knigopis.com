@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 122,
+        "updatedAt": "2019-09-09 16:57:06"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -148,12 +154,6 @@
         "nickname": "lucius",
         "booksCount": 150,
         "updatedAt": "2019-08-31 07:02:09"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 121,
-        "updatedAt": "2019-08-30 18:48:19"
     },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
