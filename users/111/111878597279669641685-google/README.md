@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>150</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>151</sup>
 ---
 
 ## 2019
@@ -200,6 +200,10 @@
 
 
 ## Other years
+
+### Чарли и шоколадная фабрика
+Роальд Даль
+
 
 ### Дивовижні пригоди у лісовій школі
 Всеволод Нестайко
