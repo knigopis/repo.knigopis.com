@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>131</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>132</sup>
 ---
 
 ## 2019
@@ -200,6 +200,10 @@
 
 
 ## Other years
+
+### Очень приятно, Бог(Том 1-10)
+Джульетта Судзуки
+
 
 ### Загадка Черной вдовы
 А. Иванов, А. Устинова
