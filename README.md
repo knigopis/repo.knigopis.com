@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сердце дракона 3 ~ [Quaff](users/122/12267158-vkontakte)<sup>72</sup>
+    > И все-таки даже клеше может быть интересным.
+
 * 13 причин почему ~ [Euphoria](users/106/106304994652616315178-google)<sup>66</sup>
     > Книга читается очень легко. После прочтения захотелось глянуть сериал. Конечно целевая аудитория у этой книги это подростки, но думаю и для более старшего поколения полезно будет ее прочитать. Человек в таком состоянии, как Ханна Бейкер нуждается в поддержке, для нее казалось что все окончено, так рассуждают многие подростки, юношеский максимализм. Пережив подобный опыт, думаю, те люди, которым знакомо подобное состояние, знают, что жизнь наша не состоит только из плохих вещей.  Ведь если не будет плохого, то мы не будем ценить хорошее.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 втрата ваги при збереженні маси, що станеться у день 0?
 
 * ОНО ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup>
-    > 1248 стр.
 
 * Хто б міг подумати. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Подсказчик ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
 
-* Сборник "лекарство от меланхолии" ~ [Quaff](users/122/12267158-vkontakte)<sup>69</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Quaff](users/122/12267158-vkontakte)<sup>72</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>177</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>66</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>152</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Amedus](users/110/110264801141878066061-google)<sup>0</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>71</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>146</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>11</sup> 
 
 
-_10.09.2019 08:35:27_
+_10.09.2019 09:18:58_

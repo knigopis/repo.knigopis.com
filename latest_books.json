@@ -1,4 +1,16 @@
 {
+    "PFt7Y31SBy": {
+        "id": "PFt7Y31SBy",
+        "title": "Сердце дракона 3",
+        "author": "Кирилл Клеванский",
+        "notes": "И все-таки даже клеше может быть интересным.",
+        "createdAt": "2019-09-10 09:18:57",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 72
+        }
+    },
     "7YM3Gihxy5": {
         "id": "7YM3Gihxy5",
         "title": "Нетопырь",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 52
-        }
-    },
-    "GeHcvDq4-o": {
-        "id": "GeHcvDq4-o",
-        "title": "ОНО",
-        "author": "Стивен Кинг",
-        "notes": "1248 стр.",
-        "createdAt": "2019-09-08 13:24:18",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 81
         }
     }
 }
