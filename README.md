@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>177</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>66</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>152</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>122</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>71</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>176</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>146</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>11</sup> 
 
 
-_10.09.2019 05:24:33_
+_10.09.2019 08:35:27_
