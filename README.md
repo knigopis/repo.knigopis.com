@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>126</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>726</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>72</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>177</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [sible](users/765/76561198018016919-steam)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup> 
 [lucius](users/838/83820536-yandex)<sup>150</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>125</sup> 
 [](users/110/110931306939441771638-google)<sup>11</sup> 
 
 
-_10.09.2019 18:27:29_
+_10.09.2019 20:23:47_

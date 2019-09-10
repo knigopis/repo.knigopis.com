@@ -1,4 +1,16 @@
 {
+    "hduel57bPj": {
+        "id": "hduel57bPj",
+        "title": "Шрифт и дизайн",
+        "author": "Джеймс Крейг, Ирина Король Скала",
+        "notes": "",
+        "createdAt": "2019-09-10 20:23:47",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 126
+        }
+    },
     "QpNy3AdB8P": {
         "id": "QpNy3AdB8P",
         "title": "Бруклин",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 128
-        }
-    },
-    "rkij8qIkDu": {
-        "id": "rkij8qIkDu",
-        "title": "Метро 2034",
-        "author": "Глуховский Дмитрий",
-        "notes": "",
-        "createdAt": "2019-09-09 16:57:06",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 122
         }
     }
 }
