@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 13 причин почему ~ [Euphoria](users/106/106304994652616315178-google)<sup>66</sup>
+    > Книга читается очень легко. После прочтения захотелось глянуть сериал. Конечно целевая аудитория у этой книги это подростки, но думаю и для более старшего поколения полезно будет ее прочитать. Человек в таком состоянии, как Ханна Бейкер нуждается в поддержке, для нее казалось что все окончено, так рассуждают многие подростки, юношеский максимализм. Пережив подобный опыт, думаю, те люди, которым знакомо подобное состояние, знают, что жизнь наша не состоит только из плохих вещей.  Ведь если не будет плохого, то мы не будем ценить хорошее.
+
 * Піднесення ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>52</sup>
     > 10/10 втрата ваги при збереженні маси, що станеться у день 0?
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 1248 стр.
 
 * Хто б міг подумати. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup>
-    > 10/10 Дурниці, які мозг примушує нас робити. Їжа, кохання, залежність.
 
 * Витающие в облаках ~ [Chiffi](users/105/105831994080785626680-google)<sup>130</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сборник "лекарство от меланхолии" ~ [Quaff](users/122/12267158-vkontakte)<sup>69</sup>
 
-* Государь ~ [Quaff](users/122/12267158-vkontakte)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>66</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>152</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>122</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>52</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>150</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>125</sup> 
 [](users/110/110931306939441771638-google)<sup>11</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup> 
 
 
-_09.09.2019 19:50:45_
+_10.09.2019 05:24:33_

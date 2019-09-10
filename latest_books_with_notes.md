@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 13 причин почему ~ [Euphoria](users/106/106304994652616315178-google)<sup>66</sup>
 * Піднесення ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>52</sup>
 * ОНО ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup>
 * Хто б міг подумати. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup>
@@ -30,7 +31,6 @@
 * Коли Ніцше плакав ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup>
 * Маленькие женщины ~ [anvonamore](users/595/5957175-vkontakte)<sup>124</sup>
 * Хроники Амбера. Пятикнижие Корвина. Рука Оберона ~ [Garka](users/115/115753719718250012620-google)<sup>229</sup>
-* Каждый вдох ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>61</sup>
 
 
-_08.09.2019 14:44:38_
+_10.09.2019 05:24:33_

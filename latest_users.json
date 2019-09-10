@@ -1,4 +1,10 @@
 {
+    "106304994652616315178-google": {
+        "id": "106304994652616315178-google",
+        "nickname": "Euphoria",
+        "booksCount": 66,
+        "updatedAt": "2019-09-10 05:24:33"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 11,
         "updatedAt": "2019-08-30 05:10:53"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 62,
-        "updatedAt": "2019-08-29 12:34:17"
     }
 }
