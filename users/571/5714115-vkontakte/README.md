@@ -1,7 +1,12 @@
-# List of books read by [dmiro](http://vk.com/id5714115)<sup>5</sup>
+# List of books read by [dmiro](http://vk.com/id5714115)<sup>6</sup>
 ---
 
 ## 2016
+
+### О дивный новый мир
+Олдос Хаксли
+> [2016-05] 
+
 
 ### По ком звонит колокол
 Эрнест Хемингуэй
