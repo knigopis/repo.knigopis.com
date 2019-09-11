@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* К востоку от рая ~ [Garka](users/115/115753719718250012620-google)<sup>231</sup>
 * Сердце дракона 3 ~ [Quaff](users/122/12267158-vkontakte)<sup>72</sup>
 * 13 причин почему ~ [Euphoria](users/106/106304994652616315178-google)<sup>66</sup>
 * Піднесення ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>52</sup>
@@ -30,7 +31,6 @@
 * The Apprentice ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup>
 * ЗАГАДКА СФИНКСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
 * Коли Ніцше плакав ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup>
-* Маленькие женщины ~ [anvonamore](users/595/5957175-vkontakte)<sup>124</sup>
 
 
-_10.09.2019 09:18:58_
+_11.09.2019 15:05:52_
