@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmiro](users/571/5714115-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>47</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>27</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>0</sup> 
 [a.kolodko](users/898/89847972-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>126</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>726</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sible](users/765/76561198018016919-steam)<sup>0</sup> 
 
 
-_11.09.2019 15:05:52_
+_11.09.2019 15:21:58_

@@ -1,4 +1,16 @@
 {
+    "mSDYOMv9uR": {
+        "id": "mSDYOMv9uR",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2019-09-11 15:21:58",
+        "user": {
+            "id": "5714115-vkontakte",
+            "nickname": "dmiro",
+            "booksCount": 1
+        }
+    },
     "I3I29OkXtl": {
         "id": "I3I29OkXtl",
         "title": "К востоку от рая",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 132
-        }
-    },
-    "GJFU6KtO51": {
-        "id": "GJFU6KtO51",
-        "title": "Загадка Черной вдовы",
-        "author": "А. Иванов, А. Устинова",
-        "notes": "",
-        "createdAt": "2019-09-09 19:41:56",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 131
         }
     }
 }
