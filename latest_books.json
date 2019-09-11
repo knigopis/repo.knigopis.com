@@ -1,4 +1,16 @@
 {
+    "yG5rQcH7ZR": {
+        "id": "yG5rQcH7ZR",
+        "title": "Александр Куприн",
+        "author": "Рассказы",
+        "notes": "Перечитывала этот сборник несколько раз. Из любимых рассказов - \"Фиалки\", \"Солнечный удар\"",
+        "createdAt": "2019-09-11 15:37:03",
+        "user": {
+            "id": "5714115-vkontakte",
+            "nickname": "dmiro",
+            "booksCount": 9
+        }
+    },
     "AQb94crhAi": {
         "id": "AQb94crhAi",
         "title": "Зулейха открывает глаза",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 140
-        }
-    },
-    "qMiKTrrBvP": {
-        "id": "qMiKTrrBvP",
-        "title": "Тим Талер или проданный смех",
-        "author": "Джеймс Крюс",
-        "notes": "",
-        "createdAt": "2019-09-09 19:45:33",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 139
         }
     }
 }
