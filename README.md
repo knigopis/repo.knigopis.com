@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>27</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>0</sup> 
 [a.kolodko](users/898/89847972-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>126</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>122</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>52</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>26</sup> 
 [Я П](users/945/9459928506407080566-mailru)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>130</sup> 
 [Amedus](users/110/110264801141878066061-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup> 
 
 
-_11.09.2019 05:14:45_
+_11.09.2019 07:34:52_
