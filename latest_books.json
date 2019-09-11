@@ -1,4 +1,16 @@
 {
+    "4SR3fjP7sM": {
+        "id": "4SR3fjP7sM",
+        "title": "На Земле мы только учимся жить",
+        "author": "Валентин Бирюков",
+        "notes": "Эту книгу моя подруга дарила нескольким людям, в том числе и моей бабушке.",
+        "createdAt": "2019-09-11 15:26:47",
+        "user": {
+            "id": "5714115-vkontakte",
+            "nickname": "dmiro",
+            "booksCount": 3
+        }
+    },
     "OULLvoGwZE": {
         "id": "OULLvoGwZE",
         "title": "Святая книга оборотня",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 134
-        }
-    },
-    "rLpkeld1Gz": {
-        "id": "rLpkeld1Gz",
-        "title": "Бездомный Бог(Том 1-12)",
-        "author": "Адатитока",
-        "notes": "",
-        "createdAt": "2019-09-09 19:43:14",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 133
         }
     }
 }
