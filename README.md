@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dmiro](users/571/5714115-vkontakte)<sup>4</sup> 
+[dmiro](users/571/5714115-vkontakte)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>47</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>27</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sible](users/765/76561198018016919-steam)<sup>0</sup> 
 
 
-_11.09.2019 15:28:05_
+_11.09.2019 15:28:46_
