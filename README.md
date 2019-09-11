@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmiro](users/571/5714115-vkontakte)<sup>0</sup> 
 [a.kolodko](users/898/89847972-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>126</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>726</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Alex_lily](users/117/1178872-vkontakte)<sup>0</sup> 
 [sible](users/765/76561198018016919-steam)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup> 
-[lucius](users/838/83820536-yandex)<sup>150</sup> 
 
 
-_11.09.2019 05:01:35_
+_11.09.2019 05:14:45_
