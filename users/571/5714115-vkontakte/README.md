@@ -1,7 +1,12 @@
-# List of books read by [dmiro](http://vk.com/id5714115)<sup>10</sup>
+# List of books read by [dmiro](http://vk.com/id5714115)<sup>11</sup>
 ---
 
 ## 2016
+
+### Переговоры, обреченные на успех
+Диана Балыко
+> [2016-09] 
+
 
 ### Коллекционер
 Джон Фаулз
