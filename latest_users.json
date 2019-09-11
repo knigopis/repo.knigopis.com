@@ -1,4 +1,10 @@
 {
+    "57239276-vkontakte": {
+        "id": "57239276-vkontakte",
+        "nickname": "vladkozz",
+        "booksCount": 47,
+        "updatedAt": "2019-09-11 12:40:10"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -154,12 +160,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-09-01 12:14:09"
-    },
-    "57239276-vkontakte": {
-        "id": "57239276-vkontakte",
-        "nickname": "vladkozz",
-        "booksCount": 46,
-        "updatedAt": "2019-09-01 06:18:12"
     },
     "1178872-vkontakte": {
         "id": "1178872-vkontakte",

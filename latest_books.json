@@ -1,4 +1,16 @@
 {
+    "2Ozugh060e": {
+        "id": "2Ozugh060e",
+        "title": "Ночной дозор",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2019-09-11 12:40:10",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 47
+        }
+    },
     "P4c11-7Sjq": {
         "id": "P4c11-7Sjq",
         "title": "Страж",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 130
-        }
-    },
-    "39Ff--bPNA": {
-        "id": "39Ff--bPNA",
-        "title": "Простоквашино",
-        "author": "Эдуард Успенский",
-        "notes": "",
-        "createdAt": "2019-09-09 19:41:00",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 129
         }
     }
 }

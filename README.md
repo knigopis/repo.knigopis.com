@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>47</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>27</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>0</sup> 
 [a.kolodko](users/898/89847972-vkontakte)<sup>0</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Босоногий](users/109/109052178227950452885-google)<sup>0</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>30</sup> 
 [](users/146/146934491-vkontakte)<sup>0</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>46</sup> 
 [Alex_lily](users/117/1178872-vkontakte)<sup>0</sup> 
 [sible](users/765/76561198018016919-steam)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup> 
 
 
-_11.09.2019 07:34:52_
+_11.09.2019 12:40:11_
