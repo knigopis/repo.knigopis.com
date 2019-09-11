@@ -1,7 +1,12 @@
-# List of books read by [dmiro](http://vk.com/id5714115)<sup>1</sup>
+# List of books read by [dmiro](http://vk.com/id5714115)<sup>2</sup>
 ---
 
 ## 2016
+
+### Святая книга оборотня
+Виктор Пелевин
+> [2016-03] 
+
 
 ### Бойцовский клуб
 Чак Паланик
