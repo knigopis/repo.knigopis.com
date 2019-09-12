@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alteraa](users/289/289714610-vkontakte)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>12</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>47</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>30</sup> 
 [](users/146/146934491-vkontakte)<sup>0</sup> 
 [Alex_lily](users/117/1178872-vkontakte)<sup>0</sup> 
-[sible](users/765/76561198018016919-steam)<sup>0</sup> 
 
 
-_11.09.2019 15:40:43_
+_12.09.2019 05:56:34_
