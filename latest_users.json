@@ -1,4 +1,10 @@
 {
+    "289714610-vkontakte": {
+        "id": "289714610-vkontakte",
+        "nickname": "alteraa",
+        "booksCount": 0,
+        "updatedAt": "2019-09-12 05:56:28"
+    },
     "5714115-vkontakte": {
         "id": "5714115-vkontakte",
         "nickname": "dmiro",
@@ -172,11 +178,5 @@
         "nickname": "Alex_lily",
         "booksCount": 0,
         "updatedAt": "2019-08-31 19:43:31"
-    },
-    "76561198018016919-steam": {
-        "id": "76561198018016919-steam",
-        "nickname": "sible",
-        "booksCount": 0,
-        "updatedAt": "2019-08-31 17:03:29"
     }
 }
