@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>147</sup> 
 [книжный монстр](users/112/112827366114582937203-google)<sup>2</sup> 
 [alteraa](users/289/289714610-vkontakte)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>12</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Woc4onok213](users/103/103474005216004236389-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>146</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>22</sup> 
 [youno](users/302/302928912-vkontakte)<sup>31</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/146/146934491-vkontakte)<sup>0</sup> 
 
 
-_12.09.2019 07:13:54_
+_12.09.2019 15:19:09_
