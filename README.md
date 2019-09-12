@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/112/112827366114582937203-google)<sup>0</sup> 
+[книжный монстр](users/112/112827366114582937203-google)<sup>1</sup> 
 [alteraa](users/289/289714610-vkontakte)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>12</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/146/146934491-vkontakte)<sup>0</sup> 
 
 
-_12.09.2019 07:09:03_
+_12.09.2019 07:13:22_
