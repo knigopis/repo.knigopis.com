@@ -1,4 +1,10 @@
 {
+    "1146684568850703-facebook": {
+        "id": "1146684568850703-facebook",
+        "nickname": "Бызов Дмитрий",
+        "booksCount": 18,
+        "updatedAt": "2019-09-13 17:52:09"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -16,12 +22,6 @@
         "nickname": "4apa",
         "booksCount": 23,
         "updatedAt": "2019-09-13 10:55:27"
-    },
-    "1146684568850703-facebook": {
-        "id": "1146684568850703-facebook",
-        "nickname": "Бызов Дмитрий",
-        "booksCount": 17,
-        "updatedAt": "2019-09-13 08:48:23"
     },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",

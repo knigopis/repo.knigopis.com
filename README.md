@@ -37,10 +37,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>18</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>23</sup> 
-[Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>17</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>147</sup> 
 [книжный монстр](users/112/112827366114582937203-google)<sup>2</sup> 
 [alteraa](users/289/289714610-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Босоногий](users/109/109052178227950452885-google)<sup>0</sup> 
 
 
-_13.09.2019 15:23:54_
+_13.09.2019 17:52:09_

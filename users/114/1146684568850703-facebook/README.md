@@ -1,4 +1,4 @@
-# List of books read by [Бызов Дмитрий](https://www.facebook.com/profile.php?id=1146684568850703)<sup>17</sup>
+# List of books read by [Бызов Дмитрий](https://www.facebook.com/profile.php?id=1146684568850703)<sup>18</sup>
 ---
 
 ## 2019
@@ -52,6 +52,10 @@
 ### Хоббит
 Д.Р.Р. Толкин
 > [2018-12] 
+
+
+### Нечто серое
+Стивен Кинг
 
 
 ### Паскаль Бруно
