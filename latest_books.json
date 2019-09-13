@@ -1,4 +1,16 @@
 {
+    "TZpkK_Fk9f": {
+        "id": "TZpkK_Fk9f",
+        "title": "Доктор Серван",
+        "author": "А. Дюма",
+        "notes": "",
+        "createdAt": "2019-09-13 08:39:04",
+        "user": {
+            "id": "1146684568850703-facebook",
+            "nickname": "Бызов Дмитрий",
+            "booksCount": 10
+        }
+    },
     "NyiAHRHmgg": {
         "id": "NyiAHRHmgg",
         "title": "Ущелье дьявола",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 726
-        }
-    },
-    "PFt7Y31SBy": {
-        "id": "PFt7Y31SBy",
-        "title": "Сердце дракона 3",
-        "author": "Кирилл Клеванский",
-        "notes": "И все-таки даже клеше может быть интересным.",
-        "createdAt": "2019-09-10 09:18:57",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 72
         }
     }
 }
