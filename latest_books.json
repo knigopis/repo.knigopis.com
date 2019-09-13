@@ -1,4 +1,16 @@
 {
+    "uxb8R3iK6w": {
+        "id": "uxb8R3iK6w",
+        "title": "Зеленая миля",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2019-09-13 08:33:21",
+        "user": {
+            "id": "1146684568850703-facebook",
+            "nickname": "Бызов Дмитрий",
+            "booksCount": 3
+        }
+    },
     "n8acKP3APM": {
         "id": "n8acKP3APM",
         "title": "Туман",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 149
-        }
-    },
-    "ESZH50ZxJ-": {
-        "id": "ESZH50ZxJ-",
-        "title": "Братец Кролик и Братец Лис",
-        "author": "Джоэль Чандлер Харрис",
-        "notes": "",
-        "createdAt": "2019-09-09 19:49:05",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 148
         }
     }
 }
