@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>52</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>53</sup>
 ---
 
 ## 2019
+
+### Волшебники
+Лев Гроссман
+> [2019-09-13] 8/10 моб. Депрессивный Кью ищет смысл жизни в магии и стает королем Филлори.
+
 
 ### Піднесення
 Стівен Кінг

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Волшебники ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup>
+    > 8/10 моб. Депрессивный Кью ищет смысл жизни в магии и стает королем Филлори.
+
 * Неоконченные предания Нуменора и Средиземья ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup>
     > Наконец-то дошли руки :)
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Отличный винтажный учебник инфографики. И хотя многие кейсы уже разобраны в более новых изданиях, все равно читать интересно и познавательно. Если занимаетесь инфографикой - must have!
 
 * История на миллион долларов. Мастер-класс для сценаристов, писателей и не только ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>211</sup>
-    > Отличная и крайне плотная, конструктивная книга о законах сценарного жанра. Категорически рекомендую всем, кто работает с сюжетами.
 
 * К востоку от рая ~ [Garka](users/115/115753719718250012620-google)<sup>231</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Хто б міг подумати. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup>
 
-* Витающие в облаках ~ [Chiffi](users/105/105831994080785626680-google)<sup>130</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>23</sup> 
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>17</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>66</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>152</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>122</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>52</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup> 
 [Я П](users/945/9459928506407080566-mailru)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>130</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Босоногий](users/109/109052178227950452885-google)<sup>0</sup> 
 
 
-_13.09.2019 13:12:38_
+_13.09.2019 15:23:54_

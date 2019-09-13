@@ -1,4 +1,16 @@
 {
+    "jkUjRHo45O": {
+        "id": "jkUjRHo45O",
+        "title": "Волшебники",
+        "author": "Лев Гроссман",
+        "notes": "8/10 моб. Депрессивный Кью ищет смысл жизни в магии и стает королем Филлори.",
+        "createdAt": "2019-09-13 15:23:54",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 53
+        }
+    },
     "DADRyuOKkA": {
         "id": "DADRyuOKkA",
         "title": "Неоконченные предания Нуменора и Средиземья",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 109
-        }
-    },
-    "ber7cQyL0p": {
-        "id": "ber7cQyL0p",
-        "title": "Alibaba. История мирового восхождения от первого лица Подробнее: https://www.labirint.ru/books/586319/",
-        "author": "Дункан Кларк",
-        "notes": "Сухо, много имен и названий фирм. На 3+",
-        "createdAt": "2019-08-18 11:09:39",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 30
         }
     }
 }
