@@ -1,4 +1,16 @@
 {
+    "0nEuJKTJzL": {
+        "id": "0nEuJKTJzL",
+        "title": "Вирджиния Вулф",
+        "author": "На маяк",
+        "notes": "8/10",
+        "createdAt": "2019-09-13 20:35:10",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 110
+        }
+    },
     "jkUjRHo45O": {
         "id": "jkUjRHo45O",
         "title": "Волшебники",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 230
-        }
-    },
-    "59QWdYiw_v": {
-        "id": "59QWdYiw_v",
-        "title": "По направлению к Свану",
-        "author": "Марсель Пруст",
-        "notes": "10/10",
-        "createdAt": "2019-08-18 21:32:00",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 109
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "0nEuJKTJzL": {
+        "id": "0nEuJKTJzL",
+        "title": "Вирджиния Вулф",
+        "author": "На маяк",
+        "notes": "8/10",
+        "createdAt": "2019-09-13 20:35:10",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 110
+        }
+    },
     "8NUqa_QyG6": {
         "id": "8NUqa_QyG6",
         "title": "Нечто серое",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 10
-        }
-    },
-    "yG5rQcH7ZR": {
-        "id": "yG5rQcH7ZR",
-        "title": "Александр Куприн",
-        "author": "Рассказы",
-        "notes": "Перечитывала этот сборник несколько раз. Из любимых рассказов - \"Фиалки\", \"Солнечный удар\"",
-        "createdAt": "2019-09-11 15:37:03",
-        "user": {
-            "id": "5714115-vkontakte",
-            "nickname": "dmiro",
-            "booksCount": 9
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вирджиния Вулф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
+    > 8/10
+
 * Волшебники ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup>
     > 8/10 моб. Депрессивный Кью ищет смысл жизни в магии и стает королем Филлори.
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/140824562/
 
 * Графическое отображение фактов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>212</sup>
-    > Отличный винтажный учебник инфографики. И хотя многие кейсы уже разобраны в более новых изданиях, все равно читать интересно и познавательно. Если занимаетесь инфографикой - must have!
 
 * История на миллион долларов. Мастер-класс для сценаристов, писателей и не только ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>211</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * ОНО ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup>
 
-* Хто б міг подумати. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>110</sup> 
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>18</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
 [youno](users/302/302928912-vkontakte)<sup>31</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>38</sup> 
-[Босоногий](users/109/109052178227950452885-google)<sup>0</sup> 
 
 
-_13.09.2019 17:52:09_
+_13.09.2019 20:35:11_

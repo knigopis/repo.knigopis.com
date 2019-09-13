@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вирджиния Вулф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
 * Волшебники ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup>
 * Неоконченные предания Нуменора и Средиземья ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup>
 * Графическое отображение фактов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>212</sup>
@@ -30,7 +31,6 @@
 * Пикник на обочине ~ [Quaff](users/122/12267158-vkontakte)<sup>64</sup>
 * Государство ~ [Quaff](users/122/12267158-vkontakte)<sup>63</sup>
 * Хроники Амбера. Том 1. Пятикнижие Корвина. Владения Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>230</sup>
-* По направлению к Свану ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
 
 
-_13.09.2019 15:23:54_
+_13.09.2019 20:35:11_
