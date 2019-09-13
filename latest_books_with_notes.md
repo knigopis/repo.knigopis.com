@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Графическое отображение фактов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>212</sup>
 * История на миллион долларов. Мастер-класс для сценаристов, писателей и не только ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>211</sup>
 * К востоку от рая ~ [Garka](users/115/115753719718250012620-google)<sup>231</sup>
 * Сердце дракона 3 ~ [Quaff](users/122/12267158-vkontakte)<sup>72</sup>
@@ -30,7 +31,6 @@
 * По направлению к Свану ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
 * Alibaba. История мирового восхождения от первого лица Подробнее: https://www.labirint.ru/books/586319/ ~ [youno](users/302/302928912-vkontakte)<sup>30</sup>
 * The Apprentice ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup>
-* ЗАГАДКА СФИНКСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
 
 
-_13.09.2019 13:06:59_
+_13.09.2019 13:10:42_
