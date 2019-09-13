@@ -1,4 +1,16 @@
 {
+    "46Wvl8YcBI": {
+        "id": "46Wvl8YcBI",
+        "title": "Паскаль Бруно",
+        "author": "А. Дюма",
+        "notes": "",
+        "createdAt": "2019-09-13 08:39:39",
+        "user": {
+            "id": "1146684568850703-facebook",
+            "nickname": "Бызов Дмитрий",
+            "booksCount": 11
+        }
+    },
     "TZpkK_Fk9f": {
         "id": "TZpkK_Fk9f",
         "title": "Доктор Серван",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 126
-        }
-    },
-    "QpNy3AdB8P": {
-        "id": "QpNy3AdB8P",
-        "title": "Бруклин",
-        "author": "Колм Тойбин",
-        "notes": "",
-        "createdAt": "2019-09-10 18:27:27",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 726
         }
     }
 }
