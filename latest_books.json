@@ -1,4 +1,16 @@
 {
+    "vdb84thkFt": {
+        "id": "vdb84thkFt",
+        "title": "Сделай одолжение сдохни",
+        "author": "Д. Чейз",
+        "notes": "",
+        "createdAt": "2019-09-13 08:40:41",
+        "user": {
+            "id": "1146684568850703-facebook",
+            "nickname": "Бызов Дмитрий",
+            "booksCount": 13
+        }
+    },
     "gvleqIPTSc": {
         "id": "gvleqIPTSc",
         "title": "Преступление и наказание",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 47
-        }
-    },
-    "P4c11-7Sjq": {
-        "id": "P4c11-7Sjq",
-        "title": "Страж",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2019-09-11 07:34:52",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 27
         }
     }
 }
