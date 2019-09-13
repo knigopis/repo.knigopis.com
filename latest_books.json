@@ -1,4 +1,16 @@
 {
+    "gvleqIPTSc": {
+        "id": "gvleqIPTSc",
+        "title": "Преступление и наказание",
+        "author": "Ф. Достоевский",
+        "notes": "",
+        "createdAt": "2019-09-13 08:40:18",
+        "user": {
+            "id": "1146684568850703-facebook",
+            "nickname": "Бызов Дмитрий",
+            "booksCount": 12
+        }
+    },
     "46Wvl8YcBI": {
         "id": "46Wvl8YcBI",
         "title": "Паскаль Бруно",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 27
-        }
-    },
-    "hduel57bPj": {
-        "id": "hduel57bPj",
-        "title": "Шрифт и дизайн",
-        "author": "Джеймс Крейг, Ирина Король Скала",
-        "notes": "",
-        "createdAt": "2019-09-10 20:23:47",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 126
         }
     }
 }
