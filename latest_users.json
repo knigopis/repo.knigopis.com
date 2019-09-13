@@ -1,4 +1,10 @@
 {
+    "1146684568850703-facebook": {
+        "id": "1146684568850703-facebook",
+        "nickname": "Бызов Дмитрий",
+        "booksCount": 0,
+        "updatedAt": "2019-09-13 08:28:02"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "Окс",
         "booksCount": 30,
         "updatedAt": "2019-09-02 05:30:53"
-    },
-    "146934491-vkontakte": {
-        "id": "146934491-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-09-01 12:14:09"
     }
 }
