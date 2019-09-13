@@ -1,4 +1,16 @@
 {
+    "cqY-xRR8TS": {
+        "id": "cqY-xRR8TS",
+        "title": "Искусство легких касаний",
+        "author": "В. Пелевин",
+        "notes": "",
+        "createdAt": "2019-09-13 10:55:27",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 23
+        }
+    },
     "JTWSt8_jbN": {
         "id": "JTWSt8_jbN",
         "title": "Этот путь для савана",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 4
-        }
-    },
-    "4SR3fjP7sM": {
-        "id": "4SR3fjP7sM",
-        "title": "На Земле мы только учимся жить",
-        "author": "Валентин Бирюков",
-        "notes": "Эту книгу моя подруга дарила нескольким людям, в том числе и моей бабушке.",
-        "createdAt": "2019-09-11 15:26:47",
-        "user": {
-            "id": "5714115-vkontakte",
-            "nickname": "dmiro",
-            "booksCount": 3
         }
     }
 }

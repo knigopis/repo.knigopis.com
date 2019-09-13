@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 23,
+        "updatedAt": "2019-09-13 10:55:27"
+    },
     "1146684568850703-facebook": {
         "id": "1146684568850703-facebook",
         "nickname": "Бызов Дмитрий",
@@ -148,12 +154,6 @@
         "nickname": "dilost",
         "booksCount": 4,
         "updatedAt": "2019-09-03 15:08:54"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 22,
-        "updatedAt": "2019-09-03 09:01:50"
     },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
