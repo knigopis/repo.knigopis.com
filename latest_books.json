@@ -1,4 +1,16 @@
 {
+    "0FbvrseyK-": {
+        "id": "0FbvrseyK-",
+        "title": "Алмазы Эсмальди",
+        "author": "Д. Чейз",
+        "notes": "",
+        "createdAt": "2019-09-13 08:45:38",
+        "user": {
+            "id": "1146684568850703-facebook",
+            "nickname": "Бызов Дмитрий",
+            "booksCount": 16
+        }
+    },
     "qJYEuFGD0x": {
         "id": "qJYEuFGD0x",
         "title": "Дальнейшие приключения Робинзона Крузо",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 2
-        }
-    },
-    "mSDYOMv9uR": {
-        "id": "mSDYOMv9uR",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2019-09-11 15:21:58",
-        "user": {
-            "id": "5714115-vkontakte",
-            "nickname": "dmiro",
-            "booksCount": 1
         }
     }
 }
