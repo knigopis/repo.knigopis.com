@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* История на миллион долларов. Мастер-класс для сценаристов, писателей и не только ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>211</sup>
 * К востоку от рая ~ [Garka](users/115/115753719718250012620-google)<sup>231</sup>
 * Сердце дракона 3 ~ [Quaff](users/122/12267158-vkontakte)<sup>72</sup>
 * 13 причин почему ~ [Euphoria](users/106/106304994652616315178-google)<sup>66</sup>
@@ -30,7 +31,6 @@
 * Alibaba. История мирового восхождения от первого лица Подробнее: https://www.labirint.ru/books/586319/ ~ [youno](users/302/302928912-vkontakte)<sup>30</sup>
 * The Apprentice ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>48</sup>
 * ЗАГАДКА СФИНКСА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>80</sup>
-* Коли Ніцше плакав ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>47</sup>
 
 
-_11.09.2019 15:05:52_
+_13.09.2019 13:06:59_
