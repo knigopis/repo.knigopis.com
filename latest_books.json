@@ -1,4 +1,16 @@
 {
+    "JTWSt8_jbN": {
+        "id": "JTWSt8_jbN",
+        "title": "Этот путь для савана",
+        "author": "Д. Чейз",
+        "notes": "",
+        "createdAt": "2019-09-13 08:48:23",
+        "user": {
+            "id": "1146684568850703-facebook",
+            "nickname": "Бызов Дмитрий",
+            "booksCount": 17
+        }
+    },
     "0FbvrseyK-": {
         "id": "0FbvrseyK-",
         "title": "Алмазы Эсмальди",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 3
-        }
-    },
-    "OULLvoGwZE": {
-        "id": "OULLvoGwZE",
-        "title": "Святая книга оборотня",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2019-09-11 15:22:43",
-        "user": {
-            "id": "5714115-vkontakte",
-            "nickname": "dmiro",
-            "booksCount": 2
         }
     }
 }

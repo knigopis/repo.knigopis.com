@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>16</sup> 
+[Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>17</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>147</sup> 
 [книжный монстр](users/112/112827366114582937203-google)<sup>2</sup> 
 [alteraa](users/289/289714610-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>30</sup> 
 
 
-_13.09.2019 08:45:38_
+_13.09.2019 08:48:24_
