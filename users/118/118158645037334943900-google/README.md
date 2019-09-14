@@ -1,7 +1,12 @@
-# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>27</sup>
+# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>28</sup>
 ---
 
 ## 2019
+
+### Аутодафе
+Алексей Пехов
+> [2019-09-14] 
+
 
 ### Страж
 Алексей Пехов

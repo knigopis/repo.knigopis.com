@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>28</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>131</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>122</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>12</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>47</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>27</sup> 
 [a.kolodko](users/898/89847972-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>126</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>726</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>31</sup> 
 
 
-_14.09.2019 11:24:39_
+_14.09.2019 14:32:13_
