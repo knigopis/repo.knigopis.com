@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>93</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>28</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>131</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>122</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
-[youno](users/302/302928912-vkontakte)<sup>31</sup> 
 
 
-_14.09.2019 14:32:13_
+_14.09.2019 19:11:49_
