@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>121</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>122</sup>
 ---
 
 ## 2019
+
+### Кладбище  домашних животных
+Стивен Кинг
+> [2019-09-07] 
+
 
 ### PostgreSQL настройка и масштабирование
 А. Ю. Васильев

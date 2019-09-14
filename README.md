@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>122</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup> 
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>18</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
 [youno](users/302/302928912-vkontakte)<sup>31</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>38</sup> 
 
 
-_13.09.2019 20:35:11_
+_14.09.2019 06:57:14_
