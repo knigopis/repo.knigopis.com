@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 451 градус по Фаренгейту ~ [Chiffi](users/105/105831994080785626680-google)<sup>131</sup>
 * Вирджиния Вулф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
 * Волшебники ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup>
 * Неоконченные предания Нуменора и Средиземья ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup>
@@ -30,7 +31,6 @@
 * Тень и кость ~ [En](users/333/333646551-vkontakte)<sup>75</sup>
 * Пикник на обочине ~ [Quaff](users/122/12267158-vkontakte)<sup>64</sup>
 * Государство ~ [Quaff](users/122/12267158-vkontakte)<sup>63</sup>
-* Хроники Амбера. Том 1. Пятикнижие Корвина. Владения Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>230</sup>
 
 
-_13.09.2019 20:35:11_
+_14.09.2019 11:24:39_

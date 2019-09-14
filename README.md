@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 451 градус по Фаренгейту ~ [Chiffi](users/105/105831994080785626680-google)<sup>131</sup>
+    > Такое ощущение,  что писал про современный мир
+
 * Вирджиния Вулф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
     > 8/10
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 моб. Депрессивный Кью ищет смысл жизни в магии и стает королем Филлори.
 
 * Неоконченные предания Нуменора и Средиземья ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup>
-    > Наконец-то дошли руки :)
-    > 
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/140824562/
 
 * Графическое отображение фактов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>212</sup>
 
@@ -30,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Піднесення ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>52</sup>
 
-* ОНО ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>131</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>122</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup> 
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>18</sup> 
@@ -60,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>122</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup> 
 [Я П](users/945/9459928506407080566-mailru)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>130</sup> 
 [Amedus](users/110/110264801141878066061-google)<sup>0</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup> 
@@ -69,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>31</sup> 
 
 
-_14.09.2019 06:57:14_
+_14.09.2019 11:24:39_
