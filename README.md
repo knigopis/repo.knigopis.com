@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[killstation_666](users/112/112785103-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>727</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>93</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>28</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Woc4onok213](users/103/103474005216004236389-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
-[dilost](users/102/10206471247373307-facebook)<sup>4</sup> 
 
 
-_15.09.2019 17:09:52_
+_15.09.2019 19:27:01_
