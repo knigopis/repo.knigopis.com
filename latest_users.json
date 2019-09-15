@@ -1,4 +1,10 @@
 {
+    "112785103-vkontakte": {
+        "id": "112785103-vkontakte",
+        "nickname": "killstation_666",
+        "booksCount": 0,
+        "updatedAt": "2019-09-15 19:26:56"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 68,
         "updatedAt": "2019-09-05 09:17:49"
-    },
-    "10206471247373307-facebook": {
-        "id": "10206471247373307-facebook",
-        "nickname": "dilost",
-        "booksCount": 4,
-        "updatedAt": "2019-09-03 15:08:54"
     }
 }
