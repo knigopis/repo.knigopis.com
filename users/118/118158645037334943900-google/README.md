@@ -1,7 +1,12 @@
-# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>28</sup>
+# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>29</sup>
 ---
 
 ## 2019
+
+### Золотые костры
+Алексей Пехов
+> [2019-09-16] 
+
 
 ### Аутодафе
 Алексей Пехов

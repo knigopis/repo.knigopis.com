@@ -1,4 +1,16 @@
 {
+    "zKJ1j5cVLY": {
+        "id": "zKJ1j5cVLY",
+        "title": "Золотые костры",
+        "author": "Алексей Пехов",
+        "notes": "",
+        "createdAt": "2019-09-16 13:35:02",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 29
+        }
+    },
     "QHjELF-gDl": {
         "id": "QHjELF-gDl",
         "title": "Большая маленькая ложь",
@@ -345,18 +357,6 @@
             "id": "1146684568850703-facebook",
             "nickname": "Бызов Дмитрий",
             "booksCount": 1
-        }
-    },
-    "evjvyxWwpO": {
-        "id": "evjvyxWwpO",
-        "title": "Дым",
-        "author": "Дэн Вилета",
-        "notes": "",
-        "createdAt": "2019-09-12 15:19:08",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 147
         }
     }
 }

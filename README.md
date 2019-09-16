@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>29</sup> 
 [killstation_666](users/112/112785103-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>727</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>93</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>28</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>131</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>122</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
 
 
-_15.09.2019 19:27:01_
+_16.09.2019 13:35:02_
