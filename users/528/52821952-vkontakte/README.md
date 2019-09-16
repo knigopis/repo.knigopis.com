@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>110</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>111</sup>
 ---
 
 ## 2019
+
+### Соглядатай
+Владимир Набоков
+> [2019-09-16] 10/10
+
 
 ### Вирджиния Вулф
 На маяк

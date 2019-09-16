@@ -1,4 +1,16 @@
 {
+    "eBdq0UIZjO": {
+        "id": "eBdq0UIZjO",
+        "title": "Соглядатай",
+        "author": "Владимир Набоков",
+        "notes": "10/10",
+        "createdAt": "2019-09-16 19:57:06",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 111
+        }
+    },
     "4YEtR_H8VI": {
         "id": "4YEtR_H8VI",
         "title": "Каштанка",
@@ -345,18 +357,6 @@
             "id": "1146684568850703-facebook",
             "nickname": "Бызов Дмитрий",
             "booksCount": 4
-        }
-    },
-    "uxb8R3iK6w": {
-        "id": "uxb8R3iK6w",
-        "title": "Зеленая миля",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2019-09-13 08:33:21",
-        "user": {
-            "id": "1146684568850703-facebook",
-            "nickname": "Бызов Дмитрий",
-            "booksCount": 3
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "eBdq0UIZjO": {
+        "id": "eBdq0UIZjO",
+        "title": "Соглядатай",
+        "author": "Владимир Набоков",
+        "notes": "10/10",
+        "createdAt": "2019-09-16 19:57:06",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 111
+        }
+    },
     "IhtIEI1uqR": {
         "id": "IhtIEI1uqR",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 64
-        }
-    },
-    "XmprGxnCBA": {
-        "id": "XmprGxnCBA",
-        "title": "Государство",
-        "author": "Платон",
-        "notes": "Превосходящее все ожидание обсуждение справедливости и справедливого человека в идеальном государстве",
-        "createdAt": "2019-08-20 15:55:37",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 63
         }
     }
 }

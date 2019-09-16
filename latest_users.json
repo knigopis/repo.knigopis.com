@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 111,
+        "updatedAt": "2019-09-16 19:57:06"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -40,12 +46,6 @@
         "nickname": "afferens.lucem",
         "booksCount": 122,
         "updatedAt": "2019-09-14 06:57:14"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 110,
-        "updatedAt": "2019-09-13 20:35:10"
     },
     "1146684568850703-facebook": {
         "id": "1146684568850703-facebook",

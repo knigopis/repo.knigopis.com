@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Соглядатай ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
+    > 10/10
+
 * 451 градус по Фаренгейту ~ [Chiffi](users/105/105831994080785626680-google)<sup>131</sup>
     > Такое ощущение,  что писал про современный мир
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10
 
 * Волшебники ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup>
-    > 8/10 моб. Депрессивный Кью ищет смысл жизни в магии и стает королем Филлори.
 
 * Неоконченные предания Нуменора и Средиземья ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 13 причин почему ~ [Euphoria](users/106/106304994652616315178-google)<sup>66</sup>
 
-* Піднесення ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>52</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>154</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>29</sup> 
 [killstation_666](users/112/112785103-vkontakte)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>93</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>131</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>122</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>110</sup> 
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>18</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
 
 
-_16.09.2019 19:44:30_
+_16.09.2019 19:57:06_
