@@ -1,4 +1,10 @@
 {
+    "57239276-vkontakte": {
+        "id": "57239276-vkontakte",
+        "nickname": "vladkozz",
+        "booksCount": 48,
+        "updatedAt": "2019-09-17 04:53:34"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -100,12 +106,6 @@
         "nickname": "Garka",
         "booksCount": 231,
         "updatedAt": "2019-09-11 15:05:52"
-    },
-    "57239276-vkontakte": {
-        "id": "57239276-vkontakte",
-        "nickname": "vladkozz",
-        "booksCount": 47,
-        "updatedAt": "2019-09-11 12:40:10"
     },
     "89847972-vkontakte": {
         "id": "89847972-vkontakte",

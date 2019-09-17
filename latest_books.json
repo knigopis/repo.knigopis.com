@@ -1,4 +1,16 @@
 {
+    "w5V7fkOSqg": {
+        "id": "w5V7fkOSqg",
+        "title": "Превращение",
+        "author": "Ф.Кафка",
+        "notes": "",
+        "createdAt": "2019-09-17 04:53:34",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 48
+        }
+    },
     "eBdq0UIZjO": {
         "id": "eBdq0UIZjO",
         "title": "Соглядатай",
@@ -345,18 +357,6 @@
             "id": "1146684568850703-facebook",
             "nickname": "Бызов Дмитрий",
             "booksCount": 5
-        }
-    },
-    "aOARPP-5yB": {
-        "id": "aOARPP-5yB",
-        "title": "Хоббит",
-        "author": "Д.Р.Р. Толкин",
-        "notes": "",
-        "createdAt": "2019-09-13 08:35:40",
-        "user": {
-            "id": "1146684568850703-facebook",
-            "nickname": "Бызов Дмитрий",
-            "booksCount": 4
         }
     }
 }
