@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/101/10156575429062828-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>178</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>48</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Amedus](users/110/110264801141878066061-google)<sup>0</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
 
 
-_17.09.2019 07:11:51_
+_17.09.2019 17:33:53_
