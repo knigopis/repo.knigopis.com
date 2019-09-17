@@ -1,4 +1,10 @@
 {
+    "10156575429062828-facebook": {
+        "id": "10156575429062828-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-09-17 17:33:47"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 25,
         "updatedAt": "2019-09-05 17:31:42"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 68,
-        "updatedAt": "2019-09-05 09:17:49"
     }
 }
