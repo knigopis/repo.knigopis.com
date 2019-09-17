@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>178</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>48</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>154</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [a.kolodko](users/898/89847972-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>126</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>72</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>177</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>66</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>122</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
 
 
-_17.09.2019 04:53:34_
+_17.09.2019 07:11:51_
