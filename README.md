@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>728</sup> 
 [](users/101/10156575429062828-facebook)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>178</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>48</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>154</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>29</sup> 
 [killstation_666](users/112/112785103-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>727</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>93</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>131</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>122</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup> 
 
 
-_17.09.2019 17:37:23_
+_17.09.2019 18:51:51_

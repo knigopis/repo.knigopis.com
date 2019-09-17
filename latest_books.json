@@ -1,4 +1,16 @@
 {
+    "6jYM2BckQf": {
+        "id": "6jYM2BckQf",
+        "title": "Брида",
+        "author": "Пауло Коэльо",
+        "notes": "",
+        "createdAt": "2019-09-17 18:51:51",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 728
+        }
+    },
     "rlrWL8KmgJ": {
         "id": "rlrWL8KmgJ",
         "title": "100 лет и чемодан денег впридачу",
@@ -345,18 +357,6 @@
             "id": "1146684568850703-facebook",
             "nickname": "Бызов Дмитрий",
             "booksCount": 8
-        }
-    },
-    "yBky-X_nPZ": {
-        "id": "yBky-X_nPZ",
-        "title": "Ночь в Лиссабоне",
-        "author": "Э. М. Ремарк",
-        "notes": "",
-        "createdAt": "2019-09-13 08:37:39",
-        "user": {
-            "id": "1146684568850703-facebook",
-            "nickname": "Бызов Дмитрий",
-            "booksCount": 7
         }
     }
 }
