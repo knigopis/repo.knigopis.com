@@ -1,4 +1,16 @@
 {
+    "v3EVsqO7tC": {
+        "id": "v3EVsqO7tC",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2019-09-18 15:48:36",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 39
+        }
+    },
     "g5-NYnHfDw": {
         "id": "g5-NYnHfDw",
         "title": "Этюд в багровых тонах",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 10
-        }
-    },
-    "Q4fAwgZG-K": {
-        "id": "Q4fAwgZG-K",
-        "title": "Полное собрание рассказов",
-        "author": "Эдгар Аллан По",
-        "notes": "",
-        "createdAt": "2019-09-18 14:59:45",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 9
         }
     }
 }
