@@ -1,4 +1,16 @@
 {
+    "hVY9TOcCQb": {
+        "id": "hVY9TOcCQb",
+        "title": "Empire V / Ампир В",
+        "author": "Виктор Пелевин",
+        "notes": "Осовремененное Поколение П",
+        "createdAt": "2019-09-18 15:18:42",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 18
+        }
+    },
     "v38KL-YFXw": {
         "id": "v38KL-YFXw",
         "title": "Generation «П»",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 153
-        }
-    },
-    "zKJ1j5cVLY": {
-        "id": "zKJ1j5cVLY",
-        "title": "Золотые костры",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2019-09-16 13:35:02",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 29
         }
     }
 }
