@@ -1,4 +1,16 @@
 {
+    "ExgsMH-etK": {
+        "id": "ExgsMH-etK",
+        "title": "Процесс",
+        "author": "Кафка",
+        "notes": "",
+        "createdAt": "2019-09-18 14:52:42",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 3
+        }
+    },
     "ljXpv2G3wh": {
         "id": "ljXpv2G3wh",
         "title": "Москва-Петушки",
@@ -345,18 +357,6 @@
             "id": "1146684568850703-facebook",
             "nickname": "Бызов Дмитрий",
             "booksCount": 17
-        }
-    },
-    "0FbvrseyK-": {
-        "id": "0FbvrseyK-",
-        "title": "Алмазы Эсмальди",
-        "author": "Д. Чейз",
-        "notes": "",
-        "createdAt": "2019-09-13 08:45:38",
-        "user": {
-            "id": "1146684568850703-facebook",
-            "nickname": "Бызов Дмитрий",
-            "booksCount": 16
         }
     }
 }
