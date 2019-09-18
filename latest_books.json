@@ -1,4 +1,16 @@
 {
+    "ZBKnP3A5RV": {
+        "id": "ZBKnP3A5RV",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-09-18 14:53:14",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 4
+        }
+    },
     "ExgsMH-etK": {
         "id": "ExgsMH-etK",
         "title": "Процесс",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 23
-        }
-    },
-    "JTWSt8_jbN": {
-        "id": "JTWSt8_jbN",
-        "title": "Этот путь для савана",
-        "author": "Д. Чейз",
-        "notes": "",
-        "createdAt": "2019-09-13 08:48:23",
-        "user": {
-            "id": "1146684568850703-facebook",
-            "nickname": "Бызов Дмитрий",
-            "booksCount": 17
         }
     }
 }
