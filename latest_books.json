@@ -1,4 +1,16 @@
 {
+    "Q4fAwgZG-K": {
+        "id": "Q4fAwgZG-K",
+        "title": "Полное собрание рассказов",
+        "author": "Эдгар Аллан По",
+        "notes": "",
+        "createdAt": "2019-09-18 14:59:45",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 9
+        }
+    },
     "kb0PH3XPQv": {
         "id": "kb0PH3XPQv",
         "title": "Дверь в лето",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 53
-        }
-    },
-    "DADRyuOKkA": {
-        "id": "DADRyuOKkA",
-        "title": "Неоконченные предания Нуменора и Средиземья",
-        "author": "Джон Рональд Руэл Толкин",
-        "notes": "Наконец-то дошли руки :)\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/140824562/",
-        "createdAt": "2019-09-13 13:12:37",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 213
         }
     }
 }
