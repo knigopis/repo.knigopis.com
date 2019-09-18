@@ -1,4 +1,16 @@
 {
+    "GWsIielf0v": {
+        "id": "GWsIielf0v",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2019-09-18 15:38:00",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 29
+        }
+    },
     "M0XMgth9Hr": {
         "id": "M0XMgth9Hr",
         "title": "Заводной апельсин",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 179
-        }
-    },
-    "icyHZQIMWO": {
-        "id": "icyHZQIMWO",
-        "title": "Маленький лорд Фаунтлерой",
-        "author": "Фрэнсис Бернетт",
-        "notes": "",
-        "createdAt": "2019-09-18 05:41:55",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 157
         }
     }
 }
