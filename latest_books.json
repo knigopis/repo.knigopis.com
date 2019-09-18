@@ -1,4 +1,16 @@
 {
+    "ViMoJxAeDU": {
+        "id": "ViMoJxAeDU",
+        "title": "Облако в штанах",
+        "author": "Владимир Маяковский",
+        "notes": "Вершина поэзии",
+        "createdAt": "2019-09-18 15:50:00",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 40
+        }
+    },
     "v3EVsqO7tC": {
         "id": "v3EVsqO7tC",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 11
-        }
-    },
-    "GiBgI2aT5a": {
-        "id": "GiBgI2aT5a",
-        "title": "Сто лет одиночества",
-        "author": "Габриэль Гарсиа Маркес",
-        "notes": "",
-        "createdAt": "2019-09-18 15:02:33",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 10
         }
     }
 }
