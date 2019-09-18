@@ -1,4 +1,16 @@
 {
+    "M0XMgth9Hr": {
+        "id": "M0XMgth9Hr",
+        "title": "Заводной апельсин",
+        "author": "Энтони Бёрджесс",
+        "notes": "",
+        "createdAt": "2019-09-18 15:35:12",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 28
+        }
+    },
     "FuSTQ-AWQQ": {
         "id": "FuSTQ-AWQQ",
         "title": "Сияние",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 157
-        }
-    },
-    "i8GkSThq7k": {
-        "id": "i8GkSThq7k",
-        "title": "Гуттаперчевый мальчик",
-        "author": "Григорович Д.В.",
-        "notes": "",
-        "createdAt": "2019-09-18 05:41:23",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 156
         }
     }
 }
