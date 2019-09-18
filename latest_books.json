@@ -1,4 +1,16 @@
 {
+    "hFU23eLCO8": {
+        "id": "hFU23eLCO8",
+        "title": "",
+        "author": "Как Паланник Невидимки",
+        "notes": "",
+        "createdAt": "2019-09-18 05:34:40",
+        "user": {
+            "id": "174006853-vkontakte",
+            "nickname": "ker.forbs",
+            "booksCount": 1
+        }
+    },
     "6jYM2BckQf": {
         "id": "6jYM2BckQf",
         "title": "Брида",
@@ -345,18 +357,6 @@
             "id": "1146684568850703-facebook",
             "nickname": "Бызов Дмитрий",
             "booksCount": 9
-        }
-    },
-    "sa8RwIVx1D": {
-        "id": "sa8RwIVx1D",
-        "title": "Три товарища",
-        "author": "Э. М. Ремарк",
-        "notes": "",
-        "createdAt": "2019-09-13 08:38:06",
-        "user": {
-            "id": "1146684568850703-facebook",
-            "nickname": "Бызов Дмитрий",
-            "booksCount": 8
         }
     }
 }
