@@ -1,4 +1,16 @@
 {
+    "HdCh58hggU": {
+        "id": "HdCh58hggU",
+        "title": "Игра ангела",
+        "author": "Карлос Руис Сафон",
+        "notes": "",
+        "createdAt": "2019-09-18 17:37:02",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 94
+        }
+    },
     "8EflaCFqE_": {
         "id": "8EflaCFqE_",
         "title": "Женщины",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 20
-        }
-    },
-    "0hbs-CO0id": {
-        "id": "0hbs-CO0id",
-        "title": "Жёлтая стрела",
-        "author": "Виктор Пелевин",
-        "notes": "Метафора всепоглощающей рутины",
-        "createdAt": "2019-09-18 15:19:53",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 19
         }
     }
 }

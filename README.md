@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>94</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>47</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>159</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>179</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>29</sup> 
 [killstation_666](users/112/112785103-vkontakte)<sup>0</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>93</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>131</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>122</sup> 
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>18</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup> 
 
 
-_18.09.2019 17:18:05_
+_18.09.2019 17:37:02_
