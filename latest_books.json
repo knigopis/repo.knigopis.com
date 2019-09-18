@@ -1,4 +1,16 @@
 {
+    "g5-NYnHfDw": {
+        "id": "g5-NYnHfDw",
+        "title": "Этюд в багровых тонах",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2019-09-18 15:47:06",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 38
+        }
+    },
     "ZnJex99dLz": {
         "id": "ZnJex99dLz",
         "title": "Собака Баскервилей",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 9
-        }
-    },
-    "kb0PH3XPQv": {
-        "id": "kb0PH3XPQv",
-        "title": "Дверь в лето",
-        "author": "Роберт Хайнлайн",
-        "notes": "",
-        "createdAt": "2019-09-18 14:57:07",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 8
         }
     }
 }
