@@ -1,4 +1,16 @@
 {
+    "8EflaCFqE_": {
+        "id": "8EflaCFqE_",
+        "title": "Женщины",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2019-09-18 17:18:05",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 47
+        }
+    },
     "07LIRnIJUF": {
         "id": "07LIRnIJUF",
         "title": "Фото на развалинах",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 19
-        }
-    },
-    "hVY9TOcCQb": {
-        "id": "hVY9TOcCQb",
-        "title": "Empire V / Ампир В",
-        "author": "Виктор Пелевин",
-        "notes": "Осовремененное Поколение П",
-        "createdAt": "2019-09-18 15:18:42",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 18
         }
     }
 }
