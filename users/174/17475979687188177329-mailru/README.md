@@ -1,4 +1,4 @@
-# List of books read by [Человеколось](https://t.me/nerkin)<sup>47</sup>
+# List of books read by [Человеколось](https://t.me/nerkin)<sup>46</sup>
 ---
 
 ## 2019
@@ -157,8 +157,6 @@
 
 ### Полное собрание рассказов
 Эдгар Аллан По
-
-
 
 
 ### Процесс
