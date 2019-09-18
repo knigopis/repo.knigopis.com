@@ -1,4 +1,16 @@
 {
+    "0hbs-CO0id": {
+        "id": "0hbs-CO0id",
+        "title": "Жёлтая стрела",
+        "author": "Виктор Пелевин",
+        "notes": "Метафора всепоглощающей рутины",
+        "createdAt": "2019-09-18 15:19:53",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 19
+        }
+    },
     "hVY9TOcCQb": {
         "id": "hVY9TOcCQb",
         "title": "Empire V / Ампир В",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 154
-        }
-    },
-    "jIyuJ6UZJK": {
-        "id": "jIyuJ6UZJK",
-        "title": "SAVE ME",
-        "author": "Lico",
-        "notes": "",
-        "createdAt": "2019-09-16 19:43:58",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 153
         }
     }
 }
