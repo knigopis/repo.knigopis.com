@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>156</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>157</sup>
 ---
 
 ## 2019
@@ -200,6 +200,10 @@
 
 
 ## Other years
+
+### Маленький лорд Фаунтлерой
+Фрэнсис Бернетт
+
 
 ### Гуттаперчевый мальчик
 Григорович Д.В.
