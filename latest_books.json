@@ -1,4 +1,16 @@
 {
+    "AeWQQwrF3Y": {
+        "id": "AeWQQwrF3Y",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2019-09-18 15:34:20",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 26
+        }
+    },
     "-ZoG6gy28y": {
         "id": "-ZoG6gy28y",
         "title": "Малое собрание сочинений",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 155
-        }
-    },
-    "kibdFOvD-U": {
-        "id": "kibdFOvD-U",
-        "title": "",
-        "author": "Стивен Кинг Жребий Салема",
-        "notes": "",
-        "createdAt": "2019-09-18 05:38:50",
-        "user": {
-            "id": "174006853-vkontakte",
-            "nickname": "ker.forbs",
-            "booksCount": 4
         }
     }
 }

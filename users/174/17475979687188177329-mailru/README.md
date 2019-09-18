@@ -1,4 +1,4 @@
-# List of books read by [Человеколось](https://t.me/nerkin)<sup>25</sup>
+# List of books read by [Человеколось](https://t.me/nerkin)<sup>26</sup>
 ---
 
 ## 2019
@@ -82,6 +82,10 @@
 
 
 ## 2017
+
+### Бойцовский клуб
+Чак Паланик
+
 
 ### Чемодан
 Сергей Довлатов
