@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 179,
+        "updatedAt": "2019-09-18 08:05:11"
+    },
     "539382985-vkontakte": {
         "id": "539382985-vkontakte",
         "nickname": "Leilaomsk",
@@ -34,12 +40,6 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2019-09-17 17:37:23"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 178,
-        "updatedAt": "2019-09-17 07:11:51"
     },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",
