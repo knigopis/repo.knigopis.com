@@ -1,4 +1,16 @@
 {
+    "Rt-_1NEPp4": {
+        "id": "Rt-_1NEPp4",
+        "title": "Шатуны",
+        "author": "Юрий Мамлеев",
+        "notes": "",
+        "createdAt": "2019-09-18 15:59:47",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 45
+        }
+    },
     "rMC9haeQXW": {
         "id": "rMC9haeQXW",
         "title": "Он",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 16
-        }
-    },
-    "pnbMdLbFym": {
-        "id": "pnbMdLbFym",
-        "title": "Омон Ра",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2019-09-18 15:11:54",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 15
         }
     }
 }
