@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ker.forbs](users/174/174006853-vkontakte)<sup>2</sup> 
+[ker.forbs](users/174/174006853-vkontakte)<sup>3</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>728</sup> 
 [](users/101/10156575429062828-facebook)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>178</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Woc4onok213](users/103/103474005216004236389-google)<sup>0</sup> 
 
 
-_18.09.2019 05:36:18_
+_18.09.2019 05:37:20_
