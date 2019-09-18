@@ -1,4 +1,4 @@
-# List of books read by [Человеколось](https://t.me/nerkin)<sup>14</sup>
+# List of books read by [Человеколось](https://t.me/nerkin)<sup>15</sup>
 ---
 
 ## 2019
@@ -16,6 +16,10 @@
 ### Пир
 Владимир Сорокин
 > [2019-05] 
+
+
+### Омон Ра
+Виктор Пелевин
 
 
 

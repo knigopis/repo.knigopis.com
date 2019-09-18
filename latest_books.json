@@ -1,4 +1,16 @@
 {
+    "pnbMdLbFym": {
+        "id": "pnbMdLbFym",
+        "title": "Омон Ра",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2019-09-18 15:11:54",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 15
+        }
+    },
     "-scfUkRC71": {
         "id": "-scfUkRC71",
         "title": "Диалектика Переходного Периода из Ниоткуда в Никуда",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 93
-        }
-    },
-    "pRcvP6Zhdr": {
-        "id": "pRcvP6Zhdr",
-        "title": "Аутодафе",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2019-09-14 14:32:13",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 28
         }
     }
 }
