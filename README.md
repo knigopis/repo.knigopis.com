@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ker.forbs](users/174/174006853-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>728</sup> 
 [](users/101/10156575429062828-facebook)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>178</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Я П](users/945/9459928506407080566-mailru)<sup>0</sup> 
 [Amedus](users/110/110264801141878066061-google)<sup>0</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>0</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup> 
 
 
-_17.09.2019 18:51:51_
+_18.09.2019 05:32:35_
