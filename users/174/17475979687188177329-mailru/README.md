@@ -1,4 +1,4 @@
-# List of books read by [Человеколось](https://t.me/nerkin)<sup>29</sup>
+# List of books read by [Человеколось](https://t.me/nerkin)<sup>30</sup>
 ---
 
 ## 2019
@@ -31,6 +31,11 @@
 ### Пир
 Владимир Сорокин
 > [2019-05] 
+
+
+### Двенадцать стульев
+Илья Ильф и Евгений Петров
+> [2019-03-29] 
 
 
 ### Generation «П»
