@@ -1,4 +1,10 @@
 {
+    "174006853-vkontakte": {
+        "id": "174006853-vkontakte",
+        "nickname": "ker.forbs",
+        "booksCount": 0,
+        "updatedAt": "2019-09-18 05:32:27"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Woc4onok213",
         "booksCount": 0,
         "updatedAt": "2019-09-07 09:26:15"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 25,
-        "updatedAt": "2019-09-05 17:31:42"
     }
 }
