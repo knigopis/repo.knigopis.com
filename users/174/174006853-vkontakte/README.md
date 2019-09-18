@@ -1,5 +1,12 @@
-# List of books read by [ker.forbs](http://vk.com/id174006853)<sup>3</sup>
+# List of books read by [ker.forbs](http://vk.com/id174006853)<sup>4</sup>
 ---
+
+## 2019
+
+Стивен Кинг Жребий Салема
+> [2019-09-01] 
+
+
 
 ## 2018
 
