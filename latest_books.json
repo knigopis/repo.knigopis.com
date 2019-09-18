@@ -1,4 +1,16 @@
 {
+    "tiz3gKcRTG": {
+        "id": "tiz3gKcRTG",
+        "title": "Боишься ли ты темноты?",
+        "author": "Светлана и Николай Пономаревы",
+        "notes": "",
+        "createdAt": "2019-09-18 11:02:42",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 158
+        }
+    },
     "tvo9Lx5nGu": {
         "id": "tvo9Lx5nGu",
         "title": "Страх и ненависть в Лас-Вегасе",
@@ -345,18 +357,6 @@
             "id": "1146684568850703-facebook",
             "nickname": "Бызов Дмитрий",
             "booksCount": 14
-        }
-    },
-    "vdb84thkFt": {
-        "id": "vdb84thkFt",
-        "title": "Сделай одолжение сдохни",
-        "author": "Д. Чейз",
-        "notes": "",
-        "createdAt": "2019-09-13 08:40:41",
-        "user": {
-            "id": "1146684568850703-facebook",
-            "nickname": "Бызов Дмитрий",
-            "booksCount": 13
         }
     }
 }

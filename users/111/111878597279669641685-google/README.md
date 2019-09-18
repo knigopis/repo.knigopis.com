@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>157</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>158</sup>
 ---
 
 ## 2019
+
+### Боишься ли ты темноты?
+Светлана и Николай Пономаревы
+> [2019-09-18] 
+
 
 ### В дурном обществе
 Владимир Короленко
