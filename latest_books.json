@@ -1,4 +1,16 @@
 {
+    "xGcZ924PWT": {
+        "id": "xGcZ924PWT",
+        "title": "Государь",
+        "author": "Никколо Макиавелли",
+        "notes": "",
+        "createdAt": "2019-09-18 15:51:07",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 41
+        }
+    },
     "ViMoJxAeDU": {
         "id": "ViMoJxAeDU",
         "title": "Облако в штанах",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 12
-        }
-    },
-    "VkhpqWI0H-": {
-        "id": "VkhpqWI0H-",
-        "title": "Мы",
-        "author": "Евгений Замятин",
-        "notes": "",
-        "createdAt": "2019-09-18 15:03:25",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 11
         }
     }
 }
