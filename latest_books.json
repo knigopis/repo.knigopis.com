@@ -1,4 +1,28 @@
 {
+    "ljXpv2G3wh": {
+        "id": "ljXpv2G3wh",
+        "title": "Москва-Петушки",
+        "author": "Венедикт Ерофеев",
+        "notes": "Алко-библейское путешествие в рай-деревню Петушки",
+        "createdAt": "2019-09-18 12:12:45",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Константин Cкиндер",
+            "booksCount": 2
+        }
+    },
+    "PFpM12KNqC": {
+        "id": "PFpM12KNqC",
+        "title": "Освенцим. Нацисты и \"окончательное решение еврейского вопроса\"",
+        "author": "Лоуренс Рис",
+        "notes": "",
+        "createdAt": "2019-09-18 12:10:46",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Константин Cкиндер",
+            "booksCount": 1
+        }
+    },
     "tiz3gKcRTG": {
         "id": "tiz3gKcRTG",
         "title": "Боишься ли ты темноты?",
@@ -333,30 +357,6 @@
             "id": "1146684568850703-facebook",
             "nickname": "Бызов Дмитрий",
             "booksCount": 16
-        }
-    },
-    "qJYEuFGD0x": {
-        "id": "qJYEuFGD0x",
-        "title": "Дальнейшие приключения Робинзона Крузо",
-        "author": "Дефо",
-        "notes": "",
-        "createdAt": "2019-09-13 08:42:07",
-        "user": {
-            "id": "1146684568850703-facebook",
-            "nickname": "Бызов Дмитрий",
-            "booksCount": 15
-        }
-    },
-    "eMmdTpG7Sy": {
-        "id": "eMmdTpG7Sy",
-        "title": "Приключения Робинзона Крузо.",
-        "author": "Дефо",
-        "notes": "",
-        "createdAt": "2019-09-13 08:41:47",
-        "user": {
-            "id": "1146684568850703-facebook",
-            "nickname": "Бызов Дмитрий",
-            "booksCount": 14
         }
     }
 }
