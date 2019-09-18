@@ -1,4 +1,16 @@
 {
+    "aiNSjN2Wtl": {
+        "id": "aiNSjN2Wtl",
+        "title": "Двойник",
+        "author": "Фёдор Достоевский",
+        "notes": "",
+        "createdAt": "2019-09-18 15:44:49",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 34
+        }
+    },
     "d8YjuHAwVa": {
         "id": "d8YjuHAwVa",
         "title": "Трудно быть богом",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 4
-        }
-    },
-    "ExgsMH-etK": {
-        "id": "ExgsMH-etK",
-        "title": "Процесс",
-        "author": "Кафка",
-        "notes": "",
-        "createdAt": "2019-09-18 14:52:42",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 3
         }
     }
 }
