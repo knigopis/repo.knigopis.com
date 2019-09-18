@@ -1,4 +1,16 @@
 {
+    "8IcXCEAVUK": {
+        "id": "8IcXCEAVUK",
+        "title": "Последнее желание",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2019-09-18 15:55:36",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 42
+        }
+    },
     "xGcZ924PWT": {
         "id": "xGcZ924PWT",
         "title": "Государь",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 13
-        }
-    },
-    "CLWRkl9pqP": {
-        "id": "CLWRkl9pqP",
-        "title": "Кары (Приговор, Превращение, В исправительной колонии)",
-        "author": "Франц Кафка",
-        "notes": "",
-        "createdAt": "2019-09-18 15:05:50",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 12
         }
     }
 }
