@@ -1,4 +1,16 @@
 {
+    "MK94dgnfCs": {
+        "id": "MK94dgnfCs",
+        "title": "Синий фонарь",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2019-09-18 15:25:38",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 21
+        }
+    },
     "QjUVW1G99s": {
         "id": "QjUVW1G99s",
         "title": "Ананасная вода для прекрасной дамы",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 48
-        }
-    },
-    "eBdq0UIZjO": {
-        "id": "eBdq0UIZjO",
-        "title": "Соглядатай",
-        "author": "Владимир Набоков",
-        "notes": "10/10",
-        "createdAt": "2019-09-16 19:57:06",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 111
         }
     }
 }
