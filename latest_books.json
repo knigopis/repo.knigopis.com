@@ -1,4 +1,16 @@
 {
+    "GiBgI2aT5a": {
+        "id": "GiBgI2aT5a",
+        "title": "Сто лет одиночества",
+        "author": "Габриэль Гарсиа Маркес",
+        "notes": "",
+        "createdAt": "2019-09-18 15:02:33",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 10
+        }
+    },
     "Q4fAwgZG-K": {
         "id": "Q4fAwgZG-K",
         "title": "Полное собрание рассказов",
@@ -345,18 +357,6 @@
             "id": "1146684568850703-facebook",
             "nickname": "Бызов Дмитрий",
             "booksCount": 18
-        }
-    },
-    "jkUjRHo45O": {
-        "id": "jkUjRHo45O",
-        "title": "Волшебники",
-        "author": "Лев Гроссман",
-        "notes": "8/10 моб. Депрессивный Кью ищет смысл жизни в магии и стает королем Филлори.",
-        "createdAt": "2019-09-13 15:23:54",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 53
         }
     }
 }
