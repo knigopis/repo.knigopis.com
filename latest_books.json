@@ -1,4 +1,16 @@
 {
+    "LDewLTziAr": {
+        "id": "LDewLTziAr",
+        "title": "Жизнь насекомых",
+        "author": "Виктор Пелевин",
+        "notes": "Магический в̶о̶с̶т̶о̶ч̶н̶о̶-̶е̶в̶р̶о̶п̶е̶й̶с̶к̶и̶й реализм.",
+        "createdAt": "2019-09-18 15:14:21",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 16
+        }
+    },
     "pnbMdLbFym": {
         "id": "pnbMdLbFym",
         "title": "Омон Ра",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 727
-        }
-    },
-    "AnhfWprbUV": {
-        "id": "AnhfWprbUV",
-        "title": "Часодеи. Часовой ключ",
-        "author": "Наталья Щерба",
-        "notes": "",
-        "createdAt": "2019-09-14 19:11:49",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 93
         }
     }
 }
