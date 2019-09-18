@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Константин Cкиндер](users/174/17475979687188177329-mailru)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>158</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>179</sup> 
 [Leilaomsk](users/539/539382985-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>66</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>122</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup> 
-[Я П](users/945/9459928506407080566-mailru)<sup>0</sup> 
 
 
-_18.09.2019 11:02:42_
+_18.09.2019 12:09:00_
