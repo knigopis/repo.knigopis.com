@@ -1,4 +1,16 @@
 {
+    "YMNHFrnEgk": {
+        "id": "YMNHFrnEgk",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2019-09-18 15:30:44",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 23
+        }
+    },
     "63Z0KDApt_": {
         "id": "63Z0KDApt_",
         "title": "Сфагнум",
@@ -345,18 +357,6 @@
             "id": "10156575429062828-facebook",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "fYl5yGvXVJ": {
-        "id": "fYl5yGvXVJ",
-        "title": "Пока твоя подружка в коме",
-        "author": "Дуглас Коулэнд",
-        "notes": "",
-        "createdAt": "2019-09-17 07:11:51",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 178
         }
     }
 }
