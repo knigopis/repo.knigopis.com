@@ -1,4 +1,16 @@
 {
+    "CLWRkl9pqP": {
+        "id": "CLWRkl9pqP",
+        "title": "Кары (Приговор, Превращение, В исправительной колонии)",
+        "author": "Франц Кафка",
+        "notes": "",
+        "createdAt": "2019-09-18 15:05:50",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 12
+        }
+    },
     "VkhpqWI0H-": {
         "id": "VkhpqWI0H-",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 122
-        }
-    },
-    "0nEuJKTJzL": {
-        "id": "0nEuJKTJzL",
-        "title": "Вирджиния Вулф",
-        "author": "На маяк",
-        "notes": "8/10",
-        "createdAt": "2019-09-13 20:35:10",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 110
         }
     }
 }
