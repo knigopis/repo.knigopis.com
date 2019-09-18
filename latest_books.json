@@ -1,4 +1,16 @@
 {
+    "v38KL-YFXw": {
+        "id": "v38KL-YFXw",
+        "title": "Generation «П»",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2019-09-18 15:15:51",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 17
+        }
+    },
     "LDewLTziAr": {
         "id": "LDewLTziAr",
         "title": "Жизнь насекомых",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 29
-        }
-    },
-    "QHjELF-gDl": {
-        "id": "QHjELF-gDl",
-        "title": "Большая маленькая ложь",
-        "author": "Лиана Мориарти",
-        "notes": "",
-        "createdAt": "2019-09-15 17:09:51",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 727
         }
     }
 }
