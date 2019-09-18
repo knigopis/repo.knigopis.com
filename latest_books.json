@@ -1,4 +1,16 @@
 {
+    "uTz0hHZo9p": {
+        "id": "uTz0hHZo9p",
+        "title": "Остров сокровищ",
+        "author": "Роберт Стивенсон",
+        "notes": "",
+        "createdAt": "2019-09-18 15:45:22",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 35
+        }
+    },
     "aiNSjN2Wtl": {
         "id": "aiNSjN2Wtl",
         "title": "Двойник",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 5
-        }
-    },
-    "ZBKnP3A5RV": {
-        "id": "ZBKnP3A5RV",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-09-18 14:53:14",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 4
         }
     }
 }
