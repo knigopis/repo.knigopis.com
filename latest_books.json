@@ -1,4 +1,16 @@
 {
+    "SXmAQ-7vK2": {
+        "id": "SXmAQ-7vK2",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-09-18 16:02:17",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 46
+        }
+    },
     "Rt-_1NEPp4": {
         "id": "Rt-_1NEPp4",
         "title": "Шатуны",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 17
-        }
-    },
-    "LDewLTziAr": {
-        "id": "LDewLTziAr",
-        "title": "Жизнь насекомых",
-        "author": "Виктор Пелевин",
-        "notes": "Магический в̶о̶с̶т̶о̶ч̶н̶о̶-̶е̶в̶р̶о̶п̶е̶й̶с̶к̶и̶й реализм.",
-        "createdAt": "2019-09-18 15:14:21",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 16
         }
     }
 }
