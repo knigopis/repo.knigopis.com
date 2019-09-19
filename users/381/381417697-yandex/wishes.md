@@ -55,12 +55,12 @@ Joel Spolsky
 ### `` Мертвые души
 Николай Гоголь
 
+### `` Formalized Music
+Янис Ксенакис
+> 1963
+
 ### `` Искусство программирования
 Дональд Кнут
-
-### `` Set Theory
-Мильтон Бэббит
-> 1992
 
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
@@ -76,11 +76,15 @@ Eric S. Raymond
 
 ### `` Тонкое искусство пофигизма
 
+### `` Set Theory
+Мильтон Бэббит
+> 1992
+
 ### `` Permanent Record
 Edward Snowden
 
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
+### `` Герой нашего времени
+Михаил Лермонтов
 
 ### `` Hacking: Art of Exploitation
 Jon Erickson
@@ -93,20 +97,20 @@ Dafydd Stuttard, Marcus Pinto
 ### `` Братья Карамазовы
 Фёдор Достоевский
 
-### `` Герой нашего времени
-Михаил Лермонтов
-
 ### `` Повелитель мух
 Уильям Голдинг
+
+### `` A Briefer History of Time
+Stephen Hawking
+
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
 
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
 
 ### `` Agile Estimating and Planning
 Mike Cohn
-
-### `` A Briefer History of Time
-Stephen Hawking
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
