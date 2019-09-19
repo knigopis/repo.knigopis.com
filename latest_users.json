@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 729,
+        "updatedAt": "2019-09-19 09:39:42"
+    },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",
         "nickname": "Человеколось",
@@ -40,12 +46,6 @@
         "nickname": "ker.forbs",
         "booksCount": 4,
         "updatedAt": "2019-09-18 05:38:50"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 728,
-        "updatedAt": "2019-09-17 18:51:51"
     },
     "10156575429062828-facebook": {
         "id": "10156575429062828-facebook",
