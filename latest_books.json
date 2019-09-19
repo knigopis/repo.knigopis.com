@@ -1,4 +1,16 @@
 {
+    "icKt-VnA9q": {
+        "id": "icKt-VnA9q",
+        "title": "День опричника",
+        "author": "Владимир Сорокин",
+        "notes": "",
+        "createdAt": "2019-09-19 10:15:22",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 46
+        }
+    },
     "Y3PQDWQwGx": {
         "id": "Y3PQDWQwGx",
         "title": "Убик",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 22
-        }
-    },
-    "MK94dgnfCs": {
-        "id": "MK94dgnfCs",
-        "title": "Синий фонарь",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2019-09-18 15:25:38",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 21
         }
     }
 }
