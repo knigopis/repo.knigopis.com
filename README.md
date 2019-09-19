@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Человеколось](users/174/17475979687188177329-mailru)<sup>45</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>729</sup> 
-[Человеколось](users/174/17475979687188177329-mailru)<sup>46</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>94</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>159</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>179</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup> 
 
 
-_19.09.2019 09:39:43_
+_19.09.2019 10:12:27_
