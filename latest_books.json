@@ -1,4 +1,16 @@
 {
+    "iDxDGM2DrO": {
+        "id": "iDxDGM2DrO",
+        "title": "",
+        "author": "олди",
+        "notes": "",
+        "createdAt": "2019-09-20 21:35:35",
+        "user": {
+            "id": "45795901-vkontakte",
+            "nickname": "dmitriev.ivashka",
+            "booksCount": 1
+        }
+    },
     "IRZEtCldA7": {
         "id": "IRZEtCldA7",
         "title": "Проклятый горн",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 26
-        }
-    },
-    "-ZoG6gy28y": {
-        "id": "-ZoG6gy28y",
-        "title": "Малое собрание сочинений",
-        "author": "Сергей Довлатов",
-        "notes": "Зона, Компромисс, Заповедник, Наши, Филиал",
-        "createdAt": "2019-09-18 15:33:15",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 25
         }
     }
 }

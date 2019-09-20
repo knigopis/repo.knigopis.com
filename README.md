@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmitriev.ivashka](users/457/45795901-vkontakte)<sup>1</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>30</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>160</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>123</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>126</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>72</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>66</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup> 
 
 
-_20.09.2019 14:02:36_
+_20.09.2019 21:35:35_
