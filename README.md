@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>123</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>46</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>729</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>94</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>126</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>72</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>66</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>122</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup> 
 
 
-_19.09.2019 10:15:22_
+_20.09.2019 10:38:15_

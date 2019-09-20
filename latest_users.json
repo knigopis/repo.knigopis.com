@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 123,
+        "updatedAt": "2019-09-20 10:38:15"
+    },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",
         "nickname": "Человеколось",
@@ -166,12 +172,6 @@
         "nickname": "Euphoria",
         "booksCount": 66,
         "updatedAt": "2019-09-10 05:24:33"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 122,
-        "updatedAt": "2019-09-09 16:57:06"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
