@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>159</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>160</sup>
 ---
 
 ## 2019
+
+### Настя
+Владимир Сорокин
+> [2019-09-20] 
+
 
 ### Фото на развалинах
 Светлана и Николай Пономаревы
