@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>54</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>55</sup>
 ---
 
 ## 2019
+
+### Таємниці та загадки медицини
+Енциклопедія
+> [2019-09-21] 8/10 гарні ілюстрації.
+
 
 ### Колымские рассказы
 Валаам Шаламов

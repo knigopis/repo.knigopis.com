@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Таємниці та загадки медицини ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>55</sup>
+    > 8/10 гарні ілюстрації.
+
 * Колымские рассказы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>54</sup>
     > 9/10 Страшная правдивая книга о том, что творить с человеком голод, мороз и совецкие лагеря.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 480 стр.
 
 * Соглядатай ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
-    > 10/10
 
 * 451 градус по Фаренгейту ~ [Chiffi](users/105/105831994080785626680-google)<sup>131</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * История на миллион долларов. Мастер-класс для сценаристов, писателей и не только ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>211</sup>
 
-* К востоку от рая ~ [Garka](users/115/115753719718250012620-google)<sup>231</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>54</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>55</sup> 
 [Avery](users/567/56734832-yandex)<sup>77</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>32</sup> 
 [Nikita](users/100/100459059793796611659-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [a.kolodko](users/898/89847972-vkontakte)<sup>0</sup> 
 
 
-_21.09.2019 18:38:57_
+_21.09.2019 18:41:31_
