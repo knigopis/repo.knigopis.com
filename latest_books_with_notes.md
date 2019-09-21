@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Колымские рассказы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>54</sup>
 * ИНТЕРЕСНЫЕ ВРЕМЕНА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup>
 * Соглядатай ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
 * 451 градус по Фаренгейту ~ [Chiffi](users/105/105831994080785626680-google)<sup>131</sup>
@@ -30,7 +31,6 @@
 * Удивительная палеонтология ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
 * В'язні зеленої дачі ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>49</sup>
 * Operation Dark Heart: Spycraft and Special Ops on the Frontlines of Afghanistan -- and The Path to Victory ~ [exulted](users/100/100599204551896265722-google)<sup>117</sup>
-* Тень и кость ~ [En](users/333/333646551-vkontakte)<sup>75</sup>
 
 
-_21.09.2019 10:26:21_
+_21.09.2019 18:38:57_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>53</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>54</sup>
 ---
 
 ## 2019
+
+### Колымские рассказы
+Валаам Шаламов
+> [2019-09-20] 9/10 Страшная правдивая книга о том, что творить с человеком голод, мороз и совецкие лагеря.
+
 
 ### Волшебники
 Лев Гроссман

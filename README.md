@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Колымские рассказы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>54</sup>
+    > 9/10 Страшная правдивая книга о том, что творить с человеком голод, мороз и совецкие лагеря.
+
 * ИНТЕРЕСНЫЕ ВРЕМЕНА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup>
     > 480 стр.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * 451 градус по Фаренгейту ~ [Chiffi](users/105/105831994080785626680-google)<sup>131</sup>
-    > Такое ощущение,  что писал про современный мир
 
 * Вирджиния Вулф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * К востоку от рая ~ [Garka](users/115/115753719718250012620-google)<sup>231</sup>
 
-* Сердце дракона 3 ~ [Quaff](users/122/12267158-vkontakte)<sup>72</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>54</sup> 
 [Avery](users/567/56734832-yandex)<sup>77</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>32</sup> 
 [Nikita](users/100/100459059793796611659-google)<sup>0</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>131</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>122</sup> 
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>18</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>23</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>147</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [a.kolodko](users/898/89847972-vkontakte)<sup>0</sup> 
 
 
-_21.09.2019 17:51:09_
+_21.09.2019 18:38:57_
