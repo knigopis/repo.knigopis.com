@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 82,
+        "updatedAt": "2019-09-21 10:26:21"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "Quaff",
         "booksCount": 72,
         "updatedAt": "2019-09-10 09:18:57"
-    },
-    "106304994652616315178-google": {
-        "id": "106304994652616315178-google",
-        "nickname": "Euphoria",
-        "booksCount": 66,
-        "updatedAt": "2019-09-10 05:24:33"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "k67wGyuha6": {
+        "id": "k67wGyuha6",
+        "title": "ИНТЕРЕСНЫЕ ВРЕМЕНА",
+        "author": "Терри Пратчетт",
+        "notes": "480 стр.",
+        "createdAt": "2019-09-21 10:26:21",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 82
+        }
+    },
     "9KehCejv5c": {
         "id": "9KehCejv5c",
         "title": "Ритуал",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 28
-        }
-    },
-    "FuSTQ-AWQQ": {
-        "id": "FuSTQ-AWQQ",
-        "title": "Сияние",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2019-09-18 15:34:42",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 27
         }
     }
 }

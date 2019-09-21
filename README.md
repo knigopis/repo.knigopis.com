@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ИНТЕРЕСНЫЕ ВРЕМЕНА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup>
+    > 480 стр.
+
 * Соглядатай ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
     > 10/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Такое ощущение,  что писал про современный мир
 
 * Вирджиния Вулф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
-    > 8/10
 
 * Волшебники ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сердце дракона 3 ~ [Quaff](users/122/12267158-vkontakte)<sup>72</sup>
 
-* 13 причин почему ~ [Euphoria](users/106/106304994652616315178-google)<sup>66</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>31</sup> 
 [dmitriev.ivashka](users/457/45795901-vkontakte)<sup>1</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>160</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [a.kolodko](users/898/89847972-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>126</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>72</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>66</sup> 
 
 
-_21.09.2019 04:57:51_
+_21.09.2019 10:26:21_
