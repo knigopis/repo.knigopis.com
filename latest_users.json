@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 32,
+        "updatedAt": "2019-09-21 14:46:19"
+    },
     "56734832-yandex": {
         "id": "56734832-yandex",
         "nickname": "Avery",
@@ -16,12 +22,6 @@
         "nickname": "GvenVivar ",
         "booksCount": 82,
         "updatedAt": "2019-09-21 10:26:21"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 31,
-        "updatedAt": "2019-09-21 04:57:51"
     },
     "45795901-vkontakte": {
         "id": "45795901-vkontakte",

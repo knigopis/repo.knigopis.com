@@ -1,7 +1,12 @@
-# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>31</sup>
+# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>32</sup>
 ---
 
 ## 2019
+
+### Vita Nostra
+Марина и Сергей Дяченко
+> [2019-09-21] 
+
 
 ### Ритуал
 Марина и Сергей Дяченко
