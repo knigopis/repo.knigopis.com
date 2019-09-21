@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>160</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>161</sup>
 ---
 
 ## 2019
+
+### Город без войны
+Светлана и Николай Пономаревы
+> [2019-09-21] 
+
 
 ### Настя
 Владимир Сорокин
