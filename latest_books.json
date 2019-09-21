@@ -1,4 +1,16 @@
 {
+    "GkLXiMb_Nf": {
+        "id": "GkLXiMb_Nf",
+        "title": "Седмица Трёглазого. Убить змеёныша",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2019-09-21 16:26:38",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 64
+        }
+    },
     "JgtsZ4VT0i": {
         "id": "JgtsZ4VT0i",
         "title": "Вдовий плат. Знак Каина",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 39
-        }
-    },
-    "Krl6J5B-3H": {
-        "id": "Krl6J5B-3H",
-        "title": "Изумрудный дождь",
-        "author": "Юрий Кузнецов",
-        "notes": "Продолжение сказок Волкова.",
-        "createdAt": "2019-09-21 14:09:55",
-        "user": {
-            "id": "56734832-yandex",
-            "nickname": "Avery",
-            "booksCount": 38
         }
     }
 }
