@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/567/56734832-yandex)<sup>3</sup> 
+[](users/567/56734832-yandex)<sup>4</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>31</sup> 
 [dmitriev.ivashka](users/457/45795901-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>126</sup> 
 
 
-_21.09.2019 11:15:59_
+_21.09.2019 11:19:19_
