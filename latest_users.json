@@ -1,4 +1,10 @@
 {
+    "56734832-yandex": {
+        "id": "56734832-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-09-21 10:56:27"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 126,
         "updatedAt": "2019-09-10 20:23:47"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 72,
-        "updatedAt": "2019-09-10 09:18:57"
     }
 }
