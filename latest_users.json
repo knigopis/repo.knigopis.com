@@ -1,4 +1,10 @@
 {
+    "56734832-yandex": {
+        "id": "56734832-yandex",
+        "nickname": "Avery",
+        "booksCount": 78,
+        "updatedAt": "2019-09-21 21:33:15"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -10,12 +16,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 55,
         "updatedAt": "2019-09-21 18:41:31"
-    },
-    "56734832-yandex": {
-        "id": "56734832-yandex",
-        "nickname": "Avery",
-        "booksCount": 77,
-        "updatedAt": "2019-09-21 17:51:09"
     },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
