@@ -1,8 +1,9 @@
 {
     "id": "56734832-yandex",
-    "profile": "",
+    "nickname": "Avery",
+    "profile": false,
     "identity": "http://openid.yandex.ru/polno-pisem/",
     "booksCount": 4,
     "createdAt": "2019-09-21 10:56:27",
-    "updatedAt": "2019-09-21 11:19:19"
+    "updatedAt": "2019-09-21 11:20:38"
 }
