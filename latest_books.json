@@ -1,4 +1,16 @@
 {
+    "6lNT5qKS_T": {
+        "id": "6lNT5qKS_T",
+        "title": "Странная история доктора Джекила и мистера Хайда",
+        "author": "Р. Л. Стивенсон",
+        "notes": "",
+        "createdAt": "2019-09-21 10:58:22",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "k67wGyuha6": {
         "id": "k67wGyuha6",
         "title": "ИНТЕРЕСНЫЕ ВРЕМЕНА",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 29
-        }
-    },
-    "M0XMgth9Hr": {
-        "id": "M0XMgth9Hr",
-        "title": "Заводной апельсин",
-        "author": "Энтони Бёрджесс",
-        "notes": "",
-        "createdAt": "2019-09-18 15:35:12",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 28
         }
     }
 }
