@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nikita](users/100/100459059793796611659-google)<sup>0</sup> 
 [](users/567/56734832-yandex)<sup>4</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>31</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>12</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
 [a.kolodko](users/898/89847972-vkontakte)<sup>0</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>126</sup> 
 
 
-_21.09.2019 11:19:19_
+_21.09.2019 11:35:49_
