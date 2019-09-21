@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>31</sup> 
 [dmitriev.ivashka](users/457/45795901-vkontakte)<sup>1</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>30</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>160</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>123</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>46</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>66</sup> 
 
 
-_20.09.2019 21:35:35_
+_21.09.2019 04:57:51_
