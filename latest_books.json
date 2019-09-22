@@ -1,4 +1,16 @@
 {
+    "IOpTNbF3oL": {
+        "id": "IOpTNbF3oL",
+        "title": "Звери моей жизни",
+        "author": "Даррел",
+        "notes": "",
+        "createdAt": "2019-09-22 12:28:15",
+        "user": {
+            "id": "414306980-yandex",
+            "nickname": "Sopilko.Natalia",
+            "booksCount": 46
+        }
+    },
     "iSIF_XMyaF": {
         "id": "iSIF_XMyaF",
         "title": "Фауст",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 17
-        }
-    },
-    "8u_QlS1rkf": {
-        "id": "8u_QlS1rkf",
-        "title": "Два самоубийства",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2019-09-22 12:13:36",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 16
         }
     }
 }
