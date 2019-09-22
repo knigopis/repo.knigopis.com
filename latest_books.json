@@ -1,4 +1,16 @@
 {
+    "gvd-H3YSLK": {
+        "id": "gvd-H3YSLK",
+        "title": "Демон",
+        "author": "Михаил Юрьевич Лермонтов",
+        "notes": "",
+        "createdAt": "2019-09-22 12:20:29",
+        "user": {
+            "id": "414306980-yandex",
+            "nickname": "Sopilko.Natalia",
+            "booksCount": 26
+        }
+    },
     "QEbxRbOgFv": {
         "id": "QEbxRbOgFv",
         "title": "Столетняя",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 80
-        }
-    },
-    "BPS_usJ7SD": {
-        "id": "BPS_usJ7SD",
-        "title": "Знак Единорога",
-        "author": "Роджер Желязны",
-        "notes": "«Хроники Амбера», Пятикнижие Корвина, 3-я книга.",
-        "createdAt": "2019-09-21 21:43:58",
-        "user": {
-            "id": "56734832-yandex",
-            "nickname": "Avery",
-            "booksCount": 79
         }
     }
 }
