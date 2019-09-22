@@ -1,7 +1,11 @@
-# List of books read by Sopilko.Natalia<sup>32</sup>
+# List of books read by Sopilko.Natalia<sup>33</sup>
 ---
 
 ## 2017
+
+### Вечер у Клэр
+Гайто Газданов
+
 
 ### Эволюция: классические идеи в свете новых открытий
 Александр Марков, Елена Наймарк

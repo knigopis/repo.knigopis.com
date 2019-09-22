@@ -1,4 +1,16 @@
 {
+    "khUQc29q3s": {
+        "id": "khUQc29q3s",
+        "title": "Вечер у Клэр",
+        "author": "Гайто Газданов",
+        "notes": "",
+        "createdAt": "2019-09-22 12:23:59",
+        "user": {
+            "id": "414306980-yandex",
+            "nickname": "Sopilko.Natalia",
+            "booksCount": 33
+        }
+    },
     "5kRpv_briB": {
         "id": "5kRpv_briB",
         "title": "Эволюция: классические идеи в свете новых открытий",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 4
-        }
-    },
-    "0YAEWoE_DT": {
-        "id": "0YAEWoE_DT",
-        "title": "Истоки морали",
-        "author": "Франс де Вааль",
-        "notes": "",
-        "createdAt": "2019-09-22 12:10:14",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 3
         }
     }
 }
