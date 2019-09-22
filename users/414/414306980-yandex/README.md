@@ -1,7 +1,12 @@
-# List of books read by Sopilko.Natalia<sup>62</sup>
+# List of books read by Sopilko.Natalia<sup>63</sup>
 ---
 
 ## 2019
+
+### Стамбул. Город воспоминаний
+Орхан Памук
+> [2019-09] Лучший путеводитель по Стамбулу
+
 
 ### О фотографии
 Сьюзан Сонтаг
