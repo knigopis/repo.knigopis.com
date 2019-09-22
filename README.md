@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Elder](users/103/103250539971002098853-google)<sup>0</sup> 
+[Elder](users/103/103250539971002098853-google)<sup>1</sup> 
 [Avery](users/567/56734832-yandex)<sup>81</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>161</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>55</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
 
 
-_22.09.2019 09:53:33_
+_22.09.2019 09:54:18_
