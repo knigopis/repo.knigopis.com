@@ -1,4 +1,16 @@
 {
+    "R0vFoqDPcI": {
+        "id": "R0vFoqDPcI",
+        "title": "Овод",
+        "author": "Этер Войнич",
+        "notes": "",
+        "createdAt": "2019-09-22 12:34:56",
+        "user": {
+            "id": "414306980-yandex",
+            "nickname": "Sopilko.Natalia",
+            "booksCount": 56
+        }
+    },
     "iJafqkqO8V": {
         "id": "iJafqkqO8V",
         "title": "Generation P",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 27
-        }
-    },
-    "gvd-H3YSLK": {
-        "id": "gvd-H3YSLK",
-        "title": "Демон",
-        "author": "Михаил Юрьевич Лермонтов",
-        "notes": "",
-        "createdAt": "2019-09-22 12:20:29",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 26
         }
     }
 }
