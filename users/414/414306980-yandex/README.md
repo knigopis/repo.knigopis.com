@@ -1,7 +1,11 @@
-# List of books read by Sopilko.Natalia<sup>46</sup>
+# List of books read by Sopilko.Natalia<sup>47</sup>
 ---
 
 ## 2018
+
+### Пиковая дама
+Александр Сергеевич Пушкин
+
 
 ### Звери моей жизни
 Даррел
