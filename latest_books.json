@@ -1,4 +1,16 @@
 {
+    "w4yd8eIqKl": {
+        "id": "w4yd8eIqKl",
+        "title": "Преступление и наказание",
+        "author": "Фёдор Михайлович Достоевский",
+        "notes": "",
+        "createdAt": "2019-09-22 12:11:39",
+        "user": {
+            "id": "414306980-yandex",
+            "nickname": "Sopilko.Natalia",
+            "booksCount": 7
+        }
+    },
     "8zjgTOT9Bt": {
         "id": "8zjgTOT9Bt",
         "title": "Идиот",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 64
-        }
-    },
-    "JgtsZ4VT0i": {
-        "id": "JgtsZ4VT0i",
-        "title": "Вдовий плат. Знак Каина",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2019-09-21 16:25:16",
-        "user": {
-            "id": "56734832-yandex",
-            "nickname": "Avery",
-            "booksCount": 63
         }
     }
 }
