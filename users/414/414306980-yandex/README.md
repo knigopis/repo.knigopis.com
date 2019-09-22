@@ -1,7 +1,11 @@
-# List of books read by Sopilko.Natalia<sup>42</sup>
+# List of books read by Sopilko.Natalia<sup>43</sup>
 ---
 
 ## 2017
+
+### Повелитель мух
+Уильям Голдинг
+
 
 ### Роковые яйца
 Михаил Афанасьевич Булгаков
