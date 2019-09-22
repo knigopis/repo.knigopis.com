@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ezhikarab](users/274/274952753-yandex)<sup>0</sup> 
+[ezhikarab](users/274/274952753-yandex)<sup>1</sup> 
 [Elder](users/103/103250539971002098853-google)<sup>1</sup> 
 [Avery](users/567/56734832-yandex)<sup>81</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>161</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>12</sup> 
 
 
-_22.09.2019 10:12:31_
+_22.09.2019 10:14:00_
