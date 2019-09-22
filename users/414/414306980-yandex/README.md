@@ -1,4 +1,4 @@
-# List of books read by Sopilko.Natalia<sup>54</sup>
+# List of books read by Sopilko.Natalia<sup>55</sup>
 ---
 
 ## 2019
@@ -6,6 +6,10 @@
 ### Большой роман о математике
 Микаэль Лонэ
 > [2019-02] 
+
+
+### Generation P
+Виктор Пелевин
 
 
 ### Политика у шимпанзе
