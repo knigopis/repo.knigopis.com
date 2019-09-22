@@ -1,7 +1,11 @@
-# List of books read by Sopilko.Natalia<sup>34</sup>
+# List of books read by Sopilko.Natalia<sup>35</sup>
 ---
 
 ## 2017
+
+### Перед восходом Солнца
+Михаил Зощенко
+
 
 ### Белые одежды
 Виктор Дудинцев
