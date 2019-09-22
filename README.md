@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[firstova.len](users/119/119518613-yandex)<sup>0</sup> 
 [ezhikarab](users/274/274952753-yandex)<sup>1</sup> 
 [Elder](users/103/103250539971002098853-google)<sup>1</sup> 
 [Avery](users/567/56734832-yandex)<sup>81</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>147</sup> 
 [книжный монстр](users/112/112827366114582937203-google)<sup>2</sup> 
 [alteraa](users/289/289714610-vkontakte)<sup>0</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>12</sup> 
 
 
-_22.09.2019 10:14:00_
+_22.09.2019 10:27:41_
