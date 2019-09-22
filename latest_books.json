@@ -1,4 +1,16 @@
 {
+    "6WCJdIinYT": {
+        "id": "6WCJdIinYT",
+        "title": "В дороге",
+        "author": "Джек Керуак",
+        "notes": "",
+        "createdAt": "2019-09-22 12:22:21",
+        "user": {
+            "id": "414306980-yandex",
+            "nickname": "Sopilko.Natalia",
+            "booksCount": 30
+        }
+    },
     "MvCkxYlUOr": {
         "id": "MvCkxYlUOr",
         "title": "Пир во время чумы",
@@ -344,18 +356,6 @@
         "user": {
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
-            "booksCount": 1
-        }
-    },
-    "tvQcf7r3ot": {
-        "id": "tvQcf7r3ot",
-        "title": "Гарри Поттер и философский камень",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2019-09-22 10:14:00",
-        "user": {
-            "id": "274952753-yandex",
-            "nickname": "ezhikarab",
             "booksCount": 1
         }
     }
