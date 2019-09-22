@@ -1,4 +1,4 @@
-# List of books read by Sopilko.Natalia<sup>60</sup>
+# List of books read by Sopilko.Natalia<sup>61</sup>
 ---
 
 ## 2019
@@ -31,6 +31,11 @@
 ### Большой роман о математике
 Микаэль Лонэ
 > [2019-02] 
+
+
+### Логика научного познания
+Карл Поппер
+> Не дочитала (прочитала только первую часть)
 
 
 ### Generation P
