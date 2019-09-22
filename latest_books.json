@@ -1,4 +1,16 @@
 {
+    "cX86p2IJD0": {
+        "id": "cX86p2IJD0",
+        "title": "Или-или",
+        "author": "Сёрен Кьеркегор",
+        "notes": "Не дочитала",
+        "createdAt": "2019-09-22 12:27:43",
+        "user": {
+            "id": "414306980-yandex",
+            "nickname": "Sopilko.Natalia",
+            "booksCount": 44
+        }
+    },
     "jskvckLmVF": {
         "id": "jskvckLmVF",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 15
-        }
-    },
-    "G9-7wnvhVt": {
-        "id": "G9-7wnvhVt",
-        "title": "Униженные и оскорблённые",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2019-09-22 12:13:09",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 14
         }
     }
 }
