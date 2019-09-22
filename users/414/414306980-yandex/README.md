@@ -1,7 +1,11 @@
-# List of books read by Sopilko.Natalia<sup>41</sup>
+# List of books read by Sopilko.Natalia<sup>42</sup>
 ---
 
 ## 2017
+
+### Роковые яйца
+Михаил Афанасьевич Булгаков
+
 
 ### Зойкина Квартира
 Михаил Афанасьевич Булгаков
