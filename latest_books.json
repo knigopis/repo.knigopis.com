@@ -1,4 +1,16 @@
 {
+    "s7ml9MiCPa": {
+        "id": "s7ml9MiCPa",
+        "title": "О фотографии",
+        "author": "Сьюзан Сонтаг",
+        "notes": "",
+        "createdAt": "2019-09-22 12:41:16",
+        "user": {
+            "id": "414306980-yandex",
+            "nickname": "Sopilko.Natalia",
+            "booksCount": 62
+        }
+    },
     "Saex_utKRV": {
         "id": "Saex_utKRV",
         "title": "Логика научного познания",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 33
-        }
-    },
-    "5kRpv_briB": {
-        "id": "5kRpv_briB",
-        "title": "Эволюция: классические идеи в свете новых открытий",
-        "author": "Александр Марков, Елена Наймарк",
-        "notes": "",
-        "createdAt": "2019-09-22 12:23:41",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 32
         }
     }
 }

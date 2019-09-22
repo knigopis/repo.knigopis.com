@@ -1,7 +1,12 @@
-# List of books read by Sopilko.Natalia<sup>61</sup>
+# List of books read by Sopilko.Natalia<sup>62</sup>
 ---
 
 ## 2019
+
+### О фотографии
+Сьюзан Сонтаг
+> [2019-07] 
+
 
 ### Три сестры
 Антон Павлович Чехов
