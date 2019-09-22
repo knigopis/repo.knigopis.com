@@ -1,7 +1,11 @@
-# List of books read by Sopilko.Natalia<sup>28</sup>
+# List of books read by Sopilko.Natalia<sup>29</sup>
 ---
 
 ## 2017
+
+### Пир во время чумы
+Александр Сергеевич Пушкин
+
 
 ### Персеполис
 Маржан Сатрапи
