@@ -1,4 +1,10 @@
 {
+    "56734832-yandex": {
+        "id": "56734832-yandex",
+        "nickname": "Avery",
+        "booksCount": 82,
+        "updatedAt": "2019-09-22 16:57:36"
+    },
     "414306980-yandex": {
         "id": "414306980-yandex",
         "nickname": "Sopilko.Natalia",
@@ -22,12 +28,6 @@
         "nickname": "Elder",
         "booksCount": 1,
         "updatedAt": "2019-09-22 09:54:18"
-    },
-    "56734832-yandex": {
-        "id": "56734832-yandex",
-        "nickname": "Avery",
-        "booksCount": 81,
-        "updatedAt": "2019-09-21 22:22:58"
     },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
