@@ -1,4 +1,10 @@
 {
+    "414306980-yandex": {
+        "id": "414306980-yandex",
+        "nickname": "Sopilko.Natalia",
+        "booksCount": 0,
+        "updatedAt": "2019-09-22 11:17:13"
+    },
     "119518613-yandex": {
         "id": "119518613-yandex",
         "nickname": "firstova.len",
@@ -172,11 +178,5 @@
         "nickname": "книжный монстр",
         "booksCount": 2,
         "updatedAt": "2019-09-12 07:13:54"
-    },
-    "289714610-vkontakte": {
-        "id": "289714610-vkontakte",
-        "nickname": "alteraa",
-        "booksCount": 0,
-        "updatedAt": "2019-09-12 05:56:28"
     }
 }
