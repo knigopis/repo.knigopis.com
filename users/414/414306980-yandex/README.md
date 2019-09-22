@@ -1,7 +1,11 @@
-# List of books read by Sopilko.Natalia<sup>33</sup>
+# List of books read by Sopilko.Natalia<sup>34</sup>
 ---
 
 ## 2017
+
+### Белые одежды
+Виктор Дудинцев
+
 
 ### Вечер у Клэр
 Гайто Газданов

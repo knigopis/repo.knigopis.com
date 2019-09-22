@@ -1,4 +1,16 @@
 {
+    "VP2CcQo3HW": {
+        "id": "VP2CcQo3HW",
+        "title": "Белые одежды",
+        "author": "Виктор Дудинцев",
+        "notes": "",
+        "createdAt": "2019-09-22 12:24:22",
+        "user": {
+            "id": "414306980-yandex",
+            "nickname": "Sopilko.Natalia",
+            "booksCount": 34
+        }
+    },
     "khUQc29q3s": {
         "id": "khUQc29q3s",
         "title": "Вечер у Клэр",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 5
-        }
-    },
-    "oRd7Sap2FU": {
-        "id": "oRd7Sap2FU",
-        "title": "Иуда Искариот",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2019-09-22 12:10:34",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 4
         }
     }
 }
