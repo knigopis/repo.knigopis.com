@@ -1,4 +1,10 @@
 {
+    "119518613-yandex": {
+        "id": "119518613-yandex",
+        "nickname": "firstova.len",
+        "booksCount": 0,
+        "updatedAt": "2019-09-22 10:27:38"
+    },
     "274952753-yandex": {
         "id": "274952753-yandex",
         "nickname": "ezhikarab",
@@ -172,11 +178,5 @@
         "nickname": "alteraa",
         "booksCount": 0,
         "updatedAt": "2019-09-12 05:56:28"
-    },
-    "5714115-vkontakte": {
-        "id": "5714115-vkontakte",
-        "nickname": "dmiro",
-        "booksCount": 12,
-        "updatedAt": "2019-09-11 15:40:43"
     }
 }
