@@ -1,4 +1,16 @@
 {
+    "6VXYrU7gs9": {
+        "id": "6VXYrU7gs9",
+        "title": "Человек невидимка",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2019-09-22 12:25:43",
+        "user": {
+            "id": "414306980-yandex",
+            "nickname": "Sopilko.Natalia",
+            "booksCount": 38
+        }
+    },
     "TIx7KZuTpb": {
         "id": "TIx7KZuTpb",
         "title": "Моя жизнь",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 9
-        }
-    },
-    "7WT4A69lzu": {
-        "id": "7WT4A69lzu",
-        "title": "Белые ночи",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2019-09-22 12:11:51",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 8
         }
     }
 }
