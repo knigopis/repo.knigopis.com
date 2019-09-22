@@ -1,4 +1,16 @@
 {
+    "BspgglQCgP": {
+        "id": "BspgglQCgP",
+        "title": "Под сенью девушек в цвету",
+        "author": "Марсель Пруст",
+        "notes": "Не дочитала",
+        "createdAt": "2019-09-22 12:25:13",
+        "user": {
+            "id": "414306980-yandex",
+            "nickname": "Sopilko.Natalia",
+            "booksCount": 36
+        }
+    },
     "K1hhQZdloS": {
         "id": "K1hhQZdloS",
         "title": "Перед восходом Солнца",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 7
-        }
-    },
-    "8zjgTOT9Bt": {
-        "id": "8zjgTOT9Bt",
-        "title": "Идиот",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2019-09-22 12:11:19",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 6
         }
     }
 }
