@@ -1,4 +1,10 @@
 {
+    "274952753-yandex": {
+        "id": "274952753-yandex",
+        "nickname": "ezhikarab",
+        "booksCount": 0,
+        "updatedAt": "2019-09-22 10:12:28"
+    },
     "103250539971002098853-google": {
         "id": "103250539971002098853-google",
         "nickname": "Elder",
@@ -172,11 +178,5 @@
         "nickname": "dmiro",
         "booksCount": 12,
         "updatedAt": "2019-09-11 15:40:43"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 231,
-        "updatedAt": "2019-09-11 15:05:52"
     }
 }
