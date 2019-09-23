@@ -1,4 +1,16 @@
 {
+    "kMrYaRtYbK": {
+        "id": "kMrYaRtYbK",
+        "title": "Настоящая принцесса и другие сюжеты",
+        "author": "Борис Акунин",
+        "notes": "Серия «Любовь к истории»\n\nСборник публикаций из жж Акунина на исторические темы. Зарисовки, миниатюры, курьезные случаи, люди и биографии.",
+        "createdAt": "2019-09-23 16:07:19",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 10
+        }
+    },
     "yBphWCCDji": {
         "id": "yBphWCCDji",
         "title": "Самый страшный злодей и другие сюжеты",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 46
-        }
-    },
-    "iSIF_XMyaF": {
-        "id": "iSIF_XMyaF",
-        "title": "Фауст",
-        "author": "Гёте",
-        "notes": "",
-        "createdAt": "2019-09-22 12:27:56",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 45
         }
     }
 }
