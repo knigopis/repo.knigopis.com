@@ -1,4 +1,16 @@
 {
+    "FOU26YIcxO": {
+        "id": "FOU26YIcxO",
+        "title": "Самая таинственная тайна и другие сюжеты",
+        "author": "Акунин",
+        "notes": "Серия «Любовь к истории»\n\nСборник публикаций из жж Акунина на исторические темы. Зарисовки, миниатюры, курьезные случаи, люди и биографии.",
+        "createdAt": "2019-09-23 16:05:25",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 8
+        }
+    },
     "XEA-G-iQPR": {
         "id": "XEA-G-iQPR",
         "title": "Сильмариллион",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 44
-        }
-    },
-    "jskvckLmVF": {
-        "id": "jskvckLmVF",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдинг",
-        "notes": "",
-        "createdAt": "2019-09-22 12:27:17",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 43
         }
     }
 }
