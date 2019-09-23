@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Интересные времена ~ [Garka](users/115/115753719718250012620-google)<sup>232</sup>
+    > С Противовесного континента, из Агатовой империи не прилетал альбатрос, не приносил письмо. Волшебники Незримого университета не отправляли Ринсвинда к императору Агатовой империи. А также Коэн-варвар, Двацветок и Сундук (много сундуков)
+
 * Таємниці та загадки медицини ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>55</sup>
     > 8/10 гарні ілюстрації.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Страшная правдивая книга о том, что творить с человеком голод, мороз и совецкие лагеря.
 
 * ИНТЕРЕСНЫЕ ВРЕМЕНА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup>
-    > 480 стр.
 
 * Соглядатай ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Графическое отображение фактов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>212</sup>
 
-* История на миллион долларов. Мастер-класс для сценаристов, писателей и не только ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>211</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>232</sup> 
 [Avery](users/567/56734832-yandex)<sup>11</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>48</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>24</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>18</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>147</sup> 
-[книжный монстр](users/112/112827366114582937203-google)<sup>2</sup> 
 
 
-_23.09.2019 16:16:09_
+_23.09.2019 16:29:47_

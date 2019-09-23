@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 232,
+        "updatedAt": "2019-09-23 16:29:46"
+    },
     "56734832-yandex": {
         "id": "56734832-yandex",
         "nickname": "Avery",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 147,
         "updatedAt": "2019-09-12 15:19:08"
-    },
-    "112827366114582937203-google": {
-        "id": "112827366114582937203-google",
-        "nickname": "книжный монстр",
-        "booksCount": 2,
-        "updatedAt": "2019-09-12 07:13:54"
     }
 }
