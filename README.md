@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цинкові хлопчики ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>56</sup>
+    > 10/10 жазлива правда про Афган.
+
 * Интересные времена ~ [Garka](users/115/115753719718250012620-google)<sup>232</sup>
     > С Противовесного континента, из Агатовой империи не прилетал альбатрос, не приносил письмо. Волшебники Незримого университета не отправляли Ринсвинда к императору Агатовой империи. А также Коэн-варвар, Двацветок и Сундук (много сундуков)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 гарні ілюстрації.
 
 * Колымские рассказы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>54</sup>
-    > 9/10 Страшная правдивая книга о том, что творить с человеком голод, мороз и совецкие лагеря.
 
 * ИНТЕРЕСНЫЕ ВРЕМЕНА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Неоконченные предания Нуменора и Средиземья ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup>
 
-* Графическое отображение фактов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>212</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>56</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>232</sup> 
 [Avery](users/567/56734832-yandex)<sup>11</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>48</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ezhikarab](users/274/274952753-yandex)<sup>1</sup> 
 [Elder](users/103/103250539971002098853-google)<sup>1</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>161</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>55</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>32</sup> 
 [Nikita](users/100/100459059793796611659-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>147</sup> 
 
 
-_23.09.2019 16:29:47_
+_23.09.2019 20:35:05_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>55</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>56</sup>
 ---
 
 ## 2019
+
+### Цинкові хлопчики
+Світлана Алєксієвіч
+> [2019-09-23] 10/10 жазлива правда про Афган.
+
 
 ### Таємниці та загадки медицини
 Енциклопедія

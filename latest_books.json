@@ -1,4 +1,16 @@
 {
+    "Zo8T5VVDUm": {
+        "id": "Zo8T5VVDUm",
+        "title": "Цинкові хлопчики",
+        "author": "Світлана Алєксієвіч",
+        "notes": "10/10 жазлива правда про Афган.",
+        "createdAt": "2019-09-23 20:35:05",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 56
+        }
+    },
     "LbCCR7sZtP": {
         "id": "LbCCR7sZtP",
         "title": "Интересные времена",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 49
-        }
-    },
-    "6hE4Nwi-gm": {
-        "id": "6hE4Nwi-gm",
-        "title": "Холстомер",
-        "author": "Лев Николаевич Толстой",
-        "notes": "",
-        "createdAt": "2019-09-22 12:29:10",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 48
         }
     }
 }
