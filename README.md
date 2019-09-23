@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Avery](users/567/56734832-yandex)<sup>10</sup> 
+[Avery](users/567/56734832-yandex)<sup>11</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>48</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>24</sup> 
 [Sopilko.Natalia](users/414/414306980-yandex)<sup>63</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [книжный монстр](users/112/112827366114582937203-google)<sup>2</sup> 
 
 
-_23.09.2019 16:07:19_
+_23.09.2019 16:16:09_
