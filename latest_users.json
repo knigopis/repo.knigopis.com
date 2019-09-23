@@ -1,4 +1,10 @@
 {
+    "56734832-yandex": {
+        "id": "56734832-yandex",
+        "nickname": "Avery",
+        "booksCount": 7,
+        "updatedAt": "2019-09-23 15:58:32"
+    },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",
         "nickname": "Человеколось",
@@ -10,12 +16,6 @@
         "nickname": "4apa",
         "booksCount": 24,
         "updatedAt": "2019-09-23 07:03:38"
-    },
-    "56734832-yandex": {
-        "id": "56734832-yandex",
-        "nickname": "Avery",
-        "booksCount": 7,
-        "updatedAt": "2019-09-22 18:28:47"
     },
     "414306980-yandex": {
         "id": "414306980-yandex",
