@@ -1,4 +1,16 @@
 {
+    "yBphWCCDji": {
+        "id": "yBphWCCDji",
+        "title": "Самый страшный злодей и другие сюжеты",
+        "author": "Борис Акунин",
+        "notes": "Серия «Любовь к истории»\n\nСборник публикаций из жж Акунина на исторические темы. Зарисовки, миниатюры, курьезные случаи, люди и биографии.",
+        "createdAt": "2019-09-23 16:06:36",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 9
+        }
+    },
     "FOU26YIcxO": {
         "id": "FOU26YIcxO",
         "title": "Самая таинственная тайна и другие сюжеты",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 45
-        }
-    },
-    "cX86p2IJD0": {
-        "id": "cX86p2IJD0",
-        "title": "Или-или",
-        "author": "Сёрен Кьеркегор",
-        "notes": "Не дочитала",
-        "createdAt": "2019-09-22 12:27:43",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 44
         }
     }
 }
