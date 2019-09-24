@@ -1,4 +1,10 @@
 {
+    "1146684568850703-facebook": {
+        "id": "1146684568850703-facebook",
+        "nickname": "Бызов Дмитрий",
+        "booksCount": 19,
+        "updatedAt": "2019-09-24 15:24:14"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -166,12 +172,6 @@
         "nickname": "afferens.lucem",
         "booksCount": 122,
         "updatedAt": "2019-09-14 06:57:14"
-    },
-    "1146684568850703-facebook": {
-        "id": "1146684568850703-facebook",
-        "nickname": "Бызов Дмитрий",
-        "booksCount": 18,
-        "updatedAt": "2019-09-13 17:52:09"
     },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",

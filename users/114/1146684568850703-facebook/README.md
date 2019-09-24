@@ -1,7 +1,12 @@
-# List of books read by [Бызов Дмитрий](https://www.facebook.com/profile.php?id=1146684568850703)<sup>18</sup>
+# List of books read by [Бызов Дмитрий](https://www.facebook.com/profile.php?id=1146684568850703)<sup>19</sup>
 ---
 
 ## 2019
+
+### Мастер и Маргарита
+М. Булгаков.
+> [2019-09-24] 
+
 
 ### Преступление и наказание
 Ф. Достоевский
