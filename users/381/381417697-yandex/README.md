@@ -1,7 +1,12 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>50</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>51</sup>
 ---
 
 ## 2019
+
+### Математическая составляющая
+Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
+> [2019-09-24] 
+
 
 ### Бегство от безопасности
 Ричард Бах

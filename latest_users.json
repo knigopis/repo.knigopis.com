@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 51,
+        "updatedAt": "2019-09-24 06:27:53"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 213,
         "updatedAt": "2019-09-13 13:12:37"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 147,
-        "updatedAt": "2019-09-12 15:19:08"
     }
 }

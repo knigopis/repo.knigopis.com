@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>51</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>132</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>56</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>232</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>122</sup> 
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>18</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>147</sup> 
 
 
-_24.09.2019 04:28:12_
+_24.09.2019 06:27:53_
