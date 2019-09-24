@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сладость на корочке пирога (Загадки Флавии де Люс) ~ [Chiffi](users/105/105831994080785626680-google)<sup>132</sup>
 * Цинкові хлопчики ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>56</sup>
 * Интересные времена ~ [Garka](users/115/115753719718250012620-google)<sup>232</sup>
 * Таємниці та загадки медицини ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>55</sup>
@@ -30,7 +31,6 @@
 * Игра в классики ~ [dilost](users/102/10206471247373307-facebook)<sup>4</sup>
 * Кафка на пляже ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>59</sup>
 * Ководство ~ [anvonamore](users/595/5957175-vkontakte)<sup>125</sup>
-* Узорный покров ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>62</sup>
 
 
-_23.09.2019 20:35:05_
+_24.09.2019 04:28:12_

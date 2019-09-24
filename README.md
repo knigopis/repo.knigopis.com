@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сладость на корочке пирога (Загадки Флавии де Люс) ~ [Chiffi](users/105/105831994080785626680-google)<sup>132</sup>
+    > очаровательный английский детектив
+
 * Цинкові хлопчики ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>56</sup>
     > 10/10 жазлива правда про Афган.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > С Противовесного континента, из Агатовой империи не прилетал альбатрос, не приносил письмо. Волшебники Незримого университета не отправляли Ринсвинда к императору Агатовой империи. А также Коэн-варвар, Двацветок и Сундук (много сундуков)
 
 * Таємниці та загадки медицини ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>55</sup>
-    > 8/10 гарні ілюстрації.
 
 * Колымские рассказы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>54</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Волшебники ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup>
 
-* Неоконченные предания Нуменора и Средиземья ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>132</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>56</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>232</sup> 
 [Avery](users/567/56734832-yandex)<sup>11</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>48</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 [killstation_666](users/112/112785103-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>131</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>122</sup> 
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>18</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>147</sup> 
 
 
-_23.09.2019 20:35:05_
+_24.09.2019 04:28:12_
