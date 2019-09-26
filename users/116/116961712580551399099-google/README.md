@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>68</sup>
+# List of books read by violet_velva<sup>69</sup>
 ---
 
 ## 2019
+
+### Боги жаждут
+Анатоль Франс
+> [2019-09] 
+
 
 ### Подсказчик
 Донато Карризи

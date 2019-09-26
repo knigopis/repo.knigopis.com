@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-google": {
+        "id": "116961712580551399099-google",
+        "nickname": "violet_velva",
+        "booksCount": 69,
+        "updatedAt": "2019-09-26 10:57:09"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "killstation_666",
         "booksCount": 0,
         "updatedAt": "2019-09-15 19:26:56"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 122,
-        "updatedAt": "2019-09-14 06:57:14"
     }
 }

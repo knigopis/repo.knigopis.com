@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>69</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>148</sup> 
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>19</sup> 
 [me](users/381/381417697-yandex)<sup>51</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>48</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 [killstation_666](users/112/112785103-vkontakte)<sup>0</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>122</sup> 
 
 
-_26.09.2019 03:52:58_
+_26.09.2019 10:57:09_
