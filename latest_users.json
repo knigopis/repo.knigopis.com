@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 148,
+        "updatedAt": "2019-09-26 03:52:57"
+    },
     "1146684568850703-facebook": {
         "id": "1146684568850703-facebook",
         "nickname": "Бызов Дмитрий",
@@ -172,11 +178,5 @@
         "nickname": "afferens.lucem",
         "booksCount": 122,
         "updatedAt": "2019-09-14 06:57:14"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 213,
-        "updatedAt": "2019-09-13 13:12:37"
     }
 }

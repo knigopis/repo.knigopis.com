@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>147</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>148</sup>
 ---
 
 ## 2019
+
+### Хроники Дождевых чащоб. Хранитель драконов
+Робин Хобб
+> [2019-09-24] 
+
 
 ### Дым
 Дэн Вилета
