@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[violet_velva](users/116/116961712580551399099-google)<sup>69</sup> 
+[violet_velva](users/116/116961712580551399099-google)<sup>70</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>148</sup> 
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>19</sup> 
 [me](users/381/381417697-yandex)<sup>51</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [killstation_666](users/112/112785103-vkontakte)<sup>0</sup> 
 
 
-_26.09.2019 10:57:09_
+_26.09.2019 10:57:51_

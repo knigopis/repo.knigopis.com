@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>69</sup>
+# List of books read by violet_velva<sup>70</sup>
 ---
 
 ## 2019
+
+### Девушка в тумане
+Донато Карризи
+> [2019-09] 
+
 
 ### Боги жаждут
 Анатоль Франс

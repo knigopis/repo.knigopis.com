@@ -1,4 +1,16 @@
 {
+    "MZ-2-YakDN": {
+        "id": "MZ-2-YakDN",
+        "title": "Девушка в тумане",
+        "author": "Донато Карризи",
+        "notes": "",
+        "createdAt": "2019-09-26 10:57:51",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 70
+        }
+    },
     "T2ucbO6EjJ": {
         "id": "T2ucbO6EjJ",
         "title": "Боги жаждут",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 55
-        }
-    },
-    "RwFjubJJcU": {
-        "id": "RwFjubJJcU",
-        "title": "Политика у шимпанзе",
-        "author": "Франс де Вааль",
-        "notes": "Не дочитала",
-        "createdAt": "2019-09-22 12:33:39",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 54
         }
     }
 }
