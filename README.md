@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katerina985](users/146/14637064-vkontakte)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>71</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>148</sup> 
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>19</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/101/10156575429062828-facebook)<sup>1</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>48</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
-[killstation_666](users/112/112785103-vkontakte)<sup>0</sup> 
 
 
-_27.09.2019 07:48:33_
+_27.09.2019 17:51:48_
