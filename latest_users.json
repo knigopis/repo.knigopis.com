@@ -1,4 +1,10 @@
 {
+    "424657047-yandex": {
+        "id": "424657047-yandex",
+        "nickname": "strogaya.dgb",
+        "booksCount": 0,
+        "updatedAt": "2019-09-27 17:52:31"
+    },
     "14637064-vkontakte": {
         "id": "14637064-vkontakte",
         "nickname": "katerina985",
@@ -172,11 +178,5 @@
         "nickname": "vladkozz",
         "booksCount": 48,
         "updatedAt": "2019-09-17 04:53:34"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 111,
-        "updatedAt": "2019-09-16 19:57:06"
     }
 }
