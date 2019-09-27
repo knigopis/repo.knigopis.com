@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>70</sup>
+# List of books read by violet_velva<sup>71</sup>
 ---
 
 ## 2019
+
+### The Cuckoo's Calling
+Robert Galbraith
+> [2019-09] 
+
 
 ### Девушка в тумане
 Донато Карризи
