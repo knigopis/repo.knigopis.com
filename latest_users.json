@@ -1,4 +1,10 @@
 {
+    "112602404891403617314-google": {
+        "id": "112602404891403617314-google",
+        "nickname": "Kohejri",
+        "booksCount": 0,
+        "updatedAt": "2019-09-27 17:53:18"
+    },
     "424657047-yandex": {
         "id": "424657047-yandex",
         "nickname": "strogaya.dgb",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2019-09-17 17:37:23"
-    },
-    "57239276-vkontakte": {
-        "id": "57239276-vkontakte",
-        "nickname": "vladkozz",
-        "booksCount": 48,
-        "updatedAt": "2019-09-17 04:53:34"
     }
 }
