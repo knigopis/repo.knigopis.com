@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Kohejri](users/112/112602404891403617314-google)<sup>0</sup> 
 [strogaya.dgb](users/424/424657047-yandex)<sup>0</sup> 
 [katerina985](users/146/14637064-vkontakte)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>71</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [meat_ball](users/108/10893980-vkontakte)<sup>0</sup> 
 [ker.forbs](users/174/174006853-vkontakte)<sup>4</sup> 
 [](users/101/10156575429062828-facebook)<sup>1</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>48</sup> 
 
 
-_27.09.2019 17:52:35_
+_27.09.2019 17:53:21_
