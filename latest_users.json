@@ -1,4 +1,10 @@
 {
+    "110931306939441771638-google": {
+        "id": "110931306939441771638-google",
+        "nickname": null,
+        "booksCount": 12,
+        "updatedAt": "2019-09-28 08:22:12"
+    },
     "112602404891403617314-google": {
         "id": "112602404891403617314-google",
         "nickname": "Kohejri",
@@ -172,11 +178,5 @@
         "nickname": "ker.forbs",
         "booksCount": 4,
         "updatedAt": "2019-09-18 05:38:50"
-    },
-    "10156575429062828-facebook": {
-        "id": "10156575429062828-facebook",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2019-09-17 17:37:23"
     }
 }
