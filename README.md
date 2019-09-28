@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>730</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>162</sup> 
 [](users/110/110931306939441771638-google)<sup>13</sup> 
 [Kohejri](users/112/112602404891403617314-google)<sup>0</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup> 
 [dmitriev.ivashka](users/457/45795901-vkontakte)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>123</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>729</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>94</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>179</sup> 
 [Leilaomsk](users/539/539382985-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ker.forbs](users/174/174006853-vkontakte)<sup>4</sup> 
 
 
-_28.09.2019 10:19:08_
+_28.09.2019 12:19:20_
