@@ -1,4 +1,16 @@
 {
+    "V8jCMO-UTO": {
+        "id": "V8jCMO-UTO",
+        "title": "Егишянц Сергей",
+        "author": "Тупики Глобализации: Торжество Прогресса или Игры Сатанистов?",
+        "notes": "",
+        "createdAt": "2019-09-29 06:02:31",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 124
+        }
+    },
     "qs8Rs594Zo": {
         "id": "qs8Rs594Zo",
         "title": "Наука раскрытия преступлений",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 61
-        }
-    },
-    "yceKzgFHX8": {
-        "id": "yceKzgFHX8",
-        "title": "Три сестры",
-        "author": "Антон Павлович Чехов",
-        "notes": "",
-        "createdAt": "2019-09-22 12:36:47",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 60
         }
     }
 }
