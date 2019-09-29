@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сорняк возле дома (Флавия де Люс 2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>133</sup>
+    > достаточно симпатичная серия английских детективов
+
 * Сантехник, его кот, жена и другие подробности ~ [Garka](users/115/115753719718250012620-google)<sup>231</sup>
     > Блог наверное прикольный, но как книга... Вроде и забавно, ощущение , что оказалась на советской кухне после пьянки и подслушала философский монолог самого стойкого участника пьянки
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 30.09
 
 * Защита от тёмных искусств. Путеводитель по миру паранормальных явлений ~ [Человеколось](users/174/17475979687188177329-mailru)<sup>49</sup>
-    > К этой книге нужно будет периодически возвращаться.
 
 * Сладость на корочке пирога (Загадки Флавии де Люс) ~ [Chiffi](users/105/105831994080785626680-google)<sup>132</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * ИНТЕРЕСНЫЕ ВРЕМЕНА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup>
 
-* Соглядатай ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>133</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>49</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>148</sup> 
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>19</sup> 
 [me](users/381/381417697-yandex)<sup>51</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>132</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>56</sup> 
 [Avery](users/567/56734832-yandex)<sup>11</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>24</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ker.forbs](users/174/174006853-vkontakte)<sup>4</sup> 
 
 
-_29.09.2019 15:47:25_
+_29.09.2019 17:14:30_
