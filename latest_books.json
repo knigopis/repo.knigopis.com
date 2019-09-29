@@ -1,4 +1,16 @@
 {
+    "ji-hI_SJp3": {
+        "id": "ji-hI_SJp3",
+        "title": "МОНСТРОЛОГ. ПРОКЛЯТИЕ ВЕНДИГО",
+        "author": "Рик Янси",
+        "notes": "30.09",
+        "createdAt": "2019-09-29 15:38:19",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 83
+        }
+    },
     "wtvMVElZXX": {
         "id": "wtvMVElZXX",
         "title": "Защита от тёмных искусств. Путеводитель по миру паранормальных явлений",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 63
-        }
-    },
-    "s7ml9MiCPa": {
-        "id": "s7ml9MiCPa",
-        "title": "О фотографии",
-        "author": "Сьюзан Сонтаг",
-        "notes": "",
-        "createdAt": "2019-09-22 12:41:16",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 62
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* МОНСТРОЛОГ. ПРОКЛЯТИЕ ВЕНДИГО ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup>
+    > 30.09
+
 * Защита от тёмных искусств. Путеводитель по миру паранормальных явлений ~ [Человеколось](users/174/17475979687188177329-mailru)<sup>49</sup>
     > К этой книге нужно будет периодически возвращаться.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > очаровательный английский детектив
 
 * Цинкові хлопчики ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>56</sup>
-    > 10/10 жазлива правда про Афган.
 
 * Интересные времена ~ [Garka](users/115/115753719718250012620-google)<sup>232</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 451 градус по Фаренгейту ~ [Chiffi](users/105/105831994080785626680-google)<sup>131</sup>
 
-* Вирджиния Вулф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>49</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>124</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>730</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elder](users/103/103250539971002098853-google)<sup>1</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>32</sup> 
 [Nikita](users/100/100459059793796611659-google)<sup>0</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup> 
 [dmitriev.ivashka](users/457/45795901-vkontakte)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>94</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>179</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ker.forbs](users/174/174006853-vkontakte)<sup>4</sup> 
 
 
-_29.09.2019 06:15:03_
+_29.09.2019 15:38:19_
