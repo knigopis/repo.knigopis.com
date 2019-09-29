@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дом на холодном холме ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup>
+    > Хорошая книга
+
 * 45 татуировок продавана ~ [youno](users/302/302928912-vkontakte)<sup>32</sup>
     > Купить всю серию!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > достаточно симпатичная серия английских детективов
 
 * Сантехник, его кот, жена и другие подробности ~ [Garka](users/115/115753719718250012620-google)<sup>231</sup>
-    > Блог наверное прикольный, но как книга... Вроде и забавно, ощущение , что оказалась на советской кухне после пьянки и подслушала философский монолог самого стойкого участника пьянки
 
 * МОНСТРОЛОГ. ПРОКЛЯТИЕ ВЕНДИГО ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Таємниці та загадки медицини ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>55</sup>
 
-* Колымские рассказы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>54</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup> 
 [youno](users/302/302928912-vkontakte)<sup>32</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>50</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>133</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>94</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>179</sup> 
 [Leilaomsk](users/539/539382985-vkontakte)<sup>0</sup> 
-[meat_ball](users/108/10893980-vkontakte)<sup>0</sup> 
 
 
-_29.09.2019 20:33:47_
+_29.09.2019 20:53:35_
