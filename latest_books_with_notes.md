@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 45 татуировок продавана ~ [youno](users/302/302928912-vkontakte)<sup>32</sup>
 * Сорняк возле дома (Флавия де Люс 2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>133</sup>
 * Сантехник, его кот, жена и другие подробности ~ [Garka](users/115/115753719718250012620-google)<sup>231</sup>
 * МОНСТРОЛОГ. ПРОКЛЯТИЕ ВЕНДИГО ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup>
@@ -30,7 +31,6 @@
 * Сердце дракона ~ [Quaff](users/122/12267158-vkontakte)<sup>71</sup>
 * Подсказчик ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
 * Сборник "лекарство от меланхолии" ~ [Quaff](users/122/12267158-vkontakte)<sup>69</sup>
-* Государь ~ [Quaff](users/122/12267158-vkontakte)<sup>67</sup>
 
 
-_29.09.2019 17:14:30_
+_29.09.2019 20:33:47_

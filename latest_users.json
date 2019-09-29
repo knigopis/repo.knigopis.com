@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 32,
+        "updatedAt": "2019-09-29 20:33:47"
+    },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",
         "nickname": "Человеколось",
@@ -172,11 +178,5 @@
         "nickname": "meat_ball",
         "booksCount": 0,
         "updatedAt": "2019-09-18 07:36:51"
-    },
-    "174006853-vkontakte": {
-        "id": "174006853-vkontakte",
-        "nickname": "ker.forbs",
-        "booksCount": 4,
-        "updatedAt": "2019-09-18 05:38:50"
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 45 татуировок продавана ~ [youno](users/302/302928912-vkontakte)<sup>32</sup>
+    > Купить всю серию!
+
 * Сорняк возле дома (Флавия де Люс 2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>133</sup>
     > достаточно симпатичная серия английских детективов
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Блог наверное прикольный, но как книга... Вроде и забавно, ощущение , что оказалась на советской кухне после пьянки и подслушала философский монолог самого стойкого участника пьянки
 
 * МОНСТРОЛОГ. ПРОКЛЯТИЕ ВЕНДИГО ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup>
-    > 30.09
 
 * Защита от тёмных искусств. Путеводитель по миру паранормальных явлений ~ [Человеколось](users/174/17475979687188177329-mailru)<sup>49</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Колымские рассказы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>54</sup>
 
-* ИНТЕРЕСНЫЕ ВРЕМЕНА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>32</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>50</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>133</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>179</sup> 
 [Leilaomsk](users/539/539382985-vkontakte)<sup>0</sup> 
 [meat_ball](users/108/10893980-vkontakte)<sup>0</sup> 
-[ker.forbs](users/174/174006853-vkontakte)<sup>4</sup> 
 
 
-_29.09.2019 19:47:38_
+_29.09.2019 20:33:47_
