@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Человеколось](users/174/17475979687188177329-mailru)<sup>50</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>133</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
-[Человеколось](users/174/17475979687188177329-mailru)<sup>49</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>124</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>730</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>162</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ker.forbs](users/174/174006853-vkontakte)<sup>4</sup> 
 
 
-_29.09.2019 17:14:30_
+_29.09.2019 19:47:38_
