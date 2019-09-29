@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Защита от тёмных искусств. Путеводитель по миру паранормальных явлений ~ [Человеколось](users/174/17475979687188177329-mailru)<sup>49</sup>
+    > К этой книге нужно будет периодически возвращаться.
+
 * Сладость на корочке пирога (Загадки Флавии де Люс) ~ [Chiffi](users/105/105831994080785626680-google)<sup>132</sup>
     > очаровательный английский детектив
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 жазлива правда про Афган.
 
 * Интересные времена ~ [Garka](users/115/115753719718250012620-google)<sup>232</sup>
-    > С Противовесного континента, из Агатовой империи не прилетал альбатрос, не приносил письмо. Волшебники Незримого университета не отправляли Ринсвинда к императору Агатовой империи. А также Коэн-варвар, Двацветок и Сундук (много сундуков)
 
 * Таємниці та загадки медицини ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>55</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Вирджиния Вулф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
 
-* Волшебники ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Человеколось](users/174/17475979687188177329-mailru)<sup>49</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>124</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>730</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>162</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>56</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>232</sup> 
 [Avery](users/567/56734832-yandex)<sup>11</sup> 
-[Человеколось](users/174/17475979687188177329-mailru)<sup>48</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>24</sup> 
 [Sopilko.Natalia](users/414/414306980-yandex)<sup>63</sup> 
 [firstova.len](users/119/119518613-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ker.forbs](users/174/174006853-vkontakte)<sup>4</sup> 
 
 
-_29.09.2019 06:02:31_
+_29.09.2019 06:15:03_

@@ -1,4 +1,16 @@
 {
+    "wtvMVElZXX": {
+        "id": "wtvMVElZXX",
+        "title": "Защита от тёмных искусств. Путеводитель по миру паранормальных явлений",
+        "author": "Александр Панчин",
+        "notes": "К этой книге нужно будет периодически возвращаться.",
+        "createdAt": "2019-09-29 06:15:03",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 49
+        }
+    },
     "daoJ6UjwgY": {
         "id": "daoJ6UjwgY",
         "title": "Сладость на корочке пирога (Загадки Флавии де Люс)",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 59
-        }
-    },
-    "huMGIItak_": {
-        "id": "huMGIItak_",
-        "title": "Ководство",
-        "author": "Артемий Лебедев",
-        "notes": "8/10",
-        "createdAt": "2019-08-30 16:48:37",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 125
         }
     }
 }

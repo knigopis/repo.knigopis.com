@@ -1,4 +1,16 @@
 {
+    "wtvMVElZXX": {
+        "id": "wtvMVElZXX",
+        "title": "Защита от тёмных искусств. Путеводитель по миру паранормальных явлений",
+        "author": "Александр Панчин",
+        "notes": "К этой книге нужно будет периодически возвращаться.",
+        "createdAt": "2019-09-29 06:15:03",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 49
+        }
+    },
     "V8jCMO-UTO": {
         "id": "V8jCMO-UTO",
         "title": "Егишянц Сергей",
@@ -345,18 +357,6 @@
             "id": "414306980-yandex",
             "nickname": "Sopilko.Natalia",
             "booksCount": 62
-        }
-    },
-    "Saex_utKRV": {
-        "id": "Saex_utKRV",
-        "title": "Логика научного познания",
-        "author": "Карл Поппер",
-        "notes": "Не дочитала (прочитала только первую часть)",
-        "createdAt": "2019-09-22 12:37:20",
-        "user": {
-            "id": "414306980-yandex",
-            "nickname": "Sopilko.Natalia",
-            "booksCount": 61
         }
     }
 }
