@@ -5,8 +5,8 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Сантехник, его кот, жена и другие подробности ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
-    > Как блог читать прикольно, но как полноценная книга...
+* Сантехник, его кот, жена и другие подробности ~ [Garka](users/115/115753719718250012620-google)<sup>231</sup>
+    > Блог наверное прикольный, но как книга... Вроде и забавно, ощущение , что оказалась на советской кухне после пьянки и подслушала философский монолог самого стойкого участника пьянки
 
 * МОНСТРОЛОГ. ПРОКЛЯТИЕ ВЕНДИГО ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup>
     > 30.09
@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>233</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>231</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>49</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>124</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ker.forbs](users/174/174006853-vkontakte)<sup>4</sup> 
 
 
-_29.09.2019 15:44:10_
+_29.09.2019 15:47:25_
