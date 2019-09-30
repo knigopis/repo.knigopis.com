@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>56</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>57</sup>
 ---
 
 ## 2019
+
+### Дом темных загадок
+Беатрикс Гурион
+> [2019-09-30] 7/10 тайны прошлого и жажда мести.
+
 
 ### Цинкові хлопчики
 Світлана Алєксієвіч

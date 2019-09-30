@@ -1,4 +1,16 @@
 {
+    "kZuLugfqOx": {
+        "id": "kZuLugfqOx",
+        "title": "Дом темных загадок",
+        "author": "Беатрикс Гурион",
+        "notes": "7/10 тайны прошлого и жажда мести.",
+        "createdAt": "2019-09-30 17:23:17",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 57
+        }
+    },
     "t3GrMmcOrv": {
         "id": "t3GrMmcOrv",
         "title": "Дом на холодном холме",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 71
-        }
-    },
-    "_0ASkhfxaY": {
-        "id": "_0ASkhfxaY",
-        "title": "Подсказчик",
-        "author": "Донато Карризи",
-        "notes": "Я осталась под неизгладимым впечатлением от этой книги. Удивительный, хоть и жестокий сюжет. В некоторых местах меня прямо шокировало. Проглотила книгу за 4 дня.",
-        "createdAt": "2019-09-05 09:17:49",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 68
         }
     }
 }

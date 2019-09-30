@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дом темных загадок ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>57</sup>
 * Дом на холодном холме ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup>
 * 45 татуировок продавана ~ [youno](users/302/302928912-vkontakte)<sup>32</sup>
 * Сорняк возле дома (Флавия де Люс 2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>133</sup>
@@ -30,7 +31,6 @@
 * Леди Сьюзан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>50</sup>
 * Abenteuer von Zitterbacke ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup>
 * Сердце дракона ~ [Quaff](users/122/12267158-vkontakte)<sup>71</sup>
-* Подсказчик ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
 
 
-_29.09.2019 20:53:35_
+_30.09.2019 17:23:17_

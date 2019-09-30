@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 57,
+        "updatedAt": "2019-09-30 17:23:17"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -112,12 +118,6 @@
         "nickname": "me",
         "booksCount": 51,
         "updatedAt": "2019-09-24 06:27:53"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 56,
-        "updatedAt": "2019-09-23 20:35:05"
     },
     "56734832-yandex": {
         "id": "56734832-yandex",
