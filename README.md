@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>134</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>57</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>180</sup> 
 [Захар ](users/332/332860507-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup> 
 [youno](users/302/302928912-vkontakte)<sup>32</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>50</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>133</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>124</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>94</sup> 
 
 
-_30.09.2019 17:23:17_
+_30.09.2019 18:38:21_
