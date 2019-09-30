@@ -1,4 +1,10 @@
 {
+    "332860507-vkontakte": {
+        "id": "332860507-vkontakte",
+        "nickname": "Захар ",
+        "booksCount": 0,
+        "updatedAt": "2019-09-30 05:23:06"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 179,
         "updatedAt": "2019-09-18 08:05:11"
-    },
-    "539382985-vkontakte": {
-        "id": "539382985-vkontakte",
-        "nickname": "Leilaomsk",
-        "booksCount": 0,
-        "updatedAt": "2019-09-18 08:04:48"
     }
 }
