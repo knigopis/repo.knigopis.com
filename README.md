@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Захар ](users/332/332860507-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup> 
 [youno](users/302/302928912-vkontakte)<sup>32</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>50</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmitriev.ivashka](users/457/45795901-vkontakte)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>94</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>179</sup> 
-[Leilaomsk](users/539/539382985-vkontakte)<sup>0</sup> 
 
 
-_29.09.2019 20:53:35_
+_30.09.2019 05:23:13_
