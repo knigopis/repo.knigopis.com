@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>134</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>135</sup>
 ---
 
 ## 2019
+
+### Копченая селедка без горчицы (Флавия де Люс 3)
+Брэдли Алан
+> [2019-09-30] 
+
 
 ### Сорняк возле дома (Флавия де Люс 2)
 Брэдли Алан

@@ -1,4 +1,16 @@
 {
+    "48NRrF5BGe": {
+        "id": "48NRrF5BGe",
+        "title": "Копченая селедка без горчицы (Флавия де Люс 3)",
+        "author": "Брэдли Алан",
+        "notes": "",
+        "createdAt": "2019-09-30 18:59:07",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 135
+        }
+    },
     "XUunJscj_G": {
         "id": "XUunJscj_G",
         "title": "копченая селедка без горчицы",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 7
-        }
-    },
-    "-dLCSNIAV6": {
-        "id": "-dLCSNIAV6",
-        "title": "Прощальные песни политических пигмеев пиндостана",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2019-09-23 09:43:39",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 48
         }
     }
 }
