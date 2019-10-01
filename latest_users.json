@@ -1,4 +1,10 @@
 {
+    "109595045545926097766-google": {
+        "id": "109595045545926097766-google",
+        "nickname": "Igor",
+        "booksCount": 0,
+        "updatedAt": "2019-10-01 05:29:17"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "dmitriev.ivashka",
         "booksCount": 1,
         "updatedAt": "2019-09-20 21:35:35"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 94,
-        "updatedAt": "2019-09-18 17:37:02"
     }
 }
