@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Петровны в гриппе и вокруг него ~ [Человеколось](users/174/17475979687188177329-mailru)<sup>51</sup>
+    > Отцы и дети. И просто хороший пример книги о детстве.
+
 * Дом темных загадок ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>57</sup>
     > 7/10 тайны прошлого и жажда мести.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хорошая книга
 
 * 45 татуировок продавана ~ [youno](users/302/302928912-vkontakte)<sup>32</sup>
-    > Купить всю серию!
 
 * Сорняк возле дома (Флавия де Люс 2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>133</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Цинкові хлопчики ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>56</sup>
 
-* Интересные времена ~ [Garka](users/115/115753719718250012620-google)<sup>232</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Человеколось](users/174/17475979687188177329-mailru)<sup>51</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>181</sup> 
 [youno](users/302/302928912-vkontakte)<sup>33</sup> 
 [Igor](users/109/109595045545926097766-google)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>57</sup> 
 [Захар ](users/332/332860507-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup> 
-[Человеколось](users/174/17475979687188177329-mailru)<sup>50</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>124</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmitriev.ivashka](users/457/45795901-vkontakte)<sup>1</sup> 
 
 
-_01.10.2019 09:02:51_
+_01.10.2019 12:38:06_

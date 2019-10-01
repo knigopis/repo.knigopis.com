@@ -1,4 +1,16 @@
 {
+    "ZbX9aKC5a9": {
+        "id": "ZbX9aKC5a9",
+        "title": "Петровны в гриппе и вокруг него",
+        "author": "Алексей Сальников",
+        "notes": "Отцы и дети. И просто хороший пример книги о детстве.",
+        "createdAt": "2019-10-01 12:38:06",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 51
+        }
+    },
     "kZuLugfqOx": {
         "id": "kZuLugfqOx",
         "title": "Дом темных загадок",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 25
-        }
-    },
-    "1C0UAT6EMX": {
-        "id": "1C0UAT6EMX",
-        "title": "Сердце дракона",
-        "author": "Кирилл Клеванский",
-        "notes": "Бессвязное клеше, утомляет однообразность",
-        "createdAt": "2019-09-05 16:08:08",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 71
         }
     }
 }
