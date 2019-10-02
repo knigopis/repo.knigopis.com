@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[yey](users/179/179865892-vkontakte)<sup>0</sup> 
 [svallvag](users/553/553243325-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>182</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>136</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ezhikarab](users/274/274952753-yandex)<sup>1</sup> 
 [Elder](users/103/103250539971002098853-google)<sup>1</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>32</sup> 
-[Nikita](users/100/100459059793796611659-google)<sup>0</sup> 
 
 
-_02.10.2019 12:05:12_
+_02.10.2019 19:41:39_
