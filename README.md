@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[svallvag](users/553/553243325-vkontakte)<sup>1</sup> 
+[svallvag](users/553/553243325-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>182</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>136</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>51</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Nikita](users/100/100459059793796611659-google)<sup>0</sup> 
 
 
-_02.10.2019 12:04:45_
+_02.10.2019 12:05:12_
