@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>183</sup> 
 [yey](users/179/179865892-vkontakte)<sup>0</sup> 
 [svallvag](users/553/553243325-vkontakte)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>182</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>136</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>51</sup> 
 [youno](users/302/302928912-vkontakte)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>32</sup> 
 
 
-_02.10.2019 19:41:39_
+_03.10.2019 06:33:02_
