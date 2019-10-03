@@ -1,4 +1,16 @@
 {
+    "FMMM6wGKUR": {
+        "id": "FMMM6wGKUR",
+        "title": "Полужизнь",
+        "author": "Видиадхар Сураджпрасад Найпол",
+        "notes": "",
+        "createdAt": "2019-10-03 12:32:16",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 731
+        }
+    },
     "g56Lak9d8G": {
         "id": "g56Lak9d8G",
         "title": "Хочу быть сильным",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 51
-        }
-    },
-    "daoJ6UjwgY": {
-        "id": "daoJ6UjwgY",
-        "title": "Сладость на корочке пирога (Загадки Флавии де Люс)",
-        "author": "Брэдли Алан",
-        "notes": "очаровательный английский детектив",
-        "createdAt": "2019-09-24 04:28:12",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 132
         }
     }
 }
