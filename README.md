@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>25</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>731</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>183</sup> 
 [yey](users/179/179865892-vkontakte)<sup>0</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>19</sup> 
 [me](users/381/381417697-yandex)<sup>51</sup> 
 [Avery](users/567/56734832-yandex)<sup>11</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>24</sup> 
 [Sopilko.Natalia](users/414/414306980-yandex)<sup>63</sup> 
 [firstova.len](users/119/119518613-yandex)<sup>0</sup> 
 [ezhikarab](users/274/274952753-yandex)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>32</sup> 
 
 
-_03.10.2019 12:32:17_
+_03.10.2019 14:16:25_

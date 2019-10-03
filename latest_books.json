@@ -1,4 +1,16 @@
 {
+    "NPQPWTr_cM": {
+        "id": "NPQPWTr_cM",
+        "title": "Гарри Поттер и методы рационального мышления",
+        "author": "Элиезер Юдковский",
+        "notes": "",
+        "createdAt": "2019-10-03 14:16:25",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 25
+        }
+    },
     "FMMM6wGKUR": {
         "id": "FMMM6wGKUR",
         "title": "Полужизнь",
@@ -345,18 +357,6 @@
             "id": "1146684568850703-facebook",
             "nickname": "Бызов Дмитрий",
             "booksCount": 19
-        }
-    },
-    "3WNpKh30Ej": {
-        "id": "3WNpKh30Ej",
-        "title": "Математическая составляющая",
-        "author": "Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин",
-        "notes": "",
-        "createdAt": "2019-09-24 06:27:53",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 51
         }
     }
 }
