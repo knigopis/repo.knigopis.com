@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[4apa](users/117/117392596378069249667-google)<sup>25</sup> 
+[4apa](users/117/117392596378069249667-google)<sup>26</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>731</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>183</sup> 
 [yey](users/179/179865892-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>32</sup> 
 
 
-_03.10.2019 14:16:25_
+_03.10.2019 14:17:23_
