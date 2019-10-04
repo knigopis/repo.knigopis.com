@@ -1,4 +1,16 @@
 {
+    "epwJ2eutms": {
+        "id": "epwJ2eutms",
+        "title": "Дочь",
+        "author": "Джейн Шемилт",
+        "notes": "книга читается на одном дыхании, но конец пустой. На один раз.",
+        "createdAt": "2019-10-04 07:49:58",
+        "user": {
+            "id": "208969292-yandex",
+            "nickname": "elena-gagina2014",
+            "booksCount": 10
+        }
+    },
     "StExbq9VtT": {
         "id": "StExbq9VtT",
         "title": "Серебристый луч надежды",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 52
-        }
-    },
-    "GeHcvDq4-o": {
-        "id": "GeHcvDq4-o",
-        "title": "ОНО",
-        "author": "Стивен Кинг",
-        "notes": "1248 стр.",
-        "createdAt": "2019-09-08 13:24:18",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 81
         }
     }
 }
