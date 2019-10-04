@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Caswil](users/111/111613390096942262621-google)<sup>1</sup> 
+[Caswil](users/111/111613390096942262621-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>137</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ezhikarab](users/274/274952753-yandex)<sup>1</sup> 
 
 
-_04.10.2019 19:22:59_
+_04.10.2019 19:44:07_
