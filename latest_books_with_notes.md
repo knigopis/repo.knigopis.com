@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сосны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>58</sup>
 * Петровны в гриппе и вокруг него ~ [Человеколось](users/174/17475979687188177329-mailru)<sup>51</sup>
 * Дом темных загадок ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>57</sup>
 * Дом на холодном холме ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup>
@@ -30,7 +31,6 @@
 * Хто б міг подумати. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup>
 * Витающие в облаках ~ [Chiffi](users/105/105831994080785626680-google)<sup>130</sup>
 * Леди Сьюзан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>50</sup>
-* Abenteuer von Zitterbacke ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>25</sup>
 
 
-_01.10.2019 12:38:06_
+_04.10.2019 05:34:07_

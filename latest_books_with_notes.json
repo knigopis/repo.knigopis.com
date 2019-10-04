@@ -1,4 +1,16 @@
 {
+    "W2EoyM2zbs": {
+        "id": "W2EoyM2zbs",
+        "title": "Сосны",
+        "author": "Блек Крауч",
+        "notes": "10/10 Маленький город с большими тайнами.",
+        "createdAt": "2019-10-04 05:34:07",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 58
+        }
+    },
     "ZbX9aKC5a9": {
         "id": "ZbX9aKC5a9",
         "title": "Петровны в гриппе и вокруг него",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 50
-        }
-    },
-    "qw-K0Icf1d": {
-        "id": "qw-K0Icf1d",
-        "title": "Abenteuer von Zitterbacke",
-        "author": "Gerhard Holtz-Baumert",
-        "notes": "1975 год. Книга представляет собой сокращённый и адаптированный вариант популярной в ГДР детской книги писателя Г. Гольц-Баумерта. Это несколько наивных, смешных и трогательных рассказов незадачливого мальчика Альфонса Циттербаке о его приключениях в школе и дома.",
-        "createdAt": "2019-09-05 17:31:42",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 25
         }
     }
 }

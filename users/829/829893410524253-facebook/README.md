@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>57</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>58</sup>
 ---
 
 ## 2019
+
+### Сосны
+Блек Крауч
+> [2019-10-04] 10/10 Маленький город с большими тайнами.
+
 
 ### Дом темных загадок
 Беатрикс Гурион
