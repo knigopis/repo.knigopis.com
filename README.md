@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>184</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>58</sup> 
 [youno](users/302/302928912-vkontakte)<sup>34</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>26</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>731</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>183</sup> 
 [yey](users/179/179865892-vkontakte)<sup>0</sup> 
 [svallvag](users/553/553243325-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>136</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>32</sup> 
 
 
-_04.10.2019 05:34:07_
+_04.10.2019 07:05:31_

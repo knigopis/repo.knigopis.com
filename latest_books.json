@@ -1,4 +1,16 @@
 {
+    "fMOUrarosN": {
+        "id": "fMOUrarosN",
+        "title": "В рай дороги нет",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2019-10-04 07:05:31",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 184
+        }
+    },
     "W2EoyM2zbs": {
         "id": "W2EoyM2zbs",
         "title": "Сосны",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 71
-        }
-    },
-    "MZ-2-YakDN": {
-        "id": "MZ-2-YakDN",
-        "title": "Девушка в тумане",
-        "author": "Донато Карризи",
-        "notes": "",
-        "createdAt": "2019-09-26 10:57:51",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 70
         }
     }
 }
