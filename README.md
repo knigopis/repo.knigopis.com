@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>163</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>10</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>184</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>58</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>124</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>162</sup> 
 [](users/110/110931306939441771638-google)<sup>13</sup> 
 [Kohejri](users/112/112602404891403617314-google)<sup>0</sup> 
 [strogaya.dgb](users/424/424657047-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elder](users/103/103250539971002098853-google)<sup>1</sup> 
 
 
-_04.10.2019 07:49:58_
+_04.10.2019 13:15:19_

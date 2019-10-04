@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>162</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>163</sup>
 ---
 
 ## 2019
+
+### Праздник, который всегда с тобой
+Эрнест Хемингуэй
+> [2019-10-04] 
+
 
 ### Я не верю в монстров
 Луис Сашар
