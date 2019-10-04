@@ -1,7 +1,7 @@
 # Wish list of books by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)
 ---
 
-### `100` 313 книг, 449 livelib и 175 livelib
+### `100` 314 книг
 К прочтению
 
 ### `100` http://book-online.com.ua/index.php?cat=56&s_name=&s_year=&order=4
