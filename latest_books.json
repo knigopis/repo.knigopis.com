@@ -1,4 +1,16 @@
 {
+    "ihnYePkM5B": {
+        "id": "ihnYePkM5B",
+        "title": "Три мушкетера",
+        "author": "Дюма",
+        "notes": "",
+        "createdAt": "2019-10-04 14:21:30",
+        "user": {
+            "id": "208969292-yandex",
+            "nickname": "elena-gagina2014",
+            "booksCount": 11
+        }
+    },
     "o5BYZt1B2V": {
         "id": "o5BYZt1B2V",
         "title": "Праздник, который всегда с тобой",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 49
-        }
-    },
-    "V8jCMO-UTO": {
-        "id": "V8jCMO-UTO",
-        "title": "Егишянц Сергей",
-        "author": "Тупики Глобализации: Торжество Прогресса или Игры Сатанистов?",
-        "notes": "",
-        "createdAt": "2019-09-29 06:02:31",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 124
         }
     }
 }
