@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Фантомная боль ~ [elena-gagina2014](users/208/208969292-yandex)<sup>7</sup>
+    > очень интересная, необычная книга, есть о чем подумать
+
 * Сосны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>58</sup>
     > 10/10 Маленький город с большими тайнами.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Отцы и дети. И просто хороший пример книги о детстве.
 
 * Дом темных загадок ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>57</sup>
-    > 7/10 тайны прошлого и жажда мести.
 
 * Дом на холодном холме ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Защита от тёмных искусств. Путеводитель по миру паранормальных явлений ~ [Человеколось](users/174/17475979687188177329-mailru)<sup>49</sup>
 
-* Сладость на корочке пирога (Загадки Флавии де Люс) ~ [Chiffi](users/105/105831994080785626680-google)<sup>132</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[elena-gagina2014](users/208/208969292-yandex)<sup>7</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>184</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>58</sup> 
 [youno](users/302/302928912-vkontakte)<sup>34</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [firstova.len](users/119/119518613-yandex)<sup>0</sup> 
 [ezhikarab](users/274/274952753-yandex)<sup>1</sup> 
 [Elder](users/103/103250539971002098853-google)<sup>1</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>32</sup> 
 
 
-_04.10.2019 07:05:31_
+_04.10.2019 07:27:35_

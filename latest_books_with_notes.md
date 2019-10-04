@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Фантомная боль ~ [elena-gagina2014](users/208/208969292-yandex)<sup>7</sup>
 * Сосны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>58</sup>
 * Петровны в гриппе и вокруг него ~ [Человеколось](users/174/17475979687188177329-mailru)<sup>51</sup>
 * Дом темных загадок ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>57</sup>
@@ -30,7 +31,6 @@
 * ОНО ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>81</sup>
 * Хто б міг подумати. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>51</sup>
 * Витающие в облаках ~ [Chiffi](users/105/105831994080785626680-google)<sup>130</sup>
-* Леди Сьюзан ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>50</sup>
 
 
-_04.10.2019 05:34:07_
+_04.10.2019 07:27:35_
