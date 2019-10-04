@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[elena-gagina2014](users/208/208969292-yandex)<sup>8</sup> 
+[elena-gagina2014](users/208/208969292-yandex)<sup>7</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>184</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>58</sup> 
 [youno](users/302/302928912-vkontakte)<sup>34</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elder](users/103/103250539971002098853-google)<sup>1</sup> 
 
 
-_04.10.2019 07:29:10_
+_04.10.2019 07:35:49_
