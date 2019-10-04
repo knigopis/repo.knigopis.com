@@ -1,4 +1,16 @@
 {
+    "EqvdPKk4zT": {
+        "id": "EqvdPKk4zT",
+        "title": "Цыц",
+        "author": "Вильмонт Екатерина",
+        "notes": "красивая сказка. Актеры/каскадеры/миллионеры = любовь до гроба. Очень мило, шикарный язык",
+        "createdAt": "2019-10-04 16:59:10",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 137
+        }
+    },
     "34RVHHGN4T": {
         "id": "34RVHHGN4T",
         "title": "Блейз",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 231
-        }
-    },
-    "ji-hI_SJp3": {
-        "id": "ji-hI_SJp3",
-        "title": "МОНСТРОЛОГ. ПРОКЛЯТИЕ ВЕНДИГО",
-        "author": "Рик Янси",
-        "notes": "30.09",
-        "createdAt": "2019-09-29 15:38:19",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 83
         }
     }
 }

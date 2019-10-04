@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Цыц ~ [Chiffi](users/105/105831994080785626680-google)<sup>137</sup>
 * Блейз ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
 * Дочь ~ [elena-gagina2014](users/208/208969292-yandex)<sup>10</sup>
 * Серебристый луч надежды ~ [elena-gagina2014](users/208/208969292-yandex)<sup>9</sup>
@@ -30,7 +31,6 @@
 * История на миллион долларов. Мастер-класс для сценаристов, писателей и не только ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>211</sup>
 * К востоку от рая ~ [Garka](users/115/115753719718250012620-google)<sup>231</sup>
 * Сердце дракона 3 ~ [Quaff](users/122/12267158-vkontakte)<sup>72</sup>
-* 13 причин почему ~ [Euphoria](users/106/106304994652616315178-google)<sup>66</sup>
 
 
-_04.10.2019 16:53:36_
+_04.10.2019 16:59:10_

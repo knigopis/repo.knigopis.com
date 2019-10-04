@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цыц ~ [Chiffi](users/105/105831994080785626680-google)<sup>137</sup>
+    > красивая сказка. Актеры/каскадеры/миллионеры = любовь до гроба. Очень мило, шикарный язык
+
 * Блейз ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
     > 05.10.19
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > книга читается на одном дыхании, но конец пустой. На один раз.
 
 * Серебристый луч надежды ~ [elena-gagina2014](users/208/208969292-yandex)<sup>9</sup>
-    > Есть фильм, но книга гораздо интереснее и понятнее.
 
 * Прощание с иллюзиями ~ [elena-gagina2014](users/208/208969292-yandex)<sup>8</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дом на холодном холме ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup>
 
-* 45 татуировок продавана ~ [youno](users/302/302928912-vkontakte)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>137</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>163</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>731</sup> 
 [yey](users/179/179865892-vkontakte)<sup>0</sup> 
 [svallvag](users/553/553243325-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>136</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>51</sup> 
 [Igor](users/109/109595045545926097766-google)<sup>0</sup> 
 [Захар ](users/332/332860507-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elder](users/103/103250539971002098853-google)<sup>1</sup> 
 
 
-_04.10.2019 16:53:36_
+_04.10.2019 16:59:10_
