@@ -1,4 +1,16 @@
 {
+    "SBPRbCWNFa": {
+        "id": "SBPRbCWNFa",
+        "title": "Прощание с иллюзиями",
+        "author": "Владимир Познер",
+        "notes": "автобиография. Рекомендую.",
+        "createdAt": "2019-10-04 07:40:39",
+        "user": {
+            "id": "208969292-yandex",
+            "nickname": "elena-gagina2014",
+            "booksCount": 8
+        }
+    },
     "lAoil9J_r8": {
         "id": "lAoil9J_r8",
         "title": "Фантомная боль",
@@ -345,18 +357,6 @@
             "id": "110931306939441771638-google",
             "nickname": null,
             "booksCount": 13
-        }
-    },
-    "wC92E5igwn": {
-        "id": "wC92E5igwn",
-        "title": "Фартовый город",
-        "author": "Николай Свечин",
-        "notes": "",
-        "createdAt": "2019-09-28 08:22:12",
-        "user": {
-            "id": "110931306939441771638-google",
-            "nickname": null,
-            "booksCount": 12
         }
     }
 }
