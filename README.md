@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Блейз ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
+    > 05.10.19
+
 * Дочь ~ [elena-gagina2014](users/208/208969292-yandex)<sup>10</sup>
     > книга читается на одном дыхании, но конец пустой. На один раз.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Есть фильм, но книга гораздо интереснее и понятнее.
 
 * Прощание с иллюзиями ~ [elena-gagina2014](users/208/208969292-yandex)<sup>8</sup>
-    > автобиография. Рекомендую.
 
 * Фантомная боль ~ [elena-gagina2014](users/208/208969292-yandex)<sup>7</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 45 татуировок продавана ~ [youno](users/302/302928912-vkontakte)<sup>32</sup>
 
-* Сорняк возле дома (Флавия де Люс 2) ~ [Chiffi](users/105/105831994080785626680-google)<sup>133</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>163</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>184</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Захар ](users/332/332860507-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>231</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>124</sup> 
 [](users/110/110931306939441771638-google)<sup>13</sup> 
 [Kohejri](users/112/112602404891403617314-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elder](users/103/103250539971002098853-google)<sup>1</sup> 
 
 
-_04.10.2019 14:21:30_
+_04.10.2019 16:53:36_

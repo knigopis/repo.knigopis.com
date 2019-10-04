@@ -1,4 +1,16 @@
 {
+    "34RVHHGN4T": {
+        "id": "34RVHHGN4T",
+        "title": "Блейз",
+        "author": "СТИВЕН Кинг",
+        "notes": "05.10.19",
+        "createdAt": "2019-10-04 16:53:36",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 84
+        }
+    },
     "ihnYePkM5B": {
         "id": "ihnYePkM5B",
         "title": "Три мушкетера",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 83
-        }
-    },
-    "wtvMVElZXX": {
-        "id": "wtvMVElZXX",
-        "title": "Защита от тёмных искусств. Путеводитель по миру паранормальных явлений",
-        "author": "Александр Панчин",
-        "notes": "К этой книге нужно будет периодически возвращаться.",
-        "createdAt": "2019-09-29 06:15:03",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 49
         }
     }
 }

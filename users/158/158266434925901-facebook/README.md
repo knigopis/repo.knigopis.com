@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>83</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>84</sup>
 ---
 
 ## 2019
+
+### Блейз
+СТИВЕН Кинг
+> [2019-10-05] 05.10.19
+
 
 ### МОНСТРОЛОГ. ПРОКЛЯТИЕ ВЕНДИГО
 Рик Янси
