@@ -1,4 +1,10 @@
 {
+    "111613390096942262621-google": {
+        "id": "111613390096942262621-google",
+        "nickname": "Caswil",
+        "booksCount": 0,
+        "updatedAt": "2019-10-04 19:20:06"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "ezhikarab",
         "booksCount": 1,
         "updatedAt": "2019-09-22 10:14:00"
-    },
-    "103250539971002098853-google": {
-        "id": "103250539971002098853-google",
-        "nickname": "Elder",
-        "booksCount": 1,
-        "updatedAt": "2019-09-22 09:54:18"
     }
 }
