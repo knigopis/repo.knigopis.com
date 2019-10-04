@@ -1,4 +1,16 @@
 {
+    "StExbq9VtT": {
+        "id": "StExbq9VtT",
+        "title": "Серебристый луч надежды",
+        "author": "Мэтью Квик",
+        "notes": "Есть фильм, но книга гораздо интереснее и понятнее.",
+        "createdAt": "2019-10-04 07:48:11",
+        "user": {
+            "id": "208969292-yandex",
+            "nickname": "elena-gagina2014",
+            "booksCount": 9
+        }
+    },
     "SBPRbCWNFa": {
         "id": "SBPRbCWNFa",
         "title": "Прощание с иллюзиями",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 81
-        }
-    },
-    "U7zg_qEHpJ": {
-        "id": "U7zg_qEHpJ",
-        "title": "Хто б міг подумати.",
-        "author": "Ася Казанцева",
-        "notes": "10/10 Дурниці, які мозг примушує нас робити. Їжа, кохання, залежність.",
-        "createdAt": "2019-09-08 08:16:50",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 51
         }
     }
 }
