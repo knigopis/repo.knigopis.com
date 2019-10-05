@@ -1,4 +1,16 @@
 {
+    "NQmMqHMJ_V": {
+        "id": "NQmMqHMJ_V",
+        "title": "Новая большая книга CSS",
+        "author": "Дэвид Макфарланд",
+        "notes": "",
+        "createdAt": "2019-10-05 09:49:21",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 123
+        }
+    },
     "5_fJeQnedD": {
         "id": "5_fJeQnedD",
         "title": "Интеллигент и две Риты",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 32
-        }
-    },
-    "Mean1-o6Ya": {
-        "id": "Mean1-o6Ya",
-        "title": "Как делать стихи",
-        "author": "Владимир Маяковский",
-        "notes": "",
-        "createdAt": "2019-09-29 19:47:38",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 50
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>122</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>123</sup>
 ---
 
 ## 2019
+
+### Новая большая книга CSS
+Дэвид Макфарланд
+> [2019-10-05] 
+
 
 ### Кладбище  домашних животных
 Стивен Кинг
