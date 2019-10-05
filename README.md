@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>33</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>127</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>138</sup> 
 [Caswil](users/111/111613390096942262621-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>51</sup> 
 [Avery](users/567/56734832-yandex)<sup>11</sup> 
 [Sopilko.Natalia](users/414/414306980-yandex)<sup>63</sup> 
-[firstova.len](users/119/119518613-yandex)<sup>0</sup> 
 
 
-_05.10.2019 09:54:47_
+_05.10.2019 11:03:28_
