@@ -1,4 +1,16 @@
 {
+    "3wLdFi8HJ8": {
+        "id": "3wLdFi8HJ8",
+        "title": "Дневник пажа. Записки Тобиаса Бургесса.",
+        "author": "Ричард Платт",
+        "notes": "",
+        "createdAt": "2019-10-05 12:01:16",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 56
+        }
+    },
     "7yzzrh6Dme": {
         "id": "7yzzrh6Dme",
         "title": "Маленькие трагедии",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 182
-        }
-    },
-    "lrkCeAUmVj": {
-        "id": "lrkCeAUmVj",
-        "title": "О,  я от призраков больна ((Флавия де Люс 4)",
-        "author": "Брэдли Алан",
-        "notes": "",
-        "createdAt": "2019-10-01 19:45:09",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 136
         }
     }
 }
