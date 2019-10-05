@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>125</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>126</sup>
 ---
 
 ## 2019
@@ -16,6 +16,11 @@
 ### Изучаем программирование на Javascript
 Эрик Фримен, Элизабет Робсон
 > [2019-09-28] 
+
+
+### Идеальный программист
+Роберт Мартин
+> [2019-09-15] 
 
 
 ### Кладбище  домашних животных

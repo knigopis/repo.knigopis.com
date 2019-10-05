@@ -1,4 +1,16 @@
 {
+    "wmUgLnYGhp": {
+        "id": "wmUgLnYGhp",
+        "title": "Идеальный программист",
+        "author": "Роберт Мартин",
+        "notes": "",
+        "createdAt": "2019-10-05 09:53:22",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 126
+        }
+    },
     "TwNMYpfajo": {
         "id": "TwNMYpfajo",
         "title": "Статистика и котики",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 57
-        }
-    },
-    "makVtlJNvr": {
-        "id": "makVtlJNvr",
-        "title": "Страна коров",
-        "author": "Эдриан Пирсон",
-        "notes": "",
-        "createdAt": "2019-09-30 11:35:03",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 180
         }
     }
 }
