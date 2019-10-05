@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Человеколось](users/174/17475979687188177329-mailru)<sup>52</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>33</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>127</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>138</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>731</sup> 
 [yey](users/179/179865892-vkontakte)<sup>0</sup> 
 [svallvag](users/553/553243325-vkontakte)<sup>0</sup> 
-[Человеколось](users/174/17475979687188177329-mailru)<sup>51</sup> 
 [Igor](users/109/109595045545926097766-google)<sup>0</sup> 
 [Захар ](users/332/332860507-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sopilko.Natalia](users/414/414306980-yandex)<sup>63</sup> 
 
 
-_05.10.2019 11:03:28_
+_05.10.2019 11:42:18_

@@ -1,4 +1,16 @@
 {
+    "n6gEC3h6wM": {
+        "id": "n6gEC3h6wM",
+        "title": "Алые паруса",
+        "author": "Александр Грин",
+        "notes": "",
+        "createdAt": "2019-10-05 11:42:18",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 52
+        }
+    },
     "xuS_QGwAHK": {
         "id": "xuS_QGwAHK",
         "title": "1Q84. Книга 3",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 33
-        }
-    },
-    "48NRrF5BGe": {
-        "id": "48NRrF5BGe",
-        "title": "Копченая селедка без горчицы (Флавия де Люс 3)",
-        "author": "Брэдли Алан",
-        "notes": "",
-        "createdAt": "2019-09-30 18:59:07",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 135
         }
     }
 }
