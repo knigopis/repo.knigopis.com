@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 1984 ~ [kissamasya](users/684/68439978-vkontakte)<sup>69</sup>
+    > Своеобразный антипод второй великой антиутопии XX века - "О дивный новый мир" Олдоса Хаксли. Что, в сущности, страшнее: доведенное до абсурда "общество потребления" - или доведенное до абсолюта "общество идеи"?
+    > По Оруэллу, нет и не может быть ничего ужаснее тотальной несвободы...
+
 * Интеллигент и две Риты ~ [Chiffi](users/105/105831994080785626680-google)<sup>138</sup>
     > прочитала за один вечер
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > красивая сказка. Актеры/каскадеры/миллионеры = любовь до гроба. Очень мило, шикарный язык
 
 * Блейз ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
-    > 05.10.19
 
 * Дочь ~ [elena-gagina2014](users/208/208969292-yandex)<sup>10</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Петровны в гриппе и вокруг него ~ [Человеколось](users/174/17475979687188177329-mailru)<sup>51</sup>
 
-* Дом темных загадок ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>69</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>56</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>33</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>127</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>19</sup> 
 [me](users/381/381417697-yandex)<sup>51</sup> 
 [Avery](users/567/56734832-yandex)<sup>11</sup> 
-[Sopilko.Natalia](users/414/414306980-yandex)<sup>63</sup> 
 
 
-_05.10.2019 12:01:16_
+_05.10.2019 15:03:52_

@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 69,
+        "updatedAt": "2019-10-05 15:03:52"
+    },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",
         "nickname": "Человеколось",
@@ -172,11 +178,5 @@
         "nickname": "Avery",
         "booksCount": 11,
         "updatedAt": "2019-09-23 16:16:09"
-    },
-    "414306980-yandex": {
-        "id": "414306980-yandex",
-        "nickname": "Sopilko.Natalia",
-        "booksCount": 63,
-        "updatedAt": "2019-09-22 12:42:02"
     }
 }
