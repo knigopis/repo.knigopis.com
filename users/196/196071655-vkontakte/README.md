@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>126</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>127</sup>
 ---
 
 ## 2019
+
+### Никколо Макиавелли
+государь
+> [2019-10-05] 
+
 
 ### Новая большая книга CSS
 Дэвид Макфарланд

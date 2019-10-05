@@ -1,4 +1,16 @@
 {
+    "Bq3t9G1Z9Z": {
+        "id": "Bq3t9G1Z9Z",
+        "title": "Никколо Макиавелли",
+        "author": "государь",
+        "notes": "",
+        "createdAt": "2019-10-05 09:54:46",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 127
+        }
+    },
     "wmUgLnYGhp": {
         "id": "wmUgLnYGhp",
         "title": "Идеальный программист",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 134
-        }
-    },
-    "kZuLugfqOx": {
-        "id": "kZuLugfqOx",
-        "title": "Дом темных загадок",
-        "author": "Беатрикс Гурион",
-        "notes": "7/10 тайны прошлого и жажда мести.",
-        "createdAt": "2019-09-30 17:23:17",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 57
         }
     }
 }
