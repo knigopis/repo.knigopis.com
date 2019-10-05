@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Интеллигент и две Риты ~ [Chiffi](users/105/105831994080785626680-google)<sup>138</sup>
+    > прочитала за один вечер
+
 * Цыц ~ [Chiffi](users/105/105831994080785626680-google)<sup>137</sup>
     > красивая сказка. Актеры/каскадеры/миллионеры = любовь до гроба. Очень мило, шикарный язык
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 05.10.19
 
 * Дочь ~ [elena-gagina2014](users/208/208969292-yandex)<sup>10</sup>
-    > книга читается на одном дыхании, но конец пустой. На один раз.
 
 * Серебристый луч надежды ~ [elena-gagina2014](users/208/208969292-yandex)<sup>9</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Дом темных загадок ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>57</sup>
 
-* Дом на холодном холме ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>138</sup> 
 [Caswil](users/111/111613390096942262621-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>137</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>163</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ezhikarab](users/274/274952753-yandex)<sup>1</sup> 
 
 
-_04.10.2019 19:44:07_
+_05.10.2019 05:34:44_

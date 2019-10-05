@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>137</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>138</sup>
 ---
 
 ## 2019
+
+### Интеллигент и две Риты
+Вильмонт Екатерина
+> [2019-10-04] прочитала за один вечер
+
 
 ### Цыц
 Вильмонт Екатерина
