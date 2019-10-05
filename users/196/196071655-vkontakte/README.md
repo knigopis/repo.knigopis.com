@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>123</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>124</sup>
 ---
 
 ## 2019
@@ -6,6 +6,11 @@
 ### Новая большая книга CSS
 Дэвид Макфарланд
 > [2019-10-05] 
+
+
+### Изучаем программирование на Javascript
+Эрик Фримен, Элизабет Робсон
+> [2019-09-28] 
 
 
 ### Кладбище  домашних животных

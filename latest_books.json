@@ -1,4 +1,16 @@
 {
+    "y6rXDCs7Lj": {
+        "id": "y6rXDCs7Lj",
+        "title": "Изучаем программирование на Javascript",
+        "author": "Эрик Фримен, Элизабет Робсон",
+        "notes": "",
+        "createdAt": "2019-10-05 09:50:56",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 124
+        }
+    },
     "NQmMqHMJ_V": {
         "id": "NQmMqHMJ_V",
         "title": "Новая большая книга CSS",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 145
-        }
-    },
-    "Mg3FDa8Lby": {
-        "id": "Mg3FDa8Lby",
-        "title": "45 татуировок продавана",
-        "author": "Максим Батырев",
-        "notes": "Купить всю серию!",
-        "createdAt": "2019-09-29 20:33:47",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 32
         }
     }
 }
