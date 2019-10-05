@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>124</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>125</sup>
 ---
 
 ## 2019
@@ -6,6 +6,11 @@
 ### Новая большая книга CSS
 Дэвид Макфарланд
 > [2019-10-05] 
+
+
+### Статистика и котики
+Владимир Савельев
+> [2019-10-01] 
 
 
 ### Изучаем программирование на Javascript
