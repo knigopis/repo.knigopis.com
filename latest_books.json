@@ -1,4 +1,16 @@
 {
+    "8uU-odoGOd": {
+        "id": "8uU-odoGOd",
+        "title": "Первому игроку приготовиться",
+        "author": "Эрнест Клайн",
+        "notes": "10/10",
+        "createdAt": "2019-10-06 18:11:11",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 109
+        }
+    },
     "-bKS7P-mx7": {
         "id": "-bKS7P-mx7",
         "title": "Астрономия за 30 секунд",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 184
-        }
-    },
-    "W2EoyM2zbs": {
-        "id": "W2EoyM2zbs",
-        "title": "Сосны",
-        "author": "Блек Крауч",
-        "notes": "10/10 Маленький город с большими тайнами.",
-        "createdAt": "2019-10-04 05:34:07",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 58
         }
     }
 }

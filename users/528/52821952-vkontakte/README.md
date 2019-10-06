@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>111</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>109</sup>
 ---
 
 ## 2019
+
+### Первому игроку приготовиться
+Эрнест Клайн
+> [2019-10-06] 10/10
+
 
 ### Соглядатай
 Владимир Набоков

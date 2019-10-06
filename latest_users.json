@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 109,
+        "updatedAt": "2019-10-06 18:11:11"
+    },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",
         "nickname": "Человеколось",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 148,
         "updatedAt": "2019-09-26 03:52:57"
-    },
-    "1146684568850703-facebook": {
-        "id": "1146684568850703-facebook",
-        "nickname": "Бызов Дмитрий",
-        "booksCount": 19,
-        "updatedAt": "2019-09-24 15:24:14"
     }
 }
