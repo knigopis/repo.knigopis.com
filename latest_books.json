@@ -1,4 +1,16 @@
 {
+    "NS2Fss_5Yk": {
+        "id": "NS2Fss_5Yk",
+        "title": "Взгляд висельника",
+        "author": "Александр Варго",
+        "notes": "Ужасное чтиво.",
+        "createdAt": "2019-10-06 11:03:45",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 146
+        }
+    },
     "y_-eRsOn6O": {
         "id": "y_-eRsOn6O",
         "title": "Не отпускай меня",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 25
-        }
-    },
-    "FMMM6wGKUR": {
-        "id": "FMMM6wGKUR",
-        "title": "Полужизнь",
-        "author": "Видиадхар Сураджпрасад Найпол",
-        "notes": "",
-        "createdAt": "2019-10-03 12:32:16",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 731
         }
     }
 }

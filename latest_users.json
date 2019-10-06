@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 146,
+        "updatedAt": "2019-10-06 11:03:45"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -118,12 +124,6 @@
         "nickname": "Захар ",
         "booksCount": 0,
         "updatedAt": "2019-09-30 05:23:06"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 145,
-        "updatedAt": "2019-09-29 20:53:34"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
