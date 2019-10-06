@@ -1,4 +1,16 @@
 {
+    "BXY2Sf2hlO": {
+        "id": "BXY2Sf2hlO",
+        "title": "Я вещаю из гробницы (Флавия де Люс 5)",
+        "author": "Брэдли Алан",
+        "notes": "люблю 1. английские детективы, 2. серии 3. интересные серии",
+        "createdAt": "2019-10-06 18:58:23",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 139
+        }
+    },
     "MXKkcEzrJl": {
         "id": "MXKkcEzrJl",
         "title": "Кэрри",
@@ -341,18 +353,6 @@
         "author": "Владимир Познер",
         "notes": "автобиография. Рекомендую.",
         "createdAt": "2019-10-04 07:40:39",
-        "user": {
-            "id": "208969292-yandex",
-            "nickname": "elena-gagina2014",
-            "booksCount": 8
-        }
-    },
-    "lAoil9J_r8": {
-        "id": "lAoil9J_r8",
-        "title": "Фантомная боль",
-        "author": "Олег Рой",
-        "notes": "",
-        "createdAt": "2019-10-04 07:29:10",
         "user": {
             "id": "208969292-yandex",
             "nickname": "elena-gagina2014",
