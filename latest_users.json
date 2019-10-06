@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 214,
+        "updatedAt": "2019-10-06 12:21:15"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "Бызов Дмитрий",
         "booksCount": 19,
         "updatedAt": "2019-09-24 15:24:14"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 51,
-        "updatedAt": "2019-09-24 06:27:53"
     }
 }
