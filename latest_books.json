@@ -1,4 +1,16 @@
 {
+    "ZXtXShXjMH": {
+        "id": "ZXtXShXjMH",
+        "title": "Киз, Дэниел",
+        "author": "Цветы для Элджернона",
+        "notes": "Оригинальная подача - отчеты об эксперименте, написанные самим подопытным. Очень эмоционально передано изменение личности, безумно жалко Чарли. Одна из лучших книг, которые читала",
+        "createdAt": "2019-10-06 07:02:50",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 232
+        }
+    },
     "rtxkqlfN5Z": {
         "id": "rtxkqlfN5Z",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 183
-        }
-    },
-    "7RDPG_wvTH": {
-        "id": "7RDPG_wvTH",
-        "title": "Культура и Социальное Поведение",
-        "author": "Гарри Триандис",
-        "notes": "",
-        "createdAt": "2019-10-02 12:04:45",
-        "user": {
-            "id": "553243325-vkontakte",
-            "nickname": "svallvag",
-            "booksCount": 1
         }
     }
 }

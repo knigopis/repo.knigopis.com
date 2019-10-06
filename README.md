@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Киз, Дэниел ~ [Garka](users/115/115753719718250012620-google)<sup>232</sup>
+    > Оригинальная подача - отчеты об эксперименте, написанные самим подопытным. Очень эмоционально передано изменение личности, безумно жалко Чарли. Одна из лучших книг, которые читала
+
 * 1984 ~ [kissamasya](users/684/68439978-vkontakte)<sup>69</sup>
     > Своеобразный антипод второй великой антиутопии XX века - "О дивный новый мир" Олдоса Хаксли. Что, в сущности, страшнее: доведенное до абсурда "общество потребления" - или доведенное до абсолюта "общество идеи"?
     > По Оруэллу, нет и не может быть ничего ужаснее тотальной несвободы...
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > прочитала за один вечер
 
 * Цыц ~ [Chiffi](users/105/105831994080785626680-google)<sup>137</sup>
-    > красивая сказка. Актеры/каскадеры/миллионеры = любовь до гроба. Очень мило, шикарный язык
 
 * Блейз ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Сосны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>58</sup>
 
-* Петровны в гриппе и вокруг него ~ [Человеколось](users/174/17475979687188177329-mailru)<sup>51</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>232</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>69</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>56</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>33</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Igor](users/109/109595045545926097766-google)<sup>0</sup> 
 [Захар ](users/332/332860507-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>145</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>231</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>124</sup> 
 [](users/110/110931306939441771638-google)<sup>13</sup> 
 [Kohejri](users/112/112602404891403617314-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>11</sup> 
 
 
-_05.10.2019 15:03:52_
+_06.10.2019 07:02:51_
