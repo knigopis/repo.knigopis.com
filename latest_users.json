@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 128,
+        "updatedAt": "2019-10-06 18:32:05"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -52,12 +58,6 @@
         "nickname": "Антенка",
         "booksCount": 33,
         "updatedAt": "2019-10-05 11:03:28"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 127,
-        "updatedAt": "2019-10-05 09:54:46"
     },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",

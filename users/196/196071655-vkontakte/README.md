@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>127</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>128</sup>
 ---
 
 ## 2019
+
+### Кэрри
+Стивен Кинг
+> [2019-10-06] 
+
 
 ### Никколо Макиавелли
 государь

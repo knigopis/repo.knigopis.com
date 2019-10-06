@@ -1,4 +1,16 @@
 {
+    "MXKkcEzrJl": {
+        "id": "MXKkcEzrJl",
+        "title": "Кэрри",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2019-10-06 18:32:05",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 128
+        }
+    },
     "8uU-odoGOd": {
         "id": "8uU-odoGOd",
         "title": "Первому игроку приготовиться",
@@ -345,18 +357,6 @@
             "id": "208969292-yandex",
             "nickname": "elena-gagina2014",
             "booksCount": 8
-        }
-    },
-    "fMOUrarosN": {
-        "id": "fMOUrarosN",
-        "title": "В рай дороги нет",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2019-10-04 07:05:31",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 184
         }
     }
 }

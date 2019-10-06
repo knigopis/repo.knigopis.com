@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>128</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>57</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>732</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>232</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>69</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>33</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>127</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>138</sup> 
 [Caswil](users/111/111613390096942262621-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>148</sup> 
 
 
-_06.10.2019 18:11:11_
+_06.10.2019 18:32:05_
