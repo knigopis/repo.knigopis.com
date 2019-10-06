@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Не отпускай меня ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>26</sup>
 * Киз, Дэниел ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
 * 1984 ~ [kissamasya](users/684/68439978-vkontakte)<sup>69</sup>
 * Интеллигент и две Риты ~ [Chiffi](users/105/105831994080785626680-google)<sup>138</sup>
@@ -30,7 +31,6 @@
 * Вирджиния Вулф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
 * Волшебники ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>53</sup>
 * Неоконченные предания Нуменора и Средиземья ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>213</sup>
-* Графическое отображение фактов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>212</sup>
 
 
-_06.10.2019 07:03:13_
+_06.10.2019 10:37:42_
