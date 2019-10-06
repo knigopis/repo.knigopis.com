@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Киз, Дэниел ~ [Garka](users/115/115753719718250012620-google)<sup>232</sup>
+* Киз, Дэниел ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
 * 1984 ~ [kissamasya](users/684/68439978-vkontakte)<sup>69</sup>
 * Интеллигент и две Риты ~ [Chiffi](users/105/105831994080785626680-google)<sup>138</sup>
 * Цыц ~ [Chiffi](users/105/105831994080785626680-google)<sup>137</sup>
@@ -33,4 +33,4 @@
 * Графическое отображение фактов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>212</sup>
 
 
-_06.10.2019 07:02:51_
+_06.10.2019 07:03:13_
