@@ -38,13 +38,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Человеколось](users/174/17475979687188177329-mailru)<sup>57</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>732</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>214</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>146</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>26</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>232</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>69</sup> 
-[Человеколось](users/174/17475979687188177329-mailru)<sup>56</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>33</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>127</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>138</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>19</sup> 
 
 
-_06.10.2019 13:44:22_
+_06.10.2019 15:46:19_
