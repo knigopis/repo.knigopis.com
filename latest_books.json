@@ -1,4 +1,16 @@
 {
+    "5IuTvGtra4": {
+        "id": "5IuTvGtra4",
+        "title": "Метро 2035",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2019-10-06 19:06:40",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 49
+        }
+    },
     "BXY2Sf2hlO": {
         "id": "BXY2Sf2hlO",
         "title": "Я вещаю из гробницы (Флавия де Люс 5)",
@@ -345,18 +357,6 @@
             "id": "208969292-yandex",
             "nickname": "elena-gagina2014",
             "booksCount": 9
-        }
-    },
-    "SBPRbCWNFa": {
-        "id": "SBPRbCWNFa",
-        "title": "Прощание с иллюзиями",
-        "author": "Владимир Познер",
-        "notes": "автобиография. Рекомендую.",
-        "createdAt": "2019-10-04 07:40:39",
-        "user": {
-            "id": "208969292-yandex",
-            "nickname": "elena-gagina2014",
-            "booksCount": 8
         }
     }
 }

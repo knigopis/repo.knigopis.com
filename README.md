@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>49</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>139</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>128</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [strogaya.dgb](users/424/424657047-yandex)<sup>0</sup> 
 [katerina985](users/146/14637064-vkontakte)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>71</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>148</sup> 
 
 
-_06.10.2019 18:58:23_
+_06.10.2019 19:06:40_
