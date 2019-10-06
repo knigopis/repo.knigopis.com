@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>233</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>232</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>69</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>56</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>33</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>11</sup> 
 
 
-_06.10.2019 07:03:13_
+_06.10.2019 07:04:34_
