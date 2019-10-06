@@ -1,4 +1,16 @@
 {
+    "shsSBPanVQ": {
+        "id": "shsSBPanVQ",
+        "title": "Пан",
+        "author": "Гамсун Кнут",
+        "notes": "",
+        "createdAt": "2019-10-06 13:44:21",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 732
+        }
+    },
     "p76BLlPwdI": {
         "id": "p76BLlPwdI",
         "title": "Берлинский Кремль. Крылья холопа",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 34
-        }
-    },
-    "9GWwucMvX9": {
-        "id": "9GWwucMvX9",
-        "title": "А. Первушин",
-        "author": "Битва за Луну",
-        "notes": "",
-        "createdAt": "2019-10-03 14:17:23",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 26
         }
     }
 }

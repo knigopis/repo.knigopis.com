@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>732</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>214</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>146</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>26</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>58</sup> 
 [youno](users/302/302928912-vkontakte)<sup>34</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>26</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>731</sup> 
 [yey](users/179/179865892-vkontakte)<sup>0</sup> 
 [svallvag](users/553/553243325-vkontakte)<sup>0</sup> 
 [Igor](users/109/109595045545926097766-google)<sup>0</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Бызов Дмитрий](users/114/1146684568850703-facebook)<sup>19</sup> 
 
 
-_06.10.2019 12:21:16_
+_06.10.2019 13:44:22_

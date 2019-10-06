@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 732,
+        "updatedAt": "2019-10-06 13:44:21"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -100,12 +106,6 @@
         "nickname": "4apa",
         "booksCount": 26,
         "updatedAt": "2019-10-03 14:17:23"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 731,
-        "updatedAt": "2019-10-03 12:32:16"
     },
     "179865892-vkontakte": {
         "id": "179865892-vkontakte",
