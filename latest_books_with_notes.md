@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* У Германтов ~ [anvonamore](users/595/5957175-vkontakte)<sup>127</sup>
 * Справа Василя Стуса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup>
 * Я вещаю из гробницы (Флавия де Люс 5) ~ [Chiffi](users/105/105831994080785626680-google)<sup>139</sup>
 * Первому игроку приготовиться ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
@@ -30,7 +31,6 @@
 * Интересные времена ~ [Garka](users/115/115753719718250012620-google)<sup>232</sup>
 * Таємниці та загадки медицини ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>55</sup>
 * Колымские рассказы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>54</sup>
-* ИНТЕРЕСНЫЕ ВРЕМЕНА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup>
 
 
-_07.10.2019 11:45:28_
+_07.10.2019 15:27:02_

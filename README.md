@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* У Германтов ~ [anvonamore](users/595/5957175-vkontakte)<sup>127</sup>
+    > 4/10
+
 * Справа Василя Стуса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup>
     > 8/10 Матеріали справи, останні записи.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > люблю 1. английские детективы, 2. серии 3. интересные серии
 
 * Первому игроку приготовиться ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
-    > 10/10
 
 * Берлинский Кремль. Крылья холопа ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>214</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Интеллигент и две Риты ~ [Chiffi](users/105/105831994080785626680-google)<sup>138</sup>
 
-* Цыц ~ [Chiffi](users/105/105831994080785626680-google)<sup>137</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>127</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>164</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>49</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Kohejri](users/112/112602404891403617314-google)<sup>0</sup> 
 [strogaya.dgb](users/424/424657047-yandex)<sup>0</sup> 
 [katerina985](users/146/14637064-vkontakte)<sup>0</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>71</sup> 
 
 
-_07.10.2019 11:45:28_
+_07.10.2019 15:27:02_
