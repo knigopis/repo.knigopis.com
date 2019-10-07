@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>164</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>49</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>139</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>128</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Caswil](users/111/111613390096942262621-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>163</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>184</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>58</sup> 
 [youno](users/302/302928912-vkontakte)<sup>34</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>71</sup> 
 
 
-_06.10.2019 19:06:40_
+_07.10.2019 05:27:12_
