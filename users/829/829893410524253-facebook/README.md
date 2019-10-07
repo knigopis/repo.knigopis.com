@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>58</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>59</sup>
 ---
 
 ## 2019
+
+### Справа Василя Стуса
+Вахтанг Кіпіані
+> [2019-10-07] 8/10 Матеріали справи, останні записи.
+
 
 ### Сосны
 Блек Крауч

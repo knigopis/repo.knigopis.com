@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Справа Василя Стуса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup>
 * Я вещаю из гробницы (Флавия де Люс 5) ~ [Chiffi](users/105/105831994080785626680-google)<sup>139</sup>
 * Первому игроку приготовиться ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
 * Берлинский Кремль. Крылья холопа ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>214</sup>
@@ -30,7 +31,6 @@
 * Таємниці та загадки медицини ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>55</sup>
 * Колымские рассказы ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>54</sup>
 * ИНТЕРЕСНЫЕ ВРЕМЕНА ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>82</sup>
-* Соглядатай ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
 
 
-_06.10.2019 18:58:23_
+_07.10.2019 11:45:28_

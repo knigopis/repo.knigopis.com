@@ -1,4 +1,16 @@
 {
+    "HWSe2GP3hp": {
+        "id": "HWSe2GP3hp",
+        "title": "Справа Василя Стуса",
+        "author": "Вахтанг Кіпіані",
+        "notes": "8/10 Матеріали справи, останні записи.",
+        "createdAt": "2019-10-07 11:45:28",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 59
+        }
+    },
     "EH2H9CQnyw": {
         "id": "EH2H9CQnyw",
         "title": "Ты изменил мою жизнь",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 163
-        }
-    },
-    "epwJ2eutms": {
-        "id": "epwJ2eutms",
-        "title": "Дочь",
-        "author": "Джейн Шемилт",
-        "notes": "книга читается на одном дыхании, но конец пустой. На один раз.",
-        "createdAt": "2019-10-04 07:49:58",
-        "user": {
-            "id": "208969292-yandex",
-            "nickname": "elena-gagina2014",
-            "booksCount": 10
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Справа Василя Стуса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup>
+    > 8/10 Матеріали справи, останні записи.
+
 * Я вещаю из гробницы (Флавия де Люс 5) ~ [Chiffi](users/105/105831994080785626680-google)<sup>139</sup>
     > люблю 1. английские детективы, 2. серии 3. интересные серии
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * Берлинский Кремль. Крылья холопа ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>214</sup>
-    > Дошли руки и до этой книги. Это нечто вроде литературного дневника Григория Климова. Полагаю, людям, не заставшим СССР, будет крайне трудно воспринимать текст. Я же отлично помню многие описанные там вещи со своей колокольни, в уже сильно сглаженном виде позднего СССР. И с этой точки зрения книга замечательна, хоть и выпячивает прежде всего негативные стороны советской жизни. Также есть ряд очень интересных исторических отсылок к высшей политике СССР в первой половине XX века, пусть короткой строкой, но дающих богатейший материал к размышлению и дальнейшему переосмыслению. В школе нам этого точно не давали.
-    > 
-    > В целом же книга - прекрасная иллюстрация к теме информационных объектов и их метаболизму независимо от конкретных людей на конкретных должностях.
-    > 
-    > в процессе
 
 * Взгляд висельника ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>146</sup>
 
@@ -30,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Цыц ~ [Chiffi](users/105/105831994080785626680-google)<sup>137</sup>
 
-* Блейз ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>164</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>49</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>139</sup> 
@@ -54,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>184</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>58</sup> 
 [youno](users/302/302928912-vkontakte)<sup>34</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>26</sup> 
 [yey](users/179/179865892-vkontakte)<sup>0</sup> 
@@ -69,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>71</sup> 
 
 
-_07.10.2019 05:27:12_
+_07.10.2019 11:45:28_
