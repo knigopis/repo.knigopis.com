@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Год без покупок ~ [youno](users/302/302928912-vkontakte)<sup>35</sup>
+    > Заинтересовало название. Просто история человека.
+
 * У Германтов ~ [anvonamore](users/595/5957175-vkontakte)<sup>127</sup>
     > 4/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Матеріали справи, останні записи.
 
 * Я вещаю из гробницы (Флавия де Люс 5) ~ [Chiffi](users/105/105831994080785626680-google)<sup>139</sup>
-    > люблю 1. английские детективы, 2. серии 3. интересные серии
 
 * Первому игроку приготовиться ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 1984 ~ [kissamasya](users/684/68439978-vkontakte)<sup>69</sup>
 
-* Интеллигент и две Риты ~ [Chiffi](users/105/105831994080785626680-google)<sup>138</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>35</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>127</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>164</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>184</sup> 
-[youno](users/302/302928912-vkontakte)<sup>34</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>26</sup> 
 [yey](users/179/179865892-vkontakte)<sup>0</sup> 
 [svallvag](users/553/553243325-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katerina985](users/146/14637064-vkontakte)<sup>0</sup> 
 
 
-_07.10.2019 15:27:02_
+_07.10.2019 18:01:18_
