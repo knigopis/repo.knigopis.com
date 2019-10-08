@@ -1,4 +1,16 @@
 {
+    "DLDAEHzbWy": {
+        "id": "DLDAEHzbWy",
+        "title": "Песчаные короли",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2019-10-08 10:58:54",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 13
+        }
+    },
     "OiozM7kD3U": {
         "id": "OiozM7kD3U",
         "title": "Камера смертников",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 125
-        }
-    },
-    "y6rXDCs7Lj": {
-        "id": "y6rXDCs7Lj",
-        "title": "Изучаем программирование на Javascript",
-        "author": "Эрик Фримен, Элизабет Робсон",
-        "notes": "",
-        "createdAt": "2019-10-05 09:50:56",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 124
         }
     }
 }

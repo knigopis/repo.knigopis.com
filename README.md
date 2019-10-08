@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Avery](users/567/56734832-yandex)<sup>12</sup> 
+[Avery](users/567/56734832-yandex)<sup>13</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>65</sup> 
 [youno](users/302/302928912-vkontakte)<sup>35</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>13</sup> 
 
 
-_08.10.2019 10:57:56_
+_08.10.2019 10:58:55_
