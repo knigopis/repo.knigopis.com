@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>185</sup> 
 [Avery](users/567/56734832-yandex)<sup>13</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>65</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Caswil](users/111/111613390096942262621-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>184</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>26</sup> 
 [yey](users/179/179865892-vkontakte)<sup>0</sup> 
 [svallvag](users/553/553243325-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>13</sup> 
 
 
-_08.10.2019 10:58:55_
+_08.10.2019 11:55:47_

@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 185,
+        "updatedAt": "2019-10-08 11:55:46"
+    },
     "56734832-yandex": {
         "id": "56734832-yandex",
         "nickname": "Avery",
@@ -130,12 +136,6 @@
         "nickname": "elena-gagina2014",
         "booksCount": 11,
         "updatedAt": "2019-10-04 14:21:30"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 184,
-        "updatedAt": "2019-10-04 07:05:31"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
