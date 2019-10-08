@@ -1,4 +1,16 @@
 {
+    "swOI5B06Wj": {
+        "id": "swOI5B06Wj",
+        "title": "Блондинка с пистолетом",
+        "author": "Владимир Колычев",
+        "notes": "",
+        "createdAt": "2019-10-08 12:16:42",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "_VMAdfLDwv": {
         "id": "_VMAdfLDwv",
         "title": "Могила воина",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 127
-        }
-    },
-    "wmUgLnYGhp": {
-        "id": "wmUgLnYGhp",
-        "title": "Идеальный программист",
-        "author": "Роберт Мартин",
-        "notes": "",
-        "createdAt": "2019-10-05 09:53:22",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 126
         }
     }
 }
