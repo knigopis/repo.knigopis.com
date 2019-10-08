@@ -1,4 +1,16 @@
 {
+    "zSSk1hPVaP": {
+        "id": "zSSk1hPVaP",
+        "title": "Странник по звездам (Смирительная рубашка)",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2019-10-08 07:26:59",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 63
+        }
+    },
     "sELuA6ZC-H": {
         "id": "sELuA6ZC-H",
         "title": "Год без покупок",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 137
-        }
-    },
-    "34RVHHGN4T": {
-        "id": "34RVHHGN4T",
-        "title": "Блейз",
-        "author": "СТИВЕН Кинг",
-        "notes": "05.10.19",
-        "createdAt": "2019-10-04 16:53:36",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 84
         }
     }
 }

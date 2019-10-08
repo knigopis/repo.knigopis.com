@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>62</sup>
+# List of books read by inna.besprozvannykh<sup>63</sup>
 ---
 
 ## 2019
+
+### Странник по звездам (Смирительная рубашка)
+Джек Лондон
+> [2019-09] 
+
 
 ### Узорный покров
 Уильям Сомерсет Моэм
