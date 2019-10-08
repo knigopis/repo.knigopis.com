@@ -1,4 +1,10 @@
 {
+    "56734832-yandex": {
+        "id": "56734832-yandex",
+        "nickname": "Avery",
+        "booksCount": 12,
+        "updatedAt": "2019-10-08 10:57:56"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 13,
         "updatedAt": "2019-09-28 08:22:55"
-    },
-    "112602404891403617314-google": {
-        "id": "112602404891403617314-google",
-        "nickname": "Kohejri",
-        "booksCount": 0,
-        "updatedAt": "2019-09-27 17:53:18"
     }
 }

@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Камера смертников ~ [Avery](users/567/56734832-yandex)<sup>12</sup>
+    > Земляне привыкли считать Землю центром вселенной. Но что если это совсем не так и в содружестве инопланетных цивилизаций она играет совсем другую роль?
+    > 
+    > Короткий рассказ.
+
 * Год без покупок ~ [youno](users/302/302928912-vkontakte)<sup>35</sup>
     > Заинтересовало название. Просто история человека.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > 4/10
 
 * Справа Василя Стуса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup>
-    > 8/10 Матеріали справи, останні записи.
 
 * Я вещаю из гробницы (Флавия де Люс 5) ~ [Chiffi](users/105/105831994080785626680-google)<sup>139</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Киз, Дэниел ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
 
-* 1984 ~ [kissamasya](users/684/68439978-vkontakte)<sup>69</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Avery](users/567/56734832-yandex)<sup>12</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>65</sup> 
 [youno](users/302/302928912-vkontakte)<sup>35</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Захар ](users/332/332860507-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>124</sup> 
 [](users/110/110931306939441771638-google)<sup>13</sup> 
-[Kohejri](users/112/112602404891403617314-google)<sup>0</sup> 
 
 
-_08.10.2019 09:11:47_
+_08.10.2019 10:57:56_

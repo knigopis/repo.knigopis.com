@@ -1,4 +1,16 @@
 {
+    "OiozM7kD3U": {
+        "id": "OiozM7kD3U",
+        "title": "Камера смертников",
+        "author": "Райт Джордж",
+        "notes": "Земляне привыкли считать Землю центром вселенной. Но что если это совсем не так и в содружестве инопланетных цивилизаций она играет совсем другую роль?\n\nКороткий рассказ.",
+        "createdAt": "2019-10-08 10:57:56",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 12
+        }
+    },
     "dzcyeUieE-": {
         "id": "dzcyeUieE-",
         "title": "Прощу, когда умрёшь",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 124
-        }
-    },
-    "NQmMqHMJ_V": {
-        "id": "NQmMqHMJ_V",
-        "title": "Новая большая книга CSS",
-        "author": "Дэвид Макфарланд",
-        "notes": "",
-        "createdAt": "2019-10-05 09:49:21",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 123
         }
     }
 }

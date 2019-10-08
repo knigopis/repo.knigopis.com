@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Камера смертников ~ [Avery](users/567/56734832-yandex)<sup>12</sup>
 * Год без покупок ~ [youno](users/302/302928912-vkontakte)<sup>35</sup>
 * У Германтов ~ [anvonamore](users/595/5957175-vkontakte)<sup>127</sup>
 * Справа Василя Стуса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup>
@@ -30,7 +31,6 @@
 * Сладость на корочке пирога (Загадки Флавии де Люс) ~ [Chiffi](users/105/105831994080785626680-google)<sup>132</sup>
 * Цинкові хлопчики ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>56</sup>
 * Интересные времена ~ [Garka](users/115/115753719718250012620-google)<sup>232</sup>
-* Таємниці та загадки медицини ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>55</sup>
 
 
-_07.10.2019 18:01:18_
+_08.10.2019 10:57:56_
