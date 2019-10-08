@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/270/270444099499-odnoklassniki)<sup>0</sup> 
+[](users/270/270444099499-odnoklassniki)<sup>1</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>65</sup> 
 [youno](users/302/302928912-vkontakte)<sup>35</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>127</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Kohejri](users/112/112602404891403617314-google)<sup>0</sup> 
 
 
-_08.10.2019 09:09:23_
+_08.10.2019 09:11:47_

@@ -1,4 +1,16 @@
 {
+    "dzcyeUieE-": {
+        "id": "dzcyeUieE-",
+        "title": "Прощу, когда умрёшь",
+        "author": "Владимир Колычев",
+        "notes": "",
+        "createdAt": "2019-10-08 09:11:46",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "zA3BNw1IOl": {
         "id": "zA3BNw1IOl",
         "title": "Пассажир",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 123
-        }
-    },
-    "5_fJeQnedD": {
-        "id": "5_fJeQnedD",
-        "title": "Интеллигент и две Риты",
-        "author": "Вильмонт Екатерина",
-        "notes": "прочитала за один вечер",
-        "createdAt": "2019-10-05 05:34:44",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 138
         }
     }
 }
