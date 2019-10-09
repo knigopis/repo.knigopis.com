@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GenjutsuYoMaYo](users/923/923106412-yandex)<sup>0</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>59</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>186</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Igor](users/109/109595045545926097766-google)<sup>0</sup> 
 [Захар ](users/332/332860507-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>124</sup> 
-[](users/110/110931306939441771638-google)<sup>13</sup> 
 
 
-_09.10.2019 12:01:30_
+_09.10.2019 17:25:39_
