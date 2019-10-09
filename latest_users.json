@@ -1,4 +1,10 @@
 {
+    "923106412-yandex": {
+        "id": "923106412-yandex",
+        "nickname": "GenjutsuYoMaYo",
+        "booksCount": 0,
+        "updatedAt": "2019-10-09 17:25:35"
+    },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",
         "nickname": "Человеколось",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 124,
         "updatedAt": "2019-09-29 06:02:31"
-    },
-    "110931306939441771638-google": {
-        "id": "110931306939441771638-google",
-        "nickname": null,
-        "booksCount": 13,
-        "updatedAt": "2019-09-28 08:22:55"
     }
 }
