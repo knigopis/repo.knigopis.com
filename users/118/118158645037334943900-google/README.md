@@ -1,7 +1,12 @@
-# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>33</sup>
+# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>34</sup>
 ---
 
 ## 2019
+
+### Повести Белкина
+А. С. Пушкин
+> [2019-10-08] 
+
 
 ### 1Q84. Книга 3
 Харуки Мураками

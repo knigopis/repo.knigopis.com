@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>34</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>165</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>185</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>26</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>232</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>69</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>33</sup> 
 [Caswil](users/111/111613390096942262621-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>13</sup> 
 
 
-_08.10.2019 16:47:55_
+_09.10.2019 01:08:14_
