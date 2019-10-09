@@ -1,4 +1,16 @@
 {
+    "6OrpsLj875": {
+        "id": "6OrpsLj875",
+        "title": "ГКЧП как тетраграмматон",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2019-10-09 11:59:36",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 58
+        }
+    },
     "xB4K9wFETc": {
         "id": "xB4K9wFETc",
         "title": "Полное погружение",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 55
-        }
-    },
-    "d7OZye1K4H": {
-        "id": "d7OZye1K4H",
-        "title": "Детское время",
-        "author": "Владимир Машков",
-        "notes": "",
-        "createdAt": "2019-10-05 11:47:47",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 54
         }
     }
 }
