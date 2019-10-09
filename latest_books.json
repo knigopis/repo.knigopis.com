@@ -1,4 +1,16 @@
 {
+    "7uj0Y3CLY3": {
+        "id": "7uj0Y3CLY3",
+        "title": "Здесь мертвецы под сводом спят (Флавия де Люс 6)",
+        "author": "Брэдли Алан",
+        "notes": "",
+        "createdAt": "2019-10-09 19:17:00",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 140
+        }
+    },
     "l_zc8jMdho": {
         "id": "l_zc8jMdho",
         "title": "Пиши, сокращай",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 69
-        }
-    },
-    "3wLdFi8HJ8": {
-        "id": "3wLdFi8HJ8",
-        "title": "Дневник пажа. Записки Тобиаса Бургесса.",
-        "author": "Ричард Платт",
-        "notes": "",
-        "createdAt": "2019-10-05 12:01:16",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 56
         }
     }
 }

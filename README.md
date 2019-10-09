@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>140</sup> 
 [GenjutsuYoMaYo](users/923/923106412-yandex)<sup>0</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>59</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>1</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>127</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>49</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>139</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>128</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>732</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>124</sup> 
 
 
-_09.10.2019 17:25:39_
+_09.10.2019 19:17:00_

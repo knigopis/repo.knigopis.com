@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 140,
+        "updatedAt": "2019-10-09 19:17:00"
+    },
     "923106412-yandex": {
         "id": "923106412-yandex",
         "nickname": "GenjutsuYoMaYo",
@@ -70,12 +76,6 @@
         "nickname": "vladkozz",
         "booksCount": 49,
         "updatedAt": "2019-10-06 19:06:40"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 139,
-        "updatedAt": "2019-10-06 18:58:23"
     },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",

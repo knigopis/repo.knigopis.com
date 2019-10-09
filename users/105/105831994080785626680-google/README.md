@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>139</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>140</sup>
 ---
 
 ## 2019
+
+### Здесь мертвецы под сводом спят (Флавия де Люс 6)
+Брэдли Алан
+> [2019-10-09] 
+
 
 ### Я вещаю из гробницы (Флавия де Люс 5)
 Брэдли Алан
