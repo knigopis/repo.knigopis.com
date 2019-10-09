@@ -1,4 +1,16 @@
 {
+    "xB4K9wFETc": {
+        "id": "xB4K9wFETc",
+        "title": "Полное погружение",
+        "author": "Татьяна  Корсакова",
+        "notes": "",
+        "createdAt": "2019-10-09 09:11:22",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "IpNfz7y0oq": {
         "id": "IpNfz7y0oq",
         "title": "Соло на ундервуде",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 54
-        }
-    },
-    "Kf9S4V3U-F": {
-        "id": "Kf9S4V3U-F",
-        "title": "Золотая цепь",
-        "author": "Александр Грин",
-        "notes": "",
-        "createdAt": "2019-10-05 11:42:43",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 53
         }
     }
 }
