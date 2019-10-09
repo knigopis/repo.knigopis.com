@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Человеколось](users/174/17475979687188177329-mailru)<sup>58</sup> 
+[Человеколось](users/174/17475979687188177329-mailru)<sup>59</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>186</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>34</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>13</sup> 
 
 
-_09.10.2019 11:59:36_
+_09.10.2019 12:01:30_
