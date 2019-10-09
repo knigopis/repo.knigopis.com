@@ -1,4 +1,16 @@
 {
+    "IpNfz7y0oq": {
+        "id": "IpNfz7y0oq",
+        "title": "Соло на ундервуде",
+        "author": "Сергей Довлатов",
+        "notes": "",
+        "createdAt": "2019-10-09 08:31:24",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 186
+        }
+    },
     "b1cJ_FOPWv": {
         "id": "b1cJ_FOPWv",
         "title": "Повести Белкина",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 53
-        }
-    },
-    "n6gEC3h6wM": {
-        "id": "n6gEC3h6wM",
-        "title": "Алые паруса",
-        "author": "Александр Грин",
-        "notes": "",
-        "createdAt": "2019-10-05 11:42:18",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 52
         }
     }
 }

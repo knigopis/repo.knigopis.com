@@ -35,10 +35,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>186</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>34</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>165</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>2</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>185</sup> 
 [Avery](users/567/56734832-yandex)<sup>13</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>65</sup> 
 [youno](users/302/302928912-vkontakte)<sup>35</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110931306939441771638-google)<sup>13</sup> 
 
 
-_09.10.2019 01:08:14_
+_09.10.2019 08:31:25_
