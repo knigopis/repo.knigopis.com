@@ -1,4 +1,16 @@
 {
+    "gsQQmGvJu5": {
+        "id": "gsQQmGvJu5",
+        "title": "Галлюцинации",
+        "author": "Оливер Сакс",
+        "notes": "",
+        "createdAt": "2019-10-10 07:14:41",
+        "user": {
+            "id": "334696193054530347-mailru",
+            "nickname": "Даша",
+            "booksCount": 46
+        }
+    },
     "DRM9h9z2-N": {
         "id": "DRM9h9z2-N",
         "title": "Бывшие люди",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 214
-        }
-    },
-    "NS2Fss_5Yk": {
-        "id": "NS2Fss_5Yk",
-        "title": "Взгляд висельника",
-        "author": "Александр Варго",
-        "notes": "Ужасное чтиво.",
-        "createdAt": "2019-10-06 11:03:45",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 146
         }
     }
 }
