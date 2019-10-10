@@ -5,6 +5,14 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Осада, или Шахматы со смертью ~ [sonics](users/588/5880221-vkontakte)<sup>62</sup>
+    > Очень красноречиво описываются баталии и портреты персонажей.
+    > Развязка предельно огорчила. 
+    > Тиссон - комиссар полиции, отличное описание, интересная сюжетная линия, скучный итог.
+    > Лолита Пальма.
+    > Война - Британия + Испания - Франция
+    > Пеппе Лобо - капитан корсарского корабля, интересный персонаж, хорошая сюжетная линия, печальный итог.
+
 * Приют. Похитители костей ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup>
     > 10.10.19
 
@@ -12,9 +20,6 @@ Do not use pull requests to make changes here.
     > Книга 1
 
 * Камера смертников ~ [Avery](users/567/56734832-yandex)<sup>12</sup>
-    > Земляне привыкли считать Землю центром вселенной. Но что если это совсем не так и в содружестве инопланетных цивилизаций она играет совсем другую роль?
-    > 
-    > Короткий рассказ.
 
 * Год без покупок ~ [youno](users/302/302928912-vkontakte)<sup>35</sup>
 
@@ -28,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Берлинский Кремль. Крылья холопа ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>214</sup>
 
-* Взгляд висельника ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>146</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>62</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>166</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>50</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
@@ -64,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>26</sup> 
 [yey](users/179/179865892-vkontakte)<sup>0</sup> 
 [svallvag](users/553/553243325-vkontakte)<sup>0</sup> 
-[Igor](users/109/109595045545926097766-google)<sup>0</sup> 
 
 
-_10.10.2019 19:28:35_
+_10.10.2019 20:16:57_

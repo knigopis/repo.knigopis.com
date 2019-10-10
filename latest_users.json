@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 62,
+        "updatedAt": "2019-10-10 20:16:57"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "svallvag",
         "booksCount": 0,
         "updatedAt": "2019-10-02 12:05:10"
-    },
-    "109595045545926097766-google": {
-        "id": "109595045545926097766-google",
-        "nickname": "Igor",
-        "booksCount": 0,
-        "updatedAt": "2019-10-01 05:29:17"
     }
 }
