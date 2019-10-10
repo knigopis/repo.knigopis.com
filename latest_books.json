@@ -1,4 +1,16 @@
 {
+    "eX4J6YaeF9": {
+        "id": "eX4J6YaeF9",
+        "title": "Загадочное происшествие в Стайлзе",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2019-10-10 19:02:22",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 50
+        }
+    },
     "BUaOiPP0Nd": {
         "id": "BUaOiPP0Nd",
         "title": "Приют. Похитители костей",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 57
-        }
-    },
-    "shsSBPanVQ": {
-        "id": "shsSBPanVQ",
-        "title": "Пан",
-        "author": "Гамсун Кнут",
-        "notes": "",
-        "createdAt": "2019-10-06 13:44:21",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 732
         }
     }
 }

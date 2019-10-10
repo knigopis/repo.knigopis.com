@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>49</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>50</sup>
 ---
 
 ## 2019
+
+### Загадочное происшествие в Стайлзе
+Агата Кристи
+
 
 ### Метро 2035
 Дмитрий Глуховский

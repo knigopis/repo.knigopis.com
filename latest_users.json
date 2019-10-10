@@ -1,4 +1,10 @@
 {
+    "57239276-vkontakte": {
+        "id": "57239276-vkontakte",
+        "nickname": "vladkozz",
+        "booksCount": 50,
+        "updatedAt": "2019-10-10 19:02:22"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -88,12 +94,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 59,
         "updatedAt": "2019-10-07 11:45:28"
-    },
-    "57239276-vkontakte": {
-        "id": "57239276-vkontakte",
-        "nickname": "vladkozz",
-        "booksCount": 49,
-        "updatedAt": "2019-10-06 19:06:40"
     },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
