@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Приют. Похитители костей ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup>
+    > 10.10.19
+
 * Дневной Дозор ~ [EsterHani](users/305/30558181-vkontakte)<sup>180</sup>
     > Книга 1
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Короткий рассказ.
 
 * Год без покупок ~ [youno](users/302/302928912-vkontakte)<sup>35</sup>
-    > Заинтересовало название. Просто история человека.
 
 * У Германтов ~ [anvonamore](users/595/5957175-vkontakte)<sup>127</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Взгляд висельника ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>146</sup>
 
-* Не отпускай меня ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>26</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>46</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>181</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>140</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>232</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>69</sup> 
 [Caswil](users/111/111613390096942262621-google)<sup>0</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>26</sup> 
 [yey](users/179/179865892-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Igor](users/109/109595045545926097766-google)<sup>0</sup> 
 
 
-_10.10.2019 07:14:41_
+_10.10.2019 12:25:51_
