@@ -1,7 +1,12 @@
-# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>44</sup>
+# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>45</sup>
 ---
 
 ## 2019
+
+### Бывшие люди
+Дуглас Смит
+> [2019-10-10] 
+
 
 ### Невыносимая лёгкость бытия
 Милан Кундера

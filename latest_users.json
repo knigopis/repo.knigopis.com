@@ -1,4 +1,10 @@
 {
+    "334696193054530347-mailru": {
+        "id": "334696193054530347-mailru",
+        "nickname": "Даша",
+        "booksCount": 45,
+        "updatedAt": "2019-10-10 07:13:43"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Igor",
         "booksCount": 0,
         "updatedAt": "2019-10-01 05:29:17"
-    },
-    "332860507-vkontakte": {
-        "id": "332860507-vkontakte",
-        "nickname": "Захар ",
-        "booksCount": 0,
-        "updatedAt": "2019-09-30 05:23:06"
     }
 }
