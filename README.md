@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дневной Дозор ~ [EsterHani](users/305/30558181-vkontakte)<sup>180</sup>
+    > Книга 1
+
 * Камера смертников ~ [Avery](users/567/56734832-yandex)<sup>12</sup>
     > Земляне привыкли считать Землю центром вселенной. Но что если это совсем не так и в содружестве инопланетных цивилизаций она играет совсем другую роль?
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Заинтересовало название. Просто история человека.
 
 * У Германтов ~ [anvonamore](users/595/5957175-vkontakte)<sup>127</sup>
-    > 4/10
 
 * Справа Василя Стуса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Не отпускай меня ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>26</sup>
 
-* Киз, Дэниел ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>179</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>180</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>140</sup> 
 [GenjutsuYoMaYo](users/923/923106412-yandex)<sup>0</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>59</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Захар ](users/332/332860507-vkontakte)<sup>0</sup> 
 
 
-_10.10.2019 04:13:16_
+_10.10.2019 04:15:04_

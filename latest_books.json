@@ -1,4 +1,16 @@
 {
+    "_jz9DIgi1N": {
+        "id": "_jz9DIgi1N",
+        "title": "Дневной Дозор",
+        "author": "Сергей Лукьяненко",
+        "notes": "Книга 1",
+        "createdAt": "2019-10-10 04:15:03",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 180
+        }
+    },
     "sLKH2fHOpW": {
         "id": "sLKH2fHOpW",
         "title": "Harry Potter and the Prisoner of Azkaban",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 26
-        }
-    },
-    "fEDooAHBNr": {
-        "id": "fEDooAHBNr",
-        "title": "Киз, Дэниел",
-        "author": "Цветы для Элджернона",
-        "notes": "Оригинальная подача - отчеты об эксперименте, написанные самим подопытным. Очень эмоционально передано изменение личности, безумно жалко Чарли. Одна из лучших книг, которые читала",
-        "createdAt": "2019-10-06 07:03:12",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 233
         }
     }
 }
