@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>180</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>181</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>140</sup> 
 [GenjutsuYoMaYo](users/923/923106412-yandex)<sup>0</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>59</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Захар ](users/332/332860507-vkontakte)<sup>0</sup> 
 
 
-_10.10.2019 04:15:04_
+_10.10.2019 04:15:47_
