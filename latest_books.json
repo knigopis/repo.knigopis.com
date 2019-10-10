@@ -1,4 +1,16 @@
 {
+    "sLKH2fHOpW": {
+        "id": "sLKH2fHOpW",
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2019-10-10 04:13:15",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 179
+        }
+    },
     "7uj0Y3CLY3": {
         "id": "7uj0Y3CLY3",
         "title": "Здесь мертвецы под сводом спят (Флавия де Люс 6)",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 233
-        }
-    },
-    "rtxkqlfN5Z": {
-        "id": "rtxkqlfN5Z",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "Своеобразный антипод второй великой антиутопии XX века - \"О дивный новый мир\" Олдоса Хаксли. Что, в сущности, страшнее: доведенное до абсурда \"общество потребления\" - или доведенное до абсолюта \"общество идеи\"?\nПо Оруэллу, нет и не может быть ничего ужаснее тотальной несвободы...",
-        "createdAt": "2019-10-05 15:03:52",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 69
         }
     }
 }
