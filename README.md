@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>27</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>62</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>166</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>50</sup> 
@@ -65,9 +66,8 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>69</sup> 
 [Caswil](users/111/111613390096942262621-google)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>26</sup> 
 [yey](users/179/179865892-vkontakte)<sup>0</sup> 
 [svallvag](users/553/553243325-vkontakte)<sup>0</sup> 
 
 
-_10.10.2019 20:16:57_
+_10.10.2019 20:43:53_
