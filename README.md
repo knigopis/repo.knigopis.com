@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>187</sup> 
 [ivchik21](users/142/14245460-vkontakte)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
 [myperson](users/131/13129699-vkontakte)<sup>0</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>140</sup> 
 [GenjutsuYoMaYo](users/923/923106412-yandex)<sup>0</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>59</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>186</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>34</sup> 
 [Avery](users/567/56734832-yandex)<sup>13</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>65</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Caswil](users/111/111613390096942262621-google)<sup>0</sup> 
 
 
-_11.10.2019 11:22:08_
+_11.10.2019 11:59:10_

@@ -1,4 +1,16 @@
 {
+    "OCore_xhk2": {
+        "id": "OCore_xhk2",
+        "title": "Вспышка молнии за горой",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2019-10-11 11:59:09",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 187
+        }
+    },
     "fQ7xs9Xmdy": {
         "id": "fQ7xs9Xmdy",
         "title": "Потерянные девушки Рима",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 59
-        }
-    },
-    "EH2H9CQnyw": {
-        "id": "EH2H9CQnyw",
-        "title": "Ты изменил мою жизнь",
-        "author": "Абдель Селлу",
-        "notes": "",
-        "createdAt": "2019-10-07 05:27:12",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 164
         }
     }
 }
