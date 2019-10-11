@@ -1,4 +1,10 @@
 {
+    "14245460-vkontakte": {
+        "id": "14245460-vkontakte",
+        "nickname": "ivchik21",
+        "booksCount": 0,
+        "updatedAt": "2019-10-11 11:22:06"
+    },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
         "nickname": "violet_velva",
@@ -172,11 +178,5 @@
         "nickname": "Caswil",
         "booksCount": 0,
         "updatedAt": "2019-10-04 19:44:03"
-    },
-    "208969292-yandex": {
-        "id": "208969292-yandex",
-        "nickname": "elena-gagina2014",
-        "booksCount": 11,
-        "updatedAt": "2019-10-04 14:21:30"
     }
 }
