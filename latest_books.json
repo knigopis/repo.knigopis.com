@@ -1,4 +1,16 @@
 {
+    "pcJdirA_gQ": {
+        "id": "pcJdirA_gQ",
+        "title": "Пролетая над гнездом кукушки",
+        "author": "Кен Кизи",
+        "notes": "",
+        "createdAt": "2019-10-11 09:26:34",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "ulMtyzQv4x": {
         "id": "ulMtyzQv4x",
         "title": "Вернер фон Браун: человек, который продал Луну",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 49
-        }
-    },
-    "BXY2Sf2hlO": {
-        "id": "BXY2Sf2hlO",
-        "title": "Я вещаю из гробницы (Флавия де Люс 5)",
-        "author": "Брэдли Алан",
-        "notes": "люблю 1. английские детективы, 2. серии 3. интересные серии",
-        "createdAt": "2019-10-06 18:58:23",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 139
         }
     }
 }

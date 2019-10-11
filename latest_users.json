@@ -1,4 +1,10 @@
 {
+    "270444099499-odnoklassniki": {
+        "id": "270444099499-odnoklassniki",
+        "nickname": null,
+        "booksCount": 2,
+        "updatedAt": "2019-10-11 09:26:34"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -58,12 +64,6 @@
         "nickname": "Человеколось",
         "booksCount": 59,
         "updatedAt": "2019-10-09 12:01:30"
-    },
-    "270444099499-odnoklassniki": {
-        "id": "270444099499-odnoklassniki",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2019-10-09 09:11:22"
     },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
