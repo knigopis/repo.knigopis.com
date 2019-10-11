@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>71</sup>
+# List of books read by violet_velva<sup>72</sup>
 ---
 
 ## 2019
+
+### Потерянные девушки Рима
+Донато Карризи
+> [2019-10] 🔥
+
 
 ### The Cuckoo's Calling
 Robert Galbraith
