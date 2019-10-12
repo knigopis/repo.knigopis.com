@@ -1,4 +1,16 @@
 {
+    "PrtcNs0PdY": {
+        "id": "PrtcNs0PdY",
+        "title": "Сервис, ориентированный на бренд",
+        "author": "Джанелл Барлоу, Пол Стюарт",
+        "notes": "в процессе",
+        "createdAt": "2019-10-12 10:36:36",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 218
+        }
+    },
     "BK0m_eqlEe": {
         "id": "BK0m_eqlEe",
         "title": "Информационная работа стратегической разведки. Основные принципы",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 145
-        }
-    },
-    "Mg3FDa8Lby": {
-        "id": "Mg3FDa8Lby",
-        "title": "45 татуировок продавана",
-        "author": "Максим Батырев",
-        "notes": "Купить всю серию!",
-        "createdAt": "2019-09-29 20:33:47",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 32
         }
     }
 }

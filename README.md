@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сервис, ориентированный на бренд ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup>
+    > в процессе
+
 * Информационная работа стратегической разведки. Основные принципы ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>217</sup>
     > в процессе
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Лестница в небо ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>215</sup>
-    > в процессе
 
 * Песчаные короли ~ [Quaff](users/122/12267158-vkontakte)<sup>73</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Год без покупок ~ [youno](users/302/302928912-vkontakte)<sup>35</sup>
 
-* У Германтов ~ [anvonamore](users/595/5957175-vkontakte)<sup>127</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>217</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>73</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>187</sup> 
 [ivchik21](users/142/14245460-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>69</sup> 
 
 
-_12.10.2019 10:34:01_
+_12.10.2019 10:36:37_

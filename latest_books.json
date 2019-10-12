@@ -1,4 +1,16 @@
 {
+    "PrtcNs0PdY": {
+        "id": "PrtcNs0PdY",
+        "title": "Сервис, ориентированный на бренд",
+        "author": "Джанелл Барлоу, Пол Стюарт",
+        "notes": "в процессе",
+        "createdAt": "2019-10-12 10:36:36",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 218
+        }
+    },
     "BK0m_eqlEe": {
         "id": "BK0m_eqlEe",
         "title": "Информационная работа стратегической разведки. Основные принципы",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 65
-        }
-    },
-    "qRd_5rkYxB": {
-        "id": "qRd_5rkYxB",
-        "title": "Джедайские техники. Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо",
-        "author": "Максим Дорофеев",
-        "notes": "",
-        "createdAt": "2019-10-08 07:27:34",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 64
         }
     }
 }
