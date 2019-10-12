@@ -1,4 +1,10 @@
 {
+    "114588423502949541325-google": {
+        "id": "114588423502949541325-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-10-12 12:28:43"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 232,
         "updatedAt": "2019-10-06 07:04:32"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 69,
-        "updatedAt": "2019-10-05 15:03:52"
     }
 }
