@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/114/114588423502949541325-google)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>3</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>73</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>146</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>26</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>232</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>69</sup> 
 
 
-_12.10.2019 11:17:11_
+_12.10.2019 12:28:46_
