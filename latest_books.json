@@ -1,4 +1,16 @@
 {
+    "9q8bnrRXMZ": {
+        "id": "9q8bnrRXMZ",
+        "title": "Лестница в небо",
+        "author": "М.Хазин, С.Щеглов",
+        "notes": "в процессе",
+        "createdAt": "2019-10-12 10:32:12",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 215
+        }
+    },
     "0anGxqITbz": {
         "id": "0anGxqITbz",
         "title": "Песчаные короли",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 35
-        }
-    },
-    "1ZIGvhZdOL": {
-        "id": "1ZIGvhZdOL",
-        "title": "У Германтов",
-        "author": "Марсель Пруст",
-        "notes": "4/10",
-        "createdAt": "2019-10-07 15:27:01",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 127
         }
     }
 }
