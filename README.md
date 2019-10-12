@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/114/114588423502949541325-google)<sup>0</sup> 
+[](users/114/114588423502949541325-google)<sup>1</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>3</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>73</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>232</sup> 
 
 
-_12.10.2019 12:28:46_
+_12.10.2019 12:29:33_
