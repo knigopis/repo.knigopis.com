@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 125,
+        "updatedAt": "2019-10-12 13:02:41"
+    },
     "114588423502949541325-google": {
         "id": "114588423502949541325-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 26,
         "updatedAt": "2019-10-06 10:37:42"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 232,
-        "updatedAt": "2019-10-06 07:04:32"
     }
 }

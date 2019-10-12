@@ -1,4 +1,16 @@
 {
+    "XduYAJxuP8": {
+        "id": "XduYAJxuP8",
+        "title": "Backlash: A Thriller",
+        "author": "Brad Thor",
+        "notes": "",
+        "createdAt": "2019-10-12 13:02:41",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 125
+        }
+    },
     "pA5V4GCUHS": {
         "id": "pA5V4GCUHS",
         "title": "Приключения Барона Мюнхгаузена",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 13
-        }
-    },
-    "OiozM7kD3U": {
-        "id": "OiozM7kD3U",
-        "title": "Камера смертников",
-        "author": "Райт Джордж",
-        "notes": "Земляне привыкли считать Землю центром вселенной. Но что если это совсем не так и в содружестве инопланетных цивилизаций она играет совсем другую роль?\n\nКороткий рассказ.",
-        "createdAt": "2019-10-08 10:57:56",
-        "user": {
-            "id": "56734832-yandex",
-            "nickname": "Avery",
-            "booksCount": 12
         }
     }
 }
