@@ -1,4 +1,16 @@
 {
+    "BK0m_eqlEe": {
+        "id": "BK0m_eqlEe",
+        "title": "Информационная работа стратегической разведки. Основные принципы",
+        "author": "Вашингтон Плэтт",
+        "notes": "в процессе",
+        "createdAt": "2019-10-12 10:34:01",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 217
+        }
+    },
     "xb-KTQKTOw": {
         "id": "xb-KTQKTOw",
         "title": "Инструкция по движению поездов и маневровой работе на ж/д транспорте РФ",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 64
-        }
-    },
-    "zSSk1hPVaP": {
-        "id": "zSSk1hPVaP",
-        "title": "Странник по звездам (Смирительная рубашка)",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2019-10-08 07:26:59",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 63
         }
     }
 }

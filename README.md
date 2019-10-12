@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Информационная работа стратегической разведки. Основные принципы ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>217</sup>
+    > в процессе
+
 * Инструкция по движению поездов и маневровой работе на ж/д транспорте РФ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>216</sup>
     > Ж/д споттинг требует хорошо знать предметную область. Вот-с. Да и просто интересно :)
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Песчаные короли ~ [Quaff](users/122/12267158-vkontakte)<sup>73</sup>
-    > Увлекательная история про ответственность за братьев наших меньших
 
 * Осада, или Шахматы со смертью ~ [sonics](users/588/5880221-vkontakte)<sup>62</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * У Германтов ~ [anvonamore](users/595/5957175-vkontakte)<sup>127</sup>
 
-* Справа Василя Стуса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>216</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>217</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>73</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>187</sup> 
 [ivchik21](users/142/14245460-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>69</sup> 
 
 
-_12.10.2019 10:33:08_
+_12.10.2019 10:34:01_
