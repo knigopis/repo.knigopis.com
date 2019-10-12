@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Юлиания](users/693/69389439-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>125</sup> 
 [](users/114/114588423502949541325-google)<sup>1</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>3</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>732</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>146</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>26</sup> 
 
 
-_12.10.2019 13:02:42_
+_12.10.2019 20:27:50_
