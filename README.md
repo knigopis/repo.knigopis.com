@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Инструкция по движению поездов и маневровой работе на ж/д транспорте РФ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>216</sup>
+    > Ж/д споттинг требует хорошо знать предметную область. Вот-с. Да и просто интересно :)
+    > 
+    > в процессе
+
 * Лестница в небо ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>215</sup>
     > в процессе
 
@@ -12,12 +17,6 @@ Do not use pull requests to make changes here.
     > Увлекательная история про ответственность за братьев наших меньших
 
 * Осада, или Шахматы со смертью ~ [sonics](users/588/5880221-vkontakte)<sup>62</sup>
-    > Очень красноречиво описываются баталии и портреты персонажей.
-    > Развязка предельно огорчила. 
-    > Тиссон - комиссар полиции, отличное описание, интересная сюжетная линия, скучный итог.
-    > Лолита Пальма.
-    > Война - Британия + Испания - Франция
-    > Пеппе Лобо - капитан корсарского корабля, интересный персонаж, хорошая сюжетная линия, печальный итог.
 
 * Приют. Похитители костей ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup>
 
@@ -31,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Справа Василя Стуса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup>
 
-* Я вещаю из гробницы (Флавия де Люс 5) ~ [Chiffi](users/105/105831994080785626680-google)<sup>139</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>215</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>216</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>73</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>187</sup> 
 [ivchik21](users/142/14245460-vkontakte)<sup>0</sup> 
@@ -70,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>69</sup> 
 
 
-_12.10.2019 10:32:13_
+_12.10.2019 10:33:08_
