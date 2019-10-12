@@ -1,4 +1,16 @@
 {
+    "0anGxqITbz": {
+        "id": "0anGxqITbz",
+        "title": "Песчаные короли",
+        "author": "Мартин Джордж",
+        "notes": "Увлекательная история про ответственность за братьев наших меньших",
+        "createdAt": "2019-10-12 08:29:43",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 73
+        }
+    },
     "OCore_xhk2": {
         "id": "OCore_xhk2",
         "title": "Вспышка молнии за горой",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 127
-        }
-    },
-    "HWSe2GP3hp": {
-        "id": "HWSe2GP3hp",
-        "title": "Справа Василя Стуса",
-        "author": "Вахтанг Кіпіані",
-        "notes": "8/10 Матеріали справи, останні записи.",
-        "createdAt": "2019-10-07 11:45:28",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 59
         }
     }
 }
