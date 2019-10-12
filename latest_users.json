@@ -1,4 +1,10 @@
 {
+    "69389439-vkontakte": {
+        "id": "69389439-vkontakte",
+        "nickname": "Юлиания",
+        "booksCount": 0,
+        "updatedAt": "2019-10-12 20:27:46"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 146,
         "updatedAt": "2019-10-06 11:03:45"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 26,
-        "updatedAt": "2019-10-06 10:37:42"
     }
 }
