@@ -35,13 +35,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>3</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>73</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>187</sup> 
 [ivchik21](users/142/14245460-vkontakte)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
 [myperson](users/131/13129699-vkontakte)<sup>0</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>2</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>27</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>62</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>166</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>69</sup> 
 
 
-_12.10.2019 10:36:37_
+_12.10.2019 11:17:11_

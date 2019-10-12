@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>2</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>3</sup>
 ---
 
 ## 2019
+
+### Алмазная пыль
+Анастасия Логинова
+> [2019-10-12] 
+
 
 ### Пролетая над гнездом кукушки
 Кен Кизи

@@ -1,4 +1,10 @@
 {
+    "270444099499-odnoklassniki": {
+        "id": "270444099499-odnoklassniki",
+        "nickname": null,
+        "booksCount": 3,
+        "updatedAt": "2019-10-12 11:17:11"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -34,12 +40,6 @@
         "nickname": "myperson",
         "booksCount": 0,
         "updatedAt": "2019-10-11 10:00:44"
-    },
-    "270444099499-odnoklassniki": {
-        "id": "270444099499-odnoklassniki",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2019-10-11 09:26:34"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
