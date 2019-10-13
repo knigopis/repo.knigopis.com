@@ -1,4 +1,16 @@
 {
+    "6z9WWkv7fm": {
+        "id": "6z9WWkv7fm",
+        "title": "Расмус-бродяга",
+        "author": "Астрид Линдгрен",
+        "notes": "",
+        "createdAt": "2019-10-13 16:41:45",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 167
+        }
+    },
     "XduYAJxuP8": {
         "id": "XduYAJxuP8",
         "title": "Backlash: A Thriller",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 185
-        }
-    },
-    "DLDAEHzbWy": {
-        "id": "DLDAEHzbWy",
-        "title": "Песчаные короли",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2019-10-08 10:58:54",
-        "user": {
-            "id": "56734832-yandex",
-            "nickname": "Avery",
-            "booksCount": 13
         }
     }
 }

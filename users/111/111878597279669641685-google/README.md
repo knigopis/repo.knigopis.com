@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>166</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>167</sup>
 ---
 
 ## 2019
+
+### Расмус-бродяга
+Астрид Линдгрен
+> [2019-10-13] 
+
 
 ### Слово о полку Игореве
 > [2019-10-10] 

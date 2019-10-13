@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>167</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>125</sup> 
 [](users/114/114588423502949541325-google)<sup>1</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [myperson](users/131/13129699-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>27</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>62</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>166</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>50</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>46</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>146</sup> 
 
 
-_12.10.2019 20:27:50_
+_13.10.2019 16:41:46_
