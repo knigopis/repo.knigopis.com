@@ -1,4 +1,16 @@
 {
+    "-neX6mZsgh": {
+        "id": "-neX6mZsgh",
+        "title": "Большие надежды",
+        "author": "Чарльз Диккенс",
+        "notes": "10/10",
+        "createdAt": "2019-10-14 19:01:09",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 110
+        }
+    },
     "6z9WWkv7fm": {
         "id": "6z9WWkv7fm",
         "title": "Расмус-бродяга",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "_VMAdfLDwv": {
-        "id": "_VMAdfLDwv",
-        "title": "Могила воина",
-        "author": "Марк Алданов",
-        "notes": "",
-        "createdAt": "2019-10-08 11:55:46",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 185
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Большие надежды ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
+    > 10/10
+
 * Сервис, ориентированный на бренд ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup>
     > в процессе
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Инструкция по движению поездов и маневровой работе на ж/д транспорте РФ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>216</sup>
-    > Ж/д споттинг требует хорошо знать предметную область. Вот-с. Да и просто интересно :)
-    > 
-    > в процессе
 
 * Лестница в небо ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>215</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Камера смертников ~ [Avery](users/567/56734832-yandex)<sup>12</sup>
 
-* Год без покупок ~ [youno](users/302/302928912-vkontakte)<sup>35</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>110</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>167</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>125</sup> 
@@ -62,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>127</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>128</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>109</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>732</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>146</sup> 
 
 
-_13.10.2019 16:41:46_
+_14.10.2019 19:01:10_
