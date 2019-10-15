@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>110</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>111</sup>
 ---
 
 ## 2019
+
+### You are a badass
+Jen Sincero
+> [2019-10-15] 10/10
+
 
 ### Большие надежды
 Чарльз Диккенс

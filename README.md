@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* You are a badass ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
+    > 10/10
+
 * Люди нашего царя ~ [Madlax](users/158/158304782-vkontakte)<sup>191</sup>
     > Кейп-Код
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > - Ты очень долго спишь по утрам. Ты хочешь, чтобы я учила тебя, а сама даже не удосужишься прийти вовремя в школу. Иди на место. Я не хочу больше тратить на тебя своё время.
 
 * Большие надежды ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
-    > 10/10
 
 * Сервис, ориентированный на бренд ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Осада, или Шахматы со смертью ~ [sonics](users/588/5880221-vkontakte)<sup>62</sup>
 
-* Приют. Похитители костей ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>129</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>194</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>188</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>733</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>142</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>110</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>167</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>125</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup> 
 
 
-_15.10.2019 13:58:01_
+_15.10.2019 16:50:06_

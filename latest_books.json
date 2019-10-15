@@ -1,4 +1,16 @@
 {
+    "7d422Y_1zg": {
+        "id": "7d422Y_1zg",
+        "title": "You are a badass",
+        "author": "Jen Sincero",
+        "notes": "10/10",
+        "createdAt": "2019-10-15 16:50:06",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 111
+        }
+    },
     "UlCPmchw7G": {
         "id": "UlCPmchw7G",
         "title": "Молчание ягнят",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 72
-        }
-    },
-    "pcJdirA_gQ": {
-        "id": "pcJdirA_gQ",
-        "title": "Пролетая над гнездом кукушки",
-        "author": "Кен Кизи",
-        "notes": "",
-        "createdAt": "2019-10-11 09:26:34",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
