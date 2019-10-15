@@ -1,4 +1,16 @@
 {
+    "zq-B-ivL-T": {
+        "id": "zq-B-ivL-T",
+        "title": "Geschichte",
+        "author": "Александр Эрфурт",
+        "notes": "",
+        "createdAt": "2019-10-15 12:15:29",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 184
+        }
+    },
     "1og3aDiKuO": {
         "id": "1og3aDiKuO",
         "title": "Десятая симфония",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 58
-        }
-    },
-    "xB4K9wFETc": {
-        "id": "xB4K9wFETc",
-        "title": "Полное погружение",
-        "author": "Татьяна  Корсакова",
-        "notes": "",
-        "createdAt": "2019-10-09 09:11:22",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
