@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 141,
+        "updatedAt": "2019-10-15 04:53:53"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -106,12 +112,6 @@
         "nickname": "EsterHani",
         "booksCount": 181,
         "updatedAt": "2019-10-10 04:15:46"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 140,
-        "updatedAt": "2019-10-09 19:17:00"
     },
     "923106412-yandex": {
         "id": "923106412-yandex",
