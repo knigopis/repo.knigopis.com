@@ -1,4 +1,16 @@
 {
+    "OZnHqpYXJJ": {
+        "id": "OZnHqpYXJJ",
+        "title": "Управляющий мозг",
+        "author": "Элхонон Голдберг",
+        "notes": "",
+        "createdAt": "2019-10-15 12:26:49",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 193
+        }
+    },
     "U0qSw1U39h": {
         "id": "U0qSw1U39h",
         "title": "Шесть столпов самооценки",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 166
-        }
-    },
-    "eX4J6YaeF9": {
-        "id": "eX4J6YaeF9",
-        "title": "Загадочное происшествие в Стайлзе",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2019-10-10 19:02:22",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 50
         }
     }
 }
