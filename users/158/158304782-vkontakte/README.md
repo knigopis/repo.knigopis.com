@@ -1,7 +1,12 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>193</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>194</sup>
 ---
 
 ## 2019
+
+### Питерский русский капиталист
+Лев Лурье
+> [2019-10-15] 
+
 
 ### Убийство Командора Книга 2
 Харуки Мураками
