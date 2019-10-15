@@ -1,4 +1,16 @@
 {
+    "_uubu9FOqv": {
+        "id": "_uubu9FOqv",
+        "title": "Убийство Командора Книга 1",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2019-10-15 12:19:35",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 187
+        }
+    },
     "M1CQxmLfSl": {
         "id": "M1CQxmLfSl",
         "title": "Поток - психология оптимального переживания",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 179
-        }
-    },
-    "7uj0Y3CLY3": {
-        "id": "7uj0Y3CLY3",
-        "title": "Здесь мертвецы под сводом спят (Флавия де Люс 6)",
-        "author": "Брэдли Алан",
-        "notes": "",
-        "createdAt": "2019-10-09 19:17:00",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 140
         }
     }
 }
