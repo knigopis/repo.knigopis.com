@@ -1,4 +1,16 @@
 {
+    "U0qSw1U39h": {
+        "id": "U0qSw1U39h",
+        "title": "Шесть столпов самооценки",
+        "author": "Натаниэль Бранден",
+        "notes": "",
+        "createdAt": "2019-10-15 12:23:36",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 192
+        }
+    },
     "yuQudF2yCo": {
         "id": "yuQudF2yCo",
         "title": "Люди нашего царя",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 50
-        }
-    },
-    "BUaOiPP0Nd": {
-        "id": "BUaOiPP0Nd",
-        "title": "Приют. Похитители костей",
-        "author": "Мэделин Ру",
-        "notes": "10.10.19",
-        "createdAt": "2019-10-10 12:25:51",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 83
         }
     }
 }
