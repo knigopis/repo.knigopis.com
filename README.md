@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>188</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>733</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>142</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/270/270444099499-odnoklassniki)<sup>3</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>73</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>187</sup> 
 [ivchik21](users/142/14245460-vkontakte)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
 [myperson](users/131/13129699-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>146</sup> 
 
 
-_15.10.2019 06:36:36_
+_15.10.2019 09:14:18_
