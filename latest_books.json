@@ -1,4 +1,16 @@
 {
+    "M1CQxmLfSl": {
+        "id": "M1CQxmLfSl",
+        "title": "Поток - психология оптимального переживания",
+        "author": "Михаил Чиксентмихайи",
+        "notes": "",
+        "createdAt": "2019-10-15 12:19:10",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 186
+        }
+    },
     "6KgFVVNT3e": {
         "id": "6KgFVVNT3e",
         "title": "Мемуары Гейши",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 140
-        }
-    },
-    "l_zc8jMdho": {
-        "id": "l_zc8jMdho",
-        "title": "Пиши, сокращай",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-10-09 12:01:30",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 59
         }
     }
 }
