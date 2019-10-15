@@ -1,4 +1,16 @@
 {
+    "WHEcDOXfbU": {
+        "id": "WHEcDOXfbU",
+        "title": "Астрология профессий",
+        "author": "Шестопалов С.В.",
+        "notes": "",
+        "createdAt": "2019-10-15 12:21:27",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 190
+        }
+    },
     "-w_EQck8cX": {
         "id": "-w_EQck8cX",
         "title": "Первая попытка",
@@ -345,18 +357,6 @@
             "id": "334696193054530347-mailru",
             "nickname": "Даша",
             "booksCount": 46
-        }
-    },
-    "DRM9h9z2-N": {
-        "id": "DRM9h9z2-N",
-        "title": "Бывшие люди",
-        "author": "Дуглас Смит",
-        "notes": "",
-        "createdAt": "2019-10-10 07:13:43",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 45
         }
     }
 }
