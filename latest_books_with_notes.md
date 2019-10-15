@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Люди нашего царя ~ [Madlax](users/158/158304782-vkontakte)<sup>191</sup>
 * Мемуары Гейши ~ [Madlax](users/158/158304782-vkontakte)<sup>185</sup>
 * Большие надежды ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
 * Сервис, ориентированный на бренд ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup>
@@ -30,7 +31,6 @@
 * Прощание с иллюзиями ~ [elena-gagina2014](users/208/208969292-yandex)<sup>8</sup>
 * Фантомная боль ~ [elena-gagina2014](users/208/208969292-yandex)<sup>7</sup>
 * Сосны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>58</sup>
-* Петровны в гриппе и вокруг него ~ [Человеколось](users/174/17475979687188177329-mailru)<sup>51</sup>
 
 
-_15.10.2019 12:17:54_
+_15.10.2019 12:22:51_

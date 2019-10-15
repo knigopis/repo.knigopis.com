@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Люди нашего царя ~ [Madlax](users/158/158304782-vkontakte)<sup>191</sup>
+    > Кейп-Код
+
 * Мемуары Гейши ~ [Madlax](users/158/158304782-vkontakte)<sup>185</sup>
     > - Ты очень долго спишь по утрам. Ты хочешь, чтобы я учила тебя, а сама даже не удосужишься прийти вовремя в школу. Иди на место. Я не хочу больше тратить на тебя своё время.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * Сервис, ориентированный на бренд ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup>
-    > в процессе
 
 * Информационная работа стратегической разведки. Основные принципы ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>217</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Приют. Похитители костей ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup>
 
-* Дневной Дозор ~ [EsterHani](users/305/30558181-vkontakte)<sup>180</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Madlax](users/158/158304782-vkontakte)<sup>190</sup> 
+[Madlax](users/158/158304782-vkontakte)<sup>191</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>188</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>733</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>142</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>128</sup> 
 
 
-_15.10.2019 12:21:28_
+_15.10.2019 12:22:51_
