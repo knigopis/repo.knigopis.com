@@ -1,4 +1,16 @@
 {
+    "5Bf2lMC9aQ": {
+        "id": "5Bf2lMC9aQ",
+        "title": "В круге первом",
+        "author": "Александр Солженицын",
+        "notes": "",
+        "createdAt": "2019-10-15 06:36:35",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 733
+        }
+    },
     "DG-mfpP_Vw": {
         "id": "DG-mfpP_Vw",
         "title": "Трижды пестрый кот мяукнул (Флавия де Люс 8)",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 186
-        }
-    },
-    "b1cJ_FOPWv": {
-        "id": "b1cJ_FOPWv",
-        "title": "Повести Белкина",
-        "author": "А. С. Пушкин",
-        "notes": "",
-        "createdAt": "2019-10-09 01:08:14",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 34
         }
     }
 }

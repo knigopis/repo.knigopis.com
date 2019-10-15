@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>732</sup>
+# List of books read by Janet<sup>733</sup>
 ---
 
 ## 2019
+
+### В круге первом
+Александр Солженицын
+> [2019-10] 
+
 
 ### Пан
 Гамсун Кнут
