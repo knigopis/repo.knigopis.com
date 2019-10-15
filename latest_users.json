@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 129,
+        "updatedAt": "2019-10-15 13:58:00"
+    },
     "158304782-vkontakte": {
         "id": "158304782-vkontakte",
         "nickname": "Madlax",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 59,
         "updatedAt": "2019-10-07 11:45:28"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 128,
-        "updatedAt": "2019-10-06 18:32:05"
     }
 }

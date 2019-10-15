@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>128</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>129</sup>
 ---
 
 ## 2019
+
+### Молчание ягнят
+Томас Харрис
+> [2019-10-15] 
+
 
 ### Кэрри
 Стивен Кинг

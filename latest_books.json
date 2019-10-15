@@ -1,4 +1,16 @@
 {
+    "UlCPmchw7G": {
+        "id": "UlCPmchw7G",
+        "title": "Молчание ягнят",
+        "author": "Томас Харрис",
+        "notes": "",
+        "createdAt": "2019-10-15 13:58:00",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 129
+        }
+    },
     "i7ej1xduq3": {
         "id": "i7ej1xduq3",
         "title": "Предсказательная астрология",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "ulMtyzQv4x": {
-        "id": "ulMtyzQv4x",
-        "title": "Вернер фон Браун: человек, который продал Луну",
-        "author": "Пишкевич Д.",
-        "notes": "",
-        "createdAt": "2019-10-10 20:43:53",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 27
         }
     }
 }
