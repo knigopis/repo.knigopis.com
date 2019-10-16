@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Маскарад ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
 * You are a badass ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
 * Люди нашего царя ~ [Madlax](users/158/158304782-vkontakte)<sup>191</sup>
 * Мемуары Гейши ~ [Madlax](users/158/158304782-vkontakte)<sup>185</sup>
@@ -30,7 +31,6 @@
 * Дочь ~ [elena-gagina2014](users/208/208969292-yandex)<sup>10</sup>
 * Серебристый луч надежды ~ [elena-gagina2014](users/208/208969292-yandex)<sup>9</sup>
 * Прощание с иллюзиями ~ [elena-gagina2014](users/208/208969292-yandex)<sup>8</sup>
-* Фантомная боль ~ [elena-gagina2014](users/208/208969292-yandex)<sup>7</sup>
 
 
-_15.10.2019 16:50:06_
+_16.10.2019 17:42:11_

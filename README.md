@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маскарад ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
+    > "Шоу должно продолжаться!". Ведьмы, Призрак оперы и прочее.Очередная книга из серии Плоский мир очень хороша
+
 * You are a badass ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
     > 10/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Кейп-Код
 
 * Мемуары Гейши ~ [Madlax](users/158/158304782-vkontakte)<sup>185</sup>
-    > - Ты очень долго спишь по утрам. Ты хочешь, чтобы я учила тебя, а сама даже не удосужишься прийти вовремя в школу. Иди на место. Я не хочу больше тратить на тебя своё время.
 
 * Большие надежды ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Песчаные короли ~ [Quaff](users/122/12267158-vkontakte)<sup>73</sup>
 
-* Осада, или Шахматы со смертью ~ [sonics](users/588/5880221-vkontakte)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>233</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>2</sup> 
 [Василий](users/146/146662199-vkontakte)<sup>0</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>3</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>34</sup> 
 [Avery](users/567/56734832-yandex)<sup>13</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>65</sup> 
-[youno](users/302/302928912-vkontakte)<sup>35</sup> 
 
 
-_16.10.2019 16:47:00_
+_16.10.2019 17:42:11_

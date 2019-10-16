@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 233,
+        "updatedAt": "2019-10-16 17:42:10"
+    },
     "103474005216004236389-google": {
         "id": "103474005216004236389-google",
         "nickname": "Woc4onok213",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 65,
         "updatedAt": "2019-10-08 07:28:09"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 35,
-        "updatedAt": "2019-10-07 18:01:18"
     }
 }
