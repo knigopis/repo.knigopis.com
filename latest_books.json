@@ -1,4 +1,16 @@
 {
+    "fFa4-JmISU": {
+        "id": "fFa4-JmISU",
+        "title": "Я ищу тебя",
+        "author": "Л. Клейпас",
+        "notes": "444 стр",
+        "createdAt": "2019-10-16 12:41:11",
+        "user": {
+            "id": "69389439-vkontakte",
+            "nickname": "Юлиания",
+            "booksCount": 2
+        }
+    },
     "qrxyOIKaCK": {
         "id": "qrxyOIKaCK",
         "title": "Соло на IBM",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 215
-        }
-    },
-    "0anGxqITbz": {
-        "id": "0anGxqITbz",
-        "title": "Песчаные короли",
-        "author": "Мартин Джордж",
-        "notes": "Увлекательная история про ответственность за братьев наших меньших",
-        "createdAt": "2019-10-12 08:29:43",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 73
         }
     }
 }
