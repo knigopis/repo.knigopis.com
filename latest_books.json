@@ -1,4 +1,16 @@
 {
+    "Fd-3CBwzp9": {
+        "id": "Fd-3CBwzp9",
+        "title": "Чёрный ангел",
+        "author": "Анна Оранская",
+        "notes": "304 стр.",
+        "createdAt": "2019-10-16 19:41:47",
+        "user": {
+            "id": "69389439-vkontakte",
+            "nickname": "Юлиания",
+            "booksCount": 11
+        }
+    },
     "QcIZJkfbnR": {
         "id": "QcIZJkfbnR",
         "title": "Путь в Эдем",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 188
-        }
-    },
-    "5Bf2lMC9aQ": {
-        "id": "5Bf2lMC9aQ",
-        "title": "В круге первом",
-        "author": "Александр Солженицын",
-        "notes": "",
-        "createdAt": "2019-10-15 06:36:35",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 733
         }
     }
 }
