@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>189</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>129</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>194</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>188</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>733</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>142</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>167</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup> 
 
 
-_16.10.2019 09:31:44_
+_16.10.2019 12:29:43_

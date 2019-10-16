@@ -1,4 +1,16 @@
 {
+    "qrxyOIKaCK": {
+        "id": "qrxyOIKaCK",
+        "title": "Соло на IBM",
+        "author": "Сергей Довлатов",
+        "notes": "",
+        "createdAt": "2019-10-16 12:29:42",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 189
+        }
+    },
     "RmHbq0wder": {
         "id": "RmHbq0wder",
         "title": "Убийство в Орсивале",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 73
-        }
-    },
-    "OCore_xhk2": {
-        "id": "OCore_xhk2",
-        "title": "Вспышка молнии за горой",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2019-10-11 11:59:09",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 187
         }
     }
 }
