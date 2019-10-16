@@ -1,4 +1,16 @@
 {
+    "DUMh_oaApN": {
+        "id": "DUMh_oaApN",
+        "title": "Последний лист",
+        "author": "О.Генри",
+        "notes": "",
+        "createdAt": "2019-10-16 16:47:00",
+        "user": {
+            "id": "103474005216004236389-google",
+            "nickname": "Woc4onok213",
+            "booksCount": 2
+        }
+    },
     "TmKd-rLsZp": {
         "id": "TmKd-rLsZp",
         "title": "Телеграмма",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 218
-        }
-    },
-    "BK0m_eqlEe": {
-        "id": "BK0m_eqlEe",
-        "title": "Информационная работа стратегической разведки. Основные принципы",
-        "author": "Вашингтон Плэтт",
-        "notes": "в процессе",
-        "createdAt": "2019-10-12 10:34:01",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 217
         }
     }
 }

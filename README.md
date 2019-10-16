@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Woc4onok213](users/103/103474005216004236389-google)<sup>1</sup> 
+[Woc4onok213](users/103/103474005216004236389-google)<sup>2</sup> 
 [Василий](users/146/146662199-vkontakte)<sup>0</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>3</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>189</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>35</sup> 
 
 
-_16.10.2019 16:46:26_
+_16.10.2019 16:47:00_
