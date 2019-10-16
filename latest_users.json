@@ -1,4 +1,10 @@
 {
+    "69389439-vkontakte": {
+        "id": "69389439-vkontakte",
+        "nickname": "Юлиания",
+        "booksCount": 1,
+        "updatedAt": "2019-10-16 09:31:44"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -40,12 +46,6 @@
         "nickname": "Knigolub~",
         "booksCount": 167,
         "updatedAt": "2019-10-13 16:41:45"
-    },
-    "69389439-vkontakte": {
-        "id": "69389439-vkontakte",
-        "nickname": "Юлиания",
-        "booksCount": 0,
-        "updatedAt": "2019-10-12 20:27:46"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
