@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Юлиания](users/693/69389439-vkontakte)<sup>12</sup> 
+[Юлиания](users/693/69389439-vkontakte)<sup>13</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>233</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>2</sup> 
 [Василий](users/146/146662199-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>65</sup> 
 
 
-_16.10.2019 19:43:08_
+_16.10.2019 19:44:42_
