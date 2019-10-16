@@ -1,4 +1,16 @@
 {
+    "jNVLkvLIPW": {
+        "id": "jNVLkvLIPW",
+        "title": "Бархат",
+        "author": "д. Фэйзер",
+        "notes": "464 стр.",
+        "createdAt": "2019-10-16 12:41:54",
+        "user": {
+            "id": "69389439-vkontakte",
+            "nickname": "Юлиания",
+            "booksCount": 3
+        }
+    },
     "fFa4-JmISU": {
         "id": "fFa4-JmISU",
         "title": "Я ищу тебя",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 216
-        }
-    },
-    "9q8bnrRXMZ": {
-        "id": "9q8bnrRXMZ",
-        "title": "Лестница в небо",
-        "author": "М.Хазин, С.Щеглов",
-        "notes": "в процессе",
-        "createdAt": "2019-10-12 10:32:12",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 215
         }
     }
 }

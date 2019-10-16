@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Юлиания](users/693/69389439-vkontakte)<sup>2</sup> 
+[Юлиания](users/693/69389439-vkontakte)<sup>3</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>189</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>129</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup> 
 
 
-_16.10.2019 12:41:11_
+_16.10.2019 12:41:54_
