@@ -1,4 +1,16 @@
 {
+    "na6W379ogb": {
+        "id": "na6W379ogb",
+        "title": "Обманщица",
+        "author": "Бертрис Смолл",
+        "notes": "432 стр.",
+        "createdAt": "2019-10-16 18:44:26",
+        "user": {
+            "id": "69389439-vkontakte",
+            "nickname": "Юлиания",
+            "booksCount": 4
+        }
+    },
     "1A96Cvh67s": {
         "id": "1A96Cvh67s",
         "title": "Маскарад",
@@ -345,18 +357,6 @@
             "id": "114588423502949541325-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "9Dpd7fzQPE": {
-        "id": "9Dpd7fzQPE",
-        "title": "Алмазная пыль",
-        "author": "Анастасия Логинова",
-        "notes": "",
-        "createdAt": "2019-10-12 11:17:11",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }

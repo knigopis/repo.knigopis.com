@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Юлиания](users/693/69389439-vkontakte)<sup>4</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>233</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>2</sup> 
 [Василий](users/146/146662199-vkontakte)<sup>0</sup> 
-[Юлиания](users/693/69389439-vkontakte)<sup>3</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>189</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>129</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>65</sup> 
 
 
-_16.10.2019 17:42:11_
+_16.10.2019 18:44:26_
