@@ -1,4 +1,10 @@
 {
+    "146662199-vkontakte": {
+        "id": "146662199-vkontakte",
+        "nickname": "Василий",
+        "booksCount": 0,
+        "updatedAt": "2019-10-16 13:19:43"
+    },
     "69389439-vkontakte": {
         "id": "69389439-vkontakte",
         "nickname": "Юлиания",
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 127,
         "updatedAt": "2019-10-07 15:27:01"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 59,
-        "updatedAt": "2019-10-07 11:45:28"
     }
 }
