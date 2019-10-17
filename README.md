@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ilopX](users/544/544577919687420-facebook)<sup>0</sup> 
 [limonov@nipt.ru](users/113/1130000039168707-yandex)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>35</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>149</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>46</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>181</sup> 
 [GenjutsuYoMaYo](users/923/923106412-yandex)<sup>0</sup> 
-[Человеколось](users/174/17475979687188177329-mailru)<sup>59</sup> 
 
 
-_17.10.2019 15:46:15_
+_17.10.2019 20:00:53_
