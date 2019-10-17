@@ -1,4 +1,10 @@
 {
+    "544577919687420-facebook": {
+        "id": "544577919687420-facebook",
+        "nickname": "ilopX",
+        "booksCount": 0,
+        "updatedAt": "2019-10-17 20:00:47"
+    },
     "1130000039168707-yandex": {
         "id": "1130000039168707-yandex",
         "nickname": "limonov@nipt.ru",
@@ -172,11 +178,5 @@
         "nickname": "GenjutsuYoMaYo",
         "booksCount": 0,
         "updatedAt": "2019-10-09 17:25:35"
-    },
-    "17475979687188177329-mailru": {
-        "id": "17475979687188177329-mailru",
-        "nickname": "Человеколось",
-        "booksCount": 59,
-        "updatedAt": "2019-10-09 12:01:30"
     }
 }
