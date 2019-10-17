@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>148</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>149</sup>
 ---
 
 ## 2019
+
+### Хроники Дождевых чащоб. Драконья гавань
+Робин Хобб
+> [2019-10-17] 
+
 
 ### Хроники Дождевых чащоб. Хранитель драконов
 Робин Хобб

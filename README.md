@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>149</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>19</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>233</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Человеколось](users/174/17475979687188177329-mailru)<sup>59</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>34</sup> 
 [Avery](users/567/56734832-yandex)<sup>13</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>65</sup> 
 
 
-_16.10.2019 20:06:19_
+_17.10.2019 06:32:50_
