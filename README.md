@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>35</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>149</sup> 
 [Юлиания](users/693/69389439-vkontakte)<sup>19</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>233</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>181</sup> 
 [GenjutsuYoMaYo](users/923/923106412-yandex)<sup>0</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>59</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>34</sup> 
 [Avery](users/567/56734832-yandex)<sup>13</sup> 
 
 
-_17.10.2019 06:32:50_
+_17.10.2019 13:32:21_
