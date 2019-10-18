@@ -1,4 +1,16 @@
 {
+    "aPCG4V8-u7": {
+        "id": "aPCG4V8-u7",
+        "title": "Замок Броуди",
+        "author": "Арчибальд Кронин",
+        "notes": "",
+        "createdAt": "2019-10-18 16:17:36",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "08LkctOQ9m": {
         "id": "08LkctOQ9m",
         "title": "Голод",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 129
-        }
-    },
-    "i7ej1xduq3": {
-        "id": "i7ej1xduq3",
-        "title": "Предсказательная астрология",
-        "author": "Шестопалов С.В.",
-        "notes": "",
-        "createdAt": "2019-10-15 12:28:24",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 195
         }
     }
 }
