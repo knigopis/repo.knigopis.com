@@ -1,4 +1,16 @@
 {
+    "ru6Z8lREwr": {
+        "id": "ru6Z8lREwr",
+        "title": "Вирусы мозга",
+        "author": "Ричард Докинз",
+        "notes": "",
+        "createdAt": "2019-10-18 19:10:51",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 130
+        }
+    },
     "isRuW6nBlj": {
         "id": "isRuW6nBlj",
         "title": "Дремлющий демон Декстера",
@@ -345,18 +357,6 @@
             "id": "69389439-vkontakte",
             "nickname": "Юлиания",
             "booksCount": 2
-        }
-    },
-    "qrxyOIKaCK": {
-        "id": "qrxyOIKaCK",
-        "title": "Соло на IBM",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2019-10-16 12:29:42",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 189
         }
     }
 }
