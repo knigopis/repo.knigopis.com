@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 39,
+        "updatedAt": "2019-10-18 18:11:09"
+    },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
         "nickname": "violet_velva",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 181,
         "updatedAt": "2019-10-10 04:15:46"
-    },
-    "923106412-yandex": {
-        "id": "923106412-yandex",
-        "nickname": "GenjutsuYoMaYo",
-        "booksCount": 0,
-        "updatedAt": "2019-10-09 17:25:35"
     }
 }

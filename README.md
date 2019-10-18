@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>39</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>28</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>46</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>181</sup> 
-[GenjutsuYoMaYo](users/923/923106412-yandex)<sup>0</sup> 
 
 
-_18.10.2019 17:41:59_
+_18.10.2019 18:11:09_

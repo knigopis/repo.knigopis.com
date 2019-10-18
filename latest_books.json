@@ -1,4 +1,16 @@
 {
+    "Mg-socmpoX": {
+        "id": "Mg-socmpoX",
+        "title": "И пели птицы",
+        "author": "Себастьян Фолкс",
+        "notes": "",
+        "createdAt": "2019-10-18 18:11:09",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 39
+        }
+    },
     "46iQvnYQBJ": {
         "id": "46iQvnYQBJ",
         "title": "Щегол",
@@ -345,18 +357,6 @@
             "id": "69389439-vkontakte",
             "nickname": "Юлиания",
             "booksCount": 1
-        }
-    },
-    "7d422Y_1zg": {
-        "id": "7d422Y_1zg",
-        "title": "You are a badass",
-        "author": "Jen Sincero",
-        "notes": "10/10",
-        "createdAt": "2019-10-15 16:50:06",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 111
         }
     }
 }
