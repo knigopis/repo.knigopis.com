@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>130</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>39</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>28</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Василий](users/146/146662199-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>189</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>129</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>194</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>142</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>167</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>181</sup> 
 
 
-_18.10.2019 18:11:09_
+_18.10.2019 18:30:22_

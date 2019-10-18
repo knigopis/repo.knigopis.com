@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>129</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>130</sup>
 ---
 
 ## 2019
+
+### Дремлющий демон Декстера
+Джеффри Линдсей
+> [2019-10-18] 
+
 
 ### Молчание ягнят
 Томас Харрис
