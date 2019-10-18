@@ -1,4 +1,4 @@
-# List of books read by violet_velva<sup>73</sup>
+# List of books read by violet_velva<sup>72</sup>
 ---
 
 ## 2019
@@ -240,8 +240,6 @@ Doris Lessing
 ### Коллекционер
 Джон Фаулз
 > [2018-02] 10 из 10, книга захватывающая!
-
-
 
 
 
