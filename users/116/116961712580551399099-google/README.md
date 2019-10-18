@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>72</sup>
+# List of books read by violet_velva<sup>73</sup>
 ---
 
 ## 2019
+
+### Охотник за тенью
+Донато Карризи
+> [2019-10] 
+
 
 ### Потерянные девушки Рима
 Донато Карризи

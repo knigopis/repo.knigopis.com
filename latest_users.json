@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-google": {
+        "id": "116961712580551399099-google",
+        "nickname": "violet_velva",
+        "booksCount": 73,
+        "updatedAt": "2019-10-18 07:46:04"
+    },
     "544577919687420-facebook": {
         "id": "544577919687420-facebook",
         "nickname": "ilopX",
@@ -124,12 +130,6 @@
         "nickname": "ivchik21",
         "booksCount": 0,
         "updatedAt": "2019-10-11 11:22:06"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 72,
-        "updatedAt": "2019-10-11 10:09:38"
     },
     "13129699-vkontakte": {
         "id": "13129699-vkontakte",

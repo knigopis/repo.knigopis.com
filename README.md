@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>73</sup> 
 [ilopX](users/544/544577919687420-facebook)<sup>0</sup> 
 [limonov@nipt.ru](users/113/1130000039168707-yandex)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>35</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>73</sup> 
 [ivchik21](users/142/14245460-vkontakte)<sup>0</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
 [myperson](users/131/13129699-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>27</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>62</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GenjutsuYoMaYo](users/923/923106412-yandex)<sup>0</sup> 
 
 
-_17.10.2019 20:00:53_
+_18.10.2019 07:46:04_

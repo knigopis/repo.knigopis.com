@@ -1,4 +1,16 @@
 {
+    "WJrmH78cyz": {
+        "id": "WJrmH78cyz",
+        "title": "Охотник за тенью",
+        "author": "Донато Карризи",
+        "notes": "",
+        "createdAt": "2019-10-18 07:46:04",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 73
+        }
+    },
     "h7caJgYW7K": {
         "id": "h7caJgYW7K",
         "title": "Странствий убийцы",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 194
-        }
-    },
-    "OZnHqpYXJJ": {
-        "id": "OZnHqpYXJJ",
-        "title": "Управляющий мозг",
-        "author": "Элхонон Голдберг",
-        "notes": "",
-        "createdAt": "2019-10-15 12:26:49",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 193
         }
     }
 }
