@@ -1,4 +1,16 @@
 {
+    "08LkctOQ9m": {
+        "id": "08LkctOQ9m",
+        "title": "Голод",
+        "author": "Гамсун Кнут",
+        "notes": "",
+        "createdAt": "2019-10-18 08:20:52",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 734
+        }
+    },
     "WJrmH78cyz": {
         "id": "WJrmH78cyz",
         "title": "Охотник за тенью",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 195
-        }
-    },
-    "-lZL2-2ire": {
-        "id": "-lZL2-2ire",
-        "title": "Питерский русский капиталист",
-        "author": "Лев Лурье",
-        "notes": "",
-        "createdAt": "2019-10-15 12:27:41",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 194
         }
     }
 }
