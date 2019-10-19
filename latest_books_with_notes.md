@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Крауч-Энд ~ [En](users/333/333646551-vkontakte)<sup>78</sup>
 * Показания Рендольфа Картера ~ [En](users/333/333646551-vkontakte)<sup>77</sup>
 * Шоколад ~ [En](users/333/333646551-vkontakte)<sup>76</sup>
 * Маскарад ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
@@ -30,7 +31,6 @@
 * Интеллигент и две Риты ~ [Chiffi](users/105/105831994080785626680-google)<sup>138</sup>
 * Цыц ~ [Chiffi](users/105/105831994080785626680-google)<sup>137</sup>
 * Блейз ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
-* Дочь ~ [elena-gagina2014](users/208/208969292-yandex)<sup>10</sup>
 
 
-_19.10.2019 05:06:23_
+_19.10.2019 05:39:34_
