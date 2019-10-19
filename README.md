@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>143</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>4</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>80</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>3</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>189</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>194</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>142</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>167</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>125</sup> 
 [](users/114/114588423502949541325-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>46</sup> 
 
 
-_19.10.2019 13:00:34_
+_19.10.2019 17:45:25_
