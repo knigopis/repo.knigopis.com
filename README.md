@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[schoolnumberone2](users/290/290416271-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>144</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>4</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>80</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>62</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>50</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
-[Даша](users/334/334696193054530347-mailru)<sup>46</sup> 
 
 
-_19.10.2019 17:47:41_
+_19.10.2019 19:42:17_
