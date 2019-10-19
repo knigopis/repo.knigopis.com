@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шоколад ~ [En](users/333/333646551-vkontakte)<sup>76</sup>
+    > Ветром карнавала в тихий городок на юге Франции заносит таинственную красавицу Вианн Роше, и она соблазняет благочестивых горожан своей красотой, духом свободы и невиданным прежде лакомством — шоколадом.
+
 * Маскарад ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
     > "Шоу должно продолжаться!". Ведьмы, Призрак оперы и прочее.Очередная книга из серии Плоский мир очень хороша
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * Люди нашего царя ~ [Madlax](users/158/158304782-vkontakte)<sup>191</sup>
-    > Кейп-Код
 
 * Мемуары Гейши ~ [Madlax](users/158/158304782-vkontakte)<sup>185</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Лестница в небо ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>215</sup>
 
-* Песчаные короли ~ [Quaff](users/122/12267158-vkontakte)<sup>73</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>76</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>3</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>130</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>39</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>50</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>46</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>181</sup> 
 
 
-_19.10.2019 03:42:32_
+_19.10.2019 05:05:17_

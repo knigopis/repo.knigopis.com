@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шоколад ~ [En](users/333/333646551-vkontakte)<sup>76</sup>
 * Маскарад ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
 * You are a badass ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
 * Люди нашего царя ~ [Madlax](users/158/158304782-vkontakte)<sup>191</sup>
@@ -30,7 +31,6 @@
 * Блейз ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
 * Дочь ~ [elena-gagina2014](users/208/208969292-yandex)<sup>10</sup>
 * Серебристый луч надежды ~ [elena-gagina2014](users/208/208969292-yandex)<sup>9</sup>
-* Прощание с иллюзиями ~ [elena-gagina2014](users/208/208969292-yandex)<sup>8</sup>
 
 
-_16.10.2019 17:42:11_
+_19.10.2019 05:05:17_
