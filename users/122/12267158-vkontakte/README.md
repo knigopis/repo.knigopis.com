@@ -1,7 +1,12 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>74</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>75</sup>
 ---
 
 ## 2019
+
+### Комеск 13 капитан
+Дмитрий Рус
+> [2019-11-10] 
+
 
 ### Комеск 13 кадет
 Дмитрий Рус
