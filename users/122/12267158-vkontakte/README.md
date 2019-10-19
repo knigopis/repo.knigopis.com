@@ -1,7 +1,12 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>73</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>74</sup>
 ---
 
 ## 2019
+
+### Комеск 13 кадет
+Дмитрий Рус
+> [2019-10-10] 
+
 
 ### Песчаные короли
 Мартин Джордж
