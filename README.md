@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>3</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>130</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>39</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>28</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>4</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>734</sup> 
 [ilopX](users/544/544577919687420-facebook)<sup>0</sup> 
 [limonov@nipt.ru](users/113/1130000039168707-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>181</sup> 
 
 
-_18.10.2019 19:10:51_
+_19.10.2019 03:42:32_

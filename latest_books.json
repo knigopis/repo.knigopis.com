@@ -1,4 +1,16 @@
 {
+    "0ihpDYklNM": {
+        "id": "0ihpDYklNM",
+        "title": "Жертва полнолуния",
+        "author": "Марина Серова",
+        "notes": "",
+        "createdAt": "2019-10-19 03:42:32",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "ru6Z8lREwr": {
         "id": "ru6Z8lREwr",
         "title": "Вирусы мозга",
@@ -345,18 +357,6 @@
             "id": "69389439-vkontakte",
             "nickname": "Юлиания",
             "booksCount": 3
-        }
-    },
-    "fFa4-JmISU": {
-        "id": "fFa4-JmISU",
-        "title": "Я ищу тебя",
-        "author": "Л. Клейпас",
-        "notes": "444 стр",
-        "createdAt": "2019-10-16 12:41:11",
-        "user": {
-            "id": "69389439-vkontakte",
-            "nickname": "Юлиания",
-            "booksCount": 2
         }
     }
 }

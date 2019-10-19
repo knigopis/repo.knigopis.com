@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>4</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>3</sup>
 ---
 
 ## 2019
+
+### Жертва полнолуния
+Марина Серова
+> [2019-10-19] 
+
 
 ### Замок Броуди
 Арчибальд Кронин
