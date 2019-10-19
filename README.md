@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>4</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>80</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>3</sup> 
 [En](users/333/333646551-vkontakte)<sup>78</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>3</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>130</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>39</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>46</sup> 
 
 
-_19.10.2019 09:15:24_
+_19.10.2019 13:00:34_

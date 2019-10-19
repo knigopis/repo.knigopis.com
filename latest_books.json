@@ -1,4 +1,16 @@
 {
+    "Ua7aQ5KfCN": {
+        "id": "Ua7aQ5KfCN",
+        "title": "Когда ад замёрзнет",
+        "author": "Алла Полянская",
+        "notes": "",
+        "createdAt": "2019-10-19 13:00:34",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "Tq3qruUymL": {
         "id": "Tq3qruUymL",
         "title": "Играть чтобы жить, чувство долга",
@@ -345,18 +357,6 @@
             "id": "69389439-vkontakte",
             "nickname": "Юлиания",
             "booksCount": 12
-        }
-    },
-    "Fd-3CBwzp9": {
-        "id": "Fd-3CBwzp9",
-        "title": "Чёрный ангел",
-        "author": "Анна Оранская",
-        "notes": "304 стр.",
-        "createdAt": "2019-10-16 19:41:47",
-        "user": {
-            "id": "69389439-vkontakte",
-            "nickname": "Юлиания",
-            "booksCount": 11
         }
     }
 }
