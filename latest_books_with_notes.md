@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Показания Рендольфа Картера ~ [En](users/333/333646551-vkontakte)<sup>77</sup>
 * Шоколад ~ [En](users/333/333646551-vkontakte)<sup>76</sup>
 * Маскарад ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
 * You are a badass ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
@@ -30,7 +31,6 @@
 * Цыц ~ [Chiffi](users/105/105831994080785626680-google)<sup>137</sup>
 * Блейз ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
 * Дочь ~ [elena-gagina2014](users/208/208969292-yandex)<sup>10</sup>
-* Серебристый луч надежды ~ [elena-gagina2014](users/208/208969292-yandex)<sup>9</sup>
 
 
-_19.10.2019 05:05:17_
+_19.10.2019 05:06:23_

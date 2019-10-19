@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Показания Рендольфа Картера ~ [En](users/333/333646551-vkontakte)<sup>77</sup>
+    > Друг Рэндольфа Картера Харли Уоррен нашел в некоей книге информацию о некрополе, располагающемся на старом кладбище. Вместе с Картером он отправился туда и спустился в склеп…
+
 * Шоколад ~ [En](users/333/333646551-vkontakte)<sup>76</sup>
     > Ветром карнавала в тихий городок на юге Франции заносит таинственную красавицу Вианн Роше, и она соблазняет благочестивых горожан своей красотой, духом свободы и невиданным прежде лакомством — шоколадом.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > "Шоу должно продолжаться!". Ведьмы, Призрак оперы и прочее.Очередная книга из серии Плоский мир очень хороша
 
 * You are a badass ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
-    > 10/10
 
 * Люди нашего царя ~ [Madlax](users/158/158304782-vkontakte)<sup>191</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Инструкция по движению поездов и маневровой работе на ж/д транспорте РФ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>216</sup>
 
-* Лестница в небо ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>215</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[En](users/333/333646551-vkontakte)<sup>76</sup> 
+[En](users/333/333646551-vkontakte)<sup>77</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>3</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>130</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>46</sup> 
 
 
-_19.10.2019 05:05:17_
+_19.10.2019 05:06:23_
