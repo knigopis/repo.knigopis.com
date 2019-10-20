@@ -1,7 +1,11 @@
-# List of books read by [Egor](http://vk.com/id166766907)<sup>1</sup>
+# List of books read by [Egor](http://vk.com/id166766907)<sup>2</sup>
 ---
 
 ## 2019
+
+### Меч Предназначения
+Анджей Сапковский
+
 
 ### «Последнее желание»
 Анджей Сапковский
