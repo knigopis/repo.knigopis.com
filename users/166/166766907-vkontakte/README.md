@@ -1,7 +1,11 @@
-# List of books read by [Egor](http://vk.com/id166766907)<sup>2</sup>
+# List of books read by [Egor](http://vk.com/id166766907)<sup>3</sup>
 ---
 
 ## 2019
+
+### Кровь эльфов
+Анджей Сапковский
+
 
 ### Меч Предназначения
 Анджей Сапковский
