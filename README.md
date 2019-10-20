@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/108/108689364763869996762-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>145</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup> 
 [ivchik21](users/142/14245460-vkontakte)<sup>0</sup> 
 [myperson](users/131/13129699-vkontakte)<sup>0</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>62</sup> 
 
 
-_20.10.2019 18:14:25_
+_20.10.2019 20:33:00_
