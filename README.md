@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Egor](users/166/166766907-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>36</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>5</sup> 
 [schoolnumberone2](users/290/290416271-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [myperson](users/131/13129699-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>62</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>50</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
 
 
-_20.10.2019 05:52:44_
+_20.10.2019 06:56:51_
