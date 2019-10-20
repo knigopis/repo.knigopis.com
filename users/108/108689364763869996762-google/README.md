@@ -1,5 +1,13 @@
-# List of books read by [doingwonder](https://plus.google.com/u/0/108689364763869996762/)<sup>4</sup>
+# List of books read by [doingwonder](https://plus.google.com/u/0/108689364763869996762/)<sup>5</sup>
 ---
+
+## 2019
+
+### С любовью, Рози
+Сесилия Ахерн
+> [2019-10-20] Когда лучше сказать, чем не сказать.
+
+
 
 ## 2003
 
