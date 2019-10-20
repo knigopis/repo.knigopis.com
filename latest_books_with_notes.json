@@ -1,4 +1,16 @@
 {
+    "0DvXh_yvvB": {
+        "id": "0DvXh_yvvB",
+        "title": "Мистический манускрипт о медном мертвеце (Флавия де Люс без номера)",
+        "author": "",
+        "notes": "рассказ. хуже,  чем вся серия((",
+        "createdAt": "2019-10-20 18:14:25",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 145
+        }
+    },
     "QCe52cwNF-": {
         "id": "QCe52cwNF-",
         "title": "Страна Рождества",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 69
-        }
-    },
-    "5_fJeQnedD": {
-        "id": "5_fJeQnedD",
-        "title": "Интеллигент и две Риты",
-        "author": "Вильмонт Екатерина",
-        "notes": "прочитала за один вечер",
-        "createdAt": "2019-10-05 05:34:44",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 138
         }
     }
 }

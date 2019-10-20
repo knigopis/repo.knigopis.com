@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мистический манускрипт о медном мертвеце (Флавия де Люс без номера) ~ [Chiffi](users/105/105831994080785626680-google)<sup>145</sup>
+    > рассказ. хуже,  чем вся серия((
+
 * Страна Рождества ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
     > 21.10.19
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Прочла книгу за 2 дня. Так жалко было прощаться с этими героями. На данный момент Маэстро теней - последняя книга из серии про Сандру и Маркуса. Финал открытый, можно надеяться, что в ближайшие годы Карризи что-то еще напишет про этих героев.
 
 * Крауч-Энд ~ [En](users/333/333646551-vkontakte)<sup>78</sup>
-    > В полицейский участок приходит женщина, у которой пропал муж. История, которую она рассказывает, напоминает рассказы Лавкрафта
 
 * Показания Рендольфа Картера ~ [En](users/333/333646551-vkontakte)<sup>77</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мемуары Гейши ~ [Madlax](users/158/158304782-vkontakte)<sup>185</sup>
 
-* Большие надежды ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>145</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>4</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>6</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Egor](users/166/166766907-vkontakte)<sup>7</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>36</sup> 
 [schoolnumberone2](users/290/290416271-vkontakte)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>144</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>80</sup> 
 [En](users/333/333646551-vkontakte)<sup>78</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>130</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>62</sup> 
 
 
-_20.10.2019 17:52:51_
+_20.10.2019 18:14:25_
