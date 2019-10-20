@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>5</sup> 
 [schoolnumberone2](users/290/290416271-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>144</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>4</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>80</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>3</sup> 
 [En](users/333/333646551-vkontakte)<sup>78</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup> 
 
 
-_19.10.2019 19:43:07_
+_20.10.2019 03:27:12_
