@@ -1,4 +1,16 @@
 {
+    "d9byDbAMwI": {
+        "id": "d9byDbAMwI",
+        "title": "Час Презрения",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2019-10-20 07:00:18",
+        "user": {
+            "id": "166766907-vkontakte",
+            "nickname": "Egor",
+            "booksCount": 4
+        }
+    },
     "96H6gJ7g5X": {
         "id": "96H6gJ7g5X",
         "title": "Кровь эльфов",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 35
-        }
-    },
-    "ApAnvI7Y3z": {
-        "id": "ApAnvI7Y3z",
-        "title": "Хроники Дождевых чащоб. Драконья гавань",
-        "author": "Робин Хобб",
-        "notes": "",
-        "createdAt": "2019-10-17 06:32:50",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 149
         }
     }
 }
