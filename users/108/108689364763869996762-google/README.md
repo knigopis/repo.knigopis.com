@@ -1,7 +1,12 @@
-# List of books read by [doingwonder](https://plus.google.com/u/0/108689364763869996762/)<sup>1</sup>
+# List of books read by [doingwonder](https://plus.google.com/u/0/108689364763869996762/)<sup>2</sup>
 ---
 
 ## 2002
+
+### Гарри Поттер и Тайная комната
+Дж.К.Роулинг
+> [2002-05] 
+
 
 ### Гарри Поттер и Философский камень
 Дж.К.Роулинг
