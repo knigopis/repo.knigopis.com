@@ -1,4 +1,16 @@
 {
+    "uczLbVaGtN": {
+        "id": "uczLbVaGtN",
+        "title": "Сияние",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2019-10-20 20:48:50",
+        "user": {
+            "id": "108689364763869996762-google",
+            "nickname": "doingwonder",
+            "booksCount": 9
+        }
+    },
     "FdJpIxhtub": {
         "id": "FdJpIxhtub",
         "title": "Гарри Поттер и дары смерти",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 78
-        }
-    },
-    "D1-YYKQMAo": {
-        "id": "D1-YYKQMAo",
-        "title": "Играть чтобы жить, клан",
-        "author": "Дмитрий Рус",
-        "notes": "",
-        "createdAt": "2019-10-19 09:13:35",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 77
         }
     }
 }
