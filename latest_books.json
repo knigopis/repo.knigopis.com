@@ -1,4 +1,16 @@
 {
+    "Q0GqVMFy8d": {
+        "id": "Q0GqVMFy8d",
+        "title": "«Крещение огнём»",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2019-10-20 07:00:31",
+        "user": {
+            "id": "166766907-vkontakte",
+            "nickname": "Egor",
+            "booksCount": 5
+        }
+    },
     "d9byDbAMwI": {
         "id": "d9byDbAMwI",
         "title": "Час Презрения",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 73
-        }
-    },
-    "h7caJgYW7K": {
-        "id": "h7caJgYW7K",
-        "title": "Странствий убийцы",
-        "author": "Робин Хобб",
-        "notes": "",
-        "createdAt": "2019-10-17 13:32:21",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 35
         }
     }
 }
