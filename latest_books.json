@@ -1,4 +1,16 @@
 {
+    "oDdNM3tMm3": {
+        "id": "oDdNM3tMm3",
+        "title": "«Владычица Озера»(Ведьмак)",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2019-10-20 07:01:27",
+        "user": {
+            "id": "166766907-vkontakte",
+            "nickname": "Egor",
+            "booksCount": 7
+        }
+    },
     "r4ZiNiEQC8": {
         "id": "r4ZiNiEQC8",
         "title": "«Башня Ласточки»",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 4
-        }
-    },
-    "08LkctOQ9m": {
-        "id": "08LkctOQ9m",
-        "title": "Голод",
-        "author": "Гамсун Кнут",
-        "notes": "",
-        "createdAt": "2019-10-18 08:20:52",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 734
         }
     }
 }

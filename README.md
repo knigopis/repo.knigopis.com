@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Egor](users/166/166766907-vkontakte)<sup>6</sup> 
+[Egor](users/166/166766907-vkontakte)<sup>7</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>36</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>5</sup> 
 [schoolnumberone2](users/290/290416271-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>50</sup> 
 
 
-_20.10.2019 07:01:04_
+_20.10.2019 07:01:27_

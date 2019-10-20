@@ -1,7 +1,11 @@
-# List of books read by [Egor](http://vk.com/id166766907)<sup>6</sup>
+# List of books read by [Egor](http://vk.com/id166766907)<sup>7</sup>
 ---
 
 ## 2019
+
+### «Владычица Озера»(Ведьмак)
+Анджей Сапковский
+
 
 ### «Башня Ласточки»
 Анджей Сапковский
