@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маэстро теней ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
+    > Прочла книгу за 2 дня. Так жалко было прощаться с этими героями. На данный момент Маэстро теней - последняя книга из серии про Сандру и Маркуса. Финал открытый, можно надеяться, что в ближайшие годы Карризи что-то еще напишет про этих героев.
+
 * Крауч-Энд ~ [En](users/333/333646551-vkontakte)<sup>78</sup>
     > В полицейский участок приходит женщина, у которой пропал муж. История, которую она рассказывает, напоминает рассказы Лавкрафта
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Друг Рэндольфа Картера Харли Уоррен нашел в некоей книге информацию о некрополе, располагающемся на старом кладбище. Вместе с Картером он отправился туда и спустился в склеп…
 
 * Шоколад ~ [En](users/333/333646551-vkontakte)<sup>76</sup>
-    > Ветром карнавала в тихий городок на юге Франции заносит таинственную красавицу Вианн Роше, и она соблазняет благочестивых горожан своей красотой, духом свободы и невиданным прежде лакомством — шоколадом.
 
 * Маскарад ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сервис, ориентированный на бренд ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup>
 
-* Информационная работа стратегической разведки. Основные принципы ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>217</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>73</sup> 
 [Egor](users/166/166766907-vkontakte)<sup>7</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>36</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>5</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>78</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>130</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>39</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>72</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>28</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>734</sup> 
 [ilopX](users/544/544577919687420-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>50</sup> 
 
 
-_20.10.2019 07:01:27_
+_20.10.2019 11:27:15_

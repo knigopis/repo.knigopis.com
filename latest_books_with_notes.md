@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Маэстро теней ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
 * Крауч-Энд ~ [En](users/333/333646551-vkontakte)<sup>78</sup>
 * Показания Рендольфа Картера ~ [En](users/333/333646551-vkontakte)<sup>77</sup>
 * Шоколад ~ [En](users/333/333646551-vkontakte)<sup>76</sup>
@@ -30,7 +31,6 @@
 * 1984 ~ [kissamasya](users/684/68439978-vkontakte)<sup>69</sup>
 * Интеллигент и две Риты ~ [Chiffi](users/105/105831994080785626680-google)<sup>138</sup>
 * Цыц ~ [Chiffi](users/105/105831994080785626680-google)<sup>137</sup>
-* Блейз ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
 
 
-_19.10.2019 05:39:34_
+_20.10.2019 11:27:15_
