@@ -1,4 +1,16 @@
 {
+    "b7wTzxhI8h": {
+        "id": "b7wTzxhI8h",
+        "title": "Зелёная лампа",
+        "author": "А.Грин",
+        "notes": "",
+        "createdAt": "2019-10-20 16:02:42",
+        "user": {
+            "id": "103474005216004236389-google",
+            "nickname": "Woc4onok213",
+            "booksCount": 4
+        }
+    },
     "aI943kz4Fe": {
         "id": "aI943kz4Fe",
         "title": "Принцип перевоплощения",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 130
-        }
-    },
-    "Mg-socmpoX": {
-        "id": "Mg-socmpoX",
-        "title": "И пели птицы",
-        "author": "Себастьян Фолкс",
-        "notes": "",
-        "createdAt": "2019-10-18 18:11:09",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 39
         }
     }
 }

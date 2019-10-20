@@ -1,4 +1,10 @@
 {
+    "103474005216004236389-google": {
+        "id": "103474005216004236389-google",
+        "nickname": "Woc4onok213",
+        "booksCount": 4,
+        "updatedAt": "2019-10-20 16:02:42"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -40,12 +46,6 @@
         "nickname": "Quaff",
         "booksCount": 80,
         "updatedAt": "2019-10-19 09:15:24"
-    },
-    "103474005216004236389-google": {
-        "id": "103474005216004236389-google",
-        "nickname": "Woc4onok213",
-        "booksCount": 3,
-        "updatedAt": "2019-10-19 08:37:12"
     },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
