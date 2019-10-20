@@ -1,7 +1,12 @@
-# List of books read by [doingwonder](https://plus.google.com/u/0/108689364763869996762/)<sup>3</sup>
+# List of books read by [doingwonder](https://plus.google.com/u/0/108689364763869996762/)<sup>4</sup>
 ---
 
 ## 2003
+
+### Гарри Поттер и Кубок Огня
+Дж.К.Роулинг
+> [2003-05] 
+
 
 ### Гарри Поттер и узник азкабана
 Дж.К.роулинг
