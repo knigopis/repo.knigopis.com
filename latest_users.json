@@ -1,4 +1,10 @@
 {
+    "166766907-vkontakte": {
+        "id": "166766907-vkontakte",
+        "nickname": "Egor",
+        "booksCount": 0,
+        "updatedAt": "2019-10-20 06:56:49"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "vladkozz",
         "booksCount": 50,
         "updatedAt": "2019-10-10 19:02:22"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 83,
-        "updatedAt": "2019-10-10 12:25:51"
     }
 }
