@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Страна Рождества ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
+    > 21.10.19
+
 * Маэстро теней ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
     > Прочла книгу за 2 дня. Так жалко было прощаться с этими героями. На данный момент Маэстро теней - последняя книга из серии про Сандру и Маркуса. Финал открытый, можно надеяться, что в ближайшие годы Карризи что-то еще напишет про этих героев.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > В полицейский участок приходит женщина, у которой пропал муж. История, которую она рассказывает, напоминает рассказы Лавкрафта
 
 * Показания Рендольфа Картера ~ [En](users/333/333646551-vkontakte)<sup>77</sup>
-    > Друг Рэндольфа Картера Харли Уоррен нашел в некоей книге информацию о некрополе, располагающемся на старом кладбище. Вместе с Картером он отправился туда и спустился в склеп…
 
 * Шоколад ~ [En](users/333/333646551-vkontakte)<sup>76</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Большие надежды ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
 
-* Сервис, ориентированный на бренд ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>4</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>6</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>73</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ivchik21](users/142/14245460-vkontakte)<sup>0</sup> 
 [myperson](users/131/13129699-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>62</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>50</sup> 
 
 
-_20.10.2019 16:02:42_
+_20.10.2019 17:52:51_

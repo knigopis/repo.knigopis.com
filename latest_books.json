@@ -1,4 +1,16 @@
 {
+    "QCe52cwNF-": {
+        "id": "QCe52cwNF-",
+        "title": "Страна Рождества",
+        "author": "Джо Хилл",
+        "notes": "21.10.19",
+        "createdAt": "2019-10-20 17:52:51",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 84
+        }
+    },
     "b7wTzxhI8h": {
         "id": "b7wTzxhI8h",
         "title": "Зелёная лампа",
@@ -341,18 +353,6 @@
         "author": "Ричард Докинз",
         "notes": "",
         "createdAt": "2019-10-18 19:10:51",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 130
-        }
-    },
-    "isRuW6nBlj": {
-        "id": "isRuW6nBlj",
-        "title": "Дремлющий демон Декстера",
-        "author": "Джеффри Линдсей",
-        "notes": "",
-        "createdAt": "2019-10-18 18:30:21",
         "user": {
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
