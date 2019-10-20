@@ -1,4 +1,16 @@
 {
+    "yDEtgVzhts": {
+        "id": "yDEtgVzhts",
+        "title": "Гарри Поттер и Философский камень",
+        "author": "Дж.К.Роулинг",
+        "notes": "История, изменившая мою жизнь.",
+        "createdAt": "2019-10-20 20:34:37",
+        "user": {
+            "id": "108689364763869996762-google",
+            "nickname": "doingwonder",
+            "booksCount": 1
+        }
+    },
     "0DvXh_yvvB": {
         "id": "0DvXh_yvvB",
         "title": "Мистический манускрипт о медном мертвеце (Флавия де Люс без номера)",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 76
-        }
-    },
-    "0ihpDYklNM": {
-        "id": "0ihpDYklNM",
-        "title": "Жертва полнолуния",
-        "author": "Марина Серова",
-        "notes": "",
-        "createdAt": "2019-10-19 03:42:32",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 3
         }
     }
 }
