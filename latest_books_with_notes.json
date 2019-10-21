@@ -1,4 +1,16 @@
 {
+    "hZ0AXAuJ82": {
+        "id": "hZ0AXAuJ82",
+        "title": "Шевченків міф України",
+        "author": "Оксана Забужко",
+        "notes": "4/10 занадто філософсько",
+        "createdAt": "2019-10-21 19:37:01",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 61
+        }
+    },
     "0QGZK8PKbS": {
         "id": "0QGZK8PKbS",
         "title": "Грішниця",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 214
-        }
-    },
-    "NS2Fss_5Yk": {
-        "id": "NS2Fss_5Yk",
-        "title": "Взгляд висельника",
-        "author": "Александр Варго",
-        "notes": "Ужасное чтиво.",
-        "createdAt": "2019-10-06 11:03:45",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 146
         }
     }
 }

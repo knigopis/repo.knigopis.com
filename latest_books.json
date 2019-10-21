@@ -1,4 +1,16 @@
 {
+    "hZ0AXAuJ82": {
+        "id": "hZ0AXAuJ82",
+        "title": "Шевченків міф України",
+        "author": "Оксана Забужко",
+        "notes": "4/10 занадто філософсько",
+        "createdAt": "2019-10-21 19:37:01",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 61
+        }
+    },
     "0QGZK8PKbS": {
         "id": "0QGZK8PKbS",
         "title": "Грішниця",
@@ -345,18 +357,6 @@
             "id": "166766907-vkontakte",
             "nickname": "Egor",
             "booksCount": 3
-        }
-    },
-    "lqeV2X--Gd": {
-        "id": "lqeV2X--Gd",
-        "title": "Меч Предназначения",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2019-10-20 06:58:46",
-        "user": {
-            "id": "166766907-vkontakte",
-            "nickname": "Egor",
-            "booksCount": 2
         }
     }
 }

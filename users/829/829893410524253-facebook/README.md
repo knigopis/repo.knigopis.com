@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>60</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>61</sup>
 ---
 
 ## 2019
+
+### Шевченків міф України
+Оксана Забужко
+> [2019-10-20] 4/10 занадто філософсько
+
 
 ### Грішниця
 Ольга Печорина

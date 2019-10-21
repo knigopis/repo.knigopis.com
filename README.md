@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шевченків міф України ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>61</sup>
+    > 4/10 занадто філософсько
+
 * Грішниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>60</sup>
     > 3/10 постійні страждання та перескакування у минуле.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Вторая часть Ходячего замка. Волшебная история в восточном колорите.
 
 * Дом с характером ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
-    > В доме придворного чародея Вильяма Норланда пространство и время ведут себя по своим, чародейским законам. Единственная дверь ведет куда угодно — и в спальни, и в кухню, и в горные пещеры, и в прошлое, и в королевскую библиотеку. Родственница чародея, Чармейн, волей-неволей вынуждена разбираться, как устроен дом с характером, — и в результате оказывается в гуще придворных интриг.
-    > 
-    > Третья часть Ходячего замка, но отдельная история.
 
 * Мистический манускрипт о медном мертвеце (Флавия де Люс без номера) ~ [Chiffi](users/105/105831994080785626680-google)<sup>145</sup>
 
@@ -28,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Шоколад ~ [En](users/333/333646551-vkontakte)<sup>76</sup>
 
-* Маскарад ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>60</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>61</sup> 
 [Avery](users/567/56734832-yandex)<sup>14</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>4</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>190</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114588423502949541325-google)<sup>1</sup> 
 
 
-_21.10.2019 19:36:06_
+_21.10.2019 19:37:01_
