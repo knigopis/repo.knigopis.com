@@ -1,4 +1,16 @@
 {
+    "7Tijsmnrdl": {
+        "id": "7Tijsmnrdl",
+        "title": "Воздушный замок",
+        "author": "Диана Уинн Джонс",
+        "notes": "Вторая часть Ходячего замка. Волшебная история в восточном колорите.",
+        "createdAt": "2019-10-21 18:35:58",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 14
+        }
+    },
     "6-4_VqT9ll": {
         "id": "6-4_VqT9ll",
         "title": "Дом с характером",
@@ -345,18 +357,6 @@
             "id": "166766907-vkontakte",
             "nickname": "Egor",
             "booksCount": 1
-        }
-    },
-    "R5VV2V3qaF": {
-        "id": "R5VV2V3qaF",
-        "title": "Милые кости",
-        "author": "Элис Сиболд",
-        "notes": "",
-        "createdAt": "2019-10-20 05:52:44",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 36
         }
     }
 }

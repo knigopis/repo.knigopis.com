@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Воздушный замок ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
+    > Вторая часть Ходячего замка. Волшебная история в восточном колорите.
+
 * Дом с характером ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
     > В доме придворного чародея Вильяма Норланда пространство и время ведут себя по своим, чародейским законам. Единственная дверь ведет куда угодно — и в спальни, и в кухню, и в горные пещеры, и в прошлое, и в королевскую библиотеку. Родственница чародея, Чармейн, волей-неволей вынуждена разбираться, как устроен дом с характером, — и в результате оказывается в гуще придворных интриг.
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > рассказ. хуже,  чем вся серия((
 
 * Страна Рождества ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
-    > 21.10.19
 
 * Маэстро теней ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * You are a badass ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
 
-* Люди нашего царя ~ [Madlax](users/158/158304782-vkontakte)<sup>191</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Avery](users/567/56734832-yandex)<sup>13</sup> 
+[Avery](users/567/56734832-yandex)<sup>14</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>4</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>190</sup> 
 [Максим Бондаренко](users/182/18277571948146284542-mailru)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup> 
 
 
-_21.10.2019 18:34:39_
+_21.10.2019 18:35:58_
