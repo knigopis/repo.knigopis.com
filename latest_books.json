@@ -1,4 +1,16 @@
 {
+    "H6yLh1Xvjs": {
+        "id": "H6yLh1Xvjs",
+        "title": "Исповедь Цирцеи",
+        "author": "Дарья Кожевникова",
+        "notes": "",
+        "createdAt": "2019-10-21 16:50:28",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "q17o8b9llg": {
         "id": "q17o8b9llg",
         "title": "Голливуд",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 5
-        }
-    },
-    "zldeRUswTC": {
-        "id": "zldeRUswTC",
-        "title": "",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2019-10-19 19:43:07",
-        "user": {
-            "id": "290416271-vkontakte",
-            "nickname": "schoolnumberone2",
-            "booksCount": 1
         }
     }
 }
