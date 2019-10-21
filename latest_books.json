@@ -1,4 +1,16 @@
 {
+    "ZviUHdBPzO": {
+        "id": "ZviUHdBPzO",
+        "title": "Любимые женщины клана Крестовских",
+        "author": "Марина Болдова",
+        "notes": "",
+        "createdAt": "2019-10-21 08:52:35",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 7
+        }
+    },
     "e5W_pRlfbI": {
         "id": "e5W_pRlfbI",
         "title": "Ведьмины байки",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 144
-        }
-    },
-    "dOmzHTMYz4": {
-        "id": "dOmzHTMYz4",
-        "title": "В могиле не опасен суд молвы (Флавия де Люс 9)",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-10-19 17:45:24",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 143
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "270444099499-odnoklassniki": {
+        "id": "270444099499-odnoklassniki",
+        "nickname": null,
+        "booksCount": 7,
+        "updatedAt": "2019-10-21 08:52:35"
+    },
     "18277571948146284542-mailru": {
         "id": "18277571948146284542-mailru",
         "nickname": "Максим Бондаренко",
@@ -28,12 +34,6 @@
         "nickname": "Woc4onok213",
         "booksCount": 4,
         "updatedAt": "2019-10-20 16:02:42"
-    },
-    "270444099499-odnoklassniki": {
-        "id": "270444099499-odnoklassniki",
-        "nickname": null,
-        "booksCount": 6,
-        "updatedAt": "2019-10-20 14:25:23"
     },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
