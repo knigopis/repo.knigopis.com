@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>190</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>7</sup> 
 [Максим Бондаренко](users/182/18277571948146284542-mailru)<sup>0</sup> 
 [doingwonder](users/108/108689364763869996762-google)<sup>13</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Юлиания](users/693/69389439-vkontakte)<sup>19</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>233</sup> 
 [Василий](users/146/146662199-vkontakte)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>189</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>194</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>167</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ivchik21](users/142/14245460-vkontakte)<sup>0</sup> 
 
 
-_21.10.2019 08:52:36_
+_21.10.2019 11:50:56_

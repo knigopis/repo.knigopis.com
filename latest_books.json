@@ -1,4 +1,16 @@
 {
+    "q17o8b9llg": {
+        "id": "q17o8b9llg",
+        "title": "Голливуд",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2019-10-21 11:50:55",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 190
+        }
+    },
     "ZviUHdBPzO": {
         "id": "ZviUHdBPzO",
         "title": "Любимые женщины клана Крестовских",
@@ -345,18 +357,6 @@
             "id": "290416271-vkontakte",
             "nickname": "schoolnumberone2",
             "booksCount": 1
-        }
-    },
-    "iK3DutqVmu": {
-        "id": "iK3DutqVmu",
-        "title": "",
-        "author": "Брэдли Алан",
-        "notes": "",
-        "createdAt": "2019-10-19 17:47:41",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 144
         }
     }
 }
