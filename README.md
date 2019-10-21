@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Максим Бондаренко](users/182/18277571948146284542-mailru)<sup>0</sup> 
 [doingwonder](users/108/108689364763869996762-google)<sup>13</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>145</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114588423502949541325-google)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup> 
 [ivchik21](users/142/14245460-vkontakte)<sup>0</sup> 
-[myperson](users/131/13129699-vkontakte)<sup>0</sup> 
 
 
-_20.10.2019 21:09:34_
+_21.10.2019 08:36:03_
