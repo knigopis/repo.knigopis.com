@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>59</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>60</sup>
 ---
 
 ## 2019
+
+### Грішниця
+Ольга Печорина
+> [2019-10-19] 3/10 постійні страждання та перескакування у минуле.
+
 
 ### Справа Василя Стуса
 Вахтанг Кіпіані

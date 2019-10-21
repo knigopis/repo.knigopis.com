@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Грішниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>60</sup>
+    > 3/10 постійні страждання та перескакування у минуле.
+
 * Воздушный замок ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
     > Вторая часть Ходячего замка. Волшебная история в восточном колорите.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Третья часть Ходячего замка, но отдельная история.
 
 * Мистический манускрипт о медном мертвеце (Флавия де Люс без номера) ~ [Chiffi](users/105/105831994080785626680-google)<sup>145</sup>
-    > рассказ. хуже,  чем вся серия((
 
 * Страна Рождества ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Маскарад ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
 
-* You are a badass ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>60</sup> 
 [Avery](users/567/56734832-yandex)<sup>14</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>4</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>190</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>167</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>125</sup> 
 [](users/114/114588423502949541325-google)<sup>1</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup> 
 
 
-_21.10.2019 18:35:58_
+_21.10.2019 19:36:06_
