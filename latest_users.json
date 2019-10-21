@@ -1,4 +1,10 @@
 {
+    "18277571948146284542-mailru": {
+        "id": "18277571948146284542-mailru",
+        "nickname": "Максим Бондаренко",
+        "booksCount": 0,
+        "updatedAt": "2019-10-21 08:35:57"
+    },
     "108689364763869996762-google": {
         "id": "108689364763869996762-google",
         "nickname": "doingwonder",
@@ -172,11 +178,5 @@
         "nickname": "ivchik21",
         "booksCount": 0,
         "updatedAt": "2019-10-11 11:22:06"
-    },
-    "13129699-vkontakte": {
-        "id": "13129699-vkontakte",
-        "nickname": "myperson",
-        "booksCount": 0,
-        "updatedAt": "2019-10-11 10:00:44"
     }
 }
