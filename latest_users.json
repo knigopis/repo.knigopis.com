@@ -1,4 +1,10 @@
 {
+    "56734832-yandex": {
+        "id": "56734832-yandex",
+        "nickname": "Avery",
+        "booksCount": 14,
+        "updatedAt": "2019-10-21 18:34:16"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 218,
         "updatedAt": "2019-10-12 10:36:36"
-    },
-    "14245460-vkontakte": {
-        "id": "14245460-vkontakte",
-        "nickname": "ivchik21",
-        "booksCount": 0,
-        "updatedAt": "2019-10-11 11:22:06"
     }
 }

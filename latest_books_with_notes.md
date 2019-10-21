@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дом с характером ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
 * Мистический манускрипт о медном мертвеце (Флавия де Люс без номера) ~ [Chiffi](users/105/105831994080785626680-google)<sup>145</sup>
 * Страна Рождества ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
 * Маэстро теней ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
@@ -30,7 +31,6 @@
 * Взгляд висельника ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>146</sup>
 * Не отпускай меня ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>26</sup>
 * Киз, Дэниел ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
-* 1984 ~ [kissamasya](users/684/68439978-vkontakte)<sup>69</sup>
 
 
-_20.10.2019 18:14:25_
+_21.10.2019 18:34:16_
