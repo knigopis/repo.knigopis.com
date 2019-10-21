@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Avery](users/567/56734832-yandex)<sup>14</sup> 
+[Avery](users/567/56734832-yandex)<sup>13</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>4</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>190</sup> 
 [Максим Бондаренко](users/182/18277571948146284542-mailru)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup> 
 
 
-_21.10.2019 18:34:16_
+_21.10.2019 18:34:39_
