@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>191</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>61</sup> 
 [Avery](users/567/56734832-yandex)<sup>14</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>4</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>190</sup> 
 [Максим Бондаренко](users/182/18277571948146284542-mailru)<sup>0</sup> 
 [doingwonder](users/108/108689364763869996762-google)<sup>13</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>145</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114588423502949541325-google)<sup>1</sup> 
 
 
-_21.10.2019 19:37:01_
+_22.10.2019 07:24:08_

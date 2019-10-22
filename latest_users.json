@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 191,
+        "updatedAt": "2019-10-22 07:24:07"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -16,12 +22,6 @@
         "nickname": null,
         "booksCount": 4,
         "updatedAt": "2019-10-21 16:50:28"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 190,
-        "updatedAt": "2019-10-21 11:50:55"
     },
     "18277571948146284542-mailru": {
         "id": "18277571948146284542-mailru",
