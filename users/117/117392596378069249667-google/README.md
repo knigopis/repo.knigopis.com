@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>28</sup>
+# List of books read by 4apa<sup>29</sup>
 ---
 
 ## 2019
+
+### Солнечная лотерея
+Филип Дик
+> [2019-10-22] 
+
 
 ### Щегол
 Донна Тартт

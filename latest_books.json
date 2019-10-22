@@ -1,4 +1,16 @@
 {
+    "tvN_qvoZGZ": {
+        "id": "tvN_qvoZGZ",
+        "title": "Солнечная лотерея",
+        "author": "Филип Дик",
+        "notes": "",
+        "createdAt": "2019-10-22 19:24:30",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 29
+        }
+    },
     "IX2HpBqvK3": {
         "id": "IX2HpBqvK3",
         "title": "Маркеры! Рисуем яркие скетчи с Лизой Красновой",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 73
-        }
-    },
-    "oDdNM3tMm3": {
-        "id": "oDdNM3tMm3",
-        "title": "«Владычица Озера»(Ведьмак)",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2019-10-20 07:01:27",
-        "user": {
-            "id": "166766907-vkontakte",
-            "nickname": "Egor",
-            "booksCount": 7
         }
     }
 }
