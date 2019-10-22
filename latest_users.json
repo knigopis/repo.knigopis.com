@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 40,
+        "updatedAt": "2019-10-22 17:58:25"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -94,12 +100,6 @@
         "nickname": "afferens.lucem",
         "booksCount": 130,
         "updatedAt": "2019-10-18 19:10:51"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 39,
-        "updatedAt": "2019-10-18 18:11:09"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",

@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>39</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>40</sup>
 ---
 
 ## 2019
+
+### Маркеры! Рисуем яркие скетчи с Лизой Красновой
+Елизавета Краснова
+> [2019-10-22] 
+
 
 ### И пели птицы
 Себастьян Фолкс

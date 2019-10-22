@@ -1,4 +1,16 @@
 {
+    "IX2HpBqvK3": {
+        "id": "IX2HpBqvK3",
+        "title": "Маркеры! Рисуем яркие скетчи с Лизой Красновой",
+        "author": "Елизавета Краснова",
+        "notes": "",
+        "createdAt": "2019-10-22 17:58:25",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 40
+        }
+    },
     "pJ6GwoqWNN": {
         "id": "pJ6GwoqWNN",
         "title": "Высоко над страхом",
@@ -345,18 +357,6 @@
             "id": "166766907-vkontakte",
             "nickname": "Egor",
             "booksCount": 7
-        }
-    },
-    "r4ZiNiEQC8": {
-        "id": "r4ZiNiEQC8",
-        "title": "«Башня Ласточки»",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2019-10-20 07:01:04",
-        "user": {
-            "id": "166766907-vkontakte",
-            "nickname": "Egor",
-            "booksCount": 6
         }
     }
 }
