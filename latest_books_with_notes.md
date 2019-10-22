@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Навчитися вчитися ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>62</sup>
 * Шевченків міф України ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>61</sup>
 * Грішниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>60</sup>
 * Воздушный замок ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
@@ -30,7 +31,6 @@
 * Справа Василя Стуса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup>
 * Я вещаю из гробницы (Флавия де Люс 5) ~ [Chiffi](users/105/105831994080785626680-google)<sup>139</sup>
 * Первому игроку приготовиться ~ [Apprentice ](users/528/52821952-vkontakte)<sup>109</sup>
-* Берлинский Кремль. Крылья холопа ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>214</sup>
 
 
-_21.10.2019 19:37:01_
+_22.10.2019 07:55:24_

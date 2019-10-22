@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>61</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>62</sup>
 ---
 
 ## 2019
+
+### Навчитися вчитися
+Барбара Оклі
+> [2019-10-22] 9/10 методи та техніка вивчення точних наук.
+
 
 ### Шевченків міф України
 Оксана Забужко

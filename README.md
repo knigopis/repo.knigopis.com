@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Навчитися вчитися ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>62</sup>
+    > 9/10 методи та техніка вивчення точних наук.
+
 * Шевченків міф України ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>61</sup>
     > 4/10 занадто філософсько
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 3/10 постійні страждання та перескакування у минуле.
 
 * Воздушный замок ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
-    > Вторая часть Ходячего замка. Волшебная история в восточном колорите.
 
 * Дом с характером ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Показания Рендольфа Картера ~ [En](users/333/333646551-vkontakte)<sup>77</sup>
 
-* Шоколад ~ [En](users/333/333646551-vkontakte)<sup>76</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>62</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>191</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>61</sup> 
 [Avery](users/567/56734832-yandex)<sup>14</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>4</sup> 
 [Максим Бондаренко](users/182/18277571948146284542-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/114/114588423502949541325-google)<sup>1</sup> 
 
 
-_22.10.2019 07:24:08_
+_22.10.2019 07:55:24_
