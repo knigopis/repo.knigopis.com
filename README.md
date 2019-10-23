@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>352</sup> 
 [Malio](users/111/111080157683628353417-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>29</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>40</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>194</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>167</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>125</sup> 
 
 
-_23.10.2019 04:11:14_
+_23.10.2019 06:24:57_

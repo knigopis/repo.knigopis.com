@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 352,
+        "updatedAt": "2019-10-23 06:24:57"
+    },
     "111080157683628353417-google": {
         "id": "111080157683628353417-google",
         "nickname": "Malio",
@@ -172,11 +178,5 @@
         "nickname": "Knigolub~",
         "booksCount": 167,
         "updatedAt": "2019-10-13 16:41:45"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 125,
-        "updatedAt": "2019-10-12 13:02:41"
     }
 }
