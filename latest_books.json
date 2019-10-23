@@ -1,4 +1,16 @@
 {
+    "zjyF2XpICR": {
+        "id": "zjyF2XpICR",
+        "title": "Ветер над островами 1",
+        "author": "Андрей Круз",
+        "notes": "",
+        "createdAt": "2019-10-23 06:30:49",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 356
+        }
+    },
     "nXnnVZVDy3": {
         "id": "nXnnVZVDy3",
         "title": "Пограничье. Книга 5. Рекрут",
@@ -345,18 +357,6 @@
             "id": "108689364763869996762-google",
             "nickname": "doingwonder",
             "booksCount": 1
-        }
-    },
-    "0DvXh_yvvB": {
-        "id": "0DvXh_yvvB",
-        "title": "Мистический манускрипт о медном мертвеце (Флавия де Люс без номера)",
-        "author": "",
-        "notes": "рассказ. хуже,  чем вся серия((",
-        "createdAt": "2019-10-20 18:14:25",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 145
         }
     }
 }
