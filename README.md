@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[irinailyasova1](users/373/37394485-vkontakte)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>14</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>6</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>357</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>233</sup> 
 [Василий](users/146/146662199-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
-[Madlax](users/158/158304782-vkontakte)<sup>194</sup> 
 
 
-_23.10.2019 15:46:04_
+_23.10.2019 15:48:30_
