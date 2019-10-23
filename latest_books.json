@@ -1,4 +1,16 @@
 {
+    "nXnnVZVDy3": {
+        "id": "nXnnVZVDy3",
+        "title": "Пограничье. Книга 5. Рекрут",
+        "author": "Владимир Васильев",
+        "notes": "",
+        "createdAt": "2019-10-23 06:29:58",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 355
+        }
+    },
     "u625g4AY0l": {
         "id": "u625g4AY0l",
         "title": "Серия Пограничье. Книга6. Коллекционер",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 145
-        }
-    },
-    "QCe52cwNF-": {
-        "id": "QCe52cwNF-",
-        "title": "Страна Рождества",
-        "author": "Джо Хилл",
-        "notes": "21.10.19",
-        "createdAt": "2019-10-20 17:52:51",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 84
         }
     }
 }
