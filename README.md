@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Русская канарейка. Желтухин ~ [dmiro](users/571/5714115-vkontakte)<sup>13</sup>
+    > Яркие живые образы, глубина душ главных героев. Дом Этингеров. Эська, Стеша, Ируся, Владка. Николай Каблуков заводчик канареек, внук его сестры - отец Айи, которая и встречает сына Владки в Таиланде.
+
 * Навчитися вчитися ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>62</sup>
     > 9/10 методи та техніка вивчення точних наук.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 4/10 занадто філософсько
 
 * Грішниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>60</sup>
-    > 3/10 постійні страждання та перескакування у минуле.
 
 * Воздушный замок ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Крауч-Энд ~ [En](users/333/333646551-vkontakte)<sup>78</sup>
 
-* Показания Рендольфа Картера ~ [En](users/333/333646551-vkontakte)<sup>77</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmiro](users/571/5714115-vkontakte)<sup>13</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>6</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>357</sup> 
 [Malio](users/111/111080157683628353417-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Василий](users/146/146662199-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>194</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>167</sup> 
 
 
-_23.10.2019 11:32:56_
+_23.10.2019 15:45:01_
