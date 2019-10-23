@@ -1,4 +1,16 @@
 {
+    "XAshmUEpFI": {
+        "id": "XAshmUEpFI",
+        "title": "Любка",
+        "author": "Дина Рубина",
+        "notes": "Рассказ о тяжелой судьбе, покалеченной войной простым языком.",
+        "createdAt": "2019-10-23 15:46:03",
+        "user": {
+            "id": "5714115-vkontakte",
+            "nickname": "dmiro",
+            "booksCount": 14
+        }
+    },
     "9-tFKaCzYV": {
         "id": "9-tFKaCzYV",
         "title": "Русская канарейка. Желтухин",
@@ -345,18 +357,6 @@
             "id": "108689364763869996762-google",
             "nickname": "doingwonder",
             "booksCount": 5
-        }
-    },
-    "SHcJAr0X_D": {
-        "id": "SHcJAr0X_D",
-        "title": "Гарри Поттер и Кубок Огня",
-        "author": "Дж.К.Роулинг",
-        "notes": "",
-        "createdAt": "2019-10-20 20:36:29",
-        "user": {
-            "id": "108689364763869996762-google",
-            "nickname": "doingwonder",
-            "booksCount": 4
         }
     }
 }

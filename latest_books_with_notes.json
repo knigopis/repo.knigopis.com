@@ -1,4 +1,16 @@
 {
+    "XAshmUEpFI": {
+        "id": "XAshmUEpFI",
+        "title": "Любка",
+        "author": "Дина Рубина",
+        "notes": "Рассказ о тяжелой судьбе, покалеченной войной простым языком.",
+        "createdAt": "2019-10-23 15:46:03",
+        "user": {
+            "id": "5714115-vkontakte",
+            "nickname": "dmiro",
+            "booksCount": 14
+        }
+    },
     "9-tFKaCzYV": {
         "id": "9-tFKaCzYV",
         "title": "Русская канарейка. Желтухин",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 59
-        }
-    },
-    "BXY2Sf2hlO": {
-        "id": "BXY2Sf2hlO",
-        "title": "Я вещаю из гробницы (Флавия де Люс 5)",
-        "author": "Брэдли Алан",
-        "notes": "люблю 1. английские детективы, 2. серии 3. интересные серии",
-        "createdAt": "2019-10-06 18:58:23",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 139
         }
     }
 }

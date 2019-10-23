@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Любка ~ [dmiro](users/571/5714115-vkontakte)<sup>14</sup>
+    > Рассказ о тяжелой судьбе, покалеченной войной простым языком.
+
 * Русская канарейка. Желтухин ~ [dmiro](users/571/5714115-vkontakte)<sup>13</sup>
     > Яркие живые образы, глубина душ главных героев. Дом Этингеров. Эська, Стеша, Ируся, Владка. Николай Каблуков заводчик канареек, внук его сестры - отец Айи, которая и встречает сына Владки в Таиланде.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 методи та техніка вивчення точних наук.
 
 * Шевченків міф України ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>61</sup>
-    > 4/10 занадто філософсько
 
 * Грішниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>60</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Маэстро теней ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
 
-* Крауч-Энд ~ [En](users/333/333646551-vkontakte)<sup>78</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dmiro](users/571/5714115-vkontakte)<sup>13</sup> 
+[dmiro](users/571/5714115-vkontakte)<sup>14</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>6</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>357</sup> 
 [Malio](users/111/111080157683628353417-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>194</sup> 
 
 
-_23.10.2019 15:45:01_
+_23.10.2019 15:46:04_
