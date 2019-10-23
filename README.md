@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>6</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>357</sup> 
 [Malio](users/111/111080157683628353417-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>29</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>40</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>5</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>62</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>191</sup> 
 [Avery](users/567/56734832-yandex)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>167</sup> 
 
 
-_23.10.2019 06:31:25_
+_23.10.2019 11:32:56_
