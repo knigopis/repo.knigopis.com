@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sienna](users/102/102428236801747542915-google)<sup>0</sup> 
+[Sienna](users/102/102428236801747542915-google)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>79</sup> 
 [irinailyasova1](users/373/37394485-vkontakte)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Василий](users/146/146662199-vkontakte)<sup>0</sup> 
 
 
-_24.10.2019 07:24:54_
+_24.10.2019 07:26:05_
