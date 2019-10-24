@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Посейдоника ~ [En](users/333/333646551-vkontakte)<sup>79</sup>
+    > 836 г. Человечество продолжает экспансию в космосе, прерванную на тысячу лет из-за ядерного конфликта исчезнувших в его огне сверхдержав. Восстановленные из руин города вновь подпирают километровыми шпилями небоскрёбов небо, а могучие линкоры охраняют покой 17 миллиардов жителей Земли. Казалось бы, что может пойти не так? Банальное нападение пиратов на потрёпанный транспортный корабль на окраине освоенного космоса запускает цепочку событий, которая ставит человечество перед неожиданным выбором.
+
 * Любка ~ [dmiro](users/571/5714115-vkontakte)<sup>14</sup>
     > Рассказ о тяжелой судьбе, покалеченной войной простым языком.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Яркие живые образы, глубина душ главных героев. Дом Этингеров. Эська, Стеша, Ируся, Владка. Николай Каблуков заводчик канареек, внук его сестры - отец Айи, которая и встречает сына Владки в Таиланде.
 
 * Навчитися вчитися ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>62</sup>
-    > 9/10 методи та техніка вивчення точних наук.
 
 * Шевченків міф України ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>61</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Страна Рождества ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
 
-* Маэстро теней ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>79</sup> 
 [irinailyasova1](users/373/37394485-vkontakte)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>14</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>6</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>36</sup> 
 [schoolnumberone2](users/290/290416271-vkontakte)<sup>1</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>80</sup> 
-[En](users/333/333646551-vkontakte)<sup>78</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>734</sup> 
 [ilopX](users/544/544577919687420-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup> 
 
 
-_23.10.2019 15:48:30_
+_24.10.2019 04:30:45_

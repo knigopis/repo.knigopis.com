@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Посейдоника ~ [En](users/333/333646551-vkontakte)<sup>79</sup>
 * Любка ~ [dmiro](users/571/5714115-vkontakte)<sup>14</sup>
 * Русская канарейка. Желтухин ~ [dmiro](users/571/5714115-vkontakte)<sup>13</sup>
 * Навчитися вчитися ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>62</sup>
@@ -30,7 +31,6 @@
 * Камера смертников ~ [Avery](users/567/56734832-yandex)<sup>12</sup>
 * Год без покупок ~ [youno](users/302/302928912-vkontakte)<sup>35</sup>
 * У Германтов ~ [anvonamore](users/595/5957175-vkontakte)<sup>127</sup>
-* Справа Василя Стуса ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>59</sup>
 
 
-_23.10.2019 15:46:04_
+_24.10.2019 04:30:45_
