@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>146</sup> 
 [oldgazel2](users/897/897669997-yandex)<sup>0</sup> 
 [Sienna](users/102/102428236801747542915-google)<sup>2</sup> 
 [En](users/333/333646551-vkontakte)<sup>79</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>14</sup> 
 [Максим Бондаренко](users/182/18277571948146284542-mailru)<sup>0</sup> 
 [doingwonder](users/108/108689364763869996762-google)<sup>13</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>145</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>4</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>73</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>233</sup> 
 
 
-_24.10.2019 14:28:35_
+_24.10.2019 17:05:45_
