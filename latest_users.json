@@ -1,4 +1,10 @@
 {
+    "897669997-yandex": {
+        "id": "897669997-yandex",
+        "nickname": "oldgazel2",
+        "booksCount": 0,
+        "updatedAt": "2019-10-24 14:28:32"
+    },
     "102428236801747542915-google": {
         "id": "102428236801747542915-google",
         "nickname": "Sienna",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 233,
         "updatedAt": "2019-10-16 17:42:10"
-    },
-    "146662199-vkontakte": {
-        "id": "146662199-vkontakte",
-        "nickname": "Василий",
-        "booksCount": 0,
-        "updatedAt": "2019-10-16 13:19:43"
     }
 }
