@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>68</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>69</sup>
 ---
 
 ## 2019
+
+### Спаси меня,вальс
+Зельда Фицджеральд
+> [2019-09-29] 
+
 
 ### Изумительный Морис
 Терри Пратчетт

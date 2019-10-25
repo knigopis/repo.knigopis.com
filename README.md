@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sab_olya](users/139/139338401-vkontakte)<sup>68</sup> 
+[sab_olya](users/139/139338401-vkontakte)<sup>69</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>5</sup> 
 [](users/117/117968006138114353304-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>146</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>149</sup> 
 
 
-_25.10.2019 17:13:39_
+_25.10.2019 17:14:12_

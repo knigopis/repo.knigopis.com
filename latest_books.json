@@ -1,4 +1,16 @@
 {
+    "L8ADHR_KS3": {
+        "id": "L8ADHR_KS3",
+        "title": "Спаси меня,вальс",
+        "author": "Зельда Фицджеральд",
+        "notes": "",
+        "createdAt": "2019-10-25 17:14:12",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 69
+        }
+    },
     "TSxdhLTNy7": {
         "id": "TSxdhLTNy7",
         "title": "Изумительный Морис",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 190
-        }
-    },
-    "ZviUHdBPzO": {
-        "id": "ZviUHdBPzO",
-        "title": "Любимые женщины клана Крестовских",
-        "author": "Марина Болдова",
-        "notes": "",
-        "createdAt": "2019-10-21 08:52:35",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 7
         }
     }
 }
