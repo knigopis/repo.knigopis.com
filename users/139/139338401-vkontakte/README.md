@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>69</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>70</sup>
 ---
 
 ## 2019
+
+### Лолита
+Владимир Набоков
+> [2019-10-10] 
+
 
 ### Спаси меня,вальс
 Зельда Фицджеральд
