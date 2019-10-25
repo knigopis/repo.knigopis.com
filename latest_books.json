@@ -1,4 +1,16 @@
 {
+    "sf299Z3_-6": {
+        "id": "sf299Z3_-6",
+        "title": "На западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2019-10-25 17:13:05",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 67
+        }
+    },
     "TaNSeLLAOG": {
         "id": "TaNSeLLAOG",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "108689364763869996762-google",
             "nickname": "doingwonder",
             "booksCount": 13
-        }
-    },
-    "qs4jz02gCE": {
-        "id": "qs4jz02gCE",
-        "title": "Верховная ведьма",
-        "author": "Ольга Громыко",
-        "notes": "",
-        "createdAt": "2019-10-20 21:09:00",
-        "user": {
-            "id": "108689364763869996762-google",
-            "nickname": "doingwonder",
-            "booksCount": 12
         }
     }
 }

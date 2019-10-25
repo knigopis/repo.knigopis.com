@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>66</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>67</sup>
 ---
 
 ## 2019
+
+### На западном фронте без перемен
+Эрих Мария Ремарк
+> [2019-08-18] 
+
 
 ### Мастер и Маргарита
 Михаил Булгаков
