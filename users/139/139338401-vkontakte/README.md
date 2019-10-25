@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>70</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>71</sup>
 ---
 
 ## 2019
+
+### Утреннее сияние
+Сара Джио
+> [2019-10-22] 
+
 
 ### Лолита
 Владимир Набоков

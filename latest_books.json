@@ -1,4 +1,16 @@
 {
+    "pensJta4hY": {
+        "id": "pensJta4hY",
+        "title": "Утреннее сияние",
+        "author": "Сара Джио",
+        "notes": "",
+        "createdAt": "2019-10-25 17:15:15",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 71
+        }
+    },
     "nYPizBjpNy": {
         "id": "nYPizBjpNy",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 14
-        }
-    },
-    "H6yLh1Xvjs": {
-        "id": "H6yLh1Xvjs",
-        "title": "Исповедь Цирцеи",
-        "author": "Дарья Кожевникова",
-        "notes": "",
-        "createdAt": "2019-10-21 16:50:28",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 4
         }
     }
 }
