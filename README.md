@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Обреченные ~ [](users/270/270444099499-odnoklassniki)<sup>5</sup>
+    > О жизни ссыльных в советское время
+
 * Посейдоника ~ [En](users/333/333646551-vkontakte)<sup>79</sup>
     > 836 г. Человечество продолжает экспансию в космосе, прерванную на тысячу лет из-за ядерного конфликта исчезнувших в его огне сверхдержав. Восстановленные из руин города вновь подпирают километровыми шпилями небоскрёбов небо, а могучие линкоры охраняют покой 17 миллиардов жителей Земли. Казалось бы, что может пойти не так? Банальное нападение пиратов на потрёпанный транспортный корабль на окраине освоенного космоса запускает цепочку событий, которая ставит человечество перед неожиданным выбором.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Рассказ о тяжелой судьбе, покалеченной войной простым языком.
 
 * Русская канарейка. Желтухин ~ [dmiro](users/571/5714115-vkontakte)<sup>13</sup>
-    > Яркие живые образы, глубина душ главных героев. Дом Этингеров. Эська, Стеша, Ируся, Владка. Николай Каблуков заводчик канареек, внук его сестры - отец Айи, которая и встречает сына Владки в Таиланде.
 
 * Навчитися вчитися ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>62</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мистический манускрипт о медном мертвеце (Флавия де Люс без номера) ~ [Chiffi](users/105/105831994080785626680-google)<sup>145</sup>
 
-* Страна Рождества ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>5</sup> 
 [](users/117/117968006138114353304-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>146</sup> 
 [oldgazel2](users/897/897669997-yandex)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>79</sup> 
 [irinailyasova1](users/373/37394485-vkontakte)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>14</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>6</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>357</sup> 
 [Malio](users/111/111080157683628353417-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>29</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Юлиания](users/693/69389439-vkontakte)<sup>19</sup> 
 
 
-_25.10.2019 01:17:36_
+_25.10.2019 15:49:13_

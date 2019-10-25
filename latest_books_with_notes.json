@@ -1,4 +1,16 @@
 {
+    "IY3Mq3Gxmx": {
+        "id": "IY3Mq3Gxmx",
+        "title": "Обреченные",
+        "author": "Эльмира Нетесова",
+        "notes": "О жизни ссыльных в советское время",
+        "createdAt": "2019-10-25 15:49:13",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 5
+        }
+    },
     "jF0nB_AYqh": {
         "id": "jF0nB_AYqh",
         "title": "Посейдоника",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 35
-        }
-    },
-    "1ZIGvhZdOL": {
-        "id": "1ZIGvhZdOL",
-        "title": "У Германтов",
-        "author": "Марсель Пруст",
-        "notes": "4/10",
-        "createdAt": "2019-10-07 15:27:01",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 127
         }
     }
 }
