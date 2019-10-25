@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>67</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>68</sup>
 ---
 
 ## 2019
+
+### Изумительный Морис
+Терри Пратчетт
+> [2019-09-20] 
+
 
 ### На западном фронте без перемен
 Эрих Мария Ремарк
