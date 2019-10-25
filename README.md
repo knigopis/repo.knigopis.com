@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>66</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>5</sup> 
 [](users/117/117968006138114353304-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>146</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ilopX](users/544/544577919687420-facebook)<sup>0</sup> 
 [limonov@nipt.ru](users/113/1130000039168707-yandex)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>149</sup> 
-[Юлиания](users/693/69389439-vkontakte)<sup>19</sup> 
 
 
-_25.10.2019 15:49:13_
+_25.10.2019 17:12:24_

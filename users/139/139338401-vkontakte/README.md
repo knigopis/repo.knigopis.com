@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>65</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>66</sup>
 ---
 
 ## 2019
+
+### Мастер и Маргарита
+Михаил Булгаков
+> [2019-07-27] 
+
 
 ### Жизнь взаймы
 Эрих Мария Ремарк

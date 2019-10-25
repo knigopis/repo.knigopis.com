@@ -1,4 +1,16 @@
 {
+    "TaNSeLLAOG": {
+        "id": "TaNSeLLAOG",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2019-10-25 17:12:24",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 66
+        }
+    },
     "IY3Mq3Gxmx": {
         "id": "IY3Mq3Gxmx",
         "title": "Обреченные",
@@ -345,18 +357,6 @@
             "id": "108689364763869996762-google",
             "nickname": "doingwonder",
             "booksCount": 12
-        }
-    },
-    "2ZP-1vMt0S": {
-        "id": "2ZP-1vMt0S",
-        "title": "Ведьма-хранительница",
-        "author": "Ольга Громыко",
-        "notes": "",
-        "createdAt": "2019-10-20 21:08:38",
-        "user": {
-            "id": "108689364763869996762-google",
-            "nickname": "doingwonder",
-            "booksCount": 11
         }
     }
 }
