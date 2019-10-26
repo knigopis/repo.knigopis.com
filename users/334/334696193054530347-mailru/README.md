@@ -1,4 +1,4 @@
-# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>46</sup>
+# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>47</sup>
 ---
 
 ## 2019
@@ -6,6 +6,11 @@
 ### Бывшие люди
 Дуглас Смит
 > [2019-10-10] 
+
+
+### Важные годы 20-30
+Мэг Джей
+> [2019-10] 
 
 
 ### Невыносимая лёгкость бытия

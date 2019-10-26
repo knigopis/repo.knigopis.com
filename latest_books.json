@@ -1,4 +1,16 @@
 {
+    "ymJAmnHm5M": {
+        "id": "ymJAmnHm5M",
+        "title": "Важные годы 20-30",
+        "author": "Мэг Джей",
+        "notes": "",
+        "createdAt": "2019-10-26 21:38:34",
+        "user": {
+            "id": "334696193054530347-mailru",
+            "nickname": "Даша",
+            "booksCount": 47
+        }
+    },
     "poSbEvaXwS": {
         "id": "poSbEvaXwS",
         "title": "Хазин Михаил Леонидович",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 40
-        }
-    },
-    "pJ6GwoqWNN": {
-        "id": "pJ6GwoqWNN",
-        "title": "Высоко над страхом",
-        "author": "Людмила Мартова",
-        "notes": "",
-        "createdAt": "2019-10-22 17:47:20",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 5
         }
     }
 }
