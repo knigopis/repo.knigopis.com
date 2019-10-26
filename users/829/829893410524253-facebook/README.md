@@ -1,4 +1,4 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>62</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>63</sup>
 ---
 
 ## 2019
@@ -6,6 +6,11 @@
 ### Навчитися вчитися
 Барбара Оклі
 > [2019-10-22] 9/10 методи та техніка вивчення точних наук.
+
+
+### Гроздья гнева
+Джон Стейнбек
+> [2019-10-20] 6/10 сплошная депрессуха Великой Депрессии
 
 
 ### Шевченків міф України

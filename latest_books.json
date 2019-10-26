@@ -1,4 +1,16 @@
 {
+    "6_eUEl4DVm": {
+        "id": "6_eUEl4DVm",
+        "title": "Гроздья гнева",
+        "author": "Джон Стейнбек",
+        "notes": "6/10 сплошная депрессуха Великой Депрессии",
+        "createdAt": "2019-10-26 12:32:18",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 63
+        }
+    },
     "qiBjoDY9Vx": {
         "id": "qiBjoDY9Vx",
         "title": "Учебный роман",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 62
-        }
-    },
-    "pQMaTGOZ2q": {
-        "id": "pQMaTGOZ2q",
-        "title": "Девять писем Тамаре Уржумовой",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2019-10-22 07:24:07",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 191
         }
     }
 }

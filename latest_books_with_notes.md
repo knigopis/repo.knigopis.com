@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гроздья гнева ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>63</sup>
 * Обреченные ~ [](users/270/270444099499-odnoklassniki)<sup>5</sup>
 * Посейдоника ~ [En](users/333/333646551-vkontakte)<sup>79</sup>
 * Любка ~ [dmiro](users/571/5714115-vkontakte)<sup>14</sup>
@@ -30,7 +31,6 @@
 * Приют. Похитители костей ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>83</sup>
 * Дневной Дозор ~ [EsterHani](users/305/30558181-vkontakte)<sup>180</sup>
 * Камера смертников ~ [Avery](users/567/56734832-yandex)<sup>12</sup>
-* Год без покупок ~ [youno](users/302/302928912-vkontakte)<sup>35</sup>
 
 
-_25.10.2019 15:49:13_
+_26.10.2019 12:32:18_

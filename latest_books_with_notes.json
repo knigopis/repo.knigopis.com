@@ -1,4 +1,16 @@
 {
+    "6_eUEl4DVm": {
+        "id": "6_eUEl4DVm",
+        "title": "Гроздья гнева",
+        "author": "Джон Стейнбек",
+        "notes": "6/10 сплошная депрессуха Великой Депрессии",
+        "createdAt": "2019-10-26 12:32:18",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 63
+        }
+    },
     "IY3Mq3Gxmx": {
         "id": "IY3Mq3Gxmx",
         "title": "Обреченные",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 12
-        }
-    },
-    "sELuA6ZC-H": {
-        "id": "sELuA6ZC-H",
-        "title": "Год без покупок",
-        "author": "Кейт Фландерс",
-        "notes": "Заинтересовало название. Просто история человека.",
-        "createdAt": "2019-10-07 18:01:18",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 35
         }
     }
 }

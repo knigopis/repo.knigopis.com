@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гроздья гнева ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>63</sup>
+    > 6/10 сплошная депрессуха Великой Депрессии
+
 * Обреченные ~ [](users/270/270444099499-odnoklassniki)<sup>5</sup>
     > О жизни ссыльных в советское время
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 836 г. Человечество продолжает экспансию в космосе, прерванную на тысячу лет из-за ядерного конфликта исчезнувших в его огне сверхдержав. Восстановленные из руин города вновь подпирают километровыми шпилями небоскрёбов небо, а могучие линкоры охраняют покой 17 миллиардов жителей Земли. Казалось бы, что может пойти не так? Банальное нападение пиратов на потрёпанный транспортный корабль на окраине освоенного космоса запускает цепочку событий, которая ставит человечество перед неожиданным выбором.
 
 * Любка ~ [dmiro](users/571/5714115-vkontakte)<sup>14</sup>
-    > Рассказ о тяжелой судьбе, покалеченной войной простым языком.
 
 * Русская канарейка. Желтухин ~ [dmiro](users/571/5714115-vkontakte)<sup>13</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дом с характером ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
 
-* Мистический манускрипт о медном мертвеце (Флавия де Люс без номера) ~ [Chiffi](users/105/105831994080785626680-google)<sup>145</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>63</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>6</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>147</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Malio](users/111/111080157683628353417-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>29</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>40</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>62</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>191</sup> 
 [Avery](users/567/56734832-yandex)<sup>14</sup> 
 [Максим Бондаренко](users/182/18277571948146284542-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>149</sup> 
 
 
-_26.10.2019 11:59:48_
+_26.10.2019 12:32:18_
