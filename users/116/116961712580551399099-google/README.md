@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>73</sup>
+# List of books read by violet_velva<sup>74</sup>
 ---
 
 ## 2019
+
+### Учебный роман
+Кристин Уокер
+> [2019-10-20] 
+
 
 ### Маэстро теней
 Донато Карризи
