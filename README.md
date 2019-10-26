@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>6</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>147</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>72</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>5</sup> 
 [](users/117/117968006138114353304-google)<sup>0</sup> 
 [oldgazel2](users/897/897669997-yandex)<sup>0</sup> 
 [Sienna](users/102/102428236801747542915-google)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>149</sup> 
 
 
-_25.10.2019 18:33:40_
+_26.10.2019 11:27:58_
