@@ -1,4 +1,10 @@
 {
+    "89967062-vkontakte": {
+        "id": "89967062-vkontakte",
+        "nickname": "milananikiforova",
+        "booksCount": 0,
+        "updatedAt": "2019-10-26 20:26:17"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "ilopX",
         "booksCount": 0,
         "updatedAt": "2019-10-17 20:00:47"
-    },
-    "1130000039168707-yandex": {
-        "id": "1130000039168707-yandex",
-        "nickname": "limonov@nipt.ru",
-        "booksCount": 0,
-        "updatedAt": "2019-10-17 15:46:12"
     }
 }
