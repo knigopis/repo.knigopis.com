@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[milananikiforova](users/899/89967062-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>63</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>734</sup> 
 [ilopX](users/544/544577919687420-facebook)<sup>0</sup> 
-[limonov@nipt.ru](users/113/1130000039168707-yandex)<sup>0</sup> 
 
 
-_26.10.2019 14:00:06_
+_26.10.2019 20:26:21_
