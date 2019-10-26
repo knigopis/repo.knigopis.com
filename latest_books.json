@@ -1,4 +1,16 @@
 {
+    "poSbEvaXwS": {
+        "id": "poSbEvaXwS",
+        "title": "Хазин Михаил Леонидович",
+        "author": "Воспоминания о будущем",
+        "notes": "",
+        "createdAt": "2019-10-26 14:00:06",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 126
+        }
+    },
     "6_eUEl4DVm": {
         "id": "6_eUEl4DVm",
         "title": "Гроздья гнева",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 5
-        }
-    },
-    "wuvBcAi-yH": {
-        "id": "wuvBcAi-yH",
-        "title": "Навчитися вчитися",
-        "author": "Барбара Оклі",
-        "notes": "9/10 методи та техніка вивчення точних наук.",
-        "createdAt": "2019-10-22 07:55:23",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 62
         }
     }
 }

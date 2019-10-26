@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>63</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>6</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>734</sup> 
 [ilopX](users/544/544577919687420-facebook)<sup>0</sup> 
 [limonov@nipt.ru](users/113/1130000039168707-yandex)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>149</sup> 
 
 
-_26.10.2019 12:32:18_
+_26.10.2019 14:00:06_
