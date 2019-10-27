@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>7</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>8</sup>
 ---
 
 ## 2019
+
+### Одержимость.книга вторая
+Анастасия Шерр
+> [2019-10-27] 
+
 
 ### Одержимость.книга первая
 Анастасия Шерр

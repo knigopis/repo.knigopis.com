@@ -1,4 +1,16 @@
 {
+    "epDVMjEdIp": {
+        "id": "epDVMjEdIp",
+        "title": "Одержимость.книга вторая",
+        "author": "Анастасия Шерр",
+        "notes": "",
+        "createdAt": "2019-10-27 09:31:52",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 8
+        }
+    },
     "HQviLZmZYO": {
         "id": "HQviLZmZYO",
         "title": "Одержимость.книга первая",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 352
-        }
-    },
-    "tvN_qvoZGZ": {
-        "id": "tvN_qvoZGZ",
-        "title": "Солнечная лотерея",
-        "author": "Филип Дик",
-        "notes": "",
-        "createdAt": "2019-10-22 19:24:30",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 29
         }
     }
 }
