@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Таньчик](users/209/2096581563762610-facebook)<sup>48</sup> 
+[Таньчик](users/209/2096581563762610-facebook)<sup>47</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>8</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>47</sup> 
 [milananikiforova](users/899/89967062-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>734</sup> 
 
 
-_27.10.2019 20:30:42_
+_27.10.2019 20:31:10_
