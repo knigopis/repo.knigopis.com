@@ -1,12 +1,7 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>48</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>47</sup>
 ---
 
 ## 2019
-
-### Школьники "ленивой мамы"
-Анна Быкова
-> [2019-10-27] 
-
 
 ### Школьники "ленивой мамы"
 Анна Быкова
