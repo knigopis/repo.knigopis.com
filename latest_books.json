@@ -1,4 +1,16 @@
 {
+    "94IkFk5ioj": {
+        "id": "94IkFk5ioj",
+        "title": "Одержимость.книга первая",
+        "author": "Анастасия Шерр",
+        "notes": "",
+        "createdAt": "2019-10-27 03:35:51",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 7
+        }
+    },
     "ymJAmnHm5M": {
         "id": "ymJAmnHm5M",
         "title": "Важные годы 20-30",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 29
-        }
-    },
-    "IX2HpBqvK3": {
-        "id": "IX2HpBqvK3",
-        "title": "Маркеры! Рисуем яркие скетчи с Лизой Красновой",
-        "author": "Елизавета Краснова",
-        "notes": "",
-        "createdAt": "2019-10-22 17:58:25",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 40
         }
     }
 }

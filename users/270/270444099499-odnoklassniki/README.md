@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>6</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>7</sup>
 ---
 
 ## 2019
+
+### Одержимость.книга первая
+Анастасия Шерр
+> [2019-10-27] 
+
 
 ### Мертвые тоже скачут
 Маргарита Малинина
