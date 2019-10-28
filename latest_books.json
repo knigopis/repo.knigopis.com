@@ -1,4 +1,16 @@
 {
+    "pRuPaLJWCC": {
+        "id": "pRuPaLJWCC",
+        "title": "Игра престолов",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2019-10-28 19:38:38",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 131
+        }
+    },
     "69BJhQ4wcG": {
         "id": "69BJhQ4wcG",
         "title": "Historia Polski",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 357
-        }
-    },
-    "zjyF2XpICR": {
-        "id": "zjyF2XpICR",
-        "title": "Ветер над островами 1",
-        "author": "Андрей Круз",
-        "notes": "",
-        "createdAt": "2019-10-23 06:30:49",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 356
         }
     }
 }

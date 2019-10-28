@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>130</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>131</sup>
 ---
 
 ## 2019
+
+### Игра престолов
+Джордж Мартин
+> [2019-10-28] 
+
 
 ### Вирусы мозга
 Ричард Докинз

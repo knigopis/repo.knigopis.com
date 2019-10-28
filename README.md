@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>131</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>41</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>36</sup> 
 [schoolnumberone2](users/290/290416271-vkontakte)<sup>1</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>80</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>734</sup> 
 
 
-_28.10.2019 17:54:35_
+_28.10.2019 19:38:38_
