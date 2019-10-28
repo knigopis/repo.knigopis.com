@@ -1,4 +1,16 @@
 {
+    "FKQzfsjbn9": {
+        "id": "FKQzfsjbn9",
+        "title": "Група Скрябін та друзі по сцені",
+        "author": "Ольга Кузьменко",
+        "notes": "9/10 спогади та фото.",
+        "createdAt": "2019-10-28 17:53:43",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 64
+        }
+    },
     "Qu5NGF2FxN": {
         "id": "Qu5NGF2FxN",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 83
-        }
-    },
-    "_jz9DIgi1N": {
-        "id": "_jz9DIgi1N",
-        "title": "Дневной Дозор",
-        "author": "Сергей Лукьяненко",
-        "notes": "Книга 1",
-        "createdAt": "2019-10-10 04:15:03",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 180
         }
     }
 }

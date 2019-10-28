@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>63</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>64</sup>
 ---
 
 ## 2019
+
+### Група Скрябін та друзі по сцені
+Ольга Кузьменко
+> [2019-10-28] 9/10 спогади та фото.
+
 
 ### Навчитися вчитися
 Барбара Оклі

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Група Скрябін та друзі по сцені ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>64</sup>
+    > 9/10 спогади та фото.
+
 * Дракула ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup>
     > 28.10.19
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 сплошная депрессуха Великой Депрессии
 
 * Обреченные ~ [](users/270/270444099499-odnoklassniki)<sup>5</sup>
-    > О жизни ссыльных в советское время
 
 * Посейдоника ~ [En](users/333/333646551-vkontakte)<sup>79</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Грішниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>60</sup>
 
-* Воздушный замок ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>64</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>41</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>8</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>47</sup> 
 [milananikiforova](users/899/89967062-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>63</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>147</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>72</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>734</sup> 
 
 
-_28.10.2019 13:16:44_
+_28.10.2019 17:53:43_
