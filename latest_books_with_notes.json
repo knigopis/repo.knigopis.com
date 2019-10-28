@@ -1,4 +1,16 @@
 {
+    "Qu5NGF2FxN": {
+        "id": "Qu5NGF2FxN",
+        "title": "Дракула",
+        "author": "Брэм Стокер",
+        "notes": "28.10.19",
+        "createdAt": "2019-10-28 13:16:43",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 85
+        }
+    },
     "6_eUEl4DVm": {
         "id": "6_eUEl4DVm",
         "title": "Гроздья гнева",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 180
-        }
-    },
-    "OiozM7kD3U": {
-        "id": "OiozM7kD3U",
-        "title": "Камера смертников",
-        "author": "Райт Джордж",
-        "notes": "Земляне привыкли считать Землю центром вселенной. Но что если это совсем не так и в содружестве инопланетных цивилизаций она играет совсем другую роль?\n\nКороткий рассказ.",
-        "createdAt": "2019-10-08 10:57:56",
-        "user": {
-            "id": "56734832-yandex",
-            "nickname": "Avery",
-            "booksCount": 12
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дракула ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup>
+    > 28.10.19
+
 * Гроздья гнева ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>63</sup>
     > 6/10 сплошная депрессуха Великой Депрессии
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > О жизни ссыльных в советское время
 
 * Посейдоника ~ [En](users/333/333646551-vkontakte)<sup>79</sup>
-    > 836 г. Человечество продолжает экспансию в космосе, прерванную на тысячу лет из-за ядерного конфликта исчезнувших в его огне сверхдержав. Восстановленные из руин города вновь подпирают километровыми шпилями небоскрёбов небо, а могучие линкоры охраняют покой 17 миллиардов жителей Земли. Казалось бы, что может пойти не так? Банальное нападение пиратов на потрёпанный транспортный корабль на окраине освоенного космоса запускает цепочку событий, которая ставит человечество перед неожиданным выбором.
 
 * Любка ~ [dmiro](users/571/5714115-vkontakte)<sup>14</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Воздушный замок ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
 
-* Дом с характером ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>41</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>8</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>47</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>14</sup> 
 [Максим Бондаренко](users/182/18277571948146284542-mailru)<sup>0</sup> 
 [doingwonder](users/108/108689364763869996762-google)<sup>13</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>4</sup> 
 [Egor](users/166/166766907-vkontakte)<sup>7</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>36</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>734</sup> 
 
 
-_27.10.2019 20:37:28_
+_28.10.2019 13:16:44_
