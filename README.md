@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Historia Polski ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup>
+    > 7/10 szybki kurs.
+
 * Група Скрябін та друзі по сцені ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>64</sup>
     > 9/10 спогади та фото.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 28.10.19
 
 * Гроздья гнева ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>63</sup>
-    > 6/10 сплошная депрессуха Великой Депрессии
 
 * Обреченные ~ [](users/270/270444099499-odnoklassniki)<sup>5</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Шевченків міф України ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>61</sup>
 
-* Грішниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>60</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>64</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>41</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>8</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>734</sup> 
 
 
-_28.10.2019 17:53:43_
+_28.10.2019 17:54:35_
