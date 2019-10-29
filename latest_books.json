@@ -1,4 +1,16 @@
 {
+    "acOTXuFvLh": {
+        "id": "acOTXuFvLh",
+        "title": "Играть, чтобы жить. Книга 7. Исход",
+        "author": "Дмитрий Рус",
+        "notes": "",
+        "createdAt": "2019-10-29 18:20:19",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 83
+        }
+    },
     "A5hwgtFl08": {
         "id": "A5hwgtFl08",
         "title": "Играть, чтобы жить. Книга 6. Война",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 146
-        }
-    },
-    "oIq1TLNIe-": {
-        "id": "oIq1TLNIe-",
-        "title": "На 50 оттенков темнее",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-10-24 07:26:33",
-        "user": {
-            "id": "102428236801747542915-google",
-            "nickname": "Sienna",
-            "booksCount": 2
         }
     }
 }
