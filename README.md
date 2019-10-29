@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>9</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>131</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>41</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>8</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>47</sup> 
 [milananikiforova](users/899/89967062-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>734</sup> 
 
 
-_28.10.2019 19:38:38_
+_29.10.2019 00:35:18_
