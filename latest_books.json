@@ -1,4 +1,16 @@
 {
+    "gojuscuLrw": {
+        "id": "gojuscuLrw",
+        "title": "Как быть стоиком: Античная философия и современная жизнь",
+        "author": "Массимо Пильюччи",
+        "notes": "",
+        "createdAt": "2019-10-29 06:00:08",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 132
+        }
+    },
     "CcbXnot-8p": {
         "id": "CcbXnot-8p",
         "title": "Кикимора болотная",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 13
-        }
-    },
-    "c-dSUAyZZy": {
-        "id": "c-dSUAyZZy",
-        "title": "Медовый рай",
-        "author": "Светлана Демидова",
-        "notes": "",
-        "createdAt": "2019-10-23 11:32:56",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 6
         }
     }
 }

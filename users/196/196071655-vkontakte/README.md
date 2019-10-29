@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>131</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>132</sup>
 ---
 
 ## 2019
+
+### Как быть стоиком: Античная философия и современная жизнь
+Массимо Пильюччи
+> [2019-10-29] 
+
 
 ### Игра престолов
 Джордж Мартин
