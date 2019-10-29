@@ -1,4 +1,16 @@
 {
+    "sV5nBCeFKI": {
+        "id": "sV5nBCeFKI",
+        "title": "Побег из Шоушенка",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2019-10-29 18:23:28",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 132
+        }
+    },
     "oqjXJ6Q3Vl": {
         "id": "oqjXJ6Q3Vl",
         "title": "Новая вершина или \"магоядерный ядрен-батон\"",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 67
-        }
-    },
-    "TaNSeLLAOG": {
-        "id": "TaNSeLLAOG",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2019-10-25 17:12:24",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 66
         }
     }
 }

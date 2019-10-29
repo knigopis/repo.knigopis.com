@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 132,
+        "updatedAt": "2019-10-29 18:23:28"
+    },
     "12267158-vkontakte": {
         "id": "12267158-vkontakte",
         "nickname": "Quaff",
@@ -16,12 +22,6 @@
         "nickname": "Knigolub~",
         "booksCount": 168,
         "updatedAt": "2019-10-29 11:57:47"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 132,
-        "updatedAt": "2019-10-29 06:00:08"
     },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",

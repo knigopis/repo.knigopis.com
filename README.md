@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>132</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>87</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>192</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>168</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>132</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>9</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [schoolnumberone2](users/290/290416271-vkontakte)<sup>1</sup> 
 
 
-_29.10.2019 18:22:44_
+_29.10.2019 18:23:28_
