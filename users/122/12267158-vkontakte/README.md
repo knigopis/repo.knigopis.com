@@ -1,7 +1,12 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>81</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>82</sup>
 ---
 
 ## 2019
+
+### Играть, чтобы жить. Книга 6. Война
+Дмитрий Рус
+> [2019-10-18] 
+
 
 ### Играть чтобы жить, чувство долга
 Дмитрий Рус
