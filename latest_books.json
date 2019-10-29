@@ -1,4 +1,16 @@
 {
+    "JScFDweWwX": {
+        "id": "JScFDweWwX",
+        "title": "Беглец",
+        "author": "Бубела Олег",
+        "notes": "",
+        "createdAt": "2019-10-29 18:23:57",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 88
+        }
+    },
     "sV5nBCeFKI": {
         "id": "sV5nBCeFKI",
         "title": "Побег из Шоушенка",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 68
-        }
-    },
-    "sf299Z3_-6": {
-        "id": "sf299Z3_-6",
-        "title": "На западном фронте без перемен",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2019-10-25 17:13:05",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 67
         }
     }
 }

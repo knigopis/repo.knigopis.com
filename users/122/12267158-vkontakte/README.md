@@ -1,7 +1,12 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>87</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>88</sup>
 ---
 
 ## 2019
+
+### Беглец
+Бубела Олег
+> [2019-10-29] 
+
 
 ### Звезда в руке и шило в ...
 Сергей Вишневский
