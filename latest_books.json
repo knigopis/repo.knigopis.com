@@ -1,4 +1,16 @@
 {
+    "82ptgOPIrT": {
+        "id": "82ptgOPIrT",
+        "title": "Рейвенор",
+        "author": "Абнет Дэн",
+        "notes": "",
+        "createdAt": "2019-10-29 18:21:01",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 84
+        }
+    },
     "acOTXuFvLh": {
         "id": "acOTXuFvLh",
         "title": "Играть, чтобы жить. Книга 7. Исход",
@@ -345,18 +357,6 @@
             "id": "117968006138114353304-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "EGkc2xRDam": {
-        "id": "EGkc2xRDam",
-        "title": "Красавиц мертвых локоны златые  (Флавия де Люс 10)",
-        "author": "Брэдли Алан",
-        "notes": "",
-        "createdAt": "2019-10-24 17:05:45",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 146
         }
     }
 }
