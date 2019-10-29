@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>84</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>85</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>192</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>168</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>132</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [schoolnumberone2](users/290/290416271-vkontakte)<sup>1</sup> 
 
 
-_29.10.2019 18:21:02_
+_29.10.2019 18:21:46_
