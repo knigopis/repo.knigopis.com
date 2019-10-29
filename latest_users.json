@@ -1,4 +1,10 @@
 {
+    "106933869236254657812-google": {
+        "id": "106933869236254657812-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-10-29 19:08:29"
+    },
     "12267158-vkontakte": {
         "id": "12267158-vkontakte",
         "nickname": "Quaff",
@@ -172,11 +178,5 @@
         "nickname": "Антенка",
         "booksCount": 36,
         "updatedAt": "2019-10-20 05:52:44"
-    },
-    "290416271-vkontakte": {
-        "id": "290416271-vkontakte",
-        "nickname": "schoolnumberone2",
-        "booksCount": 1,
-        "updatedAt": "2019-10-19 19:43:07"
     }
 }
