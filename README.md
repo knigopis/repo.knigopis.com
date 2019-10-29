@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>192</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>168</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>132</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>9</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>357</sup> 
 [Malio](users/111/111080157683628353417-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>29</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>191</sup> 
 [Avery](users/567/56734832-yandex)<sup>14</sup> 
 [Максим Бондаренко](users/182/18277571948146284542-mailru)<sup>0</sup> 
 [doingwonder](users/108/108689364763869996762-google)<sup>13</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>80</sup> 
 
 
-_29.10.2019 11:57:48_
+_29.10.2019 12:13:27_
