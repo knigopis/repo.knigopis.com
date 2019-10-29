@@ -1,4 +1,10 @@
 {
+    "12267158-vkontakte": {
+        "id": "12267158-vkontakte",
+        "nickname": "Quaff",
+        "booksCount": 81,
+        "updatedAt": "2019-10-29 18:19:42"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "schoolnumberone2",
         "booksCount": 1,
         "updatedAt": "2019-10-19 19:43:07"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 80,
-        "updatedAt": "2019-10-19 09:15:24"
     }
 }
