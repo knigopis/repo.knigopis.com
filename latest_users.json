@@ -1,4 +1,10 @@
 {
+    "175864892-vkontakte": {
+        "id": "175864892-vkontakte",
+        "nickname": "the_pouring_rain",
+        "booksCount": 0,
+        "updatedAt": "2019-10-30 12:45:26"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "Woc4onok213",
         "booksCount": 4,
         "updatedAt": "2019-10-20 16:02:42"
-    },
-    "166766907-vkontakte": {
-        "id": "166766907-vkontakte",
-        "nickname": "Egor",
-        "booksCount": 7,
-        "updatedAt": "2019-10-20 07:01:27"
     }
 }
