@@ -1,4 +1,10 @@
 {
+    "103100437955997490081-google": {
+        "id": "103100437955997490081-google",
+        "nickname": "slowd",
+        "booksCount": 0,
+        "updatedAt": "2019-10-30 06:49:18"
+    },
     "106933869236254657812-google": {
         "id": "106933869236254657812-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Egor",
         "booksCount": 7,
         "updatedAt": "2019-10-20 07:01:27"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 36,
-        "updatedAt": "2019-10-20 05:52:44"
     }
 }
