@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 112,
+        "updatedAt": "2019-10-30 15:20:43"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "doingwonder",
         "booksCount": 13,
         "updatedAt": "2019-10-20 21:09:34"
-    },
-    "103474005216004236389-google": {
-        "id": "103474005216004236389-google",
-        "nickname": "Woc4onok213",
-        "booksCount": 4,
-        "updatedAt": "2019-10-20 16:02:42"
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* •Чемодан ~ [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup>
 * Historia Polski ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup>
 * Група Скрябін та друзі по сцені ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>64</sup>
 * Дракула ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup>
@@ -30,7 +31,6 @@
 * Инструкция по движению поездов и маневровой работе на ж/д транспорте РФ ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>216</sup>
 * Лестница в небо ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>215</sup>
 * Песчаные короли ~ [Quaff](users/122/12267158-vkontakte)<sup>73</sup>
-* Осада, или Шахматы со смертью ~ [sonics](users/588/5880221-vkontakte)<sup>62</sup>
 
 
-_28.10.2019 17:54:35_
+_30.10.2019 15:20:43_

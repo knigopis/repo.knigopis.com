@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>111</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>112</sup>
 ---
 
 ## 2019
+
+### •Чемодан
+Сергей Довлатов
+> [2019-10-30] 9/10
+
 
 ### You are a badass
 Jen Sincero

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* •Чемодан ~ [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup>
+    > 9/10
+
 * Historia Polski ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup>
     > 7/10 szybki kurs.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 спогади та фото.
 
 * Дракула ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup>
-    > 28.10.19
 
 * Гроздья гнева ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>63</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Навчитися вчитися ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>62</sup>
 
-* Шевченків міф України ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>61</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>112</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>171</sup> 
 [the_pouring_rain](users/175/175864892-vkontakte)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>7</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>14</sup> 
 [Максим Бондаренко](users/182/18277571948146284542-mailru)<sup>0</sup> 
 [doingwonder](users/108/108689364763869996762-google)<sup>13</sup> 
-[Woc4onok213](users/103/103474005216004236389-google)<sup>4</sup> 
 
 
-_30.10.2019 13:45:38_
+_30.10.2019 15:20:43_
