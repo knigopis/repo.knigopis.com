@@ -1,4 +1,16 @@
 {
+    "cHdYQUBsrt": {
+        "id": "cHdYQUBsrt",
+        "title": "P.S. Я люблю тебя",
+        "author": "Сесилия Ахерн",
+        "notes": "",
+        "createdAt": "2019-10-30 19:02:23",
+        "user": {
+            "id": "108689364763869996762-google",
+            "nickname": "doingwonder",
+            "booksCount": 14
+        }
+    },
     "o45kRk61T7": {
         "id": "o45kRk61T7",
         "title": "Мистические истории доктора Краузе",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 74
-        }
-    },
-    "XQosjvGNSJ": {
-        "id": "XQosjvGNSJ",
-        "title": "Мертвые тоже скачут",
-        "author": "Маргарита Малинина",
-        "notes": "",
-        "createdAt": "2019-10-26 11:27:58",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 6
         }
     }
 }

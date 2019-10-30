@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[doingwonder](users/108/108689364763869996762-google)<sup>14</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>8</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>171</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>29</sup> 
 [Avery](users/567/56734832-yandex)<sup>14</sup> 
 [Максим Бондаренко](users/182/18277571948146284542-mailru)<sup>0</sup> 
-[doingwonder](users/108/108689364763869996762-google)<sup>13</sup> 
 
 
-_30.10.2019 16:14:54_
+_30.10.2019 19:02:23_

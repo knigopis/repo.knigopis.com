@@ -1,4 +1,10 @@
 {
+    "108689364763869996762-google": {
+        "id": "108689364763869996762-google",
+        "nickname": "doingwonder",
+        "booksCount": 14,
+        "updatedAt": "2019-10-30 19:02:23"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Максим Бондаренко",
         "booksCount": 0,
         "updatedAt": "2019-10-21 08:35:57"
-    },
-    "108689364763869996762-google": {
-        "id": "108689364763869996762-google",
-        "nickname": "doingwonder",
-        "booksCount": 13,
-        "updatedAt": "2019-10-20 21:09:34"
     }
 }
