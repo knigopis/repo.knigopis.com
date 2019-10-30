@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>8</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>171</sup> 
 [the_pouring_rain](users/175/175864892-vkontakte)<sup>0</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>7</sup> 
 [slowd](users/103/103100437955997490081-google)<sup>0</sup> 
 [](users/106/106933869236254657812-google)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>88</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [doingwonder](users/108/108689364763869996762-google)<sup>13</sup> 
 
 
-_30.10.2019 15:20:43_
+_30.10.2019 16:14:54_

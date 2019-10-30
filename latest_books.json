@@ -1,4 +1,16 @@
 {
+    "o45kRk61T7": {
+        "id": "o45kRk61T7",
+        "title": "Мистические истории доктора Краузе",
+        "author": "Инесса Давыдова",
+        "notes": "",
+        "createdAt": "2019-10-30 16:14:54",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 8
+        }
+    },
     "22ENitibjv": {
         "id": "22ENitibjv",
         "title": "•Чемодан",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 6
-        }
-    },
-    "pguJ0IEWGH": {
-        "id": "pguJ0IEWGH",
-        "title": "Человек в доме напротив (Макар Илюшин и Сергей Бабкин 25)",
-        "author": "Михалкова Елена",
-        "notes": "",
-        "createdAt": "2019-10-25 18:33:39",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 147
         }
     }
 }
