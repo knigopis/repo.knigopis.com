@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[elena-gagina2014](users/208/208969292-yandex)<sup>12</sup> 
+[elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
 [doingwonder](users/108/108689364763869996762-google)<sup>14</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>8</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>14</sup> 
 
 
-_30.10.2019 19:37:03_
+_30.10.2019 19:37:21_
