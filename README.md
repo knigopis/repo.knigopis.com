@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[slowd](users/103/103100437955997490081-google)<sup>0</sup> 
 [](users/106/106933869236254657812-google)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>88</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>132</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [doingwonder](users/108/108689364763869996762-google)<sup>13</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>4</sup> 
 [Egor](users/166/166766907-vkontakte)<sup>7</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>36</sup> 
 
 
-_29.10.2019 19:08:34_
+_30.10.2019 06:49:22_
