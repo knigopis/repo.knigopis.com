@@ -1,4 +1,16 @@
 {
+    "VJQq4o8X6B": {
+        "id": "VJQq4o8X6B",
+        "title": "Чудесный доктор",
+        "author": "Александр Куприн",
+        "notes": "",
+        "createdAt": "2019-10-30 13:39:28",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 170
+        }
+    },
     "ZE6CAvdZQ4": {
         "id": "ZE6CAvdZQ4",
         "title": "Никто",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 71
-        }
-    },
-    "nYPizBjpNy": {
-        "id": "nYPizBjpNy",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2019-10-25 17:14:34",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 70
         }
     }
 }

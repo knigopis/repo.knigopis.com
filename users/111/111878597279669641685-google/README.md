@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>169</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>170</sup>
 ---
 
 ## 2019
+
+### Чудесный доктор
+Александр Куприн
+> [2019-10-30] 
+
 
 ### Никто
 Альберт Лиханов
