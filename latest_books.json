@@ -1,4 +1,16 @@
 {
+    "hkMOa6_Qx_": {
+        "id": "hkMOa6_Qx_",
+        "title": "Чарльз Диккенс",
+        "author": "Рождественские истории",
+        "notes": "",
+        "createdAt": "2019-10-31 20:25:11",
+        "user": {
+            "id": "55239754-vkontakte",
+            "nickname": "Katya",
+            "booksCount": 2
+        }
+    },
     "R1ckBp7U5I": {
         "id": "R1ckBp7U5I",
         "title": "Приключения Оливера Твиста",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 168
-        }
-    },
-    "gojuscuLrw": {
-        "id": "gojuscuLrw",
-        "title": "Как быть стоиком: Античная философия и современная жизнь",
-        "author": "Массимо Пильюччи",
-        "notes": "",
-        "createdAt": "2019-10-29 06:00:08",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 132
         }
     }
 }
