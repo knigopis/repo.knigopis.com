@@ -1,4 +1,10 @@
 {
+    "103100437955997490081-google": {
+        "id": "103100437955997490081-google",
+        "nickname": "slowd",
+        "booksCount": 1,
+        "updatedAt": "2019-10-31 13:59:43"
+    },
     "20441347-vkontakte": {
         "id": "20441347-vkontakte",
         "nickname": "vengeancee",
@@ -58,12 +64,6 @@
         "nickname": "the_pouring_rain",
         "booksCount": 0,
         "updatedAt": "2019-10-30 12:45:26"
-    },
-    "103100437955997490081-google": {
-        "id": "103100437955997490081-google",
-        "nickname": "slowd",
-        "booksCount": 0,
-        "updatedAt": "2019-10-30 06:49:18"
     },
     "106933869236254657812-google": {
         "id": "106933869236254657812-google",

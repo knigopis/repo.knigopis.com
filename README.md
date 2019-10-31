@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[slowd](users/103/103100437955997490081-google)<sup>1</sup> 
 [vengeancee](users/204/20441347-vkontakte)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>172</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>42</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [doingwonder](users/108/108689364763869996762-google)<sup>14</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup> 
 [the_pouring_rain](users/175/175864892-vkontakte)<sup>0</sup> 
-[slowd](users/103/103100437955997490081-google)<sup>0</sup> 
 [](users/106/106933869236254657812-google)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>88</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>132</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Malio](users/111/111080157683628353417-google)<sup>0</sup> 
 
 
-_31.10.2019 13:25:14_
+_31.10.2019 13:59:43_
