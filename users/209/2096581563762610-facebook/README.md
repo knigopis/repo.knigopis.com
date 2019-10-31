@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>41</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>42</sup>
 ---
 
 ## 2019
+
+### Психология влияния
+Роберт Чалдини
+> [2019-10-31] 
+
 
 ### Школьники "ленивой мамы"
 Анна Быкова

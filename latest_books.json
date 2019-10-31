@@ -1,4 +1,16 @@
 {
+    "YI883Xw6fA": {
+        "id": "YI883Xw6fA",
+        "title": "Психология влияния",
+        "author": "Роберт Чалдини",
+        "notes": "",
+        "createdAt": "2019-10-31 09:41:29",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 42
+        }
+    },
     "cRLkJIf_iu": {
         "id": "cRLkJIf_iu",
         "title": "В наше время",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 51
-        }
-    },
-    "epDVMjEdIp": {
-        "id": "epDVMjEdIp",
-        "title": "Одержимость.книга вторая",
-        "author": "Анастасия Шерр",
-        "notes": "",
-        "createdAt": "2019-10-27 09:31:52",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 8
         }
     }
 }
