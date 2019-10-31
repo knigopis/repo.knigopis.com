@@ -1,4 +1,16 @@
 {
+    "ga0oxK9SPR": {
+        "id": "ga0oxK9SPR",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-10-31 18:25:43",
+        "user": {
+            "id": "103100437955997490081-google",
+            "nickname": "slowd",
+            "booksCount": 1
+        }
+    },
     "DYzRY66Y6Q": {
         "id": "DYzRY66Y6Q",
         "title": "Множественные источники дохода",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 131
-        }
-    },
-    "69BJhQ4wcG": {
-        "id": "69BJhQ4wcG",
-        "title": "Historia Polski",
-        "author": "",
-        "notes": "7/10 szybki kurs.",
-        "createdAt": "2019-10-28 17:54:35",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 65
         }
     }
 }
