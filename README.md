@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>9</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
 [doingwonder](users/108/108689364763869996762-google)<sup>14</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>8</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>171</sup> 
 [the_pouring_rain](users/175/175864892-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>14</sup> 
 
 
-_30.10.2019 19:37:21_
+_31.10.2019 07:15:42_
