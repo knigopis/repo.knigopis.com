@@ -1,4 +1,16 @@
 {
+    "R1ckBp7U5I": {
+        "id": "R1ckBp7U5I",
+        "title": "Приключения Оливера Твиста",
+        "author": "Чарльз Диккенс",
+        "notes": "",
+        "createdAt": "2019-10-31 20:24:32",
+        "user": {
+            "id": "55239754-vkontakte",
+            "nickname": "Katya",
+            "booksCount": 1
+        }
+    },
     "EmZQj5YI3z": {
         "id": "EmZQj5YI3z",
         "title": "Красная таблетка",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 132
-        }
-    },
-    "CcbXnot-8p": {
-        "id": "CcbXnot-8p",
-        "title": "Кикимора болотная",
-        "author": "Ирина Мясникова",
-        "notes": "",
-        "createdAt": "2019-10-29 00:35:18",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 9
         }
     }
 }
