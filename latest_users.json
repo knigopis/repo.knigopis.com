@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 219,
+        "updatedAt": "2019-10-31 08:05:06"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 29,
         "updatedAt": "2019-10-22 19:24:30"
-    },
-    "56734832-yandex": {
-        "id": "56734832-yandex",
-        "nickname": "Avery",
-        "booksCount": 14,
-        "updatedAt": "2019-10-21 18:35:58"
     }
 }

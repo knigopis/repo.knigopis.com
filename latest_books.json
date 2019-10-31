@@ -1,4 +1,16 @@
 {
+    "ZU4_4uYMiH": {
+        "id": "ZU4_4uYMiH",
+        "title": "Шаманские карты путешествия души",
+        "author": "Олард Диксон",
+        "notes": "в процессе",
+        "createdAt": "2019-10-31 08:05:06",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 219
+        }
+    },
     "SZvtpxBUct": {
         "id": "SZvtpxBUct",
         "title": "Небесные очи",
@@ -345,18 +357,6 @@
             "id": "334696193054530347-mailru",
             "nickname": "Даша",
             "booksCount": 47
-        }
-    },
-    "poSbEvaXwS": {
-        "id": "poSbEvaXwS",
-        "title": "Хазин Михаил Леонидович",
-        "author": "Воспоминания о будущем",
-        "notes": "",
-        "createdAt": "2019-10-26 14:00:06",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 126
         }
     }
 }

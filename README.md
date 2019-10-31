@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шаманские карты путешествия души ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>219</sup>
+    > в процессе
+
 * •Чемодан ~ [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup>
     > 9/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 szybki kurs.
 
 * Група Скрябін та друзі по сцені ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>64</sup>
-    > 9/10 спогади та фото.
 
 * Дракула ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Русская канарейка. Желтухин ~ [dmiro](users/571/5714115-vkontakte)<sup>13</sup>
 
-* Навчитися вчитися ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>219</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>9</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
 [doingwonder](users/108/108689364763869996762-google)<sup>14</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>357</sup> 
 [Malio](users/111/111080157683628353417-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>29</sup> 
-[Avery](users/567/56734832-yandex)<sup>14</sup> 
 
 
-_31.10.2019 07:15:42_
+_31.10.2019 08:05:06_

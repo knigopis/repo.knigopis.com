@@ -1,4 +1,16 @@
 {
+    "ZU4_4uYMiH": {
+        "id": "ZU4_4uYMiH",
+        "title": "Шаманские карты путешествия души",
+        "author": "Олард Диксон",
+        "notes": "в процессе",
+        "createdAt": "2019-10-31 08:05:06",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 219
+        }
+    },
     "22ENitibjv": {
         "id": "22ENitibjv",
         "title": "•Чемодан",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 215
-        }
-    },
-    "0anGxqITbz": {
-        "id": "0anGxqITbz",
-        "title": "Песчаные короли",
-        "author": "Мартин Джордж",
-        "notes": "Увлекательная история про ответственность за братьев наших меньших",
-        "createdAt": "2019-10-12 08:29:43",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 73
         }
     }
 }
