@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Множественные источники дохода ~ [HXT](users/100/100002563462782-facebook)<sup>358</sup>
+    > Полное говно
+
 * Бизнес с нуля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>220</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * •Чемодан ~ [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup>
-    > 9/10
 
 * Historia Polski ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Посейдоника ~ [En](users/333/333646551-vkontakte)<sup>79</sup>
 
-* Любка ~ [dmiro](users/571/5714115-vkontakte)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>358</sup> 
 [slowd](users/103/103100437955997490081-google)<sup>0</sup> 
 [vengeancee](users/204/20441347-vkontakte)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>172</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>79</sup> 
 [irinailyasova1](users/373/37394485-vkontakte)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>14</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>357</sup> 
 [Malio](users/111/111080157683628353417-google)<sup>0</sup> 
 
 
-_31.10.2019 14:00:05_
+_31.10.2019 14:47:47_
