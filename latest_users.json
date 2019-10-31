@@ -1,4 +1,10 @@
 {
+    "20441347-vkontakte": {
+        "id": "20441347-vkontakte",
+        "nickname": "vengeancee",
+        "booksCount": 0,
+        "updatedAt": "2019-10-31 13:25:12"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "Malio",
         "booksCount": 0,
         "updatedAt": "2019-10-23 04:11:09"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 29,
-        "updatedAt": "2019-10-22 19:24:30"
     }
 }
