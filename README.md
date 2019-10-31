@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vengeancee](users/204/20441347-vkontakte)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>172</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>42</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>193</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>14</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>357</sup> 
 [Malio](users/111/111080157683628353417-google)<sup>0</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>29</sup> 
 
 
-_31.10.2019 12:11:44_
+_31.10.2019 13:25:14_
