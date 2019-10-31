@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 193,
+        "updatedAt": "2019-10-31 08:30:38"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -64,12 +70,6 @@
         "nickname": "afferens.lucem",
         "booksCount": 132,
         "updatedAt": "2019-10-29 18:23:28"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 192,
-        "updatedAt": "2019-10-29 12:13:27"
     },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",

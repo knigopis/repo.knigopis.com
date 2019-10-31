@@ -1,4 +1,16 @@
 {
+    "cRLkJIf_iu": {
+        "id": "cRLkJIf_iu",
+        "title": "В наше время",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2019-10-31 08:30:38",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 193
+        }
+    },
     "DoO02v6_vh": {
         "id": "DoO02v6_vh",
         "title": "Бизнес с нуля",
@@ -341,18 +353,6 @@
         "author": "Анастасия Шерр",
         "notes": "",
         "createdAt": "2019-10-27 09:31:52",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 8
-        }
-    },
-    "HQviLZmZYO": {
-        "id": "HQviLZmZYO",
-        "title": "Одержимость.книга первая",
-        "author": "Анастасия Шерр",
-        "notes": "",
-        "createdAt": "2019-10-27 03:36:14",
         "user": {
             "id": "270444099499-odnoklassniki",
             "nickname": null,
