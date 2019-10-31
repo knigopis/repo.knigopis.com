@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Katya](users/552/55239754-vkontakte)<sup>0</sup> 
 [slowd](users/103/103100437955997490081-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>358</sup> 
 [vengeancee](users/204/20441347-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>79</sup> 
 [irinailyasova1](users/373/37394485-vkontakte)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>14</sup> 
-[Malio](users/111/111080157683628353417-google)<sup>0</sup> 
 
 
-_31.10.2019 18:35:25_
+_31.10.2019 20:22:14_
