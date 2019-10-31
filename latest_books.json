@@ -1,4 +1,16 @@
 {
+    "EmZQj5YI3z": {
+        "id": "EmZQj5YI3z",
+        "title": "Красная таблетка",
+        "author": "Курпатов Андрей",
+        "notes": "Вся правда о человеческом мозге, взаимоотношениях мозга и сознания. Много описаний известных психологических экспериментов.",
+        "createdAt": "2019-10-31 18:35:25",
+        "user": {
+            "id": "103100437955997490081-google",
+            "nickname": "slowd",
+            "booksCount": 1
+        }
+    },
     "ga0oxK9SPR": {
         "id": "ga0oxK9SPR",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 9
-        }
-    },
-    "pRuPaLJWCC": {
-        "id": "pRuPaLJWCC",
-        "title": "Игра престолов",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2019-10-28 19:38:38",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 131
         }
     }
 }
