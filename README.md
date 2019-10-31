@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бизнес с нуля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>220</sup>
+    > в процессе
+
 * Шаманские карты путешествия души ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>219</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10
 
 * Historia Polski ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup>
-    > 7/10 szybki kurs.
 
 * Група Скрябін та друзі по сцені ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>64</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Любка ~ [dmiro](users/571/5714115-vkontakte)<sup>14</sup>
 
-* Русская канарейка. Желтухин ~ [dmiro](users/571/5714115-vkontakte)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>219</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>220</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>9</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
 [doingwonder](users/108/108689364763869996762-google)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>29</sup> 
 
 
-_31.10.2019 08:05:06_
+_31.10.2019 08:06:39_

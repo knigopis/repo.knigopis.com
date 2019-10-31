@@ -1,4 +1,16 @@
 {
+    "DoO02v6_vh": {
+        "id": "DoO02v6_vh",
+        "title": "Бизнес с нуля",
+        "author": "Эрик Рис",
+        "notes": "в процессе",
+        "createdAt": "2019-10-31 08:06:38",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 220
+        }
+    },
     "ZU4_4uYMiH": {
         "id": "ZU4_4uYMiH",
         "title": "Шаманские карты путешествия души",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 8
-        }
-    },
-    "ymJAmnHm5M": {
-        "id": "ymJAmnHm5M",
-        "title": "Важные годы 20-30",
-        "author": "Мэг Джей",
-        "notes": "",
-        "createdAt": "2019-10-26 21:38:34",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 47
         }
     }
 }

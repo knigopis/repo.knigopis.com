@@ -1,4 +1,16 @@
 {
+    "DoO02v6_vh": {
+        "id": "DoO02v6_vh",
+        "title": "Бизнес с нуля",
+        "author": "Эрик Рис",
+        "notes": "в процессе",
+        "createdAt": "2019-10-31 08:06:38",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 220
+        }
+    },
     "ZU4_4uYMiH": {
         "id": "ZU4_4uYMiH",
         "title": "Шаманские карты путешествия души",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 216
-        }
-    },
-    "9q8bnrRXMZ": {
-        "id": "9q8bnrRXMZ",
-        "title": "Лестница в небо",
-        "author": "М.Хазин, С.Щеглов",
-        "notes": "в процессе",
-        "createdAt": "2019-10-12 10:32:12",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 215
         }
     }
 }
