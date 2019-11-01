@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>10</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>194</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>148</sup> 
 [Katya](users/552/55239754-vkontakte)<sup>2</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>172</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>42</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>220</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>9</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
 [doingwonder](users/108/108689364763869996762-google)<sup>14</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>14</sup> 
 
 
-_01.11.2019 07:11:09_
+_01.11.2019 09:50:52_

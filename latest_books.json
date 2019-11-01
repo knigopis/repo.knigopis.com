@@ -1,4 +1,16 @@
 {
+    "afDuSbF_Z6": {
+        "id": "afDuSbF_Z6",
+        "title": "Кот недовинченный",
+        "author": "Анна и Сергей Литвиновы",
+        "notes": "",
+        "createdAt": "2019-11-01 09:50:52",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 10
+        }
+    },
     "CxLc38cy2I": {
         "id": "CxLc38cy2I",
         "title": "Грандиозная дзэн-буддистская свадьба",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 82
-        }
-    },
-    "QPhunmHXQf": {
-        "id": "QPhunmHXQf",
-        "title": "Играть, чтобы жить. Книга 5. Битва",
-        "author": "Дмитрий Рус",
-        "notes": "",
-        "createdAt": "2019-10-29 18:19:42",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 81
         }
     }
 }
