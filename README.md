@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/270/270444099499-odnoklassniki)<sup>10</sup> 
+[](users/270/270444099499-odnoklassniki)<sup>11</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>194</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>148</sup> 
 [Katya](users/552/55239754-vkontakte)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>14</sup> 
 
 
-_01.11.2019 09:50:52_
+_01.11.2019 10:04:19_

@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>10</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>11</sup>
 ---
 
 ## 2019
+
+### Голубка
+Алина Знаменская
+> [2019-11-01] 
+
 
 ### Кот недовинченный
 Анна и Сергей Литвиновы
