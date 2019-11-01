@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Женя 2 ~ [kissamasya](users/684/68439978-vkontakte)<sup>70</sup>
 * Порченая кровь (ТГ 36) ~ [Chiffi](users/105/105831994080785626680-google)<sup>148</sup>
 * Множественные источники дохода ~ [HXT](users/100/100002563462782-facebook)<sup>358</sup>
 * Бизнес с нуля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>220</sup>
@@ -30,7 +31,6 @@
 * Люди нашего царя ~ [Madlax](users/158/158304782-vkontakte)<sup>191</sup>
 * Мемуары Гейши ~ [Madlax](users/158/158304782-vkontakte)<sup>185</sup>
 * Большие надежды ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
-* Сервис, ориентированный на бренд ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>218</sup>
 
 
-_01.11.2019 06:06:53_
+_01.11.2019 19:50:50_

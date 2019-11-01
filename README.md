@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Женя 2 ~ [kissamasya](users/684/68439978-vkontakte)<sup>70</sup>
+    > Вторая книга дилогии о Жене (жанр – слеш). Женя и Август возвращаются из путешествия. Казалось бы, все уже наладилось, но никто не мог предвидеть исключительно неожиданной неприятности – квартиру Жени залили соседи сверху. Несмотря на гнев Августа, Женя решает переехать на неделю к родителям, где его уже поджидает невеста, настроенная заполучить достойного жениха в свои лапки, заявив всем о том, что она беременна. Что будет делать Август? Что выберет Женя – любимого человека и то, какой он на самом деле или расположение родителей?
+
 * Порченая кровь (ТГ 36) ~ [Chiffi](users/105/105831994080785626680-google)<sup>148</sup>
     > сборник рассказов. Не плохо.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Полное говно
 
 * Бизнес с нуля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>220</sup>
-    > в процессе
 
 * Шаманские карты путешествия души ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>219</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гроздья гнева ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>63</sup>
 
-* Обреченные ~ [](users/270/270444099499-odnoklassniki)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>70</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>173</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>11</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>194</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sienna](users/102/102428236801747542915-google)<sup>2</sup> 
 [En](users/333/333646551-vkontakte)<sup>79</sup> 
 [irinailyasova1](users/373/37394485-vkontakte)<sup>0</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>14</sup> 
 
 
-_01.11.2019 14:23:47_
+_01.11.2019 19:50:50_
