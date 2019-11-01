@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Порченая кровь (ТГ 36) ~ [Chiffi](users/105/105831994080785626680-google)<sup>148</sup>
+    > сборник рассказов. Не плохо.
+
 * Множественные источники дохода ~ [HXT](users/100/100002563462782-facebook)<sup>358</sup>
     > Полное говно
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Шаманские карты путешествия души ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>219</sup>
-    > в процессе
 
 * •Чемодан ~ [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Обреченные ~ [](users/270/270444099499-odnoklassniki)<sup>5</sup>
 
-* Посейдоника ~ [En](users/333/333646551-vkontakte)<sup>79</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>148</sup> 
 [Katya](users/552/55239754-vkontakte)<sup>2</sup> 
 [slowd](users/103/103100437955997490081-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>358</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [milananikiforova](users/899/89967062-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>147</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>72</sup> 
 [](users/117/117968006138114353304-google)<sup>0</sup> 
 [oldgazel2](users/897/897669997-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>14</sup> 
 
 
-_31.10.2019 20:25:11_
+_01.11.2019 06:06:53_

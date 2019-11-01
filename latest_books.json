@@ -1,4 +1,16 @@
 {
+    "kG_KgPDrtW": {
+        "id": "kG_KgPDrtW",
+        "title": "Порченая кровь (ТГ 36)",
+        "author": "Панов Вадим",
+        "notes": "сборник рассказов. Не плохо.",
+        "createdAt": "2019-11-01 06:06:53",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 148
+        }
+    },
     "hkMOa6_Qx_": {
         "id": "hkMOa6_Qx_",
         "title": "Чарльз Диккенс",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 192
-        }
-    },
-    "1829XUZkij": {
-        "id": "1829XUZkij",
-        "title": "Дубровский",
-        "author": "Александр Пушкин",
-        "notes": "",
-        "createdAt": "2019-10-29 11:57:47",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 168
         }
     }
 }
