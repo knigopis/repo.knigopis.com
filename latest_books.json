@@ -1,4 +1,16 @@
 {
+    "CxLc38cy2I": {
+        "id": "CxLc38cy2I",
+        "title": "Грандиозная дзэн-буддистская свадьба",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2019-11-01 07:11:09",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 194
+        }
+    },
     "kG_KgPDrtW": {
         "id": "kG_KgPDrtW",
         "title": "Порченая кровь (ТГ 36)",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 81
-        }
-    },
-    "ohFLXXR4Nq": {
-        "id": "ohFLXXR4Nq",
-        "title": "Повесть о смерти",
-        "author": "Марк Алданов",
-        "notes": "",
-        "createdAt": "2019-10-29 12:13:27",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 192
         }
     }
 }
