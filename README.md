@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>174</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>70</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>11</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>88</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>132</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>47</sup> 
 [milananikiforova](users/899/89967062-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [irinailyasova1](users/373/37394485-vkontakte)<sup>0</sup> 
 
 
-_01.11.2019 20:35:23_
+_02.11.2019 06:50:04_

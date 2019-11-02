@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>85</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>84</sup>
 ---
 
 ## 2019
+
+### Такая дерзкая
+Николь Штраудингер
+> [2019-11-02] 
+
 
 ### Дракула
 Брэм Стокер

@@ -1,4 +1,16 @@
 {
+    "Vxd1OwTzvM": {
+        "id": "Vxd1OwTzvM",
+        "title": "Такая дерзкая",
+        "author": "Николь Штраудингер",
+        "notes": "",
+        "createdAt": "2019-11-02 06:50:04",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 84
+        }
+    },
     "K-04NZecR9": {
         "id": "K-04NZecR9",
         "title": "Джим Пуговка и машинист Лукас",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 88
-        }
-    },
-    "sV5nBCeFKI": {
-        "id": "sV5nBCeFKI",
-        "title": "Побег из Шоушенка",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2019-10-29 18:23:28",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 132
         }
     }
 }
