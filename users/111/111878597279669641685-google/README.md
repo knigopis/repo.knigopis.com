@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>174</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>175</sup>
 ---
 
 ## 2019
+
+### Похититель детей
+Джеральд Бром
+> [2019-11-02] 
+
 
 ### Вегетарианка
 Хан Ган
