@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 69,
+        "updatedAt": "2019-11-02 07:12:02"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -10,12 +16,6 @@
         "nickname": "Knigolub~",
         "booksCount": 174,
         "updatedAt": "2019-11-01 20:35:22"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 70,
-        "updatedAt": "2019-11-01 19:50:50"
     },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
