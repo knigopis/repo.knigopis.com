@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Закон маятника ~ [kissamasya](users/684/68439978-vkontakte)<sup>71</sup>
 * Женя 2 ~ [kissamasya](users/684/68439978-vkontakte)<sup>70</sup>
 * Порченая кровь (ТГ 36) ~ [Chiffi](users/105/105831994080785626680-google)<sup>148</sup>
 * Множественные источники дохода ~ [HXT](users/100/100002563462782-facebook)<sup>358</sup>
@@ -30,7 +31,6 @@
 * You are a badass ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
 * Люди нашего царя ~ [Madlax](users/158/158304782-vkontakte)<sup>191</sup>
 * Мемуары Гейши ~ [Madlax](users/158/158304782-vkontakte)<sup>185</sup>
-* Большие надежды ~ [Apprentice ](users/528/52821952-vkontakte)<sup>110</sup>
 
 
-_02.11.2019 07:13:35_
+_02.11.2019 07:16:12_
