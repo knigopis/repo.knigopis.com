@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/116/116624392380281660529-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>71</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>174</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [oldgazel2](users/897/897669997-yandex)<sup>0</sup> 
 [Sienna](users/102/102428236801747542915-google)<sup>2</sup> 
 [En](users/333/333646551-vkontakte)<sup>79</sup> 
-[irinailyasova1](users/373/37394485-vkontakte)<sup>0</sup> 
 
 
-_02.11.2019 07:16:12_
+_02.11.2019 09:23:34_
