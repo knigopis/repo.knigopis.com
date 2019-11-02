@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/116/116624392380281660529-google)<sup>0</sup> 
+[](users/116/116624392380281660529-google)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>71</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>174</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>79</sup> 
 
 
-_02.11.2019 09:23:34_
+_02.11.2019 09:25:01_
