@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/270/270444099499-odnoklassniki)<sup>13</sup> 
+[](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [Нэко](users/659/659175577868030-facebook)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>151</sup> 
 [Avery](users/567/56734832-yandex)<sup>15</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/117/117968006138114353304-google)<sup>0</sup> 
 
 
-_03.11.2019 23:56:28_
+_03.11.2019 23:57:25_
