@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Взлет и падение Третьего рейха ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
 * Сны в ведьмином доме ~ [Avery](users/567/56734832-yandex)<sup>15</sup>
 * Закон маятника ~ [kissamasya](users/684/68439978-vkontakte)<sup>71</sup>
 * Женя 2 ~ [kissamasya](users/684/68439978-vkontakte)<sup>70</sup>
@@ -30,7 +31,6 @@
 * Шоколад ~ [En](users/333/333646551-vkontakte)<sup>76</sup>
 * Маскарад ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
 * You are a badass ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
-* Люди нашего царя ~ [Madlax](users/158/158304782-vkontakte)<sup>191</sup>
 
 
-_03.11.2019 07:41:40_
+_03.11.2019 14:23:08_
