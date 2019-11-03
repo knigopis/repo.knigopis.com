@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Нэко](users/659/659175577868030-facebook)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>151</sup> 
 [Avery](users/567/56734832-yandex)<sup>15</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>12</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>72</sup> 
 [](users/117/117968006138114353304-google)<sup>0</sup> 
-[oldgazel2](users/897/897669997-yandex)<sup>0</sup> 
 
 
-_03.11.2019 14:23:08_
+_03.11.2019 21:56:41_
