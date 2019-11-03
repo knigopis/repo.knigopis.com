@@ -37,11 +37,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>12</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>175</sup> 
 [](users/116/116624392380281660529-google)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>71</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>11</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>194</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>148</sup> 
 [Katya](users/552/55239754-vkontakte)<sup>2</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>79</sup> 
 
 
-_02.11.2019 16:00:04_
+_03.11.2019 02:48:53_
