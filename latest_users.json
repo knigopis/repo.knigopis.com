@@ -1,4 +1,10 @@
 {
+    "659175577868030-facebook": {
+        "id": "659175577868030-facebook",
+        "nickname": "Нэко",
+        "booksCount": 0,
+        "updatedAt": "2019-11-03 21:56:37"
+    },
     "83820536-yandex": {
         "id": "83820536-yandex",
         "nickname": "lucius",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-10-25 01:17:33"
-    },
-    "897669997-yandex": {
-        "id": "897669997-yandex",
-        "nickname": "oldgazel2",
-        "booksCount": 0,
-        "updatedAt": "2019-10-24 14:28:32"
     }
 }
