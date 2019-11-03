@@ -1,4 +1,16 @@
 {
+    "kjWN0W9UbF": {
+        "id": "kjWN0W9UbF",
+        "title": "Прогулки по краю пропасти",
+        "author": "Анна и Сергей Литвиновы",
+        "notes": "",
+        "createdAt": "2019-11-03 23:56:28",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 13
+        }
+    },
     "TFFWxtIglY": {
         "id": "TFFWxtIglY",
         "title": "Взлет и падение Третьего рейха",
@@ -345,18 +357,6 @@
             "id": "108689364763869996762-google",
             "nickname": "doingwonder",
             "booksCount": 14
-        }
-    },
-    "o45kRk61T7": {
-        "id": "o45kRk61T7",
-        "title": "Мистические истории доктора Краузе",
-        "author": "Инесса Давыдова",
-        "notes": "",
-        "createdAt": "2019-10-30 16:14:54",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 8
         }
     }
 }
