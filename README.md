@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/270/270444099499-odnoklassniki)<sup>15</sup> 
+[](users/270/270444099499-odnoklassniki)<sup>9</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>150</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>359</sup> 
 [](users/113/113684692562807406011-google)<sup>0</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 
 
-_04.11.2019 12:19:19_
+_04.11.2019 14:38:20_

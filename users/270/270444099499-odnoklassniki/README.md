@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>15</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>9</sup>
 ---
 
 ## 2019
+
+### Гранатовый браслет
+Александр Куприн
+> [2019-11-04] 
+
 
 ### Укол гордости
 Анна Акимова
