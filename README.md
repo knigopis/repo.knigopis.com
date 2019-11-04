@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/113/113684692562807406011-google)<sup>1</sup> 
+[](users/113/113684692562807406011-google)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [Нэко](users/659/659175577868030-facebook)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>151</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>72</sup> 
 
 
-_04.11.2019 03:50:26_
+_04.11.2019 03:50:41_
