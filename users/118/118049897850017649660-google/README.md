@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>149</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>150</sup>
 ---
 
 ## 2019
+
+### Хроники Дождевых чащоб. Город драконов
+Робин Хобб
+> [2019-11-04] 
+
 
 ### Хроники Дождевых чащоб. Драконья гавань
 Робин Хобб
