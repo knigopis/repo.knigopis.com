@@ -1,4 +1,16 @@
 {
+    "7dGjJPRqOv": {
+        "id": "7dGjJPRqOv",
+        "title": "K.I.L.L.E.R.S",
+        "author": "Park_Killer03",
+        "notes": "Лиса была обычной девушкой, но после предательства близкого человека, меняется целиком и полностью...",
+        "createdAt": "2019-11-04 17:36:49",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 72
+        }
+    },
     "Snt1HZSkSe": {
         "id": "Snt1HZSkSe",
         "title": "Уилл Грейсон, Уилл Грейсон",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 172
-        }
-    },
-    "YI883Xw6fA": {
-        "id": "YI883Xw6fA",
-        "title": "Психология влияния",
-        "author": "Роберт Чалдини",
-        "notes": "",
-        "createdAt": "2019-10-31 09:41:29",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 42
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "7dGjJPRqOv": {
+        "id": "7dGjJPRqOv",
+        "title": "K.I.L.L.E.R.S",
+        "author": "Park_Killer03",
+        "notes": "Лиса была обычной девушкой, но после предательства близкого человека, меняется целиком и полностью...",
+        "createdAt": "2019-11-04 17:36:49",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 72
+        }
+    },
     "TFFWxtIglY": {
         "id": "TFFWxtIglY",
         "title": "Взлет и падение Третьего рейха",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 233
-        }
-    },
-    "7d422Y_1zg": {
-        "id": "7d422Y_1zg",
-        "title": "You are a badass",
-        "author": "Jen Sincero",
-        "notes": "10/10",
-        "createdAt": "2019-10-15 16:50:06",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 111
         }
     }
 }

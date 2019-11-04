@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* K.I.L.L.E.R.S ~ [kissamasya](users/684/68439978-vkontakte)<sup>72</sup>
 * Взлет и падение Третьего рейха ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
 * Сны в ведьмином доме ~ [Avery](users/567/56734832-yandex)<sup>15</sup>
 * Закон маятника ~ [kissamasya](users/684/68439978-vkontakte)<sup>71</sup>
@@ -30,7 +31,6 @@
 * Показания Рендольфа Картера ~ [En](users/333/333646551-vkontakte)<sup>77</sup>
 * Шоколад ~ [En](users/333/333646551-vkontakte)<sup>76</sup>
 * Маскарад ~ [Garka](users/115/115753719718250012620-google)<sup>233</sup>
-* You are a badass ~ [Apprentice ](users/528/52821952-vkontakte)<sup>111</sup>
 
 
-_03.11.2019 14:23:08_
+_04.11.2019 17:36:49_
