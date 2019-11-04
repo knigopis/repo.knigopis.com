@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>112</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>113</sup>
 ---
 
 ## 2019
+
+### Завтрак у Тиффани
+Трумен Капоте
+> [2019-11-04] 9/10
+
 
 ### Чемодан
 Сергей Довлатов

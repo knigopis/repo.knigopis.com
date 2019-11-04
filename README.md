@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Завтрак у Тиффани ~ [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup>
+    > 9/10
+
 * Самый главный приз (ТГ 37) ~ [Chiffi](users/105/105831994080785626680-google)<sup>149</sup>
     > Кто бы мог подумать,  что  одну из умнейших фраз скажут Шапки..: "Жизнь слишком коротка,  чтобы учиться чему-нибудь по-настоящему. Поэтому я учу их тому,  чему они хотят учиться, но никогда не смогут"
     > "Выжатому лимону только одна дорога - в мусорное ведро"
@@ -13,9 +16,6 @@ Do not use pull requests to make changes here.
     > Лиса была обычной девушкой, но после предательства близкого человека, меняется целиком и полностью...
 
 * Взлет и падение Третьего рейха ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
-    > Книга интересная, очень подробная, с цитатами документов.
-    > Можно похвалить автора за титанический труд, однако сильно раздражает его манера давать эпитеты. В духе: расскаывает о деяниях человека и называет его гомосексуалистом вместо имени.
-    > Хорошо что много цитат, иначе читать было бы тошно
 
 * Сны в ведьмином доме ~ [Avery](users/567/56734832-yandex)<sup>15</sup>
 
@@ -29,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Бизнес с нуля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>220</sup>
 
-* Шаманские карты путешествия души ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>219</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>113</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>149</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>72</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>176</sup> 
@@ -56,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>220</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>11</sup> 
 [doingwonder](users/108/108689364763869996762-google)<sup>14</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>112</sup> 
 [the_pouring_rain](users/175/175864892-vkontakte)<sup>0</sup> 
 [](users/106/106933869236254657812-google)<sup>0</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>88</sup> 
@@ -68,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 
 
-_04.11.2019 18:28:04_
+_04.11.2019 19:53:25_

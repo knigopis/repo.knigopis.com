@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Завтрак у Тиффани ~ [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup>
 * Самый главный приз (ТГ 37) ~ [Chiffi](users/105/105831994080785626680-google)<sup>149</sup>
 * K.I.L.L.E.R.S ~ [kissamasya](users/684/68439978-vkontakte)<sup>72</sup>
 * Взлет и падение Третьего рейха ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
@@ -30,7 +31,6 @@
 * Маэстро теней ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
 * Крауч-Энд ~ [En](users/333/333646551-vkontakte)<sup>78</sup>
 * Показания Рендольфа Картера ~ [En](users/333/333646551-vkontakte)<sup>77</sup>
-* Шоколад ~ [En](users/333/333646551-vkontakte)<sup>76</sup>
 
 
-_04.11.2019 18:28:04_
+_04.11.2019 19:53:25_
