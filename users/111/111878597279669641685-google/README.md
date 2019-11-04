@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>176</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>177</sup>
 ---
 
 ## 2019
+
+### Белая лошадь - горе не моё
+Наталья Соломко
+> [2019-11-04] 
+
 
 ### Уилл Грейсон, Уилл Грейсон
 Джон Грин и Дэвид Левитан
