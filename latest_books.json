@@ -1,4 +1,16 @@
 {
+    "ympM6lzMcd": {
+        "id": "ympM6lzMcd",
+        "title": "Укол гордости",
+        "author": "Анна Акимова",
+        "notes": "",
+        "createdAt": "2019-11-04 12:19:19",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 15
+        }
+    },
     "EyFL1_8Fvu": {
         "id": "EyFL1_8Fvu",
         "title": "Хроники Дождевых чащоб. Город драконов",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 220
-        }
-    },
-    "ZU4_4uYMiH": {
-        "id": "ZU4_4uYMiH",
-        "title": "Шаманские карты путешествия души",
-        "author": "Олард Диксон",
-        "notes": "в процессе",
-        "createdAt": "2019-10-31 08:05:06",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 219
         }
     }
 }
