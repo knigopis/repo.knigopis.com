@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/113/113684692562807406011-google)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [Нэко](users/659/659175577868030-facebook)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>151</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>72</sup> 
-[](users/117/117968006138114353304-google)<sup>0</sup> 
 
 
-_03.11.2019 23:57:25_
+_04.11.2019 03:49:30_
