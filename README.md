@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[elena-gagina2014](users/208/208969292-yandex)<sup>13</sup> 
+[elena-gagina2014](users/208/208969292-yandex)<sup>12</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>11</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>48</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>735</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [milananikiforova](users/899/89967062-vkontakte)<sup>0</sup> 
 
 
-_05.11.2019 21:06:43_
+_05.11.2019 21:07:10_
