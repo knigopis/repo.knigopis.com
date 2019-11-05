@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 48,
+        "updatedAt": "2019-11-05 10:05:42"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "milananikiforova",
         "booksCount": 0,
         "updatedAt": "2019-10-26 20:26:17"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 126,
-        "updatedAt": "2019-10-26 14:00:06"
     }
 }

@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 1984 ~ [Rainbow](users/109/109787328219839805802-google)<sup>48</sup>
+    > «Война – это мир, свобода – это рабство, незнание — сила.»
+    > «С будущим как общаться? Это по самой сути невозможно. Либо завтра будет похоже на сегодня и тогда не станет его слушать, либо оно будет другим, и невзгоды Уинстона ничего ему не скажут.»
+    > «Как обратишься к будущему, если следа твоего и даже безымянного слова на земле не сохранится?»
+    > «Когда не можешь обратиться к посторонним свидетельствам, теряют четкость даже очертания собственной жизни»
+    > «Кто управляет прошлым, тот управляет будущим; кто управляет настоящим, тот управляет прошлым»
+
 * Завтрак у Тиффани ~ [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup>
     > 9/10
 
@@ -13,7 +20,6 @@ Do not use pull requests to make changes here.
     > "Выжатому лимону только одна дорога - в мусорное ведро"
 
 * K.I.L.L.E.R.S ~ [kissamasya](users/684/68439978-vkontakte)<sup>72</sup>
-    > Лиса была обычной девушкой, но после предательства близкого человека, меняется целиком и полностью...
 
 * Взлет и падение Третьего рейха ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
 
@@ -27,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Множественные источники дохода ~ [HXT](users/100/100002563462782-facebook)<sup>358</sup>
 
-* Бизнес с нуля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>220</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>48</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>735</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>10</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>177</sup> 
@@ -63,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>47</sup> 
 [milananikiforova](users/899/89967062-vkontakte)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 
 
-_05.11.2019 09:37:05_
+_05.11.2019 10:05:42_
