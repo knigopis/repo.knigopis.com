@@ -1,4 +1,16 @@
 {
+    "5XciFkDoNR": {
+        "id": "5XciFkDoNR",
+        "title": "Веселые похороны",
+        "author": "Людмила Улицкая",
+        "notes": "",
+        "createdAt": "2019-11-05 14:41:10",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 10
+        }
+    },
     "Rn8fqqgxG0": {
         "id": "Rn8fqqgxG0",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 148
-        }
-    },
-    "hkMOa6_Qx_": {
-        "id": "hkMOa6_Qx_",
-        "title": "Чарльз Диккенс",
-        "author": "Рождественские истории",
-        "notes": "",
-        "createdAt": "2019-10-31 20:25:11",
-        "user": {
-            "id": "55239754-vkontakte",
-            "nickname": "Katya",
-            "booksCount": 2
         }
     }
 }
