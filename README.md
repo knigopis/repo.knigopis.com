@@ -34,11 +34,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>10</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>177</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>149</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>72</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>9</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>150</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>359</sup> 
 [](users/113/113684692562807406011-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 
 
-_04.11.2019 20:31:44_
+_05.11.2019 08:58:16_
