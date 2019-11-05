@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>735</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>10</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>177</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>47</sup> 
 [milananikiforova](users/899/89967062-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>74</sup> 
 
 
-_05.11.2019 08:58:16_
+_05.11.2019 09:37:05_

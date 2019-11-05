@@ -1,4 +1,16 @@
 {
+    "Ubz5jyuMBY": {
+        "id": "Ubz5jyuMBY",
+        "title": "Последний год жизни Рикардо Рейса",
+        "author": "Жозе Сарамаго",
+        "notes": "",
+        "createdAt": "2019-11-05 09:37:04",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 735
+        }
+    },
     "fuAuRRiLou": {
         "id": "fuAuRRiLou",
         "title": "Затеси",
@@ -344,18 +356,6 @@
         "user": {
             "id": "55239754-vkontakte",
             "nickname": "Katya",
-            "booksCount": 1
-        }
-    },
-    "EmZQj5YI3z": {
-        "id": "EmZQj5YI3z",
-        "title": "Красная таблетка",
-        "author": "Курпатов Андрей",
-        "notes": "Вся правда о человеческом мозге, взаимоотношениях мозга и сознания. Много описаний известных психологических экспериментов.",
-        "createdAt": "2019-10-31 18:35:25",
-        "user": {
-            "id": "103100437955997490081-google",
-            "nickname": "slowd",
             "booksCount": 1
         }
     }
