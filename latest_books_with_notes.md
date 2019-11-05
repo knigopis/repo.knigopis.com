@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Большая книга "Ленивой мамы" ~ [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup>
 * 1984 ~ [Rainbow](users/109/109787328219839805802-google)<sup>48</sup>
 * Завтрак у Тиффани ~ [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup>
 * Самый главный приз (ТГ 37) ~ [Chiffi](users/105/105831994080785626680-google)<sup>149</sup>
@@ -30,7 +31,6 @@
 * Мистический манускрипт о медном мертвеце (Флавия де Люс без номера) ~ [Chiffi](users/105/105831994080785626680-google)<sup>145</sup>
 * Страна Рождества ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup>
 * Маэстро теней ~ [violet_velva](users/116/116961712580551399099-google)<sup>73</sup>
-* Крауч-Энд ~ [En](users/333/333646551-vkontakte)<sup>78</sup>
 
 
-_05.11.2019 10:05:42_
+_05.11.2019 21:06:43_

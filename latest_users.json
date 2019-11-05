@@ -1,4 +1,10 @@
 {
+    "208969292-yandex": {
+        "id": "208969292-yandex",
+        "nickname": "elena-gagina2014",
+        "booksCount": 13,
+        "updatedAt": "2019-11-05 21:06:43"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -124,12 +130,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 220,
         "updatedAt": "2019-10-31 08:06:38"
-    },
-    "208969292-yandex": {
-        "id": "208969292-yandex",
-        "nickname": "elena-gagina2014",
-        "booksCount": 11,
-        "updatedAt": "2019-10-30 19:37:19"
     },
     "108689364763869996762-google": {
         "id": "108689364763869996762-google",
