@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Woc4onok213](users/103/103474005216004236389-google)<sup>5</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>12</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>180</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>30</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>88</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>132</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup> 
-[Даша](users/334/334696193054530347-mailru)<sup>47</sup> 
 
 
-_06.11.2019 14:54:23_
+_06.11.2019 16:00:53_

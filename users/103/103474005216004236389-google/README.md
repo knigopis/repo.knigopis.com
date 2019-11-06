@@ -1,7 +1,12 @@
-# List of books read by [Woc4onok213](https://plus.google.com/u/0/103474005216004236389/)<sup>4</sup>
+# List of books read by [Woc4onok213](https://plus.google.com/u/0/103474005216004236389/)<sup>5</sup>
 ---
 
 ## 2019
+
+### Бедная Лиза
+Н.М.Карамзин
+> [2019-11-02] 
+
 
 ### Зелёная лампа
 А.Грин

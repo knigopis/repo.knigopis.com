@@ -1,4 +1,10 @@
 {
+    "103474005216004236389-google": {
+        "id": "103474005216004236389-google",
+        "nickname": "Woc4onok213",
+        "booksCount": 5,
+        "updatedAt": "2019-11-06 16:00:53"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 65,
         "updatedAt": "2019-10-28 17:54:35"
-    },
-    "334696193054530347-mailru": {
-        "id": "334696193054530347-mailru",
-        "nickname": "Даша",
-        "booksCount": 47,
-        "updatedAt": "2019-10-26 21:38:34"
     }
 }
