@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mr.mothermort](users/404/404721939-vkontakte)<sup>0</sup> 
+[mr.mothermort](users/404/404721939-vkontakte)<sup>1</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>6</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>12</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>180</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>132</sup> 
 
 
-_06.11.2019 18:00:32_
+_06.11.2019 18:01:00_
