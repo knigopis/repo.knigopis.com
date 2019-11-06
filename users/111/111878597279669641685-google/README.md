@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>178</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>179</sup>
 ---
 
 ## 2019
+
+### Песнь о вещем Олеге
+Александр Пушкин
+> [2019-11-06] 
+
 
 ### Вам и не снилось
 Галина Щербакова
