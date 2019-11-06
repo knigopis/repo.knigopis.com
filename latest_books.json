@@ -1,4 +1,16 @@
 {
+    "dv0bg91BHk": {
+        "id": "dv0bg91BHk",
+        "title": "Гиперпространство",
+        "author": "Каку Мичио",
+        "notes": "",
+        "createdAt": "2019-11-06 06:34:33",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 30
+        }
+    },
     "S0ToqSCT2Y": {
         "id": "S0ToqSCT2Y",
         "title": "Большая книга \"Ленивой мамы\"",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 10
-        }
-    },
-    "CxLc38cy2I": {
-        "id": "CxLc38cy2I",
-        "title": "Грандиозная дзэн-буддистская свадьба",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2019-11-01 07:11:09",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 194
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 30,
+        "updatedAt": "2019-11-06 06:34:33"
+    },
     "208969292-yandex": {
         "id": "208969292-yandex",
         "nickname": "elena-gagina2014",
@@ -172,11 +178,5 @@
         "nickname": "Даша",
         "booksCount": 47,
         "updatedAt": "2019-10-26 21:38:34"
-    },
-    "89967062-vkontakte": {
-        "id": "89967062-vkontakte",
-        "nickname": "milananikiforova",
-        "booksCount": 0,
-        "updatedAt": "2019-10-26 20:26:17"
     }
 }
