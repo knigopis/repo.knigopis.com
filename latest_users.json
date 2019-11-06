@@ -1,4 +1,10 @@
 {
+    "404721939-vkontakte": {
+        "id": "404721939-vkontakte",
+        "nickname": "mr.mothermort",
+        "booksCount": 0,
+        "updatedAt": "2019-11-06 18:00:27"
+    },
     "103474005216004236389-google": {
         "id": "103474005216004236389-google",
         "nickname": "Woc4onok213",
@@ -172,11 +178,5 @@
         "nickname": "afferens.lucem",
         "booksCount": 132,
         "updatedAt": "2019-10-29 18:23:28"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 65,
-        "updatedAt": "2019-10-28 17:54:35"
     }
 }
