@@ -1,4 +1,16 @@
 {
+    "E4KLXxppTA": {
+        "id": "E4KLXxppTA",
+        "title": "Васюткино озеро",
+        "author": "В.П.Астафьев",
+        "notes": "",
+        "createdAt": "2019-11-06 17:15:09",
+        "user": {
+            "id": "103474005216004236389-google",
+            "nickname": "Woc4onok213",
+            "booksCount": 6
+        }
+    },
     "Gw6GAEcUCJ": {
         "id": "Gw6GAEcUCJ",
         "title": "Бедная Лиза",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 70
-        }
-    },
-    "Vxd1OwTzvM": {
-        "id": "Vxd1OwTzvM",
-        "title": "Такая дерзкая",
-        "author": "Николь Штраудингер",
-        "notes": "",
-        "createdAt": "2019-11-02 06:50:04",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 84
         }
     }
 }

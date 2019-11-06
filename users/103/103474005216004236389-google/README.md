@@ -1,7 +1,12 @@
-# List of books read by [Woc4onok213](https://plus.google.com/u/0/103474005216004236389/)<sup>5</sup>
+# List of books read by [Woc4onok213](https://plus.google.com/u/0/103474005216004236389/)<sup>6</sup>
 ---
 
 ## 2019
+
+### Васюткино озеро
+В.П.Астафьев
+> [2019-11-06] 
+
 
 ### Бедная Лиза
 Н.М.Карамзин

@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Woc4onok213](users/103/103474005216004236389-google)<sup>5</sup> 
+[Woc4onok213](users/103/103474005216004236389-google)<sup>6</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>12</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>180</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>30</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup> 
 
 
-_06.11.2019 16:00:53_
+_06.11.2019 17:15:09_
