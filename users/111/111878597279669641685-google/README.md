@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>183</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>184</sup>
 ---
 
 ## 2019
+
+### Размышления у парадного подъезда
+Николай Некрасов
+> [2019-11-07] 
+
 
 ### Русские женщины
 Николай Некрасов
