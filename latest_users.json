@@ -1,4 +1,10 @@
 {
+    "262062207519652-facebook": {
+        "id": "262062207519652-facebook",
+        "nickname": "TheWildWind",
+        "booksCount": 37,
+        "updatedAt": "2019-11-07 19:34:13"
+    },
     "113895331373311240811-google": {
         "id": "113895331373311240811-google",
         "nickname": "Ulmar",
@@ -172,11 +178,5 @@
         "nickname": "the_pouring_rain",
         "booksCount": 0,
         "updatedAt": "2019-10-30 12:45:26"
-    },
-    "106933869236254657812-google": {
-        "id": "106933869236254657812-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-10-29 19:08:29"
     }
 }
