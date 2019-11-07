@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ulmar](users/113/113895331373311240811-google)<sup>0</sup> 
 [Emarion](users/107/107867265355294835155-google)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>736</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [doingwonder](users/108/108689364763869996762-google)<sup>14</sup> 
 [the_pouring_rain](users/175/175864892-vkontakte)<sup>0</sup> 
 [](users/106/106933869236254657812-google)<sup>0</sup> 
-[Quaff](users/122/12267158-vkontakte)<sup>88</sup> 
 
 
-_07.11.2019 12:08:45_
+_07.11.2019 15:37:37_
