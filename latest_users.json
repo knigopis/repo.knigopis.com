@@ -1,4 +1,10 @@
 {
+    "107867265355294835155-google": {
+        "id": "107867265355294835155-google",
+        "nickname": "Emarion",
+        "booksCount": 0,
+        "updatedAt": "2019-11-07 12:08:41"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Quaff",
         "booksCount": 88,
         "updatedAt": "2019-10-29 18:23:57"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 132,
-        "updatedAt": "2019-10-29 18:23:28"
     }
 }
