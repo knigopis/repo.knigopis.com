@@ -37,12 +37,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>736</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>73</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>182</sup> 
 [mr.mothermort](users/404/404721939-vkontakte)<sup>1</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>6</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>12</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>30</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>12</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>48</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>132</sup> 
 
 
-_07.11.2019 11:15:45_
+_07.11.2019 11:54:00_
