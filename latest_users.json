@@ -1,4 +1,10 @@
 {
+    "113895331373311240811-google": {
+        "id": "113895331373311240811-google",
+        "nickname": "Ulmar",
+        "booksCount": 0,
+        "updatedAt": "2019-11-07 15:37:32"
+    },
     "107867265355294835155-google": {
         "id": "107867265355294835155-google",
         "nickname": "Emarion",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-10-29 19:08:29"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 88,
-        "updatedAt": "2019-10-29 18:23:57"
     }
 }
