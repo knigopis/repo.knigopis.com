@@ -1,4 +1,16 @@
 {
+    "O97agUWUx8": {
+        "id": "O97agUWUx8",
+        "title": "Авессалом, Авессалом!",
+        "author": "Уильям Фолкнер",
+        "notes": "",
+        "createdAt": "2019-11-07 11:15:42",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 736
+        }
+    },
     "9s4lCnHG92": {
         "id": "9s4lCnHG92",
         "title": "Прекрасная толстушка.Книга 2",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 15
-        }
-    },
-    "4jcDHn3St5": {
-        "id": "4jcDHn3St5",
-        "title": "Звезды падают вверх",
-        "author": "Анна и Сергей Литвиновы",
-        "notes": "",
-        "createdAt": "2019-11-03 02:48:53",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 12
         }
     }
 }
