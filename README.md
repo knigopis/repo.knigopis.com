@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ulmar](users/113/113895331373311240811-google)<sup>0</sup> 
+[Ulmar](users/113/113895331373311240811-google)<sup>1</sup> 
 [Emarion](users/107/107867265355294835155-google)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>736</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/106/106933869236254657812-google)<sup>0</sup> 
 
 
-_07.11.2019 15:37:37_
+_07.11.2019 15:43:53_
