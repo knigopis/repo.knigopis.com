@@ -1,4 +1,16 @@
 {
+    "hqM3KwE-nW": {
+        "id": "hqM3KwE-nW",
+        "title": "Милан Кундера",
+        "author": "Невыносимая лёгкость бытия",
+        "notes": "Секс и страдания.",
+        "createdAt": "2019-11-08 00:58:55",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 148
+        }
+    },
     "zWIRngMaQy": {
         "id": "zWIRngMaQy",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 14
-        }
-    },
-    "0DvXh_yvvB": {
-        "id": "0DvXh_yvvB",
-        "title": "Мистический манускрипт о медном мертвеце (Флавия де Люс без номера)",
-        "author": "",
-        "notes": "рассказ. хуже,  чем вся серия((",
-        "createdAt": "2019-10-20 18:14:25",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 145
         }
     }
 }

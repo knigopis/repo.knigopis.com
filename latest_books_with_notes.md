@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Милан Кундера ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>148</sup>
 *  ~ [TheWildWind](users/262/262062207519652-facebook)<sup>37</sup>
 * Прекрасная толстушка.Книга 2 ~ [kissamasya](users/684/68439978-vkontakte)<sup>73</sup>
 * Большая книга "Ленивой мамы" ~ [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup>
@@ -30,7 +31,6 @@
 * Грішниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>60</sup>
 * Воздушный замок ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
 * Дом с характером ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
-* Мистический манускрипт о медном мертвеце (Флавия де Люс без номера) ~ [Chiffi](users/105/105831994080785626680-google)<sup>145</sup>
 
 
-_07.11.2019 19:34:13_
+_08.11.2019 00:58:55_
