@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[shalem](users/169/16930265-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>148</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>184</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>37</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vengeancee](users/204/20441347-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>42</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>220</sup> 
-[doingwonder](users/108/108689364763869996762-google)<sup>14</sup> 
 
 
-_08.11.2019 00:58:56_
+_08.11.2019 07:08:38_
