@@ -1,4 +1,16 @@
 {
+    "Yt9yMex3Wa": {
+        "id": "Yt9yMex3Wa",
+        "title": "Милан Кундера",
+        "author": "Невыносимая лёгкость бытия",
+        "notes": "",
+        "createdAt": "2019-11-08 00:58:43",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 147
+        }
+    },
     "gdvDO6u1ms": {
         "id": "gdvDO6u1ms",
         "title": "Размышления у парадного подъезда",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 15
-        }
-    },
-    "EyFL1_8Fvu": {
-        "id": "EyFL1_8Fvu",
-        "title": "Хроники Дождевых чащоб. Город драконов",
-        "author": "Робин Хобб",
-        "notes": "",
-        "createdAt": "2019-11-04 08:19:21",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 150
         }
     }
 }
