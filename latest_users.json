@@ -1,4 +1,10 @@
 {
+    "6824695122213409460-mailru": {
+        "id": "6824695122213409460-mailru",
+        "nickname": "Ольга Мамина",
+        "booksCount": 0,
+        "updatedAt": "2019-11-08 18:22:36"
+    },
     "1620750431522129-facebook": {
         "id": "1620750431522129-facebook",
         "nickname": "Андріанс",
@@ -172,11 +178,5 @@
         "nickname": "vengeancee",
         "booksCount": 0,
         "updatedAt": "2019-10-31 13:25:12"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 42,
-        "updatedAt": "2019-10-31 09:41:29"
     }
 }
