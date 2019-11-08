@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ольга Мамина](users/682/6824695122213409460-mailru)<sup>0</sup> 
 [Андріанс](users/162/1620750431522129-facebook)<sup>0</sup> 
 [shalem](users/169/16930265-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>148</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Katya](users/552/55239754-vkontakte)<sup>2</sup> 
 [slowd](users/103/103100437955997490081-google)<sup>1</sup> 
 [vengeancee](users/204/20441347-vkontakte)<sup>0</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>42</sup> 
 
 
-_08.11.2019 12:47:32_
+_08.11.2019 18:22:41_
