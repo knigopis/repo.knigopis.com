@@ -1,4 +1,16 @@
 {
+    "7lPtSZjBei": {
+        "id": "7lPtSZjBei",
+        "title": "Цифры",
+        "author": "Иван Бунин",
+        "notes": "",
+        "createdAt": "2019-11-09 20:48:50",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 186
+        }
+    },
     "Lh6ND9Khlc": {
         "id": "Lh6ND9Khlc",
         "title": "Повесть о том, как мужик двух генералов прокормил",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 177
-        }
-    },
-    "kcAGkEH_aY": {
-        "id": "kcAGkEH_aY",
-        "title": "Завтрак у Тиффани",
-        "author": "Трумен Капоте",
-        "notes": "9/10",
-        "createdAt": "2019-11-04 19:53:25",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 113
         }
     }
 }
