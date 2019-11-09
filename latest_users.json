@@ -1,4 +1,10 @@
 {
+    "17475979687188177329-mailru": {
+        "id": "17475979687188177329-mailru",
+        "nickname": "Человеколось",
+        "booksCount": 60,
+        "updatedAt": "2019-11-09 18:25:23"
+    },
     "194209197-vkontakte": {
         "id": "194209197-vkontakte",
         "nickname": "max_50rus",
@@ -172,11 +178,5 @@
         "nickname": "Katya",
         "booksCount": 2,
         "updatedAt": "2019-10-31 20:25:11"
-    },
-    "103100437955997490081-google": {
-        "id": "103100437955997490081-google",
-        "nickname": "slowd",
-        "booksCount": 1,
-        "updatedAt": "2019-10-31 18:35:25"
     }
 }

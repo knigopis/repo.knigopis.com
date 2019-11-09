@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Человеколось](users/174/17475979687188177329-mailru)<sup>60</sup> 
 [max_50rus](users/194/194209197-vkontakte)<sup>0</sup> 
 [shalem](users/169/16930265-vkontakte)<sup>1</sup> 
 [Ольга Мамина](users/682/6824695122213409460-mailru)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>194</sup> 
 [Katya](users/552/55239754-vkontakte)<sup>2</sup> 
-[slowd](users/103/103100437955997490081-google)<sup>1</sup> 
 
 
-_09.11.2019 14:31:04_
+_09.11.2019 18:25:23_

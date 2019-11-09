@@ -1,7 +1,12 @@
-# List of books read by [Человеколось](https://t.me/nerkin)<sup>59</sup>
+# List of books read by [Человеколось](https://t.me/nerkin)<sup>60</sup>
 ---
 
 ## 2019
+
+### Narconomics. Преступный синдикат как успешная бизнес-мод Подробнее: https://www.labirint.ru/books/648697/ель
+Том Уэйнрайт
+> [2019-11-01] 
+
 
 ### ГКЧП как тетраграмматон
 Виктор Пелевин
