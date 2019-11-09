@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>187</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>188</sup>
 ---
 
 ## 2019
+
+### Кусака
+Леонид Андреев
+> [2019-11-09] 
+
 
 ### Детство
 Максим Горький
