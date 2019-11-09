@@ -1,4 +1,16 @@
 {
+    "8eAYfW9IOa": {
+        "id": "8eAYfW9IOa",
+        "title": "Пиши, сокращай. Как создавать сильный текст",
+        "author": "Ильяхов М., Сарычева Л.",
+        "notes": "",
+        "createdAt": "2019-11-09 18:26:03",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 61
+        }
+    },
     "ezXm6o2IwE": {
         "id": "ezXm6o2IwE",
         "title": "Narconomics. Преступный синдикат как успешная бизнес-мод Подробнее: https://www.labirint.ru/books/648697/ель",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 149
-        }
-    },
-    "7dGjJPRqOv": {
-        "id": "7dGjJPRqOv",
-        "title": "K.I.L.L.E.R.S",
-        "author": "Park_Killer03",
-        "notes": "Лиса была обычной девушкой, но после предательства близкого человека, меняется целиком и полностью...",
-        "createdAt": "2019-11-04 17:36:49",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 72
         }
     }
 }
