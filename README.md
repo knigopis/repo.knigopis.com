@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Knigolub~](users/111/111878597279669641685-google)<sup>186</sup> 
+[Knigolub~](users/111/111878597279669641685-google)<sup>187</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>61</sup> 
 [max_50rus](users/194/194209197-vkontakte)<sup>0</sup> 
 [shalem](users/169/16930265-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Katya](users/552/55239754-vkontakte)<sup>2</sup> 
 
 
-_09.11.2019 20:48:51_
+_09.11.2019 20:50:17_
