@@ -1,4 +1,10 @@
 {
+    "194209197-vkontakte": {
+        "id": "194209197-vkontakte",
+        "nickname": "max_50rus",
+        "booksCount": 0,
+        "updatedAt": "2019-11-09 14:30:58"
+    },
     "16930265-vkontakte": {
         "id": "16930265-vkontakte",
         "nickname": "shalem",
@@ -172,11 +178,5 @@
         "nickname": "slowd",
         "booksCount": 1,
         "updatedAt": "2019-10-31 18:35:25"
-    },
-    "20441347-vkontakte": {
-        "id": "20441347-vkontakte",
-        "nickname": "vengeancee",
-        "booksCount": 0,
-        "updatedAt": "2019-10-31 13:25:12"
     }
 }
