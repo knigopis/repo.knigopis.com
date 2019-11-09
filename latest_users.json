@@ -1,4 +1,10 @@
 {
+    "16930265-vkontakte": {
+        "id": "16930265-vkontakte",
+        "nickname": "shalem",
+        "booksCount": 1,
+        "updatedAt": "2019-11-09 05:08:37"
+    },
     "6824695122213409460-mailru": {
         "id": "6824695122213409460-mailru",
         "nickname": "Ольга Мамина",
@@ -10,12 +16,6 @@
         "nickname": "Андріанс",
         "booksCount": 0,
         "updatedAt": "2019-11-08 12:47:26"
-    },
-    "16930265-vkontakte": {
-        "id": "16930265-vkontakte",
-        "nickname": "shalem",
-        "booksCount": 0,
-        "updatedAt": "2019-11-08 07:08:32"
     },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
