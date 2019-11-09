@@ -1,7 +1,7 @@
 # Wish list of books by [afferens.lucem](http://vk.com/id196071655)
 ---
 
-### `90` Битва королей
+### `92` Битва королей
 Джордж Мартин
 
 ### `28` Angular. Сборник рецептов
