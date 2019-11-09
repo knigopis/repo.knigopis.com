@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Щегол ~ [Avery](users/567/56734832-yandex)<sup>16</sup>
 * Милан Кундера ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>148</sup>
 *  ~ [TheWildWind](users/262/262062207519652-facebook)<sup>37</sup>
 * Прекрасная толстушка.Книга 2 ~ [kissamasya](users/684/68439978-vkontakte)<sup>73</sup>
@@ -30,7 +31,6 @@
 * Шевченків міф України ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>61</sup>
 * Грішниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>60</sup>
 * Воздушный замок ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
-* Дом с характером ~ [Avery](users/567/56734832-yandex)<sup>14</sup>
 
 
-_08.11.2019 00:58:55_
+_09.11.2019 22:09:07_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Щегол ~ [Avery](users/567/56734832-yandex)<sup>16</sup>
+    > «Я глядел на картину и ощущал такое же схождение всего в единой точке: дрожащий, пронзенный солнцем миг, который существовал в вечности и сейчас. И только изредка я замечал цепь у щегла на ножке или думал о том, до чего же жестоко жизнь обошлась с маленьким живым созданием – оно вспорхнет ненадолго и обреченно приземлится в то же безысходное место.»
+
 * Милан Кундера ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>148</sup>
     > Секс и страдания.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хуже первой части. Жаль потраченного времени.
 
 * Прекрасная толстушка.Книга 2 ~ [kissamasya](users/684/68439978-vkontakte)<sup>73</sup>
-    > Двадцать восемь захватывающих, искренних любовных историй восхитительной женщины, красота которой, словно магнит, притягивает мужчин. Среди ее поклонников — зловещий Берия и «вор в законе», знаменитый футболист и известный тенор, космонавт и скульптор с мировым именем…
 
 * Большая книга "Ленивой мамы" ~ [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Взлет и падение Третьего рейха ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
 
-* Сны в ведьмином доме ~ [Avery](users/567/56734832-yandex)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Avery](users/567/56734832-yandex)<sup>16</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>188</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>61</sup> 
 [max_50rus](users/194/194209197-vkontakte)<sup>0</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113684692562807406011-google)<sup>0</sup> 
 [Нэко](users/659/659175577868030-facebook)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>151</sup> 
-[Avery](users/567/56734832-yandex)<sup>15</sup> 
 [](users/116/116624392380281660529-google)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>194</sup> 
 [Katya](users/552/55239754-vkontakte)<sup>2</sup> 
 
 
-_09.11.2019 20:51:01_
+_09.11.2019 22:09:07_

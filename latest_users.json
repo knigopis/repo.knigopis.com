@@ -1,4 +1,10 @@
 {
+    "56734832-yandex": {
+        "id": "56734832-yandex",
+        "nickname": "Avery",
+        "booksCount": 16,
+        "updatedAt": "2019-11-09 22:09:06"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -148,12 +154,6 @@
         "nickname": "lucius",
         "booksCount": 151,
         "updatedAt": "2019-11-03 14:23:08"
-    },
-    "56734832-yandex": {
-        "id": "56734832-yandex",
-        "nickname": "Avery",
-        "booksCount": 15,
-        "updatedAt": "2019-11-03 07:41:39"
     },
     "116624392380281660529-google": {
         "id": "116624392380281660529-google",
