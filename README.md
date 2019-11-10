@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Король волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup>
+    > 8/10 Филлори реальна, квест 7 ключей.
+
 * Магическая уборка ~ [dmiro](users/571/5714115-vkontakte)<sup>15</sup>
     > 1. Создайте вдохновляющий образ вашего дома
     > 2. Настройтесь
@@ -23,7 +26,6 @@ Do not use pull requests to make changes here.
     > с.80-81, с.82-83, с.136-138
 
 * Текст ~ [En](users/333/333646551-vkontakte)<sup>80</sup>
-    > Новое "Преступление и наказание".
 
 * Щегол ~ [Avery](users/567/56734832-yandex)<sup>16</sup>
 
@@ -37,13 +39,12 @@ Do not use pull requests to make changes here.
 
 * 1984 ~ [Rainbow](users/109/109787328219839805802-google)<sup>48</sup>
 
-* Завтрак у Тиффани ~ [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>193</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>15</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>43</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>149</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>150</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>359</sup> 
-[](users/113/113684692562807406011-google)<sup>0</sup> 
 
 
-_10.11.2019 15:31:25_
+_10.11.2019 18:49:49_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>65</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>66</sup>
 ---
 
 ## 2019
+
+### Король волшебников
+Лев Гроссман
+> [2019-11-08] 8/10 Филлори реальна, квест 7 ключей.
+
 
 ### Група Скрябін та друзі по сцені
 Ольга Кузьменко
