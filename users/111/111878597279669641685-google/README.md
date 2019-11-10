@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>190</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>191</sup>
 ---
 
 ## 2019
+
+### О чем плачут лошади
+Фёдор Абрамов
+> [2019-11-10] 
+
 
 ### В прекрасном и яростном мире
 Андрей Платонов
