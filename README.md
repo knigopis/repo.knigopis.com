@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Текст ~ [En](users/333/333646551-vkontakte)<sup>80</sup>
+    > Новое "Преступление и наказание".
+
 * Щегол ~ [Avery](users/567/56734832-yandex)<sup>16</sup>
     > «Я глядел на картину и ощущал такое же схождение всего в единой точке: дрожащий, пронзенный солнцем миг, который существовал в вечности и сейчас. И только изредка я замечал цепь у щегла на ножке или думал о том, до чего же жестоко жизнь обошлась с маленьким живым созданием – оно вспорхнет ненадолго и обреченно приземлится в то же безысходное место.»
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Секс и страдания.
 
 *  ~ [TheWildWind](users/262/262062207519652-facebook)<sup>37</sup>
-    > Хуже первой части. Жаль потраченного времени.
 
 * Прекрасная толстушка.Книга 2 ~ [kissamasya](users/684/68439978-vkontakte)<sup>73</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * K.I.L.L.E.R.S ~ [kissamasya](users/684/68439978-vkontakte)<sup>72</sup>
 
-* Взлет и падение Третьего рейха ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>80</sup> 
 [](users/115/115826717712507836033-google)<sup>133</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [Avery](users/567/56734832-yandex)<sup>16</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>151</sup> 
 [](users/116/116624392380281660529-google)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>194</sup> 
 
 
-_10.11.2019 08:25:49_
+_10.11.2019 08:51:21_

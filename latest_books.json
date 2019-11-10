@@ -1,4 +1,16 @@
 {
+    "UEfcyKe80_": {
+        "id": "UEfcyKe80_",
+        "title": "Текст",
+        "author": "Дмитрий Глуховский",
+        "notes": "Новое \"Преступление и наказание\".",
+        "createdAt": "2019-11-10 08:51:20",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 80
+        }
+    },
     "QDtKsSzFt0": {
         "id": "QDtKsSzFt0",
         "title": "Прдстава",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 178
-        }
-    },
-    "dv0bg91BHk": {
-        "id": "dv0bg91BHk",
-        "title": "Гиперпространство",
-        "author": "Каку Мичио",
-        "notes": "",
-        "createdAt": "2019-11-06 06:34:33",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 30
         }
     }
 }
