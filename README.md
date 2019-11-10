@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>43</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>133</sup> 
 [En](users/333/333646551-vkontakte)<sup>80</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>359</sup> 
 [](users/113/113684692562807406011-google)<sup>0</sup> 
 [Нэко](users/659/659175577868030-facebook)<sup>0</sup> 
-[lucius](users/838/83820536-yandex)<sup>151</sup> 
 
 
-_10.11.2019 11:42:12_
+_10.11.2019 12:21:25_

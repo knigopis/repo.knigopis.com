@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 43,
+        "updatedAt": "2019-11-10 12:21:25"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": "Нэко",
         "booksCount": 0,
         "updatedAt": "2019-11-03 21:56:37"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 151,
-        "updatedAt": "2019-11-03 14:23:08"
     }
 }
