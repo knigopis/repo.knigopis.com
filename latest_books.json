@@ -1,4 +1,16 @@
 {
+    "jwcwLj89C1": {
+        "id": "jwcwLj89C1",
+        "title": "Бойня №5, или крестовый поход детей",
+        "author": "Курт Воннегут",
+        "notes": "ISBN 978-5-17-082868-5\n\"Как это приятно - ничего не чувствовать и всё же считаться живым\".\nс.80-81, с.82-83, с.136-138",
+        "createdAt": "2019-11-10 11:42:12",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 27
+        }
+    },
     "V_bhUpLqCX": {
         "id": "V_bhUpLqCX",
         "title": "Битва королей",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 180
-        }
-    },
-    "Xo9ldrAwsW": {
-        "id": "Xo9ldrAwsW",
-        "title": "Песнь о вещем Олеге",
-        "author": "Александр Пушкин",
-        "notes": "",
-        "createdAt": "2019-11-06 10:47:23",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 179
         }
     }
 }

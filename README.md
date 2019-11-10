@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бойня №5, или крестовый поход детей ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup>
+    > ISBN 978-5-17-082868-5
+    > "Как это приятно - ничего не чувствовать и всё же считаться живым".
+    > с.80-81, с.82-83, с.136-138
+
 * Текст ~ [En](users/333/333646551-vkontakte)<sup>80</sup>
     > Новое "Преступление и наказание".
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > «Я глядел на картину и ощущал такое же схождение всего в единой точке: дрожащий, пронзенный солнцем миг, который существовал в вечности и сейчас. И только изредка я замечал цепь у щегла на ножке или думал о том, до чего же жестоко жизнь обошлась с маленьким живым созданием – оно вспорхнет ненадолго и обреченно приземлится в то же безысходное место.»
 
 * Милан Кундера ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>148</sup>
-    > Секс и страдания.
 
 *  ~ [TheWildWind](users/262/262062207519652-facebook)<sup>37</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Самый главный приз (ТГ 37) ~ [Chiffi](users/105/105831994080785626680-google)<sup>149</sup>
 
-* K.I.L.L.E.R.S ~ [kissamasya](users/684/68439978-vkontakte)<sup>72</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>133</sup> 
 [En](users/333/333646551-vkontakte)<sup>80</sup> 
 [](users/115/115826717712507836033-google)<sup>133</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113684692562807406011-google)<sup>0</sup> 
 [Нэко](users/659/659175577868030-facebook)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>151</sup> 
-[](users/116/116624392380281660529-google)<sup>1</sup> 
 
 
-_10.11.2019 10:32:20_
+_10.11.2019 11:42:12_

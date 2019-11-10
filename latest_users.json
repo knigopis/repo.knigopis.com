@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 27,
+        "updatedAt": "2019-11-10 11:42:12"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 151,
         "updatedAt": "2019-11-03 14:23:08"
-    },
-    "116624392380281660529-google": {
-        "id": "116624392380281660529-google",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2019-11-02 09:25:01"
     }
 }
