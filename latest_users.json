@@ -1,4 +1,10 @@
 {
+    "5714115-vkontakte": {
+        "id": "5714115-vkontakte",
+        "nickname": "dmiro",
+        "booksCount": 15,
+        "updatedAt": "2019-11-10 15:24:37"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-11-04 03:50:39"
-    },
-    "659175577868030-facebook": {
-        "id": "659175577868030-facebook",
-        "nickname": "Нэко",
-        "booksCount": 0,
-        "updatedAt": "2019-11-03 21:56:37"
     }
 }
