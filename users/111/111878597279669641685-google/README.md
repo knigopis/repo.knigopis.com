@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>189</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>190</sup>
 ---
 
 ## 2019
+
+### В прекрасном и яростном мире
+Андрей Платонов
+> [2019-11-10] 
+
 
 ### Юшка
 Андрей Платонов
