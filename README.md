@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>189</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>15</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>43</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>133</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [Avery](users/567/56734832-yandex)<sup>16</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>188</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>61</sup> 
 [max_50rus](users/194/194209197-vkontakte)<sup>0</sup> 
 [shalem](users/169/16930265-vkontakte)<sup>1</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113684692562807406011-google)<sup>0</sup> 
 
 
-_10.11.2019 15:24:37_
+_10.11.2019 15:25:59_
