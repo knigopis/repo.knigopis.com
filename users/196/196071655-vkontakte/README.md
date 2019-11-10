@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>132</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>133</sup>
 ---
 
 ## 2019
+
+### Битва королей
+Джордж Мартин
+> [2019-11-10] 
+
 
 ### Побег из Шоушенка
 Стивен Кинг

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>133</sup> 
 [En](users/333/333646551-vkontakte)<sup>80</sup> 
 [](users/115/115826717712507836033-google)<sup>133</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>15</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Нэко](users/659/659175577868030-facebook)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>151</sup> 
 [](users/116/116624392380281660529-google)<sup>1</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>84</sup> 
 
 
-_10.11.2019 08:51:21_
+_10.11.2019 10:32:20_
