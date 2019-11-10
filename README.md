@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/270/270444099499-odnoklassniki)<sup>14</sup> 
+[](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [Avery](users/567/56734832-yandex)<sup>16</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>188</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>61</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Katya](users/552/55239754-vkontakte)<sup>2</sup> 
 
 
-_10.11.2019 01:53:59_
+_10.11.2019 01:56:15_
