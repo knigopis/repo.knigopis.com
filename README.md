@@ -44,7 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Knigolub~](users/111/111878597279669641685-google)<sup>191</sup> 
+[Knigolub~](users/111/111878597279669641685-google)<sup>192</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>15</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>43</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/113/113684692562807406011-google)<sup>0</sup> 
 
 
-_10.11.2019 15:28:06_
+_10.11.2019 15:30:03_
