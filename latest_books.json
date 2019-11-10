@@ -1,4 +1,16 @@
 {
+    "aaJGwShUaF": {
+        "id": "aaJGwShUaF",
+        "title": "Текст",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2019-11-10 19:45:27",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 44
+        }
+    },
     "6C6GsEKN2x": {
         "id": "6C6GsEKN2x",
         "title": "Король волшебников",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 13
-        }
-    },
-    "O97agUWUx8": {
-        "id": "O97agUWUx8",
-        "title": "Авессалом, Авессалом!",
-        "author": "Уильям Фолкнер",
-        "notes": "",
-        "createdAt": "2019-11-07 11:15:42",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 736
         }
     }
 }

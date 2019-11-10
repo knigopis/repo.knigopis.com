@@ -44,10 +44,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>44</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>193</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>15</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>43</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>133</sup> 
 [En](users/333/333646551-vkontakte)<sup>80</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>359</sup> 
 
 
-_10.11.2019 18:49:49_
+_10.11.2019 19:45:28_
