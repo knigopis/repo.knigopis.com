@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>194</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>44</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>133</sup> 
 [En](users/333/333646551-vkontakte)<sup>80</sup> 
 [](users/115/115826717712507836033-google)<sup>133</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [Avery](users/567/56734832-yandex)<sup>16</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>61</sup> 
 [max_50rus](users/194/194209197-vkontakte)<sup>0</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>359</sup> 
 
 
-_10.11.2019 19:55:55_
+_11.11.2019 02:56:45_

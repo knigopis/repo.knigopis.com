@@ -1,4 +1,16 @@
 {
+    "fld4K4iika": {
+        "id": "fld4K4iika",
+        "title": "Зулейха открывает глаза",
+        "author": "Гузель Яхина",
+        "notes": "",
+        "createdAt": "2019-11-11 02:56:45",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 16
+        }
+    },
     "xXQi78y7Da": {
         "id": "xXQi78y7Da",
         "title": "Каникулы",
@@ -345,18 +357,6 @@
             "id": "262062207519652-facebook",
             "nickname": "TheWildWind",
             "booksCount": 37
-        }
-    },
-    "Nuha-Rh_sC": {
-        "id": "Nuha-Rh_sC",
-        "title": "Дети Мафусаила",
-        "author": "Роберт Хайнлайн",
-        "notes": "",
-        "createdAt": "2019-11-07 15:43:53",
-        "user": {
-            "id": "113895331373311240811-google",
-            "nickname": "Ulmar",
-            "booksCount": 1
         }
     }
 }
