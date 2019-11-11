@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kkalashnikov](users/111/111832546942967940168-google)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>51</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>128</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>16</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>12</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>48</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>149</sup> 
 
 
-_11.11.2019 19:32:45_
+_11.11.2019 19:33:46_
