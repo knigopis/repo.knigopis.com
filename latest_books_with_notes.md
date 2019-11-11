@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Оно ~ [anvonamore](users/595/5957175-vkontakte)<sup>128</sup>
 * Король волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup>
 * Магическая уборка ~ [dmiro](users/571/5714115-vkontakte)<sup>15</sup>
 * Бойня №5, или крестовый поход детей ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup>
@@ -30,7 +31,6 @@
 * Обреченные ~ [](users/270/270444099499-odnoklassniki)<sup>5</sup>
 * Посейдоника ~ [En](users/333/333646551-vkontakte)<sup>79</sup>
 * Любка ~ [dmiro](users/571/5714115-vkontakte)<sup>14</sup>
-* Русская канарейка. Желтухин ~ [dmiro](users/571/5714115-vkontakte)<sup>13</sup>
 
 
-_10.11.2019 18:49:49_
+_11.11.2019 14:11:35_

@@ -1,4 +1,10 @@
 {
+    "5957175-vkontakte": {
+        "id": "5957175-vkontakte",
+        "nickname": "anvonamore",
+        "booksCount": 128,
+        "updatedAt": "2019-11-11 14:11:35"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 150,
         "updatedAt": "2019-11-04 08:19:21"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 359,
-        "updatedAt": "2019-11-04 04:06:52"
     }
 }

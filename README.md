@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Оно ~ [anvonamore](users/595/5957175-vkontakte)<sup>128</sup>
+    > 4/10
+
 * Король волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup>
     > 8/10 Филлори реальна, квест 7 ключей.
 
@@ -21,9 +24,6 @@ Do not use pull requests to make changes here.
     > 10. Благодарите вещи и дом
 
 * Бойня №5, или крестовый поход детей ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup>
-    > ISBN 978-5-17-082868-5
-    > "Как это приятно - ничего не чувствовать и всё же считаться живым".
-    > с.80-81, с.82-83, с.136-138
 
 * Текст ~ [En](users/333/333646551-vkontakte)<sup>80</sup>
 
@@ -37,13 +37,12 @@ Do not use pull requests to make changes here.
 
 * Большая книга "Ленивой мамы" ~ [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup>
 
-* 1984 ~ [Rainbow](users/109/109787328219839805802-google)<sup>48</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>128</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>194</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>44</sup> 
@@ -73,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>149</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>150</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>359</sup> 
 
 
-_11.11.2019 02:56:45_
+_11.11.2019 14:11:35_
