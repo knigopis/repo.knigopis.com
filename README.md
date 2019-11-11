@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>51</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>128</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>194</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>48</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>149</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>150</sup> 
 
 
-_11.11.2019 14:11:35_
+_11.11.2019 19:32:45_

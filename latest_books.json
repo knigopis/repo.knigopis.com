@@ -1,4 +1,16 @@
 {
+    "65pMhJKze-": {
+        "id": "65pMhJKze-",
+        "title": "История Российского государства: Часть Европы. От истоков до монгольского нашествия",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2019-11-11 19:32:45",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 51
+        }
+    },
     "W6In4wre6c": {
         "id": "W6In4wre6c",
         "title": "Оно",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 184
-        }
-    },
-    "gIjKNFEfBz": {
-        "id": "gIjKNFEfBz",
-        "title": "Русские женщины",
-        "author": "Николай Некрасов",
-        "notes": "",
-        "createdAt": "2019-11-07 20:40:29",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 183
         }
     }
 }

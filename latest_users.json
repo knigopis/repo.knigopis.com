@@ -1,4 +1,10 @@
 {
+    "57239276-vkontakte": {
+        "id": "57239276-vkontakte",
+        "nickname": "vladkozz",
+        "booksCount": 51,
+        "updatedAt": "2019-11-11 19:32:45"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 149,
         "updatedAt": "2019-11-04 18:28:04"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 150,
-        "updatedAt": "2019-11-04 08:19:21"
     }
 }
