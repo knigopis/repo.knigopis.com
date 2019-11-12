@@ -1,7 +1,7 @@
 # Wish list of books by [afferens.lucem](http://vk.com/id196071655)
 ---
 
-### `55` Angular. Сборник рецептов
+### `60` Angular. Сборник рецептов
 Мэтт Фрисби
 
 ### `22` Расплетая радугу
