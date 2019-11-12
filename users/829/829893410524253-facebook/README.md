@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>66</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>67</sup>
 ---
 
 ## 2019
+
+### Земля волшебников
+Лев Гроссман
+> [2019-11-12] 8/10 Квентин спасает ниффина, апокалипсис в Филлори.
+
 
 ### Король волшебников
 Лев Гроссман

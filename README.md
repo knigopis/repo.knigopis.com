@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Земля волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup>
+    > 8/10 Квентин спасает ниффина, апокалипсис в Филлори.
+
 * Оно ~ [anvonamore](users/595/5957175-vkontakte)<sup>128</sup>
     > 4/10
 
@@ -12,16 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Филлори реальна, квест 7 ключей.
 
 * Магическая уборка ~ [dmiro](users/571/5714115-vkontakte)<sup>15</sup>
-    > 1. Создайте вдохновляющий образ вашего дома
-    > 2. Настройтесь
-    > 3. Принимайте решение сразу
-    > 4. «Доставляет ли вещь мне радость?»
-    > 5. Сортируйте вещи по категориям, а не по комнатам
-    > 6. Не заполняйте ящики больше чем на 90%
-    > 7. Складывать одежду вертикально
-    > 8. Личное пространство - место силы
-    > 9. Разберитесь с прошлым
-    > 10. Благодарите вещи и дом
 
 * Бойня №5, или крестовый поход детей ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup>
 
@@ -35,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Прекрасная толстушка.Книга 2 ~ [kissamasya](users/684/68439978-vkontakte)<sup>73</sup>
 
-* Большая книга "Ленивой мамы" ~ [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>17</sup> 
 [kkalashnikov](users/111/111832546942967940168-google)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>51</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>128</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>194</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>44</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>15</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>133</sup> 
@@ -74,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup> 
 
 
-_12.11.2019 09:51:41_
+_12.11.2019 19:21:31_

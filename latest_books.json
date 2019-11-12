@@ -1,4 +1,16 @@
 {
+    "hx0DvJQC7-": {
+        "id": "hx0DvJQC7-",
+        "title": "Земля волшебников",
+        "author": "Лев Гроссман",
+        "notes": "8/10 Квентин спасает ниффина, апокалипсис в Филлори.",
+        "createdAt": "2019-11-12 19:21:31",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 67
+        }
+    },
     "6Ia9eOU2gW": {
         "id": "6Ia9eOU2gW",
         "title": "Крест великой княгини",
@@ -345,18 +357,6 @@
             "id": "6824695122213409460-mailru",
             "nickname": "Ольга Мамина",
             "booksCount": 1
-        }
-    },
-    "hqM3KwE-nW": {
-        "id": "hqM3KwE-nW",
-        "title": "Милан Кундера",
-        "author": "Невыносимая лёгкость бытия",
-        "notes": "Секс и страдания.",
-        "createdAt": "2019-11-08 00:58:55",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 148
         }
     }
 }

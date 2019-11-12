@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Земля волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup>
 * Оно ~ [anvonamore](users/595/5957175-vkontakte)<sup>128</sup>
 * Король волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup>
 * Магическая уборка ~ [dmiro](users/571/5714115-vkontakte)<sup>15</sup>
@@ -30,7 +31,6 @@
 * Гроздья гнева ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>63</sup>
 * Обреченные ~ [](users/270/270444099499-odnoklassniki)<sup>5</sup>
 * Посейдоника ~ [En](users/333/333646551-vkontakte)<sup>79</sup>
-* Любка ~ [dmiro](users/571/5714115-vkontakte)<sup>14</sup>
 
 
-_11.11.2019 14:11:35_
+_12.11.2019 19:21:31_
