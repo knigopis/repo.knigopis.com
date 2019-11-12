@@ -42,10 +42,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>17</sup> 
 [kkalashnikov](users/111/111832546942967940168-google)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>51</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>128</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>194</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>44</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup> 
 
 
-_11.11.2019 19:33:46_
+_12.11.2019 09:51:41_
