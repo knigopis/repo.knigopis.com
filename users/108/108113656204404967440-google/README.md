@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>736</sup>
+# List of books read by Janet<sup>737</sup>
 ---
 
 ## 2019
+
+### Моя гениальная подруга
+Элена Ферранте
+> [2019-11] 
+
 
 ### Авессалом, Авессалом!
 Уильям Фолкнер

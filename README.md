@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>737</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>17</sup> 
 [kkalashnikov](users/111/111832546942967940168-google)<sup>0</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [TheWildWind](users/262/262062207519652-facebook)<sup>37</sup> 
 [Ulmar](users/113/113895331373311240811-google)<sup>1</sup> 
 [Emarion](users/107/107867265355294835155-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>736</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>73</sup> 
 [mr.mothermort](users/404/404721939-vkontakte)<sup>1</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>6</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup> 
 
 
-_12.11.2019 19:21:31_
+_12.11.2019 20:02:14_

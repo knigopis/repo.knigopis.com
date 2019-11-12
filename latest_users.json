@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 737,
+        "updatedAt": "2019-11-12 20:02:12"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -130,12 +136,6 @@
         "nickname": "Emarion",
         "booksCount": 0,
         "updatedAt": "2019-11-07 12:08:41"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 736,
-        "updatedAt": "2019-11-07 11:15:42"
     },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
