@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>194</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>193</sup>
 ---
 
 ## 2019
@@ -538,10 +538,6 @@
 
 ### Путешествия Гулливера
 Джонатан Свифт
-
-
-### Метель
-Александр Пушкин
 
 
 ### Голубая бусинка
