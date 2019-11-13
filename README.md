@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/110/110877021460709820325-google)<sup>1</sup> 
+[](users/110/110877021460709820325-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>193</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>15</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>12</sup> 
 
 
-_13.11.2019 21:19:53_
+_13.11.2019 21:20:16_
