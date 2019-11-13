@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>193</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>737</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kkalashnikov](users/111/111832546942967940168-google)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>51</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>128</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>194</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>44</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>15</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>48</sup> 
 
 
-_13.11.2019 12:24:12_
+_13.11.2019 19:49:22_
