@@ -1,4 +1,16 @@
 {
+    "ffi9FoJIAc": {
+        "id": "ffi9FoJIAc",
+        "title": "Crime Story #7",
+        "author": "Сборник",
+        "notes": "",
+        "createdAt": "2019-11-13 08:52:02",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 11
+        }
+    },
     "ZuM8yyfwPl": {
         "id": "ZuM8yyfwPl",
         "title": "Моя гениальная подруга",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 60
-        }
-    },
-    "xzbyZXI2Ds": {
-        "id": "xzbyZXI2Ds",
-        "title": "Личный секретарь младшего принца",
-        "author": "Вера Чиркова",
-        "notes": "",
-        "createdAt": "2019-11-09 05:08:37",
-        "user": {
-            "id": "16930265-vkontakte",
-            "nickname": "shalem",
-            "booksCount": 1
         }
     }
 }
