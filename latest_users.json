@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 85,
+        "updatedAt": "2019-11-13 12:24:11"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 48,
         "updatedAt": "2019-11-05 10:05:42"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 113,
-        "updatedAt": "2019-11-04 19:53:25"
     }
 }

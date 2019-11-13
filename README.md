@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>737</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>30</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>12</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>48</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>113</sup> 
 
 
-_13.11.2019 08:53:17_
+_13.11.2019 12:24:12_
