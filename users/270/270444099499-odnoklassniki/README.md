@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>11</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>12</sup>
 ---
 
 ## 2019
+
+### Crime Story #7
+Сборник
+> [2019-11-13] 
+
 
 ### Crime Story #7
 Сборник
