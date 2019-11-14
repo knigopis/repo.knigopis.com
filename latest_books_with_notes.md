@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Убить пересмешника ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup>
 * Земля волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup>
 * Оно ~ [anvonamore](users/595/5957175-vkontakte)<sup>128</sup>
 * Король волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup>
@@ -30,7 +31,6 @@
 * Дракула ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup>
 * Гроздья гнева ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>63</sup>
 * Обреченные ~ [](users/270/270444099499-odnoklassniki)<sup>5</sup>
-* Посейдоника ~ [En](users/333/333646551-vkontakte)<sup>79</sup>
 
 
-_12.11.2019 19:21:31_
+_14.11.2019 07:58:39_
