@@ -1,4 +1,10 @@
 {
+    "248300842-vkontakte": {
+        "id": "248300842-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-11-14 07:23:28"
+    },
     "110877021460709820325-google": {
         "id": "110877021460709820325-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 30,
         "updatedAt": "2019-11-06 06:34:33"
-    },
-    "208969292-yandex": {
-        "id": "208969292-yandex",
-        "nickname": "elena-gagina2014",
-        "booksCount": 12,
-        "updatedAt": "2019-11-05 21:07:04"
     }
 }
