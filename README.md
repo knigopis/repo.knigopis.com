@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Похищенный ~ [Avery](users/567/56734832-yandex)<sup>17</sup>
+    > Молодой наследник родового поместья Дэвид Бэлфур обманным путём завлечён на корабль, отплывающий в Новый Свет. Таким способом его дядя надеется избавиться от конкурента в борьбе за наследство. Однако на корабле случайно оказывается один из лучших воинов Шотландии Алан Стюарт. Вместе они захватывают власть на корабле, после чего намереваются восстановить справедливость.
+
 * Убить пересмешника ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup>
     > Как Зелёная миля.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Квентин спасает ниффина, апокалипсис в Филлори.
 
 * Оно ~ [anvonamore](users/595/5957175-vkontakte)<sup>128</sup>
-    > 4/10
 
 * Король волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Милан Кундера ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>148</sup>
 
-*  ~ [TheWildWind](users/262/262062207519652-facebook)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Avery](users/567/56734832-yandex)<sup>17</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>62</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup> 
 [](users/248/248300842-vkontakte)<sup>0</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>133</sup> 
 [En](users/333/333646551-vkontakte)<sup>80</sup> 
 [](users/115/115826717712507836033-google)<sup>133</sup> 
-[Avery](users/567/56734832-yandex)<sup>16</sup> 
 [max_50rus](users/194/194209197-vkontakte)<sup>0</sup> 
 [shalem](users/169/16930265-vkontakte)<sup>1</sup> 
 [Ольга Мамина](users/682/6824695122213409460-mailru)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>30</sup> 
 
 
-_14.11.2019 08:41:23_
+_14.11.2019 11:24:00_
