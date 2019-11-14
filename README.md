@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/248/248300842-vkontakte)<sup>0</sup> 
 [](users/110/110877021460709820325-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>193</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mr.mothermort](users/404/404721939-vkontakte)<sup>1</sup> 
 [Woc4onok213](users/103/103474005216004236389-google)<sup>6</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>30</sup> 
-[elena-gagina2014](users/208/208969292-yandex)<sup>12</sup> 
 
 
-_13.11.2019 21:20:16_
+_14.11.2019 07:23:33_
