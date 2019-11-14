@@ -1,7 +1,12 @@
-# List of books read by [Человеколось](https://t.me/nerkin)<sup>61</sup>
+# List of books read by [Человеколось](https://t.me/nerkin)<sup>62</sup>
 ---
 
 ## 2019
+
+### Очередь
+Владимир Сорокин
+> [2019-11-12] 
+
 
 ### Narconomics. Преступный синдикат как успешная бизнес-модель
 Том Уэйнрайт

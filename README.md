@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Человеколось](users/174/17475979687188177329-mailru)<sup>62</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup> 
 [](users/248/248300842-vkontakte)<sup>0</sup> 
 [](users/110/110877021460709820325-google)<sup>0</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>80</sup> 
 [](users/115/115826717712507836033-google)<sup>133</sup> 
 [Avery](users/567/56734832-yandex)<sup>16</sup> 
-[Человеколось](users/174/17475979687188177329-mailru)<sup>61</sup> 
 [max_50rus](users/194/194209197-vkontakte)<sup>0</sup> 
 [shalem](users/169/16930265-vkontakte)<sup>1</sup> 
 [Ольга Мамина](users/682/6824695122213409460-mailru)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>30</sup> 
 
 
-_14.11.2019 07:58:39_
+_14.11.2019 08:41:23_
