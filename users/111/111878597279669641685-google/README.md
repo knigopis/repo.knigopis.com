@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>193</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>194</sup>
 ---
 
 ## 2019
+
+### Герда
+Эдуард Веркин
+> [2019-11-14] 
+
 
 ### Каникулы
 Рэй Брэдбери
