@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>194</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>195</sup>
 ---
 
 ## 2019
+
+### Мазепа
+Джордж Байрон
+> [2019-11-14] 
+
 
 ### Герда
 Эдуард Веркин
