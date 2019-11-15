@@ -1,4 +1,10 @@
 {
+    "111366593862837434080-google": {
+        "id": "111366593862837434080-google",
+        "nickname": "BananaPanda",
+        "booksCount": 0,
+        "updatedAt": "2019-11-15 07:46:09"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "Woc4onok213",
         "booksCount": 6,
         "updatedAt": "2019-11-06 17:15:09"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 30,
-        "updatedAt": "2019-11-06 06:34:33"
     }
 }
