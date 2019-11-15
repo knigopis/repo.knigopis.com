@@ -1,4 +1,10 @@
 {
+    "270444099499-odnoklassniki": {
+        "id": "270444099499-odnoklassniki",
+        "nickname": "Viktoria",
+        "booksCount": 17,
+        "updatedAt": "2019-11-15 11:24:11"
+    },
     "158304782-vkontakte": {
         "id": "158304782-vkontakte",
         "nickname": "Madlax",
@@ -16,12 +22,6 @@
         "nickname": "Knigolub~",
         "booksCount": 195,
         "updatedAt": "2019-11-14 20:47:36"
-    },
-    "270444099499-odnoklassniki": {
-        "id": "270444099499-odnoklassniki",
-        "nickname": "Viktoria",
-        "booksCount": 16,
-        "updatedAt": "2019-11-14 14:28:10"
     },
     "56734832-yandex": {
         "id": "56734832-yandex",
