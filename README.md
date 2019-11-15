@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[BananaPanda](users/111/111366593862837434080-google)<sup>1</sup> 
+[BananaPanda](users/111/111366593862837434080-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>195</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [Avery](users/567/56734832-yandex)<sup>17</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Woc4onok213](users/103/103474005216004236389-google)<sup>6</sup> 
 
 
-_15.11.2019 07:46:42_
+_15.11.2019 07:48:18_
