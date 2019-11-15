@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>738</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>95</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>151</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>17</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/248/248300842-vkontakte)<sup>0</sup> 
 [](users/110/110877021460709820325-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>737</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup> 
 [kkalashnikov](users/111/111832546942967940168-google)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>51</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Emarion](users/107/107867265355294835155-google)<sup>0</sup> 
 
 
-_15.11.2019 17:20:08_
+_15.11.2019 19:22:52_

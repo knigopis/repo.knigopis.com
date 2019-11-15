@@ -1,4 +1,16 @@
 {
+    "7MXzMZQXja": {
+        "id": "7MXzMZQXja",
+        "title": "История нового имени",
+        "author": "Элена Ферранте",
+        "notes": "",
+        "createdAt": "2019-11-15 19:22:51",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 738
+        }
+    },
     "jBQZd8R__H": {
         "id": "jBQZd8R__H",
         "title": "Хлеб по водам",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 190
-        }
-    },
-    "L7V9VrpW7A": {
-        "id": "L7V9VrpW7A",
-        "title": "Юшка",
-        "author": "Андрей Платонов",
-        "notes": "",
-        "createdAt": "2019-11-10 15:25:58",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 189
         }
     }
 }
