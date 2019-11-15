@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 151,
+        "updatedAt": "2019-11-15 14:19:13"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": "Viktoria",
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 73,
         "updatedAt": "2019-11-07 09:29:55"
-    },
-    "404721939-vkontakte": {
-        "id": "404721939-vkontakte",
-        "nickname": "mr.mothermort",
-        "booksCount": 1,
-        "updatedAt": "2019-11-06 18:01:00"
     }
 }

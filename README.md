@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>151</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>17</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>195</sup> 
 [BananaPanda](users/111/111366593862837434080-google)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ulmar](users/113/113895331373311240811-google)<sup>1</sup> 
 [Emarion](users/107/107867265355294835155-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>73</sup> 
-[mr.mothermort](users/404/404721939-vkontakte)<sup>1</sup> 
 
 
-_15.11.2019 11:24:11_
+_15.11.2019 14:19:14_
