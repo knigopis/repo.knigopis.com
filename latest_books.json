@@ -1,4 +1,16 @@
 {
+    "-0_PSXhbxc": {
+        "id": "-0_PSXhbxc",
+        "title": "Зеленый Рыцарь",
+        "author": "Айрис Мердок",
+        "notes": "",
+        "createdAt": "2019-11-15 10:45:51",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 195
+        }
+    },
     "lPRGSBGV31": {
         "id": "lPRGSBGV31",
         "title": "Черновик",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 27
-        }
-    },
-    "V_bhUpLqCX": {
-        "id": "V_bhUpLqCX",
-        "title": "Битва королей",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2019-11-10 10:32:20",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 133
         }
     }
 }

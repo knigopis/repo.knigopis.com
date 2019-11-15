@@ -1,7 +1,12 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>194</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>195</sup>
 ---
 
 ## 2019
+
+### Зеленый Рыцарь
+Айрис Мердок
+> [2019-11-15] 
+
 
 ### Питерский русский капиталист
 Лев Лурье
