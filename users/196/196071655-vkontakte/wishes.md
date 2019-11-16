@@ -1,7 +1,7 @@
 # Wish list of books by [afferens.lucem](http://vk.com/id196071655)
 ---
 
-### `67` Angular. Сборник рецептов
+### `75` Angular. Сборник рецептов
 Мэтт Фрисби
 
 ### `47` Angular и Typescript. Сайтостроение для профессионалов
