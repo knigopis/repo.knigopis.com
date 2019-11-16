@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>31</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>86</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>738</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Андріанс](users/162/1620750431522129-facebook)<sup>0</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>37</sup> 
 [Ulmar](users/113/113895331373311240811-google)<sup>1</sup> 
-[Emarion](users/107/107867265355294835155-google)<sup>0</sup> 
 
 
-_16.11.2019 13:50:51_
+_16.11.2019 17:44:46_
