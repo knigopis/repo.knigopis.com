@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>44</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>45</sup>
 ---
 
 ## 2019
+
+### Selfmama. Лайфхаки для работающей мамы
+Людмила Петрановская
+> [2019-11-14] 
+
 
 ### Текст
 Дмитрий Глуховский
