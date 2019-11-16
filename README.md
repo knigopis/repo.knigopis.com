@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Viktoria](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>738</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>95</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>151</sup> 
-[Viktoria](users/270/270444099499-odnoklassniki)<sup>17</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>195</sup> 
 [BananaPanda](users/111/111366593862837434080-google)<sup>2</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>195</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Emarion](users/107/107867265355294835155-google)<sup>0</sup> 
 
 
-_15.11.2019 19:22:52_
+_16.11.2019 02:54:38_
