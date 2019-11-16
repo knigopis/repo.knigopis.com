@@ -1,4 +1,4 @@
-# List of books read by [Viktoria](https://ok.ru/profile/536771522733)<sup>16</sup>
+# List of books read by [Viktoria](https://ok.ru/profile/536771522733)<sup>15</sup>
 ---
 
 ## 2019
@@ -11,11 +11,6 @@
 ### Адвокат Казановы
 Наталья Борохова
 > [2019-11-14] 
-
-
-### Crime Story #7
-Сборник
-> [2019-11-13] 
 
 
 ### Crime Story #7
