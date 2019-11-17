@@ -1,4 +1,4 @@
-# List of books read by [Viktoria](https://ok.ru/profile/536771522733)<sup>14</sup>
+# List of books read by [Viktoria](https://ok.ru/profile/536771522733)<sup>13</sup>
 ---
 
 ## 2019
@@ -31,11 +31,6 @@
 ### Зулейха открывает глаза
 Гузель Яхина
 > [2019-11-11] 
-
-
-### Зелёная миля
-Стивен Кинг
-> [2019-11-10] 
 
 
 ### Зелёная миля
