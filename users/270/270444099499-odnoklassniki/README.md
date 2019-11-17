@@ -1,4 +1,4 @@
-# List of books read by [Viktoria](https://ok.ru/profile/536771522733)<sup>13</sup>
+# List of books read by [Viktoria](https://ok.ru/profile/536771522733)<sup>12</sup>
 ---
 
 ## 2019
@@ -46,11 +46,6 @@
 ### Вешние воды
 Иван Тургенев
 > [2019-11-06] 
-
-
-### Веселые похороны
-Людмила Улицкая
-> [2019-11-05] 
 
 
 ### Веселые похороны
