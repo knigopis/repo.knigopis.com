@@ -1,4 +1,4 @@
-# List of books read by [Viktoria](https://ok.ru/profile/536771522733)<sup>12</sup>
+# List of books read by [Viktoria](https://ok.ru/profile/536771522733)<sup>11</sup>
 ---
 
 ## 2019
@@ -65,11 +65,6 @@
 
 ### Укол гордости
 Анна Акимова
-> [2019-11-04] 
-
-
-### Прогулки по краю пропасти
-Анна и Сергей Литвиновы
 > [2019-11-04] 
 
 
