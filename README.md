@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Viktoria](users/270/270444099499-odnoklassniki)<sup>13</sup> 
+[Viktoria](users/270/270444099499-odnoklassniki)<sup>12</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>46</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>32</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>86</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ulmar](users/113/113895331373311240811-google)<sup>1</sup> 
 
 
-_17.11.2019 01:13:08_
+_17.11.2019 01:13:33_
