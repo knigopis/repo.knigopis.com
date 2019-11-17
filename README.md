@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Derevo](users/109/109320293332154948707-google)<sup>0</sup> 
 [](users/115/115826717712507836033-google)<sup>136</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>11</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>46</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ольга Мамина](users/682/6824695122213409460-mailru)<sup>1</sup> 
 [Андріанс](users/162/1620750431522129-facebook)<sup>0</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>37</sup> 
-[Ulmar](users/113/113895331373311240811-google)<sup>1</sup> 
 
 
-_17.11.2019 04:33:15_
+_17.11.2019 04:36:05_
