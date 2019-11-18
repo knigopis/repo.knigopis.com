@@ -1,4 +1,16 @@
 {
+    "j0KPlrgz2U": {
+        "id": "j0KPlrgz2U",
+        "title": "Психология влияния",
+        "author": "Роберт Чалдини",
+        "notes": "",
+        "createdAt": "2019-11-18 15:08:23",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 90
+        }
+    },
     "_GVRG29RIH": {
         "id": "_GVRG29RIH",
         "title": "Как делать большие деньги в малом тизнесе",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 738
-        }
-    },
-    "jBQZd8R__H": {
-        "id": "jBQZd8R__H",
-        "title": "Хлеб по водам",
-        "author": "Ирвин Шоу",
-        "notes": "",
-        "createdAt": "2019-11-15 17:20:08",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 95
         }
     }
 }

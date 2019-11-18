@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>89</sup>
+# List of books read by Aleks<sup>90</sup>
 ---
 
 ## Other years
+
+### Психология влияния
+Роберт Чалдини
+
 
 ### Как делать большие деньги в малом тизнесе
 Джеффри Фокс
