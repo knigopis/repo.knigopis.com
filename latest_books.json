@@ -1,4 +1,16 @@
 {
+    "psQjqzpQH_": {
+        "id": "psQjqzpQH_",
+        "title": "Истоки",
+        "author": "Марк Алданов",
+        "notes": "",
+        "createdAt": "2019-11-18 12:02:07",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 195
+        }
+    },
     "T_49n5iRbT": {
         "id": "T_49n5iRbT",
         "title": "Голодный дом",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 737
-        }
-    },
-    "hx0DvJQC7-": {
-        "id": "hx0DvJQC7-",
-        "title": "Земля волшебников",
-        "author": "Лев Гроссман",
-        "notes": "8/10 Квентин спасает ниффина, апокалипсис в Филлори.",
-        "createdAt": "2019-11-12 19:21:31",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 67
         }
     }
 }

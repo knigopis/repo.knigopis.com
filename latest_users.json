@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 195,
+        "updatedAt": "2019-11-18 12:02:07"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "Ольга Мамина",
         "booksCount": 1,
         "updatedAt": "2019-11-08 18:25:34"
-    },
-    "1620750431522129-facebook": {
-        "id": "1620750431522129-facebook",
-        "nickname": "Андріанс",
-        "booksCount": 0,
-        "updatedAt": "2019-11-08 12:47:26"
     }
 }
