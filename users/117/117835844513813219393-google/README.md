@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>76</sup>
+# List of books read by Aleks<sup>77</sup>
 ---
 
 ## Other years
+
+### Все лучшее, что не купишь за деньги
+Жак Фреско
+
 
 ### Sapiens. Краткая история человечества
 Юваль Ной Харари

@@ -1,4 +1,16 @@
 {
+    "Miz1KhBkpT": {
+        "id": "Miz1KhBkpT",
+        "title": "Все лучшее, что не купишь за деньги",
+        "author": "Жак Фреско",
+        "notes": "",
+        "createdAt": "2019-11-18 14:59:05",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 77
+        }
+    },
     "D1Jd_xDVKt": {
         "id": "D1Jd_xDVKt",
         "title": "Sapiens. Краткая история человечества",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 149
-        }
-    },
-    "kx_R3uQ_tt": {
-        "id": "kx_R3uQ_tt",
-        "title": "1984",
-        "author": "Оруэлл",
-        "notes": "",
-        "createdAt": "2019-11-13 21:19:53",
-        "user": {
-            "id": "110877021460709820325-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
