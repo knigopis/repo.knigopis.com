@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>151</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>152</sup>
 ---
 
 ## 2019
+
+### Хроники Дождевых чащоб. Кровь драконов
+Робин Хобб
+> [2019-11-18] 
+
 
 ### Моя леди Джейн
 Синтия Хэнд
