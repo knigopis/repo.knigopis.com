@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Aleks](users/117/117835844513813219393-google)<sup>75</sup> 
+[Aleks](users/117/117835844513813219393-google)<sup>76</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>13</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>195</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>360</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shalem](users/169/16930265-vkontakte)<sup>1</sup> 
 
 
-_18.11.2019 14:56:51_
+_18.11.2019 14:57:39_

@@ -1,4 +1,16 @@
 {
+    "D1Jd_xDVKt": {
+        "id": "D1Jd_xDVKt",
+        "title": "Sapiens. Краткая история человечества",
+        "author": "Юваль Ной Харари",
+        "notes": "",
+        "createdAt": "2019-11-18 14:57:38",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 76
+        }
+    },
     "2yghmZSKzX": {
         "id": "2yghmZSKzX",
         "title": "21 урок для XXI века",
@@ -345,18 +357,6 @@
             "id": "110877021460709820325-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "Td1WCch4Ue": {
-        "id": "Td1WCch4Ue",
-        "title": "Лабиринт мечтающих книг",
-        "author": "Вальтер Моэрс",
-        "notes": "",
-        "createdAt": "2019-11-13 12:24:11",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 85
         }
     }
 }

@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>75</sup>
+# List of books read by Aleks<sup>76</sup>
 ---
 
 ## Other years
+
+### Sapiens. Краткая история человечества
+Юваль Ной Харари
+
 
 ### 21 урок для XXI века
 Юваль Ной Харари
