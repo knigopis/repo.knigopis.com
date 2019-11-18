@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>87</sup>
+# List of books read by Aleks<sup>88</sup>
 ---
 
 ## Other years
+
+### Тонкое искусство пофигизма
+Марк Мэнсон
+
 
 ### Герой
 Ронда Берн
