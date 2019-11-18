@@ -1,4 +1,16 @@
 {
+    "NnZb_PoPIv": {
+        "id": "NnZb_PoPIv",
+        "title": "Герой",
+        "author": "Ронда Берн",
+        "notes": "",
+        "createdAt": "2019-11-18 15:05:47",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 87
+        }
+    },
     "mVMEuvELDH": {
         "id": "mVMEuvELDH",
         "title": "200 Уроков жизни",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": "Viktoria",
             "booksCount": 17
-        }
-    },
-    "-0_PSXhbxc": {
-        "id": "-0_PSXhbxc",
-        "title": "Зеленый Рыцарь",
-        "author": "Айрис Мердок",
-        "notes": "",
-        "createdAt": "2019-11-15 10:45:51",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 195
         }
     }
 }
