@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>88</sup>
+# List of books read by Aleks<sup>89</sup>
 ---
 
 ## Other years
+
+### Как делать большие деньги в малом тизнесе
+Джеффри Фокс
+
 
 ### Тонкое искусство пофигизма
 Марк Мэнсон
