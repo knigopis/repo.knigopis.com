@@ -1,4 +1,16 @@
 {
+    "Js4EVzYhzd": {
+        "id": "Js4EVzYhzd",
+        "title": "Бог как иллюзия",
+        "author": "Ричард Докинз",
+        "notes": "",
+        "createdAt": "2019-11-18 15:03:17",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 82
+        }
+    },
     "wXWUU0z6aL": {
         "id": "wXWUU0z6aL",
         "title": "13 шагов к успешному инвестированию",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 195
-        }
-    },
-    "HtMfdENp45": {
-        "id": "HtMfdENp45",
-        "title": "Адвокат Казановы",
-        "author": "Наталья Борохова",
-        "notes": "",
-        "createdAt": "2019-11-14 14:28:10",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": "Viktoria",
-            "booksCount": 16
         }
     }
 }
