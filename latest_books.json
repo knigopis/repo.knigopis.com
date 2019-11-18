@@ -1,4 +1,16 @@
 {
+    "cB__gNKz_Z": {
+        "id": "cB__gNKz_Z",
+        "title": "Помнишь ли ты, Анаис?",
+        "author": "Мишель Бюсси",
+        "notes": "",
+        "createdAt": "2019-11-18 13:30:07",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": "Viktoria",
+            "booksCount": 13
+        }
+    },
     "psQjqzpQH_": {
         "id": "psQjqzpQH_",
         "title": "Истоки",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 15
-        }
-    },
-    "ZuM8yyfwPl": {
-        "id": "ZuM8yyfwPl",
-        "title": "Моя гениальная подруга",
-        "author": "Элена Ферранте",
-        "notes": "",
-        "createdAt": "2019-11-12 20:02:12",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 737
         }
     }
 }
