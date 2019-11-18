@@ -1,4 +1,16 @@
 {
+    "pnnMhTRQ4l": {
+        "id": "pnnMhTRQ4l",
+        "title": "Гнев Тиамат",
+        "author": "Джеймс Кори",
+        "notes": "",
+        "createdAt": "2019-11-18 22:20:02",
+        "user": {
+            "id": "471364154-yandex",
+            "nickname": "submerged fish",
+            "booksCount": 21
+        }
+    },
     "GbzIVxWZh3": {
         "id": "GbzIVxWZh3",
         "title": "Восстание Персеполиса",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 31
-        }
-    },
-    "UHeZpkkYGg": {
-        "id": "UHeZpkkYGg",
-        "title": "Горький привкус счастья",
-        "author": "Алла Демченко",
-        "notes": "",
-        "createdAt": "2019-11-16 13:50:51",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": "Viktoria",
-            "booksCount": 14
         }
     }
 }

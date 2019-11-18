@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[submerged fish](users/471/471364154-yandex)<sup>20</sup> 
+[submerged fish](users/471/471364154-yandex)<sup>21</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>152</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>90</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>13</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [max_50rus](users/194/194209197-vkontakte)<sup>0</sup> 
 
 
-_18.11.2019 22:18:59_
+_18.11.2019 22:20:02_
