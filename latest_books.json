@@ -1,4 +1,16 @@
 {
+    "Bd6c6ArkH3": {
+        "id": "Bd6c6ArkH3",
+        "title": "Кто заплачет, когда ты умрёшь?",
+        "author": "Робин Шарма",
+        "notes": "",
+        "createdAt": "2019-11-18 15:05:00",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 85
+        }
+    },
     "i4tYTLVJzD": {
         "id": "i4tYTLVJzD",
         "title": "7 навыков высокоэффективных людей",
@@ -345,18 +357,6 @@
             "id": "111366593862837434080-google",
             "nickname": "BananaPanda",
             "booksCount": 2
-        }
-    },
-    "m7R2BE9dah": {
-        "id": "m7R2BE9dah",
-        "title": "Текст",
-        "author": "Глуховский",
-        "notes": "",
-        "createdAt": "2019-11-15 07:49:21",
-        "user": {
-            "id": "111366593862837434080-google",
-            "nickname": "BananaPanda",
-            "booksCount": 1
         }
     }
 }

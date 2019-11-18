@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>84</sup>
+# List of books read by Aleks<sup>85</sup>
 ---
 
 ## Other years
+
+### Кто заплачет, когда ты умрёшь?
+Робин Шарма
+
 
 ### 7 навыков высокоэффективных людей
 Стивен Кови
