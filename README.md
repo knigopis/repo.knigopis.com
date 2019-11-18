@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>360</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>12</sup> 
 [Derevo](users/109/109320293332154948707-google)<sup>0</sup> 
 [](users/115/115826717712507836033-google)<sup>136</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shalem](users/169/16930265-vkontakte)<sup>1</sup> 
 [Ольга Мамина](users/682/6824695122213409460-mailru)<sup>1</sup> 
 [Андріанс](users/162/1620750431522129-facebook)<sup>0</sup> 
-[TheWildWind](users/262/262062207519652-facebook)<sup>37</sup> 
 
 
-_18.11.2019 02:02:58_
+_18.11.2019 10:55:54_

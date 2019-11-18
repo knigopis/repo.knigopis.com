@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 360,
+        "updatedAt": "2019-11-18 10:55:53"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": "Viktoria",
@@ -172,11 +178,5 @@
         "nickname": "Андріанс",
         "booksCount": 0,
         "updatedAt": "2019-11-08 12:47:26"
-    },
-    "262062207519652-facebook": {
-        "id": "262062207519652-facebook",
-        "nickname": "TheWildWind",
-        "booksCount": 37,
-        "updatedAt": "2019-11-07 19:34:13"
     }
 }
