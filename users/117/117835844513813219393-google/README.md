@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>82</sup>
+# List of books read by Aleks<sup>83</sup>
 ---
 
 ## Other years
+
+### Как мыслит человек
+Джеймс Аллен
+
 
 ### Бог как иллюзия
 Ричард Докинз
