@@ -1,4 +1,16 @@
 {
+    "mVMEuvELDH": {
+        "id": "mVMEuvELDH",
+        "title": "200 Уроков жизни",
+        "author": "Робин Шарма",
+        "notes": "",
+        "createdAt": "2019-11-18 15:05:30",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 86
+        }
+    },
     "Bd6c6ArkH3": {
         "id": "Bd6c6ArkH3",
         "title": "Кто заплачет, когда ты умрёшь?",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 195
-        }
-    },
-    "lPRGSBGV31": {
-        "id": "lPRGSBGV31",
-        "title": "Черновик",
-        "author": "Лукьяненко",
-        "notes": "",
-        "createdAt": "2019-11-15 07:49:47",
-        "user": {
-            "id": "111366593862837434080-google",
-            "nickname": "BananaPanda",
-            "booksCount": 2
         }
     }
 }

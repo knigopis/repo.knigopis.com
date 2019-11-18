@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>85</sup>
+# List of books read by Aleks<sup>86</sup>
 ---
 
 ## Other years
+
+### 200 Уроков жизни
+Робин Шарма
+
 
 ### Кто заплачет, когда ты умрёшь?
 Робин Шарма
