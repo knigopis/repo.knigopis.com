@@ -1,4 +1,16 @@
 {
+    "wXWUU0z6aL": {
+        "id": "wXWUU0z6aL",
+        "title": "13 шагов к успешному инвестированию",
+        "author": "Неизвестный",
+        "notes": "",
+        "createdAt": "2019-11-18 15:02:44",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 81
+        }
+    },
     "ftjynZGbhp": {
         "id": "ftjynZGbhp",
         "title": "Богатый Папа, Бедный Папа",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": "Viktoria",
             "booksCount": 16
-        }
-    },
-    "KMH39AB6k2": {
-        "id": "KMH39AB6k2",
-        "title": "Герда",
-        "author": "Эдуард Веркин",
-        "notes": "",
-        "createdAt": "2019-11-14 11:25:14",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 194
         }
     }
 }
