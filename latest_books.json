@@ -1,4 +1,16 @@
 {
+    "Ex8wiVsVRf": {
+        "id": "Ex8wiVsVRf",
+        "title": "Время-деньги",
+        "author": "Бенджамин Франклин",
+        "notes": "",
+        "createdAt": "2019-11-18 14:59:55",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 78
+        }
+    },
     "Miz1KhBkpT": {
         "id": "Miz1KhBkpT",
         "title": "Все лучшее, что не купишь за деньги",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 62
-        }
-    },
-    "mxoTE3K3Bw": {
-        "id": "mxoTE3K3Bw",
-        "title": "Убить пересмешника",
-        "author": "Харпер Ли",
-        "notes": "Как Зелёная миля.",
-        "createdAt": "2019-11-14 07:58:39",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 149
         }
     }
 }
