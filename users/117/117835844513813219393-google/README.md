@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>79</sup>
+# List of books read by Aleks<sup>80</sup>
 ---
 
 ## Other years
+
+### Богатый Папа, Бедный Папа
+Роберт Кийосаки, Шэрон Л Лектер
+
 
 ### Самый богатый человек в Вавилоне
 Джордж Самюэль Клейсон
