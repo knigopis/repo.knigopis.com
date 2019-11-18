@@ -1,4 +1,16 @@
 {
+    "GbzIVxWZh3": {
+        "id": "GbzIVxWZh3",
+        "title": "Восстание Персеполиса",
+        "author": "Джеймс Кори",
+        "notes": "",
+        "createdAt": "2019-11-18 22:18:59",
+        "user": {
+            "id": "471364154-yandex",
+            "nickname": "submerged fish",
+            "booksCount": 20
+        }
+    },
     "G53NsT8LfB": {
         "id": "G53NsT8LfB",
         "title": "Хроники Дождевых чащоб. Кровь драконов",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": "Viktoria",
             "booksCount": 14
-        }
-    },
-    "lx-FX8TAm9": {
-        "id": "lx-FX8TAm9",
-        "title": "Сумерки",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2019-11-16 11:07:02",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 86
         }
     }
 }
