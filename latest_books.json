@@ -1,4 +1,16 @@
 {
+    "79VGTPD3jh": {
+        "id": "79VGTPD3jh",
+        "title": "Самый богатый человек в Вавилоне",
+        "author": "Джордж Самюэль Клейсон",
+        "notes": "",
+        "createdAt": "2019-11-18 15:01:00",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 79
+        }
+    },
     "Ex8wiVsVRf": {
         "id": "Ex8wiVsVRf",
         "title": "Время-деньги",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 17
-        }
-    },
-    "-_FatCg2LV": {
-        "id": "-_FatCg2LV",
-        "title": "Очередь",
-        "author": "Владимир Сорокин",
-        "notes": "",
-        "createdAt": "2019-11-14 08:41:22",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 62
         }
     }
 }
