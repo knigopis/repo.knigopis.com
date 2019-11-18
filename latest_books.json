@@ -1,4 +1,16 @@
 {
+    "2yghmZSKzX": {
+        "id": "2yghmZSKzX",
+        "title": "21 урок для XXI века",
+        "author": "Юваль Ной Харари",
+        "notes": "",
+        "createdAt": "2019-11-18 14:56:51",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 75
+        }
+    },
     "cB__gNKz_Z": {
         "id": "cB__gNKz_Z",
         "title": "Помнишь ли ты, Анаис?",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 85
-        }
-    },
-    "MUOyO--Dih": {
-        "id": "MUOyO--Dih",
-        "title": "Crime Story #7",
-        "author": "Сборник",
-        "notes": "",
-        "createdAt": "2019-11-13 08:53:17",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 15
         }
     }
 }
