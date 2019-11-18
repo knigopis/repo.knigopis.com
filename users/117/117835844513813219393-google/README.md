@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>83</sup>
+# List of books read by Aleks<sup>84</sup>
 ---
 
 ## Other years
+
+### 7 навыков высокоэффективных людей
+Стивен Кови
+
 
 ### Как мыслит человек
 Джеймс Аллен
