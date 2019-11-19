@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лигр ~ [Chiffi](users/105/105831994080785626680-google)<sup>150</sup>
+    > очень хорошие фанфики: даже скачала несколько книг Дяченков
+
 * Как я чёрта искушал ~ [kissamasya](users/684/68439978-vkontakte)<sup>76</sup>
     > Роман о дружбе и любви – двух бесценных сокровищах, обрести которые желает каждый. История о чёрте, который решил стать добрым, прекрасно подойдёт для читательских кругов как подросткового, так и взрослого возрастов.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Всего одна ошибка – и вот у меня огромный долг перед влиятельным человеком, чье имя окутано страшными слухами. Моя семья, все, кто мне дорог, могут поплатиться за мою неосторожность. Что он потребует взамен и не будет ли цена слишком высока?
 
 * Школа Хваран ~ [kissamasya](users/684/68439978-vkontakte)<sup>74</sup>
-    > Что это за чувство?Дежавью или может воспоминания из прошлого, которые я не помню?!
 
 * Похищенный ~ [Avery](users/567/56734832-yandex)<sup>17</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Магическая уборка ~ [dmiro](users/571/5714115-vkontakte)<sup>15</sup>
 
-* Бойня №5, или крестовый поход детей ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>150</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>153</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>52</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>76</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>15</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>133</sup> 
-[En](users/333/333646551-vkontakte)<sup>80</sup> 
 
 
-_19.11.2019 11:56:48_
+_19.11.2019 18:16:20_

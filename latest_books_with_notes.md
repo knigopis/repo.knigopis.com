@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лигр ~ [Chiffi](users/105/105831994080785626680-google)<sup>150</sup>
 * Как я чёрта искушал ~ [kissamasya](users/684/68439978-vkontakte)<sup>76</sup>
 * У босса на крючке ~ [kissamasya](users/684/68439978-vkontakte)<sup>75</sup>
 * Школа Хваран ~ [kissamasya](users/684/68439978-vkontakte)<sup>74</sup>
@@ -30,7 +31,6 @@
 * Бизнес с нуля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>220</sup>
 * Шаманские карты путешествия души ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>219</sup>
 * •Чемодан ~ [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup>
-* Historia Polski ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup>
 
 
-_19.11.2019 09:33:26_
+_19.11.2019 18:16:20_

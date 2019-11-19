@@ -1,4 +1,16 @@
 {
+    "F4fzOPEg_5": {
+        "id": "F4fzOPEg_5",
+        "title": "Лигр",
+        "author": "по мотивам Дяченков",
+        "notes": "очень хорошие фанфики: даже скачала несколько книг Дяченков",
+        "createdAt": "2019-11-19 18:16:19",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 150
+        }
+    },
     "sV8ZBG5TNV": {
         "id": "sV8ZBG5TNV",
         "title": "Северное сияние",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": "Viktoria",
             "booksCount": 12
-        }
-    },
-    "r5ZEawtihD": {
-        "id": "r5ZEawtihD",
-        "title": "Преследователи",
-        "author": "Дилан Томас",
-        "notes": "",
-        "createdAt": "2019-11-17 04:33:14",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 136
         }
     }
 }
