@@ -1,4 +1,16 @@
 {
+    "su63juy96Z": {
+        "id": "su63juy96Z",
+        "title": "Код Да Винчи",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2019-11-19 11:06:57",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 52
+        }
+    },
     "5_DECcQXQX": {
         "id": "5_DECcQXQX",
         "title": "Как я чёрта искушал",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 135
-        }
-    },
-    "7r4xHLx1xi": {
-        "id": "7r4xHLx1xi",
-        "title": "Скамья под старым кипарисом",
-        "author": "Луиджи Пиранделло",
-        "notes": "",
-        "createdAt": "2019-11-17 04:05:32",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 134
         }
     }
 }

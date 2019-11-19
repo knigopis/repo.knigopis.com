@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>52</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>76</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>21</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110877021460709820325-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup> 
 [kkalashnikov](users/111/111832546942967940168-google)<sup>0</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>51</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>128</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>15</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>80</sup> 
 
 
-_19.11.2019 09:33:26_
+_19.11.2019 11:06:57_
