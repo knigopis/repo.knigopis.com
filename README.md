@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>153</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>52</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>76</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>21</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>152</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>90</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>195</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>360</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>80</sup> 
 
 
-_19.11.2019 11:06:57_
+_19.11.2019 11:56:48_
