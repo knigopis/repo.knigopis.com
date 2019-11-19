@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Школа Хваран ~ [kissamasya](users/684/68439978-vkontakte)<sup>74</sup>
+    > Что это за чувство?Дежавью или может воспоминания из прошлого, которые я не помню?!
+
 * Похищенный ~ [Avery](users/567/56734832-yandex)<sup>17</sup>
     > Молодой наследник родового поместья Дэвид Бэлфур обманным путём завлечён на корабль, отплывающий в Новый Свет. Таким способом его дядя надеется избавиться от конкурента в борьбе за наследство. Однако на корабле случайно оказывается один из лучших воинов Шотландии Алан Стюарт. Вместе они захватывают власть на корабле, после чего намереваются восстановить справедливость.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Как Зелёная миля.
 
 * Земля волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup>
-    > 8/10 Квентин спасает ниффина, апокалипсис в Филлори.
 
 * Оно ~ [anvonamore](users/595/5957175-vkontakte)<sup>128</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Щегол ~ [Avery](users/567/56734832-yandex)<sup>16</sup>
 
-* Милан Кундера ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>148</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>74</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>21</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>152</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>133</sup> 
 [En](users/333/333646551-vkontakte)<sup>80</sup> 
-[max_50rus](users/194/194209197-vkontakte)<sup>0</sup> 
 
 
-_19.11.2019 07:08:14_
+_19.11.2019 09:30:34_

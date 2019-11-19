@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 74,
+        "updatedAt": "2019-11-19 09:30:34"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": "Viktoria",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 80,
         "updatedAt": "2019-11-10 08:51:20"
-    },
-    "194209197-vkontakte": {
-        "id": "194209197-vkontakte",
-        "nickname": "max_50rus",
-        "booksCount": 0,
-        "updatedAt": "2019-11-09 14:30:58"
     }
 }

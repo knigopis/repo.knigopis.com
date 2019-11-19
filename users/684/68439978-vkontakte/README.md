@@ -1,7 +1,11 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>73</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>74</sup>
 ---
 
 ## 2019
+
+### Школа Хваран
+> [2019-11-18] Что это за чувство?Дежавью или может воспоминания из прошлого, которые я не помню?!
+
 
 ### K.I.L.L.E.R.S
 Park_Killer03

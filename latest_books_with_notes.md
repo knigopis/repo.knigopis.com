@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Школа Хваран ~ [kissamasya](users/684/68439978-vkontakte)<sup>74</sup>
 * Похищенный ~ [Avery](users/567/56734832-yandex)<sup>17</sup>
 * Убить пересмешника ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup>
 * Земля волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup>
@@ -30,7 +31,6 @@
 * Historia Polski ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup>
 * Група Скрябін та друзі по сцені ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>64</sup>
 * Дракула ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>85</sup>
-* Гроздья гнева ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>63</sup>
 
 
-_14.11.2019 11:24:00_
+_19.11.2019 09:30:34_
