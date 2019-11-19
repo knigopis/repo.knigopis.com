@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>35</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>36</sup>
 ---
 
 ## 2019
+
+### Мартин Иден
+Джек Лондон
+> [2019-11-19] Неплохо. Твердые 7 из 10.
+
 
 ### Год без покупок
 Кейт Фландерс

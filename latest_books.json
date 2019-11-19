@@ -1,4 +1,16 @@
 {
+    "BCzLFTNX44": {
+        "id": "BCzLFTNX44",
+        "title": "Мартин Иден",
+        "author": "Джек Лондон",
+        "notes": "Неплохо. Твердые 7 из 10.",
+        "createdAt": "2019-11-19 19:12:40",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 36
+        }
+    },
     "F4fzOPEg_5": {
         "id": "F4fzOPEg_5",
         "title": "Лигр",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 360
-        }
-    },
-    "ZDEujSe3tX": {
-        "id": "ZDEujSe3tX",
-        "title": "Моя леди Джейн",
-        "author": "Броди Эштон",
-        "notes": "",
-        "createdAt": "2019-11-18 02:02:58",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": "Viktoria",
-            "booksCount": 12
         }
     }
 }

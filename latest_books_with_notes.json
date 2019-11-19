@@ -1,4 +1,16 @@
 {
+    "BCzLFTNX44": {
+        "id": "BCzLFTNX44",
+        "title": "Мартин Иден",
+        "author": "Джек Лондон",
+        "notes": "Неплохо. Твердые 7 из 10.",
+        "createdAt": "2019-11-19 19:12:40",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 36
+        }
+    },
     "F4fzOPEg_5": {
         "id": "F4fzOPEg_5",
         "title": "Лигр",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 219
-        }
-    },
-    "22ENitibjv": {
-        "id": "22ENitibjv",
-        "title": "•Чемодан",
-        "author": "Сергей Довлатов",
-        "notes": "9/10",
-        "createdAt": "2019-10-30 15:20:43",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 112
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мартин Иден ~ [youno](users/302/302928912-vkontakte)<sup>36</sup>
+    > Неплохо. Твердые 7 из 10.
+
 * Лигр ~ [Chiffi](users/105/105831994080785626680-google)<sup>150</sup>
     > очень хорошие фанфики: даже скачала несколько книг Дяченков
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Роман о дружбе и любви – двух бесценных сокровищах, обрести которые желает каждый. История о чёрте, который решил стать добрым, прекрасно подойдёт для читательских кругов как подросткового, так и взрослого возрастов.
 
 * У босса на крючке ~ [kissamasya](users/684/68439978-vkontakte)<sup>75</sup>
-    > Всего одна ошибка – и вот у меня огромный долг перед влиятельным человеком, чье имя окутано страшными слухами. Моя семья, все, кто мне дорог, могут поплатиться за мою неосторожность. Что он потребует взамен и не будет ли цена слишком высока?
 
 * Школа Хваран ~ [kissamasya](users/684/68439978-vkontakte)<sup>74</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Король волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup>
 
-* Магическая уборка ~ [dmiro](users/571/5714115-vkontakte)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>36</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>150</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>153</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>52</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>128</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>15</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>133</sup> 
 
 
-_19.11.2019 18:16:20_
+_19.11.2019 19:12:40_

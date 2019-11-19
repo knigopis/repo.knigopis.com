@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мартин Иден ~ [youno](users/302/302928912-vkontakte)<sup>36</sup>
 * Лигр ~ [Chiffi](users/105/105831994080785626680-google)<sup>150</sup>
 * Как я чёрта искушал ~ [kissamasya](users/684/68439978-vkontakte)<sup>76</sup>
 * У босса на крючке ~ [kissamasya](users/684/68439978-vkontakte)<sup>75</sup>
@@ -30,7 +31,6 @@
 * Множественные источники дохода ~ [HXT](users/100/100002563462782-facebook)<sup>358</sup>
 * Бизнес с нуля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>220</sup>
 * Шаманские карты путешествия души ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>219</sup>
-* •Чемодан ~ [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup>
 
 
-_19.11.2019 18:16:20_
+_19.11.2019 19:12:40_
