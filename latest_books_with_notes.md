@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как я чёрта искушал ~ [kissamasya](users/684/68439978-vkontakte)<sup>76</sup>
 * У босса на крючке ~ [kissamasya](users/684/68439978-vkontakte)<sup>75</sup>
 * Школа Хваран ~ [kissamasya](users/684/68439978-vkontakte)<sup>74</sup>
 * Похищенный ~ [Avery](users/567/56734832-yandex)<sup>17</sup>
@@ -30,7 +31,6 @@
 * Шаманские карты путешествия души ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>219</sup>
 * •Чемодан ~ [Apprentice ](users/528/52821952-vkontakte)<sup>112</sup>
 * Historia Polski ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>65</sup>
-* Група Скрябін та друзі по сцені ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>64</sup>
 
 
-_19.11.2019 09:32:19_
+_19.11.2019 09:33:26_
