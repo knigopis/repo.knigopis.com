@@ -1,4 +1,10 @@
 {
+    "270444099499-odnoklassniki": {
+        "id": "270444099499-odnoklassniki",
+        "nickname": "Viktoria",
+        "booksCount": 14,
+        "updatedAt": "2019-11-19 07:08:14"
+    },
     "471364154-yandex": {
         "id": "471364154-yandex",
         "nickname": "submerged fish",
@@ -16,12 +22,6 @@
         "nickname": "Aleks",
         "booksCount": 90,
         "updatedAt": "2019-11-18 15:08:23"
-    },
-    "270444099499-odnoklassniki": {
-        "id": "270444099499-odnoklassniki",
-        "nickname": "Viktoria",
-        "booksCount": 13,
-        "updatedAt": "2019-11-18 13:30:07"
     },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
