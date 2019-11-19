@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* У босса на крючке ~ [kissamasya](users/684/68439978-vkontakte)<sup>75</sup>
+    > Всего одна ошибка – и вот у меня огромный долг перед влиятельным человеком, чье имя окутано страшными слухами. Моя семья, все, кто мне дорог, могут поплатиться за мою неосторожность. Что он потребует взамен и не будет ли цена слишком высока?
+
 * Школа Хваран ~ [kissamasya](users/684/68439978-vkontakte)<sup>74</sup>
     > Что это за чувство?Дежавью или может воспоминания из прошлого, которые я не помню?!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Молодой наследник родового поместья Дэвид Бэлфур обманным путём завлечён на корабль, отплывающий в Новый Свет. Таким способом его дядя надеется избавиться от конкурента в борьбе за наследство. Однако на корабле случайно оказывается один из лучших воинов Шотландии Алан Стюарт. Вместе они захватывают власть на корабле, после чего намереваются восстановить справедливость.
 
 * Убить пересмешника ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup>
-    > Как Зелёная миля.
 
 * Земля волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Текст ~ [En](users/333/333646551-vkontakte)<sup>80</sup>
 
-* Щегол ~ [Avery](users/567/56734832-yandex)<sup>16</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kissamasya](users/684/68439978-vkontakte)<sup>74</sup> 
+[kissamasya](users/684/68439978-vkontakte)<sup>75</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>21</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>152</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>80</sup> 
 
 
-_19.11.2019 09:30:34_
+_19.11.2019 09:32:19_
