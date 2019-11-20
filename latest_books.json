@@ -1,4 +1,16 @@
 {
+    "JmPp7tKdZQ": {
+        "id": "JmPp7tKdZQ",
+        "title": "Angular. Сборник рецептов",
+        "author": "Мэтт Фрисби",
+        "notes": "",
+        "createdAt": "2019-11-20 04:41:19",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 134
+        }
+    },
     "BCzLFTNX44": {
         "id": "BCzLFTNX44",
         "title": "Мартин Иден",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 195
-        }
-    },
-    "T_49n5iRbT": {
-        "id": "T_49n5iRbT",
-        "title": "Голодный дом",
-        "author": "Дэвид Митчел",
-        "notes": "",
-        "createdAt": "2019-11-18 10:55:53",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 360
         }
     }
 }

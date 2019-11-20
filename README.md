@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>134</sup> 
 [youno](users/302/302928912-vkontakte)<sup>36</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>150</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>153</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kkalashnikov](users/111/111832546942967940168-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>128</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>15</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup> 
 
 
-_19.11.2019 19:12:40_
+_20.11.2019 04:41:20_

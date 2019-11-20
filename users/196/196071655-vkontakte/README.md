@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>133</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>134</sup>
 ---
 
 ## 2019
+
+### Angular. Сборник рецептов
+Мэтт Фрисби
+> [2019-11-20] 
+
 
 ### Битва королей
 Джордж Мартин
