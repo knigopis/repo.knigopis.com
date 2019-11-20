@@ -1,4 +1,16 @@
 {
+    "kajGeL7LEr": {
+        "id": "kajGeL7LEr",
+        "title": "Те, кто уходит, и те, кто остается",
+        "author": "Элена Ферранте",
+        "notes": "",
+        "createdAt": "2019-11-20 16:30:27",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 739
+        }
+    },
     "JmPp7tKdZQ": {
         "id": "JmPp7tKdZQ",
         "title": "Angular. Сборник рецептов",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": "Viktoria",
             "booksCount": 13
-        }
-    },
-    "psQjqzpQH_": {
-        "id": "psQjqzpQH_",
-        "title": "Истоки",
-        "author": "Марк Алданов",
-        "notes": "",
-        "createdAt": "2019-11-18 12:02:07",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 195
         }
     }
 }

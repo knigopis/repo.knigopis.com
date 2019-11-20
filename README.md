@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>739</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>134</sup> 
 [youno](users/302/302928912-vkontakte)<sup>36</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>150</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>46</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>32</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>86</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>738</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>95</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>195</sup> 
 [BananaPanda](users/111/111366593862837434080-google)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>15</sup> 
 
 
-_20.11.2019 04:41:20_
+_20.11.2019 16:30:29_
