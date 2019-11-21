@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Волхв ~ [En](users/333/333646551-vkontakte)<sup>81</sup>
+    > На затерянном греческом острове загадочный «маг» ставит жестокие психологические опыты на людях, подвергая их пытке страстью и небытием. Реалистическая традиция сочетается в книге с элементами мистики и детектива. Эротические сцены романа – возможно, лучшее, что было написано о плотской любви во второй половине XX века.
+
 * Мартин Иден ~ [youno](users/302/302928912-vkontakte)<sup>36</sup>
     > Неплохо. Твердые 7 из 10.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > очень хорошие фанфики: даже скачала несколько книг Дяченков
 
 * Как я чёрта искушал ~ [kissamasya](users/684/68439978-vkontakte)<sup>76</sup>
-    > Роман о дружбе и любви – двух бесценных сокровищах, обрести которые желает каждый. История о чёрте, который решил стать добрым, прекрасно подойдёт для читательских кругов как подросткового, так и взрослого возрастов.
 
 * У босса на крючке ~ [kissamasya](users/684/68439978-vkontakte)<sup>75</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Оно ~ [anvonamore](users/595/5957175-vkontakte)<sup>128</sup>
 
-* Король волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>81</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>739</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>134</sup> 
 [youno](users/302/302928912-vkontakte)<sup>36</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup> 
 [kkalashnikov](users/111/111832546942967940168-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>128</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>15</sup> 
 
 
-_20.11.2019 16:30:29_
+_21.11.2019 04:31:51_

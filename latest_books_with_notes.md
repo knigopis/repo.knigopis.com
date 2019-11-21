@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Волхв ~ [En](users/333/333646551-vkontakte)<sup>81</sup>
 * Мартин Иден ~ [youno](users/302/302928912-vkontakte)<sup>36</sup>
 * Лигр ~ [Chiffi](users/105/105831994080785626680-google)<sup>150</sup>
 * Как я чёрта искушал ~ [kissamasya](users/684/68439978-vkontakte)<sup>76</sup>
@@ -30,7 +31,6 @@
 * Порченая кровь (ТГ 36) ~ [Chiffi](users/105/105831994080785626680-google)<sup>148</sup>
 * Множественные источники дохода ~ [HXT](users/100/100002563462782-facebook)<sup>358</sup>
 * Бизнес с нуля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>220</sup>
-* Шаманские карты путешествия души ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>219</sup>
 
 
-_19.11.2019 19:12:40_
+_21.11.2019 04:31:51_
