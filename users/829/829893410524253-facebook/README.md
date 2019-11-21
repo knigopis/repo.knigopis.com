@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>68</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>69</sup>
 ---
 
 ## 2019
+
+### Homo Deus
+Ювал Ной Харарі
+> [2019-11-20] 7/10 Передбачення майбутнього, датаїзм.
+
 
 ### Брехуни на кушетці
 Ірвін Ялом

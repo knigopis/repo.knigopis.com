@@ -1,4 +1,16 @@
 {
+    "FqbgRGyvQ3": {
+        "id": "FqbgRGyvQ3",
+        "title": "Homo Deus",
+        "author": "Ювал Ной Харарі",
+        "notes": "7/10 Передбачення майбутнього, датаїзм.",
+        "createdAt": "2019-11-21 13:38:27",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 69
+        }
+    },
     "jY3nK-_Yht": {
         "id": "jY3nK-_Yht",
         "title": "Брехуни на кушетці",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 148
-        }
-    },
-    "DYzRY66Y6Q": {
-        "id": "DYzRY66Y6Q",
-        "title": "Множественные источники дохода",
-        "author": "Роберт Аллен",
-        "notes": "Полное говно",
-        "createdAt": "2019-10-31 14:47:46",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 358
         }
     }
 }

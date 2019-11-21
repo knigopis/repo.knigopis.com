@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Homo Deus ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>69</sup>
 * Брехуни на кушетці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>68</sup>
 * Волхв ~ [En](users/333/333646551-vkontakte)<sup>81</sup>
 * Мартин Иден ~ [youno](users/302/302928912-vkontakte)<sup>36</sup>
@@ -30,7 +31,6 @@
 * Закон маятника ~ [kissamasya](users/684/68439978-vkontakte)<sup>71</sup>
 * Женя 2 ~ [kissamasya](users/684/68439978-vkontakte)<sup>70</sup>
 * Порченая кровь (ТГ 36) ~ [Chiffi](users/105/105831994080785626680-google)<sup>148</sup>
-* Множественные источники дохода ~ [HXT](users/100/100002563462782-facebook)<sup>358</sup>
 
 
-_21.11.2019 13:37:14_
+_21.11.2019 13:38:28_

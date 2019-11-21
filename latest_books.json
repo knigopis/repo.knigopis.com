@@ -1,4 +1,16 @@
 {
+    "FqbgRGyvQ3": {
+        "id": "FqbgRGyvQ3",
+        "title": "Homo Deus",
+        "author": "Ювал Ной Харарі",
+        "notes": "7/10 Передбачення майбутнього, датаїзм.",
+        "createdAt": "2019-11-21 13:38:27",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 69
+        }
+    },
     "jY3nK-_Yht": {
         "id": "jY3nK-_Yht",
         "title": "Брехуни на кушетці",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 78
-        }
-    },
-    "Miz1KhBkpT": {
-        "id": "Miz1KhBkpT",
-        "title": "Все лучшее, что не купишь за деньги",
-        "author": "Жак Фреско",
-        "notes": "",
-        "createdAt": "2019-11-18 14:59:05",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 77
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Homo Deus ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>69</sup>
+    > 7/10 Передбачення майбутнього, датаїзм.
+
 * Брехуни на кушетці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>68</sup>
     > 8/10 Люди брешуть і платять за це 200 за годину.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > На затерянном греческом острове загадочный «маг» ставит жестокие психологические опыты на людях, подвергая их пытке страстью и небытием. Реалистическая традиция сочетается в книге с элементами мистики и детектива. Эротические сцены романа – возможно, лучшее, что было написано о плотской любви во второй половине XX века.
 
 * Мартин Иден ~ [youno](users/302/302928912-vkontakte)<sup>36</sup>
-    > Неплохо. Твердые 7 из 10.
 
 * Лигр ~ [Chiffi](users/105/105831994080785626680-google)<sup>150</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Убить пересмешника ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup>
 
-* Земля волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>68</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>69</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [En](users/333/333646551-vkontakte)<sup>81</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>739</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>128</sup> 
 
 
-_21.11.2019 13:37:14_
+_21.11.2019 13:38:28_
