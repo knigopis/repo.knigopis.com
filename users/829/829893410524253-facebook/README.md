@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>67</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>68</sup>
 ---
 
 ## 2019
+
+### Брехуни на кушетці
+Ірвін Ялом
+> [2019-11-18] 8/10 Люди брешуть і платять за це 200 за годину.
+
 
 ### Земля волшебников
 Лев Гроссман

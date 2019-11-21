@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Брехуни на кушетці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>68</sup>
+    > 8/10 Люди брешуть і платять за це 200 за годину.
+
 * Волхв ~ [En](users/333/333646551-vkontakte)<sup>81</sup>
     > На затерянном греческом острове загадочный «маг» ставит жестокие психологические опыты на людях, подвергая их пытке страстью и небытием. Реалистическая традиция сочетается в книге с элементами мистики и детектива. Эротические сцены романа – возможно, лучшее, что было написано о плотской любви во второй половине XX века.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Неплохо. Твердые 7 из 10.
 
 * Лигр ~ [Chiffi](users/105/105831994080785626680-google)<sup>150</sup>
-    > очень хорошие фанфики: даже скачала несколько книг Дяченков
 
 * Как я чёрта искушал ~ [kissamasya](users/684/68439978-vkontakte)<sup>76</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Земля волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup>
 
-* Оно ~ [anvonamore](users/595/5957175-vkontakte)<sup>128</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>68</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [En](users/333/333646551-vkontakte)<sup>81</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>739</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup> 
 [](users/248/248300842-vkontakte)<sup>0</sup> 
 [](users/110/110877021460709820325-google)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup> 
 [kkalashnikov](users/111/111832546942967940168-google)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>128</sup> 
 
 
-_21.11.2019 07:46:42_
+_21.11.2019 13:37:14_

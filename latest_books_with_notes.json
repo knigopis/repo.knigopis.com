@@ -1,4 +1,16 @@
 {
+    "jY3nK-_Yht": {
+        "id": "jY3nK-_Yht",
+        "title": "Брехуни на кушетці",
+        "author": "Ірвін Ялом",
+        "notes": "8/10 Люди брешуть і платять за це 200 за годину.",
+        "createdAt": "2019-11-21 13:37:14",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 68
+        }
+    },
     "Vo5NV2p9f_": {
         "id": "Vo5NV2p9f_",
         "title": "Волхв",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 358
-        }
-    },
-    "DoO02v6_vh": {
-        "id": "DoO02v6_vh",
-        "title": "Бизнес с нуля",
-        "author": "Эрик Рис",
-        "notes": "в процессе",
-        "createdAt": "2019-10-31 08:06:38",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 220
         }
     }
 }
