@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>74</sup>
+# List of books read by violet_velva<sup>75</sup>
 ---
 
 ## 2019
+
+### Слово живое и мёртвое
+Нора Галь
+> [2019-11-05] 
+
 
 ### Учебный роман
 Кристин Уокер

@@ -1,4 +1,16 @@
 {
+    "5arw_fSRXE": {
+        "id": "5arw_fSRXE",
+        "title": "Слово живое и мёртвое",
+        "author": "Нора Галь",
+        "notes": "",
+        "createdAt": "2019-11-21 15:16:25",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 75
+        }
+    },
     "yNGyj6_ECi": {
         "id": "yNGyj6_ECi",
         "title": "Комьюнити",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 80
-        }
-    },
-    "79VGTPD3jh": {
-        "id": "79VGTPD3jh",
-        "title": "Самый богатый человек в Вавилоне",
-        "author": "Джордж Самюэль Клейсон",
-        "notes": "",
-        "createdAt": "2019-11-18 15:01:00",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 79
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>33</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>69</sup> 
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>15</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/248/248300842-vkontakte)<sup>0</sup> 
 [](users/110/110877021460709820325-google)<sup>0</sup> 
 [kkalashnikov](users/111/111832546942967940168-google)<sup>0</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>128</sup> 
 
 
-_21.11.2019 14:26:03_
+_21.11.2019 15:16:25_
