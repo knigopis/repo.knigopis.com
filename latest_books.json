@@ -1,4 +1,16 @@
 {
+    "gnzh17exlm": {
+        "id": "gnzh17exlm",
+        "title": "Всего хорошего и спасибо за рыбу",
+        "author": "Дуглас Адамс",
+        "notes": "",
+        "createdAt": "2019-11-22 05:50:49",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 9
+        }
+    },
     "ubNRkn8lIE": {
         "id": "ubNRkn8lIE",
         "title": "Человек в картинках",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 90
-        }
-    },
-    "_GVRG29RIH": {
-        "id": "_GVRG29RIH",
-        "title": "Как делать большие деньги в малом тизнесе",
-        "author": "Джеффри Фокс",
-        "notes": "",
-        "createdAt": "2019-11-18 15:07:35",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 89
         }
     }
 }
