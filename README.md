@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[99point9](users/228/228347319-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>135</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>28</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>196</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Человеколось](users/174/17475979687188177329-mailru)<sup>62</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup> 
 [](users/248/248300842-vkontakte)<sup>0</sup> 
-[](users/110/110877021460709820325-google)<sup>0</sup> 
 
 
-_22.11.2019 09:48:30_
+_22.11.2019 09:59:59_
