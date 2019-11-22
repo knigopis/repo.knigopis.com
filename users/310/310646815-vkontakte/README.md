@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>17</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>18</sup>
 ---
 
 ## 2019
@@ -11,6 +11,10 @@
 ### Ресторан "У конца Вселенной"
 Дуглас Адамс
 > [2019-01] 
+
+
+### Цвет волшебства
+Терри Пратчетт
 
 
 ### Артемис Фаул. Книга 2. Миссия в Арктику
