@@ -1,4 +1,16 @@
 {
+    "AqxRIabtF8": {
+        "id": "AqxRIabtF8",
+        "title": "Безумная звезда",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2019-11-22 05:58:07",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 22
+        }
+    },
     "59rRzAznd3": {
         "id": "59rRzAznd3",
         "title": "Человек, принявший жену за шляпу",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 739
-        }
-    },
-    "JmPp7tKdZQ": {
-        "id": "JmPp7tKdZQ",
-        "title": "Angular. Сборник рецептов",
-        "author": "Мэтт Фрисби",
-        "notes": "",
-        "createdAt": "2019-11-20 04:41:19",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 134
         }
     }
 }
