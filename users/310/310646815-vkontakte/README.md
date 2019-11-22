@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>24</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>25</sup>
 ---
 
 ## 2019
@@ -11,6 +11,10 @@
 ### Ресторан "У конца Вселенной"
 Дуглас Адамс
 > [2019-01] 
+
+
+### Письма незнакомке
+Андре Моруа
 
 
 ### Творцы заклинаний
