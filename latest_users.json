@@ -1,4 +1,10 @@
 {
+    "270444099499-odnoklassniki": {
+        "id": "270444099499-odnoklassniki",
+        "nickname": "Viktoria",
+        "booksCount": 16,
+        "updatedAt": "2019-11-22 14:24:27"
+    },
     "228347319-vkontakte": {
         "id": "228347319-vkontakte",
         "nickname": "99point9",
@@ -40,12 +46,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 69,
         "updatedAt": "2019-11-21 13:38:27"
-    },
-    "270444099499-odnoklassniki": {
-        "id": "270444099499-odnoklassniki",
-        "nickname": "Viktoria",
-        "booksCount": 15,
-        "updatedAt": "2019-11-21 07:46:41"
     },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",

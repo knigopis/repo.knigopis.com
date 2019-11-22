@@ -1,4 +1,16 @@
 {
+    "v_zsGn0JSa": {
+        "id": "v_zsGn0JSa",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "",
+        "createdAt": "2019-11-22 14:24:27",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": "Viktoria",
+            "booksCount": 16
+        }
+    },
     "VznH3Wl5Kv": {
         "id": "VznH3Wl5Kv",
         "title": "Angular и Typescript. Сайтостроение для профессионалов",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 1
-        }
-    },
-    "4qY4kzJhse": {
-        "id": "4qY4kzJhse",
-        "title": "Енеїда",
-        "author": "Иван Котляревский",
-        "notes": "",
-        "createdAt": "2019-11-21 20:49:55",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 196
         }
     }
 }
