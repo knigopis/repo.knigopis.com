@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>10</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>11</sup>
 ---
 
 ## 2019
@@ -11,6 +11,10 @@
 ### Ресторан "У конца Вселенной"
 Дуглас Адамс
 > [2019-01] 
+
+
+### Гарри Поттер и Дары Смерти
+Джоан Роулинг
 
 
 ### Избранные 1: Какого биджу я теперь волшебник?

@@ -1,4 +1,16 @@
 {
+    "UO1TelaIpd": {
+        "id": "UO1TelaIpd",
+        "title": "Гарри Поттер и Дары Смерти",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2019-11-22 05:52:53",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 11
+        }
+    },
     "yEfzTijJ8D": {
         "id": "yEfzTijJ8D",
         "title": "Избранные 1: Какого биджу я теперь волшебник?",
@@ -345,18 +357,6 @@
             "id": "471364154-yandex",
             "nickname": "submerged fish",
             "booksCount": 20
-        }
-    },
-    "G53NsT8LfB": {
-        "id": "G53NsT8LfB",
-        "title": "Хроники Дождевых чащоб. Кровь драконов",
-        "author": "Робин Хобб",
-        "notes": "",
-        "createdAt": "2019-11-18 15:57:29",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 152
         }
     }
 }
