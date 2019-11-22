@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stamovashahzada](users/310/310646815-vkontakte)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>196</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>33</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup> 
 [](users/248/248300842-vkontakte)<sup>0</sup> 
 [](users/110/110877021460709820325-google)<sup>0</sup> 
-[kkalashnikov](users/111/111832546942967940168-google)<sup>0</sup> 
 
 
-_21.11.2019 20:49:55_
+_22.11.2019 05:02:41_
