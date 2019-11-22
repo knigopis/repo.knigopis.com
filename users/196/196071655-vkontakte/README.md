@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>134</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>135</sup>
 ---
 
 ## 2019
+
+### Angular и Typescript. Сайтостроение для профессионалов
+Файн Яков, Моисеев Антон
+> [2019-11-22] 
+
 
 ### Angular. Сборник рецептов
 Мэтт Фрисби

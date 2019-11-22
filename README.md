@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>135</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>28</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>196</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Viktoria](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [En](users/333/333646551-vkontakte)<sup>81</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>739</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>134</sup> 
 [youno](users/302/302928912-vkontakte)<sup>36</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>150</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>153</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/110/110877021460709820325-google)<sup>0</sup> 
 
 
-_22.11.2019 06:01:35_
+_22.11.2019 09:48:30_

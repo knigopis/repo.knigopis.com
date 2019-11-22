@@ -1,4 +1,16 @@
 {
+    "VznH3Wl5Kv": {
+        "id": "VznH3Wl5Kv",
+        "title": "Angular и Typescript. Сайтостроение для профессионалов",
+        "author": "Файн Яков, Моисеев Антон",
+        "notes": "",
+        "createdAt": "2019-11-22 09:48:30",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 135
+        }
+    },
     "_Ici8hshtW": {
         "id": "_Ici8hshtW",
         "title": "Убийственное лето",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 196
-        }
-    },
-    "5arw_fSRXE": {
-        "id": "5arw_fSRXE",
-        "title": "Слово живое и мёртвое",
-        "author": "Нора Галь",
-        "notes": "",
-        "createdAt": "2019-11-21 15:16:25",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 75
         }
     }
 }
