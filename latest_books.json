@@ -1,4 +1,16 @@
 {
+    "_Ici8hshtW": {
+        "id": "_Ici8hshtW",
+        "title": "Убийственное лето",
+        "author": "С. Жапризо",
+        "notes": "",
+        "createdAt": "2019-11-22 06:01:35",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 28
+        }
+    },
     "lWd4xUATfa": {
         "id": "lWd4xUATfa",
         "title": "Хорошо быть тихоней",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 75
-        }
-    },
-    "yNGyj6_ECi": {
-        "id": "yNGyj6_ECi",
-        "title": "Комьюнити",
-        "author": "А. Иванов",
-        "notes": "",
-        "createdAt": "2019-11-21 14:26:03",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 33
         }
     }
 }

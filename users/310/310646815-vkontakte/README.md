@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>27</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>28</sup>
 ---
 
 ## 2019
@@ -111,6 +111,10 @@
 
 
 ## 2018
+
+### Убийственное лето
+С. Жапризо
+
 
 ### Хорошо быть тихоней
 Стивен Чбокси
