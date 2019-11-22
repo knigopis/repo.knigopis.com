@@ -1,4 +1,10 @@
 {
+    "228347319-vkontakte": {
+        "id": "228347319-vkontakte",
+        "nickname": "99point9",
+        "booksCount": 0,
+        "updatedAt": "2019-11-22 09:59:54"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-11-14 07:23:28"
-    },
-    "110877021460709820325-google": {
-        "id": "110877021460709820325-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-11-13 21:20:12"
     }
 }
