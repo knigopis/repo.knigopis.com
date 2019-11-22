@@ -1,4 +1,16 @@
 {
+    "3pQaOZzvpr": {
+        "id": "3pQaOZzvpr",
+        "title": "Евгений Онегин",
+        "author": "Александр Пушкин",
+        "notes": "",
+        "createdAt": "2019-11-22 05:58:32",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 23
+        }
+    },
     "AqxRIabtF8": {
         "id": "AqxRIabtF8",
         "title": "Безумная звезда",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 81
-        }
-    },
-    "kajGeL7LEr": {
-        "id": "kajGeL7LEr",
-        "title": "Те, кто уходит, и те, кто остается",
-        "author": "Элена Ферранте",
-        "notes": "",
-        "createdAt": "2019-11-20 16:30:27",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 739
         }
     }
 }
