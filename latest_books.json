@@ -1,4 +1,16 @@
 {
+    "tgYnQwsaxV": {
+        "id": "tgYnQwsaxV",
+        "title": "Из праха восставшие",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2019-11-22 05:57:10",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 20
+        }
+    },
     "wxVIuubAnT": {
         "id": "wxVIuubAnT",
         "title": "Игра Престолов",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 36
-        }
-    },
-    "F4fzOPEg_5": {
-        "id": "F4fzOPEg_5",
-        "title": "Лигр",
-        "author": "по мотивам Дяченков",
-        "notes": "очень хорошие фанфики: даже скачала несколько книг Дяченков",
-        "createdAt": "2019-11-19 18:16:19",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 150
         }
     }
 }
