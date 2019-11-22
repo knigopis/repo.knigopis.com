@@ -1,4 +1,16 @@
 {
+    "yEfzTijJ8D": {
+        "id": "yEfzTijJ8D",
+        "title": "Избранные 1: Какого биджу я теперь волшебник?",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-11-22 05:52:18",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 10
+        }
+    },
     "gnzh17exlm": {
         "id": "gnzh17exlm",
         "title": "Всего хорошего и спасибо за рыбу",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 152
-        }
-    },
-    "j0KPlrgz2U": {
-        "id": "j0KPlrgz2U",
-        "title": "Психология влияния",
-        "author": "Роберт Чалдини",
-        "notes": "",
-        "createdAt": "2019-11-18 15:08:23",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 90
         }
     }
 }
