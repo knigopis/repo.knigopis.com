@@ -1,4 +1,16 @@
 {
+    "jkLPTrsCvw": {
+        "id": "jkLPTrsCvw",
+        "title": "Палата номер 6",
+        "author": "Антон Чехов",
+        "notes": "",
+        "createdAt": "2019-11-22 05:53:56",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 13
+        }
+    },
     "E5oTBf_v5a": {
         "id": "E5oTBf_v5a",
         "title": "Стальной Подснежник",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": "Viktoria",
             "booksCount": 14
-        }
-    },
-    "pnnMhTRQ4l": {
-        "id": "pnnMhTRQ4l",
-        "title": "Гнев Тиамат",
-        "author": "Джеймс Кори",
-        "notes": "",
-        "createdAt": "2019-11-18 22:20:02",
-        "user": {
-            "id": "471364154-yandex",
-            "nickname": "submerged fish",
-            "booksCount": 21
         }
     }
 }
