@@ -1,4 +1,16 @@
 {
+    "XvNJ4-iau6": {
+        "id": "XvNJ4-iau6",
+        "title": "Атлант расправил плечи",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2019-11-22 05:03:55",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 1
+        }
+    },
     "4qY4kzJhse": {
         "id": "4qY4kzJhse",
         "title": "Енеїда",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 82
-        }
-    },
-    "wXWUU0z6aL": {
-        "id": "wXWUU0z6aL",
-        "title": "13 шагов к успешному инвестированию",
-        "author": "Неизвестный",
-        "notes": "",
-        "createdAt": "2019-11-18 15:02:44",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 81
         }
     }
 }
