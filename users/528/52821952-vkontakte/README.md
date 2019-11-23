@@ -1,12 +1,7 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>115</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>114</sup>
 ---
 
 ## 2019
-
-### Праздник, который всегда с тобой
-Эрнест Хемингуэй
-> [2019-11-24] 9/10
-
 
 ### Праздник, который всегда с тобой
 Эрнест Хемингуэй
