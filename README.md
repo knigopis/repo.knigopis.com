@@ -5,6 +5,14 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Скеллиг ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup>
+    > ISBN 978-5-907076-86-0
+    > "Мы вернулись к лестнице, спотыкаясь одолели ещё один пролёт, пооткрывали все двери подряд, шёпотом умоляя непроглядную тьму отозваться на сто раз повторённое имя..."
+    > 
+    > — Как много жизни у нас в руках, — размышляла вслух Минина мама. — Каждое из этих зёрен могло стать деревом, каждое дерево могло принести потом сотни других плодов, а из плодов могли вырасти сотни деревьев. И так бесконечно.
+    > Я залез пальцем в рот, снял с языка прилипшую косточку.
+    > — Только представьте, — продолжала она. — Если б каждое зёрнышко нашего граната проросло, на земле не осталось бы ничего, кроме гранатовых деревьев.
+
 * Matterhorn ~ [exulted](users/100/100599204551896265722-google)<sup>127</sup>
     > ASIN: B003ZUXQCQ
 
@@ -12,7 +20,6 @@ Do not use pull requests to make changes here.
     > книга по тайм-менеджменту. непхолоя - чочу через время еще раз пробежаться по ее содержанию
 
 * Homo Deus ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>69</sup>
-    > 7/10 Передбачення майбутнього, датаїзм.
 
 * Брехуни на кушетці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>68</sup>
 
@@ -26,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * У босса на крючке ~ [kissamasya](users/684/68439978-vkontakte)<sup>75</sup>
 
-* Школа Хваран ~ [kissamasya](users/684/68439978-vkontakte)<sup>74</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>12</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>127</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>34</sup> 
@@ -62,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [BananaPanda](users/111/111366593862837434080-google)<sup>2</sup> 
 [Avery](users/567/56734832-yandex)<sup>17</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>62</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup> 
 
 
-_23.11.2019 14:14:02_
+_23.11.2019 21:20:41_
