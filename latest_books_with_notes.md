@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Matterhorn ~ [exulted](users/100/100599204551896265722-google)<sup>127</sup>
 * Как превратить 24 часа в 48 ~ [Chiffi](users/105/105831994080785626680-google)<sup>151</sup>
 * Homo Deus ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>69</sup>
 * Брехуни на кушетці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>68</sup>
@@ -30,7 +31,6 @@
 * Взлет и падение Третьего рейха ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
 * Сны в ведьмином доме ~ [Avery](users/567/56734832-yandex)<sup>15</sup>
 * Закон маятника ~ [kissamasya](users/684/68439978-vkontakte)<sup>71</sup>
-* Женя 2 ~ [kissamasya](users/684/68439978-vkontakte)<sup>70</sup>
 
 
-_22.11.2019 18:17:38_
+_23.11.2019 12:54:07_

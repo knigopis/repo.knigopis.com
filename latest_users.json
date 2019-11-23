@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 127,
+        "updatedAt": "2019-11-23 12:54:07"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 149,
         "updatedAt": "2019-11-14 07:58:39"
-    },
-    "248300842-vkontakte": {
-        "id": "248300842-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-11-14 07:23:28"
     }
 }

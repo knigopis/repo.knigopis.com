@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Matterhorn ~ [exulted](users/100/100599204551896265722-google)<sup>127</sup>
+    > ASIN: B003ZUXQCQ
+
 * Как превратить 24 часа в 48 ~ [Chiffi](users/105/105831994080785626680-google)<sup>151</sup>
     > книга по тайм-менеджменту. непхолоя - чочу через время еще раз пробежаться по ее содержанию
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Передбачення майбутнього, датаїзм.
 
 * Брехуни на кушетці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>68</sup>
-    > 8/10 Люди брешуть і платять за це 200 за годину.
 
 * Волхв ~ [En](users/333/333646551-vkontakte)<sup>81</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Школа Хваран ~ [kissamasya](users/684/68439978-vkontakte)<sup>74</sup>
 
-* Похищенный ~ [Avery](users/567/56734832-yandex)<sup>17</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>127</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>34</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>151</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>154</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>17</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>62</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup> 
-[](users/248/248300842-vkontakte)<sup>0</sup> 
 
 
-_23.11.2019 11:26:37_
+_23.11.2019 12:54:07_
