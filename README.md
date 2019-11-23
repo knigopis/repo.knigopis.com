@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>12</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>127</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>34</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>151</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>154</sup> 
-[Viktoria](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [99point9](users/228/228347319-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>135</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>28</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup> 
 
 
-_23.11.2019 12:54:07_
+_23.11.2019 14:14:02_
