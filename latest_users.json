@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 34,
+        "updatedAt": "2019-11-23 11:26:37"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -46,12 +52,6 @@
         "nickname": "violet_velva",
         "booksCount": 75,
         "updatedAt": "2019-11-21 15:16:25"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 33,
-        "updatedAt": "2019-11-21 14:26:03"
     },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
