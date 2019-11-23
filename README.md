@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Праздник, который всегда с тобой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup>
+* Праздник, который всегда с тобой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>115</sup>
     > 9/10
 
 * Скеллиг ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup>
@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
+[Apprentice ](users/528/52821952-vkontakte)<sup>115</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>12</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>127</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>17</sup> 
 
 
-_23.11.2019 23:54:52_
+_23.11.2019 23:55:05_
