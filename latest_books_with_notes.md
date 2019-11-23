@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Праздник, который всегда с тобой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup>
 * Скеллиг ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup>
 * Matterhorn ~ [exulted](users/100/100599204551896265722-google)<sup>127</sup>
 * Как превратить 24 часа в 48 ~ [Chiffi](users/105/105831994080785626680-google)<sup>151</sup>
@@ -30,7 +31,6 @@
 * Самый главный приз (ТГ 37) ~ [Chiffi](users/105/105831994080785626680-google)<sup>149</sup>
 * K.I.L.L.E.R.S ~ [kissamasya](users/684/68439978-vkontakte)<sup>72</sup>
 * Взлет и падение Третьего рейха ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
-* Сны в ведьмином доме ~ [Avery](users/567/56734832-yandex)<sup>15</sup>
 
 
-_23.11.2019 21:20:41_
+_23.11.2019 23:54:52_

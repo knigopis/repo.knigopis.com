@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Праздник, который всегда с тобой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup>
+    > 9/10
+
 * Скеллиг ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup>
     > ISBN 978-5-907076-86-0
     > "Мы вернулись к лестнице, спотыкаясь одолели ещё один пролёт, пооткрывали все двери подряд, шёпотом умоляя непроглядную тьму отозваться на сто раз повторённое имя..."
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > ASIN: B003ZUXQCQ
 
 * Как превратить 24 часа в 48 ~ [Chiffi](users/105/105831994080785626680-google)<sup>151</sup>
-    > книга по тайм-менеджменту. непхолоя - чочу через время еще раз пробежаться по ее содержанию
 
 * Homo Deus ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>69</sup>
 
@@ -31,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Как я чёрта искушал ~ [kissamasya](users/684/68439978-vkontakte)<sup>76</sup>
 
-* У босса на крючке ~ [kissamasya](users/684/68439978-vkontakte)<sup>75</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>12</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>127</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>195</sup> 
 [BananaPanda](users/111/111366593862837434080-google)<sup>2</sup> 
 [Avery](users/567/56734832-yandex)<sup>17</sup> 
-[Человеколось](users/174/17475979687188177329-mailru)<sup>62</sup> 
 
 
-_23.11.2019 21:20:41_
+_23.11.2019 23:54:52_
