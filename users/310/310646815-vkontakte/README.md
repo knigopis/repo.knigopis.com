@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>29</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>30</sup>
 ---
 
 ## 2019
@@ -111,6 +111,10 @@
 
 
 ## 2018
+
+### Академия Ранмарн
+Елена Звездна
+
 
 ### Академия Проклятий 1, 2, 3
 Елена Звездная
