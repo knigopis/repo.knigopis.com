@@ -1,4 +1,16 @@
 {
+    "4WNlFnLVWv": {
+        "id": "4WNlFnLVWv",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Сэлинджер",
+        "notes": "",
+        "createdAt": "2019-11-24 17:36:49",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 50
+        }
+    },
     "VSfK0215tD": {
         "id": "VSfK0215tD",
         "title": "Судьба человека",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 12
-        }
-    },
-    "XH-hbzlnld": {
-        "id": "XH-hbzlnld",
-        "title": "Matterhorn",
-        "author": "Karl Marlantes",
-        "notes": "ASIN: B003ZUXQCQ",
-        "createdAt": "2019-11-23 12:54:07",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 127
         }
     }
 }

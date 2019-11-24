@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>49</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>50</sup>
 ---
 
 ## 2019
@@ -115,6 +115,10 @@
 ### Влюбиться в главного героя
 Наталья Косухина
 > [2018-11-24] 
+
+
+### Над пропастью во ржи
+Джером Сэлинджер
 
 
 ### Судьба человека
