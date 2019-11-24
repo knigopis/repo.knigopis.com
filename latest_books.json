@@ -1,4 +1,16 @@
 {
+    "LP6gHPAdLe": {
+        "id": "LP6gHPAdLe",
+        "title": "Тайная жизнь писателей",
+        "author": "Гийом Мюссо",
+        "notes": "",
+        "createdAt": "2019-11-24 08:36:08",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 48
+        }
+    },
     "9ZLToDJUH-": {
         "id": "9ZLToDJUH-",
         "title": "Дневник моего исчезновения",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 13
-        }
-    },
-    "E5oTBf_v5a": {
-        "id": "E5oTBf_v5a",
-        "title": "Стальной Подснежник",
-        "author": "Д. Арнаутова",
-        "notes": "",
-        "createdAt": "2019-11-22 05:53:22",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 12
         }
     }
 }

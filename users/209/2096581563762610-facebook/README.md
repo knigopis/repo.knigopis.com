@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>47</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>48</sup>
 ---
 
 ## 2019
+
+### Тайная жизнь писателей
+Гийом Мюссо
+> [2019-11-23] 
+
 
 ### Дневник моего исчезновения
 Камилла Гребе
