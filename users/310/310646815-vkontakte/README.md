@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>35</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>36</sup>
 ---
 
 ## 2019
@@ -115,6 +115,10 @@
 ### Влюбиться в главного героя
 Наталья Косухина
 > [2018-11-24] 
+
+
+### Гарри Поттер и Кубок Огня
+Джоан Роулинг
 
 
 ### Уличный кот по имени Боб
