@@ -1,4 +1,16 @@
 {
+    "pi78KDWwZw": {
+        "id": "pi78KDWwZw",
+        "title": "Кто стоял за спиной Сталина",
+        "author": "Островский А.В.",
+        "notes": "",
+        "createdAt": "2019-11-24 05:06:23",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 129
+        }
+    },
     "LqgI2AtMP1": {
         "id": "LqgI2AtMP1",
         "title": "Город. Штурм Грозного глазами лейтенанта спецназа (1994–1995)",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 10
-        }
-    },
-    "gnzh17exlm": {
-        "id": "gnzh17exlm",
-        "title": "Всего хорошего и спасибо за рыбу",
-        "author": "Дуглас Адамс",
-        "notes": "",
-        "createdAt": "2019-11-22 05:50:49",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 9
         }
     }
 }
