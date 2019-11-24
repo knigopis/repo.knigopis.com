@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>45</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>46</sup>
 ---
 
 ## 2019
@@ -115,6 +115,11 @@
 ### Влюбиться в главного героя
 Наталья Косухина
 > [2018-11-24] 
+
+
+### Элизиум. Аликс и монеты
+Александр Андерсон
+> 11/10
 
 
 ### 17 мгновений весны
