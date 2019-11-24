@@ -1,4 +1,16 @@
 {
+    "8VsWQ89S1e": {
+        "id": "8VsWQ89S1e",
+        "title": "Озерный фронт",
+        "author": "Паустовский К.Г.",
+        "notes": "",
+        "createdAt": "2019-11-24 05:08:52",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 130
+        }
+    },
     "pi78KDWwZw": {
         "id": "pi78KDWwZw",
         "title": "Кто стоял за спиной Сталина",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 11
-        }
-    },
-    "yEfzTijJ8D": {
-        "id": "yEfzTijJ8D",
-        "title": "Избранные 1: Какого биджу я теперь волшебник?",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-11-22 05:52:18",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 10
         }
     }
 }
