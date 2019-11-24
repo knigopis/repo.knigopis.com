@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>48</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>49</sup>
 ---
 
 ## 2019
@@ -115,6 +115,10 @@
 ### Влюбиться в главного героя
 Наталья Косухина
 > [2018-11-24] 
+
+
+### Судьба человека
+Михаил Шолохов
 
 
 ### Тонкое искусство пофигизма

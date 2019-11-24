@@ -1,4 +1,16 @@
 {
+    "VSfK0215tD": {
+        "id": "VSfK0215tD",
+        "title": "Судьба человека",
+        "author": "Михаил Шолохов",
+        "notes": "",
+        "createdAt": "2019-11-24 17:36:25",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 49
+        }
+    },
     "K-dV4a-UBG": {
         "id": "K-dV4a-UBG",
         "title": "Тонкое искусство пофигизма",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 127
-        }
-    },
-    "AVudy-OnS1": {
-        "id": "AVudy-OnS1",
-        "title": "Текст",
-        "author": "Д. Глуховский",
-        "notes": "",
-        "createdAt": "2019-11-23 11:26:37",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 34
         }
     }
 }
