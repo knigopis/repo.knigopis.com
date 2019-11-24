@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>46</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>47</sup>
 ---
 
 ## 2019
+
+### Дневник моего исчезновения
+Камилла Гребе
+> [2019-11-23] 
+
 
 ### Что делать, если
 Людмила Петрановская
