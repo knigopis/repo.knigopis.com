@@ -1,4 +1,10 @@
 {
+    "113794223924688167852-google": {
+        "id": "113794223924688167852-google",
+        "nickname": "Victoria",
+        "booksCount": 47,
+        "updatedAt": "2019-11-24 20:27:08"
+    },
     "310646815-vkontakte": {
         "id": "310646815-vkontakte",
         "nickname": "stamovashahzada",
@@ -172,11 +178,5 @@
         "nickname": "Madlax",
         "booksCount": 195,
         "updatedAt": "2019-11-15 10:45:51"
-    },
-    "111366593862837434080-google": {
-        "id": "111366593862837434080-google",
-        "nickname": "BananaPanda",
-        "booksCount": 2,
-        "updatedAt": "2019-11-15 07:49:47"
     }
 }
