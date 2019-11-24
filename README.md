@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Kacey](users/101/101923954511104996192-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>48</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>130</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>95</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>195</sup> 
 [BananaPanda](users/111/111366593862837434080-google)<sup>2</sup> 
-[Avery](users/567/56734832-yandex)<sup>17</sup> 
 
 
-_24.11.2019 08:36:08_
+_24.11.2019 15:28:58_
