@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Город. Штурм Грозного глазами лейтенанта спецназа (1994–1995) ~ [exulted](users/100/100599204551896265722-google)<sup>128</sup>
+    > ISBN: 978-5-906979-56-8
+
 * Праздник, который всегда с тобой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>115</sup>
     > 9/10
 
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > — Только представьте, — продолжала она. — Если б каждое зёрнышко нашего граната проросло, на земле не осталось бы ничего, кроме гранатовых деревьев.
 
 * Matterhorn ~ [exulted](users/100/100599204551896265722-google)<sup>127</sup>
-    > ASIN: B003ZUXQCQ
 
 * Как превратить 24 часа в 48 ~ [Chiffi](users/105/105831994080785626680-google)<sup>151</sup>
 
@@ -31,17 +33,15 @@ Do not use pull requests to make changes here.
 
 * Лигр ~ [Chiffi](users/105/105831994080785626680-google)<sup>150</sup>
 
-* Как я чёрта искушал ~ [kissamasya](users/684/68439978-vkontakte)<sup>76</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>128</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>12</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>127</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>34</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>151</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>154</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>17</sup> 
 
 
-_23.11.2019 23:55:34_
+_24.11.2019 05:04:21_

@@ -1,4 +1,16 @@
 {
+    "LqgI2AtMP1": {
+        "id": "LqgI2AtMP1",
+        "title": "Город. Штурм Грозного глазами лейтенанта спецназа (1994–1995)",
+        "author": "Загорцев Андрей",
+        "notes": "ISBN: 978-5-906979-56-8",
+        "createdAt": "2019-11-24 05:04:21",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 128
+        }
+    },
     "PyQuiFiTaD": {
         "id": "PyQuiFiTaD",
         "title": "Праздник, который всегда с тобой",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 9
-        }
-    },
-    "ubNRkn8lIE": {
-        "id": "ubNRkn8lIE",
-        "title": "Человек в картинках",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2019-11-22 05:50:17",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 8
         }
     }
 }

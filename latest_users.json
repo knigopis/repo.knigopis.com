@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 128,
+        "updatedAt": "2019-11-24 05:04:21"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -16,12 +22,6 @@
         "nickname": null,
         "booksCount": 12,
         "updatedAt": "2019-11-23 14:14:01"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 127,
-        "updatedAt": "2019-11-23 12:54:07"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",

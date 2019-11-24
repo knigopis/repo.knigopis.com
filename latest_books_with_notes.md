@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Город. Штурм Грозного глазами лейтенанта спецназа (1994–1995) ~ [exulted](users/100/100599204551896265722-google)<sup>128</sup>
 * Праздник, который всегда с тобой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>115</sup>
 * Скеллиг ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup>
 * Matterhorn ~ [exulted](users/100/100599204551896265722-google)<sup>127</sup>
@@ -30,7 +31,6 @@
 * Завтрак у Тиффани ~ [Apprentice ](users/528/52821952-vkontakte)<sup>113</sup>
 * Самый главный приз (ТГ 37) ~ [Chiffi](users/105/105831994080785626680-google)<sup>149</sup>
 * K.I.L.L.E.R.S ~ [kissamasya](users/684/68439978-vkontakte)<sup>72</sup>
-* Взлет и падение Третьего рейха ~ [lucius](users/838/83820536-yandex)<sup>151</sup>
 
 
-_23.11.2019 23:55:05_
+_24.11.2019 05:04:21_
