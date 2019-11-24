@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[stamovashahzada](users/310/310646815-vkontakte)<sup>31</sup> 
+[stamovashahzada](users/310/310646815-vkontakte)<sup>32</sup> 
 [Kacey](users/101/101923954511104996192-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>48</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>130</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [BananaPanda](users/111/111366593862837434080-google)<sup>2</sup> 
 
 
-_24.11.2019 17:18:56_
+_24.11.2019 17:19:28_
