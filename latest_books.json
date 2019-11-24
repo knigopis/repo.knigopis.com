@@ -1,4 +1,16 @@
 {
+    "ZdBbfJQOYI": {
+        "id": "ZdBbfJQOYI",
+        "title": "17 мгновений весны",
+        "author": "Ю. Семенов",
+        "notes": "9/10",
+        "createdAt": "2019-11-24 17:26:53",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 45
+        }
+    },
     "SZ_hgJtEG7": {
         "id": "SZ_hgJtEG7",
         "title": "Пятая колонна",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": "Viktoria",
             "booksCount": 16
-        }
-    },
-    "VznH3Wl5Kv": {
-        "id": "VznH3Wl5Kv",
-        "title": "Angular и Typescript. Сайтостроение для профессионалов",
-        "author": "Файн Яков, Моисеев Антон",
-        "notes": "",
-        "createdAt": "2019-11-22 09:48:30",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 135
         }
     }
 }
