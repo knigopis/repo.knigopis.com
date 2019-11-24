@@ -1,4 +1,16 @@
 {
+    "SZ_hgJtEG7": {
+        "id": "SZ_hgJtEG7",
+        "title": "Пятая колонна",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2019-11-24 17:26:20",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 44
+        }
+    },
     "ff0BjHzjp9": {
         "id": "ff0BjHzjp9",
         "title": "Зильбер. 1, 2, 3",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 135
-        }
-    },
-    "_Ici8hshtW": {
-        "id": "_Ici8hshtW",
-        "title": "Убийственное лето",
-        "author": "С. Жапризо",
-        "notes": "",
-        "createdAt": "2019-11-22 06:01:35",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 28
         }
     }
 }
