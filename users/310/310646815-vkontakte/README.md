@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>46</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>47</sup>
 ---
 
 ## 2019
@@ -115,6 +115,10 @@
 ### Влюбиться в главного героя
 Наталья Косухина
 > [2018-11-24] 
+
+
+### Орудия Смерти. Город костей
+> 8/10
 
 
 ### Элизиум. Аликс и монеты

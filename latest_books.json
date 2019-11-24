@@ -1,4 +1,16 @@
 {
+    "Dp_koM5OVt": {
+        "id": "Dp_koM5OVt",
+        "title": "Орудия Смерти. Город костей",
+        "author": "",
+        "notes": "8/10",
+        "createdAt": "2019-11-24 17:27:58",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 47
+        }
+    },
     "f3QlZK_0Fx": {
         "id": "f3QlZK_0Fx",
         "title": "Элизиум. Аликс и монеты",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 151
-        }
-    },
-    "6fiq2Ww5tL": {
-        "id": "6fiq2Ww5tL",
-        "title": "Чудесный нож",
-        "author": "Филип Пулман",
-        "notes": "",
-        "createdAt": "2019-11-22 18:06:20",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 154
         }
     }
 }
