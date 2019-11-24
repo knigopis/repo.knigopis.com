@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>30</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>31</sup>
 ---
 
 ## 2019
@@ -111,6 +111,11 @@
 
 
 ## 2018
+
+### Влюбиться в главного героя
+Наталья Косухина
+> [2018-11-24] 
+
 
 ### Академия Ранмарн
 Елена Звездна
