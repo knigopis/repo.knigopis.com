@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>32</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>33</sup>
 ---
 
 ## 2019
@@ -115,6 +115,10 @@
 ### Влюбиться в главного героя
 Наталья Косухина
 > [2018-11-24] 
+
+
+### Изгои Академии Даркстоун
+А. Медведева
 
 
 ### Звездный отбор
