@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stamovashahzada](users/310/310646815-vkontakte)<sup>29</sup> 
 [Kacey](users/101/101923954511104996192-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>48</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>130</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>154</sup> 
 [99point9](users/228/228347319-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>135</sup> 
-[stamovashahzada](users/310/310646815-vkontakte)<sup>28</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>196</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>69</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [BananaPanda](users/111/111366593862837434080-google)<sup>2</sup> 
 
 
-_24.11.2019 15:28:58_
+_24.11.2019 17:17:15_

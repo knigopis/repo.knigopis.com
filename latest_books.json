@@ -1,4 +1,16 @@
 {
+    "EWnbVg4mVm": {
+        "id": "EWnbVg4mVm",
+        "title": "Академия Проклятий 1, 2, 3",
+        "author": "Елена Звездная",
+        "notes": "",
+        "createdAt": "2019-11-24 17:17:15",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 29
+        }
+    },
     "LP6gHPAdLe": {
         "id": "LP6gHPAdLe",
         "title": "Тайная жизнь писателей",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 14
-        }
-    },
-    "jkLPTrsCvw": {
-        "id": "jkLPTrsCvw",
-        "title": "Палата номер 6",
-        "author": "Антон Чехов",
-        "notes": "",
-        "createdAt": "2019-11-22 05:53:56",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 13
         }
     }
 }
