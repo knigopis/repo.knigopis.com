@@ -1,4 +1,16 @@
 {
+    "8CZBM6OA7D": {
+        "id": "8CZBM6OA7D",
+        "title": "Вирусы мозга",
+        "author": "Ричард Докинз",
+        "notes": "",
+        "createdAt": "2019-11-25 13:19:01",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 741
+        }
+    },
     "YwL2ck_6Xb": {
         "id": "YwL2ck_6Xb",
         "title": "История о пропавшем ребенке",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 130
-        }
-    },
-    "pi78KDWwZw": {
-        "id": "pi78KDWwZw",
-        "title": "Кто стоял за спиной Сталина",
-        "author": "Островский А.В.",
-        "notes": "",
-        "createdAt": "2019-11-24 05:06:23",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 129
         }
     }
 }
