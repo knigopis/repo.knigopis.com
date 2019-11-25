@@ -1,4 +1,16 @@
 {
+    "YwL2ck_6Xb": {
+        "id": "YwL2ck_6Xb",
+        "title": "История о пропавшем ребенке",
+        "author": "Элена Ферранте",
+        "notes": "",
+        "createdAt": "2019-11-25 11:48:59",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 740
+        }
+    },
     "qrI-mZe_WJ": {
         "id": "qrI-mZe_WJ",
         "title": "Она же Грейс",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 129
-        }
-    },
-    "LqgI2AtMP1": {
-        "id": "LqgI2AtMP1",
-        "title": "Город. Штурм Грозного глазами лейтенанта спецназа (1994–1995)",
-        "author": "Загорцев Андрей",
-        "notes": "ISBN: 978-5-906979-56-8",
-        "createdAt": "2019-11-24 05:04:21",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 128
         }
     }
 }
