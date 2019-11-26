@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>135</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>136</sup>
 ---
 
 ## 2019
+
+### Буря мечей
+Джордж Мартин
+> [2019-11-27] 
+
 
 ### Angular и Typescript. Сайтостроение для профессионалов
 Файн Яков, Моисеев Антон

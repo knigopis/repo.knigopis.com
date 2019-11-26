@@ -1,4 +1,16 @@
 {
+    "U1KpB5fsGf": {
+        "id": "U1KpB5fsGf",
+        "title": "Буря мечей",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2019-11-26 19:26:30",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 136
+        }
+    },
     "qG3LzhS1vM": {
         "id": "qG3LzhS1vM",
         "title": "Zealot. Иисус: биография фанатика",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 32
-        }
-    },
-    "tDdxCTOye9": {
-        "id": "tDdxCTOye9",
-        "title": "Влюбиться в главного героя",
-        "author": "Наталья Косухина",
-        "notes": "",
-        "createdAt": "2019-11-24 17:18:56",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 31
         }
     }
 }
