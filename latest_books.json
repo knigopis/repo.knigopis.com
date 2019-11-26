@@ -1,4 +1,16 @@
 {
+    "Rnp7cC5nGp": {
+        "id": "Rnp7cC5nGp",
+        "title": "Generation П",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2019-11-26 13:54:27",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 53
+        }
+    },
     "ukhCRyrvBd": {
         "id": "ukhCRyrvBd",
         "title": "Эмоциональный интеллект. Российская практика",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 30
-        }
-    },
-    "EWnbVg4mVm": {
-        "id": "EWnbVg4mVm",
-        "title": "Академия Проклятий 1, 2, 3",
-        "author": "Елена Звездная",
-        "notes": "",
-        "createdAt": "2019-11-24 17:17:15",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 29
         }
     }
 }
