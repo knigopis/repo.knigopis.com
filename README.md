@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>196</sup> 
 [](users/203/203760080-vkontakte)<sup>0</sup> 
 [Anton Timer](users/100/100971491728532277953-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>741</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>76</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>21</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>90</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>195</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>360</sup> 
 [Derevo](users/109/109320293332154948707-google)<sup>0</sup> 
 [](users/115/115826717712507836033-google)<sup>136</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>86</sup> 
 
 
-_26.11.2019 07:11:34_
+_26.11.2019 09:45:44_

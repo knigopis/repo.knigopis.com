@@ -1,4 +1,16 @@
 {
+    "mJJPIgR5m7": {
+        "id": "mJJPIgR5m7",
+        "title": "Письма Ефимову",
+        "author": "Сергей Довлатов",
+        "notes": "",
+        "createdAt": "2019-11-26 09:45:43",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 196
+        }
+    },
     "8CZBM6OA7D": {
         "id": "8CZBM6OA7D",
         "title": "Вирусы мозга",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 47
-        }
-    },
-    "8VsWQ89S1e": {
-        "id": "8VsWQ89S1e",
-        "title": "Озерный фронт",
-        "author": "Паустовский К.Г.",
-        "notes": "",
-        "createdAt": "2019-11-24 05:08:52",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 130
         }
     }
 }
