@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Anton Timer](users/100/100971491728532277953-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>741</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>47</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>52</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>136</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>86</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>95</sup> 
-[Madlax](users/158/158304782-vkontakte)<sup>195</sup> 
 
 
-_25.11.2019 13:19:03_
+_26.11.2019 07:04:25_
