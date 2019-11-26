@@ -1,4 +1,10 @@
 {
+    "203760080-vkontakte": {
+        "id": "203760080-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2019-11-26 07:11:30"
+    },
     "100971491728532277953-google": {
         "id": "100971491728532277953-google",
         "nickname": "Anton Timer",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ",
         "booksCount": 86,
         "updatedAt": "2019-11-16 11:07:02"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 95,
-        "updatedAt": "2019-11-15 17:20:08"
     }
 }
