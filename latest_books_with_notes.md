@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Zealot. Иисус: биография фанатика ~ [kissamasya](users/684/68439978-vkontakte)<sup>77</sup>
 * Эмоциональный интеллект. Российская практика ~ [dmiro](users/571/5714115-vkontakte)<sup>16</sup>
 * Відродження ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>70</sup>
 * Она же Грейс ~ [Victoria](users/113/113794223924688167852-google)<sup>47</sup>
@@ -30,7 +31,6 @@
 *  ~ [TheWildWind](users/262/262062207519652-facebook)<sup>37</sup>
 * Прекрасная толстушка.Книга 2 ~ [kissamasya](users/684/68439978-vkontakte)<sup>73</sup>
 * Большая книга "Ленивой мамы" ~ [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup>
-* 1984 ~ [Rainbow](users/109/109787328219839805802-google)<sup>48</sup>
 
 
-_26.11.2019 12:14:26_
+_26.11.2019 17:53:51_
