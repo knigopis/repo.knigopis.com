@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>69</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>70</sup>
 ---
 
 ## 2019
+
+### Відродження
+Стівен Кінг
+> [2019-11-26] 10/10 Пастор зцілює у наметі, залишкові явища після щцілення жахливі.
+
 
 ### Homo Deus
 Ювал Ной Харарі

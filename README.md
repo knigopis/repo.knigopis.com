@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Відродження ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>70</sup>
+    > 10/10 Пастор зцілює у наметі, залишкові явища після щцілення жахливі.
+
 * Она же Грейс ~ [Victoria](users/113/113794223924688167852-google)<sup>47</sup>
     > О юной служанке. Мать погибла при переправе на корабле. Отец пьяница. Лучшая подруга Мэри Уитни, которая забеременела от сына хозяйки и погибла при аборте. В новом доме Грейс и молодой рабочий совершили двойное убийство. В результате он был повешен, она провела 30 лет в заключении. Выйдя по амнистии вышла замуж за друга детства Джереми Уолша (гадание на яблоке предрекало жениха на букву Д, но доктор Джордан, изучавший сумасшествие Грейс, не стал тем женихом)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-906979-56-8
 
 * Праздник, который всегда с тобой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>115</sup>
-    > 9/10
 
 * Скеллиг ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Волхв ~ [En](users/333/333646551-vkontakte)<sup>81</sup>
 
-* Мартин Иден ~ [youno](users/302/302928912-vkontakte)<sup>36</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>70</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>196</sup> 
 [](users/203/203760080-vkontakte)<sup>0</sup> 
 [Anton Timer](users/100/100971491728532277953-google)<sup>0</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>135</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>196</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>69</sup> 
 [En](users/333/333646551-vkontakte)<sup>81</sup> 
 [youno](users/302/302928912-vkontakte)<sup>36</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>52</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>86</sup> 
 
 
-_26.11.2019 09:45:44_
+_26.11.2019 11:52:06_

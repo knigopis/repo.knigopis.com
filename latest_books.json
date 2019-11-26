@@ -1,4 +1,16 @@
 {
+    "jP20TGgvh9": {
+        "id": "jP20TGgvh9",
+        "title": "Відродження",
+        "author": "Стівен Кінг",
+        "notes": "10/10 Пастор зцілює у наметі, залишкові явища після щцілення жахливі.",
+        "createdAt": "2019-11-26 11:52:05",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 70
+        }
+    },
     "mJJPIgR5m7": {
         "id": "mJJPIgR5m7",
         "title": "Письма Ефимову",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 48
-        }
-    },
-    "9ZLToDJUH-": {
-        "id": "9ZLToDJUH-",
-        "title": "Дневник моего исчезновения",
-        "author": "Камилла Гребе",
-        "notes": "",
-        "createdAt": "2019-11-24 08:35:22",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 47
         }
     }
 }
