@@ -1,4 +1,10 @@
 {
+    "100971491728532277953-google": {
+        "id": "100971491728532277953-google",
+        "nickname": "Anton Timer",
+        "booksCount": 0,
+        "updatedAt": "2019-11-26 07:04:20"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 95,
         "updatedAt": "2019-11-15 17:20:08"
-    },
-    "158304782-vkontakte": {
-        "id": "158304782-vkontakte",
-        "nickname": "Madlax",
-        "booksCount": 195,
-        "updatedAt": "2019-11-15 10:45:51"
     }
 }
