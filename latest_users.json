@@ -1,4 +1,10 @@
 {
+    "116141889586488878812-google": {
+        "id": "116141889586488878812-google",
+        "nickname": "BlackNRoses",
+        "booksCount": 0,
+        "updatedAt": "2019-11-27 16:10:28"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "Aleks",
         "booksCount": 90,
         "updatedAt": "2019-11-18 15:08:23"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 360,
-        "updatedAt": "2019-11-18 10:55:53"
     }
 }
