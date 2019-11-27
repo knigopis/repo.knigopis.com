@@ -1,4 +1,16 @@
 {
+    "KjmfnT46Xm": {
+        "id": "KjmfnT46Xm",
+        "title": "В финале Джон умрёт",
+        "author": "Дэвид Вонг",
+        "notes": "",
+        "createdAt": "2019-11-27 10:47:01",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 87
+        }
+    },
     "xrW29Nilvf": {
         "id": "xrW29Nilvf",
         "title": "Firefly. Чертов герой",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 35
-        }
-    },
-    "o0ertub57R": {
-        "id": "o0ertub57R",
-        "title": "Мы с истекшим сроком годности",
-        "author": "Стейс Крамер",
-        "notes": "",
-        "createdAt": "2019-11-24 17:20:47",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 34
         }
     }
 }

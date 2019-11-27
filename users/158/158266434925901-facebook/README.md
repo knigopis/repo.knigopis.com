@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>86</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>87</sup>
 ---
 
 ## 2019
+
+### В финале Джон умрёт
+Дэвид Вонг
+> [2019-11-27] 
+
 
 ### Сумерки
 Стефани Майер
