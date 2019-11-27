@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 21321 ~ [sonics](users/588/5880221-vkontakte)<sup>63</sup>
+    > 12321321
+
 * Zealot. Иисус: биография фанатика ~ [kissamasya](users/684/68439978-vkontakte)<sup>77</sup>
     > Это исторический рассказ о жизни Иисуса с описанием различных религиозных взглядов на Иисуса, а также истории христианства. Книга стала бестселлером New York Times. В книге автор утверждает, что Иисус был политическим, мятежным и эсхатологическим (конец времен) евреем, чье провозглашение грядущего Царства Божьего было призывом к смене режима, которое положит конец римской гегемонии над Иудеей и положит конец коррумпированному и репрессивному аристократическому священству[1].
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Прочла за 2 недели в рамках курса ПРОЕКТ ИКС. До последней главы, посвященной эмоциям сотрудников, было интересно. Книга о том, как важно распознавать свои эмоции и управлять ими.
 
 * Відродження ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>70</sup>
-    > 10/10 Пастор зцілює у наметі, залишкові явища після щцілення жахливі.
 
 * Она же Грейс ~ [Victoria](users/113/113794223924688167852-google)<sup>47</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Как превратить 24 часа в 48 ~ [Chiffi](users/105/105831994080785626680-google)<sup>151</sup>
 
-* Homo Deus ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>69</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>63</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>136</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>77</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>53</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleks](users/117/117835844513813219393-google)<sup>90</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>360</sup> 
 [Derevo](users/109/109320293332154948707-google)<sup>0</sup> 
-[](users/115/115826717712507836033-google)<sup>136</sup> 
 
 
-_26.11.2019 19:26:31_
+_27.11.2019 07:55:40_
