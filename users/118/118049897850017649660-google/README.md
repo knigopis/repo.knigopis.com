@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>154</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>155</sup>
 ---
 
 ## 2019
+
+### Firefly. Чертов герой
+Нэнси Холдер, Джеймс Лавгроув
+> [2019-11-27] 
+
 
 ### Чудесный нож
 Филип Пулман
