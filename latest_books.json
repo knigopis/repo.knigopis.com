@@ -1,4 +1,16 @@
 {
+    "SsB9myLSZl": {
+        "id": "SsB9myLSZl",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2019-11-28 03:02:09",
+        "user": {
+            "id": "2195256973544755662-mailru",
+            "nickname": "ee",
+            "booksCount": 6
+        }
+    },
     "bp-Q-RQ9Eu": {
         "id": "bp-Q-RQ9Eu",
         "title": "Форрест Гамп",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 42
-        }
-    },
-    "RR4er6m8gY": {
-        "id": "RR4er6m8gY",
-        "title": "Стихийный сон",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-11-24 17:24:47",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 41
         }
     }
 }
