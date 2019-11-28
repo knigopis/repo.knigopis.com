@@ -1,4 +1,10 @@
 {
+    "2195256973544755662-mailru": {
+        "id": "2195256973544755662-mailru",
+        "nickname": "ee",
+        "booksCount": 0,
+        "updatedAt": "2019-11-28 02:44:51"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "submerged fish",
         "booksCount": 21,
         "updatedAt": "2019-11-18 22:20:02"
-    },
-    "117835844513813219393-google": {
-        "id": "117835844513813219393-google",
-        "nickname": "Aleks",
-        "booksCount": 90,
-        "updatedAt": "2019-11-18 15:08:23"
     }
 }
