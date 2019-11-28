@@ -1,4 +1,16 @@
 {
+    "vuiukjpLJc": {
+        "id": "vuiukjpLJc",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2019-11-28 03:00:03",
+        "user": {
+            "id": "2195256973544755662-mailru",
+            "nickname": "ee",
+            "booksCount": 4
+        }
+    },
     "QjCk4yhSCZ": {
         "id": "QjCk4yhSCZ",
         "title": "Голос Монстра",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 40
-        }
-    },
-    "-xqmWDGVtT": {
-        "id": "-xqmWDGVtT",
-        "title": "Держитесь, маги, я иду!",
-        "author": "В. Елисеева",
-        "notes": "",
-        "createdAt": "2019-11-24 17:24:06",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 39
         }
     }
 }
