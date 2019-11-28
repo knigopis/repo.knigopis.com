@@ -1,12 +1,7 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>14</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>13</sup>
 ---
 
 ## 2019
-
-### Перерождение
-Джастин Кронин
-> [2019-11-28] 
-
 
 ### Перерождение
 Джастин Кронин
