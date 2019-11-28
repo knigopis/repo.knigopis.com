@@ -1,4 +1,16 @@
 {
+    "eAOkP4PPe7": {
+        "id": "eAOkP4PPe7",
+        "title": "Норвежский Лес",
+        "author": "Мураками",
+        "notes": "",
+        "createdAt": "2019-11-28 02:58:12",
+        "user": {
+            "id": "2195256973544755662-mailru",
+            "nickname": "ee",
+            "booksCount": 2
+        }
+    },
     "hWVr_kaFF2": {
         "id": "hWVr_kaFF2",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 38
-        }
-    },
-    "393NZL-8MM": {
-        "id": "393NZL-8MM",
-        "title": "Герои Академии Даркстоун",
-        "author": "А. Медведева",
-        "notes": "",
-        "createdAt": "2019-11-24 17:23:03",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 37
         }
     }
 }
