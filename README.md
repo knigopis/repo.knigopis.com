@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ee](users/219/2195256973544755662-mailru)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>742</sup> 
 [BlackNRoses](users/116/116141889586488878812-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>87</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>81</sup> 
 [youno](users/302/302928912-vkontakte)<sup>36</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>21</sup> 
-[Aleks](users/117/117835844513813219393-google)<sup>90</sup> 
 
 
-_27.11.2019 17:31:13_
+_28.11.2019 02:44:58_
