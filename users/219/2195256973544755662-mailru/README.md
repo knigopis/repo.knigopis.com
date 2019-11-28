@@ -1,4 +1,4 @@
-# List of books read by [ee](https://my.mail.ru/mail/frodzhers/)<sup>6</sup>
+# List of books read by [ee](https://my.mail.ru/mail/frodzhers/)<sup>7</sup>
 ---
 
 ## 2019
@@ -32,6 +32,10 @@
 
 
 ## 2017
+
+### Лолита
+Владимир Набоков
+
 
 ### Цветы для Элджернона
 Дэниел Киз
