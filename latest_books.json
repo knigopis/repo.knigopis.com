@@ -1,4 +1,16 @@
 {
+    "C7rhFfv3Vv": {
+        "id": "C7rhFfv3Vv",
+        "title": "Перерождение",
+        "author": "Джастин Кронин",
+        "notes": "",
+        "createdAt": "2019-11-28 16:42:23",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 13
+        }
+    },
     "NP_tR3gi0M": {
         "id": "NP_tR3gi0M",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 44
-        }
-    },
-    "ff0BjHzjp9": {
-        "id": "ff0BjHzjp9",
-        "title": "Зильбер. 1, 2, 3",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-11-24 17:25:53",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 43
         }
     }
 }

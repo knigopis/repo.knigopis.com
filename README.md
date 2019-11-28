@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>13</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>742</sup> 
 [BlackNRoses](users/116/116141889586488878812-google)<sup>0</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>130</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>12</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>34</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>151</sup> 
 [99point9](users/228/228347319-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>21</sup> 
 
 
-_28.11.2019 03:22:14_
+_28.11.2019 16:42:23_
