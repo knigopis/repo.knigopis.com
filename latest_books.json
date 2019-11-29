@@ -1,4 +1,16 @@
 {
+    "NgPAtXTsuC": {
+        "id": "NgPAtXTsuC",
+        "title": "Гуд бай, Берлин!",
+        "author": "Вольфганг Херрндорф",
+        "notes": "",
+        "createdAt": "2019-11-29 14:21:47",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 743
+        }
+    },
     "KheRsUREhI": {
         "id": "KheRsUREhI",
         "title": "Племя",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 48
-        }
-    },
-    "Dp_koM5OVt": {
-        "id": "Dp_koM5OVt",
-        "title": "Орудия Смерти. Город костей",
-        "author": "",
-        "notes": "8/10",
-        "createdAt": "2019-11-24 17:27:58",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 47
         }
     }
 }
