@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>49</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>13</sup> 
 [youno](users/302/302928912-vkontakte)<sup>38</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>743</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>47</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>52</sup> 
 [Kacey](users/101/101923954511104996192-google)<sup>0</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>48</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>130</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>81</sup> 
 
 
-_29.11.2019 18:01:32_
+_29.11.2019 19:50:56_
