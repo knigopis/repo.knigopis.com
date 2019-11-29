@@ -1,4 +1,10 @@
 {
+    "334696193054530347-mailru": {
+        "id": "334696193054530347-mailru",
+        "nickname": "Даша",
+        "booksCount": 48,
+        "updatedAt": "2019-11-29 00:58:23"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 36,
         "updatedAt": "2019-11-19 19:12:40"
-    },
-    "471364154-yandex": {
-        "id": "471364154-yandex",
-        "nickname": "submerged fish",
-        "booksCount": 21,
-        "updatedAt": "2019-11-18 22:20:02"
     }
 }

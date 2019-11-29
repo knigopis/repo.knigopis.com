@@ -1,7 +1,12 @@
-# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>47</sup>
+# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>48</sup>
 ---
 
 ## 2019
+
+### Красота - это горе
+Эка Курниаван
+> [2019-11] 
+
 
 ### Бывшие люди
 Дуглас Смит

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Даша](users/334/334696193054530347-mailru)<sup>48</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>197</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>13</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
 [En](users/333/333646551-vkontakte)<sup>81</sup> 
 [youno](users/302/302928912-vkontakte)<sup>36</sup> 
-[submerged fish](users/471/471364154-yandex)<sup>21</sup> 
 
 
-_28.11.2019 19:49:18_
+_29.11.2019 00:58:23_
