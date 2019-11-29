@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Племя ~ [youno](users/302/302928912-vkontakte)<sup>37</sup>
+    > Интересная тема, слабо раскрыта в книге.
+
 * 21321 ~ [sonics](users/588/5880221-vkontakte)<sup>63</sup>
     > 12321321
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Это исторический рассказ о жизни Иисуса с описанием различных религиозных взглядов на Иисуса, а также истории христианства. Книга стала бестселлером New York Times. В книге автор утверждает, что Иисус был политическим, мятежным и эсхатологическим (конец времен) евреем, чье провозглашение грядущего Царства Божьего было призывом к смене режима, которое положит конец римской гегемонии над Иудеей и положит конец коррумпированному и репрессивному аристократическому священству[1].
 
 * Эмоциональный интеллект. Российская практика ~ [dmiro](users/571/5714115-vkontakte)<sup>16</sup>
-    > Прочла за 2 недели в рамках курса ПРОЕКТ ИКС. До последней главы, посвященной эмоциям сотрудников, было интересно. Книга о том, как важно распознавать свои эмоции и управлять ими.
 
 * Відродження ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>70</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Matterhorn ~ [exulted](users/100/100599204551896265722-google)<sup>127</sup>
 
-* Как превратить 24 часа в 48 ~ [Chiffi](users/105/105831994080785626680-google)<sup>151</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>37</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>48</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>197</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>13</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [99point9](users/228/228347319-vkontakte)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
 [En](users/333/333646551-vkontakte)<sup>81</sup> 
-[youno](users/302/302928912-vkontakte)<sup>36</sup> 
 
 
-_29.11.2019 00:58:23_
+_29.11.2019 12:24:10_

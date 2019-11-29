@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 37,
+        "updatedAt": "2019-11-29 12:24:09"
+    },
     "334696193054530347-mailru": {
         "id": "334696193054530347-mailru",
         "nickname": "Даша",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 81,
         "updatedAt": "2019-11-21 04:31:51"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 36,
-        "updatedAt": "2019-11-19 19:12:40"
     }
 }
