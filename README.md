@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Аскетизм ~ [youno](users/302/302928912-vkontakte)<sup>38</sup>
+    > Идеология не нова, автор приводит тупые аналогии. 2/10
+
 * Племя ~ [youno](users/302/302928912-vkontakte)<sup>37</sup>
     > Интересная тема, слабо раскрыта в книге.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 12321321
 
 * Zealot. Иисус: биография фанатика ~ [kissamasya](users/684/68439978-vkontakte)<sup>77</sup>
-    > Это исторический рассказ о жизни Иисуса с описанием различных религиозных взглядов на Иисуса, а также истории христианства. Книга стала бестселлером New York Times. В книге автор утверждает, что Иисус был политическим, мятежным и эсхатологическим (конец времен) евреем, чье провозглашение грядущего Царства Божьего было призывом к смене режима, которое положит конец римской гегемонии над Иудеей и положит конец коррумпированному и репрессивному аристократическому священству[1].
 
 * Эмоциональный интеллект. Российская практика ~ [dmiro](users/571/5714115-vkontakte)<sup>16</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Скеллиг ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup>
 
-* Matterhorn ~ [exulted](users/100/100599204551896265722-google)<sup>127</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>38</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>743</sup> 
-[youno](users/302/302928912-vkontakte)<sup>37</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>48</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>197</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>13</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>81</sup> 
 
 
-_29.11.2019 14:21:49_
+_29.11.2019 14:49:14_

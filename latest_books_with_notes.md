@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Аскетизм ~ [youno](users/302/302928912-vkontakte)<sup>38</sup>
 * Племя ~ [youno](users/302/302928912-vkontakte)<sup>37</sup>
 * 21321 ~ [sonics](users/588/5880221-vkontakte)<sup>63</sup>
 * Zealot. Иисус: биография фанатика ~ [kissamasya](users/684/68439978-vkontakte)<sup>77</sup>
@@ -30,7 +31,6 @@
 * Текст ~ [En](users/333/333646551-vkontakte)<sup>80</sup>
 * Щегол ~ [Avery](users/567/56734832-yandex)<sup>16</sup>
 * Милан Кундера ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>148</sup>
-*  ~ [TheWildWind](users/262/262062207519652-facebook)<sup>37</sup>
 
 
-_29.11.2019 12:24:10_
+_29.11.2019 14:49:14_

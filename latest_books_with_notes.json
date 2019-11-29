@@ -1,4 +1,16 @@
 {
+    "V_4v_weVrt": {
+        "id": "V_4v_weVrt",
+        "title": "Аскетизм",
+        "author": "Патрик Дж. Холл",
+        "notes": "Идеология не нова, автор приводит тупые аналогии. 2/10",
+        "createdAt": "2019-11-29 14:49:13",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 38
+        }
+    },
     "KheRsUREhI": {
         "id": "KheRsUREhI",
         "title": "Племя",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 148
-        }
-    },
-    "zWIRngMaQy": {
-        "id": "zWIRngMaQy",
-        "title": "",
-        "author": "Тепличный цветок",
-        "notes": "Хуже первой части. Жаль потраченного времени.",
-        "createdAt": "2019-11-07 19:34:13",
-        "user": {
-            "id": "262062207519652-facebook",
-            "nickname": "TheWildWind",
-            "booksCount": 37
         }
     }
 }
