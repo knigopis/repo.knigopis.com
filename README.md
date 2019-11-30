@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tumturumk](users/135/135685382-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>71</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>87</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>35</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>151</sup> 
 [99point9](users/228/228347319-vkontakte)<sup>0</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>75</sup> 
-[En](users/333/333646551-vkontakte)<sup>81</sup> 
 
 
-_30.11.2019 04:59:27_
+_30.11.2019 07:09:30_
