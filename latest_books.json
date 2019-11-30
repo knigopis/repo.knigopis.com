@@ -1,4 +1,16 @@
 {
+    "rOaNJe9nAf": {
+        "id": "rOaNJe9nAf",
+        "title": "Краткая история семи убийств",
+        "author": "Марлон Джеймс",
+        "notes": "",
+        "createdAt": "2019-11-30 11:32:31",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 744
+        }
+    },
     "sJtFT41i3u": {
         "id": "sJtFT41i3u",
         "title": "Теория зла",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 70
-        }
-    },
-    "mJJPIgR5m7": {
-        "id": "mJJPIgR5m7",
-        "title": "Письма Ефимову",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2019-11-26 09:45:43",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 196
         }
     }
 }
