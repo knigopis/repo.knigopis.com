@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Оно ~ [Garka](users/115/115753719718250012620-google)<sup>234</sup>
+    > Первый том понравился больше. Интересно описаны жизни семерых гг, интересна параллель между событиями 58г и 85г. Под конец, как часто у Кинга бывает, много сумбура. Самым страшным для меня было не Оно, а как что-то (кто-то?) заставил всех забыть не только события в Дерри, но и своих друзей
+
 * Мости округу Медісон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>72</sup>
     > 6/10 історія кохання на все життя між дружиною фермера та фотогрфом
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Откровения самоубийц.
 
 * Аскетизм ~ [youno](users/302/302928912-vkontakte)<sup>38</sup>
-    > Идеология не нова, автор приводит тупые аналогии. 2/10
 
 * Племя ~ [youno](users/302/302928912-vkontakte)<sup>37</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Она же Грейс ~ [Victoria](users/113/113794223924688167852-google)<sup>47</sup>
 
-* Город. Штурм Грозного глазами лейтенанта спецназа (1994–1995) ~ [exulted](users/100/100599204551896265722-google)<sup>128</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>234</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>72</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>744</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>151</sup> 
-[99point9](users/228/228347319-vkontakte)<sup>0</sup> 
 
 
-_30.11.2019 16:52:10_
+_30.11.2019 19:21:22_

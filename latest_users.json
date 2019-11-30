@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 234,
+        "updatedAt": "2019-11-30 19:21:21"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 151,
         "updatedAt": "2019-11-22 18:17:37"
-    },
-    "228347319-vkontakte": {
-        "id": "228347319-vkontakte",
-        "nickname": "99point9",
-        "booksCount": 0,
-        "updatedAt": "2019-11-22 09:59:54"
     }
 }
