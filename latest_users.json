@@ -1,4 +1,10 @@
 {
+    "135685382-vkontakte": {
+        "id": "135685382-vkontakte",
+        "nickname": "tumturumk",
+        "booksCount": 0,
+        "updatedAt": "2019-11-30 07:09:26"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 75,
         "updatedAt": "2019-11-21 15:16:25"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 81,
-        "updatedAt": "2019-11-21 04:31:51"
     }
 }
