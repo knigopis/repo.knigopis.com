@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>71</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>72</sup>
 ---
 
 ## 2019
+
+### Мости округу Медісон
+Роберт Джеймс Воллер
+> [2019-11-30] 6/10 історія кохання на все життя між дружиною фермера та фотогрфом
+
 
 ### Зачарованные смертью
 Светлана Алексиевич
