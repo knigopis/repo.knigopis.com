@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>87</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>35</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>49</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>13</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>197</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
 [BlackNRoses](users/116/116141889586488878812-google)<sup>0</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>87</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>155</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>63</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>136</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>81</sup> 
 
 
-_29.11.2019 20:55:08_
+_30.11.2019 00:43:49_
