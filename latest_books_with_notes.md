@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>71</sup>
 * Аскетизм ~ [youno](users/302/302928912-vkontakte)<sup>38</sup>
 * Племя ~ [youno](users/302/302928912-vkontakte)<sup>37</sup>
 * 21321 ~ [sonics](users/588/5880221-vkontakte)<sup>63</sup>
@@ -30,7 +31,6 @@
 * Бойня №5, или крестовый поход детей ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>27</sup>
 * Текст ~ [En](users/333/333646551-vkontakte)<sup>80</sup>
 * Щегол ~ [Avery](users/567/56734832-yandex)<sup>16</sup>
-* Милан Кундера ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>148</sup>
 
 
-_29.11.2019 14:49:14_
+_30.11.2019 04:59:27_

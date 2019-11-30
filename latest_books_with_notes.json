@@ -1,4 +1,16 @@
 {
+    "X1y8g0Xfrp": {
+        "id": "X1y8g0Xfrp",
+        "title": "Зачарованные смертью",
+        "author": "Светлана Алексиевич",
+        "notes": "10/10 Откровения самоубийц.",
+        "createdAt": "2019-11-30 04:59:27",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 71
+        }
+    },
     "V_4v_weVrt": {
         "id": "V_4v_weVrt",
         "title": "Аскетизм",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 16
-        }
-    },
-    "hqM3KwE-nW": {
-        "id": "hqM3KwE-nW",
-        "title": "Милан Кундера",
-        "author": "Невыносимая лёгкость бытия",
-        "notes": "Секс и страдания.",
-        "createdAt": "2019-11-08 00:58:55",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 148
         }
     }
 }

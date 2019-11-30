@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>71</sup>
+    > 10/10 Откровения самоубийц.
+
 * Аскетизм ~ [youno](users/302/302928912-vkontakte)<sup>38</sup>
     > Идеология не нова, автор приводит тупые аналогии. 2/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Интересная тема, слабо раскрыта в книге.
 
 * 21321 ~ [sonics](users/588/5880221-vkontakte)<sup>63</sup>
-    > 12321321
 
 * Zealot. Иисус: биография фанатика ~ [kissamasya](users/684/68439978-vkontakte)<sup>77</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Праздник, который всегда с тобой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>115</sup>
 
-* Скеллиг ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>71</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>87</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>35</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>49</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>77</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>53</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>16</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>70</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>196</sup> 
 [](users/203/203760080-vkontakte)<sup>0</sup> 
 [Anton Timer](users/100/100971491728532277953-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>81</sup> 
 
 
-_30.11.2019 00:43:49_
+_30.11.2019 04:59:27_

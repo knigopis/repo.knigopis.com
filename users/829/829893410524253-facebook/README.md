@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>70</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>71</sup>
 ---
 
 ## 2019
+
+### Зачарованные смертью
+Светлана Алексиевич
+> [2019-11-29] 10/10 Откровения самоубийц.
+
 
 ### Відродження
 Стівен Кінг
