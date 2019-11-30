@@ -1,4 +1,16 @@
 {
+    "sJtFT41i3u": {
+        "id": "sJtFT41i3u",
+        "title": "Теория зла",
+        "author": "Донато Карризи",
+        "notes": "",
+        "createdAt": "2019-11-30 07:48:54",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 76
+        }
+    },
     "QM5OEfkh3x": {
         "id": "QM5OEfkh3x",
         "title": "Точки и линии",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 196
-        }
-    },
-    "8CZBM6OA7D": {
-        "id": "8CZBM6OA7D",
-        "title": "Вирусы мозга",
-        "author": "Ричард Докинз",
-        "notes": "",
-        "createdAt": "2019-11-25 13:19:01",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 741
         }
     }
 }

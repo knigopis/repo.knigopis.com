@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>75</sup>
+# List of books read by violet_velva<sup>76</sup>
 ---
 
 ## 2019
+
+### Теория зла
+Донато Карризи
+> [2019-11-25] 
+
 
 ### Слово живое и мёртвое
 Нора Галь
