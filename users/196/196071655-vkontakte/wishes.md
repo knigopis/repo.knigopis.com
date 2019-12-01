@@ -1,7 +1,7 @@
 # Wish list of books by [afferens.lucem](http://vk.com/id196071655)
 ---
 
-### `38` Пир стервятников
+### `47` Пир стервятников
 Джордж Мартин
 
 ### `28` Asp.Net Core MVC 2
