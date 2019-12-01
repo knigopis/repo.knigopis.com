@@ -1,4 +1,16 @@
 {
+    "Usz0hBj28V": {
+        "id": "Usz0hBj28V",
+        "title": "Экстрасенс. Битва",
+        "author": "Юрий  Корчевский",
+        "notes": "",
+        "createdAt": "2019-12-01 15:00:16",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 15
+        }
+    },
     "mooAEZJL1n": {
         "id": "mooAEZJL1n",
         "title": "Оно",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 77
-        }
-    },
-    "Rnp7cC5nGp": {
-        "id": "Rnp7cC5nGp",
-        "title": "Generation П",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2019-11-26 13:54:27",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 53
         }
     }
 }

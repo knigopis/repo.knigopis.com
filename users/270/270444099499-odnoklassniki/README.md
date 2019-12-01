@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>14</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>15</sup>
 ---
 
 ## 2019
+
+### Экстрасенс. Битва
+Юрий  Корчевский
+> [2019-12-01] 
+
 
 ### Экстрасенс
 Сергей Асанов

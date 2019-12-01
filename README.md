@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>234</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>72</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>744</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>76</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>151</sup> 
 
 
-_30.11.2019 19:21:22_
+_01.12.2019 15:00:17_
