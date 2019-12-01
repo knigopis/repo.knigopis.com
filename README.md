@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ложь. Почему говорить правду всегда лучше ~ [youno](users/302/302928912-vkontakte)<sup>39</sup>
+    > Мысль верна, но можно было обойтись статьей.
+
 * Оно ~ [Garka](users/115/115753719718250012620-google)<sup>234</sup>
     > Первый том понравился больше. Интересно описаны жизни семерых гг, интересна параллель между событиями 58г и 85г. Под конец, как часто у Кинга бывает, много сумбура. Самым страшным для меня было не Оно, а как что-то (кто-то?) заставил всех забыть не только события в Дерри, но и своих друзей
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 історія кохання на все життя між дружиною фермера та фотогрфом
 
 * Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>71</sup>
-    > 10/10 Откровения самоубийц.
 
 * Аскетизм ~ [youno](users/302/302928912-vkontakte)<sup>38</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Відродження ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>70</sup>
 
-* Она же Грейс ~ [Victoria](users/113/113794223924688167852-google)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>39</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>234</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>72</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>87</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>35</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>49</sup> 
-[youno](users/302/302928912-vkontakte)<sup>38</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>48</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>197</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>151</sup> 
 
 
-_01.12.2019 15:00:17_
+_01.12.2019 15:06:33_
