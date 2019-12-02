@@ -1,4 +1,16 @@
 {
+    "od0tLjA3ea": {
+        "id": "od0tLjA3ea",
+        "title": "Научись быть экстрасенсом",
+        "author": "Александр Панфилов",
+        "notes": "",
+        "createdAt": "2019-12-02 01:27:07",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 16
+        }
+    },
     "h9vgFHEs0M": {
         "id": "h9vgFHEs0M",
         "title": "Ложь. Почему говорить правду всегда лучше",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 63
-        }
-    },
-    "U1KpB5fsGf": {
-        "id": "U1KpB5fsGf",
-        "title": "Буря мечей",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2019-11-26 19:26:30",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 136
         }
     }
 }
