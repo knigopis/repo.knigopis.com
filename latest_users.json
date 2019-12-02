@@ -1,4 +1,10 @@
 {
+    "14193475-vkontakte": {
+        "id": "14193475-vkontakte",
+        "nickname": "Hunhan",
+        "booksCount": 0,
+        "updatedAt": "2019-12-02 12:33:31"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 28,
         "updatedAt": "2019-11-23 21:20:41"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 151,
-        "updatedAt": "2019-11-22 18:17:37"
     }
 }
