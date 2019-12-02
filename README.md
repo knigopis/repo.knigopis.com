@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Hunhan](users/141/14193475-vkontakte)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [youno](users/302/302928912-vkontakte)<sup>39</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>234</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>130</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>151</sup> 
 
 
-_02.12.2019 01:28:16_
+_02.12.2019 12:33:37_
