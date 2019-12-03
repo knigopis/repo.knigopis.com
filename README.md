@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>745</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
 [Hunhan](users/141/14193475-vkontakte)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [youno](users/302/302928912-vkontakte)<sup>39</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>234</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>72</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>744</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>87</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>35</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup> 
 
 
-_03.12.2019 07:03:36_
+_03.12.2019 13:50:44_

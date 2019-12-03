@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>744</sup>
+# List of books read by Janet<sup>745</sup>
 ---
 
 ## 2019
+
+### Толстая тетрадь
+Кристоф Агота
+> [2019-12] 
+
 
 ### Краткая история семи убийств
 Марлон Джеймс
