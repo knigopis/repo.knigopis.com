@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>76</sup>
+# List of books read by violet_velva<sup>77</sup>
 ---
 
 ## 2019
+
+### Вскрытие покажет
+Алексей Решетун
+> [2019-12-01] 
+
 
 ### Теория зла
 Донато Карризи
