@@ -1,4 +1,16 @@
 {
+    "6wI3zD_h-E": {
+        "id": "6wI3zD_h-E",
+        "title": "Рассказы",
+        "author": "Рэй Брэдбери",
+        "notes": "Бетономешалка\n\nБыли они смуглые и золотоглазые\n\nВельд\n\nВсе лето и один день\n\nДракон\n\nЗдравствуй и прощай\n\nЗолотые яблоки Солнца\n\nИ все таки наш\n\nИ грянул гром\n\nКошки-мышки",
+        "createdAt": "2019-12-03 18:09:08",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 18
+        }
+    },
     "dnUcNHMmL9": {
         "id": "dnUcNHMmL9",
         "title": "Толстая тетрадь",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 742
-        }
-    },
-    "KjmfnT46Xm": {
-        "id": "KjmfnT46Xm",
-        "title": "В финале Джон умрёт",
-        "author": "Дэвид Вонг",
-        "notes": "",
-        "createdAt": "2019-11-27 10:47:01",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 87
         }
     }
 }

@@ -5,6 +5,27 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рассказы ~ [Avery](users/567/56734832-yandex)<sup>18</sup>
+    > Бетономешалка
+    > 
+    > Были они смуглые и золотоглазые
+    > 
+    > Вельд
+    > 
+    > Все лето и один день
+    > 
+    > Дракон
+    > 
+    > Здравствуй и прощай
+    > 
+    > Золотые яблоки Солнца
+    > 
+    > И все таки наш
+    > 
+    > И грянул гром
+    > 
+    > Кошки-мышки
+
 * Ложь. Почему говорить правду всегда лучше ~ [youno](users/302/302928912-vkontakte)<sup>39</sup>
     > Мысль верна, но можно было обойтись статьей.
 
@@ -12,7 +33,6 @@ Do not use pull requests to make changes here.
     > Первый том понравился больше. Интересно описаны жизни семерых гг, интересна параллель между событиями 58г и 85г. Под конец, как часто у Кинга бывает, много сумбура. Самым страшным для меня было не Оно, а как что-то (кто-то?) заставил всех забыть не только события в Дерри, но и своих друзей
 
 * Мости округу Медісон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>72</sup>
-    > 6/10 історія кохання на все життя між дружиною фермера та фотогрфом
 
 * Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>71</sup>
 
@@ -26,13 +46,12 @@ Do not use pull requests to make changes here.
 
 * Эмоциональный интеллект. Российская практика ~ [dmiro](users/571/5714115-vkontakte)<sup>16</sup>
 
-* Відродження ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>70</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Avery](users/567/56734832-yandex)<sup>18</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>745</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
 [Hunhan](users/141/14193475-vkontakte)<sup>0</sup> 
@@ -62,7 +81,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Kacey](users/101/101923954511104996192-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>130</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup> 
 
 
-_03.12.2019 13:50:44_
+_03.12.2019 18:09:09_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Рассказы ~ [Avery](users/567/56734832-yandex)<sup>18</sup>
 * Ложь. Почему говорить правду всегда лучше ~ [youno](users/302/302928912-vkontakte)<sup>39</sup>
 * Оно ~ [Garka](users/115/115753719718250012620-google)<sup>234</sup>
 * Мости округу Медісон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>72</sup>
@@ -30,7 +31,6 @@
 * Земля волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>67</sup>
 * Оно ~ [anvonamore](users/595/5957175-vkontakte)<sup>128</sup>
 * Король волшебников ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>66</sup>
-* Магическая уборка ~ [dmiro](users/571/5714115-vkontakte)<sup>15</sup>
 
 
-_01.12.2019 15:06:33_
+_03.12.2019 18:09:09_

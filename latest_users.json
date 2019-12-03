@@ -1,4 +1,10 @@
 {
+    "56734832-yandex": {
+        "id": "56734832-yandex",
+        "nickname": "Avery",
+        "booksCount": 18,
+        "updatedAt": "2019-12-03 18:09:08"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 114,
         "updatedAt": "2019-11-23 23:55:29"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 28,
-        "updatedAt": "2019-11-23 21:20:41"
     }
 }
