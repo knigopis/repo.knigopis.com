@@ -51,8 +51,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>746</sup> 
 [Avery](users/567/56734832-yandex)<sup>18</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>745</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
 [Hunhan](users/141/14193475-vkontakte)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>16</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 
 
-_03.12.2019 18:09:09_
+_03.12.2019 18:55:08_
