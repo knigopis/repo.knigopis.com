@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>72</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>73</sup>
 ---
 
 ## 2019
+
+### Исчезнувший фрегат
+Иннес Хэммонд
+> [2019-12-01] 6/10 Замерзший во льдах корабль скрывает тайну.
+
 
 ### Мости округу Медісон
 Роберт Джеймс Воллер

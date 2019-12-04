@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Исчезнувший фрегат ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>73</sup>
+    > 6/10 Замерзший во льдах корабль скрывает тайну.
+
 * Рассказы ~ [Avery](users/567/56734832-yandex)<sup>18</sup>
     > Бетономешалка
     > 
@@ -30,7 +33,6 @@ Do not use pull requests to make changes here.
     > Мысль верна, но можно было обойтись статьей.
 
 * Оно ~ [Garka](users/115/115753719718250012620-google)<sup>234</sup>
-    > Первый том понравился больше. Интересно описаны жизни семерых гг, интересна параллель между событиями 58г и 85г. Под конец, как часто у Кинга бывает, много сумбура. Самым страшным для меня было не Оно, а как что-то (кто-то?) заставил всех забыть не только события в Дерри, но и своих друзей
 
 * Мости округу Медісон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>72</sup>
 
@@ -44,13 +46,12 @@ Do not use pull requests to make changes here.
 
 * Zealot. Иисус: биография фанатика ~ [kissamasya](users/684/68439978-vkontakte)<sup>77</sup>
 
-* Эмоциональный интеллект. Российская практика ~ [dmiro](users/571/5714115-vkontakte)<sup>16</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>73</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>746</sup> 
 [Avery](users/567/56734832-yandex)<sup>18</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [youno](users/302/302928912-vkontakte)<sup>39</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>234</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>72</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>87</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>35</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 
 
-_03.12.2019 18:55:08_
+_04.12.2019 08:38:04_
