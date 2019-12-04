@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 197,
+        "updatedAt": "2019-12-04 12:04:57"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -130,12 +136,6 @@
         "nickname": "dmiro",
         "booksCount": 16,
         "updatedAt": "2019-11-26 12:14:26"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 196,
-        "updatedAt": "2019-11-26 09:45:43"
     },
     "203760080-vkontakte": {
         "id": "203760080-vkontakte",

@@ -51,6 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>197</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>17</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>73</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>746</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>77</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>53</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>16</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>196</sup> 
 [](users/203/203760080-vkontakte)<sup>0</sup> 
 [Anton Timer](users/100/100971491728532277953-google)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>47</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 
 
-_04.12.2019 10:39:25_
+_04.12.2019 12:04:57_

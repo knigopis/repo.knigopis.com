@@ -1,4 +1,16 @@
 {
+    "YlFlFJ1X3y": {
+        "id": "YlFlFJ1X3y",
+        "title": "Моав - умывальная чаша моя",
+        "author": "Стивен Фрай",
+        "notes": "",
+        "createdAt": "2019-12-04 12:04:57",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 197
+        }
+    },
     "NGos_0UYwU": {
         "id": "NGos_0UYwU",
         "title": "Час игривых бесов",
@@ -345,18 +357,6 @@
             "id": "2195256973544755662-mailru",
             "nickname": "ee",
             "booksCount": 4
-        }
-    },
-    "QjCk4yhSCZ": {
-        "id": "QjCk4yhSCZ",
-        "title": "Голос Монстра",
-        "author": "Патрик Несс",
-        "notes": "",
-        "createdAt": "2019-11-28 02:59:22",
-        "user": {
-            "id": "2195256973544755662-mailru",
-            "nickname": "ee",
-            "booksCount": 3
         }
     }
 }
