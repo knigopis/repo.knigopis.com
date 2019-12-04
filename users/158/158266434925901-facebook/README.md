@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>87</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>88</sup>
 ---
 
 ## 2019
+
+### Сумерки. Новолуние
+Стефани Майер
+> [2019-12-04] 
+
 
 ### Нэнси Дрю и тайна старинных часов
 Кэролайн Кин
