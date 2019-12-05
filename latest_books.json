@@ -1,4 +1,16 @@
 {
+    "k2b1GrXy0n": {
+        "id": "k2b1GrXy0n",
+        "title": "Властелин колец: Братство Кольца",
+        "author": "Дж.Р.Р. Толкин",
+        "notes": "",
+        "createdAt": "2019-12-05 16:49:40",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 54
+        }
+    },
     "Dr75LWP4s_": {
         "id": "Dr75LWP4s_",
         "title": "Сойка-пересмешница",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 38
-        }
-    },
-    "NgPAtXTsuC": {
-        "id": "NgPAtXTsuC",
-        "title": "Гуд бай, Берлин!",
-        "author": "Вольфганг Херрндорф",
-        "notes": "",
-        "createdAt": "2019-11-29 14:21:47",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 743
         }
     }
 }
