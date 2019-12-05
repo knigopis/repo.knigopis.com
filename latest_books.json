@@ -1,4 +1,16 @@
 {
+    "i4XbWdB_74": {
+        "id": "i4XbWdB_74",
+        "title": "И вспыхнет пламя",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2019-12-05 14:33:52",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 139
+        }
+    },
     "OVEY2R0MP0": {
         "id": "OVEY2R0MP0",
         "title": "Голодные игры",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 37
-        }
-    },
-    "yGvqV3SzoB": {
-        "id": "yGvqV3SzoB",
-        "title": "Красота - это горе",
-        "author": "Эка Курниаван",
-        "notes": "",
-        "createdAt": "2019-11-29 00:58:23",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 48
         }
     }
 }
