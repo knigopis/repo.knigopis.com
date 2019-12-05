@@ -1,4 +1,16 @@
 {
+    "OVEY2R0MP0": {
+        "id": "OVEY2R0MP0",
+        "title": "Голодные игры",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2019-12-05 14:33:12",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 138
+        }
+    },
     "EljLhIHnoM": {
         "id": "EljLhIHnoM",
         "title": "Уличный кот по имени Боб",
@@ -345,18 +357,6 @@
             "id": "334696193054530347-mailru",
             "nickname": "Даша",
             "booksCount": 48
-        }
-    },
-    "E1DKuSnnqE": {
-        "id": "E1DKuSnnqE",
-        "title": "Наталка-полтавка",
-        "author": "Иван Котляревский",
-        "notes": "",
-        "createdAt": "2019-11-28 19:49:18",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 197
         }
     }
 }
