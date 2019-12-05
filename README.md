@@ -51,6 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>137</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>156</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
 [BlackNRoses](users/116/116141889586488878812-google)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>63</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>136</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>77</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>53</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>16</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 
 
-_05.12.2019 13:31:35_
+_05.12.2019 14:29:56_
