@@ -1,4 +1,16 @@
 {
+    "Dr75LWP4s_": {
+        "id": "Dr75LWP4s_",
+        "title": "Сойка-пересмешница",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2019-12-05 14:34:23",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 140
+        }
+    },
     "i4XbWdB_74": {
         "id": "i4XbWdB_74",
         "title": "И вспыхнет пламя",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 743
-        }
-    },
-    "KheRsUREhI": {
-        "id": "KheRsUREhI",
-        "title": "Племя",
-        "author": "Себастьян Юнгер",
-        "notes": "Интересная тема, слабо раскрыта в книге.",
-        "createdAt": "2019-11-29 12:24:09",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 37
         }
     }
 }

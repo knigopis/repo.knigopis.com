@@ -51,7 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[afferens.lucem](users/196/196071655-vkontakte)<sup>139</sup> 
+[afferens.lucem](users/196/196071655-vkontakte)<sup>140</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>156</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 
 
-_05.12.2019 14:33:52_
+_05.12.2019 14:34:23_
