@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>155</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>156</sup>
 ---
 
 ## 2019
+
+### Звезда Козодоя
+Кэндзи Миядзава
+> [2019-12-02] 
+
 
 ### Firefly. Чертов герой
 Нэнси Холдер, Джеймс Лавгроув

@@ -51,6 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>156</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>197</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>17</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>197</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
 [BlackNRoses](users/116/116141889586488878812-google)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>155</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>63</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>136</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>77</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 
 
-_04.12.2019 14:23:40_
+_05.12.2019 04:19:37_
