@@ -51,10 +51,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>156</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>197</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>17</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>73</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>746</sup> 
 [Avery](users/567/56734832-yandex)<sup>18</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 
 
-_05.12.2019 04:19:37_
+_05.12.2019 07:09:01_
