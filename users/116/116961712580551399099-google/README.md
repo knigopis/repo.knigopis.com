@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>77</sup>
+# List of books read by violet_velva<sup>62</sup>
 ---
 
 ## 2019
+
+### Девушка в лабиринте
+Донато Карризи
+> [2019-12-05] 
+
 
 ### Вскрытие покажет
 Алексей Решетун

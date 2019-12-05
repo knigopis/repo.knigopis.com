@@ -51,6 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>14</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>156</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>73</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>746</sup> 
 [Avery](users/567/56734832-yandex)<sup>18</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>77</sup> 
 [Hunhan](users/141/14193475-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>39</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>234</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 
 
-_05.12.2019 07:09:01_
+_05.12.2019 13:31:35_

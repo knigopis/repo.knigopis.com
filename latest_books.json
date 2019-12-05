@@ -1,4 +1,16 @@
 {
+    "dgMQfuj-BE": {
+        "id": "dgMQfuj-BE",
+        "title": "Девушка в лабиринте",
+        "author": "Донато Карризи",
+        "notes": "",
+        "createdAt": "2019-12-05 13:31:35",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 62
+        }
+    },
     "6cf1z21kSd": {
         "id": "6cf1z21kSd",
         "title": "Свидание с небесным покровителем",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 14
-        }
-    },
-    "NP_tR3gi0M": {
-        "id": "NP_tR3gi0M",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2019-11-28 03:22:14",
-        "user": {
-            "id": "2195256973544755662-mailru",
-            "nickname": "ee",
-            "booksCount": 7
         }
     }
 }

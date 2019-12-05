@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-google": {
+        "id": "116961712580551399099-google",
+        "nickname": "violet_velva",
+        "booksCount": 62,
+        "updatedAt": "2019-12-05 13:31:35"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -40,12 +46,6 @@
         "nickname": "Avery",
         "booksCount": 18,
         "updatedAt": "2019-12-03 18:09:08"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 77,
-        "updatedAt": "2019-12-03 07:03:36"
     },
     "14193475-vkontakte": {
         "id": "14193475-vkontakte",
