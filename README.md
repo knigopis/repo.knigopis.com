@@ -51,6 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Gizmoid](users/108/108088417345114392564-google)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [Avery](users/567/56734832-yandex)<sup>19</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>198</sup> 
@@ -80,7 +81,6 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>52</sup> 
 [Kacey](users/101/101923954511104996192-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>130</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>114</sup> 
 
 
-_06.12.2019 15:48:36_
+_06.12.2019 16:27:30_
