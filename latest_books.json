@@ -1,4 +1,16 @@
 {
+    "fDMsQbZ-Fa": {
+        "id": "fDMsQbZ-Fa",
+        "title": "Ася",
+        "author": "Иван Тургенев",
+        "notes": "",
+        "createdAt": "2019-12-06 08:53:29",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 198
+        }
+    },
     "k2b1GrXy0n": {
         "id": "k2b1GrXy0n",
         "title": "Властелин колец: Братство Кольца",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 49
-        }
-    },
-    "V_4v_weVrt": {
-        "id": "V_4v_weVrt",
-        "title": "Аскетизм",
-        "author": "Патрик Дж. Холл",
-        "notes": "Идеология не нова, автор приводит тупые аналогии. 2/10",
-        "createdAt": "2019-11-29 14:49:13",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 38
         }
     }
 }
