@@ -1,4 +1,16 @@
 {
+    "noUd82jbP_": {
+        "id": "noUd82jbP_",
+        "title": "Слушай песню ветра",
+        "author": "Харуки Мураками",
+        "notes": "Крыса",
+        "createdAt": "2019-12-06 19:23:39",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 60
+        }
+    },
     "t0PiAkC399": {
         "id": "t0PiAkC399",
         "title": "Исчезнувший фрегат",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 67
-        }
-    },
-    "W6In4wre6c": {
-        "id": "W6In4wre6c",
-        "title": "Оно",
-        "author": "Стивен Кинг",
-        "notes": "4/10",
-        "createdAt": "2019-11-11 14:11:35",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 128
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Слушай песню ветра ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup>
+    > Крыса
+
 * Исчезнувший фрегат ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>73</sup>
     > 6/10 Замерзший во льдах корабль скрывает тайну.
 
@@ -30,7 +33,6 @@ Do not use pull requests to make changes here.
     > Кошки-мышки
 
 * Ложь. Почему говорить правду всегда лучше ~ [youno](users/302/302928912-vkontakte)<sup>39</sup>
-    > Мысль верна, но можно было обойтись статьей.
 
 * Оно ~ [Garka](users/115/115753719718250012620-google)<sup>234</sup>
 
@@ -44,13 +46,12 @@ Do not use pull requests to make changes here.
 
 * 21321 ~ [sonics](users/588/5880221-vkontakte)<sup>63</sup>
 
-* Zealot. Иисус: биография фанатика ~ [kissamasya](users/684/68439978-vkontakte)<sup>77</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup> 
 [Gizmoid](users/108/108088417345114392564-google)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [Avery](users/567/56734832-yandex)<sup>19</sup> 
@@ -80,7 +81,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>47</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>52</sup> 
 [Kacey](users/101/101923954511104996192-google)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>130</sup> 
 
 
-_06.12.2019 16:27:30_
+_06.12.2019 19:23:40_
