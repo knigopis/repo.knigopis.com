@@ -1,4 +1,16 @@
 {
+    "JkSLFFQFSI": {
+        "id": "JkSLFFQFSI",
+        "title": "Миф об идеальном мужчине",
+        "author": "Татьяна Устинова",
+        "notes": "",
+        "createdAt": "2019-12-06 15:48:36",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 15
+        }
+    },
     "vmR3Qh9znE": {
         "id": "vmR3Qh9znE",
         "title": "Дверь в стене",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 87
-        }
-    },
-    "TghwLAfiWS": {
-        "id": "TghwLAfiWS",
-        "title": "Какое тебе дело до того, что другие думают обо мне",
-        "author": "Р. Фейнман",
-        "notes": "",
-        "createdAt": "2019-11-29 20:55:07",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 35
         }
     }
 }
