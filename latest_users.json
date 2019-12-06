@@ -1,4 +1,10 @@
 {
+    "108088417345114392564-google": {
+        "id": "108088417345114392564-google",
+        "nickname": "Gizmoid",
+        "booksCount": 0,
+        "updatedAt": "2019-12-06 16:27:25"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 130,
         "updatedAt": "2019-11-24 05:08:53"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 114,
-        "updatedAt": "2019-11-23 23:55:29"
     }
 }
