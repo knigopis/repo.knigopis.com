@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>95</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>96</sup>
 ---
 
 ## 2019
+
+### Тени в раю
+Эрих Мария Ремарк
+> [2019-11-29] 
+
 
 ### Хлеб по водам
 Ирвин Шоу

@@ -51,6 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>96</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>747</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup> 
 [Gizmoid](users/108/108088417345114392564-google)<sup>0</sup> 
@@ -80,7 +81,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Anton Timer](users/100/100971491728532277953-google)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>47</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>52</sup> 
-[Kacey](users/101/101923954511104996192-google)<sup>0</sup> 
 
 
-_07.12.2019 17:18:13_
+_07.12.2019 19:14:44_
