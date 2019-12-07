@@ -1,4 +1,16 @@
 {
+    "XVqmhukBLy": {
+        "id": "XVqmhukBLy",
+        "title": "Человек, который принял жену за шляпу, и другие истории из врачебной практики",
+        "author": "Оливер Сакс",
+        "notes": "",
+        "createdAt": "2019-12-07 17:18:11",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 747
+        }
+    },
     "noUd82jbP_": {
         "id": "noUd82jbP_",
         "title": "Слушай песню ветра",
@@ -345,18 +357,6 @@
             "id": "135685382-vkontakte",
             "nickname": "tumturumk",
             "booksCount": 1
-        }
-    },
-    "X1y8g0Xfrp": {
-        "id": "X1y8g0Xfrp",
-        "title": "Зачарованные смертью",
-        "author": "Светлана Алексиевич",
-        "notes": "10/10 Откровения самоубийц.",
-        "createdAt": "2019-11-30 04:59:27",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 71
         }
     }
 }

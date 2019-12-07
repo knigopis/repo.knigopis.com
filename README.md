@@ -51,6 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>747</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup> 
 [Gizmoid](users/108/108088417345114392564-google)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>15</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>156</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>73</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>746</sup> 
 [Hunhan](users/141/14193475-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>39</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>234</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Kacey](users/101/101923954511104996192-google)<sup>0</sup> 
 
 
-_06.12.2019 19:23:40_
+_07.12.2019 17:18:13_
