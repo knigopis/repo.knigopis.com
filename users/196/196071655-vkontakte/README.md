@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>140</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>141</sup>
 ---
 
 ## 2019
+
+### Пир стервятников
+Джордж Мартин
+> [2019-12-09] 
+
 
 ### Буря мечей
 Джордж Мартин

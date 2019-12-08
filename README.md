@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>141</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>131</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>748</sup> 
 [tuberosus.hell](users/325/325338991-yandex)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>19</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>198</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>54</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>140</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
 [Hunhan](users/141/14193475-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/203/203760080-vkontakte)<sup>0</sup> 
 
 
-_08.12.2019 14:28:35_
+_08.12.2019 19:23:17_
