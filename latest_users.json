@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 748,
+        "updatedAt": "2019-12-08 13:04:10"
+    },
     "325338991-yandex": {
         "id": "325338991-yandex",
         "nickname": "tuberosus.hell",
@@ -40,12 +46,6 @@
         "nickname": "katrinvredina",
         "booksCount": 96,
         "updatedAt": "2019-12-07 19:14:44"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 747,
-        "updatedAt": "2019-12-07 17:18:11"
     },
     "64251996-vkontakte": {
         "id": "64251996-vkontakte",

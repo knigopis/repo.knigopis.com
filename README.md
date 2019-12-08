@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>748</sup> 
 [tuberosus.hell](users/325/325338991-yandex)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>74</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>36</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Alexud](users/118/118388850825013411178-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>157</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>96</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>747</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup> 
 [Gizmoid](users/108/108088417345114392564-google)<sup>0</sup> 
 [Avery](users/567/56734832-yandex)<sup>19</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Anton Timer](users/100/100971491728532277953-google)<sup>0</sup> 
 
 
-_08.12.2019 12:50:22_
+_08.12.2019 13:04:12_
