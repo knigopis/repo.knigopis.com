@@ -1,4 +1,16 @@
 {
+    "DYp3cX6w_-": {
+        "id": "DYp3cX6w_-",
+        "title": "Псоглавцы",
+        "author": "А. Иванов",
+        "notes": "",
+        "createdAt": "2019-12-08 12:22:02",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 36
+        }
+    },
     "kFV-d47w5H": {
         "id": "kFV-d47w5H",
         "title": "В сетях интриг",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 72
-        }
-    },
-    "d8HAIhY-sk": {
-        "id": "d8HAIhY-sk",
-        "title": "Экстрасенс",
-        "author": "Сергей Асанов",
-        "notes": "",
-        "createdAt": "2019-11-30 16:20:55",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 14
         }
     }
 }
