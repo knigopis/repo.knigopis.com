@@ -1,4 +1,16 @@
 {
+    "XNvF4PVb87": {
+        "id": "XNvF4PVb87",
+        "title": "Янтарный телескоп",
+        "author": "Филип Пулман",
+        "notes": "",
+        "createdAt": "2019-12-08 06:03:25",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 157
+        }
+    },
     "lbhvhcux-i": {
         "id": "lbhvhcux-i",
         "title": "Тени в раю",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 744
-        }
-    },
-    "sJtFT41i3u": {
-        "id": "sJtFT41i3u",
-        "title": "Теория зла",
-        "author": "Донато Карризи",
-        "notes": "",
-        "createdAt": "2019-11-30 07:48:54",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 76
         }
     }
 }
