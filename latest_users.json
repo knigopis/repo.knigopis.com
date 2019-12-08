@@ -1,4 +1,10 @@
 {
+    "325338991-yandex": {
+        "id": "325338991-yandex",
+        "nickname": "tuberosus.hell",
+        "booksCount": 0,
+        "updatedAt": "2019-12-08 12:50:18"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "Anton Timer",
         "booksCount": 0,
         "updatedAt": "2019-11-26 07:04:20"
-    },
-    "113794223924688167852-google": {
-        "id": "113794223924688167852-google",
-        "nickname": "Victoria",
-        "booksCount": 47,
-        "updatedAt": "2019-11-24 20:27:08"
     }
 }
