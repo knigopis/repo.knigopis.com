@@ -51,6 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Alexud](users/118/118388850825013411178-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>157</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>96</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>747</sup> 
@@ -80,7 +81,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/203/203760080-vkontakte)<sup>0</sup> 
 [Anton Timer](users/100/100971491728532277953-google)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>47</sup> 
-[stamovashahzada](users/310/310646815-vkontakte)<sup>52</sup> 
 
 
-_08.12.2019 06:03:26_
+_08.12.2019 07:49:27_
