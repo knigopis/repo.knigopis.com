@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Statistical Arbitrage: Algorithmic Trading Insights and Techniques ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
+    > Wiley Finance Book 411
+
 * Ведьмак. Последннее желание ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>74</sup>
     > 7/10 классика фентези через призму типичного поляка
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Крыса
 
 * Исчезнувший фрегат ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>73</sup>
-    > 6/10 Замерзший во льдах корабль скрывает тайну.
 
 * Рассказы ~ [Avery](users/567/56734832-yandex)<sup>18</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Аскетизм ~ [youno](users/302/302928912-vkontakte)<sup>38</sup>
 
-* Племя ~ [youno](users/302/302928912-vkontakte)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>131</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>748</sup> 
 [tuberosus.hell](users/325/325338991-yandex)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>74</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>77</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>16</sup> 
 [](users/203/203760080-vkontakte)<sup>0</sup> 
-[Anton Timer](users/100/100971491728532277953-google)<sup>0</sup> 
 
 
-_08.12.2019 13:04:12_
+_08.12.2019 14:28:35_

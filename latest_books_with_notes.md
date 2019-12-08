@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Statistical Arbitrage: Algorithmic Trading Insights and Techniques ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
 * Ведьмак. Последннее желание ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>74</sup>
 * Слушай песню ветра ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup>
 * Исчезнувший фрегат ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>73</sup>
@@ -30,7 +31,6 @@
 * У босса на крючке ~ [kissamasya](users/684/68439978-vkontakte)<sup>75</sup>
 * Школа Хваран ~ [kissamasya](users/684/68439978-vkontakte)<sup>74</sup>
 * Похищенный ~ [Avery](users/567/56734832-yandex)<sup>17</sup>
-* Убить пересмешника ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>149</sup>
 
 
-_08.12.2019 12:33:19_
+_08.12.2019 14:28:35_

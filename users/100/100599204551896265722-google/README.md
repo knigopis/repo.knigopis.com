@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>130</sup>
+# Список прочитанных книг пользователя exulted<sup>131</sup>
 ---
 
 ## 2019
+
+### Statistical Arbitrage: Algorithmic Trading Insights and Techniques
+Andrew Pole
+> [2019-12-08] Wiley Finance Book 411
+
 
 ### Кто стоял за спиной Сталина
 Островский А.В.

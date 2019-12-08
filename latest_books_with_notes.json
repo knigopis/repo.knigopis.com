@@ -1,4 +1,16 @@
 {
+    "lXm0IKxj8s": {
+        "id": "lXm0IKxj8s",
+        "title": "Statistical Arbitrage: Algorithmic Trading Insights and Techniques",
+        "author": "Andrew Pole",
+        "notes": "Wiley Finance Book 411",
+        "createdAt": "2019-12-08 14:28:34",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 131
+        }
+    },
     "zqMrs8Z6_j": {
         "id": "zqMrs8Z6_j",
         "title": "Ведьмак. Последннее желание",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 17
-        }
-    },
-    "mxoTE3K3Bw": {
-        "id": "mxoTE3K3Bw",
-        "title": "Убить пересмешника",
-        "author": "Харпер Ли",
-        "notes": "Как Зелёная миля.",
-        "createdAt": "2019-11-14 07:58:39",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 149
         }
     }
 }

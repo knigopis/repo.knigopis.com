@@ -1,4 +1,16 @@
 {
+    "lXm0IKxj8s": {
+        "id": "lXm0IKxj8s",
+        "title": "Statistical Arbitrage: Algorithmic Trading Insights and Techniques",
+        "author": "Andrew Pole",
+        "notes": "Wiley Finance Book 411",
+        "createdAt": "2019-12-08 14:28:34",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 131
+        }
+    },
     "giP8cWre6Q": {
         "id": "giP8cWre6Q",
         "title": "Любовницы",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 39
-        }
-    },
-    "Usz0hBj28V": {
-        "id": "Usz0hBj28V",
-        "title": "Экстрасенс. Битва",
-        "author": "Юрий  Корчевский",
-        "notes": "",
-        "createdAt": "2019-12-01 15:00:16",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 15
         }
     }
 }

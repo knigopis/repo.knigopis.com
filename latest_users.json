@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 131,
+        "updatedAt": "2019-12-08 14:28:34"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2019-11-26 07:11:30"
-    },
-    "100971491728532277953-google": {
-        "id": "100971491728532277953-google",
-        "nickname": "Anton Timer",
-        "booksCount": 0,
-        "updatedAt": "2019-11-26 07:04:20"
     }
 }
