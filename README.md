@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ведьмак. Последннее желание ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>74</sup>
+    > 7/10 классика фентези через призму типичного поляка
+
 * Слушай песню ветра ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup>
     > Крыса
 
@@ -12,25 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Замерзший во льдах корабль скрывает тайну.
 
 * Рассказы ~ [Avery](users/567/56734832-yandex)<sup>18</sup>
-    > Бетономешалка
-    > 
-    > Были они смуглые и золотоглазые
-    > 
-    > Вельд
-    > 
-    > Все лето и один день
-    > 
-    > Дракон
-    > 
-    > Здравствуй и прощай
-    > 
-    > Золотые яблоки Солнца
-    > 
-    > И все таки наш
-    > 
-    > И грянул гром
-    > 
-    > Кошки-мышки
 
 * Ложь. Почему говорить правду всегда лучше ~ [youno](users/302/302928912-vkontakte)<sup>39</sup>
 
@@ -44,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Племя ~ [youno](users/302/302928912-vkontakte)<sup>37</sup>
 
-* 21321 ~ [sonics](users/588/5880221-vkontakte)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>74</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>36</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [Alexud](users/118/118388850825013411178-google)<sup>0</sup> 
@@ -65,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>140</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>73</sup> 
 [Hunhan](users/141/14193475-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>39</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>234</sup> 
@@ -83,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>47</sup> 
 
 
-_08.12.2019 12:22:02_
+_08.12.2019 12:33:19_

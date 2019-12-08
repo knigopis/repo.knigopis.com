@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>73</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>74</sup>
 ---
 
 ## 2019
+
+### Ведьмак. Последннее желание
+Анджей Сапковский
+> [2019-12-07] 7/10 классика фентези через призму типичного поляка
+
 
 ### Исчезнувший фрегат
 Иннес Хэммонд
