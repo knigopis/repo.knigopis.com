@@ -51,13 +51,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [Alexud](users/118/118388850825013411178-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>157</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>96</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>747</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup> 
 [Gizmoid](users/108/108088417345114392564-google)<sup>0</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [Avery](users/567/56734832-yandex)<sup>19</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>198</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>54</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>47</sup> 
 
 
-_08.12.2019 07:49:27_
+_08.12.2019 10:14:52_

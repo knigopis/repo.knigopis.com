@@ -1,4 +1,16 @@
 {
+    "-qT6UAe0Kq": {
+        "id": "-qT6UAe0Kq",
+        "title": "В сетях интриг",
+        "author": "Олег Рой",
+        "notes": "",
+        "createdAt": "2019-12-08 10:14:52",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 16
+        }
+    },
     "XNvF4PVb87": {
         "id": "XNvF4PVb87",
         "title": "Янтарный телескоп",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 14
-        }
-    },
-    "rOaNJe9nAf": {
-        "id": "rOaNJe9nAf",
-        "title": "Краткая история семи убийств",
-        "author": "Марлон Джеймс",
-        "notes": "",
-        "createdAt": "2019-11-30 11:32:31",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 744
         }
     }
 }
