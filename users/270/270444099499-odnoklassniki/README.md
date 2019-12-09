@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>16</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>17</sup>
 ---
 
 ## 2019
+
+### Вдали от рая
+Олег Рой
+> [2019-12-09] 
+
 
 ### В сетях интриг
 Олег Рой
