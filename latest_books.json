@@ -1,4 +1,16 @@
 {
+    "lFOwv0JHlU": {
+        "id": "lFOwv0JHlU",
+        "title": "Убийство в Брайтуэлле",
+        "author": "Эшли Уивер",
+        "notes": "",
+        "createdAt": "2019-12-09 15:21:35",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 50
+        }
+    },
     "LoC9RIn7Jv": {
         "id": "LoC9RIn7Jv",
         "title": "Пир стервятников",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 77
-        }
-    },
-    "0UJiwMvgCt": {
-        "id": "0UJiwMvgCt",
-        "title": "Научись быть экстрасенсом",
-        "author": "Александр Панфилов",
-        "notes": "",
-        "createdAt": "2019-12-02 01:27:40",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 17
         }
     }
 }

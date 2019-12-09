@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>49</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>50</sup>
 ---
 
 ## 2019
+
+### Убийство в Брайтуэлле
+Эшли Уивер
+> [2019-12-08] 
+
 
 ### Влюблённый призрак
 Марк Леви
