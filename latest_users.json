@@ -1,4 +1,10 @@
 {
+    "111878597279669641685-google": {
+        "id": "111878597279669641685-google",
+        "nickname": "Knigolub~",
+        "booksCount": 198,
+        "updatedAt": "2019-12-09 20:27:24"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -136,12 +142,6 @@
         "nickname": "Даша",
         "booksCount": 48,
         "updatedAt": "2019-11-29 00:58:23"
-    },
-    "111878597279669641685-google": {
-        "id": "111878597279669641685-google",
-        "nickname": "Knigolub~",
-        "booksCount": 197,
-        "updatedAt": "2019-11-28 19:49:18"
     },
     "2195256973544755662-mailru": {
         "id": "2195256973544755662-mailru",

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>198</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>17</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>51</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>141</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>234</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>1</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>48</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>197</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
 [BlackNRoses](users/116/116141889586488878812-google)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>63</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/203/203760080-vkontakte)<sup>0</sup> 
 
 
-_09.12.2019 15:42:08_
+_09.12.2019 20:27:25_

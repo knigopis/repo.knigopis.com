@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>197</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>198</sup>
 ---
 
 ## 2019
+
+### Маруся
+Григорій Квітка-Основ`яненко
+> [2019-12-09] 
+
 
 ### Наталка-полтавка
 Иван Котляревский
