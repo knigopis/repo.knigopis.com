@@ -1,4 +1,16 @@
 {
+    "vp-fDPvCSc": {
+        "id": "vp-fDPvCSc",
+        "title": "Капитанская дочка",
+        "author": "Пушкин",
+        "notes": "",
+        "createdAt": "2019-12-10 19:49:42",
+        "user": {
+            "id": "104025550-vkontakte",
+            "nickname": "tatarchikbandit",
+            "booksCount": 5
+        }
+    },
     "7NL1VfNcpO": {
         "id": "7NL1VfNcpO",
         "title": "Отцы и дети",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 137
-        }
-    },
-    "dgMQfuj-BE": {
-        "id": "dgMQfuj-BE",
-        "title": "Девушка в лабиринте",
-        "author": "Донато Карризи",
-        "notes": "",
-        "createdAt": "2019-12-05 13:31:35",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 62
         }
     }
 }
