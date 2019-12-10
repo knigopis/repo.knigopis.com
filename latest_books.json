@@ -1,4 +1,16 @@
 {
+    "3HKc4S3bGO": {
+        "id": "3HKc4S3bGO",
+        "title": "Белый клык",
+        "author": "Лондон",
+        "notes": "",
+        "createdAt": "2019-12-10 19:53:24",
+        "user": {
+            "id": "104025550-vkontakte",
+            "nickname": "tatarchikbandit",
+            "booksCount": 7
+        }
+    },
     "n6SYMxqwp7": {
         "id": "n6SYMxqwp7",
         "title": "Бедная лиза",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 139
-        }
-    },
-    "OVEY2R0MP0": {
-        "id": "OVEY2R0MP0",
-        "title": "Голодные игры",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2019-12-05 14:33:12",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 138
         }
     }
 }
