@@ -1,7 +1,11 @@
-# List of books read by [tatarchikbandit](http://vk.com/id104025550)<sup>5</sup>
+# List of books read by [tatarchikbandit](http://vk.com/id104025550)<sup>6</sup>
 ---
 
 ## 2019
+
+### Бедная лиза
+Карамзин
+
 
 ### Капитанская дочка
 Пушкин

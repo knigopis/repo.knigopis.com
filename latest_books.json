@@ -1,4 +1,16 @@
 {
+    "n6SYMxqwp7": {
+        "id": "n6SYMxqwp7",
+        "title": "Бедная лиза",
+        "author": "Карамзин",
+        "notes": "",
+        "createdAt": "2019-12-10 19:50:08",
+        "user": {
+            "id": "104025550-vkontakte",
+            "nickname": "tatarchikbandit",
+            "booksCount": 6
+        }
+    },
     "vp-fDPvCSc": {
         "id": "vp-fDPvCSc",
         "title": "Капитанская дочка",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 138
-        }
-    },
-    "EljLhIHnoM": {
-        "id": "EljLhIHnoM",
-        "title": "Уличный кот по имени Боб",
-        "author": "Джеймс Боуэн",
-        "notes": "",
-        "createdAt": "2019-12-05 14:29:55",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 137
         }
     }
 }
