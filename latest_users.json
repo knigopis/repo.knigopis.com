@@ -1,4 +1,10 @@
 {
+    "104025550-vkontakte": {
+        "id": "104025550-vkontakte",
+        "nickname": "tatarchikbandit",
+        "booksCount": 0,
+        "updatedAt": "2019-12-10 18:25:41"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "dmiro",
         "booksCount": 16,
         "updatedAt": "2019-11-26 12:14:26"
-    },
-    "203760080-vkontakte": {
-        "id": "203760080-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2019-11-26 07:11:30"
     }
 }
