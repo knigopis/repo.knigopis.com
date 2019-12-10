@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>17</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>18</sup>
 ---
 
 ## 2019
+
+### Отравленная маска
+Валерия Вербинина
+> [2019-12-10] 
+
 
 ### Вдали от рая
 Олег Рой

@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>18</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>55</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>198</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>17</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>51</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>141</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>131</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/203/203760080-vkontakte)<sup>0</sup> 
 
 
-_10.12.2019 09:36:18_
+_10.12.2019 16:36:28_
