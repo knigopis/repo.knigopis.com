@@ -1,4 +1,16 @@
 {
+    "vCmI_AtvJ1": {
+        "id": "vCmI_AtvJ1",
+        "title": "Жизнь взаймы",
+        "author": "Ремарк",
+        "notes": "",
+        "createdAt": "2019-12-10 19:49:16",
+        "user": {
+            "id": "104025550-vkontakte",
+            "nickname": "tatarchikbandit",
+            "booksCount": 3
+        }
+    },
     "9iHP-q8SIm": {
         "id": "9iHP-q8SIm",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 14
-        }
-    },
-    "1aO7UNErhN": {
-        "id": "1aO7UNErhN",
-        "title": "Звезда Козодоя",
-        "author": "Кэндзи Миядзава",
-        "notes": "",
-        "createdAt": "2019-12-05 04:19:36",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 156
         }
     }
 }
