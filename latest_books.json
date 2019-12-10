@@ -1,4 +1,16 @@
 {
+    "0RtqtXUhJ-": {
+        "id": "0RtqtXUhJ-",
+        "title": "Необыкновенное путешествие в безумие и обратно (Операторы и вещи)",
+        "author": "Барбара О'Брайен",
+        "notes": "",
+        "createdAt": "2019-12-10 17:30:50",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 749
+        }
+    },
     "wbGTHUJWES": {
         "id": "wbGTHUJWES",
         "title": "Отравленная маска",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 197
-        }
-    },
-    "NGos_0UYwU": {
-        "id": "NGos_0UYwU",
-        "title": "Час игривых бесов",
-        "author": "Елена Арсеньева",
-        "notes": "",
-        "createdAt": "2019-12-04 10:39:25",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 17
         }
     }
 }
