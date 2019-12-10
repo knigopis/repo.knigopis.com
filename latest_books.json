@@ -1,4 +1,16 @@
 {
+    "tGof0HelSB": {
+        "id": "tGof0HelSB",
+        "title": "1984",
+        "author": "Оруэлл",
+        "notes": "",
+        "createdAt": "2019-12-10 18:26:07",
+        "user": {
+            "id": "104025550-vkontakte",
+            "nickname": "tatarchikbandit",
+            "booksCount": 1
+        }
+    },
     "0RtqtXUhJ-": {
         "id": "0RtqtXUhJ-",
         "title": "Необыкновенное путешествие в безумие и обратно (Операторы и вещи)",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 88
-        }
-    },
-    "YlFlFJ1X3y": {
-        "id": "YlFlFJ1X3y",
-        "title": "Моав - умывальная чаша моя",
-        "author": "Стивен Фрай",
-        "notes": "",
-        "createdAt": "2019-12-04 12:04:57",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 197
         }
     }
 }

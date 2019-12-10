@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[tatarchikbandit](users/104/104025550-vkontakte)<sup>0</sup> 
+[tatarchikbandit](users/104/104025550-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>749</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>18</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>55</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>16</sup> 
 
 
-_10.12.2019 18:25:43_
+_10.12.2019 18:26:07_
