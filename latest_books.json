@@ -1,4 +1,16 @@
 {
+    "7NL1VfNcpO": {
+        "id": "7NL1VfNcpO",
+        "title": "Отцы и дети",
+        "author": "Тургенев",
+        "notes": "",
+        "createdAt": "2019-12-10 19:49:27",
+        "user": {
+            "id": "104025550-vkontakte",
+            "nickname": "tatarchikbandit",
+            "booksCount": 4
+        }
+    },
     "vCmI_AtvJ1": {
         "id": "vCmI_AtvJ1",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 62
-        }
-    },
-    "6cf1z21kSd": {
-        "id": "6cf1z21kSd",
-        "title": "Свидание с небесным покровителем",
-        "author": "Ольга Володарская",
-        "notes": "",
-        "createdAt": "2019-12-05 07:09:01",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 14
         }
     }
 }
