@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бойцовский клуб ~ [anvonamore](users/595/5957175-vkontakte)<sup>129</sup>
+    > 4/10
+
 * Patagonia - бизнес в стиле серфинг ~ [youno](users/302/302928912-vkontakte)<sup>40</sup>
     > Книга  продает бренд. 5/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Шикарная книга. Отношения и характеры Витинари и Ваймса великолепно прописаны
 
 * Тайный сыск царя Гороха ~ [En](users/333/333646551-vkontakte)<sup>82</sup>
-    > Прочитана вся серия про милицию в Лукошкино, интересная, легкая сказка для взрослых. Не приличные намеки, завуалированные бранные слова не позволяют назвать ее детской.
 
 * Statistical Arbitrage: Algorithmic Trading Insights and Techniques ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ложь. Почему говорить правду всегда лучше ~ [youno](users/302/302928912-vkontakte)<sup>39</sup>
 
-* Оно ~ [Garka](users/115/115753719718250012620-google)<sup>234</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>129</sup> 
 [youno](users/302/302928912-vkontakte)<sup>40</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>235</sup> 
 [En](users/333/333646551-vkontakte)<sup>82</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
 [BlackNRoses](users/116/116141889586488878812-google)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>63</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>77</sup> 
 
 
-_11.12.2019 17:28:30_
+_11.12.2019 22:49:33_

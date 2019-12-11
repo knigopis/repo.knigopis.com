@@ -1,4 +1,16 @@
 {
+    "TDLHbSjS_3": {
+        "id": "TDLHbSjS_3",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "4/10",
+        "createdAt": "2019-12-11 22:49:33",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 129
+        }
+    },
     "j3F8Q_YeIU": {
         "id": "j3F8Q_YeIU",
         "title": "Patagonia - бизнес в стиле серфинг",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 60
-        }
-    },
-    "JkSLFFQFSI": {
-        "id": "JkSLFFQFSI",
-        "title": "Миф об идеальном мужчине",
-        "author": "Татьяна Устинова",
-        "notes": "",
-        "createdAt": "2019-12-06 15:48:36",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 15
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бойцовский клуб ~ [anvonamore](users/595/5957175-vkontakte)<sup>129</sup>
 * Patagonia - бизнес в стиле серфинг ~ [youno](users/302/302928912-vkontakte)<sup>40</sup>
 * Ноги из глины ~ [Garka](users/115/115753719718250012620-google)<sup>235</sup>
 * Тайный сыск царя Гороха ~ [En](users/333/333646551-vkontakte)<sup>82</sup>
@@ -30,7 +31,6 @@
 * Волхв ~ [En](users/333/333646551-vkontakte)<sup>81</sup>
 * Мартин Иден ~ [youno](users/302/302928912-vkontakte)<sup>36</sup>
 * Лигр ~ [Chiffi](users/105/105831994080785626680-google)<sup>150</sup>
-* Как я чёрта искушал ~ [kissamasya](users/684/68439978-vkontakte)<sup>76</sup>
 
 
-_11.12.2019 17:28:30_
+_11.12.2019 22:49:33_
