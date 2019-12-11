@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Patagonia - бизнес в стиле серфинг ~ [youno](users/302/302928912-vkontakte)<sup>40</sup>
+    > Книга  продает бренд. 5/10
+
 * Ноги из глины ~ [Garka](users/115/115753719718250012620-google)<sup>235</sup>
     > Шикарная книга. Отношения и характеры Витинари и Ваймса великолепно прописаны
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Прочитана вся серия про милицию в Лукошкино, интересная, легкая сказка для взрослых. Не приличные намеки, завуалированные бранные слова не позволяют назвать ее детской.
 
 * Statistical Arbitrage: Algorithmic Trading Insights and Techniques ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
-    > Wiley Finance Book 411
 
 * Ведьмак. Последннее желание ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>74</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Оно ~ [Garka](users/115/115753719718250012620-google)<sup>234</sup>
 
-* Мости округу Медісон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>72</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>40</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>235</sup> 
 [En](users/333/333646551-vkontakte)<sup>82</sup> 
 [tatarchikbandit](users/104/104025550-vkontakte)<sup>9</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>62</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
 [Hunhan](users/141/14193475-vkontakte)<sup>0</sup> 
-[youno](users/302/302928912-vkontakte)<sup>39</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>1</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>48</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>77</sup> 
 
 
-_11.12.2019 14:38:37_
+_11.12.2019 17:28:30_

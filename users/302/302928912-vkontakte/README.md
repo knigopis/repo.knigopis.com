@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>39</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>40</sup>
 ---
 
 ## 2019
+
+### Patagonia - бизнес в стиле серфинг
+Ивон Шуинар
+> [2019-12-11] Книга  продает бренд. 5/10
+
 
 ### Ложь. Почему говорить правду всегда лучше
 Сэм Харрис

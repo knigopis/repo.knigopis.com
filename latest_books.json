@@ -1,4 +1,16 @@
 {
+    "j3F8Q_YeIU": {
+        "id": "j3F8Q_YeIU",
+        "title": "Patagonia - бизнес в стиле серфинг",
+        "author": "Ивон Шуинар",
+        "notes": "Книга  продает бренд. 5/10",
+        "createdAt": "2019-12-11 17:28:30",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 40
+        }
+    },
     "YSouQPOIHX": {
         "id": "YSouQPOIHX",
         "title": "Ноги из глины",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 15
-        }
-    },
-    "vmR3Qh9znE": {
-        "id": "vmR3Qh9znE",
-        "title": "Дверь в стене",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2019-12-06 14:35:17",
-        "user": {
-            "id": "56734832-yandex",
-            "nickname": "Avery",
-            "booksCount": 19
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Patagonia - бизнес в стиле серфинг ~ [youno](users/302/302928912-vkontakte)<sup>40</sup>
 * Ноги из глины ~ [Garka](users/115/115753719718250012620-google)<sup>235</sup>
 * Тайный сыск царя Гороха ~ [En](users/333/333646551-vkontakte)<sup>82</sup>
 * Statistical Arbitrage: Algorithmic Trading Insights and Techniques ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
@@ -30,7 +31,6 @@
 * Мартин Иден ~ [youno](users/302/302928912-vkontakte)<sup>36</sup>
 * Лигр ~ [Chiffi](users/105/105831994080785626680-google)<sup>150</sup>
 * Как я чёрта искушал ~ [kissamasya](users/684/68439978-vkontakte)<sup>76</sup>
-* У босса на крючке ~ [kissamasya](users/684/68439978-vkontakte)<sup>75</sup>
 
 
-_11.12.2019 14:38:37_
+_11.12.2019 17:28:30_
