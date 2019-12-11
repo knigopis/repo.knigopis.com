@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайный сыск царя Гороха ~ [En](users/333/333646551-vkontakte)<sup>82</sup>
+    > Прочитана вся серия про милицию в Лукошкино, интересная, легкая сказка для взрослых. Не приличные намеки, завуалированные бранные слова не позволяют назвать ее детской.
+
 * Statistical Arbitrage: Algorithmic Trading Insights and Techniques ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
     > Wiley Finance Book 411
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 классика фентези через призму типичного поляка
 
 * Слушай песню ветра ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup>
-    > Крыса
 
 * Исчезнувший фрегат ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>73</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>71</sup>
 
-* Аскетизм ~ [youno](users/302/302928912-vkontakte)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>82</sup> 
 [tatarchikbandit](users/104/104025550-vkontakte)<sup>9</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>749</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>18</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [BlackNRoses](users/116/116141889586488878812-google)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>63</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>77</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>16</sup> 
 
 
-_10.12.2019 19:56:12_
+_11.12.2019 04:57:35_
