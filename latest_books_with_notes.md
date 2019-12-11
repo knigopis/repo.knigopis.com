@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ноги из глины ~ [Garka](users/115/115753719718250012620-google)<sup>235</sup>
 * Тайный сыск царя Гороха ~ [En](users/333/333646551-vkontakte)<sup>82</sup>
 * Statistical Arbitrage: Algorithmic Trading Insights and Techniques ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
 * Ведьмак. Последннее желание ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>74</sup>
@@ -30,7 +31,6 @@
 * Лигр ~ [Chiffi](users/105/105831994080785626680-google)<sup>150</sup>
 * Как я чёрта искушал ~ [kissamasya](users/684/68439978-vkontakte)<sup>76</sup>
 * У босса на крючке ~ [kissamasya](users/684/68439978-vkontakte)<sup>75</sup>
-* Школа Хваран ~ [kissamasya](users/684/68439978-vkontakte)<sup>74</sup>
 
 
-_11.12.2019 04:57:35_
+_11.12.2019 14:38:37_

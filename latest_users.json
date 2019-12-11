@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 235,
+        "updatedAt": "2019-12-11 14:38:36"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -136,12 +142,6 @@
         "nickname": "youno",
         "booksCount": 39,
         "updatedAt": "2019-12-01 15:06:32"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 234,
-        "updatedAt": "2019-11-30 19:21:21"
     },
     "135685382-vkontakte": {
         "id": "135685382-vkontakte",
