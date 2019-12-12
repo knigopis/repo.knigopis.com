@@ -1,4 +1,16 @@
 {
+    "7mPq9-70mn": {
+        "id": "7mPq9-70mn",
+        "title": "Максим",
+        "author": "Наталья Шагаева",
+        "notes": "",
+        "createdAt": "2019-12-12 16:22:24",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 16
+        }
+    },
     "CDzAALd2Cu": {
         "id": "CDzAALd2Cu",
         "title": "Убик",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 50
-        }
-    },
-    "LoC9RIn7Jv": {
-        "id": "LoC9RIn7Jv",
-        "title": "Пир стервятников",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2019-12-08 19:23:16",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 141
         }
     }
 }
