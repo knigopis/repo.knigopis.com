@@ -1,4 +1,16 @@
 {
+    "Fl0eTIwoZG": {
+        "id": "Fl0eTIwoZG",
+        "title": "Скептик. Рациональный взгляд на мир",
+        "author": "Майкл Шермер",
+        "notes": "",
+        "createdAt": "2019-12-12 07:01:35",
+        "user": {
+            "id": "334696193054530347-mailru",
+            "nickname": "Даша",
+            "booksCount": 49
+        }
+    },
     "sV_RDVbVPL": {
         "id": "sV_RDVbVPL",
         "title": "Созвездие хаоса",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 74
-        }
-    },
-    "DYp3cX6w_-": {
-        "id": "DYp3cX6w_-",
-        "title": "Псоглавцы",
-        "author": "А. Иванов",
-        "notes": "",
-        "createdAt": "2019-12-08 12:22:02",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 36
         }
     }
 }
