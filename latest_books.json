@@ -1,4 +1,16 @@
 {
+    "rUzSi2ktcc": {
+        "id": "rUzSi2ktcc",
+        "title": "Император поневоле",
+        "author": "Гулевич Александр Михайлович",
+        "notes": "",
+        "createdAt": "2019-12-12 06:30:16",
+        "user": {
+            "id": "48050444-yandex",
+            "nickname": "buldakov-alexey",
+            "booksCount": 1
+        }
+    },
     "DQQQyr4phF": {
         "id": "DQQQyr4phF",
         "title": "Летос",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 96
-        }
-    },
-    "XVqmhukBLy": {
-        "id": "XVqmhukBLy",
-        "title": "Человек, который принял жену за шляпу, и другие истории из врачебной практики",
-        "author": "Оливер Сакс",
-        "notes": "",
-        "createdAt": "2019-12-07 17:18:11",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 747
         }
     }
 }
