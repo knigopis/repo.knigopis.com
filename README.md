@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[buldakov-alexey](users/480/48050444-yandex)<sup>2</sup> 
+[buldakov-alexey](users/480/48050444-yandex)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>152</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>129</sup> 
 [youno](users/302/302928912-vkontakte)<sup>40</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
 
 
-_12.12.2019 06:32:01_
+_12.12.2019 06:32:56_

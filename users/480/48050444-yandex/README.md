@@ -1,7 +1,12 @@
-# List of books read by buldakov-alexey<sup>2</sup>
+# List of books read by buldakov-alexey<sup>3</sup>
 ---
 
 ## 2019
+
+### Охотник. Тайна Долины Смерти
+Хайдарали Усманов Мирзоевич
+> [2019-12-12] 
+
 
 ### Император поневоле-2
 Гулевич Александр Михайлович

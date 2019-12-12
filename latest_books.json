@@ -1,4 +1,16 @@
 {
+    "FIYkypxqDy": {
+        "id": "FIYkypxqDy",
+        "title": "Охотник. Тайна Долины Смерти",
+        "author": "Хайдарали Усманов Мирзоевич",
+        "notes": "",
+        "createdAt": "2019-12-12 06:32:55",
+        "user": {
+            "id": "48050444-yandex",
+            "nickname": "buldakov-alexey",
+            "booksCount": 3
+        }
+    },
     "UgiG6INA6n": {
         "id": "UgiG6INA6n",
         "title": "Император поневоле-2",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 17
-        }
-    },
-    "XNvF4PVb87": {
-        "id": "XNvF4PVb87",
-        "title": "Янтарный телескоп",
-        "author": "Филип Пулман",
-        "notes": "",
-        "createdAt": "2019-12-08 06:03:25",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 157
         }
     }
 }
