@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>199</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>49</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>19</sup> 
 [buldakov-alexey](users/480/48050444-yandex)<sup>4</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>152</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>129</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
 
 
-_12.12.2019 08:40:00_
+_12.12.2019 09:54:08_

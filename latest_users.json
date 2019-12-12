@@ -1,4 +1,10 @@
 {
+    "270444099499-odnoklassniki": {
+        "id": "270444099499-odnoklassniki",
+        "nickname": null,
+        "booksCount": 15,
+        "updatedAt": "2019-12-12 09:54:07"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -10,12 +16,6 @@
         "nickname": "Даша",
         "booksCount": 49,
         "updatedAt": "2019-12-12 07:01:35"
-    },
-    "270444099499-odnoklassniki": {
-        "id": "270444099499-odnoklassniki",
-        "nickname": null,
-        "booksCount": 19,
-        "updatedAt": "2019-12-12 06:51:20"
     },
     "48050444-yandex": {
         "id": "48050444-yandex",
