@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 151,
+        "updatedAt": "2019-12-12 20:50:12"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -28,12 +34,6 @@
         "nickname": "buldakov-alexey",
         "booksCount": 4,
         "updatedAt": "2019-12-12 06:33:07"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 152,
-        "updatedAt": "2019-12-12 05:47:52"
     },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
