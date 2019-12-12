@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убик ~ [HXT](users/100/100002563462782-facebook)<sup>361</sup>
+    > Отличная фантастика
+
 * Летос ~ [Chiffi](users/105/105831994080785626680-google)<sup>152</sup>
     > интересная фантастика, хорошо продуманный мир.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 4/10
 
 * Patagonia - бизнес в стиле серфинг ~ [youno](users/302/302928912-vkontakte)<sup>40</sup>
-    > Книга  продает бренд. 5/10
 
 * Ноги из глины ~ [Garka](users/115/115753719718250012620-google)<sup>235</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Исчезнувший фрегат ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>73</sup>
 
-* Рассказы ~ [Avery](users/567/56734832-yandex)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>361</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>15</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>199</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>49</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
 [Hunhan](users/141/14193475-vkontakte)<sup>0</sup> 
 [tumturumk](users/135/135685382-vkontakte)<sup>1</sup> 
-[ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
 
 
-_12.12.2019 09:54:08_
+_12.12.2019 14:36:23_

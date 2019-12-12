@@ -1,4 +1,16 @@
 {
+    "CDzAALd2Cu": {
+        "id": "CDzAALd2Cu",
+        "title": "Убик",
+        "author": "Филлип Дик",
+        "notes": "Отличная фантастика",
+        "createdAt": "2019-12-12 14:36:22",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 361
+        }
+    },
     "isEyJPPDYA": {
         "id": "isEyJPPDYA",
         "title": "Простушка",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 141
-        }
-    },
-    "lXm0IKxj8s": {
-        "id": "lXm0IKxj8s",
-        "title": "Statistical Arbitrage: Algorithmic Trading Insights and Techniques",
-        "author": "Andrew Pole",
-        "notes": "Wiley Finance Book 411",
-        "createdAt": "2019-12-08 14:28:34",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 131
         }
     }
 }

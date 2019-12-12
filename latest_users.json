@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 361,
+        "updatedAt": "2019-12-12 14:36:22"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "tumturumk",
         "booksCount": 1,
         "updatedAt": "2019-11-30 07:11:24"
-    },
-    "2195256973544755662-mailru": {
-        "id": "2195256973544755662-mailru",
-        "nickname": "ee",
-        "booksCount": 7,
-        "updatedAt": "2019-11-28 03:22:14"
     }
 }
