@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 152,
+        "updatedAt": "2019-12-12 05:47:52"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -172,11 +178,5 @@
         "nickname": "BlackNRoses",
         "booksCount": 0,
         "updatedAt": "2019-11-27 16:10:28"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 63,
-        "updatedAt": "2019-11-27 07:55:40"
     }
 }

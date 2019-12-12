@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Летос ~ [Chiffi](users/105/105831994080785626680-google)<sup>152</sup>
 * Бойцовский клуб ~ [anvonamore](users/595/5957175-vkontakte)<sup>129</sup>
 * Patagonia - бизнес в стиле серфинг ~ [youno](users/302/302928912-vkontakte)<sup>40</sup>
 * Ноги из глины ~ [Garka](users/115/115753719718250012620-google)<sup>235</sup>
@@ -30,7 +31,6 @@
 * Брехуни на кушетці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>68</sup>
 * Волхв ~ [En](users/333/333646551-vkontakte)<sup>81</sup>
 * Мартин Иден ~ [youno](users/302/302928912-vkontakte)<sup>36</sup>
-* Лигр ~ [Chiffi](users/105/105831994080785626680-google)<sup>150</sup>
 
 
-_11.12.2019 22:49:33_
+_12.12.2019 05:47:53_

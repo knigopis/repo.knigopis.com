@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Летос ~ [Chiffi](users/105/105831994080785626680-google)<sup>152</sup>
+    > интересная фантастика, хорошо продуманный мир.
+
 * Бойцовский клуб ~ [anvonamore](users/595/5957175-vkontakte)<sup>129</sup>
     > 4/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга  продает бренд. 5/10
 
 * Ноги из глины ~ [Garka](users/115/115753719718250012620-google)<sup>235</sup>
-    > Шикарная книга. Отношения и характеры Витинари и Ваймса великолепно прописаны
 
 * Тайный сыск царя Гороха ~ [En](users/333/333646551-vkontakte)<sup>82</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Рассказы ~ [Avery](users/567/56734832-yandex)<sup>18</sup>
 
-* Ложь. Почему говорить правду всегда лучше ~ [youno](users/302/302928912-vkontakte)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>152</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>129</sup> 
 [youno](users/302/302928912-vkontakte)<sup>40</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>235</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>48</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
 [BlackNRoses](users/116/116141889586488878812-google)<sup>0</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>63</sup> 
 
 
-_11.12.2019 22:49:33_
+_12.12.2019 05:47:53_
