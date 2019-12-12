@@ -1,4 +1,16 @@
 {
+    "UgiG6INA6n": {
+        "id": "UgiG6INA6n",
+        "title": "Император поневоле-2",
+        "author": "Гулевич Александр Михайлович",
+        "notes": "",
+        "createdAt": "2019-12-12 06:32:01",
+        "user": {
+            "id": "48050444-yandex",
+            "nickname": "buldakov-alexey",
+            "booksCount": 2
+        }
+    },
     "rUzSi2ktcc": {
         "id": "rUzSi2ktcc",
         "title": "Император поневоле",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 157
-        }
-    },
-    "lbhvhcux-i": {
-        "id": "lbhvhcux-i",
-        "title": "Тени в раю",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2019-12-07 19:14:44",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 96
         }
     }
 }
