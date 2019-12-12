@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>151</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>361</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>199</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>49</sup> 
 [buldakov-alexey](users/480/48050444-yandex)<sup>4</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>152</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>129</sup> 
 [youno](users/302/302928912-vkontakte)<sup>40</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>235</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tumturumk](users/135/135685382-vkontakte)<sup>1</sup> 
 
 
-_12.12.2019 16:22:24_
+_12.12.2019 20:50:13_
