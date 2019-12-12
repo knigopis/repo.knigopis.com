@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Обітниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>75</sup>
+    > 7/10 вулиця Обітниця та її тупуваті мешканці не знають що робити зі своїм життям. Можна щняти любовний серіал.
+
 * Убик ~ [HXT](users/100/100002563462782-facebook)<sup>361</sup>
     > Отличная фантастика
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > интересная фантастика, хорошо продуманный мир.
 
 * Бойцовский клуб ~ [anvonamore](users/595/5957175-vkontakte)<sup>129</sup>
-    > 4/10
 
 * Patagonia - бизнес в стиле серфинг ~ [youno](users/302/302928912-vkontakte)<sup>40</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Слушай песню ветра ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup>
 
-* Исчезнувший фрегат ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>73</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>75</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>151</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>361</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>141</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>131</sup> 
 [tuberosus.hell](users/325/325338991-yandex)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>74</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>36</sup> 
 [Alexud](users/118/118388850825013411178-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>157</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tumturumk](users/135/135685382-vkontakte)<sup>1</sup> 
 
 
-_12.12.2019 20:50:13_
+_12.12.2019 21:12:17_

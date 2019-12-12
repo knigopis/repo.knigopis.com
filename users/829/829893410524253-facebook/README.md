@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>74</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>75</sup>
 ---
 
 ## 2019
+
+### Обітниця
+Володимир Лис
+> [2019-12-12] 7/10 вулиця Обітниця та її тупуваті мешканці не знають що робити зі своїм життям. Можна щняти любовний серіал.
+
 
 ### Ведьмак. Последннее желание
 Анджей Сапковский

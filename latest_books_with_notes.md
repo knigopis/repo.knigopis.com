@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Обітниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>75</sup>
 * Убик ~ [HXT](users/100/100002563462782-facebook)<sup>361</sup>
 * Летос ~ [Chiffi](users/105/105831994080785626680-google)<sup>152</sup>
 * Бойцовский клуб ~ [anvonamore](users/595/5957175-vkontakte)<sup>129</sup>
@@ -30,7 +31,6 @@
 * Как превратить 24 часа в 48 ~ [Chiffi](users/105/105831994080785626680-google)<sup>151</sup>
 * Homo Deus ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>69</sup>
 * Брехуни на кушетці ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>68</sup>
-* Волхв ~ [En](users/333/333646551-vkontakte)<sup>81</sup>
 
 
-_12.12.2019 14:36:23_
+_12.12.2019 21:12:17_
