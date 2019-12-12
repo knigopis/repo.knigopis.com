@@ -1,4 +1,16 @@
 {
+    "sV_RDVbVPL": {
+        "id": "sV_RDVbVPL",
+        "title": "Созвездие хаоса",
+        "author": "Татьяна Степанова",
+        "notes": "",
+        "createdAt": "2019-12-12 06:51:20",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 19
+        }
+    },
     "f_-_lydhU8": {
         "id": "f_-_lydhU8",
         "title": "Император поневоле-2",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 36
-        }
-    },
-    "kFV-d47w5H": {
-        "id": "kFV-d47w5H",
-        "title": "В сетях интриг",
-        "author": "Олег Рой",
-        "notes": "",
-        "createdAt": "2019-12-08 10:15:18",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 17
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>19</sup> 
 [buldakov-alexey](users/480/48050444-yandex)<sup>4</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>152</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>129</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>82</sup> 
 [tatarchikbandit](users/104/104025550-vkontakte)<sup>9</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>749</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>18</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>55</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>198</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>51</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ee](users/219/2195256973544755662-mailru)<sup>7</sup> 
 
 
-_12.12.2019 06:33:07_
+_12.12.2019 06:51:20_
