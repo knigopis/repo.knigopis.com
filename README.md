@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lostinfrost](users/217/217891524-vkontakte)<sup>146</sup> 
+[lostinfrost](users/217/217891524-vkontakte)<sup>145</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>17</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>75</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>151</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Hunhan](users/141/14193475-vkontakte)<sup>0</sup> 
 
 
-_13.12.2019 17:26:15_
+_13.12.2019 17:26:26_
