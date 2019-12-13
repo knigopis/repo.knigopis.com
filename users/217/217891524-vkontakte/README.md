@@ -1,12 +1,7 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>146</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>145</sup>
 ---
 
 ## 2019
-
-### Убийство в "Восточном экспрессе"
-Агата Кристи
-> [2019-12-14] 
-
 
 ### Убийство в "Восточном экспрессе"
 Агата Кристи
