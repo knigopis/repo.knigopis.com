@@ -1,4 +1,10 @@
 {
+    "217891524-vkontakte": {
+        "id": "217891524-vkontakte",
+        "nickname": "lostinfrost",
+        "booksCount": 146,
+        "updatedAt": "2019-12-13 17:26:15"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Hunhan",
         "booksCount": 0,
         "updatedAt": "2019-12-02 12:33:31"
-    },
-    "135685382-vkontakte": {
-        "id": "135685382-vkontakte",
-        "nickname": "tumturumk",
-        "booksCount": 1,
-        "updatedAt": "2019-11-30 07:11:24"
     }
 }
