@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 35,
+        "updatedAt": "2019-12-14 18:16:17"
+    },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
         "nickname": "violet_velva",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ",
         "booksCount": 88,
         "updatedAt": "2019-12-04 14:23:40"
-    },
-    "14193475-vkontakte": {
-        "id": "14193475-vkontakte",
-        "nickname": "Hunhan",
-        "booksCount": 0,
-        "updatedAt": "2019-12-02 12:33:31"
     }
 }

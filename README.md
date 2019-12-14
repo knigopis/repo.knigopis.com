@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пляж ~ [Beaviska](users/102/10202544960024508-facebook)<sup>35</sup>
+    > Жизнь в раю, которая превратилась в ад
+
 * Обітниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>75</sup>
     > 7/10 вулиця Обітниця та її тупуваті мешканці не знають що робити зі своїм життям. Можна щняти любовний серіал.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Отличная фантастика
 
 * Летос ~ [Chiffi](users/105/105831994080785626680-google)<sup>152</sup>
-    > интересная фантастика, хорошо продуманный мир.
 
 * Бойцовский клуб ~ [anvonamore](users/595/5957175-vkontakte)<sup>129</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ведьмак. Последннее желание ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>74</sup>
 
-* Слушай песню ветра ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>35</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>63</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>144</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>17</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Gizmoid](users/108/108088417345114392564-google)<sup>0</sup> 
 [Avery](users/567/56734832-yandex)<sup>19</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
-[Hunhan](users/141/14193475-vkontakte)<sup>0</sup> 
 
 
-_14.12.2019 10:09:23_
+_14.12.2019 18:16:17_
