@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>62</sup>
+# List of books read by violet_velva<sup>63</sup>
 ---
 
 ## 2019
+
+### Оливковая ферма
+Кэрол Дринкуотер
+> [2019-12-10] 
+
 
 ### Девушка в лабиринте
 Донато Карризи
