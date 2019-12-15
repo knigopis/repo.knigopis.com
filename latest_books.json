@@ -1,4 +1,16 @@
 {
+    "11Cxsz2pLv": {
+        "id": "11Cxsz2pLv",
+        "title": "Новая поведенческая экономика",
+        "author": "Ричард Талер",
+        "notes": "",
+        "createdAt": "2019-12-15 08:49:40",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 362
+        }
+    },
     "aZszx_JYgR": {
         "id": "aZszx_JYgR",
         "title": "Возраст третьей любви",
@@ -345,18 +357,6 @@
             "id": "104025550-vkontakte",
             "nickname": "tatarchikbandit",
             "booksCount": 2
-        }
-    },
-    "tGof0HelSB": {
-        "id": "tGof0HelSB",
-        "title": "1984",
-        "author": "Оруэлл",
-        "notes": "",
-        "createdAt": "2019-12-10 18:26:07",
-        "user": {
-            "id": "104025550-vkontakte",
-            "nickname": "tatarchikbandit",
-            "booksCount": 1
         }
     }
 }
