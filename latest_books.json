@@ -1,4 +1,16 @@
 {
+    "OZmT-f6jZj": {
+        "id": "OZmT-f6jZj",
+        "title": "Сияние",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2019-12-15 01:02:20",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 89
+        }
+    },
     "9H9ADl-AEW": {
         "id": "9H9ADl-AEW",
         "title": "Пляж",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 749
-        }
-    },
-    "wbGTHUJWES": {
-        "id": "wbGTHUJWES",
-        "title": "Отравленная маска",
-        "author": "Валерия Вербинина",
-        "notes": "",
-        "createdAt": "2019-12-10 16:36:28",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 18
         }
     }
 }

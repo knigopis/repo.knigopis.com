@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>88</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>89</sup>
 ---
 
 ## 2019
+
+### Сияние
+Стивен Кинг
+> [2019-12-15] 
+
 
 ### Сумерки. Новолуние
 Стефани Майер

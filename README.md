@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>89</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>35</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>63</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>144</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup> 
 [Gizmoid](users/108/108088417345114392564-google)<sup>0</sup> 
 [Avery](users/567/56734832-yandex)<sup>19</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
 
 
-_14.12.2019 18:16:17_
+_15.12.2019 01:02:20_
