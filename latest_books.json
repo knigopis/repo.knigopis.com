@@ -1,4 +1,16 @@
 {
+    "LxW1Eqgtd1": {
+        "id": "LxW1Eqgtd1",
+        "title": "День опричника",
+        "author": "Владимир Сорокин",
+        "notes": "",
+        "createdAt": "2019-12-16 12:16:16",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 200
+        }
+    },
     "11Cxsz2pLv": {
         "id": "11Cxsz2pLv",
         "title": "Новая поведенческая экономика",
@@ -345,18 +357,6 @@
             "id": "104025550-vkontakte",
             "nickname": "tatarchikbandit",
             "booksCount": 3
-        }
-    },
-    "9iHP-q8SIm": {
-        "id": "9iHP-q8SIm",
-        "title": "Три товарища",
-        "author": "Ремарк",
-        "notes": "",
-        "createdAt": "2019-12-10 19:48:57",
-        "user": {
-            "id": "104025550-vkontakte",
-            "nickname": "tatarchikbandit",
-            "booksCount": 2
         }
     }
 }
