@@ -1,4 +1,16 @@
 {
+    "UUc7gNOKQL": {
+        "id": "UUc7gNOKQL",
+        "title": "Клиенты на всю жизнь",
+        "author": "Карл Сьюэлл, Пол Браун",
+        "notes": "в процессе",
+        "createdAt": "2019-12-16 21:52:25",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 221
+        }
+    },
     "eZct4HMwd9": {
         "id": "eZct4HMwd9",
         "title": "Синее пламя (Лето 2)",
@@ -345,18 +357,6 @@
             "id": "104025550-vkontakte",
             "nickname": "tatarchikbandit",
             "booksCount": 5
-        }
-    },
-    "7NL1VfNcpO": {
-        "id": "7NL1VfNcpO",
-        "title": "Отцы и дети",
-        "author": "Тургенев",
-        "notes": "",
-        "createdAt": "2019-12-10 19:49:27",
-        "user": {
-            "id": "104025550-vkontakte",
-            "nickname": "tatarchikbandit",
-            "booksCount": 4
         }
     }
 }

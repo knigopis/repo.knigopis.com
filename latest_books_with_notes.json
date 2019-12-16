@@ -1,4 +1,16 @@
 {
+    "UUc7gNOKQL": {
+        "id": "UUc7gNOKQL",
+        "title": "Клиенты на всю жизнь",
+        "author": "Карл Сьюэлл, Пол Браун",
+        "notes": "в процессе",
+        "createdAt": "2019-12-16 21:52:25",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 221
+        }
+    },
     "9H9ADl-AEW": {
         "id": "9H9ADl-AEW",
         "title": "Пляж",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 151
-        }
-    },
-    "FqbgRGyvQ3": {
-        "id": "FqbgRGyvQ3",
-        "title": "Homo Deus",
-        "author": "Ювал Ной Харарі",
-        "notes": "7/10 Передбачення майбутнього, датаїзм.",
-        "createdAt": "2019-11-21 13:38:27",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 69
         }
     }
 }

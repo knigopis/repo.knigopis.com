@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Клиенты на всю жизнь ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>221</sup>
+    > в процессе
+
 * Пляж ~ [Beaviska](users/102/10202544960024508-facebook)<sup>35</sup>
     > Жизнь в раю, которая превратилась в ад
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 вулиця Обітниця та її тупуваті мешканці не знають що робити зі своїм життям. Можна щняти любовний серіал.
 
 * Убик ~ [HXT](users/100/100002563462782-facebook)<sup>361</sup>
-    > Отличная фантастика
 
 * Летос ~ [Chiffi](users/105/105831994080785626680-google)<sup>152</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Statistical Arbitrage: Algorithmic Trading Insights and Techniques ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
 
-* Ведьмак. Последннее желание ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>74</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>221</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>152</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>200</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>362</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>96</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup> 
 [Gizmoid](users/108/108088417345114392564-google)<sup>0</sup> 
-[Avery](users/567/56734832-yandex)<sup>19</sup> 
 
 
-_16.12.2019 20:13:50_
+_16.12.2019 21:52:25_

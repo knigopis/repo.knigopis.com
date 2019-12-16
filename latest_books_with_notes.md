@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Клиенты на всю жизнь ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>221</sup>
 * Пляж ~ [Beaviska](users/102/10202544960024508-facebook)<sup>35</sup>
 * Обітниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>75</sup>
 * Убик ~ [HXT](users/100/100002563462782-facebook)<sup>361</sup>
@@ -30,7 +31,6 @@
 * Скеллиг ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup>
 * Matterhorn ~ [exulted](users/100/100599204551896265722-google)<sup>127</sup>
 * Как превратить 24 часа в 48 ~ [Chiffi](users/105/105831994080785626680-google)<sup>151</sup>
-* Homo Deus ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>69</sup>
 
 
-_14.12.2019 18:16:17_
+_16.12.2019 21:52:25_
