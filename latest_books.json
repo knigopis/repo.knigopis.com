@@ -1,4 +1,16 @@
 {
+    "eZct4HMwd9": {
+        "id": "eZct4HMwd9",
+        "title": "Синее пламя (Лето 2)",
+        "author": "Пехов Алексей",
+        "notes": "",
+        "createdAt": "2019-12-16 20:13:50",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 152
+        }
+    },
     "LxW1Eqgtd1": {
         "id": "LxW1Eqgtd1",
         "title": "День опричника",
@@ -345,18 +357,6 @@
             "id": "104025550-vkontakte",
             "nickname": "tatarchikbandit",
             "booksCount": 4
-        }
-    },
-    "vCmI_AtvJ1": {
-        "id": "vCmI_AtvJ1",
-        "title": "Жизнь взаймы",
-        "author": "Ремарк",
-        "notes": "",
-        "createdAt": "2019-12-10 19:49:16",
-        "user": {
-            "id": "104025550-vkontakte",
-            "nickname": "tatarchikbandit",
-            "booksCount": 3
         }
     }
 }
