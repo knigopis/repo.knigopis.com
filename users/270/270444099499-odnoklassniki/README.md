@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>18</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>19</sup>
 ---
 
 ## 2019
+
+### Против лома нет вампира
+Галина Гончарова
+> [2019-12-17] 
+
 
 ### Возраст третьей любви
 Анна Берсенева
