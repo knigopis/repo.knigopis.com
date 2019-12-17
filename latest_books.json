@@ -1,4 +1,16 @@
 {
+    "eMzSPmUUWB": {
+        "id": "eMzSPmUUWB",
+        "title": "Проклятие меча",
+        "author": "Роб Кидд",
+        "notes": "",
+        "createdAt": "2019-12-17 13:28:32",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 88
+        }
+    },
     "AzsJhYT50C": {
         "id": "AzsJhYT50C",
         "title": "Слово о полку Игореве",
@@ -345,18 +357,6 @@
             "id": "104025550-vkontakte",
             "nickname": "tatarchikbandit",
             "booksCount": 9
-        }
-    },
-    "Jw4Pl6G2OQ": {
-        "id": "Jw4Pl6G2OQ",
-        "title": "Мы",
-        "author": "Замятин",
-        "notes": "",
-        "createdAt": "2019-12-10 19:55:44",
-        "user": {
-            "id": "104025550-vkontakte",
-            "nickname": "tatarchikbandit",
-            "booksCount": 8
         }
     }
 }
