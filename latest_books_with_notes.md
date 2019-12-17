@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Країна розваг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>76</sup>
 * Слово о полку Игореве ~ [mitsakult](users/288/288034278-vkontakte)<sup>1</sup>
 * Клиенты на всю жизнь ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>221</sup>
 * Пляж ~ [Beaviska](users/102/10202544960024508-facebook)<sup>35</sup>
@@ -30,7 +31,6 @@
 * Город. Штурм Грозного глазами лейтенанта спецназа (1994–1995) ~ [exulted](users/100/100599204551896265722-google)<sup>128</sup>
 * Праздник, который всегда с тобой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>115</sup>
 * Скеллиг ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>28</sup>
-* Matterhorn ~ [exulted](users/100/100599204551896265722-google)<sup>127</sup>
 
 
-_17.12.2019 09:11:34_
+_17.12.2019 18:07:57_

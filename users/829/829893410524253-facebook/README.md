@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>75</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>76</sup>
 ---
 
 ## 2019
+
+### Країна розваг
+Стівен Кінг
+> [2019-12-16] 10/10 Примара, що живе у кімнаті жахів.
+
 
 ### Обітниця
 Володимир Лис

@@ -1,4 +1,16 @@
 {
+    "rlVDAuA5oB": {
+        "id": "rlVDAuA5oB",
+        "title": "Країна розваг",
+        "author": "Стівен Кінг",
+        "notes": "10/10 Примара, що живе у кімнаті жахів.",
+        "createdAt": "2019-12-17 18:07:57",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 76
+        }
+    },
     "AzsJhYT50C": {
         "id": "AzsJhYT50C",
         "title": "Слово о полку Игореве",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 28
-        }
-    },
-    "XH-hbzlnld": {
-        "id": "XH-hbzlnld",
-        "title": "Matterhorn",
-        "author": "Karl Marlantes",
-        "notes": "ASIN: B003ZUXQCQ",
-        "createdAt": "2019-11-23 12:54:07",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 127
         }
     }
 }

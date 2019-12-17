@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Країна розваг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>76</sup>
+    > 10/10 Примара, що живе у кімнаті жахів.
+
 * Слово о полку Игореве ~ [mitsakult](users/288/288034278-vkontakte)<sup>1</sup>
     > Хотя и предполагается, что произведение переписывалось позднее, хочется верить, что кому-то в 12 веке удалось на Руси написать такую эпохронику с долей символов. Тяжело читать не зная истории, большинство имен ни о чем не говорят, перевод тяжелый. Хочется отметить интересную историю «находки» рукописи и ее дальнейшей судьбы.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Пляж ~ [Beaviska](users/102/10202544960024508-facebook)<sup>35</sup>
-    > Жизнь в раю, которая превратилась в ад
 
 * Обітниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>75</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ноги из глины ~ [Garka](users/115/115753719718250012620-google)<sup>235</sup>
 
-* Тайный сыск царя Гороха ~ [En](users/333/333646551-vkontakte)<sup>82</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>76</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>19</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>145</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>152</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>35</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>63</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>75</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>49</sup> 
 [buldakov-alexey](users/480/48050444-yandex)<sup>4</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>129</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup> 
 
 
-_17.12.2019 15:59:36_
+_17.12.2019 18:07:57_
