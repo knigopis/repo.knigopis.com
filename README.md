@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>363</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>221</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>152</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>200</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>362</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>18</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>89</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>35</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Gizmoid](users/108/108088417345114392564-google)<sup>0</sup> 
 
 
-_16.12.2019 21:52:25_
+_17.12.2019 05:54:27_
