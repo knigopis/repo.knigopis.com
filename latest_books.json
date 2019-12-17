@@ -1,4 +1,16 @@
 {
+    "X81fMZQhou": {
+        "id": "X81fMZQhou",
+        "title": "Доллар и 20 центов",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2019-12-17 07:40:51",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 201
+        }
+    },
     "YcThrzlYzi": {
         "id": "YcThrzlYzi",
         "title": "Как создать настоящую команду",
@@ -345,18 +357,6 @@
             "id": "104025550-vkontakte",
             "nickname": "tatarchikbandit",
             "booksCount": 7
-        }
-    },
-    "n6SYMxqwp7": {
-        "id": "n6SYMxqwp7",
-        "title": "Бедная лиза",
-        "author": "Карамзин",
-        "notes": "",
-        "createdAt": "2019-12-10 19:50:08",
-        "user": {
-            "id": "104025550-vkontakte",
-            "nickname": "tatarchikbandit",
-            "booksCount": 6
         }
     }
 }
