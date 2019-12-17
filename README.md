@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lostinfrost](users/217/217891524-vkontakte)<sup>145</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>201</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/270/270444099499-odnoklassniki)<sup>18</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>35</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>63</sup> 
-[lostinfrost](users/217/217891524-vkontakte)<sup>144</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>75</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>49</sup> 
 [buldakov-alexey](users/480/48050444-yandex)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup> 
 
 
-_17.12.2019 13:28:33_
+_17.12.2019 13:34:11_
