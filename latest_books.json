@@ -1,4 +1,16 @@
 {
+    "iLgazbvkE0": {
+        "id": "iLgazbvkE0",
+        "title": "Герой нашего времени",
+        "author": "Михаил Лермонтов",
+        "notes": "",
+        "createdAt": "2019-12-17 20:29:21",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 199
+        }
+    },
     "rlVDAuA5oB": {
         "id": "rlVDAuA5oB",
         "title": "Країна розваг",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 129
-        }
-    },
-    "j3F8Q_YeIU": {
-        "id": "j3F8Q_YeIU",
-        "title": "Patagonia - бизнес в стиле серфинг",
-        "author": "Ивон Шуинар",
-        "notes": "Книга  продает бренд. 5/10",
-        "createdAt": "2019-12-11 17:28:30",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 40
         }
     }
 }
