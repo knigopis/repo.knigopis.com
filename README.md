@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Pavel](users/115/115796399209122380492-google)<sup>0</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>2</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>199</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>76</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Alexud](users/118/118388850825013411178-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>157</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>96</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup> 
 
 
-_18.12.2019 05:33:32_
+_18.12.2019 05:39:09_
