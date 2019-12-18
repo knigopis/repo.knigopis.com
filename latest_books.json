@@ -1,4 +1,16 @@
 {
+    "pK-FlVTOos": {
+        "id": "pK-FlVTOos",
+        "title": "Казаки",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2019-12-18 09:05:48",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 9
+        }
+    },
     "hTnUuab5n-": {
         "id": "hTnUuab5n-",
         "title": "Тихий Дон",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 75
-        }
-    },
-    "7mPq9-70mn": {
-        "id": "7mPq9-70mn",
-        "title": "Максим",
-        "author": "Наталья Шагаева",
-        "notes": "",
-        "createdAt": "2019-12-12 16:22:24",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 16
         }
     }
 }
