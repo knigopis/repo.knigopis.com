@@ -1,4 +1,16 @@
 {
+    "PUtKcRzvsf": {
+        "id": "PUtKcRzvsf",
+        "title": "Метафизика",
+        "author": "Аристотель",
+        "notes": "",
+        "createdAt": "2019-12-18 09:06:24",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 12
+        }
+    },
     "qYLZhxEhBK": {
         "id": "qYLZhxEhBK",
         "title": "Пролетая над гнездом кукушки",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 63
-        }
-    },
-    "eaKWWYEYiG": {
-        "id": "eaKWWYEYiG",
-        "title": "Убийство в \"Восточном экспрессе\"",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2019-12-13 17:26:15",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 146
         }
     }
 }
