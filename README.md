@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Глеб Чернявский](users/122/12269424984830334284-mailru)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>750</sup> 
 [Pavel](users/115/115796399209122380492-google)<sup>0</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>36</sup> 
 [Alexud](users/118/118388850825013411178-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>157</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>96</sup> 
 
 
-_18.12.2019 06:52:17_
+_18.12.2019 09:03:35_
