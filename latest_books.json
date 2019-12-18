@@ -1,4 +1,16 @@
 {
+    "LAJsdhq9Y1": {
+        "id": "LAJsdhq9Y1",
+        "title": "Воспитание чувств",
+        "author": "Гюстав Флобер",
+        "notes": "",
+        "createdAt": "2019-12-18 06:52:17",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 750
+        }
+    },
     "LLuey2rozN": {
         "id": "LLuey2rozN",
         "title": "Горе от ума",
@@ -345,18 +357,6 @@
             "id": "48050444-yandex",
             "nickname": "buldakov-alexey",
             "booksCount": 1
-        }
-    },
-    "DQQQyr4phF": {
-        "id": "DQQQyr4phF",
-        "title": "Летос",
-        "author": "Пехов Алексей",
-        "notes": "интересная фантастика, хорошо продуманный мир.",
-        "createdAt": "2019-12-12 05:47:52",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 152
         }
     }
 }
