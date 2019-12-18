@@ -1,4 +1,16 @@
 {
+    "zO3F7heaE_": {
+        "id": "zO3F7heaE_",
+        "title": "Братья Карамазовы",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2019-12-18 09:05:02",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 5
+        }
+    },
     "WD_du6ny-C": {
         "id": "WD_du6ny-C",
         "title": "Идиоит",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 199
-        }
-    },
-    "Fl0eTIwoZG": {
-        "id": "Fl0eTIwoZG",
-        "title": "Скептик. Рациональный взгляд на мир",
-        "author": "Майкл Шермер",
-        "notes": "",
-        "createdAt": "2019-12-12 07:01:35",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 49
         }
     }
 }
