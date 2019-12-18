@@ -1,4 +1,16 @@
 {
+    "VIkK3m4xMu": {
+        "id": "VIkK3m4xMu",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2019-12-18 09:07:26",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 15
+        }
+    },
     "IRuDpfho_L": {
         "id": "IRuDpfho_L",
         "title": "Бесы",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 18
-        }
-    },
-    "OZmT-f6jZj": {
-        "id": "OZmT-f6jZj",
-        "title": "Сияние",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2019-12-15 01:02:20",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 89
         }
     }
 }
