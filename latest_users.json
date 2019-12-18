@@ -1,4 +1,10 @@
 {
+    "115796399209122380492-google": {
+        "id": "115796399209122380492-google",
+        "nickname": "Pavel",
+        "booksCount": 0,
+        "updatedAt": "2019-12-18 05:39:09"
+    },
     "288034278-vkontakte": {
         "id": "288034278-vkontakte",
         "nickname": "mitsakult",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 96,
         "updatedAt": "2019-12-07 19:14:44"
-    },
-    "64251996-vkontakte": {
-        "id": "64251996-vkontakte",
-        "nickname": "~ARHANGEL~",
-        "booksCount": 60,
-        "updatedAt": "2019-12-06 19:23:39"
     }
 }
