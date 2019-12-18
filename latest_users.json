@@ -1,4 +1,10 @@
 {
+    "12269424984830334284-mailru": {
+        "id": "12269424984830334284-mailru",
+        "nickname": "Глеб Чернявский",
+        "booksCount": 0,
+        "updatedAt": "2019-12-18 09:03:33"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 157,
         "updatedAt": "2019-12-08 06:03:25"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 96,
-        "updatedAt": "2019-12-07 19:14:44"
     }
 }
