@@ -1,4 +1,16 @@
 {
+    "TMel5weXJw": {
+        "id": "TMel5weXJw",
+        "title": "Улисс",
+        "author": "Джойс",
+        "notes": "",
+        "createdAt": "2019-12-18 09:08:03",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 17
+        }
+    },
     "rHfCaSbMZC": {
         "id": "rHfCaSbMZC",
         "title": "Записки о Шерлоке Холмсе",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 200
-        }
-    },
-    "11Cxsz2pLv": {
-        "id": "11Cxsz2pLv",
-        "title": "Новая поведенческая экономика",
-        "author": "Ричард Талер",
-        "notes": "",
-        "createdAt": "2019-12-15 08:49:40",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 362
         }
     }
 }
