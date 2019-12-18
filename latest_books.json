@@ -1,4 +1,16 @@
 {
+    "slTDX4ojK3": {
+        "id": "slTDX4ojK3",
+        "title": "Портрет",
+        "author": "Николай Гоголь",
+        "notes": "",
+        "createdAt": "2019-12-18 09:05:24",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 7
+        }
+    },
     "FLYjAQLhIN": {
         "id": "FLYjAQLhIN",
         "title": "Мертвые души",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 361
-        }
-    },
-    "isEyJPPDYA": {
-        "id": "isEyJPPDYA",
-        "title": "Простушка",
-        "author": "Коди Кеплингер",
-        "notes": "",
-        "createdAt": "2019-12-12 09:54:07",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 15
         }
     }
 }
