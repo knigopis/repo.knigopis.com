@@ -1,4 +1,16 @@
 {
+    "qYLZhxEhBK": {
+        "id": "qYLZhxEhBK",
+        "title": "Пролетая над гнездом кукушки",
+        "author": "Кен Кизи",
+        "notes": "",
+        "createdAt": "2019-12-18 09:06:14",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 11
+        }
+    },
     "UwHKdj9j9k": {
         "id": "UwHKdj9j9k",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 146
-        }
-    },
-    "q8woAfe1fu": {
-        "id": "q8woAfe1fu",
-        "title": "Мой бедный богатый мужчина",
-        "author": "Мария Воронова",
-        "notes": "",
-        "createdAt": "2019-12-13 17:06:08",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 17
         }
     }
 }
