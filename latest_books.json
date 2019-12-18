@@ -1,4 +1,16 @@
 {
+    "zmxIq9EJmX": {
+        "id": "zmxIq9EJmX",
+        "title": "Анна Каренина",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2019-12-18 09:04:19",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 2
+        }
+    },
     "18zhOHqw3H": {
         "id": "18zhOHqw3H",
         "title": "Война и Мир",
@@ -345,18 +357,6 @@
             "id": "48050444-yandex",
             "nickname": "buldakov-alexey",
             "booksCount": 4
-        }
-    },
-    "FIYkypxqDy": {
-        "id": "FIYkypxqDy",
-        "title": "Охотник. Тайна Долины Смерти",
-        "author": "Хайдарали Усманов Мирзоевич",
-        "notes": "",
-        "createdAt": "2019-12-12 06:32:55",
-        "user": {
-            "id": "48050444-yandex",
-            "nickname": "buldakov-alexey",
-            "booksCount": 3
         }
     }
 }
