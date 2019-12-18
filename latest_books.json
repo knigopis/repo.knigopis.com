@@ -1,4 +1,16 @@
 {
+    "UwHKdj9j9k": {
+        "id": "UwHKdj9j9k",
+        "title": "Бойцовский клуб",
+        "author": "Чак Палланик",
+        "notes": "",
+        "createdAt": "2019-12-18 09:06:04",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 10
+        }
+    },
     "pK-FlVTOos": {
         "id": "pK-FlVTOos",
         "title": "Казаки",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 17
-        }
-    },
-    "FF3li09zde": {
-        "id": "FF3li09zde",
-        "title": "Обітниця",
-        "author": "Володимир Лис",
-        "notes": "7/10 вулиця Обітниця та її тупуваті мешканці не знають що робити зі своїм життям. Можна щняти любовний серіал.",
-        "createdAt": "2019-12-12 21:12:17",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 75
         }
     }
 }
