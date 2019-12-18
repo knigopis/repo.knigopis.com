@@ -1,4 +1,16 @@
 {
+    "IRuDpfho_L": {
+        "id": "IRuDpfho_L",
+        "title": "Бесы",
+        "author": "Достоевский",
+        "notes": "",
+        "createdAt": "2019-12-18 09:07:08",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 14
+        }
+    },
     "iM7hhIU4C_": {
         "id": "iM7hhIU4C_",
         "title": "Гарри Поттер все части",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 89
-        }
-    },
-    "9H9ADl-AEW": {
-        "id": "9H9ADl-AEW",
-        "title": "Пляж",
-        "author": "Алекс Гарленд",
-        "notes": "Жизнь в раю, которая превратилась в ад",
-        "createdAt": "2019-12-14 18:16:17",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 35
         }
     }
 }
