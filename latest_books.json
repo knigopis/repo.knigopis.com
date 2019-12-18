@@ -1,4 +1,16 @@
 {
+    "FLYjAQLhIN": {
+        "id": "FLYjAQLhIN",
+        "title": "Мертвые души",
+        "author": "Николай Гоголь",
+        "notes": "",
+        "createdAt": "2019-12-18 09:05:16",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 6
+        }
+    },
     "zO3F7heaE_": {
         "id": "zO3F7heaE_",
         "title": "Братья Карамазовы",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 15
-        }
-    },
-    "oCnU9M8x8D": {
-        "id": "oCnU9M8x8D",
-        "title": "Возвращение",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2019-12-12 08:39:59",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 199
         }
     }
 }
