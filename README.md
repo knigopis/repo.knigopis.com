@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Глеб Чернявский](users/122/12269424984830334284-mailru)<sup>0</sup> 
+[Глеб Чернявский](users/122/12269424984830334284-mailru)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>750</sup> 
 [Pavel](users/115/115796399209122380492-google)<sup>0</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>157</sup> 
 
 
-_18.12.2019 09:03:35_
+_18.12.2019 09:04:02_

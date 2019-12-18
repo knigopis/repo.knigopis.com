@@ -1,4 +1,16 @@
 {
+    "18zhOHqw3H": {
+        "id": "18zhOHqw3H",
+        "title": "Война и Мир",
+        "author": "Лев Толстой",
+        "notes": "Щедевр на века",
+        "createdAt": "2019-12-18 09:04:02",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 1
+        }
+    },
     "LAJsdhq9Y1": {
         "id": "LAJsdhq9Y1",
         "title": "Воспитание чувств",
@@ -345,18 +357,6 @@
             "id": "48050444-yandex",
             "nickname": "buldakov-alexey",
             "booksCount": 3
-        }
-    },
-    "rUzSi2ktcc": {
-        "id": "rUzSi2ktcc",
-        "title": "Император поневоле",
-        "author": "Гулевич Александр Михайлович",
-        "notes": "",
-        "createdAt": "2019-12-12 06:30:16",
-        "user": {
-            "id": "48050444-yandex",
-            "nickname": "buldakov-alexey",
-            "booksCount": 1
         }
     }
 }
