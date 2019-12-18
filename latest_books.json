@@ -1,4 +1,16 @@
 {
+    "dUygEwygXS": {
+        "id": "dUygEwygXS",
+        "title": "1984",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-12-18 09:08:39",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 19
+        }
+    },
     "PJzgyBR3xV": {
         "id": "PJzgyBR3xV",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 221
-        }
-    },
-    "eZct4HMwd9": {
-        "id": "eZct4HMwd9",
-        "title": "Синее пламя (Лето 2)",
-        "author": "Пехов Алексей",
-        "notes": "",
-        "createdAt": "2019-12-16 20:13:50",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 152
         }
     }
 }
