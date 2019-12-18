@@ -1,4 +1,16 @@
 {
+    "gu3fac_JK8": {
+        "id": "gu3fac_JK8",
+        "title": "Бруклин",
+        "author": "Колм Тойбин",
+        "notes": "",
+        "createdAt": "2019-12-18 19:30:34",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 52
+        }
+    },
     "n8ZFYZYQp5": {
         "id": "n8ZFYZYQp5",
         "title": "Путешествие в страну мужчин",
@@ -345,18 +357,6 @@
             "id": "288034278-vkontakte",
             "nickname": "mitsakult",
             "booksCount": 1
-        }
-    },
-    "X81fMZQhou": {
-        "id": "X81fMZQhou",
-        "title": "Доллар и 20 центов",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2019-12-17 07:40:51",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 201
         }
     }
 }

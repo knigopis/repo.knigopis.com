@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>51</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>52</sup>
 ---
 
 ## 2019
+
+### Бруклин
+Колм Тойбин
+> [2019-12-18] 
+
 
 ### Скетчинг маркерами с Анной Расторгуевой
 Анна Расторгуева
