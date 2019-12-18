@@ -1,4 +1,16 @@
 {
+    "n8ZFYZYQp5": {
+        "id": "n8ZFYZYQp5",
+        "title": "Путешествие в страну мужчин",
+        "author": "Юлия Климова",
+        "notes": "",
+        "createdAt": "2019-12-18 18:03:49",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 20
+        }
+    },
     "t0IfpZH_38": {
         "id": "t0IfpZH_38",
         "title": "Артемис Фаул",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 201
-        }
-    },
-    "YcThrzlYzi": {
-        "id": "YcThrzlYzi",
-        "title": "Как создать настоящую команду",
-        "author": "Дэвид шервин",
-        "notes": "",
-        "createdAt": "2019-12-17 05:54:26",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 363
         }
     }
 }
