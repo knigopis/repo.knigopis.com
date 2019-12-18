@@ -1,4 +1,16 @@
 {
+    "e-MCm5am0v": {
+        "id": "e-MCm5am0v",
+        "title": "Воскресенье",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2019-12-18 09:04:30",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 3
+        }
+    },
     "zmxIq9EJmX": {
         "id": "zmxIq9EJmX",
         "title": "Анна Каренина",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 19
-        }
-    },
-    "f_-_lydhU8": {
-        "id": "f_-_lydhU8",
-        "title": "Император поневоле-2",
-        "author": "Гулевич Александр Михайлович",
-        "notes": "",
-        "createdAt": "2019-12-12 06:33:07",
-        "user": {
-            "id": "48050444-yandex",
-            "nickname": "buldakov-alexey",
-            "booksCount": 4
         }
     }
 }
