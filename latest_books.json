@@ -1,4 +1,16 @@
 {
+    "PJzgyBR3xV": {
+        "id": "PJzgyBR3xV",
+        "title": "Мы",
+        "author": "Замятин",
+        "notes": "",
+        "createdAt": "2019-12-18 09:08:10",
+        "user": {
+            "id": "12269424984830334284-mailru",
+            "nickname": "Глеб Чернявский",
+            "booksCount": 18
+        }
+    },
     "TMel5weXJw": {
         "id": "TMel5weXJw",
         "title": "Улисс",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 152
-        }
-    },
-    "LxW1Eqgtd1": {
-        "id": "LxW1Eqgtd1",
-        "title": "День опричника",
-        "author": "Владимир Сорокин",
-        "notes": "",
-        "createdAt": "2019-12-16 12:16:16",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 200
         }
     }
 }
