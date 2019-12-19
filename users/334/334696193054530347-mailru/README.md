@@ -1,7 +1,12 @@
-# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>49</sup>
+# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>50</sup>
 ---
 
 ## 2019
+
+### Мосты округа Мэдисон
+Роберт Джеймс Уоллер
+> [2019-12] 
+
 
 ### Скептик. Рациональный взгляд на мир
 Майкл Шермер

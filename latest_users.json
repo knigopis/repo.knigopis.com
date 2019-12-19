@@ -1,4 +1,10 @@
 {
+    "334696193054530347-mailru": {
+        "id": "334696193054530347-mailru",
+        "nickname": "Даша",
+        "booksCount": 50,
+        "updatedAt": "2019-12-19 04:22:08"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -94,12 +100,6 @@
         "nickname": "violet_velva",
         "booksCount": 63,
         "updatedAt": "2019-12-14 10:09:23"
-    },
-    "334696193054530347-mailru": {
-        "id": "334696193054530347-mailru",
-        "nickname": "Даша",
-        "booksCount": 49,
-        "updatedAt": "2019-12-12 07:01:35"
     },
     "48050444-yandex": {
         "id": "48050444-yandex",
