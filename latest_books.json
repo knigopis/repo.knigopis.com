@@ -1,4 +1,16 @@
 {
+    "-RDUvEFNBd": {
+        "id": "-RDUvEFNBd",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-12-19 23:02:30",
+        "user": {
+            "id": "270793814-vkontakte",
+            "nickname": "12Dash",
+            "booksCount": 1
+        }
+    },
     "fwR4dOgdfM": {
         "id": "fwR4dOgdfM",
         "title": "Мосты округа Мэдисон",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 145
-        }
-    },
-    "eMzSPmUUWB": {
-        "id": "eMzSPmUUWB",
-        "title": "Проклятие меча",
-        "author": "Роб Кидд",
-        "notes": "",
-        "createdAt": "2019-12-17 13:28:32",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 88
         }
     }
 }

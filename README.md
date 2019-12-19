@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[12Dash](users/270/270793814-vkontakte)<sup>0</sup> 
+[12Dash](users/270/270793814-vkontakte)<sup>1</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>50</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>52</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>20</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Alexud](users/118/118388850825013411178-google)<sup>0</sup> 
 
 
-_19.12.2019 23:02:23_
+_19.12.2019 23:02:30_
