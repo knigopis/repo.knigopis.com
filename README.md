@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[imustbedreaming](users/123/123376372-vkontakte)<sup>0</sup> 
 [12Dash](users/270/270793814-vkontakte)<sup>1</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>50</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>52</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>131</sup> 
 [tuberosus.hell](users/325/325338991-yandex)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>36</sup> 
-[Alexud](users/118/118388850825013411178-google)<sup>0</sup> 
 
 
-_19.12.2019 23:02:30_
+_20.12.2019 03:29:35_
