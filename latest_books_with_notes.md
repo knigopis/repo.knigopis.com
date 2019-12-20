@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Талорис (Синее пламя 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>153</sup>
 * Горе от ума ~ [mitsakult](users/288/288034278-vkontakte)<sup>2</sup>
 * Країна розваг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>76</sup>
 * Слово о полку Игореве ~ [mitsakult](users/288/288034278-vkontakte)<sup>1</sup>
@@ -30,7 +31,6 @@
 * Відродження ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>70</sup>
 * Она же Грейс ~ [Victoria](users/113/113794223924688167852-google)<sup>47</sup>
 * Город. Штурм Грозного глазами лейтенанта спецназа (1994–1995) ~ [exulted](users/100/100599204551896265722-google)<sup>128</sup>
-* Праздник, который всегда с тобой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>115</sup>
 
 
-_18.12.2019 05:33:32_
+_20.12.2019 05:38:34_

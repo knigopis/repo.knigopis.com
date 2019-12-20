@@ -1,4 +1,16 @@
 {
+    "HwsfyUKU0Z": {
+        "id": "HwsfyUKU0Z",
+        "title": "Талорис (Синее пламя 3)",
+        "author": "Пехов Алексей",
+        "notes": "буду ждать четвертую книгу цикла. автор обещал))",
+        "createdAt": "2019-12-20 05:38:33",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 153
+        }
+    },
     "LLuey2rozN": {
         "id": "LLuey2rozN",
         "title": "Горе от ума",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 128
-        }
-    },
-    "PyQuiFiTaD": {
-        "id": "PyQuiFiTaD",
-        "title": "Праздник, который всегда с тобой",
-        "author": "Эрнест Хемингуэй",
-        "notes": "9/10",
-        "createdAt": "2019-11-23 23:55:04",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 115
         }
     }
 }
