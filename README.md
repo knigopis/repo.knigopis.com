@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>153</sup> 
 [imustbedreaming](users/123/123376372-vkontakte)<sup>0</sup> 
 [12Dash](users/270/270793814-vkontakte)<sup>1</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>50</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>52</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>20</sup> 
 [Глеб Чернявский](users/122/12269424984830334284-mailru)<sup>20</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>750</sup> 
 [Pavel](users/115/115796399209122380492-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>36</sup> 
 
 
-_20.12.2019 05:38:34_
+_20.12.2019 11:26:07_
