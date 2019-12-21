@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 37,
+        "updatedAt": "2019-12-21 16:27:29"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "afferens.lucem",
         "booksCount": 141,
         "updatedAt": "2019-12-08 19:23:16"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 131,
-        "updatedAt": "2019-12-08 14:28:34"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "P9znmMABmt": {
+        "id": "P9znmMABmt",
+        "title": "Золото бунта",
+        "author": "А. Иванов",
+        "notes": "",
+        "createdAt": "2019-12-21 16:27:29",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 37
+        }
+    },
     "MnaTRMlrSy": {
         "id": "MnaTRMlrSy",
         "title": "Лавка бесконечности",
@@ -345,18 +357,6 @@
             "id": "12269424984830334284-mailru",
             "nickname": "Глеб Чернявский",
             "booksCount": 2
-        }
-    },
-    "18zhOHqw3H": {
-        "id": "18zhOHqw3H",
-        "title": "Война и Мир",
-        "author": "Лев Толстой",
-        "notes": "Щедевр на века",
-        "createdAt": "2019-12-18 09:04:02",
-        "user": {
-            "id": "12269424984830334284-mailru",
-            "nickname": "Глеб Чернявский",
-            "booksCount": 1
         }
     }
 }

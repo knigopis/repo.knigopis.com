@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>37</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>364</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>41</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>17</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tatarchikbandit](users/104/104025550-vkontakte)<sup>9</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>55</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>141</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>131</sup> 
 
 
-_21.12.2019 15:06:59_
+_21.12.2019 16:27:30_

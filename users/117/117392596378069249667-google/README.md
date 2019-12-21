@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>36</sup>
+# List of books read by 4apa<sup>37</sup>
 ---
 
 ## 2019
+
+### Золото бунта
+А. Иванов
+> [2019-12-20] 
+
 
 ### Псоглавцы
 А. Иванов
