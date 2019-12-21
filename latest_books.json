@@ -1,4 +1,16 @@
 {
+    "MnaTRMlrSy": {
+        "id": "MnaTRMlrSy",
+        "title": "Лавка бесконечности",
+        "author": "Роберт Шекли",
+        "notes": "",
+        "createdAt": "2019-12-21 15:06:58",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 364
+        }
+    },
     "54Yf3O06Uw": {
         "id": "54Yf3O06Uw",
         "title": "Россия и Дон",
@@ -345,18 +357,6 @@
             "id": "12269424984830334284-mailru",
             "nickname": "Глеб Чернявский",
             "booksCount": 1
-        }
-    },
-    "LAJsdhq9Y1": {
-        "id": "LAJsdhq9Y1",
-        "title": "Воспитание чувств",
-        "author": "Гюстав Флобер",
-        "notes": "",
-        "createdAt": "2019-12-18 06:52:17",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 750
         }
     }
 }
