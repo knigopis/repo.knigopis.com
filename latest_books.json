@@ -1,4 +1,16 @@
 {
+    "_XngDPWf6v": {
+        "id": "_XngDPWf6v",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2019-12-21 05:46:22",
+        "user": {
+            "id": "172624478-vkontakte",
+            "nickname": "умник",
+            "booksCount": 1
+        }
+    },
     "fHtCcJBFc0": {
         "id": "fHtCcJBFc0",
         "title": "Венерин башмачок",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 199
-        }
-    },
-    "rlVDAuA5oB": {
-        "id": "rlVDAuA5oB",
-        "title": "Країна розваг",
-        "author": "Стівен Кінг",
-        "notes": "10/10 Примара, що живе у кімнаті жахів.",
-        "createdAt": "2019-12-17 18:07:57",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 76
         }
     }
 }

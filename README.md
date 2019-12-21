@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[умник](users/172/172624478-vkontakte)<sup>0</sup> 
+[умник](users/172/172624478-vkontakte)<sup>1</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>16</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>153</sup> 
 [imustbedreaming](users/123/123376372-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tuberosus.hell](users/325/325338991-yandex)<sup>0</sup> 
 
 
-_21.12.2019 05:44:05_
+_21.12.2019 05:46:23_
