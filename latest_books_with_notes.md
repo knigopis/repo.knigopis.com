@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ле Гуин, Урсула К ~ [Garka](users/115/115753719718250012620-google)<sup>236</sup>
 * Россия и Дон ~ [mfevralev](users/140/140966150-vkontakte)<sup>41</sup>
 * Талорис (Синее пламя 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>153</sup>
 * Горе от ума ~ [mitsakult](users/288/288034278-vkontakte)<sup>2</sup>
@@ -30,7 +31,6 @@
 * Zealot. Иисус: биография фанатика ~ [kissamasya](users/684/68439978-vkontakte)<sup>77</sup>
 * Эмоциональный интеллект. Российская практика ~ [dmiro](users/571/5714115-vkontakte)<sup>16</sup>
 * Відродження ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>70</sup>
-* Она же Грейс ~ [Victoria](users/113/113794223924688167852-google)<sup>47</sup>
 
 
-_21.12.2019 10:06:55_
+_21.12.2019 17:25:32_
