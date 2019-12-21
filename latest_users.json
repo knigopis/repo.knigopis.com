@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 41,
+        "updatedAt": "2019-12-21 10:06:55"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 131,
         "updatedAt": "2019-12-08 14:28:34"
-    },
-    "325338991-yandex": {
-        "id": "325338991-yandex",
-        "nickname": "tuberosus.hell",
-        "booksCount": 0,
-        "updatedAt": "2019-12-08 12:50:18"
     }
 }
