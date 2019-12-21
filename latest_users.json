@@ -1,4 +1,10 @@
 {
+    "172624478-vkontakte": {
+        "id": "172624478-vkontakte",
+        "nickname": "умник",
+        "booksCount": 0,
+        "updatedAt": "2019-12-21 05:44:02"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "tuberosus.hell",
         "booksCount": 0,
         "updatedAt": "2019-12-08 12:50:18"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 36,
-        "updatedAt": "2019-12-08 12:22:02"
     }
 }
