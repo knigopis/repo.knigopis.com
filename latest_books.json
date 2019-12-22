@@ -1,4 +1,16 @@
 {
+    "ZAgUyY2AXD": {
+        "id": "ZAgUyY2AXD",
+        "title": "Когда красота убивает",
+        "author": "Елена Гордина",
+        "notes": "",
+        "createdAt": "2019-12-22 14:26:06",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 19
+        }
+    },
     "2wMmYTtQlF": {
         "id": "2wMmYTtQlF",
         "title": "Власть любви. Академия..",
@@ -345,18 +357,6 @@
             "id": "12269424984830334284-mailru",
             "nickname": "Глеб Чернявский",
             "booksCount": 5
-        }
-    },
-    "WD_du6ny-C": {
-        "id": "WD_du6ny-C",
-        "title": "Идиоит",
-        "author": "Федор Достоевский",
-        "notes": "",
-        "createdAt": "2019-12-18 09:04:47",
-        "user": {
-            "id": "12269424984830334284-mailru",
-            "nickname": "Глеб Чернявский",
-            "booksCount": 4
         }
     }
 }

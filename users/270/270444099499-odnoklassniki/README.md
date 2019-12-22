@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>18</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>19</sup>
 ---
 
 ## 2019
+
+### Когда красота убивает
+Елена Гордина
+> [2019-12-22] 
+
 
 ### Власть любви. Академия..
 Настя Любимка
