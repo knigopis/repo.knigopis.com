@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>17</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>18</sup>
 ---
 
 ## 2019
+
+### Власть любви. Академия..
+Настя Любимка
+> [2019-12-22] 
+
 
 ### Аэробус смерти
 Вера Воронцова

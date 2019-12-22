@@ -1,4 +1,16 @@
 {
+    "2wMmYTtQlF": {
+        "id": "2wMmYTtQlF",
+        "title": "Власть любви. Академия..",
+        "author": "Настя Любимка",
+        "notes": "",
+        "createdAt": "2019-12-22 03:45:59",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 18
+        }
+    },
     "5ohBcOIx0H": {
         "id": "5ohBcOIx0H",
         "title": "Ле Гуин, Урсула К",
@@ -345,18 +357,6 @@
             "id": "12269424984830334284-mailru",
             "nickname": "Глеб Чернявский",
             "booksCount": 4
-        }
-    },
-    "e-MCm5am0v": {
-        "id": "e-MCm5am0v",
-        "title": "Воскресенье",
-        "author": "Лев Толстой",
-        "notes": "",
-        "createdAt": "2019-12-18 09:04:30",
-        "user": {
-            "id": "12269424984830334284-mailru",
-            "nickname": "Глеб Чернявский",
-            "booksCount": 3
         }
     }
 }
