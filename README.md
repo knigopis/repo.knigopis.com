@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>237</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>751</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>19</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>236</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>37</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>364</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>41</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>141</sup> 
 
 
-_22.12.2019 14:35:26_
+_22.12.2019 16:14:48_
