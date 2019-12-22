@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 751,
+        "updatedAt": "2019-12-22 14:32:42"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -70,12 +76,6 @@
         "nickname": "Глеб Чернявский",
         "booksCount": 20,
         "updatedAt": "2019-12-18 09:08:57"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 750,
-        "updatedAt": "2019-12-18 06:52:17"
     },
     "115796399209122380492-google": {
         "id": "115796399209122380492-google",
