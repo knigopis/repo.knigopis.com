@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[shi_primal](users/200/200932579-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>154</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>237</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>751</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>82</sup> 
 [tatarchikbandit](users/104/104025550-vkontakte)<sup>9</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>55</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>141</sup> 
 
 
-_22.12.2019 18:02:04_
+_23.12.2019 10:24:09_
