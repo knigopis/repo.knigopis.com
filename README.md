@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ворл](users/847/8473129374433134801-mailru)<sup>1</sup> 
+[Ворл](users/847/8473129374433134801-mailru)<sup>0</sup> 
 [shi_primal](users/200/200932579-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>154</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>237</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tatarchikbandit](users/104/104025550-vkontakte)<sup>9</sup> 
 
 
-_23.12.2019 14:52:03_
+_23.12.2019 14:52:17_
