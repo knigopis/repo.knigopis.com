@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Собачье сердце ~ [Rainbow](users/109/109787328219839805802-google)<sup>49</sup>
 * Мировые войны и мировые элиты ~ [exulted](users/100/100599204551896265722-google)<sup>132</sup>
 * Аркада. Эпизод второй. suMpa ~ [Chiffi](users/105/105831994080785626680-google)<sup>154</sup>
 * Ле Гуин, Урсула К ~ [Garka](users/115/115753719718250012620-google)<sup>236</sup>
@@ -30,7 +31,6 @@
 * Аскетизм ~ [youno](users/302/302928912-vkontakte)<sup>38</sup>
 * Племя ~ [youno](users/302/302928912-vkontakte)<sup>37</sup>
 * 21321 ~ [sonics](users/588/5880221-vkontakte)<sup>63</sup>
-* Zealot. Иисус: биография фанатика ~ [kissamasya](users/684/68439978-vkontakte)<sup>77</sup>
 
 
-_23.12.2019 14:59:19_
+_23.12.2019 16:01:37_
