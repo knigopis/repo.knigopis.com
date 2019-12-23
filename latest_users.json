@@ -1,4 +1,10 @@
 {
+    "200932579-vkontakte": {
+        "id": "200932579-vkontakte",
+        "nickname": "shi_primal",
+        "booksCount": 0,
+        "updatedAt": "2019-12-23 10:24:03"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "vladkozz",
         "booksCount": 55,
         "updatedAt": "2019-12-10 09:36:18"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 141,
-        "updatedAt": "2019-12-08 19:23:16"
     }
 }
