@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>131</sup>
+# Список прочитанных книг пользователя exulted<sup>132</sup>
 ---
 
 ## 2019
+
+### Мировые войны и мировые элиты
+Перетолчин Дмитрий
+> [2019-12-22] ISBN: 978-5-8041-0700-1
+
 
 ### Statistical Arbitrage: Algorithmic Trading Insights and Techniques
 Andrew Pole

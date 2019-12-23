@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мировые войны и мировые элиты ~ [exulted](users/100/100599204551896265722-google)<sup>132</sup>
 * Аркада. Эпизод второй. suMpa ~ [Chiffi](users/105/105831994080785626680-google)<sup>154</sup>
 * Ле Гуин, Урсула К ~ [Garka](users/115/115753719718250012620-google)<sup>236</sup>
 * Россия и Дон ~ [mfevralev](users/140/140966150-vkontakte)<sup>41</sup>
@@ -30,7 +31,6 @@
 * Племя ~ [youno](users/302/302928912-vkontakte)<sup>37</sup>
 * 21321 ~ [sonics](users/588/5880221-vkontakte)<sup>63</sup>
 * Zealot. Иисус: биография фанатика ~ [kissamasya](users/684/68439978-vkontakte)<sup>77</sup>
-* Эмоциональный интеллект. Российская практика ~ [dmiro](users/571/5714115-vkontakte)<sup>16</sup>
 
 
-_22.12.2019 18:02:04_
+_23.12.2019 14:59:19_
