@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>141</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>142</sup>
 ---
 
 ## 2019
+
+### Танец с драконами
+Джордж Мартин
+> [2019-12-24] 
+
 
 ### Пир стервятников
 Джордж Мартин

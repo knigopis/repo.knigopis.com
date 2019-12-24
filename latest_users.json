@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 142,
+        "updatedAt": "2019-12-24 18:08:44"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 129,
         "updatedAt": "2019-12-11 22:49:33"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 40,
-        "updatedAt": "2019-12-11 17:28:30"
     }
 }
