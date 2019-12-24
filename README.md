@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>20</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>202</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>49</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>132</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>154</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>237</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>751</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>19</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>37</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>364</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>41</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>40</sup> 
 
 
-_24.12.2019 11:58:45_
+_24.12.2019 15:43:00_

@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>19</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>20</sup>
 ---
 
 ## 2019
+
+### Ради тебя одной
+Иосиф Гольман
+> [2019-12-24] 
+
 
 ### Когда красота убивает
 Елена Гордина
