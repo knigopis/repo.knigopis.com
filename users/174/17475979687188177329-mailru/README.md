@@ -1,7 +1,12 @@
-# List of books read by [Человеколось](https://t.me/nerkin)<sup>62</sup>
+# List of books read by [Человеколось](https://t.me/nerkin)<sup>63</sup>
 ---
 
 ## 2019
+
+### Общага-на-Крови
+Алексей Иванов
+> [2019-12-25] 
+
 
 ### Очередь
 Владимир Сорокин

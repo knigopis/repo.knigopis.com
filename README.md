@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Человеколось](users/174/17475979687188177329-mailru)<sup>63</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>63</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>142</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>20</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>221</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>35</sup> 
 [buldakov-alexey](users/480/48050444-yandex)<sup>4</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>129</sup> 
 
 
-_25.12.2019 05:41:20_
+_25.12.2019 15:00:48_

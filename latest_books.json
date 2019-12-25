@@ -1,4 +1,16 @@
 {
+    "SoZYP0A9q2": {
+        "id": "SoZYP0A9q2",
+        "title": "Общага-на-Крови",
+        "author": "Алексей Иванов",
+        "notes": "",
+        "createdAt": "2019-12-25 15:00:48",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 63
+        }
+    },
     "lCT_EXTbH4": {
         "id": "lCT_EXTbH4",
         "title": "Женщина с бумажными цветами",
@@ -345,18 +357,6 @@
             "id": "12269424984830334284-mailru",
             "nickname": "Глеб Чернявский",
             "booksCount": 16
-        }
-    },
-    "VIkK3m4xMu": {
-        "id": "VIkK3m4xMu",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2019-12-18 09:07:26",
-        "user": {
-            "id": "12269424984830334284-mailru",
-            "nickname": "Глеб Чернявский",
-            "booksCount": 15
         }
     }
 }
