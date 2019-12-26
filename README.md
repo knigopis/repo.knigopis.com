@@ -37,8 +37,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>22</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>203</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>21</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>38</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>63</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>63</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [buldakov-alexey](users/480/48050444-yandex)<sup>4</sup> 
 
 
-_26.12.2019 08:33:59_
+_26.12.2019 18:21:14_
