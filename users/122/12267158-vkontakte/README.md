@@ -1,7 +1,12 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>91</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>92</sup>
 ---
 
 ## 2019
+
+### Дракон
+Олег Бубела
+> [2019-11-13] 
+
 
 ### Герой
 Олег Бубела

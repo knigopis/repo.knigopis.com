@@ -1,4 +1,16 @@
 {
+    "D6lFPiljIY": {
+        "id": "D6lFPiljIY",
+        "title": "Дракон",
+        "author": "Олег Бубела",
+        "notes": "",
+        "createdAt": "2019-12-27 20:12:07",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 92
+        }
+    },
     "P-SiMSOwrf": {
         "id": "P-SiMSOwrf",
         "title": "Герой",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 153
-        }
-    },
-    "-RDUvEFNBd": {
-        "id": "-RDUvEFNBd",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-12-19 23:02:30",
-        "user": {
-            "id": "270793814-vkontakte",
-            "nickname": "12Dash",
-            "booksCount": 1
         }
     }
 }
