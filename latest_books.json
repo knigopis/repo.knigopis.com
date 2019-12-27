@@ -1,4 +1,16 @@
 {
+    "EEBOBQCae3": {
+        "id": "EEBOBQCae3",
+        "title": "Адепт. Том 1. Обучение",
+        "author": "Олег Бубела",
+        "notes": "",
+        "createdAt": "2019-12-27 20:13:11",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 93
+        }
+    },
     "D6lFPiljIY": {
         "id": "D6lFPiljIY",
         "title": "Дракон",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 16
-        }
-    },
-    "HwsfyUKU0Z": {
-        "id": "HwsfyUKU0Z",
-        "title": "Талорис (Синее пламя 3)",
-        "author": "Пехов Алексей",
-        "notes": "буду ждать четвертую книгу цикла. автор обещал))",
-        "createdAt": "2019-12-20 05:38:33",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 153
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>92</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>93</sup>
 ---
 
 ## 2019
+
+### Адепт. Том 1. Обучение
+Олег Бубела
+> [2019-11-14] 
+
 
 ### Дракон
 Олег Бубела
