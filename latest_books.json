@@ -1,4 +1,16 @@
 {
+    "-i-vHDOHdl": {
+        "id": "-i-vHDOHdl",
+        "title": "Убийца",
+        "author": "Олег Бубела",
+        "notes": "",
+        "createdAt": "2019-12-27 20:10:43",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 90
+        }
+    },
     "UXCXUcAHoD": {
         "id": "UXCXUcAHoD",
         "title": "Воин",
@@ -345,18 +357,6 @@
             "id": "334696193054530347-mailru",
             "nickname": "Даша",
             "booksCount": 50
-        }
-    },
-    "gu3fac_JK8": {
-        "id": "gu3fac_JK8",
-        "title": "Бруклин",
-        "author": "Колм Тойбин",
-        "notes": "",
-        "createdAt": "2019-12-18 19:30:34",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 52
         }
     }
 }
