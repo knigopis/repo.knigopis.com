@@ -1,4 +1,16 @@
 {
+    "UXCXUcAHoD": {
+        "id": "UXCXUcAHoD",
+        "title": "Воин",
+        "author": "Олег Бубела",
+        "notes": "",
+        "createdAt": "2019-12-27 20:10:20",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 89
+        }
+    },
     "Uxi_tYLQZh": {
         "id": "Uxi_tYLQZh",
         "title": "Письма Андрею Арьеву",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 52
-        }
-    },
-    "n8ZFYZYQp5": {
-        "id": "n8ZFYZYQp5",
-        "title": "Путешествие в страну мужчин",
-        "author": "Юлия Климова",
-        "notes": "",
-        "createdAt": "2019-12-18 18:03:49",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 20
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "12267158-vkontakte": {
+        "id": "12267158-vkontakte",
+        "nickname": "Quaff",
+        "booksCount": 89,
+        "updatedAt": "2019-12-27 20:10:20"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 35,
         "updatedAt": "2019-12-14 18:16:17"
-    },
-    "48050444-yandex": {
-        "id": "48050444-yandex",
-        "nickname": "buldakov-alexey",
-        "booksCount": 4,
-        "updatedAt": "2019-12-12 06:33:07"
     }
 }
