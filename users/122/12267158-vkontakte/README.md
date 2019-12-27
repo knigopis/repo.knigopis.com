@@ -1,7 +1,12 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>90</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>91</sup>
 ---
 
 ## 2019
+
+### Герой
+Олег Бубела
+> [2019-11-12] 
+
 
 ### Убийца
 Олег Бубела

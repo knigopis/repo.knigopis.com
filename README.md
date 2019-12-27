@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Quaff](users/122/12267158-vkontakte)<sup>90</sup> 
+[Quaff](users/122/12267158-vkontakte)<sup>91</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>204</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>38</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>35</sup> 
 
 
-_27.12.2019 20:10:43_
+_27.12.2019 20:10:56_

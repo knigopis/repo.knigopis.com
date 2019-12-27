@@ -1,4 +1,16 @@
 {
+    "P-SiMSOwrf": {
+        "id": "P-SiMSOwrf",
+        "title": "Герой",
+        "author": "Олег Бубела",
+        "notes": "",
+        "createdAt": "2019-12-27 20:10:56",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 91
+        }
+    },
     "-i-vHDOHdl": {
         "id": "-i-vHDOHdl",
         "title": "Убийца",
@@ -345,18 +357,6 @@
             "id": "270793814-vkontakte",
             "nickname": "12Dash",
             "booksCount": 1
-        }
-    },
-    "fwR4dOgdfM": {
-        "id": "fwR4dOgdfM",
-        "title": "Мосты округа Мэдисон",
-        "author": "Роберт Джеймс Уоллер",
-        "notes": "",
-        "createdAt": "2019-12-19 04:22:08",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 50
         }
     }
 }
