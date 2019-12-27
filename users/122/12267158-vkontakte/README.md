@@ -1,7 +1,12 @@
-# List of books read by [Quaff](http://vk.com/id12267158)<sup>93</sup>
+# List of books read by [Quaff](http://vk.com/id12267158)<sup>94</sup>
 ---
 
 ## 2019
+
+### Адепт. Том 2. Каникулы
+Олег Бубела
+> [2019-11-15] 
+
 
 ### Адепт. Том 1. Обучение
 Олег Бубела

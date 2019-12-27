@@ -1,4 +1,16 @@
 {
+    "sXVgtyUv8T": {
+        "id": "sXVgtyUv8T",
+        "title": "Адепт. Том 2. Каникулы",
+        "author": "Олег Бубела",
+        "notes": "",
+        "createdAt": "2019-12-27 20:13:28",
+        "user": {
+            "id": "12267158-vkontakte",
+            "nickname": "Quaff",
+            "booksCount": 94
+        }
+    },
     "EEBOBQCae3": {
         "id": "EEBOBQCae3",
         "title": "Адепт. Том 1. Обучение",
@@ -345,18 +357,6 @@
             "id": "172624478-vkontakte",
             "nickname": "умник",
             "booksCount": 1
-        }
-    },
-    "fHtCcJBFc0": {
-        "id": "fHtCcJBFc0",
-        "title": "Венерин башмачок",
-        "author": "Алина Знаменская",
-        "notes": "",
-        "createdAt": "2019-12-20 11:26:06",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 16
         }
     }
 }
