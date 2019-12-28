@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>22</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>23</sup>
 ---
 
 ## 2019
+
+### Bye-bye,baby
+Виктория Платова
+> [2019-12-28] 
+
 
 ### Веста
 Вероника Мелан
