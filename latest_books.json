@@ -1,4 +1,16 @@
 {
+    "Ec6Gdg89gA": {
+        "id": "Ec6Gdg89gA",
+        "title": "Таинственный рыцарь",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2019-12-28 13:16:40",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 145
+        }
+    },
     "iIJkp1i078": {
         "id": "iIJkp1i078",
         "title": "Стамбул(Па-беларуску)",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 18
-        }
-    },
-    "5ohBcOIx0H": {
-        "id": "5ohBcOIx0H",
-        "title": "Ле Гуин, Урсула К",
-        "author": "Волшебник Земноморья",
-        "notes": "Не типичная книга жанра Фентези, очень быстро развиваются события. Описания детства и юности Геда, его борьба с Тенью",
-        "createdAt": "2019-12-21 17:25:32",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 236
         }
     }
 }
