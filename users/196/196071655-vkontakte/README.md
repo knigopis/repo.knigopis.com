@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>143</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>144</sup>
 ---
 
 ## 2019
+
+### Присяжный рыцарь
+Джордж Мартин
+> [2019-12-28] 
+
 
 ### Межевой рыцарь
 Джордж Мартин

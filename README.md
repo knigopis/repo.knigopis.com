@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[afferens.lucem](users/196/196071655-vkontakte)<sup>143</sup> 
+[afferens.lucem](users/196/196071655-vkontakte)<sup>144</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>57</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>94</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>204</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>221</sup> 
 
 
-_28.12.2019 07:32:32_
+_28.12.2019 07:33:00_
