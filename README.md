@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vladkozz](users/572/57239276-vkontakte)<sup>56</sup> 
+[vladkozz](users/572/57239276-vkontakte)<sup>57</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>94</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>204</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>221</sup> 
 
 
-_28.12.2019 05:40:25_
+_28.12.2019 05:41:14_
