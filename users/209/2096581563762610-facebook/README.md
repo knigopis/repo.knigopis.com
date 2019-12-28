@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>52</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>53</sup>
 ---
 
 ## 2019
+
+### Другая правда. Том 1
+Александра Маринина
+> [2019-12-28] 
+
 
 ### Бруклин
 Колм Тойбин

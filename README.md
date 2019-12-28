@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>53</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>145</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>365</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>39</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [imustbedreaming](users/123/123376372-vkontakte)<sup>0</sup> 
 [12Dash](users/270/270793814-vkontakte)<sup>1</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>50</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>52</sup> 
 [Глеб Чернявский](users/122/12269424984830334284-mailru)<sup>20</sup> 
 [Pavel](users/115/115796399209122380492-google)<sup>0</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>2</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>221</sup> 
 
 
-_28.12.2019 13:16:40_
+_28.12.2019 13:42:41_

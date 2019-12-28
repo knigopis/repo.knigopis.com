@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 53,
+        "updatedAt": "2019-12-28 13:42:41"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -124,12 +130,6 @@
         "nickname": "Даша",
         "booksCount": 50,
         "updatedAt": "2019-12-19 04:22:08"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 52,
-        "updatedAt": "2019-12-18 19:30:34"
     },
     "12269424984830334284-mailru": {
         "id": "12269424984830334284-mailru",

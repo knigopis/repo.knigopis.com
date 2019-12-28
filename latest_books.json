@@ -1,4 +1,16 @@
 {
+    "HtpZEtYocT": {
+        "id": "HtpZEtYocT",
+        "title": "Другая правда. Том 1",
+        "author": "Александра Маринина",
+        "notes": "",
+        "createdAt": "2019-12-28 13:42:41",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 53
+        }
+    },
     "Ec6Gdg89gA": {
         "id": "Ec6Gdg89gA",
         "title": "Таинственный рыцарь",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 19
-        }
-    },
-    "2wMmYTtQlF": {
-        "id": "2wMmYTtQlF",
-        "title": "Власть любви. Академия..",
-        "author": "Настя Любимка",
-        "notes": "",
-        "createdAt": "2019-12-22 03:45:59",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 18
         }
     }
 }
