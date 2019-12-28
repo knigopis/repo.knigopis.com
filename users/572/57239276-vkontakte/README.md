@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>55</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>56</sup>
 ---
 
 ## 2019
+
+### Властелин колец: две башни
+Джон Р.Р.Толкин
+
 
 ### Мрачная история
 Евгений Чеширко

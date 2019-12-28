@@ -1,4 +1,16 @@
 {
+    "cuA1bsBi8X": {
+        "id": "cuA1bsBi8X",
+        "title": "Властелин колец: две башни",
+        "author": "Джон Р.Р.Толкин",
+        "notes": "",
+        "createdAt": "2019-12-28 05:40:25",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 56
+        }
+    },
     "sXVgtyUv8T": {
         "id": "sXVgtyUv8T",
         "title": "Адепт. Том 2. Каникулы",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 17
-        }
-    },
-    "_XngDPWf6v": {
-        "id": "_XngDPWf6v",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2019-12-21 05:46:22",
-        "user": {
-            "id": "172624478-vkontakte",
-            "nickname": "умник",
-            "booksCount": 1
         }
     }
 }
