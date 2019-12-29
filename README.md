@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115826717712507836033-google)<sup>137</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>155</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>23</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>53</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>76</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>145</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>221</sup> 
 
 
-_29.12.2019 06:29:19_
+_29.12.2019 19:13:57_
