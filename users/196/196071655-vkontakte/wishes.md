@@ -1,7 +1,7 @@
 # Wish list of books by [afferens.lucem](http://vk.com/id196071655)
 ---
 
-### `30` Благие Знамения
+### `38` Благие Знамения
 Терри Пратчет
 
 ### `28` Asp.Net Core MVC 2
