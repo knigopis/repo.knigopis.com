@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ничья земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>155</sup>
+    > проблема заключалась в том,  чтобы оценить себя  правильно.  Пешка,  возомнившая себя ферзем, обречена на смерть. Как и ферзь, не верящий в свои силы. Самовлюбленный глупец ничем не лучше чрезмерно рефлексирующего умника.
+
 * Женщина с бумажными цветами ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
     > Самое нетипичное произведение Карризи. Скорее всего, это притча или баллада. Мне понравилось, но в целом от него ожидаешь другого жанра и легкое разочарование испытываешь, хотя и знаешь заранее, что это никакой не детектив.
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > «Сообразите, что весь ужас в том, что у него уж не собачье, а именно человеческое сердце.»
 
 * Мировые войны и мировые элиты ~ [exulted](users/100/100599204551896265722-google)<sup>132</sup>
-    > ISBN: 978-5-8041-0700-1
 
 * Аркада. Эпизод второй. suMpa ~ [Chiffi](users/105/105831994080785626680-google)<sup>154</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Країна розваг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>76</sup>
 
-* Слово о полку Игореве ~ [mitsakult](users/288/288034278-vkontakte)<sup>1</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>155</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>23</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>53</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>145</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>132</sup> 
 [Ворл](users/847/8473129374433134801-mailru)<sup>0</sup> 
 [shi_primal](users/200/200932579-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>154</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>237</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>751</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>41</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>221</sup> 
 
 
-_28.12.2019 14:52:31_
+_29.12.2019 06:29:19_
