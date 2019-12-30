@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[meriodasu](users/106/106791485142732018245-google)<sup>1</sup> 
+[meriodasu](users/106/106791485142732018245-google)<sup>2</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>17</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>366</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>51</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lostinfrost](users/217/217891524-vkontakte)<sup>145</sup> 
 
 
-_30.12.2019 15:01:46_
+_30.12.2019 15:02:25_

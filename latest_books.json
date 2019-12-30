@@ -1,4 +1,16 @@
 {
+    "_by-vdPnUS": {
+        "id": "_by-vdPnUS",
+        "title": "Преступление и наказание",
+        "author": "Достоевский",
+        "notes": "",
+        "createdAt": "2019-12-30 15:02:25",
+        "user": {
+            "id": "106791485142732018245-google",
+            "nickname": "meriodasu",
+            "booksCount": 2
+        }
+    },
     "W_DO4PNqmG": {
         "id": "W_DO4PNqmG",
         "title": "Мой лучший враг",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 142
-        }
-    },
-    "1SD6yF1OVk": {
-        "id": "1SD6yF1OVk",
-        "title": "Ради тебя одной",
-        "author": "Иосиф Гольман",
-        "notes": "",
-        "createdAt": "2019-12-24 15:43:00",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 20
         }
     }
 }
