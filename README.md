@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[meriodasu](users/106/106791485142732018245-google)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>17</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>366</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>51</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>199</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>76</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>145</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
 
 
-_30.12.2019 13:55:50_
+_30.12.2019 15:00:38_
