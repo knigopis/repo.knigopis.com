@@ -1,4 +1,10 @@
 {
+    "106791485142732018245-google": {
+        "id": "106791485142732018245-google",
+        "nickname": "meriodasu",
+        "booksCount": 0,
+        "updatedAt": "2019-12-30 15:00:36"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "lostinfrost",
         "booksCount": 145,
         "updatedAt": "2019-12-17 13:34:11"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 88,
-        "updatedAt": "2019-12-17 13:28:32"
     }
 }
