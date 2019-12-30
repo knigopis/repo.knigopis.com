@@ -1,7 +1,12 @@
-# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>50</sup>
+# List of books read by [Даша](https://my.mail.ru/bk/forget.me.now/)<sup>51</sup>
 ---
 
 ## 2019
+
+### Самостоятельный ребёнок, или как стать «ленивой мамой»
+Анна Быкова
+> [2019-12] 
+
 
 ### Мосты округа Мэдисон
 Роберт Джеймс Уоллер
