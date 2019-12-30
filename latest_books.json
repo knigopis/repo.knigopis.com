@@ -1,4 +1,16 @@
 {
+    "W_DO4PNqmG": {
+        "id": "W_DO4PNqmG",
+        "title": "Мой лучший враг",
+        "author": "Эли Фрей",
+        "notes": "",
+        "createdAt": "2019-12-30 15:01:46",
+        "user": {
+            "id": "106791485142732018245-google",
+            "nickname": "meriodasu",
+            "booksCount": 1
+        }
+    },
     "BJNV5Df3ps": {
         "id": "BJNV5Df3ps",
         "title": "Аромат ландышей",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 20
-        }
-    },
-    "ozveJCzBgx": {
-        "id": "ozveJCzBgx",
-        "title": "Книжный вор",
-        "author": "Маркус Зусак",
-        "notes": "",
-        "createdAt": "2019-12-24 11:58:45",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 202
         }
     }
 }
