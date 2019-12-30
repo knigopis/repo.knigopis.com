@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 366,
+        "updatedAt": "2019-12-30 07:53:05"
+    },
     "334696193054530347-mailru": {
         "id": "334696193054530347-mailru",
         "nickname": "Даша",
@@ -34,12 +40,6 @@
         "nickname": "afferens.lucem",
         "booksCount": 145,
         "updatedAt": "2019-12-28 13:16:40"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 365,
-        "updatedAt": "2019-12-28 10:38:12"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",

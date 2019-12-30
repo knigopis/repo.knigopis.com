@@ -37,13 +37,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>366</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>51</sup> 
 [](users/115/115826717712507836033-google)<sup>138</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>155</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>23</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>53</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>145</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>365</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>39</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>57</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>94</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>88</sup> 
 
 
-_30.12.2019 05:13:58_
+_30.12.2019 07:53:06_

@@ -1,4 +1,16 @@
 {
+    "EaMnk0GnxE": {
+        "id": "EaMnk0GnxE",
+        "title": "Тайное место",
+        "author": "Тайна Френч",
+        "notes": "",
+        "createdAt": "2019-12-30 07:53:05",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 366
+        }
+    },
     "bSvzGJHrnd": {
         "id": "bSvzGJHrnd",
         "title": "Самостоятельный ребёнок, или как стать «ленивой мамой»",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 49
-        }
-    },
-    "42i01W8Kta": {
-        "id": "42i01W8Kta",
-        "title": "Мировые войны и мировые элиты",
-        "author": "Перетолчин Дмитрий",
-        "notes": "ISBN: 978-5-8041-0700-1",
-        "createdAt": "2019-12-23 14:59:18",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 132
         }
     }
 }
