@@ -1,4 +1,16 @@
 {
+    "nJ9I557R3n": {
+        "id": "nJ9I557R3n",
+        "title": "Записки книготорговца",
+        "author": "Шон Байтелл",
+        "notes": "",
+        "createdAt": "2019-12-31 16:19:51",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 158
+        }
+    },
     "nMp93xITOX": {
         "id": "nMp93xITOX",
         "title": "Хорошие девочки отправляются на небеса,а плохие куда хотят",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 203
-        }
-    },
-    "fxtVRJA5Lm": {
-        "id": "fxtVRJA5Lm",
-        "title": "Давай надеется на лучшее",
-        "author": "Каролина Сеттерваль",
-        "notes": "",
-        "createdAt": "2019-12-26 03:21:58",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 21
         }
     }
 }

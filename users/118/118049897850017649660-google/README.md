@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>157</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>158</sup>
 ---
 
 ## 2019
+
+### Записки книготорговца
+Шон Байтелл
+> [2019-12-31] 
+
 
 ### Янтарный телескоп
 Филип Пулман
