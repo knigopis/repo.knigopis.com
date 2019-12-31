@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>158</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>159</sup>
 ---
 
 ## 2019
+
+### Опечатки
+Терри Пратчетт
+> [2019-12-31] 
+
 
 ### Записки книготорговца
 Шон Байтелл
