@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 73,
+        "updatedAt": "2019-12-31 12:46:15"
+    },
     "106791485142732018245-google": {
         "id": "106791485142732018245-google",
         "nickname": "meriodasu",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 76,
         "updatedAt": "2019-12-17 18:07:57"
-    },
-    "217891524-vkontakte": {
-        "id": "217891524-vkontakte",
-        "nickname": "lostinfrost",
-        "booksCount": 145,
-        "updatedAt": "2019-12-17 13:34:11"
     }
 }

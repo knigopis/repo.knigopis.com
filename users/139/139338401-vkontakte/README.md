@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>72</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>73</sup>
 ---
 
 ## 2019
+
+### Убить Еву
+Люк Дженингс
+> [2019-11-02] 
+
 
 ### Фиалки в марте
 Сара Джио
