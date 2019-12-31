@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>73</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>74</sup>
 ---
 
 ## 2019
+
+### Бесцветный Цкуру Тадзаки
+Харуки Муруками
+> [2019-11-15] 
+
 
 ### Убить Еву
 Люк Дженингс
