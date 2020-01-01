@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 89,
+        "updatedAt": "2020-01-01 16:09:35"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "mitsakult",
         "booksCount": 2,
         "updatedAt": "2019-12-18 05:33:32"
-    },
-    "111878597279669641685-google": {
-        "id": "111878597279669641685-google",
-        "nickname": "Knigolub~",
-        "booksCount": 199,
-        "updatedAt": "2019-12-17 20:29:21"
     }
 }

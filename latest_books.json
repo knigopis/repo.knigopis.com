@@ -1,4 +1,16 @@
 {
+    "ZNA6NI8J3l": {
+        "id": "ZNA6NI8J3l",
+        "title": "Король зимы",
+        "author": "Бернард Корнуэлл",
+        "notes": "",
+        "createdAt": "2020-01-01 16:09:35",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 89
+        }
+    },
     "2xc5MDEyYa": {
         "id": "2xc5MDEyYa",
         "title": "Опечатки",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 204
-        }
-    },
-    "Fd77v_EXYW": {
-        "id": "Fd77v_EXYW",
-        "title": "Веста",
-        "author": "Вероника Мелан",
-        "notes": "",
-        "createdAt": "2019-12-26 18:21:14",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 22
         }
     }
 }
