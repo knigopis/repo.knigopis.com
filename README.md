@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>200</sup> 
 [brejjj brejj](users/109/10993209205796153651-mailru)<sup>0</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>15</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>89</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [умник](users/172/172624478-vkontakte)<sup>1</sup> 
 [imustbedreaming](users/123/123376372-vkontakte)<sup>0</sup> 
 [12Dash](users/270/270793814-vkontakte)<sup>1</sup> 
-[Глеб Чернявский](users/122/12269424984830334284-mailru)<sup>20</sup> 
 
 
-_01.01.2020 19:06:46_
+_01.01.2020 20:04:52_
