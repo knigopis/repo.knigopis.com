@@ -1,4 +1,16 @@
 {
+    "HmGPf6JYZ4": {
+        "id": "HmGPf6JYZ4",
+        "title": "Записки юного врача",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2020-01-01 18:30:16",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 8
+        }
+    },
     "OT5oK1RD_n": {
         "id": "OT5oK1RD_n",
         "title": "Божественная комедия",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 143
-        }
-    },
-    "dElvPSmTyU": {
-        "id": "dElvPSmTyU",
-        "title": "Властелин колец: две башни",
-        "author": "Джон Р.Р.Толкин",
-        "notes": "",
-        "createdAt": "2019-12-28 05:41:14",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 57
         }
     }
 }
