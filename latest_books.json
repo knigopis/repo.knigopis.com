@@ -1,4 +1,16 @@
 {
+    "FWaaCEod-U": {
+        "id": "FWaaCEod-U",
+        "title": "Дневной дозор",
+        "author": "Лукьяненко",
+        "notes": "",
+        "createdAt": "2020-01-01 18:26:52",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 2
+        }
+    },
     "Bu2dge9goo": {
         "id": "Bu2dge9goo",
         "title": "Ночной дозор",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 90
-        }
-    },
-    "UXCXUcAHoD": {
-        "id": "UXCXUcAHoD",
-        "title": "Воин",
-        "author": "Олег Бубела",
-        "notes": "",
-        "createdAt": "2019-12-27 20:10:20",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 89
         }
     }
 }
