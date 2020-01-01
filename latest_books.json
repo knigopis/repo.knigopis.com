@@ -1,4 +1,16 @@
 {
+    "ZSoIsIdzKa": {
+        "id": "ZSoIsIdzKa",
+        "title": "Сильмариллион",
+        "author": "Джон Рональд Руэл Толкиен",
+        "notes": "",
+        "createdAt": "2020-01-01 18:29:06",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 6
+        }
+    },
     "F_MuqlcT6F": {
         "id": "F_MuqlcT6F",
         "title": "Властелин Колец",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 94
-        }
-    },
-    "EEBOBQCae3": {
-        "id": "EEBOBQCae3",
-        "title": "Адепт. Том 1. Обучение",
-        "author": "Олег Бубела",
-        "notes": "",
-        "createdAt": "2019-12-27 20:13:11",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 93
         }
     }
 }

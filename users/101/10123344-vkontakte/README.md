@@ -1,7 +1,11 @@
-# List of books read by [l.shilova](http://vk.com/id10123344)<sup>5</sup>
+# List of books read by [l.shilova](http://vk.com/id10123344)<sup>6</sup>
 ---
 
 ## 2019
+
+### Сильмариллион
+Джон Рональд Руэл Толкиен
+
 
 ### Властелин Колец
 Джон Рональд Руэл Толкиен
