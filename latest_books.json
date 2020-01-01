@@ -1,4 +1,16 @@
 {
+    "Bu2dge9goo": {
+        "id": "Bu2dge9goo",
+        "title": "Ночной дозор",
+        "author": "Лукьяненко",
+        "notes": "",
+        "createdAt": "2020-01-01 18:26:32",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 1
+        }
+    },
     "ZNA6NI8J3l": {
         "id": "ZNA6NI8J3l",
         "title": "Король зимы",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 89
-        }
-    },
-    "Uxi_tYLQZh": {
-        "id": "Uxi_tYLQZh",
-        "title": "Письма Андрею Арьеву",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2019-12-27 09:28:23",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 204
         }
     }
 }
