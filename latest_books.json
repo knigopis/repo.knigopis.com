@@ -1,4 +1,16 @@
 {
+    "DWliYX1Avv": {
+        "id": "DWliYX1Avv",
+        "title": "Хоббит или Туда и обратно",
+        "author": "Джон Рональд Руэл Токлиен",
+        "notes": "",
+        "createdAt": "2020-01-01 18:28:22",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 4
+        }
+    },
     "3Eo58KkcwJ": {
         "id": "3Eo58KkcwJ",
         "title": "Сумеречный дозор",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 92
-        }
-    },
-    "P-SiMSOwrf": {
-        "id": "P-SiMSOwrf",
-        "title": "Герой",
-        "author": "Олег Бубела",
-        "notes": "",
-        "createdAt": "2019-12-27 20:10:56",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 91
         }
     }
 }
