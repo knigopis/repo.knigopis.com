@@ -1,4 +1,16 @@
 {
+    "x-0iHEY5lV": {
+        "id": "x-0iHEY5lV",
+        "title": "Морфий",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2020-01-01 18:30:30",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 9
+        }
+    },
     "HmGPf6JYZ4": {
         "id": "HmGPf6JYZ4",
         "title": "Записки юного врача",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 144
-        }
-    },
-    "bvbbrXMyAI": {
-        "id": "bvbbrXMyAI",
-        "title": "Межевой рыцарь",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2019-12-28 07:32:32",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 143
         }
     }
 }
