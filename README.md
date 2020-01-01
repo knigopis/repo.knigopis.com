@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[l.shilova](users/101/10123344-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>89</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>159</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>76</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [12Dash](users/270/270793814-vkontakte)<sup>1</sup> 
 [Глеб Чернявский](users/122/12269424984830334284-mailru)<sup>20</sup> 
 [Pavel](users/115/115796399209122380492-google)<sup>0</sup> 
-[mitsakult](users/288/288034278-vkontakte)<sup>2</sup> 
 
 
-_01.01.2020 16:09:35_
+_01.01.2020 18:26:06_
