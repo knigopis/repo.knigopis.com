@@ -1,4 +1,16 @@
 {
+    "YTJSKCtOcn": {
+        "id": "YTJSKCtOcn",
+        "title": "Багровые реки",
+        "author": "Жан-Кристоф Гранже",
+        "notes": "",
+        "createdAt": "2020-01-01 18:31:45",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 12
+        }
+    },
     "ijJ38XWoQ_": {
         "id": "ijJ38XWoQ_",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 145
-        }
-    },
-    "iIJkp1i078": {
-        "id": "iIJkp1i078",
-        "title": "Стамбул(Па-беларуску)",
-        "author": "Арахан Памук",
-        "notes": "",
-        "createdAt": "2019-12-28 10:38:12",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 365
         }
     }
 }
