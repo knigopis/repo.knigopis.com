@@ -1,4 +1,16 @@
 {
+    "3Eo58KkcwJ": {
+        "id": "3Eo58KkcwJ",
+        "title": "Сумеречный дозор",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2020-01-01 18:27:47",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 3
+        }
+    },
     "FWaaCEod-U": {
         "id": "FWaaCEod-U",
         "title": "Дневной дозор",
@@ -345,18 +357,6 @@
             "id": "12267158-vkontakte",
             "nickname": "Quaff",
             "booksCount": 91
-        }
-    },
-    "-i-vHDOHdl": {
-        "id": "-i-vHDOHdl",
-        "title": "Убийца",
-        "author": "Олег Бубела",
-        "notes": "",
-        "createdAt": "2019-12-27 20:10:43",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 90
         }
     }
 }
