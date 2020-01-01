@@ -1,4 +1,16 @@
 {
+    "7vcXCEobFB": {
+        "id": "7vcXCEobFB",
+        "title": "Молчание ягнят",
+        "author": "Томас Харрис",
+        "notes": "",
+        "createdAt": "2020-01-01 18:32:31",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 14
+        }
+    },
     "dGxBZ13CpL": {
         "id": "dGxBZ13CpL",
         "title": "Война миров",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 23
-        }
-    },
-    "HtpZEtYocT": {
-        "id": "HtpZEtYocT",
-        "title": "Другая правда. Том 1",
-        "author": "Александра Маринина",
-        "notes": "",
-        "createdAt": "2019-12-28 13:42:41",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 53
         }
     }
 }
