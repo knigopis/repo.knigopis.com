@@ -1,4 +1,16 @@
 {
+    "dGxBZ13CpL": {
+        "id": "dGxBZ13CpL",
+        "title": "Война миров",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2020-01-01 18:32:11",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 13
+        }
+    },
     "YTJSKCtOcn": {
         "id": "YTJSKCtOcn",
         "title": "Багровые реки",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 53
-        }
-    },
-    "Ec6Gdg89gA": {
-        "id": "Ec6Gdg89gA",
-        "title": "Таинственный рыцарь",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2019-12-28 13:16:40",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 145
         }
     }
 }
