@@ -1,4 +1,16 @@
 {
+    "OT5oK1RD_n": {
+        "id": "OT5oK1RD_n",
+        "title": "Божественная комедия",
+        "author": "Данте Алигьери",
+        "notes": "",
+        "createdAt": "2020-01-01 18:29:30",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 7
+        }
+    },
     "ZSoIsIdzKa": {
         "id": "ZSoIsIdzKa",
         "title": "Сильмариллион",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 57
-        }
-    },
-    "sXVgtyUv8T": {
-        "id": "sXVgtyUv8T",
-        "title": "Адепт. Том 2. Каникулы",
-        "author": "Олег Бубела",
-        "notes": "",
-        "createdAt": "2019-12-27 20:13:28",
-        "user": {
-            "id": "12267158-vkontakte",
-            "nickname": "Quaff",
-            "booksCount": 94
         }
     }
 }

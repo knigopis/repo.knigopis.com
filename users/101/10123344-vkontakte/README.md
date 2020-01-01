@@ -1,7 +1,11 @@
-# List of books read by [l.shilova](http://vk.com/id10123344)<sup>6</sup>
+# List of books read by [l.shilova](http://vk.com/id10123344)<sup>7</sup>
 ---
 
 ## 2019
+
+### Божественная комедия
+Данте Алигьери
+
 
 ### Сильмариллион
 Джон Рональд Руэл Толкиен
