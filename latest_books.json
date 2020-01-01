@@ -1,4 +1,16 @@
 {
+    "U8-yo-0txT": {
+        "id": "U8-yo-0txT",
+        "title": "Записки на манжетах",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2020-01-01 18:30:45",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 10
+        }
+    },
     "x-0iHEY5lV": {
         "id": "x-0iHEY5lV",
         "title": "Морфий",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 39
-        }
-    },
-    "iVIJ4VZJgh": {
-        "id": "iVIJ4VZJgh",
-        "title": "Присяжный рыцарь",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2019-12-28 07:32:59",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 144
         }
     }
 }
