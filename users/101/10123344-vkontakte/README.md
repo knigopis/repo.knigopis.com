@@ -1,7 +1,11 @@
-# List of books read by [l.shilova](http://vk.com/id10123344)<sup>10</sup>
+# List of books read by [l.shilova](http://vk.com/id10123344)<sup>11</sup>
 ---
 
 ## 2019
+
+### Портрет Дориана Грея
+Оскар Уальд
+
 
 ### Записки на манжетах
 Михаил Булгаков

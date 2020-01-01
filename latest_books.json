@@ -1,4 +1,16 @@
 {
+    "ijJ38XWoQ_": {
+        "id": "ijJ38XWoQ_",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уальд",
+        "notes": "",
+        "createdAt": "2020-01-01 18:31:23",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 11
+        }
+    },
     "U8-yo-0txT": {
         "id": "U8-yo-0txT",
         "title": "Записки на манжетах",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 365
-        }
-    },
-    "5DhvZmaDIt": {
-        "id": "5DhvZmaDIt",
-        "title": "Космос",
-        "author": "Карл Саган",
-        "notes": "",
-        "createdAt": "2019-12-28 10:17:17",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 39
         }
     }
 }
