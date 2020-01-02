@@ -1,4 +1,16 @@
 {
+    "86ijgde0Y_": {
+        "id": "86ijgde0Y_",
+        "title": "Угрюм-река  (Том 1)",
+        "author": "Шишков Вячеслав Яковлевич",
+        "notes": "",
+        "createdAt": "2020-01-02 21:54:31",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 133
+        }
+    },
     "nJt6kJTQxZ": {
         "id": "nJt6kJTQxZ",
         "title": "Цифровая трансформация бизнеса",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 159
-        }
-    },
-    "nJ9I557R3n": {
-        "id": "nJ9I557R3n",
-        "title": "Записки книготорговца",
-        "author": "Шон Байтелл",
-        "notes": "",
-        "createdAt": "2019-12-31 16:19:51",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 158
         }
     }
 }

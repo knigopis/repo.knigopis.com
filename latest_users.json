@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 133,
+        "updatedAt": "2020-01-02 21:54:31"
+    },
     "20368293-vkontakte": {
         "id": "20368293-vkontakte",
         "nickname": null,
@@ -160,12 +166,6 @@
         "nickname": "Rainbow",
         "booksCount": 49,
         "updatedAt": "2019-12-23 16:01:37"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 132,
-        "updatedAt": "2019-12-23 14:59:18"
     },
     "8473129374433134801-mailru": {
         "id": "8473129374433134801-mailru",
