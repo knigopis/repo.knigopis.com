@@ -1,4 +1,16 @@
 {
+    "hx1CPMKuJY": {
+        "id": "hx1CPMKuJY",
+        "title": "Наша школа",
+        "author": "Чарльз Диккенс",
+        "notes": "",
+        "createdAt": "2020-01-02 09:51:32",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 199
+        }
+    },
     "7tS6szq-tX": {
         "id": "7tS6szq-tX",
         "title": "Мертвый сезон",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 75
-        }
-    },
-    "C_2GdIwum0": {
-        "id": "C_2GdIwum0",
-        "title": "Бесцветный Цкуру Тадзаки",
-        "author": "Харуки Муруками",
-        "notes": "",
-        "createdAt": "2019-12-31 12:46:54",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 74
         }
     }
 }
