@@ -1,4 +1,16 @@
 {
+    "N3WVBjRdbO": {
+        "id": "N3WVBjRdbO",
+        "title": "Дизайн для недизайнеров",
+        "author": "Уильямс Робин",
+        "notes": "",
+        "createdAt": "2020-01-02 09:04:23",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 184
+        }
+    },
     "W5LN5zNUy1": {
         "id": "W5LN5zNUy1",
         "title": "Грозовой перевал",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 17
-        }
-    },
-    "EaMnk0GnxE": {
-        "id": "EaMnk0GnxE",
-        "title": "Тайное место",
-        "author": "Тайна Френч",
-        "notes": "",
-        "createdAt": "2019-12-30 07:53:05",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 366
         }
     }
 }
