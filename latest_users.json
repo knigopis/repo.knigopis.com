@@ -1,4 +1,10 @@
 {
+    "47427105-vkontakte": {
+        "id": "47427105-vkontakte",
+        "nickname": "ffocus2",
+        "booksCount": 0,
+        "updatedAt": "2020-01-02 01:42:29"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "imustbedreaming",
         "booksCount": 0,
         "updatedAt": "2019-12-20 03:29:32"
-    },
-    "270793814-vkontakte": {
-        "id": "270793814-vkontakte",
-        "nickname": "12Dash",
-        "booksCount": 1,
-        "updatedAt": "2019-12-19 23:02:30"
     }
 }
