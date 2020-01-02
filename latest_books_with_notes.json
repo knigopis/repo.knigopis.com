@@ -1,4 +1,16 @@
 {
+    "BXZowSva14": {
+        "id": "BXZowSva14",
+        "title": "Огонь",
+        "author": "Анри Барбюс",
+        "notes": "Страшно, мерзко, грустно. Но слог приятный.",
+        "createdAt": "2020-01-02 09:50:55",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 197
+        }
+    },
     "PW6c95-kgD": {
         "id": "PW6c95-kgD",
         "title": "Зеркало времени",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 72
-        }
-    },
-    "X1y8g0Xfrp": {
-        "id": "X1y8g0Xfrp",
-        "title": "Зачарованные смертью",
-        "author": "Светлана Алексиевич",
-        "notes": "10/10 Откровения самоубийц.",
-        "createdAt": "2019-11-30 04:59:27",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 71
         }
     }
 }

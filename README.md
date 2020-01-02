@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>197</sup>
+    > Страшно, мерзко, грустно. Но слог приятный.
+
 * Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>196</sup>
     > Прочитала только 100 страниц. Невозможно читать! Никому не советую. Даже просто ради того, чтобы дочитать и узнать сюжет. Слишком плохо и просто написано.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > проблема заключалась в том,  чтобы оценить себя  правильно.  Пешка,  возомнившая себя ферзем, обречена на смерть. Как и ферзь, не верящий в свои силы. Самовлюбленный глупец ничем не лучше чрезмерно рефлексирующего умника.
 
 * Женщина с бумажными цветами ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
-    > Самое нетипичное произведение Карризи. Скорее всего, это притча или баллада. Мне понравилось, но в целом от него ожидаешь другого жанра и легкое разочарование испытываешь, хотя и знаешь заранее, что это никакой не детектив.
 
 * Собачье сердце ~ [Rainbow](users/109/109787328219839805802-google)<sup>49</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Талорис (Синее пламя 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>153</sup>
 
-* Горе от ума ~ [mitsakult](users/288/288034278-vkontakte)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Madlax](users/158/158304782-vkontakte)<sup>196</sup> 
+[Madlax](users/158/158304782-vkontakte)<sup>197</sup> 
 [irvin45](users/445/445405730-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>184</sup> 
 [ffocus2](users/474/47427105-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>751</sup> 
 
 
-_02.01.2020 09:50:26_
+_02.01.2020 09:50:55_

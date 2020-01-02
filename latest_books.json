@@ -1,4 +1,16 @@
 {
+    "BXZowSva14": {
+        "id": "BXZowSva14",
+        "title": "Огонь",
+        "author": "Анри Барбюс",
+        "notes": "Страшно, мерзко, грустно. Но слог приятный.",
+        "createdAt": "2020-01-02 09:50:55",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 197
+        }
+    },
     "PW6c95-kgD": {
         "id": "PW6c95-kgD",
         "title": "Зеркало времени",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 73
-        }
-    },
-    "_by-vdPnUS": {
-        "id": "_by-vdPnUS",
-        "title": "Преступление и наказание",
-        "author": "Достоевский",
-        "notes": "",
-        "createdAt": "2019-12-30 15:02:25",
-        "user": {
-            "id": "106791485142732018245-google",
-            "nickname": "meriodasu",
-            "booksCount": 2
         }
     }
 }
