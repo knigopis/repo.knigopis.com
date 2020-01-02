@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Санта -Хрякус ~ [Garka](users/115/115753719718250012620-google)<sup>238</sup>
+    > Канун Страждества, Санта-Хрякус исчез (возможно мёртв), Смерть берёт на себя его обязанности.
+
 * Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>197</sup>
     > Страшно, мерзко, грустно. Но слог приятный.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Прочитала только 100 страниц. Невозможно читать! Никому не советую. Даже просто ради того, чтобы дочитать и узнать сюжет. Слишком плохо и просто написано.
 
 * Ничья земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>155</sup>
-    > проблема заключалась в том,  чтобы оценить себя  правильно.  Пешка,  возомнившая себя ферзем, обречена на смерть. Как и ферзь, не верящий в свои силы. Самовлюбленный глупец ничем не лучше чрезмерно рефлексирующего умника.
 
 * Женщина с бумажными цветами ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Россия и Дон ~ [mfevralev](users/140/140966150-vkontakte)<sup>41</sup>
 
-* Талорис (Синее пламя 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>153</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>238</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>199</sup> 
 [irvin45](users/445/445405730-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>184</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>132</sup> 
 [Ворл](users/847/8473129374433134801-mailru)<sup>0</sup> 
 [shi_primal](users/200/200932579-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>237</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>751</sup> 
 
 
-_02.01.2020 09:51:32_
+_02.01.2020 15:12:01_

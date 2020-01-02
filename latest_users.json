@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 238,
+        "updatedAt": "2020-01-02 15:12:00"
+    },
     "158304782-vkontakte": {
         "id": "158304782-vkontakte",
         "nickname": "Madlax",
@@ -166,12 +172,6 @@
         "nickname": "shi_primal",
         "booksCount": 0,
         "updatedAt": "2019-12-23 10:24:03"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 237,
-        "updatedAt": "2019-12-22 16:14:47"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",

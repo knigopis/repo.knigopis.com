@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Санта -Хрякус ~ [Garka](users/115/115753719718250012620-google)<sup>238</sup>
 * Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>197</sup>
 * Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>196</sup>
 * Ничья земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>155</sup>
@@ -30,7 +31,6 @@
 * Рассказы ~ [Avery](users/567/56734832-yandex)<sup>18</sup>
 * Ложь. Почему говорить правду всегда лучше ~ [youno](users/302/302928912-vkontakte)<sup>39</sup>
 * Оно ~ [Garka](users/115/115753719718250012620-google)<sup>234</sup>
-* Мости округу Медісон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>72</sup>
 
 
-_02.01.2020 09:50:55_
+_02.01.2020 15:12:01_
