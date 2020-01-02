@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>367</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>238</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>199</sup> 
 [irvin45](users/445/445405730-vkontakte)<sup>1</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>76</sup> 
 [meriodasu](users/106/106791485142732018245-google)<sup>2</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>17</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>366</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>51</sup> 
 [](users/115/115826717712507836033-google)<sup>138</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>155</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>751</sup> 
 
 
-_02.01.2020 15:12:01_
+_02.01.2020 16:01:51_
