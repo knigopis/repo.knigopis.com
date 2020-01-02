@@ -1,4 +1,10 @@
 {
+    "20368293-vkontakte": {
+        "id": "20368293-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-01-02 17:18:17"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "shi_primal",
         "booksCount": 0,
         "updatedAt": "2019-12-23 10:24:03"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 751,
-        "updatedAt": "2019-12-22 14:35:25"
     }
 }
