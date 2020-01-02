@@ -1,4 +1,4 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>197</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>198</sup>
 ---
 
 ## 2019
@@ -61,6 +61,10 @@
 ### Цепочки диспозиций
 Екатерина Карпова
 > [2019-01] 
+
+
+### Мертвый сезон
+Чарльз Диккенс
 
 
 ### Огонь
