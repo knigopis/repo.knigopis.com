@@ -1,4 +1,16 @@
 {
+    "W5LN5zNUy1": {
+        "id": "W5LN5zNUy1",
+        "title": "Грозовой перевал",
+        "author": "Эмили Бронте",
+        "notes": "",
+        "createdAt": "2020-01-02 09:03:33",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 183
+        }
+    },
     "XWmJ2HlE_v": {
         "id": "XWmJ2HlE_v",
         "title": "Życie Średniowiecznej Kobiety",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 366
-        }
-    },
-    "bSvzGJHrnd": {
-        "id": "bSvzGJHrnd",
-        "title": "Самостоятельный ребёнок, или как стать «ленивой мамой»",
-        "author": "Анна Быкова",
-        "notes": "",
-        "createdAt": "2019-12-30 05:13:58",
-        "user": {
-            "id": "334696193054530347-mailru",
-            "nickname": "Даша",
-            "booksCount": 51
         }
     }
 }
