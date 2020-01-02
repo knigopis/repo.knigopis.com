@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>196</sup>
 * Ничья земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>155</sup>
 * Женщина с бумажными цветами ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
 * Собачье сердце ~ [Rainbow](users/109/109787328219839805802-google)<sup>49</sup>
@@ -30,7 +31,6 @@
 * Оно ~ [Garka](users/115/115753719718250012620-google)<sup>234</sup>
 * Мости округу Медісон ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>72</sup>
 * Зачарованные смертью ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>71</sup>
-* Аскетизм ~ [youno](users/302/302928912-vkontakte)<sup>38</sup>
 
 
-_29.12.2019 06:29:19_
+_02.01.2020 09:50:26_

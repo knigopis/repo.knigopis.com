@@ -1,4 +1,10 @@
 {
+    "158304782-vkontakte": {
+        "id": "158304782-vkontakte",
+        "nickname": "Madlax",
+        "booksCount": 196,
+        "updatedAt": "2020-01-02 09:50:25"
+    },
     "445405730-vkontakte": {
         "id": "445405730-vkontakte",
         "nickname": "irvin45",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 751,
         "updatedAt": "2019-12-22 14:35:25"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 41,
-        "updatedAt": "2019-12-21 10:06:55"
     }
 }

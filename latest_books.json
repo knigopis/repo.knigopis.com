@@ -1,4 +1,16 @@
 {
+    "PW6c95-kgD": {
+        "id": "PW6c95-kgD",
+        "title": "Зеркало времени",
+        "author": "Майкл Кокс",
+        "notes": "Прочитала только 100 страниц. Невозможно читать! Никому не советую. Даже просто ради того, чтобы дочитать и узнать сюжет. Слишком плохо и просто написано.",
+        "createdAt": "2020-01-02 09:50:25",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 196
+        }
+    },
     "GyJWcTnZjN": {
         "id": "GyJWcTnZjN",
         "title": "Джен Эйр",
@@ -345,18 +357,6 @@
             "id": "106791485142732018245-google",
             "nickname": "meriodasu",
             "booksCount": 2
-        }
-    },
-    "W_DO4PNqmG": {
-        "id": "W_DO4PNqmG",
-        "title": "Мой лучший враг",
-        "author": "Эли Фрей",
-        "notes": "",
-        "createdAt": "2019-12-30 15:01:46",
-        "user": {
-            "id": "106791485142732018245-google",
-            "nickname": "meriodasu",
-            "booksCount": 1
         }
     }
 }
