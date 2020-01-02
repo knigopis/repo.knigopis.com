@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>182</sup> 
 [ffocus2](users/474/47427105-vkontakte)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>200</sup> 
 [brejjj brejj](users/109/10993209205796153651-mailru)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>751</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>41</sup> 
 [умник](users/172/172624478-vkontakte)<sup>1</sup> 
-[imustbedreaming](users/123/123376372-vkontakte)<sup>0</sup> 
 
 
-_02.01.2020 01:42:33_
+_02.01.2020 09:02:30_

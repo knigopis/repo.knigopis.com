@@ -1,4 +1,16 @@
 {
+    "XWmJ2HlE_v": {
+        "id": "XWmJ2HlE_v",
+        "title": "Życie Średniowiecznej Kobiety",
+        "author": "Frances Gies, Joseph Gies",
+        "notes": "",
+        "createdAt": "2020-01-02 09:02:30",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 182
+        }
+    },
     "cG-96jg7oO": {
         "id": "cG-96jg7oO",
         "title": "Недоросль",
@@ -345,18 +357,6 @@
             "id": "334696193054530347-mailru",
             "nickname": "Даша",
             "booksCount": 51
-        }
-    },
-    "ngKT97k_Ws": {
-        "id": "ngKT97k_Ws",
-        "title": "Юная гувернантка",
-        "author": "Кэтрин Мэнсфилд",
-        "notes": "",
-        "createdAt": "2019-12-30 00:15:03",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 138
         }
     }
 }

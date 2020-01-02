@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>181</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>182</sup>
 ---
 
 ## 2019
+
+### Życie Średniowiecznej Kobiety
+Frances Gies, Joseph Gies
+> [2019-12-20] 
+
 
 ### Дневной Дозор
 Сергей Лукьяненко
