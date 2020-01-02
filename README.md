@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[irvin45](users/445/445405730-vkontakte)<sup>0</sup> 
+[irvin45](users/445/445405730-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>184</sup> 
 [ffocus2](users/474/47427105-vkontakte)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>200</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>41</sup> 
 
 
-_02.01.2020 09:38:44_
+_02.01.2020 09:39:54_
