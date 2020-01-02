@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/203/20368293-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>367</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>238</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>199</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>132</sup> 
 [Ворл](users/847/8473129374433134801-mailru)<sup>0</sup> 
 [shi_primal](users/200/200932579-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>751</sup> 
 
 
-_02.01.2020 16:01:51_
+_02.01.2020 17:18:19_
