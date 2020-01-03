@@ -1,4 +1,10 @@
 {
+    "217891524-vkontakte": {
+        "id": "217891524-vkontakte",
+        "nickname": "lostinfrost",
+        "booksCount": 146,
+        "updatedAt": "2020-01-03 07:01:36"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Ворл",
         "booksCount": 0,
         "updatedAt": "2019-12-23 14:52:15"
-    },
-    "200932579-vkontakte": {
-        "id": "200932579-vkontakte",
-        "nickname": "shi_primal",
-        "booksCount": 0,
-        "updatedAt": "2019-12-23 10:24:03"
     }
 }
