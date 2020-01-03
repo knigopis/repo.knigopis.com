@@ -1,4 +1,10 @@
 {
+    "242692811-vkontakte": {
+        "id": "242692811-vkontakte",
+        "nickname": "Marika",
+        "booksCount": 0,
+        "updatedAt": "2020-01-03 10:05:48"
+    },
     "217891524-vkontakte": {
         "id": "217891524-vkontakte",
         "nickname": "lostinfrost",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 49,
         "updatedAt": "2019-12-23 16:01:37"
-    },
-    "8473129374433134801-mailru": {
-        "id": "8473129374433134801-mailru",
-        "nickname": "Ворл",
-        "booksCount": 0,
-        "updatedAt": "2019-12-23 14:52:15"
     }
 }
