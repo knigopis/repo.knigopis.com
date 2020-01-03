@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>201</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>202</sup>
 ---
 
 ## 2020
+
+### Шинель
+Николай Гоголь
+> [2020-01-03] 
+
 
 ### Мцыри
 Михаил Лермонтов

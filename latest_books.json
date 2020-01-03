@@ -1,4 +1,16 @@
 {
+    "t8S5MKbE3y": {
+        "id": "t8S5MKbE3y",
+        "title": "Шинель",
+        "author": "Николай Гоголь",
+        "notes": "",
+        "createdAt": "2020-01-03 11:59:35",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 202
+        }
+    },
     "4oskqO_SUx": {
         "id": "4oskqO_SUx",
         "title": "Мцыри",
@@ -345,18 +357,6 @@
             "id": "10123344-vkontakte",
             "nickname": "l.shilova",
             "booksCount": 2
-        }
-    },
-    "Bu2dge9goo": {
-        "id": "Bu2dge9goo",
-        "title": "Ночной дозор",
-        "author": "Лукьяненко",
-        "notes": "",
-        "createdAt": "2020-01-01 18:26:32",
-        "user": {
-            "id": "10123344-vkontakte",
-            "nickname": "l.shilova",
-            "booksCount": 1
         }
     }
 }
