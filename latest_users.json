@@ -1,4 +1,10 @@
 {
+    "66767060-vkontakte": {
+        "id": "66767060-vkontakte",
+        "nickname": "neccochi",
+        "booksCount": 2,
+        "updatedAt": "2020-01-03 16:28:51"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 63,
         "updatedAt": "2019-12-25 05:41:20"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 49,
-        "updatedAt": "2019-12-23 16:01:37"
     }
 }

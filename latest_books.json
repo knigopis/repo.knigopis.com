@@ -1,4 +1,16 @@
 {
+    "on8CHKZ-4M": {
+        "id": "on8CHKZ-4M",
+        "title": "Не отпускай меня",
+        "author": "Кадзуо Исигуро",
+        "notes": "",
+        "createdAt": "2020-01-03 16:28:51",
+        "user": {
+            "id": "66767060-vkontakte",
+            "nickname": "neccochi",
+            "booksCount": 2
+        }
+    },
     "t8S5MKbE3y": {
         "id": "t8S5MKbE3y",
         "title": "Шинель",
@@ -345,18 +357,6 @@
             "id": "10123344-vkontakte",
             "nickname": "l.shilova",
             "booksCount": 3
-        }
-    },
-    "FWaaCEod-U": {
-        "id": "FWaaCEod-U",
-        "title": "Дневной дозор",
-        "author": "Лукьяненко",
-        "notes": "",
-        "createdAt": "2020-01-01 18:26:52",
-        "user": {
-            "id": "10123344-vkontakte",
-            "nickname": "l.shilova",
-            "booksCount": 2
         }
     }
 }
