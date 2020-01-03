@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Marika](users/242/242692811-vkontakte)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>146</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>133</sup> 
 [](users/203/20368293-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Человеколось](users/174/17475979687188177329-mailru)<sup>63</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>63</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>49</sup> 
-[Ворл](users/847/8473129374433134801-mailru)<sup>0</sup> 
 
 
-_03.01.2020 07:01:36_
+_03.01.2020 10:05:51_
