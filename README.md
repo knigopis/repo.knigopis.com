@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Настольная книга для монашествующих и мирян ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup>
+    > аккурат к Рождеству чтение ;)
+    > 
+    > в процессе
+
 * Санта -Хрякус ~ [Garka](users/115/115753719718250012620-google)<sup>238</sup>
     > Канун Страждества, Санта-Хрякус исчез (возможно мёртв), Смерть берёт на себя его обязанности.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Страшно, мерзко, грустно. Но слог приятный.
 
 * Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>196</sup>
-    > Прочитала только 100 страниц. Невозможно читать! Никому не советую. Даже просто ради того, чтобы дочитать и узнать сюжет. Слишком плохо и просто написано.
 
 * Ничья земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>155</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Ле Гуин, Урсула К ~ [Garka](users/115/115753719718250012620-google)<sup>236</sup>
 
-* Россия и Дон ~ [mfevralev](users/140/140966150-vkontakte)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup> 
 [unbiseptium](users/243/243390499-vkontakte)<sup>0</sup> 
 [marta_violeta](users/127/127724295-vkontakte)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>205</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>155</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>53</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>145</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>39</sup> 
 
 
-_04.01.2020 19:30:10_
+_04.01.2020 23:37:41_

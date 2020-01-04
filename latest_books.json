@@ -1,4 +1,16 @@
 {
+    "Oy674B2YrP": {
+        "id": "Oy674B2YrP",
+        "title": "Настольная книга для монашествующих и мирян",
+        "author": "Составитель Иоанн Крестьянкин",
+        "notes": "аккурат к Рождеству чтение ;)\n\nв процессе",
+        "createdAt": "2020-01-04 23:37:41",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 222
+        }
+    },
     "qx6G34om69": {
         "id": "qx6G34om69",
         "title": "О любви",
@@ -345,18 +357,6 @@
             "id": "10123344-vkontakte",
             "nickname": "l.shilova",
             "booksCount": 9
-        }
-    },
-    "HmGPf6JYZ4": {
-        "id": "HmGPf6JYZ4",
-        "title": "Записки юного врача",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2020-01-01 18:30:16",
-        "user": {
-            "id": "10123344-vkontakte",
-            "nickname": "l.shilova",
-            "booksCount": 8
         }
     }
 }

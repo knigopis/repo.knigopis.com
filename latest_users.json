@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 222,
+        "updatedAt": "2020-01-04 23:37:41"
+    },
     "243390499-vkontakte": {
         "id": "243390499-vkontakte",
         "nickname": "unbiseptium",
@@ -172,11 +178,5 @@
         "nickname": "afferens.lucem",
         "booksCount": 145,
         "updatedAt": "2019-12-28 13:16:40"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 39,
-        "updatedAt": "2019-12-28 10:17:17"
     }
 }
