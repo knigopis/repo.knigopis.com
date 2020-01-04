@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>18</sup> 
 [Galina](users/113/113453299-vkontakte)<sup>0</sup> 
 [ice_in_eyes](users/277/277708366-vkontakte)<sup>0</sup> 
 [neccochi](users/667/66767060-vkontakte)<sup>2</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>159</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>76</sup> 
 [meriodasu](users/106/106791485142732018245-google)<sup>2</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>17</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>51</sup> 
 [](users/115/115826717712507836033-google)<sup>138</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>155</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>204</sup> 
 
 
-_04.01.2020 08:36:14_
+_04.01.2020 09:43:15_

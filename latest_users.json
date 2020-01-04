@@ -1,4 +1,10 @@
 {
+    "270444099499-odnoklassniki": {
+        "id": "270444099499-odnoklassniki",
+        "nickname": null,
+        "booksCount": 18,
+        "updatedAt": "2020-01-04 09:43:15"
+    },
     "113453299-vkontakte": {
         "id": "113453299-vkontakte",
         "nickname": "Galina",
@@ -118,12 +124,6 @@
         "nickname": "meriodasu",
         "booksCount": 2,
         "updatedAt": "2019-12-30 15:02:25"
-    },
-    "270444099499-odnoklassniki": {
-        "id": "270444099499-odnoklassniki",
-        "nickname": null,
-        "booksCount": 17,
-        "updatedAt": "2019-12-30 13:55:50"
     },
     "334696193054530347-mailru": {
         "id": "334696193054530347-mailru",
