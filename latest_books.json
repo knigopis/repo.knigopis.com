@@ -1,4 +1,16 @@
 {
+    "d2GDYwb9SJ": {
+        "id": "d2GDYwb9SJ",
+        "title": "Адвокат олигарха",
+        "author": "Ева Львова",
+        "notes": "",
+        "createdAt": "2020-01-04 15:22:19",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 19
+        }
+    },
     "ycW_8L1_Tj": {
         "id": "ycW_8L1_Tj",
         "title": "Три цвета ночи",
@@ -345,18 +357,6 @@
             "id": "10123344-vkontakte",
             "nickname": "l.shilova",
             "booksCount": 5
-        }
-    },
-    "DWliYX1Avv": {
-        "id": "DWliYX1Avv",
-        "title": "Хоббит или Туда и обратно",
-        "author": "Джон Рональд Руэл Токлиен",
-        "notes": "",
-        "createdAt": "2020-01-01 18:28:22",
-        "user": {
-            "id": "10123344-vkontakte",
-            "nickname": "l.shilova",
-            "booksCount": 4
         }
     }
 }

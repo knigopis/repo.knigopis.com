@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>19</sup> 
 [Almas](users/250/2501865753276404-facebook)<sup>0</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>18</sup> 
 [Galina](users/113/113453299-vkontakte)<sup>0</sup> 
 [ice_in_eyes](users/277/277708366-vkontakte)<sup>0</sup> 
 [neccochi](users/667/66767060-vkontakte)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Quaff](users/122/12267158-vkontakte)<sup>94</sup> 
 
 
-_04.01.2020 12:39:19_
+_04.01.2020 15:22:19_
