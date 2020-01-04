@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[unbiseptium](users/243/243390499-vkontakte)<sup>0</sup> 
 [marta_violeta](users/127/127724295-vkontakte)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>205</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>19</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>53</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>145</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>39</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>57</sup> 
 
 
-_04.01.2020 16:32:01_
+_04.01.2020 19:30:10_
