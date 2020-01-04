@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Almas](users/250/2501865753276404-facebook)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>18</sup> 
 [Galina](users/113/113453299-vkontakte)<sup>0</sup> 
 [ice_in_eyes](users/277/277708366-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>39</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>57</sup> 
 [Quaff](users/122/12267158-vkontakte)<sup>94</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>204</sup> 
 
 
-_04.01.2020 09:43:15_
+_04.01.2020 12:39:19_
