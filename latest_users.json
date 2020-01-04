@@ -1,4 +1,10 @@
 {
+    "127724295-vkontakte": {
+        "id": "127724295-vkontakte",
+        "nickname": "marta_violeta",
+        "booksCount": 0,
+        "updatedAt": "2020-01-04 16:31:59"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "vladkozz",
         "booksCount": 57,
         "updatedAt": "2019-12-28 05:41:14"
-    },
-    "12267158-vkontakte": {
-        "id": "12267158-vkontakte",
-        "nickname": "Quaff",
-        "booksCount": 94,
-        "updatedAt": "2019-12-27 20:13:28"
     }
 }
