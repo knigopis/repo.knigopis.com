@@ -1,4 +1,16 @@
 {
+    "AXwKFAuypN": {
+        "id": "AXwKFAuypN",
+        "title": "Старый гений",
+        "author": "Николай Лесков",
+        "notes": "",
+        "createdAt": "2020-01-04 15:36:51",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 203
+        }
+    },
     "d2GDYwb9SJ": {
         "id": "d2GDYwb9SJ",
         "title": "Адвокат олигарха",
@@ -345,18 +357,6 @@
             "id": "10123344-vkontakte",
             "nickname": "l.shilova",
             "booksCount": 6
-        }
-    },
-    "F_MuqlcT6F": {
-        "id": "F_MuqlcT6F",
-        "title": "Властелин Колец",
-        "author": "Джон Рональд Руэл Толкиен",
-        "notes": "",
-        "createdAt": "2020-01-01 18:28:43",
-        "user": {
-            "id": "10123344-vkontakte",
-            "nickname": "l.shilova",
-            "booksCount": 5
         }
     }
 }

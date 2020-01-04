@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>202</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>203</sup>
 ---
 
 ## 2020
+
+### Старый гений
+Николай Лесков
+> [2020-01-04] 
+
 
 ### Шинель
 Николай Гоголь
