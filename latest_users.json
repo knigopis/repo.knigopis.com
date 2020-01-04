@@ -1,4 +1,10 @@
 {
+    "243390499-vkontakte": {
+        "id": "243390499-vkontakte",
+        "nickname": "unbiseptium",
+        "booksCount": 0,
+        "updatedAt": "2020-01-04 19:30:08"
+    },
     "127724295-vkontakte": {
         "id": "127724295-vkontakte",
         "nickname": "marta_violeta",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 39,
         "updatedAt": "2019-12-28 10:17:17"
-    },
-    "57239276-vkontakte": {
-        "id": "57239276-vkontakte",
-        "nickname": "vladkozz",
-        "booksCount": 57,
-        "updatedAt": "2019-12-28 05:41:14"
     }
 }
