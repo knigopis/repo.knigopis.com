@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>89</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>146</sup> 
 [fucking_desu](users/530/530144291-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ffocus2](users/474/47427105-vkontakte)<sup>0</sup> 
 [brejjj brejj](users/109/10993209205796153651-mailru)<sup>0</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>15</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>89</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>159</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>76</sup> 
 [meriodasu](users/106/106791485142732018245-google)<sup>2</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>155</sup> 
 
 
-_05.01.2020 07:15:19_
+_05.01.2020 07:44:14_
