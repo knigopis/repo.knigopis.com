@@ -1,4 +1,10 @@
 {
+    "530144291-vkontakte": {
+        "id": "530144291-vkontakte",
+        "nickname": "fucking_desu",
+        "booksCount": 0,
+        "updatedAt": "2020-01-05 00:44:45"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "Таньчик",
         "booksCount": 53,
         "updatedAt": "2019-12-28 13:42:41"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 145,
-        "updatedAt": "2019-12-28 13:16:40"
     }
 }
