@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>210</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>211</sup>
 ---
 
 ## 2020
+
+### Жизнь и воротник
+Тэффи
+> [2020-01-05] 
+
 
 ### Пенсне
 Михаил Осоргин
