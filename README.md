@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>160</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>78</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>368</sup> 
 [Рогозин Михаил ](users/100/100765790813599895096-google)<sup>0</sup> 
@@ -61,10 +62,9 @@ _More notes [here](latest_books_with_notes.md)._
 [ffocus2](users/474/47427105-vkontakte)<sup>0</sup> 
 [brejjj brejj](users/109/10993209205796153651-mailru)<sup>0</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>15</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>159</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>76</sup> 
 [meriodasu](users/106/106791485142732018245-google)<sup>2</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>51</sup> 
 
 
-_05.01.2020 13:22:14_
+_05.01.2020 13:48:13_
