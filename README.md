@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fucking_desu](users/530/530144291-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup> 
 [unbiseptium](users/243/243390499-vkontakte)<sup>0</sup> 
 [marta_violeta](users/127/127724295-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>138</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>155</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>53</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>145</sup> 
 
 
-_04.01.2020 23:37:41_
+_05.01.2020 00:44:49_
