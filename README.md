@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>77</sup>
+    > 8/10 Классическое фентези
+
 * Настольная книга для монашествующих и мирян ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup>
     > аккурат к Рождеству чтение ;)
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Канун Страждества, Санта-Хрякус исчез (возможно мёртв), Смерть берёт на себя его обязанности.
 
 * Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>197</sup>
-    > Страшно, мерзко, грустно. Но слог приятный.
 
 * Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>196</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Аркада. Эпизод второй. suMpa ~ [Chiffi](users/105/105831994080785626680-google)<sup>154</sup>
 
-* Ле Гуин, Урсула К ~ [Garka](users/115/115753719718250012620-google)<sup>236</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>77</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>368</sup> 
 [Рогозин Михаил ](users/100/100765790813599895096-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>89</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>76</sup> 
 [meriodasu](users/106/106791485142732018245-google)<sup>2</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>51</sup> 
-[](users/115/115826717712507836033-google)<sup>138</sup> 
 
 
-_05.01.2020 09:47:38_
+_05.01.2020 13:20:32_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>76</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>77</sup>
 ---
 
 ## 2019
+
+### Кровь эльфов
+Анджей Сапковский
+> [2019-12-28] 8/10 Классическое фентези
+
 
 ### Країна розваг
 Стівен Кінг
