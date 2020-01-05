@@ -1,4 +1,16 @@
 {
+    "nDNBZK8fMr": {
+        "id": "nDNBZK8fMr",
+        "title": "Ведьмак. Кровь эльфов",
+        "author": "Анджей Сапковский",
+        "notes": "8/10",
+        "createdAt": "2020-01-05 13:22:14",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 78
+        }
+    },
     "7eXtWcmGlz": {
         "id": "7eXtWcmGlz",
         "title": "Кровь эльфов",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 73
-        }
-    },
-    "6wI3zD_h-E": {
-        "id": "6wI3zD_h-E",
-        "title": "Рассказы",
-        "author": "Рэй Брэдбери",
-        "notes": "Бетономешалка\n\nБыли они смуглые и золотоглазые\n\nВельд\n\nВсе лето и один день\n\nДракон\n\nЗдравствуй и прощай\n\nЗолотые яблоки Солнца\n\nИ все таки наш\n\nИ грянул гром\n\nКошки-мышки",
-        "createdAt": "2019-12-03 18:09:08",
-        "user": {
-            "id": "56734832-yandex",
-            "nickname": "Avery",
-            "booksCount": 18
         }
     }
 }

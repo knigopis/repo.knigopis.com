@@ -1,5 +1,13 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>77</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>78</sup>
 ---
+
+## 2020
+
+### Ведьмак. Кровь эльфов
+Анджей Сапковский
+> [2020-01-03] 8/10
+
+
 
 ## 2019
 

@@ -1,4 +1,16 @@
 {
+    "nDNBZK8fMr": {
+        "id": "nDNBZK8fMr",
+        "title": "Ведьмак. Кровь эльфов",
+        "author": "Анджей Сапковский",
+        "notes": "8/10",
+        "createdAt": "2020-01-05 13:22:14",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 78
+        }
+    },
     "7eXtWcmGlz": {
         "id": "7eXtWcmGlz",
         "title": "Кровь эльфов",
@@ -345,18 +357,6 @@
             "id": "10123344-vkontakte",
             "nickname": "l.shilova",
             "booksCount": 14
-        }
-    },
-    "dGxBZ13CpL": {
-        "id": "dGxBZ13CpL",
-        "title": "Война миров",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2020-01-01 18:32:11",
-        "user": {
-            "id": "10123344-vkontakte",
-            "nickname": "l.shilova",
-            "booksCount": 13
         }
     }
 }
