@@ -1,4 +1,16 @@
 {
+    "ZCZ2W-1Uk1": {
+        "id": "ZCZ2W-1Uk1",
+        "title": "Как делать большие деньги в малом бизнесе",
+        "author": "Джеффри Фокс",
+        "notes": "",
+        "createdAt": "2020-01-05 09:47:38",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 368
+        }
+    },
     "24p_A-JtiB": {
         "id": "24p_A-JtiB",
         "title": "Ведьмак. Последнее желание",
@@ -345,18 +357,6 @@
             "id": "10123344-vkontakte",
             "nickname": "l.shilova",
             "booksCount": 12
-        }
-    },
-    "ijJ38XWoQ_": {
-        "id": "ijJ38XWoQ_",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уальд",
-        "notes": "",
-        "createdAt": "2020-01-01 18:31:23",
-        "user": {
-            "id": "10123344-vkontakte",
-            "nickname": "l.shilova",
-            "booksCount": 11
         }
     }
 }

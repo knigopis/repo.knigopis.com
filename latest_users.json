@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 368,
+        "updatedAt": "2020-01-05 09:47:38"
+    },
     "100765790813599895096-google": {
         "id": "100765790813599895096-google",
         "nickname": "Рогозин Михаил ",
@@ -100,12 +106,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-01-02 17:18:17"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 367,
-        "updatedAt": "2020-01-02 16:01:50"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",

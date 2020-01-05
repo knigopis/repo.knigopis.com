@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>368</sup> 
 [Рогозин Михаил ](users/100/100765790813599895096-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>89</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>146</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lostinfrost](users/217/217891524-vkontakte)<sup>146</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>133</sup> 
 [](users/203/20368293-vkontakte)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>367</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>238</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>199</sup> 
 [irvin45](users/445/445405730-vkontakte)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>138</sup> 
 
 
-_05.01.2020 08:35:59_
+_05.01.2020 09:47:38_
