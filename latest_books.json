@@ -1,4 +1,16 @@
 {
+    "l9NakYgmxV": {
+        "id": "l9NakYgmxV",
+        "title": "Куст сирени",
+        "author": "Александр Куприн",
+        "notes": "",
+        "createdAt": "2020-01-05 14:34:34",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 207
+        }
+    },
     "OqHHHCZJ5w": {
         "id": "OqHHHCZJ5w",
         "title": "Кавказ",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 200
-        }
-    },
-    "MPl8FwVYQG": {
-        "id": "MPl8FwVYQG",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-01-01 18:33:04",
-        "user": {
-            "id": "10123344-vkontakte",
-            "nickname": "l.shilova",
-            "booksCount": 16
         }
     }
 }

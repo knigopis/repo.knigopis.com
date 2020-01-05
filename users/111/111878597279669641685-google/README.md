@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>206</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>207</sup>
 ---
 
 ## 2020
+
+### Куст сирени
+Александр Куприн
+> [2020-01-05] 
+
 
 ### Кавказ
 Иван Бунин
