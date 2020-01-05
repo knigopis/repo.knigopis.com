@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>206</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>160</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>78</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>368</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup> 
 [unbiseptium](users/243/243390499-vkontakte)<sup>0</sup> 
 [marta_violeta](users/127/127724295-vkontakte)<sup>0</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>205</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>19</sup> 
 [Almas](users/250/2501865753276404-facebook)<sup>0</sup> 
 [Galina](users/113/113453299-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>51</sup> 
 
 
-_05.01.2020 13:48:13_
+_05.01.2020 14:34:14_
