@@ -1,4 +1,16 @@
 {
+    "sUZUTN-UwS": {
+        "id": "sUZUTN-UwS",
+        "title": "Как я стал писателем",
+        "author": "Иван Шмелев",
+        "notes": "",
+        "createdAt": "2020-01-05 14:35:08",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 209
+        }
+    },
     "mfP1qJdQQj": {
         "id": "mfP1qJdQQj",
         "title": "Пугачев",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 183
-        }
-    },
-    "XWmJ2HlE_v": {
-        "id": "XWmJ2HlE_v",
-        "title": "Życie Średniowiecznej Kobiety",
-        "author": "Frances Gies, Joseph Gies",
-        "notes": "",
-        "createdAt": "2020-01-02 09:02:30",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 182
         }
     }
 }
