@@ -35,10 +35,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>161</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>20</sup> 
 [Stem](users/114/114019737181475006297-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>215</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>160</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>78</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>368</sup> 
 [Рогозин Михаил ](users/100/100765790813599895096-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [meriodasu](users/106/106791485142732018245-google)<sup>2</sup> 
 
 
-_06.01.2020 12:34:09_
+_06.01.2020 14:25:17_
