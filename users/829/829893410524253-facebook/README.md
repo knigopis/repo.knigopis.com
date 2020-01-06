@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>78</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>79</sup>
 ---
 
 ## 2020
+
+### Скорбь Сатаны
+Брэм Стокер
+> [2020-01-06] 5/10 искушение деньгами и женщинами.
+
 
 ### Ведьмак. Кровь эльфов
 Анджей Сапковский
