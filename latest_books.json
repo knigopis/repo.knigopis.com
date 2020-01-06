@@ -1,4 +1,16 @@
 {
+    "WO1tb4NQJ7": {
+        "id": "WO1tb4NQJ7",
+        "title": "Слишком чужая, слишком своя",
+        "author": "Алла Полянская",
+        "notes": "",
+        "createdAt": "2020-01-06 12:34:09",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 20
+        }
+    },
     "2S0WiPHIdh": {
         "id": "2S0WiPHIdh",
         "title": "Фотография, на которой меня нет",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 238
-        }
-    },
-    "hx1CPMKuJY": {
-        "id": "hx1CPMKuJY",
-        "title": "Наша школа",
-        "author": "Чарльз Диккенс",
-        "notes": "",
-        "createdAt": "2020-01-02 09:51:32",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 199
         }
     }
 }

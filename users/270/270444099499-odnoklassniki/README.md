@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>19</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>20</sup>
 ---
 
 ## 2020
+
+### Слишком чужая, слишком своя
+Алла Полянская
+> [2020-01-06] 
+
 
 ### Адвокат олигарха
 Ева Львова

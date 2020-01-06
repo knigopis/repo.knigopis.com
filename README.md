@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>20</sup> 
 [Stem](users/114/114019737181475006297-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>215</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>160</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup> 
 [unbiseptium](users/243/243390499-vkontakte)<sup>0</sup> 
 [marta_violeta](users/127/127724295-vkontakte)<sup>0</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>19</sup> 
 [Almas](users/250/2501865753276404-facebook)<sup>0</sup> 
 [Galina](users/113/113453299-vkontakte)<sup>0</sup> 
 [ice_in_eyes](users/277/277708366-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [meriodasu](users/106/106791485142732018245-google)<sup>2</sup> 
 
 
-_06.01.2020 09:26:27_
+_06.01.2020 12:34:09_
