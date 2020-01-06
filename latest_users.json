@@ -1,4 +1,10 @@
 {
+    "114019737181475006297-google": {
+        "id": "114019737181475006297-google",
+        "nickname": "Stem",
+        "booksCount": 0,
+        "updatedAt": "2020-01-06 09:26:24"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "meriodasu",
         "booksCount": 2,
         "updatedAt": "2019-12-30 15:02:25"
-    },
-    "334696193054530347-mailru": {
-        "id": "334696193054530347-mailru",
-        "nickname": "Даша",
-        "booksCount": 51,
-        "updatedAt": "2019-12-30 05:13:58"
     }
 }
