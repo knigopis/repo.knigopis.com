@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>147</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>161</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>20</sup> 
 [Stem](users/114/114019737181475006297-google)<sup>0</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>368</sup> 
 [Рогозин Михаил ](users/100/100765790813599895096-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>89</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>146</sup> 
 [fucking_desu](users/530/530144291-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup> 
 [unbiseptium](users/243/243390499-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [meriodasu](users/106/106791485142732018245-google)<sup>2</sup> 
 
 
-_06.01.2020 14:25:17_
+_06.01.2020 20:16:33_

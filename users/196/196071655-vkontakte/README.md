@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>146</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>147</sup>
 ---
 
 ## 2020
+
+### Дом странных детей
+Ренсом Риггз
+> [2020-01-07] 
+
 
 ### Благие Знамения
 Терри Пратчет
