@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Stem](users/114/114019737181475006297-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>215</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>160</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>78</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [l.shilova](users/101/10123344-vkontakte)<sup>15</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>76</sup> 
 [meriodasu](users/106/106791485142732018245-google)<sup>2</sup> 
-[Даша](users/334/334696193054530347-mailru)<sup>51</sup> 
 
 
-_05.01.2020 14:37:41_
+_06.01.2020 09:26:27_
