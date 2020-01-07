@@ -1,4 +1,10 @@
 {
+    "200666735-vkontakte": {
+        "id": "200666735-vkontakte",
+        "nickname": "mavrentik",
+        "booksCount": 21,
+        "updatedAt": "2020-01-07 23:58:17"
+    },
     "201788999-vkontakte": {
         "id": "201788999-vkontakte",
         "nickname": "43dostaw",
@@ -172,11 +178,5 @@
         "nickname": "l.shilova",
         "booksCount": 15,
         "updatedAt": "2020-01-01 18:34:55"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 76,
-        "updatedAt": "2019-12-31 12:55:53"
     }
 }

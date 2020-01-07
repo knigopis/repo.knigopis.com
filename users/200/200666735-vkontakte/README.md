@@ -1,5 +1,13 @@
-# List of books read by [mavrentik](http://vk.com/id200666735)<sup>20</sup>
+# List of books read by [mavrentik](http://vk.com/id200666735)<sup>21</sup>
 ---
+
+## 2020
+
+### Солярис
+Станислав Герман Лем
+> [2020-01-07] 
+
+
 
 ## 2019
 

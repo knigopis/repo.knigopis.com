@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>20</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>79</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ffocus2](users/474/47427105-vkontakte)<sup>0</sup> 
 [brejjj brejj](users/109/10993209205796153651-mailru)<sup>0</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>15</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>76</sup> 
 
 
-_07.01.2020 21:32:55_
+_07.01.2020 23:58:17_
