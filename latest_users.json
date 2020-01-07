@@ -1,4 +1,10 @@
 {
+    "201788999-vkontakte": {
+        "id": "201788999-vkontakte",
+        "nickname": "43dostaw",
+        "booksCount": 0,
+        "updatedAt": "2020-01-07 21:32:53"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "sab_olya",
         "booksCount": 76,
         "updatedAt": "2019-12-31 12:55:53"
-    },
-    "106791485142732018245-google": {
-        "id": "106791485142732018245-google",
-        "nickname": "meriodasu",
-        "booksCount": 2,
-        "updatedAt": "2019-12-30 15:02:25"
     }
 }
