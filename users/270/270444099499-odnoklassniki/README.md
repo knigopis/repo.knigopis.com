@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>19</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>20</sup>
 ---
 
 ## 2020
+
+### Реанимация судьбы
+Марина Крамер
+> [2020-01-07] 
+
 
 ### Чужая лебединая песня
 Ирина Грин
