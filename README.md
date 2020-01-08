@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники Амбера. Пятикнижие Мерлина. Карты судьбы ~ [Garka](users/115/115753719718250012620-google)<sup>239</sup>
+    > На Мерлина, сына Корвина покушаются, Каин убит, все подозревают всех... Колесо-Призрак (изобретение Мерлина) обретает собственный разум
+
 * Скорбь Сатаны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>79</sup>
     > 5/10 искушение деньгами и женщинами.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10
 
 * Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>77</sup>
-    > 8/10 Классическое фентези
 
 * Настольная книга для монашествующих и мирян ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Женщина с бумажными цветами ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
 
-* Собачье сердце ~ [Rainbow](users/109/109787328219839805802-google)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>239</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>21</sup> 
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>752</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [lostinfrost](users/217/217891524-vkontakte)<sup>146</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>133</sup> 
 [](users/203/20368293-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>238</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>199</sup> 
 [irvin45](users/445/445405730-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>184</sup> 
 [ffocus2](users/474/47427105-vkontakte)<sup>0</sup> 
 
 
-_08.01.2020 14:27:48_
+_08.01.2020 14:53:45_

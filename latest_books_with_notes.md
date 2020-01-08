@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хроники Амбера. Пятикнижие Мерлина. Карты судьбы ~ [Garka](users/115/115753719718250012620-google)<sup>239</sup>
 * Скорбь Сатаны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>79</sup>
 * Ведьмак. Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>78</sup>
 * Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>77</sup>
@@ -30,7 +31,6 @@
 * Тайный сыск царя Гороха ~ [En](users/333/333646551-vkontakte)<sup>82</sup>
 * Statistical Arbitrage: Algorithmic Trading Insights and Techniques ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
 * Ведьмак. Последннее желание ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>74</sup>
-* Слушай песню ветра ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>60</sup>
 
 
-_06.01.2020 21:40:21_
+_08.01.2020 14:53:45_
