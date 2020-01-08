@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>78</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>20</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>238</sup> 
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>199</sup> 
 [irvin45](users/445/445405730-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>184</sup> 
-[ffocus2](users/474/47427105-vkontakte)<sup>0</sup> 
 
 
-_08.01.2020 15:15:55_
+_08.01.2020 16:42:52_

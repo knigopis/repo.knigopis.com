@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 78,
+        "updatedAt": "2020-01-08 16:42:51"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 184,
         "updatedAt": "2020-01-02 09:04:23"
-    },
-    "47427105-vkontakte": {
-        "id": "47427105-vkontakte",
-        "nickname": "ffocus2",
-        "booksCount": 0,
-        "updatedAt": "2020-01-02 01:42:29"
     }
 }
