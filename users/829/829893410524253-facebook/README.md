@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>79</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>80</sup>
 ---
 
 ## 2020
+
+### Ведьмак. Час Презрения
+Анджей Сапковский
+> [2020-01-08] 7/10 продолжение истории ведьмака.
+
 
 ### Скорбь Сатаны
 Брэм Стокер

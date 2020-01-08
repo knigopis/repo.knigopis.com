@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ведьмак. Час Презрения ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>80</sup>
+    > 7/10 продолжение истории ведьмака.
+
 * Хроники Амбера. Пятикнижие Мерлина. Карты судьбы ~ [Garka](users/115/115753719718250012620-google)<sup>239</sup>
     > На Мерлина, сына Корвина покушаются, Каин убит, все подозревают всех... Колесо-Призрак (изобретение Мерлина) обретает собственный разум
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10 искушение деньгами и женщинами.
 
 * Ведьмак. Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>78</sup>
-    > 8/10
 
 * Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>77</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ничья земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>155</sup>
 
-* Женщина с бумажными цветами ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>80</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>78</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>20</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>238</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>752</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>79</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>147</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>161</sup> 
 [Stem](users/114/114019737181475006297-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>184</sup> 
 
 
-_08.01.2020 16:42:52_
+_08.01.2020 19:39:33_

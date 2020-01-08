@@ -1,4 +1,16 @@
 {
+    "fFqRzU5CFI": {
+        "id": "fFqRzU5CFI",
+        "title": "Ведьмак. Час Презрения",
+        "author": "Анджей Сапковский",
+        "notes": "7/10 продолжение истории ведьмака.",
+        "createdAt": "2020-01-08 19:39:32",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 80
+        }
+    },
     "KDkKcvd_to": {
         "id": "KDkKcvd_to",
         "title": "Хроники Амбера. Пятикнижие Мерлина. Карты судьбы",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 131
-        }
-    },
-    "zqMrs8Z6_j": {
-        "id": "zqMrs8Z6_j",
-        "title": "Ведьмак. Последннее желание",
-        "author": "Анджей Сапковский",
-        "notes": "7/10 классика фентези через призму типичного поляка",
-        "createdAt": "2019-12-08 12:33:18",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 74
         }
     }
 }
