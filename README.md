@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>239</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>238</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>21</sup> 
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>752</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ffocus2](users/474/47427105-vkontakte)<sup>0</sup> 
 
 
-_08.01.2020 14:53:45_
+_08.01.2020 15:03:37_
