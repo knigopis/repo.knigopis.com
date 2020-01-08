@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>752</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [irvin45](users/445/445405730-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>184</sup> 
 [ffocus2](users/474/47427105-vkontakte)<sup>0</sup> 
-[brejjj brejj](users/109/10993209205796153651-mailru)<sup>0</sup> 
 
 
-_08.01.2020 10:06:54_
+_08.01.2020 12:41:46_
