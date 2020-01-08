@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>21</sup> 
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>752</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>0</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>20</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>79</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>147</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>161</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ffocus2](users/474/47427105-vkontakte)<sup>0</sup> 
 
 
-_08.01.2020 12:41:46_
+_08.01.2020 14:27:48_
