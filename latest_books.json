@@ -1,4 +1,16 @@
 {
+    "3Mhbup7AuU": {
+        "id": "3Mhbup7AuU",
+        "title": "Георгаф глобус пропил",
+        "author": "Алексей Иванов",
+        "notes": "",
+        "createdAt": "2020-01-08 20:28:20",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 64
+        }
+    },
     "fFqRzU5CFI": {
         "id": "fFqRzU5CFI",
         "title": "Ведьмак. Час Презрения",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 146
-        }
-    },
-    "Oy674B2YrP": {
-        "id": "Oy674B2YrP",
-        "title": "Настольная книга для монашествующих и мирян",
-        "author": "Составитель Иоанн Крестьянкин",
-        "notes": "аккурат к Рождеству чтение ;)\n\nв процессе",
-        "createdAt": "2020-01-04 23:37:41",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 222
         }
     }
 }
