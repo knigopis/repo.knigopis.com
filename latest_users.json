@@ -1,4 +1,10 @@
 {
+    "165138547-yandex": {
+        "id": "165138547-yandex",
+        "nickname": "rothaarig87",
+        "booksCount": 0,
+        "updatedAt": "2020-01-08 12:41:43"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "ffocus2",
         "booksCount": 0,
         "updatedAt": "2020-01-02 01:42:29"
-    },
-    "10993209205796153651-mailru": {
-        "id": "10993209205796153651-mailru",
-        "nickname": "brejjj brejj",
-        "booksCount": 0,
-        "updatedAt": "2020-01-01 19:06:44"
     }
 }
