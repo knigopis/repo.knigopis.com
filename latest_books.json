@@ -1,4 +1,16 @@
 {
+    "9p9JZ-WCvd": {
+        "id": "9p9JZ-WCvd",
+        "title": "Черновик",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2020-01-08 10:06:53",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 752
+        }
+    },
     "E2aaJQB0E1": {
         "id": "E2aaJQB0E1",
         "title": "Солярис",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 18
-        }
-    },
-    "on8CHKZ-4M": {
-        "id": "on8CHKZ-4M",
-        "title": "Не отпускай меня",
-        "author": "Кадзуо Исигуро",
-        "notes": "",
-        "createdAt": "2020-01-03 16:28:51",
-        "user": {
-            "id": "66767060-vkontakte",
-            "nickname": "neccochi",
-            "booksCount": 2
         }
     }
 }

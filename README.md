@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>752</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>20</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>184</sup> 
 [ffocus2](users/474/47427105-vkontakte)<sup>0</sup> 
 [brejjj brejj](users/109/10993209205796153651-mailru)<sup>0</sup> 
-[l.shilova](users/101/10123344-vkontakte)<sup>15</sup> 
 
 
-_07.01.2020 23:58:17_
+_08.01.2020 10:06:54_

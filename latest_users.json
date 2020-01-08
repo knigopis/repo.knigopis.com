@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 752,
+        "updatedAt": "2020-01-08 10:06:53"
+    },
     "200666735-vkontakte": {
         "id": "200666735-vkontakte",
         "nickname": "mavrentik",
@@ -172,11 +178,5 @@
         "nickname": "brejjj brejj",
         "booksCount": 0,
         "updatedAt": "2020-01-01 19:06:44"
-    },
-    "10123344-vkontakte": {
-        "id": "10123344-vkontakte",
-        "nickname": "l.shilova",
-        "booksCount": 15,
-        "updatedAt": "2020-01-01 18:34:55"
     }
 }
