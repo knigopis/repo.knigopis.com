@@ -1,4 +1,16 @@
 {
+    "898_F6WH2T": {
+        "id": "898_F6WH2T",
+        "title": "Город пустых. Побег из дома странных детей.",
+        "author": "Ренсом Риггз",
+        "notes": "",
+        "createdAt": "2020-01-09 19:39:20",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 148
+        }
+    },
     "Zx1yJOIkg0": {
         "id": "Zx1yJOIkg0",
         "title": "В канун Рождества",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 78
-        }
-    },
-    "7eXtWcmGlz": {
-        "id": "7eXtWcmGlz",
-        "title": "Кровь эльфов",
-        "author": "Анджей Сапковский",
-        "notes": "8/10 Классическое фентези",
-        "createdAt": "2020-01-05 13:20:32",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 77
         }
     }
 }

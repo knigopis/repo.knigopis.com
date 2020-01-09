@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>148</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>21</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>752</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>147</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>161</sup> 
 [Stem](users/114/114019737181475006297-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>215</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>199</sup> 
 
 
-_09.01.2020 17:16:33_
+_09.01.2020 19:39:20_

@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>147</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>148</sup>
 ---
 
 ## 2020
+
+### Город пустых. Побег из дома странных детей.
+Ренсом Риггз
+> [2020-01-10] 
+
 
 ### Дом странных детей
 Ренсом Риггз
