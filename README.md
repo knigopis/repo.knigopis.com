@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В канун Рождества ~ [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup>
+    > Добрая Рождественская история
+
 * Ведьмак. Час Презрения ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>80</sup>
     > 7/10 продолжение истории ведьмака.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > На Мерлина, сына Корвина покушаются, Каин убит, все подозревают всех... Колесо-Призрак (изобретение Мерлина) обретает собственный разум
 
 * Скорбь Сатаны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>79</sup>
-    > 5/10 искушение деньгами и женщинами.
 
 * Ведьмак. Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>78</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>196</sup>
 
-* Ничья земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>155</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>36</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>21</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>64</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>133</sup> 
 [](users/203/20368293-vkontakte)<sup>0</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>199</sup> 
-[irvin45](users/445/445405730-vkontakte)<sup>1</sup> 
 
 
-_09.01.2020 16:06:51_
+_09.01.2020 17:16:33_

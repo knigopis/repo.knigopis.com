@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В канун Рождества ~ [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup>
 * Ведьмак. Час Презрения ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>80</sup>
 * Хроники Амбера. Пятикнижие Мерлина. Карты судьбы ~ [Garka](users/115/115753719718250012620-google)<sup>239</sup>
 * Скорбь Сатаны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>79</sup>
@@ -30,7 +31,6 @@
 * Patagonia - бизнес в стиле серфинг ~ [youno](users/302/302928912-vkontakte)<sup>40</sup>
 * Ноги из глины ~ [Garka](users/115/115753719718250012620-google)<sup>235</sup>
 * Тайный сыск царя Гороха ~ [En](users/333/333646551-vkontakte)<sup>82</sup>
-* Statistical Arbitrage: Algorithmic Trading Insights and Techniques ~ [exulted](users/100/100599204551896265722-google)<sup>131</sup>
 
 
-_08.01.2020 19:39:33_
+_09.01.2020 17:16:33_
