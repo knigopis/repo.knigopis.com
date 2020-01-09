@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>80</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>81</sup>
 ---
 
 ## 2020
+
+### Суча дочка
+Валентина Мастєрова0
+> [2020-01-09] 7/10 Свята мучениця в радянському селі.
+
 
 ### Ведьмак. Час Презрения
 Анджей Сапковский

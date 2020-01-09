@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Суча дочка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup>
+    > 7/10 Свята мучениця в радянському селі.
+
 * В канун Рождества ~ [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup>
     > Добрая Рождественская история
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 продолжение истории ведьмака.
 
 * Хроники Амбера. Пятикнижие Мерлина. Карты судьбы ~ [Garka](users/115/115753719718250012620-google)<sup>239</sup>
-    > На Мерлина, сына Корвина покушаются, Каин убит, все подозревают всех... Колесо-Призрак (изобретение Мерлина) обретает собственный разум
 
 * Скорбь Сатаны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>79</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>197</sup>
 
-* Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>196</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>148</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>21</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>64</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>80</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>78</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>238</sup> 
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>199</sup> 
 
 
-_09.01.2020 19:39:20_
+_09.01.2020 21:08:33_
