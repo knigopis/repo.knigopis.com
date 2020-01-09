@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/270/270444099499-odnoklassniki)<sup>22</sup> 
+[](users/270/270444099499-odnoklassniki)<sup>21</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>64</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>80</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>78</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [irvin45](users/445/445405730-vkontakte)<sup>1</sup> 
 
 
-_09.01.2020 12:44:30_
+_09.01.2020 12:44:52_
