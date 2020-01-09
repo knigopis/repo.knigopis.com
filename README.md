@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>21</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>64</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>80</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>78</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>20</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>238</sup> 
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>752</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [irvin45](users/445/445405730-vkontakte)<sup>1</sup> 
 
 
-_08.01.2020 20:28:20_
+_09.01.2020 12:43:23_
