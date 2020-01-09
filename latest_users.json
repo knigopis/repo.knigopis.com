@@ -1,4 +1,10 @@
 {
+    "201788999-vkontakte": {
+        "id": "201788999-vkontakte",
+        "nickname": "43dostaw",
+        "booksCount": 1,
+        "updatedAt": "2020-01-09 16:06:51"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -46,12 +52,6 @@
         "nickname": "mavrentik",
         "booksCount": 21,
         "updatedAt": "2020-01-07 23:58:17"
-    },
-    "201788999-vkontakte": {
-        "id": "201788999-vkontakte",
-        "nickname": "43dostaw",
-        "booksCount": 0,
-        "updatedAt": "2020-01-07 21:32:53"
     },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",

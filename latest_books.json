@@ -1,4 +1,16 @@
 {
+    "D_sR0pVyPq": {
+        "id": "D_sR0pVyPq",
+        "title": "Биография Ерофеева",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-01-09 16:06:51",
+        "user": {
+            "id": "201788999-vkontakte",
+            "nickname": "43dostaw",
+            "booksCount": 1
+        }
+    },
     "CZ_Rqu5az1": {
         "id": "CZ_Rqu5az1",
         "title": "Подсадная тетка",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 368
-        }
-    },
-    "24p_A-JtiB": {
-        "id": "24p_A-JtiB",
-        "title": "Ведьмак. Последнее желание",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2020-01-05 07:44:14",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 89
         }
     }
 }
