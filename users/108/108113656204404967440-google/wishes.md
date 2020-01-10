@@ -94,12 +94,15 @@
 ### `68` Теория искусства
 Судзиловский
 
-### `50` The speed of thought
-Bill Gates
-
 ### `50` Чистовик
 Сергей Лукьяненко
 
+### `50` The speed of thought
+Bill Gates
+
 ### `49` Достижение цели
 Трейси Брайан
+
+### `48` Voices in the Ocean
+Casey S.
 
