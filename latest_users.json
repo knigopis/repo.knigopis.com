@@ -1,4 +1,10 @@
 {
+    "235870707-vkontakte": {
+        "id": "235870707-vkontakte",
+        "nickname": "18524553",
+        "booksCount": 0,
+        "updatedAt": "2020-01-10 13:46:23"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "lostinfrost",
         "booksCount": 146,
         "updatedAt": "2020-01-03 07:01:36"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 133,
-        "updatedAt": "2020-01-02 21:54:31"
     }
 }
