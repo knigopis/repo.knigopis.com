@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Худеющий ~ [En](users/333/333646551-vkontakte)<sup>83</sup>
 * Суча дочка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup>
 * В канун Рождества ~ [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup>
 * Ведьмак. Час Презрения ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>80</sup>
@@ -30,7 +31,6 @@
 * Летос ~ [Chiffi](users/105/105831994080785626680-google)<sup>152</sup>
 * Бойцовский клуб ~ [anvonamore](users/595/5957175-vkontakte)<sup>129</sup>
 * Patagonia - бизнес в стиле серфинг ~ [youno](users/302/302928912-vkontakte)<sup>40</sup>
-* Ноги из глины ~ [Garka](users/115/115753719718250012620-google)<sup>235</sup>
 
 
-_09.01.2020 21:08:33_
+_10.01.2020 04:10:07_

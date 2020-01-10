@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Худеющий ~ [En](users/333/333646551-vkontakte)<sup>83</sup>
+    > преуспевающий адвокат Билли Халлек случайно насмерть сбивает цыганку, переходящую дорогу. Благодаря своим связям, протагонисту удаётся избежать наказания. Однако отец погибшей накладывает на героя заклятье, из-за которого тот начинает бесконтрольно терять вес.
+
 * Суча дочка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup>
     > 7/10 Свята мучениця в радянському селі.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Добрая Рождественская история
 
 * Ведьмак. Час Презрения ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>80</sup>
-    > 7/10 продолжение истории ведьмака.
 
 * Хроники Амбера. Пятикнижие Мерлина. Карты судьбы ~ [Garka](users/115/115753719718250012620-google)<sup>239</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Санта -Хрякус ~ [Garka](users/115/115753719718250012620-google)<sup>238</sup>
 
-* Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>197</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>83</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>148</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lostinfrost](users/217/217891524-vkontakte)<sup>146</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>133</sup> 
 [](users/203/20368293-vkontakte)<sup>0</sup> 
-[Madlax](users/158/158304782-vkontakte)<sup>199</sup> 
 
 
-_09.01.2020 21:08:33_
+_10.01.2020 04:10:07_
