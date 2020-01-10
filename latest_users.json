@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 753,
+        "updatedAt": "2020-01-10 20:41:00"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -76,12 +82,6 @@
         "nickname": "rothaarig87",
         "booksCount": 0,
         "updatedAt": "2020-01-08 12:41:43"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 752,
-        "updatedAt": "2020-01-08 10:06:53"
     },
     "200666735-vkontakte": {
         "id": "200666735-vkontakte",
