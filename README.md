@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>90</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>205</sup> 
 [En](users/333/333646551-vkontakte)<sup>83</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>215</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>368</sup> 
 [Рогозин Михаил ](users/100/100765790813599895096-google)<sup>0</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>89</sup> 
 [fucking_desu](users/530/530144291-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup> 
 [unbiseptium](users/243/243390499-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>133</sup> 
 
 
-_10.01.2020 08:49:42_
+_10.01.2020 12:40:51_
