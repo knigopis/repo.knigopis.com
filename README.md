@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[18524553](users/235/235870707-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>90</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>205</sup> 
 [En](users/333/333646551-vkontakte)<sup>83</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [neccochi](users/667/66767060-vkontakte)<sup>2</sup> 
 [Marika](users/242/242692811-vkontakte)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>146</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>133</sup> 
 
 
-_10.01.2020 12:40:51_
+_10.01.2020 13:46:25_
