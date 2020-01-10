@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>205</sup> 
 [En](users/333/333646551-vkontakte)<sup>83</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>148</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Marika](users/242/242692811-vkontakte)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>146</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>133</sup> 
-[](users/203/20368293-vkontakte)<sup>0</sup> 
 
 
-_10.01.2020 04:10:07_
+_10.01.2020 08:49:42_
