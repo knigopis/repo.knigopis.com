@@ -1,7 +1,7 @@
 # Wish list of books by [afferens.lucem](http://vk.com/id196071655)
 ---
 
-### `64` Город пустых. Побег из дома странных детей.
+### `36` Библиотека Душ
 Ренсом Риггз
 
 ### `28` Asp.Net Core MVC 2
