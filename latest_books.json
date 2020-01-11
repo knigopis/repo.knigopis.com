@@ -1,4 +1,16 @@
 {
+    "fCLd2PdiAR": {
+        "id": "fCLd2PdiAR",
+        "title": "1984",
+        "author": "Джордж Орэулл",
+        "notes": "",
+        "createdAt": "2020-01-11 20:58:37",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 7
+        }
+    },
     "8ntkS1Z71G": {
         "id": "8ntkS1Z71G",
         "title": "Башня ласточки",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 19
-        }
-    },
-    "u0_QNZ4ViE": {
-        "id": "u0_QNZ4ViE",
-        "title": "Скорбь Сатаны",
-        "author": "Брэм Стокер",
-        "notes": "5/10 искушение деньгами и женщинами.",
-        "createdAt": "2020-01-06 21:40:21",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 79
         }
     }
 }

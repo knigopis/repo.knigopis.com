@@ -1,4 +1,4 @@
-# List of books read by [dghtt](http://vk.com/id233860015)<sup>6</sup>
+# List of books read by [dghtt](http://vk.com/id233860015)<sup>7</sup>
 ---
 
 ## 2020
@@ -28,6 +28,13 @@
 
 ### Последнее Желание
 Анджей Сапковский
+
+
+
+## 2018
+
+### 1984
+Джордж Орэулл
 
 
 
