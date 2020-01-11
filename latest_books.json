@@ -1,4 +1,16 @@
 {
+    "eU1N5DaMzO": {
+        "id": "eU1N5DaMzO",
+        "title": "Научиться рисовать за 30 дней",
+        "author": "Марк Клестер",
+        "notes": "",
+        "createdAt": "2020-01-11 21:16:40",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 25
+        }
+    },
     "3eExo9T4rX": {
         "id": "3eExo9T4rX",
         "title": "Кради как художник",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 90
-        }
-    },
-    "4Q8C1FTs1W": {
-        "id": "4Q8C1FTs1W",
-        "title": "Самоубийство",
-        "author": "Марк Алданов",
-        "notes": "",
-        "createdAt": "2020-01-10 08:49:42",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 205
         }
     }
 }

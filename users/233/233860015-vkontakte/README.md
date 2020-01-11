@@ -1,4 +1,4 @@
-# List of books read by [dghtt](http://vk.com/id233860015)<sup>24</sup>
+# List of books read by [dghtt](http://vk.com/id233860015)<sup>25</sup>
 ---
 
 ## 2020
@@ -65,6 +65,10 @@
 
 
 ## 2018
+
+### Научиться рисовать за 30 дней
+Марк Клестер
+
 
 ### Кради как художник
 Остин Клеон
