@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 369,
+        "updatedAt": "2020-01-11 19:15:17"
+    },
     "363975832-vkontakte": {
         "id": "363975832-vkontakte",
         "nickname": "milkabo",
@@ -124,12 +130,6 @@
         "nickname": "Knigolub~",
         "booksCount": 215,
         "updatedAt": "2020-01-05 14:37:41"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 368,
-        "updatedAt": "2020-01-05 09:47:38"
     },
     "100765790813599895096-google": {
         "id": "100765790813599895096-google",

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>369</sup> 
 [milkabo](users/363/363975832-vkontakte)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>156</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>161</sup> 
 [Stem](users/114/114019737181475006297-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>215</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>368</sup> 
 [Рогозин Михаил ](users/100/100765790813599895096-google)<sup>0</sup> 
 [fucking_desu](users/530/530144291-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ice_in_eyes](users/277/277708366-vkontakte)<sup>0</sup> 
 
 
-_11.01.2020 15:34:44_
+_11.01.2020 19:15:17_
