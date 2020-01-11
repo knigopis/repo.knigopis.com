@@ -1,4 +1,4 @@
-# List of books read by [dghtt](http://vk.com/id233860015)<sup>17</sup>
+# List of books read by [dghtt](http://vk.com/id233860015)<sup>18</sup>
 ---
 
 ## 2020
@@ -9,6 +9,10 @@
 
 
 ## 2019
+
+### Множество рассказов Лавкрафта
+Говард Филлипс Лавкрафт
+
 
 ### Мобильник
 Стивен Кинг
