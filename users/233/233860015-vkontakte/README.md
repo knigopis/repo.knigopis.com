@@ -1,7 +1,11 @@
-# List of books read by [dghtt](http://vk.com/id233860015)<sup>8</sup>
+# List of books read by [dghtt](http://vk.com/id233860015)<sup>9</sup>
 ---
 
 ## 2020
+
+### Синяя Борода
+Курт Воннегут
+
 
 ### Башня ласточки
 Анджей Сапковский

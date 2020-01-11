@@ -1,4 +1,16 @@
 {
+    "Mmowyabr5R": {
+        "id": "Mmowyabr5R",
+        "title": "Синяя Борода",
+        "author": "Курт Воннегут",
+        "notes": "",
+        "createdAt": "2020-01-11 20:59:25",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 9
+        }
+    },
     "PrL5sPm53p": {
         "id": "PrL5sPm53p",
         "title": "Скотный двор",
@@ -345,18 +357,6 @@
             "id": "200666735-vkontakte",
             "nickname": "mavrentik",
             "booksCount": 21
-        }
-    },
-    "K2quuqO-q6": {
-        "id": "K2quuqO-q6",
-        "title": "Реанимация судьбы",
-        "author": "Марина Крамер",
-        "notes": "",
-        "createdAt": "2020-01-07 16:39:24",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 20
         }
     }
 }
