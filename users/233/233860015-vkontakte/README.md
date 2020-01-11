@@ -1,4 +1,4 @@
-# List of books read by [dghtt](http://vk.com/id233860015)<sup>22</sup>
+# List of books read by [dghtt](http://vk.com/id233860015)<sup>23</sup>
 ---
 
 ## 2020
@@ -96,6 +96,10 @@
 
 
 ## 2017
+
+### Дизайнь
+Хизер Бредли
+
 
 ### Два Капитана
 Вениамин Александрович Каверин
