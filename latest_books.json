@@ -1,4 +1,16 @@
 {
+    "vXOg2iXZsf": {
+        "id": "vXOg2iXZsf",
+        "title": "Мобильник",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-01-11 21:00:54",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 13
+        }
+    },
     "dbz1FIIob0": {
         "id": "dbz1FIIob0",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 20
-        }
-    },
-    "KDkKcvd_to": {
-        "id": "KDkKcvd_to",
-        "title": "Хроники Амбера. Пятикнижие Мерлина. Карты судьбы",
-        "author": "Желязны, Роджер",
-        "notes": "На Мерлина, сына Корвина покушаются, Каин убит, все подозревают всех... Колесо-Призрак (изобретение Мерлина) обретает собственный разум",
-        "createdAt": "2020-01-08 14:53:45",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 239
         }
     }
 }
