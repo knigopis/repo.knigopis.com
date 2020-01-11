@@ -1,4 +1,16 @@
 {
+    "dbz1FIIob0": {
+        "id": "dbz1FIIob0",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2020-01-11 21:00:37",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 12
+        }
+    },
     "-i-h6CpR81": {
         "id": "-i-h6CpR81",
         "title": "Vita Nostra",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 239
-        }
-    },
-    "Gl0_yhZ6_t": {
-        "id": "Gl0_yhZ6_t",
-        "title": "Монета скифского царя",
-        "author": "Анна Князева",
-        "notes": "",
-        "createdAt": "2020-01-08 14:27:47",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 21
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dghtt](users/233/233860015-vkontakte)<sup>11</sup> 
+[dghtt](users/233/233860015-vkontakte)<sup>12</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>369</sup> 
 [milkabo](users/363/363975832-vkontakte)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Galina](users/113/113453299-vkontakte)<sup>0</sup> 
 
 
-_11.01.2020 21:00:12_
+_11.01.2020 21:00:37_
