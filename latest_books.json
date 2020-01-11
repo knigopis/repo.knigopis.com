@@ -1,4 +1,16 @@
 {
+    "jWMN27mWTl": {
+        "id": "jWMN27mWTl",
+        "title": "Либерал. Новогодний рассказ",
+        "author": "Антон Павлович Чехов",
+        "notes": "wth is this",
+        "createdAt": "2020-01-11 21:06:50",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 20
+        }
+    },
     "iRguVf-TC5": {
         "id": "iRguVf-TC5",
         "title": "Дело маньяка Джона Гейси",
@@ -345,18 +357,6 @@
             "id": "10202544960024508-facebook",
             "nickname": "Beaviska",
             "booksCount": 36
-        }
-    },
-    "D_sR0pVyPq": {
-        "id": "D_sR0pVyPq",
-        "title": "Биография Ерофеева",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-01-09 16:06:51",
-        "user": {
-            "id": "201788999-vkontakte",
-            "nickname": "43dostaw",
-            "booksCount": 1
         }
     }
 }
