@@ -1,4 +1,10 @@
 {
+    "363975832-vkontakte": {
+        "id": "363975832-vkontakte",
+        "nickname": "milkabo",
+        "booksCount": 0,
+        "updatedAt": "2020-01-11 15:34:42"
+    },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "ice_in_eyes",
         "booksCount": 0,
         "updatedAt": "2020-01-03 20:15:51"
-    },
-    "66767060-vkontakte": {
-        "id": "66767060-vkontakte",
-        "nickname": "neccochi",
-        "booksCount": 2,
-        "updatedAt": "2020-01-03 16:28:51"
     }
 }
