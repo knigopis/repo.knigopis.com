@@ -1,4 +1,16 @@
 {
+    "zyZ0Rr89PK": {
+        "id": "zyZ0Rr89PK",
+        "title": "Множество рассказов Лавкрафта",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2020-01-11 21:03:27",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 17
+        }
+    },
     "mdwCagKQxy": {
         "id": "mdwCagKQxy",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 22
-        }
-    },
-    "3Mhbup7AuU": {
-        "id": "3Mhbup7AuU",
-        "title": "Георгаф глобус пропил",
-        "author": "Алексей Иванов",
-        "notes": "",
-        "createdAt": "2020-01-08 20:28:20",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 64
         }
     }
 }
