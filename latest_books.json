@@ -1,4 +1,16 @@
 {
+    "iRguVf-TC5": {
+        "id": "iRguVf-TC5",
+        "title": "Дело маньяка Джона Гейси",
+        "author": "Терри Салливан при уч. Питера Т. Мейкена",
+        "notes": "",
+        "createdAt": "2020-01-11 21:04:42",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 19
+        }
+    },
     "qu7RMsrJem": {
         "id": "qu7RMsrJem",
         "title": "Множество рассказов Лавкрафта",
@@ -345,18 +357,6 @@
             "id": "201788999-vkontakte",
             "nickname": "43dostaw",
             "booksCount": 1
-        }
-    },
-    "CZ_Rqu5az1": {
-        "id": "CZ_Rqu5az1",
-        "title": "Подсадная тетка",
-        "author": "Владимир Колычев",
-        "notes": "",
-        "createdAt": "2020-01-09 12:44:30",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 22
         }
     }
 }
