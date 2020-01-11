@@ -1,4 +1,10 @@
 {
+    "233860015-vkontakte": {
+        "id": "233860015-vkontakte",
+        "nickname": "dghtt",
+        "booksCount": 0,
+        "updatedAt": "2020-01-11 20:55:24"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "Galina",
         "booksCount": 0,
         "updatedAt": "2020-01-04 08:36:12"
-    },
-    "277708366-vkontakte": {
-        "id": "277708366-vkontakte",
-        "nickname": "ice_in_eyes",
-        "booksCount": 0,
-        "updatedAt": "2020-01-03 20:15:51"
     }
 }
