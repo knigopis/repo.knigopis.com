@@ -1,4 +1,4 @@
-# List of books read by [dghtt](http://vk.com/id233860015)<sup>7</sup>
+# List of books read by [dghtt](http://vk.com/id233860015)<sup>8</sup>
 ---
 
 ## 2020
@@ -32,6 +32,10 @@
 
 
 ## 2018
+
+### Скотный двор
+Джордж Оруэлл
+
 
 ### 1984
 Джордж Орэулл
