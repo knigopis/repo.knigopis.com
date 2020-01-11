@@ -1,4 +1,16 @@
 {
+    "mdwCagKQxy": {
+        "id": "mdwCagKQxy",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Дэвид Сэлинджер",
+        "notes": "",
+        "createdAt": "2020-01-11 21:02:41",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 16
+        }
+    },
     "6pBR6RNNwP": {
         "id": "6pBR6RNNwP",
         "title": "Война с саламандрами",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 64
-        }
-    },
-    "fFqRzU5CFI": {
-        "id": "fFqRzU5CFI",
-        "title": "Ведьмак. Час Презрения",
-        "author": "Анджей Сапковский",
-        "notes": "7/10 продолжение истории ведьмака.",
-        "createdAt": "2020-01-08 19:39:32",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 80
         }
     }
 }

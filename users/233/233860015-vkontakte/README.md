@@ -1,4 +1,4 @@
-# List of books read by [dghtt](http://vk.com/id233860015)<sup>15</sup>
+# List of books read by [dghtt](http://vk.com/id233860015)<sup>16</sup>
 ---
 
 ## 2020
@@ -52,6 +52,10 @@
 
 
 ## 2018
+
+### Над пропастью во ржи
+Джером Дэвид Сэлинджер
+
 
 ### Война с саламандрами
 Карел Чапек
