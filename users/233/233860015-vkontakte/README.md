@@ -1,4 +1,4 @@
-# List of books read by [dghtt](http://vk.com/id233860015)<sup>10</sup>
+# List of books read by [dghtt](http://vk.com/id233860015)<sup>11</sup>
 ---
 
 ## 2020
@@ -13,6 +13,10 @@
 
 
 ## 2019
+
+### Vita Nostra
+Мария и Сергей Дяченко
+
 
 ### Муза и чудовище. Как организовать творческий труд
 Яна Франк

@@ -1,4 +1,16 @@
 {
+    "-i-h6CpR81": {
+        "id": "-i-h6CpR81",
+        "title": "Vita Nostra",
+        "author": "Мария и Сергей Дяченко",
+        "notes": "",
+        "createdAt": "2020-01-11 21:00:12",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 11
+        }
+    },
     "6XQOMtMzHU": {
         "id": "6XQOMtMzHU",
         "title": "Муза и чудовище. Как организовать творческий труд",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 21
-        }
-    },
-    "9p9JZ-WCvd": {
-        "id": "9p9JZ-WCvd",
-        "title": "Черновик",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2020-01-08 10:06:53",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 752
         }
     }
 }
