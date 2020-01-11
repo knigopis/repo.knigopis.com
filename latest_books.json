@@ -1,4 +1,16 @@
 {
+    "6XQOMtMzHU": {
+        "id": "6XQOMtMzHU",
+        "title": "Муза и чудовище. Как организовать творческий труд",
+        "author": "Яна Франк",
+        "notes": "",
+        "createdAt": "2020-01-11 20:59:54",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 10
+        }
+    },
     "Mmowyabr5R": {
         "id": "Mmowyabr5R",
         "title": "Синяя Борода",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 752
-        }
-    },
-    "E2aaJQB0E1": {
-        "id": "E2aaJQB0E1",
-        "title": "Солярис",
-        "author": "Станислав Герман Лем",
-        "notes": "",
-        "createdAt": "2020-01-07 23:58:17",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 21
         }
     }
 }
