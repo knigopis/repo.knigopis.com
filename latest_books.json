@@ -1,4 +1,16 @@
 {
+    "g3lK68ltD-": {
+        "id": "g3lK68ltD-",
+        "title": "Правила умной жены",
+        "author": "Эллен Фейн, Шерри Шнайдер",
+        "notes": "",
+        "createdAt": "2020-01-11 10:12:20",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "Ngug3-_Jc7": {
         "id": "Ngug3-_Jc7",
         "title": "Хроники проклятого (1)",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 212
-        }
-    },
-    "kPXMAhRG5A": {
-        "id": "kPXMAhRG5A",
-        "title": "Жизнь и воротник",
-        "author": "Тэффи",
-        "notes": "",
-        "createdAt": "2020-01-05 14:35:55",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 211
         }
     }
 }
