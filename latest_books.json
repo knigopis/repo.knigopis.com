@@ -1,4 +1,16 @@
 {
+    "NsrR4-ANaY": {
+        "id": "NsrR4-ANaY",
+        "title": "Бойня номер пять, или крестовый поход детей",
+        "author": "Курт Воннегут",
+        "notes": "",
+        "createdAt": "2020-01-11 21:01:21",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 14
+        }
+    },
     "vXOg2iXZsf": {
         "id": "vXOg2iXZsf",
         "title": "Мобильник",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 78
-        }
-    },
-    "iukKJvK5kf": {
-        "id": "iukKJvK5kf",
-        "title": "Война чувств",
-        "author": "Наташа Колесникова",
-        "notes": "",
-        "createdAt": "2020-01-08 15:15:55",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 20
         }
     }
 }
