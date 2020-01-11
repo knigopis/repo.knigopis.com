@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хроники проклятого (1) ~ [Chiffi](users/105/105831994080785626680-google)<sup>156</sup>
 * Худеющий ~ [En](users/333/333646551-vkontakte)<sup>83</sup>
 * Суча дочка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup>
 * В канун Рождества ~ [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup>
@@ -30,7 +31,6 @@
 * Убик ~ [HXT](users/100/100002563462782-facebook)<sup>361</sup>
 * Летос ~ [Chiffi](users/105/105831994080785626680-google)<sup>152</sup>
 * Бойцовский клуб ~ [anvonamore](users/595/5957175-vkontakte)<sup>129</sup>
-* Patagonia - бизнес в стиле серфинг ~ [youno](users/302/302928912-vkontakte)<sup>40</sup>
 
 
-_10.01.2020 04:10:07_
+_11.01.2020 07:00:18_

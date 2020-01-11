@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники проклятого (1) ~ [Chiffi](users/105/105831994080785626680-google)<sup>156</sup>
+    > Хорошая историческая повесть на тему христианства+теория заговора
+
 * Худеющий ~ [En](users/333/333646551-vkontakte)<sup>83</sup>
     > преуспевающий адвокат Билли Халлек случайно насмерть сбивает цыганку, переходящую дорогу. Благодаря своим связям, протагонисту удаётся избежать наказания. Однако отец погибшей накладывает на героя заклятье, из-за которого тот начинает бесконтрольно терять вес.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Свята мучениця в радянському селі.
 
 * В канун Рождества ~ [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup>
-    > Добрая Рождественская история
 
 * Ведьмак. Час Презрения ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>80</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Настольная книга для монашествующих и мирян ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup>
 
-* Санта -Хрякус ~ [Garka](users/115/115753719718250012620-google)<sup>238</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>156</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>753</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
 [18524553](users/235/235870707-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ice_in_eyes](users/277/277708366-vkontakte)<sup>0</sup> 
 [neccochi](users/667/66767060-vkontakte)<sup>2</sup> 
 [Marika](users/242/242692811-vkontakte)<sup>0</sup> 
-[lostinfrost](users/217/217891524-vkontakte)<sup>146</sup> 
 
 
-_10.01.2020 20:41:01_
+_11.01.2020 07:00:18_
