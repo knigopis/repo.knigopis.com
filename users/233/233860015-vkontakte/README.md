@@ -1,7 +1,11 @@
-# List of books read by [dghtt](http://vk.com/id233860015)<sup>23</sup>
+# List of books read by [dghtt](http://vk.com/id233860015)<sup>24</sup>
 ---
 
 ## 2020
+
+### Кради как художник
+Остин Клеон
+
 
 ### Синяя Борода
 Курт Воннегут
