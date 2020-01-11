@@ -1,4 +1,16 @@
 {
+    "cFn2HvQT1v": {
+        "id": "cFn2HvQT1v",
+        "title": "Кровь эльфов",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2020-01-11 20:57:19",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 3
+        }
+    },
     "81iHT90QkX": {
         "id": "81iHT90QkX",
         "title": "Меч предназначения",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 20
-        }
-    },
-    "2S0WiPHIdh": {
-        "id": "2S0WiPHIdh",
-        "title": "Фотография, на которой меня нет",
-        "author": "Виктор Астафьев",
-        "notes": "",
-        "createdAt": "2020-01-05 14:37:41",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 215
         }
     }
 }
