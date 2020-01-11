@@ -1,7 +1,7 @@
 # Wish list of books by [afferens.lucem](http://vk.com/id196071655)
 ---
 
-### `36` Библиотека Душ
+### `47` Библиотека Душ
 Ренсом Риггз
 
 ### `28` Asp.Net Core MVC 2
