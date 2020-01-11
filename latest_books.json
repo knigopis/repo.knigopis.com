@@ -1,4 +1,16 @@
 {
+    "6pBR6RNNwP": {
+        "id": "6pBR6RNNwP",
+        "title": "Война с саламандрами",
+        "author": "Карел Чапек",
+        "notes": "",
+        "createdAt": "2020-01-11 21:01:56",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 15
+        }
+    },
     "NsrR4-ANaY": {
         "id": "NsrR4-ANaY",
         "title": "Бойня номер пять, или крестовый поход детей",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 80
-        }
-    },
-    "Q8y7Vp8BKy": {
-        "id": "Q8y7Vp8BKy",
-        "title": "Мастер и Маргарита",
-        "author": "М.Булгаков",
-        "notes": "",
-        "createdAt": "2020-01-08 16:42:51",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 78
         }
     }
 }
