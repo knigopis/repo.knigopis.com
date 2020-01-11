@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[milkabo](users/363/363975832-vkontakte)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>156</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>753</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Almas](users/250/2501865753276404-facebook)<sup>0</sup> 
 [Galina](users/113/113453299-vkontakte)<sup>0</sup> 
 [ice_in_eyes](users/277/277708366-vkontakte)<sup>0</sup> 
-[neccochi](users/667/66767060-vkontakte)<sup>2</sup> 
 
 
-_11.01.2020 10:12:20_
+_11.01.2020 15:34:44_
