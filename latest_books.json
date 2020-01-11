@@ -1,4 +1,16 @@
 {
+    "UWsYv5hcY7": {
+        "id": "UWsYv5hcY7",
+        "title": "Белый клык",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2020-01-11 21:12:40",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 21
+        }
+    },
     "jWMN27mWTl": {
         "id": "jWMN27mWTl",
         "title": "Либерал. Новогодний рассказ",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 148
-        }
-    },
-    "Zx1yJOIkg0": {
-        "id": "Zx1yJOIkg0",
-        "title": "В канун Рождества",
-        "author": "Розамунда Пилчер",
-        "notes": "Добрая Рождественская история",
-        "createdAt": "2020-01-09 17:16:33",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 36
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [dghtt](http://vk.com/id233860015)<sup>20</sup>
+# List of books read by [dghtt](http://vk.com/id233860015)<sup>21</sup>
 ---
 
 ## 2020
@@ -65,6 +65,10 @@
 
 
 ## 2018
+
+### Белый клык
+Джек Лондон
+
 
 ### Множество рассказов Лавкрафта
 Говард Филлипс Лавкрафт
