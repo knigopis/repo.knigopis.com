@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>156</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>753</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Galina](users/113/113453299-vkontakte)<sup>0</sup> 
 [ice_in_eyes](users/277/277708366-vkontakte)<sup>0</sup> 
 [neccochi](users/667/66767060-vkontakte)<sup>2</sup> 
-[Marika](users/242/242692811-vkontakte)<sup>0</sup> 
 
 
-_11.01.2020 07:00:18_
+_11.01.2020 10:08:29_
