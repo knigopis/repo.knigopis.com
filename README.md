@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Человеколось](users/174/17475979687188177329-mailru)<sup>65</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>370</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>134</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>25</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>148</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
-[Человеколось](users/174/17475979687188177329-mailru)<sup>64</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>78</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>238</sup> 
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Almas](users/250/2501865753276404-facebook)<sup>0</sup> 
 
 
-_12.01.2020 11:11:36_
+_12.01.2020 12:11:06_

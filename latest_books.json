@@ -1,4 +1,16 @@
 {
+    "yz_2Awdibo": {
+        "id": "yz_2Awdibo",
+        "title": "Земля",
+        "author": "Михаил Елизаров",
+        "notes": "",
+        "createdAt": "2020-01-12 12:11:06",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 65
+        }
+    },
     "aVm8Os6EHu": {
         "id": "aVm8Os6EHu",
         "title": "Мае дзевяностыя",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 156
-        }
-    },
-    "qj830Vm17-": {
-        "id": "qj830Vm17-",
-        "title": "Чистовик",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2020-01-10 20:41:00",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 753
         }
     }
 }
