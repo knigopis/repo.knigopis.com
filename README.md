@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 12 недель в году ~ [youno](users/302/302928912-vkontakte)<sup>41</sup>
+    > Первая книга по эффективности, кое-что почерпнул, думаю, что буду перечитывать.
+
 * Хроники проклятого (1) ~ [Chiffi](users/105/105831994080785626680-google)<sup>156</sup>
     > Хорошая историческая повесть на тему христианства+теория заговора
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > преуспевающий адвокат Билли Халлек случайно насмерть сбивает цыганку, переходящую дорогу. Благодаря своим связям, протагонисту удаётся избежать наказания. Однако отец погибшей накладывает на героя заклятье, из-за которого тот начинает бесконтрольно терять вес.
 
 * Суча дочка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup>
-    > 7/10 Свята мучениця в радянському селі.
 
 * В канун Рождества ~ [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>77</sup>
 
-* Настольная книга для монашествующих и мирян ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>41</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>65</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>370</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>134</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup> 
 [unbiseptium](users/243/243390499-vkontakte)<sup>0</sup> 
 [marta_violeta](users/127/127724295-vkontakte)<sup>0</sup> 
-[Almas](users/250/2501865753276404-facebook)<sup>0</sup> 
 
 
-_12.01.2020 12:11:06_
+_12.01.2020 14:26:26_

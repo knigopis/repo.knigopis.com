@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 41,
+        "updatedAt": "2020-01-12 14:26:26"
+    },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",
         "nickname": "Человеколось",
@@ -172,11 +178,5 @@
         "nickname": "marta_violeta",
         "booksCount": 0,
         "updatedAt": "2020-01-04 16:31:59"
-    },
-    "2501865753276404-facebook": {
-        "id": "2501865753276404-facebook",
-        "nickname": "Almas",
-        "booksCount": 0,
-        "updatedAt": "2020-01-04 12:39:16"
     }
 }

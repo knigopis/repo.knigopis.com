@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 12 недель в году ~ [youno](users/302/302928912-vkontakte)<sup>41</sup>
 * Хроники проклятого (1) ~ [Chiffi](users/105/105831994080785626680-google)<sup>156</sup>
 * Худеющий ~ [En](users/333/333646551-vkontakte)<sup>83</sup>
 * Суча дочка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup>
@@ -30,7 +31,6 @@
 * Обітниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>75</sup>
 * Убик ~ [HXT](users/100/100002563462782-facebook)<sup>361</sup>
 * Летос ~ [Chiffi](users/105/105831994080785626680-google)<sup>152</sup>
-* Бойцовский клуб ~ [anvonamore](users/595/5957175-vkontakte)<sup>129</sup>
 
 
-_11.01.2020 07:00:18_
+_12.01.2020 14:26:26_
