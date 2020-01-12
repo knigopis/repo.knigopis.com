@@ -1,4 +1,16 @@
 {
+    "KD3jQh5fX_": {
+        "id": "KD3jQh5fX_",
+        "title": "Кроннштадт и Питер в 1917 году",
+        "author": "Раскольников Федор Федорович",
+        "notes": "",
+        "createdAt": "2020-01-12 09:57:03",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 134
+        }
+    },
     "eU1N5DaMzO": {
         "id": "eU1N5DaMzO",
         "title": "Научиться рисовать за 30 дней",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 22
-        }
-    },
-    "O8uZB7ninM": {
-        "id": "O8uZB7ninM",
-        "title": "Кровавый остров",
-        "author": "Рик Янси",
-        "notes": "",
-        "createdAt": "2020-01-10 12:40:50",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 90
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>134</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>25</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>369</sup> 
 [milkabo](users/363/363975832-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [unbiseptium](users/243/243390499-vkontakte)<sup>0</sup> 
 [marta_violeta](users/127/127724295-vkontakte)<sup>0</sup> 
 [Almas](users/250/2501865753276404-facebook)<sup>0</sup> 
-[Galina](users/113/113453299-vkontakte)<sup>0</sup> 
 
 
-_11.01.2020 21:16:40_
+_12.01.2020 09:57:03_
