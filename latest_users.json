@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 54,
+        "updatedAt": "2020-01-12 19:55:17"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "unbiseptium",
         "booksCount": 0,
         "updatedAt": "2020-01-04 19:30:08"
-    },
-    "127724295-vkontakte": {
-        "id": "127724295-vkontakte",
-        "nickname": "marta_violeta",
-        "booksCount": 0,
-        "updatedAt": "2020-01-04 16:31:59"
     }
 }
