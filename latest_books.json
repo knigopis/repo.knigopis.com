@@ -1,4 +1,16 @@
 {
+    "mWaj2qcjAz": {
+        "id": "mWaj2qcjAz",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниэл Киз",
+        "notes": "",
+        "createdAt": "2020-01-12 16:49:51",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 21
+        }
+    },
     "2SbZVP0XPX": {
         "id": "2SbZVP0XPX",
         "title": "12 недель в году",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 369
-        }
-    },
-    "g3lK68ltD-": {
-        "id": "g3lK68ltD-",
-        "title": "Правила умной жены",
-        "author": "Эллен Фейн, Шерри Шнайдер",
-        "notes": "",
-        "createdAt": "2020-01-11 10:12:20",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
