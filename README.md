@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>370</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>134</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>25</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>369</sup> 
 [milkabo](users/363/363975832-vkontakte)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>156</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Almas](users/250/2501865753276404-facebook)<sup>0</sup> 
 
 
-_12.01.2020 09:57:03_
+_12.01.2020 11:11:36_

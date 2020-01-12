@@ -1,4 +1,16 @@
 {
+    "aVm8Os6EHu": {
+        "id": "aVm8Os6EHu",
+        "title": "Мае дзевяностыя",
+        "author": "Альгерд Бахарэвіч",
+        "notes": "",
+        "createdAt": "2020-01-12 11:11:36",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 370
+        }
+    },
     "KD3jQh5fX_": {
         "id": "KD3jQh5fX_",
         "title": "Кроннштадт и Питер в 1917 году",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 753
-        }
-    },
-    "U7pfALZb10": {
-        "id": "U7pfALZb10",
-        "title": "Старинный орнамент везения",
-        "author": "Татьяна Корсакова",
-        "notes": "",
-        "createdAt": "2020-01-10 14:03:02",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 22
         }
     }
 }
