@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>54</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>55</sup>
 ---
 
 ## 2020
+
+### Сырок. История моей жизни и бизнеса
+Борис Алексндров
+> [2020-01-12] 
+
 
 ### Другая правда. Том 2
 Александра Маринина

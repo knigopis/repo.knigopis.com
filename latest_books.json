@@ -1,4 +1,16 @@
 {
+    "CVJfpQzdbm": {
+        "id": "CVJfpQzdbm",
+        "title": "Сырок. История моей жизни и бизнеса",
+        "author": "Борис Алексндров",
+        "notes": "",
+        "createdAt": "2020-01-12 19:56:22",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 55
+        }
+    },
     "E5n3XeDETw": {
         "id": "E5n3XeDETw",
         "title": "Другая правда. Том 2",
@@ -345,18 +357,6 @@
             "id": "233860015-vkontakte",
             "nickname": "dghtt",
             "booksCount": 2
-        }
-    },
-    "H9pS10Q9uS": {
-        "id": "H9pS10Q9uS",
-        "title": "Последнее Желание",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2020-01-11 20:56:43",
-        "user": {
-            "id": "233860015-vkontakte",
-            "nickname": "dghtt",
-            "booksCount": 1
         }
     }
 }
