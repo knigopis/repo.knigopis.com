@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>21</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>22</sup>
 ---
 
 ## 2020
+
+### Интеллигент и две Риты
+Екатерина Вильмонт
+> [2020-01-13] 
+
 
 ### Цветы для Элджернона
 Дэниэл Киз

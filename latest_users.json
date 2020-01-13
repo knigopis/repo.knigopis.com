@@ -1,4 +1,10 @@
 {
+    "270444099499-odnoklassniki": {
+        "id": "270444099499-odnoklassniki",
+        "nickname": null,
+        "booksCount": 22,
+        "updatedAt": "2020-01-13 15:28:47"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -10,12 +16,6 @@
         "nickname": "Таньчик",
         "booksCount": 55,
         "updatedAt": "2020-01-12 19:56:22"
-    },
-    "270444099499-odnoklassniki": {
-        "id": "270444099499-odnoklassniki",
-        "nickname": null,
-        "booksCount": 21,
-        "updatedAt": "2020-01-12 16:49:51"
     },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
