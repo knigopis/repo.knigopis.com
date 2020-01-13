@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>149</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>754</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>55</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>205</sup> 
 [En](users/333/333646551-vkontakte)<sup>83</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>148</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>78</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [unbiseptium](users/243/243390499-vkontakte)<sup>0</sup> 
 
 
-_13.01.2020 15:28:47_
+_13.01.2020 20:05:39_

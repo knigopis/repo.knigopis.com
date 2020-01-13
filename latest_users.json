@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 149,
+        "updatedAt": "2020-01-13 20:05:38"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -94,12 +100,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 81,
         "updatedAt": "2020-01-09 21:08:33"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 148,
-        "updatedAt": "2020-01-09 19:39:20"
     },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
