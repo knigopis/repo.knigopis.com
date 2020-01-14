@@ -1,4 +1,10 @@
 {
+    "58171750-vkontakte": {
+        "id": "58171750-vkontakte",
+        "nickname": "vizart3d",
+        "booksCount": 0,
+        "updatedAt": "2020-01-14 11:43:55"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 222,
         "updatedAt": "2020-01-04 23:37:41"
-    },
-    "243390499-vkontakte": {
-        "id": "243390499-vkontakte",
-        "nickname": "unbiseptium",
-        "booksCount": 0,
-        "updatedAt": "2020-01-04 19:30:08"
     }
 }
