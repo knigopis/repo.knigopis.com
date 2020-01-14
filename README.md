@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Мару](users/115/115217405940870180381-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>91</sup> 
 [Bruss](users/178/178551812-vkontakte)<sup>5</sup> 
 [vizart3d](users/581/58171750-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Stem](users/114/114019737181475006297-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>215</sup> 
 [Рогозин Михаил ](users/100/100765790813599895096-google)<sup>0</sup> 
-[fucking_desu](users/530/530144291-vkontakte)<sup>0</sup> 
 
 
-_14.01.2020 16:28:25_
+_14.01.2020 18:10:59_
