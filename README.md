@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vizart3d](users/581/58171750-vkontakte)<sup>0</sup> 
+[vizart3d](users/581/58171750-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>157</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>149</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup> 
 
 
-_14.01.2020 11:44:01_
+_14.01.2020 11:45:41_
