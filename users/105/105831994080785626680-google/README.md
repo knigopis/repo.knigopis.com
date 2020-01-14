@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>156</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>157</sup>
 ---
 
 ## 2020
+
+### Проклятый 2 Путь проклятого
+Валетов Ян
+> [2020-01-14] 
+
 
 ### Проклятый 1 Хроники проклятого
 Валетов Ян

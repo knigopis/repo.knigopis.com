@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 157,
+        "updatedAt": "2020-01-14 05:53:27"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -64,12 +70,6 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2020-01-11 10:12:20"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 156,
-        "updatedAt": "2020-01-11 07:00:18"
     },
     "235870707-vkontakte": {
         "id": "235870707-vkontakte",

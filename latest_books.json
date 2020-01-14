@@ -1,4 +1,16 @@
 {
+    "2WPDgmbzuL": {
+        "id": "2WPDgmbzuL",
+        "title": "Проклятый 2 Путь проклятого",
+        "author": "Валетов Ян",
+        "notes": "",
+        "createdAt": "2020-01-14 05:53:27",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 157
+        }
+    },
     "EKluSh-T9S": {
         "id": "EKluSh-T9S",
         "title": "Библиотека Душ",
@@ -345,18 +357,6 @@
             "id": "233860015-vkontakte",
             "nickname": "dghtt",
             "booksCount": 6
-        }
-    },
-    "OeP370DQEn": {
-        "id": "OeP370DQEn",
-        "title": "Крещение огнем",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2020-01-11 20:57:48",
-        "user": {
-            "id": "233860015-vkontakte",
-            "nickname": "dghtt",
-            "booksCount": 5
         }
     }
 }
