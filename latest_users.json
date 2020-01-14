@@ -1,4 +1,10 @@
 {
+    "178551812-vkontakte": {
+        "id": "178551812-vkontakte",
+        "nickname": "Bruss",
+        "booksCount": 5,
+        "updatedAt": "2020-01-14 15:31:46"
+    },
     "58171750-vkontakte": {
         "id": "58171750-vkontakte",
         "nickname": "vizart3d",
@@ -172,11 +178,5 @@
         "nickname": "fucking_desu",
         "booksCount": 0,
         "updatedAt": "2020-01-05 00:44:45"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 222,
-        "updatedAt": "2020-01-04 23:37:41"
     }
 }

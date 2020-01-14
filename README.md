@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Архимаг (9 книг) ~ [Bruss](users/178/178551812-vkontakte)<sup>5</sup>
+    > Когда у человека есть мечта, это хорошо. Когда человек готов на все, чтобы мечта сбылась, это еще лучше. Но что делать, если ты мечтаешь ни много ни мало как о том, чтобы стать богом? И всего-то и нужно для этого, что умереть. А потом, естественно, воскреснуть.
+
 * 12 недель в году ~ [youno](users/302/302928912-vkontakte)<sup>41</sup>
     > Первая книга по эффективности, кое-что почерпнул, думаю, что буду перечитывать.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хорошая историческая повесть на тему христианства+теория заговора
 
 * Худеющий ~ [En](users/333/333646551-vkontakte)<sup>83</sup>
-    > преуспевающий адвокат Билли Халлек случайно насмерть сбивает цыганку, переходящую дорогу. Благодаря своим связям, протагонисту удаётся избежать наказания. Однако отец погибшей накладывает на героя заклятье, из-за которого тот начинает бесконтрольно терять вес.
 
 * Суча дочка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ведьмак. Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>78</sup>
 
-* Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>77</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Bruss](users/178/178551812-vkontakte)<sup>5</sup> 
 [vizart3d](users/581/58171750-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>157</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>149</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>215</sup> 
 [Рогозин Михаил ](users/100/100765790813599895096-google)<sup>0</sup> 
 [fucking_desu](users/530/530144291-vkontakte)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup> 
 
 
-_14.01.2020 11:45:41_
+_14.01.2020 15:31:46_
