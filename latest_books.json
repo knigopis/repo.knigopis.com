@@ -1,4 +1,16 @@
 {
+    "-1l5TvmYs0": {
+        "id": "-1l5TvmYs0",
+        "title": "Делай космос",
+        "author": "В. Егоров",
+        "notes": "",
+        "createdAt": "2020-01-14 20:54:28",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 40
+        }
+    },
     "WeM_7zd9xn": {
         "id": "WeM_7zd9xn",
         "title": "Медея и ее дети",
@@ -345,18 +357,6 @@
             "id": "233860015-vkontakte",
             "nickname": "dghtt",
             "booksCount": 11
-        }
-    },
-    "6XQOMtMzHU": {
-        "id": "6XQOMtMzHU",
-        "title": "Муза и чудовище. Как организовать творческий труд",
-        "author": "Яна Франк",
-        "notes": "",
-        "createdAt": "2020-01-11 20:59:54",
-        "user": {
-            "id": "233860015-vkontakte",
-            "nickname": "dghtt",
-            "booksCount": 10
         }
     }
 }

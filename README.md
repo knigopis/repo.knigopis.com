@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>40</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>755</sup> 
 [Мару](users/115/115217405940870180381-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>91</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>161</sup> 
 [Stem](users/114/114019737181475006297-google)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>215</sup> 
-[Рогозин Михаил ](users/100/100765790813599895096-google)<sup>0</sup> 
 
 
-_14.01.2020 19:37:08_
+_14.01.2020 20:54:28_

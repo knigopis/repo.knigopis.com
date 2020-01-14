@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 40,
+        "updatedAt": "2020-01-14 20:54:28"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Knigolub~",
         "booksCount": 215,
         "updatedAt": "2020-01-05 14:37:41"
-    },
-    "100765790813599895096-google": {
-        "id": "100765790813599895096-google",
-        "nickname": "Рогозин Михаил ",
-        "booksCount": 0,
-        "updatedAt": "2020-01-05 08:35:57"
     }
 }
