@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vizart3d](users/581/58171750-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>157</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>149</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Рогозин Михаил ](users/100/100765790813599895096-google)<sup>0</sup> 
 [fucking_desu](users/530/530144291-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup> 
-[unbiseptium](users/243/243390499-vkontakte)<sup>0</sup> 
 
 
-_14.01.2020 05:53:27_
+_14.01.2020 11:44:01_
