@@ -1,4 +1,10 @@
 {
+    "115217405940870180381-google": {
+        "id": "115217405940870180381-google",
+        "nickname": "Мару",
+        "booksCount": 0,
+        "updatedAt": "2020-01-14 18:10:57"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "Рогозин Михаил ",
         "booksCount": 0,
         "updatedAt": "2020-01-05 08:35:57"
-    },
-    "530144291-vkontakte": {
-        "id": "530144291-vkontakte",
-        "nickname": "fucking_desu",
-        "booksCount": 0,
-        "updatedAt": "2020-01-05 00:44:45"
     }
 }
