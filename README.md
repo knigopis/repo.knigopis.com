@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>755</sup> 
 [Мару](users/115/115217405940870180381-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>91</sup> 
 [Bruss](users/178/178551812-vkontakte)<sup>5</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>157</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>149</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>754</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>55</sup> 
 [youno](users/302/302928912-vkontakte)<sup>41</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>65</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Рогозин Михаил ](users/100/100765790813599895096-google)<sup>0</sup> 
 
 
-_14.01.2020 18:10:59_
+_14.01.2020 19:37:08_

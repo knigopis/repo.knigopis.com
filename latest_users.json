@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 755,
+        "updatedAt": "2020-01-14 19:37:06"
+    },
     "115217405940870180381-google": {
         "id": "115217405940870180381-google",
         "nickname": "Мару",
@@ -40,12 +46,6 @@
         "nickname": null,
         "booksCount": 22,
         "updatedAt": "2020-01-13 15:28:47"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 754,
-        "updatedAt": "2020-01-13 15:12:14"
     },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
