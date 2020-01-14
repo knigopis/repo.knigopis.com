@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>91</sup> 
 [Bruss](users/178/178551812-vkontakte)<sup>5</sup> 
 [vizart3d](users/581/58171750-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>157</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [milkabo](users/363/363975832-vkontakte)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>1</sup> 
 [18524553](users/235/235870707-vkontakte)<sup>0</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>90</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>205</sup> 
 [En](users/333/333646551-vkontakte)<sup>83</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [fucking_desu](users/530/530144291-vkontakte)<sup>0</sup> 
 
 
-_14.01.2020 15:31:46_
+_14.01.2020 16:28:25_
