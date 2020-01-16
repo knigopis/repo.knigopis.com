@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Len4e91](users/254/254448176-yandex)<sup>7</sup> 
+[Len4e91](users/254/254448176-yandex)<sup>8</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>40</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>755</sup> 
 [Мару](users/115/115217405940870180381-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Stem](users/114/114019737181475006297-google)<sup>0</sup> 
 
 
-_16.01.2020 04:53:42_
+_16.01.2020 04:54:12_

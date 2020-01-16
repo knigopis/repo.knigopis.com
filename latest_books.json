@@ -1,4 +1,16 @@
 {
+    "SIUcOJo2kA": {
+        "id": "SIUcOJo2kA",
+        "title": "Один день из жизни Ивана Денисовича",
+        "author": "А.И. Солженицын",
+        "notes": "",
+        "createdAt": "2020-01-16 04:54:12",
+        "user": {
+            "id": "254448176-yandex",
+            "nickname": "Len4e91",
+            "booksCount": 8
+        }
+    },
     "3qc2Ry6aD2": {
         "id": "3qc2Ry6aD2",
         "title": "До встречи с тобой",
@@ -345,18 +357,6 @@
             "id": "233860015-vkontakte",
             "nickname": "dghtt",
             "booksCount": 15
-        }
-    },
-    "NsrR4-ANaY": {
-        "id": "NsrR4-ANaY",
-        "title": "Бойня номер пять, или крестовый поход детей",
-        "author": "Курт Воннегут",
-        "notes": "",
-        "createdAt": "2020-01-11 21:01:21",
-        "user": {
-            "id": "233860015-vkontakte",
-            "nickname": "dghtt",
-            "booksCount": 14
         }
     }
 }

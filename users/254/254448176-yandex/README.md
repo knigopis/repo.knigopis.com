@@ -1,4 +1,4 @@
-# List of books read by [Len4e91](http://openid.yandex.ru/Len4e91/)<sup>7</sup>
+# List of books read by [Len4e91](http://openid.yandex.ru/Len4e91/)<sup>8</sup>
 ---
 
 ## 2018
@@ -39,6 +39,11 @@
 ### Один день из жизни Ивана Денисовича
 А.И. Солженицын
 > [2017-01-26] 
+
+
+### Один день из жизни Ивана Денисовича
+А.И. Солженицын
+> [2017-01-16] 
 
 
 
