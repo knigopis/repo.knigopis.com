@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Путь к здоровью, или как победить хронические болезни ~ [Len4e91](users/254/254448176-yandex)<sup>9</sup>
 * До встречи с тобой ~ [Len4e91](users/254/254448176-yandex)<sup>7</sup>
 * Никогде ~ [Len4e91](users/254/254448176-yandex)<sup>6</sup>
 * После тебя ~ [Len4e91](users/254/254448176-yandex)<sup>5</sup>
@@ -30,7 +31,6 @@
 * Горе от ума ~ [mitsakult](users/288/288034278-vkontakte)<sup>2</sup>
 * Країна розваг ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>76</sup>
 * Слово о полку Игореве ~ [mitsakult](users/288/288034278-vkontakte)<sup>1</sup>
-* Клиенты на всю жизнь ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>221</sup>
 
 
-_16.01.2020 04:53:42_
+_16.01.2020 04:55:07_
