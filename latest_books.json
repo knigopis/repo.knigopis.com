@@ -1,4 +1,16 @@
 {
+    "F7ek5EhxiH": {
+        "id": "F7ek5EhxiH",
+        "title": "Монах, который продал свой Ферарри",
+        "author": "Робин Шарма",
+        "notes": "Очень мотивирующая книга. Простым языком описаны серьёзные вещи.",
+        "createdAt": "2020-01-16 04:59:57",
+        "user": {
+            "id": "254448176-yandex",
+            "nickname": "Len4e91",
+            "booksCount": 7
+        }
+    },
     "6cmDlTKC76": {
         "id": "6cmDlTKC76",
         "title": "Путь к здоровью, или как победить хронические болезни",
@@ -345,18 +357,6 @@
             "id": "233860015-vkontakte",
             "nickname": "dghtt",
             "booksCount": 18
-        }
-    },
-    "mdwCagKQxy": {
-        "id": "mdwCagKQxy",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Дэвид Сэлинджер",
-        "notes": "",
-        "createdAt": "2020-01-11 21:02:41",
-        "user": {
-            "id": "233860015-vkontakte",
-            "nickname": "dghtt",
-            "booksCount": 16
         }
     }
 }
