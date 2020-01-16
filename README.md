@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dghtt](users/233/233860015-vkontakte)<sup>26</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>67</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>756</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>206</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Человеколось](users/174/17475979687188177329-mailru)<sup>65</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>370</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>134</sup> 
-[dghtt](users/233/233860015-vkontakte)<sup>25</sup> 
 [milkabo](users/363/363975832-vkontakte)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>1</sup> 
 [18524553](users/235/235870707-vkontakte)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>161</sup> 
 
 
-_16.01.2020 16:59:46_
+_16.01.2020 17:19:22_
