@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Никогде ~ [Len4e91](users/254/254448176-yandex)<sup>6</sup>
 * После тебя ~ [Len4e91](users/254/254448176-yandex)<sup>5</sup>
 * Архимаг (9 книг) ~ [Bruss](users/178/178551812-vkontakte)<sup>5</sup>
 * 12 недель в году ~ [youno](users/302/302928912-vkontakte)<sup>41</sup>
@@ -30,7 +31,6 @@
 * Слово о полку Игореве ~ [mitsakult](users/288/288034278-vkontakte)<sup>1</sup>
 * Клиенты на всю жизнь ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>221</sup>
 * Пляж ~ [Beaviska](users/102/10202544960024508-facebook)<sup>35</sup>
-* Обітниця ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>75</sup>
 
 
-_16.01.2020 04:52:12_
+_16.01.2020 04:53:12_
