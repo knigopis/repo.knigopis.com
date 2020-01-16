@@ -1,4 +1,16 @@
 {
+    "39gECw6VPk": {
+        "id": "39gECw6VPk",
+        "title": "После тебя",
+        "author": "Джоджо Моейес",
+        "notes": "Интересный роман, читать легко, захватывает",
+        "createdAt": "2020-01-16 04:52:12",
+        "user": {
+            "id": "254448176-yandex",
+            "nickname": "Len4e91",
+            "booksCount": 5
+        }
+    },
     "-1l5TvmYs0": {
         "id": "-1l5TvmYs0",
         "title": "Делай космос",
@@ -345,18 +357,6 @@
             "id": "233860015-vkontakte",
             "nickname": "dghtt",
             "booksCount": 12
-        }
-    },
-    "-i-h6CpR81": {
-        "id": "-i-h6CpR81",
-        "title": "Vita Nostra",
-        "author": "Мария и Сергей Дяченко",
-        "notes": "",
-        "createdAt": "2020-01-11 21:00:12",
-        "user": {
-            "id": "233860015-vkontakte",
-            "nickname": "dghtt",
-            "booksCount": 11
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* После тебя ~ [Len4e91](users/254/254448176-yandex)<sup>5</sup>
+    > Интересный роман, читать легко, захватывает
+
 * Архимаг (9 книг) ~ [Bruss](users/178/178551812-vkontakte)<sup>5</sup>
     > Когда у человека есть мечта, это хорошо. Когда человек готов на все, чтобы мечта сбылась, это еще лучше. Но что делать, если ты мечтаешь ни много ни мало как о том, чтобы стать богом? И всего-то и нужно для этого, что умереть. А потом, естественно, воскреснуть.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Первая книга по эффективности, кое-что почерпнул, думаю, что буду перечитывать.
 
 * Хроники проклятого (1) ~ [Chiffi](users/105/105831994080785626680-google)<sup>156</sup>
-    > Хорошая историческая повесть на тему христианства+теория заговора
 
 * Худеющий ~ [En](users/333/333646551-vkontakte)<sup>83</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Скорбь Сатаны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>79</sup>
 
-* Ведьмак. Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>78</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Len4e91](users/254/254448176-yandex)<sup>5</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>40</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>755</sup> 
 [Мару](users/115/115217405940870180381-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>161</sup> 
 [Stem](users/114/114019737181475006297-google)<sup>0</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>215</sup> 
 
 
-_14.01.2020 20:54:28_
+_16.01.2020 04:52:12_
