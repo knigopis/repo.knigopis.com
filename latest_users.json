@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 66,
+        "updatedAt": "2020-01-16 16:55:25"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 161,
         "updatedAt": "2020-01-06 14:25:17"
-    },
-    "114019737181475006297-google": {
-        "id": "114019737181475006297-google",
-        "nickname": "Stem",
-        "booksCount": 0,
-        "updatedAt": "2020-01-06 09:26:24"
     }
 }

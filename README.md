@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>66</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>756</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>206</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>8</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>161</sup> 
-[Stem](users/114/114019737181475006297-google)<sup>0</sup> 
 
 
-_16.01.2020 12:40:13_
+_16.01.2020 16:55:25_
