@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>206</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>8</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>40</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>755</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [milkabo](users/363/363975832-vkontakte)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>1</sup> 
 [18524553](users/235/235870707-vkontakte)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>205</sup> 
 [En](users/333/333646551-vkontakte)<sup>83</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Stem](users/114/114019737181475006297-google)<sup>0</sup> 
 
 
-_16.01.2020 05:02:54_
+_16.01.2020 06:08:30_

@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 206,
+        "updatedAt": "2020-01-16 06:08:29"
+    },
     "254448176-yandex": {
         "id": "254448176-yandex",
         "nickname": "Len4e91",
@@ -112,12 +118,6 @@
         "nickname": "18524553",
         "booksCount": 0,
         "updatedAt": "2020-01-10 13:46:23"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 205,
-        "updatedAt": "2020-01-10 08:49:42"
     },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
