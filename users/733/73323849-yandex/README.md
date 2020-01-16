@@ -1,4 +1,4 @@
-# List of books read by inna.besprozvannykh<sup>68</sup>
+# List of books read by inna.besprozvannykh<sup>67</sup>
 ---
 
 ## 2020
@@ -109,10 +109,6 @@
 
 
 Жан-Кристоф гранже
-
-
-### Пассажир
-Жан-Кристофер Гранже
 
 
 
