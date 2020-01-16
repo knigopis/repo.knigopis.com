@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>56</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>26</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>67</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>756</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>157</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>149</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>55</sup> 
 [youno](users/302/302928912-vkontakte)<sup>41</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>65</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>370</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>161</sup> 
 
 
-_16.01.2020 17:19:22_
+_16.01.2020 18:56:32_

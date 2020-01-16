@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>55</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>56</sup>
 ---
 
 ## 2020
+
+### Звезды сияют с небес
+Сидни Шелдон
+> [2020-01-16] 
+
 
 ### Сырок. История моей жизни и бизнеса
 Борис Алексндров

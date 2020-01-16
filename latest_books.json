@@ -1,4 +1,16 @@
 {
+    "NwdN9RIDCS": {
+        "id": "NwdN9RIDCS",
+        "title": "Звезды сияют с небес",
+        "author": "Сидни Шелдон",
+        "notes": "",
+        "createdAt": "2020-01-16 18:56:32",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 56
+        }
+    },
     "c_AdAUiStA": {
         "id": "c_AdAUiStA",
         "title": "Колыбель для кошки",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 370
-        }
-    },
-    "KD3jQh5fX_": {
-        "id": "KD3jQh5fX_",
-        "title": "Кроннштадт и Питер в 1917 году",
-        "author": "Раскольников Федор Федорович",
-        "notes": "",
-        "createdAt": "2020-01-12 09:57:03",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 134
         }
     }
 }
