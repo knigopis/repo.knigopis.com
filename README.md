@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>239</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>56</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>26</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>67</sup> 
@@ -62,10 +63,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>78</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>238</sup> 
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>161</sup> 
 
 
-_16.01.2020 18:56:32_
+_16.01.2020 21:04:12_
