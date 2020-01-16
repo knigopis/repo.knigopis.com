@@ -1,4 +1,16 @@
 {
+    "9_iC6g_jxG": {
+        "id": "9_iC6g_jxG",
+        "title": "Тонкое искусство пофигизма",
+        "author": "Марк Мэнсон",
+        "notes": "",
+        "createdAt": "2020-01-16 16:59:46",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 67
+        }
+    },
     "4cMBJ4OvGI": {
         "id": "4cMBJ4OvGI",
         "title": "Последняя песня",
@@ -345,18 +357,6 @@
             "id": "233860015-vkontakte",
             "nickname": "dghtt",
             "booksCount": 25
-        }
-    },
-    "3eExo9T4rX": {
-        "id": "3eExo9T4rX",
-        "title": "Кради как художник",
-        "author": "Остин Клеон",
-        "notes": "",
-        "createdAt": "2020-01-11 21:15:39",
-        "user": {
-            "id": "233860015-vkontakte",
-            "nickname": "dghtt",
-            "booksCount": 24
         }
     }
 }
