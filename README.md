@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>239</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>56</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>26</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>78</sup> 
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>161</sup> 
 
 
-_16.01.2020 21:04:12_
+_16.01.2020 21:48:10_
