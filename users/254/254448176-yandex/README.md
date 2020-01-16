@@ -1,4 +1,4 @@
-# List of books read by [Len4e91](http://openid.yandex.ru/Len4e91/)<sup>8</sup>
+# List of books read by [Len4e91](http://openid.yandex.ru/Len4e91/)<sup>7</sup>
 ---
 
 ## 2018
@@ -20,11 +20,6 @@
 
 
 ## 2017
-
-### Никогде
-Нил Гейман
-> [2017-03-08] 
-
 
 ### До встречи с тобой
 Джоджо Мойес
