@@ -1,4 +1,16 @@
 {
+    "68YnnvbM2R": {
+        "id": "68YnnvbM2R",
+        "title": "Пассажир",
+        "author": "Жан-Кристоф Гранже",
+        "notes": "",
+        "createdAt": "2020-01-16 16:56:38",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 67
+        }
+    },
     "lYmgLFV-Yo": {
         "id": "lYmgLFV-Yo",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "233860015-vkontakte",
             "nickname": "dghtt",
             "booksCount": 23
-        }
-    },
-    "4JFeyInQHD": {
-        "id": "4JFeyInQHD",
-        "title": "Два Капитана",
-        "author": "Вениамин Александрович Каверин",
-        "notes": "",
-        "createdAt": "2020-01-11 21:14:31",
-        "user": {
-            "id": "233860015-vkontakte",
-            "nickname": "dghtt",
-            "booksCount": 22
         }
     }
 }
