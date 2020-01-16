@@ -36,10 +36,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>756</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>206</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>8</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>40</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>755</sup> 
 [Мару](users/115/115217405940870180381-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>91</sup> 
 [Bruss](users/178/178551812-vkontakte)<sup>5</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Stem](users/114/114019737181475006297-google)<sup>0</sup> 
 
 
-_16.01.2020 06:08:30_
+_16.01.2020 12:40:13_
