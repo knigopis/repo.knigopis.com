@@ -1,4 +1,10 @@
 {
+    "270444099499-odnoklassniki": {
+        "id": "270444099499-odnoklassniki",
+        "nickname": null,
+        "booksCount": 22,
+        "updatedAt": "2020-01-17 16:20:27"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -94,12 +100,6 @@
         "nickname": "afferens.lucem",
         "booksCount": 149,
         "updatedAt": "2020-01-13 20:05:38"
-    },
-    "270444099499-odnoklassniki": {
-        "id": "270444099499-odnoklassniki",
-        "nickname": null,
-        "booksCount": 22,
-        "updatedAt": "2020-01-13 15:28:47"
     },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",

@@ -1,4 +1,16 @@
 {
+    "GHNC971Riv": {
+        "id": "GHNC971Riv",
+        "title": "Загадка для благородной девицы",
+        "author": "Анастасия Логинова",
+        "notes": "",
+        "createdAt": "2020-01-17 16:20:27",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 22
+        }
+    },
     "x2a1M4NIFi": {
         "id": "x2a1M4NIFi",
         "title": "Выйди из зоны комфорта",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 55
-        }
-    },
-    "E5n3XeDETw": {
-        "id": "E5n3XeDETw",
-        "title": "Другая правда. Том 2",
-        "author": "Александра Маринина",
-        "notes": "",
-        "createdAt": "2020-01-12 19:55:17",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 54
         }
     }
 }
