@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[youno](users/302/302928912-vkontakte)<sup>42</sup> 
+[youno](users/302/302928912-vkontakte)<sup>41</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>92</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>239</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 
 
-_17.01.2020 15:55:37_
+_17.01.2020 15:57:19_
