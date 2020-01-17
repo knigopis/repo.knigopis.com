@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 92,
+        "updatedAt": "2020-01-17 11:44:32"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -58,12 +64,6 @@
         "nickname": "Мару",
         "booksCount": 0,
         "updatedAt": "2020-01-14 18:10:57"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 91,
-        "updatedAt": "2020-01-14 16:28:25"
     },
     "178551812-vkontakte": {
         "id": "178551812-vkontakte",

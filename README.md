@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>92</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>239</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>56</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>8</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>40</sup> 
 [Мару](users/115/115217405940870180381-google)<sup>0</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>91</sup> 
 [Bruss](users/178/178551812-vkontakte)<sup>5</sup> 
 [vizart3d](users/581/58171750-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>157</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 
 
-_16.01.2020 21:48:10_
+_17.01.2020 11:44:32_

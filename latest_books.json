@@ -1,4 +1,16 @@
 {
+    "uCupovVkXC": {
+        "id": "uCupovVkXC",
+        "title": "Пророчество о драконятах",
+        "author": "Туи Сазерленд",
+        "notes": "",
+        "createdAt": "2020-01-17 11:44:32",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 92
+        }
+    },
     "ys70o-mBBj": {
         "id": "ys70o-mBBj",
         "title": "Тихий Дон",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 21
-        }
-    },
-    "2SbZVP0XPX": {
-        "id": "2SbZVP0XPX",
-        "title": "12 недель в году",
-        "author": "Брайан Моран, Майкл Леннингтон",
-        "notes": "Первая книга по эффективности, кое-что почерпнул, думаю, что буду перечитывать.",
-        "createdAt": "2020-01-12 14:26:26",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 41
         }
     }
 }
