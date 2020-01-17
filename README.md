@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ведьмак. Крещение огнем. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>82</sup>
+    > 9/10 неожиданно феминистическая книга
+
 * Выйди из зоны комфорта ~ [youno](users/302/302928912-vkontakte)<sup>42</sup>
     > 5/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сначала читать очень интересно, необычный сюжет, в середине резкий поворот. Мысли по поводу того, что нельзя отдавать себя целиком, чтобы ни остаться ни с чем. Свои увлечения, интересы, планы нельзя забывать. Тогда опустошение не грозит. Всегда нужно быть наполненной личностью
 
 * Монах, который продал свой Ферарри ~ [Len4e91](users/254/254448176-yandex)<sup>7</sup>
-    > Очень мотивирующая книга. Простым языком описаны серьёзные вещи.
 
 * Путь к здоровью, или как победить хронические болезни ~ [Len4e91](users/254/254448176-yandex)<sup>9</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 12 недель в году ~ [youno](users/302/302928912-vkontakte)<sup>41</sup>
 
-* Хроники проклятого (1) ~ [Chiffi](users/105/105831994080785626680-google)<sup>156</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>82</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
 [youno](users/302/302928912-vkontakte)<sup>42</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>92</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>1</sup> 
 [18524553](users/235/235870707-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>83</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>78</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 
 
-_17.01.2020 16:20:27_
+_17.01.2020 20:08:50_

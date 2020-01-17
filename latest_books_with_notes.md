@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ведьмак. Крещение огнем. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>82</sup>
 * Выйди из зоны комфорта ~ [youno](users/302/302928912-vkontakte)<sup>42</sup>
 * Жена между нами ~ [Len4e91](users/254/254448176-yandex)<sup>8</sup>
 * Монах, который продал свой Ферарри ~ [Len4e91](users/254/254448176-yandex)<sup>7</sup>
@@ -30,7 +31,6 @@
 * Аркада. Эпизод второй. suMpa ~ [Chiffi](users/105/105831994080785626680-google)<sup>154</sup>
 * Ле Гуин, Урсула К ~ [Garka](users/115/115753719718250012620-google)<sup>236</sup>
 * Россия и Дон ~ [mfevralev](users/140/140966150-vkontakte)<sup>41</sup>
-* Талорис (Синее пламя 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>153</sup>
 
 
-_17.01.2020 15:57:48_
+_17.01.2020 20:08:50_

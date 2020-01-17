@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>81</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>82</sup>
 ---
 
 ## 2020
+
+### Ведьмак. Крещение огнем.
+Анджей Сапковский
+> [2020-01-17] 9/10 неожиданно феминистическая книга
+
 
 ### Суча дочка
 Валентина Мастєрова0
