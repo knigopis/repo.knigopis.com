@@ -1,4 +1,16 @@
 {
+    "Ffu7rzgGcZ": {
+        "id": "Ffu7rzgGcZ",
+        "title": "Выйди из зоны комфорта",
+        "author": "Трейси Брайан",
+        "notes": "",
+        "createdAt": "2020-01-17 15:55:37",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 42
+        }
+    },
     "uCupovVkXC": {
         "id": "uCupovVkXC",
         "title": "Пророчество о драконятах",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 54
-        }
-    },
-    "mWaj2qcjAz": {
-        "id": "mWaj2qcjAz",
-        "title": "Цветы для Элджернона",
-        "author": "Дэниэл Киз",
-        "notes": "",
-        "createdAt": "2020-01-12 16:49:51",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 21
         }
     }
 }

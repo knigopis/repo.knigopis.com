@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>42</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>92</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>239</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>157</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>149</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
-[youno](users/302/302928912-vkontakte)<sup>41</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>65</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>370</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>134</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 
 
-_17.01.2020 11:44:32_
+_17.01.2020 15:55:37_

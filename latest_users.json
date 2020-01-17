@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 42,
+        "updatedAt": "2020-01-17 15:55:37"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -94,12 +100,6 @@
         "nickname": null,
         "booksCount": 22,
         "updatedAt": "2020-01-13 15:28:47"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 41,
-        "updatedAt": "2020-01-12 14:26:26"
     },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",
