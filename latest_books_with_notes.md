@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Выйди из зоны комфорта ~ [youno](users/302/302928912-vkontakte)<sup>42</sup>
 * Жена между нами ~ [Len4e91](users/254/254448176-yandex)<sup>8</sup>
 * Монах, который продал свой Ферарри ~ [Len4e91](users/254/254448176-yandex)<sup>7</sup>
 * Путь к здоровью, или как победить хронические болезни ~ [Len4e91](users/254/254448176-yandex)<sup>9</sup>
@@ -30,7 +31,6 @@
 * Ле Гуин, Урсула К ~ [Garka](users/115/115753719718250012620-google)<sup>236</sup>
 * Россия и Дон ~ [mfevralev](users/140/140966150-vkontakte)<sup>41</sup>
 * Талорис (Синее пламя 3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>153</sup>
-* Горе от ума ~ [mitsakult](users/288/288034278-vkontakte)<sup>2</sup>
 
 
-_16.01.2020 05:02:54_
+_17.01.2020 15:57:48_
