@@ -1,12 +1,7 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>42</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>41</sup>
 ---
 
 ## 2020
-
-### Выйди из зоны комфорта
-Трейси Брайан
-> [2020-01-17] 
-
 
 ### 12 недель в году
 Брайан Моран, Майкл Леннингтон
