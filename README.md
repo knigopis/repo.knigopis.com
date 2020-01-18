@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>41</sup> 
 [AVNIKi](users/368/368978766-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>158</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>371</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>756</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>206</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>8</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>40</sup> 
 [Мару](users/115/115217405940870180381-google)<sup>0</sup> 
 [Bruss](users/178/178551812-vkontakte)<sup>5</sup> 
 [vizart3d](users/581/58171750-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
 
 
-_18.01.2020 10:15:05_
+_18.01.2020 15:32:38_

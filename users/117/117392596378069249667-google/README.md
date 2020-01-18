@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>40</sup>
+# List of books read by 4apa<sup>41</sup>
 ---
 
 ## 2020
+
+### Изобретено в СССР
+Тим Скоренко
+> [2020-01-17] 
+
 
 ### Делай космос
 В. Егоров

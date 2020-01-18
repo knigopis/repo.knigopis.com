@@ -1,4 +1,16 @@
 {
+    "6fUznUlS3t": {
+        "id": "6fUznUlS3t",
+        "title": "Изобретено в СССР",
+        "author": "Тим Скоренко",
+        "notes": "",
+        "createdAt": "2020-01-18 15:32:38",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 41
+        }
+    },
     "P0ywunAQjQ": {
         "id": "P0ywunAQjQ",
         "title": "Проклятый 3 Сердце проклятого",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 157
-        }
-    },
-    "EKluSh-T9S": {
-        "id": "EKluSh-T9S",
-        "title": "Библиотека Душ",
-        "author": "Ренсом Риггз",
-        "notes": "",
-        "createdAt": "2020-01-13 20:05:38",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 149
         }
     }
 }
