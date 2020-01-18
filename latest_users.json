@@ -1,4 +1,10 @@
 {
+    "368978766-vkontakte": {
+        "id": "368978766-vkontakte",
+        "nickname": "AVNIKi",
+        "booksCount": 0,
+        "updatedAt": "2020-01-18 10:15:02"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "rothaarig87",
         "booksCount": 0,
         "updatedAt": "2020-01-08 12:41:43"
-    },
-    "200666735-vkontakte": {
-        "id": "200666735-vkontakte",
-        "nickname": "mavrentik",
-        "booksCount": 21,
-        "updatedAt": "2020-01-07 23:58:17"
     }
 }
