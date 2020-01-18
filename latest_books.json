@@ -1,4 +1,16 @@
 {
+    "kDBOnURfgU": {
+        "id": "kDBOnURfgU",
+        "title": "Карта дней",
+        "author": "Ренсом Риггз",
+        "notes": "",
+        "createdAt": "2020-01-18 20:08:51",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 150
+        }
+    },
     "6fUznUlS3t": {
         "id": "6fUznUlS3t",
         "title": "Изобретено в СССР",
@@ -345,18 +357,6 @@
             "id": "58171750-vkontakte",
             "nickname": "vizart3d",
             "booksCount": 1
-        }
-    },
-    "2WPDgmbzuL": {
-        "id": "2WPDgmbzuL",
-        "title": "Проклятый 2 Путь проклятого",
-        "author": "Валетов Ян",
-        "notes": "",
-        "createdAt": "2020-01-14 05:53:27",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 157
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 150,
+        "updatedAt": "2020-01-18 20:08:51"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -112,12 +118,6 @@
         "nickname": "vizart3d",
         "booksCount": 1,
         "updatedAt": "2020-01-14 11:45:41"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 149,
-        "updatedAt": "2020-01-13 20:05:38"
     },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",
