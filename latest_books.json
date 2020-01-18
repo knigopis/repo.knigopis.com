@@ -1,4 +1,16 @@
 {
+    "cyUe1NiQgv": {
+        "id": "cyUe1NiQgv",
+        "title": "Цепь",
+        "author": "Эдриан Маккинти",
+        "notes": "",
+        "createdAt": "2020-01-18 05:57:52",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 371
+        }
+    },
     "NejUpYo4Cp": {
         "id": "NejUpYo4Cp",
         "title": "Ведьмак. Крещение огнем.",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 22
-        }
-    },
-    "sI1YlYQPGj": {
-        "id": "sI1YlYQPGj",
-        "title": "Групповой портрет с дамой",
-        "author": "Генрих Бёлль",
-        "notes": "",
-        "createdAt": "2020-01-13 15:12:14",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 754
         }
     }
 }

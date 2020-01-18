@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 371,
+        "updatedAt": "2020-01-18 05:57:52"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -112,12 +118,6 @@
         "nickname": "Человеколось",
         "booksCount": 65,
         "updatedAt": "2020-01-12 12:11:06"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 370,
-        "updatedAt": "2020-01-12 11:11:36"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
