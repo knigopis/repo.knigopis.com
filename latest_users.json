@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 158,
+        "updatedAt": "2020-01-18 06:49:33"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -100,12 +106,6 @@
         "nickname": "vizart3d",
         "booksCount": 1,
         "updatedAt": "2020-01-14 11:45:41"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 157,
-        "updatedAt": "2020-01-14 05:53:27"
     },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",

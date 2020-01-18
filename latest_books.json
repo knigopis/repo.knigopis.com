@@ -1,4 +1,16 @@
 {
+    "P0ywunAQjQ": {
+        "id": "P0ywunAQjQ",
+        "title": "Проклятый 3 Сердце проклятого",
+        "author": "Валетов Ян",
+        "notes": "Прошлое и будущее волнует их куда больше настоящего, вот почему они слишком много говорят о вчера, всегда проигрывают сегодня и живут несбыточными надеждами на завтрашнюю победу.",
+        "createdAt": "2020-01-18 06:49:33",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 158
+        }
+    },
     "cyUe1NiQgv": {
         "id": "cyUe1NiQgv",
         "title": "Цепь",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 149
-        }
-    },
-    "1mw7iiUZB4": {
-        "id": "1mw7iiUZB4",
-        "title": "Интеллигент и две Риты",
-        "author": "Екатерина Вильмонт",
-        "notes": "",
-        "createdAt": "2020-01-13 15:28:47",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 22
         }
     }
 }

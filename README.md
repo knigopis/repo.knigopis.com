@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Проклятый 3 Сердце проклятого ~ [Chiffi](users/105/105831994080785626680-google)<sup>158</sup>
+    > Прошлое и будущее волнует их куда больше настоящего, вот почему они слишком много говорят о вчера, всегда проигрывают сегодня и живут несбыточными надеждами на завтрашнюю победу.
+
 * Ведьмак. Крещение огнем. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>82</sup>
     > 9/10 неожиданно феминистическая книга
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10
 
 * Жена между нами ~ [Len4e91](users/254/254448176-yandex)<sup>8</sup>
-    > Сначала читать очень интересно, необычный сюжет, в середине резкий поворот. Мысли по поводу того, что нельзя отдавать себя целиком, чтобы ни остаться ни с чем. Свои увлечения, интересы, планы нельзя забывать. Тогда опустошение не грозит. Всегда нужно быть наполненной личностью
 
 * Монах, который продал свой Ферарри ~ [Len4e91](users/254/254448176-yandex)<sup>7</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Архимаг (9 книг) ~ [Bruss](users/178/178551812-vkontakte)<sup>5</sup>
 
-* 12 недель в году ~ [youno](users/302/302928912-vkontakte)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>158</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>371</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>82</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Мару](users/115/115217405940870180381-google)<sup>0</sup> 
 [Bruss](users/178/178551812-vkontakte)<sup>5</sup> 
 [vizart3d](users/581/58171750-vkontakte)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>157</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>149</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>65</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>134</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 
 
-_18.01.2020 05:57:53_
+_18.01.2020 06:49:33_
