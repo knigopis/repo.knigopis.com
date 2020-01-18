@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AVNIKi](users/368/368978766-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>158</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>371</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>82</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>78</sup> 
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
-[mavrentik](users/200/200666735-vkontakte)<sup>21</sup> 
 
 
-_18.01.2020 06:49:33_
+_18.01.2020 10:15:05_
