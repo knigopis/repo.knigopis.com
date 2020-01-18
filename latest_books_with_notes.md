@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тринадцать ящиков Пандоры ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup>
 * Проклятый 3 Сердце проклятого ~ [Chiffi](users/105/105831994080785626680-google)<sup>158</sup>
 * Ведьмак. Крещение огнем. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>82</sup>
 * Выйди из зоны комфорта ~ [youno](users/302/302928912-vkontakte)<sup>42</sup>
@@ -30,7 +31,6 @@
 * Собачье сердце ~ [Rainbow](users/109/109787328219839805802-google)<sup>49</sup>
 * Мировые войны и мировые элиты ~ [exulted](users/100/100599204551896265722-google)<sup>132</sup>
 * Аркада. Эпизод второй. suMpa ~ [Chiffi](users/105/105831994080785626680-google)<sup>154</sup>
-* Ле Гуин, Урсула К ~ [Garka](users/115/115753719718250012620-google)<sup>236</sup>
 
 
-_18.01.2020 06:49:33_
+_18.01.2020 20:48:34_

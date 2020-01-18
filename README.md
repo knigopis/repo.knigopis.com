@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тринадцать ящиков Пандоры ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup>
+    > 9/10 интересные фантастические рассказы от известных и разных авторов
+
 * Проклятый 3 Сердце проклятого ~ [Chiffi](users/105/105831994080785626680-google)<sup>158</sup>
     > Прошлое и будущее волнует их куда больше настоящего, вот почему они слишком много говорят о вчера, всегда проигрывают сегодня и живут несбыточными надеждами на завтрашнюю победу.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 неожиданно феминистическая книга
 
 * Выйди из зоны комфорта ~ [youno](users/302/302928912-vkontakte)<sup>42</sup>
-    > 5/10
 
 * Жена между нами ~ [Len4e91](users/254/254448176-yandex)<sup>8</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * После тебя ~ [Len4e91](users/254/254448176-yandex)<sup>5</sup>
 
-* Архимаг (9 книг) ~ [Bruss](users/178/178551812-vkontakte)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>150</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>41</sup> 
 [AVNIKi](users/368/368978766-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>158</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>371</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>82</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
 [youno](users/302/302928912-vkontakte)<sup>42</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>92</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rothaarig87](users/165/165138547-yandex)<sup>0</sup> 
 
 
-_18.01.2020 20:08:51_
+_18.01.2020 20:48:34_

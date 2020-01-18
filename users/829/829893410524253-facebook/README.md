@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>82</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>83</sup>
 ---
 
 ## 2020
+
+### Тринадцать ящиков Пандоры
+Сборник
+> [2020-01-17] 9/10 интересные фантастические рассказы от известных и разных авторов
+
 
 ### Ведьмак. Крещение огнем.
 Анджей Сапковский

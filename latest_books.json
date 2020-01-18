@@ -1,4 +1,16 @@
 {
+    "jWU984kzGU": {
+        "id": "jWU984kzGU",
+        "title": "Тринадцать ящиков Пандоры",
+        "author": "Сборник",
+        "notes": "9/10 интересные фантастические рассказы от известных и разных авторов",
+        "createdAt": "2020-01-18 20:48:34",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 83
+        }
+    },
     "kDBOnURfgU": {
         "id": "kDBOnURfgU",
         "title": "Карта дней",
@@ -345,18 +357,6 @@
             "id": "178551812-vkontakte",
             "nickname": "Bruss",
             "booksCount": 5
-        }
-    },
-    "XyAIeOWJXP": {
-        "id": "XyAIeOWJXP",
-        "title": "Естественный бег. Простой спобоб бегать без травм",
-        "author": "Дэнни Эбшир",
-        "notes": "Бегать нужно опираясь на носок, а не пятку",
-        "createdAt": "2020-01-14 11:45:41",
-        "user": {
-            "id": "58171750-vkontakte",
-            "nickname": "vizart3d",
-            "booksCount": 1
         }
     }
 }
