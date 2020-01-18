@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 43,
+        "updatedAt": "2020-01-18 22:29:10"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -40,12 +46,6 @@
         "nickname": null,
         "booksCount": 22,
         "updatedAt": "2020-01-17 16:20:27"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 42,
-        "updatedAt": "2020-01-17 15:57:48"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
