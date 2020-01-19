@@ -1,4 +1,16 @@
 {
+    "SL4TnXKQiD": {
+        "id": "SL4TnXKQiD",
+        "title": "Множественные умы Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2020-01-19 11:08:26",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 66
+        }
+    },
     "EUYQXscKJn": {
         "id": "EUYQXscKJn",
         "title": "Зулейха",
@@ -345,18 +357,6 @@
             "id": "254448176-yandex",
             "nickname": "Len4e91",
             "booksCount": 6
-        }
-    },
-    "39gECw6VPk": {
-        "id": "39gECw6VPk",
-        "title": "После тебя",
-        "author": "Джоджо Моейес",
-        "notes": "Интересный роман, читать легко, захватывает",
-        "createdAt": "2020-01-16 04:52:12",
-        "user": {
-            "id": "254448176-yandex",
-            "nickname": "Len4e91",
-            "booksCount": 5
         }
     }
 }
