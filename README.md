@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дамы и господа ~ [joan789](users/240/2401650-vkontakte)<sup>101</sup>
+    > Они были слишком необычные, классные для взаимной любви и построения типичной "ланкрской мечты" (по аналогии с американской).
+    > Резон обретения уверенности в себе, понимания своей ценности хорошо описан в борьбе Матушки Ветровоск с Королевой и Маграт с Королевой. Этот отрывок более, чем стоит периодически перечитывать.
+
 * Расширить сознание легально ~ [youno](users/302/302928912-vkontakte)<sup>43</sup>
     > Если шарите, ничего нового не узнаете
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > 9/10 интересные фантастические рассказы от известных и разных авторов
 
 * Проклятый 3 Сердце проклятого ~ [Chiffi](users/105/105831994080785626680-google)<sup>158</sup>
-    > Прошлое и будущее волнует их куда больше настоящего, вот почему они слишком много говорят о вчера, всегда проигрывают сегодня и живут несбыточными надеждами на завтрашнюю победу.
 
 * Ведьмак. Крещение огнем. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>82</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * До встречи с тобой ~ [Len4e91](users/254/254448176-yandex)<sup>7</sup>
 
-* Никогде ~ [Len4e91](users/254/254448176-yandex)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>101</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>58</sup> 
 [АННА](users/510/51000816-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>43</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [18524553](users/235/235870707-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>83</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup> 
-[43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
 
 
-_19.01.2020 05:50:52_
+_19.01.2020 07:59:08_
