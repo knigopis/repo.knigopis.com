@@ -1,4 +1,10 @@
 {
+    "51000816-vkontakte": {
+        "id": "51000816-vkontakte",
+        "nickname": "АННА",
+        "booksCount": 0,
+        "updatedAt": "2020-01-19 03:52:22"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 78,
         "updatedAt": "2020-01-08 16:42:51"
-    },
-    "165138547-yandex": {
-        "id": "165138547-yandex",
-        "nickname": "rothaarig87",
-        "booksCount": 0,
-        "updatedAt": "2020-01-08 12:41:43"
     }
 }
