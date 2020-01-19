@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pavelm741](users/468/468820957-vkontakte)<sup>0</sup> 
 [Яр](users/105/105454927277334527943-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>91</sup> 
 [Olga](users/436/436975952-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>134</sup> 
 [milkabo](users/363/363975832-vkontakte)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>1</sup> 
-[18524553](users/235/235870707-vkontakte)<sup>0</sup> 
 
 
-_19.01.2020 17:09:47_
+_19.01.2020 17:33:04_
