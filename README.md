@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Человеколось](users/174/17475979687188177329-mailru)<sup>66</sup> 
+[Человеколось](users/174/17475979687188177329-mailru)<sup>67</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>757</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>101</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>58</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup> 
 
 
-_19.01.2020 11:08:26_
+_19.01.2020 11:08:48_
