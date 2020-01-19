@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>91</sup> 
 [Olga](users/436/436975952-vkontakte)<sup>0</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>68</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>757</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>158</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>371</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>22</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>92</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>239</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>56</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>83</sup> 
 
 
-_19.01.2020 15:35:26_
+_19.01.2020 16:03:18_

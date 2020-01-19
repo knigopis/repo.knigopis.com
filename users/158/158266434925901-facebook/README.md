@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>92</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>91</sup>
 ---
 
 ## 2020
+
+### 1984
+Джордж Оруэл
+> [2020-01-20] 
+
 
 ### Пророчество о драконятах
 Туи Сазерленд
