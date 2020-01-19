@@ -1,4 +1,10 @@
 {
+    "57239276-vkontakte": {
+        "id": "57239276-vkontakte",
+        "nickname": "vladkozz",
+        "booksCount": 58,
+        "updatedAt": "2020-01-19 05:50:52"
+    },
     "51000816-vkontakte": {
         "id": "51000816-vkontakte",
         "nickname": "АННА",
@@ -172,11 +178,5 @@
         "nickname": "43dostaw",
         "booksCount": 1,
         "updatedAt": "2020-01-09 16:06:51"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 78,
-        "updatedAt": "2020-01-08 16:42:51"
     }
 }

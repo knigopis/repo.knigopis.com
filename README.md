@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>58</sup> 
 [АННА](users/510/51000816-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>43</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>83</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup> 
 [43dostaw](users/201/201788999-vkontakte)<sup>1</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>78</sup> 
 
 
-_19.01.2020 03:52:27_
+_19.01.2020 05:50:52_

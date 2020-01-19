@@ -1,4 +1,16 @@
 {
+    "J7iswEZsBE": {
+        "id": "J7iswEZsBE",
+        "title": "Порри Гаттер и Каменный Философ",
+        "author": "А.Жвалевский и И.Мытько",
+        "notes": "",
+        "createdAt": "2020-01-19 05:50:52",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 58
+        }
+    },
     "tcI8KoN5-G": {
         "id": "tcI8KoN5-G",
         "title": "Расширить сознание легально",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 755
-        }
-    },
-    "_VumrCk5Nm": {
-        "id": "_VumrCk5Nm",
-        "title": "Ведьмак. Меч предназначения",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2020-01-14 16:28:25",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 91
         }
     }
 }
