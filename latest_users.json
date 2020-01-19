@@ -1,4 +1,10 @@
 {
+    "436975952-vkontakte": {
+        "id": "436975952-vkontakte",
+        "nickname": "Olga",
+        "booksCount": 0,
+        "updatedAt": "2020-01-19 15:26:47"
+    },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",
         "nickname": "Человеколось",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 83,
         "updatedAt": "2020-01-10 04:10:07"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 36,
-        "updatedAt": "2020-01-09 17:16:33"
     }
 }
