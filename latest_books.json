@@ -1,4 +1,16 @@
 {
+    "m8zQ0Y6k01": {
+        "id": "m8zQ0Y6k01",
+        "title": "Любовные чары",
+        "author": "Елена Арсеньева",
+        "notes": "",
+        "createdAt": "2020-01-20 09:04:12",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 23
+        }
+    },
     "f9nOEoFP6B": {
         "id": "f9nOEoFP6B",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "254448176-yandex",
             "nickname": "Len4e91",
             "booksCount": 8
-        }
-    },
-    "F7ek5EhxiH": {
-        "id": "F7ek5EhxiH",
-        "title": "Монах, который продал свой Ферарри",
-        "author": "Робин Шарма",
-        "notes": "Очень мотивирующая книга. Простым языком описаны серьёзные вещи.",
-        "createdAt": "2020-01-16 04:59:57",
-        "user": {
-            "id": "254448176-yandex",
-            "nickname": "Len4e91",
-            "booksCount": 7
         }
     }
 }
