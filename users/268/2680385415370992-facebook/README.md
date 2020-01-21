@@ -1,4 +1,4 @@
-# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>13</sup>
+# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>14</sup>
 ---
 
 ## 2019
@@ -56,6 +56,12 @@
 
 
 ## 2017
+
+### 1984
+Джордж Оруэлл
+> Оценка 8
+> Прочтений 1
+
 
 ### Цветы для Элджернона
 Киз Дэниел
