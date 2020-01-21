@@ -1,4 +1,4 @@
-# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>14</sup>
+# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>15</sup>
 ---
 
 ## 2019
@@ -6,6 +6,12 @@
 ### Ночь в Лиссабоне
 Эрих Мария Ремарк
 > [2019-11] Оценка 6
+> Прочтений 1
+
+
+### Скотный двор
+Джордж Оруэлл
+> Оценка 6
 > Прочтений 1
 
 

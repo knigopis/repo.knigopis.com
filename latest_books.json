@@ -1,4 +1,16 @@
 {
+    "M1CGYV7wqw": {
+        "id": "M1CGYV7wqw",
+        "title": "Скотный двор",
+        "author": "Джордж Оруэлл",
+        "notes": "Оценка 6\nПрочтений 1",
+        "createdAt": "2020-01-21 18:07:59",
+        "user": {
+            "id": "2680385415370992-facebook",
+            "nickname": "AlexWinchester",
+            "booksCount": 15
+        }
+    },
     "p1ZBvi2Pwq": {
         "id": "p1ZBvi2Pwq",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 150
-        }
-    },
-    "6fUznUlS3t": {
-        "id": "6fUznUlS3t",
-        "title": "Изобретено в СССР",
-        "author": "Тим Скоренко",
-        "notes": "",
-        "createdAt": "2020-01-18 15:32:38",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 41
         }
     }
 }
