@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>79</sup> 
 [AlexWinchester](users/268/2680385415370992-facebook)<sup>0</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>25</sup> 
 [pavelm741](users/468/468820957-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Bruss](users/178/178551812-vkontakte)<sup>5</sup> 
 [vizart3d](users/581/58171750-vkontakte)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>134</sup> 
-[milkabo](users/363/363975832-vkontakte)<sup>0</sup> 
 
 
-_21.01.2020 17:43:36_
+_21.01.2020 17:43:40_

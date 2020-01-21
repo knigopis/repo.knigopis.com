@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 79,
+        "updatedAt": "2020-01-21 17:43:40"
+    },
     "2680385415370992-facebook": {
         "id": "2680385415370992-facebook",
         "nickname": "AlexWinchester",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 134,
         "updatedAt": "2020-01-12 09:57:03"
-    },
-    "363975832-vkontakte": {
-        "id": "363975832-vkontakte",
-        "nickname": "milkabo",
-        "booksCount": 0,
-        "updatedAt": "2020-01-11 15:34:42"
     }
 }
