@@ -1,4 +1,4 @@
-# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>5</sup>
+# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>6</sup>
 ---
 
 ## 2019
@@ -26,6 +26,12 @@
 
 
 ## 2017
+
+### Множественные умы Билли Миллигана
+Киз Дэниел
+> Оценка 6
+> Прочтений 1
+
 
 ### Путь мирного воина
 Дэн Миллмэн
