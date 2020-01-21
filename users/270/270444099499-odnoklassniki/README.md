@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>24</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>25</sup>
 ---
 
 ## 2020
+
+### Девушка, которая лгала
+Сью Фортин
+> [2020-01-22] 
+
 
 ### Звёзды правду говорят
 Марина Серова

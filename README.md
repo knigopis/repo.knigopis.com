@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/270/270444099499-odnoklassniki)<sup>24</sup> 
+[](users/270/270444099499-odnoklassniki)<sup>25</sup> 
 [pavelm741](users/468/468820957-vkontakte)<sup>0</sup> 
 [Яр](users/105/105454927277334527943-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>91</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>1</sup> 
 
 
-_20.01.2020 15:00:46_
+_21.01.2020 17:00:48_
