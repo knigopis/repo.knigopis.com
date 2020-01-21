@@ -1,4 +1,10 @@
 {
+    "2680385415370992-facebook": {
+        "id": "2680385415370992-facebook",
+        "nickname": "AlexWinchester",
+        "booksCount": 0,
+        "updatedAt": "2020-01-21 17:43:34"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "milkabo",
         "booksCount": 0,
         "updatedAt": "2020-01-11 15:34:42"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2020-01-11 10:12:20"
     }
 }
