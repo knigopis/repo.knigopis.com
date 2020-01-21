@@ -1,4 +1,4 @@
-# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>18</sup>
+# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>19</sup>
 ---
 
 ## 2019
@@ -80,6 +80,12 @@
 
 
 ## 2017
+
+### Король и Шут. Между Купчино и Ржевкой
+Александр Балунов
+> Оценка 7
+> Прочтений 1
+
 
 ### 1984
 Джордж Оруэлл

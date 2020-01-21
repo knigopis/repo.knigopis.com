@@ -1,4 +1,16 @@
 {
+    "C_Pta8Hklu": {
+        "id": "C_Pta8Hklu",
+        "title": "Король и Шут. Между Купчино и Ржевкой",
+        "author": "Александр Балунов",
+        "notes": "Оценка 7\nПрочтений 1",
+        "createdAt": "2020-01-21 18:13:13",
+        "user": {
+            "id": "2680385415370992-facebook",
+            "nickname": "AlexWinchester",
+            "booksCount": 19
+        }
+    },
     "xoLzgoQAnA": {
         "id": "xoLzgoQAnA",
         "title": "Игры викингов",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 101
-        }
-    },
-    "J7iswEZsBE": {
-        "id": "J7iswEZsBE",
-        "title": "Порри Гаттер и Каменный Философ",
-        "author": "А.Жвалевский и И.Мытько",
-        "notes": "",
-        "createdAt": "2020-01-19 05:50:52",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 58
         }
     }
 }
