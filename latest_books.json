@@ -1,4 +1,16 @@
 {
+    "13f2SYDNaV": {
+        "id": "13f2SYDNaV",
+        "title": "Ночь в Лиссабоне",
+        "author": "Эрих Мария Ремарк",
+        "notes": "Оценка 6\nПрочтений 1",
+        "createdAt": "2020-01-21 17:54:24",
+        "user": {
+            "id": "2680385415370992-facebook",
+            "nickname": "AlexWinchester",
+            "booksCount": 4
+        }
+    },
     "30CE3jqwJg": {
         "id": "30CE3jqwJg",
         "title": "Книга зеркал",
@@ -345,18 +357,6 @@
             "id": "233860015-vkontakte",
             "nickname": "dghtt",
             "booksCount": 26
-        }
-    },
-    "9_iC6g_jxG": {
-        "id": "9_iC6g_jxG",
-        "title": "Тонкое искусство пофигизма",
-        "author": "Марк Мэнсон",
-        "notes": "",
-        "createdAt": "2020-01-16 16:59:46",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 67
         }
     }
 }
