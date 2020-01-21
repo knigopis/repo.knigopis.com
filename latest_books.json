@@ -1,4 +1,16 @@
 {
+    "g0Xzh9sqTA": {
+        "id": "g0Xzh9sqTA",
+        "title": "Атлант расправил плечи",
+        "author": "Айн Рэнд",
+        "notes": "Оценка 10\nПрочтений 1",
+        "createdAt": "2020-01-21 17:46:56",
+        "user": {
+            "id": "2680385415370992-facebook",
+            "nickname": "AlexWinchester",
+            "booksCount": 2
+        }
+    },
     "b2HMFpta67": {
         "id": "b2HMFpta67",
         "title": "Путь мирного воина",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 68
-        }
-    },
-    "68YnnvbM2R": {
-        "id": "68YnnvbM2R",
-        "title": "Пассажир",
-        "author": "Жан-Кристоф Гранже",
-        "notes": "",
-        "createdAt": "2020-01-16 16:56:38",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 67
         }
     }
 }
