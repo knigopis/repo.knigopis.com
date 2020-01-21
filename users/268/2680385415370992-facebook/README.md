@@ -1,4 +1,4 @@
-# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>8</sup>
+# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>9</sup>
 ---
 
 ## 2019
@@ -17,6 +17,12 @@
 
 
 ## 2018
+
+### Омерта
+Марио Пьюзо
+> Оценка 9
+> Прочтений 1
+
 
 ### Книга зеркал
 Эуджен Чировици
