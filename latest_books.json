@@ -1,4 +1,16 @@
 {
+    "LJXZ6E0a_Q": {
+        "id": "LJXZ6E0a_Q",
+        "title": "Волки Одина",
+        "author": "Александр Мазин",
+        "notes": "Оценка 8\nПрочтений 1",
+        "createdAt": "2020-01-21 18:10:34",
+        "user": {
+            "id": "2680385415370992-facebook",
+            "nickname": "AlexWinchester",
+            "booksCount": 17
+        }
+    },
     "Xcky9SuZoC": {
         "id": "Xcky9SuZoC",
         "title": "Возвращение ярла",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 43
-        }
-    },
-    "jWU984kzGU": {
-        "id": "jWU984kzGU",
-        "title": "Тринадцать ящиков Пандоры",
-        "author": "Сборник",
-        "notes": "9/10 интересные фантастические рассказы от известных и разных авторов",
-        "createdAt": "2020-01-18 20:48:34",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 83
         }
     }
 }
