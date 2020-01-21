@@ -1,4 +1,16 @@
 {
+    "b2HMFpta67": {
+        "id": "b2HMFpta67",
+        "title": "Путь мирного воина",
+        "author": "Дэн Миллмэн",
+        "notes": "Оценка 10\nПрочтений 3",
+        "createdAt": "2020-01-21 17:45:42",
+        "user": {
+            "id": "2680385415370992-facebook",
+            "nickname": "AlexWinchester",
+            "booksCount": 1
+        }
+    },
     "AXZCwP4RRN": {
         "id": "AXZCwP4RRN",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 67
-        }
-    },
-    "lYmgLFV-Yo": {
-        "id": "lYmgLFV-Yo",
-        "title": "",
-        "author": "Жан-Кристоф гранже",
-        "notes": "",
-        "createdAt": "2020-01-16 16:55:25",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 66
         }
     }
 }
