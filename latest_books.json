@@ -1,4 +1,16 @@
 {
+    "QvQZ7rzDGs": {
+        "id": "QvQZ7rzDGs",
+        "title": "Войны Миллигана",
+        "author": "Киз Дэниел",
+        "notes": "Оценка 6\nПрочтений 1",
+        "createdAt": "2020-01-21 17:59:39",
+        "user": {
+            "id": "2680385415370992-facebook",
+            "nickname": "AlexWinchester",
+            "booksCount": 7
+        }
+    },
     "ewBHyIZb15": {
         "id": "ewBHyIZb15",
         "title": "Множественные умы Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 17
-        }
-    },
-    "t54mpfJynj": {
-        "id": "t54mpfJynj",
-        "title": "Хроники Амбера. Пятикнижие Мерлина. Кровь Амбера",
-        "author": "Желязны, Роджер",
-        "notes": "",
-        "createdAt": "2020-01-16 21:04:11",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 239
         }
     }
 }
