@@ -1,4 +1,16 @@
 {
+    "ypSH9E6Gfw": {
+        "id": "ypSH9E6Gfw",
+        "title": "Сицилиец",
+        "author": "Марио Пьюзо",
+        "notes": "Оценка 8\nПрочтений 1",
+        "createdAt": "2020-01-21 18:02:51",
+        "user": {
+            "id": "2680385415370992-facebook",
+            "nickname": "AlexWinchester",
+            "booksCount": 11
+        }
+    },
     "CtbSNwqHb1": {
         "id": "CtbSNwqHb1",
         "title": "Крестный отец",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 82
-        }
-    },
-    "GHNC971Riv": {
-        "id": "GHNC971Riv",
-        "title": "Загадка для благородной девицы",
-        "author": "Анастасия Логинова",
-        "notes": "",
-        "createdAt": "2020-01-17 16:20:27",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 22
         }
     }
 }
