@@ -1,4 +1,16 @@
 {
+    "pkFkxgYpce": {
+        "id": "pkFkxgYpce",
+        "title": "Одиночество в сети",
+        "author": "Януш Вишневский",
+        "notes": "",
+        "createdAt": "2020-01-22 18:29:58",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "YZv9XlcUsx": {
         "id": "YZv9XlcUsx",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 91
-        }
-    },
-    "FV81DsidUX": {
-        "id": "FV81DsidUX",
-        "title": "бегущий в лабиринте",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-01-19 15:28:57",
-        "user": {
-            "id": "436975952-vkontakte",
-            "nickname": "Olga",
-            "booksCount": 1
         }
     }
 }

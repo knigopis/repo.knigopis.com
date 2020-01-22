@@ -1,4 +1,10 @@
 {
+    "1537586159620888-facebook": {
+        "id": "1537586159620888-facebook",
+        "nickname": null,
+        "booksCount": 2,
+        "updatedAt": "2020-01-22 18:29:58"
+    },
     "2680385415370992-facebook": {
         "id": "2680385415370992-facebook",
         "nickname": "AlexWinchester",
@@ -172,11 +178,5 @@
         "nickname": "Bruss",
         "booksCount": 5,
         "updatedAt": "2020-01-14 15:31:46"
-    },
-    "58171750-vkontakte": {
-        "id": "58171750-vkontakte",
-        "nickname": "vizart3d",
-        "booksCount": 1,
-        "updatedAt": "2020-01-14 11:45:41"
     }
 }

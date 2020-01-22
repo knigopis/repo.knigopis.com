@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>2</sup> 
 [AlexWinchester](users/268/2680385415370992-facebook)<sup>22</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>59</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>67</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>8</sup> 
 [Мару](users/115/115217405940870180381-google)<sup>0</sup> 
 [Bruss](users/178/178551812-vkontakte)<sup>5</sup> 
-[vizart3d](users/581/58171750-vkontakte)<sup>1</sup> 
 
 
-_22.01.2020 18:26:20_
+_22.01.2020 18:29:58_
