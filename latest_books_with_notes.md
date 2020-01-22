@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Весна Софият ~ [Rainbow](users/109/109787328219839805802-google)<sup>50</sup>
 * Рассказы Преступления любви ~ [Euphoria](users/106/106304994652616315178-google)<sup>67</sup>
 * Дамы и господа ~ [joan789](users/240/2401650-vkontakte)<sup>101</sup>
 * Расширить сознание легально ~ [youno](users/302/302928912-vkontakte)<sup>43</sup>
@@ -30,7 +31,6 @@
 * Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>197</sup>
 * Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>196</sup>
 * Ничья земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>155</sup>
-* Женщина с бумажными цветами ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
 
 
-_22.01.2020 06:32:33_
+_22.01.2020 19:35:54_
