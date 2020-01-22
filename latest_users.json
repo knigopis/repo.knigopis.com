@@ -1,4 +1,10 @@
 {
+    "2680385415370992-facebook": {
+        "id": "2680385415370992-facebook",
+        "nickname": "AlexWinchester",
+        "booksCount": 21,
+        "updatedAt": "2020-01-22 18:24:40"
+    },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",
         "nickname": "vladkozz",
@@ -10,12 +16,6 @@
         "nickname": "Euphoria",
         "booksCount": 67,
         "updatedAt": "2020-01-22 06:32:32"
-    },
-    "2680385415370992-facebook": {
-        "id": "2680385415370992-facebook",
-        "nickname": "AlexWinchester",
-        "booksCount": 20,
-        "updatedAt": "2020-01-21 18:14:59"
     },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",

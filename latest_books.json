@@ -1,4 +1,16 @@
 {
+    "s49XbIH86H": {
+        "id": "s49XbIH86H",
+        "title": "Богатый папа, бедный папа",
+        "author": "Роберт Кийосаки",
+        "notes": "Оценка 7\nПрочтений 1",
+        "createdAt": "2020-01-22 18:24:40",
+        "user": {
+            "id": "2680385415370992-facebook",
+            "nickname": "AlexWinchester",
+            "booksCount": 21
+        }
+    },
     "6cKPo02Hjc": {
         "id": "6cKPo02Hjc",
         "title": "Квантовый воин",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 68
-        }
-    },
-    "8lY0MmU7O5": {
-        "id": "8lY0MmU7O5",
-        "title": "Зодиак",
-        "author": "Роберт Грейсмит",
-        "notes": "",
-        "createdAt": "2020-01-19 11:08:48",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 67
         }
     }
 }

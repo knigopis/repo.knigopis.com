@@ -1,4 +1,4 @@
-# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>20</sup>
+# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>21</sup>
 ---
 
 ## 2019
@@ -127,6 +127,15 @@
 Дэн Миллмэн
 > Оценка 10
 > Прочтений 3
+
+
+
+## 2010
+
+### Богатый папа, бедный папа
+Роберт Кийосаки
+> Оценка 7
+> Прочтений 1
 
 
 
