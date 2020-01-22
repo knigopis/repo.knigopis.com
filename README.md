@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>59</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>67</sup> 
 [AlexWinchester](users/268/2680385415370992-facebook)<sup>20</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>79</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Человеколось](users/174/17475979687188177329-mailru)<sup>68</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>757</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>101</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>58</sup> 
 [АННА](users/510/51000816-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>43</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vizart3d](users/581/58171750-vkontakte)<sup>1</sup> 
 
 
-_22.01.2020 06:32:33_
+_22.01.2020 12:33:46_

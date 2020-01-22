@@ -1,4 +1,16 @@
 {
+    "6cKPo02Hjc": {
+        "id": "6cKPo02Hjc",
+        "title": "Квантовый воин",
+        "author": "Д.Кехо",
+        "notes": "",
+        "createdAt": "2020-01-22 12:33:46",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 59
+        }
+    },
     "BpWyyyb44Y": {
         "id": "BpWyyyb44Y",
         "title": "Рассказы Преступления любви",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 67
-        }
-    },
-    "SL4TnXKQiD": {
-        "id": "SL4TnXKQiD",
-        "title": "Множественные умы Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2020-01-19 11:08:26",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 66
         }
     }
 }

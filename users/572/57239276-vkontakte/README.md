@@ -1,4 +1,4 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>58</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>59</sup>
 ---
 
 ## 2020
@@ -9,6 +9,10 @@
 
 
 ## 2019
+
+### Квантовый воин
+Д.Кехо
+
 
 ### Властелин колец: Две башни
 Дж.Р.Р.Толкин
