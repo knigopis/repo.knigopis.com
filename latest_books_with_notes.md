@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Рассказы Преступления любви ~ [Euphoria](users/106/106304994652616315178-google)<sup>67</sup>
 * Дамы и господа ~ [joan789](users/240/2401650-vkontakte)<sup>101</sup>
 * Расширить сознание легально ~ [youno](users/302/302928912-vkontakte)<sup>43</sup>
 * Тринадцать ящиков Пандоры ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup>
@@ -30,7 +31,6 @@
 * Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>196</sup>
 * Ничья земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>155</sup>
 * Женщина с бумажными цветами ~ [violet_velva](users/116/116961712580551399099-google)<sup>63</sup>
-* Собачье сердце ~ [Rainbow](users/109/109787328219839805802-google)<sup>49</sup>
 
 
-_19.01.2020 07:59:08_
+_22.01.2020 06:32:33_
