@@ -1,4 +1,16 @@
 {
+    "YZv9XlcUsx": {
+        "id": "YZv9XlcUsx",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "Оценка 6\nПрочтений 1",
+        "createdAt": "2020-01-22 18:26:20",
+        "user": {
+            "id": "2680385415370992-facebook",
+            "nickname": "AlexWinchester",
+            "booksCount": 22
+        }
+    },
     "s49XbIH86H": {
         "id": "s49XbIH86H",
         "title": "Богатый папа, бедный папа",
@@ -345,18 +357,6 @@
             "id": "436975952-vkontakte",
             "nickname": "Olga",
             "booksCount": 1
-        }
-    },
-    "SoNk4cp4Js": {
-        "id": "SoNk4cp4Js",
-        "title": "Хватит быть славным парнем",
-        "author": "Роберт Гловер",
-        "notes": "",
-        "createdAt": "2020-01-19 11:11:05",
-        "user": {
-            "id": "17475979687188177329-mailru",
-            "nickname": "Человеколось",
-            "booksCount": 68
         }
     }
 }
