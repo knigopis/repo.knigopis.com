@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ложная слепота ~ [En](users/333/333646551-vkontakte)<sup>84</sup>
 * Весна Софият ~ [Rainbow](users/109/109787328219839805802-google)<sup>50</sup>
 * Рассказы Преступления любви ~ [Euphoria](users/106/106304994652616315178-google)<sup>67</sup>
 * Дамы и господа ~ [joan789](users/240/2401650-vkontakte)<sup>101</sup>
@@ -30,7 +31,6 @@
 * Санта -Хрякус ~ [Garka](users/115/115753719718250012620-google)<sup>238</sup>
 * Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>197</sup>
 * Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>196</sup>
-* Ничья земля ~ [Chiffi](users/105/105831994080785626680-google)<sup>155</sup>
 
 
-_22.01.2020 19:35:54_
+_23.01.2020 04:11:34_
