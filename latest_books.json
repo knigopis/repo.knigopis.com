@@ -1,4 +1,16 @@
 {
+    "7apBH0vlwa": {
+        "id": "7apBH0vlwa",
+        "title": "Роковые яйца",
+        "author": "М.Булгаков",
+        "notes": "",
+        "createdAt": "2020-01-23 12:42:46",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 81
+        }
+    },
     "aYHuuXrLlK": {
         "id": "aYHuuXrLlK",
         "title": "Дьяволиада",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 79
-        }
-    },
-    "CJZzArXULq": {
-        "id": "CJZzArXULq",
-        "title": "Девушка, которая лгала",
-        "author": "Сью Фортин",
-        "notes": "",
-        "createdAt": "2020-01-21 17:00:48",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 25
         }
     }
 }

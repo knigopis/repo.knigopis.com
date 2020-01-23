@@ -40,7 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kissamasya](users/684/68439978-vkontakte)<sup>80</sup> 
+[kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
 [En](users/333/333646551-vkontakte)<sup>84</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>50</sup> 
 [](users/153/1537586159620888-facebook)<sup>2</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>8</sup> 
 
 
-_23.01.2020 12:39:23_
+_23.01.2020 12:42:46_
