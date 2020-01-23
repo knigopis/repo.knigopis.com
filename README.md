@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дьяволиада ~ [kissamasya](users/684/68439978-vkontakte)<sup>80</sup>
+    > Эпизод из жизни простого человека в недрах зарождающегося советского бюрократического аппарата.
+
 * Ложная слепота ~ [En](users/333/333646551-vkontakte)<sup>84</sup>
     > В 2082 году человечество убедилось, что оно не одиноко во Вселенной. Бесчисленные зонды светя­щейся паутиной окутали Землю. На установление контакта с внеземной цивилизацией направлен ко­рабль «Тезей», несущий на борту наспех собранную команду специалистов. Но, по достижении цели, ис­следователям предстоит понять, что самые невероят­ные фантазии об инопланетном разуме меркнут по сравнению с реальностью, и на кон поставлена судь­ба Земли и всего человечества.
 
@@ -19,7 +22,6 @@ Do not use pull requests to make changes here.
     > нарисованы парень и девушка.»
 
 * Рассказы Преступления любви ~ [Euphoria](users/106/106304994652616315178-google)<sup>67</sup>
-    > Первый сборник мною прочитанных рассказов от Агаты Кристи. Сборник небольшой, всего 8 рассказов. Истории все заказаны на теме убийства. Из прочитанного особо ничего не запомнила, но читать было интересно и предполагать кто же преступник. Для развлечения вполне сойдёт.
 
 * Дамы и господа ~ [joan789](users/240/2401650-vkontakte)<sup>101</sup>
 
@@ -33,20 +35,18 @@ Do not use pull requests to make changes here.
 
 * Выйди из зоны комфорта ~ [youno](users/302/302928912-vkontakte)<sup>42</sup>
 
-* Жена между нами ~ [Len4e91](users/254/254448176-yandex)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>80</sup> 
 [En](users/333/333646551-vkontakte)<sup>84</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>50</sup> 
 [](users/153/1537586159620888-facebook)<sup>2</sup> 
 [AlexWinchester](users/268/2680385415370992-facebook)<sup>22</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>59</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>67</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>79</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>25</sup> 
 [pavelm741](users/468/468820957-vkontakte)<sup>0</sup> 
 [Яр](users/105/105454927277334527943-google)<sup>0</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>8</sup> 
 
 
-_23.01.2020 04:11:34_
+_23.01.2020 12:39:23_

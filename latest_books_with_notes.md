@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дьяволиада ~ [kissamasya](users/684/68439978-vkontakte)<sup>80</sup>
 * Ложная слепота ~ [En](users/333/333646551-vkontakte)<sup>84</sup>
 * Весна Софият ~ [Rainbow](users/109/109787328219839805802-google)<sup>50</sup>
 * Рассказы Преступления любви ~ [Euphoria](users/106/106304994652616315178-google)<sup>67</sup>
@@ -30,7 +31,6 @@
 * Настольная книга для монашествующих и мирян ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup>
 * Санта -Хрякус ~ [Garka](users/115/115753719718250012620-google)<sup>238</sup>
 * Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>197</sup>
-* Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>196</sup>
 
 
-_23.01.2020 04:11:34_
+_23.01.2020 12:39:23_

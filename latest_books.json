@@ -1,4 +1,16 @@
 {
+    "aYHuuXrLlK": {
+        "id": "aYHuuXrLlK",
+        "title": "Дьяволиада",
+        "author": "М.Булгаков",
+        "notes": "Эпизод из жизни простого человека в недрах зарождающегося советского бюрократического аппарата.",
+        "createdAt": "2020-01-23 12:39:23",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 80
+        }
+    },
     "VsIXacns75": {
         "id": "VsIXacns75",
         "title": "Ложная слепота",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 25
-        }
-    },
-    "4O5UhK1lw3": {
-        "id": "4O5UhK1lw3",
-        "title": "Звёзды правду говорят",
-        "author": "Марина Серова",
-        "notes": "",
-        "createdAt": "2020-01-20 15:00:46",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 24
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 80,
+        "updatedAt": "2020-01-23 12:39:23"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -34,12 +40,6 @@
         "nickname": "Euphoria",
         "booksCount": 67,
         "updatedAt": "2020-01-22 06:32:32"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 79,
-        "updatedAt": "2020-01-21 17:43:40"
     },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
