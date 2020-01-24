@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>207</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>24</sup> 
 [En](users/333/333646551-vkontakte)<sup>85</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>56</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>26</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>67</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>206</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>8</sup> 
 
 
-_24.01.2020 10:10:35_
+_24.01.2020 11:37:32_

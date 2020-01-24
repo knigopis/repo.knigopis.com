@@ -1,4 +1,16 @@
 {
+    "lH6reg6P6f": {
+        "id": "lH6reg6P6f",
+        "title": "Будденброки",
+        "author": "Томас Манн",
+        "notes": "",
+        "createdAt": "2020-01-24 11:37:32",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 207
+        }
+    },
     "8LKv2axNfV": {
         "id": "8LKv2axNfV",
         "title": "Если это судьба",
@@ -345,18 +357,6 @@
             "id": "2680385415370992-facebook",
             "nickname": "AlexWinchester",
             "booksCount": 4
-        }
-    },
-    "30CE3jqwJg": {
-        "id": "30CE3jqwJg",
-        "title": "Книга зеркал",
-        "author": "Эуджен Чировици",
-        "notes": "Оценка 8\nПрочтений 1",
-        "createdAt": "2020-01-21 17:52:35",
-        "user": {
-            "id": "2680385415370992-facebook",
-            "nickname": "AlexWinchester",
-            "booksCount": 3
         }
     }
 }
