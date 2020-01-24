@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 85,
+        "updatedAt": "2020-01-24 10:00:43"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -10,12 +16,6 @@
         "nickname": "kissamasya",
         "booksCount": 81,
         "updatedAt": "2020-01-23 12:42:46"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 84,
-        "updatedAt": "2020-01-23 04:11:34"
     },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
