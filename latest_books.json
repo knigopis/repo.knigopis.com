@@ -1,4 +1,16 @@
 {
+    "BSFAIEoeSD": {
+        "id": "BSFAIEoeSD",
+        "title": "Смысл жизни - практический подход",
+        "author": "Хасьминский Михаил",
+        "notes": "",
+        "createdAt": "2020-01-24 21:42:48",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "Егор Прохоров",
+            "booksCount": 20
+        }
+    },
     "5wJbTJoFDT": {
         "id": "5wJbTJoFDT",
         "title": "Над кукушкиным гнездом",
@@ -345,18 +357,6 @@
             "id": "2680385415370992-facebook",
             "nickname": "AlexWinchester",
             "booksCount": 7
-        }
-    },
-    "ewBHyIZb15": {
-        "id": "ewBHyIZb15",
-        "title": "Множественные умы Билли Миллигана",
-        "author": "Киз Дэниел",
-        "notes": "Оценка 6\nПрочтений 1",
-        "createdAt": "2020-01-21 17:58:51",
-        "user": {
-            "id": "2680385415370992-facebook",
-            "nickname": "AlexWinchester",
-            "booksCount": 6
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "481937529-vkontakte": {
+        "id": "481937529-vkontakte",
+        "nickname": "Егор Прохоров",
+        "booksCount": 20,
+        "updatedAt": "2020-01-24 21:42:48"
+    },
     "509679913-vkontakte": {
         "id": "509679913-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Таньчик",
         "booksCount": 56,
         "updatedAt": "2020-01-16 18:56:32"
-    },
-    "233860015-vkontakte": {
-        "id": "233860015-vkontakte",
-        "nickname": "dghtt",
-        "booksCount": 26,
-        "updatedAt": "2020-01-16 17:19:22"
     }
 }
