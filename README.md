@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/509/509679913-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>130</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>68</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>207</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>239</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>56</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>26</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>67</sup> 
 
 
-_24.01.2020 21:23:03_
+_24.01.2020 21:39:08_
