@@ -1,4 +1,10 @@
 {
+    "509679913-vkontakte": {
+        "id": "509679913-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-01-24 21:39:06"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -172,11 +178,5 @@
         "nickname": "dghtt",
         "booksCount": 26,
         "updatedAt": "2020-01-16 17:19:22"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 67,
-        "updatedAt": "2020-01-16 16:59:46"
     }
 }
