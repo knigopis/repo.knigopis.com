@@ -1,4 +1,16 @@
 {
+    "c5zSELwP8b": {
+        "id": "c5zSELwP8b",
+        "title": "Злые мысли человечества",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-01-24 21:44:04",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "Егор Прохоров",
+            "booksCount": 21
+        }
+    },
     "BSFAIEoeSD": {
         "id": "BSFAIEoeSD",
         "title": "Смысл жизни - практический подход",
@@ -345,18 +357,6 @@
             "id": "2680385415370992-facebook",
             "nickname": "AlexWinchester",
             "booksCount": 8
-        }
-    },
-    "QvQZ7rzDGs": {
-        "id": "QvQZ7rzDGs",
-        "title": "Войны Миллигана",
-        "author": "Киз Дэниел",
-        "notes": "Оценка 6\nПрочтений 1",
-        "createdAt": "2020-01-21 17:59:39",
-        "user": {
-            "id": "2680385415370992-facebook",
-            "nickname": "AlexWinchester",
-            "booksCount": 7
         }
     }
 }
