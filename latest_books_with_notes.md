@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Над кукушкиным гнездом ~ [anvonamore](users/595/5957175-vkontakte)<sup>130</sup>
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>68</sup>
 * Спектр ~ [En](users/333/333646551-vkontakte)<sup>85</sup>
 * Дьяволиада ~ [kissamasya](users/684/68439978-vkontakte)<sup>80</sup>
@@ -30,7 +31,6 @@
 * Скорбь Сатаны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>79</sup>
 * Ведьмак. Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>78</sup>
 * Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>77</sup>
-* Настольная книга для монашествующих и мирян ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup>
 
 
-_24.01.2020 14:26:38_
+_24.01.2020 21:23:03_
