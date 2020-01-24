@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Euphoria](users/106/106304994652616315178-google)<sup>68</sup>
 * Спектр ~ [En](users/333/333646551-vkontakte)<sup>85</sup>
 * Дьяволиада ~ [kissamasya](users/684/68439978-vkontakte)<sup>80</sup>
 * Ложная слепота ~ [En](users/333/333646551-vkontakte)<sup>84</sup>
@@ -30,7 +31,6 @@
 * Ведьмак. Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>78</sup>
 * Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>77</sup>
 * Настольная книга для монашествующих и мирян ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup>
-* Санта -Хрякус ~ [Garka](users/115/115753719718250012620-google)<sup>238</sup>
 
 
-_24.01.2020 10:00:43_
+_24.01.2020 14:26:38_

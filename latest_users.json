@@ -1,4 +1,10 @@
 {
+    "106304994652616315178-google": {
+        "id": "106304994652616315178-google",
+        "nickname": "Euphoria",
+        "booksCount": 68,
+        "updatedAt": "2020-01-24 14:26:38"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -46,12 +52,6 @@
         "nickname": "vladkozz",
         "booksCount": 59,
         "updatedAt": "2020-01-22 12:33:46"
-    },
-    "106304994652616315178-google": {
-        "id": "106304994652616315178-google",
-        "nickname": "Euphoria",
-        "booksCount": 67,
-        "updatedAt": "2020-01-22 06:32:32"
     },
     "468820957-vkontakte": {
         "id": "468820957-vkontakte",
