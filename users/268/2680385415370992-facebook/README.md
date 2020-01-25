@@ -1,4 +1,4 @@
-# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>30</sup>
+# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>31</sup>
 ---
 
 ## 2020
@@ -167,6 +167,12 @@
 
 
 ## 2015
+
+### Крещение огнем
+Анджей Сапковский
+> Оценка 6
+> Прочтений 1
+
 
 ### Час Презрения
 Анджей Сапковский
