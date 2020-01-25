@@ -1,4 +1,16 @@
 {
+    "gvnPS6RpMD": {
+        "id": "gvnPS6RpMD",
+        "title": "Час Презрения",
+        "author": "Анджей Сапковский",
+        "notes": "Оценка 7\nПрочтений 1",
+        "createdAt": "2020-01-25 21:31:31",
+        "user": {
+            "id": "2680385415370992-facebook",
+            "nickname": "AlexWinchester",
+            "booksCount": 30
+        }
+    },
     "_n9uB5-4ls": {
         "id": "_n9uB5-4ls",
         "title": "Кровь эльфов",
@@ -345,18 +357,6 @@
             "id": "2680385415370992-facebook",
             "nickname": "AlexWinchester",
             "booksCount": 18
-        }
-    },
-    "LJXZ6E0a_Q": {
-        "id": "LJXZ6E0a_Q",
-        "title": "Волки Одина",
-        "author": "Александр Мазин",
-        "notes": "Оценка 8\nПрочтений 1",
-        "createdAt": "2020-01-21 18:10:34",
-        "user": {
-            "id": "2680385415370992-facebook",
-            "nickname": "AlexWinchester",
-            "booksCount": 17
         }
     }
 }
