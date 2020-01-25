@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexWinchester](users/268/2680385415370992-facebook)<sup>23</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>216</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>25</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>21</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>50</sup> 
 [](users/153/1537586159620888-facebook)<sup>2</sup> 
-[AlexWinchester](users/268/2680385415370992-facebook)<sup>22</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>59</sup> 
 [pavelm741](users/468/468820957-vkontakte)<sup>0</sup> 
 [Яр](users/105/105454927277334527943-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>239</sup> 
 
 
-_25.01.2020 20:34:05_
+_25.01.2020 21:16:38_

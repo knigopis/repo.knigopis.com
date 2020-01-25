@@ -1,4 +1,10 @@
 {
+    "2680385415370992-facebook": {
+        "id": "2680385415370992-facebook",
+        "nickname": "AlexWinchester",
+        "booksCount": 23,
+        "updatedAt": "2020-01-25 21:16:38"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -64,12 +70,6 @@
         "nickname": null,
         "booksCount": 2,
         "updatedAt": "2020-01-22 18:29:58"
-    },
-    "2680385415370992-facebook": {
-        "id": "2680385415370992-facebook",
-        "nickname": "AlexWinchester",
-        "booksCount": 22,
-        "updatedAt": "2020-01-22 18:26:20"
     },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",
