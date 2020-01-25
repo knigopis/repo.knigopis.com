@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>215</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>216</sup>
 ---
 
 ## 2020
+
+### Гобсек
+Оноре де Бальзак
+> [2020-01-22] 
+
 
 ### Фотография, на которой меня нет
 Виктор Астафьев
