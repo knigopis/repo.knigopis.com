@@ -1,4 +1,4 @@
-# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>27</sup>
+# List of books read by [AlexWinchester](https://www.facebook.com/profile.php?id=2680385415370992)<sup>28</sup>
 ---
 
 ## 2020
@@ -167,6 +167,12 @@
 
 
 ## 2015
+
+### Меч предназначения
+Анджей Сапковский
+> Оценка 8
+> Прочтений 1
+
 
 ### Последнее желание
 Анджей Сапковский
