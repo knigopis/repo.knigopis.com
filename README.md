@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/270/270444099499-odnoklassniki)<sup>26</sup> 
+[](users/270/270444099499-odnoklassniki)<sup>25</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>240</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>25</sup> 
 [AlexWinchester](users/268/2680385415370992-facebook)<sup>34</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>17</sup> 
 
 
-_26.01.2020 14:16:15_
+_26.01.2020 14:16:32_
