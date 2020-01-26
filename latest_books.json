@@ -1,4 +1,16 @@
 {
+    "zijpluBDH3": {
+        "id": "zijpluBDH3",
+        "title": "Хищник",
+        "author": "Кристофер Голден",
+        "notes": "",
+        "createdAt": "2020-01-26 09:34:09",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "Егор Прохоров",
+            "booksCount": 24
+        }
+    },
     "_CgBbhFta6": {
         "id": "_CgBbhFta6",
         "title": "Перед бурей",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 2
-        }
-    },
-    "YZv9XlcUsx": {
-        "id": "YZv9XlcUsx",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "Оценка 6\nПрочтений 1",
-        "createdAt": "2020-01-22 18:26:20",
-        "user": {
-            "id": "2680385415370992-facebook",
-            "nickname": "AlexWinchester",
-            "booksCount": 22
         }
     }
 }
