@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хроники Амбера. Пятикнижие Мерлина. Знак Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>240</sup>
 * Над кукушкиным гнездом ~ [anvonamore](users/595/5957175-vkontakte)<sup>130</sup>
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>68</sup>
 * Спектр ~ [En](users/333/333646551-vkontakte)<sup>85</sup>
@@ -30,7 +31,6 @@
 * Хроники Амбера. Пятикнижие Мерлина. Карты судьбы ~ [Garka](users/115/115753719718250012620-google)<sup>239</sup>
 * Скорбь Сатаны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>79</sup>
 * Ведьмак. Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>78</sup>
-* Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>77</sup>
 
 
-_24.01.2020 21:23:03_
+_26.01.2020 12:35:13_
