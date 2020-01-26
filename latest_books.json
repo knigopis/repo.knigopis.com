@@ -1,4 +1,16 @@
 {
+    "_CgBbhFta6": {
+        "id": "_CgBbhFta6",
+        "title": "Перед бурей",
+        "author": "Кристи Голден",
+        "notes": "",
+        "createdAt": "2020-01-26 09:33:34",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "Егор Прохоров",
+            "booksCount": 23
+        }
+    },
     "lfMG93SOPN": {
         "id": "lfMG93SOPN",
         "title": "Повелитель кланов",
@@ -345,18 +357,6 @@
             "id": "2680385415370992-facebook",
             "nickname": "AlexWinchester",
             "booksCount": 22
-        }
-    },
-    "s49XbIH86H": {
-        "id": "s49XbIH86H",
-        "title": "Богатый папа, бедный папа",
-        "author": "Роберт Кийосаки",
-        "notes": "Оценка 7\nПрочтений 1",
-        "createdAt": "2020-01-22 18:24:40",
-        "user": {
-            "id": "2680385415370992-facebook",
-            "nickname": "AlexWinchester",
-            "booksCount": 21
         }
     }
 }
