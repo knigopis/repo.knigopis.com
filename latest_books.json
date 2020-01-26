@@ -1,4 +1,16 @@
 {
+    "yFpR4tsTnK": {
+        "id": "yFpR4tsTnK",
+        "title": "Узы Братства",
+        "author": "Крис Метцен",
+        "notes": "",
+        "createdAt": "2020-01-26 09:35:14",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "Егор Прохоров",
+            "booksCount": 25
+        }
+    },
     "zijpluBDH3": {
         "id": "zijpluBDH3",
         "title": "Хищник",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 50
-        }
-    },
-    "pkFkxgYpce": {
-        "id": "pkFkxgYpce",
-        "title": "Одиночество в сети",
-        "author": "Януш Вишневский",
-        "notes": "",
-        "createdAt": "2020-01-22 18:29:58",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
