@@ -1,4 +1,10 @@
 {
+    "481937529-vkontakte": {
+        "id": "481937529-vkontakte",
+        "nickname": "Егор Прохоров",
+        "booksCount": 22,
+        "updatedAt": "2020-01-26 09:33:01"
+    },
     "2680385415370992-facebook": {
         "id": "2680385415370992-facebook",
         "nickname": "AlexWinchester",
@@ -16,12 +22,6 @@
         "nickname": null,
         "booksCount": 25,
         "updatedAt": "2020-01-25 12:48:39"
-    },
-    "481937529-vkontakte": {
-        "id": "481937529-vkontakte",
-        "nickname": "Егор Прохоров",
-        "booksCount": 21,
-        "updatedAt": "2020-01-24 21:44:04"
     },
     "509679913-vkontakte": {
         "id": "509679913-vkontakte",
