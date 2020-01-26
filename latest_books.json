@@ -1,4 +1,16 @@
 {
+    "LaOa_saFpv": {
+        "id": "LaOa_saFpv",
+        "title": "Страна багровых туч",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2020-01-26 17:05:09",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 185
+        }
+    },
     "tF8JxaJA-v": {
         "id": "tF8JxaJA-v",
         "title": "Пять лет замужества. Условно.",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 81
-        }
-    },
-    "aYHuuXrLlK": {
-        "id": "aYHuuXrLlK",
-        "title": "Дьяволиада",
-        "author": "М.Булгаков",
-        "notes": "Эпизод из жизни простого человека в недрах зарождающегося советского бюрократического аппарата.",
-        "createdAt": "2020-01-23 12:39:23",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 80
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 185,
+        "updatedAt": "2020-01-26 17:05:09"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 371,
         "updatedAt": "2020-01-18 05:57:52"
-    },
-    "102536471289425216982-google": {
-        "id": "102536471289425216982-google",
-        "nickname": "Окс",
-        "booksCount": 17,
-        "updatedAt": "2020-01-16 21:48:10"
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>184</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>185</sup>
 ---
 
 ## 2020
+
+### Страна багровых туч
+Аркадий и Борис Стругацкие
+> [2020-01-22] 
+
 
 ### Грозовой перевал
 Эмили Бронте
