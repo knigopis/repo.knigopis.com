@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>42</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>185</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>25</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>240</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>43</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>150</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>41</sup> 
 [AVNIKi](users/368/368978766-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>158</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>371</sup> 
 
 
-_26.01.2020 17:05:09_
+_27.01.2020 08:47:18_

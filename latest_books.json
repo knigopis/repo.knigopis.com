@@ -1,4 +1,16 @@
 {
+    "NMZZfyQQof": {
+        "id": "NMZZfyQQof",
+        "title": "Вся кремлёвская рать",
+        "author": "Михаил Зыгарь",
+        "notes": "",
+        "createdAt": "2020-01-27 08:47:18",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 42
+        }
+    },
     "LaOa_saFpv": {
         "id": "LaOa_saFpv",
         "title": "Страна багровых туч",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 23
-        }
-    },
-    "7apBH0vlwa": {
-        "id": "7apBH0vlwa",
-        "title": "Роковые яйца",
-        "author": "М.Булгаков",
-        "notes": "",
-        "createdAt": "2020-01-23 12:42:46",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 81
         }
     }
 }

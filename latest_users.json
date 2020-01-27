@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 42,
+        "updatedAt": "2020-01-27 08:47:18"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -154,12 +160,6 @@
         "nickname": "afferens.lucem",
         "booksCount": 150,
         "updatedAt": "2020-01-18 20:08:51"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 41,
-        "updatedAt": "2020-01-18 15:32:38"
     },
     "368978766-vkontakte": {
         "id": "368978766-vkontakte",
