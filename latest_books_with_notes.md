@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Русская канарейка. Голос ~ [dmiro](users/571/5714115-vkontakte)<sup>17</sup>
 * Хроники Амбера. Пятикнижие Мерлина. Знак Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>240</sup>
 * Над кукушкиным гнездом ~ [anvonamore](users/595/5957175-vkontakte)<sup>130</sup>
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>68</sup>
@@ -30,7 +31,6 @@
 * Ведьмак. Час Презрения ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>80</sup>
 * Хроники Амбера. Пятикнижие Мерлина. Карты судьбы ~ [Garka](users/115/115753719718250012620-google)<sup>239</sup>
 * Скорбь Сатаны ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>79</sup>
-* Ведьмак. Кровь эльфов ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>78</sup>
 
 
-_26.01.2020 12:35:13_
+_27.01.2020 13:57:50_

@@ -1,4 +1,16 @@
 {
+    "7a1E1TAwm6": {
+        "id": "7a1E1TAwm6",
+        "title": "Русская канарейка. Голос",
+        "author": "Дина Рубина",
+        "notes": "История жизни Желтухина и его встреча с Айей",
+        "createdAt": "2020-01-27 13:57:50",
+        "user": {
+            "id": "5714115-vkontakte",
+            "nickname": "dmiro",
+            "booksCount": 17
+        }
+    },
     "kmzhSrOqJT": {
         "id": "kmzhSrOqJT",
         "title": "Хроники Амбера. Пятикнижие Мерлина. Знак Хаоса",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 79
-        }
-    },
-    "nDNBZK8fMr": {
-        "id": "nDNBZK8fMr",
-        "title": "Ведьмак. Кровь эльфов",
-        "author": "Анджей Сапковский",
-        "notes": "8/10",
-        "createdAt": "2020-01-05 13:22:14",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 78
         }
     }
 }

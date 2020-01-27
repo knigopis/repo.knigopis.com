@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Русская канарейка. Голос ~ [dmiro](users/571/5714115-vkontakte)<sup>17</sup>
+    > История жизни Желтухина и его встреча с Айей
+
 * Хроники Амбера. Пятикнижие Мерлина. Знак Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>240</sup>
     > Сколько же у Оберона детей. Когда он править успевал?
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 4/10
 
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>68</sup>
-    > Хорошая книга, читала долго, но половину книги прочла за 3 дня. Неожиданная концовка, и вполне справедливая. Но как же деньги раскрывают сущность человека. Очень интересна погоня за богатством.
 
 * Спектр ~ [En](users/333/333646551-vkontakte)<sup>85</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дамы и господа ~ [joan789](users/240/2401650-vkontakte)<sup>101</sup>
 
-* Расширить сознание легально ~ [youno](users/302/302928912-vkontakte)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmiro](users/571/5714115-vkontakte)<sup>17</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>42</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>185</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>150</sup> 
 [AVNIKi](users/368/368978766-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>158</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>371</sup> 
 
 
-_27.01.2020 11:59:33_
+_27.01.2020 13:57:50_
