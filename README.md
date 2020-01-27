@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lostinfrost](users/217/217891524-vkontakte)<sup>147</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>19</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>42</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>150</sup> 
 [AVNIKi](users/368/368978766-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>158</sup> 
 
 
-_27.01.2020 14:00:52_
+_27.01.2020 18:43:56_
