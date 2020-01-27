@@ -1,4 +1,16 @@
 {
+    "vVCQEYKxym": {
+        "id": "vVCQEYKxym",
+        "title": "Русская канарейка. Блудный сын",
+        "author": "Дина Рубина",
+        "notes": "История шпиона-оперного певца, который потерял зрение, и фотографа-бродяжки, которая лишена слуха",
+        "createdAt": "2020-01-27 13:59:55",
+        "user": {
+            "id": "5714115-vkontakte",
+            "nickname": "dmiro",
+            "booksCount": 18
+        }
+    },
     "7a1E1TAwm6": {
         "id": "7a1E1TAwm6",
         "title": "Русская канарейка. Голос",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 239
-        }
-    },
-    "u0_QNZ4ViE": {
-        "id": "u0_QNZ4ViE",
-        "title": "Скорбь Сатаны",
-        "author": "Брэм Стокер",
-        "notes": "5/10 искушение деньгами и женщинами.",
-        "createdAt": "2020-01-06 21:40:21",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 79
         }
     }
 }

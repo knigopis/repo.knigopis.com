@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Русская канарейка. Блудный сын ~ [dmiro](users/571/5714115-vkontakte)<sup>18</sup>
+    > История шпиона-оперного певца, который потерял зрение, и фотографа-бродяжки, которая лишена слуха
+
 * Русская канарейка. Голос ~ [dmiro](users/571/5714115-vkontakte)<sup>17</sup>
     > История жизни Желтухина и его встреча с Айей
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сколько же у Оберона детей. Когда он править успевал?
 
 * Над кукушкиным гнездом ~ [anvonamore](users/595/5957175-vkontakte)<sup>130</sup>
-    > 4/10
 
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>68</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Рассказы Преступления любви ~ [Euphoria](users/106/106304994652616315178-google)<sup>67</sup>
 
-* Дамы и господа ~ [joan789](users/240/2401650-vkontakte)<sup>101</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dmiro](users/571/5714115-vkontakte)<sup>17</sup> 
+[dmiro](users/571/5714115-vkontakte)<sup>18</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>42</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>185</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>158</sup> 
 
 
-_27.01.2020 13:57:50_
+_27.01.2020 13:59:55_
