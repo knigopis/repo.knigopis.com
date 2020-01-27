@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dmiro](users/571/5714115-vkontakte)<sup>18</sup> 
+[dmiro](users/571/5714115-vkontakte)<sup>19</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>42</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>185</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>158</sup> 
 
 
-_27.01.2020 13:59:55_
+_27.01.2020 14:00:52_
