@@ -1,4 +1,16 @@
 {
+    "K1Ps2tNOvI": {
+        "id": "K1Ps2tNOvI",
+        "title": "Ведьмак. Кровь эльфов",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2020-01-27 11:59:33",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 92
+        }
+    },
     "NMZZfyQQof": {
         "id": "NMZZfyQQof",
         "title": "Вся кремлёвская рать",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 85
-        }
-    },
-    "nlR6wfFHyr": {
-        "id": "nlR6wfFHyr",
-        "title": "Клетка семейного очага",
-        "author": "Марина Болдова",
-        "notes": "",
-        "createdAt": "2020-01-23 16:15:46",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 23
         }
     }
 }

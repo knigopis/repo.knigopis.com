@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>91</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>92</sup>
 ---
 
 ## 2020
+
+### Ведьмак. Кровь эльфов
+Анджей Сапковский
+> [2020-01-27] 
+
 
 ### 1984
 Джордж Оруэл
