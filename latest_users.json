@@ -1,4 +1,10 @@
 {
+    "113640574971285781663-google": {
+        "id": "113640574971285781663-google",
+        "nickname": "CrazyNikit",
+        "booksCount": 0,
+        "updatedAt": "2020-01-28 16:02:28"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 83,
         "updatedAt": "2020-01-18 20:48:34"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 150,
-        "updatedAt": "2020-01-18 20:08:51"
     }
 }
