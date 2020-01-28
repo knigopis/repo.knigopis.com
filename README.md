@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Егор Прохоров](users/481/481937529-vkontakte)<sup>26</sup> 
+[Егор Прохоров](users/481/481937529-vkontakte)<sup>27</sup> 
 [CrazyNikit](users/113/113640574971285781663-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>758</sup> 
 [Саня](users/111/111645577348014069912-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup> 
 
 
-_28.01.2020 16:21:07_
+_28.01.2020 17:42:39_
