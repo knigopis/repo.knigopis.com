@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[CrazyNikit](users/113/113640574971285781663-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>758</sup> 
 [Саня](users/111/111645577348014069912-google)<sup>1</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>147</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [АННА](users/510/51000816-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>43</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>150</sup> 
 
 
-_28.01.2020 10:42:43_
+_28.01.2020 16:02:32_
