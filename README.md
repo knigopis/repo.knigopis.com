@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Егор Прохоров](users/481/481937529-vkontakte)<sup>26</sup> 
 [CrazyNikit](users/113/113640574971285781663-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>758</sup> 
 [Саня](users/111/111645577348014069912-google)<sup>1</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>185</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>25</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>240</sup> 
-[Егор Прохоров](users/481/481937529-vkontakte)<sup>25</sup> 
 [AlexWinchester](users/268/2680385415370992-facebook)<sup>34</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>216</sup> 
 [](users/509/509679913-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup> 
 
 
-_28.01.2020 16:02:32_
+_28.01.2020 16:21:07_

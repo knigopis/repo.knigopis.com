@@ -1,4 +1,16 @@
 {
+    "DpmaLN7Ex_": {
+        "id": "DpmaLN7Ex_",
+        "title": "Белые слоны",
+        "author": "Эрнест Миллер Хемингуэй",
+        "notes": "",
+        "createdAt": "2020-01-28 16:21:07",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "Егор Прохоров",
+            "booksCount": 26
+        }
+    },
     "uitEnMAq7a": {
         "id": "uitEnMAq7a",
         "title": "Последний секрет",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 25
-        }
-    },
-    "c5zSELwP8b": {
-        "id": "c5zSELwP8b",
-        "title": "Злые мысли человечества",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-01-24 21:44:04",
-        "user": {
-            "id": "481937529-vkontakte",
-            "nickname": "Егор Прохоров",
-            "booksCount": 21
         }
     }
 }

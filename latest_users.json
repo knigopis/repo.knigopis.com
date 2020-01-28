@@ -1,4 +1,10 @@
 {
+    "481937529-vkontakte": {
+        "id": "481937529-vkontakte",
+        "nickname": "Егор Прохоров",
+        "booksCount": 26,
+        "updatedAt": "2020-01-28 16:21:07"
+    },
     "113640574971285781663-google": {
         "id": "113640574971285781663-google",
         "nickname": "CrazyNikit",
@@ -58,12 +64,6 @@
         "nickname": "Garka",
         "booksCount": 240,
         "updatedAt": "2020-01-26 12:35:13"
-    },
-    "481937529-vkontakte": {
-        "id": "481937529-vkontakte",
-        "nickname": "Егор Прохоров",
-        "booksCount": 25,
-        "updatedAt": "2020-01-26 09:35:14"
     },
     "2680385415370992-facebook": {
         "id": "2680385415370992-facebook",
