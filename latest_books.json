@@ -1,4 +1,16 @@
 {
+    "uitEnMAq7a": {
+        "id": "uitEnMAq7a",
+        "title": "Последний секрет",
+        "author": "Бернард Вербер",
+        "notes": "",
+        "createdAt": "2020-01-28 10:42:43",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 758
+        }
+    },
     "99QoGWkKlw": {
         "id": "99QoGWkKlw",
         "title": "война и мир",
@@ -345,18 +357,6 @@
             "id": "481937529-vkontakte",
             "nickname": "Егор Прохоров",
             "booksCount": 21
-        }
-    },
-    "BSFAIEoeSD": {
-        "id": "BSFAIEoeSD",
-        "title": "Смысл жизни - практический подход",
-        "author": "Хасьминский Михаил",
-        "notes": "",
-        "createdAt": "2020-01-24 21:42:48",
-        "user": {
-            "id": "481937529-vkontakte",
-            "nickname": "Егор Прохоров",
-            "booksCount": 20
         }
     }
 }
