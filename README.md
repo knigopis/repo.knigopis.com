@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Саня](users/111/111645577348014069912-google)<sup>0</sup> 
+[Саня](users/111/111645577348014069912-google)<sup>1</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>147</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>19</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>92</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>150</sup> 
 
 
-_28.01.2020 10:38:41_
+_28.01.2020 10:39:39_
