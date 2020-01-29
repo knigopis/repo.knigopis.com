@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Любовники Екатерины ~ [Euphoria](users/106/106304994652616315178-google)<sup>69</sup>
+    > В книге повествуется о похождениях Екатерины 2. Я нахожусь в шоке от того, насколько оказывается она была испорченной. Конечно раньше слышала, что она не является образцом целомудрия, но чтобы настолько, но с другой стороны если бы на ее месте был мужчина, то это было бы в порядке вещей - двойные стандарты.
+
 * Русская канарейка. Блудный сын ~ [dmiro](users/571/5714115-vkontakte)<sup>18</sup>
     > История шпиона-оперного певца, который потерял зрение, и фотографа-бродяжки, которая лишена слуха
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > История жизни Желтухина и его встреча с Айей
 
 * Хроники Амбера. Пятикнижие Мерлина. Знак Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>240</sup>
-    > Сколько же у Оберона детей. Когда он править успевал?
 
 * Над кукушкиным гнездом ~ [anvonamore](users/595/5957175-vkontakte)<sup>130</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Весна Софият ~ [Rainbow](users/109/109787328219839805802-google)<sup>50</sup>
 
-* Рассказы Преступления любви ~ [Euphoria](users/106/106304994652616315178-google)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>69</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>27</sup> 
 [CrazyNikit](users/113/113640574971285781663-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>758</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>216</sup> 
 [](users/509/509679913-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>130</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>68</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>207</sup> 
 [En](users/333/333646551-vkontakte)<sup>85</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup> 
 
 
-_28.01.2020 17:42:39_
+_29.01.2020 08:29:52_

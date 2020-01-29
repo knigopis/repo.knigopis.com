@@ -1,4 +1,10 @@
 {
+    "106304994652616315178-google": {
+        "id": "106304994652616315178-google",
+        "nickname": "Euphoria",
+        "booksCount": 69,
+        "updatedAt": "2020-01-29 08:29:52"
+    },
     "481937529-vkontakte": {
         "id": "481937529-vkontakte",
         "nickname": "Егор Прохоров",
@@ -88,12 +94,6 @@
         "nickname": "anvonamore",
         "booksCount": 130,
         "updatedAt": "2020-01-24 21:23:03"
-    },
-    "106304994652616315178-google": {
-        "id": "106304994652616315178-google",
-        "nickname": "Euphoria",
-        "booksCount": 68,
-        "updatedAt": "2020-01-24 14:26:38"
     },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
