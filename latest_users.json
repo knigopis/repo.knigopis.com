@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 159,
+        "updatedAt": "2020-01-29 17:21:28"
+    },
     "481937529-vkontakte": {
         "id": "481937529-vkontakte",
         "nickname": "Егор Прохоров",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 43,
         "updatedAt": "2020-01-18 22:29:10"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 83,
-        "updatedAt": "2020-01-18 20:48:34"
     }
 }

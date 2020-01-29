@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Маги без времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>159</sup>
 * Любовники Екатерины ~ [Euphoria](users/106/106304994652616315178-google)<sup>69</sup>
 * Русская канарейка. Блудный сын ~ [dmiro](users/571/5714115-vkontakte)<sup>18</sup>
 * Русская канарейка. Голос ~ [dmiro](users/571/5714115-vkontakte)<sup>17</sup>
@@ -30,7 +31,6 @@
 * Худеющий ~ [En](users/333/333646551-vkontakte)<sup>83</sup>
 * Суча дочка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup>
 * В канун Рождества ~ [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup>
-* Ведьмак. Час Презрения ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>80</sup>
 
 
-_29.01.2020 08:29:52_
+_29.01.2020 17:21:28_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маги без времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>159</sup>
+    > отличная фантастика. жалко,  что всего одна книга, но все очень логично закончилось и хеппи-эндом))) Оставила позитивное впечатлиение
+
 * Любовники Екатерины ~ [Euphoria](users/106/106304994652616315178-google)<sup>69</sup>
     > В книге повествуется о похождениях Екатерины 2. Я нахожусь в шоке от того, насколько оказывается она была испорченной. Конечно раньше слышала, что она не является образцом целомудрия, но чтобы настолько, но с другой стороны если бы на ее месте был мужчина, то это было бы в порядке вещей - двойные стандарты.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > История шпиона-оперного певца, который потерял зрение, и фотографа-бродяжки, которая лишена слуха
 
 * Русская канарейка. Голос ~ [dmiro](users/571/5714115-vkontakte)<sup>17</sup>
-    > История жизни Желтухина и его встреча с Айей
 
 * Хроники Амбера. Пятикнижие Мерлина. Знак Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>240</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ложная слепота ~ [En](users/333/333646551-vkontakte)<sup>84</sup>
 
-* Весна Софият ~ [Rainbow](users/109/109787328219839805802-google)<sup>50</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>159</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>28</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>69</sup> 
 [CrazyNikit](users/113/113640574971285781663-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>101</sup> 
 [АННА](users/510/51000816-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>43</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup> 
 
 
-_29.01.2020 09:19:21_
+_29.01.2020 17:21:28_
