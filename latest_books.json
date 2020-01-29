@@ -1,4 +1,16 @@
 {
+    "ydtBtK5xsV": {
+        "id": "ydtBtK5xsV",
+        "title": "Маска красной смерти",
+        "author": "Эдгар Аллан По",
+        "notes": "",
+        "createdAt": "2020-01-29 09:19:21",
+        "user": {
+            "id": "481937529-vkontakte",
+            "nickname": "Егор Прохоров",
+            "booksCount": 28
+        }
+    },
     "zFOa_Z4JFQ": {
         "id": "zFOa_Z4JFQ",
         "title": "Любовники Екатерины",
@@ -345,18 +357,6 @@
             "id": "2680385415370992-facebook",
             "nickname": "AlexWinchester",
             "booksCount": 24
-        }
-    },
-    "biXH-ETYqN": {
-        "id": "biXH-ETYqN",
-        "title": "Искусство войны",
-        "author": "Сунь-цзы",
-        "notes": "Оценка 7\nПрочтений 1",
-        "createdAt": "2020-01-25 21:16:38",
-        "user": {
-            "id": "2680385415370992-facebook",
-            "nickname": "AlexWinchester",
-            "booksCount": 23
         }
     }
 }
