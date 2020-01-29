@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Скрытие улики. Сборник исторических детективных рассказов ~ [Chiffi](users/105/105831994080785626680-google)<sup>160</sup>
 * Маги без времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>159</sup>
 * Любовники Екатерины ~ [Euphoria](users/106/106304994652616315178-google)<sup>69</sup>
 * Русская канарейка. Блудный сын ~ [dmiro](users/571/5714115-vkontakte)<sup>18</sup>
@@ -30,7 +31,6 @@
 * Хроники проклятого (1) ~ [Chiffi](users/105/105831994080785626680-google)<sup>156</sup>
 * Худеющий ~ [En](users/333/333646551-vkontakte)<sup>83</sup>
 * Суча дочка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>81</sup>
-* В канун Рождества ~ [Beaviska](users/102/10202544960024508-facebook)<sup>36</sup>
 
 
-_29.01.2020 17:21:28_
+_29.01.2020 17:24:40_
