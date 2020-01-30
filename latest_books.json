@@ -1,4 +1,16 @@
 {
+    "lvHf3GJp9w": {
+        "id": "lvHf3GJp9w",
+        "title": "Как заставить закон притяжения работать на вас",
+        "author": "Джек Кенфилд",
+        "notes": "Надо купить!",
+        "createdAt": "2020-01-30 22:35:30",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "k6kISLVoXU": {
         "id": "k6kISLVoXU",
         "title": "Скрытие улики. Сборник исторических детективных рассказов",
@@ -345,18 +357,6 @@
             "id": "2680385415370992-facebook",
             "nickname": "AlexWinchester",
             "booksCount": 27
-        }
-    },
-    "W_SV6uZ9lF": {
-        "id": "W_SV6uZ9lF",
-        "title": "Волкодав. Истовик-камень.",
-        "author": "Волкодав. Право на поединок",
-        "notes": "Оценка 5\nПрочтений 1",
-        "createdAt": "2020-01-25 21:23:01",
-        "user": {
-            "id": "2680385415370992-facebook",
-            "nickname": "AlexWinchester",
-            "booksCount": 26
         }
     }
 }

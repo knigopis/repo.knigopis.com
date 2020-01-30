@@ -1,4 +1,16 @@
 {
+    "lvHf3GJp9w": {
+        "id": "lvHf3GJp9w",
+        "title": "Как заставить закон притяжения работать на вас",
+        "author": "Джек Кенфилд",
+        "notes": "Надо купить!",
+        "createdAt": "2020-01-30 22:35:30",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "k6kISLVoXU": {
         "id": "k6kISLVoXU",
         "title": "Скрытие улики. Сборник исторических детективных рассказов",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 83
-        }
-    },
-    "7KMYXrTyMg": {
-        "id": "7KMYXrTyMg",
-        "title": "Суча дочка",
-        "author": "Валентина Мастєрова0",
-        "notes": "7/10 Свята мучениця в радянському селі.",
-        "createdAt": "2020-01-09 21:08:33",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 81
         }
     }
 }

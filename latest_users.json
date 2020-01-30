@@ -1,4 +1,10 @@
 {
+    "1537586159620888-facebook": {
+        "id": "1537586159620888-facebook",
+        "nickname": null,
+        "booksCount": 3,
+        "updatedAt": "2020-01-30 22:35:30"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -124,12 +130,6 @@
         "nickname": "Rainbow",
         "booksCount": 50,
         "updatedAt": "2020-01-22 19:35:53"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2020-01-22 18:29:58"
     },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",

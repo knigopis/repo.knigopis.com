@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как заставить закон притяжения работать на вас ~ [](users/153/1537586159620888-facebook)<sup>3</sup>
+    > Надо купить!
+
 * Скрытие улики. Сборник исторических детективных рассказов ~ [Chiffi](users/105/105831994080785626680-google)<sup>160</sup>
     > это сборник разных авторов. очень приятное чтение. мне напомнило цикл Фандорина или Ванзарова.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > отличная фантастика. жалко,  что всего одна книга, но все очень логично закончилось и хеппи-эндом))) Оставила позитивное впечатлиение
 
 * Любовники Екатерины ~ [Euphoria](users/106/106304994652616315178-google)<sup>69</sup>
-    > В книге повествуется о похождениях Екатерины 2. Я нахожусь в шоке от того, насколько оказывается она была испорченной. Конечно раньше слышала, что она не является образцом целомудрия, но чтобы настолько, но с другой стороны если бы на ее месте был мужчина, то это было бы в порядке вещей - двойные стандарты.
 
 * Русская канарейка. Блудный сын ~ [dmiro](users/571/5714115-vkontakte)<sup>18</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Спектр ~ [En](users/333/333646551-vkontakte)<sup>85</sup>
 
-* Дьяволиада ~ [kissamasya](users/684/68439978-vkontakte)<sup>80</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>160</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>28</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>69</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>85</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>50</sup> 
-[](users/153/1537586159620888-facebook)<sup>2</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>59</sup> 
 [pavelm741](users/468/468820957-vkontakte)<sup>0</sup> 
 [Яр](users/105/105454927277334527943-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>43</sup> 
 
 
-_29.01.2020 17:24:40_
+_30.01.2020 22:35:30_

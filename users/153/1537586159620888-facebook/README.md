@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>2</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>3</sup>
 ---
 
 ## 2020
+
+### Как заставить закон притяжения работать на вас
+Джек Кенфилд
+> [2020-01] Надо купить!
+
 
 ### Одиночество в сети
 Януш Вишневский
