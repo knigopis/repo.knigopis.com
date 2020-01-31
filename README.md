@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>208</sup> 
 [](users/153/1537586159620888-facebook)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>160</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>28</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>216</sup> 
 [](users/509/509679913-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>130</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>207</sup> 
 [En](users/333/333646551-vkontakte)<sup>85</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>50</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>43</sup> 
 
 
-_30.01.2020 22:35:30_
+_31.01.2020 08:31:46_
