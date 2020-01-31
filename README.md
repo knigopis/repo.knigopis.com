@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>161</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>208</sup> 
 [](users/153/1537586159620888-facebook)<sup>3</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>160</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>28</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>69</sup> 
 [CrazyNikit](users/113/113640574971285781663-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>43</sup> 
 
 
-_31.01.2020 08:31:46_
+_31.01.2020 19:00:13_

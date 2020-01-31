@@ -1,4 +1,16 @@
 {
+    "iGQMfkHMLG": {
+        "id": "iGQMfkHMLG",
+        "title": "Завещание Аввакума",
+        "author": "Свечин Николай",
+        "notes": "",
+        "createdAt": "2020-01-31 19:00:13",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 161
+        }
+    },
     "IZjCD8gmZ_": {
         "id": "IZjCD8gmZ_",
         "title": "Возлюби ближнего своего",
@@ -345,18 +357,6 @@
             "id": "2680385415370992-facebook",
             "nickname": "AlexWinchester",
             "booksCount": 29
-        }
-    },
-    "K9gmk9yP0a": {
-        "id": "K9gmk9yP0a",
-        "title": "Меч предназначения",
-        "author": "Анджей Сапковский",
-        "notes": "Оценка 8\nПрочтений 1",
-        "createdAt": "2020-01-25 21:27:35",
-        "user": {
-            "id": "2680385415370992-facebook",
-            "nickname": "AlexWinchester",
-            "booksCount": 28
         }
     }
 }
