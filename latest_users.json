@@ -1,4 +1,10 @@
 {
+    "100003407402533-facebook": {
+        "id": "100003407402533-facebook",
+        "nickname": "buhanya",
+        "booksCount": 0,
+        "updatedAt": "2020-02-01 18:38:29"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "АННА",
         "booksCount": 0,
         "updatedAt": "2020-01-19 03:52:22"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 43,
-        "updatedAt": "2020-01-18 22:29:10"
     }
 }
