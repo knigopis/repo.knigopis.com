@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>60</sup> 
 [buhanya](users/100/100003407402533-facebook)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>93</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>161</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>85</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>50</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>59</sup> 
 [pavelm741](users/468/468820957-vkontakte)<sup>0</sup> 
 [Яр](users/105/105454927277334527943-google)<sup>0</sup> 
 [Olga](users/436/436975952-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [АННА](users/510/51000816-vkontakte)<sup>0</sup> 
 
 
-_01.02.2020 18:38:31_
+_01.02.2020 20:45:34_

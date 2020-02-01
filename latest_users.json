@@ -1,4 +1,10 @@
 {
+    "57239276-vkontakte": {
+        "id": "57239276-vkontakte",
+        "nickname": "vladkozz",
+        "booksCount": 60,
+        "updatedAt": "2020-02-01 20:45:34"
+    },
     "100003407402533-facebook": {
         "id": "100003407402533-facebook",
         "nickname": "buhanya",
@@ -136,12 +142,6 @@
         "nickname": "Rainbow",
         "booksCount": 50,
         "updatedAt": "2020-01-22 19:35:53"
-    },
-    "57239276-vkontakte": {
-        "id": "57239276-vkontakte",
-        "nickname": "vladkozz",
-        "booksCount": 59,
-        "updatedAt": "2020-01-22 12:33:46"
     },
     "468820957-vkontakte": {
         "id": "468820957-vkontakte",
