@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[buhanya](users/100/100003407402533-facebook)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>93</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>161</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>208</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Человеколось](users/174/17475979687188177329-mailru)<sup>68</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>101</sup> 
 [АННА](users/510/51000816-vkontakte)<sup>0</sup> 
-[youno](users/302/302928912-vkontakte)<sup>43</sup> 
 
 
-_01.02.2020 13:30:45_
+_01.02.2020 18:38:31_
