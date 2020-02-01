@@ -1,4 +1,16 @@
 {
+    "KzVs8ShoSM": {
+        "id": "KzVs8ShoSM",
+        "title": "Убийство на поле для гольфа",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2020-02-01 20:46:03",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 61
+        }
+    },
     "u5TJTXS378": {
         "id": "u5TJTXS378",
         "title": "Остров сокровищ",
@@ -345,18 +357,6 @@
             "id": "2680385415370992-facebook",
             "nickname": "AlexWinchester",
             "booksCount": 32
-        }
-    },
-    "ING-9hC-xy": {
-        "id": "ING-9hC-xy",
-        "title": "Крещение огнем",
-        "author": "Анджей Сапковский",
-        "notes": "Оценка 6\nПрочтений 1",
-        "createdAt": "2020-01-25 21:31:59",
-        "user": {
-            "id": "2680385415370992-facebook",
-            "nickname": "AlexWinchester",
-            "booksCount": 31
         }
     }
 }
