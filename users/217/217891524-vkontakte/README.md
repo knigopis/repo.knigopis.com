@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>147</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>148</sup>
 ---
 
 ## 2020
+
+### Чернобыль. 01:23:40
+Эндрю Ливербарроу
+> [2020-02-02] 
+
 
 ### Чудесный нож
 Филип Пулман

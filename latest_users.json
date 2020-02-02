@@ -1,4 +1,10 @@
 {
+    "217891524-vkontakte": {
+        "id": "217891524-vkontakte",
+        "nickname": "lostinfrost",
+        "booksCount": 148,
+        "updatedAt": "2020-02-02 14:45:44"
+    },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",
         "nickname": "vladkozz",
@@ -64,12 +70,6 @@
         "nickname": "Саня",
         "booksCount": 1,
         "updatedAt": "2020-01-28 10:39:39"
-    },
-    "217891524-vkontakte": {
-        "id": "217891524-vkontakte",
-        "nickname": "lostinfrost",
-        "booksCount": 147,
-        "updatedAt": "2020-01-27 18:43:55"
     },
     "5714115-vkontakte": {
         "id": "5714115-vkontakte",
