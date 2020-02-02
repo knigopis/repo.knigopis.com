@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 241,
+        "updatedAt": "2020-02-02 20:05:16"
+    },
     "217891524-vkontakte": {
         "id": "217891524-vkontakte",
         "nickname": "lostinfrost",
@@ -94,12 +100,6 @@
         "nickname": null,
         "booksCount": 25,
         "updatedAt": "2020-01-26 14:16:30"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 240,
-        "updatedAt": "2020-01-26 12:35:13"
     },
     "2680385415370992-facebook": {
         "id": "2680385415370992-facebook",
