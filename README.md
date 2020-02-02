@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пятьдесят оттенков серого ~ [anvonamore](users/595/5957175-vkontakte)<sup>131</sup>
+    > 3/10
+
 * Как заставить закон притяжения работать на вас ~ [](users/153/1537586159620888-facebook)<sup>3</sup>
     > Надо купить!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > это сборник разных авторов. очень приятное чтение. мне напомнило цикл Фандорина или Ванзарова.
 
 * Маги без времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>159</sup>
-    > отличная фантастика. жалко,  что всего одна книга, но все очень логично закончилось и хеппи-эндом))) Оставила позитивное впечатлиение
 
 * Любовники Екатерины ~ [Euphoria](users/106/106304994652616315178-google)<sup>69</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>68</sup>
 
-* Спектр ~ [En](users/333/333646551-vkontakte)<sup>85</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>241</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>148</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>61</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexWinchester](users/268/2680385415370992-facebook)<sup>34</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>216</sup> 
 [](users/509/509679913-vkontakte)<sup>0</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>130</sup> 
 [En](users/333/333646551-vkontakte)<sup>85</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>50</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [АННА](users/510/51000816-vkontakte)<sup>0</sup> 
 
 
-_02.02.2020 20:05:16_
+_02.02.2020 20:08:40_

@@ -1,4 +1,10 @@
 {
+    "5957175-vkontakte": {
+        "id": "5957175-vkontakte",
+        "nickname": "anvonamore",
+        "booksCount": 131,
+        "updatedAt": "2020-02-02 20:08:40"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -118,12 +124,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-01-24 21:39:06"
-    },
-    "5957175-vkontakte": {
-        "id": "5957175-vkontakte",
-        "nickname": "anvonamore",
-        "booksCount": 130,
-        "updatedAt": "2020-01-24 21:23:03"
     },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
