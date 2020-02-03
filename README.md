@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>162</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>43</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>224</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>27</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/509/509679913-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>85</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>50</sup> 
 
 
-_03.02.2020 17:08:52_
+_03.02.2020 17:58:49_
