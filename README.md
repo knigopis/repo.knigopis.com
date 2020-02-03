@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Норвежский лес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>223</sup>
+    > Это мое первое знакомство с настоящей японской литературой в чистом виде. Сразу становится понятно, почему у японцев так зашел Селинджер с его "Пропастью во ржи". Возможно, это настроение поражения в войне - сплошной инфантилизм, суицид и секс. Сублимация самурайской агрессии вовнутрь. Книга достойная, но зайдёт не всем. Специфическая такая. Переживания и поток сознания.
+
 * Сирены Титана ~ [dghtt](users/233/233860015-vkontakte)<sup>27</sup>
     > — Я жертва цепи несчастных случайностей, — сказал он. И, пожав плечами, добавил: — Как и все мы.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Продолжение саги о Ведьмаке.
 
 * Пятьдесят оттенков серого ~ [anvonamore](users/595/5957175-vkontakte)<sup>131</sup>
-    > 3/10
 
 * Как заставить закон притяжения работать на вас ~ [](users/153/1537586159620888-facebook)<sup>3</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Русская канарейка. Голос ~ [dmiro](users/571/5714115-vkontakte)<sup>17</sup>
 
-* Хроники Амбера. Пятикнижие Мерлина. Знак Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>240</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>223</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>27</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>84</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>93</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>85</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>50</sup> 
-[pavelm741](users/468/468820957-vkontakte)<sup>0</sup> 
 
 
-_03.02.2020 14:36:05_
+_03.02.2020 16:17:55_

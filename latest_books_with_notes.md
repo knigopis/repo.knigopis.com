@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Норвежский лес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>223</sup>
 * Сирены Титана ~ [dghtt](users/233/233860015-vkontakte)<sup>27</sup>
 * Ведьмак. Башня ласточки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>84</sup>
 * Пятьдесят оттенков серого ~ [anvonamore](users/595/5957175-vkontakte)<sup>131</sup>
@@ -30,7 +31,6 @@
 * До встречи с тобой ~ [Len4e91](users/254/254448176-yandex)<sup>7</sup>
 * Никогде ~ [Len4e91](users/254/254448176-yandex)<sup>6</sup>
 * После тебя ~ [Len4e91](users/254/254448176-yandex)<sup>5</sup>
-* Архимаг (9 книг) ~ [Bruss](users/178/178551812-vkontakte)<sup>5</sup>
 
 
-_03.02.2020 14:36:05_
+_03.02.2020 16:17:55_
