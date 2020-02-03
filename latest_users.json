@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 373,
+        "updatedAt": "2020-02-03 11:00:39"
+    },
     "delta174mix-lastfm": {
         "id": "delta174mix-lastfm",
         "nickname": "lera",
@@ -16,12 +22,6 @@
         "nickname": "borodach",
         "booksCount": 209,
         "updatedAt": "2020-02-03 09:27:41"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 372,
-        "updatedAt": "2020-02-03 04:23:36"
     },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
