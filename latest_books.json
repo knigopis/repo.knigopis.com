@@ -1,4 +1,16 @@
 {
+    "4XwBWf4Ld6": {
+        "id": "4XwBWf4Ld6",
+        "title": "Понедельник начинается в субботу",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2020-02-03 09:47:14",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 17
+        }
+    },
     "AoQ9eZJNkS": {
         "id": "AoQ9eZJNkS",
         "title": "Сборник рассказов",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 240
-        }
-    },
-    "yFpR4tsTnK": {
-        "id": "yFpR4tsTnK",
-        "title": "Узы Братства",
-        "author": "Крис Метцен",
-        "notes": "",
-        "createdAt": "2020-01-26 09:35:14",
-        "user": {
-            "id": "481937529-vkontakte",
-            "nickname": "Егор Прохоров",
-            "booksCount": 25
         }
     }
 }
