@@ -1,5 +1,13 @@
-# List of books read by [l.shilova](http://vk.com/id10123344)<sup>15</sup>
+# List of books read by [l.shilova](http://vk.com/id10123344)<sup>16</sup>
 ---
+
+## 2020
+
+### Сборник рассказов
+Говард Лавкрафт
+> [2020-01] 
+
+
 
 ## 2019
 

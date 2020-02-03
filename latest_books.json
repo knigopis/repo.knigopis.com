@@ -1,4 +1,16 @@
 {
+    "AoQ9eZJNkS": {
+        "id": "AoQ9eZJNkS",
+        "title": "Сборник рассказов",
+        "author": "Говард Лавкрафт",
+        "notes": "",
+        "createdAt": "2020-02-03 09:46:28",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 16
+        }
+    },
     "pOSBMAuMAD": {
         "id": "pOSBMAuMAD",
         "title": "Дурдом немного восточнее Голливуда",
@@ -345,18 +357,6 @@
             "id": "481937529-vkontakte",
             "nickname": "Егор Прохоров",
             "booksCount": 25
-        }
-    },
-    "zijpluBDH3": {
-        "id": "zijpluBDH3",
-        "title": "Хищник",
-        "author": "Кристофер Голден",
-        "notes": "",
-        "createdAt": "2020-01-26 09:34:09",
-        "user": {
-            "id": "481937529-vkontakte",
-            "nickname": "Егор Прохоров",
-            "booksCount": 24
         }
     }
 }

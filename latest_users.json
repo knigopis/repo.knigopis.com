@@ -1,4 +1,10 @@
 {
+    "10123344-vkontakte": {
+        "id": "10123344-vkontakte",
+        "nickname": "l.shilova",
+        "booksCount": 16,
+        "updatedAt": "2020-02-03 09:46:28"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Человеколось",
         "booksCount": 68,
         "updatedAt": "2020-01-19 11:11:05"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 101,
-        "updatedAt": "2020-01-19 07:59:08"
     }
 }
