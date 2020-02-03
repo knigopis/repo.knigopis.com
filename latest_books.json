@@ -1,4 +1,16 @@
 {
+    "NXutM1GBzM": {
+        "id": "NXutM1GBzM",
+        "title": "Ораниенбаумский плацдарм",
+        "author": "",
+        "notes": "в процессе",
+        "createdAt": "2020-02-03 16:38:29",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 224
+        }
+    },
     "GjVxoMVZYU": {
         "id": "GjVxoMVZYU",
         "title": "Настольная книга для монашествующих и мирян",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 147
-        }
-    },
-    "Re9YcpptWB": {
-        "id": "Re9YcpptWB",
-        "title": "Текст, который продает товар, услугу или бренд",
-        "author": "Анна Шуст",
-        "notes": "",
-        "createdAt": "2020-01-27 14:00:52",
-        "user": {
-            "id": "5714115-vkontakte",
-            "nickname": "dmiro",
-            "booksCount": 19
         }
     }
 }
