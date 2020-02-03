@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[delta174mix](users/del/delta174mix-lastfm)<sup>0</sup> 
+[lera](users/del/delta174mix-lastfm)<sup>1</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>17</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>209</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>372</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Olga](users/436/436975952-vkontakte)<sup>0</sup> 
 
 
-_03.02.2020 10:44:58_
+_03.02.2020 10:46:45_
