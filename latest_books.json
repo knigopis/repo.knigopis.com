@@ -1,4 +1,16 @@
 {
+    "ofQoyqtzQR": {
+        "id": "ofQoyqtzQR",
+        "title": "Сирены Титана",
+        "author": "Курт Воннегут",
+        "notes": "— Я жертва цепи несчастных случайностей, — сказал он. И, пожав плечами, добавил: — Как и все мы.",
+        "createdAt": "2020-02-03 14:36:05",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 27
+        }
+    },
     "mzM7rrZXP3": {
         "id": "mzM7rrZXP3",
         "title": "Ведьмак. Башня ласточки",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 17
-        }
-    },
-    "K1Ps2tNOvI": {
-        "id": "K1Ps2tNOvI",
-        "title": "Ведьмак. Кровь эльфов",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2020-01-27 11:59:33",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 92
         }
     }
 }

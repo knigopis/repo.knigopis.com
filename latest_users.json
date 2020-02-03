@@ -1,4 +1,10 @@
 {
+    "233860015-vkontakte": {
+        "id": "233860015-vkontakte",
+        "nickname": "dghtt",
+        "booksCount": 27,
+        "updatedAt": "2020-02-03 14:36:05"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "pavelm741",
         "booksCount": 0,
         "updatedAt": "2020-01-19 17:33:01"
-    },
-    "105454927277334527943-google": {
-        "id": "105454927277334527943-google",
-        "nickname": "Яр",
-        "booksCount": 0,
-        "updatedAt": "2020-01-19 17:09:44"
     }
 }

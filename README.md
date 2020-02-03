@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сирены Титана ~ [dghtt](users/233/233860015-vkontakte)<sup>27</sup>
+    > — Я жертва цепи несчастных случайностей, — сказал он. И, пожав плечами, добавил: — Как и все мы.
+
 * Ведьмак. Башня ласточки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>84</sup>
     > 9/10 Продолжение саги о Ведьмаке.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 3/10
 
 * Как заставить закон притяжения работать на вас ~ [](users/153/1537586159620888-facebook)<sup>3</sup>
-    > Надо купить!
 
 * Скрытие улики. Сборник исторических детективных рассказов ~ [Chiffi](users/105/105831994080785626680-google)<sup>160</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Хроники Амбера. Пятикнижие Мерлина. Знак Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>240</sup>
 
-* Над кукушкиным гнездом ~ [anvonamore](users/595/5957175-vkontakte)<sup>130</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dghtt](users/233/233860015-vkontakte)<sup>27</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>84</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>93</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>373</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>50</sup> 
 [pavelm741](users/468/468820957-vkontakte)<sup>0</sup> 
-[Яр](users/105/105454927277334527943-google)<sup>0</sup> 
 
 
-_03.02.2020 12:25:33_
+_03.02.2020 14:36:05_

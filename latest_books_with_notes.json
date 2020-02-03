@@ -1,4 +1,16 @@
 {
+    "ofQoyqtzQR": {
+        "id": "ofQoyqtzQR",
+        "title": "Сирены Титана",
+        "author": "Курт Воннегут",
+        "notes": "— Я жертва цепи несчастных случайностей, — сказал он. И, пожав плечами, добавил: — Как и все мы.",
+        "createdAt": "2020-02-03 14:36:05",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 27
+        }
+    },
     "mzM7rrZXP3": {
         "id": "mzM7rrZXP3",
         "title": "Ведьмак. Башня ласточки",
@@ -345,18 +357,6 @@
             "id": "178551812-vkontakte",
             "nickname": "Bruss",
             "booksCount": 5
-        }
-    },
-    "2SbZVP0XPX": {
-        "id": "2SbZVP0XPX",
-        "title": "12 недель в году",
-        "author": "Брайан Моран, Майкл Леннингтон",
-        "notes": "Первая книга по эффективности, кое-что почерпнул, думаю, что буду перечитывать.",
-        "createdAt": "2020-01-12 14:26:26",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 41
         }
     }
 }

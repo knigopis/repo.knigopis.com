@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сирены Титана ~ [dghtt](users/233/233860015-vkontakte)<sup>27</sup>
 * Ведьмак. Башня ласточки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>84</sup>
 * Пятьдесят оттенков серого ~ [anvonamore](users/595/5957175-vkontakte)<sup>131</sup>
 * Как заставить закон притяжения работать на вас ~ [](users/153/1537586159620888-facebook)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Никогде ~ [Len4e91](users/254/254448176-yandex)<sup>6</sup>
 * После тебя ~ [Len4e91](users/254/254448176-yandex)<sup>5</sup>
 * Архимаг (9 книг) ~ [Bruss](users/178/178551812-vkontakte)<sup>5</sup>
-* 12 недель в году ~ [youno](users/302/302928912-vkontakte)<sup>41</sup>
 
 
-_03.02.2020 12:25:33_
+_03.02.2020 14:36:05_
