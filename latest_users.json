@@ -1,4 +1,10 @@
 {
+    "delta174mix-lastfm": {
+        "id": "delta174mix-lastfm",
+        "nickname": "delta174mix",
+        "booksCount": 0,
+        "updatedAt": "2020-02-03 10:44:55"
+    },
     "10123344-vkontakte": {
         "id": "10123344-vkontakte",
         "nickname": "l.shilova",
@@ -172,11 +178,5 @@
         "nickname": "Olga",
         "booksCount": 0,
         "updatedAt": "2020-01-19 15:35:25"
-    },
-    "17475979687188177329-mailru": {
-        "id": "17475979687188177329-mailru",
-        "nickname": "Человеколось",
-        "booksCount": 68,
-        "updatedAt": "2020-01-19 11:11:05"
     }
 }
