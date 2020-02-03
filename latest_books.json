@@ -1,4 +1,16 @@
 {
+    "pOSBMAuMAD": {
+        "id": "pOSBMAuMAD",
+        "title": "Дурдом немного восточнее Голливуда",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2020-02-03 09:27:41",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 209
+        }
+    },
     "YLyM1ZLekV": {
         "id": "YLyM1ZLekV",
         "title": "Ловушка для людей( сборник рассказов)",
@@ -345,18 +357,6 @@
             "id": "481937529-vkontakte",
             "nickname": "Егор Прохоров",
             "booksCount": 24
-        }
-    },
-    "_CgBbhFta6": {
-        "id": "_CgBbhFta6",
-        "title": "Перед бурей",
-        "author": "Кристи Голден",
-        "notes": "",
-        "createdAt": "2020-01-26 09:33:34",
-        "user": {
-            "id": "481937529-vkontakte",
-            "nickname": "Егор Прохоров",
-            "booksCount": 23
         }
     }
 }

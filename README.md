@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>209</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>372</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>241</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [buhanya](users/100/100003407402533-facebook)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>93</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>161</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>208</sup> 
 [](users/153/1537586159620888-facebook)<sup>3</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>28</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>69</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>101</sup> 
 
 
-_03.02.2020 04:23:37_
+_03.02.2020 09:27:41_
