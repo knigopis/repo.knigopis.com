@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 43,
+        "updatedAt": "2020-02-03 17:08:52"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -124,12 +130,6 @@
         "nickname": "dmiro",
         "booksCount": 19,
         "updatedAt": "2020-01-27 14:00:52"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 42,
-        "updatedAt": "2020-01-27 08:47:18"
     },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
