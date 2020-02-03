@@ -1,4 +1,16 @@
 {
+    "YLyM1ZLekV": {
+        "id": "YLyM1ZLekV",
+        "title": "Ловушка для людей( сборник рассказов)",
+        "author": "Роберт Шекли",
+        "notes": "",
+        "createdAt": "2020-02-03 04:23:36",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 372
+        }
+    },
     "EcJ0uIRiei": {
         "id": "EcJ0uIRiei",
         "title": "Пятьдесят оттенков серого",
@@ -345,18 +357,6 @@
             "id": "481937529-vkontakte",
             "nickname": "Егор Прохоров",
             "booksCount": 23
-        }
-    },
-    "lfMG93SOPN": {
-        "id": "lfMG93SOPN",
-        "title": "Повелитель кланов",
-        "author": "Кристи Голден",
-        "notes": "",
-        "createdAt": "2020-01-26 09:33:01",
-        "user": {
-            "id": "481937529-vkontakte",
-            "nickname": "Егор Прохоров",
-            "booksCount": 22
         }
     }
 }

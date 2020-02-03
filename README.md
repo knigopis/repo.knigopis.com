@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>372</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>241</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>148</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Olga](users/436/436975952-vkontakte)<sup>0</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>68</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>101</sup> 
-[АННА](users/510/51000816-vkontakte)<sup>0</sup> 
 
 
-_02.02.2020 20:08:40_
+_03.02.2020 04:23:37_
