@@ -1,4 +1,16 @@
 {
+    "mzM7rrZXP3": {
+        "id": "mzM7rrZXP3",
+        "title": "Ведьмак. Башня ласточки",
+        "author": "Анджей Сапковский",
+        "notes": "9/10 Продолжение саги о Ведьмаке.",
+        "createdAt": "2020-02-03 12:25:33",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 84
+        }
+    },
     "1X7a_Ji5a_": {
         "id": "1X7a_Ji5a_",
         "title": "Безмолвный пациент",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 92
-        }
-    },
-    "NMZZfyQQof": {
-        "id": "NMZZfyQQof",
-        "title": "Вся кремлёвская рать",
-        "author": "Михаил Зыгарь",
-        "notes": "",
-        "createdAt": "2020-01-27 08:47:18",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 42
         }
     }
 }

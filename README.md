@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ведьмак. Башня ласточки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>84</sup>
+    > 9/10 Продолжение саги о Ведьмаке.
+
 * Пятьдесят оттенков серого ~ [anvonamore](users/595/5957175-vkontakte)<sup>131</sup>
     > 3/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Надо купить!
 
 * Скрытие улики. Сборник исторических детективных рассказов ~ [Chiffi](users/105/105831994080785626680-google)<sup>160</sup>
-    > это сборник разных авторов. очень приятное чтение. мне напомнило цикл Фандорина или Ванзарова.
 
 * Маги без времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>159</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Над кукушкиным гнездом ~ [anvonamore](users/595/5957175-vkontakte)<sup>130</sup>
 
-*  ~ [Euphoria](users/106/106304994652616315178-google)<sup>68</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>84</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>93</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>373</sup> 
 [lera](users/del/delta174mix-lastfm)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>50</sup> 
 [pavelm741](users/468/468820957-vkontakte)<sup>0</sup> 
 [Яр](users/105/105454927277334527943-google)<sup>0</sup> 
-[Olga](users/436/436975952-vkontakte)<sup>0</sup> 
 
 
-_03.02.2020 12:15:03_
+_03.02.2020 12:25:33_
