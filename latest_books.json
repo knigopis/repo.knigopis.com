@@ -1,4 +1,16 @@
 {
+    "1X7a_Ji5a_": {
+        "id": "1X7a_Ji5a_",
+        "title": "Безмолвный пациент",
+        "author": "Алекс Михаэлидас",
+        "notes": "",
+        "createdAt": "2020-02-03 12:15:03",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 93
+        }
+    },
     "8NVlztVPDc": {
         "id": "8NVlztVPDc",
         "title": "Странная история доктора Джекила и мистера Хайда",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 42
-        }
-    },
-    "LaOa_saFpv": {
-        "id": "LaOa_saFpv",
-        "title": "Страна багровых туч",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2020-01-26 17:05:09",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 185
         }
     }
 }
