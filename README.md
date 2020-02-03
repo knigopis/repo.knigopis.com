@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>223</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>222</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>27</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>84</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>93</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>50</sup> 
 
 
-_03.02.2020 16:17:55_
+_03.02.2020 16:19:13_
