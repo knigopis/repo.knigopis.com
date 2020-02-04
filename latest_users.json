@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 29,
+        "updatedAt": "2020-02-04 21:46:22"
+    },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
         "nickname": "katrinvredina",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-01-24 21:39:06"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 85,
-        "updatedAt": "2020-01-24 10:00:43"
     }
 }
