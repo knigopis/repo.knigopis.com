@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 210,
+        "updatedAt": "2020-02-04 13:54:54"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -58,12 +64,6 @@
         "nickname": "l.shilova",
         "booksCount": 17,
         "updatedAt": "2020-02-03 09:47:14"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 209,
-        "updatedAt": "2020-02-03 09:27:41"
     },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",

@@ -1,4 +1,16 @@
 {
+    "AWHln5LiCL": {
+        "id": "AWHln5LiCL",
+        "title": "Письма к Людмиле Штерн",
+        "author": "Сергей Довлатов",
+        "notes": "",
+        "createdAt": "2020-02-04 13:54:54",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 210
+        }
+    },
     "H--8BdChJg": {
         "id": "H--8BdChJg",
         "title": "Хроники сыска (рассказы)",
@@ -345,18 +357,6 @@
             "id": "481937529-vkontakte",
             "nickname": "Егор Прохоров",
             "booksCount": 27
-        }
-    },
-    "DpmaLN7Ex_": {
-        "id": "DpmaLN7Ex_",
-        "title": "Белые слоны",
-        "author": "Эрнест Миллер Хемингуэй",
-        "notes": "",
-        "createdAt": "2020-01-28 16:21:07",
-        "user": {
-            "id": "481937529-vkontakte",
-            "nickname": "Егор Прохоров",
-            "booksCount": 26
         }
     }
 }

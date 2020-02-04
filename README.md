@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>210</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>162</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>162</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>43</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>373</sup> 
 [lera](users/del/delta174mix-lastfm)<sup>1</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>17</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>209</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>131</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>241</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>148</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
 
 
-_04.02.2020 06:08:49_
+_04.02.2020 13:54:54_
