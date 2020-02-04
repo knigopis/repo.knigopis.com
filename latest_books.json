@@ -1,4 +1,16 @@
 {
+    "H--8BdChJg": {
+        "id": "H--8BdChJg",
+        "title": "Хроники сыска (рассказы)",
+        "author": "Свечин Николай",
+        "notes": "исторические детективы. события конца 19 века в Нижнем Новгороде. Продолжение цикла",
+        "createdAt": "2020-02-04 06:08:49",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 162
+        }
+    },
     "CUWCFDdHdY": {
         "id": "CUWCFDdHdY",
         "title": "Девочка, с которой детям не разрешали водиться",
@@ -345,18 +357,6 @@
             "id": "481937529-vkontakte",
             "nickname": "Егор Прохоров",
             "booksCount": 26
-        }
-    },
-    "uitEnMAq7a": {
-        "id": "uitEnMAq7a",
-        "title": "Последний секрет",
-        "author": "Бернард Вербер",
-        "notes": "",
-        "createdAt": "2020-01-28 10:42:43",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 758
         }
     }
 }

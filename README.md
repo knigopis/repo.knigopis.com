@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники сыска (рассказы) ~ [Chiffi](users/105/105831994080785626680-google)<sup>162</sup>
+    > исторические детективы. события конца 19 века в Нижнем Новгороде. Продолжение цикла
+
 * Ораниенбаумский плацдарм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>224</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Аккурат к Рождеству и Крещению чтение. Отличная такая философская вещь, заходит небольшими фрагментами и оставляет за собой цепочку записей в блокноте, что бывает крайне редко вообще-то.
 
 * Норвежский лес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>223</sup>
-    > Это мое первое знакомство с настоящей японской литературой в чистом виде. Сразу становится понятно, почему у японцев так зашел Селинджер с его "Пропастью во ржи". Возможно, это настроение поражения в войне - сплошной инфантилизм, суицид и секс. Сублимация самурайской агрессии вовнутрь. Книга достойная, но зайдёт не всем. Специфическая такая. Переживания и поток сознания.
 
 * Сирены Титана ~ [dghtt](users/233/233860015-vkontakte)<sup>27</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Маги без времени ~ [Chiffi](users/105/105831994080785626680-google)<sup>159</sup>
 
-* Любовники Екатерины ~ [Euphoria](users/106/106304994652616315178-google)<sup>69</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>162</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>162</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>43</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>224</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lostinfrost](users/217/217891524-vkontakte)<sup>148</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>61</sup> 
 [buhanya](users/100/100003407402533-facebook)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>161</sup> 
 [](users/153/1537586159620888-facebook)<sup>3</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>28</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>69</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
 
 
-_03.02.2020 17:58:49_
+_04.02.2020 06:08:49_
