@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>97</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>210</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>162</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>162</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>216</sup> 
 [](users/509/509679913-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>85</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>81</sup> 
 
 
-_04.02.2020 13:54:54_
+_04.02.2020 18:27:07_

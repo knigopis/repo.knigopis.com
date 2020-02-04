@@ -1,4 +1,16 @@
 {
+    "7NTnG0DH7R": {
+        "id": "7NTnG0DH7R",
+        "title": "Большое собрание мистических историй в одном томе",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-02-04 18:27:07",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 97
+        }
+    },
     "AWHln5LiCL": {
         "id": "AWHln5LiCL",
         "title": "Письма к Людмиле Штерн",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 69
-        }
-    },
-    "CJirIQynPe": {
-        "id": "CJirIQynPe",
-        "title": "Морфий",
-        "author": "Михаил Афанасьевич Булгаков",
-        "notes": "",
-        "createdAt": "2020-01-28 17:42:39",
-        "user": {
-            "id": "481937529-vkontakte",
-            "nickname": "Егор Прохоров",
-            "booksCount": 27
         }
     }
 }
