@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дело Варнавинского маньяка (3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>163</sup>
+    > Дали ему грош,  а он ему негож... Вам Бог дал, а нам посулил..
+
 * Волонтёры вечности ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup>
     > ISBN 978-5-17-087846-8
     > "Жуй, сэр Макс, жизнь прекрасна".
@@ -19,7 +22,6 @@ Do not use pull requests to make changes here.
     > исторические детективы. события конца 19 века в Нижнем Новгороде. Продолжение цикла
 
 * Ораниенбаумский плацдарм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>224</sup>
-    > в процессе
 
 * Настольная книга для монашествующих и мирян ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>223</sup>
 
@@ -33,17 +35,15 @@ Do not use pull requests to make changes here.
 
 * Как заставить закон притяжения работать на вас ~ [](users/153/1537586159620888-facebook)<sup>3</sup>
 
-* Скрытие улики. Сборник исторических детективных рассказов ~ [Chiffi](users/105/105831994080785626680-google)<sup>160</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>163</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>97</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>210</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>162</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>162</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>43</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>224</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/509/509679913-vkontakte)<sup>0</sup> 
 
 
-_04.02.2020 21:46:22_
+_05.02.2020 06:13:04_
