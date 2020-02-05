@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[leonkulev](users/184/184095117-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>226</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>163</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/270/270444099499-odnoklassniki)<sup>25</sup> 
 [AlexWinchester](users/268/2680385415370992-facebook)<sup>34</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>216</sup> 
-[](users/509/509679913-vkontakte)<sup>0</sup> 
 
 
-_05.02.2020 12:58:57_
+_05.02.2020 14:30:23_
