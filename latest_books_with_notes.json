@@ -1,4 +1,16 @@
 {
+    "4NaOeVnxQb": {
+        "id": "4NaOeVnxQb",
+        "title": "Хроники Амбера. Пятикнижие Мерлина. Принц Хаоса",
+        "author": "Желязны, Роджер",
+        "notes": "Таки стал Мерлин королем Хаоса, но на своих условиях",
+        "createdAt": "2020-02-05 14:49:31",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 242
+        }
+    },
     "f68oI8XxhO": {
         "id": "f68oI8XxhO",
         "title": "Выживают только параноики",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 158
-        }
-    },
-    "NejUpYo4Cp": {
-        "id": "NejUpYo4Cp",
-        "title": "Ведьмак. Крещение огнем.",
-        "author": "Анджей Сапковский",
-        "notes": "9/10 неожиданно феминистическая книга",
-        "createdAt": "2020-01-17 20:08:50",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 82
         }
     }
 }
