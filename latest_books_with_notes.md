@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Выживают только параноики ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>226</sup>
 * SCRUM: революционный метод управления проектами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>225</sup>
 * Дело Варнавинского маньяка (3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>163</sup>
 * Волонтёры вечности ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup>
@@ -30,7 +31,6 @@
 * Тринадцать ящиков Пандоры ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>83</sup>
 * Проклятый 3 Сердце проклятого ~ [Chiffi](users/105/105831994080785626680-google)<sup>158</sup>
 * Ведьмак. Крещение огнем. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>82</sup>
-* Выйди из зоны комфорта ~ [youno](users/302/302928912-vkontakte)<sup>42</sup>
 
 
-_05.02.2020 12:53:56_
+_05.02.2020 12:58:57_
