@@ -1,4 +1,10 @@
 {
+    "184095117-vkontakte": {
+        "id": "184095117-vkontakte",
+        "nickname": "leonkulev",
+        "booksCount": 0,
+        "updatedAt": "2020-02-05 14:30:21"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "Knigolub~",
         "booksCount": 216,
         "updatedAt": "2020-01-25 20:34:05"
-    },
-    "509679913-vkontakte": {
-        "id": "509679913-vkontakte",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-01-24 21:39:06"
     }
 }
