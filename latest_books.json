@@ -1,4 +1,16 @@
 {
+    "OCGszh1na8": {
+        "id": "OCGszh1na8",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2020-02-06 20:10:34",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 62
+        }
+    },
     "hep54grT_A": {
         "id": "hep54grT_A",
         "title": "Вечеринка.Замок в Карпатах",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 241
-        }
-    },
-    "hLv3-zBhMj": {
-        "id": "hLv3-zBhMj",
-        "title": "Чернобыль. 01:23:40",
-        "author": "Эндрю Ливербарроу",
-        "notes": "",
-        "createdAt": "2020-02-02 14:45:44",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 148
         }
     }
 }

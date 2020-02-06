@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>61</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>62</sup>
 ---
 
 ## 2020
+
+### 1984
+Джордж Оруэлл
+
 
 ### Убийство на поле для гольфа
 Агата Кристи
