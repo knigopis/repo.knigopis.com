@@ -1,4 +1,16 @@
 {
+    "duZhGvCZ7u": {
+        "id": "duZhGvCZ7u",
+        "title": "После",
+        "author": "Анна Тодд",
+        "notes": "Годная лайт-версия \"50 оттенков серого\".",
+        "createdAt": "2020-02-06 00:34:36",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 38
+        }
+    },
     "hzmmvoXJOL": {
         "id": "hzmmvoXJOL",
         "title": "Практика радости. Как управлять гневом",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 93
-        }
-    },
-    "iGQMfkHMLG": {
-        "id": "iGQMfkHMLG",
-        "title": "Завещание Аввакума",
-        "author": "Свечин Николай",
-        "notes": "",
-        "createdAt": "2020-01-31 19:00:13",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 161
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "duZhGvCZ7u": {
+        "id": "duZhGvCZ7u",
+        "title": "После",
+        "author": "Анна Тодд",
+        "notes": "Годная лайт-версия \"50 оттенков серого\".",
+        "createdAt": "2020-02-06 00:34:36",
+        "user": {
+            "id": "262062207519652-facebook",
+            "nickname": "TheWildWind",
+            "booksCount": 38
+        }
+    },
     "hzmmvoXJOL": {
         "id": "hzmmvoXJOL",
         "title": "Практика радости. Как управлять гневом",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 43
-        }
-    },
-    "jWU984kzGU": {
-        "id": "jWU984kzGU",
-        "title": "Тринадцать ящиков Пандоры",
-        "author": "Сборник",
-        "notes": "9/10 интересные фантастические рассказы от известных и разных авторов",
-        "createdAt": "2020-01-18 20:48:34",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 83
         }
     }
 }
