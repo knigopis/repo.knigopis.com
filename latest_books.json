@@ -1,4 +1,16 @@
 {
+    "hep54grT_A": {
+        "id": "hep54grT_A",
+        "title": "Вечеринка.Замок в Карпатах",
+        "author": "Милана Шанти",
+        "notes": "",
+        "createdAt": "2020-02-06 11:40:10",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 77
+        }
+    },
     "3S526R9wLH": {
         "id": "3S526R9wLH",
         "title": "Войнв и мир",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 148
-        }
-    },
-    "KzVs8ShoSM": {
-        "id": "KzVs8ShoSM",
-        "title": "Убийство на поле для гольфа",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2020-02-01 20:46:03",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 61
         }
     }
 }

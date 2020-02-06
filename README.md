@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>77</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>82</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>211</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>38</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Саня](users/111/111645577348014069912-google)<sup>1</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>19</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>185</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>25</sup> 
 
 
-_06.02.2020 11:32:20_
+_06.02.2020 11:40:10_

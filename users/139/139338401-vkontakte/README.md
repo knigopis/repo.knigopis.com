@@ -1,5 +1,13 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>76</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>77</sup>
 ---
+
+## 2020
+
+### Вечеринка.Замок в Карпатах
+Милана Шанти
+> [2020-01-27] 
+
+
 
 ## 2019
 
