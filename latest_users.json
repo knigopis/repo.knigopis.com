@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 211,
+        "updatedAt": "2020-02-06 09:31:46"
+    },
     "262062207519652-facebook": {
         "id": "262062207519652-facebook",
         "nickname": "TheWildWind",
@@ -40,12 +46,6 @@
         "nickname": "katrinvredina",
         "booksCount": 97,
         "updatedAt": "2020-02-04 18:27:07"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 210,
-        "updatedAt": "2020-02-04 13:54:54"
     },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",

@@ -1,4 +1,16 @@
 {
+    "U5TGLLucQL": {
+        "id": "U5TGLLucQL",
+        "title": "Победитель не получит ничего",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2020-02-06 09:31:46",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 211
+        }
+    },
     "duZhGvCZ7u": {
         "id": "duZhGvCZ7u",
         "title": "После",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 60
-        }
-    },
-    "u7t_UZAdZZ": {
-        "id": "u7t_UZAdZZ",
-        "title": "В этой книге полно пауков",
-        "author": "Дэвид Вонг",
-        "notes": "",
-        "createdAt": "2020-02-01 13:30:45",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 93
         }
     }
 }

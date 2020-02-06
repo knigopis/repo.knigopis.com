@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>211</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>38</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>243</sup> 
 [leonkulev](users/184/184095117-vkontakte)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>163</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>97</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>210</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>162</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>43</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>27</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexWinchester](users/268/2680385415370992-facebook)<sup>34</sup> 
 
 
-_06.02.2020 00:34:36_
+_06.02.2020 09:31:46_
