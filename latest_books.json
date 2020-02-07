@@ -1,4 +1,16 @@
 {
+    "Mlshs6CyFj": {
+        "id": "Mlshs6CyFj",
+        "title": "Новеллы",
+        "author": "Ги же Мопассан",
+        "notes": "Несколько рассказов",
+        "createdAt": "2020-02-07 15:12:46",
+        "user": {
+            "id": "106304994652616315178-google",
+            "nickname": "Euphoria",
+            "booksCount": 70
+        }
+    },
     "OK9ZXHIjZA": {
         "id": "OK9ZXHIjZA",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "10123344-vkontakte",
             "nickname": "l.shilova",
             "booksCount": 16
-        }
-    },
-    "pOSBMAuMAD": {
-        "id": "pOSBMAuMAD",
-        "title": "Дурдом немного восточнее Голливуда",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2020-02-03 09:27:41",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 209
         }
     }
 }

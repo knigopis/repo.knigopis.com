@@ -1,4 +1,16 @@
 {
+    "Mlshs6CyFj": {
+        "id": "Mlshs6CyFj",
+        "title": "Новеллы",
+        "author": "Ги же Мопассан",
+        "notes": "Несколько рассказов",
+        "createdAt": "2020-02-07 15:12:46",
+        "user": {
+            "id": "106304994652616315178-google",
+            "nickname": "Euphoria",
+            "booksCount": 70
+        }
+    },
     "duZhGvCZ7u": {
         "id": "duZhGvCZ7u",
         "title": "После",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 101
-        }
-    },
-    "tcI8KoN5-G": {
-        "id": "tcI8KoN5-G",
-        "title": "Расширить сознание легально",
-        "author": "Владислав Гайдукевич",
-        "notes": "Если шарите, ничего нового не узнаете",
-        "createdAt": "2020-01-18 22:29:10",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 43
         }
     }
 }

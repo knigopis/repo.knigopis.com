@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Новеллы ~ [Euphoria](users/106/106304994652616315178-google)<sup>70</sup>
+    > Несколько рассказов
+
 * После ~ [TheWildWind](users/262/262062207519652-facebook)<sup>38</sup>
     > Годная лайт-версия "50 оттенков серого".
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Уйма воды, одни и те же фразы повторяются по несколько раз, да и в целом бред. Осилила треть только. По ощущениям не буддискую философию автор проповедует, а пытается в секту какую-то затащить
 
 * Хроники Амбера. Пятикнижие Мерлина. Принц Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>242</sup>
-    > Таки стал Мерлин королем Хаоса, но на своих условиях
 
 * Выживают только параноики ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>226</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ораниенбаумский плацдарм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>224</sup>
 
-* Настольная книга для монашествующих и мирян ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>223</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>70</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>8</sup> 
 [Лидия](users/105/105055730920363448346-google)<sup>1</sup> 
 [dima2000star](users/100/100014192622254671058-google)<sup>1</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [buhanya](users/100/100003407402533-facebook)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>3</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>28</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>69</sup> 
 [CrazyNikit](users/113/113640574971285781663-google)<sup>0</sup> 
 
 
-_07.02.2020 15:10:40_
+_07.02.2020 15:12:46_
