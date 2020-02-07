@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ee](users/219/2195256973544755662-mailru)<sup>8</sup> 
 [Лидия](users/105/105055730920363448346-google)<sup>1</sup> 
 [dima2000star](users/100/100014192622254671058-google)<sup>1</sup> 
 [Svetlana](users/189/189154139125182-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>28</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>69</sup> 
 [CrazyNikit](users/113/113640574971285781663-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>758</sup> 
 
 
-_07.02.2020 11:38:33_
+_07.02.2020 15:10:40_
