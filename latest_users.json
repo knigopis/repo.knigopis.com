@@ -1,4 +1,10 @@
 {
+    "100014192622254671058-google": {
+        "id": "100014192622254671058-google",
+        "nickname": "dima2000star",
+        "booksCount": 0,
+        "updatedAt": "2020-02-07 05:54:17"
+    },
     "189154139125182-facebook": {
         "id": "189154139125182-facebook",
         "nickname": "Svetlana",
@@ -172,11 +178,5 @@
         "nickname": "Саня",
         "booksCount": 1,
         "updatedAt": "2020-01-28 10:39:39"
-    },
-    "5714115-vkontakte": {
-        "id": "5714115-vkontakte",
-        "nickname": "dmiro",
-        "booksCount": 19,
-        "updatedAt": "2020-01-27 14:00:52"
     }
 }
