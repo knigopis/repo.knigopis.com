@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dima2000star](users/100/100014192622254671058-google)<sup>0</sup> 
+[dima2000star](users/100/100014192622254671058-google)<sup>1</sup> 
 [Svetlana](users/189/189154139125182-facebook)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>62</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>77</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Саня](users/111/111645577348014069912-google)<sup>1</sup> 
 
 
-_07.02.2020 05:54:22_
+_07.02.2020 05:55:25_

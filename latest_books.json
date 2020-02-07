@@ -1,4 +1,16 @@
 {
+    "Pbqv5XzexB": {
+        "id": "Pbqv5XzexB",
+        "title": "The 15 Invaluable Laws of Growth",
+        "author": "John C. Maxwell",
+        "notes": "samoe vagnoe is knigi pro postoyanniy rost: v kontse kajdogo dnia udeliay vremia razmishleniyu chto novogo uznal i kakoy urok izvlek iz etogo dnia",
+        "createdAt": "2020-02-07 05:55:25",
+        "user": {
+            "id": "100014192622254671058-google",
+            "nickname": "dima2000star",
+            "booksCount": 1
+        }
+    },
     "OCGszh1na8": {
         "id": "OCGszh1na8",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 131
-        }
-    },
-    "15LIK-T5o9": {
-        "id": "15LIK-T5o9",
-        "title": "Хроники Амбера. Пятикнижие Мерлина. Рыцарь Теней",
-        "author": "Желязны, Роджер",
-        "notes": "",
-        "createdAt": "2020-02-02 20:05:16",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 241
         }
     }
 }
