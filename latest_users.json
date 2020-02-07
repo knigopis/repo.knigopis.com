@@ -1,4 +1,10 @@
 {
+    "105055730920363448346-google": {
+        "id": "105055730920363448346-google",
+        "nickname": "Лидия",
+        "booksCount": 0,
+        "updatedAt": "2020-02-07 11:38:18"
+    },
     "100014192622254671058-google": {
         "id": "100014192622254671058-google",
         "nickname": "dima2000star",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 758,
         "updatedAt": "2020-01-28 10:42:43"
-    },
-    "111645577348014069912-google": {
-        "id": "111645577348014069912-google",
-        "nickname": "Саня",
-        "booksCount": 1,
-        "updatedAt": "2020-01-28 10:39:39"
     }
 }
