@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 13 причин чому ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup>
+    > 10/10 Булінг, доведення до самогубства.
+
 * Новеллы ~ [Euphoria](users/106/106304994652616315178-google)<sup>70</sup>
     > Несколько рассказов
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Годная лайт-версия "50 оттенков серого".
 
 * Практика радости. Как управлять гневом ~ [Garka](users/115/115753719718250012620-google)<sup>243</sup>
-    > Уйма воды, одни и те же фразы повторяются по несколько раз, да и в целом бред. Осилила треть только. По ощущениям не буддискую философию автор проповедует, а пытается в секту какую-то затащить
 
 * Хроники Амбера. Пятикнижие Мерлина. Принц Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>242</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Хроники сыска (рассказы) ~ [Chiffi](users/105/105831994080785626680-google)<sup>162</sup>
 
-* Ораниенбаумский плацдарм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>224</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>94</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>69</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>70</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>162</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>43</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>27</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>84</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>373</sup> 
 [lera](users/del/delta174mix-lastfm)<sup>1</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>17</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>28</sup> 
 
 
-_08.02.2020 11:51:10_
+_08.02.2020 13:19:47_

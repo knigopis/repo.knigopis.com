@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 13 причин чому ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup>
 * Новеллы ~ [Euphoria](users/106/106304994652616315178-google)<sup>70</sup>
 * После ~ [TheWildWind](users/262/262062207519652-facebook)<sup>38</sup>
 * Практика радости. Как управлять гневом ~ [Garka](users/115/115753719718250012620-google)<sup>243</sup>
@@ -30,7 +31,6 @@
 * Ложная слепота ~ [En](users/333/333646551-vkontakte)<sup>84</sup>
 * Весна Софият ~ [Rainbow](users/109/109787328219839805802-google)<sup>50</sup>
 * Рассказы Преступления любви ~ [Euphoria](users/106/106304994652616315178-google)<sup>67</sup>
-* Дамы и господа ~ [joan789](users/240/2401650-vkontakte)<sup>101</sup>
 
 
-_07.02.2020 15:12:46_
+_08.02.2020 13:19:47_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>84</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>85</sup>
 ---
 
 ## 2020
+
+### 13 причин чому
+Джей Ашер
+> [2020-02-08] 10/10 Булінг, доведення до самогубства.
+
 
 ### Ведьмак. Башня ласточки
 Анджей Сапковский
