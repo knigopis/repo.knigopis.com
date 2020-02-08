@@ -1,4 +1,10 @@
 {
+    "2243130637083499985-mailru": {
+        "id": "2243130637083499985-mailru",
+        "nickname": "M.R.",
+        "booksCount": 0,
+        "updatedAt": "2020-02-08 23:23:44"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 3,
         "updatedAt": "2020-01-30 22:35:30"
-    },
-    "481937529-vkontakte": {
-        "id": "481937529-vkontakte",
-        "nickname": "Егор Прохоров",
-        "booksCount": 28,
-        "updatedAt": "2020-01-29 09:19:21"
     }
 }
