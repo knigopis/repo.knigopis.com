@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[M.R.](users/224/2243130637083499985-mailru)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>94</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>69</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lostinfrost](users/217/217891524-vkontakte)<sup>148</sup> 
 [buhanya](users/100/100003407402533-facebook)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>3</sup> 
-[Егор Прохоров](users/481/481937529-vkontakte)<sup>28</sup> 
 
 
-_08.02.2020 13:19:47_
+_08.02.2020 23:23:48_
