@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Человеколось](users/174/17475979687188177329-mailru)<sup>69</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>70</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>8</sup> 
 [Лидия](users/105/105055730920363448346-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [buhanya](users/100/100003407402533-facebook)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>3</sup> 
 [Егор Прохоров](users/481/481937529-vkontakte)<sup>28</sup> 
-[CrazyNikit](users/113/113640574971285781663-google)<sup>0</sup> 
 
 
-_07.02.2020 15:12:46_
+_08.02.2020 08:32:35_

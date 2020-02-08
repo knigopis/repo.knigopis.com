@@ -1,7 +1,12 @@
-# List of books read by [Человеколось](https://t.me/nerkin)<sup>68</sup>
+# List of books read by [Человеколось](https://t.me/nerkin)<sup>69</sup>
 ---
 
 ## 2020
+
+### Норма
+Владимир Сорокин
+> [2020-01-22] 
+
 
 ### Земля
 Михаил Елизаров

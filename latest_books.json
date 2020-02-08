@@ -1,4 +1,16 @@
 {
+    "tpOik6ZY33": {
+        "id": "tpOik6ZY33",
+        "title": "Норма",
+        "author": "Владимир Сорокин",
+        "notes": "",
+        "createdAt": "2020-02-08 08:32:35",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 69
+        }
+    },
     "Mlshs6CyFj": {
         "id": "Mlshs6CyFj",
         "title": "Новеллы",
@@ -345,18 +357,6 @@
             "id": "10123344-vkontakte",
             "nickname": "l.shilova",
             "booksCount": 17
-        }
-    },
-    "AoQ9eZJNkS": {
-        "id": "AoQ9eZJNkS",
-        "title": "Сборник рассказов",
-        "author": "Говард Лавкрафт",
-        "notes": "",
-        "createdAt": "2020-02-03 09:46:28",
-        "user": {
-            "id": "10123344-vkontakte",
-            "nickname": "l.shilova",
-            "booksCount": 16
         }
     }
 }

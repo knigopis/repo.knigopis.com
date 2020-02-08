@@ -1,4 +1,10 @@
 {
+    "17475979687188177329-mailru": {
+        "id": "17475979687188177329-mailru",
+        "nickname": "Человеколось",
+        "booksCount": 69,
+        "updatedAt": "2020-02-08 08:32:35"
+    },
     "106304994652616315178-google": {
         "id": "106304994652616315178-google",
         "nickname": "Euphoria",
@@ -172,11 +178,5 @@
         "nickname": "Егор Прохоров",
         "booksCount": 28,
         "updatedAt": "2020-01-29 09:19:21"
-    },
-    "113640574971285781663-google": {
-        "id": "113640574971285781663-google",
-        "nickname": "CrazyNikit",
-        "booksCount": 0,
-        "updatedAt": "2020-01-28 16:02:28"
     }
 }
