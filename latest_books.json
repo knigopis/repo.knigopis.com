@@ -1,4 +1,16 @@
 {
+    "LVqeLz1Zyu": {
+        "id": "LVqeLz1Zyu",
+        "title": "Внушение и его роль в общественной жизни",
+        "author": "Владимир Бехтерев",
+        "notes": "Издание 1903 года",
+        "createdAt": "2020-02-08 23:27:01",
+        "user": {
+            "id": "2243130637083499985-mailru",
+            "nickname": "M.R.",
+            "booksCount": 1
+        }
+    },
     "Hi22i7g2kb": {
         "id": "Hi22i7g2kb",
         "title": "13 причин чому",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 93
-        }
-    },
-    "8NVlztVPDc": {
-        "id": "8NVlztVPDc",
-        "title": "Странная история доктора Джекила и мистера Хайда",
-        "author": "Роберт Льюис Стивенсон",
-        "notes": "",
-        "createdAt": "2020-02-03 11:00:39",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 373
         }
     }
 }
