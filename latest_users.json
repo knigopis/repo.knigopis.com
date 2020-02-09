@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 37,
+        "updatedAt": "2020-02-09 19:49:04"
+    },
     "2243130637083499985-mailru": {
         "id": "2243130637083499985-mailru",
         "nickname": "M.R.",
@@ -172,11 +178,5 @@
         "nickname": "buhanya",
         "booksCount": 0,
         "updatedAt": "2020-02-01 18:38:29"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 3,
-        "updatedAt": "2020-01-30 22:35:30"
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дочь священника ~ [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup>
+    > Разочаровался в Дороти
+
 * 13 причин чому ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup>
     > 10/10 Булінг, доведення до самогубства.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Несколько рассказов
 
 * После ~ [TheWildWind](users/262/262062207519652-facebook)<sup>38</sup>
-    > Годная лайт-версия "50 оттенков серого".
 
 * Практика радости. Как управлять гневом ~ [Garka](users/115/115753719718250012620-google)<sup>243</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Волонтёры вечности ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup>
 
-* Хроники сыска (рассказы) ~ [Chiffi](users/105/105831994080785626680-google)<sup>162</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>37</sup> 
 [M.R.](users/224/2243130637083499985-mailru)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>94</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>131</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>148</sup> 
 [buhanya](users/100/100003407402533-facebook)<sup>0</sup> 
-[](users/153/1537586159620888-facebook)<sup>3</sup> 
 
 
-_08.02.2020 23:27:01_
+_09.02.2020 19:49:04_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дочь священника ~ [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup>
 * 13 причин чому ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup>
 * Новеллы ~ [Euphoria](users/106/106304994652616315178-google)<sup>70</sup>
 * После ~ [TheWildWind](users/262/262062207519652-facebook)<sup>38</sup>
@@ -30,7 +31,6 @@
 * Дьяволиада ~ [kissamasya](users/684/68439978-vkontakte)<sup>80</sup>
 * Ложная слепота ~ [En](users/333/333646551-vkontakte)<sup>84</sup>
 * Весна Софият ~ [Rainbow](users/109/109787328219839805802-google)<sup>50</sup>
-* Рассказы Преступления любви ~ [Euphoria](users/106/106304994652616315178-google)<sup>67</sup>
 
 
-_08.02.2020 13:19:47_
+_09.02.2020 19:49:04_
