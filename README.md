@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[askaly](users/326/326783541-vkontakte)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup> 
 [M.R.](users/224/2243130637083499985-mailru)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [l.shilova](users/101/10123344-vkontakte)<sup>17</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>131</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>148</sup> 
-[buhanya](users/100/100003407402533-facebook)<sup>0</sup> 
 
 
-_09.02.2020 19:49:04_
+_09.02.2020 20:32:32_
