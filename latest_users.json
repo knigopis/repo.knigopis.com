@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "askaly",
+        "booksCount": 0,
+        "updatedAt": "2020-02-09 20:32:30"
+    },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
         "nickname": "Beaviska",
@@ -172,11 +178,5 @@
         "nickname": "lostinfrost",
         "booksCount": 148,
         "updatedAt": "2020-02-02 14:45:44"
-    },
-    "100003407402533-facebook": {
-        "id": "100003407402533-facebook",
-        "nickname": "buhanya",
-        "booksCount": 0,
-        "updatedAt": "2020-02-01 18:38:29"
     }
 }
