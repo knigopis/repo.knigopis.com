@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>212</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup> 
 [En](users/333/333646551-vkontakte)<sup>86</sup> 
 [askaly](users/326/326783541-vkontakte)<sup>1</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>62</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>77</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>82</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>211</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>38</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>243</sup> 
 [leonkulev](users/184/184095117-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [l.shilova](users/101/10123344-vkontakte)<sup>17</sup> 
 
 
-_10.02.2020 04:53:06_
+_10.02.2020 12:31:29_
