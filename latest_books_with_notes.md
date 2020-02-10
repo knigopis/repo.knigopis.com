@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* И дольше века длится день ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup>
 * Кожа. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>86</sup>
 * Дочь священника ~ [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup>
 * 13 причин чому ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup>
@@ -30,7 +31,6 @@
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>68</sup>
 * Спектр ~ [En](users/333/333646551-vkontakte)<sup>85</sup>
 * Дьяволиада ~ [kissamasya](users/684/68439978-vkontakte)<sup>80</sup>
-* Ложная слепота ~ [En](users/333/333646551-vkontakte)<sup>84</sup>
 
 
-_10.02.2020 03:47:03_
+_10.02.2020 04:53:06_

@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* И дольше века длится день ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup>
+    > 10/10
+    > Я снова чуть не поверила в Бога.
+
 * Кожа. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>86</sup>
     > Страшная авария на большом шоссе завершилась множеством смертей. Один из мертвецов - по случайной ошибке молодых стажеров - оказался в числе доноров кожи ожогового центра. Случилось что-то странное - старик, которому пересадили кожу погибшего на шоссе, вскочил с операционного стола и исчез. Пропал, оставив за собой кровь и трупы. Дико. Необъяснимо. Но именно с необычным злом привыкли сражаться Скалли и Малдер...
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Разочаровался в Дороти
 
 * 13 причин чому ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup>
-    > 10/10 Булінг, доведення до самогубства.
 
 * Новеллы ~ [Euphoria](users/106/106304994652616315178-google)<sup>70</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * SCRUM: революционный метод управления проектами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>225</sup>
 
-* Дело Варнавинского маньяка (3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>163</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup> 
 [En](users/333/333646551-vkontakte)<sup>86</sup> 
 [askaly](users/326/326783541-vkontakte)<sup>1</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>373</sup> 
 [lera](users/del/delta174mix-lastfm)<sup>1</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>17</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>131</sup> 
 
 
-_10.02.2020 03:47:03_
+_10.02.2020 04:53:06_

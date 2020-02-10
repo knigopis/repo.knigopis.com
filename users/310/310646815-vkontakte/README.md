@@ -1,5 +1,14 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>52</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>53</sup>
 ---
+
+## 2020
+
+### И дольше века длится день
+Чынгыз Айтматов
+> [2020-02-10] 10/10
+> Я снова чуть не поверила в Бога.
+
+
 
 ## 2019
 
