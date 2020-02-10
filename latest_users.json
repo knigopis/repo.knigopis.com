@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 94,
+        "updatedAt": "2020-02-10 13:01:25"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -40,12 +46,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 85,
         "updatedAt": "2020-02-08 13:19:47"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 94,
-        "updatedAt": "2020-02-08 11:51:10"
     },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>94</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>212</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup> 
 [En](users/333/333646551-vkontakte)<sup>86</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup> 
 [M.R.](users/224/2243130637083499985-mailru)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>94</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>69</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>70</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>8</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [l.shilova](users/101/10123344-vkontakte)<sup>17</sup> 
 
 
-_10.02.2020 12:31:29_
+_10.02.2020 13:01:25_

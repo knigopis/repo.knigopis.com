@@ -1,4 +1,16 @@
 {
+    "m-thnqK1rM": {
+        "id": "m-thnqK1rM",
+        "title": "Красный холм",
+        "author": "Джейми Макгвайр",
+        "notes": "",
+        "createdAt": "2020-02-10 13:01:25",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 94
+        }
+    },
     "hoz2IWBZ9d": {
         "id": "hoz2IWBZ9d",
         "title": "Сахарный кремль",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 43
-        }
-    },
-    "NXutM1GBzM": {
-        "id": "NXutM1GBzM",
-        "title": "Ораниенбаумский плацдарм",
-        "author": "",
-        "notes": "в процессе",
-        "createdAt": "2020-02-03 16:38:29",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 224
         }
     }
 }
