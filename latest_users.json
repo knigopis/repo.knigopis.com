@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 86,
+        "updatedAt": "2020-02-10 03:47:02"
+    },
     "326783541-vkontakte": {
         "id": "326783541-vkontakte",
         "nickname": "askaly",
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 131,
         "updatedAt": "2020-02-02 20:08:40"
-    },
-    "217891524-vkontakte": {
-        "id": "217891524-vkontakte",
-        "nickname": "lostinfrost",
-        "booksCount": 148,
-        "updatedAt": "2020-02-02 14:45:44"
     }
 }

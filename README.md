@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кожа. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>86</sup>
+    > Страшная авария на большом шоссе завершилась множеством смертей. Один из мертвецов - по случайной ошибке молодых стажеров - оказался в числе доноров кожи ожогового центра. Случилось что-то странное - старик, которому пересадили кожу погибшего на шоссе, вскочил с операционного стола и исчез. Пропал, оставив за собой кровь и трупы. Дико. Необъяснимо. Но именно с необычным злом привыкли сражаться Скалли и Малдер...
+
 * Дочь священника ~ [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup>
     > Разочаровался в Дороти
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Булінг, доведення до самогубства.
 
 * Новеллы ~ [Euphoria](users/106/106304994652616315178-google)<sup>70</sup>
-    > Несколько рассказов
 
 * После ~ [TheWildWind](users/262/262062207519652-facebook)<sup>38</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дело Варнавинского маньяка (3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>163</sup>
 
-* Волонтёры вечности ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>86</sup> 
 [askaly](users/326/326783541-vkontakte)<sup>1</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup> 
 [M.R.](users/224/2243130637083499985-mailru)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lera](users/del/delta174mix-lastfm)<sup>1</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>17</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>131</sup> 
-[lostinfrost](users/217/217891524-vkontakte)<sup>148</sup> 
 
 
-_09.02.2020 20:34:29_
+_10.02.2020 03:47:03_
