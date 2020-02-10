@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>759</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>94</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>212</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dghtt](users/233/233860015-vkontakte)<sup>27</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>373</sup> 
 [lera](users/del/delta174mix-lastfm)<sup>1</sup> 
-[l.shilova](users/101/10123344-vkontakte)<sup>17</sup> 
 
 
-_10.02.2020 13:01:25_
+_10.02.2020 17:12:55_
