@@ -1,4 +1,16 @@
 {
+    "jOvEZjCr2C": {
+        "id": "jOvEZjCr2C",
+        "title": "Фабрика планет",
+        "author": "Элизабет Таскер",
+        "notes": "",
+        "createdAt": "2020-02-11 09:41:14",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 44
+        }
+    },
     "EFA3zMqOMr": {
         "id": "EFA3zMqOMr",
         "title": "Секреты вашей бодрости",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 97
-        }
-    },
-    "AWHln5LiCL": {
-        "id": "AWHln5LiCL",
-        "title": "Письма к Людмиле Штерн",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2020-02-04 13:54:54",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 210
         }
     }
 }

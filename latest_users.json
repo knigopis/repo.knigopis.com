@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 44,
+        "updatedAt": "2020-02-11 09:41:14"
+    },
     "1333089180107181-facebook": {
         "id": "1333089180107181-facebook",
         "nickname": null,
@@ -160,12 +166,6 @@
         "nickname": "Sky",
         "booksCount": 162,
         "updatedAt": "2020-02-03 17:58:49"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 43,
-        "updatedAt": "2020-02-03 17:08:52"
     },
     "233860015-vkontakte": {
         "id": "233860015-vkontakte",

@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>43</sup>
+# List of books read by 4apa<sup>44</sup>
 ---
 
 ## 2020
+
+### Фабрика планет
+Элизабет Таскер
+> [2020-02-11] 
+
 
 ### Гонка за Нобелем
 Брайан Китинг
