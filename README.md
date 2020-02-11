@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Выстрел на большой морской ~ [Chiffi](users/105/105831994080785626680-google)<sup>164</sup>
+    > Глядит лисой, а пахнет волком
+
 * И дольше века длится день ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup>
     > 10/10
     > Я снова чуть не поверила в Бога.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Страшная авария на большом шоссе завершилась множеством смертей. Один из мертвецов - по случайной ошибке молодых стажеров - оказался в числе доноров кожи ожогового центра. Случилось что-то странное - старик, которому пересадили кожу погибшего на шоссе, вскочил с операционного стола и исчез. Пропал, оставив за собой кровь и трупы. Дико. Необъяснимо. Но именно с необычным злом привыкли сражаться Скалли и Малдер...
 
 * Дочь священника ~ [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup>
-    > Разочаровался в Дороти
 
 * 13 причин чому ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Выживают только параноики ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>226</sup>
 
-* SCRUM: революционный метод управления проектами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>225</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>164</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>44</sup> 
 [](users/133/1333089180107181-facebook)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>71</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>243</sup> 
 [leonkulev](users/184/184095117-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>226</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>163</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>97</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>162</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>373</sup> 
 
 
-_11.02.2020 09:41:14_
+_11.02.2020 10:48:57_

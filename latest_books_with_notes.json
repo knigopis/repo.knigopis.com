@@ -1,4 +1,16 @@
 {
+    "bZvPx4jIY2": {
+        "id": "bZvPx4jIY2",
+        "title": "Выстрел на большой морской",
+        "author": "Свечин Николай",
+        "notes": "Глядит лисой, а пахнет волком",
+        "createdAt": "2020-02-11 10:48:57",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 164
+        }
+    },
     "nXL0h0vkNn": {
         "id": "nXL0h0vkNn",
         "title": "И дольше века длится день",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 85
-        }
-    },
-    "aYHuuXrLlK": {
-        "id": "aYHuuXrLlK",
-        "title": "Дьяволиада",
-        "author": "М.Булгаков",
-        "notes": "Эпизод из жизни простого человека в недрах зарождающегося советского бюрократического аппарата.",
-        "createdAt": "2020-01-23 12:39:23",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 80
         }
     }
 }
