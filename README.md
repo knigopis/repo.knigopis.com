@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>71</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>760</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>94</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>212</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [M.R.](users/224/2243130637083499985-mailru)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>69</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>70</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>8</sup> 
 [Лидия](users/105/105055730920363448346-google)<sup>1</sup> 
 [dima2000star](users/100/100014192622254671058-google)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lera](users/del/delta174mix-lastfm)<sup>1</sup> 
 
 
-_10.02.2020 20:23:29_
+_11.02.2020 04:54:20_

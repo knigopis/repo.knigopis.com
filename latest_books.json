@@ -1,4 +1,16 @@
 {
+    "EFA3zMqOMr": {
+        "id": "EFA3zMqOMr",
+        "title": "Секреты вашей бодрости",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-02-11 04:54:20",
+        "user": {
+            "id": "106304994652616315178-google",
+            "nickname": "Euphoria",
+            "booksCount": 71
+        }
+    },
     "bKd5d0-jLL": {
         "id": "bKd5d0-jLL",
         "title": "Ежевичная зима",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 210
-        }
-    },
-    "H--8BdChJg": {
-        "id": "H--8BdChJg",
-        "title": "Хроники сыска (рассказы)",
-        "author": "Свечин Николай",
-        "notes": "исторические детективы. события конца 19 века в Нижнем Новгороде. Продолжение цикла",
-        "createdAt": "2020-02-04 06:08:49",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 162
         }
     }
 }
