@@ -1,4 +1,10 @@
 {
+    "1333089180107181-facebook": {
+        "id": "1333089180107181-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-02-11 07:49:14"
+    },
     "106304994652616315178-google": {
         "id": "106304994652616315178-google",
         "nickname": "Euphoria",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 373,
         "updatedAt": "2020-02-03 11:00:39"
-    },
-    "delta174mix-lastfm": {
-        "id": "delta174mix-lastfm",
-        "nickname": "lera",
-        "booksCount": 1,
-        "updatedAt": "2020-02-03 10:46:45"
     }
 }
