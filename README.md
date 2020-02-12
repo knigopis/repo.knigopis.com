@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Лела Папава](users/761/76187635-vkontakte)<sup>305</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>375</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>164</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>226</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>97</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>162</sup> 
 
 
-_12.02.2020 15:59:37_
+_12.02.2020 18:02:30_

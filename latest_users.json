@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Лела Папава",
+        "booksCount": 305,
+        "updatedAt": "2020-02-12 18:02:30"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 97,
         "updatedAt": "2020-02-04 18:27:07"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 162,
-        "updatedAt": "2020-02-03 17:58:49"
     }
 }
