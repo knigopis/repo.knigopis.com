@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Конец Вечности ~ [Garka](users/115/115753719718250012620-google)<sup>244</sup>
+    > Очень понравилось, прочитала запоем.
+
 * Выстрел на большой морской ~ [Chiffi](users/105/105831994080785626680-google)<sup>164</sup>
     > Глядит лисой, а пахнет волком
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Я снова чуть не поверила в Бога.
 
 * Кожа. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>86</sup>
-    > Страшная авария на большом шоссе завершилась множеством смертей. Один из мертвецов - по случайной ошибке молодых стажеров - оказался в числе доноров кожи ожогового центра. Случилось что-то странное - старик, которому пересадили кожу погибшего на шоссе, вскочил с операционного стола и исчез. Пропал, оставив за собой кровь и трупы. Дико. Необъяснимо. Но именно с необычным злом привыкли сражаться Скалли и Малдер...
 
 * Дочь священника ~ [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Хроники Амбера. Пятикнижие Мерлина. Принц Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>242</sup>
 
-* Выживают только параноики ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>226</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>244</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>307</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>375</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
@@ -59,11 +60,10 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>77</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>82</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>38</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>243</sup> 
 [leonkulev](users/184/184095117-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>226</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>97</sup> 
 
 
-_12.02.2020 18:07:55_
+_12.02.2020 18:54:57_
