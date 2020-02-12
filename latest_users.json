@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 374,
+        "updatedAt": "2020-02-12 15:57:34"
+    },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
         "nickname": "Окс",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 162,
         "updatedAt": "2020-02-03 17:58:49"
-    },
-    "233860015-vkontakte": {
-        "id": "233860015-vkontakte",
-        "nickname": "dghtt",
-        "booksCount": 27,
-        "updatedAt": "2020-02-03 14:36:05"
     }
 }

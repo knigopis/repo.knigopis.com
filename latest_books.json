@@ -1,4 +1,16 @@
 {
+    "ggdDWIGkne": {
+        "id": "ggdDWIGkne",
+        "title": "Усейн Болт",
+        "author": "Быстрее молнии. Моя автобиография",
+        "notes": "",
+        "createdAt": "2020-02-12 15:57:34",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 374
+        }
+    },
     "RynVGJxbcm": {
         "id": "RynVGJxbcm",
         "title": "КРЮКОВ Федор",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 225
-        }
-    },
-    "5haC1MsrWA": {
-        "id": "5haC1MsrWA",
-        "title": "Дело Варнавинского маньяка (3)",
-        "author": "Свечин Николай",
-        "notes": "Дали ему грош,  а он ему негож... Вам Бог дал, а нам посулил..",
-        "createdAt": "2020-02-05 06:13:04",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 163
         }
     }
 }
