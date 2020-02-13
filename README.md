@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>95</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>42</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>244</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>307</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/133/1333089180107181-facebook)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>71</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>760</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>94</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>212</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup> 
 [En](users/333/333646551-vkontakte)<sup>86</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup> 
 
 
-_13.02.2020 09:30:16_
+_13.02.2020 14:19:23_
