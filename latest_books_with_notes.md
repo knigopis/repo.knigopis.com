@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Темная Материя ~ [mfevralev](users/140/140966150-vkontakte)<sup>42</sup>
 * Конец Вечности ~ [Garka](users/115/115753719718250012620-google)<sup>244</sup>
 * Выстрел на большой морской ~ [Chiffi](users/105/105831994080785626680-google)<sup>164</sup>
 * И дольше века длится день ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup>
@@ -30,7 +31,6 @@
 * Русская канарейка. Голос ~ [dmiro](users/571/5714115-vkontakte)<sup>17</sup>
 * Хроники Амбера. Пятикнижие Мерлина. Знак Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>240</sup>
 * Над кукушкиным гнездом ~ [anvonamore](users/595/5957175-vkontakte)<sup>130</sup>
-*  ~ [Euphoria](users/106/106304994652616315178-google)<sup>68</sup>
 
 
-_12.02.2020 18:54:57_
+_13.02.2020 09:30:16_

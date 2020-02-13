@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Темная Материя ~ [mfevralev](users/140/140966150-vkontakte)<sup>42</sup>
+    > Не че хорошего.
+
 * Конец Вечности ~ [Garka](users/115/115753719718250012620-google)<sup>244</sup>
     > Очень понравилось, прочитала запоем.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Глядит лисой, а пахнет волком
 
 * И дольше века длится день ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup>
-    > 10/10
-    > Я снова чуть не поверила в Бога.
 
 * Кожа. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>86</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Практика радости. Как управлять гневом ~ [Garka](users/115/115753719718250012620-google)<sup>243</sup>
 
-* Хроники Амбера. Пятикнижие Мерлина. Принц Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>242</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>42</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>244</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>307</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>375</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [leonkulev](users/184/184095117-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>226</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>97</sup> 
 
 
-_12.02.2020 18:54:57_
+_13.02.2020 09:30:16_
