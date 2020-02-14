@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/104/104950233638594044334-google)<sup>0</sup> 
 [](users/104/104950233638594044334-googleplus)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>155</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>24</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>62</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>77</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>82</sup> 
-[TheWildWind](users/262/262062207519652-facebook)<sup>38</sup> 
 
 
-_14.02.2020 22:02:19_
+_14.02.2020 22:02:34_
