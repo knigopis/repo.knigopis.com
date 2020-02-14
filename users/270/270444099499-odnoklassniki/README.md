@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>27</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>24</sup>
 ---
 
 ## 2020
+
+### Смерти нет. Я знаю
+Лаура Лейн Джексон
+> [2020-02-14] 
+
 
 ### "Смерть" на языке цветов
 Людмила Мартова

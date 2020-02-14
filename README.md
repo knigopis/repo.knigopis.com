@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/270/270444099499-odnoklassniki)<sup>27</sup> 
+[](users/270/270444099499-odnoklassniki)<sup>24</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>95</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>42</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>244</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>226</sup> 
 
 
-_14.02.2020 00:51:31_
+_14.02.2020 14:00:19_

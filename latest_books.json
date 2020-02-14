@@ -1,4 +1,16 @@
 {
+    "LOpHLLE893": {
+        "id": "LOpHLLE893",
+        "title": "Смерти нет. Я знаю",
+        "author": "Лаура Лейн Джексон",
+        "notes": "",
+        "createdAt": "2020-02-14 14:00:19",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 24
+        }
+    },
     "LQPvwbya7_": {
         "id": "LQPvwbya7_",
         "title": "\"Смерть\" на языке цветов",
@@ -344,18 +356,6 @@
         "user": {
             "id": "105055730920363448346-google",
             "nickname": "Лидия",
-            "booksCount": 1
-        }
-    },
-    "Pbqv5XzexB": {
-        "id": "Pbqv5XzexB",
-        "title": "The 15 Invaluable Laws of Growth",
-        "author": "John C. Maxwell",
-        "notes": "samoe vagnoe is knigi pro postoyanniy rost: v kontse kajdogo dnia udeliay vremia razmishleniyu chto novogo uznal i kakoy urok izvlek iz etogo dnia",
-        "createdAt": "2020-02-07 05:55:25",
-        "user": {
-            "id": "100014192622254671058-google",
-            "nickname": "dima2000star",
             "booksCount": 1
         }
     }
