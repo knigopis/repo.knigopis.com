@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>149</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>150</sup>
 ---
 
 ## 2020
+
+### Счастливый Принц
+Оскар Уайльд
+> [2020-02-12] 
+
 
 ### Мальчик-звезда (сказка)
 Оскар Уайльд
