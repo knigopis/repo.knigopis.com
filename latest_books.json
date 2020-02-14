@@ -1,4 +1,16 @@
 {
+    "_gOvKMN-un": {
+        "id": "_gOvKMN-un",
+        "title": "Текст",
+        "author": "Дмитрий Глуховский",
+        "notes": "Отечественный нуар",
+        "createdAt": "2020-02-14 22:03:21",
+        "user": {
+            "id": "104950233638594044334-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "yfZVGujWuH": {
         "id": "yfZVGujWuH",
         "title": "Рыбак и его Душа (сказка)",
@@ -345,18 +357,6 @@
             "id": "10202544960024508-facebook",
             "nickname": "Beaviska",
             "booksCount": 37
-        }
-    },
-    "LVqeLz1Zyu": {
-        "id": "LVqeLz1Zyu",
-        "title": "Внушение и его роль в общественной жизни",
-        "author": "Владимир Бехтерев",
-        "notes": "Издание 1903 года",
-        "createdAt": "2020-02-08 23:27:01",
-        "user": {
-            "id": "2243130637083499985-mailru",
-            "nickname": "M.R.",
-            "booksCount": 1
         }
     }
 }
