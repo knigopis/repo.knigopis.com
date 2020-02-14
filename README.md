@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lostinfrost](users/217/217891524-vkontakte)<sup>153</sup> 
+[lostinfrost](users/217/217891524-vkontakte)<sup>154</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>24</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>95</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>42</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [leonkulev](users/184/184095117-vkontakte)<sup>0</sup> 
 
 
-_14.02.2020 14:30:29_
+_14.02.2020 14:30:54_
