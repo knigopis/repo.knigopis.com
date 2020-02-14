@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>154</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>155</sup>
 ---
 
 ## 2020
@@ -504,6 +504,11 @@ Lewis Carroll
 ### Никогде
 Нил Гейман
 > [2014-03] 
+
+
+### Рыбак и его Душа (сказка)
+Оскар Уайльд
+> [2014-02] 
 
 
 ### Юный Король (сказка)
