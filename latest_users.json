@@ -1,4 +1,10 @@
 {
+    "104950233638594044334-google": {
+        "id": "104950233638594044334-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-02-14 22:02:32"
+    },
     "104950233638594044334-googleplus": {
         "id": "104950233638594044334-googleplus",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 82,
         "updatedAt": "2020-02-06 11:32:20"
-    },
-    "262062207519652-facebook": {
-        "id": "262062207519652-facebook",
-        "nickname": "TheWildWind",
-        "booksCount": 38,
-        "updatedAt": "2020-02-06 00:34:36"
     }
 }
