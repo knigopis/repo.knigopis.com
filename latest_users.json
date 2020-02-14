@@ -1,4 +1,10 @@
 {
+    "104950233638594044334-googleplus": {
+        "id": "104950233638594044334-googleplus",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-02-14 22:02:17"
+    },
     "217891524-vkontakte": {
         "id": "217891524-vkontakte",
         "nickname": "lostinfrost",
@@ -172,11 +178,5 @@
         "nickname": "TheWildWind",
         "booksCount": 38,
         "updatedAt": "2020-02-06 00:34:36"
-    },
-    "184095117-vkontakte": {
-        "id": "184095117-vkontakte",
-        "nickname": "leonkulev",
-        "booksCount": 0,
-        "updatedAt": "2020-02-05 14:30:21"
     }
 }
