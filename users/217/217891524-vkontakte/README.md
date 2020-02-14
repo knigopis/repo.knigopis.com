@@ -1,4 +1,4 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>152</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>153</sup>
 ---
 
 ## 2020
@@ -504,6 +504,11 @@ Lewis Carroll
 ### Никогде
 Нил Гейман
 > [2014-03] 
+
+
+### Преданный друг (сказка)
+Оскар Уайльд
+> [2014-02] 
 
 
 ### Замечательная Ракета (сказка)
