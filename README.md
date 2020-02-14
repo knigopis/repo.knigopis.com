@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lostinfrost](users/217/217891524-vkontakte)<sup>149</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>24</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>95</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>42</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>82</sup> 
 [TheWildWind](users/262/262062207519652-facebook)<sup>38</sup> 
 [leonkulev](users/184/184095117-vkontakte)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>226</sup> 
 
 
-_14.02.2020 14:00:19_
+_14.02.2020 14:19:28_

@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>148</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>149</sup>
 ---
 
 ## 2020
+
+### Мальчик-звезда (сказка)
+Оскар Уайльд
+> [2020-02-12] 
+
 
 ### Чернобыль. 01:23:40
 Эндрю Ливербарроу
