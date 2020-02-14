@@ -1,4 +1,16 @@
 {
+    "MsXjrMTnaj": {
+        "id": "MsXjrMTnaj",
+        "title": "Преданный друг (сказка)",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2020-02-14 14:20:07",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 151
+        }
+    },
     "q5BfE2o9Tl": {
         "id": "q5BfE2o9Tl",
         "title": "Счастливый Принц",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 69
-        }
-    },
-    "Mlshs6CyFj": {
-        "id": "Mlshs6CyFj",
-        "title": "Новеллы",
-        "author": "Ги же Мопассан",
-        "notes": "Несколько рассказов",
-        "createdAt": "2020-02-07 15:12:46",
-        "user": {
-            "id": "106304994652616315178-google",
-            "nickname": "Euphoria",
-            "booksCount": 70
         }
     }
 }

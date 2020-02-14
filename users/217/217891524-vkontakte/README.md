@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>150</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>151</sup>
 ---
 
 ## 2020
+
+### Преданный друг (сказка)
+Оскар Уайльд
+> [2020-02-12] 
+
 
 ### Счастливый Принц
 Оскар Уайльд
