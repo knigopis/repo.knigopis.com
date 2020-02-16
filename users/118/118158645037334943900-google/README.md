@@ -1,5 +1,13 @@
-# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>37</sup>
+# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>38</sup>
 ---
+
+## 2020
+
+### Ведьмак. 2. Меч предназначения
+Анджей Сапковский
+> [2020-01] 
+
+
 
 ## 2019
 
