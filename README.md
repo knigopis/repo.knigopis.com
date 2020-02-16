@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>26</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>25</sup> 
 [](users/104/104950233638594044334-google)<sup>1</sup> 
 [](users/104/104950233638594044334-googleplus)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>155</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>77</sup> 
 
 
-_16.02.2020 16:21:13_
+_16.02.2020 16:42:23_
