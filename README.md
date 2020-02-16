@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>37</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>25</sup> 
 [](users/104/104950233638594044334-google)<sup>1</sup> 
 [](users/104/104950233638594044334-googleplus)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Svetlana](users/189/189154139125182-facebook)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>62</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>77</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>82</sup> 
 
 
-_16.02.2020 05:35:02_
+_16.02.2020 16:18:07_

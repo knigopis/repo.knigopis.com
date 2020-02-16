@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 37,
+        "updatedAt": "2020-02-16 16:18:07"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "sab_olya",
         "booksCount": 77,
         "updatedAt": "2020-02-06 11:40:10"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 82,
-        "updatedAt": "2020-02-06 11:32:20"
     }
 }
