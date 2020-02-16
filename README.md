@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дознание в Риге ~ [Chiffi](users/105/105831994080785626680-google)<sup>165</sup>
+    > Интересно было читать про Луганск и латышское самосознание
+
 * Темная Материя ~ [mfevralev](users/140/140966150-vkontakte)<sup>42</sup>
     > Не че хорошего.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень понравилось, прочитала запоем.
 
 * Выстрел на большой морской ~ [Chiffi](users/105/105831994080785626680-google)<sup>164</sup>
-    > Глядит лисой, а пахнет волком
 
 * И дольше века длится день ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * После ~ [TheWildWind](users/262/262062207519652-facebook)<sup>38</sup>
 
-* Практика радости. Как управлять гневом ~ [Garka](users/115/115753719718250012620-google)<sup>243</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>165</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>57</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>26</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лела Папава](users/761/76187635-vkontakte)<sup>307</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>375</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>164</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>44</sup> 
 [](users/133/1333089180107181-facebook)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>71</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>62</sup> 
 
 
-_16.02.2020 17:56:27_
+_16.02.2020 19:40:55_

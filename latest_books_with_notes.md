@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дознание в Риге ~ [Chiffi](users/105/105831994080785626680-google)<sup>165</sup>
 * Темная Материя ~ [mfevralev](users/140/140966150-vkontakte)<sup>42</sup>
 * Конец Вечности ~ [Garka](users/115/115753719718250012620-google)<sup>244</sup>
 * Выстрел на большой морской ~ [Chiffi](users/105/105831994080785626680-google)<sup>164</sup>
@@ -30,7 +31,6 @@
 * Русская канарейка. Блудный сын ~ [dmiro](users/571/5714115-vkontakte)<sup>18</sup>
 * Русская канарейка. Голос ~ [dmiro](users/571/5714115-vkontakte)<sup>17</sup>
 * Хроники Амбера. Пятикнижие Мерлина. Знак Хаоса ~ [Garka](users/115/115753719718250012620-google)<sup>240</sup>
-* Над кукушкиным гнездом ~ [anvonamore](users/595/5957175-vkontakte)<sup>130</sup>
 
 
-_13.02.2020 09:30:16_
+_16.02.2020 19:40:55_

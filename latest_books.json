@@ -1,4 +1,16 @@
 {
+    "z9Nq7keK7Z": {
+        "id": "z9Nq7keK7Z",
+        "title": "Дознание в Риге",
+        "author": "Свечин Николай",
+        "notes": "Интересно было читать про Луганск и латышское самосознание",
+        "createdAt": "2020-02-16 19:40:54",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 165
+        }
+    },
     "RV2GZV6Zdd": {
         "id": "RV2GZV6Zdd",
         "title": "Выбор",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 71
-        }
-    },
-    "bKd5d0-jLL": {
-        "id": "bKd5d0-jLL",
-        "title": "Ежевичная зима",
-        "author": "Сара Джио",
-        "notes": "",
-        "createdAt": "2020-02-10 20:23:28",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 760
         }
     }
 }
