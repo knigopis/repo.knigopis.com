@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 57,
+        "updatedAt": "2020-02-16 17:56:27"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "vladkozz",
         "booksCount": 62,
         "updatedAt": "2020-02-06 20:10:34"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 77,
-        "updatedAt": "2020-02-06 11:40:10"
     }
 }

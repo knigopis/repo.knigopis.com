@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>56</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>57</sup>
 ---
 
 ## 2020
+
+### Выбор
+Эдит Ева Эгер
+> [2020-01-31] 
+
 
 ### Звезды сияют с небес
 Сидни Шелдон

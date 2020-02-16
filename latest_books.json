@@ -1,4 +1,16 @@
 {
+    "RV2GZV6Zdd": {
+        "id": "RV2GZV6Zdd",
+        "title": "Выбор",
+        "author": "Эдит Ева Эгер",
+        "notes": "",
+        "createdAt": "2020-02-16 17:56:27",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 57
+        }
+    },
     "oQfR3e7YAP": {
         "id": "oQfR3e7YAP",
         "title": "Яма",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 760
-        }
-    },
-    "Xkiur5XjfE": {
-        "id": "Xkiur5XjfE",
-        "title": "Люди, которые всегда со мной",
-        "author": "Наринэ Абгарян",
-        "notes": "",
-        "createdAt": "2020-02-10 17:12:55",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 759
         }
     }
 }
