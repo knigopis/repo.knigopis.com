@@ -1,4 +1,16 @@
 {
+    "iZJmaXANRy": {
+        "id": "iZJmaXANRy",
+        "title": "Змеиная верность",
+        "author": "Анна Акимова",
+        "notes": "",
+        "createdAt": "2020-02-16 05:33:08",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 25
+        }
+    },
     "_gOvKMN-un": {
         "id": "_gOvKMN-un",
         "title": "Текст",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "askaly",
             "booksCount": 1
-        }
-    },
-    "QR6ZLL_WIF": {
-        "id": "QR6ZLL_WIF",
-        "title": "Дочь священника",
-        "author": "Джордж Оруэлл",
-        "notes": "Разочаровался в Дороти",
-        "createdAt": "2020-02-09 19:49:04",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 37
         }
     }
 }
