@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Московский апокалипсис ~ [Chiffi](users/105/105831994080785626680-google)<sup>166</sup>
+    > про события 1812 в Москве.
+    > Тих, да лих. Сначала ты меня покатаешь,  а потом я на тебе поезжу
+
 * Дознание в Риге ~ [Chiffi](users/105/105831994080785626680-google)<sup>165</sup>
     > Интересно было читать про Луганск и латышское самосознание
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Не че хорошего.
 
 * Конец Вечности ~ [Garka](users/115/115753719718250012620-google)<sup>244</sup>
-    > Очень понравилось, прочитала запоем.
 
 * Выстрел на большой морской ~ [Chiffi](users/105/105831994080785626680-google)<sup>164</sup>
 
@@ -26,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Новеллы ~ [Euphoria](users/106/106304994652616315178-google)<sup>70</sup>
 
-* После ~ [TheWildWind](users/262/262062207519652-facebook)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>165</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>166</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>57</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>26</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>62</sup> 
 
 
-_16.02.2020 19:40:55_
+_17.02.2020 05:35:44_
