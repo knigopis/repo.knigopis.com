@@ -1,4 +1,16 @@
 {
+    "y10pzISgrl": {
+        "id": "y10pzISgrl",
+        "title": "Дневник донского казака С. П. Полушкина. 1877-1878 г. - СПб., 1880.",
+        "author": "Полушкин С. П.",
+        "notes": "Мало фактов",
+        "createdAt": "2020-02-17 14:44:14",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 43
+        }
+    },
     "TxvoOyA2gl": {
         "id": "TxvoOyA2gl",
         "title": "Московский апокалипсис",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 18
-        }
-    },
-    "7a1E1TAwm6": {
-        "id": "7a1E1TAwm6",
-        "title": "Русская канарейка. Голос",
-        "author": "Дина Рубина",
-        "notes": "История жизни Желтухина и его встреча с Айей",
-        "createdAt": "2020-01-27 13:57:50",
-        "user": {
-            "id": "5714115-vkontakte",
-            "nickname": "dmiro",
-            "booksCount": 17
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 43,
+        "updatedAt": "2020-02-17 14:44:14"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -46,12 +52,6 @@
         "nickname": "lostinfrost",
         "booksCount": 155,
         "updatedAt": "2020-02-14 14:31:15"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 42,
-        "updatedAt": "2020-02-13 09:30:16"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",

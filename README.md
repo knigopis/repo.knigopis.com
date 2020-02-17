@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дневник донского казака С. П. Полушкина. 1877-1878 г. - СПб., 1880. ~ [mfevralev](users/140/140966150-vkontakte)<sup>43</sup>
+    > Мало фактов
+
 * Московский апокалипсис ~ [Chiffi](users/105/105831994080785626680-google)<sup>166</sup>
     > про события 1812 в Москве.
     > Тих, да лих. Сначала ты меня покатаешь,  а потом я на тебе поезжу
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Интересно было читать про Луганск и латышское самосознание
 
 * Темная Материя ~ [mfevralev](users/140/140966150-vkontakte)<sup>42</sup>
-    > Не че хорошего.
 
 * Конец Вечности ~ [Garka](users/115/115753719718250012620-google)<sup>244</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * 13 причин чому ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup>
 
-* Новеллы ~ [Euphoria](users/106/106304994652616315178-google)<sup>70</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>43</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>96</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>166</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>57</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104950233638594044334-google)<sup>1</sup> 
 [](users/104/104950233638594044334-googleplus)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>155</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>42</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>244</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>307</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>375</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>62</sup> 
 
 
-_17.02.2020 13:04:57_
+_17.02.2020 14:44:14_

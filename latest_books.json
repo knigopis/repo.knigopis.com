@@ -1,4 +1,16 @@
 {
+    "y10pzISgrl": {
+        "id": "y10pzISgrl",
+        "title": "Дневник донского казака С. П. Полушкина. 1877-1878 г. - СПб., 1880.",
+        "author": "Полушкин С. П.",
+        "notes": "Мало фактов",
+        "createdAt": "2020-02-17 14:44:14",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 43
+        }
+    },
     "NbNUCAcaQt": {
         "id": "NbNUCAcaQt",
         "title": "Последний герой",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 18
-        }
-    },
-    "bZvPx4jIY2": {
-        "id": "bZvPx4jIY2",
-        "title": "Выстрел на большой морской",
-        "author": "Свечин Николай",
-        "notes": "Глядит лисой, а пахнет волком",
-        "createdAt": "2020-02-11 10:48:57",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 164
         }
     }
 }
