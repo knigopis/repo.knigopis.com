@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тэсс из рода д'Эрбервиллей ~ [anvonamore](users/595/5957175-vkontakte)<sup>132</sup>
+    > 6/10
+
 * Ведьмак. Владычица озера. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup>
     > 10/10 Продолжение саги.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хорошая книга о детском мировоззрении.
 
 * Дневник донского казака С. П. Полушкина. 1877-1878 г. - СПб., 1880. ~ [mfevralev](users/140/140966150-vkontakte)<sup>43</sup>
-    > Мало фактов
 
 * Московский апокалипсис ~ [Chiffi](users/105/105831994080785626680-google)<sup>166</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * И дольше века длится день ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup>
 
-* Кожа. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>86</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>132</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup> 
 [batonio0337](users/112/112082930542376179829-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>213</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ee](users/219/2195256973544755662-mailru)<sup>8</sup> 
 [Лидия](users/105/105055730920363448346-google)<sup>1</sup> 
 [dima2000star](users/100/100014192622254671058-google)<sup>1</sup> 
-[Svetlana](users/189/189154139125182-facebook)<sup>0</sup> 
 
 
-_18.02.2020 15:07:02_
+_18.02.2020 22:44:41_
