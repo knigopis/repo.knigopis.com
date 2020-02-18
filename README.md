@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[batonio0337](users/112/112082930542376179829-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>213</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>72</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>43</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лидия](users/105/105055730920363448346-google)<sup>1</sup> 
 [dima2000star](users/100/100014192622254671058-google)<sup>1</sup> 
 [Svetlana](users/189/189154139125182-facebook)<sup>0</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>62</sup> 
 
 
-_18.02.2020 11:58:24_
+_18.02.2020 12:45:04_
