@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ведьмак. Владычица озера. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup>
+    > 10/10 Продолжение саги.
+
 * От 2х до 5 ~ [Euphoria](users/106/106304994652616315178-google)<sup>72</sup>
     > Хорошая книга о детском мировоззрении.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Мало фактов
 
 * Московский апокалипсис ~ [Chiffi](users/105/105831994080785626680-google)<sup>166</sup>
-    > про события 1812 в Москве.
-    > Тих, да лих. Сначала ты меня покатаешь,  а потом я на тебе поезжу
 
 * Дознание в Риге ~ [Chiffi](users/105/105831994080785626680-google)<sup>165</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кожа. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>86</sup>
 
-* Дочь священника ~ [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup> 
 [batonio0337](users/112/112082930542376179829-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>213</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>72</sup> 
@@ -58,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [askaly](users/326/326783541-vkontakte)<sup>1</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup> 
 [M.R.](users/224/2243130637083499985-mailru)<sup>1</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>69</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>8</sup> 
 [Лидия](users/105/105055730920363448346-google)<sup>1</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Svetlana](users/189/189154139125182-facebook)<sup>0</sup> 
 
 
-_18.02.2020 12:45:04_
+_18.02.2020 15:07:02_

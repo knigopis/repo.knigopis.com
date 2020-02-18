@@ -1,4 +1,16 @@
 {
+    "ctGD84Tp1M": {
+        "id": "ctGD84Tp1M",
+        "title": "Ведьмак. Владычица озера.",
+        "author": "Анджей Сапковский",
+        "notes": "10/10 Продолжение саги.",
+        "createdAt": "2020-02-18 15:07:02",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 86
+        }
+    },
     "0Fu-Y9VzdQ": {
         "id": "0Fu-Y9VzdQ",
         "title": "Хроники Фрая",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 305
-        }
-    },
-    "YjCjMfV9GP": {
-        "id": "YjCjMfV9GP",
-        "title": "Режим гения. Распорядок дня великих людей.",
-        "author": "Мейсон Карри",
-        "notes": "",
-        "createdAt": "2020-02-12 15:59:37",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 375
         }
     }
 }
