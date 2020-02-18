@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* От 2х до 5 ~ [Euphoria](users/106/106304994652616315178-google)<sup>72</sup>
+    > Хорошая книга о детском мировоззрении.
+
 * Дневник донского казака С. П. Полушкина. 1877-1878 г. - СПб., 1880. ~ [mfevralev](users/140/140966150-vkontakte)<sup>43</sup>
     > Мало фактов
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Тих, да лих. Сначала ты меня покатаешь,  а потом я на тебе поезжу
 
 * Дознание в Риге ~ [Chiffi](users/105/105831994080785626680-google)<sup>165</sup>
-    > Интересно было читать про Луганск и латышское самосознание
 
 * Темная Материя ~ [mfevralev](users/140/140966150-vkontakte)<sup>42</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Дочь священника ~ [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup>
 
-* 13 причин чому ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>72</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>43</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>96</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>166</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>44</sup> 
 [](users/133/1333089180107181-facebook)<sup>0</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>71</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>760</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>212</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>62</sup> 
 
 
-_17.02.2020 14:44:14_
+_18.02.2020 09:46:24_

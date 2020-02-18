@@ -1,4 +1,16 @@
 {
+    "dAqpLuW0rY": {
+        "id": "dAqpLuW0rY",
+        "title": "От 2х до 5",
+        "author": "К.И.Чуковский",
+        "notes": "Хорошая книга о детском мировоззрении.",
+        "createdAt": "2020-02-18 09:46:24",
+        "user": {
+            "id": "106304994652616315178-google",
+            "nickname": "Euphoria",
+            "booksCount": 72
+        }
+    },
     "y10pzISgrl": {
         "id": "y10pzISgrl",
         "title": "Дневник донского казака С. П. Полушкина. 1877-1878 г. - СПб., 1880.",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 374
-        }
-    },
-    "RynVGJxbcm": {
-        "id": "RynVGJxbcm",
-        "title": "КРЮКОВ Федор",
-        "author": "Зыбь",
-        "notes": "",
-        "createdAt": "2020-02-11 19:59:18",
-        "user": {
-            "id": "102536471289425216982-google",
-            "nickname": "Окс",
-            "booksCount": 18
         }
     }
 }
