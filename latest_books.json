@@ -1,4 +1,16 @@
 {
+    "0Fu-Y9VzdQ": {
+        "id": "0Fu-Y9VzdQ",
+        "title": "Хроники Фрая",
+        "author": "Стивен Фрай",
+        "notes": "",
+        "createdAt": "2020-02-18 11:58:24",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 213
+        }
+    },
     "dAqpLuW0rY": {
         "id": "dAqpLuW0rY",
         "title": "От 2х до 5",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 375
-        }
-    },
-    "ggdDWIGkne": {
-        "id": "ggdDWIGkne",
-        "title": "Усейн Болт",
-        "author": "Быстрее молнии. Моя автобиография",
-        "notes": "",
-        "createdAt": "2020-02-12 15:57:34",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 374
         }
     }
 }
