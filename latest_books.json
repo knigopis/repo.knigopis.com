@@ -1,4 +1,16 @@
 {
+    "kbnqwn5CHU": {
+        "id": "kbnqwn5CHU",
+        "title": "Ася",
+        "author": "Иван Тургенев",
+        "notes": "",
+        "createdAt": "2020-02-19 13:56:59",
+        "user": {
+            "id": "270444099499-odnoklassniki",
+            "nickname": null,
+            "booksCount": 27
+        }
+    },
     "OHMDf142OQ": {
         "id": "OHMDf142OQ",
         "title": "Две судьбы",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 244
-        }
-    },
-    "kBuQNEczFY": {
-        "id": "kBuQNEczFY",
-        "title": "Скорбь Сатаны",
-        "author": "Мария Корелли",
-        "notes": "",
-        "createdAt": "2020-02-12 18:07:55",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 307
         }
     }
 }
