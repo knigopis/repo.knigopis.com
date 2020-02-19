@@ -1,7 +1,12 @@
-# List of books read by [](https://ok.ru/profile/536771522733)<sup>26</sup>
+# List of books read by [](https://ok.ru/profile/536771522733)<sup>27</sup>
 ---
 
 ## 2020
+
+### Две судьбы
+Семён Малков
+> [2020-02-19] 
+
 
 ### Яма
 Александр Куприн

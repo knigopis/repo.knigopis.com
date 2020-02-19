@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>27</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>132</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup> 
 [batonio0337](users/112/112082930542376179829-google)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>96</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>166</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>57</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>26</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
 [](users/104/104950233638594044334-google)<sup>1</sup> 
 [](users/104/104950233638594044334-googleplus)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dima2000star](users/100/100014192622254671058-google)<sup>1</sup> 
 
 
-_18.02.2020 22:44:41_
+_19.02.2020 08:59:18_
