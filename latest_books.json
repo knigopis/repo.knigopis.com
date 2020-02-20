@@ -1,4 +1,16 @@
 {
+    "ow5xcW0DxE": {
+        "id": "ow5xcW0DxE",
+        "title": "Сила безмолвия",
+        "author": "Кастанеда, Карлос",
+        "notes": "",
+        "createdAt": "2020-02-20 16:15:30",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 28
+        }
+    },
     "i_4vOaEeS7": {
         "id": "i_4vOaEeS7",
         "title": "Огонь изнутри",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 45
-        }
-    },
-    "3F1cqI4eMp": {
-        "id": "3F1cqI4eMp",
-        "title": "тест",
-        "author": "нободи",
-        "notes": "каминг",
-        "createdAt": "2020-02-20 09:22:03",
-        "user": {
-            "id": "8423922445190342448-mailru",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

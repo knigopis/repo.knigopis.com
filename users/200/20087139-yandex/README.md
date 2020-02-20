@@ -1,7 +1,11 @@
-# List of books read by srsw<sup>27</sup>
+# List of books read by srsw<sup>28</sup>
 ---
 
 ## 2012
+
+### Сила безмолвия
+Кастанеда, Карлос
+
 
 ### Огонь изнутри
 Кастанеда, Карлос
