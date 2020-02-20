@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[evdokimovy](users/893/8933046-vkontakte)<sup>2</sup> 
+[evdokimovy](users/893/8933046-vkontakte)<sup>3</sup> 
 [srsw](users/200/20087139-yandex)<sup>38</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>28</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>45</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Человеколось](users/174/17475979687188177329-mailru)<sup>69</sup> 
 
 
-_20.02.2020 19:00:48_
+_20.02.2020 19:01:55_
