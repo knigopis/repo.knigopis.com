@@ -1,5 +1,12 @@
-# List of books read by srsw<sup>26</sup>
+# List of books read by srsw<sup>27</sup>
 ---
+
+## 2012
+
+### Огонь изнутри
+Кастанеда, Карлос
+
+
 
 ## 2010
 
