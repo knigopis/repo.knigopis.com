@@ -1,4 +1,10 @@
 {
+    "4705914-vkontakte": {
+        "id": "4705914-vkontakte",
+        "nickname": "Максим Гордеев",
+        "booksCount": 0,
+        "updatedAt": "2020-02-20 19:35:57"
+    },
     "8933046-vkontakte": {
         "id": "8933046-vkontakte",
         "nickname": "evdokimovy",
@@ -172,11 +178,5 @@
         "nickname": "M.R.",
         "booksCount": 1,
         "updatedAt": "2020-02-08 23:27:01"
-    },
-    "17475979687188177329-mailru": {
-        "id": "17475979687188177329-mailru",
-        "nickname": "Человеколось",
-        "booksCount": 69,
-        "updatedAt": "2020-02-08 08:32:35"
     }
 }
