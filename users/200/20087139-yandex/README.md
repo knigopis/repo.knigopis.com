@@ -1,7 +1,11 @@
-# List of books read by srsw<sup>24</sup>
+# List of books read by srsw<sup>25</sup>
 ---
 
 ## 2010
+
+### Второе кольцо силы
+Кастанеда, Карлос
+
 
 ### Сказки о силе
 Кастанеда, Карлос
