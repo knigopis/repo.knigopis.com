@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/842/8423922445190342448-mailru)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>214</sup> 
 [En](users/333/333646551-vkontakte)<sup>88</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>27</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Человеколось](users/174/17475979687188177329-mailru)<sup>69</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>8</sup> 
 [Лидия](users/105/105055730920363448346-google)<sup>1</sup> 
-[dima2000star](users/100/100014192622254671058-google)<sup>1</sup> 
 
 
-_20.02.2020 07:11:57_
+_20.02.2020 09:21:20_
