@@ -1,4 +1,10 @@
 {
+    "20087139-yandex": {
+        "id": "20087139-yandex",
+        "nickname": "nik8836",
+        "booksCount": 0,
+        "updatedAt": "2020-02-20 15:45:49"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "ee",
         "booksCount": 8,
         "updatedAt": "2020-02-07 15:10:40"
-    },
-    "105055730920363448346-google": {
-        "id": "105055730920363448346-google",
-        "nickname": "Лидия",
-        "booksCount": 1,
-        "updatedAt": "2020-02-07 11:38:33"
     }
 }
