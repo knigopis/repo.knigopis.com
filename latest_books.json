@@ -1,4 +1,16 @@
 {
+    "6lLS76QEdv": {
+        "id": "6lLS76QEdv",
+        "title": "Болтливый мертвец",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2020-02-20 16:03:26",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 7
+        }
+    },
     "W31FXLy43l": {
         "id": "W31FXLy43l",
         "title": "Власть несбывшегося",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 26
-        }
-    },
-    "_gOvKMN-un": {
-        "id": "_gOvKMN-un",
-        "title": "Текст",
-        "author": "Дмитрий Глуховский",
-        "notes": "Отечественный нуар",
-        "createdAt": "2020-02-14 22:03:21",
-        "user": {
-            "id": "104950233638594044334-google",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }

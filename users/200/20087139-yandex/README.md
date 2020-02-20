@@ -1,7 +1,11 @@
-# List of books read by srsw<sup>6</sup>
+# List of books read by srsw<sup>7</sup>
 ---
 
 ## 2008
+
+### Болтливый мертвец
+Макс Фрай
+
 
 ### Власть несбывшегося
 Макс Фрай
