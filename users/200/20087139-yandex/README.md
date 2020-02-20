@@ -1,7 +1,11 @@
-# List of books read by srsw<sup>7</sup>
+# List of books read by srsw<sup>8</sup>
 ---
 
 ## 2008
+
+### Лабиринт Мёнина
+Макс Фрай
+
 
 ### Болтливый мертвец
 Макс Фрай

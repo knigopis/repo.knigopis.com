@@ -1,4 +1,16 @@
 {
+    "6Foj-VKR2N": {
+        "id": "6Foj-VKR2N",
+        "title": "Лабиринт Мёнина",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2020-02-20 16:03:54",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 8
+        }
+    },
     "6lLS76QEdv": {
         "id": "6lLS76QEdv",
         "title": "Болтливый мертвец",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 37
-        }
-    },
-    "wGVxSKBIdm": {
-        "id": "wGVxSKBIdm",
-        "title": "Змеиная верность",
-        "author": "Анна Акимова",
-        "notes": "",
-        "createdAt": "2020-02-16 05:34:36",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 26
         }
     }
 }
