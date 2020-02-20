@@ -1,4 +1,16 @@
 {
+    "AoZsaB6thT": {
+        "id": "AoZsaB6thT",
+        "title": "Жалобная книга (маленький роман из жизни накхов)",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2020-02-20 16:09:04",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 16
+        }
+    },
     "WTFXG1zmae": {
         "id": "WTFXG1zmae",
         "title": "Кофейная книга",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 96
-        }
-    },
-    "TxvoOyA2gl": {
-        "id": "TxvoOyA2gl",
-        "title": "Московский апокалипсис",
-        "author": "Свечин Николай",
-        "notes": "про события 1812 в Москве.\nТих, да лих. Сначала ты меня покатаешь,  а потом я на тебе поезжу",
-        "createdAt": "2020-02-17 05:35:44",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 166
         }
     }
 }
