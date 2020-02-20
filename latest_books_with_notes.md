@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Квази ~ [En](users/333/333646551-vkontakte)<sup>87</sup>
 * Тэсс из рода д'Эрбервиллей ~ [anvonamore](users/595/5957175-vkontakte)<sup>132</sup>
 * Ведьмак. Владычица озера. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup>
 * От 2х до 5 ~ [Euphoria](users/106/106304994652616315178-google)<sup>72</sup>
@@ -30,7 +31,6 @@
 * Ведьмак. Башня ласточки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>84</sup>
 * Пятьдесят оттенков серого ~ [anvonamore](users/595/5957175-vkontakte)<sup>131</sup>
 * Как заставить закон притяжения работать на вас ~ [](users/153/1537586159620888-facebook)<sup>3</sup>
-* Скрытие улики. Сборник исторических детективных рассказов ~ [Chiffi](users/105/105831994080785626680-google)<sup>160</sup>
 
 
-_18.02.2020 22:44:41_
+_20.02.2020 04:50:37_

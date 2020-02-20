@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Квази ~ [En](users/333/333646551-vkontakte)<sup>87</sup>
+    > Только представьте, каково полицейскому Денису, потерявшему жену и сына во время апокалипсиса, работать плечом к плечу с кваzи Михаилом – высокофункциональным зомби. Но мириться придется даже с таким напарником. Ведь им вместе предстоит разгадать загадку убийства профессора-вирусолога и попутно спасти мир.
+    > 
+    > Тема зомби, казалось бы, уже исчерпавшая себя, совершенно по-новому открывается в книге Сергея Лукьяненко «Кваzи». А что если зомби – это не плотоядные ходячие мертвецы, а новая ветвь эволюции? Кваzи – восставшие из мертвых – умны, безэмоциональны, не едят мясо и ездят на велосипедах. Что если именно это – наше будущее? То, к чему мы стремимся…
+
 * Тэсс из рода д'Эрбервиллей ~ [anvonamore](users/595/5957175-vkontakte)<sup>132</sup>
     > 6/10
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > 10/10 Продолжение саги.
 
 * От 2х до 5 ~ [Euphoria](users/106/106304994652616315178-google)<sup>72</sup>
-    > Хорошая книга о детском мировоззрении.
 
 * Дневник донского казака С. П. Полушкина. 1877-1878 г. - СПб., 1880. ~ [mfevralev](users/140/140966150-vkontakte)<sup>43</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Выстрел на большой морской ~ [Chiffi](users/105/105831994080785626680-google)<sup>164</sup>
 
-* И дольше века длится день ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>87</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>27</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>132</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup> 
@@ -55,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/133/1333089180107181-facebook)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>760</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup> 
-[En](users/333/333646551-vkontakte)<sup>86</sup> 
 [askaly](users/326/326783541-vkontakte)<sup>1</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup> 
 [M.R.](users/224/2243130637083499985-mailru)<sup>1</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dima2000star](users/100/100014192622254671058-google)<sup>1</sup> 
 
 
-_19.02.2020 13:56:59_
+_20.02.2020 04:50:37_
