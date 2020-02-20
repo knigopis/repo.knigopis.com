@@ -1,7 +1,11 @@
-# List of books read by srsw<sup>23</sup>
+# List of books read by srsw<sup>24</sup>
 ---
 
 ## 2010
+
+### Сказки о силе
+Кастанеда, Карлос
+
 
 ### Кофейная книга
 Макс Фрай

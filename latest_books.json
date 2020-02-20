@@ -1,4 +1,16 @@
 {
+    "bFQhhQOQ7f": {
+        "id": "bFQhhQOQ7f",
+        "title": "Сказки о силе",
+        "author": "Кастанеда, Карлос",
+        "notes": "",
+        "createdAt": "2020-02-20 16:13:50",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 24
+        }
+    },
     "dHoIpzPx3d": {
         "id": "dHoIpzPx3d",
         "title": "Путешествие в Икстлан",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 87
-        }
-    },
-    "kbnqwn5CHU": {
-        "id": "kbnqwn5CHU",
-        "title": "Ася",
-        "author": "Иван Тургенев",
-        "notes": "",
-        "createdAt": "2020-02-19 13:56:59",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 27
         }
     }
 }
