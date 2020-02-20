@@ -1,4 +1,16 @@
 {
+    "d39bJ4MwbA": {
+        "id": "d39bJ4MwbA",
+        "title": "Бирюк",
+        "author": "Иван Тургенев",
+        "notes": "",
+        "createdAt": "2020-02-20 07:11:57",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 214
+        }
+    },
     "jyG6DvsOmf": {
         "id": "jyG6DvsOmf",
         "title": "Джерсийский дьявол",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 26
-        }
-    },
-    "Iqzubou2P_": {
-        "id": "Iqzubou2P_",
-        "title": "Ступени, ведущие в бездну",
-        "author": "Рик Янси",
-        "notes": "",
-        "createdAt": "2020-02-13 14:19:23",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 95
         }
     }
 }
