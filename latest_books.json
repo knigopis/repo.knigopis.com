@@ -1,4 +1,16 @@
 {
+    "ZCeVyKhQ_7": {
+        "id": "ZCeVyKhQ_7",
+        "title": "Темная сторона",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2020-02-20 16:01:51",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 4
+        }
+    },
     "7iaA1tvwhi": {
         "id": "7iaA1tvwhi",
         "title": "Простые волшебные вещи",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 154
-        }
-    },
-    "uFCNHI_ZmK": {
-        "id": "uFCNHI_ZmK",
-        "title": "Преданный друг (сказка)",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2020-02-14 14:30:29",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 153
         }
     }
 }
