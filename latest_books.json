@@ -1,4 +1,16 @@
 {
+    "7iaA1tvwhi": {
+        "id": "7iaA1tvwhi",
+        "title": "Простые волшебные вещи",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2020-02-20 16:00:25",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 3
+        }
+    },
     "BCB7zHqM3n": {
         "id": "BCB7zHqM3n",
         "title": "Волонтёры Вечности",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 153
-        }
-    },
-    "mrLs0vp7D0": {
-        "id": "mrLs0vp7D0",
-        "title": "Скорбь Сатаны",
-        "author": "Мария Корелли",
-        "notes": "",
-        "createdAt": "2020-02-14 14:21:41",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 152
         }
     }
 }
