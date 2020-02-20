@@ -1,4 +1,16 @@
 {
+    "vZ-ClPnS6C": {
+        "id": "vZ-ClPnS6C",
+        "title": "Возвращение короля",
+        "author": "Толкин, Джон Рональд Руэл",
+        "notes": "",
+        "createdAt": "2020-02-20 16:11:32",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 20
+        }
+    },
     "ZpgGhBeIJq": {
         "id": "ZpgGhBeIJq",
         "title": "Две крепости",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 86
-        }
-    },
-    "0Fu-Y9VzdQ": {
-        "id": "0Fu-Y9VzdQ",
-        "title": "Хроники Фрая",
-        "author": "Стивен Фрай",
-        "notes": "",
-        "createdAt": "2020-02-18 11:58:24",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 213
         }
     }
 }
