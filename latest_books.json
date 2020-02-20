@@ -1,4 +1,16 @@
 {
+    "zOnWB-Edrw": {
+        "id": "zOnWB-Edrw",
+        "title": "Чёрный принц",
+        "author": "Айрис Мёрдок",
+        "notes": "",
+        "createdAt": "2020-02-20 18:59:53",
+        "user": {
+            "id": "8933046-vkontakte",
+            "nickname": "evdokimovy",
+            "booksCount": 1
+        }
+    },
     "dY5Sk7acCP": {
         "id": "dY5Sk7acCP",
         "title": "Пятнадцатилетний капитан",
@@ -345,18 +357,6 @@
             "id": "20087139-yandex",
             "nickname": "srsw",
             "booksCount": 10
-        }
-    },
-    "W4lToIKaPN": {
-        "id": "W4lToIKaPN",
-        "title": "Гнёзда химер. Хроники Овётганны",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2020-02-20 16:05:19",
-        "user": {
-            "id": "20087139-yandex",
-            "nickname": "srsw",
-            "booksCount": 9
         }
     }
 }
