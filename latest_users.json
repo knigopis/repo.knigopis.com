@@ -1,4 +1,10 @@
 {
+    "8423922445190342448-mailru": {
+        "id": "8423922445190342448-mailru",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-02-20 09:21:17"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Лидия",
         "booksCount": 1,
         "updatedAt": "2020-02-07 11:38:33"
-    },
-    "100014192622254671058-google": {
-        "id": "100014192622254671058-google",
-        "nickname": "dima2000star",
-        "booksCount": 1,
-        "updatedAt": "2020-02-07 05:55:25"
     }
 }
