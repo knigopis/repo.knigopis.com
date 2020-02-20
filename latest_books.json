@@ -1,4 +1,16 @@
 {
+    "W31FXLy43l": {
+        "id": "W31FXLy43l",
+        "title": "Власть несбывшегося",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2020-02-20 16:02:49",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 6
+        }
+    },
     "SY6zmxxHMA": {
         "id": "SY6zmxxHMA",
         "title": "Наваждения",
@@ -345,18 +357,6 @@
             "id": "104950233638594044334-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "yfZVGujWuH": {
-        "id": "yfZVGujWuH",
-        "title": "Рыбак и его Душа (сказка)",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2020-02-14 14:31:15",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 155
         }
     }
 }

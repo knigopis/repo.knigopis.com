@@ -1,7 +1,11 @@
-# List of books read by srsw<sup>5</sup>
+# List of books read by srsw<sup>6</sup>
 ---
 
 ## 2008
+
+### Власть несбывшегося
+Макс Фрай
+
 
 ### Наваждения
 Макс Фрай
