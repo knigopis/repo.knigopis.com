@@ -1,4 +1,10 @@
 {
+    "8933046-vkontakte": {
+        "id": "8933046-vkontakte",
+        "nickname": "evdokimovy",
+        "booksCount": 0,
+        "updatedAt": "2020-02-20 18:59:03"
+    },
     "20087139-yandex": {
         "id": "20087139-yandex",
         "nickname": "srsw",
@@ -172,11 +178,5 @@
         "nickname": "Человеколось",
         "booksCount": 69,
         "updatedAt": "2020-02-08 08:32:35"
-    },
-    "2195256973544755662-mailru": {
-        "id": "2195256973544755662-mailru",
-        "nickname": "ee",
-        "booksCount": 8,
-        "updatedAt": "2020-02-07 15:10:40"
     }
 }
