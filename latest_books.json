@@ -1,4 +1,16 @@
 {
+    "9ZWXIfL85o": {
+        "id": "9ZWXIfL85o",
+        "title": "Гарри Поттер и философский камень",
+        "author": "Роулинг, Джоан",
+        "notes": "",
+        "createdAt": "2020-02-20 16:20:56",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 31
+        }
+    },
     "v3GYNYZVZL": {
         "id": "v3GYNYZVZL",
         "title": "Активная сторона бесконечности",
@@ -345,18 +357,6 @@
             "id": "20087139-yandex",
             "nickname": "srsw",
             "booksCount": 2
-        }
-    },
-    "RtJ3C-bNwN": {
-        "id": "RtJ3C-bNwN",
-        "title": "Чужак",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2020-02-20 15:57:12",
-        "user": {
-            "id": "20087139-yandex",
-            "nickname": "srsw",
-            "booksCount": 1
         }
     }
 }
