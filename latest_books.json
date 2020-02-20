@@ -1,4 +1,16 @@
 {
+    "bD4p4G20n9": {
+        "id": "bD4p4G20n9",
+        "title": "Братство Кольца",
+        "author": "Толкин, Джон Рональд Руэл",
+        "notes": "",
+        "createdAt": "2020-02-20 16:10:41",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 18
+        }
+    },
     "6QcumF5HFk": {
         "id": "6QcumF5HFk",
         "title": "Хоббит, или Туда и обратно",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 72
-        }
-    },
-    "y10pzISgrl": {
-        "id": "y10pzISgrl",
-        "title": "Дневник донского казака С. П. Полушкина. 1877-1878 г. - СПб., 1880.",
-        "author": "Полушкин С. П.",
-        "notes": "Мало фактов",
-        "createdAt": "2020-02-17 14:44:14",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 43
         }
     }
 }
