@@ -1,4 +1,16 @@
 {
+    "ZpgGhBeIJq": {
+        "id": "ZpgGhBeIJq",
+        "title": "Две крепости",
+        "author": "Толкин, Джон Рональд Руэл",
+        "notes": "",
+        "createdAt": "2020-02-20 16:11:08",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 19
+        }
+    },
     "bD4p4G20n9": {
         "id": "bD4p4G20n9",
         "title": "Братство Кольца",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 213
-        }
-    },
-    "dAqpLuW0rY": {
-        "id": "dAqpLuW0rY",
-        "title": "От 2х до 5",
-        "author": "К.И.Чуковский",
-        "notes": "Хорошая книга о детском мировоззрении.",
-        "createdAt": "2020-02-18 09:46:24",
-        "user": {
-            "id": "106304994652616315178-google",
-            "nickname": "Euphoria",
-            "booksCount": 72
         }
     }
 }
