@@ -1,4 +1,16 @@
 {
+    "opWGetoXPs": {
+        "id": "opWGetoXPs",
+        "title": "Отдельная реальность",
+        "author": "Кастанеда, Карлос",
+        "notes": "",
+        "createdAt": "2020-02-20 16:12:49",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 22
+        }
+    },
     "nTrA9pk9iW": {
         "id": "nTrA9pk9iW",
         "title": "Учение дона Хуана: Путь знания индейцев яки",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 27
-        }
-    },
-    "Nr3mNf651N": {
-        "id": "Nr3mNf651N",
-        "title": "Тэсс из рода д'Эрбервиллей",
-        "author": "Томас Харди",
-        "notes": "6/10",
-        "createdAt": "2020-02-18 22:44:40",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 132
         }
     }
 }
