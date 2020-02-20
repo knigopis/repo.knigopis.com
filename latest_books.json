@@ -1,4 +1,16 @@
 {
+    "v3GYNYZVZL": {
+        "id": "v3GYNYZVZL",
+        "title": "Активная сторона бесконечности",
+        "author": "Кастанеда, Карлос",
+        "notes": "",
+        "createdAt": "2020-02-20 16:16:28",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 30
+        }
+    },
     "S7gseOPBAU": {
         "id": "S7gseOPBAU",
         "title": "Искусство сновидения",
@@ -345,18 +357,6 @@
             "id": "20087139-yandex",
             "nickname": "srsw",
             "booksCount": 1
-        }
-    },
-    "Tryz7v_XPx": {
-        "id": "Tryz7v_XPx",
-        "title": "Агент семейной безопасности",
-        "author": "Дарья Калинина",
-        "notes": "",
-        "createdAt": "2020-02-20 15:25:25",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 28
         }
     }
 }
