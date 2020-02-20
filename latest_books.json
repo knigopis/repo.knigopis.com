@@ -1,4 +1,16 @@
 {
+    "RtJ3C-bNwN": {
+        "id": "RtJ3C-bNwN",
+        "title": "Чужак",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2020-02-20 15:57:12",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 1
+        }
+    },
     "Tryz7v_XPx": {
         "id": "Tryz7v_XPx",
         "title": "Агент семейной безопасности",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 150
-        }
-    },
-    "tnSS_9klBt": {
-        "id": "tnSS_9klBt",
-        "title": "Мальчик-звезда (сказка)",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2020-02-14 14:19:28",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 149
         }
     }
 }
