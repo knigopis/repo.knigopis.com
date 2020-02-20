@@ -1,4 +1,16 @@
 {
+    "-DLmVGRxRK": {
+        "id": "-DLmVGRxRK",
+        "title": "Дар орла",
+        "author": "Кастанеда, Карлос",
+        "notes": "",
+        "createdAt": "2020-02-20 16:14:46",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 26
+        }
+    },
     "exesZcY97Y": {
         "id": "exesZcY97Y",
         "title": "Второе кольцо силы",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 214
-        }
-    },
-    "jyG6DvsOmf": {
-        "id": "jyG6DvsOmf",
-        "title": "Джерсийский дьявол",
-        "author": "Яна Ашмарина",
-        "notes": "Секретные материалы. По 5 серии 1 сезона сериала",
-        "createdAt": "2020-02-20 04:53:28",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 88
         }
     }
 }

@@ -1,7 +1,11 @@
-# List of books read by srsw<sup>25</sup>
+# List of books read by srsw<sup>26</sup>
 ---
 
 ## 2010
+
+### Дар орла
+Кастанеда, Карлос
+
 
 ### Второе кольцо силы
 Кастанеда, Карлос
