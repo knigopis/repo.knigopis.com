@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Максим Гордеев](users/470/4705914-vkontakte)<sup>0</sup> 
+[Максим Гордеев](users/470/4705914-vkontakte)<sup>1</sup> 
 [evdokimovy](users/893/8933046-vkontakte)<sup>3</sup> 
 [srsw](users/200/20087139-yandex)<sup>38</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>28</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [M.R.](users/224/2243130637083499985-mailru)<sup>1</sup> 
 
 
-_20.02.2020 19:36:00_
+_20.02.2020 19:38:37_
