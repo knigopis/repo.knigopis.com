@@ -1,4 +1,16 @@
 {
+    "hzv2T-j0XS": {
+        "id": "hzv2T-j0XS",
+        "title": "Квиддич с древности до наших дней",
+        "author": "Роулинг, Джоан",
+        "notes": "",
+        "createdAt": "2020-02-20 16:23:47",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 36
+        }
+    },
     "KYt_2B_M0o": {
         "id": "KYt_2B_M0o",
         "title": "Гарри Поттер и Орден Феникса",
@@ -345,18 +357,6 @@
             "id": "20087139-yandex",
             "nickname": "srsw",
             "booksCount": 7
-        }
-    },
-    "W31FXLy43l": {
-        "id": "W31FXLy43l",
-        "title": "Власть несбывшегося",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2020-02-20 16:02:49",
-        "user": {
-            "id": "20087139-yandex",
-            "nickname": "srsw",
-            "booksCount": 6
         }
     }
 }
