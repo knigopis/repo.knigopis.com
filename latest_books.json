@@ -1,4 +1,16 @@
 {
+    "dHoIpzPx3d": {
+        "id": "dHoIpzPx3d",
+        "title": "Путешествие в Икстлан",
+        "author": "Кастанеда, Карлос",
+        "notes": "",
+        "createdAt": "2020-02-20 16:13:28",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 23
+        }
+    },
     "opWGetoXPs": {
         "id": "opWGetoXPs",
         "title": "Отдельная реальность",
@@ -341,18 +353,6 @@
         "author": "Иван Тургенев",
         "notes": "",
         "createdAt": "2020-02-19 13:56:59",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 27
-        }
-    },
-    "OHMDf142OQ": {
-        "id": "OHMDf142OQ",
-        "title": "Две судьбы",
-        "author": "Семён Малков",
-        "notes": "",
-        "createdAt": "2020-02-19 08:59:17",
         "user": {
             "id": "270444099499-odnoklassniki",
             "nickname": null,
