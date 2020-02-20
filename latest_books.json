@@ -1,4 +1,16 @@
 {
+    "SY6zmxxHMA": {
+        "id": "SY6zmxxHMA",
+        "title": "Наваждения",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2020-02-20 16:02:21",
+        "user": {
+            "id": "20087139-yandex",
+            "nickname": "srsw",
+            "booksCount": 5
+        }
+    },
     "ZCeVyKhQ_7": {
         "id": "ZCeVyKhQ_7",
         "title": "Темная сторона",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 155
-        }
-    },
-    "67cY9iEBbK": {
-        "id": "67cY9iEBbK",
-        "title": "Юный Король (сказка)",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2020-02-14 14:30:53",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 154
         }
     }
 }
