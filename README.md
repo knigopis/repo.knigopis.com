@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Джерсийский дьявол ~ [En](users/333/333646551-vkontakte)<sup>88</sup>
+    > Секретные материалы. По 5 серии 1 сезона сериала
+
 * Квази ~ [En](users/333/333646551-vkontakte)<sup>87</sup>
     > Только представьте, каково полицейскому Денису, потерявшему жену и сына во время апокалипсиса, работать плечом к плечу с кваzи Михаилом – высокофункциональным зомби. Но мириться придется даже с таким напарником. Ведь им вместе предстоит разгадать загадку убийства профессора-вирусолога и попутно спасти мир.
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 6/10
 
 * Ведьмак. Владычица озера. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup>
-    > 10/10 Продолжение саги.
 
 * От 2х до 5 ~ [Euphoria](users/106/106304994652616315178-google)<sup>72</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Конец Вечности ~ [Garka](users/115/115753719718250012620-google)<sup>244</sup>
 
-* Выстрел на большой морской ~ [Chiffi](users/105/105831994080785626680-google)<sup>164</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[En](users/333/333646551-vkontakte)<sup>87</sup> 
+[En](users/333/333646551-vkontakte)<sup>88</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>27</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>132</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dima2000star](users/100/100014192622254671058-google)<sup>1</sup> 
 
 
-_20.02.2020 04:50:37_
+_20.02.2020 04:53:29_

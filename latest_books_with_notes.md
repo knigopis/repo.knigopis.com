@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Джерсийский дьявол ~ [En](users/333/333646551-vkontakte)<sup>88</sup>
 * Квази ~ [En](users/333/333646551-vkontakte)<sup>87</sup>
 * Тэсс из рода д'Эрбервиллей ~ [anvonamore](users/595/5957175-vkontakte)<sup>132</sup>
 * Ведьмак. Владычица озера. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup>
@@ -30,7 +31,6 @@
 * Сирены Титана ~ [dghtt](users/233/233860015-vkontakte)<sup>27</sup>
 * Ведьмак. Башня ласточки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>84</sup>
 * Пятьдесят оттенков серого ~ [anvonamore](users/595/5957175-vkontakte)<sup>131</sup>
-* Как заставить закон притяжения работать на вас ~ [](users/153/1537586159620888-facebook)<sup>3</sup>
 
 
-_20.02.2020 04:50:37_
+_20.02.2020 04:53:29_

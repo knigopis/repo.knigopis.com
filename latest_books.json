@@ -1,4 +1,16 @@
 {
+    "jyG6DvsOmf": {
+        "id": "jyG6DvsOmf",
+        "title": "Джерсийский дьявол",
+        "author": "Яна Ашмарина",
+        "notes": "Секретные материалы. По 5 серии 1 сезона сериала",
+        "createdAt": "2020-02-20 04:53:28",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 88
+        }
+    },
     "j-SOp8u81q": {
         "id": "j-SOp8u81q",
         "title": "Квази",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 95
-        }
-    },
-    "hJ9LD1QuuJ": {
-        "id": "hJ9LD1QuuJ",
-        "title": "Темная Материя",
-        "author": "Блейк Крауч",
-        "notes": "Не че хорошего.",
-        "createdAt": "2020-02-13 09:30:16",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 42
         }
     }
 }
