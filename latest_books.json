@@ -1,4 +1,16 @@
 {
+    "3QSQuI2Mtv": {
+        "id": "3QSQuI2Mtv",
+        "title": "Россия в эпоху постправды",
+        "author": "Андрей Мовчан",
+        "notes": "",
+        "createdAt": "2020-02-20 14:02:51",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 45
+        }
+    },
     "3F1cqI4eMp": {
         "id": "3F1cqI4eMp",
         "title": "тест",
@@ -345,18 +357,6 @@
             "id": "270444099499-odnoklassniki",
             "nickname": null,
             "booksCount": 24
-        }
-    },
-    "LQPvwbya7_": {
-        "id": "LQPvwbya7_",
-        "title": "\"Смерть\" на языке цветов",
-        "author": "Людмила Мартова",
-        "notes": "",
-        "createdAt": "2020-02-14 00:51:30",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 27
         }
     }
 }
