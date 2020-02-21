@@ -1,4 +1,10 @@
 {
+    "10123344-vkontakte": {
+        "id": "10123344-vkontakte",
+        "nickname": "l.shilova",
+        "booksCount": 18,
+        "updatedAt": "2020-02-21 08:38:36"
+    },
     "4705914-vkontakte": {
         "id": "4705914-vkontakte",
         "nickname": "Максим Гордеев",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 37,
         "updatedAt": "2020-02-09 19:49:04"
-    },
-    "2243130637083499985-mailru": {
-        "id": "2243130637083499985-mailru",
-        "nickname": "M.R.",
-        "booksCount": 1,
-        "updatedAt": "2020-02-08 23:27:01"
     }
 }

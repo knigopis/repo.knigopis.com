@@ -1,7 +1,12 @@
-# List of books read by [l.shilova](http://vk.com/id10123344)<sup>17</sup>
+# List of books read by [l.shilova](http://vk.com/id10123344)<sup>18</sup>
 ---
 
 ## 2020
+
+### Клуб самоубийц
+Роберт Стивенсон
+> [2020-02] 
+
 
 ### Понедельник начинается в субботу
 Аркадий и Борис Стругацкие
