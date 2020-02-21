@@ -1,4 +1,10 @@
 {
+    "681078792716921-facebook": {
+        "id": "681078792716921-facebook",
+        "nickname": "KostyaLord",
+        "booksCount": 0,
+        "updatedAt": "2020-02-21 21:18:31"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "stamovashahzada",
         "booksCount": 53,
         "updatedAt": "2020-02-10 04:53:06"
-    },
-    "326783541-vkontakte": {
-        "id": "326783541-vkontakte",
-        "nickname": "askaly",
-        "booksCount": 1,
-        "updatedAt": "2020-02-09 20:34:29"
     }
 }
