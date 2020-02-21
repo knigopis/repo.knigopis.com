@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>217</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>18</sup> 
 [Максим Гордеев](users/470/4705914-vkontakte)<sup>1</sup> 
 [evdokimovy](users/893/8933046-vkontakte)<sup>3</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>760</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup> 
 [askaly](users/326/326783541-vkontakte)<sup>1</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>37</sup> 
 
 
-_21.02.2020 08:38:36_
+_21.02.2020 20:17:37_
