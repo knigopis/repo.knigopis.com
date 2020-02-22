@@ -1,4 +1,16 @@
 {
+    "K24Si669sZ": {
+        "id": "K24Si669sZ",
+        "title": "Ева Шлосс",
+        "author": "После Аушвица",
+        "notes": "",
+        "createdAt": "2020-02-22 21:42:41",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "ClY9MouFku": {
         "id": "ClY9MouFku",
         "title": "Причинна",
@@ -345,18 +357,6 @@
             "id": "20087139-yandex",
             "nickname": "srsw",
             "booksCount": 16
-        }
-    },
-    "WTFXG1zmae": {
-        "id": "WTFXG1zmae",
-        "title": "Кофейная книга",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2020-02-20 16:08:42",
-        "user": {
-            "id": "20087139-yandex",
-            "nickname": "srsw",
-            "booksCount": 15
         }
     }
 }
