@@ -35,12 +35,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>30</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>46</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>156</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>118</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>377</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>29</sup> 
 [](users/153/1537586159620888-facebook)<sup>5</sup> 
 [KostyaLord](users/681/681078792716921-facebook)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>217</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 
 
-_23.02.2020 15:36:16_
+_23.02.2020 17:09:00_
