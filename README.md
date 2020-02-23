@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>135</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>377</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>29</sup> 
 [](users/153/1537586159620888-facebook)<sup>5</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лела Папава](users/761/76187635-vkontakte)<sup>307</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 [](users/133/1333089180107181-facebook)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>760</sup> 
 
 
-_23.02.2020 05:23:48_
+_23.02.2020 07:04:12_

@@ -1,4 +1,16 @@
 {
+    "juZGe6tnYj": {
+        "id": "juZGe6tnYj",
+        "title": "Обитель",
+        "author": "Прилепин Захар",
+        "notes": "",
+        "createdAt": "2020-02-23 07:04:12",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 135
+        }
+    },
     "lQqQ39NHmP": {
         "id": "lQqQ39NHmP",
         "title": "Мой продуктивный год.",
@@ -345,18 +357,6 @@
             "id": "20087139-yandex",
             "nickname": "srsw",
             "booksCount": 21
-        }
-    },
-    "vZ-ClPnS6C": {
-        "id": "vZ-ClPnS6C",
-        "title": "Возвращение короля",
-        "author": "Толкин, Джон Рональд Руэл",
-        "notes": "",
-        "createdAt": "2020-02-20 16:11:32",
-        "user": {
-            "id": "20087139-yandex",
-            "nickname": "srsw",
-            "booksCount": 20
         }
     }
 }
