@@ -1,4 +1,16 @@
 {
+    "dUnWf67xHA": {
+        "id": "dUnWf67xHA",
+        "title": "The Intelligent Asset Allocator",
+        "author": "William Bernstein",
+        "notes": "",
+        "createdAt": "2020-02-23 07:07:12",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 118
+        }
+    },
     "juZGe6tnYj": {
         "id": "juZGe6tnYj",
         "title": "Обитель",
@@ -345,18 +357,6 @@
             "id": "20087139-yandex",
             "nickname": "srsw",
             "booksCount": 22
-        }
-    },
-    "nTrA9pk9iW": {
-        "id": "nTrA9pk9iW",
-        "title": "Учение дона Хуана: Путь знания индейцев яки",
-        "author": "Кастанеда, Карлос",
-        "notes": "",
-        "createdAt": "2020-02-20 16:12:19",
-        "user": {
-            "id": "20087139-yandex",
-            "nickname": "srsw",
-            "booksCount": 21
         }
     }
 }

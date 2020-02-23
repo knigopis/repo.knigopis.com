@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>135</sup>
+# Список прочитанных книг пользователя exulted<sup>118</sup>
 ---
 
 ## 2020
+
+### The Intelligent Asset Allocator
+William Bernstein
+> [2020-02-19] 
+
 
 ### Обитель
 Прилепин Захар
