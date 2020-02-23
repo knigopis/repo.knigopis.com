@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lostinfrost](users/217/217891524-vkontakte)<sup>156</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>118</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>377</sup> 
@@ -61,10 +62,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
 [](users/104/104950233638594044334-google)<sup>1</sup> 
 [](users/104/104950233638594044334-googleplus)<sup>0</sup> 
-[lostinfrost](users/217/217891524-vkontakte)<sup>155</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>244</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>307</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 
 
-_23.02.2020 09:47:21_
+_23.02.2020 13:46:16_

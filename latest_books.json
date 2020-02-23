@@ -1,4 +1,16 @@
 {
+    "vr65ti6FpZ": {
+        "id": "vr65ti6FpZ",
+        "title": "Эхо Севера",
+        "author": "Джоанна Рут Мейер",
+        "notes": "",
+        "createdAt": "2020-02-23 13:46:15",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 156
+        }
+    },
     "E51-9cdANb": {
         "id": "E51-9cdANb",
         "title": "Академия темных властелинов",
@@ -345,18 +357,6 @@
             "id": "20087139-yandex",
             "nickname": "srsw",
             "booksCount": 24
-        }
-    },
-    "dHoIpzPx3d": {
-        "id": "dHoIpzPx3d",
-        "title": "Путешествие в Икстлан",
-        "author": "Кастанеда, Карлос",
-        "notes": "",
-        "createdAt": "2020-02-20 16:13:28",
-        "user": {
-            "id": "20087139-yandex",
-            "nickname": "srsw",
-            "booksCount": 23
         }
     }
 }

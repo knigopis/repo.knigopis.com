@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>155</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>156</sup>
 ---
 
 ## 2020
+
+### Эхо Севера
+Джоанна Рут Мейер
+> [2020-02-23] 
+
 
 ### Скорбь Сатаны
 Мария Корелли
