@@ -1,4 +1,16 @@
 {
+    "eFrKKHNAn6": {
+        "id": "eFrKKHNAn6",
+        "title": "Непридуманные космические истории",
+        "author": "Нэнси Аткинсон",
+        "notes": "",
+        "createdAt": "2020-02-23 15:36:16",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 46
+        }
+    },
     "vr65ti6FpZ": {
         "id": "vr65ti6FpZ",
         "title": "Эхо Севера",
@@ -345,18 +357,6 @@
             "id": "20087139-yandex",
             "nickname": "srsw",
             "booksCount": 25
-        }
-    },
-    "bFQhhQOQ7f": {
-        "id": "bFQhhQOQ7f",
-        "title": "Сказки о силе",
-        "author": "Кастанеда, Карлос",
-        "notes": "",
-        "createdAt": "2020-02-20 16:13:50",
-        "user": {
-            "id": "20087139-yandex",
-            "nickname": "srsw",
-            "booksCount": 24
         }
     }
 }
