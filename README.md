@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[HXT](users/100/100002563462782-facebook)<sup>376</sup> 
+[HXT](users/100/100002563462782-facebook)<sup>377</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>29</sup> 
 [](users/153/1537586159620888-facebook)<sup>5</sup> 
 [KostyaLord](users/681/681078792716921-facebook)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>760</sup> 
 
 
-_23.02.2020 05:22:46_
+_23.02.2020 05:23:48_
