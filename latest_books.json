@@ -1,4 +1,16 @@
 {
+    "E51-9cdANb": {
+        "id": "E51-9cdANb",
+        "title": "Академия темных властелинов",
+        "author": "Надежда Мамаева",
+        "notes": "10/10",
+        "createdAt": "2020-02-23 09:47:21",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 54
+        }
+    },
     "dUnWf67xHA": {
         "id": "dUnWf67xHA",
         "title": "The Intelligent Asset Allocator",
@@ -345,18 +357,6 @@
             "id": "20087139-yandex",
             "nickname": "srsw",
             "booksCount": 23
-        }
-    },
-    "opWGetoXPs": {
-        "id": "opWGetoXPs",
-        "title": "Отдельная реальность",
-        "author": "Кастанеда, Карлос",
-        "notes": "",
-        "createdAt": "2020-02-20 16:12:49",
-        "user": {
-            "id": "20087139-yandex",
-            "nickname": "srsw",
-            "booksCount": 22
         }
     }
 }

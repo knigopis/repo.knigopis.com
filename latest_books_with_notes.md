@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Академия темных властелинов ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup>
 * Джерсийский дьявол ~ [En](users/333/333646551-vkontakte)<sup>88</sup>
 * Квази ~ [En](users/333/333646551-vkontakte)<sup>87</sup>
 * Тэсс из рода д'Эрбервиллей ~ [anvonamore](users/595/5957175-vkontakte)<sup>132</sup>
@@ -30,7 +31,6 @@
 * Норвежский лес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>223</sup>
 * Сирены Титана ~ [dghtt](users/233/233860015-vkontakte)<sup>27</sup>
 * Ведьмак. Башня ласточки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>84</sup>
-* Пятьдесят оттенков серого ~ [anvonamore](users/595/5957175-vkontakte)<sup>131</sup>
 
 
-_20.02.2020 04:53:29_
+_23.02.2020 09:47:21_

@@ -1,7 +1,12 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>53</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>54</sup>
 ---
 
 ## 2020
+
+### Академия темных властелинов
+Надежда Мамаева
+> [2020-02-22] 10/10
+
 
 ### И дольше века длится день
 Чынгыз Айтматов

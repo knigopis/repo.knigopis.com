@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия темных властелинов ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup>
+    > 10/10
+
 * Джерсийский дьявол ~ [En](users/333/333646551-vkontakte)<sup>88</sup>
     > Секретные материалы. По 5 серии 1 сезона сериала
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Тема зомби, казалось бы, уже исчерпавшая себя, совершенно по-новому открывается в книге Сергея Лукьяненко «Кваzи». А что если зомби – это не плотоядные ходячие мертвецы, а новая ветвь эволюции? Кваzи – восставшие из мертвых – умны, безэмоциональны, не едят мясо и ездят на велосипедах. Что если именно это – наше будущее? То, к чему мы стремимся…
 
 * Тэсс из рода д'Эрбервиллей ~ [anvonamore](users/595/5957175-vkontakte)<sup>132</sup>
-    > 6/10
 
 * Ведьмак. Владычица озера. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Темная Материя ~ [mfevralev](users/140/140966150-vkontakte)<sup>42</sup>
 
-* Конец Вечности ~ [Garka](users/115/115753719718250012620-google)<sup>244</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>118</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>377</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>29</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>244</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>307</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
-[](users/133/1333089180107181-facebook)<sup>0</sup> 
 
 
-_23.02.2020 07:07:12_
+_23.02.2020 09:47:21_
