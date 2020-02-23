@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>376</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>29</sup> 
 [](users/153/1537586159620888-facebook)<sup>5</sup> 
 [KostyaLord](users/681/681078792716921-facebook)<sup>0</sup> 
@@ -61,10 +62,9 @@ _More notes [here](latest_books_with_notes.md)._
 [lostinfrost](users/217/217891524-vkontakte)<sup>155</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>244</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>307</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>375</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 [](users/133/1333089180107181-facebook)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>760</sup> 
 
 
-_23.02.2020 04:29:27_
+_23.02.2020 05:22:46_

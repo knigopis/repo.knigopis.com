@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 376,
+        "updatedAt": "2020-02-23 05:22:45"
+    },
     "270444099499-odnoklassniki": {
         "id": "270444099499-odnoklassniki",
         "nickname": null,
@@ -154,12 +160,6 @@
         "nickname": "Лела Папава",
         "booksCount": 307,
         "updatedAt": "2020-02-12 18:07:55"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 375,
-        "updatedAt": "2020-02-12 15:59:37"
     },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
