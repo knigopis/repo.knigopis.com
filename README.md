@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/270/270444099499-odnoklassniki)<sup>29</sup> 
 [](users/153/1537586159620888-facebook)<sup>5</sup> 
 [KostyaLord](users/681/681078792716921-facebook)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>217</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Максим Гордеев](users/470/4705914-vkontakte)<sup>1</sup> 
 [evdokimovy](users/893/8933046-vkontakte)<sup>3</sup> 
 [srsw](users/200/20087139-yandex)<sup>38</sup> 
-[](users/270/270444099499-odnoklassniki)<sup>28</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>45</sup> 
 [](users/842/8423922445190342448-mailru)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>214</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>760</sup> 
 
 
-_22.02.2020 21:43:19_
+_23.02.2020 04:29:27_
