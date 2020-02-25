@@ -1,4 +1,16 @@
 {
+    "aY0eEZkdhv": {
+        "id": "aY0eEZkdhv",
+        "title": "Пищеблок",
+        "author": "А. Иванов",
+        "notes": "",
+        "createdAt": "2020-02-25 19:09:11",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 47
+        }
+    },
     "y94NQFi8dQ": {
         "id": "y94NQFi8dQ",
         "title": "Ночные всадники",
@@ -345,18 +357,6 @@
             "id": "20087139-yandex",
             "nickname": "srsw",
             "booksCount": 28
-        }
-    },
-    "i_4vOaEeS7": {
-        "id": "i_4vOaEeS7",
-        "title": "Огонь изнутри",
-        "author": "Кастанеда, Карлос",
-        "notes": "",
-        "createdAt": "2020-02-20 16:15:09",
-        "user": {
-            "id": "20087139-yandex",
-            "nickname": "srsw",
-            "booksCount": 27
         }
     }
 }
