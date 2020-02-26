@@ -1,4 +1,10 @@
 {
+    "139727305-vkontakte": {
+        "id": "139727305-vkontakte",
+        "nickname": "shishkin_vitaly",
+        "booksCount": 0,
+        "updatedAt": "2020-02-26 20:38:50"
+    },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",
         "nickname": "vladkozz",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-02-14 22:02:17"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 244,
-        "updatedAt": "2020-02-12 18:54:56"
     }
 }
