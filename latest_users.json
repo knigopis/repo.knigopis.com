@@ -1,4 +1,10 @@
 {
+    "57239276-vkontakte": {
+        "id": "57239276-vkontakte",
+        "nickname": "vladkozz",
+        "booksCount": 63,
+        "updatedAt": "2020-02-26 19:07:28"
+    },
     "217891524-vkontakte": {
         "id": "217891524-vkontakte",
         "nickname": "lostinfrost",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 244,
         "updatedAt": "2020-02-12 18:54:56"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Лела Папава",
-        "booksCount": 307,
-        "updatedAt": "2020-02-12 18:07:55"
     }
 }
