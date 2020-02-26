@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[shishkin_vitaly](users/139/139727305-vkontakte)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>63</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>157</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>52</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
 [](users/104/104950233638594044334-google)<sup>1</sup> 
 [](users/104/104950233638594044334-googleplus)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>244</sup> 
 
 
-_26.02.2020 19:07:28_
+_26.02.2020 20:38:54_
