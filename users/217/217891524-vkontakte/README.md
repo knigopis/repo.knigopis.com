@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>156</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>157</sup>
 ---
 
 ## 2020
+
+### На восток от Солнца, на запад от Луны (сказка)
+Петер Кристен Асбьёрнсен
+> [2020-02-24] 
+
 
 ### Эхо Севера
 Джоанна Рут Мейер

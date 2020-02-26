@@ -1,4 +1,10 @@
 {
+    "217891524-vkontakte": {
+        "id": "217891524-vkontakte",
+        "nickname": "lostinfrost",
+        "booksCount": 157,
+        "updatedAt": "2020-02-26 16:09:38"
+    },
     "334696193054530347-mailru": {
         "id": "334696193054530347-mailru",
         "nickname": "Даша",
@@ -22,12 +28,6 @@
         "nickname": null,
         "booksCount": 30,
         "updatedAt": "2020-02-23 17:09:00"
-    },
-    "217891524-vkontakte": {
-        "id": "217891524-vkontakte",
-        "nickname": "lostinfrost",
-        "booksCount": 156,
-        "updatedAt": "2020-02-23 13:46:15"
     },
     "310646815-vkontakte": {
         "id": "310646815-vkontakte",

@@ -1,4 +1,16 @@
 {
+    "nmzrbo7UBF": {
+        "id": "nmzrbo7UBF",
+        "title": "На восток от Солнца, на запад от Луны (сказка)",
+        "author": "Петер Кристен Асбьёрнсен",
+        "notes": "",
+        "createdAt": "2020-02-26 16:09:38",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 157
+        }
+    },
     "soh-2y3nJM": {
         "id": "soh-2y3nJM",
         "title": "Что скрывает кожа",
@@ -345,18 +357,6 @@
             "id": "20087139-yandex",
             "nickname": "srsw",
             "booksCount": 30
-        }
-    },
-    "S7gseOPBAU": {
-        "id": "S7gseOPBAU",
-        "title": "Искусство сновидения",
-        "author": "Кастанеда, Карлос",
-        "notes": "",
-        "createdAt": "2020-02-20 16:15:59",
-        "user": {
-            "id": "20087139-yandex",
-            "nickname": "srsw",
-            "booksCount": 29
         }
     }
 }

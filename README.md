@@ -35,11 +35,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lostinfrost](users/217/217891524-vkontakte)<sup>157</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>52</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>47</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>167</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>30</sup> 
-[lostinfrost](users/217/217891524-vkontakte)<sup>156</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>118</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>377</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Лела Папава](users/761/76187635-vkontakte)<sup>307</sup> 
 
 
-_26.02.2020 06:53:14_
+_26.02.2020 16:09:38_
