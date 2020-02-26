@@ -1,4 +1,16 @@
 {
+    "soh-2y3nJM": {
+        "id": "soh-2y3nJM",
+        "title": "Что скрывает кожа",
+        "author": "Йаэль Адлер",
+        "notes": "",
+        "createdAt": "2020-02-26 06:53:13",
+        "user": {
+            "id": "334696193054530347-mailru",
+            "nickname": "Даша",
+            "booksCount": 52
+        }
+    },
     "aY0eEZkdhv": {
         "id": "aY0eEZkdhv",
         "title": "Пищеблок",
@@ -345,18 +357,6 @@
             "id": "20087139-yandex",
             "nickname": "srsw",
             "booksCount": 29
-        }
-    },
-    "ow5xcW0DxE": {
-        "id": "ow5xcW0DxE",
-        "title": "Сила безмолвия",
-        "author": "Кастанеда, Карлос",
-        "notes": "",
-        "createdAt": "2020-02-20 16:15:30",
-        "user": {
-            "id": "20087139-yandex",
-            "nickname": "srsw",
-            "booksCount": 28
         }
     }
 }

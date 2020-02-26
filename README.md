@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Даша](users/334/334696193054530347-mailru)<sup>52</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>47</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>167</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>30</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104950233638594044334-googleplus)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>244</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>307</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>18</sup> 
 
 
-_25.02.2020 19:09:11_
+_26.02.2020 06:53:14_
