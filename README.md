@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Касьянов год ~ [Chiffi](users/105/105831994080785626680-google)<sup>168</sup>
+    > интересно, но скучно... слишком много описаний и чересчур неторопливо.
+
 * Академия темных властелинов ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup>
     > 10/10
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Секретные материалы. По 5 серии 1 сезона сериала
 
 * Квази ~ [En](users/333/333646551-vkontakte)<sup>87</sup>
-    > Только представьте, каково полицейскому Денису, потерявшему жену и сына во время апокалипсиса, работать плечом к плечу с кваzи Михаилом – высокофункциональным зомби. Но мириться придется даже с таким напарником. Ведь им вместе предстоит разгадать загадку убийства профессора-вирусолога и попутно спасти мир.
-    > 
-    > Тема зомби, казалось бы, уже исчерпавшая себя, совершенно по-новому открывается в книге Сергея Лукьяненко «Кваzи». А что если зомби – это не плотоядные ходячие мертвецы, а новая ветвь эволюции? Кваzи – восставшие из мертвых – умны, безэмоциональны, не едят мясо и ездят на велосипедах. Что если именно это – наше будущее? То, к чему мы стремимся…
 
 * Тэсс из рода д'Эрбервиллей ~ [anvonamore](users/595/5957175-vkontakte)<sup>132</sup>
 
@@ -28,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Дознание в Риге ~ [Chiffi](users/105/105831994080785626680-google)<sup>165</sup>
 
-* Темная Материя ~ [mfevralev](users/140/140966150-vkontakte)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>168</sup> 
 [shishkin_vitaly](users/139/139727305-vkontakte)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>63</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>157</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>52</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>47</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>167</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>30</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>118</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104950233638594044334-googleplus)<sup>0</sup> 
 
 
-_26.02.2020 20:38:54_
+_27.02.2020 06:06:54_

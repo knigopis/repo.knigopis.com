@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Касьянов год ~ [Chiffi](users/105/105831994080785626680-google)<sup>168</sup>
 * Академия темных властелинов ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup>
 * Джерсийский дьявол ~ [En](users/333/333646551-vkontakte)<sup>88</sup>
 * Квази ~ [En](users/333/333646551-vkontakte)<sup>87</sup>
@@ -30,7 +31,6 @@
 * Настольная книга для монашествующих и мирян ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>223</sup>
 * Норвежский лес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>223</sup>
 * Сирены Титана ~ [dghtt](users/233/233860015-vkontakte)<sup>27</sup>
-* Ведьмак. Башня ласточки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>84</sup>
 
 
-_23.02.2020 09:47:21_
+_27.02.2020 06:06:54_
