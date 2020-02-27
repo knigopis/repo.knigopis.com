@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>215</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>168</sup> 
 [shishkin_vitaly](users/139/139727305-vkontakte)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>63</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [evdokimovy](users/893/8933046-vkontakte)<sup>3</sup> 
 [srsw](users/200/20087139-yandex)<sup>38</sup> 
 [](users/842/8423922445190342448-mailru)<sup>1</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>214</sup> 
 [En](users/333/333646551-vkontakte)<sup>88</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>132</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104950233638594044334-googleplus)<sup>0</sup> 
 
 
-_27.02.2020 06:06:54_
+_27.02.2020 09:30:29_
