@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>57</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>58</sup>
 ---
 
 ## 2020
+
+### Девушка, которая играла с огнем
+Стиг Ларссон
+> [2020-02-27] 
+
 
 ### Выбор
 Эдит Ева Эгер
