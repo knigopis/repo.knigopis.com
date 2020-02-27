@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>162</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>163</sup>
 ---
 
 ## 2020
+
+### Тридцатая любовь Марины
+Владимир Сорокин
+> [2020-02-27] 
+
 
 ### Девочка, с которой детям не разрешали водиться
 Ирмгард Койн

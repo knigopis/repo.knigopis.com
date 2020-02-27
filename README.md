@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>163</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>215</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>168</sup> 
 [shishkin_vitaly](users/139/139727305-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>57</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
 [](users/104/104950233638594044334-google)<sup>1</sup> 
-[](users/104/104950233638594044334-googleplus)<sup>0</sup> 
 
 
-_27.02.2020 09:30:29_
+_27.02.2020 17:40:25_
