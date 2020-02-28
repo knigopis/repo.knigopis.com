@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 89,
+        "updatedAt": "2020-02-28 10:53:20"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -124,12 +130,6 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2020-02-20 09:22:03"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 88,
-        "updatedAt": "2020-02-20 04:53:28"
     },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
