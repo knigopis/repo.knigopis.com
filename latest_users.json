@@ -1,4 +1,10 @@
 {
+    "334696193054530347-mailru": {
+        "id": "334696193054530347-mailru",
+        "nickname": "Даша",
+        "booksCount": 53,
+        "updatedAt": "2020-02-28 04:46:32"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -40,12 +46,6 @@
         "nickname": "lostinfrost",
         "booksCount": 157,
         "updatedAt": "2020-02-26 16:09:38"
-    },
-    "334696193054530347-mailru": {
-        "id": "334696193054530347-mailru",
-        "nickname": "Даша",
-        "booksCount": 52,
-        "updatedAt": "2020-02-26 06:53:13"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
