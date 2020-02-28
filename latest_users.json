@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 169,
+        "updatedAt": "2020-02-28 05:53:16"
+    },
     "334696193054530347-mailru": {
         "id": "334696193054530347-mailru",
         "nickname": "Даша",
@@ -22,12 +28,6 @@
         "nickname": "borodach",
         "booksCount": 215,
         "updatedAt": "2020-02-27 09:30:29"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 168,
-        "updatedAt": "2020-02-27 06:06:54"
     },
     "139727305-vkontakte": {
         "id": "139727305-vkontakte",
