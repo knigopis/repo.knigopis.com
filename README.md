@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>761</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>88</sup> 
 [En](users/333/333646551-vkontakte)<sup>89</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>169</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>43</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>96</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
-[](users/104/104950233638594044334-google)<sup>1</sup> 
 
 
-_29.02.2020 15:56:54_
+_29.02.2020 16:47:14_

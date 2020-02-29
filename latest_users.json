@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 761,
+        "updatedAt": "2020-02-29 16:47:13"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "Антенка",
         "booksCount": 40,
         "updatedAt": "2020-02-16 16:21:13"
-    },
-    "104950233638594044334-google": {
-        "id": "104950233638594044334-google",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2020-02-14 22:03:21"
     }
 }
