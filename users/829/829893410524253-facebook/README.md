@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>86</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>87</sup>
 ---
 
 ## 2020
+
+### Ярмарок нічних жахіть
+Стівен Кінг
+> [2020-02-27] 8/10 збірка оповідань.
+
 
 ### Ведьмак. Владычица озера.
 Анджей Сапковский
