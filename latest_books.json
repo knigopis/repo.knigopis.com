@@ -1,4 +1,16 @@
 {
+    "V8G76FyDfS": {
+        "id": "V8G76FyDfS",
+        "title": "Бесы с Владимирской горки",
+        "author": "Лада Лузина",
+        "notes": "10/10 Святая Варвара, упыри, эпидемия холеры в Киеве.",
+        "createdAt": "2020-02-29 15:56:54",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 88
+        }
+    },
     "6z4qb_xF9M": {
         "id": "6z4qb_xF9M",
         "title": "Ярмарок нічних жахіть",
@@ -345,18 +357,6 @@
             "id": "8933046-vkontakte",
             "nickname": "evdokimovy",
             "booksCount": 2
-        }
-    },
-    "zOnWB-Edrw": {
-        "id": "zOnWB-Edrw",
-        "title": "Чёрный принц",
-        "author": "Айрис Мёрдок",
-        "notes": "",
-        "createdAt": "2020-02-20 18:59:53",
-        "user": {
-            "id": "8933046-vkontakte",
-            "nickname": "evdokimovy",
-            "booksCount": 1
         }
     }
 }

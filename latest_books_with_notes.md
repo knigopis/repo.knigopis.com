@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бесы с Владимирской горки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>88</sup>
 * Ярмарок нічних жахіть ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>87</sup>
 * Марсианин ~ [En](users/333/333646551-vkontakte)<sup>89</sup>
 * Вы признаны опасным ~ [Chiffi](users/105/105831994080785626680-google)<sup>169</sup>
@@ -30,7 +31,6 @@
 * Дело Варнавинского маньяка (3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>163</sup>
 * Волонтёры вечности ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup>
 * Хроники сыска (рассказы) ~ [Chiffi](users/105/105831994080785626680-google)<sup>162</sup>
-* Ораниенбаумский плацдарм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>224</sup>
 
 
-_29.02.2020 15:55:56_
+_29.02.2020 15:56:54_

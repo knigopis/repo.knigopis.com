@@ -1,4 +1,16 @@
 {
+    "V8G76FyDfS": {
+        "id": "V8G76FyDfS",
+        "title": "Бесы с Владимирской горки",
+        "author": "Лада Лузина",
+        "notes": "10/10 Святая Варвара, упыри, эпидемия холеры в Киеве.",
+        "createdAt": "2020-02-29 15:56:54",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 88
+        }
+    },
     "6z4qb_xF9M": {
         "id": "6z4qb_xF9M",
         "title": "Ярмарок нічних жахіть",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 162
-        }
-    },
-    "NXutM1GBzM": {
-        "id": "NXutM1GBzM",
-        "title": "Ораниенбаумский плацдарм",
-        "author": "",
-        "notes": "в процессе",
-        "createdAt": "2020-02-03 16:38:29",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 224
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>87</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>88</sup>
 ---
 
 ## 2020
+
+### Бесы с Владимирской горки
+Лада Лузина
+> [2020-02-29] 10/10 Святая Варвара, упыри, эпидемия холеры в Киеве.
+
 
 ### Ярмарок нічних жахіть
 Стівен Кінг
