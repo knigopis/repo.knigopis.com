@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/105/105380613688026864443-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>378</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>761</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>88</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>72</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>43</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>96</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
 
 
-_01.03.2020 05:05:25_
+_01.03.2020 07:48:46_
