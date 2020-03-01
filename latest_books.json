@@ -1,4 +1,16 @@
 {
+    "-pC2CB0T1p": {
+        "id": "-pC2CB0T1p",
+        "title": "Самолёт без нее",
+        "author": "Мишель Бюсси",
+        "notes": "",
+        "createdAt": "2020-03-01 10:15:23",
+        "user": {
+            "id": "105380613688026864443-google",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "sLsHCA4hGi": {
         "id": "sLsHCA4hGi",
         "title": "Сам себе финансист",
@@ -345,18 +357,6 @@
             "id": "10123344-vkontakte",
             "nickname": "l.shilova",
             "booksCount": 18
-        }
-    },
-    "Oer5lYQZD6": {
-        "id": "Oer5lYQZD6",
-        "title": "Кэрри",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-02-20 19:38:37",
-        "user": {
-            "id": "4705914-vkontakte",
-            "nickname": "Максим Гордеев",
-            "booksCount": 1
         }
     }
 }
