@@ -1,4 +1,10 @@
 {
+    "105380613688026864443-google": {
+        "id": "105380613688026864443-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-03-01 07:48:41"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ",
         "booksCount": 96,
         "updatedAt": "2020-02-17 13:04:56"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 40,
-        "updatedAt": "2020-02-16 16:21:13"
     }
 }
