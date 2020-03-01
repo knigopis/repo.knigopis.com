@@ -1,4 +1,16 @@
 {
+    "sLsHCA4hGi": {
+        "id": "sLsHCA4hGi",
+        "title": "Сам себе финансист",
+        "author": "Анастасия Тарасова",
+        "notes": "",
+        "createdAt": "2020-03-01 05:05:24",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 378
+        }
+    },
     "yD-bfGrHvQ": {
         "id": "yD-bfGrHvQ",
         "title": "Крестоносцы",
@@ -345,18 +357,6 @@
             "id": "4705914-vkontakte",
             "nickname": "Максим Гордеев",
             "booksCount": 1
-        }
-    },
-    "yiaikn3luV": {
-        "id": "yiaikn3luV",
-        "title": "Женщина в песках",
-        "author": "Кобо Абэ",
-        "notes": "",
-        "createdAt": "2020-02-20 19:01:55",
-        "user": {
-            "id": "8933046-vkontakte",
-            "nickname": "evdokimovy",
-            "booksCount": 3
         }
     }
 }
