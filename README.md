@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Самая хитрая рыба ~ [Chiffi](users/105/105831994080785626680-google)<sup>170</sup>
+    > детектив из цикла про Ильюшина и Бабкина
+
 * Бесы с Владимирской горки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>88</sup>
     > 10/10 Святая Варвара, упыри, эпидемия холеры в Киеве.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 збірка оповідань.
 
 * Марсианин ~ [En](users/333/333646551-vkontakte)<sup>89</sup>
-    > Тебе плохо, ты болеешь или страдаешь? Тогда ты можешь посетить врача и получить квалифицированную помощь. А чтобы ты сделал, если бы оказался брошенным на Марсе, к тому же прошитым стойкой антенны и пришпиленным, как букашка, к пескам красной планеты? Смог бы ты выжить до прибытия следующей марсианской экспедиции? Чтобы ты ел, пил, как бы дышал, где бы жил? Не знаешь? И он не знал. Но не сдавался!!! Только одна хорошая новость-скафандр не потерял герметичность. И это дает ему шанс…
 
 * Вы признаны опасным ~ [Chiffi](users/105/105831994080785626680-google)<sup>169</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Тэсс из рода д'Эрбервиллей ~ [anvonamore](users/595/5957175-vkontakte)<sup>132</sup>
 
-* Ведьмак. Владычица озера. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>170</sup> 
 [](users/105/105380613688026864443-google)<sup>2</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>378</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>761</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>88</sup> 
 [En](users/333/333646551-vkontakte)<sup>89</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>169</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>53</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>58</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>163</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>96</sup> 
 
 
-_02.03.2020 04:35:23_
+_02.03.2020 05:35:43_

@@ -1,4 +1,16 @@
 {
+    "yG1jmUQhVK": {
+        "id": "yG1jmUQhVK",
+        "title": "Самая хитрая рыба",
+        "author": "Михалкова Елена",
+        "notes": "детектив из цикла про Ильюшина и Бабкина",
+        "createdAt": "2020-03-02 05:35:42",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 170
+        }
+    },
     "V8G76FyDfS": {
         "id": "V8G76FyDfS",
         "title": "Бесы с Владимирской горки",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 29
-        }
-    },
-    "H--8BdChJg": {
-        "id": "H--8BdChJg",
-        "title": "Хроники сыска (рассказы)",
-        "author": "Свечин Николай",
-        "notes": "исторические детективы. события конца 19 века в Нижнем Новгороде. Продолжение цикла",
-        "createdAt": "2020-02-04 06:08:49",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 162
         }
     }
 }
