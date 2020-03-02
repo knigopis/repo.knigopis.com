@@ -1,7 +1,12 @@
-# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>226</sup>
+# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>227</sup>
 ---
 
 ## 2020
+
+### Третья империя
+Михаил Юрьев
+> [2020-03-02] в процессе
+
 
 ### SCRUM: революционный метод управления проектами
 Джефф Сазерленд

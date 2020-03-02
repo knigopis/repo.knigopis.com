@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 227,
+        "updatedAt": "2020-03-02 19:02:08"
+    },
     "109673258488840317845-google": {
         "id": "109673258488840317845-google",
         "nickname": "Тина",
@@ -172,11 +178,5 @@
         "nickname": "batonio0337",
         "booksCount": 0,
         "updatedAt": "2020-02-18 12:45:01"
-    },
-    "106304994652616315178-google": {
-        "id": "106304994652616315178-google",
-        "nickname": "Euphoria",
-        "booksCount": 72,
-        "updatedAt": "2020-02-18 09:46:24"
     }
 }

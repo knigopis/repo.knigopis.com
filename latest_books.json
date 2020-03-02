@@ -1,4 +1,16 @@
 {
+    "C_xdrY8YjG": {
+        "id": "C_xdrY8YjG",
+        "title": "Третья империя",
+        "author": "Михаил Юрьев",
+        "notes": "в процессе",
+        "createdAt": "2020-03-02 19:02:08",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 227
+        }
+    },
     "c92vud5zXW": {
         "id": "c92vud5zXW",
         "title": "Русская книга",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 376
-        }
-    },
-    "z7zHWb3yXq": {
-        "id": "z7zHWb3yXq",
-        "title": "Ателье царских прикидов",
-        "author": "Дарья Калинина",
-        "notes": "",
-        "createdAt": "2020-02-23 04:29:27",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 29
         }
     }
 }

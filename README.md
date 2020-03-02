@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Третья империя ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>227</sup>
+    > в процессе
+
 * Русская книга ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup>
     > 8/10 история Древней Руси и примазавшейся к ней Орды.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Ведьмак теряет мечи.
 
 * Самая хитрая рыба ~ [Chiffi](users/105/105831994080785626680-google)<sup>170</sup>
-    > детектив из цикла про Ильюшина и Бабкина
 
 * Бесы с Владимирской горки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>88</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Академия темных властелинов ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup>
 
-* Джерсийский дьявол ~ [En](users/333/333646551-vkontakte)<sup>88</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>227</sup> 
 [Тина](users/109/109673258488840317845-google)<sup>0</sup> 
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/842/8423922445190342448-mailru)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>132</sup> 
 [batonio0337](users/112/112082930542376179829-google)<sup>0</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>72</sup> 
 
 
-_02.03.2020 16:13:31_
+_02.03.2020 19:02:08_
