@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>89</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>90</sup>
 ---
 
 ## 2020
+
+### Русская книга
+Илья Стогов
+> [2020-03-02] 8/10 история Древней Руси и примазавшейся к ней Орды.
+
 
 ### Ведьмак. Сезон гроз
 Анджей Сапковский

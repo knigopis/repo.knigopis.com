@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Русская книга ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup>
+    > 8/10 история Древней Руси и примазавшейся к ней Орды.
+
 * Ведьмак. Сезон гроз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>89</sup>
     > 9/10 Ведьмак теряет мечи.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > детектив из цикла про Ильюшина и Бабкина
 
 * Бесы с Владимирской горки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>88</sup>
-    > 10/10 Святая Варвара, упыри, эпидемия холеры в Киеве.
 
 * Ярмарок нічних жахіть ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>87</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Джерсийский дьявол ~ [En](users/333/333646551-vkontakte)<sup>88</sup>
 
-* Квази ~ [En](users/333/333646551-vkontakte)<sup>87</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>89</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>170</sup> 
 [](users/105/105380613688026864443-google)<sup>2</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>378</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>96</sup> 
 
 
-_02.03.2020 12:46:00_
+_02.03.2020 12:47:02_

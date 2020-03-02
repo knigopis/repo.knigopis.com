@@ -1,4 +1,16 @@
 {
+    "c92vud5zXW": {
+        "id": "c92vud5zXW",
+        "title": "Русская книга",
+        "author": "Илья Стогов",
+        "notes": "8/10 история Древней Руси и примазавшейся к ней Орды.",
+        "createdAt": "2020-03-02 12:47:02",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 90
+        }
+    },
     "AsKnqv9qpN": {
         "id": "AsKnqv9qpN",
         "title": "Ведьмак. Сезон гроз",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 225
-        }
-    },
-    "5haC1MsrWA": {
-        "id": "5haC1MsrWA",
-        "title": "Дело Варнавинского маньяка (3)",
-        "author": "Свечин Николай",
-        "notes": "Дали ему грош,  а он ему негож... Вам Бог дал, а нам посулил..",
-        "createdAt": "2020-02-05 06:13:04",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 163
         }
     }
 }
