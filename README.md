@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Тина](users/109/109673258488840317845-google)<sup>0</sup> 
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>170</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>132</sup> 
 [batonio0337](users/112/112082930542376179829-google)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>72</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>43</sup> 
 
 
-_02.03.2020 13:19:31_
+_02.03.2020 16:13:31_
