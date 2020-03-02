@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ведьмак. Сезон гроз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>89</sup>
 * Самая хитрая рыба ~ [Chiffi](users/105/105831994080785626680-google)<sup>170</sup>
 * Бесы с Владимирской горки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>88</sup>
 * Ярмарок нічних жахіть ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>87</sup>
@@ -30,7 +31,6 @@
 * Выживают только параноики ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>226</sup>
 * SCRUM: революционный метод управления проектами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>225</sup>
 * Дело Варнавинского маньяка (3) ~ [Chiffi](users/105/105831994080785626680-google)<sup>163</sup>
-* Волонтёры вечности ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>29</sup>
 
 
-_02.03.2020 05:35:43_
+_02.03.2020 12:46:00_

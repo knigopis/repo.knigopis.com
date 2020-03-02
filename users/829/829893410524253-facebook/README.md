@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>88</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>89</sup>
 ---
 
 ## 2020
+
+### Ведьмак. Сезон гроз
+Анджей Сапковский
+> [2020-02-29] 9/10 Ведьмак теряет мечи.
+
 
 ### Бесы с Владимирской горки
 Лада Лузина
