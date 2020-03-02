@@ -1,4 +1,10 @@
 {
+    "109673258488840317845-google": {
+        "id": "109673258488840317845-google",
+        "nickname": "Тина",
+        "booksCount": 0,
+        "updatedAt": "2020-03-02 16:13:28"
+    },
     "486520791539517-facebook": {
         "id": "486520791539517-facebook",
         "nickname": "Vasilii",
@@ -172,11 +178,5 @@
         "nickname": "Euphoria",
         "booksCount": 72,
         "updatedAt": "2020-02-18 09:46:24"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 43,
-        "updatedAt": "2020-02-17 14:44:14"
     }
 }
