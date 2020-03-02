@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Говори на языке диаграмм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>228</sup>
+    > в процессе
+
 * Третья империя ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>227</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 история Древней Руси и примазавшейся к ней Орды.
 
 * Ведьмак. Сезон гроз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>89</sup>
-    > 9/10 Ведьмак теряет мечи.
 
 * Самая хитрая рыба ~ [Chiffi](users/105/105831994080785626680-google)<sup>170</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Касьянов год ~ [Chiffi](users/105/105831994080785626680-google)<sup>168</sup>
 
-* Академия темных властелинов ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>227</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>228</sup> 
 [Тина](users/109/109673258488840317845-google)<sup>0</sup> 
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [batonio0337](users/112/112082930542376179829-google)<sup>0</sup> 
 
 
-_02.03.2020 19:02:08_
+_02.03.2020 19:02:54_

@@ -1,4 +1,16 @@
 {
+    "Lxp7agjfrH": {
+        "id": "Lxp7agjfrH",
+        "title": "Говори на языке диаграмм",
+        "author": "Джин Желязны",
+        "notes": "в процессе",
+        "createdAt": "2020-03-02 19:02:54",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 228
+        }
+    },
     "C_xdrY8YjG": {
         "id": "C_xdrY8YjG",
         "title": "Третья империя",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 377
-        }
-    },
-    "hRuhJO-Dxr": {
-        "id": "hRuhJO-Dxr",
-        "title": "Я бегу марафон",
-        "author": "Геннадий швец",
-        "notes": "",
-        "createdAt": "2020-02-23 05:22:45",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 376
         }
     }
 }
