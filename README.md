@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Лисс](users/117/117706099706101024986-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>762</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>228</sup> 
 [Тина](users/109/109673258488840317845-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [srsw](users/200/20087139-yandex)<sup>38</sup> 
 [](users/842/8423922445190342448-mailru)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>132</sup> 
-[batonio0337](users/112/112082930542376179829-google)<sup>0</sup> 
 
 
-_03.03.2020 09:44:00_
+_03.03.2020 17:46:48_
