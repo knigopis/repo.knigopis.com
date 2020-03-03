@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гарри Поттер и Философский камень ~ [anvonamore](users/595/5957175-vkontakte)<sup>133</sup>
+    > 7/10
+
 * Говори на языке диаграмм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>228</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Русская книга ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup>
-    > 8/10 история Древней Руси и примазавшейся к ней Орды.
 
 * Ведьмак. Сезон гроз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>89</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Вы признаны опасным ~ [Chiffi](users/105/105831994080785626680-google)<sup>169</sup>
 
-* Касьянов год ~ [Chiffi](users/105/105831994080785626680-google)<sup>168</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>133</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>59</sup> 
 [Лисс](users/117/117706099706101024986-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>762</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [evdokimovy](users/893/8933046-vkontakte)<sup>3</sup> 
 [srsw](users/200/20087139-yandex)<sup>38</sup> 
 [](users/842/8423922445190342448-mailru)<sup>1</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>132</sup> 
 
 
-_03.03.2020 18:47:40_
+_03.03.2020 22:51:33_
