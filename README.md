@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>762</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>228</sup> 
 [Тина](users/109/109673258488840317845-google)<sup>0</sup> 
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>170</sup> 
 [](users/105/105380613688026864443-google)<sup>2</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>378</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>761</sup> 
 [En](users/333/333646551-vkontakte)<sup>89</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>53</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>58</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [batonio0337](users/112/112082930542376179829-google)<sup>0</sup> 
 
 
-_02.03.2020 19:02:54_
+_03.03.2020 09:44:00_

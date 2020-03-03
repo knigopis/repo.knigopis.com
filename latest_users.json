@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 762,
+        "updatedAt": "2020-03-03 09:43:59"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -40,12 +46,6 @@
         "nickname": "HXT",
         "booksCount": 378,
         "updatedAt": "2020-03-01 05:05:24"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 761,
-        "updatedAt": "2020-02-29 16:47:13"
     },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
