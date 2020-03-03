@@ -1,4 +1,10 @@
 {
+    "117706099706101024986-google": {
+        "id": "117706099706101024986-google",
+        "nickname": "Лисс",
+        "booksCount": 0,
+        "updatedAt": "2020-03-03 17:46:46"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 132,
         "updatedAt": "2020-02-18 22:44:40"
-    },
-    "112082930542376179829-google": {
-        "id": "112082930542376179829-google",
-        "nickname": "batonio0337",
-        "booksCount": 0,
-        "updatedAt": "2020-02-18 12:45:01"
     }
 }
