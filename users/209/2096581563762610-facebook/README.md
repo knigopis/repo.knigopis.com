@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>58</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>59</sup>
 ---
 
 ## 2020
+
+### Двойная радуга
+Сборник рассказов
+> [2020-03-03] 
+
 
 ### Девушка, которая играла с огнем
 Стиг Ларссон
