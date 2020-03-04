@@ -1,4 +1,16 @@
 {
+    "fLlavD1RZk": {
+        "id": "fLlavD1RZk",
+        "title": "Звёздная пыль",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2020-03-04 14:20:00",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 763
+        }
+    },
     "ZeJY9BXhvd": {
         "id": "ZeJY9BXhvd",
         "title": "Гарри Поттер и Философский камень",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 156
-        }
-    },
-    "E51-9cdANb": {
-        "id": "E51-9cdANb",
-        "title": "Академия темных властелинов",
-        "author": "Надежда Мамаева",
-        "notes": "10/10",
-        "createdAt": "2020-02-23 09:47:21",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 54
         }
     }
 }

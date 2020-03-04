@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 763,
+        "updatedAt": "2020-03-04 14:20:00"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -16,12 +22,6 @@
         "nickname": "Лисс",
         "booksCount": 0,
         "updatedAt": "2020-03-03 17:46:46"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 762,
-        "updatedAt": "2020-03-03 09:43:59"
     },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
