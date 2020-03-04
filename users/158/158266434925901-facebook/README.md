@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>96</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>97</sup>
 ---
 
 ## 2020
+
+### Отверженный. Том 1
+Виктор Гюго
+> [2020-03-05] 
+
 
 ### Последний герой
 Терри Пратчетт

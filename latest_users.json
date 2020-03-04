@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 97,
+        "updatedAt": "2020-03-04 21:07:22"
+    },
     "106304994652616315178-google": {
         "id": "106304994652616315178-google",
         "nickname": "Euphoria",
@@ -172,11 +178,5 @@
         "nickname": "Максим Гордеев",
         "booksCount": 1,
         "updatedAt": "2020-02-20 19:38:37"
-    },
-    "8933046-vkontakte": {
-        "id": "8933046-vkontakte",
-        "nickname": "evdokimovy",
-        "booksCount": 3,
-        "updatedAt": "2020-02-20 19:01:55"
     }
 }

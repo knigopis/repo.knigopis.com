@@ -1,4 +1,16 @@
 {
+    "ojHAGaMcUV": {
+        "id": "ojHAGaMcUV",
+        "title": "Отверженный. Том 1",
+        "author": "Виктор Гюго",
+        "notes": "",
+        "createdAt": "2020-03-04 21:07:22",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 97
+        }
+    },
     "RGNdhy1ImE": {
         "id": "RGNdhy1ImE",
         "title": "История Казахстана справочник",
@@ -345,18 +357,6 @@
             "id": "334696193054530347-mailru",
             "nickname": "Даша",
             "booksCount": 52
-        }
-    },
-    "aY0eEZkdhv": {
-        "id": "aY0eEZkdhv",
-        "title": "Пищеблок",
-        "author": "А. Иванов",
-        "notes": "",
-        "createdAt": "2020-02-25 19:09:11",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 47
         }
     }
 }
