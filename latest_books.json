@@ -1,4 +1,16 @@
 {
+    "6fS57NR6pO": {
+        "id": "6fS57NR6pO",
+        "title": "Аполлон-8",
+        "author": "К. Джеффри",
+        "notes": "",
+        "createdAt": "2020-03-04 14:45:34",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 37
+        }
+    },
     "fLlavD1RZk": {
         "id": "fLlavD1RZk",
         "title": "Звёздная пыль",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 46
-        }
-    },
-    "vr65ti6FpZ": {
-        "id": "vr65ti6FpZ",
-        "title": "Эхо Севера",
-        "author": "Джоанна Рут Мейер",
-        "notes": "",
-        "createdAt": "2020-02-23 13:46:15",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 156
         }
     }
 }
