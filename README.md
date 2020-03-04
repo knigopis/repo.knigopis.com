@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Euphoria](users/106/106304994652616315178-google)<sup>73</sup> 
+[Euphoria](users/106/106304994652616315178-google)<sup>74</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>245</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>37</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>763</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [evdokimovy](users/893/8933046-vkontakte)<sup>3</sup> 
 
 
-_04.03.2020 18:10:42_
+_04.03.2020 18:11:20_
