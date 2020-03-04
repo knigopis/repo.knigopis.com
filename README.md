@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайная история ~ [Garka](users/115/115753719718250012620-google)<sup>245</sup>
+    > Как легко люди находят оправдание самым ужасным своим поступкам, даже убийству. Насколько сильно может увлечение чем-либо повлиять на восприятие действительности, как в данной книге увлечение студентов Древней Грецией. Одно событие, начавшееся как попытка прочувствовать то, чувствовали древние греки, пустило под откос несколько жизней.
+
 * Гарри Поттер и Философский камень ~ [anvonamore](users/595/5957175-vkontakte)<sup>133</sup>
     > 7/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Третья империя ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>227</sup>
-    > в процессе
 
 * Русская книга ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Марсианин ~ [En](users/333/333646551-vkontakte)<sup>89</sup>
 
-* Вы признаны опасным ~ [Chiffi](users/105/105831994080785626680-google)<sup>169</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>245</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>37</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>763</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>133</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Максим Гордеев](users/470/4705914-vkontakte)<sup>1</sup> 
 [evdokimovy](users/893/8933046-vkontakte)<sup>3</sup> 
 [srsw](users/200/20087139-yandex)<sup>38</sup> 
-[](users/842/8423922445190342448-mailru)<sup>1</sup> 
 
 
-_04.03.2020 14:45:34_
+_04.03.2020 17:26:13_
