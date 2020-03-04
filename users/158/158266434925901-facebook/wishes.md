@@ -1,6 +1,6 @@
 # Wish list of books by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)
 ---
 
-### `48` Отверженный. Том 1
-Виктор Гюго
+### `2` Семь смертей Эвелины Хардкасл
+Стюарт Тёртон
 
