@@ -1,4 +1,10 @@
 {
+    "106304994652616315178-google": {
+        "id": "106304994652616315178-google",
+        "nickname": "Euphoria",
+        "booksCount": 73,
+        "updatedAt": "2020-03-04 18:10:42"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "evdokimovy",
         "booksCount": 3,
         "updatedAt": "2020-02-20 19:01:55"
-    },
-    "20087139-yandex": {
-        "id": "20087139-yandex",
-        "nickname": "srsw",
-        "booksCount": 38,
-        "updatedAt": "2020-02-20 16:25:47"
     }
 }

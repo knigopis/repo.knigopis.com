@@ -1,4 +1,16 @@
 {
+    "fTBAnETyFZ": {
+        "id": "fTBAnETyFZ",
+        "title": "ЖИР",
+        "author": "Мада",
+        "notes": "Женщина ищущая рациональность. Далеко не классическое литературное произведение, но читать было интересно",
+        "createdAt": "2020-03-04 18:10:42",
+        "user": {
+            "id": "106304994652616315178-google",
+            "nickname": "Euphoria",
+            "booksCount": 73
+        }
+    },
     "CRGN9DadnQ": {
         "id": "CRGN9DadnQ",
         "title": "Тайная история",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 167
-        }
-    },
-    "hlMb3ks94W": {
-        "id": "hlMb3ks94W",
-        "title": "Адвокат амазонки",
-        "author": "Наталья Борохова",
-        "notes": "",
-        "createdAt": "2020-02-23 17:09:00",
-        "user": {
-            "id": "270444099499-odnoklassniki",
-            "nickname": null,
-            "booksCount": 30
         }
     }
 }

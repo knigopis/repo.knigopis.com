@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* ЖИР ~ [Euphoria](users/106/106304994652616315178-google)<sup>73</sup>
 * Тайная история ~ [Garka](users/115/115753719718250012620-google)<sup>245</sup>
 * Гарри Поттер и Философский камень ~ [anvonamore](users/595/5957175-vkontakte)<sup>133</sup>
 * Говори на языке диаграмм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>228</sup>
@@ -30,7 +31,6 @@
 * Дочь священника ~ [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup>
 * 13 причин чому ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup>
 * Новеллы ~ [Euphoria](users/106/106304994652616315178-google)<sup>70</sup>
-* После ~ [TheWildWind](users/262/262062207519652-facebook)<sup>38</sup>
 
 
-_04.03.2020 17:26:13_
+_04.03.2020 18:10:42_
