@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/102/102536471289425216982-google)<sup>19</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>97</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>74</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>245</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [KostyaLord](users/681/681078792716921-facebook)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>217</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>18</sup> 
-[Максим Гордеев](users/470/4705914-vkontakte)<sup>1</sup> 
 
 
-_04.03.2020 21:07:22_
+_05.03.2020 07:46:33_

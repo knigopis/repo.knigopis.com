@@ -1,4 +1,10 @@
 {
+    "102536471289425216982-google": {
+        "id": "102536471289425216982-google",
+        "nickname": "Окс",
+        "booksCount": 19,
+        "updatedAt": "2020-03-05 07:46:33"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "l.shilova",
         "booksCount": 18,
         "updatedAt": "2020-02-21 08:38:36"
-    },
-    "4705914-vkontakte": {
-        "id": "4705914-vkontakte",
-        "nickname": "Максим Гордеев",
-        "booksCount": 1,
-        "updatedAt": "2020-02-20 19:38:37"
     }
 }
