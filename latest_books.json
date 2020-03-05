@@ -1,4 +1,16 @@
 {
+    "RVPjs_oU-f": {
+        "id": "RVPjs_oU-f",
+        "title": "Первые три минуты",
+        "author": "С. Вайнберг",
+        "notes": "",
+        "createdAt": "2020-03-05 14:24:21",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 38
+        }
+    },
     "NtXBxM4ziJ": {
         "id": "NtXBxM4ziJ",
         "title": "Кармен",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 63
-        }
-    },
-    "nmzrbo7UBF": {
-        "id": "nmzrbo7UBF",
-        "title": "На восток от Солнца, на запад от Луны (сказка)",
-        "author": "Петер Кристен Асбьёрнсен",
-        "notes": "",
-        "createdAt": "2020-02-26 16:09:38",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 157
         }
     }
 }
