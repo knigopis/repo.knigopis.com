@@ -1,4 +1,10 @@
 {
+    "887381555-yandex": {
+        "id": "887381555-yandex",
+        "nickname": "gedoumaru",
+        "booksCount": 0,
+        "updatedAt": "2020-03-06 20:30:38"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 5,
         "updatedAt": "2020-02-22 21:43:19"
-    },
-    "681078792716921-facebook": {
-        "id": "681078792716921-facebook",
-        "nickname": "KostyaLord",
-        "booksCount": 0,
-        "updatedAt": "2020-02-21 21:18:31"
     }
 }
