@@ -1,4 +1,16 @@
 {
+    "znsBjf72Gp": {
+        "id": "znsBjf72Gp",
+        "title": "Что случилось с собакой однажды ночью",
+        "author": "Марк Хэддон",
+        "notes": "История от имени мальчика-аутиста.",
+        "createdAt": "2020-03-06 14:07:50",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 204
+        }
+    },
     "BD34NMXMZK": {
         "id": "BD34NMXMZK",
         "title": "Ничто не случайно",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 89
-        }
-    },
-    "ZWTYchc2AF": {
-        "id": "ZWTYchc2AF",
-        "title": "Вы признаны опасным",
-        "author": "Михалкова Елена",
-        "notes": "Слово может быть как легче пера,  так и тяжелее камня. Лишь тому,  кто слышит, дано наделять его весом.",
-        "createdAt": "2020-02-28 05:53:16",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 169
         }
     }
 }

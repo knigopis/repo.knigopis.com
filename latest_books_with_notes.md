@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Что случилось с собакой однажды ночью ~ [Madlax](users/158/158304782-vkontakte)<sup>204</sup>
 * Ничто не случайно ~ [Madlax](users/158/158304782-vkontakte)<sup>203</sup>
 * Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>201</sup>
 * Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>200</sup>
@@ -30,7 +31,6 @@
 * Конец Вечности ~ [Garka](users/115/115753719718250012620-google)<sup>244</sup>
 * Выстрел на большой морской ~ [Chiffi](users/105/105831994080785626680-google)<sup>164</sup>
 * И дольше века длится день ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup>
-* Кожа. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>86</sup>
 
 
-_06.03.2020 14:04:51_
+_06.03.2020 14:07:50_
