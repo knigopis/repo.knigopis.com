@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gedoumaru](users/887/887381555-yandex)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>171</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>205</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>65</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>118</sup> 
 [](users/153/1537586159620888-facebook)<sup>5</sup> 
-[KostyaLord](users/681/681078792716921-facebook)<sup>0</sup> 
 
 
-_06.03.2020 17:34:44_
+_06.03.2020 20:30:40_
