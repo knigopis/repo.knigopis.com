@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>64</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>38</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>19</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>97</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>5</sup> 
 [KostyaLord](users/681/681078792716921-facebook)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>217</sup> 
-[l.shilova](users/101/10123344-vkontakte)<sup>18</sup> 
 
 
-_05.03.2020 14:24:21_
+_06.03.2020 11:02:11_

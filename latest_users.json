@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-google": {
+        "id": "116961712580551399099-google",
+        "nickname": "violet_velva",
+        "booksCount": 64,
+        "updatedAt": "2020-03-06 11:02:11"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "Knigolub~",
         "booksCount": 217,
         "updatedAt": "2020-02-21 20:17:36"
-    },
-    "10123344-vkontakte": {
-        "id": "10123344-vkontakte",
-        "nickname": "l.shilova",
-        "booksCount": 18,
-        "updatedAt": "2020-02-21 08:38:36"
     }
 }

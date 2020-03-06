@@ -1,4 +1,16 @@
 {
+    "RdJhrDC4QP": {
+        "id": "RdJhrDC4QP",
+        "title": "Элегантность ёжика",
+        "author": "Мюриель Барбери",
+        "notes": "",
+        "createdAt": "2020-03-06 11:02:11",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 64
+        }
+    },
     "RVPjs_oU-f": {
         "id": "RVPjs_oU-f",
         "title": "Первые три минуты",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 168
-        }
-    },
-    "Y3DfeRaMr3": {
-        "id": "Y3DfeRaMr3",
-        "title": "Сумерки",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2020-02-26 19:07:28",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 63
         }
     }
 }
