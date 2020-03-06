@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ничто не случайно ~ [Madlax](users/158/158304782-vkontakte)<sup>203</sup>
 * Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>201</sup>
 * Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>200</sup>
 * ЖИР ~ [Euphoria](users/106/106304994652616315178-google)<sup>73</sup>
@@ -30,7 +31,6 @@
 * Выстрел на большой морской ~ [Chiffi](users/105/105831994080785626680-google)<sup>164</sup>
 * И дольше века длится день ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup>
 * Кожа. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>86</sup>
-* Дочь священника ~ [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup>
 
 
-_06.03.2020 14:01:55_
+_06.03.2020 14:04:51_
