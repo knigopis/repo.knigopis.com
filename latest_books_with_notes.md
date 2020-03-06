@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>200</sup>
 * ЖИР ~ [Euphoria](users/106/106304994652616315178-google)<sup>73</sup>
 * Тайная история ~ [Garka](users/115/115753719718250012620-google)<sup>245</sup>
 * Гарри Поттер и Философский камень ~ [anvonamore](users/595/5957175-vkontakte)<sup>133</sup>
@@ -30,7 +31,6 @@
 * Кожа. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>86</sup>
 * Дочь священника ~ [Beaviska](users/102/10202544960024508-facebook)<sup>37</sup>
 * 13 причин чому ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>85</sup>
-* Новеллы ~ [Euphoria](users/106/106304994652616315178-google)<sup>70</sup>
 
 
-_04.03.2020 18:10:42_
+_06.03.2020 14:01:08_
