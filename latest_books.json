@@ -1,4 +1,16 @@
 {
+    "R973dCEZNX": {
+        "id": "R973dCEZNX",
+        "title": "Огонь",
+        "author": "Барбюс Анри",
+        "notes": "Сильная и интересная история про солдат на войне.",
+        "createdAt": "2020-03-06 14:01:54",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 201
+        }
+    },
     "Vg6H2lOrYt": {
         "id": "Vg6H2lOrYt",
         "title": "Зеркало времени",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 58
-        }
-    },
-    "CssrGGynfH": {
-        "id": "CssrGGynfH",
-        "title": "Тридцатая любовь Марины",
-        "author": "Владимир Сорокин",
-        "notes": "",
-        "createdAt": "2020-02-27 17:40:25",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 163
         }
     }
 }
