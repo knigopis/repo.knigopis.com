@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Главное упарвление ~ [Chiffi](users/105/105831994080785626680-google)<sup>171</sup>
 * Что случилось с собакой однажды ночью ~ [Madlax](users/158/158304782-vkontakte)<sup>204</sup>
 * Ничто не случайно ~ [Madlax](users/158/158304782-vkontakte)<sup>203</sup>
 * Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>201</sup>
@@ -30,7 +31,6 @@
 * Темная Материя ~ [mfevralev](users/140/140966150-vkontakte)<sup>42</sup>
 * Конец Вечности ~ [Garka](users/115/115753719718250012620-google)<sup>244</sup>
 * Выстрел на большой морской ~ [Chiffi](users/105/105831994080785626680-google)<sup>164</sup>
-* И дольше века длится день ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>53</sup>
 
 
-_06.03.2020 14:07:50_
+_06.03.2020 17:34:44_

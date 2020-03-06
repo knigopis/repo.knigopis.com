@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Главное упарвление ~ [Chiffi](users/105/105831994080785626680-google)<sup>171</sup>
+    > Плачевны наши дела, но перспективны по мере творческих реализаций))
+
 * Что случилось с собакой однажды ночью ~ [Madlax](users/158/158304782-vkontakte)<sup>204</sup>
     > История от имени мальчика-аутиста.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > "Никогда не прекращай быть ребенком, Ричард! Никогда не прекращай ощущать, чувствовать, видеть и радоваться таким прекрасным вещам, как воздух, моторы, звуки и цвета, которые окружают тебя. Носи свою безобидную маску, если это нужно для того, чтобы защитить ребёнка от мира, но знай, приятель, что если ты не сохранишь в себе этого ребёнка, ты состаришься и умрёшь".
 
 * Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>201</sup>
-    > Сильная и интересная история про солдат на войне.
 
 * Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>200</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Третья империя ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>227</sup>
 
-* Русская книга ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>171</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>205</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>65</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>38</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Тина](users/109/109673258488840317845-google)<sup>0</sup> 
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>170</sup> 
 [](users/105/105380613688026864443-google)<sup>2</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>378</sup> 
 [En](users/333/333646551-vkontakte)<sup>89</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [KostyaLord](users/681/681078792716921-facebook)<sup>0</sup> 
 
 
-_06.03.2020 14:08:21_
+_06.03.2020 17:34:44_
