@@ -49,7 +49,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dmiro](users/571/5714115-vkontakte)<sup>20</sup> 
+[dmiro](users/571/5714115-vkontakte)<sup>21</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>220</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>380</sup> 
 [gedoumaru](users/887/887381555-yandex)<sup>3</sup> 
@@ -81,4 +81,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup> 
 
 
-_07.03.2020 14:44:37_
+_07.03.2020 14:47:05_
