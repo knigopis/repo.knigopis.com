@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>51</sup>
+# List of books read by Rainbow<sup>52</sup>
 ---
 
 ## 2020
+
+### Лолита
+Владимир Набоков
+> [2020-03-05] 
+
 
 ### Лолита
 Набоков
