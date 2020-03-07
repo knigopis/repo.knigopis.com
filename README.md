@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>218</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>380</sup> 
 [gedoumaru](users/887/887381555-yandex)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>171</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/270/270444099499-odnoklassniki)<sup>30</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>118</sup> 
-[](users/153/1537586159620888-facebook)<sup>5</sup> 
 
 
-_07.03.2020 09:22:18_
+_07.03.2020 11:54:20_
