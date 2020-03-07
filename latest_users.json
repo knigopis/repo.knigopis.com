@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 379,
+        "updatedAt": "2020-03-07 09:20:18"
+    },
     "887381555-yandex": {
         "id": "887381555-yandex",
         "nickname": "gedoumaru",
@@ -106,12 +112,6 @@
         "nickname": null,
         "booksCount": 2,
         "updatedAt": "2020-03-02 04:35:23"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 378,
-        "updatedAt": "2020-03-01 05:05:24"
     },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
