@@ -1,4 +1,10 @@
 {
+    "5714115-vkontakte": {
+        "id": "5714115-vkontakte",
+        "nickname": "dmiro",
+        "booksCount": 20,
+        "updatedAt": "2020-03-07 14:44:37"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "stamovashahzada",
         "booksCount": 54,
         "updatedAt": "2020-02-23 09:47:21"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 118,
-        "updatedAt": "2020-02-23 07:07:12"
     }
 }
