@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[HXT](users/100/100002563462782-facebook)<sup>379</sup> 
+[HXT](users/100/100002563462782-facebook)<sup>380</sup> 
 [gedoumaru](users/887/887381555-yandex)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>171</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>205</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>5</sup> 
 
 
-_07.03.2020 09:20:19_
+_07.03.2020 09:22:18_

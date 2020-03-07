@@ -1,4 +1,16 @@
 {
+    "3Io5z8abjn": {
+        "id": "3Io5z8abjn",
+        "title": "Лучше каждый день.",
+        "author": "Стив Эс Джей Скот",
+        "notes": "",
+        "createdAt": "2020-03-07 09:22:17",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 380
+        }
+    },
     "-flb8hhfux": {
         "id": "-flb8hhfux",
         "title": "Автостопом по галактике",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 170
-        }
-    },
-    "1Q_3rZO-01": {
-        "id": "1Q_3rZO-01",
-        "title": "Болезнь Портного",
-        "author": "Филип Рот",
-        "notes": "",
-        "createdAt": "2020-03-02 04:35:23",
-        "user": {
-            "id": "105380613688026864443-google",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
