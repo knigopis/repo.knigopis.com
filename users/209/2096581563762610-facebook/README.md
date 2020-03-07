@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>59</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>60</sup>
 ---
 
 ## 2020
+
+### Не работайте с мудаками. И что делать, если они вокруг вас
+Роберт Саттон
+> [2020-03-07] 
+
 
 ### Двойная радуга
 Сборник рассказов
