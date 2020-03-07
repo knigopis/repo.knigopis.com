@@ -49,6 +49,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>51</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>60</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>21</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>220</sup> 
@@ -78,7 +79,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>63</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>157</sup> 
 [](users/270/270444099499-odnoklassniki)<sup>30</sup> 
-[stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup> 
 
 
-_07.03.2020 21:53:36_
+_07.03.2020 23:23:17_

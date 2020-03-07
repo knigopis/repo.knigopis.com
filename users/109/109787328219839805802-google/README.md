@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>50</sup>
+# List of books read by Rainbow<sup>51</sup>
 ---
 
 ## 2020
+
+### Лолита
+Набоков
+> [2020-03-05] 
+
 
 ### Весна Софият
 Адам Шогенцуков
