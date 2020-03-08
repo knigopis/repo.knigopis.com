@@ -49,6 +49,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kita.mei](users/411/4118303370-instagram)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>44</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>60</sup> 
@@ -78,7 +79,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>215</sup> 
 [shishkin_vitaly](users/139/139727305-vkontakte)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>63</sup> 
-[lostinfrost](users/217/217891524-vkontakte)<sup>157</sup> 
 
 
-_08.03.2020 00:24:51_
+_08.03.2020 06:54:13_
