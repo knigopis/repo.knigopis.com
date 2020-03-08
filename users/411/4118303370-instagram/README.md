@@ -1,7 +1,11 @@
-# List of books read by kita.mei<sup>8</sup>
+# List of books read by kita.mei<sup>9</sup>
 ---
 
 ## 2014
+
+### Долорес Клейборн
+Стивен Кинг
+
 
 ### Мёртвая зона
 Стивен Кинг
