@@ -1,4 +1,16 @@
 {
+    "EezImLi9a8": {
+        "id": "EezImLi9a8",
+        "title": "101 способ раскрутки личного бренда",
+        "author": "Вячеслав Семенчук",
+        "notes": "",
+        "createdAt": "2020-03-08 00:24:51",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 44
+        }
+    },
     "q-1Nzbvc8e": {
         "id": "q-1Nzbvc8e",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 763
-        }
-    },
-    "ZeJY9BXhvd": {
-        "id": "ZeJY9BXhvd",
-        "title": "Гарри Поттер и Философский камень",
-        "author": "Джоан Роулинг",
-        "notes": "7/10",
-        "createdAt": "2020-03-03 22:51:33",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 133
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>43</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>44</sup>
 ---
 
 ## 2020
+
+### 101 способ раскрутки личного бренда
+Вячеслав Семенчук
+> [2020-03-08] 
+
 
 ### Выйди из зоны комфорта
 Трейси Брайан

@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 44,
+        "updatedAt": "2020-03-08 00:24:51"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "lostinfrost",
         "booksCount": 157,
         "updatedAt": "2020-02-26 16:09:38"
-    },
-    "270444099499-odnoklassniki": {
-        "id": "270444099499-odnoklassniki",
-        "nickname": null,
-        "booksCount": 30,
-        "updatedAt": "2020-02-23 17:09:00"
     }
 }
