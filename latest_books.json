@@ -1,4 +1,16 @@
 {
+    "rJ24whCBVB": {
+        "id": "rJ24whCBVB",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2020-03-08 07:38:28",
+        "user": {
+            "id": "4118303370-instagram",
+            "nickname": "kita.mei",
+            "booksCount": 13
+        }
+    },
     "FpAunBMO_X": {
         "id": "FpAunBMO_X",
         "title": "Колыбельная",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 203
-        }
-    },
-    "famwnY9Xtk": {
-        "id": "famwnY9Xtk",
-        "title": "Полет",
-        "author": "Чарльз Диккенс",
-        "notes": "",
-        "createdAt": "2020-03-06 14:02:26",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 202
         }
     }
 }
