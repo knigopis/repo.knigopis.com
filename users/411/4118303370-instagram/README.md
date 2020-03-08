@@ -1,7 +1,11 @@
-# List of books read by [kita.mei](http://instagram.com/kita.mei)<sup>6</sup>
+# List of books read by kita.mei<sup>7</sup>
 ---
 
 ## 2014
+
+### Зелёная миля
+Стивен Кинг
+
 
 ### Светлана
 Жуковскмй В. А.
