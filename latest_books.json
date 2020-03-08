@@ -1,4 +1,16 @@
 {
+    "FpAunBMO_X": {
+        "id": "FpAunBMO_X",
+        "title": "Колыбельная",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2020-03-08 07:37:39",
+        "user": {
+            "id": "4118303370-instagram",
+            "nickname": "kita.mei",
+            "booksCount": 12
+        }
+    },
     "af4gaBtLxM": {
         "id": "af4gaBtLxM",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 202
-        }
-    },
-    "R973dCEZNX": {
-        "id": "R973dCEZNX",
-        "title": "Огонь",
-        "author": "Барбюс Анри",
-        "notes": "Сильная и интересная история про солдат на войне.",
-        "createdAt": "2020-03-06 14:01:54",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 201
         }
     }
 }
