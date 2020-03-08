@@ -1,4 +1,10 @@
 {
+    "4118303370-instagram": {
+        "id": "4118303370-instagram",
+        "nickname": "kita.mei",
+        "booksCount": 0,
+        "updatedAt": "2020-03-08 06:54:09"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -172,11 +178,5 @@
         "nickname": "vladkozz",
         "booksCount": 63,
         "updatedAt": "2020-02-26 19:07:28"
-    },
-    "217891524-vkontakte": {
-        "id": "217891524-vkontakte",
-        "nickname": "lostinfrost",
-        "booksCount": 157,
-        "updatedAt": "2020-02-26 16:09:38"
     }
 }
