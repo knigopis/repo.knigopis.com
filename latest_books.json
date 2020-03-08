@@ -1,4 +1,16 @@
 {
+    "xoVVkrGKih": {
+        "id": "xoVVkrGKih",
+        "title": "Мёртвая зона",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-03-08 07:35:19",
+        "user": {
+            "id": "4118303370-instagram",
+            "nickname": "kita.mei",
+            "booksCount": 8
+        }
+    },
     "ho6ndctlpi": {
         "id": "ho6ndctlpi",
         "title": "Зелёная миля",
@@ -345,18 +357,6 @@
             "id": "116961712580551399099-google",
             "nickname": "violet_velva",
             "booksCount": 65
-        }
-    },
-    "RVPjs_oU-f": {
-        "id": "RVPjs_oU-f",
-        "title": "Первые три минуты",
-        "author": "С. Вайнберг",
-        "notes": "",
-        "createdAt": "2020-03-05 14:24:21",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 38
         }
     }
 }

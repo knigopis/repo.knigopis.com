@@ -1,7 +1,11 @@
-# List of books read by kita.mei<sup>7</sup>
+# List of books read by kita.mei<sup>8</sup>
 ---
 
 ## 2014
+
+### Мёртвая зона
+Стивен Кинг
+
 
 ### Зелёная миля
 Стивен Кинг
