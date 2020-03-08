@@ -1,4 +1,16 @@
 {
+    "E03TpevVPa": {
+        "id": "E03TpevVPa",
+        "title": "Янтарный телескоп",
+        "author": "Филип Пулман",
+        "notes": "",
+        "createdAt": "2020-03-08 13:24:42",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 158
+        }
+    },
     "KKenzt5YOw": {
         "id": "KKenzt5YOw",
         "title": "Сойди, Моисей!",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 205
-        }
-    },
-    "znsBjf72Gp": {
-        "id": "znsBjf72Gp",
-        "title": "Что случилось с собакой однажды ночью",
-        "author": "Марк Хэддон",
-        "notes": "История от имени мальчика-аутиста.",
-        "createdAt": "2020-03-06 14:07:50",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 204
         }
     }
 }

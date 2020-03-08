@@ -1,4 +1,10 @@
 {
+    "217891524-vkontakte": {
+        "id": "217891524-vkontakte",
+        "nickname": "lostinfrost",
+        "booksCount": 158,
+        "updatedAt": "2020-03-08 13:24:42"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "shishkin_vitaly",
         "booksCount": 0,
         "updatedAt": "2020-02-26 20:38:50"
-    },
-    "57239276-vkontakte": {
-        "id": "57239276-vkontakte",
-        "nickname": "vladkozz",
-        "booksCount": 63,
-        "updatedAt": "2020-02-26 19:07:28"
     }
 }
