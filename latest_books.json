@@ -1,4 +1,16 @@
 {
+    "ZDtEVZtGiJ": {
+        "id": "ZDtEVZtGiJ",
+        "title": "Светлана",
+        "author": "Жуковскмй В. А.",
+        "notes": "",
+        "createdAt": "2020-03-08 07:33:15",
+        "user": {
+            "id": "4118303370-instagram",
+            "nickname": "kita.mei",
+            "booksCount": 6
+        }
+    },
     "u-306BKe8g": {
         "id": "u-306BKe8g",
         "title": "Бедная Лиза",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 19
-        }
-    },
-    "ojHAGaMcUV": {
-        "id": "ojHAGaMcUV",
-        "title": "Отверженный. Том 1",
-        "author": "Виктор Гюго",
-        "notes": "",
-        "createdAt": "2020-03-04 21:07:22",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 97
         }
     }
 }
