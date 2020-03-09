@@ -1,4 +1,10 @@
 {
+    "13093139806079021591-mailru": {
+        "id": "13093139806079021591-mailru",
+        "nickname": "Asa Emi",
+        "booksCount": 0,
+        "updatedAt": "2020-03-09 00:51:43"
+    },
     "217891524-vkontakte": {
         "id": "217891524-vkontakte",
         "nickname": "lostinfrost",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 215,
         "updatedAt": "2020-02-27 09:30:29"
-    },
-    "139727305-vkontakte": {
-        "id": "139727305-vkontakte",
-        "nickname": "shishkin_vitaly",
-        "booksCount": 0,
-        "updatedAt": "2020-02-26 20:38:50"
     }
 }
