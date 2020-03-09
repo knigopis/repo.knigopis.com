@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* На осколках ~ [Chiffi](users/105/105831994080785626680-google)<sup>172</sup>
 * Выгорание ~ [dmiro](users/571/5714115-vkontakte)<sup>20</sup>
 * Главное упарвление ~ [Chiffi](users/105/105831994080785626680-google)<sup>171</sup>
 * Что случилось с собакой однажды ночью ~ [Madlax](users/158/158304782-vkontakte)<sup>204</sup>
@@ -30,7 +31,6 @@
 * Московский апокалипсис ~ [Chiffi](users/105/105831994080785626680-google)<sup>166</sup>
 * Дознание в Риге ~ [Chiffi](users/105/105831994080785626680-google)<sup>165</sup>
 * Темная Материя ~ [mfevralev](users/140/140966150-vkontakte)<sup>42</sup>
-* Конец Вечности ~ [Garka](users/115/115753719718250012620-google)<sup>244</sup>
 
 
-_07.03.2020 14:44:37_
+_09.03.2020 07:36:05_

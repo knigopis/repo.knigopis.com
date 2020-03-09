@@ -1,4 +1,16 @@
 {
+    "_eC_hl5oUK": {
+        "id": "_eC_hl5oUK",
+        "title": "На осколках",
+        "author": "Светлая Веста",
+        "notes": "девчачья книжка. прочитала за пару часов.  ни о чем, но было нужно для поднятия настроения",
+        "createdAt": "2020-03-09 07:36:05",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 172
+        }
+    },
     "oD_DQmr9sV": {
         "id": "oD_DQmr9sV",
         "title": "Выгорание",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 42
-        }
-    },
-    "uDGTdJbB6s": {
-        "id": "uDGTdJbB6s",
-        "title": "Конец Вечности",
-        "author": "Азимов, Айзек",
-        "notes": "Очень понравилось, прочитала запоем.",
-        "createdAt": "2020-02-12 18:54:56",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 244
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* На осколках ~ [Chiffi](users/105/105831994080785626680-google)<sup>172</sup>
+    > девчачья книжка. прочитала за пару часов.  ни о чем, но было нужно для поднятия настроения
+
 * Выгорание ~ [dmiro](users/571/5714115-vkontakte)<sup>20</sup>
     > Хорошее самочувствие - это не состояние, а действие.
     > 
@@ -28,7 +31,6 @@ Do not use pull requests to make changes here.
     > Плачевны наши дела, но перспективны по мере творческих реализаций))
 
 * Что случилось с собакой однажды ночью ~ [Madlax](users/158/158304782-vkontakte)<sup>204</sup>
-    > История от имени мальчика-аутиста.
 
 * Ничто не случайно ~ [Madlax](users/158/158304782-vkontakte)<sup>203</sup>
 
@@ -42,13 +44,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и Философский камень ~ [anvonamore](users/595/5957175-vkontakte)<sup>133</sup>
 
-* Говори на языке диаграмм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>228</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>172</sup> 
 [Asa Emi](users/130/13093139806079021591-mailru)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>158</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>381</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>21</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>220</sup> 
 [gedoumaru](users/887/887381555-yandex)<sup>3</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>171</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>205</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>65</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>38</sup> 
@@ -81,4 +81,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>215</sup> 
 
 
-_09.03.2020 00:51:50_
+_09.03.2020 07:36:05_
