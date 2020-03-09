@@ -49,6 +49,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Asa Emi](users/130/13093139806079021591-mailru)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>158</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>381</sup> 
 [kita.mei](users/411/4118303370-instagram)<sup>13</sup> 
@@ -78,7 +79,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>53</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>163</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>215</sup> 
-[shishkin_vitaly](users/139/139727305-vkontakte)<sup>0</sup> 
 
 
-_08.03.2020 13:24:42_
+_09.03.2020 00:51:50_
