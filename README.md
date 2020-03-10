@@ -49,6 +49,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>764</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>97</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>173</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>216</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>19</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>74</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>245</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>763</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>133</sup> 
 [Лисс](users/117/117706099706101024986-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>228</sup> 
@@ -81,4 +81,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>53</sup> 
 
 
-_10.03.2020 07:52:26_
+_10.03.2020 10:59:55_
