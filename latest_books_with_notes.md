@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Унесённые ветром ~ [Euphoria](users/106/106304994652616315178-google)<sup>75</sup>
 * Няня в стране чудес ~ [Chiffi](users/105/105831994080785626680-google)<sup>173</sup>
 * На осколках ~ [Chiffi](users/105/105831994080785626680-google)<sup>172</sup>
 * Выгорание ~ [dmiro](users/571/5714115-vkontakte)<sup>20</sup>
@@ -30,7 +31,6 @@
 * От 2х до 5 ~ [Euphoria](users/106/106304994652616315178-google)<sup>72</sup>
 * Дневник донского казака С. П. Полушкина. 1877-1878 г. - СПб., 1880. ~ [mfevralev](users/140/140966150-vkontakte)<sup>43</sup>
 * Московский апокалипсис ~ [Chiffi](users/105/105831994080785626680-google)<sup>166</sup>
-* Дознание в Риге ~ [Chiffi](users/105/105831994080785626680-google)<sup>165</sup>
 
 
-_09.03.2020 20:44:00_
+_10.03.2020 16:23:04_
