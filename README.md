@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>382</sup> 
 [En](users/333/333646551-vkontakte)<sup>90</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>75</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>764</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ArenF](users/113/113523157-vkontakte)<sup>1</sup> 
 [Asa Emi](users/130/13093139806079021591-mailru)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>158</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>381</sup> 
 [kita.mei](users/411/4118303370-instagram)<sup>13</sup> 
 [youno](users/302/302928912-vkontakte)<sup>44</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>53</sup> 
 
 
-_11.03.2020 09:26:26_
+_11.03.2020 16:31:01_
