@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>97</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>98</sup>
 ---
 
 ## 2020
+
+### Торговец зонтиками
+Франсис Малька
+> [2020-02-09] 
+
 
 ### Большое собрание мистических историй в одном томе
 > [2020-02-02] 

@@ -1,4 +1,10 @@
 {
+    "2336755-vkontakte": {
+        "id": "2336755-vkontakte",
+        "nickname": "katrinvredina",
+        "booksCount": 98,
+        "updatedAt": "2020-03-11 19:38:38"
+    },
     "59531225-vkontakte": {
         "id": "59531225-vkontakte",
         "nickname": "sembask",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 90,
         "updatedAt": "2020-03-02 12:47:02"
-    },
-    "105380613688026864443-google": {
-        "id": "105380613688026864443-google",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2020-03-02 04:35:23"
     }
 }
