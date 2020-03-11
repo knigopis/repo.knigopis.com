@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sembask](users/595/59531225-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>382</sup> 
 [En](users/333/333646551-vkontakte)<sup>90</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>75</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup> 
 [](users/105/105380613688026864443-google)<sup>2</sup> 
-[Даша](users/334/334696193054530347-mailru)<sup>53</sup> 
 
 
-_11.03.2020 16:31:01_
+_11.03.2020 17:09:05_
