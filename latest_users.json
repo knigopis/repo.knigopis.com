@@ -1,4 +1,10 @@
 {
+    "59531225-vkontakte": {
+        "id": "59531225-vkontakte",
+        "nickname": "sembask",
+        "booksCount": 0,
+        "updatedAt": "2020-03-11 17:09:02"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 2,
         "updatedAt": "2020-03-02 04:35:23"
-    },
-    "334696193054530347-mailru": {
-        "id": "334696193054530347-mailru",
-        "nickname": "Даша",
-        "booksCount": 53,
-        "updatedAt": "2020-02-28 04:46:32"
     }
 }
