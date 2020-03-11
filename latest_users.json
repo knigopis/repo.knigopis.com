@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 90,
+        "updatedAt": "2020-03-11 09:26:26"
+    },
     "106304994652616315178-google": {
         "id": "106304994652616315178-google",
         "nickname": "Euphoria",
@@ -166,12 +172,6 @@
         "nickname": null,
         "booksCount": 2,
         "updatedAt": "2020-03-02 04:35:23"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 89,
-        "updatedAt": "2020-02-28 10:53:20"
     },
     "334696193054530347-mailru": {
         "id": "334696193054530347-mailru",
