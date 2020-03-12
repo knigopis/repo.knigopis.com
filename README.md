@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>61</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>186</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>221</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>98</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kita.mei](users/411/4118303370-instagram)<sup>13</sup> 
 [youno](users/302/302928912-vkontakte)<sup>44</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>60</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>21</sup> 
 [gedoumaru](users/887/887381555-yandex)<sup>3</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>205</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
 
 
-_12.03.2020 15:56:47_
+_12.03.2020 17:35:22_
