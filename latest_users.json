@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 39,
+        "updatedAt": "2020-03-12 17:44:06"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -130,12 +136,6 @@
         "nickname": "violet_velva",
         "booksCount": 65,
         "updatedAt": "2020-03-06 11:04:56"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 38,
-        "updatedAt": "2020-03-05 14:24:21"
     },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",
