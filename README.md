@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>186</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>221</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>98</sup> 
 [sembask](users/595/59531225-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>228</sup> 
 [Тина](users/109/109673258488840317845-google)<sup>0</sup> 
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup> 
 
 
-_12.03.2020 08:34:33_
+_12.03.2020 15:56:47_

@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>185</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>186</sup>
 ---
 
 ## 2020
+
+### Стон горы
+Ясунари Кавабата
+> [2020-02-20] 
+
 
 ### Страна багровых туч
 Аркадий и Борис Стругацкие
