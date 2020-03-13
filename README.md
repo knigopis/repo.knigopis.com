@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* О дивный новый мир ~ [En](users/333/333646551-vkontakte)<sup>91</sup>
+* О дивный новый мир ~ [En](users/333/333646551-vkontakte)<sup>92</sup>
     > Разделенное на касты общество потребления не признает отклонения от выработанной нормы, поэтому никак не может вписаться в него тот, кто еще сохранил в себе остатки человечности – Дикарь.
 
 * Огонь. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>90</sup>
@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[En](users/333/333646551-vkontakte)<sup>91</sup> 
+[En](users/333/333646551-vkontakte)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>39</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>61</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>186</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
 
 
-_13.03.2020 07:09:36_
+_13.03.2020 07:11:50_
