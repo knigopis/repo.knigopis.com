@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[En](users/333/333646551-vkontakte)<sup>92</sup> 
+[En](users/333/333646551-vkontakte)<sup>91</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>39</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>61</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>186</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
 
 
-_13.03.2020 07:11:50_
+_13.03.2020 07:12:29_
