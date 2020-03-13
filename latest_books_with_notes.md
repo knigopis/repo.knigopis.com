@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* О дивный новый мир ~ [En](users/333/333646551-vkontakte)<sup>91</sup>
 * Огонь. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>90</sup>
 * Унесённые ветром ~ [Euphoria](users/106/106304994652616315178-google)<sup>75</sup>
 * Няня в стране чудес ~ [Chiffi](users/105/105831994080785626680-google)<sup>173</sup>
@@ -30,7 +31,6 @@
 * Тэсс из рода д'Эрбервиллей ~ [anvonamore](users/595/5957175-vkontakte)<sup>132</sup>
 * Ведьмак. Владычица озера. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup>
 * От 2х до 5 ~ [Euphoria](users/106/106304994652616315178-google)<sup>72</sup>
-* Дневник донского казака С. П. Полушкина. 1877-1878 г. - СПб., 1880. ~ [mfevralev](users/140/140966150-vkontakte)<sup>43</sup>
 
 
-_11.03.2020 09:26:26_
+_13.03.2020 07:09:36_

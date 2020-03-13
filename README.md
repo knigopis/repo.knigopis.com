@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* О дивный новый мир ~ [En](users/333/333646551-vkontakte)<sup>91</sup>
+    > Разделенное на касты общество потребления не признает отклонения от выработанной нормы, поэтому никак не может вписаться в него тот, кто еще сохранил в себе остатки человечности – Дикарь.
+
 * Огонь. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>90</sup>
     > 2 серии секретных материалов в тексте
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Невероятная книга, безумно понравилась. История Скарлет О'Хара, ее переживания, мысли - настолько все живо описано, что чувствуешь, будто все проживаешь вместе с ней. Ее чувства очень ярко описаны, очень яркие харизматичные персонажи. Понравилась как сама героиня, конечно неоднозначная персона, Ретт Батлер, Эшли, Мелани. Просто теперь одна из лучших прочитанных мною книг.
 
 * Няня в стране чудес ~ [Chiffi](users/105/105831994080785626680-google)<sup>173</sup>
-    > дамская сказочка: миленько и ни о чем. прочитала за пару часов
 
 * На осколках ~ [Chiffi](users/105/105831994080785626680-google)<sup>172</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>201</sup>
 
-* Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>200</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>91</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>39</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>61</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>186</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>98</sup> 
 [sembask](users/595/59531225-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>382</sup> 
-[En](users/333/333646551-vkontakte)<sup>90</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>75</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>764</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>97</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
 
 
-_12.03.2020 17:44:06_
+_13.03.2020 07:09:36_
