@@ -1,4 +1,10 @@
 {
+    "177804866-vkontakte": {
+        "id": "177804866-vkontakte",
+        "nickname": "secondjk",
+        "booksCount": 0,
+        "updatedAt": "2020-03-14 17:26:05"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "Тина",
         "booksCount": 0,
         "updatedAt": "2020-03-02 16:13:28"
-    },
-    "486520791539517-facebook": {
-        "id": "486520791539517-facebook",
-        "nickname": "Vasilii",
-        "booksCount": 0,
-        "updatedAt": "2020-03-02 13:19:28"
     }
 }
