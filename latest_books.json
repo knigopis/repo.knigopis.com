@@ -1,4 +1,16 @@
 {
+    "iBzPtUFqjv": {
+        "id": "iBzPtUFqjv",
+        "title": "К дзену на шпильках",
+        "author": "Бабанова Лиза",
+        "notes": "Первая половина интересна: про человека,  сделавшего себя. Но когда началось про духовные практики.....  Пара полезных мыслей нет, но  никому не советую",
+        "createdAt": "2020-03-14 05:30:15",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 174
+        }
+    },
     "3heRS-Saw4": {
         "id": "3heRS-Saw4",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "4118303370-instagram",
             "nickname": "kita.mei",
             "booksCount": 2
-        }
-    },
-    "hw2oKaaum0": {
-        "id": "hw2oKaaum0",
-        "title": "Герой нашего времени",
-        "author": "Лермонтов М.Ю.",
-        "notes": "",
-        "createdAt": "2020-03-08 07:27:51",
-        "user": {
-            "id": "4118303370-instagram",
-            "nickname": "kita.mei",
-            "booksCount": 1
         }
     }
 }

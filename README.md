@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* К дзену на шпильках ~ [Chiffi](users/105/105831994080785626680-google)<sup>174</sup>
+    > Первая половина интересна: про человека,  сделавшего себя. Но когда началось про духовные практики.....  Пара полезных мыслей нет, но  никому не советую
+
 * О дивный новый мир ~ [En](users/333/333646551-vkontakte)<sup>92</sup>
     > Разделенное на касты общество потребления не признает отклонения от выработанной нормы, поэтому никак не может вписаться в него тот, кто еще сохранил в себе остатки человечности – Дикарь.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 2 серии секретных материалов в тексте
 
 * Унесённые ветром ~ [Euphoria](users/106/106304994652616315178-google)<sup>75</sup>
-    > Невероятная книга, безумно понравилась. История Скарлет О'Хара, ее переживания, мысли - настолько все живо описано, что чувствуешь, будто все проживаешь вместе с ней. Ее чувства очень ярко описаны, очень яркие харизматичные персонажи. Понравилась как сама героиня, конечно неоднозначная персона, Ретт Батлер, Эшли, Мелани. Просто теперь одна из лучших прочитанных мною книг.
 
 * Няня в стране чудес ~ [Chiffi](users/105/105831994080785626680-google)<sup>173</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ничто не случайно ~ [Madlax](users/158/158304782-vkontakte)<sup>203</sup>
 
-* Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>201</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>174</sup> 
 [En](users/333/333646551-vkontakte)<sup>91</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>39</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>61</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>75</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>764</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>97</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>173</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>216</sup> 
 [ArenF](users/113/113523157-vkontakte)<sup>1</sup> 
 [Asa Emi](users/130/13093139806079021591-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
 
 
-_13.03.2020 07:12:29_
+_14.03.2020 05:30:15_
