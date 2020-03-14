@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>765</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>40</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>175</sup> 
 [En](users/333/333646551-vkontakte)<sup>91</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sembask](users/595/59531225-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>382</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>75</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>764</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>97</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>216</sup> 
 [ArenF](users/113/113523157-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
 
 
-_14.03.2020 08:57:57_
+_14.03.2020 13:39:25_
