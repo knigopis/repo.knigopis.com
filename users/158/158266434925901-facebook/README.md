@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>97</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>98</sup>
 ---
 
 ## 2020
+
+### Глория - 1. Пять темных сердец
+Наталья Жильцова
+> [2020-03-15] 
+
 
 ### Семь смертей Эвелины Хардкасл
 Стюарт Тёртон
