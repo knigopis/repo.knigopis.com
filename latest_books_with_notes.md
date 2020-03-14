@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Академия невест ~ [Chiffi](users/105/105831994080785626680-google)<sup>175</sup>
 * К дзену на шпильках ~ [Chiffi](users/105/105831994080785626680-google)<sup>174</sup>
 * О дивный новый мир ~ [En](users/333/333646551-vkontakte)<sup>92</sup>
 * Огонь. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>90</sup>
@@ -30,7 +31,6 @@
 * Джерсийский дьявол ~ [En](users/333/333646551-vkontakte)<sup>88</sup>
 * Квази ~ [En](users/333/333646551-vkontakte)<sup>87</sup>
 * Тэсс из рода д'Эрбервиллей ~ [anvonamore](users/595/5957175-vkontakte)<sup>132</sup>
-* Ведьмак. Владычица озера. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>86</sup>
 
 
-_14.03.2020 05:30:15_
+_14.03.2020 05:33:20_

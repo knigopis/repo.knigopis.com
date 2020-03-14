@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия невест ~ [Chiffi](users/105/105831994080785626680-google)<sup>175</sup>
+    > симпатичная любовная фентези. без драконов, но с магами
+
 * К дзену на шпильках ~ [Chiffi](users/105/105831994080785626680-google)<sup>174</sup>
     > Первая половина интересна: про человека,  сделавшего себя. Но когда началось про духовные практики.....  Пара полезных мыслей нет, но  никому не советую
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Разделенное на касты общество потребления не признает отклонения от выработанной нормы, поэтому никак не может вписаться в него тот, кто еще сохранил в себе остатки человечности – Дикарь.
 
 * Огонь. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>90</sup>
-    > 2 серии секретных материалов в тексте
 
 * Унесённые ветром ~ [Euphoria](users/106/106304994652616315178-google)<sup>75</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Что случилось с собакой однажды ночью ~ [Madlax](users/158/158304782-vkontakte)<sup>204</sup>
 
-* Ничто не случайно ~ [Madlax](users/158/158304782-vkontakte)<sup>203</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>174</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>175</sup> 
 [En](users/333/333646551-vkontakte)<sup>91</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>39</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>61</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vasilii](users/486/486520791539517-facebook)<sup>0</sup> 
 
 
-_14.03.2020 05:30:15_
+_14.03.2020 05:33:20_
