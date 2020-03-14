@@ -1,4 +1,16 @@
 {
+    "fHb7Y6u3xI": {
+        "id": "fHb7Y6u3xI",
+        "title": "Звездные дневники Ийона Тихого",
+        "author": "Станислав Лем",
+        "notes": "",
+        "createdAt": "2020-03-14 18:27:01",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 766
+        }
+    },
     "x0TZy68h9d": {
         "id": "x0TZy68h9d",
         "title": "Глория - 1. Пять темных сердец",
@@ -345,18 +357,6 @@
             "id": "4118303370-instagram",
             "nickname": "kita.mei",
             "booksCount": 7
-        }
-    },
-    "ZDtEVZtGiJ": {
-        "id": "ZDtEVZtGiJ",
-        "title": "Светлана",
-        "author": "Жуковскмй В. А.",
-        "notes": "",
-        "createdAt": "2020-03-08 07:33:15",
-        "user": {
-            "id": "4118303370-instagram",
-            "nickname": "kita.mei",
-            "booksCount": 6
         }
     }
 }

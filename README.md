@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>766</sup> 
 [secondjk](users/177/177804866-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>98</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>765</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>40</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>175</sup> 
 [En](users/333/333646551-vkontakte)<sup>91</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Тина](users/109/109673258488840317845-google)<sup>0</sup> 
 
 
-_14.03.2020 17:26:07_
+_14.03.2020 18:27:02_
