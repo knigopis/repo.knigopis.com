@@ -1,4 +1,16 @@
 {
+    "RB-82WdvfW": {
+        "id": "RB-82WdvfW",
+        "title": "Избранница хозяина Бездны",
+        "author": "Боталова Мария",
+        "notes": "сказочка на пару часов.  мило  и ненавязчиво",
+        "createdAt": "2020-03-15 20:40:03",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 176
+        }
+    },
     "TPectVRd-H": {
         "id": "TPectVRd-H",
         "title": "Стюардесса",
@@ -345,18 +357,6 @@
             "id": "4118303370-instagram",
             "nickname": "kita.mei",
             "booksCount": 11
-        }
-    },
-    "IzJHAFDB3n": {
-        "id": "IzJHAFDB3n",
-        "title": "Ночь живых мертвецов",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-03-08 07:36:42",
-        "user": {
-            "id": "4118303370-instagram",
-            "nickname": "kita.mei",
-            "booksCount": 10
         }
     }
 }

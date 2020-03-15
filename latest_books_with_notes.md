@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Избранница хозяина Бездны ~ [Chiffi](users/105/105831994080785626680-google)<sup>176</sup>
 * Темна вежа. Шукач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>91</sup>
 * Академия невест ~ [Chiffi](users/105/105831994080785626680-google)<sup>175</sup>
 * К дзену на шпильках ~ [Chiffi](users/105/105831994080785626680-google)<sup>174</sup>
@@ -30,7 +31,6 @@
 * Касьянов год ~ [Chiffi](users/105/105831994080785626680-google)<sup>168</sup>
 * Академия темных властелинов ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup>
 * Джерсийский дьявол ~ [En](users/333/333646551-vkontakte)<sup>88</sup>
-* Квази ~ [En](users/333/333646551-vkontakte)<sup>87</sup>
 
 
-_15.03.2020 14:24:17_
+_15.03.2020 20:40:03_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Избранница хозяина Бездны ~ [Chiffi](users/105/105831994080785626680-google)<sup>176</sup>
+    > сказочка на пару часов.  мило  и ненавязчиво
+
 * Темна вежа. Шукач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>91</sup>
     > 10/10 Початок історії Роланда.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > симпатичная любовная фентези. без драконов, но с магами
 
 * К дзену на шпильках ~ [Chiffi](users/105/105831994080785626680-google)<sup>174</sup>
-    > Первая половина интересна: про человека,  сделавшего себя. Но когда началось про духовные практики.....  Пара полезных мыслей нет, но  никому не советую
 
 * О дивный новый мир ~ [En](users/333/333646551-vkontakte)<sup>92</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Выгорание ~ [dmiro](users/571/5714115-vkontakte)<sup>20</sup>
 
-* Главное упарвление ~ [Chiffi](users/105/105831994080785626680-google)<sup>171</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>176</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>767</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>91</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>119</sup> 
 [secondjk](users/177/177804866-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>98</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>40</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>175</sup> 
 [En](users/333/333646551-vkontakte)<sup>91</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>61</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>186</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Лисс](users/117/117706099706101024986-google)<sup>0</sup> 
 
 
-_15.03.2020 17:25:55_
+_15.03.2020 20:40:03_
