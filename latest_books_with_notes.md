@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Темна вежа. Шукач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>91</sup>
 * Академия невест ~ [Chiffi](users/105/105831994080785626680-google)<sup>175</sup>
 * К дзену на шпильках ~ [Chiffi](users/105/105831994080785626680-google)<sup>174</sup>
 * О дивный новый мир ~ [En](users/333/333646551-vkontakte)<sup>92</sup>
@@ -30,7 +31,6 @@
 * Академия темных властелинов ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>54</sup>
 * Джерсийский дьявол ~ [En](users/333/333646551-vkontakte)<sup>88</sup>
 * Квази ~ [En](users/333/333646551-vkontakte)<sup>87</sup>
-* Тэсс из рода д'Эрбервиллей ~ [anvonamore](users/595/5957175-vkontakte)<sup>132</sup>
 
 
-_14.03.2020 05:33:20_
+_15.03.2020 14:24:17_

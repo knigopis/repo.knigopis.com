@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>90</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>91</sup>
 ---
 
 ## 2020
+
+### Темна вежа. Шукач
+Стівен Кінг
+> [2020-03-14] 10/10 Початок історії Роланда.
+
 
 ### Русская книга
 Илья Стогов

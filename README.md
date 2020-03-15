@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Темна вежа. Шукач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>91</sup>
+    > 10/10 Початок історії Роланда.
+
 * Академия невест ~ [Chiffi](users/105/105831994080785626680-google)<sup>175</sup>
     > симпатичная любовная фентези. без драконов, но с магами
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Первая половина интересна: про человека,  сделавшего себя. Но когда началось про духовные практики.....  Пара полезных мыслей нет, но  никому не советую
 
 * О дивный новый мир ~ [En](users/333/333646551-vkontakte)<sup>92</sup>
-    > Разделенное на касты общество потребления не признает отклонения от выработанной нормы, поэтому никак не может вписаться в него тот, кто еще сохранил в себе остатки человечности – Дикарь.
 
 * Огонь. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>90</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Главное упарвление ~ [Chiffi](users/105/105831994080785626680-google)<sup>171</sup>
 
-* Что случилось с собакой однажды ночью ~ [Madlax](users/158/158304782-vkontakte)<sup>204</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>91</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>119</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>766</sup> 
 [secondjk](users/177/177804866-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>245</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>133</sup> 
 [Лисс](users/117/117706099706101024986-google)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>228</sup> 
 
 
-_15.03.2020 11:07:36_
+_15.03.2020 14:24:17_
