@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Banaradise](users/272/272054341-yandex)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>176</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>767</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>91</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>19</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>245</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>133</sup> 
-[Лисс](users/117/117706099706101024986-google)<sup>0</sup> 
 
 
-_15.03.2020 20:40:03_
+_16.03.2020 14:38:40_
