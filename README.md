@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Семь смертей Эвелины Хардкасл ~ [Garka](users/115/115753719718250012620-google)<sup>246</sup>
+    > Смесь Дня сурка, Квантового скачка и детективов Агаты Кристи. У главного героя есть 8 дней, каждый из которых он проведёт в теле разных люде. За эти 8 дней он должен назвать имя убийцы Эвелины, либо цикл начнётся заново.
+
 * Избранница хозяина Бездны ~ [Chiffi](users/105/105831994080785626680-google)<sup>176</sup>
     > сказочка на пару часов.  мило  и ненавязчиво
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Початок історії Роланда.
 
 * Академия невест ~ [Chiffi](users/105/105831994080785626680-google)<sup>175</sup>
-    > симпатичная любовная фентези. без драконов, но с магами
 
 * К дзену на шпильках ~ [Chiffi](users/105/105831994080785626680-google)<sup>174</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * На осколках ~ [Chiffi](users/105/105831994080785626680-google)<sup>172</sup>
 
-* Выгорание ~ [dmiro](users/571/5714115-vkontakte)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>246</sup> 
 [Banaradise](users/272/272054341-yandex)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>176</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>767</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>205</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>65</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>19</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>245</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>133</sup> 
 
 
-_16.03.2020 14:38:40_
+_16.03.2020 17:46:15_
