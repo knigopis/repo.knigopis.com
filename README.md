@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[гтлтщцт_фгерщк](users/106/106819207816282739138-google)<sup>1</sup> 
+[гтлтщцт_фгерщк](users/106/106819207816282739138-google)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>246</sup> 
 [Banaradise](users/272/272054341-yandex)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>176</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>19</sup> 
 
 
-_16.03.2020 21:54:46_
+_16.03.2020 21:55:42_

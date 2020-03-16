@@ -1,4 +1,16 @@
 {
+    "CpTfSzAJfv": {
+        "id": "CpTfSzAJfv",
+        "title": "Для былого и грядущего",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2020-03-16 21:55:42",
+        "user": {
+            "id": "106819207816282739138-google",
+            "nickname": "гтлтщцт_фгерщк",
+            "booksCount": 2
+        }
+    },
     "DoIi0nVpwT": {
         "id": "DoIi0nVpwT",
         "title": "Финт",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 381
-        }
-    },
-    "rJ24whCBVB": {
-        "id": "rJ24whCBVB",
-        "title": "О дивный новый мир",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2020-03-08 07:38:28",
-        "user": {
-            "id": "4118303370-instagram",
-            "nickname": "kita.mei",
-            "booksCount": 13
         }
     }
 }
