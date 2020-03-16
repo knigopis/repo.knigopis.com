@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>6</sup> 
 [гтлтщцт_фгерщк](users/106/106819207816282739138-google)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>246</sup> 
 [Banaradise](users/272/272054341-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [gedoumaru](users/887/887381555-yandex)<sup>3</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>205</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>65</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>19</sup> 
 
 
-_16.03.2020 21:55:42_
+_16.03.2020 23:05:59_

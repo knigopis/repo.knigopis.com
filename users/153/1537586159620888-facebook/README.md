@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>5</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>6</sup>
 ---
 
 ## 2020
+
+### Диагностика кармы 1
+Лазарев
+> [2020-03] 
+
 
 ### Юлия Демакова
 #щастьематеринства

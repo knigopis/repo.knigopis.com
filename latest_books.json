@@ -1,4 +1,16 @@
 {
+    "01-zDuU133": {
+        "id": "01-zDuU133",
+        "title": "Диагностика кармы 1",
+        "author": "Лазарев",
+        "notes": "",
+        "createdAt": "2020-03-16 23:05:59",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "CpTfSzAJfv": {
         "id": "CpTfSzAJfv",
         "title": "Для былого и грядущего",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 158
-        }
-    },
-    "KKenzt5YOw": {
-        "id": "KKenzt5YOw",
-        "title": "Сойди, Моисей!",
-        "author": "Уильям Фолкнер",
-        "notes": "",
-        "createdAt": "2020-03-08 13:16:08",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 381
         }
     }
 }
