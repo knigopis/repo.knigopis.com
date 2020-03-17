@@ -1,4 +1,16 @@
 {
+    "fFyVj0qxU2": {
+        "id": "fFyVj0qxU2",
+        "title": "Избранная лирика",
+        "author": "Марина Цветаева",
+        "notes": "",
+        "createdAt": "2020-03-17 20:39:59",
+        "user": {
+            "id": "111878597279669641685-google",
+            "nickname": "Knigolub~",
+            "booksCount": 222
+        }
+    },
     "01-zDuU133": {
         "id": "01-zDuU133",
         "title": "Диагностика кармы 1",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 172
-        }
-    },
-    "E03TpevVPa": {
-        "id": "E03TpevVPa",
-        "title": "Янтарный телескоп",
-        "author": "Филип Пулман",
-        "notes": "",
-        "createdAt": "2020-03-08 13:24:42",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 158
         }
     }
 }
