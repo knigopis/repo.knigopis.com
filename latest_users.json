@@ -1,4 +1,10 @@
 {
+    "149237661-yandex": {
+        "id": "149237661-yandex",
+        "nickname": "vorobeykovmv",
+        "booksCount": 0,
+        "updatedAt": "2020-03-17 07:14:13"
+    },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Madlax",
         "booksCount": 205,
         "updatedAt": "2020-03-06 14:08:21"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 65,
-        "updatedAt": "2020-03-06 11:04:56"
     }
 }
