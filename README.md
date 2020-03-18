@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Игра Эндера ~ [En](users/333/333646551-vkontakte)<sup>92</sup>
+    > Эта книга, помимо довольно интересного и захватывающего сюжета, неплохо так закрученного с точки зрения интриги и психологии, содержащая также множество вопросов на темы морали, человечности, доверия, ненависти и жестокости, манипулирования и взаимоотношений между людьми, по сути своей является отражением нас самих, нашей природы.
+
 * Семь смертей Эвелины Хардкасл ~ [Garka](users/115/115753719718250012620-google)<sup>246</sup>
     > Смесь Дня сурка, Квантового скачка и детективов Агаты Кристи. У главного героя есть 8 дней, каждый из которых он проведёт в теле разных люде. За эти 8 дней он должен назвать имя убийцы Эвелины, либо цикл начнётся заново.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > сказочка на пару часов.  мило  и ненавязчиво
 
 * Темна вежа. Шукач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>91</sup>
-    > 10/10 Початок історії Роланда.
 
 * Академия невест ~ [Chiffi](users/105/105831994080785626680-google)<sup>175</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Няня в стране чудес ~ [Chiffi](users/105/105831994080785626680-google)<sup>173</sup>
 
-* На осколках ~ [Chiffi](users/105/105831994080785626680-google)<sup>172</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>92</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>222</sup> 
 [vorobeykovmv](users/149/149237661-yandex)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>6</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [secondjk](users/177/177804866-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>98</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>40</sup> 
-[En](users/333/333646551-vkontakte)<sup>91</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>61</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>186</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>98</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>205</sup> 
 
 
-_17.03.2020 20:40:00_
+_18.03.2020 07:24:08_
