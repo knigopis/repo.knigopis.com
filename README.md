@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sofi_Didkovskaya](users/378/378233032-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>92</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>222</sup> 
 [vorobeykovmv](users/149/149237661-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>21</sup> 
 [gedoumaru](users/887/887381555-yandex)<sup>3</sup> 
-[Madlax](users/158/158304782-vkontakte)<sup>205</sup> 
 
 
-_18.03.2020 07:24:08_
+_18.03.2020 10:48:35_
