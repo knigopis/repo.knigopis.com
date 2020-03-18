@@ -1,4 +1,10 @@
 {
+    "378233032-vkontakte": {
+        "id": "378233032-vkontakte",
+        "nickname": "Sofi_Didkovskaya",
+        "booksCount": 0,
+        "updatedAt": "2020-03-18 10:48:33"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "gedoumaru",
         "booksCount": 3,
         "updatedAt": "2020-03-06 20:34:29"
-    },
-    "158304782-vkontakte": {
-        "id": "158304782-vkontakte",
-        "nickname": "Madlax",
-        "booksCount": 205,
-        "updatedAt": "2020-03-06 14:08:21"
     }
 }
