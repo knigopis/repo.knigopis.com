@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>63</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>64</sup>
 ---
 
 ## 2020
+
+### Дневной Дозор
+Владимир Васильев и Сергей Лукьяненко
+
 
 ### Сумерки
 Дмитрий Глуховский
