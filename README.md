@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[неважно](users/145/145522558-vkontakte)<sup>0</sup> 
+[неважно](users/145/145522558-vkontakte)<sup>1</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>224</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>152</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>159</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Asa Emi](users/130/13093139806079021591-mailru)<sup>0</sup> 
 
 
-_19.03.2020 23:47:36_
+_19.03.2020 23:49:22_
