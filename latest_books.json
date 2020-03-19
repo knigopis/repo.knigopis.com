@@ -1,4 +1,16 @@
 {
+    "sy_DNBTWKy": {
+        "id": "sy_DNBTWKy",
+        "title": "Эпоха мёртвых. Москва",
+        "author": "Андрей Круз",
+        "notes": "",
+        "createdAt": "2020-03-19 20:05:39",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 152
+        }
+    },
     "dz9rMEh2nG": {
         "id": "dz9rMEh2nG",
         "title": "Эпоха мёртвых. Начало",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 221
-        }
-    },
-    "FOYPjhmFlH": {
-        "id": "FOYPjhmFlH",
-        "title": "Торговец зонтиками",
-        "author": "Франсис Малька",
-        "notes": "",
-        "createdAt": "2020-03-11 19:38:38",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 98
         }
     }
 }

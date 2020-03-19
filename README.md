@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>151</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>152</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>159</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>64</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kita.mei](users/411/4118303370-instagram)<sup>13</sup> 
 
 
-_19.03.2020 20:05:16_
+_19.03.2020 20:05:39_
