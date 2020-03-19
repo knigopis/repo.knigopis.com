@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Плот ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>150</sup>
+    > 4 студента изолированы на плоту против маслянистого живого пятна.
+
 * Унесённые ветром ~ [Euphoria](users/106/106304994652616315178-google)<sup>76</sup>
     > Одна из лучших прочитанных мною книг.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > хороший сборник ,  симпатичные ужастики))
 
 * Игра Эндера ~ [En](users/333/333646551-vkontakte)<sup>92</sup>
-    > Эта книга, помимо довольно интересного и захватывающего сюжета, неплохо так закрученного с точки зрения интриги и психологии, содержащая также множество вопросов на темы морали, человечности, доверия, ненависти и жестокости, манипулирования и взаимоотношений между людьми, по сути своей является отражением нас самих, нашей природы.
 
 * Семь смертей Эвелины Хардкасл ~ [Garka](users/115/115753719718250012620-google)<sup>246</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * О дивный новый мир ~ [En](users/333/333646551-vkontakte)<sup>92</sup>
 
-* Огонь. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>90</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>150</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>159</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>64</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>54</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ArenF](users/113/113523157-vkontakte)<sup>1</sup> 
 [Asa Emi](users/130/13093139806079021591-mailru)<sup>0</sup> 
 [kita.mei](users/411/4118303370-instagram)<sup>13</sup> 
-[youno](users/302/302928912-vkontakte)<sup>44</sup> 
 
 
-_19.03.2020 18:21:24_
+_19.03.2020 20:04:38_
