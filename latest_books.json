@@ -1,4 +1,16 @@
 {
+    "4Eyd6SyZ8q": {
+        "id": "4Eyd6SyZ8q",
+        "title": "Жизнь без отходов",
+        "author": "Анита Вандайк",
+        "notes": "",
+        "createdAt": "2020-03-19 18:21:23",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 159
+        }
+    },
     "9aJSHcNom2": {
         "id": "9aJSHcNom2",
         "title": "Дневной Дозор",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 90
-        }
-    },
-    "sjMO9YiXKo": {
-        "id": "sjMO9YiXKo",
-        "title": "Под местным наркозом",
-        "author": "Гюнтер Грасс",
-        "notes": "",
-        "createdAt": "2020-03-10 10:59:54",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 764
         }
     }
 }

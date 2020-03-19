@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lostinfrost](users/217/217891524-vkontakte)<sup>159</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>64</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>54</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>76</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>216</sup> 
 [ArenF](users/113/113523157-vkontakte)<sup>1</sup> 
 [Asa Emi](users/130/13093139806079021591-mailru)<sup>0</sup> 
-[lostinfrost](users/217/217891524-vkontakte)<sup>158</sup> 
 [kita.mei](users/411/4118303370-instagram)<sup>13</sup> 
 [youno](users/302/302928912-vkontakte)<sup>44</sup> 
 
 
-_19.03.2020 13:37:02_
+_19.03.2020 18:21:24_

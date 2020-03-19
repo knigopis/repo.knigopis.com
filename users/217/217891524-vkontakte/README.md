@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>158</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>159</sup>
 ---
 
 ## 2020
+
+### Жизнь без отходов
+Анита Вандайк
+> [2020-03-19] 
+
 
 ### Янтарный телескоп
 Филип Пулман
