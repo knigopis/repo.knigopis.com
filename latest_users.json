@@ -1,4 +1,10 @@
 {
+    "334696193054530347-mailru": {
+        "id": "334696193054530347-mailru",
+        "nickname": "Даша",
+        "booksCount": 54,
+        "updatedAt": "2020-03-19 01:44:08"
+    },
     "106304994652616315178-google": {
         "id": "106304994652616315178-google",
         "nickname": "Euphoria",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 52,
         "updatedAt": "2020-03-07 23:26:27"
-    },
-    "5714115-vkontakte": {
-        "id": "5714115-vkontakte",
-        "nickname": "dmiro",
-        "booksCount": 21,
-        "updatedAt": "2020-03-07 14:47:05"
     }
 }

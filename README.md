@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Даша](users/334/334696193054530347-mailru)<sup>54</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>76</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>177</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>78</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kita.mei](users/411/4118303370-instagram)<sup>13</sup> 
 [youno](users/302/302928912-vkontakte)<sup>44</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>21</sup> 
 
 
-_18.03.2020 18:37:59_
+_19.03.2020 01:44:08_
