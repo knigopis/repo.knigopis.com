@@ -1,4 +1,10 @@
 {
+    "145522558-vkontakte": {
+        "id": "145522558-vkontakte",
+        "nickname": "неважно",
+        "booksCount": 0,
+        "updatedAt": "2020-03-19 23:47:29"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "Asa Emi",
         "booksCount": 0,
         "updatedAt": "2020-03-09 00:51:43"
-    },
-    "4118303370-instagram": {
-        "id": "4118303370-instagram",
-        "nickname": "kita.mei",
-        "booksCount": 13,
-        "updatedAt": "2020-03-08 07:38:28"
     }
 }
