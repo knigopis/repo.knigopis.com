@@ -1,4 +1,10 @@
 {
+    "115555086213988665739-google": {
+        "id": "115555086213988665739-google",
+        "nickname": "Рыбка Алена",
+        "booksCount": 0,
+        "updatedAt": "2020-03-20 20:37:15"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "ArenF",
         "booksCount": 1,
         "updatedAt": "2020-03-09 09:40:43"
-    },
-    "13093139806079021591-mailru": {
-        "id": "13093139806079021591-mailru",
-        "nickname": "Asa Emi",
-        "booksCount": 0,
-        "updatedAt": "2020-03-09 00:51:43"
     }
 }
