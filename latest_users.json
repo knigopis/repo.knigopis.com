@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 40,
+        "updatedAt": "2020-03-21 01:48:06"
+    },
     "115555086213988665739-google": {
         "id": "115555086213988665739-google",
         "nickname": "Рыбка Алена",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 216,
         "updatedAt": "2020-03-09 12:16:02"
-    },
-    "113523157-vkontakte": {
-        "id": "113523157-vkontakte",
-        "nickname": "ArenF",
-        "booksCount": 1,
-        "updatedAt": "2020-03-09 09:40:43"
     }
 }
