@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>768</sup> 
 [неважно](users/145/145522558-vkontakte)<sup>3</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
 [Рыбка Алена](users/115/115555086213988665739-google)<sup>1</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [гтлтщцт_фгерщк](users/106/106819207816282739138-google)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>246</sup> 
 [Banaradise](users/272/272054341-yandex)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>767</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>91</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>119</sup> 
 [secondjk](users/177/177804866-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>216</sup> 
 
 
-_21.03.2020 12:55:41_
+_21.03.2020 16:25:02_
