@@ -1,4 +1,16 @@
 {
+    "wIm1P-rynJ": {
+        "id": "wIm1P-rynJ",
+        "title": "Забыть Веронику",
+        "author": "Бушуев Констанин",
+        "notes": "детектив",
+        "createdAt": "2020-03-21 19:45:43",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 178
+        }
+    },
     "TXqtpY9FaO": {
         "id": "TXqtpY9FaO",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 119
-        }
-    },
-    "fHb7Y6u3xI": {
-        "id": "fHb7Y6u3xI",
-        "title": "Звездные дневники Ийона Тихого",
-        "author": "Станислав Лем",
-        "notes": "",
-        "createdAt": "2020-03-14 18:27:01",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 766
         }
     }
 }

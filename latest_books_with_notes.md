@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Забыть Веронику ~ [Chiffi](users/105/105831994080785626680-google)<sup>178</sup>
 * Плот ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>150</sup>
 * Унесённые ветром ~ [Euphoria](users/106/106304994652616315178-google)<sup>76</sup>
 * Грань безумия (сборник авторов) ~ [Chiffi](users/105/105831994080785626680-google)<sup>177</sup>
@@ -30,7 +31,6 @@
 * Самая хитрая рыба ~ [Chiffi](users/105/105831994080785626680-google)<sup>170</sup>
 * Бесы с Владимирской горки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>88</sup>
 * Ярмарок нічних жахіть ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>87</sup>
-* Марсианин ~ [En](users/333/333646551-vkontakte)<sup>89</sup>
 
 
-_19.03.2020 20:04:38_
+_21.03.2020 19:45:44_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Забыть Веронику ~ [Chiffi](users/105/105831994080785626680-google)<sup>178</sup>
+    > детектив
+
 * Плот ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>150</sup>
     > 4 студента изолированы на плоту против маслянистого живого пятна.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Одна из лучших прочитанных мною книг.
 
 * Грань безумия (сборник авторов) ~ [Chiffi](users/105/105831994080785626680-google)<sup>177</sup>
-    > хороший сборник ,  симпатичные ужастики))
 
 * Игра Эндера ~ [En](users/333/333646551-vkontakte)<sup>92</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * К дзену на шпильках ~ [Chiffi](users/105/105831994080785626680-google)<sup>174</sup>
 
-* О дивный новый мир ~ [En](users/333/333646551-vkontakte)<sup>92</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>178</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>768</sup> 
 [неважно](users/145/145522558-vkontakte)<sup>3</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>64</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>54</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>76</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>177</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>78</sup> 
 [Sofi_Didkovskaya](users/378/378233032-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>92</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>216</sup> 
 
 
-_21.03.2020 16:25:02_
+_21.03.2020 19:45:44_

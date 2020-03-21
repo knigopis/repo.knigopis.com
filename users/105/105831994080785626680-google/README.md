@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>177</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>178</sup>
 ---
 
 ## 2020
+
+### Забыть Веронику
+Бушуев Констанин
+> [2020-03-22] детектив
+
 
 ### Грань безумия (сборник авторов)
 Дивов Олег
