@@ -1,4 +1,10 @@
 {
+    "145522558-vkontakte": {
+        "id": "145522558-vkontakte",
+        "nickname": "неважно",
+        "booksCount": 3,
+        "updatedAt": "2020-03-21 12:55:41"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -22,12 +28,6 @@
         "nickname": "4apa",
         "booksCount": 41,
         "updatedAt": "2020-03-20 06:05:25"
-    },
-    "145522558-vkontakte": {
-        "id": "145522558-vkontakte",
-        "nickname": "неважно",
-        "booksCount": 2,
-        "updatedAt": "2020-03-20 00:05:43"
     },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",

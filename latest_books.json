@@ -1,4 +1,16 @@
 {
+    "32jQyQQq2R": {
+        "id": "32jQyQQq2R",
+        "title": "вадцать четыре часа из жизни женщины",
+        "author": ": Стефан Цвейг",
+        "notes": "",
+        "createdAt": "2020-03-21 12:55:41",
+        "user": {
+            "id": "145522558-vkontakte",
+            "nickname": "неважно",
+            "booksCount": 3
+        }
+    },
     "EgW4uz33oB": {
         "id": "EgW4uz33oB",
         "title": "Потерянные боги",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 98
-        }
-    },
-    "IZiOVHgRU6": {
-        "id": "IZiOVHgRU6",
-        "title": "Митина любовь",
-        "author": "Иван Бунин",
-        "notes": "",
-        "createdAt": "2020-03-14 13:39:24",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 765
         }
     }
 }
