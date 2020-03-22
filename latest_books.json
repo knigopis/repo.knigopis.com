@@ -1,4 +1,16 @@
 {
+    "DdZpMIlOtl": {
+        "id": "DdZpMIlOtl",
+        "title": "Заголовок книги",
+        "author": "Автор",
+        "notes": "Мои примечания, проверки книгописи как это все выглядит и функционал",
+        "createdAt": "2020-03-22 03:56:52",
+        "user": {
+            "id": "6089959882102706108-mailru",
+            "nickname": "psevdonim",
+            "booksCount": 1
+        }
+    },
     "mzzfJmZLNG": {
         "id": "mzzfJmZLNG",
         "title": "История одного города",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 222
-        }
-    },
-    "01-zDuU133": {
-        "id": "01-zDuU133",
-        "title": "Диагностика кармы 1",
-        "author": "Лазарев",
-        "notes": "",
-        "createdAt": "2020-03-16 23:05:59",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 6
         }
     }
 }
