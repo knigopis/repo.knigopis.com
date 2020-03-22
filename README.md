@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Доки світло не згасне назавжди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>92</sup>
+    > 10/10 примари в руїні знищать тебе, якщо ти змінюватимеш реальність.
+
 * История одного города ~ [mitsakult](users/288/288034278-vkontakte)<sup>8</sup>
     > Нуууу... Ничего страшнее и представить сложно.
     > Гоголь с сатирическим пафосом покуривает в стороне, композиция уникальнейшая, пиздец полнейший происходит. Слов не хватает, поэтому скажу, что слишком жестко для своего времени, и сейчас не осоьо что-то изменилось.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Классически.. Сатиры, желчи столько, что не по себе. Все очень продуманно, в 2020 очень актуально и интересно. Одна из лучших пьес.
 
 * Герой нашего времени ~ [mitsakult](users/288/288034278-vkontakte)<sup>6</sup>
-    > Слишком круто. Вдохновившись Онегиным Лермонтов написал слишком гениальное произведение, которое хочется перечитать. Лишний Печорин, композиция, любовь, неоднозначность, от разных лиц повествование, все, что можно было - больше невозможно.
 
 * Медный всадник ~ [mitsakult](users/288/288034278-vkontakte)<sup>5</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Плот ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>150</sup>
 
-* Унесённые ветром ~ [Euphoria](users/106/106304994652616315178-google)<sup>76</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>92</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>769</sup> 
 [psevdonim](users/608/6089959882102706108-mailru)<sup>0</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>8</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [гтлтщцт_фгерщк](users/106/106819207816282739138-google)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>246</sup> 
 [Banaradise](users/272/272054341-yandex)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>91</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>119</sup> 
 [secondjk](users/177/177804866-vkontakte)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>61</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sembask](users/595/59531225-vkontakte)<sup>0</sup> 
 
 
-_22.03.2020 06:53:35_
+_22.03.2020 09:34:38_

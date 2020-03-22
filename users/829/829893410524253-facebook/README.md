@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>91</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>92</sup>
 ---
 
 ## 2020
+
+### Доки світло не згасне назавжди
+Макс Кідрук
+> [2020-03-22] 10/10 примари в руїні знищать тебе, якщо ти змінюватимеш реальність.
+
 
 ### Темна вежа. Шукач
 Стівен Кінг

@@ -1,4 +1,16 @@
 {
+    "lgJjB9C_R8": {
+        "id": "lgJjB9C_R8",
+        "title": "Доки світло не згасне назавжди",
+        "author": "Макс Кідрук",
+        "notes": "10/10 примари в руїні знищать тебе, якщо ти змінюватимеш реальність.",
+        "createdAt": "2020-03-22 09:34:37",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 92
+        }
+    },
     "4yTHhNnZXf": {
         "id": "4yTHhNnZXf",
         "title": "Квартал Тортилья-флэт",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 177
-        }
-    },
-    "lxd0NqphRE": {
-        "id": "lxd0NqphRE",
-        "title": "Четыре сезоны",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-03-18 14:06:02",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 78
         }
     }
 }
