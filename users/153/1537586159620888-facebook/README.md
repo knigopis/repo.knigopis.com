@@ -1,7 +1,12 @@
-# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>6</sup>
+# List of books read by [](https://www.facebook.com/profile.php?id=1537586159620888)<sup>7</sup>
 ---
 
 ## 2020
+
+### Учимся любить
+Анатолий Некрасов
+> [2020-03] 
+
 
 ### Диагностика кармы 1
 Лазарев

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>7</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>62</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>770</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>78</sup> 
 [Sofi_Didkovskaya](users/378/378233032-vkontakte)<sup>0</sup> 
 [vorobeykovmv](users/149/149237661-yandex)<sup>0</sup> 
-[](users/153/1537586159620888-facebook)<sup>6</sup> 
 [гтлтщцт_фгерщк](users/106/106819207816282739138-google)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>246</sup> 
 [Banaradise](users/272/272054341-yandex)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sembask](users/595/59531225-vkontakte)<sup>0</sup> 
 
 
-_22.03.2020 19:27:33_
+_22.03.2020 22:17:21_

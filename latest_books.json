@@ -1,4 +1,16 @@
 {
+    "wEBcdcItql": {
+        "id": "wEBcdcItql",
+        "title": "Учимся любить",
+        "author": "Анатолий Некрасов",
+        "notes": "",
+        "createdAt": "2020-03-22 22:17:21",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 7
+        }
+    },
     "hM7gPKkUZD": {
         "id": "hM7gPKkUZD",
         "title": "Атлас счастья",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 159
-        }
-    },
-    "9aJSHcNom2": {
-        "id": "9aJSHcNom2",
-        "title": "Дневной Дозор",
-        "author": "Владимир Васильев и Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2020-03-19 13:37:02",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 64
         }
     }
 }
