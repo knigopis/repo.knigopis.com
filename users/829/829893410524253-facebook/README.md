@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>92</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>93</sup>
 ---
 
 ## 2020
+
+### Symetria asymetryczna
+Lukasz Saturczak, Les Belej
+> [2020-03-22] 8/10 wywiady Ukraincow i Polakow o swoich sasiadach.
+
 
 ### Доки світло не згасне назавжди
 Макс Кідрук

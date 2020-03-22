@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Symetria asymetryczna ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup>
+    > 8/10 wywiady Ukraincow i Polakow o swoich sasiadach.
+
 * Доки світло не згасне назавжди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>92</sup>
     > 10/10 примари в руїні знищать тебе, якщо ти змінюватимеш реальність.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Гоголь с сатирическим пафосом покуривает в стороне, композиция уникальнейшая, пиздец полнейший происходит. Слов не хватает, поэтому скажу, что слишком жестко для своего времени, и сейчас не осоьо что-то изменилось.
 
 * Ревизор ~ [mitsakult](users/288/288034278-vkontakte)<sup>7</sup>
-    > Классически.. Сатиры, желчи столько, что не по себе. Все очень продуманно, в 2020 очень актуально и интересно. Одна из лучших пьес.
 
 * Герой нашего времени ~ [mitsakult](users/288/288034278-vkontakte)<sup>6</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Забыть Веронику ~ [Chiffi](users/105/105831994080785626680-google)<sup>178</sup>
 
-* Плот ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>150</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>92</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>769</sup> 
 [psevdonim](users/608/6089959882102706108-mailru)<sup>0</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>8</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sembask](users/595/59531225-vkontakte)<sup>0</sup> 
 
 
-_22.03.2020 09:34:38_
+_22.03.2020 12:47:01_
