@@ -1,4 +1,16 @@
 {
+    "PDxSAKNcZQ": {
+        "id": "PDxSAKNcZQ",
+        "title": "Медный всадник",
+        "author": "А.С. Пушкин",
+        "notes": "Мрачно, тяжко, интересная неоднозначная позиция автора насчет Петра, новаторство маленького человека.",
+        "createdAt": "2020-03-22 01:59:14",
+        "user": {
+            "id": "288034278-vkontakte",
+            "nickname": "mitsakult",
+            "booksCount": 5
+        }
+    },
     "TiGqbEwokI": {
         "id": "TiGqbEwokI",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 246
-        }
-    },
-    "RB-82WdvfW": {
-        "id": "RB-82WdvfW",
-        "title": "Избранница хозяина Бездны",
-        "author": "Боталова Мария",
-        "notes": "сказочка на пару часов.  мило  и ненавязчиво",
-        "createdAt": "2020-03-15 20:40:03",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 176
         }
     }
 }
