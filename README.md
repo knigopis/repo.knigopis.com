@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>770</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>769</sup> 
 [psevdonim](users/608/6089959882102706108-mailru)<sup>0</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>8</sup> 
 [En](users/333/333646551-vkontakte)<sup>93</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sembask](users/595/59531225-vkontakte)<sup>0</sup> 
 
 
-_22.03.2020 12:47:01_
+_22.03.2020 14:25:11_
