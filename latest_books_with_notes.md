@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Отель "У погибшего альпиниста" ~ [En](users/333/333646551-vkontakte)<sup>93</sup>
 * Забыть Веронику ~ [Chiffi](users/105/105831994080785626680-google)<sup>178</sup>
 * Плот ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>150</sup>
 * Унесённые ветром ~ [Euphoria](users/106/106304994652616315178-google)<sup>76</sup>
@@ -30,7 +31,6 @@
 * Ведьмак. Сезон гроз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>89</sup>
 * Самая хитрая рыба ~ [Chiffi](users/105/105831994080785626680-google)<sup>170</sup>
 * Бесы с Владимирской горки ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>88</sup>
-* Ярмарок нічних жахіть ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>87</sup>
 
 
-_21.03.2020 19:45:44_
+_22.03.2020 01:20:27_

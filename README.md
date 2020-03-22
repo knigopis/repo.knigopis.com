@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Отель "У погибшего альпиниста" ~ [En](users/333/333646551-vkontakte)<sup>93</sup>
+    > Действие происходит в горах в некой европейской стране. Полицейский инспектор Петер Глебски, от имени которого и ведётся повествование, приезжает провести отпуск в небольшой отель «У Погибшего Альпиниста», где всеми делами заправляет хозяин Алек Сневар и помощница Кайса. На третий день после прибытия весь отель просыпается от звука лавины, которая ночью перекрыла «Бутылочное горлышко», единственный выезд из ущелья, где расположен отель. Телефон также не работает, и отель таким образом оказывается отрезанным от окружающего мира...
+
 * Забыть Веронику ~ [Chiffi](users/105/105831994080785626680-google)<sup>178</sup>
     > детектив
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 4 студента изолированы на плоту против маслянистого живого пятна.
 
 * Унесённые ветром ~ [Euphoria](users/106/106304994652616315178-google)<sup>76</sup>
-    > Одна из лучших прочитанных мною книг.
 
 * Грань безумия (сборник авторов) ~ [Chiffi](users/105/105831994080785626680-google)<sup>177</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Академия невест ~ [Chiffi](users/105/105831994080785626680-google)<sup>175</sup>
 
-* К дзену на шпильках ~ [Chiffi](users/105/105831994080785626680-google)<sup>174</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>93</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>178</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>768</sup> 
 [неважно](users/145/145522558-vkontakte)<sup>3</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>76</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>78</sup> 
 [Sofi_Didkovskaya](users/378/378233032-vkontakte)<sup>0</sup> 
-[En](users/333/333646551-vkontakte)<sup>92</sup> 
 [vorobeykovmv](users/149/149237661-yandex)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>6</sup> 
 [гтлтщцт_фгерщк](users/106/106819207816282739138-google)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>216</sup> 
 
 
-_21.03.2020 19:45:44_
+_22.03.2020 01:20:27_
