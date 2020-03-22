@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Евгений Онегин ~ [mitsakult](users/288/288034278-vkontakte)<sup>4</sup>
 * Капитанская дочка ~ [mitsakult](users/288/288034278-vkontakte)<sup>3</sup>
 * Отель "У погибшего альпиниста" ~ [En](users/333/333646551-vkontakte)<sup>93</sup>
 * Забыть Веронику ~ [Chiffi](users/105/105831994080785626680-google)<sup>178</sup>
@@ -30,7 +31,6 @@
 * Третья империя ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>227</sup>
 * Русская книга ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup>
 * Ведьмак. Сезон гроз ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>89</sup>
-* Самая хитрая рыба ~ [Chiffi](users/105/105831994080785626680-google)<sup>170</sup>
 
 
-_22.03.2020 01:51:58_
+_22.03.2020 01:57:31_
