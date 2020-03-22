@@ -1,4 +1,10 @@
 {
+    "6089959882102706108-mailru": {
+        "id": "6089959882102706108-mailru",
+        "nickname": "Агентство Недвижимости ORDA",
+        "booksCount": 0,
+        "updatedAt": "2020-03-22 03:51:13"
+    },
     "288034278-vkontakte": {
         "id": "288034278-vkontakte",
         "nickname": "mitsakult",
@@ -172,11 +178,5 @@
         "nickname": "sembask",
         "booksCount": 0,
         "updatedAt": "2020-03-11 17:09:02"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 382,
-        "updatedAt": "2020-03-11 16:31:00"
     }
 }
