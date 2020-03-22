@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Герой нашего времени ~ [mitsakult](users/288/288034278-vkontakte)<sup>6</sup>
 * Медный всадник ~ [mitsakult](users/288/288034278-vkontakte)<sup>5</sup>
 * Евгений Онегин ~ [mitsakult](users/288/288034278-vkontakte)<sup>4</sup>
 * Капитанская дочка ~ [mitsakult](users/288/288034278-vkontakte)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Гарри Поттер и Философский камень ~ [anvonamore](users/595/5957175-vkontakte)<sup>133</sup>
 * Говори на языке диаграмм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>228</sup>
 * Третья империя ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>227</sup>
-* Русская книга ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>90</sup>
 
 
-_22.03.2020 01:59:14_
+_22.03.2020 02:02:15_
