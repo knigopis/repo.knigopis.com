@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 42,
+        "updatedAt": "2020-03-23 19:37:42"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -76,12 +82,6 @@
         "nickname": "GvenVivar ",
         "booksCount": 99,
         "updatedAt": "2020-03-20 16:11:29"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 41,
-        "updatedAt": "2020-03-20 06:05:25"
     },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",

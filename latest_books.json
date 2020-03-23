@@ -1,4 +1,16 @@
 {
+    "iGsrC0XQ-g": {
+        "id": "iGsrC0XQ-g",
+        "title": "Новая Россия, или Гардарика",
+        "author": "М. Ходорковский",
+        "notes": "",
+        "createdAt": "2020-03-23 19:37:42",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 42
+        }
+    },
     "RmYTGw0Cri": {
         "id": "RmYTGw0Cri",
         "title": "Маркеры. Смешиваем цвета и работаем над оттенками",
@@ -345,18 +357,6 @@
             "id": "111878597279669641685-google",
             "nickname": "Knigolub~",
             "booksCount": 223
-        }
-    },
-    "sy_DNBTWKy": {
-        "id": "sy_DNBTWKy",
-        "title": "Эпоха мёртвых. Москва",
-        "author": "Андрей Круз",
-        "notes": "",
-        "createdAt": "2020-03-19 20:05:39",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 152
         }
     }
 }
