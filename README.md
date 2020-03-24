@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ela.shur](users/668/6688058-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>42</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>63</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>771</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [secondjk](users/177/177804866-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>186</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>98</sup> 
-[sembask](users/595/59531225-vkontakte)<sup>0</sup> 
 
 
-_23.03.2020 19:37:42_
+_24.03.2020 08:25:14_
