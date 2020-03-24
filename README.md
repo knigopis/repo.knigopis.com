@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коробка в форме сердца ~ [En](users/333/333646551-vkontakte)<sup>94</sup>
+    > Вот вам бесплатный совет: никогда не покупайте через Интернет привидение. Тем более если к нему впридачу прилагается его любимый черный костюм. Иначе с вами может случиться точно такая же история, какая произошла со знаменитым, но уже далеко не молодым рок-музыкантом Джудасом Койном, проживавшем в тиши и покое своего загородного дома вместе с двумя собаками и молодой готической подружкой. Попавшись на сетевую удочку и сделав злополучный заказ, Джуд получил посылку - коробку в форме сердца с вышеупомянутым костюмом внутри.
+    > 
+    > Лучше бы он этого не делал...
+
 * Symetria asymetryczna ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup>
     > 8/10 wywiady Ukraincow i Polakow o swoich sasiadach.
 
@@ -12,8 +17,6 @@ Do not use pull requests to make changes here.
     > 10/10 примари в руїні знищать тебе, якщо ти змінюватимеш реальність.
 
 * История одного города ~ [mitsakult](users/288/288034278-vkontakte)<sup>8</sup>
-    > Нуууу... Ничего страшнее и представить сложно.
-    > Гоголь с сатирическим пафосом покуривает в стороне, композиция уникальнейшая, пиздец полнейший происходит. Слов не хватает, поэтому скажу, что слишком жестко для своего времени, и сейчас не осоьо что-то изменилось.
 
 * Ревизор ~ [mitsakult](users/288/288034278-vkontakte)<sup>7</sup>
 
@@ -27,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Отель "У погибшего альпиниста" ~ [En](users/333/333646551-vkontakte)<sup>93</sup>
 
-* Забыть Веронику ~ [Chiffi](users/105/105831994080785626680-google)<sup>178</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>94</sup> 
 [ela.shur](users/668/6688058-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>42</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>63</sup> 
@@ -43,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup> 
 [psevdonim](users/608/6089959882102706108-mailru)<sup>0</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>8</sup> 
-[En](users/333/333646551-vkontakte)<sup>93</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>178</sup> 
 [неважно](users/145/145522558-vkontakte)<sup>3</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>98</sup> 
 
 
-_24.03.2020 08:25:14_
+_24.03.2020 15:05:28_
