@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Все хреново ~ [dmiro](users/571/5714115-vkontakte)<sup>22</sup>
 * Коробка в форме сердца ~ [En](users/333/333646551-vkontakte)<sup>94</sup>
 * Symetria asymetryczna ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup>
 * Доки світло не згасне назавжди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>92</sup>
@@ -30,7 +31,6 @@
 * Что случилось с собакой однажды ночью ~ [Madlax](users/158/158304782-vkontakte)<sup>204</sup>
 * Ничто не случайно ~ [Madlax](users/158/158304782-vkontakte)<sup>203</sup>
 * Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>201</sup>
-* Зеркало времени ~ [Madlax](users/158/158304782-vkontakte)<sup>200</sup>
 
 
-_24.03.2020 15:05:28_
+_25.03.2020 06:03:15_
