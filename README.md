@@ -47,6 +47,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Samog](users/100/100808680899219788448-google)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>22</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>384</sup> 
 [En](users/333/333646551-vkontakte)<sup>94</sup> 
@@ -76,7 +77,6 @@ _More notes [here](latest_books_with_notes.md)._
 [гтлтщцт_фгерщк](users/106/106819207816282739138-google)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>246</sup> 
 [Banaradise](users/272/272054341-yandex)<sup>0</sup> 
-[secondjk](users/177/177804866-vkontakte)<sup>0</sup> 
 
 
-_25.03.2020 06:03:15_
+_25.03.2020 15:56:21_
