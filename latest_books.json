@@ -1,4 +1,16 @@
 {
+    "CLhsXzAiEj": {
+        "id": "CLhsXzAiEj",
+        "title": "Случайная вакансия",
+        "author": "Джоан Роллинг",
+        "notes": "",
+        "createdAt": "2020-03-25 04:34:19",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 383
+        }
+    },
     "R0RZfoRZVT": {
         "id": "R0RZfoRZVT",
         "title": "Коробка в форме сердца",
@@ -345,18 +357,6 @@
             "id": "145522558-vkontakte",
             "nickname": "неважно",
             "booksCount": 1
-        }
-    },
-    "4399MhqqNS": {
-        "id": "4399MhqqNS",
-        "title": "Наймичка",
-        "author": "Тарас Шевченко",
-        "notes": "",
-        "createdAt": "2020-03-19 21:13:55",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 224
         }
     }
 }
