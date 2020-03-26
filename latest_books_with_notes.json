@@ -1,4 +1,16 @@
 {
+    "HaArOB-lVb": {
+        "id": "HaArOB-lVb",
+        "title": "Мор, ученик Смерти",
+        "author": "Терри Пратчетт",
+        "notes": "13/10",
+        "createdAt": "2020-03-26 18:36:41",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 55
+        }
+    },
     "MLoAjO48OX": {
         "id": "MLoAjO48OX",
         "title": "Терроо",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 171
-        }
-    },
-    "znsBjf72Gp": {
-        "id": "znsBjf72Gp",
-        "title": "Что случилось с собакой однажды ночью",
-        "author": "Марк Хэддон",
-        "notes": "История от имени мальчика-аутиста.",
-        "createdAt": "2020-03-06 14:07:50",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 204
         }
     }
 }

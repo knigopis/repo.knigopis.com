@@ -1,4 +1,10 @@
 {
+    "310646815-vkontakte": {
+        "id": "310646815-vkontakte",
+        "nickname": "stamovashahzada",
+        "booksCount": 55,
+        "updatedAt": "2020-03-26 18:36:41"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 246,
         "updatedAt": "2020-03-16 17:46:15"
-    },
-    "272054341-yandex": {
-        "id": "272054341-yandex",
-        "nickname": "Banaradise",
-        "booksCount": 0,
-        "updatedAt": "2020-03-16 14:38:33"
     }
 }
