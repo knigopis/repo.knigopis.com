@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Невеста принца и волшебные бабочки ~ [Chiffi](users/105/105831994080785626680-google)<sup>179</sup>
+    > милая сказочка для карантина. приятнее  чем просто любовное фентези (порадовала пародия на Гарри Поттера)))
+
 * Мор, ученик Смерти ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup>
     > 13/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 омновано на реальных србытиях. Моряки в поискпх Северо-Западного прохода.
 
 * Пепел империй ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>94</sup>
-    > 7/10 переодизация исторических закономерностей.
 
 * Все хреново ~ [dmiro](users/571/5714115-vkontakte)<sup>22</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ревизор ~ [mitsakult](users/288/288034278-vkontakte)<sup>7</sup>
 
-* Герой нашего времени ~ [mitsakult](users/288/288034278-vkontakte)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>179</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>775</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>95</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
 [psevdonim](users/608/6089959882102706108-mailru)<sup>0</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>8</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>178</sup> 
 [неважно](users/145/145522558-vkontakte)<sup>3</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
 [Рыбка Алена](users/115/115555086213988665739-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>246</sup> 
 
 
-_26.03.2020 18:36:42_
+_26.03.2020 18:37:57_

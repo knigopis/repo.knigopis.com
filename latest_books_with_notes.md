@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Невеста принца и волшебные бабочки ~ [Chiffi](users/105/105831994080785626680-google)<sup>179</sup>
 * Мор, ученик Смерти ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup>
 * Терроо ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>95</sup>
 * Пепел империй ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>94</sup>
@@ -30,7 +31,6 @@
 * Няня в стране чудес ~ [Chiffi](users/105/105831994080785626680-google)<sup>173</sup>
 * На осколках ~ [Chiffi](users/105/105831994080785626680-google)<sup>172</sup>
 * Выгорание ~ [dmiro](users/571/5714115-vkontakte)<sup>20</sup>
-* Главное упарвление ~ [Chiffi](users/105/105831994080785626680-google)<sup>171</sup>
 
 
-_26.03.2020 18:36:42_
+_26.03.2020 18:37:57_
