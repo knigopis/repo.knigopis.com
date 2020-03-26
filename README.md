@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Терроо ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>95</sup>
+    > 8/10 омновано на реальных србытиях. Моряки в поискпх Северо-Западного прохода.
+
 * Пепел империй ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>94</sup>
     > 7/10 переодизация исторических закономерностей.
 
@@ -24,9 +27,6 @@ Do not use pull requests to make changes here.
     > https://www.livelib.ru/book/1003218765/quotes/~3
 
 * Коробка в форме сердца ~ [En](users/333/333646551-vkontakte)<sup>94</sup>
-    > Вот вам бесплатный совет: никогда не покупайте через Интернет привидение. Тем более если к нему впридачу прилагается его любимый черный костюм. Иначе с вами может случиться точно такая же история, какая произошла со знаменитым, но уже далеко не молодым рок-музыкантом Джудасом Койном, проживавшем в тиши и покое своего загородного дома вместе с двумя собаками и молодой готической подружкой. Попавшись на сетевую удочку и сделав злополучный заказ, Джуд получил посылку - коробку в форме сердца с вышеупомянутым костюмом внутри.
-    > 
-    > Лучше бы он этого не делал...
 
 * Symetria asymetryczna ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup>
 
@@ -40,15 +40,13 @@ Do not use pull requests to make changes here.
 
 * Медный всадник ~ [mitsakult](users/288/288034278-vkontakte)<sup>5</sup>
 
-* Евгений Онегин ~ [mitsakult](users/288/288034278-vkontakte)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>95</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>773</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>94</sup> 
 [](users/153/1537586159620888-facebook)<sup>8</sup> 
 [Samog](users/100/100808680899219788448-google)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>22</sup> 
@@ -79,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Banaradise](users/272/272054341-yandex)<sup>0</sup> 
 
 
-_26.03.2020 15:19:35_
+_26.03.2020 16:08:58_

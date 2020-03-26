@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>94</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>95</sup>
 ---
 
 ## 2020
+
+### Терроо
+Дэн Симмонс
+> [2020-03-25] 8/10 омновано на реальных србытиях. Моряки в поискпх Северо-Западного прохода.
+
 
 ### Пепел империй
 Илья Стогов
