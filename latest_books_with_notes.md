@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пепел империй ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>94</sup>
 * Все хреново ~ [dmiro](users/571/5714115-vkontakte)<sup>22</sup>
 * Коробка в форме сердца ~ [En](users/333/333646551-vkontakte)<sup>94</sup>
 * Symetria asymetryczna ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup>
@@ -30,7 +31,6 @@
 * Главное упарвление ~ [Chiffi](users/105/105831994080785626680-google)<sup>171</sup>
 * Что случилось с собакой однажды ночью ~ [Madlax](users/158/158304782-vkontakte)<sup>204</sup>
 * Ничто не случайно ~ [Madlax](users/158/158304782-vkontakte)<sup>203</sup>
-* Огонь ~ [Madlax](users/158/158304782-vkontakte)<sup>201</sup>
 
 
-_25.03.2020 06:03:15_
+_26.03.2020 07:16:09_

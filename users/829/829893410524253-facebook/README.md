@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>93</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>94</sup>
 ---
 
 ## 2020
+
+### Пепел империй
+Илья Стогов
+> [2020-03-25] 7/10 переодизация исторических закономерностей.
+
 
 ### Symetria asymetryczna
 Lukasz Saturczak, Les Belej

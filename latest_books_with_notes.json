@@ -1,4 +1,16 @@
 {
+    "eeUQcJc2ka": {
+        "id": "eeUQcJc2ka",
+        "title": "Пепел империй",
+        "author": "Илья Стогов",
+        "notes": "7/10 переодизация исторических закономерностей.",
+        "createdAt": "2020-03-26 07:16:08",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 94
+        }
+    },
     "NZxx7fOE4Q": {
         "id": "NZxx7fOE4Q",
         "title": "Все хреново",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 203
-        }
-    },
-    "R973dCEZNX": {
-        "id": "R973dCEZNX",
-        "title": "Огонь",
-        "author": "Барбюс Анри",
-        "notes": "Сильная и интересная история про солдат на войне.",
-        "createdAt": "2020-03-06 14:01:54",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 201
         }
     }
 }

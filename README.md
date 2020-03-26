@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пепел империй ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>94</sup>
+    > 7/10 переодизация исторических закономерностей.
+
 * Все хреново ~ [dmiro](users/571/5714115-vkontakte)<sup>22</sup>
     > Единственно истинная форма свободы, единственно этичная форма свободы – это свобода через самоограничение. Это не право выбирать в этой жизни все, что захочешь, а право выбирать то, от чего ты откажешься.
     > 
@@ -26,7 +29,6 @@ Do not use pull requests to make changes here.
     > Лучше бы он этого не делал...
 
 * Symetria asymetryczna ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup>
-    > 8/10 wywiady Ukraincow i Polakow o swoich sasiadach.
 
 * Доки світло не згасне назавжди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>92</sup>
 
@@ -40,13 +42,12 @@ Do not use pull requests to make changes here.
 
 * Евгений Онегин ~ [mitsakult](users/288/288034278-vkontakte)<sup>4</sup>
 
-* Капитанская дочка ~ [mitsakult](users/288/288034278-vkontakte)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>94</sup> 
 [](users/153/1537586159620888-facebook)<sup>8</sup> 
 [Samog](users/100/100808680899219788448-google)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>22</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>63</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>771</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup> 
 [psevdonim](users/608/6089959882102706108-mailru)<sup>0</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>8</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>178</sup> 
@@ -79,4 +79,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Banaradise](users/272/272054341-yandex)<sup>0</sup> 
 
 
-_26.03.2020 00:26:12_
+_26.03.2020 07:16:09_
