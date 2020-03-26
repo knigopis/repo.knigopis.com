@@ -1,7 +1,12 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>224</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>225</sup>
 ---
 
 ## 2020
+
+### Кукольный дом
+Генрик Ибсен
+> [2020-03-26] 
+
 
 ### Наймичка
 Тарас Шевченко
