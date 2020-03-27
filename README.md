@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Vito](users/128/128796434813510-facebook)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>225</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>179</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofi_Didkovskaya](users/378/378233032-vkontakte)<sup>0</sup> 
 [vorobeykovmv](users/149/149237661-yandex)<sup>0</sup> 
 [гтлтщцт_фгерщк](users/106/106819207816282739138-google)<sup>2</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>246</sup> 
 
 
-_26.03.2020 21:09:42_
+_27.03.2020 08:24:59_
