@@ -1,4 +1,10 @@
 {
+    "128796434813510-facebook": {
+        "id": "128796434813510-facebook",
+        "nickname": "Vito",
+        "booksCount": 0,
+        "updatedAt": "2020-03-27 08:24:55"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "гтлтщцт_фгерщк",
         "booksCount": 2,
         "updatedAt": "2020-03-16 21:55:42"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 246,
-        "updatedAt": "2020-03-16 17:46:15"
     }
 }
