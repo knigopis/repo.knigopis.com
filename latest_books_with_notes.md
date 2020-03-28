@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Любимая воина и источник силы ~ [Chiffi](users/105/105831994080785626680-google)<sup>180</sup>
 * Невеста принца и волшебные бабочки ~ [Chiffi](users/105/105831994080785626680-google)<sup>179</sup>
 * Мор, ученик Смерти ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup>
 * Терроо ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>95</sup>
@@ -30,7 +31,6 @@
 * Огонь. Секретные материалы ~ [En](users/333/333646551-vkontakte)<sup>90</sup>
 * Няня в стране чудес ~ [Chiffi](users/105/105831994080785626680-google)<sup>173</sup>
 * На осколках ~ [Chiffi](users/105/105831994080785626680-google)<sup>172</sup>
-* Выгорание ~ [dmiro](users/571/5714115-vkontakte)<sup>20</sup>
 
 
-_26.03.2020 18:37:57_
+_28.03.2020 06:11:25_
