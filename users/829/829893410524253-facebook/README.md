@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>95</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>96</sup>
 ---
 
 ## 2020
+
+### Ведьмак. Что-то кончается, что-то начинается
+Анджей Сапковский
+> [2020-03-26] 6/10 Свадьба Йенифер и Ведьмака. Рассказ.
+
 
 ### Террор
 Дэн Симмонс

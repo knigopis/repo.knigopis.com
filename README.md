@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ведьмак. Что-то кончается, что-то начинается ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>96</sup>
+    > 6/10 Свадьба Йенифер и Ведьмака. Рассказ.
+
 * Любимая воина и источник силы ~ [Chiffi](users/105/105831994080785626680-google)<sup>180</sup>
     > вторая книга цикла. Лучше бы все уместили в одну. Неплохо, но половину книгу "Я посмотрела на любимого"
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > милая сказочка для карантина. приятнее  чем просто любовное фентези (порадовала пародия на Гарри Поттера)))
 
 * Мор, ученик Смерти ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup>
-    > 13/10
 
 * Терроо ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>95</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Доки світло не згасне назавжди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>92</sup>
 
-* История одного города ~ [mitsakult](users/288/288034278-vkontakte)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>96</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>180</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>100</sup> 
 [Vito](users/128/128796434813510-facebook)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>225</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>775</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>95</sup> 
 [](users/153/1537586159620888-facebook)<sup>8</sup> 
 [Samog](users/100/100808680899219788448-google)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [гтлтщцт_фгерщк](users/106/106819207816282739138-google)<sup>2</sup> 
 
 
-_28.03.2020 06:11:25_
+_28.03.2020 11:47:15_
