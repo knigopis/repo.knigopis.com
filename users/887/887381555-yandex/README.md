@@ -3,8 +3,8 @@
 
 ## 2020
 
-### Pride and Prejudice
-J. Austen
+### Гордость и предубеждение
+Джейн Остин
 
 
 ### Neverwhere
