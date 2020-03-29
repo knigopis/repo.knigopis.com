@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Любовь понарошку или Райд Элле против ~ [Chiffi](users/105/105831994080785626680-google)<sup>181</sup>
+    > третья книга цикла. Любовное фентэзи про магию и оборотней
+
 * Ведьмак. Что-то кончается, что-то начинается ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>96</sup>
     > 6/10 Свадьба Йенифер и Ведьмака. Рассказ.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > вторая книга цикла. Лучше бы все уместили в одну. Неплохо, но половину книгу "Я посмотрела на любимого"
 
 * Невеста принца и волшебные бабочки ~ [Chiffi](users/105/105831994080785626680-google)<sup>179</sup>
-    > милая сказочка для карантина. приятнее  чем просто любовное фентези (порадовала пародия на Гарри Поттера)))
 
 * Мор, ученик Смерти ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Symetria asymetryczna ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup>
 
-* Доки світло не згасне назавжди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>92</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>181</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>1</sup> 
 [](users/153/1537586159620888-facebook)<sup>9</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>96</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>180</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>100</sup> 
 [Vito](users/128/128796434813510-facebook)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>225</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vorobeykovmv](users/149/149237661-yandex)<sup>0</sup> 
 
 
-_29.03.2020 05:49:04_
+_29.03.2020 09:26:25_
