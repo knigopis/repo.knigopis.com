@@ -1,4 +1,16 @@
 {
+    "O6hTuybI1B": {
+        "id": "O6hTuybI1B",
+        "title": "Шамбала",
+        "author": "Чогьям Трунгпа Ринпоче",
+        "notes": "Книга не до конца понятная, похожая на Кастанеду, много воды",
+        "createdAt": "2020-03-29 05:49:04",
+        "user": {
+            "id": "111367585493471720963-google",
+            "nickname": "Fenix",
+            "booksCount": 1
+        }
+    },
     "yX5fApgo_h": {
         "id": "yX5fApgo_h",
         "title": "Магиня для Эмиссара",
@@ -345,18 +357,6 @@
             "id": "6089959882102706108-mailru",
             "nickname": "psevdonim",
             "booksCount": 2
-        }
-    },
-    "DdZpMIlOtl": {
-        "id": "DdZpMIlOtl",
-        "title": "Заголовок книги",
-        "author": "Автор",
-        "notes": "Мои примечания, проверки книгописи как это все выглядит и функционал",
-        "createdAt": "2020-03-22 03:56:52",
-        "user": {
-            "id": "6089959882102706108-mailru",
-            "nickname": "psevdonim",
-            "booksCount": 1
         }
     }
 }
