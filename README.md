@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/111/111367585493471720963-google)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>9</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>96</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>180</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>78</sup> 
 [Sofi_Didkovskaya](users/378/378233032-vkontakte)<sup>0</sup> 
 [vorobeykovmv](users/149/149237661-yandex)<sup>0</sup> 
-[гтлтщцт_фгерщк](users/106/106819207816282739138-google)<sup>2</sup> 
 
 
-_28.03.2020 21:49:13_
+_29.03.2020 05:45:05_
