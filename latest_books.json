@@ -1,4 +1,16 @@
 {
+    "yEvhH_7xMo": {
+        "id": "yEvhH_7xMo",
+        "title": "Патриот",
+        "author": "Пратчетт, Терри",
+        "notes": "Хорошая сатира на причины, цели и результаты войны между государствами. Диалоги Витинари и Ваймса 10/10",
+        "createdAt": "2020-03-29 19:22:41",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 247
+        }
+    },
     "x8vfxMG_3z": {
         "id": "x8vfxMG_3z",
         "title": "Любовь понарошку или Райд Элле против",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 92
-        }
-    },
-    "4yTHhNnZXf": {
-        "id": "4yTHhNnZXf",
-        "title": "Квартал Тортилья-флэт",
-        "author": "Джон Стейнбек",
-        "notes": "",
-        "createdAt": "2020-03-22 06:53:34",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 769
         }
     }
 }

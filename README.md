@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Патриот ~ [Garka](users/115/115753719718250012620-google)<sup>247</sup>
+    > Хорошая сатира на причины, цели и результаты войны между государствами. Диалоги Витинари и Ваймса 10/10
+
 * Любовь понарошку или Райд Элле против ~ [Chiffi](users/105/105831994080785626680-google)<sup>181</sup>
     > третья книга цикла. Любовное фентэзи про магию и оборотней
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Свадьба Йенифер и Ведьмака. Рассказ.
 
 * Любимая воина и источник силы ~ [Chiffi](users/105/105831994080785626680-google)<sup>180</sup>
-    > вторая книга цикла. Лучше бы все уместили в одну. Неплохо, но половину книгу "Я посмотрела на любимого"
 
 * Невеста принца и волшебные бабочки ~ [Chiffi](users/105/105831994080785626680-google)<sup>179</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Коробка в форме сердца ~ [En](users/333/333646551-vkontakte)<sup>94</sup>
 
-* Symetria asymetryczna ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>247</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>181</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>1</sup> 
 [](users/153/1537586159620888-facebook)<sup>9</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>76</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>78</sup> 
 [Sofi_Didkovskaya](users/378/378233032-vkontakte)<sup>0</sup> 
-[vorobeykovmv](users/149/149237661-yandex)<sup>0</sup> 
 
 
-_29.03.2020 09:26:25_
+_29.03.2020 19:22:42_

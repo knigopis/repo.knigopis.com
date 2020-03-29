@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 247,
+        "updatedAt": "2020-03-29 19:22:41"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Sofi_Didkovskaya",
         "booksCount": 0,
         "updatedAt": "2020-03-18 10:48:33"
-    },
-    "149237661-yandex": {
-        "id": "149237661-yandex",
-        "nickname": "vorobeykovmv",
-        "booksCount": 0,
-        "updatedAt": "2020-03-17 07:14:13"
     }
 }
