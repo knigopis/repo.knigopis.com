@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>63</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>64</sup>
 ---
 
 ## 2020
+
+### Если с ребёнком трудно
+Людмила Петрановская
+> [2020-03-28] 
+
 
 ### Маркеры. Смешиваем цвета и работаем над оттенками
 Елизавета Краснова
