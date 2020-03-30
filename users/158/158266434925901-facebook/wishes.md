@@ -1,6 +1,6 @@
 # Wish list of books by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)
 ---
 
-### `3` Усмешка тьмы
-Рэмси Кэмпбелл
+### `1` Пандемия
+Франк Тилье
 
