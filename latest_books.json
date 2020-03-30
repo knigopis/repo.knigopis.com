@@ -1,4 +1,16 @@
 {
+    "Ed6MoMBzhM": {
+        "id": "Ed6MoMBzhM",
+        "title": "Легенды и мифы Древней Греции",
+        "author": "Н. А. Кун",
+        "notes": "",
+        "createdAt": "2020-03-30 14:26:52",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 41
+        }
+    },
     "DiMCRfNo9L": {
         "id": "DiMCRfNo9L",
         "title": "Преступление и наказание",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 94
-        }
-    },
-    "iGsrC0XQ-g": {
-        "id": "iGsrC0XQ-g",
-        "title": "Новая Россия, или Гардарика",
-        "author": "М. Ходорковский",
-        "notes": "",
-        "createdAt": "2020-03-23 19:37:42",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 42
         }
     }
 }

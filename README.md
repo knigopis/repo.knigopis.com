@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>41</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>83</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>98</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>20</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [psevdonim](users/608/6089959882102706108-mailru)<sup>0</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>8</sup> 
 [неважно](users/145/145522558-vkontakte)<sup>3</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>40</sup> 
 [Рыбка Алена](users/115/115555086213988665739-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>152</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>159</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>54</sup> 
 
 
-_30.03.2020 12:36:06_
+_30.03.2020 14:26:52_
