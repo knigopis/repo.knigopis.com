@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Побудь в моей шкуре ~ [En](users/333/333646551-vkontakte)<sup>95</sup>
 * Патриот ~ [Garka](users/115/115753719718250012620-google)<sup>247</sup>
 * Любовь понарошку или Райд Элле против ~ [Chiffi](users/105/105831994080785626680-google)<sup>181</sup>
 * Ведьмак. Что-то кончается, что-то начинается ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>96</sup>
@@ -30,7 +31,6 @@
 * Темна вежа. Шукач ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>91</sup>
 * Академия невест ~ [Chiffi](users/105/105831994080785626680-google)<sup>175</sup>
 * К дзену на шпильках ~ [Chiffi](users/105/105831994080785626680-google)<sup>174</sup>
-* О дивный новый мир ~ [En](users/333/333646551-vkontakte)<sup>92</sup>
 
 
-_29.03.2020 19:22:42_
+_30.03.2020 02:06:45_

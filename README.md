@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Побудь в моей шкуре ~ [En](users/333/333646551-vkontakte)<sup>95</sup>
+    > Ездит по дороге А-9 в Шотландии женщина по имени Иссерли и подбирает автостопщиков. Только мужчин. А потом тем, кто заинтересовал ее, вкалывает загадочную инъекцию... Эта парадоксальная книга сочетает в себе притчу и хоррор, фантастику и психологический роман, в очередной раз заставляя задуматься над вечным вопросом: что такое человек? Лихорадочное желание переворачивать одну страницу за другой подкрадывается тихо и незаметно по мере того, как Фейбер открывает разнообразные грани образа своей странной героини.
+
 * Патриот ~ [Garka](users/115/115753719718250012620-google)<sup>247</sup>
     > Хорошая сатира на причины, цели и результаты войны между государствами. Диалоги Витинари и Ваймса 10/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > третья книга цикла. Любовное фентэзи про магию и оборотней
 
 * Ведьмак. Что-то кончается, что-то начинается ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>96</sup>
-    > 6/10 Свадьба Йенифер и Ведьмака. Рассказ.
 
 * Любимая воина и источник силы ~ [Chiffi](users/105/105831994080785626680-google)<sup>180</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Все хреново ~ [dmiro](users/571/5714115-vkontakte)<sup>22</sup>
 
-* Коробка в форме сердца ~ [En](users/333/333646551-vkontakte)<sup>94</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>95</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>66</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>65</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>247</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Samog](users/100/100808680899219788448-google)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>22</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>384</sup> 
-[En](users/333/333646551-vkontakte)<sup>94</sup> 
 [ela.shur](users/668/6688058-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>42</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>78</sup> 
 
 
-_29.03.2020 21:04:02_
+_30.03.2020 02:06:45_
