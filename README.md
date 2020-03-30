@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>83</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>98</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>20</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>182</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lostinfrost](users/217/217891524-vkontakte)<sup>159</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>64</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>54</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>76</sup> 
 
 
-_30.03.2020 12:19:07_
+_30.03.2020 12:36:06_

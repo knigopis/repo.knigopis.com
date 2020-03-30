@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 83,
+        "updatedAt": "2020-03-30 12:36:06"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "Даша",
         "booksCount": 54,
         "updatedAt": "2020-03-19 01:44:08"
-    },
-    "106304994652616315178-google": {
-        "id": "106304994652616315178-google",
-        "nickname": "Euphoria",
-        "booksCount": 76,
-        "updatedAt": "2020-03-18 18:37:59"
     }
 }
