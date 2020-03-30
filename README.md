@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>385</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>41</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>83</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>98</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>775</sup> 
 [Samog](users/100/100808680899219788448-google)<sup>0</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>22</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>384</sup> 
 [ela.shur](users/668/6688058-vkontakte)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>42</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>54</sup> 
 
 
-_30.03.2020 14:26:52_
+_30.03.2020 18:59:24_
