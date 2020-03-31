@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>51</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>65</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>66</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>385</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Рыбка Алена](users/115/115555086213988665739-google)<sup>1</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>152</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>159</sup> 
-[Даша](users/334/334696193054530347-mailru)<sup>54</sup> 
 
 
-_31.03.2020 09:41:21_
+_31.03.2020 10:13:23_
