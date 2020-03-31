@@ -1,4 +1,16 @@
 {
+    "MtTU5HHBzH": {
+        "id": "MtTU5HHBzH",
+        "title": "Цветы для Элджернона",
+        "author": "Даниэль Киз",
+        "notes": "",
+        "createdAt": "2020-03-31 09:41:21",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 65
+        }
+    },
     "Kpz9TlbWRd": {
         "id": "Kpz9TlbWRd",
         "title": "Живые люди",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 22
-        }
-    },
-    "c9Z1WvSRVV": {
-        "id": "c9Z1WvSRVV",
-        "title": "Дзевяць жыццёў Віта Морэ",
-        "author": "Кірыл Стаселька",
-        "notes": "",
-        "createdAt": "2020-03-25 04:35:24",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 384
         }
     }
 }
