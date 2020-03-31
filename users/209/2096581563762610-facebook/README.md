@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>65</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>66</sup>
 ---
 
 ## 2020
+
+### Живые люди
+Яна Вагнер
+> [2020-03-30] 
+
 
 ### Вонгозеро
 Яна Вагнер
