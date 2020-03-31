@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[niet](users/106/106650512180050127359-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>43</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>160</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>776</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mitsakult](users/288/288034278-vkontakte)<sup>8</sup> 
 [неважно](users/145/145522558-vkontakte)<sup>3</sup> 
 [Рыбка Алена](users/115/115555086213988665739-google)<sup>1</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>152</sup> 
 
 
-_31.03.2020 16:30:44_
+_31.03.2020 16:55:39_
