@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>159</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>160</sup>
 ---
 
 ## 2020
+
+### Магическая уборка. Японское искусство наведения порядка дома и в жизни
+Мари Кондо
+> [2020-03-31] 
+
 
 ### Жизнь без отходов
 Анита Вандайк

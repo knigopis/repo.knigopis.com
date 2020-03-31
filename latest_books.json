@@ -1,4 +1,16 @@
 {
+    "Ma9niidSax": {
+        "id": "Ma9niidSax",
+        "title": "Магическая уборка. Японское искусство наведения порядка дома и в жизни",
+        "author": "Мари Кондо",
+        "notes": "",
+        "createdAt": "2020-03-31 16:06:43",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 160
+        }
+    },
     "oxSs5Sdz6t": {
         "id": "oxSs5Sdz6t",
         "title": "Не навреди",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 772
-        }
-    },
-    "eeUQcJc2ka": {
-        "id": "eeUQcJc2ka",
-        "title": "Пепел империй",
-        "author": "Илья Стогов",
-        "notes": "7/10 переодизация исторических закономерностей.",
-        "createdAt": "2020-03-26 07:16:08",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 94
         }
     }
 }
