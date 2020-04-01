@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zAAz](users/202/202248233-vkontakte)<sup>49</sup> 
+[zAAz](users/202/202248233-vkontakte)<sup>50</sup> 
 [Avery](users/567/56734832-yandex)<sup>20</sup> 
 [lyaj](users/607/60734149-vkontakte)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>10</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [psevdonim](users/608/6089959882102706108-mailru)<sup>0</sup> 
 
 
-_01.04.2020 14:46:30_
+_01.04.2020 14:47:12_
