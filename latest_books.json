@@ -1,4 +1,16 @@
 {
+    "FAo0MiQTVb": {
+        "id": "FAo0MiQTVb",
+        "title": "Черный лебедь",
+        "author": "Нассим Талеб",
+        "notes": "",
+        "createdAt": "2020-04-01 14:43:52",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 45
+        }
+    },
     "-EmpoU3rzP": {
         "id": "-EmpoU3rzP",
         "title": "Настоящая жизнь",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 179
-        }
-    },
-    "HaArOB-lVb": {
-        "id": "HaArOB-lVb",
-        "title": "Мор, ученик Смерти",
-        "author": "Терри Пратчетт",
-        "notes": "13/10",
-        "createdAt": "2020-03-26 18:36:41",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 55
         }
     }
 }
