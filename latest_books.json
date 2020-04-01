@@ -1,4 +1,16 @@
 {
+    "EcxIS00e7k": {
+        "id": "EcxIS00e7k",
+        "title": "Предназначение души",
+        "author": "М. Ньютон",
+        "notes": "",
+        "createdAt": "2020-04-01 14:49:48",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 52
+        }
+    },
     "zsBJBLPHNx": {
         "id": "zsBJBLPHNx",
         "title": "Четвертая мировая война",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 181
-        }
-    },
-    "O6hTuybI1B": {
-        "id": "O6hTuybI1B",
-        "title": "Шамбала",
-        "author": "Чогьям Трунгпа Ринпоче",
-        "notes": "Книга не до конца понятная, похожая на Кастанеду, много воды",
-        "createdAt": "2020-03-29 05:49:04",
-        "user": {
-            "id": "111367585493471720963-google",
-            "nickname": "Fenix",
-            "booksCount": 1
         }
     }
 }
