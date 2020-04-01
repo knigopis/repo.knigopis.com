@@ -1,4 +1,16 @@
 {
+    "nH3hiQ8BZt": {
+        "id": "nH3hiQ8BZt",
+        "title": "Чарівні традиції українок",
+        "author": "Лада Лузина",
+        "notes": "6/10 вільний кольоровий переказ книги Скуратівського.",
+        "createdAt": "2020-04-01 19:33:11",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 97
+        }
+    },
     "E4Sj-Hs0se": {
         "id": "E4Sj-Hs0se",
         "title": "Контракт",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 246
-        }
-    },
-    "RB-82WdvfW": {
-        "id": "RB-82WdvfW",
-        "title": "Избранница хозяина Бездны",
-        "author": "Боталова Мария",
-        "notes": "сказочка на пару часов.  мило  и ненавязчиво",
-        "createdAt": "2020-03-15 20:40:03",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 176
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>96</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>97</sup>
 ---
 
 ## 2020
+
+### Чарівні традиції українок
+Лада Лузина
+> [2020-04-01] 6/10 вільний кольоровий переказ книги Скуратівського.
+
 
 ### Ведьмак. Что-то кончается, что-то начинается
 Анджей Сапковский

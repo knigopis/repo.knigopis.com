@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чарівні традиції українок ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>97</sup>
+    > 6/10 вільний кольоровий переказ книги Скуратівського.
+
 * Контракт ~ [Avery](users/567/56734832-yandex)<sup>20</sup>
     > Рой Уингерт отправляется колонизировать планету, не подозревая какие каверзы кроются в его рабочем контракте. Мало того, на новом месте его атакуют зубастые гигантские жабы и назойливый робот-коммивояжер! Да уж, нескучная предстоит колонизация.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > «В действительности я даже совсем не вспоминал о Мидори, занятый переездом, обустройством дома и зарабатыванием денег. Я почти не вспоминал даже о Наоко, не то что о Мидори. Была у меня еще с детства такая черта. Стоило мне увлечься каким-то делом, и я переставал замечать все остальное вокруг.»
 
 * Любовь не на шутку,  или Райд Элле за ~ [Chiffi](users/105/105831994080785626680-google)<sup>182</sup>
-    > четвертая книга сказочки
 
 * Побудь в моей шкуре ~ [En](users/333/333646551-vkontakte)<sup>95</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Невеста принца и волшебные бабочки ~ [Chiffi](users/105/105831994080785626680-google)<sup>179</sup>
 
-* Мор, ученик Смерти ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>97</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>52</sup> 
 [Avery](users/567/56734832-yandex)<sup>20</sup> 
 [lyaj](users/607/60734149-vkontakte)<sup>0</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>66</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>247</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>1</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>96</sup> 
 [Vito](users/128/128796434813510-facebook)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>225</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [psevdonim](users/608/6089959882102706108-mailru)<sup>0</sup> 
 
 
-_01.04.2020 14:49:48_
+_01.04.2020 19:33:11_
