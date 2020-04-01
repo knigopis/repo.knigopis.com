@@ -1,4 +1,16 @@
 {
+    "zs2mW7jcfi": {
+        "id": "zs2mW7jcfi",
+        "title": "Чертоги разума",
+        "author": "А. Курпатов",
+        "notes": "",
+        "createdAt": "2020-04-01 14:46:30",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 49
+        }
+    },
     "uzEkkZIyaf": {
         "id": "uzEkkZIyaf",
         "title": "Красная таблетка",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 96
-        }
-    },
-    "nMvexxO15X": {
-        "id": "nMvexxO15X",
-        "title": "Любимая воина и источник силы",
-        "author": "Черникова Любовь",
-        "notes": "вторая книга цикла. Лучше бы все уместили в одну. Неплохо, но половину книгу \"Я посмотрела на любимого\"",
-        "createdAt": "2020-03-28 06:11:25",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 180
         }
     }
 }
