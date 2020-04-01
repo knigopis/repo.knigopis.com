@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fyury_88](users/287/287448137-vkontakte)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>223</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>97</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>52</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>22</sup> 
 [ela.shur](users/668/6688058-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
-[psevdonim](users/608/6089959882102706108-mailru)<sup>0</sup> 
 
 
-_01.04.2020 19:39:46_
+_01.04.2020 23:08:25_
