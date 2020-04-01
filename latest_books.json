@@ -1,4 +1,16 @@
 {
+    "-EmpoU3rzP": {
+        "id": "-EmpoU3rzP",
+        "title": "Настоящая жизнь",
+        "author": "Андрей Курпатов",
+        "notes": "",
+        "createdAt": "2020-04-01 14:43:14",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 44
+        }
+    },
     "Kq-_1EumIS": {
         "id": "Kq-_1EumIS",
         "title": "Нейрологика",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 55
-        }
-    },
-    "RsmEND97UJ": {
-        "id": "RsmEND97UJ",
-        "title": "Черный пёс",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2020-03-26 17:31:14",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 775
         }
     }
 }
