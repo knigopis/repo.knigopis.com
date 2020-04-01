@@ -1,4 +1,16 @@
 {
+    "uzEkkZIyaf": {
+        "id": "uzEkkZIyaf",
+        "title": "Красная таблетка",
+        "author": "А. Курпатов",
+        "notes": "",
+        "createdAt": "2020-04-01 14:45:59",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 48
+        }
+    },
     "MN6OWjq2Xv": {
         "id": "MN6OWjq2Xv",
         "title": "Homo Deus. Краткая история будущего",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 180
-        }
-    },
-    "UVmefpIjG2": {
-        "id": "UVmefpIjG2",
-        "title": "Дикие",
-        "author": "Рори Пауэр",
-        "notes": "",
-        "createdAt": "2020-03-27 10:35:51",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 100
         }
     }
 }
