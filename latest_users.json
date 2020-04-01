@@ -1,4 +1,10 @@
 {
+    "56734832-yandex": {
+        "id": "56734832-yandex",
+        "nickname": "Avery",
+        "booksCount": 20,
+        "updatedAt": "2020-04-01 10:11:15"
+    },
     "60734149-vkontakte": {
         "id": "60734149-vkontakte",
         "nickname": "lyaj",
@@ -172,11 +178,5 @@
         "nickname": "mitsakult",
         "booksCount": 8,
         "updatedAt": "2020-03-22 02:10:37"
-    },
-    "145522558-vkontakte": {
-        "id": "145522558-vkontakte",
-        "nickname": "неважно",
-        "booksCount": 3,
-        "updatedAt": "2020-03-21 12:55:41"
     }
 }
