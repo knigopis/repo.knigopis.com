@@ -1,4 +1,4 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>224</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>223</sup>
 ---
 
 ## 2020
@@ -977,10 +977,6 @@
 
 
 ### Принцеси
-Издательство Перо
-
-
-### Країни та континенти
 Издательство Перо
 
 
