@@ -1,4 +1,10 @@
 {
+    "287448137-vkontakte": {
+        "id": "287448137-vkontakte",
+        "nickname": "fyury_88",
+        "booksCount": 0,
+        "updatedAt": "2020-04-01 23:08:22"
+    },
     "111878597279669641685-google": {
         "id": "111878597279669641685-google",
         "nickname": "Knigolub~",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 120,
         "updatedAt": "2020-03-23 07:00:37"
-    },
-    "6089959882102706108-mailru": {
-        "id": "6089959882102706108-mailru",
-        "nickname": "psevdonim",
-        "booksCount": 0,
-        "updatedAt": "2020-03-22 04:51:44"
     }
 }
