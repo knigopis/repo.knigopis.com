@@ -1,4 +1,16 @@
 {
+    "MN6OWjq2Xv": {
+        "id": "MN6OWjq2Xv",
+        "title": "Homo Deus. Краткая история будущего",
+        "author": "Ю. Харари",
+        "notes": "",
+        "createdAt": "2020-04-01 14:45:32",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 47
+        }
+    },
     "7dAnHrK-Tk": {
         "id": "7dAnHrK-Tk",
         "title": "Sapiens. Краткая история человечества",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 100
-        }
-    },
-    "Z4hgF7QQLS": {
-        "id": "Z4hgF7QQLS",
-        "title": "Кукольный дом",
-        "author": "Генрик Ибсен",
-        "notes": "",
-        "createdAt": "2020-03-26 21:09:41",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 225
         }
     }
 }
