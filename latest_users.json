@@ -1,4 +1,10 @@
 {
+    "60734149-vkontakte": {
+        "id": "60734149-vkontakte",
+        "nickname": "lyaj",
+        "booksCount": 0,
+        "updatedAt": "2020-04-01 03:48:36"
+    },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "неважно",
         "booksCount": 3,
         "updatedAt": "2020-03-21 12:55:41"
-    },
-    "115555086213988665739-google": {
-        "id": "115555086213988665739-google",
-        "nickname": "Рыбка Алена",
-        "booksCount": 1,
-        "updatedAt": "2020-03-20 20:38:17"
     }
 }
