@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lyaj](users/607/60734149-vkontakte)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>10</sup> 
 [niet](users/106/106650512180050127359-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>43</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [psevdonim](users/608/6089959882102706108-mailru)<sup>0</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>8</sup> 
 [неважно](users/145/145522558-vkontakte)<sup>3</sup> 
-[Рыбка Алена](users/115/115555086213988665739-google)<sup>1</sup> 
 
 
-_01.04.2020 01:06:13_
+_01.04.2020 03:48:39_
