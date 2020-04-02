@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 44,
+        "updatedAt": "2020-04-02 13:05:52"
+    },
     "217891524-vkontakte": {
         "id": "217891524-vkontakte",
         "nickname": "lostinfrost",
@@ -58,12 +64,6 @@
         "nickname": "niet",
         "booksCount": 0,
         "updatedAt": "2020-03-31 16:55:37"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 43,
-        "updatedAt": "2020-03-31 16:30:44"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
