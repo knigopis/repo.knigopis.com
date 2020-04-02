@@ -1,4 +1,10 @@
 {
+    "200666735-vkontakte": {
+        "id": "200666735-vkontakte",
+        "nickname": "mavrentik",
+        "booksCount": 22,
+        "updatedAt": "2020-04-02 14:43:02"
+    },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
         "nickname": "4apa",
@@ -172,11 +178,5 @@
         "nickname": "ela.shur",
         "booksCount": 0,
         "updatedAt": "2020-03-24 08:25:11"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 120,
-        "updatedAt": "2020-03-23 07:00:37"
     }
 }

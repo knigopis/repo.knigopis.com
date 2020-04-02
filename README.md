@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mavrentik](users/200/200666735-vkontakte)<sup>22</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>44</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>161</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>23</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup> 
 [Samog](users/100/100808680899219788448-google)<sup>0</sup> 
 [ela.shur](users/668/6688058-vkontakte)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>120</sup> 
 
 
-_02.04.2020 13:05:52_
+_02.04.2020 14:43:02_

@@ -1,4 +1,16 @@
 {
+    "d1sUQNMBDW": {
+        "id": "d1sUQNMBDW",
+        "title": "Хранители",
+        "author": "Алан Мур",
+        "notes": "",
+        "createdAt": "2020-04-02 14:43:02",
+        "user": {
+            "id": "200666735-vkontakte",
+            "nickname": "mavrentik",
+            "booksCount": 22
+        }
+    },
     "DaMks6aZeL": {
         "id": "DaMks6aZeL",
         "title": "За пределами Земли",
@@ -345,18 +357,6 @@
             "id": "102536471289425216982-google",
             "nickname": "Окс",
             "booksCount": 20
-        }
-    },
-    "xDCPjsgsgH": {
-        "id": "xDCPjsgsgH",
-        "title": "Любовь не на шутку,  или Райд Элле за",
-        "author": "Черникова Любовь",
-        "notes": "четвертая книга сказочки",
-        "createdAt": "2020-03-30 05:08:47",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 182
         }
     }
 }
