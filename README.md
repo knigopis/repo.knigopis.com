@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lostinfrost](users/217/217891524-vkontakte)<sup>161</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>23</sup> 
 [fyury_88](users/287/287448137-vkontakte)<sup>0</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>223</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>10</sup> 
 [niet](users/106/106650512180050127359-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>43</sup> 
-[lostinfrost](users/217/217891524-vkontakte)<sup>160</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>776</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>65</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
 
 
-_02.04.2020 09:42:38_
+_02.04.2020 12:31:38_
