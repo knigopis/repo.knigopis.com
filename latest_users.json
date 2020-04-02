@@ -1,4 +1,10 @@
 {
+    "554456833-vkontakte": {
+        "id": "554456833-vkontakte",
+        "nickname": "iss.sergeev",
+        "booksCount": 0,
+        "updatedAt": "2020-04-02 20:07:14"
+    },
     "200666735-vkontakte": {
         "id": "200666735-vkontakte",
         "nickname": "mavrentik",
@@ -172,11 +178,5 @@
         "nickname": "Samog",
         "booksCount": 0,
         "updatedAt": "2020-03-25 15:56:16"
-    },
-    "6688058-vkontakte": {
-        "id": "6688058-vkontakte",
-        "nickname": "ela.shur",
-        "booksCount": 0,
-        "updatedAt": "2020-03-24 08:25:11"
     }
 }
