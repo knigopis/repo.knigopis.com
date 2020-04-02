@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Девушка с татуировкой дракона ~ [dmiro](users/571/5714115-vkontakte)<sup>23</sup>
 * Чарівні традиції українок ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>97</sup>
 * Контракт ~ [Avery](users/567/56734832-yandex)<sup>20</sup>
 * Норвежский лес ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
@@ -30,7 +31,6 @@
 * Унесённые ветром ~ [Euphoria](users/106/106304994652616315178-google)<sup>76</sup>
 * Грань безумия (сборник авторов) ~ [Chiffi](users/105/105831994080785626680-google)<sup>177</sup>
 * Игра Эндера ~ [En](users/333/333646551-vkontakte)<sup>92</sup>
-* Семь смертей Эвелины Хардкасл ~ [Garka](users/115/115753719718250012620-google)<sup>246</sup>
 
 
-_01.04.2020 19:33:11_
+_02.04.2020 09:42:38_
