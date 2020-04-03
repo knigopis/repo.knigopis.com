@@ -1,4 +1,10 @@
 {
+    "126368737-vkontakte": {
+        "id": "126368737-vkontakte",
+        "nickname": "Макар Коренюк",
+        "booksCount": 8,
+        "updatedAt": "2020-04-03 04:13:59"
+    },
     "554456833-vkontakte": {
         "id": "554456833-vkontakte",
         "nickname": "iss.sergeev",
@@ -172,11 +178,5 @@
         "nickname": "stamovashahzada",
         "booksCount": 55,
         "updatedAt": "2020-03-26 18:36:41"
-    },
-    "100808680899219788448-google": {
-        "id": "100808680899219788448-google",
-        "nickname": "Samog",
-        "booksCount": 0,
-        "updatedAt": "2020-03-25 15:56:16"
     }
 }
