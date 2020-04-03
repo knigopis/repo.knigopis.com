@@ -1,4 +1,10 @@
 {
+    "56734832-yandex": {
+        "id": "56734832-yandex",
+        "nickname": "Avery",
+        "booksCount": 21,
+        "updatedAt": "2020-04-03 17:43:58"
+    },
     "126368737-vkontakte": {
         "id": "126368737-vkontakte",
         "nickname": "Макар Коренюк",
@@ -58,12 +64,6 @@
         "nickname": "zAAz",
         "booksCount": 52,
         "updatedAt": "2020-04-01 14:49:48"
-    },
-    "56734832-yandex": {
-        "id": "56734832-yandex",
-        "nickname": "Avery",
-        "booksCount": 20,
-        "updatedAt": "2020-04-01 10:11:15"
     },
     "60734149-vkontakte": {
         "id": "60734149-vkontakte",
