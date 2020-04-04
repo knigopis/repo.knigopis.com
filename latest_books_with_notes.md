@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Клинки кардинала ~ [Chiffi](users/105/105831994080785626680-google)<sup>183</sup>
 * Мартин Иден ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>8</sup>
 * Девушка с татуировкой дракона ~ [dmiro](users/571/5714115-vkontakte)<sup>23</sup>
 * Чарівні традиції українок ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>97</sup>
@@ -30,7 +31,6 @@
 * Забыть Веронику ~ [Chiffi](users/105/105831994080785626680-google)<sup>178</sup>
 * Плот ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>150</sup>
 * Унесённые ветром ~ [Euphoria](users/106/106304994652616315178-google)<sup>76</sup>
-* Грань безумия (сборник авторов) ~ [Chiffi](users/105/105831994080785626680-google)<sup>177</sup>
 
 
-_03.04.2020 04:13:59_
+_04.04.2020 19:47:50_

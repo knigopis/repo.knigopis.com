@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Клинки кардинала ~ [Chiffi](users/105/105831994080785626680-google)<sup>183</sup>
+    > история про Ришелье и подвески в исполнении Дозоров. Не плохо, но прошлые книги автора мне нравились больше
+
 * Мартин Иден ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>8</sup>
     > Итак, я снова перечитал книгу, которую долго называл своей любимой. Несмотря на то, что читал я её лишь один раз в старшей школе, находясь в совершенно отчаяном психическом состоянии. Именно тогда эта книга засела в меня, помогла мне набраться сил и преодолеть собственные заморочки. Естественно не всё, это не переломная для меня книга, но весьма важная. Также она ознаменовала окончание долгого голода книг, которые правда снова вернулся чуть позже. 
     > 
@@ -23,7 +26,6 @@ Do not use pull requests to make changes here.
     > Тайны у людей есть всегда. Надо только выведать, какие именно.
 
 * Чарівні традиції українок ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>97</sup>
-    > 6/10 вільний кольоровий переказ книги Скуратівського.
 
 * Контракт ~ [Avery](users/567/56734832-yandex)<sup>20</sup>
 
@@ -37,13 +39,12 @@ Do not use pull requests to make changes here.
 
 * Любовь понарошку или Райд Элле против ~ [Chiffi](users/105/105831994080785626680-google)<sup>181</sup>
 
-* Ведьмак. Что-то кончается, что-то начинается ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>96</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>183</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>68</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>99</sup> 
 [](users/153/1537586159620888-facebook)<sup>11</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>41</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>83</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>20</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>182</sup> 
 [En](users/333/333646551-vkontakte)<sup>95</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>66</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>247</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup> 
 
 
-_04.04.2020 17:11:41_
+_04.04.2020 19:47:50_

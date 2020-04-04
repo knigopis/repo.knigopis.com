@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 183,
+        "updatedAt": "2020-04-04 19:47:49"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -136,12 +142,6 @@
         "nickname": "Окс",
         "booksCount": 20,
         "updatedAt": "2020-03-30 11:42:19"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 182,
-        "updatedAt": "2020-03-30 05:08:47"
     },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
