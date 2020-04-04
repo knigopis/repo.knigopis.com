@@ -1,4 +1,16 @@
 {
+    "EqKAEIrVor": {
+        "id": "EqKAEIrVor",
+        "title": "Вредная волшебная палочка",
+        "author": "Дарья Донцова",
+        "notes": "",
+        "createdAt": "2020-04-04 10:50:29",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 11
+        }
+    },
     "pHZPYfHFlp": {
         "id": "pHZPYfHFlp",
         "title": "Поезд в ад",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 41
-        }
-    },
-    "DiMCRfNo9L": {
-        "id": "DiMCRfNo9L",
-        "title": "Преступление и наказание",
-        "author": "Ф.М.Достоевский",
-        "notes": "",
-        "createdAt": "2020-03-30 12:36:06",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 83
         }
     }
 }
