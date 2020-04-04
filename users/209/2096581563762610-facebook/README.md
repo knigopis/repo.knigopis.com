@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>66</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>67</sup>
 ---
 
 ## 2020
+
+### Мужчина и женщина. Универсальные правила
+Андрей Курпатов
+> [2020-04-03] 
+
 
 ### Живые люди
 Яна Вагнер

@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>67</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>99</sup> 
 [](users/153/1537586159620888-facebook)<sup>11</sup> 
 [Avery](users/567/56734832-yandex)<sup>21</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>776</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>65</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>66</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>385</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>41</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>83</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup> 
 
 
-_04.04.2020 11:57:31_
+_04.04.2020 16:20:36_
