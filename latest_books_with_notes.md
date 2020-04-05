@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Властитель мёртвых. Книга третья ~ [ArenF](users/113/113523157-vkontakte)<sup>4</sup>
 * Властитель мёртвых. Книга вторая ~ [ArenF](users/113/113523157-vkontakte)<sup>3</sup>
 * Властитель мёртвых. Книга первая ~ [ArenF](users/113/113523157-vkontakte)<sup>2</sup>
 * Конец Вечности ~ [En](users/333/333646551-vkontakte)<sup>96</sup>
@@ -30,7 +31,6 @@
 * Медный всадник ~ [mitsakult](users/288/288034278-vkontakte)<sup>5</sup>
 * Евгений Онегин ~ [mitsakult](users/288/288034278-vkontakte)<sup>4</sup>
 * Капитанская дочка ~ [mitsakult](users/288/288034278-vkontakte)<sup>3</sup>
-* Отель "У погибшего альпиниста" ~ [En](users/333/333646551-vkontakte)<sup>93</sup>
 
 
-_05.04.2020 12:59:21_
+_05.04.2020 13:06:26_
