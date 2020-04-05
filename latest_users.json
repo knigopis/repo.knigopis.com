@@ -1,4 +1,10 @@
 {
+    "113523157-vkontakte": {
+        "id": "113523157-vkontakte",
+        "nickname": "ArenF",
+        "booksCount": 2,
+        "updatedAt": "2020-04-05 12:58:31"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "Vito",
         "booksCount": 0,
         "updatedAt": "2020-03-27 08:24:55"
-    },
-    "310646815-vkontakte": {
-        "id": "310646815-vkontakte",
-        "nickname": "stamovashahzada",
-        "booksCount": 55,
-        "updatedAt": "2020-03-26 18:36:41"
     }
 }

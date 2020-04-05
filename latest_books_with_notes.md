@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Властитель мёртвых. Книга первая ~ [ArenF](users/113/113523157-vkontakte)<sup>2</sup>
 * Конец Вечности ~ [En](users/333/333646551-vkontakte)<sup>96</sup>
 * Клинки кардинала ~ [Chiffi](users/105/105831994080785626680-google)<sup>183</sup>
 * Мартин Иден ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>8</sup>
@@ -30,7 +31,6 @@
 * Капитанская дочка ~ [mitsakult](users/288/288034278-vkontakte)<sup>3</sup>
 * Отель "У погибшего альпиниста" ~ [En](users/333/333646551-vkontakte)<sup>93</sup>
 * Забыть Веронику ~ [Chiffi](users/105/105831994080785626680-google)<sup>178</sup>
-* Плот ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>150</sup>
 
 
-_05.04.2020 10:23:48_
+_05.04.2020 12:58:31_
