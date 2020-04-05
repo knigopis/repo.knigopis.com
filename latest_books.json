@@ -1,4 +1,16 @@
 {
+    "vfn_H9ailo": {
+        "id": "vfn_H9ailo",
+        "title": "Сквозь зеркала. Тайны Полюса",
+        "author": "Кристель Дабо",
+        "notes": "",
+        "createdAt": "2020-04-05 20:48:39",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 31
+        }
+    },
     "RvtADFHNqg": {
         "id": "RvtADFHNqg",
         "title": "Сквозь зеркала. Обручённые холодом",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 46
-        }
-    },
-    "FAo0MiQTVb": {
-        "id": "FAo0MiQTVb",
-        "title": "Черный лебедь",
-        "author": "Нассим Талеб",
-        "notes": "",
-        "createdAt": "2020-04-01 14:43:52",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 45
         }
     }
 }

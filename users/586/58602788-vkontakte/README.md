@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>30</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>31</sup>
 ---
 
 ## 2020
+
+### Сквозь зеркала. Тайны Полюса
+Кристель Дабо
+> [2020-02] 
+
 
 ### Сквозь зеркала. Обручённые холодом
 Кристель Дабо
