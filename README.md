@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>30</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>53</sup> 
 [ArenF](users/113/113523157-vkontakte)<sup>4</sup> 
 [En](users/333/333646551-vkontakte)<sup>96</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>66</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>247</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>1</sup> 
-[Vito](users/128/128796434813510-facebook)<sup>0</sup> 
 
 
-_05.04.2020 17:27:24_
+_05.04.2020 20:48:08_

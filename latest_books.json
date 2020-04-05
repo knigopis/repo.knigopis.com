@@ -1,4 +1,16 @@
 {
+    "RvtADFHNqg": {
+        "id": "RvtADFHNqg",
+        "title": "Сквозь зеркала. Обручённые холодом",
+        "author": "Кристель Дабо",
+        "notes": "",
+        "createdAt": "2020-04-05 20:48:08",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 30
+        }
+    },
     "iPSsywFUuU": {
         "id": "iPSsywFUuU",
         "title": "Наука о сексе",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 45
-        }
-    },
-    "-EmpoU3rzP": {
-        "id": "-EmpoU3rzP",
-        "title": "Настоящая жизнь",
-        "author": "Андрей Курпатов",
-        "notes": "",
-        "createdAt": "2020-04-01 14:43:14",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 44
         }
     }
 }

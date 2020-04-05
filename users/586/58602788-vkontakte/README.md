@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>29</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>30</sup>
 ---
 
 ## 2020
+
+### Сквозь зеркала. Обручённые холодом
+Кристель Дабо
+> [2020-02] 
+
 
 ### Волонтёры вечности
 Макс Фрай
