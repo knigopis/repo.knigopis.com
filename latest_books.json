@@ -1,4 +1,16 @@
 {
+    "3TYEK3EwXJ": {
+        "id": "3TYEK3EwXJ",
+        "title": "Властитель мёртвых. Книга вторая",
+        "author": "",
+        "notes": "Сергей находит нового подручного зомби силового типа Папая. Прокачивается и т.д.",
+        "createdAt": "2020-04-05 12:59:21",
+        "user": {
+            "id": "113523157-vkontakte",
+            "nickname": "ArenF",
+            "booksCount": 3
+        }
+    },
     "zC_awM9jrP": {
         "id": "zC_awM9jrP",
         "title": "Властитель мёртвых. Книга первая",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 20
-        }
-    },
-    "6Dsx7DM4Rv": {
-        "id": "6Dsx7DM4Rv",
-        "title": "Гиблое место в ипотеку",
-        "author": "Дарья Донцова",
-        "notes": "",
-        "createdAt": "2020-04-01 01:06:13",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 10
         }
     }
 }

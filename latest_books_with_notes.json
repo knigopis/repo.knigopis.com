@@ -1,4 +1,16 @@
 {
+    "3TYEK3EwXJ": {
+        "id": "3TYEK3EwXJ",
+        "title": "Властитель мёртвых. Книга вторая",
+        "author": "",
+        "notes": "Сергей находит нового подручного зомби силового типа Папая. Прокачивается и т.д.",
+        "createdAt": "2020-04-05 12:59:21",
+        "user": {
+            "id": "113523157-vkontakte",
+            "nickname": "ArenF",
+            "booksCount": 3
+        }
+    },
     "zC_awM9jrP": {
         "id": "zC_awM9jrP",
         "title": "Властитель мёртвых. Книга первая",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 93
-        }
-    },
-    "wIm1P-rynJ": {
-        "id": "wIm1P-rynJ",
-        "title": "Забыть Веронику",
-        "author": "Бушуев Констанин",
-        "notes": "детектив",
-        "createdAt": "2020-03-21 19:45:43",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 178
         }
     }
 }
