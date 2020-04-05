@@ -1,4 +1,16 @@
 {
+    "HrBJHQ7V5N": {
+        "id": "HrBJHQ7V5N",
+        "title": "Сквозь зеркала. Память Вавилона",
+        "author": "Кристель Дабо",
+        "notes": "",
+        "createdAt": "2020-04-05 20:49:01",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 32
+        }
+    },
     "vfn_H9ailo": {
         "id": "vfn_H9ailo",
         "title": "Сквозь зеркала. Тайны Полюса",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 47
-        }
-    },
-    "7dAnHrK-Tk": {
-        "id": "7dAnHrK-Tk",
-        "title": "Sapiens. Краткая история человечества",
-        "author": "Ю. Харари",
-        "notes": "",
-        "createdAt": "2020-04-01 14:44:46",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 46
         }
     }
 }
