@@ -1,4 +1,16 @@
 {
+    "eIdtlnjayo": {
+        "id": "eIdtlnjayo",
+        "title": "Луна и грош",
+        "author": "Сомерсет Моэм",
+        "notes": "",
+        "createdAt": "2020-04-05 20:49:58",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 34
+        }
+    },
     "5QZ-xUPccp": {
         "id": "5QZ-xUPccp",
         "title": "Похороните меня за плинтусом",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 49
-        }
-    },
-    "uzEkkZIyaf": {
-        "id": "uzEkkZIyaf",
-        "title": "Красная таблетка",
-        "author": "А. Курпатов",
-        "notes": "",
-        "createdAt": "2020-04-01 14:45:59",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 48
         }
     }
 }
