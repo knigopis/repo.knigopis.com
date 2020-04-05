@@ -1,4 +1,16 @@
 {
+    "iPSsywFUuU": {
+        "id": "iPSsywFUuU",
+        "title": "Наука о сексе",
+        "author": "А. Курпатов",
+        "notes": "",
+        "createdAt": "2020-04-05 17:27:24",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 53
+        }
+    },
     "ys5Hx3Mc2q": {
         "id": "ys5Hx3Mc2q",
         "title": "Властитель мёртвых. Книга третья",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 44
-        }
-    },
-    "Kq-_1EumIS": {
-        "id": "Kq-_1EumIS",
-        "title": "Нейрологика",
-        "author": "Элиэзер Штернберг",
-        "notes": "",
-        "createdAt": "2020-04-01 14:42:33",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 43
         }
     }
 }

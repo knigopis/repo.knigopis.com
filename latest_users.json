@@ -1,4 +1,10 @@
 {
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 53,
+        "updatedAt": "2020-04-05 17:27:24"
+    },
     "113523157-vkontakte": {
         "id": "113523157-vkontakte",
         "nickname": "ArenF",
@@ -100,12 +106,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 97,
         "updatedAt": "2020-04-01 19:33:11"
-    },
-    "202248233-vkontakte": {
-        "id": "202248233-vkontakte",
-        "nickname": "zAAz",
-        "booksCount": 52,
-        "updatedAt": "2020-04-01 14:49:48"
     },
     "60734149-vkontakte": {
         "id": "60734149-vkontakte",
