@@ -1,4 +1,16 @@
 {
+    "nzLSPxE08O": {
+        "id": "nzLSPxE08O",
+        "title": "Мани, или Азбука денег",
+        "author": "Бодо Шефер",
+        "notes": "Норм. Обязательно куплю эту книгу своим детям.",
+        "createdAt": "2020-04-06 05:14:48",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 45
+        }
+    },
     "eIdtlnjayo": {
         "id": "eIdtlnjayo",
         "title": "Луна и грош",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 50
-        }
-    },
-    "zs2mW7jcfi": {
-        "id": "zs2mW7jcfi",
-        "title": "Чертоги разума",
-        "author": "А. Курпатов",
-        "notes": "",
-        "createdAt": "2020-04-01 14:46:30",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 49
         }
     }
 }

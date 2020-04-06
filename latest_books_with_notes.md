@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мани, или Азбука денег ~ [youno](users/302/302928912-vkontakte)<sup>45</sup>
 * Властитель мёртвых. Книга третья ~ [ArenF](users/113/113523157-vkontakte)<sup>4</sup>
 * Властитель мёртвых. Книга вторая ~ [ArenF](users/113/113523157-vkontakte)<sup>3</sup>
 * Властитель мёртвых. Книга первая ~ [ArenF](users/113/113523157-vkontakte)<sup>2</sup>
@@ -30,7 +31,6 @@
 * Герой нашего времени ~ [mitsakult](users/288/288034278-vkontakte)<sup>6</sup>
 * Медный всадник ~ [mitsakult](users/288/288034278-vkontakte)<sup>5</sup>
 * Евгений Онегин ~ [mitsakult](users/288/288034278-vkontakte)<sup>4</sup>
-* Капитанская дочка ~ [mitsakult](users/288/288034278-vkontakte)<sup>3</sup>
 
 
-_05.04.2020 13:06:26_
+_06.04.2020 05:14:49_
