@@ -1,4 +1,16 @@
 {
+    "dzWmsjhcRa": {
+        "id": "dzWmsjhcRa",
+        "title": "Почему мы любим",
+        "author": "Хелен Фишер",
+        "notes": "",
+        "createdAt": "2020-04-06 08:43:02",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 79
+        }
+    },
     "nzLSPxE08O": {
         "id": "nzLSPxE08O",
         "title": "Мани, или Азбука денег",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 51
-        }
-    },
-    "jNy6tlWNHK": {
-        "id": "jNy6tlWNHK",
-        "title": "Троица. Будь больше самого себя",
-        "author": "А. Курпатов",
-        "notes": "",
-        "createdAt": "2020-04-01 14:47:12",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 50
         }
     }
 }

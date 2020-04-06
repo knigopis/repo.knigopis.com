@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 79,
+        "updatedAt": "2020-04-06 08:43:02"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 66,
         "updatedAt": "2020-03-29 21:04:02"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 247,
-        "updatedAt": "2020-03-29 19:22:41"
     }
 }

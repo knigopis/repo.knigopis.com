@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sab_olya](users/139/139338401-vkontakte)<sup>79</sup> 
 [youno](users/302/302928912-vkontakte)<sup>45</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>34</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>53</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>83</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>20</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>66</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>247</sup> 
 
 
-_06.04.2020 05:14:49_
+_06.04.2020 08:43:02_
