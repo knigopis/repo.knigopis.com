@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пять четвертинок апельсина ~ [En](users/333/333646551-vkontakte)<sup>97</sup>
+    > От матери в наследство Фрамбуаз получила альбом с кулинарными рецептами — негусто, если учесть, что ее брату Кассису досталась ферма, а старшей сестре Рен-Клод — винный погреб со всем содержимым. Но весь фокус в том, что на полях альбома, рядом с рецептами разных блюд и травяных снадобий, мать записывала свои мысли и признания относительно некоторых событий ее жизни — словом, вела своеобразный дневник. И в этом дневнике Фрамбуаз пытается найти ответы на мрачные загадки прошлого.
+
 * Мани, или Азбука денег ~ [youno](users/302/302928912-vkontakte)<sup>45</sup>
     > Норм. Обязательно куплю эту книгу своим детям.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Конец книги
 
 * Властитель мёртвых. Книга вторая ~ [ArenF](users/113/113523157-vkontakte)<sup>3</sup>
-    > Сергей находит нового подручного зомби силового типа Папая. Прокачивается и т.д.
 
 * Властитель мёртвых. Книга первая ~ [ArenF](users/113/113523157-vkontakte)<sup>2</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Чарівні традиції українок ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>97</sup>
 
-* Контракт ~ [Avery](users/567/56734832-yandex)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>97</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>69</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>100</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>80</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>34</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>53</sup> 
 [ArenF](users/113/113523157-vkontakte)<sup>4</sup> 
-[En](users/333/333646551-vkontakte)<sup>96</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>42</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>184</sup> 
 [](users/153/1537586159620888-facebook)<sup>11</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>66</sup> 
 
 
-_06.04.2020 19:24:39_
+_07.04.2020 13:15:58_

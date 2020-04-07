@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пять четвертинок апельсина ~ [En](users/333/333646551-vkontakte)<sup>97</sup>
 * Мани, или Азбука денег ~ [youno](users/302/302928912-vkontakte)<sup>45</sup>
 * Властитель мёртвых. Книга третья ~ [ArenF](users/113/113523157-vkontakte)<sup>4</sup>
 * Властитель мёртвых. Книга вторая ~ [ArenF](users/113/113523157-vkontakte)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Ревизор ~ [mitsakult](users/288/288034278-vkontakte)<sup>7</sup>
 * Герой нашего времени ~ [mitsakult](users/288/288034278-vkontakte)<sup>6</sup>
 * Медный всадник ~ [mitsakult](users/288/288034278-vkontakte)<sup>5</sup>
-* Евгений Онегин ~ [mitsakult](users/288/288034278-vkontakte)<sup>4</sup>
 
 
-_06.04.2020 05:14:49_
+_07.04.2020 13:15:58_

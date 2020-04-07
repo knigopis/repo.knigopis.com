@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 97,
+        "updatedAt": "2020-04-07 13:15:57"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -40,12 +46,6 @@
         "nickname": "ArenF",
         "booksCount": 4,
         "updatedAt": "2020-04-05 13:06:26"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 96,
-        "updatedAt": "2020-04-05 10:23:48"
     },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
