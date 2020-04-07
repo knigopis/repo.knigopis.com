@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>161</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>162</sup>
 ---
 
 ## 2020
+
+### Кричащая лестница
+Джонатан Страуд
+> [2020-04-07] 
+
 
 ### Ямы
 Луис Сашар

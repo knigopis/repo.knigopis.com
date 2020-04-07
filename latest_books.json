@@ -1,4 +1,16 @@
 {
+    "PU9nCdY7HX": {
+        "id": "PU9nCdY7HX",
+        "title": "Кричащая лестница",
+        "author": "Джонатан Страуд",
+        "notes": "",
+        "createdAt": "2020-04-07 17:34:06",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 162
+        }
+    },
     "b6RQy5Pcf-": {
         "id": "b6RQy5Pcf-",
         "title": "Пять четвертинок апельсина",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 23
-        }
-    },
-    "gqKIyankbW": {
-        "id": "gqKIyankbW",
-        "title": "Девочка на все 100%",
-        "author": "Наталья Зотова",
-        "notes": "",
-        "createdAt": "2020-04-01 19:39:46",
-        "user": {
-            "id": "111878597279669641685-google",
-            "nickname": "Knigolub~",
-            "booksCount": 223
         }
     }
 }
