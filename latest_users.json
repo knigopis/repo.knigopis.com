@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 84,
+        "updatedAt": "2020-04-07 17:49:56"
+    },
     "217891524-vkontakte": {
         "id": "217891524-vkontakte",
         "nickname": "lostinfrost",
@@ -160,12 +166,6 @@
         "nickname": "HXT",
         "booksCount": 385,
         "updatedAt": "2020-03-30 18:59:23"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 83,
-        "updatedAt": "2020-03-30 12:36:06"
     },
     "102536471289425216982-google": {
         "id": "102536471289425216982-google",

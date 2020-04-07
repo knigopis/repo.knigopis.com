@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>84</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>162</sup> 
 [En](users/333/333646551-vkontakte)<sup>97</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>69</sup> 
@@ -62,9 +63,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>65</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>385</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>83</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>20</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>66</sup> 
 
 
-_07.04.2020 17:34:07_
+_07.04.2020 17:49:56_

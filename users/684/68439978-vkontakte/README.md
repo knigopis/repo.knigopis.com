@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>83</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>84</sup>
 ---
 
 ## 2020
@@ -6,6 +6,11 @@
 ### Преступление и наказание
 Ф.М.Достоевский
 > [2020-04-07] 
+
+
+### Герой нашего времени
+М.Ю.Лермонтов
+> [2020-04] 
 
 
 ### Война и мир
