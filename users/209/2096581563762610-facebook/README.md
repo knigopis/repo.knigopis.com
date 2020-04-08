@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>69</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>70</sup>
 ---
 
 ## 2020
+
+### Я тебя отпускаю
+Мария Метлицкая
+> [2020-04-08] 
+
 
 ### Его женщина
 Мария Метлицкая

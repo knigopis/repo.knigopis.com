@@ -35,12 +35,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>70</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>222</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>2</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>84</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>162</sup> 
 [En](users/333/333646551-vkontakte)<sup>97</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>69</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>100</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>80</sup> 
 [youno](users/302/302928912-vkontakte)<sup>45</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>20</sup> 
 
 
-_08.04.2020 17:46:27_
+_08.04.2020 19:32:06_

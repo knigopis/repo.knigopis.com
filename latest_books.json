@@ -1,4 +1,16 @@
 {
+    "37zAgcan-U": {
+        "id": "37zAgcan-U",
+        "title": "Я тебя отпускаю",
+        "author": "Мария Метлицкая",
+        "notes": "",
+        "createdAt": "2020-04-08 19:32:06",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 70
+        }
+    },
     "KXNNF8eKRK": {
         "id": "KXNNF8eKRK",
         "title": "Мисс Черити",
@@ -345,18 +357,6 @@
             "id": "200666735-vkontakte",
             "nickname": "mavrentik",
             "booksCount": 22
-        }
-    },
-    "DaMks6aZeL": {
-        "id": "DaMks6aZeL",
-        "title": "За пределами Земли",
-        "author": "Ч. Уолфорт, А. Хендрикс",
-        "notes": "",
-        "createdAt": "2020-04-02 13:05:52",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 44
         }
     }
 }
