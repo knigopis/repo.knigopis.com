@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Knigolub~](users/111/111878597279669641685-google)<sup>222</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>2</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>84</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>162</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>44</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>23</sup> 
 [fyury_88](users/287/287448137-vkontakte)<sup>0</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>223</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>97</sup> 
 [lyaj](users/607/60734149-vkontakte)<sup>0</sup> 
 [niet](users/106/106650512180050127359-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Окс](users/102/102536471289425216982-google)<sup>20</sup> 
 
 
-_08.04.2020 08:35:42_
+_08.04.2020 17:46:27_
