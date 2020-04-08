@@ -1,4 +1,10 @@
 {
+    "326783541-vkontakte": {
+        "id": "326783541-vkontakte",
+        "nickname": "Askaliya",
+        "booksCount": 2,
+        "updatedAt": "2020-04-08 08:35:41"
+    },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
         "nickname": "kissamasya",
@@ -172,11 +178,5 @@
         "nickname": "Окс",
         "booksCount": 20,
         "updatedAt": "2020-03-30 11:42:19"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 66,
-        "updatedAt": "2020-03-29 21:04:02"
     }
 }

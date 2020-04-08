@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Askaliya](users/326/326783541-vkontakte)<sup>2</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>84</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>162</sup> 
 [En](users/333/333646551-vkontakte)<sup>97</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>65</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>385</sup> 
 [Окс](users/102/102536471289425216982-google)<sup>20</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>66</sup> 
 
 
-_07.04.2020 17:49:56_
+_08.04.2020 08:35:42_
