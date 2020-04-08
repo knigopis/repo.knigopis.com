@@ -1,12 +1,7 @@
-# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>223</sup>
+# List of books read by [Knigolub~](https://plus.google.com/u/0/111878597279669641685/)<sup>222</sup>
 ---
 
 ## 2020
-
-### Живая природа
-Издательство Перо
-> [2020-03-31] 
-
 
 ### Девочка на все 100%
 Наталья Зотова
