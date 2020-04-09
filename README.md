@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>67</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>70</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>222</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>65</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>385</sup> 
-[Окс](users/102/102536471289425216982-google)<sup>20</sup> 
 
 
-_09.04.2020 06:25:28_
+_09.04.2020 07:11:28_
