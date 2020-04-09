@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коридоры ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup>
+    > Экспозиция и музей.
+
 * На всех линиях лондонского метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup>
     > Ни о чём. Мужчина опаздывает на работу, в метро странные, не пугающие люди.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > От матери в наследство Фрамбуаз получила альбом с кулинарными рецептами — негусто, если учесть, что ее брату Кассису досталась ферма, а старшей сестре Рен-Клод — винный погреб со всем содержимым. Но весь фокус в том, что на полях альбома, рядом с рецептами разных блюд и травяных снадобий, мать записывала свои мысли и признания относительно некоторых событий ее жизни — словом, вела своеобразный дневник. И в этом дневнике Фрамбуаз пытается найти ответы на мрачные загадки прошлого.
 
 * Мани, или Азбука денег ~ [youno](users/302/302928912-vkontakte)<sup>45</sup>
-    > Норм. Обязательно куплю эту книгу своим детям.
 
 * Властитель мёртвых. Книга третья ~ [ArenF](users/113/113523157-vkontakte)<sup>4</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мартин Иден ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>8</sup>
 
-* Девушка с татуировкой дракона ~ [dmiro](users/571/5714115-vkontakte)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>152</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup> 
 [Warg](users/617/617485998834660-facebook)<sup>3</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>67</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 
 
-_09.04.2020 14:19:10_
+_09.04.2020 15:02:17_

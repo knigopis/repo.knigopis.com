@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Коридоры ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup>
 * На всех линиях лондонского метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup>
 * Пять четвертинок апельсина ~ [En](users/333/333646551-vkontakte)<sup>97</sup>
 * Мани, или Азбука денег ~ [youno](users/302/302928912-vkontakte)<sup>45</sup>
@@ -30,7 +31,6 @@
 * Доки світло не згасне назавжди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>92</sup>
 * История одного города ~ [mitsakult](users/288/288034278-vkontakte)<sup>8</sup>
 * Ревизор ~ [mitsakult](users/288/288034278-vkontakte)<sup>7</sup>
-* Герой нашего времени ~ [mitsakult](users/288/288034278-vkontakte)<sup>6</sup>
 
 
-_09.04.2020 14:18:35_
+_09.04.2020 15:02:17_
