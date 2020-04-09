@@ -1,4 +1,16 @@
 {
+    "bKVQgd9ajb": {
+        "id": "bKVQgd9ajb",
+        "title": "Робинзон Экса",
+        "author": "Артем Каменистый",
+        "notes": "Норм",
+        "createdAt": "2020-04-09 14:08:39",
+        "user": {
+            "id": "617485998834660-facebook",
+            "nickname": "Warg",
+            "booksCount": 1
+        }
+    },
     "Vup27KEWV_": {
         "id": "Vup27KEWV_",
         "title": "Девушки Сирени",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 11
-        }
-    },
-    "pHZPYfHFlp": {
-        "id": "pHZPYfHFlp",
-        "title": "Поезд в ад",
-        "author": "Роберт Блох",
-        "notes": "",
-        "createdAt": "2020-04-03 17:43:58",
-        "user": {
-            "id": "56734832-yandex",
-            "nickname": "Avery",
-            "booksCount": 21
         }
     }
 }
