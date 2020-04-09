@@ -1,4 +1,16 @@
 {
+    "HL6lV90tjw": {
+        "id": "HL6lV90tjw",
+        "title": "На всех линиях лондонского метро",
+        "author": "Адам Нэвилл",
+        "notes": "Ни о чём. Мужчина опаздывает на работу, в метро странные, не пугающие люди.",
+        "createdAt": "2020-04-09 14:18:34",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 153
+        }
+    },
     "ZC0yTR7ox0": {
         "id": "ZC0yTR7ox0",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 68
-        }
-    },
-    "pcPewqffXB": {
-        "id": "pcPewqffXB",
-        "title": "Мужчина и женщина. Универсальные правила",
-        "author": "Андрей Курпатов",
-        "notes": "",
-        "createdAt": "2020-04-04 16:20:36",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 67
         }
     }
 }

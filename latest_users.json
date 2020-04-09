@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 153,
+        "updatedAt": "2020-04-09 14:18:34"
+    },
     "617485998834660-facebook": {
         "id": "617485998834660-facebook",
         "nickname": "Warg",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 52,
         "updatedAt": "2020-03-31 10:14:20"
-    },
-    "57239276-vkontakte": {
-        "id": "57239276-vkontakte",
-        "nickname": "vladkozz",
-        "booksCount": 65,
-        "updatedAt": "2020-03-31 09:41:21"
     }
 }
