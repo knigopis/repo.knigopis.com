@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>152</sup> 
 [Warg](users/617/617485998834660-facebook)<sup>3</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>67</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 
 
-_09.04.2020 14:18:35_
+_09.04.2020 14:19:10_
