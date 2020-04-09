@@ -1,4 +1,16 @@
 {
+    "k8ghnjBa96": {
+        "id": "k8ghnjBa96",
+        "title": "Интуиция",
+        "author": "Жора Огарский",
+        "notes": "",
+        "createdAt": "2020-04-09 23:54:33",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 154
+        }
+    },
     "otDcQaiVI_": {
         "id": "otDcQaiVI_",
         "title": "Осторожно, двери закрываются",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 42
-        }
-    },
-    "NvCYDsypJr": {
-        "id": "NvCYDsypJr",
-        "title": "Будь лучшей версией себя",
-        "author": "Вальдшмидт Дэн",
-        "notes": "",
-        "createdAt": "2020-04-04 19:50:36",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 184
         }
     }
 }
