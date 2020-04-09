@@ -1,4 +1,16 @@
 {
+    "BNhAZLgInK": {
+        "id": "BNhAZLgInK",
+        "title": "Великое перерождение",
+        "author": "Артем Каменистый",
+        "notes": "Норм (Экс2)",
+        "createdAt": "2020-04-09 14:12:05",
+        "user": {
+            "id": "617485998834660-facebook",
+            "nickname": "Warg",
+            "booksCount": 2
+        }
+    },
     "bKVQgd9ajb": {
         "id": "bKVQgd9ajb",
         "title": "Робинзон Экса",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 99
-        }
-    },
-    "EqKAEIrVor": {
-        "id": "EqKAEIrVor",
-        "title": "Вредная волшебная палочка",
-        "author": "Дарья Донцова",
-        "notes": "",
-        "createdAt": "2020-04-04 10:50:29",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 11
         }
     }
 }

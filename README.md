@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Warg](users/617/617485998834660-facebook)<sup>1</sup> 
+[Warg](users/617/617485998834660-facebook)<sup>2</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>67</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>70</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>65</sup> 
 
 
-_09.04.2020 14:08:40_
+_09.04.2020 14:12:06_
