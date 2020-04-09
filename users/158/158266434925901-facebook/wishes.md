@@ -1,6 +1,6 @@
 # Wish list of books by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)
 ---
 
-### `1` Пандемия
-Франк Тилье
+### `4` Что за чертовщину я сейчас прочёл
+Дэвид Вонг
 
