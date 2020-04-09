@@ -1,4 +1,10 @@
 {
+    "617485998834660-facebook": {
+        "id": "617485998834660-facebook",
+        "nickname": "Warg",
+        "booksCount": 0,
+        "updatedAt": "2020-04-09 13:32:57"
+    },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
         "nickname": "violet_velva",
@@ -172,11 +178,5 @@
         "nickname": "vladkozz",
         "booksCount": 65,
         "updatedAt": "2020-03-31 09:41:21"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 385,
-        "updatedAt": "2020-03-30 18:59:23"
     }
 }
