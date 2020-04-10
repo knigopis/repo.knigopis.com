@@ -1,4 +1,10 @@
 {
+    "383165880-vkontakte": {
+        "id": "383165880-vkontakte",
+        "nickname": "skryazhevskih",
+        "booksCount": 0,
+        "updatedAt": "2020-04-10 15:18:22"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -172,11 +178,5 @@
         "nickname": "niet",
         "booksCount": 0,
         "updatedAt": "2020-03-31 16:55:37"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 776,
-        "updatedAt": "2020-03-31 13:37:44"
     }
 }
