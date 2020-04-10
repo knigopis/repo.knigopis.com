@@ -1,4 +1,16 @@
 {
+    "EUCM9Klnjk": {
+        "id": "EUCM9Klnjk",
+        "title": "Мёртвая зона",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-04-10 15:19:24",
+        "user": {
+            "id": "383165880-vkontakte",
+            "nickname": "skryazhevskih",
+            "booksCount": 1
+        }
+    },
     "SDPbQ-jhLt": {
         "id": "SDPbQ-jhLt",
         "title": "Гарри Поттер и Орден Феникса",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 30
-        }
-    },
-    "iPSsywFUuU": {
-        "id": "iPSsywFUuU",
-        "title": "Наука о сексе",
-        "author": "А. Курпатов",
-        "notes": "",
-        "createdAt": "2020-04-05 17:27:24",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 53
         }
     }
 }
