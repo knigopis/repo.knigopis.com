@@ -1,4 +1,16 @@
 {
+    "AAh2nwDqWD": {
+        "id": "AAh2nwDqWD",
+        "title": "над пропостью во ржи",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-04-10 15:21:10",
+        "user": {
+            "id": "383165880-vkontakte",
+            "nickname": "skryazhevskih",
+            "booksCount": 4
+        }
+    },
     "OYiHqSQIRH": {
         "id": "OYiHqSQIRH",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 33
-        }
-    },
-    "HrBJHQ7V5N": {
-        "id": "HrBJHQ7V5N",
-        "title": "Сквозь зеркала. Память Вавилона",
-        "author": "Кристель Дабо",
-        "notes": "",
-        "createdAt": "2020-04-05 20:49:01",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 32
         }
     }
 }
