@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гарри Поттер и Тайная комната ~ [anvonamore](users/595/5957175-vkontakte)<sup>134</sup>
+    > 6/10
+
 * Коридоры ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup>
     > Экспозиция и музей.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Ни о чём. Мужчина опаздывает на работу, в метро странные, не пугающие люди.
 
 * Пять четвертинок апельсина ~ [En](users/333/333646551-vkontakte)<sup>97</sup>
-    > От матери в наследство Фрамбуаз получила альбом с кулинарными рецептами — негусто, если учесть, что ее брату Кассису досталась ферма, а старшей сестре Рен-Клод — винный погреб со всем содержимым. Но весь фокус в том, что на полях альбома, рядом с рецептами разных блюд и травяных снадобий, мать записывала свои мысли и признания относительно некоторых событий ее жизни — словом, вела своеобразный дневник. И в этом дневнике Фрамбуаз пытается найти ответы на мрачные загадки прошлого.
 
 * Мани, или Азбука денег ~ [youno](users/302/302928912-vkontakte)<sup>45</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Клинки кардинала ~ [Chiffi](users/105/105831994080785626680-google)<sup>183</sup>
 
-* Мартин Иден ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>134</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>43</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>154</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>71</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lyaj](users/607/60734149-vkontakte)<sup>0</sup> 
 [niet](users/106/106650512180050127359-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>776</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 
 
-_10.04.2020 13:51:50_
+_10.04.2020 15:06:05_

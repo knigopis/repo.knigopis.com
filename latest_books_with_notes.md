@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гарри Поттер и Тайная комната ~ [anvonamore](users/595/5957175-vkontakte)<sup>134</sup>
 * Коридоры ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup>
 * На всех линиях лондонского метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup>
 * Пять четвертинок апельсина ~ [En](users/333/333646551-vkontakte)<sup>97</sup>
@@ -30,7 +31,6 @@
 * Symetria asymetryczna ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>93</sup>
 * Доки світло не згасне назавжди ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>92</sup>
 * История одного города ~ [mitsakult](users/288/288034278-vkontakte)<sup>8</sup>
-* Ревизор ~ [mitsakult](users/288/288034278-vkontakte)<sup>7</sup>
 
 
-_09.04.2020 15:02:17_
+_10.04.2020 15:06:05_
