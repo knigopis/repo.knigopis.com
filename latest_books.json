@@ -1,4 +1,16 @@
 {
+    "zgp9cec7r6": {
+        "id": "zgp9cec7r6",
+        "title": "Первый закон II. Прежде чем их повесят",
+        "author": "Джо Аберкромби",
+        "notes": "",
+        "createdAt": "2020-04-10 13:51:50",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 43
+        }
+    },
     "k8ghnjBa96": {
         "id": "k8ghnjBa96",
         "title": "Интуиция",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 96
-        }
-    },
-    "j8_s2gE8C6": {
-        "id": "j8_s2gE8C6",
-        "title": "Первый закон. Кровь и железо",
-        "author": "Джо Аберкромби",
-        "notes": "",
-        "createdAt": "2020-04-05 10:17:22",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 42
         }
     }
 }
