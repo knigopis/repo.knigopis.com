@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[skryazhevskih](users/383/383165880-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>137</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>43</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>154</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>97</sup> 
 [lyaj](users/607/60734149-vkontakte)<sup>0</sup> 
 [niet](users/106/106650512180050127359-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>776</sup> 
 
 
-_10.04.2020 15:08:26_
+_10.04.2020 15:18:25_
