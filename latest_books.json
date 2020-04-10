@@ -1,4 +1,16 @@
 {
+    "ciPWDESBx8": {
+        "id": "ciPWDESBx8",
+        "title": "451 градус по франгейту",
+        "author": "",
+        "notes": "ауди слушал",
+        "createdAt": "2020-04-10 15:20:11",
+        "user": {
+            "id": "383165880-vkontakte",
+            "nickname": "skryazhevskih",
+            "booksCount": 2
+        }
+    },
     "EUCM9Klnjk": {
         "id": "EUCM9Klnjk",
         "title": "Мёртвая зона",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 31
-        }
-    },
-    "RvtADFHNqg": {
-        "id": "RvtADFHNqg",
-        "title": "Сквозь зеркала. Обручённые холодом",
-        "author": "Кристель Дабо",
-        "notes": "",
-        "createdAt": "2020-04-05 20:48:08",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 30
         }
     }
 }
