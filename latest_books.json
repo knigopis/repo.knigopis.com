@@ -1,4 +1,16 @@
 {
+    "OYiHqSQIRH": {
+        "id": "OYiHqSQIRH",
+        "title": "1984",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-04-10 15:20:49",
+        "user": {
+            "id": "383165880-vkontakte",
+            "nickname": "skryazhevskih",
+            "booksCount": 3
+        }
+    },
     "ciPWDESBx8": {
         "id": "ciPWDESBx8",
         "title": "451 градус по франгейту",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 32
-        }
-    },
-    "vfn_H9ailo": {
-        "id": "vfn_H9ailo",
-        "title": "Сквозь зеркала. Тайны Полюса",
-        "author": "Кристель Дабо",
-        "notes": "",
-        "createdAt": "2020-04-05 20:48:39",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 31
         }
     }
 }
