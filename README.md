@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гарри Поттер и Узник Азкабана ~ [anvonamore](users/595/5957175-vkontakte)<sup>135</sup>
+    > 6/10
+
 * Гарри Поттер и Тайная комната ~ [anvonamore](users/595/5957175-vkontakte)<sup>134</sup>
     > 6/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Экспозиция и музей.
 
 * На всех линиях лондонского метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup>
-    > Ни о чём. Мужчина опаздывает на работу, в метро странные, не пугающие люди.
 
 * Пять четвертинок апельсина ~ [En](users/333/333646551-vkontakte)<sup>97</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Конец Вечности ~ [En](users/333/333646551-vkontakte)<sup>96</sup>
 
-* Клинки кардинала ~ [Chiffi](users/105/105831994080785626680-google)<sup>183</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[anvonamore](users/595/5957175-vkontakte)<sup>134</sup> 
+[anvonamore](users/595/5957175-vkontakte)<sup>135</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>43</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>154</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>71</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>776</sup> 
 
 
-_10.04.2020 15:06:05_
+_10.04.2020 15:06:31_
