@@ -1,4 +1,16 @@
 {
+    "2WJ445q5CZ": {
+        "id": "2WJ445q5CZ",
+        "title": "Лолита",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2020-04-11 18:40:51",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 38
+        }
+    },
     "8zRud2tHAy": {
         "id": "8zRud2tHAy",
         "title": "Скажи депрессии нет!",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 79
-        }
-    },
-    "nzLSPxE08O": {
-        "id": "nzLSPxE08O",
-        "title": "Мани, или Азбука денег",
-        "author": "Бодо Шефер",
-        "notes": "Норм. Обязательно куплю эту книгу своим детям.",
-        "createdAt": "2020-04-06 05:14:48",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 45
         }
     }
 }

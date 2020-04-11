@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 38,
+        "updatedAt": "2020-04-11 18:40:51"
+    },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
         "nickname": "zAAz",
@@ -172,11 +178,5 @@
         "nickname": "lyaj",
         "booksCount": 0,
         "updatedAt": "2020-04-01 03:48:36"
-    },
-    "106650512180050127359-google": {
-        "id": "106650512180050127359-google",
-        "nickname": "niet",
-        "booksCount": 0,
-        "updatedAt": "2020-03-31 16:55:37"
     }
 }
