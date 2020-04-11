@@ -1,4 +1,16 @@
 {
+    "8zRud2tHAy": {
+        "id": "8zRud2tHAy",
+        "title": "Скажи депрессии нет!",
+        "author": "А. Курпатов",
+        "notes": "",
+        "createdAt": "2020-04-11 14:14:34",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 54
+        }
+    },
     "m1CrLfolP1": {
         "id": "m1CrLfolP1",
         "title": "бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 45
-        }
-    },
-    "eIdtlnjayo": {
-        "id": "eIdtlnjayo",
-        "title": "Луна и грош",
-        "author": "Сомерсет Моэм",
-        "notes": "",
-        "createdAt": "2020-04-05 20:49:58",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 34
         }
     }
 }
