@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Снафф ~ [ee](users/219/2195256973544755662-mailru)<sup>10</sup>
 * Краткая история почти всего на свете ~ [Avery](users/567/56734832-yandex)<sup>22</sup>
 * Вера против фактов Почему наука и религия несовместимы ~ [Garka](users/115/115753719718250012620-google)<sup>248</sup>
 * Путь художника ~ [dmiro](users/571/5714115-vkontakte)<sup>24</sup>
@@ -30,7 +31,6 @@
 * Любимая воина и источник силы ~ [Chiffi](users/105/105831994080785626680-google)<sup>180</sup>
 * Невеста принца и волшебные бабочки ~ [Chiffi](users/105/105831994080785626680-google)<sup>179</sup>
 * Мор, ученик Смерти ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup>
-* Терроо ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>95</sup>
 
 
-_12.04.2020 16:50:45_
+_12.04.2020 17:41:06_

@@ -1,4 +1,16 @@
 {
+    "nGalQlgzlr": {
+        "id": "nGalQlgzlr",
+        "title": "Снафф",
+        "author": "Чак Паланик",
+        "notes": "\"Зачем я это прочел???7\"",
+        "createdAt": "2020-04-12 17:41:06",
+        "user": {
+            "id": "2195256973544755662-mailru",
+            "nickname": "ee",
+            "booksCount": 10
+        }
+    },
     "RglTsE9mlj": {
         "id": "RglTsE9mlj",
         "title": "Краткая история почти всего на свете",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 55
-        }
-    },
-    "MLoAjO48OX": {
-        "id": "MLoAjO48OX",
-        "title": "Терроо",
-        "author": "Дэн Симмонс",
-        "notes": "8/10 омновано на реальных србытиях. Моряки в поискпх Северо-Западного прохода.",
-        "createdAt": "2020-03-26 16:08:58",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 95
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "nGalQlgzlr": {
+        "id": "nGalQlgzlr",
+        "title": "Снафф",
+        "author": "Чак Паланик",
+        "notes": "\"Зачем я это прочел???7\"",
+        "createdAt": "2020-04-12 17:41:06",
+        "user": {
+            "id": "2195256973544755662-mailru",
+            "nickname": "ee",
+            "booksCount": 10
+        }
+    },
     "DKwpfoUByc": {
         "id": "DKwpfoUByc",
         "title": "О мышах и людях",
@@ -345,18 +357,6 @@
             "id": "326783541-vkontakte",
             "nickname": "Askaliya",
             "booksCount": 2
-        }
-    },
-    "MddUJN5yOW": {
-        "id": "MddUJN5yOW",
-        "title": "Герой нашего времени",
-        "author": "М.Ю.Лермонтов",
-        "notes": "",
-        "createdAt": "2020-04-07 17:49:56",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 84
         }
     }
 }

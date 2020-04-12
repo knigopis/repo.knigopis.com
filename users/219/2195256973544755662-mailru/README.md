@@ -1,7 +1,12 @@
-# List of books read by [ee](https://my.mail.ru/mail/frodzhers/)<sup>9</sup>
+# List of books read by [ee](https://my.mail.ru/mail/frodzhers/)<sup>10</sup>
 ---
 
 ## 2020
+
+### Снафф
+Чак Паланик
+> [2020-03] "Зачем я это прочел???7"
+
 
 ### О мышах и людях
 Джон Стейнбек
