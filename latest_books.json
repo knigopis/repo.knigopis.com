@@ -1,4 +1,16 @@
 {
+    "DKwpfoUByc": {
+        "id": "DKwpfoUByc",
+        "title": "О мышах и людях",
+        "author": "Джон Стейнбек",
+        "notes": "",
+        "createdAt": "2020-04-12 17:38:30",
+        "user": {
+            "id": "2195256973544755662-mailru",
+            "nickname": "ee",
+            "booksCount": 9
+        }
+    },
     "RglTsE9mlj": {
         "id": "RglTsE9mlj",
         "title": "Краткая история почти всего на свете",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 84
-        }
-    },
-    "PU9nCdY7HX": {
-        "id": "PU9nCdY7HX",
-        "title": "Кричащая лестница",
-        "author": "Джонатан Страуд",
-        "notes": "",
-        "createdAt": "2020-04-07 17:34:06",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 162
         }
     }
 }

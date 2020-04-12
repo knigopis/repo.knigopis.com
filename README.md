@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ee](users/219/2195256973544755662-mailru)<sup>9</sup> 
 [Avery](users/567/56734832-yandex)<sup>22</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>72</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>248</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [iss.sergeev](users/554/554456833-vkontakte)<sup>0</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>22</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>44</sup> 
-[fyury_88](users/287/287448137-vkontakte)<sup>0</sup> 
 
 
-_12.04.2020 16:50:45_
+_12.04.2020 17:38:30_

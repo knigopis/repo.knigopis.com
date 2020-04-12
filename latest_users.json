@@ -1,4 +1,10 @@
 {
+    "2195256973544755662-mailru": {
+        "id": "2195256973544755662-mailru",
+        "nickname": "ee",
+        "booksCount": 9,
+        "updatedAt": "2020-04-12 17:38:30"
+    },
     "56734832-yandex": {
         "id": "56734832-yandex",
         "nickname": "Avery",
@@ -172,11 +178,5 @@
         "nickname": "4apa",
         "booksCount": 44,
         "updatedAt": "2020-04-02 13:05:52"
-    },
-    "287448137-vkontakte": {
-        "id": "287448137-vkontakte",
-        "nickname": "fyury_88",
-        "booksCount": 0,
-        "updatedAt": "2020-04-01 23:08:22"
     }
 }

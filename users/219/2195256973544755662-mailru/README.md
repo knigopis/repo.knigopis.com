@@ -1,7 +1,12 @@
-# List of books read by [ee](https://my.mail.ru/mail/frodzhers/)<sup>8</sup>
+# List of books read by [ee](https://my.mail.ru/mail/frodzhers/)<sup>9</sup>
 ---
 
 ## 2020
+
+### О мышах и людях
+Джон Стейнбек
+> [2020-02-05] 
+
 
 ### 451 градус по Фаренгейту
 Рэй Брэдбери
