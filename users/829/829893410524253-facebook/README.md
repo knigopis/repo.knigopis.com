@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>97</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>98</sup>
 ---
 
 ## 2020
+
+### Темна вежа 2. Крізь час
+Стівен Кінг
+> [2020-04-12] 9/10 Роланд видобуває В'язня, Даму Тіней та Штовхача.
+
 
 ### Чарівні традиції українок
 Лада Лузина

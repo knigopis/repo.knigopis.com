@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Темна вежа 2. Крізь час ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>98</sup>
+    > 9/10 Роланд видобуває В'язня, Даму Тіней та Штовхача.
+
 * Жемчужина ~ [ee](users/219/2195256973544755662-mailru)<sup>11</sup>
     > Индейцы. Величайшая жемчужина. Трагедия
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > "Зачем я это прочел???7"
 
 * Краткая история почти всего на свете ~ [Avery](users/567/56734832-yandex)<sup>22</sup>
-    > Брайсон описывает в доступных терминах размер Вселенной, атомов и субатомных частиц. Затем он исследует историю геологии и биологии, рассматривая жизнь от момента появления до современных людей, при этом подробно останавливаясь на развитии Homo sapiens. Здесь можно найти описание космоса и микрокосмоса, живых существ, историю видов, человека, животных, почитать о ДНК и динозаврах, о Солнце, солнечной системе и химических элементах. 
-    > 
-    > Значительная часть книги посвящена курьёзным историям об учёных, стоящих за исследованиями и открытиями.
 
 * Вера против фактов Почему наука и религия несовместимы ~ [Garka](users/115/115753719718250012620-google)<sup>248</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и Тайная комната ~ [anvonamore](users/595/5957175-vkontakte)<sup>134</sup>
 
-* Коридоры ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>98</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>11</sup> 
 [Avery](users/567/56734832-yandex)<sup>22</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>72</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>8</sup> 
 [iss.sergeev](users/554/554456833-vkontakte)<sup>0</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>22</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>44</sup> 
 
 
-_12.04.2020 17:47:23_
+_12.04.2020 19:30:59_

@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 98,
+        "updatedAt": "2020-04-12 19:30:59"
+    },
     "2195256973544755662-mailru": {
         "id": "2195256973544755662-mailru",
         "nickname": "ee",
@@ -172,11 +178,5 @@
         "nickname": "mavrentik",
         "booksCount": 22,
         "updatedAt": "2020-04-02 14:43:02"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 44,
-        "updatedAt": "2020-04-02 13:05:52"
     }
 }
