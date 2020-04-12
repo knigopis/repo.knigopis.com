@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вера против фактов Почему наука и религия несовместимы ~ [Garka](users/115/115753719718250012620-google)<sup>248</sup>
+    > Интересная книга, позволяет на многие вещи взглянуть по другому. Все вопросы разложены чётко и логично. На последних главах автор поддаётся эмоциям, но оно и понятно - когда сотни людей (в основном дети, которые не имеют право голоса, а соответственно и право выбора) гибнут из-за глупых религиозных предрассудков, таких как запрет вакцинации, переливание крови или вовсе полный отказ от медицинской помощи в пользу молитвы.
+
 * Путь художника ~ [dmiro](users/571/5714115-vkontakte)<sup>24</sup>
     > Утренние страницы
     > Творческие свидания с собой
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Гарри Поттер и Кубок Огня ~ [anvonamore](users/595/5957175-vkontakte)<sup>136</sup>
-    > 8/10
 
 * Гарри Поттер и Узник Азкабана ~ [anvonamore](users/595/5957175-vkontakte)<sup>135</sup>
 
@@ -31,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Мани, или Азбука денег ~ [youno](users/302/302928912-vkontakte)<sup>45</sup>
 
-* Властитель мёртвых. Книга третья ~ [ArenF](users/113/113523157-vkontakte)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>248</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>163</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>24</sup> 
 [Vaness](users/108/108832317362761277652-google)<sup>0</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>22</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>44</sup> 
 [fyury_88](users/287/287448137-vkontakte)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>97</sup> 
 
 
-_12.04.2020 09:51:51_
+_12.04.2020 10:08:05_

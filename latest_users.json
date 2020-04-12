@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 248,
+        "updatedAt": "2020-04-12 10:08:04"
+    },
     "217891524-vkontakte": {
         "id": "217891524-vkontakte",
         "nickname": "lostinfrost",
@@ -172,11 +178,5 @@
         "nickname": "fyury_88",
         "booksCount": 0,
         "updatedAt": "2020-04-01 23:08:22"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 97,
-        "updatedAt": "2020-04-01 19:33:11"
     }
 }

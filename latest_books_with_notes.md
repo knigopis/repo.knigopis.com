@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вера против фактов Почему наука и религия несовместимы ~ [Garka](users/115/115753719718250012620-google)<sup>248</sup>
 * Путь художника ~ [dmiro](users/571/5714115-vkontakte)<sup>24</sup>
 * Гарри Поттер и Орден Феникса ~ [anvonamore](users/595/5957175-vkontakte)<sup>137</sup>
 * Гарри Поттер и Кубок Огня ~ [anvonamore](users/595/5957175-vkontakte)<sup>136</sup>
@@ -30,7 +31,6 @@
 * Мор, ученик Смерти ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>55</sup>
 * Терроо ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>95</sup>
 * Пепел империй ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>94</sup>
-* Все хреново ~ [dmiro](users/571/5714115-vkontakte)<sup>22</sup>
 
 
-_12.04.2020 07:31:42_
+_12.04.2020 10:08:05_
