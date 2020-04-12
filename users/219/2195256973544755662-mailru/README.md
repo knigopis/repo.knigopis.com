@@ -1,7 +1,12 @@
-# List of books read by [ee](https://my.mail.ru/mail/frodzhers/)<sup>10</sup>
+# List of books read by [ee](https://my.mail.ru/mail/frodzhers/)<sup>11</sup>
 ---
 
 ## 2020
+
+### Жемчужина
+Джон Стейнбек
+> [2020-04-11] Индейцы. Величайшая жемчужина. Трагедия
+
 
 ### Снафф
 Чак Паланик

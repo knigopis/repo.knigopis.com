@@ -1,4 +1,16 @@
 {
+    "1EhHa3T9PU": {
+        "id": "1EhHa3T9PU",
+        "title": "Жемчужина",
+        "author": "Джон Стейнбек",
+        "notes": "Индейцы. Величайшая жемчужина. Трагедия",
+        "createdAt": "2020-04-12 17:47:23",
+        "user": {
+            "id": "2195256973544755662-mailru",
+            "nickname": "ee",
+            "booksCount": 11
+        }
+    },
     "nGalQlgzlr": {
         "id": "nGalQlgzlr",
         "title": "Снафф",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 70
-        }
-    },
-    "KXNNF8eKRK": {
-        "id": "KXNNF8eKRK",
-        "title": "Мисс Черити",
-        "author": "Мари-Од Мюрай",
-        "notes": "",
-        "createdAt": "2020-04-08 08:35:41",
-        "user": {
-            "id": "326783541-vkontakte",
-            "nickname": "Askaliya",
-            "booksCount": 2
         }
     }
 }

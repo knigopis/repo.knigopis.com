@@ -1,4 +1,16 @@
 {
+    "1EhHa3T9PU": {
+        "id": "1EhHa3T9PU",
+        "title": "Жемчужина",
+        "author": "Джон Стейнбек",
+        "notes": "Индейцы. Величайшая жемчужина. Трагедия",
+        "createdAt": "2020-04-12 17:47:23",
+        "user": {
+            "id": "2195256973544755662-mailru",
+            "nickname": "ee",
+            "booksCount": 11
+        }
+    },
     "nGalQlgzlr": {
         "id": "nGalQlgzlr",
         "title": "Снафф",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 179
-        }
-    },
-    "HaArOB-lVb": {
-        "id": "HaArOB-lVb",
-        "title": "Мор, ученик Смерти",
-        "author": "Терри Пратчетт",
-        "notes": "13/10",
-        "createdAt": "2020-03-26 18:36:41",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 55
         }
     }
 }
