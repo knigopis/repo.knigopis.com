@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>162</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>163</sup>
 ---
 
 ## 2020
+
+### Скандинавские боги
+Нил Гейман
+> [2020-04-12] 
+
 
 ### Кричащая лестница
 Джонатан Страуд

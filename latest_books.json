@@ -1,4 +1,16 @@
 {
+    "bH21Uhrhx4": {
+        "id": "bH21Uhrhx4",
+        "title": "Скандинавские боги",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2020-04-12 09:51:50",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 163
+        }
+    },
     "sd74HO05I8": {
         "id": "sd74HO05I8",
         "title": "Путь художника",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 100
-        }
-    },
-    "0jdEGeLizF": {
-        "id": "0jdEGeLizF",
-        "title": "Когда поют сверчки",
-        "author": "Чарльз Мартин",
-        "notes": "",
-        "createdAt": "2020-04-06 08:43:44",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 80
         }
     }
 }
