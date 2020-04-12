@@ -5,6 +5,14 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Путь художника ~ [dmiro](users/571/5714115-vkontakte)<sup>24</sup>
+    > Утренние страницы
+    > Творческие свидания с собой
+    > Искусство распахивает чуланы, проветривает погреба
+    > Восстановление чувства целостности - не читать неделю и разгребать дела
+    > Написать письмо к себе в 80 и в 8
+    > Кайфоломы - те, кто убивают веру в себя
+
 * Гарри Поттер и Орден Феникса ~ [anvonamore](users/595/5957175-vkontakte)<sup>137</sup>
     > 7/10
 
@@ -12,7 +20,6 @@ Do not use pull requests to make changes here.
     > 8/10
 
 * Гарри Поттер и Узник Азкабана ~ [anvonamore](users/595/5957175-vkontakte)<sup>135</sup>
-    > 6/10
 
 * Гарри Поттер и Тайная комната ~ [anvonamore](users/595/5957175-vkontakte)<sup>134</sup>
 
@@ -26,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Властитель мёртвых. Книга третья ~ [ArenF](users/113/113523157-vkontakte)<sup>4</sup>
 
-* Властитель мёртвых. Книга вторая ~ [ArenF](users/113/113523157-vkontakte)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmiro](users/571/5714115-vkontakte)<sup>24</sup> 
 [Vaness](users/108/108832317362761277652-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>38</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>54</sup> 
@@ -60,9 +66,8 @@ _More notes [here](latest_books_with_notes.md)._
 [iss.sergeev](users/554/554456833-vkontakte)<sup>0</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>22</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>44</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>23</sup> 
 [fyury_88](users/287/287448137-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>97</sup> 
 
 
-_12.04.2020 07:12:18_
+_12.04.2020 07:31:42_

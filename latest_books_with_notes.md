@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Путь художника ~ [dmiro](users/571/5714115-vkontakte)<sup>24</sup>
 * Гарри Поттер и Орден Феникса ~ [anvonamore](users/595/5957175-vkontakte)<sup>137</sup>
 * Гарри Поттер и Кубок Огня ~ [anvonamore](users/595/5957175-vkontakte)<sup>136</sup>
 * Гарри Поттер и Узник Азкабана ~ [anvonamore](users/595/5957175-vkontakte)<sup>135</sup>
@@ -30,7 +31,6 @@
 * Терроо ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>95</sup>
 * Пепел империй ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>94</sup>
 * Все хреново ~ [dmiro](users/571/5714115-vkontakte)<sup>22</sup>
-* Коробка в форме сердца ~ [En](users/333/333646551-vkontakte)<sup>94</sup>
 
 
-_10.04.2020 15:08:26_
+_12.04.2020 07:31:42_
