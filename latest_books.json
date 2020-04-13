@@ -1,4 +1,16 @@
 {
+    "nTZGNtC5p_": {
+        "id": "nTZGNtC5p_",
+        "title": "Черная луна",
+        "author": "Маркеев Олег",
+        "notes": "",
+        "createdAt": "2020-04-13 19:20:20",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 119
+        }
+    },
     "i0wWM2luXM": {
         "id": "i0wWM2luXM",
         "title": "Главные вопросы жизни.",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 153
-        }
-    },
-    "ZC0yTR7ox0": {
-        "id": "ZC0yTR7ox0",
-        "title": "",
-        "author": "Каменистый",
-        "notes": "",
-        "createdAt": "2020-04-09 14:12:58",
-        "user": {
-            "id": "617485998834660-facebook",
-            "nickname": "Warg",
-            "booksCount": 3
         }
     }
 }
