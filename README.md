@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>100</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>85</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>98</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>154</sup> 
 [Warg](users/617/617485998834660-facebook)<sup>3</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>67</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>222</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>2</sup> 
 [En](users/333/333646551-vkontakte)<sup>97</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [iss.sergeev](users/554/554456833-vkontakte)<sup>0</sup> 
 
 
-_13.04.2020 07:30:04_
+_13.04.2020 10:46:05_

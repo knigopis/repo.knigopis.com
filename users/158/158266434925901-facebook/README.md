@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>101</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>100</sup>
 ---
 
 ## 2020
+
+### Что за чертовщину я сейчас прочёл
+Дэвид Вонг
+> [2020-04-13] 
+
 
 ### Глаза дракона
 Стивен Кинг
