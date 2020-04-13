@@ -1,4 +1,16 @@
 {
+    "i0wWM2luXM": {
+        "id": "i0wWM2luXM",
+        "title": "Главные вопросы жизни.",
+        "author": "А. Курпатов",
+        "notes": "",
+        "createdAt": "2020-04-13 12:47:54",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 55
+        }
+    },
     "r13xQi_ean": {
         "id": "r13xQi_ean",
         "title": "Что за чертовщину я сейчас прочёл",
@@ -345,18 +357,6 @@
             "id": "617485998834660-facebook",
             "nickname": "Warg",
             "booksCount": 3
-        }
-    },
-    "BNhAZLgInK": {
-        "id": "BNhAZLgInK",
-        "title": "Великое перерождение",
-        "author": "Артем Каменистый",
-        "notes": "Норм (Экс2)",
-        "createdAt": "2020-04-09 14:12:05",
-        "user": {
-            "id": "617485998834660-facebook",
-            "nickname": "Warg",
-            "booksCount": 2
         }
     }
 }

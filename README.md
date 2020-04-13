@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>55</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>100</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>85</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>2</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>24</sup> 
 [Vaness](users/108/108832317362761277652-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>38</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>54</sup> 
 [skryazhevskih](users/383/383165880-vkontakte)<sup>5</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>137</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>43</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [iss.sergeev](users/554/554456833-vkontakte)<sup>0</sup> 
 
 
-_13.04.2020 10:46:05_
+_13.04.2020 12:47:54_
