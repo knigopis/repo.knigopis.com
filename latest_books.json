@@ -1,4 +1,16 @@
 {
+    "k69wGpoQu5": {
+        "id": "k69wGpoQu5",
+        "title": "Евгений Онегин",
+        "author": "А.С.Пушкин",
+        "notes": "",
+        "createdAt": "2020-04-13 07:30:04",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 85
+        }
+    },
     "trdj8cOWKL": {
         "id": "trdj8cOWKL",
         "title": "Начни с главного",
@@ -345,18 +357,6 @@
             "id": "617485998834660-facebook",
             "nickname": "Warg",
             "booksCount": 1
-        }
-    },
-    "Vup27KEWV_": {
-        "id": "Vup27KEWV_",
-        "title": "Девушки Сирени",
-        "author": "Марта Холл Келли",
-        "notes": "",
-        "createdAt": "2020-04-09 07:11:28",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 67
         }
     }
 }
