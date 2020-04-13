@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Начни с главного ~ [Fenix](users/111/111367585493471720963-google)<sup>2</sup>
+    > Книга о приоритетах хорошая
+
 * Темна вежа 2. Крізь час ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>98</sup>
     > 9/10 Роланд видобуває В'язня, Даму Тіней та Штовхача.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Индейцы. Величайшая жемчужина. Трагедия
 
 * Снафф ~ [ee](users/219/2195256973544755662-mailru)<sup>10</sup>
-    > "Зачем я это прочел???7"
 
 * Краткая история почти всего на свете ~ [Avery](users/567/56734832-yandex)<sup>22</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и Узник Азкабана ~ [anvonamore](users/595/5957175-vkontakte)<sup>135</sup>
 
-* Гарри Поттер и Тайная комната ~ [anvonamore](users/595/5957175-vkontakte)<sup>134</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Fenix](users/111/111367585493471720963-google)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>98</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>11</sup> 
 [Avery](users/567/56734832-yandex)<sup>22</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>11</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>8</sup> 
 [iss.sergeev](users/554/554456833-vkontakte)<sup>0</sup> 
-[mavrentik](users/200/200666735-vkontakte)<sup>22</sup> 
 
 
-_12.04.2020 19:30:59_
+_13.04.2020 04:47:02_

@@ -1,4 +1,10 @@
 {
+    "111367585493471720963-google": {
+        "id": "111367585493471720963-google",
+        "nickname": "Fenix",
+        "booksCount": 2,
+        "updatedAt": "2020-04-13 04:47:02"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "iss.sergeev",
         "booksCount": 0,
         "updatedAt": "2020-04-02 20:07:14"
-    },
-    "200666735-vkontakte": {
-        "id": "200666735-vkontakte",
-        "nickname": "mavrentik",
-        "booksCount": 22,
-        "updatedAt": "2020-04-02 14:43:02"
     }
 }

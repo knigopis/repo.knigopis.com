@@ -1,7 +1,12 @@
-# List of books read by [Fenix](https://plus.google.com/u/0/111367585493471720963/)<sup>1</sup>
+# List of books read by [Fenix](https://plus.google.com/u/0/111367585493471720963/)<sup>2</sup>
 ---
 
 ## 2020
+
+### Начни с главного
+Гери КЕеллер
+> [2020-04-13] Книга о приоритетах хорошая
+
 
 ### Шамбала
 Чогьям Трунгпа Ринпоче
