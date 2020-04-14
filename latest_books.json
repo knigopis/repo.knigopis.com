@@ -1,4 +1,16 @@
 {
+    "kLmj0JfCgT": {
+        "id": "kLmj0JfCgT",
+        "title": "Самый богатый человек в Вавилоне",
+        "author": "Дж. Клейсон",
+        "notes": "",
+        "createdAt": "2020-04-14 08:27:51",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 56
+        }
+    },
     "TYtYVpeoaQ": {
         "id": "TYtYVpeoaQ",
         "title": "Джованни Джакомо Казанова мемуары",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 154
-        }
-    },
-    "otDcQaiVI_": {
-        "id": "otDcQaiVI_",
-        "title": "Осторожно, двери закрываются",
-        "author": "Мария Метлицкая",
-        "notes": "",
-        "createdAt": "2020-04-09 21:28:19",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 71
         }
     }
 }

@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>56</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>77</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>777</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>119</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>55</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>100</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>85</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>184</sup> 
 
 
-_14.04.2020 06:37:00_
+_14.04.2020 08:27:51_

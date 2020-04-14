@@ -1,4 +1,10 @@
 {
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 56,
+        "updatedAt": "2020-04-14 08:27:51"
+    },
     "106304994652616315178-google": {
         "id": "106304994652616315178-google",
         "nickname": "Euphoria",
@@ -16,12 +22,6 @@
         "nickname": "exulted",
         "booksCount": 119,
         "updatedAt": "2020-04-13 19:20:20"
-    },
-    "202248233-vkontakte": {
-        "id": "202248233-vkontakte",
-        "nickname": "zAAz",
-        "booksCount": 55,
-        "updatedAt": "2020-04-13 12:47:54"
     },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
