@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>777</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>119</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>55</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>100</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ArenF](users/113/113523157-vkontakte)<sup>4</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>184</sup> 
 [](users/153/1537586159620888-facebook)<sup>11</sup> 
-[Макар Коренюк](users/126/126368737-vkontakte)<sup>8</sup> 
 
 
-_13.04.2020 19:20:21_
+_14.04.2020 06:32:28_
