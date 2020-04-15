@@ -1,7 +1,12 @@
-# List of books read by [skryazhevskih](http://vk.com/id383165880)<sup>5</sup>
+# List of books read by [skryazhevskih](http://vk.com/id383165880)<sup>6</sup>
 ---
 
 ## 2020
+
+### О новый дивный мир
+Олдос Хаксли
+> [2020-04-15] 
+
 
 ### Мёртвая зона
 > [2020-04-01] 

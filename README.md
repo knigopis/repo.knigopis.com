@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[skryazhevskih](users/383/383165880-vkontakte)<sup>6</sup> 
 [Avery](users/567/56734832-yandex)<sup>23</sup> 
 [youno](users/302/302928912-vkontakte)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>185</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>24</sup> 
 [Vaness](users/108/108832317362761277652-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>38</sup> 
-[skryazhevskih](users/383/383165880-vkontakte)<sup>5</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>137</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>43</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>154</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>34</sup> 
 
 
-_15.04.2020 10:26:33_
+_15.04.2020 15:42:14_

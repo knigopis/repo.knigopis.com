@@ -1,4 +1,16 @@
 {
+    "k1saAeKuOk": {
+        "id": "k1saAeKuOk",
+        "title": "О новый дивный мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2020-04-15 15:42:14",
+        "user": {
+            "id": "383165880-vkontakte",
+            "nickname": "skryazhevskih",
+            "booksCount": 6
+        }
+    },
     "65R_et_ubv": {
         "id": "65R_et_ubv",
         "title": "Тайная история",
@@ -345,18 +357,6 @@
             "id": "383165880-vkontakte",
             "nickname": "skryazhevskih",
             "booksCount": 3
-        }
-    },
-    "ciPWDESBx8": {
-        "id": "ciPWDESBx8",
-        "title": "451 градус по франгейту",
-        "author": "",
-        "notes": "ауди слушал",
-        "createdAt": "2020-04-10 15:20:11",
-        "user": {
-            "id": "383165880-vkontakte",
-            "nickname": "skryazhevskih",
-            "booksCount": 2
         }
     }
 }
