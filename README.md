@@ -56,6 +56,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/106/1067243422-yandex)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>15</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>44</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>779</sup> 
@@ -85,7 +86,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Knigolub~](users/111/111878597279669641685-google)<sup>222</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>2</sup> 
 [En](users/333/333646551-vkontakte)<sup>97</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>80</sup> 
 
 
-_15.04.2020 16:46:35_
+_15.04.2020 21:32:52_
