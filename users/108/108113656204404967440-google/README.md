@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>778</sup>
+# List of books read by Janet<sup>779</sup>
 ---
 
 ## 2020
+
+### Тёмная Башня: Стрелок
+Стивен Кинг
+> [2020-04] 
+
 
 ### Бесконечная История
 Михаэль Энде

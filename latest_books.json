@@ -1,4 +1,16 @@
 {
+    "M-IbQo88x9": {
+        "id": "M-IbQo88x9",
+        "title": "Тёмная Башня: Стрелок",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-04-15 16:18:55",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 779
+        }
+    },
     "k1saAeKuOk": {
         "id": "k1saAeKuOk",
         "title": "О новый дивный мир",
@@ -345,18 +357,6 @@
             "id": "383165880-vkontakte",
             "nickname": "skryazhevskih",
             "booksCount": 4
-        }
-    },
-    "OYiHqSQIRH": {
-        "id": "OYiHqSQIRH",
-        "title": "1984",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-04-10 15:20:49",
-        "user": {
-            "id": "383165880-vkontakte",
-            "nickname": "skryazhevskih",
-            "booksCount": 3
         }
     }
 }
