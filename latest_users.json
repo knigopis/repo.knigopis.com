@@ -1,4 +1,10 @@
 {
+    "1537586159620888-facebook": {
+        "id": "1537586159620888-facebook",
+        "nickname": null,
+        "booksCount": 12,
+        "updatedAt": "2020-04-15 02:36:59"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "ArenF",
         "booksCount": 4,
         "updatedAt": "2020-04-05 13:06:26"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 184,
-        "updatedAt": "2020-04-04 19:50:36"
     }
 }

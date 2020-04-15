@@ -1,4 +1,16 @@
 {
+    "kV9yn3IeI8": {
+        "id": "kV9yn3IeI8",
+        "title": "Обратная сила (Том 1)",
+        "author": "А.Маринина",
+        "notes": "",
+        "createdAt": "2020-04-15 02:36:59",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 12
+        }
+    },
     "DPOkPtklua": {
         "id": "DPOkPtklua",
         "title": "Бесконечная История",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 134
-        }
-    },
-    "zgp9cec7r6": {
-        "id": "zgp9cec7r6",
-        "title": "Первый закон II. Прежде чем их повесят",
-        "author": "Джо Аберкромби",
-        "notes": "",
-        "createdAt": "2020-04-10 13:51:50",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 43
         }
     }
 }
