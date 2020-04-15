@@ -1,4 +1,10 @@
 {
+    "1067243422-yandex": {
+        "id": "1067243422-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-04-15 21:32:49"
+    },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 97,
         "updatedAt": "2020-04-07 13:15:57"
-    },
-    "139338401-vkontakte": {
-        "id": "139338401-vkontakte",
-        "nickname": "sab_olya",
-        "booksCount": 80,
-        "updatedAt": "2020-04-06 08:43:44"
     }
 }
