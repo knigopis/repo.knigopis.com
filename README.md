@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Любовь и прочие неприятности ~ [Chiffi](users/105/105831994080785626680-google)<sup>185</sup>
+    > типичный самиздатовский любовный роман,  больше тянущий на сценарий мелодрамы : муж миллионер, нашедшийся папа - еще больший миллионер. Но смешно и позитивно.
+
 * Начни с главного ~ [Fenix](users/111/111367585493471720963-google)<sup>2</sup>
     > Книга о приоритетах хорошая
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Роланд видобуває В'язня, Даму Тіней та Штовхача.
 
 * Жемчужина ~ [ee](users/219/2195256973544755662-mailru)<sup>11</sup>
-    > Индейцы. Величайшая жемчужина. Трагедия
 
 * Снафф ~ [ee](users/219/2195256973544755662-mailru)<sup>10</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и Кубок Огня ~ [anvonamore](users/595/5957175-vkontakte)<sup>136</sup>
 
-* Гарри Поттер и Узник Азкабана ~ [anvonamore](users/595/5957175-vkontakte)<sup>135</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>185</sup> 
 [](users/153/1537586159620888-facebook)<sup>14</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>778</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>56</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>80</sup> 
 [youno](users/302/302928912-vkontakte)<sup>45</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>34</sup> 
-[ArenF](users/113/113523157-vkontakte)<sup>4</sup> 
 
 
-_15.04.2020 02:37:48_
+_15.04.2020 04:35:45_

@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 185,
+        "updatedAt": "2020-04-15 04:35:45"
+    },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 34,
         "updatedAt": "2020-04-05 20:49:58"
-    },
-    "113523157-vkontakte": {
-        "id": "113523157-vkontakte",
-        "nickname": "ArenF",
-        "booksCount": 4,
-        "updatedAt": "2020-04-05 13:06:26"
     }
 }
