@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Родимый край 1967-1969 ~ [mfevralev](users/140/140966150-vkontakte)<sup>44</sup>
 * Альфа-статус ~ [youno](users/302/302928912-vkontakte)<sup>46</sup>
 * Любовь и прочие неприятности ~ [Chiffi](users/105/105831994080785626680-google)<sup>185</sup>
 * Начни с главного ~ [Fenix](users/111/111367585493471720963-google)<sup>2</sup>
@@ -30,7 +31,6 @@
 * Норвежский лес ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
 * Любовь не на шутку,  или Райд Элле за ~ [Chiffi](users/105/105831994080785626680-google)<sup>182</sup>
 * Побудь в моей шкуре ~ [En](users/333/333646551-vkontakte)<sup>95</sup>
-* Патриот ~ [Garka](users/115/115753719718250012620-google)<sup>247</sup>
 
 
-_15.04.2020 08:47:19_
+_15.04.2020 16:39:55_
