@@ -1,4 +1,16 @@
 {
+    "W4rRw_dgJ7": {
+        "id": "W4rRw_dgJ7",
+        "title": "Снежные чувства",
+        "author": "Александр Ткаченко",
+        "notes": "",
+        "createdAt": "2020-04-15 16:46:35",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 15
+        }
+    },
     "tishZ_nCpT": {
         "id": "tishZ_nCpT",
         "title": "Родимый край 1967-1969",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 54
-        }
-    },
-    "m1CrLfolP1": {
-        "id": "m1CrLfolP1",
-        "title": "бойцовский клуб",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-04-10 15:21:36",
-        "user": {
-            "id": "383165880-vkontakte",
-            "nickname": "skryazhevskih",
-            "booksCount": 5
         }
     }
 }
