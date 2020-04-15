@@ -34,17 +34,17 @@ Randall Munroe
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Cracking the code interview
-Gayle Laakmann McDowell
-
 ### `1` Портной из Панамы
 Джон Ле Карре
 
-### `1` Joel on Software
-Joel Spolsky
+### `1` Cracking the code interview
+Gayle Laakmann McDowell
 
 ### `1` Атлант расправил плечи
 Айн Рэнд
+
+### `1` Joel on Software
+Joel Spolsky
 
 ### `` Formalized Music
 Янис Ксенакис
@@ -63,21 +63,23 @@ Edward Snowden
 ### `` Мертвые души
 Николай Гоголь
 
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
-
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
-
-### `` Не рычите на собаку
-
 ### `` Три товарища
 Эрих Мария Ремарк
 
 ### `` Тонкое искусство пофигизма
 
-### `` A Briefer History of Time
-Stephen Hawking
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
+
+### `` Asdf
+
+### `` Не рычите на собаку
+
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
+
+### `` Искусство программирования
+Дональд Кнут
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
@@ -103,8 +105,8 @@ Jon Erickson
 ### `` Agile Estimating and Planning
 Mike Cohn
 
-### `` Повелитель мух
-Уильям Голдинг
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
@@ -112,6 +114,6 @@ Satoshi Nakamoto
 ### `` Герой нашего времени
 Михаил Лермонтов
 
-### `` Искусство программирования
-Дональд Кнут
+### `` Повелитель мух
+Уильям Голдинг
 
