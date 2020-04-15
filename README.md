@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Avery](users/567/56734832-yandex)<sup>23</sup> 
 [youno](users/302/302928912-vkontakte)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>185</sup> 
 [](users/153/1537586159620888-facebook)<sup>14</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>98</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>11</sup> 
-[Avery](users/567/56734832-yandex)<sup>22</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>72</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>248</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>163</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>34</sup> 
 
 
-_15.04.2020 08:47:19_
+_15.04.2020 10:26:33_

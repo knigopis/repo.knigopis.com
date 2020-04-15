@@ -1,4 +1,10 @@
 {
+    "56734832-yandex": {
+        "id": "56734832-yandex",
+        "nickname": "Avery",
+        "booksCount": 23,
+        "updatedAt": "2020-04-15 10:26:33"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -70,12 +76,6 @@
         "nickname": "ee",
         "booksCount": 11,
         "updatedAt": "2020-04-12 17:47:23"
-    },
-    "56734832-yandex": {
-        "id": "56734832-yandex",
-        "nickname": "Avery",
-        "booksCount": 22,
-        "updatedAt": "2020-04-12 16:50:45"
     },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",

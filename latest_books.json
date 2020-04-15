@@ -1,4 +1,16 @@
 {
+    "65R_et_ubv": {
+        "id": "65R_et_ubv",
+        "title": "Тайная история",
+        "author": "Донна Тартт",
+        "notes": "<3",
+        "createdAt": "2020-04-15 10:26:33",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 23
+        }
+    },
     "phOqeMQkB-": {
         "id": "phOqeMQkB-",
         "title": "Альфа-статус",
@@ -345,18 +357,6 @@
             "id": "383165880-vkontakte",
             "nickname": "skryazhevskih",
             "booksCount": 2
-        }
-    },
-    "EUCM9Klnjk": {
-        "id": "EUCM9Klnjk",
-        "title": "Мёртвая зона",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-04-10 15:19:24",
-        "user": {
-            "id": "383165880-vkontakte",
-            "nickname": "skryazhevskih",
-            "booksCount": 1
         }
     }
 }
