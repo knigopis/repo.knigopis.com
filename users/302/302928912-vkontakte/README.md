@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>45</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>46</sup>
 ---
 
 ## 2020
+
+### Альфа-статус
+Михаил Терентьев
+> [2020-04-15] Ничего нового в принципе.
+
 
 ### Мани, или Азбука денег
 Бодо Шефер

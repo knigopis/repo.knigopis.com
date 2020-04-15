@@ -1,4 +1,16 @@
 {
+    "phOqeMQkB-": {
+        "id": "phOqeMQkB-",
+        "title": "Альфа-статус",
+        "author": "Михаил Терентьев",
+        "notes": "Ничего нового в принципе.",
+        "createdAt": "2020-04-15 08:47:19",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 46
+        }
+    },
     "hPhEHkom64": {
         "id": "hPhEHkom64",
         "title": "Любовь и прочие неприятности",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 247
-        }
-    },
-    "x8vfxMG_3z": {
-        "id": "x8vfxMG_3z",
-        "title": "Любовь понарошку или Райд Элле против",
-        "author": "Черникова Любовь",
-        "notes": "третья книга цикла. Любовное фентэзи про магию и оборотней",
-        "createdAt": "2020-03-29 09:26:25",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 181
         }
     }
 }

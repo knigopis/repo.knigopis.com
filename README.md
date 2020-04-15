@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Альфа-статус ~ [youno](users/302/302928912-vkontakte)<sup>46</sup>
+    > Ничего нового в принципе.
+
 * Любовь и прочие неприятности ~ [Chiffi](users/105/105831994080785626680-google)<sup>185</sup>
     > типичный самиздатовский любовный роман,  больше тянущий на сценарий мелодрамы : муж миллионер, нашедшийся папа - еще больший миллионер. Но смешно и позитивно.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга о приоритетах хорошая
 
 * Темна вежа 2. Крізь час ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>98</sup>
-    > 9/10 Роланд видобуває В'язня, Даму Тіней та Штовхача.
 
 * Жемчужина ~ [ee](users/219/2195256973544755662-mailru)<sup>11</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и Орден Феникса ~ [anvonamore](users/595/5957175-vkontakte)<sup>137</sup>
 
-* Гарри Поттер и Кубок Огня ~ [anvonamore](users/595/5957175-vkontakte)<sup>136</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>185</sup> 
 [](users/153/1537586159620888-facebook)<sup>14</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>778</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>2</sup> 
 [En](users/333/333646551-vkontakte)<sup>97</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>80</sup> 
-[youno](users/302/302928912-vkontakte)<sup>45</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>34</sup> 
 
 
-_15.04.2020 04:35:45_
+_15.04.2020 08:47:19_
