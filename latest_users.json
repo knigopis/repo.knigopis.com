@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 86,
+        "updatedAt": "2020-04-16 05:23:16"
+    },
     "1067243422-yandex": {
         "id": "1067243422-yandex",
         "nickname": null,
@@ -70,12 +76,6 @@
         "nickname": "GvenVivar ",
         "booksCount": 100,
         "updatedAt": "2020-04-13 10:46:04"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 85,
-        "updatedAt": "2020-04-13 07:30:04"
     },
     "111367585493471720963-google": {
         "id": "111367585493471720963-google",
