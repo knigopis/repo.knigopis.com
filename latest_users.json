@@ -1,4 +1,10 @@
 {
+    "145522558-vkontakte": {
+        "id": "145522558-vkontakte",
+        "nickname": "неважно",
+        "booksCount": 4,
+        "updatedAt": "2020-04-16 13:08:32"
+    },
     "2195256973544755662-mailru": {
         "id": "2195256973544755662-mailru",
         "nickname": "ee",
@@ -172,11 +178,5 @@
         "nickname": "Knigolub~",
         "booksCount": 222,
         "updatedAt": "2020-04-08 17:46:25"
-    },
-    "326783541-vkontakte": {
-        "id": "326783541-vkontakte",
-        "nickname": "Askaliya",
-        "booksCount": 2,
-        "updatedAt": "2020-04-08 08:35:41"
     }
 }

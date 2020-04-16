@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* пятеро,которых ты встретишь на небесах(которые ждут тебя на небесах) ~ [неважно](users/145/145522558-vkontakte)<sup>4</sup>
+    > -Все родители, так или иначе, ранят своих детей. Это неизбежно. И на ребенке, будто на чисто вымытом стакане, остаются следы того, кто к нему прикоснулся. Иногда это грязные пятна, иногда трещины, а некоторые превращают детство своих детей в мелкие осколки, из которых уже ничего не склеишь.
+    > -Копить гнев — копить отраву. Гнев разъедаеттебя изнутри. Мы думаем, что ненависть — это оружие, которым можнопоразить обидчика. Но ненависть как кривой клинок. Она поражает нассамих. Прости его, Эдвард. Прости.
+
 * Портрет Дориана Грея ~ [ee](users/219/2195256973544755662-mailru)<sup>12</sup>
     > Любимая книга!
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Слово живое и мертвое ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>229</sup>
-    > в процессе
 
 * Сто лет одиночества ~ [kissamasya](users/684/68439978-vkontakte)<sup>86</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Темна вежа 2. Крізь час ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>98</sup>
 
-* Жемчужина ~ [ee](users/219/2195256973544755662-mailru)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[неважно](users/145/145522558-vkontakte)<sup>4</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>12</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>230</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>86</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Warg](users/617/617485998834660-facebook)<sup>3</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>67</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>222</sup> 
-[Askaliya](users/326/326783541-vkontakte)<sup>2</sup> 
 
 
-_16.04.2020 11:32:23_
+_16.04.2020 13:08:32_
