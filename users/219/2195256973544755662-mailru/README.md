@@ -1,7 +1,12 @@
-# List of books read by [ee](https://my.mail.ru/mail/frodzhers/)<sup>11</sup>
+# List of books read by [ee](https://my.mail.ru/mail/frodzhers/)<sup>12</sup>
 ---
 
 ## 2020
+
+### Портрет Дориана Грея
+Оскар Уайльд
+> [2020-04-15] Любимая книга!
+
 
 ### Жемчужина
 Джон Стейнбек

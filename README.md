@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Портрет Дориана Грея ~ [ee](users/219/2195256973544755662-mailru)<sup>12</sup>
+    > Любимая книга!
+
 * Дизайн-мышление в бизнесе ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>230</sup>
     > в процессе
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Сто лет одиночества ~ [kissamasya](users/684/68439978-vkontakte)<sup>86</sup>
-    > Странная, поэтичная, причудливая история города Макондо, затерянного где-то в джунглях, – от сотворения до упадка.
-    > История рода Буэндиа – семьи, в которой чудеса столь повседневны, что на них даже не обращают внимания.
-    > Клан Буэндиа порождает святых и грешников, революционеров, героев и предателей, лихих авантюристов – и женщин, слишком прекрасных для обычной жизни.
-    > В нем кипят необычайные страсти – и происходят невероятные события.
-    > Однако эти невероятные события снова и снова становятся своеобразным «волшебным зеркалом», сквозь которое читателю является подлинная история Латинской Америки…
 
 * Родимый край 1967-1969 ~ [mfevralev](users/140/140966150-vkontakte)<sup>44</sup>
 
@@ -30,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Жемчужина ~ [ee](users/219/2195256973544755662-mailru)<sup>11</sup>
 
-* Снафф ~ [ee](users/219/2195256973544755662-mailru)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ee](users/219/2195256973544755662-mailru)<sup>12</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>230</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>86</sup> 
 [](users/106/1067243422-yandex)<sup>0</sup> 
@@ -53,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>100</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>2</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>98</sup> 
-[ee](users/219/2195256973544755662-mailru)<sup>11</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>72</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>248</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>163</sup> 
@@ -69,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>2</sup> 
 
 
-_16.04.2020 09:32:32_
+_16.04.2020 09:57:05_
