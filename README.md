@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>238</sup> 
 [неважно](users/145/145522558-vkontakte)<sup>4</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>12</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>230</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>154</sup> 
 [Warg](users/617/617485998834660-facebook)<sup>3</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>67</sup> 
-[Knigolub~](users/111/111878597279669641685-google)<sup>222</sup> 
 
 
-_16.04.2020 13:08:32_
+_16.04.2020 18:24:52_
