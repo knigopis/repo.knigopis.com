@@ -1,4 +1,4 @@
-# List of books read by [ee](https://my.mail.ru/mail/frodzhers/)<sup>13</sup>
+# List of books read by [ee](https://my.mail.ru/mail/frodzhers/)<sup>12</sup>
 ---
 
 ## 2020
@@ -30,11 +30,6 @@
 
 
 ## 2019
-
-### 451 градус по Фаренгейту
-Рэй Брэдбери
-> [2019-12-30] 
-
 
 ### Великий Гэтсби
 Фицджеральд Френсис Скотт
