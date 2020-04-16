@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ee](users/219/2195256973544755662-mailru)<sup>13</sup> 
+[ee](users/219/2195256973544755662-mailru)<sup>12</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>230</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>86</sup> 
 [](users/106/1067243422-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Askaliya](users/326/326783541-vkontakte)<sup>2</sup> 
 
 
-_16.04.2020 10:54:12_
+_16.04.2020 11:32:23_
