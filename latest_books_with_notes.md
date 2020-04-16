@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Слово живое и мертвое ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>229</sup>
 * Сто лет одиночества ~ [kissamasya](users/684/68439978-vkontakte)<sup>86</sup>
 * Родимый край 1967-1969 ~ [mfevralev](users/140/140966150-vkontakte)<sup>44</sup>
 * Альфа-статус ~ [youno](users/302/302928912-vkontakte)<sup>46</sup>
@@ -30,7 +31,6 @@
 * Чарівні традиції українок ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>97</sup>
 * Контракт ~ [Avery](users/567/56734832-yandex)<sup>20</sup>
 * Норвежский лес ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
-* Любовь не на шутку,  или Райд Элле за ~ [Chiffi](users/105/105831994080785626680-google)<sup>182</sup>
 
 
-_16.04.2020 05:23:16_
+_16.04.2020 09:28:56_

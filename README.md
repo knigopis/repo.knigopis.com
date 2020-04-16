@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Слово живое и мертвое ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>229</sup>
+    > в процессе
+
 * Сто лет одиночества ~ [kissamasya](users/684/68439978-vkontakte)<sup>86</sup>
     > Странная, поэтичная, причудливая история города Макондо, затерянного где-то в джунглях, – от сотворения до упадка.
     > История рода Буэндиа – семьи, в которой чудеса столь повседневны, что на них даже не обращают внимания.
@@ -39,7 +42,6 @@ Do not use pull requests to make changes here.
     > 974 Подъесаул Пашков в бою на казенном мосту.
 
 * Альфа-статус ~ [youno](users/302/302928912-vkontakte)<sup>46</sup>
-    > Ничего нового в принципе.
 
 * Любовь и прочие неприятности ~ [Chiffi](users/105/105831994080785626680-google)<sup>185</sup>
 
@@ -53,13 +55,12 @@ Do not use pull requests to make changes here.
 
 * Краткая история почти всего на свете ~ [Avery](users/567/56734832-yandex)<sup>22</sup>
 
-* Вера против фактов Почему наука и религия несовместимы ~ [Garka](users/115/115753719718250012620-google)<sup>248</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>229</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>86</sup> 
 [](users/106/1067243422-yandex)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>15</sup> 
@@ -89,7 +90,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>67</sup> 
 [Knigolub~](users/111/111878597279669641685-google)<sup>222</sup> 
 [Askaliya](users/326/326783541-vkontakte)<sup>2</sup> 
-[En](users/333/333646551-vkontakte)<sup>97</sup> 
 
 
-_16.04.2020 05:23:16_
+_16.04.2020 09:28:56_

@@ -1,4 +1,16 @@
 {
+    "cKKjYcP2i3": {
+        "id": "cKKjYcP2i3",
+        "title": "Слово живое и мертвое",
+        "author": "Нора Галь",
+        "notes": "в процессе",
+        "createdAt": "2020-04-16 09:28:56",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 229
+        }
+    },
     "AfW-07PF92": {
         "id": "AfW-07PF92",
         "title": "Сто лет одиночества",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 24
-        }
-    },
-    "2WJ445q5CZ": {
-        "id": "2WJ445q5CZ",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2020-04-11 18:40:51",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 38
         }
     }
 }

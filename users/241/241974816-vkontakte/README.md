@@ -1,7 +1,12 @@
-# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>228</sup>
+# List of books read by [Ник Литвинов](https://litvinov.spb.ru/)<sup>229</sup>
 ---
 
 ## 2020
+
+### Слово живое и мертвое
+Нора Галь
+> [2020-04-16] в процессе
+
 
 ### Говори на языке диаграмм
 Джин Желязны
