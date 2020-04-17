@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>44</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>238</sup> 
 [неважно](users/145/145522558-vkontakte)<sup>4</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>12</sup> 
@@ -60,10 +61,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Vaness](users/108/108832317362761277652-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>38</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>137</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>43</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>154</sup> 
 [Warg](users/617/617485998834660-facebook)<sup>3</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>67</sup> 
 
 
-_16.04.2020 18:24:52_
+_17.04.2020 14:51:46_
