@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>780</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>781</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>78</sup> 
 [En](users/333/333646551-vkontakte)<sup>99</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>44</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Warg](users/617/617485998834660-facebook)<sup>3</sup> 
 
 
-_18.04.2020 15:53:30_
+_18.04.2020 15:53:54_
