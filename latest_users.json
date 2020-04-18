@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 98,
+        "updatedAt": "2020-04-18 04:08:24"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "Warg",
         "booksCount": 3,
         "updatedAt": "2020-04-09 14:12:58"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 67,
-        "updatedAt": "2020-04-09 07:11:28"
     }
 }
