@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Joxxy](users/109/109128632962928278575-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>45</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>781</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>78</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Vaness](users/108/108832317362761277652-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>38</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>137</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>154</sup> 
 
 
-_18.04.2020 17:29:10_
+_18.04.2020 22:50:44_
