@@ -1,4 +1,16 @@
 {
+    "XZ2bDqucj2": {
+        "id": "XZ2bDqucj2",
+        "title": "Извлечение троих",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-04-18 15:53:29",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 780
+        }
+    },
     "bE-RCQ5KAg": {
         "id": "bE-RCQ5KAg",
         "title": "Граф Монте-Кристо",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 85
-        }
-    },
-    "trdj8cOWKL": {
-        "id": "trdj8cOWKL",
-        "title": "Начни с главного",
-        "author": "Гери КЕеллер",
-        "notes": "Книга о приоритетах хорошая",
-        "createdAt": "2020-04-13 04:47:02",
-        "user": {
-            "id": "111367585493471720963-google",
-            "nickname": "Fenix",
-            "booksCount": 2
         }
     }
 }
