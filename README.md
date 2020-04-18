@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>78</sup> 
 [En](users/333/333646551-vkontakte)<sup>99</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>44</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>238</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>185</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>56</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>77</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>119</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>100</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>2</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Warg](users/617/617485998834660-facebook)<sup>3</sup> 
 
 
-_18.04.2020 07:07:22_
+_18.04.2020 09:06:12_
