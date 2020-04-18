@@ -1,4 +1,16 @@
 {
+    "0QEbuwRw81": {
+        "id": "0QEbuwRw81",
+        "title": "Бэтмен: убийственная шутка",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-04-18 22:52:02",
+        "user": {
+            "id": "109128632962928278575-google",
+            "nickname": "Joxxy",
+            "booksCount": 1
+        }
+    },
     "iuDm4j6PC5": {
         "id": "iuDm4j6PC5",
         "title": "Дюжина лекций: шесть попроще и шесть посложнее",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 119
-        }
-    },
-    "i0wWM2luXM": {
-        "id": "i0wWM2luXM",
-        "title": "Главные вопросы жизни.",
-        "author": "А. Курпатов",
-        "notes": "",
-        "createdAt": "2020-04-13 12:47:54",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 55
         }
     }
 }
