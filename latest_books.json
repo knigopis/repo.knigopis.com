@@ -1,4 +1,16 @@
 {
+    "cBkx-nnNQG": {
+        "id": "cBkx-nnNQG",
+        "title": "Бэтмен: Ноэль",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-04-18 22:55:11",
+        "user": {
+            "id": "109128632962928278575-google",
+            "nickname": "Joxxy",
+            "booksCount": 6
+        }
+    },
     "vAbXZ-q4K1": {
         "id": "vAbXZ-q4K1",
         "title": "Бэтмен: белый рыцарь",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 12
-        }
-    },
-    "DPOkPtklua": {
-        "id": "DPOkPtklua",
-        "title": "Бесконечная История",
-        "author": "Михаэль Энде",
-        "notes": "",
-        "createdAt": "2020-04-14 15:15:51",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 778
         }
     }
 }

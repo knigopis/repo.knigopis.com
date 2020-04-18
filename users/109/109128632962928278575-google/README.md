@@ -1,7 +1,10 @@
-# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>5</sup>
+# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>6</sup>
 ---
 
 ## 2020
+
+### Бэтмен: Ноэль
+
 
 ### Бэтмен: белый рыцарь
 
