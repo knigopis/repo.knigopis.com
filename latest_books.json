@@ -1,4 +1,16 @@
 {
+    "xyxX6VtPQe": {
+        "id": "xyxX6VtPQe",
+        "title": "Бэтмен: Долгий Хэллуин",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-04-18 23:09:49",
+        "user": {
+            "id": "109128632962928278575-google",
+            "nickname": "Joxxy",
+            "booksCount": 8
+        }
+    },
     "W96RyHcRLL": {
         "id": "W96RyHcRLL",
         "title": "Бэтмен: Год первый",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 14
-        }
-    },
-    "xkGp7MjNIV": {
-        "id": "xkGp7MjNIV",
-        "title": "Обратная сила (Том 2)",
-        "author": "А. Маринина",
-        "notes": "",
-        "createdAt": "2020-04-15 02:37:25",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 13
         }
     }
 }

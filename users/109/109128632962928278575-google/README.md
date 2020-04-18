@@ -1,7 +1,11 @@
-# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>7</sup>
+# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>8</sup>
 ---
 
 ## 2020
+
+### Бэтмен: Долгий Хэллуин
+> [2020-04-17] 
+
 
 ### Бэтмен: Год первый
 
