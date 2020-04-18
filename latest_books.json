@@ -1,4 +1,16 @@
 {
+    "XEPL8-Ek2x": {
+        "id": "XEPL8-Ek2x",
+        "title": "Быть книголюбом",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-04-18 23:10:25",
+        "user": {
+            "id": "109128632962928278575-google",
+            "nickname": "Joxxy",
+            "booksCount": 9
+        }
+    },
     "xyxX6VtPQe": {
         "id": "xyxX6VtPQe",
         "title": "Бэтмен: Долгий Хэллуин",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 185
-        }
-    },
-    "6-Ld-adCkf": {
-        "id": "6-Ld-adCkf",
-        "title": "Обратная сила (Том 3)",
-        "author": "А. Маринина",
-        "notes": "",
-        "createdAt": "2020-04-15 02:37:48",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 14
         }
     }
 }
