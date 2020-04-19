@@ -1,4 +1,16 @@
 {
+    "ivGjvXsj63": {
+        "id": "ivGjvXsj63",
+        "title": "Шепчущий череп",
+        "author": "Джонатан Страуд",
+        "notes": "",
+        "createdAt": "2020-04-19 17:35:21",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 164
+        }
+    },
     "GeqMvTNoAb": {
         "id": "GeqMvTNoAb",
         "title": "Отверженные. Том II",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 44
-        }
-    },
-    "M-IbQo88x9": {
-        "id": "M-IbQo88x9",
-        "title": "Тёмная Башня: Стрелок",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-04-15 16:18:55",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 779
         }
     }
 }

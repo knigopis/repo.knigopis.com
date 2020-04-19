@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>163</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>164</sup>
 ---
 
 ## 2020
+
+### Шепчущий череп
+Джонатан Страуд
+> [2020-04-19] 
+
 
 ### Скандинавские боги
 Нил Гейман
