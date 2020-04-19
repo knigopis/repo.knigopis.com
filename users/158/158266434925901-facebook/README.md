@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>100</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>101</sup>
 ---
 
 ## 2020
+
+### Отверженные. Том II
+Виктор Гюго
+> [2020-04-20] 
+
 
 ### Что за чертовщину я сейчас прочёл
 Дэвид Вонг
