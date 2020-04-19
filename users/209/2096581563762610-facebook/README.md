@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>72</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>73</sup>
 ---
 
 ## 2020
+
+### Кто не спрятался. История одной компании
+Яна Вагнер
+> [2020-04-19] 
+
 
 ### Ева
 Любовь Баринова
