@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>98</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>99</sup>
 ---
 
 ## 2020
+
+### Іствікські відьми
+Джон Апдайк
+> [2020-04-19] 6/10 тир жінки сумують у провінції
+
 
 ### Темна вежа 2. Крізь час
 Стівен Кінг
