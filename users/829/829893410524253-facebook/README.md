@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>99</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>100</sup>
 ---
 
 ## 2020
+
+### 100 историй великой любви
+Н. Н. Костина-Касанелли
+> [2020-04-19] 3/10 стереотепное патриархальное представление преукрашенных любовных историй.
+
 
 ### Іствікські відьми
 Джон Апдайк

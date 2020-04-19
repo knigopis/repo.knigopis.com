@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 100 историй великой любви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>100</sup>
 * Іствікські відьми ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>99</sup>
 * Цветы для миссис Харрис ~ [En](users/333/333646551-vkontakte)<sup>99</sup>
 * Иствикские ведьмы ~ [En](users/333/333646551-vkontakte)<sup>98</sup>
@@ -30,7 +31,6 @@
 * Властитель мёртвых. Книга третья ~ [ArenF](users/113/113523157-vkontakte)<sup>4</sup>
 * Властитель мёртвых. Книга вторая ~ [ArenF](users/113/113523157-vkontakte)<sup>3</sup>
 * Властитель мёртвых. Книга первая ~ [ArenF](users/113/113523157-vkontakte)<sup>2</sup>
-* Конец Вечности ~ [En](users/333/333646551-vkontakte)<sup>96</sup>
 
 
-_19.04.2020 15:19:13_
+_19.04.2020 15:20:34_
