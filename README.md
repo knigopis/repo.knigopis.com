@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[silversxx](users/102/102982049492599061441-google)<sup>0</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>55</sup> 
 [Gubeev](users/110/110362044313753603797-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>73</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>248</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>24</sup> 
-[Vaness](users/108/108832317362761277652-google)<sup>0</sup> 
 
 
-_20.04.2020 09:37:05_
+_20.04.2020 11:42:13_
