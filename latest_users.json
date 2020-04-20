@@ -1,4 +1,10 @@
 {
+    "102982049492599061441-google": {
+        "id": "102982049492599061441-google",
+        "nickname": "silversxx",
+        "booksCount": 0,
+        "updatedAt": "2020-04-20 11:42:11"
+    },
     "334696193054530347-mailru": {
         "id": "334696193054530347-mailru",
         "nickname": "Даша",
@@ -172,11 +178,5 @@
         "nickname": "dmiro",
         "booksCount": 24,
         "updatedAt": "2020-04-12 07:31:42"
-    },
-    "108832317362761277652-google": {
-        "id": "108832317362761277652-google",
-        "nickname": "Vaness",
-        "booksCount": 0,
-        "updatedAt": "2020-04-12 07:12:12"
     }
 }
