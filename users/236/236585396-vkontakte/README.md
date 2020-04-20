@@ -1,11 +1,3 @@
-# List of books read by [CathPk](http://vk.com/id236585396)<sup>1</sup>
+# List of books read by [CathPk](http://vk.com/id236585396)<sup>0</sup>
 ---
-
-## 2020
-
-### The One. единственный
-ДЖОН МАРРС
-> [2020-04-20] 
-
-
 
