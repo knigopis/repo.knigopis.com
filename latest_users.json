@@ -1,4 +1,10 @@
 {
+    "110362044313753603797-google": {
+        "id": "110362044313753603797-google",
+        "nickname": "Gubeev",
+        "booksCount": 0,
+        "updatedAt": "2020-04-20 08:34:57"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 38,
         "updatedAt": "2020-04-11 18:40:51"
-    },
-    "5957175-vkontakte": {
-        "id": "5957175-vkontakte",
-        "nickname": "anvonamore",
-        "booksCount": 137,
-        "updatedAt": "2020-04-10 15:08:26"
     }
 }
