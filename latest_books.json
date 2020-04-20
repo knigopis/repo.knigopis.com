@@ -1,4 +1,16 @@
 {
+    "3BTQ54znwt": {
+        "id": "3BTQ54znwt",
+        "title": "The One. Единственный",
+        "author": "ДЖОН МАРРС",
+        "notes": "",
+        "createdAt": "2020-04-20 12:12:21",
+        "user": {
+            "id": "236585396-vkontakte",
+            "nickname": "CathPk",
+            "booksCount": 1
+        }
+    },
     "xRXRSdEcGk": {
         "id": "xRXRSdEcGk",
         "title": "The One. единственный",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 230
-        }
-    },
-    "cKKjYcP2i3": {
-        "id": "cKKjYcP2i3",
-        "title": "Слово живое и мертвое",
-        "author": "Нора Галь",
-        "notes": "в процессе",
-        "createdAt": "2020-04-16 09:28:56",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 229
         }
     }
 }
