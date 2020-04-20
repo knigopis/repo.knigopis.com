@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>86</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>87</sup>
 ---
 
 ## 2020
@@ -25,6 +25,11 @@
 ### Преступление и наказание
 Ф.М.Достоевский
 > [2020-04-07] 
+
+
+### Рассказы
+А.П. Чехов
+> [2020-04] 
 
 
 ### Война и мир

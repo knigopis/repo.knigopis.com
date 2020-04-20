@@ -1,4 +1,10 @@
 {
+    "68439978-vkontakte": {
+        "id": "68439978-vkontakte",
+        "nickname": "kissamasya",
+        "booksCount": 87,
+        "updatedAt": "2020-04-20 18:56:02"
+    },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
         "nickname": "zAAz",
@@ -118,12 +124,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 230,
         "updatedAt": "2020-04-16 09:32:32"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 86,
-        "updatedAt": "2020-04-16 05:23:16"
     },
     "1067243422-yandex": {
         "id": "1067243422-yandex",
