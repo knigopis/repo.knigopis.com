@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Отцы и дети ~ [anvonamore](users/595/5957175-vkontakte)<sup>138</sup>
+    > 7/10
+
 * 100 историй великой любви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>100</sup>
     > 3/10 стереотепное патриархальное представление преукрашенных любовных историй.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 тир жінки сумують у провінції
 
 * Цветы для миссис Харрис ~ [En](users/333/333646551-vkontakte)<sup>99</sup>
-    > Миссис Харрис, скромная лондонская уборщица, однажды видит в шкафу клиентки платье от Диора — и у нее вдруг появляется мечта о столь же восхитительном платье. Эта мечта приведет миссис Харрис в Париж, познакомит с удивительными людьми, устроит ей чудные каникулы. Загадочным образом эта мечта пусть немного, но улучшит весь мир. Таких книжек — добрых, ласковых, веселых — должно быть много-много. Тогда, глядишь, и реальный мир изменится к лучшему.
 
 * Иствикские ведьмы ~ [En](users/333/333646551-vkontakte)<sup>98</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сто лет одиночества ~ [kissamasya](users/684/68439978-vkontakte)<sup>86</sup>
 
-* Родимый край 1967-1969 ~ [mfevralev](users/140/140966150-vkontakte)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>138</sup> 
 [CathPk](users/236/236585396-vkontakte)<sup>1</sup> 
 [silversxx](users/102/102982049492599061441-google)<sup>0</sup> 
 [Даша](users/334/334696193054530347-mailru)<sup>55</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>56</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>119</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>2</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>248</sup> 
 
 
-_20.04.2020 12:12:21_
+_20.04.2020 14:59:58_

@@ -1,4 +1,16 @@
 {
+    "OeRlbuRN7O": {
+        "id": "OeRlbuRN7O",
+        "title": "Отцы и дети",
+        "author": "Иван Тургенев",
+        "notes": "7/10",
+        "createdAt": "2020-04-20 14:59:58",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 138
+        }
+    },
     "8ZXt_5eyFx": {
         "id": "8ZXt_5eyFx",
         "title": "100 историй великой любви",
@@ -345,18 +357,6 @@
             "id": "113523157-vkontakte",
             "nickname": "ArenF",
             "booksCount": 3
-        }
-    },
-    "zC_awM9jrP": {
-        "id": "zC_awM9jrP",
-        "title": "Властитель мёртвых. Книга первая",
-        "author": "Владислав Бобков",
-        "notes": "В мир приходит система. Парень получает навык \"некромант\". Находит своего первого слугу по имени Немой. Приходит в новый город Нью-Лэнд.",
-        "createdAt": "2020-04-05 12:58:31",
-        "user": {
-            "id": "113523157-vkontakte",
-            "nickname": "ArenF",
-            "booksCount": 2
         }
     }
 }
