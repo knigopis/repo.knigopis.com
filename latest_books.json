@@ -1,4 +1,16 @@
 {
+    "BTVmZDyFsI": {
+        "id": "BTVmZDyFsI",
+        "title": "Парадокс шимпанзе",
+        "author": "Стиф Питерс",
+        "notes": "",
+        "createdAt": "2020-04-20 18:39:22",
+        "user": {
+            "id": "202248233-vkontakte",
+            "nickname": "zAAz",
+            "booksCount": 57
+        }
+    },
     "OeRlbuRN7O": {
         "id": "OeRlbuRN7O",
         "title": "Отцы и дети",
@@ -345,18 +357,6 @@
             "id": "2195256973544755662-mailru",
             "nickname": "ee",
             "booksCount": 13
-        }
-    },
-    "Azq_oKHENV": {
-        "id": "Azq_oKHENV",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "Любимая книга!",
-        "createdAt": "2020-04-16 09:57:05",
-        "user": {
-            "id": "2195256973544755662-mailru",
-            "nickname": "ee",
-            "booksCount": 12
         }
     }
 }

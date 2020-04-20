@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>57</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>138</sup> 
 [CathPk](users/236/236585396-vkontakte)<sup>1</sup> 
 [silversxx](users/102/102982049492599061441-google)<sup>0</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>23</sup> 
 [youno](users/302/302928912-vkontakte)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>185</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>56</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>119</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>2</sup> 
 
 
-_20.04.2020 14:59:58_
+_20.04.2020 18:39:22_
