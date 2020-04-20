@@ -1,4 +1,10 @@
 {
+    "334696193054530347-mailru": {
+        "id": "334696193054530347-mailru",
+        "nickname": "Даша",
+        "booksCount": 55,
+        "updatedAt": "2020-04-20 09:37:05"
+    },
     "110362044313753603797-google": {
         "id": "110362044313753603797-google",
         "nickname": "Gubeev",
@@ -172,11 +178,5 @@
         "nickname": "Vaness",
         "booksCount": 0,
         "updatedAt": "2020-04-12 07:12:12"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 38,
-        "updatedAt": "2020-04-11 18:40:51"
     }
 }

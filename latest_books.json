@@ -1,4 +1,16 @@
 {
+    "jTyZRbpZ7f": {
+        "id": "jTyZRbpZ7f",
+        "title": "Хочу и буду",
+        "author": "Михаил Лабковский",
+        "notes": "",
+        "createdAt": "2020-04-20 09:37:05",
+        "user": {
+            "id": "334696193054530347-mailru",
+            "nickname": "Даша",
+            "booksCount": 55
+        }
+    },
     "R7Xr07OLIg": {
         "id": "R7Xr07OLIg",
         "title": "Кто не спрятался. История одной компании",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 86
-        }
-    },
-    "W4rRw_dgJ7": {
-        "id": "W4rRw_dgJ7",
-        "title": "Снежные чувства",
-        "author": "Александр Ткаченко",
-        "notes": "",
-        "createdAt": "2020-04-15 16:46:35",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 15
         }
     }
 }
