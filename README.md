@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Gubeev](users/110/110362044313753603797-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>73</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>164</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>24</sup> 
 [Vaness](users/108/108832317362761277652-google)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>38</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>137</sup> 
 
 
-_19.04.2020 19:46:52_
+_20.04.2020 08:35:01_
