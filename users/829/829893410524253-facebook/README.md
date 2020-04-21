@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>100</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>101</sup>
 ---
 
 ## 2020
+
+### Изгоняющий дьявола
+Уильям Питер Блєтти
+> [2020-04-21] 9/10 Маленькая девочка одержима бесом.
+
 
 ### 100 историй великой любви
 Н. Н. Костина-Касанелли

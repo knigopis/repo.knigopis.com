@@ -1,4 +1,16 @@
 {
+    "f762gmj18y": {
+        "id": "f762gmj18y",
+        "title": "Изгоняющий дьявола",
+        "author": "Уильям Питер Блєтти",
+        "notes": "9/10 Маленькая девочка одержима бесом.",
+        "createdAt": "2020-04-21 00:38:15",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 101
+        }
+    },
     "OeRlbuRN7O": {
         "id": "OeRlbuRN7O",
         "title": "Отцы и дети",
@@ -345,18 +357,6 @@
             "id": "113523157-vkontakte",
             "nickname": "ArenF",
             "booksCount": 4
-        }
-    },
-    "3TYEK3EwXJ": {
-        "id": "3TYEK3EwXJ",
-        "title": "Властитель мёртвых. Книга вторая",
-        "author": "",
-        "notes": "Сергей находит нового подручного зомби силового типа Папая. Прокачивается и т.д.",
-        "createdAt": "2020-04-05 12:59:21",
-        "user": {
-            "id": "113523157-vkontakte",
-            "nickname": "ArenF",
-            "booksCount": 3
         }
     }
 }

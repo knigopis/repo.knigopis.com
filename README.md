@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Изгоняющий дьявола ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>101</sup>
+    > 9/10 Маленькая девочка одержима бесом.
+
 * Отцы и дети ~ [anvonamore](users/595/5957175-vkontakte)<sup>138</sup>
     > 7/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 3/10 стереотепное патриархальное представление преукрашенных любовных историй.
 
 * Іствікські відьми ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>99</sup>
-    > 6/10 тир жінки сумують у провінції
 
 * Цветы для миссис Харрис ~ [En](users/333/333646551-vkontakte)<sup>99</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Слово живое и мертвое ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>229</sup>
 
-* Сто лет одиночества ~ [kissamasya](users/684/68439978-vkontakte)<sup>86</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>101</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>87</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>57</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>138</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>73</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>164</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>100</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>10</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>45</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>781</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>2</sup> 
 
 
-_20.04.2020 18:56:02_
+_21.04.2020 00:38:15_
