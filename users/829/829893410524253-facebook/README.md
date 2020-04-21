@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>101</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>102</sup>
 ---
 
 ## 2020
+
+### Слово про похід Ігорев
+невідомий
+> [2020-04-21] 6/10 Ігор та буй-тур Всеволод отримують від половців. 1185 р.
+
 
 ### Изгоняющий дьявола
 Уильям Питер Блєтти

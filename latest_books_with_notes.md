@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Слово про похід Ігорев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>102</sup>
 * Изгоняющий дьявола ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>101</sup>
 * Отцы и дети ~ [anvonamore](users/595/5957175-vkontakte)<sup>138</sup>
 * 100 историй великой любви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>100</sup>
@@ -30,7 +31,6 @@
 * На всех линиях лондонского метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup>
 * Пять четвертинок апельсина ~ [En](users/333/333646551-vkontakte)<sup>97</sup>
 * Мани, или Азбука денег ~ [youno](users/302/302928912-vkontakte)<sup>45</sup>
-* Властитель мёртвых. Книга третья ~ [ArenF](users/113/113523157-vkontakte)<sup>4</sup>
 
 
-_21.04.2020 00:38:15_
+_21.04.2020 00:39:31_

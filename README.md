@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Слово про похід Ігорев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>102</sup>
+    > 6/10 Ігор та буй-тур Всеволод отримують від половців. 1185 р.
+
 * Изгоняющий дьявола ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>101</sup>
     > 9/10 Маленькая девочка одержима бесом.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * 100 историй великой любви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>100</sup>
-    > 3/10 стереотепное патриархальное представление преукрашенных любовных историй.
 
 * Іствікські відьми ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>99</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дизайн-мышление в бизнесе ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>230</sup>
 
-* Слово живое и мертвое ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>229</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>101</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>102</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>87</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>57</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>138</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>2</sup> 
 
 
-_21.04.2020 00:38:15_
+_21.04.2020 00:39:31_
