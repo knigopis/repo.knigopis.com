@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Последний континент ~ [Garka](users/115/115753719718250012620-google)<sup>249</sup>
+    > Волшебники Незримого Университете это нечто. Ринсвинд, Кенгуру, дожди
+
 * Ребенок Розмари ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>103</sup>
     > 9/10 Ковен ведьм используют Розмари для зачатия ребенка дьявола.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Ігор та буй-тур Всеволод отримують від половців. 1185 р.
 
 * Изгоняющий дьявола ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>101</sup>
-    > 9/10 Маленькая девочка одержима бесом.
 
 * Отцы и дети ~ [anvonamore](users/595/5957175-vkontakte)<sup>138</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * пятеро,которых ты встретишь на небесах(которые ждут тебя на небесах) ~ [неважно](users/145/145522558-vkontakte)<sup>4</sup>
 
-* Портрет Дориана Грея ~ [ee](users/219/2195256973544755662-mailru)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>249</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>782</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>103</sup> 
 [принцесса](users/436/436535019-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>23</sup> 
 [youno](users/302/302928912-vkontakte)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>185</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>119</sup> 
 
 
-_21.04.2020 10:34:15_
+_21.04.2020 13:07:43_

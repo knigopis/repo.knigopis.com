@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 249,
+        "updatedAt": "2020-04-21 13:07:43"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 185,
         "updatedAt": "2020-04-15 04:35:45"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 119,
-        "updatedAt": "2020-04-13 19:20:20"
     }
 }

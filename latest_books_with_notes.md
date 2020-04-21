@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Последний континент ~ [Garka](users/115/115753719718250012620-google)<sup>249</sup>
 * Ребенок Розмари ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>103</sup>
 * Слово про похід Ігорев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>102</sup>
 * Изгоняющий дьявола ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>101</sup>
@@ -30,7 +31,6 @@
 * Гарри Поттер и Тайная комната ~ [anvonamore](users/595/5957175-vkontakte)<sup>134</sup>
 * Коридоры ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup>
 * На всех линиях лондонского метро ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>153</sup>
-* Пять четвертинок апельсина ~ [En](users/333/333646551-vkontakte)<sup>97</sup>
 
 
-_21.04.2020 10:21:41_
+_21.04.2020 13:07:43_
