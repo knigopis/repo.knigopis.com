@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[принцесса](users/436/436535019-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>102</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>87</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>57</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>46</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>185</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>119</sup> 
-[Fenix](users/111/111367585493471720963-google)<sup>2</sup> 
 
 
-_21.04.2020 00:39:31_
+_21.04.2020 03:53:39_
