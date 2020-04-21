@@ -1,4 +1,10 @@
 {
+    "436535019-vkontakte": {
+        "id": "436535019-vkontakte",
+        "nickname": "принцесса",
+        "booksCount": 0,
+        "updatedAt": "2020-04-21 03:53:36"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 119,
         "updatedAt": "2020-04-13 19:20:20"
-    },
-    "111367585493471720963-google": {
-        "id": "111367585493471720963-google",
-        "nickname": "Fenix",
-        "booksCount": 2,
-        "updatedAt": "2020-04-13 04:47:02"
     }
 }
