@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>782</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>103</sup> 
 [принцесса](users/436/436535019-vkontakte)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>87</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>10</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>45</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>781</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>78</sup> 
 [En](users/333/333646551-vkontakte)<sup>99</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>119</sup> 
 
 
-_21.04.2020 10:21:41_
+_21.04.2020 10:34:15_
