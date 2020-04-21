@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>73</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>74</sup>
 ---
 
 ## 2020
+
+### Здесь покоится Дэниэл Тейт
+Кристинн Террилл
+> [2020-04-21] 
+
 
 ### Кто не спрятался. История одной компании
 Яна Вагнер
