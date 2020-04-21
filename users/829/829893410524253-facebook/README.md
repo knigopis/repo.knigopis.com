@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>102</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>103</sup>
 ---
 
 ## 2020
+
+### Ребенок Розмари
+Айра Левин
+> [2020-04-21] 9/10 Ковен ведьм используют Розмари для зачатия ребенка дьявола.
+
 
 ### Слово про похід Ігорев
 невідомий

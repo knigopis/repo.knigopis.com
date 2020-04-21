@@ -1,4 +1,16 @@
 {
+    "aknhZq5e0N": {
+        "id": "aknhZq5e0N",
+        "title": "Ребенок Розмари",
+        "author": "Айра Левин",
+        "notes": "9/10 Ковен ведьм используют Розмари для зачатия ребенка дьявола.",
+        "createdAt": "2020-04-21 10:21:40",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 103
+        }
+    },
     "k0BGoC_DPP": {
         "id": "k0BGoC_DPP",
         "title": "Слово про похід Ігорев",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 97
-        }
-    },
-    "nzLSPxE08O": {
-        "id": "nzLSPxE08O",
-        "title": "Мани, или Азбука денег",
-        "author": "Бодо Шефер",
-        "notes": "Норм. Обязательно куплю эту книгу своим детям.",
-        "createdAt": "2020-04-06 05:14:48",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 45
         }
     }
 }
