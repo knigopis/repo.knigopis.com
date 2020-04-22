@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вы, конечно, шутите мистер Фейнман ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup>
+    > Блестящая была мысль: ты вовсе не обязан стоять на уровне представлений других людей о том, чего ты способен достичь. Я не обязан быть таким, каким они хотят меня видеть. Это их проблемы, а вовсе не не мой недостаток. Я таков, каков есть, если они считают, будто я необычайно хорош, что ж, это их беда
+
 * Последний континент ~ [Garka](users/115/115753719718250012620-google)<sup>249</sup>
     > Волшебники Незримого Университете это нечто. Ринсвинд, Кенгуру, дожди
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Ковен ведьм используют Розмари для зачатия ребенка дьявола.
 
 * Слово про похід Ігорев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>102</sup>
-    > 6/10 Ігор та буй-тур Всеволод отримують від половців. 1185 р.
 
 * Изгоняющий дьявола ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>101</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Иствикские ведьмы ~ [En](users/333/333646551-vkontakte)<sup>98</sup>
 
-* пятеро,которых ты встретишь на небесах(которые ждут тебя на небесах) ~ [неважно](users/145/145522558-vkontakte)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[victoria_spilioti](users/219/219259003-vkontakte)<sup>77</sup> 
+[victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>13</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>74</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>783</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>46</sup> 
 
 
-_22.04.2020 06:33:20_
+_22.04.2020 06:42:36_
