@@ -1,4 +1,16 @@
 {
+    "To963kzrZD": {
+        "id": "To963kzrZD",
+        "title": "Государство",
+        "author": "Платон",
+        "notes": "",
+        "createdAt": "2020-04-22 06:33:20",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 77
+        }
+    },
     "S63YI3LTUZ": {
         "id": "S63YI3LTUZ",
         "title": "Бэтмен: Земля-1. Книга 2",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 4
-        }
-    },
-    "YB2tTrpHMA": {
-        "id": "YB2tTrpHMA",
-        "title": "Бэтмен: Готэм нуар",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-04-18 22:53:28",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 3
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[victoria_spilioti](users/219/219259003-vkontakte)<sup>77</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>13</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>74</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>783</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [skryazhevskih](users/383/383165880-vkontakte)<sup>6</sup> 
 [Avery](users/567/56734832-yandex)<sup>23</sup> 
 [youno](users/302/302928912-vkontakte)<sup>46</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>185</sup> 
 
 
-_22.04.2020 01:19:41_
+_22.04.2020 06:33:20_

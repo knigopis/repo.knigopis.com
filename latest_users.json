@@ -1,4 +1,10 @@
 {
+    "219259003-vkontakte": {
+        "id": "219259003-vkontakte",
+        "nickname": "victoria_spilioti",
+        "booksCount": 77,
+        "updatedAt": "2020-04-22 06:33:20"
+    },
     "109128632962928278575-google": {
         "id": "109128632962928278575-google",
         "nickname": "Joxxy",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 46,
         "updatedAt": "2020-04-15 08:47:19"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 185,
-        "updatedAt": "2020-04-15 04:35:45"
     }
 }
