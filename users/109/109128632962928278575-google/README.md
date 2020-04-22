@@ -1,7 +1,11 @@
-# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>10</sup>
+# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>11</sup>
 ---
 
 ## 2020
+
+### Бэтмен: Темная победа
+> [2020-04-22] 
+
 
 ### Бэтмен: Долгий Хэллуин
 > [2020-04-17] 
