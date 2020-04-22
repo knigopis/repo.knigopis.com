@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>232</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>13</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>55</sup> 
 [Gubeev](users/110/110362044313753603797-google)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>164</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>45</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>78</sup> 
 [En](users/333/333646551-vkontakte)<sup>99</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>46</sup> 
 
 
-_22.04.2020 15:24:41_
+_22.04.2020 15:40:57_
