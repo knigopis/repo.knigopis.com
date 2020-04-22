@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Joxxy](users/109/109128632962928278575-google)<sup>12</sup> 
+[Joxxy](users/109/109128632962928278575-google)<sup>13</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>74</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>783</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>249</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>185</sup> 
 
 
-_22.04.2020 01:19:12_
+_22.04.2020 01:19:41_
