@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 231,
+        "updatedAt": "2020-04-22 15:23:57"
+    },
     "219259003-vkontakte": {
         "id": "219259003-vkontakte",
         "nickname": "victoria_spilioti",
@@ -136,12 +142,6 @@
         "nickname": "ee",
         "booksCount": 12,
         "updatedAt": "2020-04-16 11:32:20"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 230,
-        "updatedAt": "2020-04-16 09:32:32"
     },
     "1067243422-yandex": {
         "id": "1067243422-yandex",

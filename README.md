@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Подвиги самураев ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>231</sup>
+    > Небольшой лаконичный сборник японских сказаний о знаменитых личностях. Грубо говоря, разбивается на две категории - доблестные ратные подвиги, примерно как у нас герои-панфиловцы, и предельное благочестие и порядочность.
+    > 
+    > Быстро, занятно, интересно.
+
 * Вы, конечно, шутите мистер Фейнман ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup>
     > Блестящая была мысль: ты вовсе не обязан стоять на уровне представлений других людей о том, чего ты способен достичь. Я не обязан быть таким, каким они хотят меня видеть. Это их проблемы, а вовсе не не мой недостаток. Я таков, каков есть, если они считают, будто я необычайно хорош, что ж, это их беда
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Волшебники Незримого Университете это нечто. Ринсвинд, Кенгуру, дожди
 
 * Ребенок Розмари ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>103</sup>
-    > 9/10 Ковен ведьм используют Розмари для зачатия ребенка дьявола.
 
 * Слово про похід Ігорев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>102</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Цветы для миссис Харрис ~ [En](users/333/333646551-vkontakte)<sup>99</sup>
 
-* Иствикские ведьмы ~ [En](users/333/333646551-vkontakte)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>231</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>13</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>74</sup> 
@@ -56,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>238</sup> 
 [неважно](users/145/145522558-vkontakte)<sup>4</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>12</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>230</sup> 
 [](users/106/1067243422-yandex)<sup>0</sup> 
 [](users/153/1537586159620888-facebook)<sup>15</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>44</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>46</sup> 
 
 
-_22.04.2020 06:42:36_
+_22.04.2020 15:23:58_
