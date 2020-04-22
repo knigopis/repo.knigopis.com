@@ -1,4 +1,16 @@
 {
+    "5NO4_Mv3SS": {
+        "id": "5NO4_Mv3SS",
+        "title": "Главное в истории фотографии",
+        "author": "Йен Хейдн Смит",
+        "notes": "в процессе",
+        "createdAt": "2020-04-22 15:24:41",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 232
+        }
+    },
     "GH70dQR9Eq": {
         "id": "GH70dQR9Eq",
         "title": "Подвиги самураев",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 7
-        }
-    },
-    "cBkx-nnNQG": {
-        "id": "cBkx-nnNQG",
-        "title": "Бэтмен: Ноэль",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-04-18 22:55:11",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 6
         }
     }
 }
