@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дорожные работы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>155</sup>
+    > Мужчина без реальной мотивации. Не понятные чувства по поводу этой книги.
+
 * Главное в истории фотографии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>232</sup>
     > в процессе
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Быстро, занятно, интересно.
 
 * Вы, конечно, шутите мистер Фейнман ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup>
-    > Блестящая была мысль: ты вовсе не обязан стоять на уровне представлений других людей о том, чего ты способен достичь. Я не обязан быть таким, каким они хотят меня видеть. Это их проблемы, а вовсе не не мой недостаток. Я таков, каков есть, если они считают, будто я необычайно хорош, что ж, это их беда
 
 * Последний континент ~ [Garka](users/115/115753719718250012620-google)<sup>249</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * 100 историй великой любви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>100</sup>
 
-* Іствікські відьми ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>99</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>155</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>165</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>232</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>44</sup> 
 [skryazhevskih](users/383/383165880-vkontakte)<sup>6</sup> 
 [Avery](users/567/56734832-yandex)<sup>23</sup> 
-[youno](users/302/302928912-vkontakte)<sup>46</sup> 
 
 
-_23.04.2020 11:37:00_
+_23.04.2020 13:30:35_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дорожные работы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>155</sup>
 * Главное в истории фотографии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>232</sup>
 * Подвиги самураев ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>231</sup>
 * Вы, конечно, шутите мистер Фейнман ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup>
@@ -30,7 +31,6 @@
 * Путь художника ~ [dmiro](users/571/5714115-vkontakte)<sup>24</sup>
 * Гарри Поттер и Орден Феникса ~ [anvonamore](users/595/5957175-vkontakte)<sup>137</sup>
 * Гарри Поттер и Кубок Огня ~ [anvonamore](users/595/5957175-vkontakte)<sup>136</sup>
-* Гарри Поттер и Узник Азкабана ~ [anvonamore](users/595/5957175-vkontakte)<sup>135</sup>
 
 
-_22.04.2020 15:24:41_
+_23.04.2020 13:30:35_
