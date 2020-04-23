@@ -1,4 +1,16 @@
 {
+    "rMUR0flu1H": {
+        "id": "rMUR0flu1H",
+        "title": "Призрачный двойник",
+        "author": "Джонатан Страуд",
+        "notes": "",
+        "createdAt": "2020-04-23 11:36:59",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 165
+        }
+    },
     "Wti-S-Hzje": {
         "id": "Wti-S-Hzje",
         "title": "The one. Единственный.",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 9
-        }
-    },
-    "xyxX6VtPQe": {
-        "id": "xyxX6VtPQe",
-        "title": "Бэтмен: Долгий Хэллуин",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-04-18 23:09:49",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 8
         }
     }
 }

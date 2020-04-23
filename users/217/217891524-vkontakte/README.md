@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>164</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>165</sup>
 ---
 
 ## 2020
+
+### Призрачный двойник
+Джонатан Страуд
+> [2020-04-23] 
+
 
 ### Шепчущий череп
 Джонатан Страуд
