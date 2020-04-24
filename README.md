@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>784</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>785</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
 [koma00](users/109/109429756675878830005-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>100</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>44</sup> 
 
 
-_24.04.2020 10:35:38_
+_24.04.2020 18:29:06_
