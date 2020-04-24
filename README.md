@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[koma00](users/109/109429756675878830005-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>100</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>46</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>155</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>15</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>44</sup> 
 [skryazhevskih](users/383/383165880-vkontakte)<sup>6</sup> 
-[Avery](users/567/56734832-yandex)<sup>23</sup> 
 
 
-_24.04.2020 04:17:40_
+_24.04.2020 07:39:32_
