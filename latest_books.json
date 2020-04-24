@@ -1,4 +1,16 @@
 {
+    "Q7NF_58sZ5": {
+        "id": "Q7NF_58sZ5",
+        "title": "Волки Кальи",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-04-24 10:35:37",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 784
+        }
+    },
     "EQsm9masRe": {
         "id": "EQsm9masRe",
         "title": "Оружие возмездия",
@@ -345,18 +357,6 @@
             "id": "217891524-vkontakte",
             "nickname": "lostinfrost",
             "booksCount": 164
-        }
-    },
-    "GeqMvTNoAb": {
-        "id": "GeqMvTNoAb",
-        "title": "Отверженные. Том II",
-        "author": "Виктор Гюго",
-        "notes": "",
-        "createdAt": "2020-04-19 15:39:34",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 101
         }
     }
 }

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>784</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
 [koma00](users/109/109429756675878830005-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>100</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>13</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>74</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>783</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>249</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>103</sup> 
 [принцесса](users/436/436535019-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>44</sup> 
 
 
-_24.04.2020 10:22:58_
+_24.04.2020 10:35:38_
