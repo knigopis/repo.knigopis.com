@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тринадцатая редакция ~ [En](users/333/333646551-vkontakte)<sup>100</sup>
 * Дорожные работы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>155</sup>
 * Главное в истории фотографии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>232</sup>
 * Подвиги самураев ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>231</sup>
@@ -30,7 +31,6 @@
 * Вера против фактов Почему наука и религия несовместимы ~ [Garka](users/115/115753719718250012620-google)<sup>248</sup>
 * Путь художника ~ [dmiro](users/571/5714115-vkontakte)<sup>24</sup>
 * Гарри Поттер и Орден Феникса ~ [anvonamore](users/595/5957175-vkontakte)<sup>137</sup>
-* Гарри Поттер и Кубок Огня ~ [anvonamore](users/595/5957175-vkontakte)<sup>136</sup>
 
 
-_23.04.2020 13:30:35_
+_24.04.2020 04:17:40_
