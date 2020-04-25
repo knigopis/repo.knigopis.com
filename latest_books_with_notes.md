@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ученик ~ [En](users/333/333646551-vkontakte)<sup>101</sup>
 * Правила богатства ~ [youno](users/302/302928912-vkontakte)<sup>47</sup>
 * Тринадцатая редакция ~ [En](users/333/333646551-vkontakte)<sup>100</sup>
 * Дорожные работы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>155</sup>
@@ -30,7 +31,6 @@
 * Снафф ~ [ee](users/219/2195256973544755662-mailru)<sup>10</sup>
 * Краткая история почти всего на свете ~ [Avery](users/567/56734832-yandex)<sup>22</sup>
 * Вера против фактов Почему наука и религия несовместимы ~ [Garka](users/115/115753719718250012620-google)<sup>248</sup>
-* Путь художника ~ [dmiro](users/571/5714115-vkontakte)<sup>24</sup>
 
 
-_25.04.2020 00:45:58_
+_25.04.2020 13:52:18_

@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 101,
+        "updatedAt": "2020-04-25 13:52:17"
+    },
     "114229798930407053830-google": {
         "id": "114229798930407053830-google",
         "nickname": "Somikosa",
@@ -40,12 +46,6 @@
         "nickname": "koma00",
         "booksCount": 0,
         "updatedAt": "2020-04-24 07:39:28"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 100,
-        "updatedAt": "2020-04-24 04:17:40"
     },
     "117392596378069249667-google": {
         "id": "117392596378069249667-google",
