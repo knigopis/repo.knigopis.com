@@ -1,4 +1,10 @@
 {
+    "109128632962928278575-google": {
+        "id": "109128632962928278575-google",
+        "nickname": "Joxxy",
+        "booksCount": 14,
+        "updatedAt": "2020-04-25 01:27:02"
+    },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
         "nickname": "youno",
@@ -64,12 +70,6 @@
         "nickname": "victoria_spilioti",
         "booksCount": 78,
         "updatedAt": "2020-04-22 06:42:36"
-    },
-    "109128632962928278575-google": {
-        "id": "109128632962928278575-google",
-        "nickname": "Joxxy",
-        "booksCount": 13,
-        "updatedAt": "2020-04-22 01:19:41"
     },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
