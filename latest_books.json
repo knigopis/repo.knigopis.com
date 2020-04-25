@@ -1,4 +1,16 @@
 {
+    "_4gh4oBMyn": {
+        "id": "_4gh4oBMyn",
+        "title": "Пока течёт река",
+        "author": "Диана Сеттерфилд",
+        "notes": "",
+        "createdAt": "2020-04-25 21:31:40",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 35
+        }
+    },
     "x2hTRKz1Qw": {
         "id": "x2hTRKz1Qw",
         "title": "Живая сила. Дневник ликвидатора",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 102
-        }
-    },
-    "f762gmj18y": {
-        "id": "f762gmj18y",
-        "title": "Изгоняющий дьявола",
-        "author": "Уильям Питер Блєтти",
-        "notes": "9/10 Маленькая девочка одержима бесом.",
-        "createdAt": "2020-04-21 00:38:15",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 101
         }
     }
 }

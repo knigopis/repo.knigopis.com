@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>35</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>152</sup> 
 [En](users/333/333646551-vkontakte)<sup>101</sup> 
 [Somikosa](users/114/114229798930407053830-google)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>78</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>44</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>238</sup> 
-[неважно](users/145/145522558-vkontakte)<sup>4</sup> 
 
 
-_25.04.2020 15:01:16_
+_25.04.2020 21:31:40_
