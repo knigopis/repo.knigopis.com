@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Правила богатства ~ [youno](users/302/302928912-vkontakte)<sup>47</sup>
 * Тринадцатая редакция ~ [En](users/333/333646551-vkontakte)<sup>100</sup>
 * Дорожные работы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>155</sup>
 * Главное в истории фотографии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>232</sup>
@@ -30,7 +31,6 @@
 * Краткая история почти всего на свете ~ [Avery](users/567/56734832-yandex)<sup>22</sup>
 * Вера против фактов Почему наука и религия несовместимы ~ [Garka](users/115/115753719718250012620-google)<sup>248</sup>
 * Путь художника ~ [dmiro](users/571/5714115-vkontakte)<sup>24</sup>
-* Гарри Поттер и Орден Феникса ~ [anvonamore](users/595/5957175-vkontakte)<sup>137</sup>
 
 
-_24.04.2020 04:17:40_
+_25.04.2020 00:45:58_

@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>46</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>47</sup>
 ---
 
 ## 2020
+
+### Правила богатства
+Ричард Темплар
+> [2020-04-24] 5/10
+
 
 ### Альфа-статус
 Михаил Терентьев

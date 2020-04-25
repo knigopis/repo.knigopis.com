@@ -1,4 +1,16 @@
 {
+    "q_Hn44k4Ng": {
+        "id": "q_Hn44k4Ng",
+        "title": "Правила богатства",
+        "author": "Ричард Темплар",
+        "notes": "5/10",
+        "createdAt": "2020-04-25 00:45:58",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 47
+        }
+    },
     "tqUkmcK8ze": {
         "id": "tqUkmcK8ze",
         "title": "Песнь Сюзанны",
@@ -345,18 +357,6 @@
             "id": "334696193054530347-mailru",
             "nickname": "Даша",
             "booksCount": 55
-        }
-    },
-    "R7Xr07OLIg": {
-        "id": "R7Xr07OLIg",
-        "title": "Кто не спрятался. История одной компании",
-        "author": "Яна Вагнер",
-        "notes": "",
-        "createdAt": "2020-04-19 19:46:52",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 73
         }
     }
 }

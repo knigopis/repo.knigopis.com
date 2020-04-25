@@ -1,4 +1,16 @@
 {
+    "q_Hn44k4Ng": {
+        "id": "q_Hn44k4Ng",
+        "title": "Правила богатства",
+        "author": "Ричард Темплар",
+        "notes": "5/10",
+        "createdAt": "2020-04-25 00:45:58",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 47
+        }
+    },
     "XyM7pMjTOm": {
         "id": "XyM7pMjTOm",
         "title": "Тринадцатая редакция",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 24
-        }
-    },
-    "SDPbQ-jhLt": {
-        "id": "SDPbQ-jhLt",
-        "title": "Гарри Поттер и Орден Феникса",
-        "author": "Джоан Роулинг",
-        "notes": "7/10",
-        "createdAt": "2020-04-10 15:08:26",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 137
         }
     }
 }
