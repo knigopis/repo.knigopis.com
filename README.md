@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Fenix](users/111/111367585493471720963-google)<sup>3</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>15</sup> 
 [youno](users/302/302928912-vkontakte)<sup>47</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>785</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [неважно](users/145/145522558-vkontakte)<sup>4</sup> 
 [ee](users/219/2195256973544755662-mailru)<sup>12</sup> 
 [](users/106/1067243422-yandex)<sup>0</sup> 
-[](users/153/1537586159620888-facebook)<sup>15</sup> 
 
 
-_25.04.2020 01:28:29_
+_25.04.2020 06:25:56_

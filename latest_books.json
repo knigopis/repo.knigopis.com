@@ -1,4 +1,16 @@
 {
+    "ktP4wIzkaN": {
+        "id": "ktP4wIzkaN",
+        "title": "Чёрная курочка",
+        "author": "Неизвесиен",
+        "notes": "",
+        "createdAt": "2020-04-25 06:25:56",
+        "user": {
+            "id": "111367585493471720963-google",
+            "nickname": "Fenix",
+            "booksCount": 3
+        }
+    },
     "0oyR8Q8E7F": {
         "id": "0oyR8Q8E7F",
         "title": "Бэтмен: Долгий Хэллуин",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 138
-        }
-    },
-    "3BTQ54znwt": {
-        "id": "3BTQ54znwt",
-        "title": "The One. Единственный",
-        "author": "ДЖОН МАРРС",
-        "notes": "",
-        "createdAt": "2020-04-20 12:12:21",
-        "user": {
-            "id": "236585396-vkontakte",
-            "nickname": "CathPk",
-            "booksCount": 1
         }
     }
 }
