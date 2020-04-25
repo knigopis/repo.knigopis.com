@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Somikosa](users/114/114229798930407053830-google)<sup>0</sup> 
+[Somikosa](users/114/114229798930407053830-google)<sup>1</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>3</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>15</sup> 
 [youno](users/302/302928912-vkontakte)<sup>47</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ee](users/219/2195256973544755662-mailru)<sup>12</sup> 
 
 
-_25.04.2020 11:55:57_
+_25.04.2020 11:56:41_
