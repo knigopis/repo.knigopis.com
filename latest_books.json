@@ -1,4 +1,16 @@
 {
+    "RrR_rf3wOL": {
+        "id": "RrR_rf3wOL",
+        "title": "Живая сила. Дневник ликвидатора",
+        "author": "Сергей Мирный",
+        "notes": "",
+        "createdAt": "2020-04-25 14:18:51",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 151
+        }
+    },
     "FSi_zpE1WA": {
         "id": "FSi_zpE1WA",
         "title": "Ученик",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 101
-        }
-    },
-    "Ex-uLBWb66": {
-        "id": "Ex-uLBWb66",
-        "title": "Рассказы",
-        "author": "А.П. Чехов",
-        "notes": "",
-        "createdAt": "2020-04-20 18:56:02",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 87
         }
     }
 }

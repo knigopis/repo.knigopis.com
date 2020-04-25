@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>151</sup> 
 [En](users/333/333646551-vkontakte)<sup>101</sup> 
 [Somikosa](users/114/114229798930407053830-google)<sup>1</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>3</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>44</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>238</sup> 
 [неважно](users/145/145522558-vkontakte)<sup>4</sup> 
-[ee](users/219/2195256973544755662-mailru)<sup>12</sup> 
 
 
-_25.04.2020 13:52:18_
+_25.04.2020 14:18:51_

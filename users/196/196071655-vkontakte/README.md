@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>150</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>151</sup>
 ---
 
 ## 2020
+
+### Живая сила. Дневник ликвидатора
+Сергей Мирный
+> [2020-04-25] 
+
 
 ### Карта дней
 Ренсом Риггз
