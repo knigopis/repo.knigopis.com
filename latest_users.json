@@ -1,4 +1,10 @@
 {
+    "114229798930407053830-google": {
+        "id": "114229798930407053830-google",
+        "nickname": "Somikosa",
+        "booksCount": 0,
+        "updatedAt": "2020-04-25 11:55:54"
+    },
     "111367585493471720963-google": {
         "id": "111367585493471720963-google",
         "nickname": "Fenix",
@@ -172,11 +178,5 @@
         "nickname": "ee",
         "booksCount": 12,
         "updatedAt": "2020-04-16 11:32:20"
-    },
-    "1067243422-yandex": {
-        "id": "1067243422-yandex",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-04-15 21:32:49"
     }
 }
