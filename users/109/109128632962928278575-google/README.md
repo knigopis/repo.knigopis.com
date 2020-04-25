@@ -1,4 +1,4 @@
-# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>14</sup>
+# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>15</sup>
 ---
 
 ## 2020
@@ -13,6 +13,9 @@
 
 ### Бэтмен: Одержимый рыцарь
 > [2020-04-17] 
+
+
+### Бэтмен: Долгий Хэллуин
 
 
 ### Бэтмен: Земля-1. Книга 2
