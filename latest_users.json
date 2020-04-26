@@ -1,4 +1,10 @@
 {
+    "110362044313753603797-google": {
+        "id": "110362044313753603797-google",
+        "nickname": "Gubeev",
+        "booksCount": 1,
+        "updatedAt": "2020-04-26 09:56:38"
+    },
     "10123344-vkontakte": {
         "id": "10123344-vkontakte",
         "nickname": "l.shilova",
@@ -166,12 +172,6 @@
         "nickname": "Даша",
         "booksCount": 55,
         "updatedAt": "2020-04-20 09:37:05"
-    },
-    "110362044313753603797-google": {
-        "id": "110362044313753603797-google",
-        "nickname": "Gubeev",
-        "booksCount": 0,
-        "updatedAt": "2020-04-20 08:34:57"
     },
     "106304994652616315178-google": {
         "id": "106304994652616315178-google",
