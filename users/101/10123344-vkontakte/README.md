@@ -1,4 +1,4 @@
-# List of books read by [l.shilova](http://vk.com/id10123344)<sup>18</sup>
+# List of books read by [l.shilova](http://vk.com/id10123344)<sup>19</sup>
 ---
 
 ## 2020
@@ -16,6 +16,10 @@
 ### Сборник рассказов
 Говард Лавкрафт
 > [2020-01] 
+
+
+### Тонкое искусство пофигизма
+Марк Мэнсон
 
 
 

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[l.shilova](users/101/10123344-vkontakte)<sup>19</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>164</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>787</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>35</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Даша](users/334/334696193054530347-mailru)<sup>55</sup> 
 [Gubeev](users/110/110362044313753603797-google)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>78</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>44</sup> 
 
 
-_26.04.2020 06:18:39_
+_26.04.2020 08:59:13_

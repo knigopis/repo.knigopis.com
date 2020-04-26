@@ -1,4 +1,10 @@
 {
+    "10123344-vkontakte": {
+        "id": "10123344-vkontakte",
+        "nickname": "l.shilova",
+        "booksCount": 19,
+        "updatedAt": "2020-04-26 08:59:13"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "Euphoria",
         "booksCount": 78,
         "updatedAt": "2020-04-18 09:06:12"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 44,
-        "updatedAt": "2020-04-17 14:51:46"
     }
 }

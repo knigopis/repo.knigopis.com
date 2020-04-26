@@ -1,4 +1,16 @@
 {
+    "nUINjnWnJg": {
+        "id": "nUINjnWnJg",
+        "title": "Тонкое искусство пофигизма",
+        "author": "Марк Мэнсон",
+        "notes": "",
+        "createdAt": "2020-04-26 08:59:13",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 19
+        }
+    },
     "PtmqBXcnDv": {
         "id": "PtmqBXcnDv",
         "title": "Институт",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 249
-        }
-    },
-    "shhEKw1TWQ": {
-        "id": "shhEKw1TWQ",
-        "title": "Колдун и кристалл",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-04-21 10:34:14",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 782
         }
     }
 }
