@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>786</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>787</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>35</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>152</sup> 
 [En](users/333/333646551-vkontakte)<sup>101</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>238</sup> 
 
 
-_26.04.2020 04:30:54_
+_26.04.2020 04:31:13_
