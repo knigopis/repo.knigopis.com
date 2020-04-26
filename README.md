@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Joxxy](users/109/109128632962928278575-google)<sup>16</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>187</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>66</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>788</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>101</sup> 
 [Somikosa](users/114/114229798930407053830-google)<sup>1</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>3</sup> 
-[Joxxy](users/109/109128632962928278575-google)<sup>15</sup> 
 [youno](users/302/302928912-vkontakte)<sup>47</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
 [koma00](users/109/109429756675878830005-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [silversxx](users/102/102982049492599061441-google)<sup>0</sup> 
 
 
-_26.04.2020 14:09:49_
+_26.04.2020 14:50:13_

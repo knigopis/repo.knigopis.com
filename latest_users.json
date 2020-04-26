@@ -1,4 +1,10 @@
 {
+    "109128632962928278575-google": {
+        "id": "109128632962928278575-google",
+        "nickname": "Joxxy",
+        "booksCount": 16,
+        "updatedAt": "2020-04-26 14:50:13"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -64,12 +70,6 @@
         "nickname": "Fenix",
         "booksCount": 3,
         "updatedAt": "2020-04-25 06:25:56"
-    },
-    "109128632962928278575-google": {
-        "id": "109128632962928278575-google",
-        "nickname": "Joxxy",
-        "booksCount": 15,
-        "updatedAt": "2020-04-25 01:28:29"
     },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",
