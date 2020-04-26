@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>65</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>66</sup>
 ---
 
 ## 2020
+
+### Ирландец. Я слышал, ты красишь дома
+Чарльз Брандт
+
 
 ### Цветы для Элджернона
 Даниэль Киз

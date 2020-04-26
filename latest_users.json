@@ -1,4 +1,10 @@
 {
+    "57239276-vkontakte": {
+        "id": "57239276-vkontakte",
+        "nickname": "vladkozz",
+        "booksCount": 66,
+        "updatedAt": "2020-04-26 12:24:35"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Даша",
         "booksCount": 55,
         "updatedAt": "2020-04-20 09:37:05"
-    },
-    "106304994652616315178-google": {
-        "id": "106304994652616315178-google",
-        "nickname": "Euphoria",
-        "booksCount": 78,
-        "updatedAt": "2020-04-18 09:06:12"
     }
 }
