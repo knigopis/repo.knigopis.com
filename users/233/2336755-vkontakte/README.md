@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>98</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>99</sup>
 ---
 
 ## 2020
+
+### Шантарам
+Грегори Дэвид Робертс
+> [2020-04-19] 
+
 
 ### Торговец зонтиками
 Франсис Малька

@@ -1,4 +1,10 @@
 {
+    "2336755-vkontakte": {
+        "id": "2336755-vkontakte",
+        "nickname": "katrinvredina",
+        "booksCount": 99,
+        "updatedAt": "2020-04-26 20:01:04"
+    },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
         "nickname": "Beaviska",
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 138,
         "updatedAt": "2020-04-20 14:59:58"
-    },
-    "236585396-vkontakte": {
-        "id": "236585396-vkontakte",
-        "nickname": "CathPk",
-        "booksCount": 1,
-        "updatedAt": "2020-04-20 12:12:21"
     }
 }

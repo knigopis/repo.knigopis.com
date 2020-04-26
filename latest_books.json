@@ -1,4 +1,16 @@
 {
+    "kx3Yr2IfDB": {
+        "id": "kx3Yr2IfDB",
+        "title": "Шантарам",
+        "author": "Грегори Дэвид Робертс",
+        "notes": "",
+        "createdAt": "2020-04-26 20:01:04",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 99
+        }
+    },
     "igvWW7lA3l": {
         "id": "igvWW7lA3l",
         "title": "Трудно быть богом",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 78
-        }
-    },
-    "To963kzrZD": {
-        "id": "To963kzrZD",
-        "title": "Государство",
-        "author": "Платон",
-        "notes": "",
-        "createdAt": "2020-04-22 06:33:20",
-        "user": {
-            "id": "219259003-vkontakte",
-            "nickname": "victoria_spilioti",
-            "booksCount": 77
         }
     }
 }
