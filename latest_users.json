@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 39,
+        "updatedAt": "2020-04-26 18:38:38"
+    },
     "109128632962928278575-google": {
         "id": "109128632962928278575-google",
         "nickname": "Joxxy",
@@ -172,11 +178,5 @@
         "nickname": "CathPk",
         "booksCount": 1,
         "updatedAt": "2020-04-20 12:12:21"
-    },
-    "102982049492599061441-google": {
-        "id": "102982049492599061441-google",
-        "nickname": "silversxx",
-        "booksCount": 0,
-        "updatedAt": "2020-04-20 11:42:11"
     }
 }

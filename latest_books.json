@@ -1,4 +1,16 @@
 {
+    "igvWW7lA3l": {
+        "id": "igvWW7lA3l",
+        "title": "Трудно быть богом",
+        "author": "Братья Стругацкие",
+        "notes": "",
+        "createdAt": "2020-04-26 18:38:38",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 39
+        }
+    },
     "EVFA-OCYOy": {
         "id": "EVFA-OCYOy",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 77
-        }
-    },
-    "S63YI3LTUZ": {
-        "id": "S63YI3LTUZ",
-        "title": "Бэтмен: Земля-1. Книга 2",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-04-22 01:19:41",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 13
         }
     }
 }

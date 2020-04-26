@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Beaviska](users/102/10202544960024508-facebook)<sup>39</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>16</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>187</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>66</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>57</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>138</sup> 
 [CathPk](users/236/236585396-vkontakte)<sup>1</sup> 
-[silversxx](users/102/102982049492599061441-google)<sup>0</sup> 
 
 
-_26.04.2020 14:50:13_
+_26.04.2020 18:38:38_
