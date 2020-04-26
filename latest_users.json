@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 186,
+        "updatedAt": "2020-04-26 14:08:43"
+    },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",
         "nickname": "vladkozz",
@@ -172,11 +178,5 @@
         "nickname": "silversxx",
         "booksCount": 0,
         "updatedAt": "2020-04-20 11:42:11"
-    },
-    "334696193054530347-mailru": {
-        "id": "334696193054530347-mailru",
-        "nickname": "Даша",
-        "booksCount": 55,
-        "updatedAt": "2020-04-20 09:37:05"
     }
 }

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>186</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>66</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>788</sup> 
 [Gubeev](users/110/110362044313753603797-google)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>138</sup> 
 [CathPk](users/236/236585396-vkontakte)<sup>1</sup> 
 [silversxx](users/102/102982049492599061441-google)<sup>0</sup> 
-[Даша](users/334/334696193054530347-mailru)<sup>55</sup> 
 
 
-_26.04.2020 12:24:35_
+_26.04.2020 14:08:44_
