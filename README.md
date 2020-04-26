@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>786</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>35</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>152</sup> 
 [En](users/333/333646551-vkontakte)<sup>101</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>3</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>15</sup> 
 [youno](users/302/302928912-vkontakte)<sup>47</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>785</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
 [koma00](users/109/109429756675878830005-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>46</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>238</sup> 
 
 
-_25.04.2020 21:31:40_
+_26.04.2020 04:30:54_

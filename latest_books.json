@@ -1,4 +1,16 @@
 {
+    "Vh1sChL6yG": {
+        "id": "Vh1sChL6yG",
+        "title": "Тёмная башня",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-04-26 04:30:54",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 786
+        }
+    },
     "_4gh4oBMyn": {
         "id": "_4gh4oBMyn",
         "title": "Пока течёт река",
@@ -345,18 +357,6 @@
             "id": "436535019-vkontakte",
             "nickname": "принцесса",
             "booksCount": 1
-        }
-    },
-    "k0BGoC_DPP": {
-        "id": "k0BGoC_DPP",
-        "title": "Слово про похід Ігорев",
-        "author": "невідомий",
-        "notes": "6/10 Ігор та буй-тур Всеволод отримують від половців. 1185 р.",
-        "createdAt": "2020-04-21 00:39:31",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 102
         }
     }
 }
