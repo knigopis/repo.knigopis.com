@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>164</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>165</sup>
 ---
 
 ## 2020
+
+### Волшебные миры Хаяо Миядзаки
+Сюзан Нейпир
+> [2020-04-27] 
+
 
 ### Институт
 Стивен Кинг
