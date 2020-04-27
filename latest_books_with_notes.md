@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Параллельные прямые ~ [Chiffi](users/105/105831994080785626680-google)<sup>188</sup>
 * Темна вежа 3. Загублена земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>104</sup>
 * Кувырком ~ [Chiffi](users/105/105831994080785626680-google)<sup>187</sup>
 * Ученик ~ [En](users/333/333646551-vkontakte)<sup>101</sup>
@@ -30,7 +31,6 @@
 * Начни с главного ~ [Fenix](users/111/111367585493471720963-google)<sup>2</sup>
 * Темна вежа 2. Крізь час ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>98</sup>
 * Жемчужина ~ [ee](users/219/2195256973544755662-mailru)<sup>11</sup>
-* Снафф ~ [ee](users/219/2195256973544755662-mailru)<sup>10</sup>
 
 
-_27.04.2020 11:00:52_
+_27.04.2020 19:09:04_

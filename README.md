@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Параллельные прямые ~ [Chiffi](users/105/105831994080785626680-google)<sup>188</sup>
+    > сказка для взрослых девочек. очень позитивная и добрая
+
 * Темна вежа 3. Загублена земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>104</sup>
     > 10/10 Видобуття Джека та подорож у таємниче місто Лад.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > сказочка для взрослых девочек. очень милая и позитивная.
 
 * Ученик ~ [En](users/333/333646551-vkontakte)<sup>101</sup>
-    > Заснув с бутылкой водки в Москве, просыпается Влад в храме неизвестного мира. Получив подтверждение о своей непричастности ко злу от местного настоятеля, Влад выпущен в новый мир с предложением устраиваться как получится. Хорошо еще, что вложили в голову знания местного языка и попросили на первое время местного трактирщика Матвея присмотреть за Владом.
 
 * Правила богатства ~ [youno](users/302/302928912-vkontakte)<sup>47</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Вы, конечно, шутите мистер Фейнман ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup>
 
-* Последний континент ~ [Garka](users/115/115753719718250012620-google)<sup>249</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>188</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>789</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>104</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>165</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>99</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>39</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>16</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>187</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>66</sup> 
 [Gubeev](users/110/110362044313753603797-google)<sup>1</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>19</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>138</sup> 
 
 
-_27.04.2020 12:43:40_
+_27.04.2020 19:09:04_
