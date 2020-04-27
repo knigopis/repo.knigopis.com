@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>103</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>104</sup>
 ---
 
 ## 2020
+
+### Темна вежа 3. Загублена земля
+Стівен Кінг
+> [2020-04-26] 10/10 Видобуття Джека та подорож у таємниче місто Лад.
+
 
 ### Ребенок Розмари
 Айра Левин

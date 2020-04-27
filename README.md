@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Темна вежа 3. Загублена земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>104</sup>
+    > 10/10 Видобуття Джека та подорож у таємниче місто Лад.
+
 * Кувырком ~ [Chiffi](users/105/105831994080785626680-google)<sup>187</sup>
     > сказочка для взрослых девочек. очень милая и позитивная.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Заснув с бутылкой водки в Москве, просыпается Влад в храме неизвестного мира. Получив подтверждение о своей непричастности ко злу от местного настоятеля, Влад выпущен в новый мир с предложением устраиваться как получится. Хорошо еще, что вложили в голову знания местного языка и попросили на первое время местного трактирщика Матвея присмотреть за Владом.
 
 * Правила богатства ~ [youno](users/302/302928912-vkontakte)<sup>47</sup>
-    > 5/10
 
 * Тринадцатая редакция ~ [En](users/333/333646551-vkontakte)<sup>100</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Последний континент ~ [Garka](users/115/115753719718250012620-google)<sup>249</sup>
 
-* Ребенок Розмари ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>103</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>104</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>165</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>99</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>39</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>74</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>249</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>103</sup> 
 [принцесса](users/436/436535019-vkontakte)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>87</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>57</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>138</sup> 
 
 
-_27.04.2020 10:19:55_
+_27.04.2020 11:00:52_

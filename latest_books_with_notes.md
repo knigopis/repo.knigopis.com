@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Темна вежа 3. Загублена земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>104</sup>
 * Кувырком ~ [Chiffi](users/105/105831994080785626680-google)<sup>187</sup>
 * Ученик ~ [En](users/333/333646551-vkontakte)<sup>101</sup>
 * Правила богатства ~ [youno](users/302/302928912-vkontakte)<sup>47</sup>
@@ -30,7 +31,6 @@
 * Темна вежа 2. Крізь час ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>98</sup>
 * Жемчужина ~ [ee](users/219/2195256973544755662-mailru)<sup>11</sup>
 * Снафф ~ [ee](users/219/2195256973544755662-mailru)<sup>10</sup>
-* Краткая история почти всего на свете ~ [Avery](users/567/56734832-yandex)<sup>22</sup>
 
 
-_26.04.2020 14:09:49_
+_27.04.2020 11:00:52_
