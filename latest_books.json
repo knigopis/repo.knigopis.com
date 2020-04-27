@@ -1,4 +1,16 @@
 {
+    "bi8p_BzqzY": {
+        "id": "bi8p_BzqzY",
+        "title": "Атлант расправил плечи (3 тома)",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2020-04-27 22:56:57",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 75
+        }
+    },
     "pRxk-gc_cg": {
         "id": "pRxk-gc_cg",
         "title": "Параллельные прямые",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 155
-        }
-    },
-    "rMUR0flu1H": {
-        "id": "rMUR0flu1H",
-        "title": "Призрачный двойник",
-        "author": "Джонатан Страуд",
-        "notes": "",
-        "createdAt": "2020-04-23 11:36:59",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 165
         }
     }
 }

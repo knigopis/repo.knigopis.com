@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>90</sup>
+# List of books read by Aleks<sup>75</sup>
 ---
 
 ## Other years
+
+### Атлант расправил плечи (3 тома)
+Айн Рэнд
+
 
 ### Психология влияния
 Роберт Чалдини
