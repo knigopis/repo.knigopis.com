@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Aleks](users/117/117835844513813219393-google)<sup>75</sup> 
+[Aleks](users/117/117835844513813219393-google)<sup>76</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>188</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>789</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>57</sup> 
 
 
-_27.04.2020 22:56:57_
+_27.04.2020 22:58:41_
