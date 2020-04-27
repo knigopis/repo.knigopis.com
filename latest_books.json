@@ -1,4 +1,16 @@
 {
+    "ZbywPhhtAu": {
+        "id": "ZbywPhhtAu",
+        "title": "Жизнь Арсеньева",
+        "author": "Иван Бунин",
+        "notes": "",
+        "createdAt": "2020-04-27 12:43:39",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 789
+        }
+    },
     "1cg6uYEbVL": {
         "id": "1cg6uYEbVL",
         "title": "Темна вежа 3. Загублена земля",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 101
-        }
-    },
-    "5NO4_Mv3SS": {
-        "id": "5NO4_Mv3SS",
-        "title": "Главное в истории фотографии",
-        "author": "Йен Хейдн Смит",
-        "notes": "в процессе",
-        "createdAt": "2020-04-22 15:24:41",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 232
         }
     }
 }
