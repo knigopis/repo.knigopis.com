@@ -1,4 +1,16 @@
 {
+    "MjoYnmyPvO": {
+        "id": "MjoYnmyPvO",
+        "title": "Пять капель элексира",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2020-04-28 09:55:38",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 25
+        }
+    },
     "clydtfcv2_": {
         "id": "clydtfcv2_",
         "title": "Зулейха открывает глаза",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 47
-        }
-    },
-    "tqUkmcK8ze": {
-        "id": "tqUkmcK8ze",
-        "title": "Песнь Сюзанны",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-04-24 18:29:05",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 785
         }
     }
 }
