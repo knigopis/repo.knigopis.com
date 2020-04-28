@@ -1,4 +1,16 @@
 {
+    "EwuUyb2_zw": {
+        "id": "EwuUyb2_zw",
+        "title": "Туча",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2020-04-28 10:01:08",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 26
+        }
+    },
     "MjoYnmyPvO": {
         "id": "MjoYnmyPvO",
         "title": "Пять капель элексира",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 14
-        }
-    },
-    "q_Hn44k4Ng": {
-        "id": "q_Hn44k4Ng",
-        "title": "Правила богатства",
-        "author": "Ричард Темплар",
-        "notes": "5/10",
-        "createdAt": "2020-04-25 00:45:58",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 47
         }
     }
 }
