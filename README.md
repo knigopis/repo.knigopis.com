@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Avery](users/567/56734832-yandex)<sup>24</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>250</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>78</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>188</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>74</sup> 
 [принцесса](users/436/436535019-vkontakte)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>87</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>57</sup> 
 
 
-_28.04.2020 08:54:13_
+_28.04.2020 09:54:51_

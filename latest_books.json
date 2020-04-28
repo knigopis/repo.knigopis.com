@@ -1,4 +1,16 @@
 {
+    "clydtfcv2_": {
+        "id": "clydtfcv2_",
+        "title": "Зулейха открывает глаза",
+        "author": "Гузель Яхина",
+        "notes": "",
+        "createdAt": "2020-04-28 09:54:51",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 24
+        }
+    },
     "U5PQP4aJia": {
         "id": "U5PQP4aJia",
         "title": "Кто мы такие? Гены, наше тело, общество",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 785
-        }
-    },
-    "Q7NF_58sZ5": {
-        "id": "Q7NF_58sZ5",
-        "title": "Волки Кальи",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-04-24 10:35:37",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 784
         }
     }
 }
