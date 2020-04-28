@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bukata](users/112/112547107035296863393-google)<sup>0</sup> 
 [etogryaz](users/430/430334015-vkontakte)<sup>0</sup> 
 [Avery](users/567/56734832-yandex)<sup>27</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>250</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>232</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>74</sup> 
-[принцесса](users/436/436535019-vkontakte)<sup>1</sup> 
 
 
-_28.04.2020 15:26:01_
+_28.04.2020 15:51:15_
