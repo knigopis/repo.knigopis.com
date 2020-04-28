@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кто мы такие? Гены, наше тело, общество ~ [Garka](users/115/115753719718250012620-google)<sup>250</sup>
+    > Понятно и с юмором рассказывается о влиянии среды на формирование личности, не только и не столько гены влияют на поведение, а окружение, климат, культурное наследие
+
 * Параллельные прямые ~ [Chiffi](users/105/105831994080785626680-google)<sup>188</sup>
     > сказка для взрослых девочек. очень позитивная и добрая
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Видобуття Джека та подорож у таємниче місто Лад.
 
 * Кувырком ~ [Chiffi](users/105/105831994080785626680-google)<sup>187</sup>
-    > сказочка для взрослых девочек. очень милая и позитивная.
 
 * Ученик ~ [En](users/333/333646551-vkontakte)<sup>101</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Подвиги самураев ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>231</sup>
 
-* Вы, конечно, шутите мистер Фейнман ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>250</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>78</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>188</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>789</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>232</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>74</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>249</sup> 
 [принцесса](users/436/436535019-vkontakte)<sup>1</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>87</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>57</sup> 
 
 
-_27.04.2020 23:03:08_
+_28.04.2020 08:54:13_
