@@ -1,4 +1,10 @@
 {
+    "112547107035296863393-google": {
+        "id": "112547107035296863393-google",
+        "nickname": "bukata",
+        "booksCount": 0,
+        "updatedAt": "2020-04-28 15:51:12"
+    },
     "430334015-vkontakte": {
         "id": "430334015-vkontakte",
         "nickname": "etogryaz",
@@ -172,11 +178,5 @@
         "nickname": "Таньчик",
         "booksCount": 74,
         "updatedAt": "2020-04-21 21:45:05"
-    },
-    "436535019-vkontakte": {
-        "id": "436535019-vkontakte",
-        "nickname": "принцесса",
-        "booksCount": 1,
-        "updatedAt": "2020-04-21 03:57:30"
     }
 }
