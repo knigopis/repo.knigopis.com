@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>74</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>75</sup>
 ---
 
 ## 2020
+
+### Тень мальчика
+Карл-Йоганн Вальгрен
+> [2020-04-28] 
+
 
 ### Здесь покоится Дэниел Тейт
 Кристинн Террилл

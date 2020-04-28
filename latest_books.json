@@ -1,4 +1,16 @@
 {
+    "bj74gZLGbW": {
+        "id": "bj74gZLGbW",
+        "title": "Тень мальчика",
+        "author": "Карл-Йоганн Вальгрен",
+        "notes": "",
+        "createdAt": "2020-04-28 19:42:11",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 75
+        }
+    },
     "0rFeH0TZgY": {
         "id": "0rFeH0TZgY",
         "title": "Трудно быть Богом",
@@ -345,18 +357,6 @@
             "id": "111367585493471720963-google",
             "nickname": "Fenix",
             "booksCount": 3
-        }
-    },
-    "0oyR8Q8E7F": {
-        "id": "0oyR8Q8E7F",
-        "title": "Бэтмен: Долгий Хэллуин",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-04-25 01:28:29",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 15
         }
     }
 }
