@@ -1,4 +1,16 @@
 {
+    "0rFeH0TZgY": {
+        "id": "0rFeH0TZgY",
+        "title": "Трудно быть Богом",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2020-04-28 10:14:48",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 27
+        }
+    },
     "EwuUyb2_zw": {
         "id": "EwuUyb2_zw",
         "title": "Туча",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 15
-        }
-    },
-    "RuI0li9TCf": {
-        "id": "RuI0li9TCf",
-        "title": "Бэтмен: Проклятый",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-04-25 01:27:02",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 14
         }
     }
 }
