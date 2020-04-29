@@ -1,4 +1,16 @@
 {
+    "H2pWrSf5pZ": {
+        "id": "H2pWrSf5pZ",
+        "title": "Хлеб с ветчиной",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2020-04-29 19:46:06",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 67
+        }
+    },
     "oO7loI8GkV": {
         "id": "oO7loI8GkV",
         "title": "Антимамочка",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 101
-        }
-    },
-    "dzzCdcI8Wv": {
-        "id": "dzzCdcI8Wv",
-        "title": "Мартин Иден",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2020-04-25 11:56:41",
-        "user": {
-            "id": "114229798930407053830-google",
-            "nickname": "Somikosa",
-            "booksCount": 1
         }
     }
 }

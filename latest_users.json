@@ -1,4 +1,10 @@
 {
+    "57239276-vkontakte": {
+        "id": "57239276-vkontakte",
+        "nickname": "vladkozz",
+        "booksCount": 67,
+        "updatedAt": "2020-04-29 19:46:06"
+    },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
         "nickname": null,
@@ -82,12 +88,6 @@
         "nickname": "Joxxy",
         "booksCount": 16,
         "updatedAt": "2020-04-26 14:50:13"
-    },
-    "57239276-vkontakte": {
-        "id": "57239276-vkontakte",
-        "nickname": "vladkozz",
-        "booksCount": 66,
-        "updatedAt": "2020-04-26 12:24:35"
     },
     "110362044313753603797-google": {
         "id": "110362044313753603797-google",
