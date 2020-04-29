@@ -1,4 +1,10 @@
 {
+    "1537586159620888-facebook": {
+        "id": "1537586159620888-facebook",
+        "nickname": null,
+        "booksCount": 16,
+        "updatedAt": "2020-04-29 16:47:00"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 232,
         "updatedAt": "2020-04-22 15:24:41"
-    },
-    "219259003-vkontakte": {
-        "id": "219259003-vkontakte",
-        "nickname": "victoria_spilioti",
-        "booksCount": 78,
-        "updatedAt": "2020-04-22 06:42:36"
     }
 }

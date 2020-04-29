@@ -1,4 +1,16 @@
 {
+    "oO7loI8GkV": {
+        "id": "oO7loI8GkV",
+        "title": "Антимамочка",
+        "author": "Сара Тернер",
+        "notes": "",
+        "createdAt": "2020-04-29 16:47:00",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 16
+        }
+    },
     "bj74gZLGbW": {
         "id": "bj74gZLGbW",
         "title": "Тень мальчика",
@@ -345,18 +357,6 @@
             "id": "114229798930407053830-google",
             "nickname": "Somikosa",
             "booksCount": 1
-        }
-    },
-    "ktP4wIzkaN": {
-        "id": "ktP4wIzkaN",
-        "title": "Чёрная курочка",
-        "author": "Неизвесиен",
-        "notes": "",
-        "createdAt": "2020-04-25 06:25:56",
-        "user": {
-            "id": "111367585493471720963-google",
-            "nickname": "Fenix",
-            "booksCount": 3
         }
     }
 }

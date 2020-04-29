@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>16</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>75</sup> 
 [bukata](users/112/112547107035296863393-google)<sup>0</sup> 
 [etogryaz](users/430/430334015-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lostinfrost](users/217/217891524-vkontakte)<sup>165</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>232</sup> 
-[victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup> 
 
 
-_28.04.2020 19:42:11_
+_29.04.2020 16:47:00_
