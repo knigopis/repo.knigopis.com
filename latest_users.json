@@ -1,4 +1,10 @@
 {
+    "310646815-vkontakte": {
+        "id": "310646815-vkontakte",
+        "nickname": "stamovashahzada",
+        "booksCount": 56,
+        "updatedAt": "2020-04-30 06:00:10"
+    },
     "799658770022584575-mailru": {
         "id": "799658770022584575-mailru",
         "nickname": "Shahzada Stamova",
@@ -172,11 +178,5 @@
         "nickname": "lostinfrost",
         "booksCount": 165,
         "updatedAt": "2020-04-23 11:36:59"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 101,
-        "updatedAt": "2020-04-22 15:40:57"
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дюна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>56</sup>
+    > 13/10
+
 * Кто мы такие? Гены, наше тело, общество ~ [Garka](users/115/115753719718250012620-google)<sup>250</sup>
     > Понятно и с юмором рассказывается о влиянии среды на формирование личности, не только и не столько гены влияют на поведение, а окружение, климат, культурное наследие
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > сказка для взрослых девочек. очень позитивная и добрая
 
 * Темна вежа 3. Загублена земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>104</sup>
-    > 10/10 Видобуття Джека та подорож у таємниче місто Лад.
 
 * Кувырком ~ [Chiffi](users/105/105831994080785626680-google)<sup>187</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Главное в истории фотографии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>232</sup>
 
-* Подвиги самураев ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>231</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stamovashahzada](users/310/310646815-vkontakte)<sup>56</sup> 
 [Shahzada Stamova](users/799/799658770022584575-mailru)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>67</sup> 
 [](users/153/1537586159620888-facebook)<sup>16</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>46</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>155</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>165</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
 
 
-_30.04.2020 05:56:26_
+_30.04.2020 06:00:10_

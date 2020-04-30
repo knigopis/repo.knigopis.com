@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>55</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>56</sup>
 ---
 
 ## 2020
@@ -6,6 +6,11 @@
 ### Мор, ученик Смерти
 Терри Пратчетт
 > [2020-03-27] 13/10
+
+
+### Дюна
+Фрэнк Герберт
+> [2020-03] 13/10
 
 
 ### Академия темных властелинов
