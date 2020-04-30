@@ -1,4 +1,16 @@
 {
+    "uVwgkkh-Kb": {
+        "id": "uVwgkkh-Kb",
+        "title": "Алхимик",
+        "author": "Пауло Коэльо",
+        "notes": "13/10",
+        "createdAt": "2020-04-30 06:00:48",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 57
+        }
+    },
     "hwrMDLEQOb": {
         "id": "hwrMDLEQOb",
         "title": "Дюна",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 185
-        }
-    },
-    "trdj8cOWKL": {
-        "id": "trdj8cOWKL",
-        "title": "Начни с главного",
-        "author": "Гери КЕеллер",
-        "notes": "Книга о приоритетах хорошая",
-        "createdAt": "2020-04-13 04:47:02",
-        "user": {
-            "id": "111367585493471720963-google",
-            "nickname": "Fenix",
-            "booksCount": 2
         }
     }
 }

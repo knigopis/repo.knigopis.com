@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Алхимик ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup>
 * Дюна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>56</sup>
 * Кто мы такие? Гены, наше тело, общество ~ [Garka](users/115/115753719718250012620-google)<sup>250</sup>
 * Параллельные прямые ~ [Chiffi](users/105/105831994080785626680-google)<sup>188</sup>
@@ -30,7 +31,6 @@
 * Родимый край 1967-1969 ~ [mfevralev](users/140/140966150-vkontakte)<sup>44</sup>
 * Альфа-статус ~ [youno](users/302/302928912-vkontakte)<sup>46</sup>
 * Любовь и прочие неприятности ~ [Chiffi](users/105/105831994080785626680-google)<sup>185</sup>
-* Начни с главного ~ [Fenix](users/111/111367585493471720963-google)<sup>2</sup>
 
 
-_30.04.2020 06:00:10_
+_30.04.2020 06:00:48_
