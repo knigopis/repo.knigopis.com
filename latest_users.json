@@ -1,4 +1,10 @@
 {
+    "115840544194890627090-google": {
+        "id": "115840544194890627090-google",
+        "nickname": "dankor1498",
+        "booksCount": 0,
+        "updatedAt": "2020-04-30 15:26:11"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 47,
         "updatedAt": "2020-04-25 00:45:58"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 120,
-        "updatedAt": "2020-04-24 10:22:58"
     }
 }
