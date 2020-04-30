@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shahzada Stamova](users/799/799658770022584575-mailru)<sup>0</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>67</sup> 
 [](users/153/1537586159620888-facebook)<sup>16</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>75</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>155</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>165</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>101</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>232</sup> 
 
 
-_29.04.2020 19:46:06_
+_30.04.2020 05:56:26_
