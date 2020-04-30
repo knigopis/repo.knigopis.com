@@ -1,4 +1,10 @@
 {
+    "799658770022584575-mailru": {
+        "id": "799658770022584575-mailru",
+        "nickname": "Shahzada Stamova",
+        "booksCount": 0,
+        "updatedAt": "2020-04-30 05:56:22"
+    },
     "57239276-vkontakte": {
         "id": "57239276-vkontakte",
         "nickname": "vladkozz",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ",
         "booksCount": 101,
         "updatedAt": "2020-04-22 15:40:57"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 232,
-        "updatedAt": "2020-04-22 15:24:41"
     }
 }
