@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>45</sup> 
 [](users/344/344511630-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>166</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>3</sup> 
 [youno](users/302/302928912-vkontakte)<sup>47</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
-[koma00](users/109/109429756675878830005-google)<sup>0</sup> 
 
 
-_30.04.2020 10:25:53_
+_30.04.2020 13:57:21_

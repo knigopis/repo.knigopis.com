@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 45,
+        "updatedAt": "2020-04-30 13:57:21"
+    },
     "344511630-vkontakte": {
         "id": "344511630-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 120,
         "updatedAt": "2020-04-24 10:22:58"
-    },
-    "109429756675878830005-google": {
-        "id": "109429756675878830005-google",
-        "nickname": "koma00",
-        "booksCount": 0,
-        "updatedAt": "2020-04-24 07:39:28"
     }
 }
