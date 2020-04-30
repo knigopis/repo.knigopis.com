@@ -1,4 +1,10 @@
 {
+    "114811718304622529304-google": {
+        "id": "114811718304622529304-google",
+        "nickname": "zillant",
+        "booksCount": 0,
+        "updatedAt": "2020-04-30 15:34:44"
+    },
     "115840544194890627090-google": {
         "id": "115840544194890627090-google",
         "nickname": "dankor1498",
@@ -172,11 +178,5 @@
         "nickname": "Fenix",
         "booksCount": 3,
         "updatedAt": "2020-04-25 06:25:56"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 47,
-        "updatedAt": "2020-04-25 00:45:58"
     }
 }
