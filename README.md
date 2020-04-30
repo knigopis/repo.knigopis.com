@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dankor1498](users/115/115840544194890627090-google)<sup>0</sup> 
+[dankor1498](users/115/115840544194890627090-google)<sup>1</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>45</sup> 
 [](users/344/344511630-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>47</sup> 
 
 
-_30.04.2020 15:26:15_
+_30.04.2020 15:27:09_
