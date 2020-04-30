@@ -1,4 +1,10 @@
 {
+    "103030034741048415624-google": {
+        "id": "103030034741048415624-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-04-30 06:57:40"
+    },
     "310646815-vkontakte": {
         "id": "310646815-vkontakte",
         "nickname": "stamovashahzada",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 155,
         "updatedAt": "2020-04-23 13:30:35"
-    },
-    "217891524-vkontakte": {
-        "id": "217891524-vkontakte",
-        "nickname": "lostinfrost",
-        "booksCount": 165,
-        "updatedAt": "2020-04-23 11:36:59"
     }
 }
