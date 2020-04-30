@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Зазирни у мої сни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup>
 * Алхимик ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup>
 * Дюна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>56</sup>
 * Кто мы такие? Гены, наше тело, общество ~ [Garka](users/115/115753719718250012620-google)<sup>250</sup>
@@ -30,7 +31,6 @@
 * Сто лет одиночества ~ [kissamasya](users/684/68439978-vkontakte)<sup>86</sup>
 * Родимый край 1967-1969 ~ [mfevralev](users/140/140966150-vkontakte)<sup>44</sup>
 * Альфа-статус ~ [youno](users/302/302928912-vkontakte)<sup>46</sup>
-* Любовь и прочие неприятности ~ [Chiffi](users/105/105831994080785626680-google)<sup>185</sup>
 
 
-_30.04.2020 06:00:48_
+_30.04.2020 10:09:27_

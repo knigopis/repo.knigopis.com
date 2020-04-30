@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зазирни у мої сни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup>
+    > 9/10 Аймонд підселяється у голову Тео.
+
 * Алхимик ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup>
     > 13/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 13/10
 
 * Кто мы такие? Гены, наше тело, общество ~ [Garka](users/115/115753719718250012620-google)<sup>250</sup>
-    > Понятно и с юмором рассказывается о влиянии среды на формирование личности, не только и не столько гены влияют на поведение, а окружение, климат, культурное наследие
 
 * Параллельные прямые ~ [Chiffi](users/105/105831994080785626680-google)<sup>188</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тринадцатая редакция ~ [En](users/333/333646551-vkontakte)<sup>100</sup>
 
-* Дорожные работы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>155</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>166</sup> 
 [](users/103/103030034741048415624-google)<sup>0</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleks](users/117/117835844513813219393-google)<sup>78</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>188</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>789</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>104</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>165</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>99</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>46</sup> 
 
 
-_30.04.2020 07:05:31_
+_30.04.2020 10:09:27_

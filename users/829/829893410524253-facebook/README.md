@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>104</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>105</sup>
 ---
 
 ## 2020
+
+### Зазирни у мої сни
+Макс Кідрук
+> [2020-04-29] 9/10 Аймонд підселяється у голову Тео.
+
 
 ### Темна вежа 3. Загублена земля
 Стівен Кінг
