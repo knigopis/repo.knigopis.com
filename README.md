@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lostinfrost](users/217/217891524-vkontakte)<sup>166</sup> 
 [](users/103/103030034741048415624-google)<sup>0</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup> 
 [Shahzada Stamova](users/799/799658770022584575-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>120</sup> 
 [koma00](users/109/109429756675878830005-google)<sup>0</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>46</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>155</sup> 
 
 
-_30.04.2020 06:57:43_
+_30.04.2020 07:05:31_

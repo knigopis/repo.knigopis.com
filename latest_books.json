@@ -1,4 +1,16 @@
 {
+    "59hRBpIGJI": {
+        "id": "59hRBpIGJI",
+        "title": "Крадущаяся тень",
+        "author": "Джонатан Страуд",
+        "notes": "",
+        "createdAt": "2020-04-30 07:05:30",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 166
+        }
+    },
     "uVwgkkh-Kb": {
         "id": "uVwgkkh-Kb",
         "title": "Алхимик",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 786
-        }
-    },
-    "_4gh4oBMyn": {
-        "id": "_4gh4oBMyn",
-        "title": "Пока течёт река",
-        "author": "Диана Сеттерфилд",
-        "notes": "",
-        "createdAt": "2020-04-25 21:31:40",
-        "user": {
-            "id": "58602788-vkontakte",
-            "nickname": "Dandelion_Wine",
-            "booksCount": 35
         }
     }
 }

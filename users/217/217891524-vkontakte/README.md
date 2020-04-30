@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>165</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>166</sup>
 ---
 
 ## 2020
+
+### Крадущаяся тень
+Джонатан Страуд
+> [2020-04-30] 
+
 
 ### Призрачный двойник
 Джонатан Страуд
