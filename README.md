@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>79</sup> 
 [Алиса](users/221/2217138517343562098-mailru)<sup>0</sup> 
 [dankor1498](users/115/115840544194890627090-google)<sup>0</sup> 
 [zillant](users/114/114811718304622529304-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>35</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>152</sup> 
 [En](users/333/333646551-vkontakte)<sup>101</sup> 
-[Somikosa](users/114/114229798930407053830-google)<sup>1</sup> 
 
 
-_01.05.2020 07:55:05_
+_01.05.2020 13:37:47_

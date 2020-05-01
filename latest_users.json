@@ -1,4 +1,10 @@
 {
+    "106304994652616315178-google": {
+        "id": "106304994652616315178-google",
+        "nickname": "Euphoria",
+        "booksCount": 79,
+        "updatedAt": "2020-05-01 13:37:47"
+    },
     "2217138517343562098-mailru": {
         "id": "2217138517343562098-mailru",
         "nickname": "Алиса",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 101,
         "updatedAt": "2020-04-25 13:52:17"
-    },
-    "114229798930407053830-google": {
-        "id": "114229798930407053830-google",
-        "nickname": "Somikosa",
-        "booksCount": 1,
-        "updatedAt": "2020-04-25 11:56:41"
     }
 }
