@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Долгий джонт ~ [En](users/333/333646551-vkontakte)<sup>102</sup>
+    > Джонт-рейсы позволяют мгновенно телепортировать грузы и пассажиров на самые дальние расстояния. Есть только одно условие: живой объект должен находиться в бессознательном либо в крепко спящем состоянии, иначе...
+
 * Зазирни у мої сни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup>
     > 9/10 Аймонд підселяється у голову Тео.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 13/10
 
 * Дюна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>56</sup>
-    > 13/10
 
 * Кто мы такие? Гены, наше тело, общество ~ [Garka](users/115/115753719718250012620-google)<sup>250</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Правила богатства ~ [youno](users/302/302928912-vkontakte)<sup>47</sup>
 
-* Тринадцатая редакция ~ [En](users/333/333646551-vkontakte)<sup>100</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>102</sup> 
 [Avery](users/567/56734832-yandex)<sup>28</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>79</sup> 
 [Алиса](users/221/2217138517343562098-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [l.shilova](users/101/10123344-vkontakte)<sup>19</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>35</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>152</sup> 
-[En](users/333/333646551-vkontakte)<sup>101</sup> 
 
 
-_02.05.2020 09:41:27_
+_02.05.2020 09:53:11_

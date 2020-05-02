@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Долгий джонт ~ [En](users/333/333646551-vkontakte)<sup>102</sup>
 * Зазирни у мої сни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup>
 * Алхимик ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup>
 * Дюна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>56</sup>
@@ -30,7 +31,6 @@
 * Слово живое и мертвое ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>229</sup>
 * Сто лет одиночества ~ [kissamasya](users/684/68439978-vkontakte)<sup>86</sup>
 * Родимый край 1967-1969 ~ [mfevralev](users/140/140966150-vkontakte)<sup>44</sup>
-* Альфа-статус ~ [youno](users/302/302928912-vkontakte)<sup>46</sup>
 
 
-_30.04.2020 10:09:27_
+_02.05.2020 09:53:11_
