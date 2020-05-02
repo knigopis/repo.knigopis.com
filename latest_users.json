@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 68,
+        "updatedAt": "2020-05-02 19:48:36"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 35,
         "updatedAt": "2020-04-25 21:31:40"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 152,
-        "updatedAt": "2020-04-25 15:01:16"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "uberENx5iv": {
+        "id": "uberENx5iv",
+        "title": "Крестный отец",
+        "author": "Марио Пьюзо",
+        "notes": "10",
+        "createdAt": "2020-05-02 19:48:36",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 68
+        }
+    },
     "IJrCnmHg4l": {
         "id": "IJrCnmHg4l",
         "title": "Егоїстичний ген",
@@ -345,18 +357,6 @@
             "id": "10202544960024508-facebook",
             "nickname": "Beaviska",
             "booksCount": 39
-        }
-    },
-    "EVFA-OCYOy": {
-        "id": "EVFA-OCYOy",
-        "title": "",
-        "author": "НАС3",
-        "notes": "",
-        "createdAt": "2020-04-26 14:50:13",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 16
         }
     }
 }
