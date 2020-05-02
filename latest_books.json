@@ -1,4 +1,16 @@
 {
+    "pBZgYDwBRm": {
+        "id": "pBZgYDwBRm",
+        "title": "Тобол. Много званных",
+        "author": "Алексей Иванов",
+        "notes": "",
+        "createdAt": "2020-05-02 09:41:27",
+        "user": {
+            "id": "56734832-yandex",
+            "nickname": "Avery",
+            "booksCount": 28
+        }
+    },
     "Mtc8NAkV11": {
         "id": "Mtc8NAkV11",
         "title": "Граф Монте-Кристо",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 66
-        }
-    },
-    "zRFA0z2_nE": {
-        "id": "zRFA0z2_nE",
-        "title": "Смиренные сестры Элурии",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-04-26 10:45:29",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 788
         }
     }
 }
