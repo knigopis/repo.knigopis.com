@@ -1,4 +1,16 @@
 {
+    "hNTiURhPi0": {
+        "id": "hNTiURhPi0",
+        "title": "Wabi Sabi",
+        "author": "Бет Кемптон",
+        "notes": "10",
+        "createdAt": "2020-05-02 19:57:42",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 69
+        }
+    },
     "uberENx5iv": {
         "id": "uberENx5iv",
         "title": "Крестный отец",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 99
-        }
-    },
-    "igvWW7lA3l": {
-        "id": "igvWW7lA3l",
-        "title": "Трудно быть богом",
-        "author": "Братья Стругацкие",
-        "notes": "",
-        "createdAt": "2020-04-26 18:38:38",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 39
         }
     }
 }

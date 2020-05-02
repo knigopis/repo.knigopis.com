@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>68</sup> 
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>69</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>106</sup> 
 [En](users/333/333646551-vkontakte)<sup>102</sup> 
 [Avery](users/567/56734832-yandex)<sup>28</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>35</sup> 
 
 
-_02.05.2020 19:48:36_
+_02.05.2020 19:57:42_

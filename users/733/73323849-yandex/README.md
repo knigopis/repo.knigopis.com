@@ -1,4 +1,4 @@
-# List of books read by inna.besprozvannykh<sup>68</sup>
+# List of books read by inna.besprozvannykh<sup>69</sup>
 ---
 
 ## 2020
@@ -6,6 +6,11 @@
 ### Крестный отец
 Марио Пьюзо
 > [2020-04] 10
+
+
+### Wabi Sabi
+Бет Кемптон
+> [2020-03] 10
 
 
 ### Последняя песня
