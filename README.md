@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Егоїстичний ген ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>106</sup>
+    > 7/10 Машини для виживання еволюціонують.
+
 * Долгий джонт ~ [En](users/333/333646551-vkontakte)<sup>102</sup>
     > Джонт-рейсы позволяют мгновенно телепортировать грузы и пассажиров на самые дальние расстояния. Есть только одно условие: живой объект должен находиться в бессознательном либо в крепко спящем состоянии, иначе...
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10 Аймонд підселяється у голову Тео.
 
 * Алхимик ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup>
-    > 13/10
 
 * Дюна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>56</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ученик ~ [En](users/333/333646551-vkontakte)<sup>101</sup>
 
-* Правила богатства ~ [youno](users/302/302928912-vkontakte)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>106</sup> 
 [En](users/333/333646551-vkontakte)<sup>102</sup> 
 [Avery](users/567/56734832-yandex)<sup>28</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>79</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zillant](users/114/114811718304622529304-google)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>45</sup> 
 [](users/344/344511630-vkontakte)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>166</sup> 
 [](users/103/103030034741048415624-google)<sup>0</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>152</sup> 
 
 
-_02.05.2020 09:53:11_
+_02.05.2020 11:18:50_

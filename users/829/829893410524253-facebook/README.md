@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>105</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>106</sup>
 ---
 
 ## 2020
+
+### Егоїстичний ген
+Річард Докінз
+> [2020-05-01] 7/10 Машини для виживання еволюціонують.
+
 
 ### Зазирни у мої сни
 Макс Кідрук
