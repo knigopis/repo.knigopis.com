@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 115,
+        "updatedAt": "2020-05-02 22:04:00"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "l.shilova",
         "booksCount": 19,
         "updatedAt": "2020-04-26 08:59:13"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 35,
-        "updatedAt": "2020-04-25 21:31:40"
     }
 }
