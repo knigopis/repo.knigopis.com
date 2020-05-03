@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/102/102482879989167895792-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>115</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>69</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>106</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>39</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>16</sup> 
 [Gubeev](users/110/110362044313753603797-google)<sup>1</sup> 
-[l.shilova](users/101/10123344-vkontakte)<sup>19</sup> 
 
 
-_02.05.2020 22:04:00_
+_03.05.2020 13:18:18_
