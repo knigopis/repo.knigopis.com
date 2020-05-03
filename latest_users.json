@@ -1,4 +1,10 @@
 {
+    "102482879989167895792-google": {
+        "id": "102482879989167895792-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-05-03 13:18:15"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "Gubeev",
         "booksCount": 1,
         "updatedAt": "2020-04-26 09:56:38"
-    },
-    "10123344-vkontakte": {
-        "id": "10123344-vkontakte",
-        "nickname": "l.shilova",
-        "booksCount": 19,
-        "updatedAt": "2020-04-26 08:59:13"
     }
 }
