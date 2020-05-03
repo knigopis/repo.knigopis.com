@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Калибр имеет значение? ~ [Chiffi](users/105/105831994080785626680-google)<sup>189</sup>
 * Егоїстичний ген ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>106</sup>
 * Долгий джонт ~ [En](users/333/333646551-vkontakte)<sup>102</sup>
 * Зазирни у мої сни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup>
@@ -30,7 +31,6 @@
 * Портрет Дориана Грея ~ [ee](users/219/2195256973544755662-mailru)<sup>12</sup>
 * Дизайн-мышление в бизнесе ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>230</sup>
 * Слово живое и мертвое ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>229</sup>
-* Сто лет одиночества ~ [kissamasya](users/684/68439978-vkontakte)<sup>86</sup>
 
 
-_02.05.2020 11:18:50_
+_03.05.2020 17:42:09_
