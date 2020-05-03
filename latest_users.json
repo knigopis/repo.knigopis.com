@@ -1,4 +1,10 @@
 {
+    "208969292-yandex": {
+        "id": "208969292-yandex",
+        "nickname": "elena-gagina2014",
+        "booksCount": 13,
+        "updatedAt": "2020-05-03 19:22:54"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Joxxy",
         "booksCount": 16,
         "updatedAt": "2020-04-26 14:50:13"
-    },
-    "110362044313753603797-google": {
-        "id": "110362044313753603797-google",
-        "nickname": "Gubeev",
-        "booksCount": 1,
-        "updatedAt": "2020-04-26 09:56:38"
     }
 }
