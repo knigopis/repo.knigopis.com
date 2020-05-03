@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>46</sup> 
 [](users/102/102482879989167895792-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>115</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>69</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Алиса](users/221/2217138517343562098-mailru)<sup>0</sup> 
 [dankor1498](users/115/115840544194890627090-google)<sup>0</sup> 
 [zillant](users/114/114811718304622529304-google)<sup>0</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>45</sup> 
 [](users/344/344511630-vkontakte)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>166</sup> 
 [](users/103/103030034741048415624-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Gubeev](users/110/110362044313753603797-google)<sup>1</sup> 
 
 
-_03.05.2020 13:18:18_
+_03.05.2020 15:48:42_

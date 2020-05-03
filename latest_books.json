@@ -1,4 +1,16 @@
 {
+    "Cuyk5R6r-o": {
+        "id": "Cuyk5R6r-o",
+        "title": "Мистер Мерседес",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-05-03 15:48:41",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 46
+        }
+    },
     "03Kd4C2HzX": {
         "id": "03Kd4C2HzX",
         "title": "Флорентийские ночи",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 104
-        }
-    },
-    "7Mi6jFCW24": {
-        "id": "7Mi6jFCW24",
-        "title": "Волшебные миры Хаяо Миядзаки",
-        "author": "Сюзан Нейпир",
-        "notes": "",
-        "createdAt": "2020-04-27 10:19:55",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 165
         }
     }
 }
