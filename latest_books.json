@@ -1,4 +1,16 @@
 {
+    "yaqw1kFfS9": {
+        "id": "yaqw1kFfS9",
+        "title": "Танатонавты",
+        "author": "Бернар Вербер",
+        "notes": "Пока человек смертен, он до конца не расслабится.\n\nУдивительно, как много религий и учений собрало данное произведение.",
+        "createdAt": "2020-05-04 11:59:07",
+        "user": {
+            "id": "2217138517343562098-mailru",
+            "nickname": "Albus",
+            "booksCount": 2
+        }
+    },
     "mnuaAirk4N": {
         "id": "mnuaAirk4N",
         "title": "iPhuck 10",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 77
-        }
-    },
-    "1_zzMSvYsQ": {
-        "id": "1_zzMSvYsQ",
-        "title": "Большие надежды",
-        "author": "Чарльз Диккенс",
-        "notes": "",
-        "createdAt": "2020-04-27 22:58:41",
-        "user": {
-            "id": "117835844513813219393-google",
-            "nickname": "Aleks",
-            "booksCount": 76
         }
     }
 }

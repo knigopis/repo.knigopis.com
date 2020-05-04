@@ -1,7 +1,14 @@
-# List of books read by [Albus](https://my.mail.ru/mail/lizi_a/)<sup>1</sup>
+# List of books read by [Albus](https://my.mail.ru/mail/lizi_a/)<sup>2</sup>
 ---
 
 ## 2019
+
+### Танатонавты
+Бернар Вербер
+> [2019-08] Пока человек смертен, он до конца не расслабится.
+> 
+> Удивительно, как много религий и учений собрало данное произведение.
+
 
 ### iPhuck 10
 Виктор Пелевин
