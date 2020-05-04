@@ -1,4 +1,16 @@
 {
+    "QDe7kIEaU5": {
+        "id": "QDe7kIEaU5",
+        "title": "Даниэль Штайн, переводчик",
+        "author": "Людмила Улицкая",
+        "notes": "Кто такой мой учитель и во что Он верует?",
+        "createdAt": "2020-05-04 12:31:27",
+        "user": {
+            "id": "2217138517343562098-mailru",
+            "nickname": "Albus",
+            "booksCount": 15
+        }
+    },
     "KXYcx2p2ru": {
         "id": "KXYcx2p2ru",
         "title": "Восстание масс",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 105
-        }
-    },
-    "59hRBpIGJI": {
-        "id": "59hRBpIGJI",
-        "title": "Крадущаяся тень",
-        "author": "Джонатан Страуд",
-        "notes": "",
-        "createdAt": "2020-04-30 07:05:30",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 166
         }
     }
 }

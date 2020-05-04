@@ -1,7 +1,12 @@
-# List of books read by [Albus](https://my.mail.ru/mail/lizi_a/)<sup>14</sup>
+# List of books read by [Albus](https://my.mail.ru/mail/lizi_a/)<sup>15</sup>
 ---
 
 ## 2020
+
+### Даниэль Штайн, переводчик
+Людмила Улицкая
+> [2020-04] Кто такой мой учитель и во что Он верует?
+
 
 ### Восстание масс
 Хосе Ортега-и-Гассет
