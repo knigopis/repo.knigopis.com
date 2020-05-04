@@ -1,4 +1,16 @@
 {
+    "lYVrZfZj9C": {
+        "id": "lYVrZfZj9C",
+        "title": "Общество мёртвых поэтов",
+        "author": "Том Шульман, Н. Г. Клейнбаум",
+        "notes": "Carpe diem - лови мгновение.",
+        "createdAt": "2020-05-04 12:17:48",
+        "user": {
+            "id": "2217138517343562098-mailru",
+            "nickname": "Albus",
+            "booksCount": 9
+        }
+    },
     "B0aYgju40U": {
         "id": "B0aYgju40U",
         "title": "Безумная любовь",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 75
-        }
-    },
-    "0rFeH0TZgY": {
-        "id": "0rFeH0TZgY",
-        "title": "Трудно быть Богом",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2020-04-28 10:14:48",
-        "user": {
-            "id": "56734832-yandex",
-            "nickname": "Avery",
-            "booksCount": 27
         }
     }
 }

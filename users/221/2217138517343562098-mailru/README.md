@@ -1,7 +1,12 @@
-# List of books read by [Albus](https://my.mail.ru/mail/lizi_a/)<sup>8</sup>
+# List of books read by [Albus](https://my.mail.ru/mail/lizi_a/)<sup>9</sup>
 ---
 
 ## 2020
+
+### Общество мёртвых поэтов
+Том Шульман, Н. Г. Клейнбаум
+> [2020-01] Carpe diem - лови мгновение.
+
 
 ### Безумная любовь
 Пол Дини, Пэт Кэдиган
