@@ -1,4 +1,16 @@
 {
+    "vh_LI7xCNm": {
+        "id": "vh_LI7xCNm",
+        "title": "Фриленды",
+        "author": "Джон Голсуорси",
+        "notes": "",
+        "createdAt": "2020-05-04 15:26:01",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 790
+        }
+    },
     "2_HjB4l_1u": {
         "id": "2_HjB4l_1u",
         "title": "Дом кривых стен",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 79
-        }
-    },
-    "AvWOMIWit5": {
-        "id": "AvWOMIWit5",
-        "title": "",
-        "author": "",
-        "notes": "гуд 2",
-        "createdAt": "2020-04-30 15:27:21",
-        "user": {
-            "id": "115840544194890627090-google",
-            "nickname": "dankor1498",
-            "booksCount": 2
         }
     }
 }

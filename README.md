@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>790</sup> 
 [Albus](users/221/2217138517343562098-mailru)<sup>18</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>4</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup> 
@@ -60,10 +61,9 @@ _More notes [here](latest_books_with_notes.md)._
 [etogryaz](users/430/430334015-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>250</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>78</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>789</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>165</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>99</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>39</sup> 
 
 
-_04.05.2020 12:38:51_
+_04.05.2020 15:26:02_
