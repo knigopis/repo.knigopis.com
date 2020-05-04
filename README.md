@@ -34,12 +34,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>47</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>790</sup> 
 [Albus](users/221/2217138517343562098-mailru)<sup>18</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>4</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>189</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>46</sup> 
 [](users/102/102482879989167895792-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>115</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>69</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>39</sup> 
 
 
-_04.05.2020 15:26:02_
+_04.05.2020 15:57:26_
