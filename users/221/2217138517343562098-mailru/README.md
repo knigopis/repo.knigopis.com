@@ -1,7 +1,14 @@
-# List of books read by [Albus](https://my.mail.ru/mail/lizi_a/)<sup>10</sup>
+# List of books read by [Albus](https://my.mail.ru/mail/lizi_a/)<sup>11</sup>
 ---
 
 ## 2020
+
+### Токийский зодиак
+Содзи Симада
+> [2020-03] "Выжимка из вчерашнего дня - вот что такое утро!"
+> 
+> "Человек идёт по жизни от одного грехопадения к другому".
+
 
 ### Комьюнити
 Алексей Иванов

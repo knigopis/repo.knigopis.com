@@ -1,4 +1,16 @@
 {
+    "ia74KMnMzU": {
+        "id": "ia74KMnMzU",
+        "title": "Токийский зодиак",
+        "author": "Содзи Симада",
+        "notes": "\"Выжимка из вчерашнего дня - вот что такое утро!\"\n\n\"Человек идёт по жизни от одного грехопадения к другому\".",
+        "createdAt": "2020-05-04 12:24:11",
+        "user": {
+            "id": "2217138517343562098-mailru",
+            "nickname": "Albus",
+            "booksCount": 11
+        }
+    },
     "8GAIW0IzwT": {
         "id": "8GAIW0IzwT",
         "title": "Комьюнити",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 67
-        }
-    },
-    "oO7loI8GkV": {
-        "id": "oO7loI8GkV",
-        "title": "Антимамочка",
-        "author": "Сара Тернер",
-        "notes": "",
-        "createdAt": "2020-04-29 16:47:00",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 16
         }
     }
 }
