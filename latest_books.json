@@ -1,4 +1,16 @@
 {
+    "bMJktge7yR": {
+        "id": "bMJktge7yR",
+        "title": "Луна и грош",
+        "author": "Сомерсет Моэм",
+        "notes": "Нелепейшее заблуждение - почитать искусство за ремесло, до конца понятное только ремесленнику. Искусство - это манифестация чувств, а чувство говорит общепринятым языком.",
+        "createdAt": "2020-05-04 12:26:53",
+        "user": {
+            "id": "2217138517343562098-mailru",
+            "nickname": "Albus",
+            "booksCount": 13
+        }
+    },
     "6GzQ3rEIbM": {
         "id": "6GzQ3rEIbM",
         "title": "Госпожа Бовари",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 57
-        }
-    },
-    "hwrMDLEQOb": {
-        "id": "hwrMDLEQOb",
-        "title": "Дюна",
-        "author": "Фрэнк Герберт",
-        "notes": "13/10",
-        "createdAt": "2020-04-30 06:00:10",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 56
         }
     }
 }
