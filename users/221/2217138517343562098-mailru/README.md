@@ -1,7 +1,12 @@
-# List of books read by [Albus](https://my.mail.ru/mail/lizi_a/)<sup>11</sup>
+# List of books read by [Albus](https://my.mail.ru/mail/lizi_a/)<sup>12</sup>
 ---
 
 ## 2020
+
+### Госпожа Бовари
+Г. Флобер
+> [2020-03] Это произведение лишний раз доказало, что женщины губят себя, свою семьи и личную жизнь сами.
+
 
 ### Токийский зодиак
 Содзи Симада

@@ -1,4 +1,16 @@
 {
+    "6GzQ3rEIbM": {
+        "id": "6GzQ3rEIbM",
+        "title": "Госпожа Бовари",
+        "author": "Г. Флобер",
+        "notes": "Это произведение лишний раз доказало, что женщины губят себя, свою семьи и личную жизнь сами.",
+        "createdAt": "2020-05-04 12:25:14",
+        "user": {
+            "id": "2217138517343562098-mailru",
+            "nickname": "Albus",
+            "booksCount": 12
+        }
+    },
     "ia74KMnMzU": {
         "id": "ia74KMnMzU",
         "title": "Токийский зодиак",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 56
-        }
-    },
-    "H2pWrSf5pZ": {
-        "id": "H2pWrSf5pZ",
-        "title": "Хлеб с ветчиной",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2020-04-29 19:46:06",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 67
         }
     }
 }
