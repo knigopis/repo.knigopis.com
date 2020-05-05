@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 116,
+        "updatedAt": "2020-05-05 20:00:41"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -52,12 +58,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-05-03 13:18:15"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 115,
-        "updatedAt": "2020-05-02 22:04:00"
     },
     "73323849-yandex": {
         "id": "73323849-yandex",

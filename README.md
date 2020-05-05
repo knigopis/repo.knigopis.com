@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Океан в конце дороги ~ [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup>
+    > 10/10
+
 * Золотой храм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Занятная особенность классической японской литературы XX века - большое внимание к чувствам людей здесь и сейчас, весьма инфантильно, без целей и сюжета. Так они мыслят. Поэтому так зашОл в Японии Селинджер. Вот, эта книга про внутренний мир юного японского пидараса, который испытывает определенные трудности в столкновении с окружающей действительностью.
 
 * 12 стульев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>107</sup>
-    > 8/10 Поис брильянтов в обшивке стульев.
 
 * Психология убеждения ~ [Fenix](users/111/111367585493471720963-google)<sup>4</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Зазирни у мої сни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup>
 
-* Алхимик ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>116</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>107</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>47</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>189</sup> 
 [](users/102/102482879989167895792-google)<sup>0</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>115</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>69</sup> 
 [En](users/333/333646551-vkontakte)<sup>102</sup> 
 [Avery](users/567/56734832-yandex)<sup>28</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>99</sup> 
 
 
-_05.05.2020 17:48:15_
+_05.05.2020 20:00:41_
