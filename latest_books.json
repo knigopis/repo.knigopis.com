@@ -1,4 +1,16 @@
 {
+    "4eA7laX3iW": {
+        "id": "4eA7laX3iW",
+        "title": "Золотой храм",
+        "author": "Юкио Мисима",
+        "notes": "в процессе",
+        "createdAt": "2020-05-05 17:48:15",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 234
+        }
+    },
     "BwCniaKDQg": {
         "id": "BwCniaKDQg",
         "title": "Исповедь маски",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 68
-        }
-    },
-    "IJrCnmHg4l": {
-        "id": "IJrCnmHg4l",
-        "title": "Егоїстичний ген",
-        "author": "Річард Докінз",
-        "notes": "7/10 Машини для виживання еволюціонують.",
-        "createdAt": "2020-05-02 11:18:50",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 106
         }
     }
 }

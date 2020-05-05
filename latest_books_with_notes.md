@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Золотой храм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup>
 * Исповедь маски ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>233</sup>
 * 12 стульев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>107</sup>
 * Психология убеждения ~ [Fenix](users/111/111367585493471720963-google)<sup>4</sup>
@@ -30,7 +31,6 @@
 * 100 историй великой любви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>100</sup>
 * Іствікські відьми ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>99</sup>
 * Цветы для миссис Харрис ~ [En](users/333/333646551-vkontakte)<sup>99</sup>
-* Иствикские ведьмы ~ [En](users/333/333646551-vkontakte)<sup>98</sup>
 
 
-_05.05.2020 17:47:42_
+_05.05.2020 17:48:15_

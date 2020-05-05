@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Золотой храм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup>
+    > в процессе
+
 * Исповедь маски ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>233</sup>
     > Занятная особенность классической японской литературы XX века - большое внимание к чувствам людей здесь и сейчас, весьма инфантильно, без целей и сюжета. Так они мыслят. Поэтому так зашОл в Японии Селинджер. Вот, эта книга про внутренний мир юного японского пидараса, который испытывает определенные трудности в столкновении с окружающей действительностью.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Поис брильянтов в обшивке стульев.
 
 * Психология убеждения ~ [Fenix](users/111/111367585493471720963-google)<sup>4</sup>
-    > Хорошая книга, рассказывается ч основном маркетинг и влияние на покупателей либо влияние внутри корпоративной субкультуры
 
 * Долина молчания ~ [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Алхимик ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup>
 
-* Дюна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>56</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>233</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>107</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>47</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>790</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>99</sup> 
 
 
-_05.05.2020 17:47:42_
+_05.05.2020 17:48:15_
