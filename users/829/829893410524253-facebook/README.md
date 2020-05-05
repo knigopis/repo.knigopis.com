@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>106</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>107</sup>
 ---
 
 ## 2020
+
+### 12 стульев
+Ильф и Петров
+> [2020-05-03] 8/10 Поис брильянтов в обшивке стульев.
+
 
 ### Егоїстичний ген
 Річард Докінз
