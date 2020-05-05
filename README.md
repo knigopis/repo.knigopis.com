@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Исповедь маски ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>233</sup>
+    > Занятная особенность классической японской литературы XX века - большое внимание к чувствам людей здесь и сейчас, весьма инфантильно, без целей и сюжета. Так они мыслят. Поэтому так зашОл в Японии Селинджер. Вот, эта книга про внутренний мир юного японского пидараса, который испытывает определенные трудности в столкновении с окружающей действительностью.
+
 * 12 стульев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>107</sup>
     > 8/10 Поис брильянтов в обшивке стульев.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Хорошая книга, рассказывается ч основном маркетинг и влияние на покупателей либо влияние внутри корпоративной субкультуры
 
 * Долина молчания ~ [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup>
-    > не понравилось
 
 * Калибр имеет значение? ~ [Chiffi](users/105/105831994080785626680-google)<sup>189</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дюна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>56</sup>
 
-* Кто мы такие? Гены, наше тело, общество ~ [Garka](users/115/115753719718250012620-google)<sup>250</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>233</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>107</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>47</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>790</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleks](users/117/117835844513813219393-google)<sup>78</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>165</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>99</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>39</sup> 
 
 
-_05.05.2020 16:54:41_
+_05.05.2020 17:47:42_

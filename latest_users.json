@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 233,
+        "updatedAt": "2020-05-05 17:47:42"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 99,
         "updatedAt": "2020-04-26 20:01:04"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 39,
-        "updatedAt": "2020-04-26 18:38:38"
     }
 }
