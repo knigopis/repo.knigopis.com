@@ -1,4 +1,10 @@
 {
+    "181053542-vkontakte": {
+        "id": "181053542-vkontakte",
+        "nickname": "marsmalum",
+        "booksCount": 0,
+        "updatedAt": "2020-05-06 17:20:44"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 250,
         "updatedAt": "2020-04-28 08:54:13"
-    },
-    "117835844513813219393-google": {
-        "id": "117835844513813219393-google",
-        "nickname": "Aleks",
-        "booksCount": 78,
-        "updatedAt": "2020-04-27 23:03:08"
     }
 }
