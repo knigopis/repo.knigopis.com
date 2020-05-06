@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>48</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>107</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>47</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>790</sup> 
 [Albus](users/221/2217138517343562098-mailru)<sup>18</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>99</sup> 
 
 
-_05.05.2020 20:00:41_
+_06.05.2020 11:50:10_

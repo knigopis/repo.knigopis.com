@@ -1,7 +1,12 @@
-# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>47</sup>
+# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>48</sup>
 ---
 
 ## 2020
+
+### Верные враги
+Ольга Громыко
+> [2020-05-06] 
+
 
 ### Граф Монте-Кристо (IV, V, VI)
 Александр Дюма
