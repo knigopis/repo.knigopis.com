@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[marsmalum](users/181/181053542-vkontakte)<sup>0</sup> 
+[marsmalum](users/181/181053542-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>791</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>25</sup> 
 [steel_dream](users/178/178521027-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>250</sup> 
 
 
-_06.05.2020 17:20:47_
+_06.05.2020 17:21:57_
