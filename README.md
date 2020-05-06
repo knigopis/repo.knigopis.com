@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[steel_dream](users/178/178521027-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>48</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>250</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>78</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>165</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>99</sup> 
 
 
-_06.05.2020 11:50:10_
+_06.05.2020 11:57:07_
