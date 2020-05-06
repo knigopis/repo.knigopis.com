@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>791</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>25</sup> 
 [steel_dream](users/178/178521027-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>48</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>107</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>790</sup> 
 [Albus](users/221/2217138517343562098-mailru)<sup>18</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>4</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleks](users/117/117835844513813219393-google)<sup>78</sup> 
 
 
-_06.05.2020 12:47:07_
+_06.05.2020 15:44:38_
