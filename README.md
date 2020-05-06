@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>47</sup> 
 [marsmalum](users/181/181053542-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>791</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>25</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>75</sup> 
 [bukata](users/112/112547107035296863393-google)<sup>0</sup> 
 [etogryaz](users/430/430334015-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>250</sup> 
 
 
-_06.05.2020 17:21:57_
+_06.05.2020 23:12:05_

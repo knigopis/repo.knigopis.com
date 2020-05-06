@@ -1,4 +1,16 @@
 {
+    "9-zsH0pVGt": {
+        "id": "9-zsH0pVGt",
+        "title": "Математика космоса",
+        "author": "И. Стюарт",
+        "notes": "",
+        "createdAt": "2020-05-06 23:12:05",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 47
+        }
+    },
     "3uSzqzYCQ5": {
         "id": "3uSzqzYCQ5",
         "title": "Не нужно молчать",
@@ -345,18 +357,6 @@
             "id": "111367585493471720963-google",
             "nickname": "Fenix",
             "booksCount": 4
-        }
-    },
-    "CbB_ZBNaVw": {
-        "id": "CbB_ZBNaVw",
-        "title": "Долина молчания",
-        "author": "Нора Робертс",
-        "notes": "не понравилось",
-        "createdAt": "2020-05-03 19:22:54",
-        "user": {
-            "id": "208969292-yandex",
-            "nickname": "elena-gagina2014",
-            "booksCount": 13
         }
     }
 }

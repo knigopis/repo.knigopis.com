@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>46</sup>
+# List of books read by 4apa<sup>47</sup>
 ---
 
 ## 2020
+
+### Математика космоса
+И. Стюарт
+> [2020-05-07] 
+
 
 ### Пост
 Д. Глуховский
