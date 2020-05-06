@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чужак ~ [dmiro](users/571/5714115-vkontakte)<sup>25</sup>
+    > Давно я не читала триллеры. В книге было больше описаний последствий действий "чужака" и до самого финала не было понятно, что вообще происходит? Главный следователь - Ральф Андерсон, ключевая роль - у девушки Холли Гибни, которая краснела, бледнела от смущения, а потом завалила этого зверя. Чтобы прям не оторваться - такого не было, но читать было намного интереснее, чем "Путь Джедая" =)
+
 * Океан в конце дороги ~ [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup>
     > 10/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Исповедь маски ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>233</sup>
-    > Занятная особенность классической японской литературы XX века - большое внимание к чувствам людей здесь и сейчас, весьма инфантильно, без целей и сюжета. Так они мыслят. Поэтому так зашОл в Японии Селинджер. Вот, эта книга про внутренний мир юного японского пидараса, который испытывает определенные трудности в столкновении с окружающей действительностью.
 
 * 12 стульев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>107</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Долгий джонт ~ [En](users/333/333646551-vkontakte)<sup>102</sup>
 
-* Зазирни у мої сни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmiro](users/571/5714115-vkontakte)<sup>25</sup> 
 [steel_dream](users/178/178521027-vkontakte)<sup>0</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>48</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [etogryaz](users/430/430334015-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>250</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>78</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>165</sup> 
 
 
-_06.05.2020 11:57:07_
+_06.05.2020 12:47:07_

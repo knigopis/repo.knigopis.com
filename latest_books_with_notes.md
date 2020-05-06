@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чужак ~ [dmiro](users/571/5714115-vkontakte)<sup>25</sup>
 * Океан в конце дороги ~ [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup>
 * Золотой храм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup>
 * Исповедь маски ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>233</sup>
@@ -30,7 +31,6 @@
 * Изгоняющий дьявола ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>101</sup>
 * Отцы и дети ~ [anvonamore](users/595/5957175-vkontakte)<sup>138</sup>
 * 100 историй великой любви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>100</sup>
-* Іствікські відьми ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>99</sup>
 
 
-_05.05.2020 20:00:41_
+_06.05.2020 12:47:07_
