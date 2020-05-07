@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цветы для Элджернона ~ [Euphoria](users/106/106304994652616315178-google)<sup>80</sup>
+    > Короткий рассказ в форме личного дневника
+
 * Чужак ~ [dmiro](users/571/5714115-vkontakte)<sup>25</sup>
     > Давно я не читала триллеры. В книге было больше описаний последствий действий "чужака" и до самого финала не было понятно, что вообще происходит? Главный следователь - Ральф Андерсон, ключевая роль - у девушки Холли Гибни, которая краснела, бледнела от смущения, а потом завалила этого зверя. Чтобы прям не оторваться - такого не было, но читать было намного интереснее, чем "Путь Джедая" =)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * Золотой храм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup>
-    > в процессе
 
 * Исповедь маски ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>233</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Егоїстичний ген ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>106</sup>
 
-* Долгий джонт ~ [En](users/333/333646551-vkontakte)<sup>102</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>80</sup> 
 [](users/153/1537586159620888-facebook)<sup>17</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>47</sup> 
 [marsmalum](users/181/181053542-vkontakte)<sup>1</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>69</sup> 
 [En](users/333/333646551-vkontakte)<sup>102</sup> 
 [Avery](users/567/56734832-yandex)<sup>28</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>79</sup> 
 [dankor1498](users/115/115840544194890627090-google)<sup>0</sup> 
 [zillant](users/114/114811718304622529304-google)<sup>0</sup> 
 [](users/344/344511630-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [etogryaz](users/430/430334015-vkontakte)<sup>0</sup> 
 
 
-_07.05.2020 11:45:04_
+_07.05.2020 14:18:12_

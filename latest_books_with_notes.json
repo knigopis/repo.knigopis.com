@@ -1,4 +1,16 @@
 {
+    "iuwo8HnGm1": {
+        "id": "iuwo8HnGm1",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "Короткий рассказ в форме личного дневника",
+        "createdAt": "2020-05-07 14:18:12",
+        "user": {
+            "id": "106304994652616315178-google",
+            "nickname": "Euphoria",
+            "booksCount": 80
+        }
+    },
     "YzQ8e-jgWU": {
         "id": "YzQ8e-jgWU",
         "title": "Чужак",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 138
-        }
-    },
-    "8ZXt_5eyFx": {
-        "id": "8ZXt_5eyFx",
-        "title": "100 историй великой любви",
-        "author": "Н. Н. Костина-Касанелли",
-        "notes": "3/10 стереотепное патриархальное представление преукрашенных любовных историй.",
-        "createdAt": "2020-04-19 15:20:34",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 100
         }
     }
 }

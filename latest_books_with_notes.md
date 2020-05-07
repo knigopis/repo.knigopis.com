@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Цветы для Элджернона ~ [Euphoria](users/106/106304994652616315178-google)<sup>80</sup>
 * Чужак ~ [dmiro](users/571/5714115-vkontakte)<sup>25</sup>
 * Океан в конце дороги ~ [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup>
 * Золотой храм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup>
@@ -30,7 +31,6 @@
 * Слово про похід Ігорев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>102</sup>
 * Изгоняющий дьявола ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>101</sup>
 * Отцы и дети ~ [anvonamore](users/595/5957175-vkontakte)<sup>138</sup>
-* 100 историй великой любви ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>100</sup>
 
 
-_06.05.2020 12:47:07_
+_07.05.2020 14:18:12_
