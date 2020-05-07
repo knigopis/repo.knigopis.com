@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 102,
+        "updatedAt": "2020-05-07 21:05:38"
+    },
     "106304994652616315178-google": {
         "id": "106304994652616315178-google",
         "nickname": "Euphoria",
@@ -172,11 +178,5 @@
         "nickname": "bukata",
         "booksCount": 0,
         "updatedAt": "2020-04-28 15:51:12"
-    },
-    "430334015-vkontakte": {
-        "id": "430334015-vkontakte",
-        "nickname": "etogryaz",
-        "booksCount": 0,
-        "updatedAt": "2020-04-28 15:25:58"
     }
 }

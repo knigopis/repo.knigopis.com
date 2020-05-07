@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>102</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>80</sup> 
 [](users/153/1537586159620888-facebook)<sup>17</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>47</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>67</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>75</sup> 
 [bukata](users/112/112547107035296863393-google)<sup>0</sup> 
-[etogryaz](users/430/430334015-vkontakte)<sup>0</sup> 
 
 
-_07.05.2020 14:18:12_
+_07.05.2020 21:05:38_
