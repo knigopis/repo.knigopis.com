@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Joxxy](users/109/109128632962928278575-google)<sup>17</sup> 
+[Joxxy](users/109/109128632962928278575-google)<sup>18</sup> 
 [Avery](users/567/56734832-yandex)<sup>29</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>79</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>102</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>67</sup> 
 
 
-_08.05.2020 16:43:15_
+_08.05.2020 16:43:33_

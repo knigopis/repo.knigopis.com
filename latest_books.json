@@ -1,4 +1,16 @@
 {
+    "3Ui8Jg7Hzp": {
+        "id": "3Ui8Jg7Hzp",
+        "title": "Бэтмен: последний крестовый поход",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-05-08 16:43:33",
+        "user": {
+            "id": "109128632962928278575-google",
+            "nickname": "Joxxy",
+            "booksCount": 18
+        }
+    },
     "_7URecpNCp": {
         "id": "_7URecpNCp",
         "title": "Бэтмен: возвращение темного рыцаря",
@@ -345,18 +357,6 @@
             "id": "2217138517343562098-mailru",
             "nickname": "Albus",
             "booksCount": 10
-        }
-    },
-    "lYVrZfZj9C": {
-        "id": "lYVrZfZj9C",
-        "title": "Общество мёртвых поэтов",
-        "author": "Том Шульман, Н. Г. Клейнбаум",
-        "notes": "Carpe diem - лови мгновение.",
-        "createdAt": "2020-05-04 12:17:48",
-        "user": {
-            "id": "2217138517343562098-mailru",
-            "nickname": "Albus",
-            "booksCount": 9
         }
     }
 }

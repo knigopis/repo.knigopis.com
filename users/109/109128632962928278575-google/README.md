@@ -1,7 +1,11 @@
-# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>17</sup>
+# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>18</sup>
 ---
 
 ## 2020
+
+### Бэтмен: последний крестовый поход
+> [2020-05-06] 
+
 
 ### Бэтмен: возвращение темного рыцаря
 > [2020-05-05] 
