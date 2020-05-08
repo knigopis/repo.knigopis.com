@@ -1,9 +1,13 @@
-# List of books read by Aleks<sup>76</sup>
+# List of books read by Aleks<sup>77</sup>
 ---
 
 ## Other years
 
 ### Посторонний
+Альбер Камю
+
+
+### Чума
 Альбер Камю
 
 
