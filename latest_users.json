@@ -1,4 +1,10 @@
 {
+    "109128632962928278575-google": {
+        "id": "109128632962928278575-google",
+        "nickname": "Joxxy",
+        "booksCount": 17,
+        "updatedAt": "2020-05-08 16:43:14"
+    },
     "56734832-yandex": {
         "id": "56734832-yandex",
         "nickname": "Avery",
@@ -172,11 +178,5 @@
         "nickname": "vladkozz",
         "booksCount": 67,
         "updatedAt": "2020-04-29 19:46:06"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 75,
-        "updatedAt": "2020-04-28 19:42:11"
     }
 }
