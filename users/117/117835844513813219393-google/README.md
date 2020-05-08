@@ -1,10 +1,14 @@
-# List of books read by Aleks<sup>77</sup>
+# List of books read by Aleks<sup>78</sup>
 ---
 
 ## Other years
 
 ### Посторонний
 Альбер Камю
+
+
+### Паломничество в страну Востока
+Герман Гессе
 
 
 ### Чума
