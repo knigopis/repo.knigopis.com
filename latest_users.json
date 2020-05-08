@@ -1,4 +1,10 @@
 {
+    "117835844513813219393-google": {
+        "id": "117835844513813219393-google",
+        "nickname": "Aleks",
+        "booksCount": 76,
+        "updatedAt": "2020-05-08 03:58:43"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "Таньчик",
         "booksCount": 75,
         "updatedAt": "2020-04-28 19:42:11"
-    },
-    "112547107035296863393-google": {
-        "id": "112547107035296863393-google",
-        "nickname": "bukata",
-        "booksCount": 0,
-        "updatedAt": "2020-04-28 15:51:12"
     }
 }

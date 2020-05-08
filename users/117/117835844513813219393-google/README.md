@@ -1,7 +1,11 @@
-# List of books read by Aleks<sup>78</sup>
+# List of books read by Aleks<sup>76</sup>
 ---
 
 ## Other years
+
+### Посторонний
+Альбер Камю
+
 
 ### Война миров
 Герберт Уэллс
