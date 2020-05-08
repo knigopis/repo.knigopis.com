@@ -1,10 +1,14 @@
-# List of books read by Aleks<sup>78</sup>
+# List of books read by Aleks<sup>79</sup>
 ---
 
 ## Other years
 
 ### Посторонний
 Альбер Камю
+
+
+### Сиддхартха
+Герман Гессе
 
 
 ### Паломничество в страну Востока
