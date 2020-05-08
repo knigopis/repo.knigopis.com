@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гарри Поттер и Принц-полукровка ~ [anvonamore](users/595/5957175-vkontakte)<sup>139</sup>
 * Цветы для Элджернона ~ [Euphoria](users/106/106304994652616315178-google)<sup>80</sup>
 * Чужак ~ [dmiro](users/571/5714115-vkontakte)<sup>25</sup>
 * Океан в конце дороги ~ [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup>
@@ -30,7 +31,6 @@
 * Ребенок Розмари ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>103</sup>
 * Слово про похід Ігорев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>102</sup>
 * Изгоняющий дьявола ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>101</sup>
-* Отцы и дети ~ [anvonamore](users/595/5957175-vkontakte)<sup>138</sup>
 
 
-_07.05.2020 14:18:12_
+_08.05.2020 19:59:02_

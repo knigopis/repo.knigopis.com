@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гарри Поттер и Принц-полукровка ~ [anvonamore](users/595/5957175-vkontakte)<sup>139</sup>
+    > 8/10
+
 * Цветы для Элджернона ~ [Euphoria](users/106/106304994652616315178-google)<sup>80</sup>
     > Короткий рассказ в форме личного дневника
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Давно я не читала триллеры. В книге было больше описаний последствий действий "чужака" и до самого финала не было понятно, что вообще происходит? Главный следователь - Ральф Андерсон, ключевая роль - у девушки Холли Гибни, которая краснела, бледнела от смущения, а потом завалила этого зверя. Чтобы прям не оторваться - такого не было, но читать было намного интереснее, чем "Путь Джедая" =)
 
 * Океан в конце дороги ~ [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup>
-    > 10/10
 
 * Золотой храм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Калибр имеет значение? ~ [Chiffi](users/105/105831994080785626680-google)<sup>189</sup>
 
-* Егоїстичний ген ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>106</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>139</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>18</sup> 
 [Avery](users/567/56734832-yandex)<sup>29</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>79</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/103030034741048415624-google)<sup>0</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup> 
 [Shahzada Stamova](users/799/799658770022584575-mailru)<sup>0</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>67</sup> 
 
 
-_08.05.2020 16:43:33_
+_08.05.2020 19:59:02_
