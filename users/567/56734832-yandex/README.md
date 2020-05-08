@@ -1,7 +1,12 @@
-# List of books read by Avery<sup>28</sup>
+# List of books read by Avery<sup>29</sup>
 ---
 
 ## 2020
+
+### Тобол. Мало избранных
+Алексей Иванов
+> [2020-05-08] 
+
 
 ### Тобол. Много званных
 Алексей Иванов
