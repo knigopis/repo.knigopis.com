@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ru7alk S.](users/108/108928888752736822195-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>251</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>122</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>58</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>69</sup> 
 [En](users/333/333646551-vkontakte)<sup>102</sup> 
 [dankor1498](users/115/115840544194890627090-google)<sup>0</sup> 
-[zillant](users/114/114811718304622529304-google)<sup>0</sup> 
 
 
-_09.05.2020 18:53:04_
+_09.05.2020 22:08:55_
