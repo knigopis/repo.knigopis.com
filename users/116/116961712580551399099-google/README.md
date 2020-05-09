@@ -1,7 +1,12 @@
-# List of books read by violet_velva<sup>68</sup>
+# List of books read by violet_velva<sup>69</sup>
 ---
 
 ## 2020
+
+### Silkworm
+Robert Galbraith
+> [2020-05-08] 
+
 
 ### Старик и море (и другие рассказы)
 Эрнест Хемингуэй
