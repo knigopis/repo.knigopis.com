@@ -1,4 +1,10 @@
 {
+    "108928888752736822195-google": {
+        "id": "108928888752736822195-google",
+        "nickname": "Ru7alk S.",
+        "booksCount": 0,
+        "updatedAt": "2020-05-09 22:08:50"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "dankor1498",
         "booksCount": 0,
         "updatedAt": "2020-04-30 16:02:01"
-    },
-    "114811718304622529304-google": {
-        "id": "114811718304622529304-google",
-        "nickname": "zillant",
-        "booksCount": 0,
-        "updatedAt": "2020-04-30 15:34:44"
     }
 }
