@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 121,
+        "updatedAt": "2020-05-09 08:34:29"
+    },
     "310646815-vkontakte": {
         "id": "310646815-vkontakte",
         "nickname": "stamovashahzada",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-04-30 10:25:50"
-    },
-    "103030034741048415624-google": {
-        "id": "103030034741048415624-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-04-30 06:57:40"
     }
 }
