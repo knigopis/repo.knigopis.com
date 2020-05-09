@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хватай за горло! ~ [Garka](users/115/115753719718250012620-google)<sup>251</sup>
+    > Книги о Ведьмах у Пратчетта получаются какими-то особенно душевными и грустными. Матушка Ветровоск против вампиров.
+
 * Война Миров ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>58</sup>
     > 10/10
 
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > Недолгое счастье Фрэнсиса Макомбера
 
 * Гарри Поттер и Принц-полукровка ~ [anvonamore](users/595/5957175-vkontakte)<sup>139</sup>
-    > 8/10
 
 * Цветы для Элджернона ~ [Euphoria](users/106/106304994652616315178-google)<sup>80</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * 12 стульев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>107</sup>
 
-* Психология убеждения ~ [Fenix](users/111/111367585493471720963-google)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>251</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>122</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>58</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>167</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>102</sup> 
 [dankor1498](users/115/115840544194890627090-google)<sup>0</sup> 
 [zillant](users/114/114811718304622529304-google)<sup>0</sup> 
-[](users/344/344511630-vkontakte)<sup>0</sup> 
 
 
-_09.05.2020 08:35:35_
+_09.05.2020 18:53:04_

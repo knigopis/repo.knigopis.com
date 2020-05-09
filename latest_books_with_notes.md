@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хватай за горло! ~ [Garka](users/115/115753719718250012620-google)<sup>251</sup>
 * Война Миров ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>58</sup>
 * Старик и море (и другие рассказы) ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
 * Гарри Поттер и Принц-полукровка ~ [anvonamore](users/595/5957175-vkontakte)<sup>139</sup>
@@ -30,7 +31,6 @@
 * Подвиги самураев ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>231</sup>
 * Вы, конечно, шутите мистер Фейнман ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>78</sup>
 * Последний континент ~ [Garka](users/115/115753719718250012620-google)<sup>249</sup>
-* Ребенок Розмари ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>103</sup>
 
 
-_09.05.2020 07:47:26_
+_09.05.2020 18:53:04_
