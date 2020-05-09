@@ -5,6 +5,15 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Старик и море (и другие рассказы) ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
+    > Старик и море
+    > В чужой стране
+    > Убийцы
+    > Там, где чисто, светло
+    > Отцы и дети
+    > О писательстве
+    > Недолгое счастье Фрэнсиса Макомбера
+
 * Гарри Поттер и Принц-полукровка ~ [anvonamore](users/595/5957175-vkontakte)<sup>139</sup>
     > 8/10
 
@@ -12,7 +21,6 @@ Do not use pull requests to make changes here.
     > Короткий рассказ в форме личного дневника
 
 * Чужак ~ [dmiro](users/571/5714115-vkontakte)<sup>25</sup>
-    > Давно я не читала триллеры. В книге было больше описаний последствий действий "чужака" и до самого финала не было понятно, что вообще происходит? Главный следователь - Ральф Андерсон, ключевая роль - у девушки Холли Гибни, которая краснела, бледнела от смущения, а потом завалила этого зверя. Чтобы прям не оторваться - такого не было, но читать было намного интереснее, чем "Путь Джедая" =)
 
 * Океан в конце дороги ~ [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup>
 
@@ -26,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Долина молчания ~ [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup>
 
-* Калибр имеет значение? ~ [Chiffi](users/105/105831994080785626680-google)<sup>189</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>68</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>139</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>18</sup> 
 [Avery](users/567/56734832-yandex)<sup>29</sup> 
@@ -62,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lostinfrost](users/217/217891524-vkontakte)<sup>166</sup> 
 [](users/103/103030034741048415624-google)<sup>0</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup> 
-[Shahzada Stamova](users/799/799658770022584575-mailru)<sup>0</sup> 
 
 
-_08.05.2020 19:59:02_
+_09.05.2020 05:52:09_

@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-google": {
+        "id": "116961712580551399099-google",
+        "nickname": "violet_velva",
+        "booksCount": 68,
+        "updatedAt": "2020-05-09 05:52:09"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -172,11 +178,5 @@
         "nickname": "stamovashahzada",
         "booksCount": 57,
         "updatedAt": "2020-04-30 06:00:48"
-    },
-    "799658770022584575-mailru": {
-        "id": "799658770022584575-mailru",
-        "nickname": "Shahzada Stamova",
-        "booksCount": 0,
-        "updatedAt": "2020-04-30 05:56:22"
     }
 }

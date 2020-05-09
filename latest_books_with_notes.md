@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Старик и море (и другие рассказы) ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
 * Гарри Поттер и Принц-полукровка ~ [anvonamore](users/595/5957175-vkontakte)<sup>139</sup>
 * Цветы для Элджернона ~ [Euphoria](users/106/106304994652616315178-google)<sup>80</sup>
 * Чужак ~ [dmiro](users/571/5714115-vkontakte)<sup>25</sup>
@@ -30,7 +31,6 @@
 * Последний континент ~ [Garka](users/115/115753719718250012620-google)<sup>249</sup>
 * Ребенок Розмари ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>103</sup>
 * Слово про похід Ігорев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>102</sup>
-* Изгоняющий дьявола ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>101</sup>
 
 
-_08.05.2020 19:59:02_
+_09.05.2020 05:52:09_
