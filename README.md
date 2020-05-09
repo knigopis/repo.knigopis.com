@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>121</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>122</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>58</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>167</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>69</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/344/344511630-vkontakte)<sup>0</sup> 
 
 
-_09.05.2020 08:34:29_
+_09.05.2020 08:35:35_

@@ -1,4 +1,16 @@
 {
+    "IfrM6C3bVA": {
+        "id": "IfrM6C3bVA",
+        "title": "Берлин, май 1945. Записки военного переводчика.",
+        "author": "Ржевская Елена",
+        "notes": "",
+        "createdAt": "2020-05-09 08:35:35",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 122
+        }
+    },
     "rNQmEJezgm": {
         "id": "rNQmEJezgm",
         "title": "Пандемия, книга 1",
@@ -345,18 +357,6 @@
             "id": "2217138517343562098-mailru",
             "nickname": "Albus",
             "booksCount": 17
-        }
-    },
-    "4qGwx0QQ8h": {
-        "id": "4qGwx0QQ8h",
-        "title": "Убийственная шутка",
-        "author": "Криста Фауст, Гэри Филлипс",
-        "notes": "Книга о великом противостоянии Бэтмана и Джокера, которое никогда не закончится...",
-        "createdAt": "2020-05-04 12:34:08",
-        "user": {
-            "id": "2217138517343562098-mailru",
-            "nickname": "Albus",
-            "booksCount": 16
         }
     }
 }
