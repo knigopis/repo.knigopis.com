@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lostinfrost](users/217/217891524-vkontakte)<sup>167</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>69</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>139</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>18</sup> 
@@ -66,9 +67,8 @@ _More notes [here](latest_books_with_notes.md)._
 [dankor1498](users/115/115840544194890627090-google)<sup>0</sup> 
 [zillant](users/114/114811718304622529304-google)<sup>0</sup> 
 [](users/344/344511630-vkontakte)<sup>0</sup> 
-[lostinfrost](users/217/217891524-vkontakte)<sup>166</sup> 
 [](users/103/103030034741048415624-google)<sup>0</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup> 
 
 
-_09.05.2020 05:53:31_
+_09.05.2020 07:00:01_

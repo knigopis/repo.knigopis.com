@@ -1,4 +1,10 @@
 {
+    "217891524-vkontakte": {
+        "id": "217891524-vkontakte",
+        "nickname": "lostinfrost",
+        "booksCount": 167,
+        "updatedAt": "2020-05-09 07:00:01"
+    },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
         "nickname": "violet_velva",
@@ -160,12 +166,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-04-30 10:25:50"
-    },
-    "217891524-vkontakte": {
-        "id": "217891524-vkontakte",
-        "nickname": "lostinfrost",
-        "booksCount": 166,
-        "updatedAt": "2020-04-30 07:05:30"
     },
     "103030034741048415624-google": {
         "id": "103030034741048415624-google",

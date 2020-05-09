@@ -1,4 +1,16 @@
 {
+    "rB0QkbsI5B": {
+        "id": "rB0QkbsI5B",
+        "title": "Пустая могила",
+        "author": "Джонатан Страуд",
+        "notes": "",
+        "createdAt": "2020-05-09 07:00:01",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 167
+        }
+    },
     "uDOt9L2JcA": {
         "id": "uDOt9L2JcA",
         "title": "Silkworm",
@@ -345,18 +357,6 @@
             "id": "2217138517343562098-mailru",
             "nickname": "Albus",
             "booksCount": 14
-        }
-    },
-    "bMJktge7yR": {
-        "id": "bMJktge7yR",
-        "title": "Луна и грош",
-        "author": "Сомерсет Моэм",
-        "notes": "Нелепейшее заблуждение - почитать искусство за ремесло, до конца понятное только ремесленнику. Искусство - это манифестация чувств, а чувство говорит общепринятым языком.",
-        "createdAt": "2020-05-04 12:26:53",
-        "user": {
-            "id": "2217138517343562098-mailru",
-            "nickname": "Albus",
-            "booksCount": 13
         }
     }
 }

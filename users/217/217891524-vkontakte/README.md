@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>166</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>167</sup>
 ---
 
 ## 2020
+
+### Пустая могила
+Джонатан Страуд
+> [2020-05-09] 
+
 
 ### Крадущаяся тень
 Джонатан Страуд
