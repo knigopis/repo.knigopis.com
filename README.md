@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Война Миров ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>58</sup>
+    > 10/10
+
 * Старик и море (и другие рассказы) ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
     > Старик и море
     > В чужой стране
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > 8/10
 
 * Цветы для Элджернона ~ [Euphoria](users/106/106304994652616315178-google)<sup>80</sup>
-    > Короткий рассказ в форме личного дневника
 
 * Чужак ~ [dmiro](users/571/5714115-vkontakte)<sup>25</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Психология убеждения ~ [Fenix](users/111/111367585493471720963-google)<sup>4</sup>
 
-* Долина молчания ~ [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stamovashahzada](users/310/310646815-vkontakte)<sup>58</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>167</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>69</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>139</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zillant](users/114/114811718304622529304-google)<sup>0</sup> 
 [](users/344/344511630-vkontakte)<sup>0</sup> 
 [](users/103/103030034741048415624-google)<sup>0</sup> 
-[stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup> 
 
 
-_09.05.2020 07:00:01_
+_09.05.2020 07:47:26_

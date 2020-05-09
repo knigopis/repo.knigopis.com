@@ -1,7 +1,12 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>57</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>58</sup>
 ---
 
 ## 2020
+
+### Война Миров
+Герберт Уэллс
+> [2020-05] 10/10
+
 
 ### Алхимик
 Пауло Коэльо
