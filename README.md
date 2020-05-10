@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сила воли. Как развить и укрепить? ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>59</sup>
+    > 10/10
+
 * Хватай за горло! ~ [Garka](users/115/115753719718250012620-google)<sup>251</sup>
     > Книги о Ведьмах у Пратчетта получаются какими-то особенно душевными и грустными. Матушка Ветровоск против вампиров.
 
@@ -12,13 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * Старик и море (и другие рассказы) ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
-    > Старик и море
-    > В чужой стране
-    > Убийцы
-    > Там, где чисто, светло
-    > Отцы и дети
-    > О писательстве
-    > Недолгое счастье Фрэнсиса Макомбера
 
 * Гарри Поттер и Принц-полукровка ~ [anvonamore](users/595/5957175-vkontakte)<sup>139</sup>
 
@@ -32,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Исповедь маски ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>233</sup>
 
-* 12 стульев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>107</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stamovashahzada](users/310/310646815-vkontakte)<sup>59</sup> 
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>251</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>122</sup> 
-[stamovashahzada](users/310/310646815-vkontakte)<sup>58</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>167</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>69</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>139</sup> 
@@ -71,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dankor1498](users/115/115840544194890627090-google)<sup>0</sup> 
 
 
-_09.05.2020 22:08:55_
+_10.05.2020 05:31:53_

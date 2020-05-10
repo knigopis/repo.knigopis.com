@@ -1,4 +1,16 @@
 {
+    "Gn4fs5KqGG": {
+        "id": "Gn4fs5KqGG",
+        "title": "Сила воли. Как развить и укрепить?",
+        "author": "Келли Макгонигал",
+        "notes": "10/10",
+        "createdAt": "2020-05-10 05:31:53",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 59
+        }
+    },
     "ePawzCmQgY": {
         "id": "ePawzCmQgY",
         "title": "Хватай за горло!",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 790
-        }
-    },
-    "2_HjB4l_1u": {
-        "id": "2_HjB4l_1u",
-        "title": "Дом кривых стен",
-        "author": "Содзи Симада",
-        "notes": "Месть - это блюдо, которое подают холодным. А чтобы \"холодная\" месть пронзила обидчика, надо построить дом под наклоном...",
-        "createdAt": "2020-05-04 12:38:51",
-        "user": {
-            "id": "2217138517343562098-mailru",
-            "nickname": "Albus",
-            "booksCount": 18
         }
     }
 }

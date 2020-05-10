@@ -1,4 +1,16 @@
 {
+    "Gn4fs5KqGG": {
+        "id": "Gn4fs5KqGG",
+        "title": "Сила воли. Как развить и укрепить?",
+        "author": "Келли Макгонигал",
+        "notes": "10/10",
+        "createdAt": "2020-05-10 05:31:53",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 59
+        }
+    },
     "ePawzCmQgY": {
         "id": "ePawzCmQgY",
         "title": "Хватай за горло!",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 78
-        }
-    },
-    "3sl__bzPxf": {
-        "id": "3sl__bzPxf",
-        "title": "Последний континент",
-        "author": "Пратчетт, Терри",
-        "notes": "Волшебники Незримого Университете это нечто. Ринсвинд, Кенгуру, дожди",
-        "createdAt": "2020-04-21 13:07:43",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 249
         }
     }
 }

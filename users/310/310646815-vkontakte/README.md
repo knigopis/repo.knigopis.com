@@ -1,7 +1,12 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>58</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>59</sup>
 ---
 
 ## 2020
+
+### Сила воли. Как развить и укрепить?
+Келли Макгонигал
+> [2020-05-09] 10/10
+
 
 ### Война Миров
 Герберт Уэллс
