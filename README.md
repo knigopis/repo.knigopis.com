@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>103</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>792</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>59</sup> 
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>0</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Joxxy](users/109/109128632962928278575-google)<sup>18</sup> 
 [Avery](users/567/56734832-yandex)<sup>29</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>79</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>102</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>80</sup> 
 [](users/153/1537586159620888-facebook)<sup>17</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>47</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dankor1498](users/115/115840544194890627090-google)<sup>0</sup> 
 
 
-_10.05.2020 09:00:28_
+_10.05.2020 16:46:10_
