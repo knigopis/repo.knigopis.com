@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladkozz](users/572/57239276-vkontakte)<sup>68</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>103</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>792</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>59</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102482879989167895792-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>69</sup> 
 [En](users/333/333646551-vkontakte)<sup>102</sup> 
-[dankor1498](users/115/115840544194890627090-google)<sup>0</sup> 
 
 
-_10.05.2020 16:46:10_
+_10.05.2020 21:58:11_

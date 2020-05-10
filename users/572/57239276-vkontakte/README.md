@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>67</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>68</sup>
 ---
 
 ## 2020
+
+### Молчание
+Сюсаку Эндо
+
 
 ### Хлеб с ветчиной
 Чарльз Буковски
