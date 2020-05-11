@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>793</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>68</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>103</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>792</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>59</sup> 
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>251</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>102</sup> 
 
 
-_10.05.2020 21:58:11_
+_11.05.2020 15:01:28_
