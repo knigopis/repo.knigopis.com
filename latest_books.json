@@ -1,4 +1,16 @@
 {
+    "yFEkdDcsG-": {
+        "id": "yFEkdDcsG-",
+        "title": "Седьмая",
+        "author": "Ольга Савельева",
+        "notes": "",
+        "createdAt": "2020-05-11 19:45:10",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 76
+        }
+    },
     "989LnEoi0Y": {
         "id": "989LnEoi0Y",
         "title": "Мигрант, или Brevi finietur",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 116
-        }
-    },
-    "4eA7laX3iW": {
-        "id": "4eA7laX3iW",
-        "title": "Золотой храм",
-        "author": "Юкио Мисима",
-        "notes": "в процессе",
-        "createdAt": "2020-05-05 17:48:15",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 234
         }
     }
 }
