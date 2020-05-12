@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>795</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>89</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>794</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>168</sup> 
 [En](users/333/333646551-vkontakte)<sup>103</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>76</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>189</sup> 
 
 
-_12.05.2020 16:47:11_
+_12.05.2020 19:57:20_
