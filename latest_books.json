@@ -1,4 +1,16 @@
 {
+    "DeE6gUn56C": {
+        "id": "DeE6gUn56C",
+        "title": "Ф.М. Достоевский",
+        "author": "Идиот",
+        "notes": "",
+        "createdAt": "2020-05-12 16:47:10",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 89
+        }
+    },
     "7VhlAt-6Fc": {
         "id": "7VhlAt-6Fc",
         "title": "Н.В. Гоголь",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 47
-        }
-    },
-    "3uSzqzYCQ5": {
-        "id": "3uSzqzYCQ5",
-        "title": "Не нужно молчать",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-05-06 17:21:57",
-        "user": {
-            "id": "181053542-vkontakte",
-            "nickname": "marsmalum",
-            "booksCount": 1
         }
     }
 }

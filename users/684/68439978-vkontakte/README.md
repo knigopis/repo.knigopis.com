@@ -1,4 +1,4 @@
-# List of books read by [kissamasya](http://vk.com/id68439978)<sup>88</sup>
+# List of books read by [kissamasya](http://vk.com/id68439978)<sup>89</sup>
 ---
 
 ## 2020
@@ -6,6 +6,11 @@
 ### Н.В. Гоголь
 Мёртвые души
 > [2020-05-11] 
+
+
+### Ф.М. Достоевский
+Идиот
+> [2020-05] 
 
 
 ### Рассказы
