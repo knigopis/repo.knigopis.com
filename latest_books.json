@@ -1,4 +1,16 @@
 {
+    "aufQRvdWjn": {
+        "id": "aufQRvdWjn",
+        "title": "Город костей",
+        "author": "Кассандра Клэр",
+        "notes": "",
+        "createdAt": "2020-05-12 07:29:20",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 168
+        }
+    },
     "1AtbKHbthz": {
         "id": "1AtbKHbthz",
         "title": "Хирург",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 25
-        }
-    },
-    "3-om0ZnyN3": {
-        "id": "3-om0ZnyN3",
-        "title": "Верные враги",
-        "author": "Ольга Громыко",
-        "notes": "",
-        "createdAt": "2020-05-06 11:50:10",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 48
         }
     }
 }

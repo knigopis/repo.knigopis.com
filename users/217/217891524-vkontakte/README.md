@@ -1,7 +1,12 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>167</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>168</sup>
 ---
 
 ## 2020
+
+### Город костей
+Кассандра Клэр
+> [2020-05-12] 
+
 
 ### Пустая могила
 Джонатан Страуд

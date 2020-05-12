@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lostinfrost](users/217/217891524-vkontakte)<sup>168</sup> 
 [En](users/333/333646551-vkontakte)<sup>103</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>76</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>793</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>251</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>122</sup> 
-[lostinfrost](users/217/217891524-vkontakte)<sup>167</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>69</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>139</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>18</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102482879989167895792-google)<sup>0</sup> 
 
 
-_12.05.2020 07:20:22_
+_12.05.2020 07:29:21_
