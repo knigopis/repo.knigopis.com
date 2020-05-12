@@ -1,4 +1,16 @@
 {
+    "7VhlAt-6Fc": {
+        "id": "7VhlAt-6Fc",
+        "title": "Н.В. Гоголь",
+        "author": "Мёртвые души",
+        "notes": "",
+        "createdAt": "2020-05-12 16:46:28",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 88
+        }
+    },
     "J5I14CunVN": {
         "id": "J5I14CunVN",
         "title": "Артемис Фаул",
@@ -345,18 +357,6 @@
             "id": "181053542-vkontakte",
             "nickname": "marsmalum",
             "booksCount": 1
-        }
-    },
-    "lgWs_W2bJT": {
-        "id": "lgWs_W2bJT",
-        "title": "Vita Nostra",
-        "author": "Марина и Сергей Дяченко",
-        "notes": "",
-        "createdAt": "2020-05-06 15:44:37",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 791
         }
     }
 }
