@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>797</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>108</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>19</sup> 
 [Curious](users/232/2322112641431200-facebook)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>123</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>796</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>89</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>168</sup> 
 [En](users/333/333646551-vkontakte)<sup>103</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup> 
 
 
-_13.05.2020 17:23:00_
+_13.05.2020 17:41:05_
