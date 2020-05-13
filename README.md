@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Joxxy](users/109/109128632962928278575-google)<sup>19</sup> 
 [Curious](users/232/2322112641431200-facebook)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>123</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>796</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>251</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>69</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>139</sup> 
-[Joxxy](users/109/109128632962928278575-google)<sup>18</sup> 
 [Avery](users/567/56734832-yandex)<sup>29</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>79</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>80</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup> 
 
 
-_13.05.2020 12:35:54_
+_13.05.2020 13:19:54_
