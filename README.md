@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Curious](users/232/2322112641431200-facebook)<sup>0</sup> 
+[Curious](users/232/2322112641431200-facebook)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>123</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>796</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>89</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup> 
 
 
-_13.05.2020 12:34:50_
+_13.05.2020 12:35:54_
