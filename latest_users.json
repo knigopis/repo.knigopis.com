@@ -1,4 +1,10 @@
 {
+    "2322112641431200-facebook": {
+        "id": "2322112641431200-facebook",
+        "nickname": "Curious",
+        "booksCount": 0,
+        "updatedAt": "2020-05-13 12:34:47"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "elena-gagina2014",
         "booksCount": 13,
         "updatedAt": "2020-05-03 19:22:54"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 189,
-        "updatedAt": "2020-05-03 17:42:08"
     }
 }
