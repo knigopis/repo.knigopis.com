@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Малоросійство ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>108</sup>
 * Хирург ~ [En](users/333/333646551-vkontakte)<sup>103</sup>
 * Сила воли. Как развить и укрепить? ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>59</sup>
 * Хватай за горло! ~ [Garka](users/115/115753719718250012620-google)<sup>251</sup>
@@ -30,7 +31,6 @@
 * Тринадцатая редакция ~ [En](users/333/333646551-vkontakte)<sup>100</sup>
 * Дорожные работы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>155</sup>
 * Главное в истории фотографии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>232</sup>
-* Подвиги самураев ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>231</sup>
 
 
-_12.05.2020 07:20:22_
+_13.05.2020 17:23:00_

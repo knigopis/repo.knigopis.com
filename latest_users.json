@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 108,
+        "updatedAt": "2020-05-13 17:22:59"
+    },
     "109128632962928278575-google": {
         "id": "109128632962928278575-google",
         "nickname": "Joxxy",
@@ -154,12 +160,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 234,
         "updatedAt": "2020-05-05 17:48:15"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 107,
-        "updatedAt": "2020-05-05 16:54:40"
     },
     "2217138517343562098-mailru": {
         "id": "2217138517343562098-mailru",
