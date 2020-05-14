@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>799</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>28</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>798</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>20</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>108</sup> 
 [Curious](users/232/2322112641431200-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>4</sup> 
 
 
-_14.05.2020 14:11:45_
+_14.05.2020 17:55:31_
