@@ -1,4 +1,16 @@
 {
+    "nenBllJhu7": {
+        "id": "nenBllJhu7",
+        "title": "Ворон",
+        "author": "Эдгар Аллан По",
+        "notes": "Никогда, о, Nevermore!",
+        "createdAt": "2020-05-14 14:11:45",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 28
+        }
+    },
     "D-Csix3moQ": {
         "id": "D-Csix3moQ",
         "title": "Затерянный мир",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 18
-        }
-    },
-    "_7URecpNCp": {
-        "id": "_7URecpNCp",
-        "title": "Бэтмен: возвращение темного рыцаря",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-05-08 16:43:14",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 17
         }
     }
 }

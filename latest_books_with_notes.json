@@ -1,4 +1,16 @@
 {
+    "nenBllJhu7": {
+        "id": "nenBllJhu7",
+        "title": "Ворон",
+        "author": "Эдгар Аллан По",
+        "notes": "Никогда, о, Nevermore!",
+        "createdAt": "2020-05-14 14:11:45",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 28
+        }
+    },
     "SJ2fzt5Hqa": {
         "id": "SJ2fzt5Hqa",
         "title": "Малоросійство",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 155
-        }
-    },
-    "5NO4_Mv3SS": {
-        "id": "5NO4_Mv3SS",
-        "title": "Главное в истории фотографии",
-        "author": "Йен Хейдн Смит",
-        "notes": "в процессе",
-        "createdAt": "2020-04-22 15:24:41",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 232
         }
     }
 }
