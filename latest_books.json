@@ -1,4 +1,16 @@
 {
+    "D-Csix3moQ": {
+        "id": "D-Csix3moQ",
+        "title": "Затерянный мир",
+        "author": "Оуэн Колфер",
+        "notes": "",
+        "createdAt": "2020-05-14 10:34:03",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 798
+        }
+    },
     "To4AiSDMY1": {
         "id": "To4AiSDMY1",
         "title": "Detective Comics 1000",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 17
-        }
-    },
-    "_WZyBB1LqR": {
-        "id": "_WZyBB1LqR",
-        "title": "Тобол. Мало избранных",
-        "author": "Алексей Иванов",
-        "notes": "",
-        "createdAt": "2020-05-08 05:09:30",
-        "user": {
-            "id": "56734832-yandex",
-            "nickname": "Avery",
-            "booksCount": 29
         }
     }
 }
