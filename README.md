@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>800</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>77</sup> 
 [](users/115/115826717712507836033-google)<sup>139</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>799</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>28</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>20</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>108</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Albus](users/221/2217138517343562098-mailru)<sup>18</sup> 
 
 
-_14.05.2020 19:43:31_
+_14.05.2020 21:45:47_
