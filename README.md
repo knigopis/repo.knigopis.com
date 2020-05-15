@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Proton15](users/107/107709186800804078154-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>800</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>77</sup> 
 [](users/115/115826717712507836033-google)<sup>139</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>48</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup> 
-[Albus](users/221/2217138517343562098-mailru)<sup>18</sup> 
 
 
-_14.05.2020 21:45:47_
+_15.05.2020 00:45:03_
