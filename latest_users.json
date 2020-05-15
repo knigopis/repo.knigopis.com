@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 81,
+        "updatedAt": "2020-05-15 01:02:38"
+    },
     "107709186800804078154-google": {
         "id": "107709186800804078154-google",
         "nickname": "Proton15",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 116,
         "updatedAt": "2020-05-05 20:00:41"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 234,
-        "updatedAt": "2020-05-05 17:48:15"
     }
 }
