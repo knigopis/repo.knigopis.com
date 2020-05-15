@@ -1,4 +1,10 @@
 {
+    "107709186800804078154-google": {
+        "id": "107709186800804078154-google",
+        "nickname": "Proton15",
+        "booksCount": 0,
+        "updatedAt": "2020-05-15 00:44:59"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 234,
         "updatedAt": "2020-05-05 17:48:15"
-    },
-    "2217138517343562098-mailru": {
-        "id": "2217138517343562098-mailru",
-        "nickname": "Albus",
-        "booksCount": 18,
-        "updatedAt": "2020-05-04 12:38:51"
     }
 }
