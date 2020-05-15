@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115826717712507836033-google)<sup>140</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>29</sup> 
 [AkatsukikKedze](users/457/457642318-yandex)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>81</sup> 
 [Proton15](users/107/107709186800804078154-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>800</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>77</sup> 
-[](users/115/115826717712507836033-google)<sup>139</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>20</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>108</sup> 
 [Curious](users/232/2322112641431200-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>48</sup> 
 
 
-_15.05.2020 13:54:17_
+_15.05.2020 16:14:41_

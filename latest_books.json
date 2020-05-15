@@ -1,4 +1,16 @@
 {
+    "nLRLdVSW7Q": {
+        "id": "nLRLdVSW7Q",
+        "title": "Швайпольт",
+        "author": "Гузель Яхина",
+        "notes": "",
+        "createdAt": "2020-05-15 16:14:41",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 140
+        }
+    },
     "3jIQ8yg6eR": {
         "id": "3jIQ8yg6eR",
         "title": "Золотой жук",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 122
-        }
-    },
-    "rNQmEJezgm": {
-        "id": "rNQmEJezgm",
-        "title": "Пандемия, книга 1",
-        "author": "Панов Вадим",
-        "notes": "",
-        "createdAt": "2020-05-09 08:34:29",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 121
         }
     }
 }
