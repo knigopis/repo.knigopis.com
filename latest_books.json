@@ -1,4 +1,16 @@
 {
+    "3jIQ8yg6eR": {
+        "id": "3jIQ8yg6eR",
+        "title": "Золотой жук",
+        "author": "Эдгар Аллан По",
+        "notes": "",
+        "createdAt": "2020-05-15 13:54:17",
+        "user": {
+            "id": "233860015-vkontakte",
+            "nickname": "dghtt",
+            "booksCount": 29
+        }
+    },
     "K41mxlHOf5": {
         "id": "K41mxlHOf5",
         "title": "Норвежский лес",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 121
-        }
-    },
-    "x_y3Y87qfs": {
-        "id": "x_y3Y87qfs",
-        "title": "Война Миров",
-        "author": "Герберт Уэллс",
-        "notes": "10/10",
-        "createdAt": "2020-05-09 07:47:26",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 58
         }
     }
 }

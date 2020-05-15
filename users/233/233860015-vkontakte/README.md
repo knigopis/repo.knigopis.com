@@ -1,7 +1,12 @@
-# List of books read by [dghtt](http://vk.com/id233860015)<sup>28</sup>
+# List of books read by [dghtt](http://vk.com/id233860015)<sup>29</sup>
 ---
 
 ## 2020
+
+### Золотой жук
+Эдгар Аллан По
+> [2020-05-15] 
+
 
 ### Ворон
 Эдгар Аллан По
