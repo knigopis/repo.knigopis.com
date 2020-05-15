@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[l.shilova](users/101/10123344-vkontakte)<sup>20</sup> 
 [](users/115/115826717712507836033-google)<sup>140</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>29</sup> 
 [AkatsukikKedze](users/457/457642318-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [marsmalum](users/181/181053542-vkontakte)<sup>1</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>25</sup> 
 [steel_dream](users/178/178521027-vkontakte)<sup>0</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>48</sup> 
 
 
-_15.05.2020 16:14:41_
+_15.05.2020 20:23:17_

@@ -1,4 +1,16 @@
 {
+    "2dve25e3SE": {
+        "id": "2dve25e3SE",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2020-05-15 20:23:17",
+        "user": {
+            "id": "10123344-vkontakte",
+            "nickname": "l.shilova",
+            "booksCount": 20
+        }
+    },
     "nLRLdVSW7Q": {
         "id": "nLRLdVSW7Q",
         "title": "Швайпольт",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 251
-        }
-    },
-    "IfrM6C3bVA": {
-        "id": "IfrM6C3bVA",
-        "title": "Берлин, май 1945. Записки военного переводчика.",
-        "author": "Ржевская Елена",
-        "notes": "",
-        "createdAt": "2020-05-09 08:35:35",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 122
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [l.shilova](http://vk.com/id10123344)<sup>19</sup>
+# List of books read by [l.shilova](http://vk.com/id10123344)<sup>20</sup>
 ---
 
 ## 2020
+
+### О дивный новый мир
+Олдос Хаксли
+> [2020-05] 
+
 
 ### Клуб самоубийц
 Роберт Стивенсон
