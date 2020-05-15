@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 48,
+        "updatedAt": "2020-05-15 20:54:37"
+    },
     "10123344-vkontakte": {
         "id": "10123344-vkontakte",
         "nickname": "l.shilova",
@@ -172,11 +178,5 @@
         "nickname": "dmiro",
         "booksCount": 25,
         "updatedAt": "2020-05-06 12:47:07"
-    },
-    "178521027-vkontakte": {
-        "id": "178521027-vkontakte",
-        "nickname": "steel_dream",
-        "booksCount": 0,
-        "updatedAt": "2020-05-06 11:57:05"
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>47</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>48</sup>
 ---
 
 ## 2020
+
+### t
+Виктор Пелевин
+> [2020-05-15] 
+
 
 ### Правила богатства
 Ричард Темплар

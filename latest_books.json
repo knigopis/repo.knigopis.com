@@ -1,4 +1,16 @@
 {
+    "XS36HHbNnC": {
+        "id": "XS36HHbNnC",
+        "title": "t",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2020-05-15 20:54:37",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 48
+        }
+    },
     "2dve25e3SE": {
         "id": "2dve25e3SE",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 59
-        }
-    },
-    "ePawzCmQgY": {
-        "id": "ePawzCmQgY",
-        "title": "Хватай за горло!",
-        "author": "Пратчетт, Терри",
-        "notes": "Книги о Ведьмах у Пратчетта получаются какими-то особенно душевными и грустными. Матушка Ветровоск против вампиров.",
-        "createdAt": "2020-05-09 18:53:03",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 251
         }
     }
 }

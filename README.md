@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>48</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>20</sup> 
 [](users/115/115826717712507836033-google)<sup>140</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>29</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>47</sup> 
 [marsmalum](users/181/181053542-vkontakte)<sup>1</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>25</sup> 
-[steel_dream](users/178/178521027-vkontakte)<sup>0</sup> 
 
 
-_15.05.2020 20:23:17_
+_15.05.2020 20:54:37_
