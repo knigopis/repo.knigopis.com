@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 801,
+        "updatedAt": "2020-05-16 14:32:09"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -58,12 +64,6 @@
         "nickname": "Proton15",
         "booksCount": 0,
         "updatedAt": "2020-05-15 00:44:59"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 800,
-        "updatedAt": "2020-05-14 21:45:47"
     },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
