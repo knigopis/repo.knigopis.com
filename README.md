@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>81</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>82</sup> 
 [youno](users/302/302928912-vkontakte)<sup>48</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>20</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>139</sup> 
 [Avery](users/567/56734832-yandex)<sup>29</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>79</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>80</sup> 
 [](users/153/1537586159620888-facebook)<sup>17</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>47</sup> 
 [marsmalum](users/181/181053542-vkontakte)<sup>1</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>25</sup> 
 
 
-_15.05.2020 22:25:14_
+_16.05.2020 06:40:11_

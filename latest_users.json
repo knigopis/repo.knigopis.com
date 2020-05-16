@@ -1,4 +1,10 @@
 {
+    "106304994652616315178-google": {
+        "id": "106304994652616315178-google",
+        "nickname": "Euphoria",
+        "booksCount": 81,
+        "updatedAt": "2020-05-16 06:40:11"
+    },
     "139338401-vkontakte": {
         "id": "139338401-vkontakte",
         "nickname": "sab_olya",
@@ -148,12 +154,6 @@
         "nickname": "Aleks",
         "booksCount": 79,
         "updatedAt": "2020-05-08 04:02:05"
-    },
-    "106304994652616315178-google": {
-        "id": "106304994652616315178-google",
-        "nickname": "Euphoria",
-        "booksCount": 80,
-        "updatedAt": "2020-05-07 14:18:12"
     },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
