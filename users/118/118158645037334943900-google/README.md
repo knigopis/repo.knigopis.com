@@ -1,12 +1,7 @@
-# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>42</sup>
+# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>41</sup>
 ---
 
 ## 2020
-
-### Имя ветра
-Ротфусс Патрик
-> [2020-05-16] 
-
 
 ### Имя ветра
 Ротфусс Патрик
