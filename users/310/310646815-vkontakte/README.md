@@ -1,4 +1,4 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>62</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>63</sup>
 ---
 
 ## 2020
@@ -6,6 +6,11 @@
 ### Афера
 Елена Звёздная
 > [2020-05-16] 11/10
+
+
+### Авантюра
+Елена Звёздная
+> [2020-05-15] 13/10
 
 
 ### Махинация
