@@ -1,4 +1,16 @@
 {
+    "ygvrOduex2": {
+        "id": "ygvrOduex2",
+        "title": "Канун всех святых",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2020-05-16 16:37:14",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 83
+        }
+    },
     "B9kh7cU59q": {
         "id": "B9kh7cU59q",
         "title": "Артемис Фаул. Последний хранитель",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 89
-        }
-    },
-    "7VhlAt-6Fc": {
-        "id": "7VhlAt-6Fc",
-        "title": "Н.В. Гоголь",
-        "author": "Мёртвые души",
-        "notes": "",
-        "createdAt": "2020-05-12 16:46:28",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 88
         }
     }
 }
