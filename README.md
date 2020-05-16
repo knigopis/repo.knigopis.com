@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Настоящая таможенная ведьма ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>60</sup>
+    > 10/10
+
 * Ворон ~ [dghtt](users/233/233860015-vkontakte)<sup>28</sup>
     > Никогда, о, Nevermore!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Витоки та результати.
 
 * Хирург ~ [En](users/333/333646551-vkontakte)<sup>103</sup>
-    > Он проникает в дома по ночам и неслышно входит в спальни женщин, которые, пробудившись ото сна, попадают в оживший кошмар. Судя по тому, что он проделывает со своими жертвами, можно предположить, что он близко знаком с медициной, и газетчики присваивают ему прозвище Хирург. В ходе расследования детективы Томас Мур и Джейн Риццоли обнаруживают, что преступник копирует почерк серийного маньяка, убитого два года назад, причем копирует до мельчайших подробностей, известных очень немногим. Они решают встретиться с выжившей жертвой убитого маньяка — доктором Кэтрин Корделл. Именно она застрелила своего мучителя, и, похоже, именно она становится главной целью подражателя. С каждым очередным убийством он подбирается к ней все ближе...
 
 * Сила воли. Как развить и укрепить? ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>59</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Цветы для Элджернона ~ [Euphoria](users/106/106304994652616315178-google)<sup>80</sup>
 
-* Чужак ~ [dmiro](users/571/5714115-vkontakte)<sup>25</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stamovashahzada](users/310/310646815-vkontakte)<sup>60</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>81</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>82</sup> 
 [youno](users/302/302928912-vkontakte)<sup>48</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>103</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>68</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>103</sup> 
-[stamovashahzada](users/310/310646815-vkontakte)<sup>59</sup> 
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>251</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>69</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>25</sup> 
 
 
-_16.05.2020 06:40:11_
+_16.05.2020 08:12:54_

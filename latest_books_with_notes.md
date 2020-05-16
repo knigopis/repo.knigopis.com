@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Настоящая таможенная ведьма ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>60</sup>
 * Ворон ~ [dghtt](users/233/233860015-vkontakte)<sup>28</sup>
 * Малоросійство ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>108</sup>
 * Хирург ~ [En](users/333/333646551-vkontakte)<sup>103</sup>
@@ -30,7 +31,6 @@
 * Ученик ~ [En](users/333/333646551-vkontakte)<sup>101</sup>
 * Правила богатства ~ [youno](users/302/302928912-vkontakte)<sup>47</sup>
 * Тринадцатая редакция ~ [En](users/333/333646551-vkontakte)<sup>100</sup>
-* Дорожные работы ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>155</sup>
 
 
-_14.05.2020 14:11:45_
+_16.05.2020 08:12:54_
