@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>41</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>81</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>82</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>17</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>47</sup> 
 [marsmalum](users/181/181053542-vkontakte)<sup>1</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>25</sup> 
 
 
-_16.05.2020 08:14:54_
+_16.05.2020 11:51:35_
