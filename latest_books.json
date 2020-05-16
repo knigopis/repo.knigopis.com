@@ -1,4 +1,16 @@
 {
+    "RkGGTEAmRS": {
+        "id": "RkGGTEAmRS",
+        "title": "Афера",
+        "author": "Елена Звёздная",
+        "notes": "11/10",
+        "createdAt": "2020-05-16 08:14:07",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 62
+        }
+    },
     "vo4bxNgjua": {
         "id": "vo4bxNgjua",
         "title": "Махинация",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 76
-        }
-    },
-    "989LnEoi0Y": {
-        "id": "989LnEoi0Y",
-        "title": "Мигрант, или Brevi finietur",
-        "author": "Марина и Сергей Дяченко",
-        "notes": "",
-        "createdAt": "2020-05-11 15:01:27",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 793
         }
     }
 }

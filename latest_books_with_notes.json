@@ -1,4 +1,16 @@
 {
+    "RkGGTEAmRS": {
+        "id": "RkGGTEAmRS",
+        "title": "Афера",
+        "author": "Елена Звёздная",
+        "notes": "11/10",
+        "createdAt": "2020-05-16 08:14:07",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 62
+        }
+    },
     "vo4bxNgjua": {
         "id": "vo4bxNgjua",
         "title": "Махинация",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 101
-        }
-    },
-    "q_Hn44k4Ng": {
-        "id": "q_Hn44k4Ng",
-        "title": "Правила богатства",
-        "author": "Ричард Темплар",
-        "notes": "5/10",
-        "createdAt": "2020-04-25 00:45:58",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 47
         }
     }
 }
