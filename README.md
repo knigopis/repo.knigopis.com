@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гильдия ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup>
+    > 10/10
+
 * Авантюра ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>63</sup>
     > 13/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 11/10
 
 * Махинация ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>61</sup>
-    > 10/10
 
 * Настоящая таможенная ведьма ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>60</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Хватай за горло! ~ [Garka](users/115/115753719718250012620-google)<sup>251</sup>
 
-* Война Миров ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>58</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[stamovashahzada](users/310/310646815-vkontakte)<sup>63</sup> 
+[stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>81</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>82</sup> 
 [youno](users/302/302928912-vkontakte)<sup>48</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>25</sup> 
 
 
-_16.05.2020 08:14:32_
+_16.05.2020 08:14:54_

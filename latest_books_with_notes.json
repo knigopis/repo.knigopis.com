@@ -1,4 +1,16 @@
 {
+    "VOE0WrmkNO": {
+        "id": "VOE0WrmkNO",
+        "title": "Гильдия",
+        "author": "Елена Звёздная",
+        "notes": "10/10",
+        "createdAt": "2020-05-16 08:14:54",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 64
+        }
+    },
     "XMo26wUOTK": {
         "id": "XMo26wUOTK",
         "title": "Авантюра",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 104
-        }
-    },
-    "jv8w2M5GXU": {
-        "id": "jv8w2M5GXU",
-        "title": "Кувырком",
-        "author": "Баскова Анна",
-        "notes": "сказочка для взрослых девочек. очень милая и позитивная.",
-        "createdAt": "2020-04-26 14:09:49",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 187
         }
     }
 }
