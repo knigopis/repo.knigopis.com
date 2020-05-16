@@ -1,7 +1,12 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>60</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>61</sup>
 ---
 
 ## 2020
+
+### Махинация
+Елена Звездная
+> [2020-05-14] 10/10
+
 
 ### Сила воли. Как развить и укрепить?
 Келли Макгонигал
