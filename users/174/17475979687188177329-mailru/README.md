@@ -1,7 +1,12 @@
-# List of books read by [Человеколось](https://t.me/nerkin)<sup>69</sup>
+# List of books read by [Человеколось](https://t.me/nerkin)<sup>70</sup>
 ---
 
 ## 2020
+
+### Великий Гэтсби
+Фрэнсис Скотт Фицджеральд
+> [2020-05-17] 
+
 
 ### Норма
 Владимир Сорокин

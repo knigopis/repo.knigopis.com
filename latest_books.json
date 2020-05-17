@@ -1,4 +1,16 @@
 {
+    "1-XriGWUKi": {
+        "id": "1-XriGWUKi",
+        "title": "Великий Гэтсби",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2020-05-17 10:47:35",
+        "user": {
+            "id": "17475979687188177329-mailru",
+            "nickname": "Человеколось",
+            "booksCount": 70
+        }
+    },
     "ygvrOduex2": {
         "id": "ygvrOduex2",
         "title": "Канун всех святых",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 795
-        }
-    },
-    "DeE6gUn56C": {
-        "id": "DeE6gUn56C",
-        "title": "Ф.М. Достоевский",
-        "author": "Идиот",
-        "notes": "",
-        "createdAt": "2020-05-12 16:47:10",
-        "user": {
-            "id": "68439978-vkontakte",
-            "nickname": "kissamasya",
-            "booksCount": 89
         }
     }
 }

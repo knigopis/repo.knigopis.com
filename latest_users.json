@@ -1,4 +1,10 @@
 {
+    "17475979687188177329-mailru": {
+        "id": "17475979687188177329-mailru",
+        "nickname": "Человеколось",
+        "booksCount": 70,
+        "updatedAt": "2020-05-17 10:47:35"
+    },
     "110749825769904005147-google": {
         "id": "110749825769904005147-google",
         "nickname": "ralexay",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 17,
         "updatedAt": "2020-05-07 11:45:04"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 47,
-        "updatedAt": "2020-05-06 23:12:05"
     }
 }
