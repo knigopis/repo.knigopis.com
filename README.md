@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Evgeniya](users/764/764921170332844-facebook)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>78</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>70</sup> 
 [ralexay](users/110/110749825769904005147-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>139</sup> 
 [Avery](users/567/56734832-yandex)<sup>29</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>79</sup> 
-[](users/153/1537586159620888-facebook)<sup>17</sup> 
 
 
-_17.05.2020 19:43:51_
+_18.05.2020 14:12:19_
