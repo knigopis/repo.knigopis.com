@@ -1,4 +1,10 @@
 {
+    "764921170332844-facebook": {
+        "id": "764921170332844-facebook",
+        "nickname": "Evgeniya",
+        "booksCount": 0,
+        "updatedAt": "2020-05-18 14:12:15"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "Aleks",
         "booksCount": 79,
         "updatedAt": "2020-05-08 04:02:05"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 17,
-        "updatedAt": "2020-05-07 11:45:04"
     }
 }
