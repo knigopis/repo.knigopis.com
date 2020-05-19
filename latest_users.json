@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 42,
+        "updatedAt": "2020-05-19 17:16:35"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -52,12 +58,6 @@
         "nickname": "Janet",
         "booksCount": 801,
         "updatedAt": "2020-05-16 14:32:09"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 41,
-        "updatedAt": "2020-05-16 14:26:35"
     },
     "310646815-vkontakte": {
         "id": "310646815-vkontakte",

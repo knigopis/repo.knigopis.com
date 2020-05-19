@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>42</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>109</sup> 
 [En](users/333/333646551-vkontakte)<sup>104</sup> 
 [](users/153/1537586159620888-facebook)<sup>18</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ralexay](users/110/110749825769904005147-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>83</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>801</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>41</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>81</sup> 
 [youno](users/302/302928912-vkontakte)<sup>48</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>29</sup> 
 
 
-_19.05.2020 10:11:23_
+_19.05.2020 17:16:35_
