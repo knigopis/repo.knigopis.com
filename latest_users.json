@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 53,
+        "updatedAt": "2020-05-19 22:53:20"
+    },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",
         "nickname": "Антенка",
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 139,
         "updatedAt": "2020-05-08 19:59:02"
-    },
-    "56734832-yandex": {
-        "id": "56734832-yandex",
-        "nickname": "Avery",
-        "booksCount": 29,
-        "updatedAt": "2020-05-08 05:09:30"
     }
 }

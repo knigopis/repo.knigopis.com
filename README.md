@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рассуждение о методе, чтобы верно направлять свой разум и отыскивать истину в науках ~ [Rainbow](users/109/109787328219839805802-google)<sup>53</sup>
+    > «Что касается меня, то я никогда не считал свой ум более совершенным, чем у других, и часто даже желал иметь столь быструю мысль, или столь ясное и отчетливое воображение, или такую обширную и надежную память»
+    > «Но кто тратит слишком много времени на путешествия, может в конце концов стать чужим своей стране, а кто слишком интересуется делами прошлых веков, обыкновенно сам становится несведущим в том, что происходит в его время»
+    > «... у меня достаточно совести, чтобы не желать быть принятым за того, кем на самом деле не являюсь»
+
 * Темна вежа 4. Чаклун та кристал. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>109</sup>
     > 10/10 Історія Сюзани Дельґадо та міста Лад.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * Авантюра ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>63</sup>
-    > 13/10
 
 * Афера ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>62</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Хирург ~ [En](users/333/333646551-vkontakte)<sup>103</sup>
 
-* Сила воли. Как развить и укрепить? ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>53</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>42</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>109</sup> 
 [En](users/333/333646551-vkontakte)<sup>104</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>251</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>69</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>139</sup> 
-[Avery](users/567/56734832-yandex)<sup>29</sup> 
 
 
-_19.05.2020 17:16:35_
+_19.05.2020 22:53:20_
