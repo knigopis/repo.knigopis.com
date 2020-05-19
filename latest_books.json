@@ -1,4 +1,16 @@
 {
+    "QUo2gXOuTo": {
+        "id": "QUo2gXOuTo",
+        "title": "Темна вежа 4. Чаклун та кристал.",
+        "author": "Стівен Кінг",
+        "notes": "10/10 Історія Сюзани Дельґадо та міста Лад.",
+        "createdAt": "2020-05-19 10:11:23",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 109
+        }
+    },
     "cD1Pd-ppoP": {
         "id": "cD1Pd-ppoP",
         "title": "Кровавый ветер",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 19
-        }
-    },
-    "pxVIj4q0Xb": {
-        "id": "pxVIj4q0Xb",
-        "title": "",
-        "author": "Тургенев \"Отцы и дети\"",
-        "notes": "Жаль Базарова.",
-        "createdAt": "2020-05-13 12:35:54",
-        "user": {
-            "id": "2322112641431200-facebook",
-            "nickname": "Curious",
-            "booksCount": 1
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>108</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>109</sup>
 ---
 
 ## 2020
+
+### Темна вежа 4. Чаклун та кристал.
+Стівен Кінг
+> [2020-05-19] 10/10 Історія Сюзани Дельґадо та міста Лад.
+
 
 ### Малоросійство
 Євген Маланюк

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Темна вежа 4. Чаклун та кристал. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>109</sup>
+    > 10/10 Історія Сюзани Дельґадо та міста Лад.
+
 * Гильдия ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup>
     > 10/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 13/10
 
 * Афера ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>62</sup>
-    > 11/10
 
 * Махинация ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>61</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сила воли. Как развить и укрепить? ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>59</sup>
 
-* Хватай за горло! ~ [Garka](users/115/115753719718250012620-google)<sup>251</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>109</sup> 
 [En](users/333/333646551-vkontakte)<sup>104</sup> 
 [](users/153/1537586159620888-facebook)<sup>18</sup> 
 [Evgeniya](users/764/764921170332844-facebook)<sup>0</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AkatsukikKedze](users/457/457642318-yandex)<sup>0</sup> 
 [Proton15](users/107/107709186800804078154-google)<sup>0</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>20</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>108</sup> 
 [Curious](users/232/2322112641431200-facebook)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>123</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>89</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>29</sup> 
 
 
-_19.05.2020 05:24:05_
+_19.05.2020 10:11:23_

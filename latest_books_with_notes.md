@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Темна вежа 4. Чаклун та кристал. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>109</sup>
 * Гильдия ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup>
 * Авантюра ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>63</sup>
 * Афера ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>62</sup>
@@ -30,7 +31,6 @@
 * Дюна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>56</sup>
 * Кто мы такие? Гены, наше тело, общество ~ [Garka](users/115/115753719718250012620-google)<sup>250</sup>
 * Параллельные прямые ~ [Chiffi](users/105/105831994080785626680-google)<sup>188</sup>
-* Темна вежа 3. Загублена земля ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>104</sup>
 
 
-_16.05.2020 08:14:54_
+_19.05.2020 10:11:23_
