@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 166,
+        "updatedAt": "2020-05-20 17:39:24"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "violet_velva",
         "booksCount": 69,
         "updatedAt": "2020-05-09 05:53:31"
-    },
-    "5957175-vkontakte": {
-        "id": "5957175-vkontakte",
-        "nickname": "anvonamore",
-        "booksCount": 139,
-        "updatedAt": "2020-05-08 19:59:02"
     }
 }

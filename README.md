@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>166</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>43</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>802</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>251</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>69</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>139</sup> 
 
 
-_20.05.2020 16:08:57_
+_20.05.2020 17:39:24_
