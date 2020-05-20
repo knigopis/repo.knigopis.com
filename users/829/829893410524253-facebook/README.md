@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>109</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>110</sup>
 ---
 
 ## 2020
+
+### Темна вежа 4 (продовження). Вітер крізь замкову шпарину.
+Стівен Кінг
+> [2020-05-20] 10/10 Юний Тім зустрічає Мерліна. Роланд долає Шкуряка.
+
 
 ### Темна вежа 4. Чаклун та кристал.
 Стівен Кінг

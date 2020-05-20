@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Темна вежа 4 (продовження). Вітер крізь замкову шпарину. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup>
+    > 10/10 Юний Тім зустрічає Мерліна. Роланд долає Шкуряка.
+
 * Рассуждение о методе, чтобы верно направлять свой разум и отыскивать истину в науках ~ [Rainbow](users/109/109787328219839805802-google)<sup>53</sup>
     > «Что касается меня, то я никогда не считал свой ум более совершенным, чем у других, и часто даже желал иметь столь быструю мысль, или столь ясное и отчетливое воображение, или такую обширную и надежную память»
     > «Но кто тратит слишком много времени на путешествия, может в конце концов стать чужим своей стране, а кто слишком интересуется делами прошлых веков, обыкновенно сам становится несведущим в том, что происходит в его время»
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 10/10 Історія Сюзани Дельґадо та міста Лад.
 
 * Гильдия ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup>
-    > 10/10
 
 * Авантюра ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>63</sup>
 
@@ -28,17 +30,15 @@ Do not use pull requests to make changes here.
 
 * Малоросійство ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>108</sup>
 
-* Хирург ~ [En](users/333/333646551-vkontakte)<sup>103</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>43</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>802</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>53</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>109</sup> 
 [En](users/333/333646551-vkontakte)<sup>104</sup> 
 [](users/153/1537586159620888-facebook)<sup>18</sup> 
 [Evgeniya](users/764/764921170332844-facebook)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>139</sup> 
 
 
-_20.05.2020 12:19:40_
+_20.05.2020 16:08:57_

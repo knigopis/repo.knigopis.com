@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Темна вежа 4 (продовження). Вітер крізь замкову шпарину. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup>
 * Рассуждение о методе, чтобы верно направлять свой разум и отыскивать истину в науках ~ [Rainbow](users/109/109787328219839805802-google)<sup>53</sup>
 * Темна вежа 4. Чаклун та кристал. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>109</sup>
 * Гильдия ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup>
@@ -30,7 +31,6 @@
 * Зазирни у мої сни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup>
 * Алхимик ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup>
 * Дюна ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>56</sup>
-* Кто мы такие? Гены, наше тело, общество ~ [Garka](users/115/115753719718250012620-google)<sup>250</sup>
 
 
-_19.05.2020 22:53:20_
+_20.05.2020 16:08:57_
