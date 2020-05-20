@@ -1,4 +1,16 @@
 {
+    "BLC2WrEVul": {
+        "id": "BLC2WrEVul",
+        "title": "Хроники убийцы короля. День второй. Страхи мудреца. Часть II",
+        "author": "Патрик Ротфусс",
+        "notes": "",
+        "createdAt": "2020-05-20 12:19:40",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 43
+        }
+    },
     "bXNyfkxPiu": {
         "id": "bXNyfkxPiu",
         "title": "Возраст зрелости",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 798
-        }
-    },
-    "To4AiSDMY1": {
-        "id": "To4AiSDMY1",
-        "title": "Detective Comics 1000",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-05-14 07:58:42",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 20
         }
     }
 }
