@@ -1,4 +1,16 @@
 {
+    "bXNyfkxPiu": {
+        "id": "bXNyfkxPiu",
+        "title": "Возраст зрелости",
+        "author": "Жан-Поль Сартр",
+        "notes": "",
+        "createdAt": "2020-05-20 08:00:59",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 802
+        }
+    },
     "xNN78VjGUR": {
         "id": "xNN78VjGUR",
         "title": "Рассуждение о методе, чтобы верно направлять свой разум и отыскивать истину в науках",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 20
-        }
-    },
-    "-_xOt0-H1_": {
-        "id": "-_xOt0-H1_",
-        "title": "Ответный удар",
-        "author": "Оуэн Колфер",
-        "notes": "",
-        "createdAt": "2020-05-13 17:41:04",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 797
         }
     }
 }
