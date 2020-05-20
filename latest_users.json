@@ -1,4 +1,10 @@
 {
+    "112840961362766819849-google": {
+        "id": "112840961362766819849-google",
+        "nickname": "Encky",
+        "booksCount": 0,
+        "updatedAt": "2020-05-20 23:18:10"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 251,
         "updatedAt": "2020-05-09 18:53:03"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 69,
-        "updatedAt": "2020-05-09 05:53:31"
     }
 }
