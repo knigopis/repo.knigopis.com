@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Encky](users/112/112840961362766819849-google)<sup>0</sup> 
+[Encky](users/112/112840961362766819849-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>167</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>43</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>251</sup> 
 
 
-_20.05.2020 23:18:13_
+_20.05.2020 23:20:25_

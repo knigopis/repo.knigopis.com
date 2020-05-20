@@ -1,4 +1,16 @@
 {
+    "masGu9Oqor": {
+        "id": "masGu9Oqor",
+        "title": "Маскарад",
+        "author": "М. Ю. Лермонтов",
+        "notes": "",
+        "createdAt": "2020-05-20 23:20:25",
+        "user": {
+            "id": "112840961362766819849-google",
+            "nickname": "Encky",
+            "booksCount": 1
+        }
+    },
     "MLXcRH79qG": {
         "id": "MLXcRH79qG",
         "title": "The Collector",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 77
-        }
-    },
-    "gb591EL3gZ": {
-        "id": "gb591EL3gZ",
-        "title": "Авиатор",
-        "author": "Евгений Водолазкин",
-        "notes": "",
-        "createdAt": "2020-05-14 18:20:57",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 139
         }
     }
 }
