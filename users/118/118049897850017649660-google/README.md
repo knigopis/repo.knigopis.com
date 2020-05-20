@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>166</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>167</sup>
 ---
 
 ## 2020
+
+### The Collector
+Nora Roberts
+> [2020-05-20] 
+
 
 ### Высокое искусство
 Корней Иванович Чуковский
