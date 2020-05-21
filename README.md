@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зов Ктулху ~ [En](users/333/333646551-vkontakte)<sup>105</sup>
+    > После страшного землетрясения пробуждаются от вековечного сна приближенные великого Ктулху. Да и сам Властитель древности поднимается на поверхность вод вместе со своим обиталищем – мрачным городом Р’лейх. Тонко чувствующие перестают спать, художники пишут невероятное, слабые сходят с ума… «В своем доме в Р’лейх мертвый Ктулху проснется в назначенный час» поют последователи древнего культа, принося человеческие жертвы…
+    > Ктулху уходит на дно и снова погружается в сон, но надолго ли?..
+
 * Темна вежа 4 (продовження). Вітер крізь замкову шпарину. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup>
     > 10/10 Юний Тім зустрічає Мерліна. Роланд долає Шкуряка.
 
@@ -14,7 +18,6 @@ Do not use pull requests to make changes here.
     > «... у меня достаточно совести, чтобы не желать быть принятым за того, кем на самом деле не являюсь»
 
 * Темна вежа 4. Чаклун та кристал. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>109</sup>
-    > 10/10 Історія Сюзани Дельґадо та міста Лад.
 
 * Гильдия ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup>
 
@@ -28,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Ворон ~ [dghtt](users/233/233860015-vkontakte)<sup>28</sup>
 
-* Малоросійство ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>108</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>105</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>36</sup> 
 [Encky](users/112/112840961362766819849-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>167</sup> 
@@ -42,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>43</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>802</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>53</sup> 
-[En](users/333/333646551-vkontakte)<sup>104</sup> 
 [](users/153/1537586159620888-facebook)<sup>18</sup> 
 [Evgeniya](users/764/764921170332844-facebook)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>78</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>0</sup> 
 
 
-_21.05.2020 01:33:45_
+_21.05.2020 05:44:17_
