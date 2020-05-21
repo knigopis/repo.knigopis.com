@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Спот-кадр ~ [En](users/333/333646551-vkontakte)<sup>106</sup>
 * Зов Ктулху ~ [En](users/333/333646551-vkontakte)<sup>105</sup>
 * Темна вежа 4 (продовження). Вітер крізь замкову шпарину. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup>
 * Рассуждение о методе, чтобы верно направлять свой разум и отыскивать истину в науках ~ [Rainbow](users/109/109787328219839805802-google)<sup>53</sup>
@@ -30,7 +31,6 @@
 * Егоїстичний ген ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>106</sup>
 * Долгий джонт ~ [En](users/333/333646551-vkontakte)<sup>102</sup>
 * Зазирни у мої сни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup>
-* Алхимик ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>57</sup>
 
 
-_21.05.2020 05:44:17_
+_21.05.2020 07:56:37_
