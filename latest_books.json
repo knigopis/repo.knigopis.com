@@ -1,4 +1,16 @@
 {
+    "G6lqarFhMD": {
+        "id": "G6lqarFhMD",
+        "title": "Инферно",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2020-05-21 01:33:44",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 36
+        }
+    },
     "masGu9Oqor": {
         "id": "masGu9Oqor",
         "title": "Маскарад",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 800
-        }
-    },
-    "ZBbFs0O9gU": {
-        "id": "ZBbFs0O9gU",
-        "title": "Путь смертных",
-        "author": "Амброуз Перри",
-        "notes": "",
-        "createdAt": "2020-05-14 19:43:31",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 77
         }
     }
 }

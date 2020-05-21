@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>36</sup> 
 [Encky](users/112/112840961362766819849-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>167</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladkozz](users/572/57239276-vkontakte)<sup>68</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>103</sup> 
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>251</sup> 
 
 
-_20.05.2020 23:20:25_
+_21.05.2020 01:33:45_
