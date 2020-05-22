@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lostinfrost](users/217/217891524-vkontakte)<sup>169</sup> 
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>106</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>36</sup> 
@@ -61,9 +62,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Curious](users/232/2322112641431200-facebook)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>123</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>89</sup> 
-[lostinfrost](users/217/217891524-vkontakte)<sup>168</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>68</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>103</sup> 
 
 
-_21.05.2020 11:39:44_
+_22.05.2020 15:53:26_

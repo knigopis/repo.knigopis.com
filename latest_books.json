@@ -1,4 +1,16 @@
 {
+    "metLanxwMx": {
+        "id": "metLanxwMx",
+        "title": "Город Праха",
+        "author": "Кассандра Клэр",
+        "notes": "",
+        "createdAt": "2020-05-22 15:53:26",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 169
+        }
+    },
     "sQBN6kGV5Z": {
         "id": "sQBN6kGV5Z",
         "title": "Избранные мысли",
@@ -345,18 +357,6 @@
             "id": "10123344-vkontakte",
             "nickname": "l.shilova",
             "booksCount": 20
-        }
-    },
-    "nLRLdVSW7Q": {
-        "id": "nLRLdVSW7Q",
-        "title": "Швайпольт",
-        "author": "Гузель Яхина",
-        "notes": "",
-        "createdAt": "2020-05-15 16:14:41",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 140
         }
     }
 }
