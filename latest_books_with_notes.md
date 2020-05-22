@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Техподдержка. Мертвая зона ~ [Chiffi](users/105/105831994080785626680-google)<sup>190</sup>
 * Спот-кадр ~ [En](users/333/333646551-vkontakte)<sup>106</sup>
 * Зов Ктулху ~ [En](users/333/333646551-vkontakte)<sup>105</sup>
 * Темна вежа 4 (продовження). Вітер крізь замкову шпарину. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup>
@@ -30,7 +31,6 @@
 * Калибр имеет значение? ~ [Chiffi](users/105/105831994080785626680-google)<sup>189</sup>
 * Егоїстичний ген ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>106</sup>
 * Долгий джонт ~ [En](users/333/333646551-vkontakte)<sup>102</sup>
-* Зазирни у мої сни ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>105</sup>
 
 
-_21.05.2020 07:56:37_
+_22.05.2020 16:09:28_
