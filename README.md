@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[psydvl](users/393/39333502-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>190</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>169</sup> 
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Curious](users/232/2322112641431200-facebook)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>123</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>89</sup> 
-[vladkozz](users/572/57239276-vkontakte)<sup>68</sup> 
 
 
-_22.05.2020 16:09:28_
+_23.05.2020 07:12:19_
