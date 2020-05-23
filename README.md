@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>48</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>111</sup> 
 [psydvl](users/393/39333502-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>190</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Joxxy](users/109/109128632962928278575-google)<sup>20</sup> 
 [Curious](users/232/2322112641431200-facebook)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>123</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>89</sup> 
 
 
-_23.05.2020 10:12:25_
+_23.05.2020 13:18:46_

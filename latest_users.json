@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 48,
+        "updatedAt": "2020-05-23 13:18:46"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 123,
         "updatedAt": "2020-05-13 12:34:33"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 89,
-        "updatedAt": "2020-05-12 16:47:10"
     }
 }
