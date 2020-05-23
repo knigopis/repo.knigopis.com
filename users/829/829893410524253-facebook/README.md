@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>110</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>111</sup>
 ---
 
 ## 2020
+
+### Дорога без возврата.
+Анджей Сапковский
+> [2020-05-22] 7/10 Сборник рассказов и критических статей. Разбор мифа об Артуре.
+
 
 ### Темна вежа 4 (продовження). Вітер крізь замкову шпарину.
 Стівен Кінг

@@ -1,4 +1,16 @@
 {
+    "YEl9i6pz2X": {
+        "id": "YEl9i6pz2X",
+        "title": "Дорога без возврата.",
+        "author": "Анджей Сапковский",
+        "notes": "7/10 Сборник рассказов и критических статей. Разбор мифа об Артуре.",
+        "createdAt": "2020-05-23 10:12:25",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 111
+        }
+    },
     "HbGedLErS_": {
         "id": "HbGedLErS_",
         "title": "Техподдержка. Мертвая зона",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 82
-        }
-    },
-    "XS36HHbNnC": {
-        "id": "XS36HHbNnC",
-        "title": "t",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2020-05-15 20:54:37",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 48
         }
     }
 }

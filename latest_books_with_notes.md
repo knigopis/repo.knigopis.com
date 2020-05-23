@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дорога без возврата. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>111</sup>
 * Техподдержка. Мертвая зона ~ [Chiffi](users/105/105831994080785626680-google)<sup>190</sup>
 * Спот-кадр ~ [En](users/333/333646551-vkontakte)<sup>106</sup>
 * Зов Ктулху ~ [En](users/333/333646551-vkontakte)<sup>105</sup>
@@ -30,7 +31,6 @@
 * Долина молчания ~ [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup>
 * Калибр имеет значение? ~ [Chiffi](users/105/105831994080785626680-google)<sup>189</sup>
 * Егоїстичний ген ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>106</sup>
-* Долгий джонт ~ [En](users/333/333646551-vkontakte)<sup>102</sup>
 
 
-_22.05.2020 16:09:28_
+_23.05.2020 10:12:25_
