@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Геном - автобиография вида в 23 главах ~ [Garka](users/115/115753719718250012620-google)<sup>252</sup>
 * Дорога без возврата. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>111</sup>
 * Техподдержка. Мертвая зона ~ [Chiffi](users/105/105831994080785626680-google)<sup>190</sup>
 * Спот-кадр ~ [En](users/333/333646551-vkontakte)<sup>106</sup>
@@ -30,7 +31,6 @@
 * Психология убеждения ~ [Fenix](users/111/111367585493471720963-google)<sup>4</sup>
 * Долина молчания ~ [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup>
 * Калибр имеет значение? ~ [Chiffi](users/105/105831994080785626680-google)<sup>189</sup>
-* Егоїстичний ген ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>106</sup>
 
 
-_23.05.2020 10:12:25_
+_23.05.2020 16:44:37_
