@@ -1,4 +1,10 @@
 {
+    "1790827924355710-facebook": {
+        "id": "1790827924355710-facebook",
+        "nickname": "Книгоман",
+        "booksCount": 0,
+        "updatedAt": "2020-05-24 16:55:05"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "AkatsukikKedze",
         "booksCount": 0,
         "updatedAt": "2020-05-15 08:15:00"
-    },
-    "107709186800804078154-google": {
-        "id": "107709186800804078154-google",
-        "nickname": "Proton15",
-        "booksCount": 0,
-        "updatedAt": "2020-05-15 00:44:59"
     }
 }
