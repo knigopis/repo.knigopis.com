@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 79,
+        "updatedAt": "2020-05-24 20:40:16"
+    },
     "1790827924355710-facebook": {
         "id": "1790827924355710-facebook",
         "nickname": "Книгоман",
@@ -112,12 +118,6 @@
         "nickname": "Evgeniya",
         "booksCount": 0,
         "updatedAt": "2020-05-18 14:12:15"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 78,
-        "updatedAt": "2020-05-17 19:43:51"
     },
     "17475979687188177329-mailru": {
         "id": "17475979687188177329-mailru",

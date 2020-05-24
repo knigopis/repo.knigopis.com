@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>78</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>79</sup>
 ---
 
 ## 2020
+
+### Безмолвный пациент
+Алекс Михаэлидес
+> [2020-05-24] 
+
 
 ### Девушка из каюты номер 10
 Рут Уэйр
