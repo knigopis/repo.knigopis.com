@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Книгоман](users/179/1790827924355710-facebook)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>107</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>112</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>803</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>140</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>29</sup> 
 [AkatsukikKedze](users/457/457642318-yandex)<sup>0</sup> 
-[Proton15](users/107/107709186800804078154-google)<sup>0</sup> 
 
 
-_24.05.2020 12:59:34_
+_24.05.2020 16:55:07_
