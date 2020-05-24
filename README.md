@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Клавка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>112</sup>
+    > 8/10 Секретарка спілки радянських письменників України шукає особистого щастя.
+
 * Геном - автобиография вида в 23 главах ~ [Garka](users/115/115753719718250012620-google)<sup>252</sup>
     > Простым (ну в основном простым) языком рассказывается о геноме человека, о всех 23х хромосомах. Книге 20 лет, конечное многое уже устарело, что-то опровергнуто, но тем не менее очень интересно и познавательно
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Сборник рассказов и критических статей. Разбор мифа об Артуре.
 
 * Техподдержка. Мертвая зона ~ [Chiffi](users/105/105831994080785626680-google)<sup>190</sup>
-    > Песчинка лежит на дне и скучает. ее море не колышет.  Многие путают дураков и идиотов Дурак туго соображает, но руководствуется в жизни элементарным здравым смыслом,  а идиот может быть почти гениален, но не дружить с логикой, и за что не возьмется, получится идиотизм.
 
 * Спот-кадр ~ [En](users/333/333646551-vkontakte)<sup>106</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Гильдия ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup>
 
-* Авантюра ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>112</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>803</sup> 
 [Окс](users/111/111440266788495776662-google)<sup>0</sup> 
 [](users/956/9563626166489439632-mailru)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>252</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>48</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>111</sup> 
 [psydvl](users/393/39333502-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>190</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>169</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Proton15](users/107/107709186800804078154-google)<sup>0</sup> 
 
 
-_24.05.2020 04:50:15_
+_24.05.2020 07:52:30_

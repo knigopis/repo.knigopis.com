@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>111</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>112</sup>
 ---
 
 ## 2020
+
+### Клавка
+Марина Гримич
+> [2020-05-23] 8/10 Секретарка спілки радянських письменників України шукає особистого щастя.
+
 
 ### Дорога без возврата.
 Анджей Сапковский

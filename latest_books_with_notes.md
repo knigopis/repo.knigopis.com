@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Клавка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>112</sup>
 * Геном - автобиография вида в 23 главах ~ [Garka](users/115/115753719718250012620-google)<sup>252</sup>
 * Дорога без возврата. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>111</sup>
 * Техподдержка. Мертвая зона ~ [Chiffi](users/105/105831994080785626680-google)<sup>190</sup>
@@ -30,7 +31,6 @@
 * 12 стульев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>107</sup>
 * Психология убеждения ~ [Fenix](users/111/111367585493471720963-google)<sup>4</sup>
 * Долина молчания ~ [elena-gagina2014](users/208/208969292-yandex)<sup>13</sup>
-* Калибр имеет значение? ~ [Chiffi](users/105/105831994080785626680-google)<sup>189</sup>
 
 
-_23.05.2020 16:44:37_
+_24.05.2020 07:52:30_
