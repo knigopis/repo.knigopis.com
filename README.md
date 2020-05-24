@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Окс](users/111/111440266788495776662-google)<sup>0</sup> 
 [](users/956/9563626166489439632-mailru)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>252</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>48</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dghtt](users/233/233860015-vkontakte)<sup>29</sup> 
 [AkatsukikKedze](users/457/457642318-yandex)<sup>0</sup> 
 [Proton15](users/107/107709186800804078154-google)<sup>0</sup> 
-[Joxxy](users/109/109128632962928278575-google)<sup>20</sup> 
 
 
-_24.05.2020 01:04:31_
+_24.05.2020 01:21:12_
