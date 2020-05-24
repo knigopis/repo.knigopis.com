@@ -1,4 +1,10 @@
 {
+    "9563626166489439632-mailru": {
+        "id": "9563626166489439632-mailru",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-05-24 01:04:26"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Joxxy",
         "booksCount": 20,
         "updatedAt": "2020-05-14 07:58:42"
-    },
-    "2322112641431200-facebook": {
-        "id": "2322112641431200-facebook",
-        "nickname": "Curious",
-        "booksCount": 1,
-        "updatedAt": "2020-05-13 12:35:54"
     }
 }
