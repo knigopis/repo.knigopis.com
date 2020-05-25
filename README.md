@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Joxxy](users/109/109128632962928278575-google)<sup>21</sup> 
+[Joxxy](users/109/109128632962928278575-google)<sup>22</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>45</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>21</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>79</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>140</sup> 
 
 
-_25.05.2020 14:26:17_
+_25.05.2020 14:30:09_

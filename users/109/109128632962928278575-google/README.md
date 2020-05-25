@@ -1,7 +1,11 @@
-# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>21</sup>
+# List of books read by [Joxxy](https://plus.google.com/u/0/109128632962928278575/)<sup>22</sup>
 ---
 
 ## 2020
+
+Супермэн: красный сын
+> [2020-05-20] 
+
 
 ### Detective Comics 1000
 > [2020-05-12] 
