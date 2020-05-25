@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>151</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>22</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>45</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>21</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>81</sup> 
 [youno](users/302/302928912-vkontakte)<sup>48</sup> 
-[](users/115/115826717712507836033-google)<sup>140</sup> 
 
 
-_25.05.2020 14:30:09_
+_25.05.2020 15:38:20_
