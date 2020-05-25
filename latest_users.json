@@ -1,4 +1,10 @@
 {
+    "2730725403881311-facebook": {
+        "id": "2730725403881311-facebook",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-05-25 18:03:25"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "Euphoria",
         "booksCount": 81,
         "updatedAt": "2020-05-16 06:40:11"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 48,
-        "updatedAt": "2020-05-15 20:54:37"
     }
 }
