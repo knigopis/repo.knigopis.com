@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[l.shilova](users/101/10123344-vkontakte)<sup>21</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>79</sup> 
 [Книгоман](users/179/1790827924355710-facebook)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>107</sup> 
@@ -60,10 +61,9 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>81</sup> 
 [youno](users/302/302928912-vkontakte)<sup>48</sup> 
-[l.shilova](users/101/10123344-vkontakte)<sup>20</sup> 
 [](users/115/115826717712507836033-google)<sup>140</sup> 
 [dghtt](users/233/233860015-vkontakte)<sup>29</sup> 
 [AkatsukikKedze](users/457/457642318-yandex)<sup>0</sup> 
 
 
-_24.05.2020 20:40:16_
+_25.05.2020 08:11:49_
