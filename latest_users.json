@@ -1,4 +1,10 @@
 {
+    "110561039693397831976-google": {
+        "id": "110561039693397831976-google",
+        "nickname": "Artemis Ekiltu",
+        "booksCount": 0,
+        "updatedAt": "2020-05-25 20:55:41"
+    },
     "2730725403881311-facebook": {
         "id": "2730725403881311-facebook",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "stamovashahzada",
         "booksCount": 64,
         "updatedAt": "2020-05-16 08:14:54"
-    },
-    "106304994652616315178-google": {
-        "id": "106304994652616315178-google",
-        "nickname": "Euphoria",
-        "booksCount": 81,
-        "updatedAt": "2020-05-16 06:40:11"
     }
 }
