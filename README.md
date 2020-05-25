@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Artemis Ekiltu](users/110/110561039693397831976-google)<sup>0</sup> 
 [](users/273/2730725403881311-facebook)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>151</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>22</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ralexay](users/110/110749825769904005147-google)<sup>0</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>83</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>81</sup> 
 
 
-_25.05.2020 18:03:28_
+_25.05.2020 20:55:44_
