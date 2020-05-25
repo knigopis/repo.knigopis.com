@@ -1,4 +1,16 @@
 {
+    "iGURd74Grp": {
+        "id": "iGURd74Grp",
+        "title": "Походы и кони",
+        "author": "С.Мамонтов",
+        "notes": "Описание битвы в Егорлыцкой с другой стороны.",
+        "createdAt": "2020-05-25 09:42:01",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 45
+        }
+    },
     "eE5E87f-uk": {
         "id": "eE5E87f-uk",
         "title": "Так берегись",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 107
-        }
-    },
-    "TkiDHUbD5D": {
-        "id": "TkiDHUbD5D",
-        "title": "Психология убеждения",
-        "author": "Роберт Чалдин",
-        "notes": "Хорошая книга, рассказывается ч основном маркетинг и влияние на покупателей либо влияние внутри корпоративной субкультуры",
-        "createdAt": "2020-05-04 09:56:08",
-        "user": {
-            "id": "111367585493471720963-google",
-            "nickname": "Fenix",
-            "booksCount": 4
         }
     }
 }

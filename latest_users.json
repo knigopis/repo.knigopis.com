@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 45,
+        "updatedAt": "2020-05-25 09:42:01"
+    },
     "10123344-vkontakte": {
         "id": "10123344-vkontakte",
         "nickname": "l.shilova",
@@ -172,11 +178,5 @@
         "nickname": "dghtt",
         "booksCount": 29,
         "updatedAt": "2020-05-15 13:54:17"
-    },
-    "457642318-yandex": {
-        "id": "457642318-yandex",
-        "nickname": "AkatsukikKedze",
-        "booksCount": 0,
-        "updatedAt": "2020-05-15 08:15:00"
     }
 }

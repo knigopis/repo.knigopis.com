@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Походы и кони ~ [mfevralev](users/140/140966150-vkontakte)<sup>45</sup>
 * Так берегись ~ [En](users/333/333646551-vkontakte)<sup>107</sup>
 * Клавка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>112</sup>
 * Геном - автобиография вида в 23 главах ~ [Garka](users/115/115753719718250012620-google)<sup>252</sup>
@@ -30,7 +31,6 @@
 * Золотой храм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup>
 * Исповедь маски ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>233</sup>
 * 12 стульев ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>107</sup>
-* Психология убеждения ~ [Fenix](users/111/111367585493471720963-google)<sup>4</sup>
 
 
-_24.05.2020 12:59:34_
+_25.05.2020 09:42:01_

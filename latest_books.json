@@ -1,4 +1,16 @@
 {
+    "iGURd74Grp": {
+        "id": "iGURd74Grp",
+        "title": "Походы и кони",
+        "author": "С.Мамонтов",
+        "notes": "Описание битвы в Егорлыцкой с другой стороны.",
+        "createdAt": "2020-05-25 09:42:01",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 45
+        }
+    },
     "sheR-fXuxP": {
         "id": "sheR-fXuxP",
         "title": "Волкодав",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 83
-        }
-    },
-    "B9kh7cU59q": {
-        "id": "B9kh7cU59q",
-        "title": "Артемис Фаул. Последний хранитель",
-        "author": "Оуэн Колфер",
-        "notes": "",
-        "createdAt": "2020-05-16 14:32:09",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 801
         }
     }
 }
