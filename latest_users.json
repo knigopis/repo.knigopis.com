@@ -1,4 +1,10 @@
 {
+    "109128632962928278575-google": {
+        "id": "109128632962928278575-google",
+        "nickname": "Joxxy",
+        "booksCount": 21,
+        "updatedAt": "2020-05-25 14:26:17"
+    },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
         "nickname": "mfevralev",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 140,
         "updatedAt": "2020-05-15 16:14:41"
-    },
-    "233860015-vkontakte": {
-        "id": "233860015-vkontakte",
-        "nickname": "dghtt",
-        "booksCount": 29,
-        "updatedAt": "2020-05-15 13:54:17"
     }
 }

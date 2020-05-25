@@ -1,4 +1,16 @@
 {
+    "DE-KY9aFq6": {
+        "id": "DE-KY9aFq6",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-05-25 14:26:17",
+        "user": {
+            "id": "109128632962928278575-google",
+            "nickname": "Joxxy",
+            "booksCount": 21
+        }
+    },
     "iGURd74Grp": {
         "id": "iGURd74Grp",
         "title": "Походы и кони",
@@ -345,18 +357,6 @@
             "id": "17475979687188177329-mailru",
             "nickname": "Человеколось",
             "booksCount": 70
-        }
-    },
-    "ygvrOduex2": {
-        "id": "ygvrOduex2",
-        "title": "Канун всех святых",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2020-05-16 16:37:14",
-        "user": {
-            "id": "139338401-vkontakte",
-            "nickname": "sab_olya",
-            "booksCount": 83
         }
     }
 }
