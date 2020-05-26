@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мария - королева интриг ~ [Chiffi](users/105/105831994080785626680-google)<sup>191</sup>
+    > Франция, мушкетеры, Бекингем и Анна Австрийская ,изысканные французы и их прекрасные дамы.
+
 * Походы и кони ~ [mfevralev](users/140/140966150-vkontakte)<sup>45</sup>
     > Описание битвы в Егорлыцкой с другой стороны.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Ещё эта книга о границе между силой и слабостью; где она пролегает, не знает никто. О победе, оборачивающейся поражением, и о поражении, которое может обернуться победой, а может не обернуться, это уж как повезет. И о том, что продолжение, в любом случае, следует. Несмотря ни на что.
 
 * Клавка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>112</sup>
-    > 8/10 Секретарка спілки радянських письменників України шукає особистого щастя.
 
 * Геном - автобиография вида в 23 главах ~ [Garka](users/115/115753719718250012620-google)<sup>252</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Темна вежа 4 (продовження). Вітер крізь замкову шпарину. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup>
 
-* Рассуждение о методе, чтобы верно направлять свой разум и отыскивать истину в науках ~ [Rainbow](users/109/109787328219839805802-google)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>191</sup> 
 [Artemis Ekiltu](users/110/110561039693397831976-google)<sup>0</sup> 
 [](users/273/2730725403881311-facebook)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>151</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>252</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>48</sup> 
 [psydvl](users/393/39333502-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>190</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>169</sup> 
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>1</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>36</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup> 
 
 
-_25.05.2020 20:55:44_
+_26.05.2020 04:44:03_
