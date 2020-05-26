@@ -1,4 +1,16 @@
 {
+    "L9KuSo8n9O": {
+        "id": "L9KuSo8n9O",
+        "title": "45 татуировок менеджера",
+        "author": "Максим Батырев",
+        "notes": "",
+        "createdAt": "2020-05-26 06:56:49",
+        "user": {
+            "id": "117277044284589498872-google",
+            "nickname": "Яков",
+            "booksCount": 17
+        }
+    },
     "TohNrnKBvz": {
         "id": "TohNrnKBvz",
         "title": "Богатый папа, бедный папа",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 42
-        }
-    },
-    "QUo2gXOuTo": {
-        "id": "QUo2gXOuTo",
-        "title": "Темна вежа 4. Чаклун та кристал.",
-        "author": "Стівен Кінг",
-        "notes": "10/10 Історія Сюзани Дельґадо та міста Лад.",
-        "createdAt": "2020-05-19 10:11:23",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 109
         }
     }
 }
