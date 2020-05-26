@@ -1,4 +1,16 @@
 {
+    "5oCXjsyXdE": {
+        "id": "5oCXjsyXdE",
+        "title": "Братство",
+        "author": "Джон Голсуорси",
+        "notes": "",
+        "createdAt": "2020-05-26 12:40:02",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 804
+        }
+    },
     "btHWAKEZGm": {
         "id": "btHWAKEZGm",
         "title": "Богатый папа, бедный папа",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 53
-        }
-    },
-    "NZW38lJ7Tq": {
-        "id": "NZW38lJ7Tq",
-        "title": "Хроники убийцы короля. День второй. Страхи мудреца. Часть I",
-        "author": "Патрик Ротфус",
-        "notes": "",
-        "createdAt": "2020-05-19 17:16:35",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 42
         }
     }
 }

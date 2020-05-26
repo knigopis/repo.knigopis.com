@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>804</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>18</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>191</sup> 
 [Artemis Ekiltu](users/110/110561039693397831976-google)<sup>0</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Книгоман](users/179/1790827924355710-facebook)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>107</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>112</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>803</sup> 
 [Окс](users/111/111440266788495776662-google)<sup>0</sup> 
 [](users/956/9563626166489439632-mailru)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>252</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>83</sup> 
 
 
-_26.05.2020 06:57:34_
+_26.05.2020 12:40:03_
