@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Яков](users/117/117277044284589498872-google)<sup>15</sup> 
+[Яков](users/117/117277044284589498872-google)<sup>16</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>191</sup> 
 [Artemis Ekiltu](users/110/110561039693397831976-google)<sup>0</sup> 
 [](users/273/2730725403881311-facebook)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>83</sup> 
 
 
-_26.05.2020 06:51:25_
+_26.05.2020 06:52:48_
