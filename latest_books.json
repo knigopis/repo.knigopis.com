@@ -1,4 +1,16 @@
 {
+    "WbCGrr0Sy6": {
+        "id": "WbCGrr0Sy6",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2020-05-26 06:51:25",
+        "user": {
+            "id": "117277044284589498872-google",
+            "nickname": "Яков",
+            "booksCount": 15
+        }
+    },
     "52qVt8GIyJ": {
         "id": "52qVt8GIyJ",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 104
-        }
-    },
-    "P_LFQAMMtn": {
-        "id": "P_LFQAMMtn",
-        "title": "Счастлива без рук",
-        "author": "Маргарита Грачева",
-        "notes": "",
-        "createdAt": "2020-05-18 17:19:08",
-        "user": {
-            "id": "1537586159620888-facebook",
-            "nickname": null,
-            "booksCount": 18
         }
     }
 }
