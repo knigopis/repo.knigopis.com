@@ -1,4 +1,10 @@
 {
+    "117277044284589498872-google": {
+        "id": "117277044284589498872-google",
+        "nickname": "Яков",
+        "booksCount": 14,
+        "updatedAt": "2020-05-26 06:47:47"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "sab_olya",
         "booksCount": 83,
         "updatedAt": "2020-05-16 16:37:14"
-    },
-    "310646815-vkontakte": {
-        "id": "310646815-vkontakte",
-        "nickname": "stamovashahzada",
-        "booksCount": 64,
-        "updatedAt": "2020-05-16 08:14:54"
     }
 }
