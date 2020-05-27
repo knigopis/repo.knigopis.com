@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>44</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>804</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>191</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>36</sup> 
 [Encky](users/112/112840961362766819849-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>167</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>43</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>53</sup> 
 [](users/153/1537586159620888-facebook)<sup>18</sup> 
 [Evgeniya](users/764/764921170332844-facebook)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>83</sup> 
 
 
-_27.05.2020 10:34:13_
+_27.05.2020 11:27:22_
