@@ -1,4 +1,10 @@
 {
+    "107378796665154363606-google": {
+        "id": "107378796665154363606-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-05-27 17:05:31"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -172,11 +178,5 @@
         "nickname": "Человеколось",
         "booksCount": 70,
         "updatedAt": "2020-05-17 10:47:35"
-    },
-    "110749825769904005147-google": {
-        "id": "110749825769904005147-google",
-        "nickname": "ralexay",
-        "booksCount": 0,
-        "updatedAt": "2020-05-16 17:15:52"
     }
 }
