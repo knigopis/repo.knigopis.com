@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Последняя любовь в Константинополе ~ [anvonamore](users/595/5957175-vkontakte)<sup>140</sup>
+    > 8/10
+
 * Мария - королева интриг ~ [Chiffi](users/105/105831994080785626680-google)<sup>191</sup>
     > Франция, мушкетеры, Бекингем и Анна Австрийская ,изысканные французы и их прекрасные дамы.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Описание битвы в Егорлыцкой с другой стороны.
 
 * Так берегись ~ [En](users/333/333646551-vkontakte)<sup>107</sup>
-    > Эта книга не о любви, хотя читателю так, скорее всего, покажется. И не о смерти, хотя читателю, несомненно, покажется так. Скорее уж о ненависти и жизни, такой перевертыш гораздо точней.
-    > Ещё эта книга о границе между силой и слабостью; где она пролегает, не знает никто. О победе, оборачивающейся поражением, и о поражении, которое может обернуться победой, а может не обернуться, это уж как повезет. И о том, что продолжение, в любом случае, следует. Несмотря ни на что.
 
 * Клавка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>112</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Зов Ктулху ~ [En](users/333/333646551-vkontakte)<sup>105</sup>
 
-* Темна вежа 4 (продовження). Вітер крізь замкову шпарину. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>140</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>44</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>804</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Evgeniya](users/764/764921170332844-facebook)<sup>0</sup> 
 [Человеколось](users/174/17475979687188177329-mailru)<sup>70</sup> 
 [ralexay](users/110/110749825769904005147-google)<sup>0</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>83</sup> 
 
 
-_27.05.2020 11:27:22_
+_27.05.2020 14:01:30_

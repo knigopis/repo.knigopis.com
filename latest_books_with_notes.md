@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Последняя любовь в Константинополе ~ [anvonamore](users/595/5957175-vkontakte)<sup>140</sup>
 * Мария - королева интриг ~ [Chiffi](users/105/105831994080785626680-google)<sup>191</sup>
 * Походы и кони ~ [mfevralev](users/140/140966150-vkontakte)<sup>45</sup>
 * Так берегись ~ [En](users/333/333646551-vkontakte)<sup>107</sup>
@@ -30,7 +31,6 @@
 * Чужак ~ [dmiro](users/571/5714115-vkontakte)<sup>25</sup>
 * Океан в конце дороги ~ [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup>
 * Золотой храм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup>
-* Исповедь маски ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>233</sup>
 
 
-_26.05.2020 04:44:03_
+_27.05.2020 14:01:30_
