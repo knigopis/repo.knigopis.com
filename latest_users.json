@@ -1,4 +1,10 @@
 {
+    "116288722371780885375-google": {
+        "id": "116288722371780885375-google",
+        "nickname": "Botitor",
+        "booksCount": 0,
+        "updatedAt": "2020-05-28 07:09:46"
+    },
     "107378796665154363606-google": {
         "id": "107378796665154363606-google",
         "nickname": "Maxfozzy",
@@ -172,11 +178,5 @@
         "nickname": "Evgeniya",
         "booksCount": 0,
         "updatedAt": "2020-05-18 14:12:15"
-    },
-    "17475979687188177329-mailru": {
-        "id": "17475979687188177329-mailru",
-        "nickname": "Человеколось",
-        "booksCount": 70,
-        "updatedAt": "2020-05-17 10:47:35"
     }
 }
