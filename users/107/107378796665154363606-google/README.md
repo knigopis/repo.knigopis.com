@@ -1,4 +1,4 @@
-# List of books read by [Maxfozzy](https://plus.google.com/u/0/107378796665154363606/)<sup>7</sup>
+# List of books read by [Maxfozzy](https://plus.google.com/u/0/107378796665154363606/)<sup>8</sup>
 ---
 
 ## 2020
@@ -31,6 +31,10 @@
 ### Портрет Дориана Грея
 Оскар Уальд
 > [2019-10-01] 
+
+
+### Анна Каренина
+Лев Толстой
 
 
 
