@@ -1,4 +1,16 @@
 {
+    "ItJvwueBNK": {
+        "id": "ItJvwueBNK",
+        "title": "Гордость и предубеждение",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2020-05-28 10:27:13",
+        "user": {
+            "id": "107378796665154363606-google",
+            "nickname": "Maxfozzy",
+            "booksCount": 11
+        }
+    },
     "lI9H1adGzk": {
         "id": "lI9H1adGzk",
         "title": "Грозовой перевал",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 48
-        }
-    },
-    "YEl9i6pz2X": {
-        "id": "YEl9i6pz2X",
-        "title": "Дорога без возврата.",
-        "author": "Анджей Сапковский",
-        "notes": "7/10 Сборник рассказов и критических статей. Разбор мифа об Артуре.",
-        "createdAt": "2020-05-23 10:12:25",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 111
         }
     }
 }
