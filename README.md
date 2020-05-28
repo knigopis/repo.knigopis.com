@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>45</sup> 
 [Maxfozzy](users/107/107378796665154363606-google)<sup>12</sup> 
 [Botitor](users/116/116288722371780885375-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>140</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>44</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>804</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>191</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evgeniya](users/764/764921170332844-facebook)<sup>0</sup> 
 
 
-_28.05.2020 10:28:00_
+_28.05.2020 18:39:41_
