@@ -1,4 +1,16 @@
 {
+    "XsBSCb8Mdy": {
+        "id": "XsBSCb8Mdy",
+        "title": "Джейн Эйр",
+        "author": "Шарлотта Бронте",
+        "notes": "",
+        "createdAt": "2020-05-28 10:25:57",
+        "user": {
+            "id": "107378796665154363606-google",
+            "nickname": "Maxfozzy",
+            "booksCount": 9
+        }
+    },
     "_efvbevSQ2": {
         "id": "_efvbevSQ2",
         "title": "Анна Каренина",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 190
-        }
-    },
-    "metLanxwMx": {
-        "id": "metLanxwMx",
-        "title": "Город Праха",
-        "author": "Кассандра Клэр",
-        "notes": "",
-        "createdAt": "2020-05-22 15:53:26",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 169
         }
     }
 }
