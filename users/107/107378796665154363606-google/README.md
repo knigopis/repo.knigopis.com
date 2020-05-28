@@ -1,4 +1,4 @@
-# List of books read by [Maxfozzy](https://plus.google.com/u/0/107378796665154363606/)<sup>6</sup>
+# List of books read by [Maxfozzy](https://plus.google.com/u/0/107378796665154363606/)<sup>7</sup>
 ---
 
 ## 2020
@@ -26,6 +26,11 @@
 ### О дивный новый мир
 Олдос Хаксли
 > [2019-11-03] 
+
+
+### Портрет Дориана Грея
+Оскар Уальд
+> [2019-10-01] 
 
 
 
