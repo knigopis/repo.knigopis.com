@@ -1,4 +1,16 @@
 {
+    "b-iJFGNuoj": {
+        "id": "b-iJFGNuoj",
+        "title": "Унесённые ветром",
+        "author": "Маргарет Митчелл",
+        "notes": "",
+        "createdAt": "2020-05-28 10:28:00",
+        "user": {
+            "id": "107378796665154363606-google",
+            "nickname": "Maxfozzy",
+            "booksCount": 12
+        }
+    },
     "ItJvwueBNK": {
         "id": "ItJvwueBNK",
         "title": "Гордость и предубеждение",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 252
-        }
-    },
-    "Hlj2wm6AoK": {
-        "id": "Hlj2wm6AoK",
-        "title": "Космические бароны",
-        "author": "Кристиан Дэвенпорт",
-        "notes": "",
-        "createdAt": "2020-05-23 13:18:46",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 48
         }
     }
 }
