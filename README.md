@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>104</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>100</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>114</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>45</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Encky](users/112/112840961362766819849-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>167</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>53</sup> 
-[](users/153/1537586159620888-facebook)<sup>18</sup> 
 
 
-_29.05.2020 05:46:05_
+_29.05.2020 14:23:11_

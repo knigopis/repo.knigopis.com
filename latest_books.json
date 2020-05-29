@@ -1,4 +1,16 @@
 {
+    "n_lufwip-6": {
+        "id": "n_lufwip-6",
+        "title": "Враг Божий",
+        "author": "Бернард Корнуэлл",
+        "notes": "",
+        "createdAt": "2020-05-29 14:23:11",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 104
+        }
+    },
     "Ps9gT6I4ve": {
         "id": "Ps9gT6I4ve",
         "title": "Американская трагедия",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 79
-        }
-    },
-    "8Dzi3doSuR": {
-        "id": "8Dzi3doSuR",
-        "title": "Дьюма Ки",
-        "author": "Кинг Стивен",
-        "notes": "",
-        "createdAt": "2020-05-24 16:57:12",
-        "user": {
-            "id": "1790827924355710-facebook",
-            "nickname": "Книгоман",
-            "booksCount": 1
         }
     }
 }

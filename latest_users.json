@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 104,
+        "updatedAt": "2020-05-29 14:23:11"
+    },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
         "nickname": "katrinvredina",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 53,
         "updatedAt": "2020-05-19 22:53:20"
-    },
-    "1537586159620888-facebook": {
-        "id": "1537586159620888-facebook",
-        "nickname": null,
-        "booksCount": 18,
-        "updatedAt": "2020-05-18 17:19:08"
     }
 }
