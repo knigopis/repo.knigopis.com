@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>100</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>114</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>45</sup> 
 [Maxfozzy](users/107/107378796665154363606-google)<sup>12</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>167</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>53</sup> 
 [](users/153/1537586159620888-facebook)<sup>18</sup> 
-[Evgeniya](users/764/764921170332844-facebook)<sup>0</sup> 
 
 
-_29.05.2020 05:32:21_
+_29.05.2020 05:46:05_
