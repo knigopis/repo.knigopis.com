@@ -1,4 +1,10 @@
 {
+    "117392596378069249667-google": {
+        "id": "117392596378069249667-google",
+        "nickname": "4apa",
+        "booksCount": 49,
+        "updatedAt": "2020-05-29 21:51:45"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -130,12 +136,6 @@
         "nickname": "Garka",
         "booksCount": 252,
         "updatedAt": "2020-05-23 16:44:37"
-    },
-    "117392596378069249667-google": {
-        "id": "117392596378069249667-google",
-        "nickname": "4apa",
-        "booksCount": 48,
-        "updatedAt": "2020-05-23 13:18:46"
     },
     "39333502-vkontakte": {
         "id": "39333502-vkontakte",
