@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Выбор. Мировое господство или глобальная доминация. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>114</sup>
+    > 6/10 Безопасночть Америки после 11.09, борьба с терроризмом.
+
 * Темна вежа 5. Вовки Кальї ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>113</sup>
     > 10/10 Оборона міста Кальї від набігів вовків, які забирають одного із близнят.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10
 
 * Мария - королева интриг ~ [Chiffi](users/105/105831994080785626680-google)<sup>191</sup>
-    > Франция, мушкетеры, Бекингем и Анна Австрийская ,изысканные французы и их прекрасные дамы.
 
 * Походы и кони ~ [mfevralev](users/140/140966150-vkontakte)<sup>45</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Техподдержка. Мертвая зона ~ [Chiffi](users/105/105831994080785626680-google)<sup>190</sup>
 
-* Спот-кадр ~ [En](users/333/333646551-vkontakte)<sup>106</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>113</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>114</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>45</sup> 
 [Maxfozzy](users/107/107378796665154363606-google)<sup>12</sup> 
 [Botitor](users/116/116288722371780885375-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evgeniya](users/764/764921170332844-facebook)<sup>0</sup> 
 
 
-_29.05.2020 05:27:17_
+_29.05.2020 05:32:21_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>113</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>114</sup>
 ---
 
 ## 2020
+
+### Выбор. Мировое господство или глобальная доминация.
+Збигнев Бжезинский
+> [2020-05-29] 6/10 Безопасночть Америки после 11.09, борьба с терроризмом.
+
 
 ### Темна вежа 5. Вовки Кальї
 Стівен Кінг

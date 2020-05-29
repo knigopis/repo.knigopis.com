@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Выбор. Мировое господство или глобальная доминация. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>114</sup>
 * Темна вежа 5. Вовки Кальї ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>113</sup>
 * Последняя любовь в Константинополе ~ [anvonamore](users/595/5957175-vkontakte)<sup>140</sup>
 * Мария - королева интриг ~ [Chiffi](users/105/105831994080785626680-google)<sup>191</sup>
@@ -30,7 +31,6 @@
 * Гарри Поттер и Принц-полукровка ~ [anvonamore](users/595/5957175-vkontakte)<sup>139</sup>
 * Цветы для Элджернона ~ [Euphoria](users/106/106304994652616315178-google)<sup>80</sup>
 * Чужак ~ [dmiro](users/571/5714115-vkontakte)<sup>25</sup>
-* Океан в конце дороги ~ [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup>
 
 
-_29.05.2020 05:27:17_
+_29.05.2020 05:32:21_
