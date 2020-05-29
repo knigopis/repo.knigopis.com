@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>112</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>113</sup>
 ---
 
 ## 2020
+
+### Темна вежа 5. Вовки Кальї
+Стівен Кінг
+> [2020-05-27] 10/10 Оборона міста Кальї від набігів вовків, які забирають одного із близнят.
+
 
 ### Клавка
 Марина Гримич

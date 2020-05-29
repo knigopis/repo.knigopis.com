@@ -1,4 +1,16 @@
 {
+    "8gO3_5touL": {
+        "id": "8gO3_5touL",
+        "title": "Темна вежа 5. Вовки Кальї",
+        "author": "Стівен Кінг",
+        "notes": "10/10 Оборона міста Кальї від набігів вовків, які забирають одного із близнят.",
+        "createdAt": "2020-05-29 05:27:17",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 113
+        }
+    },
     "6qlB13g7Br": {
         "id": "6qlB13g7Br",
         "title": "Последняя любовь в Константинополе",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 116
-        }
-    },
-    "4eA7laX3iW": {
-        "id": "4eA7laX3iW",
-        "title": "Золотой храм",
-        "author": "Юкио Мисима",
-        "notes": "в процессе",
-        "createdAt": "2020-05-05 17:48:15",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 234
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Темна вежа 5. Вовки Кальї ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>113</sup>
+    > 10/10 Оборона міста Кальї від набігів вовків, які забирають одного із близнят.
+
 * Последняя любовь в Константинополе ~ [anvonamore](users/595/5957175-vkontakte)<sup>140</sup>
     > 8/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Франция, мушкетеры, Бекингем и Анна Австрийская ,изысканные французы и их прекрасные дамы.
 
 * Походы и кони ~ [mfevralev](users/140/140966150-vkontakte)<sup>45</sup>
-    > Описание битвы в Егорлыцкой с другой стороны.
 
 * Так берегись ~ [En](users/333/333646551-vkontakte)<sup>107</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Спот-кадр ~ [En](users/333/333646551-vkontakte)<sup>106</sup>
 
-* Зов Ктулху ~ [En](users/333/333646551-vkontakte)<sup>105</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>113</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>45</sup> 
 [Maxfozzy](users/107/107378796665154363606-google)<sup>12</sup> 
 [Botitor](users/116/116288722371780885375-google)<sup>1</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Таньчик](users/209/2096581563762610-facebook)<sup>79</sup> 
 [Книгоман](users/179/1790827924355710-facebook)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>107</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>112</sup> 
 [Окс](users/111/111440266788495776662-google)<sup>0</sup> 
 [](users/956/9563626166489439632-mailru)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>252</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evgeniya](users/764/764921170332844-facebook)<sup>0</sup> 
 
 
-_28.05.2020 18:39:41_
+_29.05.2020 05:27:17_

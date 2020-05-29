@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Темна вежа 5. Вовки Кальї ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>113</sup>
 * Последняя любовь в Константинополе ~ [anvonamore](users/595/5957175-vkontakte)<sup>140</sup>
 * Мария - королева интриг ~ [Chiffi](users/105/105831994080785626680-google)<sup>191</sup>
 * Походы и кони ~ [mfevralev](users/140/140966150-vkontakte)<sup>45</sup>
@@ -30,7 +31,6 @@
 * Цветы для Элджернона ~ [Euphoria](users/106/106304994652616315178-google)<sup>80</sup>
 * Чужак ~ [dmiro](users/571/5714115-vkontakte)<sup>25</sup>
 * Океан в конце дороги ~ [Apprentice ](users/528/52821952-vkontakte)<sup>116</sup>
-* Золотой храм ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>234</sup>
 
 
-_27.05.2020 14:01:30_
+_29.05.2020 05:27:17_
