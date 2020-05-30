@@ -1,4 +1,16 @@
 {
+    "YsOZ2eAKT0": {
+        "id": "YsOZ2eAKT0",
+        "title": "Нью-йорк 2140",
+        "author": "Ким Стэнли Робинсон",
+        "notes": "",
+        "createdAt": "2020-05-30 07:13:36",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 383
+        }
+    },
     "xGBrJycS4x": {
         "id": "xGBrJycS4x",
         "title": "Искатели",
@@ -345,18 +357,6 @@
             "id": "109128632962928278575-google",
             "nickname": "Joxxy",
             "booksCount": 22
-        }
-    },
-    "iGURd74Grp": {
-        "id": "iGURd74Grp",
-        "title": "Походы и кони",
-        "author": "С.Мамонтов",
-        "notes": "Описание битвы в Егорлыцкой с другой стороны.",
-        "createdAt": "2020-05-25 09:42:01",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 45
         }
     }
 }
