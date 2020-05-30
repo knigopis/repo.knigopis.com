@@ -1,4 +1,16 @@
 {
+    "MlxXIYiO0f": {
+        "id": "MlxXIYiO0f",
+        "title": "Восход Черной звезды",
+        "author": "Елена Звездная",
+        "notes": "",
+        "createdAt": "2020-05-30 19:52:23",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 310
+        }
+    },
     "D-RH6g-c6X": {
         "id": "D-RH6g-c6X",
         "title": "Дочь двух миров возвращение",
@@ -345,18 +357,6 @@
             "id": "117277044284589498872-google",
             "nickname": "Яков",
             "booksCount": 19
-        }
-    },
-    "5oCXjsyXdE": {
-        "id": "5oCXjsyXdE",
-        "title": "Братство",
-        "author": "Джон Голсуорси",
-        "notes": "",
-        "createdAt": "2020-05-26 12:40:02",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 804
         }
     }
 }
