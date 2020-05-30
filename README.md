@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fond.uglei](users/108/108648895381755785207-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>152</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>386</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>49</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>1</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>36</sup> 
 [Encky](users/112/112840961362766819849-google)<sup>1</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>167</sup> 
 
 
-_30.05.2020 09:00:38_
+_30.05.2020 10:05:12_
