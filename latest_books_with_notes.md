@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Каханне падчас халеры ~ [HXT](users/100/100002563462782-facebook)<sup>386</sup>
 * Выбор. Мировое господство или глобальная доминация. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>114</sup>
 * Темна вежа 5. Вовки Кальї ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>113</sup>
 * Последняя любовь в Константинополе ~ [anvonamore](users/595/5957175-vkontakte)<sup>140</sup>
@@ -30,7 +31,6 @@
 * Старик и море (и другие рассказы) ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
 * Гарри Поттер и Принц-полукровка ~ [anvonamore](users/595/5957175-vkontakte)<sup>139</sup>
 * Цветы для Элджернона ~ [Euphoria](users/106/106304994652616315178-google)<sup>80</sup>
-* Чужак ~ [dmiro](users/571/5714115-vkontakte)<sup>25</sup>
 
 
-_29.05.2020 05:32:21_
+_30.05.2020 07:16:37_

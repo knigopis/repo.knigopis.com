@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Каханне падчас халеры ~ [HXT](users/100/100002563462782-facebook)<sup>386</sup>
+    > Па-беларуску
+
 * Выбор. Мировое господство или глобальная доминация. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>114</sup>
     > 6/10 Безопасночть Америки после 11.09, борьба с терроризмом.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 Оборона міста Кальї від набігів вовків, які забирають одного із близнят.
 
 * Последняя любовь в Константинополе ~ [anvonamore](users/595/5957175-vkontakte)<sup>140</sup>
-    > 8/10
 
 * Мария - королева интриг ~ [Chiffi](users/105/105831994080785626680-google)<sup>191</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дорога без возврата. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>111</sup>
 
-* Техподдержка. Мертвая зона ~ [Chiffi](users/105/105831994080785626680-google)<sup>190</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[HXT](users/100/100002563462782-facebook)<sup>385</sup> 
+[HXT](users/100/100002563462782-facebook)<sup>386</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>49</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>80</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>167</sup> 
 
 
-_30.05.2020 07:15:39_
+_30.05.2020 07:16:37_
