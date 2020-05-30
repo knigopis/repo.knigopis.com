@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Joxxy](users/109/109128632962928278575-google)<sup>23</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>310</sup> 
 [fond.uglei](users/108/108648895381755785207-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>152</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>191</sup> 
 [Artemis Ekiltu](users/110/110561039693397831976-google)<sup>0</sup> 
 [](users/273/2730725403881311-facebook)<sup>0</sup> 
-[Joxxy](users/109/109128632962928278575-google)<sup>22</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>45</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>21</sup> 
 [Книгоман](users/179/1790827924355710-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>36</sup> 
 
 
-_30.05.2020 19:52:24_
+_30.05.2020 22:16:18_

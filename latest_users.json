@@ -1,4 +1,10 @@
 {
+    "109128632962928278575-google": {
+        "id": "109128632962928278575-google",
+        "nickname": "Joxxy",
+        "booksCount": 23,
+        "updatedAt": "2020-05-30 22:16:18"
+    },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
         "nickname": "Лела Папава",
@@ -106,12 +112,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-05-25 18:03:25"
-    },
-    "109128632962928278575-google": {
-        "id": "109128632962928278575-google",
-        "nickname": "Joxxy",
-        "booksCount": 22,
-        "updatedAt": "2020-05-25 14:30:09"
     },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
