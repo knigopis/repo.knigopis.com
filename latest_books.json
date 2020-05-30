@@ -1,4 +1,16 @@
 {
+    "D-RH6g-c6X": {
+        "id": "D-RH6g-c6X",
+        "title": "Дочь двух миров возвращение",
+        "author": "Вера Чиркова",
+        "notes": "",
+        "createdAt": "2020-05-30 19:44:36",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 309
+        }
+    },
     "meJ2jnGZJx": {
         "id": "meJ2jnGZJx",
         "title": "Дочь двух миров",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 804
-        }
-    },
-    "btHWAKEZGm": {
-        "id": "btHWAKEZGm",
-        "title": "Богатый папа, бедный папа",
-        "author": "Роберт Кийосаки",
-        "notes": "",
-        "createdAt": "2020-05-26 06:57:33",
-        "user": {
-            "id": "117277044284589498872-google",
-            "nickname": "Яков",
-            "booksCount": 18
         }
     }
 }
