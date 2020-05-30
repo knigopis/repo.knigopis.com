@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[afferens.lucem](users/196/196071655-vkontakte)<sup>153</sup> 
+[afferens.lucem](users/196/196071655-vkontakte)<sup>152</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>386</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>49</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>80</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>167</sup> 
 
 
-_30.05.2020 09:00:23_
+_30.05.2020 09:00:38_
