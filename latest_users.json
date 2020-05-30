@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Лела Папава",
+        "booksCount": 308,
+        "updatedAt": "2020-05-30 19:43:29"
+    },
     "108648895381755785207-google": {
         "id": "108648895381755785207-google",
         "nickname": "fond.uglei",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 36,
         "updatedAt": "2020-05-21 01:33:44"
-    },
-    "112840961362766819849-google": {
-        "id": "112840961362766819849-google",
-        "nickname": "Encky",
-        "booksCount": 1,
-        "updatedAt": "2020-05-20 23:20:25"
     }
 }

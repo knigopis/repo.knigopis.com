@@ -1,4 +1,16 @@
 {
+    "meJ2jnGZJx": {
+        "id": "meJ2jnGZJx",
+        "title": "Дочь двух миров",
+        "author": "Вера Чиркова",
+        "notes": "",
+        "createdAt": "2020-05-30 19:43:29",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 308
+        }
+    },
     "64PcRxBk-k": {
         "id": "64PcRxBk-k",
         "title": "Конкурентность и параллелизм на платформе. Net",
@@ -345,18 +357,6 @@
             "id": "117277044284589498872-google",
             "nickname": "Яков",
             "booksCount": 18
-        }
-    },
-    "L9KuSo8n9O": {
-        "id": "L9KuSo8n9O",
-        "title": "45 татуировок менеджера",
-        "author": "Максим Батырев",
-        "notes": "",
-        "createdAt": "2020-05-26 06:56:49",
-        "user": {
-            "id": "117277044284589498872-google",
-            "nickname": "Яков",
-            "booksCount": 17
         }
     }
 }
