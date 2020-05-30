@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 152,
+        "updatedAt": "2020-05-30 07:45:27"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -88,12 +94,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-05-25 18:03:25"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 151,
-        "updatedAt": "2020-05-25 15:38:18"
     },
     "109128632962928278575-google": {
         "id": "109128632962928278575-google",

@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>151</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>152</sup>
 ---
 
 ## 2020
+
+### Конкурентность и параллелизм на платформе. Net
+Рикардо Террелл
+> [2020-05-30] 
+
 
 ### Живая сила. Дневник ликвидатора
 Сергей Мирный

@@ -1,4 +1,16 @@
 {
+    "tNE88RBfEO": {
+        "id": "tNE88RBfEO",
+        "title": "Конкурентность и параллелизм на платформе. Net",
+        "author": "Рикардо Террелл",
+        "notes": "",
+        "createdAt": "2020-05-30 07:45:27",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 152
+        }
+    },
     "7JQFe5ORNu": {
         "id": "7JQFe5ORNu",
         "title": "Каханне падчас халеры",
@@ -345,18 +357,6 @@
             "id": "117277044284589498872-google",
             "nickname": "Яков",
             "booksCount": 17
-        }
-    },
-    "WbCGrr0Sy6": {
-        "id": "WbCGrr0Sy6",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2020-05-26 06:51:25",
-        "user": {
-            "id": "117277044284589498872-google",
-            "nickname": "Яков",
-            "booksCount": 15
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>152</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>386</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>49</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>80</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>191</sup> 
 [Artemis Ekiltu](users/110/110561039693397831976-google)<sup>0</sup> 
 [](users/273/2730725403881311-facebook)<sup>0</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>151</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>22</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>45</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>21</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>167</sup> 
 
 
-_30.05.2020 07:16:37_
+_30.05.2020 07:45:27_
