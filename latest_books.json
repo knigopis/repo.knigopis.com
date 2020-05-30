@@ -1,4 +1,16 @@
 {
+    "HBhc51_nkk": {
+        "id": "HBhc51_nkk",
+        "title": "Тёмная башня. Том1. Стрелок",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-05-30 07:14:48",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 384
+        }
+    },
     "YsOZ2eAKT0": {
         "id": "YsOZ2eAKT0",
         "title": "Нью-йорк 2140",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 191
-        }
-    },
-    "8K1kB0eccY": {
-        "id": "8K1kB0eccY",
-        "title": "",
-        "author": "Супермэн: красный сын",
-        "notes": "",
-        "createdAt": "2020-05-25 14:30:09",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 22
         }
     }
 }
