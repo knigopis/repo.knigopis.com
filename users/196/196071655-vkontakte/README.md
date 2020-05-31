@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>152</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>153</sup>
 ---
 
 ## 2020
+
+### Pro git
+Скот Шакон И Бен Страуп
+> [2020-05-31] 
+
 
 ### Конкурентность и параллелизм на платформе. Net
 Рикардо Террелл
