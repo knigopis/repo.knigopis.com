@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>46</sup> 
 [En](users/333/333646551-vkontakte)<sup>108</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>23</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>310</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>104</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>100</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>114</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>45</sup> 
 [Maxfozzy](users/107/107378796665154363606-google)<sup>12</sup> 
 [Botitor](users/116/116288722371780885375-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>140</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>36</sup> 
 
 
-_31.05.2020 04:08:21_
+_31.05.2020 10:34:07_
