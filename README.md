@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Аспект дьявола ~ [En](users/333/333646551-vkontakte)<sup>108</sup>
+    > 1935 год. Воздух уже отравлен ожиданием предстоящей войны.Но в окрестностях Праги, в средневековом замке, дремлет не меньшее зло. В нем заключена «шестерка дьявола» – убийцы, прославившиеся своей жестокостью. Молодой психиатр, ученик легендарного К.Юнга, Виктор Косарек приезжает в лечебницу в надежде раскрыть природу зла и обнаружить у этих пациентов – аспект дьявола.Тем временем Прагу потрясает череда жестоких убийств, совершенных маньяком известным как Кожаный фартук. Виктор пытается связать эти убийства и темные секреты своих пациентов. Но, возможно, тут замешан сам дьявол...
+
 * Каханне падчас халеры ~ [HXT](users/100/100002563462782-facebook)<sup>386</sup>
     > Па-беларуску
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Безопасночть Америки после 11.09, борьба с терроризмом.
 
 * Темна вежа 5. Вовки Кальї ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>113</sup>
-    > 10/10 Оборона міста Кальї від набігів вовків, які забирають одного із близнят.
 
 * Последняя любовь в Константинополе ~ [anvonamore](users/595/5957175-vkontakte)<sup>140</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Геном - автобиография вида в 23 главах ~ [Garka](users/115/115753719718250012620-google)<sup>252</sup>
 
-* Дорога без возврата. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>111</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>108</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>23</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>310</sup> 
 [fond.uglei](users/108/108648895381755785207-google)<sup>0</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>45</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>21</sup> 
 [Книгоман](users/179/1790827924355710-facebook)<sup>1</sup> 
-[En](users/333/333646551-vkontakte)<sup>107</sup> 
 [Окс](users/111/111440266788495776662-google)<sup>0</sup> 
 [](users/956/9563626166489439632-mailru)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>252</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>36</sup> 
 
 
-_30.05.2020 22:16:18_
+_31.05.2020 04:08:21_
