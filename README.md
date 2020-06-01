@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[yury5iz](users/858/858998239-yandex)<sup>0</sup> 
+[yury5iz](users/858/858998239-yandex)<sup>1</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>153</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>46</sup> 
 [En](users/333/333646551-vkontakte)<sup>108</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>1</sup> 
 
 
-_01.06.2020 05:36:51_
+_01.06.2020 05:38:05_

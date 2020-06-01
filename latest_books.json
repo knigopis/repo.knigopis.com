@@ -1,4 +1,16 @@
 {
+    "bjHmSKdKkN": {
+        "id": "bjHmSKdKkN",
+        "title": "Бессистемная отладка. Реабилитация",
+        "author": "Тимофей Царенко",
+        "notes": "",
+        "createdAt": "2020-06-01 05:38:05",
+        "user": {
+            "id": "858998239-yandex",
+            "nickname": "yury5iz",
+            "booksCount": 1
+        }
+    },
     "cC4fI64LSm": {
         "id": "cC4fI64LSm",
         "title": "Pro git",
@@ -345,18 +357,6 @@
             "id": "107378796665154363606-google",
             "nickname": "Maxfozzy",
             "booksCount": 7
-        }
-    },
-    "lT7YSQaeFl": {
-        "id": "lT7YSQaeFl",
-        "title": "Атлант расправил плечи",
-        "author": "Айн Рэнд",
-        "notes": "",
-        "createdAt": "2020-05-27 17:11:33",
-        "user": {
-            "id": "107378796665154363606-google",
-            "nickname": "Maxfozzy",
-            "booksCount": 6
         }
     }
 }
