@@ -1,4 +1,16 @@
 {
+    "5JkNveqsYs": {
+        "id": "5JkNveqsYs",
+        "title": "Почти как Бьюик",
+        "author": "Стивен Кинг",
+        "notes": "Грустный, долгий роман.",
+        "createdAt": "2020-06-01 07:38:34",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 156
+        }
+    },
     "bjHmSKdKkN": {
         "id": "bjHmSKdKkN",
         "title": "Бессистемная отладка. Реабилитация",
@@ -345,18 +357,6 @@
             "id": "107378796665154363606-google",
             "nickname": "Maxfozzy",
             "booksCount": 5
-        }
-    },
-    "SbYNpJga8L": {
-        "id": "SbYNpJga8L",
-        "title": "Евгений Онегин",
-        "author": "Александр Пушкин",
-        "notes": "",
-        "createdAt": "2020-05-27 17:11:52",
-        "user": {
-            "id": "107378796665154363606-google",
-            "nickname": "Maxfozzy",
-            "booksCount": 7
         }
     }
 }

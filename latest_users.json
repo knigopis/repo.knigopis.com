@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 156,
+        "updatedAt": "2020-06-01 07:38:34"
+    },
     "858998239-yandex": {
         "id": "858998239-yandex",
         "nickname": "yury5iz",
@@ -172,11 +178,5 @@
         "nickname": "lostinfrost",
         "booksCount": 169,
         "updatedAt": "2020-05-22 15:53:26"
-    },
-    "108928888752736822195-google": {
-        "id": "108928888752736822195-google",
-        "nickname": "Ru7alk S.",
-        "booksCount": 1,
-        "updatedAt": "2020-05-21 11:39:44"
     }
 }

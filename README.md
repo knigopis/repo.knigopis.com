@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Почти как Бьюик ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup>
+    > Грустный, долгий роман.
+
 * Аспект дьявола ~ [En](users/333/333646551-vkontakte)<sup>108</sup>
     > 1935 год. Воздух уже отравлен ожиданием предстоящей войны.Но в окрестностях Праги, в средневековом замке, дремлет не меньшее зло. В нем заключена «шестерка дьявола» – убийцы, прославившиеся своей жестокостью. Молодой психиатр, ученик легендарного К.Юнга, Виктор Косарек приезжает в лечебницу в надежде раскрыть природу зла и обнаружить у этих пациентов – аспект дьявола.Тем временем Прагу потрясает череда жестоких убийств, совершенных маньяком известным как Кожаный фартук. Виктор пытается связать эти убийства и темные секреты своих пациентов. Но, возможно, тут замешан сам дьявол...
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Па-беларуску
 
 * Выбор. Мировое господство или глобальная доминация. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>114</sup>
-    > 6/10 Безопасночть Америки после 11.09, борьба с терроризмом.
 
 * Темна вежа 5. Вовки Кальї ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>113</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Клавка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>112</sup>
 
-* Геном - автобиография вида в 23 главах ~ [Garka](users/115/115753719718250012620-google)<sup>252</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup> 
 [yury5iz](users/858/858998239-yandex)<sup>1</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>153</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>46</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>252</sup> 
 [psydvl](users/393/39333502-vkontakte)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>169</sup> 
-[Ru7alk S.](users/108/108928888752736822195-google)<sup>1</sup> 
 
 
-_01.06.2020 05:38:05_
+_01.06.2020 07:38:34_

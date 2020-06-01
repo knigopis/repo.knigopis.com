@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Почти как Бьюик ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup>
 * Аспект дьявола ~ [En](users/333/333646551-vkontakte)<sup>108</sup>
 * Каханне падчас халеры ~ [HXT](users/100/100002563462782-facebook)<sup>386</sup>
 * Выбор. Мировое господство или глобальная доминация. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>114</sup>
@@ -30,7 +31,6 @@
 * Хватай за горло! ~ [Garka](users/115/115753719718250012620-google)<sup>251</sup>
 * Война Миров ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>58</sup>
 * Старик и море (и другие рассказы) ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
-* Гарри Поттер и Принц-полукровка ~ [anvonamore](users/595/5957175-vkontakte)<sup>139</sup>
 
 
-_31.05.2020 04:08:21_
+_01.06.2020 07:38:34_
