@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>805</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup> 
 [yury5iz](users/858/858998239-yandex)<sup>1</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>153</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Botitor](users/116/116288722371780885375-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>140</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>19</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>804</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>191</sup> 
 [Artemis Ekiltu](users/110/110561039693397831976-google)<sup>0</sup> 
 [](users/273/2730725403881311-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lostinfrost](users/217/217891524-vkontakte)<sup>169</sup> 
 
 
-_01.06.2020 07:38:34_
+_01.06.2020 09:17:46_
