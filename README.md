@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[yury5iz](users/858/858998239-yandex)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>153</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>46</sup> 
 [En](users/333/333646551-vkontakte)<sup>108</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [psydvl](users/393/39333502-vkontakte)<sup>0</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>169</sup> 
 [Ru7alk S.](users/108/108928888752736822195-google)<sup>1</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>36</sup> 
 
 
-_31.05.2020 14:25:42_
+_01.06.2020 05:36:51_
