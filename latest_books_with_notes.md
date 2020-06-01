@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «Игра престолов», первая книга из серии «Песнь льда и огня» ~ [joan789](users/240/2401650-vkontakte)<sup>102</sup>
 * Почти как Бьюик ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup>
 * Аспект дьявола ~ [En](users/333/333646551-vkontakte)<sup>108</sup>
 * Каханне падчас халеры ~ [HXT](users/100/100002563462782-facebook)<sup>386</sup>
@@ -30,7 +31,6 @@
 * Сила воли. Как развить и укрепить? ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>59</sup>
 * Хватай за горло! ~ [Garka](users/115/115753719718250012620-google)<sup>251</sup>
 * Война Миров ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>58</sup>
-* Старик и море (и другие рассказы) ~ [violet_velva](users/116/116961712580551399099-google)<sup>68</sup>
 
 
-_01.06.2020 07:38:34_
+_01.06.2020 19:37:02_
