@@ -1,4 +1,16 @@
 {
+    "l8OzJAOFrK": {
+        "id": "l8OzJAOFrK",
+        "title": "Хозяин теней",
+        "author": "Ксения Хан",
+        "notes": "",
+        "createdAt": "2020-06-01 20:52:50",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 37
+        }
+    },
     "VKQSYyvl7h": {
         "id": "VKQSYyvl7h",
         "title": "«Игра престолов», первая книга из серии «Песнь льда и огня»",
@@ -345,18 +357,6 @@
             "id": "107378796665154363606-google",
             "nickname": "Maxfozzy",
             "booksCount": 8
-        }
-    },
-    "Cq2ZkjMlrZ": {
-        "id": "Cq2ZkjMlrZ",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уальд",
-        "notes": "",
-        "createdAt": "2020-05-28 10:24:02",
-        "user": {
-            "id": "107378796665154363606-google",
-            "nickname": "Maxfozzy",
-            "booksCount": 7
         }
     }
 }

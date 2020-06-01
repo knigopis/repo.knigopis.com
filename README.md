@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>37</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>102</sup> 
 [](users/115/115826717712507836033-google)<sup>141</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>805</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Книгоман](users/179/1790827924355710-facebook)<sup>1</sup> 
 [Окс](users/111/111440266788495776662-google)<sup>0</sup> 
 [](users/956/9563626166489439632-mailru)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>252</sup> 
 
 
-_01.06.2020 19:37:02_
+_01.06.2020 20:52:50_

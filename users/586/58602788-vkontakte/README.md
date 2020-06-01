@@ -1,7 +1,12 @@
-# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>36</sup>
+# List of books read by [Dandelion_Wine](http://vk.com/id58602788)<sup>37</sup>
 ---
 
 ## 2020
+
+### Хозяин теней
+Ксения Хан
+> [2020-06] 
+
 
 ### Инферно
 Дэн Браун
