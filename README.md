@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115826717712507836033-google)<sup>141</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>805</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup> 
 [yury5iz](users/858/858998239-yandex)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/956/9563626166489439632-mailru)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>252</sup> 
 [psydvl](users/393/39333502-vkontakte)<sup>0</sup> 
-[lostinfrost](users/217/217891524-vkontakte)<sup>169</sup> 
 
 
-_01.06.2020 09:17:46_
+_01.06.2020 15:53:49_

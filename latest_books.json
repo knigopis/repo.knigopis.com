@@ -1,4 +1,16 @@
 {
+    "Ci_1kS7dT3": {
+        "id": "Ci_1kS7dT3",
+        "title": "Степной волк",
+        "author": "Герман Гессе",
+        "notes": "",
+        "createdAt": "2020-06-01 15:53:49",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 141
+        }
+    },
     "fVMDyuUuuY": {
         "id": "fVMDyuUuuY",
         "title": "Острова в океане",
@@ -345,18 +357,6 @@
             "id": "116288722371780885375-google",
             "nickname": "Botitor",
             "booksCount": 1
-        }
-    },
-    "z3MToS1OJT": {
-        "id": "z3MToS1OJT",
-        "title": "О дивный новый мир",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2020-05-27 17:16:29",
-        "user": {
-            "id": "107378796665154363606-google",
-            "nickname": "Maxfozzy",
-            "booksCount": 6
         }
     }
 }
