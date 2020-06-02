@@ -43,7 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Лела Папава](users/761/76187635-vkontakte)<sup>312</sup> 
+[Лела Папава](users/761/76187635-vkontakte)<sup>313</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>154</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>37</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>102</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/956/9563626166489439632-mailru)<sup>0</sup> 
 
 
-_02.06.2020 16:56:37_
+_02.06.2020 17:08:27_

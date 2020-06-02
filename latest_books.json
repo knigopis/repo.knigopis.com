@@ -1,4 +1,16 @@
 {
+    "fY4r_QR5Go": {
+        "id": "fY4r_QR5Go",
+        "title": "Убить некроманта",
+        "author": "Макс Далин",
+        "notes": "",
+        "createdAt": "2020-06-02 17:08:26",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 313
+        }
+    },
     "_qFfg2fgNB": {
         "id": "_qFfg2fgNB",
         "title": "Советница Его Темнейшества",
@@ -345,18 +357,6 @@
             "id": "107378796665154363606-google",
             "nickname": "Maxfozzy",
             "booksCount": 12
-        }
-    },
-    "ItJvwueBNK": {
-        "id": "ItJvwueBNK",
-        "title": "Гордость и предубеждение",
-        "author": "Джейн Остин",
-        "notes": "",
-        "createdAt": "2020-05-28 10:27:13",
-        "user": {
-            "id": "107378796665154363606-google",
-            "nickname": "Maxfozzy",
-            "booksCount": 11
         }
     }
 }
