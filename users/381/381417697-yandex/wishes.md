@@ -37,18 +37,14 @@ Randall Munroe
 ### `4` Атлант расправил плечи
 Айн Рэнд
 
-### `1` Cracking the code interview
-Gayle Laakmann McDowell
-
 ### `1` Портной из Панамы
 Джон Ле Карре
 
+### `1` Cracking the code interview
+Gayle Laakmann McDowell
+
 ### `1` Joel on Software
 Joel Spolsky
-
-### `` Formalized Music
-Янис Ксенакис
-> 1963
 
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
@@ -60,17 +56,11 @@ Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes
 ### `` Permanent Record
 Edward Snowden
 
-### `` Мертвые души
-Николай Гоголь
-
-### `` Asdf
-
-### `` Тонкое искусство пофигизма
-
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
-
 ### `` Не рычите на собаку
+
+### `` Formalized Music
+Янис Ксенакис
+> 1963
 
 ### `` Три товарища
 Эрих Мария Ремарк
@@ -78,24 +68,32 @@ Eric S. Raymond
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
 
-### `` A Briefer History of Time
-Stephen Hawking
+### `` Тонкое искусство пофигизма
 
-### `` Братья Карамазовы
-Фёдор Достоевский
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
+
+### `` Искусство программирования
+Дональд Кнут
+
+### `` Мертвые души
+Николай Гоголь
+
+### `` Agile Estimating and Planning
+Mike Cohn
+
+### `` Повелитель мух
+Уильям Голдинг
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
 
+### `` Братья Карамазовы
+Фёдор Достоевский
+
 ### `` Науки об искусственном
 > Когда-то читал эту книгу давно, но не помню, дочитал или нет
-
-### `` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
-
-### `` Повелитель мух
-Уильям Голдинг
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
@@ -105,17 +103,17 @@ Dafydd Stuttard, Marcus Pinto
 Jon Erickson
 > ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
-### `` Agile Estimating and Planning
-Mike Cohn
-
-### `` Aaa
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
 
+### `` 1
+
 ### `` Герой нашего времени
 Михаил Лермонтов
 
-### `` Искусство программирования
-Дональд Кнут
+### `` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
 
