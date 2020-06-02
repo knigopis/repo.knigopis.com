@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Лела Папава",
+        "booksCount": 311,
+        "updatedAt": "2020-06-02 16:55:22"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -58,12 +64,6 @@
         "nickname": "Joxxy",
         "booksCount": 23,
         "updatedAt": "2020-05-30 22:16:18"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Лела Папава",
-        "booksCount": 310,
-        "updatedAt": "2020-05-30 19:52:23"
     },
     "108648895381755785207-google": {
         "id": "108648895381755785207-google",

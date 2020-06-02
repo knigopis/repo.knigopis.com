@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Лела Папава](users/761/76187635-vkontakte)<sup>311</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>154</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>37</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>102</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>46</sup> 
 [En](users/333/333646551-vkontakte)<sup>108</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>23</sup> 
-[Лела Папава](users/761/76187635-vkontakte)<sup>310</sup> 
 [fond.uglei](users/108/108648895381755785207-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>386</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>49</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/956/9563626166489439632-mailru)<sup>0</sup> 
 
 
-_02.06.2020 12:58:54_
+_02.06.2020 16:55:22_

@@ -1,4 +1,16 @@
 {
+    "nzbb6LPSmY": {
+        "id": "nzbb6LPSmY",
+        "title": "Академия тёмных властелинов",
+        "author": "Надежда Мамаева",
+        "notes": "",
+        "createdAt": "2020-06-02 16:55:22",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 311
+        }
+    },
     "-a8wM83AY8": {
         "id": "-a8wM83AY8",
         "title": "DataScience. Наука о данных с нуля.",
@@ -345,18 +357,6 @@
             "id": "107378796665154363606-google",
             "nickname": "Maxfozzy",
             "booksCount": 10
-        }
-    },
-    "XsBSCb8Mdy": {
-        "id": "XsBSCb8Mdy",
-        "title": "Джейн Эйр",
-        "author": "Шарлотта Бронте",
-        "notes": "",
-        "createdAt": "2020-05-28 10:25:57",
-        "user": {
-            "id": "107378796665154363606-google",
-            "nickname": "Maxfozzy",
-            "booksCount": 9
         }
     }
 }
