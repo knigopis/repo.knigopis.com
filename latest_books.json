@@ -1,4 +1,16 @@
 {
+    "M1pJ8h0iOa": {
+        "id": "M1pJ8h0iOa",
+        "title": "Жизнь в замймы",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2020-06-02 17:13:13",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 314
+        }
+    },
     "fY4r_QR5Go": {
         "id": "fY4r_QR5Go",
         "title": "Убить некроманта",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 45
-        }
-    },
-    "b-iJFGNuoj": {
-        "id": "b-iJFGNuoj",
-        "title": "Унесённые ветром",
-        "author": "Маргарет Митчелл",
-        "notes": "",
-        "createdAt": "2020-05-28 10:28:00",
-        "user": {
-            "id": "107378796665154363606-google",
-            "nickname": "Maxfozzy",
-            "booksCount": 12
         }
     }
 }
