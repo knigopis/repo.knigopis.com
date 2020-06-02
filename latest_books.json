@@ -1,4 +1,16 @@
 {
+    "-a8wM83AY8": {
+        "id": "-a8wM83AY8",
+        "title": "DataScience. Наука о данных с нуля.",
+        "author": "Джоэл Грас",
+        "notes": "",
+        "createdAt": "2020-06-02 12:58:54",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 154
+        }
+    },
     "l8OzJAOFrK": {
         "id": "l8OzJAOFrK",
         "title": "Хозяин теней",
@@ -345,18 +357,6 @@
             "id": "107378796665154363606-google",
             "nickname": "Maxfozzy",
             "booksCount": 9
-        }
-    },
-    "_efvbevSQ2": {
-        "id": "_efvbevSQ2",
-        "title": "Анна Каренина",
-        "author": "Лев Толстой",
-        "notes": "",
-        "createdAt": "2020-05-28 10:24:35",
-        "user": {
-            "id": "107378796665154363606-google",
-            "nickname": "Maxfozzy",
-            "booksCount": 8
         }
     }
 }

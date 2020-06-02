@@ -43,13 +43,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>154</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>37</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>102</sup> 
 [](users/115/115826717712507836033-google)<sup>141</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>805</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup> 
 [yury5iz](users/858/858998239-yandex)<sup>1</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>153</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>46</sup> 
 [En](users/333/333646551-vkontakte)<sup>108</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>23</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/956/9563626166489439632-mailru)<sup>0</sup> 
 
 
-_01.06.2020 20:52:50_
+_02.06.2020 12:58:54_

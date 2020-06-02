@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>153</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>154</sup>
 ---
 
 ## 2020
+
+### DataScience. Наука о данных с нуля.
+Джоэл Грас
+> [2020-06-02] 
+
 
 ### Pro git
 Скот Шакон И Бен Страуп
