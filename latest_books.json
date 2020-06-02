@@ -1,4 +1,16 @@
 {
+    "_qFfg2fgNB": {
+        "id": "_qFfg2fgNB",
+        "title": "Советница Его Темнейшества",
+        "author": "Ирмата Арьяр",
+        "notes": "",
+        "createdAt": "2020-06-02 16:56:37",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 312
+        }
+    },
     "nzbb6LPSmY": {
         "id": "nzbb6LPSmY",
         "title": "Академия тёмных властелинов",
@@ -345,18 +357,6 @@
             "id": "107378796665154363606-google",
             "nickname": "Maxfozzy",
             "booksCount": 11
-        }
-    },
-    "lI9H1adGzk": {
-        "id": "lI9H1adGzk",
-        "title": "Грозовой перевал",
-        "author": "Эмили Бронте",
-        "notes": "",
-        "createdAt": "2020-05-28 10:26:41",
-        "user": {
-            "id": "107378796665154363606-google",
-            "nickname": "Maxfozzy",
-            "booksCount": 10
         }
     }
 }
