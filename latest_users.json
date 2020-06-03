@@ -1,4 +1,10 @@
 {
+    "254457124-vkontakte": {
+        "id": "254457124-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-06-03 16:15:52"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "Окс",
         "booksCount": 0,
         "updatedAt": "2020-05-24 01:21:09"
-    },
-    "9563626166489439632-mailru": {
-        "id": "9563626166489439632-mailru",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-05-24 01:04:26"
     }
 }
