@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Gosha](users/105/105731119736778227120-google)<sup>0</sup> 
 [](users/254/254457124-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>155</sup> 
 [Laila](users/761/76187635-vkontakte)<sup>315</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>45</sup> 
 [l.shilova](users/101/10123344-vkontakte)<sup>21</sup> 
 [Книгоман](users/179/1790827924355710-facebook)<sup>1</sup> 
-[Окс](users/111/111440266788495776662-google)<sup>0</sup> 
 
 
-_03.06.2020 16:15:54_
+_03.06.2020 22:52:37_
