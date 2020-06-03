@@ -1,4 +1,10 @@
 {
+    "105731119736778227120-google": {
+        "id": "105731119736778227120-google",
+        "nickname": "Gosha",
+        "booksCount": 0,
+        "updatedAt": "2020-06-03 22:52:34"
+    },
     "254457124-vkontakte": {
         "id": "254457124-vkontakte",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Книгоман",
         "booksCount": 1,
         "updatedAt": "2020-05-24 16:57:12"
-    },
-    "111440266788495776662-google": {
-        "id": "111440266788495776662-google",
-        "nickname": "Окс",
-        "booksCount": 0,
-        "updatedAt": "2020-05-24 01:21:09"
     }
 }
