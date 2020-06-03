@@ -43,9 +43,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>155</sup> 
 [Laila](users/761/76187635-vkontakte)<sup>315</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>806</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>154</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>37</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>102</sup> 
 [](users/115/115826717712507836033-google)<sup>141</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/956/9563626166489439632-mailru)<sup>0</sup> 
 
 
-_03.06.2020 08:30:41_
+_03.06.2020 15:02:15_

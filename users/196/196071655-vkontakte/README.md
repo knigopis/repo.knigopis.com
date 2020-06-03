@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>154</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>155</sup>
 ---
 
 ## 2020
+
+### Краткие ответы, на большие вопросы
+Стивен Хокинг
+> [2020-06-03] 
+
 
 ### DataScience. Наука о данных с нуля.
 Джоэл Грас

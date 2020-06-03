@@ -1,4 +1,16 @@
 {
+    "9W4TJbNks1": {
+        "id": "9W4TJbNks1",
+        "title": "Краткие ответы, на большие вопросы",
+        "author": "Стивен Хокинг",
+        "notes": "",
+        "createdAt": "2020-06-03 15:02:15",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 155
+        }
+    },
     "lJqpoZ0lPb": {
         "id": "lJqpoZ0lPb",
         "title": "Попаданка и король",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 104
-        }
-    },
-    "Ps9gT6I4ve": {
-        "id": "Ps9gT6I4ve",
-        "title": "Американская трагедия",
-        "author": "Теодор Драйзер",
-        "notes": "",
-        "createdAt": "2020-05-29 05:46:05",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 100
         }
     }
 }
