@@ -1,4 +1,10 @@
 {
+    "17937184-vkontakte": {
+        "id": "17937184-vkontakte",
+        "nickname": "kseniyamatova",
+        "booksCount": 0,
+        "updatedAt": "2020-06-04 17:22:23"
+    },
     "111762250865880736374-google": {
         "id": "111762250865880736374-google",
         "nickname": "Книголюб",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 45,
         "updatedAt": "2020-05-25 09:42:01"
-    },
-    "10123344-vkontakte": {
-        "id": "10123344-vkontakte",
-        "nickname": "l.shilova",
-        "booksCount": 21,
-        "updatedAt": "2020-05-25 08:11:49"
     }
 }
