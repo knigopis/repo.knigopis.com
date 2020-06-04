@@ -73,6 +73,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kseniyamatova](users/179/17937184-vkontakte)<sup>0</sup> 
 [Книголюб](users/111/111762250865880736374-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>109</sup> 
 [Gosha](users/105/105731119736778227120-google)<sup>0</sup> 
@@ -102,7 +103,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Artemis Ekiltu](users/110/110561039693397831976-google)<sup>0</sup> 
 [](users/273/2730725403881311-facebook)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>45</sup> 
-[l.shilova](users/101/10123344-vkontakte)<sup>21</sup> 
 
 
-_04.06.2020 16:23:27_
+_04.06.2020 17:22:25_
