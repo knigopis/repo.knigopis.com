@@ -73,7 +73,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kseniyamatova](users/179/17937184-vkontakte)<sup>0</sup> 
+[kseniyamatova](users/179/17937184-vkontakte)<sup>1</sup> 
 [Книголюб](users/111/111762250865880736374-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>109</sup> 
 [Gosha](users/105/105731119736778227120-google)<sup>0</sup> 
@@ -105,4 +105,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>45</sup> 
 
 
-_04.06.2020 17:22:25_
+_04.06.2020 17:23:19_
