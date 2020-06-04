@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 109,
+        "updatedAt": "2020-06-04 04:14:01"
+    },
     "105731119736778227120-google": {
         "id": "105731119736778227120-google",
         "nickname": "Gosha",
@@ -64,12 +70,6 @@
         "nickname": "Антенка",
         "booksCount": 46,
         "updatedAt": "2020-05-31 10:34:07"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 108,
-        "updatedAt": "2020-05-31 04:08:21"
     },
     "109128632962928278575-google": {
         "id": "109128632962928278575-google",
