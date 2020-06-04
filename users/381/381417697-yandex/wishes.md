@@ -46,6 +46,10 @@ Gayle Laakmann McDowell
 ### `1` Joel on Software
 Joel Spolsky
 
+### `` Formalized Music
+Янис Ксенакис
+> 1963
+
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
@@ -56,34 +60,33 @@ Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes
 ### `` Permanent Record
 Edward Snowden
 
-### `` Не рычите на собаку
-
-### `` Formalized Music
-Янис Ксенакис
-> 1963
+### `` Мертвые души
+Николай Гоголь
 
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
-
 ### `` Тонкое искусство пофигизма
+
+### `` Effective Kotlin
 
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
 
+### `` Не рычите на собаку
+
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
+
 ### `` Искусство программирования
 Дональд Кнут
 
-### `` Мертвые души
-Николай Гоголь
-
-### `` Agile Estimating and Planning
-Mike Cohn
-
 ### `` Повелитель мух
 Уильям Голдинг
+
+### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
+Dafydd Stuttard, Marcus Pinto
+> В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
@@ -95,13 +98,15 @@ Peter Kim
 ### `` Науки об искусственном
 > Когда-то читал эту книгу давно, но не помню, дочитал или нет
 
-### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
-Dafydd Stuttard, Marcus Pinto
-> В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
-
 ### `` Hacking: Art of Exploitation
 Jon Erickson
 > ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
+
+### `` Герой нашего времени
+Михаил Лермонтов
+
+### `` Agile Estimating and Planning
+Mike Cohn
 
 ### `` A Briefer History of Time
 Stephen Hawking
@@ -110,9 +115,6 @@ Stephen Hawking
 Satoshi Nakamoto
 
 ### `` 1
-
-### `` Герой нашего времени
-Михаил Лермонтов
 
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
