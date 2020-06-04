@@ -1,4 +1,16 @@
 {
+    "9dAW3VLV9d": {
+        "id": "9dAW3VLV9d",
+        "title": "ПлоХорошо",
+        "author": "Ольга Савельева",
+        "notes": "",
+        "createdAt": "2020-06-04 20:40:28",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 81
+        }
+    },
     "dUoCuKHQWr": {
         "id": "dUoCuKHQWr",
         "title": "Страсти по Марии",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 384
-        }
-    },
-    "YsOZ2eAKT0": {
-        "id": "YsOZ2eAKT0",
-        "title": "Нью-йорк 2140",
-        "author": "Ким Стэнли Робинсон",
-        "notes": "",
-        "createdAt": "2020-05-30 07:13:36",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 383
         }
     }
 }
