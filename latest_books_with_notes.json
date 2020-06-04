@@ -1,4 +1,16 @@
 {
+    "dUoCuKHQWr": {
+        "id": "dUoCuKHQWr",
+        "title": "Страсти по Марии",
+        "author": "Бенцони Жюльетта",
+        "notes": "вторая книга.",
+        "createdAt": "2020-06-04 19:38:58",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 192
+        }
+    },
     "vpxY5Lydgg": {
         "id": "vpxY5Lydgg",
         "title": "Подсказчик",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 59
-        }
-    },
-    "ePawzCmQgY": {
-        "id": "ePawzCmQgY",
-        "title": "Хватай за горло!",
-        "author": "Пратчетт, Терри",
-        "notes": "Книги о Ведьмах у Пратчетта получаются какими-то особенно душевными и грустными. Матушка Ветровоск против вампиров.",
-        "createdAt": "2020-05-09 18:53:03",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 251
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Страсти по Марии ~ [Chiffi](users/105/105831994080785626680-google)<sup>192</sup>
+    > вторая книга.
+
 * Подсказчик ~ [En](users/333/333646551-vkontakte)<sup>109</sup>
     > Книжкин - Аудиокниги онлайн слушать бесплатно
     > Регистрация / Вход
@@ -52,7 +55,6 @@ Do not use pull requests to make changes here.
     > "Есть только один бог — это смерть. А смерти мы говорим только одно: не сегодня."
 
 * Почти как Бьюик ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup>
-    > Грустный, долгий роман.
 
 * Аспект дьявола ~ [En](users/333/333646551-vkontakte)<sup>108</sup>
 
@@ -66,13 +68,12 @@ Do not use pull requests to make changes here.
 
 * Мария - королева интриг ~ [Chiffi](users/105/105831994080785626680-google)<sup>191</sup>
 
-* Походы и кони ~ [mfevralev](users/140/140966150-vkontakte)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>192</sup> 
 [kseniyamatova](users/179/17937184-vkontakte)<sup>0</sup> 
 [Книголюб](users/111/111762250865880736374-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>109</sup> 
@@ -99,10 +100,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Botitor](users/116/116288722371780885375-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>140</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>19</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>191</sup> 
 [Artemis Ekiltu](users/110/110561039693397831976-google)<sup>0</sup> 
 [](users/273/2730725403881311-facebook)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>45</sup> 
 
 
-_04.06.2020 17:25:32_
+_04.06.2020 19:38:58_

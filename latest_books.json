@@ -1,4 +1,16 @@
 {
+    "dUoCuKHQWr": {
+        "id": "dUoCuKHQWr",
+        "title": "Страсти по Марии",
+        "author": "Бенцони Жюльетта",
+        "notes": "вторая книга.",
+        "createdAt": "2020-06-04 19:38:58",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 192
+        }
+    },
     "BJCqDAa1X1": {
         "id": "BJCqDAa1X1",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 383
-        }
-    },
-    "xGBrJycS4x": {
-        "id": "xGBrJycS4x",
-        "title": "Искатели",
-        "author": "Д. Гранин",
-        "notes": "",
-        "createdAt": "2020-05-29 21:51:45",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 49
         }
     }
 }

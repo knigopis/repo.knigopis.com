@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Страсти по Марии ~ [Chiffi](users/105/105831994080785626680-google)<sup>192</sup>
 * Подсказчик ~ [En](users/333/333646551-vkontakte)<sup>109</sup>
 * «Игра престолов», первая книга из серии «Песнь льда и огня» ~ [joan789](users/240/2401650-vkontakte)<sup>102</sup>
 * Почти как Бьюик ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup>
@@ -30,7 +31,6 @@
 * Малоросійство ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>108</sup>
 * Хирург ~ [En](users/333/333646551-vkontakte)<sup>103</sup>
 * Сила воли. Как развить и укрепить? ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>59</sup>
-* Хватай за горло! ~ [Garka](users/115/115753719718250012620-google)<sup>251</sup>
 
 
-_04.06.2020 04:14:01_
+_04.06.2020 19:38:58_

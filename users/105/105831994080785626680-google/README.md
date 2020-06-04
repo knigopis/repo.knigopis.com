@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>191</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>192</sup>
 ---
 
 ## 2020
+
+### Страсти по Марии
+Бенцони Жюльетта
+> [2020-06-04] вторая книга.
+
 
 ### Мария - королева интриг
 Бенцони Жюльетта
