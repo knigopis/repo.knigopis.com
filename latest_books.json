@@ -1,4 +1,16 @@
 {
+    "AcRTPSZ7zO": {
+        "id": "AcRTPSZ7zO",
+        "title": "Люди зимы",
+        "author": "Дженифер Макмахон",
+        "notes": "",
+        "createdAt": "2020-06-04 22:59:09",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 105
+        }
+    },
     "9dAW3VLV9d": {
         "id": "9dAW3VLV9d",
         "title": "ПлоХорошо",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 385
-        }
-    },
-    "HBhc51_nkk": {
-        "id": "HBhc51_nkk",
-        "title": "Тёмная башня. Том1. Стрелок",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-05-30 07:14:48",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 384
         }
     }
 }

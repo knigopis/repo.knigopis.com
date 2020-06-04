@@ -73,6 +73,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>105</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>81</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>192</sup> 
 [kseniyamatova](users/179/17937184-vkontakte)<sup>0</sup> 
@@ -93,7 +94,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fond.uglei](users/108/108648895381755785207-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>386</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>49</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>104</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>100</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>114</sup> 
 [Maxfozzy](users/107/107378796665154363606-google)<sup>12</sup> 
@@ -105,4 +105,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>45</sup> 
 
 
-_04.06.2020 20:40:28_
+_04.06.2020 22:59:09_
