@@ -73,6 +73,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Maga](users/106/106060917304685787728-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>105</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>81</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>192</sup> 
@@ -102,7 +103,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Яков](users/117/117277044284589498872-google)<sup>19</sup> 
 [Artemis Ekiltu](users/110/110561039693397831976-google)<sup>0</sup> 
 [](users/273/2730725403881311-facebook)<sup>0</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>45</sup> 
 
 
-_04.06.2020 22:59:09_
+_05.06.2020 07:40:44_
