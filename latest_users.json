@@ -1,4 +1,10 @@
 {
+    "106060917304685787728-google": {
+        "id": "106060917304685787728-google",
+        "nickname": "Maga",
+        "booksCount": 0,
+        "updatedAt": "2020-06-05 07:40:42"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-05-25 18:03:25"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 45,
-        "updatedAt": "2020-05-25 09:42:01"
     }
 }
