@@ -1,4 +1,16 @@
 {
+    "PfewZdsqDX": {
+        "id": "PfewZdsqDX",
+        "title": "Homo Deus",
+        "author": "Юваль Ной Харари",
+        "notes": "",
+        "createdAt": "2020-06-05 14:21:34",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 50
+        }
+    },
     "AcRTPSZ7zO": {
         "id": "AcRTPSZ7zO",
         "title": "Люди зимы",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 386
-        }
-    },
-    "4viby1WmVG": {
-        "id": "4viby1WmVG",
-        "title": "Тёмная башня. Том2. Извлечение троих",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-05-30 07:15:38",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 385
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>49</sup>
+# List of books read by 4apa<sup>50</sup>
 ---
 
 ## 2020
+
+### Homo Deus
+Юваль Ной Харари
+> [2020-06-05] 
+
 
 ### Искатели
 Д. Гранин
