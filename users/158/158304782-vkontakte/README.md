@@ -1,4 +1,4 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>205</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>206</sup>
 ---
 
 ## 2020
@@ -6,6 +6,10 @@
 ### Наша школа
 Чарльз Диккенс
 > [2020-01-02] 
+
+
+### Дикая Роза
+Айрис Мердок
 
 
 ### Чернильное сердце
