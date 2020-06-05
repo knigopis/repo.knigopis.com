@@ -1,4 +1,4 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>206</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>207</sup>
 ---
 
 ## 2020
@@ -6,6 +6,10 @@
 ### Наша школа
 Чарльз Диккенс
 > [2020-01-02] 
+
+
+### Предсказательная астрология
+Шестопалов
 
 
 ### Дикая Роза
