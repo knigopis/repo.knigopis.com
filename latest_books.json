@@ -1,4 +1,16 @@
 {
+    "FPHd0STouR": {
+        "id": "FPHd0STouR",
+        "title": "Монах, который продал свой феррари",
+        "author": "Шарма Робин",
+        "notes": "Чушь",
+        "createdAt": "2020-06-05 21:11:13",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 209
+        }
+    },
     "VSpL8khR1Z": {
         "id": "VSpL8khR1Z",
         "title": "Бизнес астрология",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 310
-        }
-    },
-    "D-RH6g-c6X": {
-        "id": "D-RH6g-c6X",
-        "title": "Дочь двух миров возвращение",
-        "author": "Вера Чиркова",
-        "notes": "",
-        "createdAt": "2020-05-30 19:44:36",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 309
         }
     }
 }
