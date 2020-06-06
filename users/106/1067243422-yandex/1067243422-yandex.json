@@ -3,6 +3,9 @@
     "profile": "",
     "identity": "http://openid.yandex.ru/knigopis-demo/",
     "booksCount": 0,
+    "subscriptions": {
+        "105831994080785626680-google": 192
+    },
     "createdAt": "2020-04-15 21:32:49",
-    "updatedAt": "2020-04-15 21:32:49"
+    "updatedAt": "2020-06-06 17:47:11"
 }
