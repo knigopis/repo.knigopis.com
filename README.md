@@ -63,6 +63,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>58</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>209</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>50</sup> 
 [Maga](users/106/106060917304685787728-google)<sup>0</sup> 
@@ -92,7 +93,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Botitor](users/116/116288722371780885375-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>140</sup> 
 [Яков](users/117/117277044284589498872-google)<sup>19</sup> 
-[Artemis Ekiltu](users/110/110561039693397831976-google)<sup>0</sup> 
 
 
-_05.06.2020 21:11:13_
+_06.06.2020 09:26:30_

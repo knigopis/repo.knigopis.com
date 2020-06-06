@@ -1,4 +1,10 @@
 {
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 58,
+        "updatedAt": "2020-06-06 09:26:30"
+    },
     "158304782-vkontakte": {
         "id": "158304782-vkontakte",
         "nickname": "Madlax",
@@ -172,11 +178,5 @@
         "nickname": "Яков",
         "booksCount": 19,
         "updatedAt": "2020-05-27 10:34:13"
-    },
-    "110561039693397831976-google": {
-        "id": "110561039693397831976-google",
-        "nickname": "Artemis Ekiltu",
-        "booksCount": 0,
-        "updatedAt": "2020-05-25 20:55:41"
     }
 }
