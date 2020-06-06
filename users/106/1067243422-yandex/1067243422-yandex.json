@@ -3,9 +3,7 @@
     "profile": "",
     "identity": "http://openid.yandex.ru/knigopis-demo/",
     "booksCount": 0,
-    "subscriptions": {
-        "158304782-vkontakte": 209
-    },
+    "subscriptions": [],
     "createdAt": "2020-04-15 21:32:49",
-    "updatedAt": "2020-06-06 17:56:41"
+    "updatedAt": "2020-06-06 17:56:45"
 }
