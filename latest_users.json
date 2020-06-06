@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 47,
+        "updatedAt": "2020-06-06 14:47:30"
+    },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
         "nickname": "zAAz",
@@ -118,12 +124,6 @@
         "nickname": "yury5iz",
         "booksCount": 1,
         "updatedAt": "2020-06-01 05:38:05"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 46,
-        "updatedAt": "2020-05-31 10:34:07"
     },
     "109128632962928278575-google": {
         "id": "109128632962928278575-google",

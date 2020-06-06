@@ -63,6 +63,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>47</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>58</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>209</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>50</sup> 
@@ -83,7 +84,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>141</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup> 
 [yury5iz](users/858/858998239-yandex)<sup>1</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>46</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>23</sup> 
 [fond.uglei](users/108/108648895381755785207-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>386</sup> 
@@ -95,4 +95,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Яков](users/117/117277044284589498872-google)<sup>19</sup> 
 
 
-_06.06.2020 09:26:30_
+_06.06.2020 14:47:30_

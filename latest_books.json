@@ -1,4 +1,16 @@
 {
+    "YjnVVb4QAV": {
+        "id": "YjnVVb4QAV",
+        "title": "Опасное лето",
+        "author": "Туве Янсон",
+        "notes": "",
+        "createdAt": "2020-06-06 14:47:30",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 47
+        }
+    },
     "y0eIqTFP1A": {
         "id": "y0eIqTFP1A",
         "title": "Воспоминания биржевого спекулянта",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 108
-        }
-    },
-    "mgQcy51A9T": {
-        "id": "mgQcy51A9T",
-        "title": "Флэшпоинт",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-05-30 22:16:18",
-        "user": {
-            "id": "109128632962928278575-google",
-            "nickname": "Joxxy",
-            "booksCount": 23
         }
     }
 }
