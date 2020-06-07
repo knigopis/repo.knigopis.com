@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>807</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>125</sup> 
 [En](users/333/333646551-vkontakte)<sup>110</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>47</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/254/254457124-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>155</sup> 
 [Laila](users/761/76187635-vkontakte)<sup>315</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>806</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>37</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>102</sup> 
 [](users/115/115826717712507836033-google)<sup>141</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>140</sup> 
 
 
-_07.06.2020 09:27:22_
+_07.06.2020 10:07:57_

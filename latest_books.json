@@ -1,4 +1,16 @@
 {
+    "tXBvtDw2Bg": {
+        "id": "tXBvtDw2Bg",
+        "title": "Утерянный Горизонт",
+        "author": "Хилтон Джеймс",
+        "notes": "",
+        "createdAt": "2020-06-07 10:07:57",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 807
+        }
+    },
     "b_GM4snT8g": {
         "id": "b_GM4snT8g",
         "title": "Сквозь ад русской революции. Воспоминания гардемарина. 1914-1919",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 156
-        }
-    },
-    "bjHmSKdKkN": {
-        "id": "bjHmSKdKkN",
-        "title": "Бессистемная отладка. Реабилитация",
-        "author": "Тимофей Царенко",
-        "notes": "",
-        "createdAt": "2020-06-01 05:38:05",
-        "user": {
-            "id": "858998239-yandex",
-            "nickname": "yury5iz",
-            "booksCount": 1
         }
     }
 }
