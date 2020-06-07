@@ -1,4 +1,16 @@
 {
+    "zlewuYjPgH": {
+        "id": "zlewuYjPgH",
+        "title": "ДНК – не приговор",
+        "author": "Хэйне, Стивен",
+        "notes": "Много воды, мало фактов и море рассуждений автора не о чём",
+        "createdAt": "2020-06-07 16:56:27",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 253
+        }
+    },
     "7GsBHBISfQ": {
         "id": "7GsBHBISfQ",
         "title": "Апофения",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 60
-        }
-    },
-    "nenBllJhu7": {
-        "id": "nenBllJhu7",
-        "title": "Ворон",
-        "author": "Эдгар Аллан По",
-        "notes": "Никогда, о, Nevermore!",
-        "createdAt": "2020-05-14 14:11:45",
-        "user": {
-            "id": "233860015-vkontakte",
-            "nickname": "dghtt",
-            "booksCount": 28
         }
     }
 }

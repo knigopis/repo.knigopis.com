@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* ДНК – не приговор ~ [Garka](users/115/115753719718250012620-google)<sup>253</sup>
 * Апофения ~ [En](users/333/333646551-vkontakte)<sup>111</sup>
 * Английский пациент ~ [En](users/333/333646551-vkontakte)<sup>110</sup>
 * Монах, который продал свой феррари ~ [Madlax](users/158/158304782-vkontakte)<sup>209</sup>
@@ -30,7 +31,6 @@
 * Афера ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>62</sup>
 * Махинация ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>61</sup>
 * Настоящая таможенная ведьма ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>60</sup>
-* Ворон ~ [dghtt](users/233/233860015-vkontakte)<sup>28</sup>
 
 
-_07.06.2020 11:46:11_
+_07.06.2020 16:56:28_
