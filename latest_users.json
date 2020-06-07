@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 111,
+        "updatedAt": "2020-06-07 11:46:11"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -10,12 +16,6 @@
         "nickname": "exulted",
         "booksCount": 125,
         "updatedAt": "2020-06-07 09:27:22"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 110,
-        "updatedAt": "2020-06-07 08:38:51"
     },
     "118158645037334943900-google": {
         "id": "118158645037334943900-google",

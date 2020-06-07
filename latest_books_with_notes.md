@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Апофения ~ [En](users/333/333646551-vkontakte)<sup>111</sup>
 * Английский пациент ~ [En](users/333/333646551-vkontakte)<sup>110</sup>
 * Монах, который продал свой феррари ~ [Madlax](users/158/158304782-vkontakte)<sup>209</sup>
 * Страсти по Марии ~ [Chiffi](users/105/105831994080785626680-google)<sup>192</sup>
@@ -30,7 +31,6 @@
 * Махинация ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>61</sup>
 * Настоящая таможенная ведьма ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>60</sup>
 * Ворон ~ [dghtt](users/233/233860015-vkontakte)<sup>28</sup>
-* Малоросійство ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>108</sup>
 
 
-_07.06.2020 08:38:51_
+_07.06.2020 11:46:11_
