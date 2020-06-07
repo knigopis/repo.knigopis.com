@@ -1,4 +1,16 @@
 {
+    "YSPta7zgVy": {
+        "id": "YSPta7zgVy",
+        "title": "Идеальная мать",
+        "author": "Эйми Моллой",
+        "notes": "",
+        "createdAt": "2020-06-07 19:51:10",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 82
+        }
+    },
     "zlewuYjPgH": {
         "id": "zlewuYjPgH",
         "title": "ДНК – не приговор",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 102
-        }
-    },
-    "Ci_1kS7dT3": {
-        "id": "Ci_1kS7dT3",
-        "title": "Степной волк",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2020-06-01 15:53:49",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 141
         }
     }
 }
