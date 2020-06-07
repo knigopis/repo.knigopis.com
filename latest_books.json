@@ -1,4 +1,16 @@
 {
+    "b_GM4snT8g": {
+        "id": "b_GM4snT8g",
+        "title": "Сквозь ад русской революции. Воспоминания гардемарина. 1914-1919",
+        "author": "Реден Николай",
+        "notes": "",
+        "createdAt": "2020-06-07 09:27:22",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 125
+        }
+    },
     "w3YYb5U1RH": {
         "id": "w3YYb5U1RH",
         "title": "Новые правила деловой переписки",
@@ -345,18 +357,6 @@
             "id": "858998239-yandex",
             "nickname": "yury5iz",
             "booksCount": 1
-        }
-    },
-    "cC4fI64LSm": {
-        "id": "cC4fI64LSm",
-        "title": "Pro git",
-        "author": "Скот Шакон И Бен Страуп",
-        "notes": "",
-        "createdAt": "2020-05-31 14:25:42",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 153
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>124</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>125</sup> 
 [En](users/333/333646551-vkontakte)<sup>110</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>47</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>58</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>140</sup> 
 
 
-_07.06.2020 09:25:38_
+_07.06.2020 09:27:22_
