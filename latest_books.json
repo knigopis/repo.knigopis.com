@@ -1,4 +1,16 @@
 {
+    "w3YYb5U1RH": {
+        "id": "w3YYb5U1RH",
+        "title": "Новые правила деловой переписки",
+        "author": "Максим Ильяхов, Людмила Сарычева",
+        "notes": "",
+        "createdAt": "2020-06-07 09:25:38",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 124
+        }
+    },
     "V2kTjeoT_S": {
         "id": "V2kTjeoT_S",
         "title": "Английский пациент",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 153
-        }
-    },
-    "T7BSu_2c4j": {
-        "id": "T7BSu_2c4j",
-        "title": "Мемуары папы Муми-тролля",
-        "author": "Туве Янсон",
-        "notes": "",
-        "createdAt": "2020-05-31 10:34:07",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 46
         }
     }
 }

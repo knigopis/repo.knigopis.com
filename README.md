@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>124</sup> 
 [En](users/333/333646551-vkontakte)<sup>110</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>47</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>58</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Maxfozzy](users/107/107378796665154363606-google)<sup>12</sup> 
 [Botitor](users/116/116288722371780885375-google)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>140</sup> 
-[Яков](users/117/117277044284589498872-google)<sup>19</sup> 
 
 
-_07.06.2020 08:38:51_
+_07.06.2020 09:25:38_
