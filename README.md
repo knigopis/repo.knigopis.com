@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Maxfozzy](users/107/107378796665154363606-google)<sup>12</sup> 
 
 
-_08.06.2020 00:36:29_
+_08.06.2020 00:42:17_
