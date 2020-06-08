@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вторая жизнь Уве ~ [dmiro](users/571/5714115-vkontakte)<sup>26</sup>
 * Путь к языку ~ [Rainbow](users/109/109787328219839805802-google)<sup>54</sup>
 * ДНК – не приговор ~ [Garka](users/115/115753719718250012620-google)<sup>253</sup>
 * Апофения ~ [En](users/333/333646551-vkontakte)<sup>111</sup>
@@ -30,7 +31,6 @@
 * Гильдия ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup>
 * Авантюра ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>63</sup>
 * Афера ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>62</sup>
-* Махинация ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>61</sup>
 
 
-_08.06.2020 00:36:29_
+_08.06.2020 13:34:12_

@@ -1,4 +1,10 @@
 {
+    "5714115-vkontakte": {
+        "id": "5714115-vkontakte",
+        "nickname": "dmiro",
+        "booksCount": 26,
+        "updatedAt": "2020-06-08 13:34:12"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "Daria Varyvod",
         "booksCount": 114,
         "updatedAt": "2020-05-29 05:32:21"
-    },
-    "107378796665154363606-google": {
-        "id": "107378796665154363606-google",
-        "nickname": "Maxfozzy",
-        "booksCount": 12,
-        "updatedAt": "2020-05-28 10:28:00"
     }
 }
