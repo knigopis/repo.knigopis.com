@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 54,
+        "updatedAt": "2020-06-08 00:36:29"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "Maxfozzy",
         "booksCount": 12,
         "updatedAt": "2020-05-28 10:28:00"
-    },
-    "116288722371780885375-google": {
-        "id": "116288722371780885375-google",
-        "nickname": "Botitor",
-        "booksCount": 1,
-        "updatedAt": "2020-05-28 07:10:34"
     }
 }

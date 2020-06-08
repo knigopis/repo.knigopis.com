@@ -1,4 +1,16 @@
 {
+    "1hFgGRAA9a": {
+        "id": "1hFgGRAA9a",
+        "title": "Путь к языку",
+        "author": "Мартин Хайдеггер",
+        "notes": "Я ненавижу философские тексты и дефисы.",
+        "createdAt": "2020-06-08 00:36:29",
+        "user": {
+            "id": "109787328219839805802-google",
+            "nickname": "Rainbow",
+            "booksCount": 54
+        }
+    },
     "zlewuYjPgH": {
         "id": "zlewuYjPgH",
         "title": "ДНК – не приговор",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 61
-        }
-    },
-    "olbHAz2VdU": {
-        "id": "olbHAz2VdU",
-        "title": "Настоящая таможенная ведьма",
-        "author": "Елена Звездная",
-        "notes": "10/10",
-        "createdAt": "2020-05-16 08:12:54",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 60
         }
     }
 }
