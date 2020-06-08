@@ -1,4 +1,16 @@
 {
+    "hCvKNm7HCh": {
+        "id": "hCvKNm7HCh",
+        "title": "Америка",
+        "author": "Франц Кафка",
+        "notes": "",
+        "createdAt": "2020-06-08 14:47:29",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 48
+        }
+    },
     "xPmYUiEWSW": {
         "id": "xPmYUiEWSW",
         "title": "Путь джедая",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 312
-        }
-    },
-    "nzbb6LPSmY": {
-        "id": "nzbb6LPSmY",
-        "title": "Академия тёмных властелинов",
-        "author": "Надежда Мамаева",
-        "notes": "",
-        "createdAt": "2020-06-02 16:55:22",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 311
         }
     }
 }

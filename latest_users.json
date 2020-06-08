@@ -1,4 +1,10 @@
 {
+    "118158645037334943900-google": {
+        "id": "118158645037334943900-google",
+        "nickname": "Антенка",
+        "booksCount": 48,
+        "updatedAt": "2020-06-08 14:47:29"
+    },
     "5714115-vkontakte": {
         "id": "5714115-vkontakte",
         "nickname": "dmiro",
@@ -40,12 +46,6 @@
         "nickname": "exulted",
         "booksCount": 125,
         "updatedAt": "2020-06-07 09:27:22"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 47,
-        "updatedAt": "2020-06-06 14:47:30"
     },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",

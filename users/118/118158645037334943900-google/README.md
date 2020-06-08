@@ -1,7 +1,12 @@
-# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>47</sup>
+# List of books read by [Антенка](https://plus.google.com/u/0/118158645037334943900/)<sup>48</sup>
 ---
 
 ## 2020
+
+### Америка
+Франц Кафка
+> [2020-06-08] 
+
 
 ### Опасное лето
 Туве Янсон
