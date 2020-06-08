@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Путь джедая ~ [dmiro](users/571/5714115-vkontakte)<sup>27</sup>
 * Вторая жизнь Уве ~ [dmiro](users/571/5714115-vkontakte)<sup>26</sup>
 * Путь к языку ~ [Rainbow](users/109/109787328219839805802-google)<sup>54</sup>
 * ДНК – не приговор ~ [Garka](users/115/115753719718250012620-google)<sup>253</sup>
@@ -30,7 +31,6 @@
 * Темна вежа 4. Чаклун та кристал. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>109</sup>
 * Гильдия ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup>
 * Авантюра ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>63</sup>
-* Афера ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>62</sup>
 
 
-_08.06.2020 13:34:12_
+_08.06.2020 13:40:28_
