@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 70,
+        "updatedAt": "2020-06-09 19:31:47"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 100,
         "updatedAt": "2020-05-29 05:46:05"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 114,
-        "updatedAt": "2020-05-29 05:32:21"
     }
 }
