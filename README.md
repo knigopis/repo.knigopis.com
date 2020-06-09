@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>70</sup> 
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>71</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>106</sup> 
 [Елена](users/115/115826717712507836033-google)<sup>142</sup> 
 [En](users/333/333646551-vkontakte)<sup>112</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>100</sup> 
 
 
-_09.06.2020 19:31:47_
+_09.06.2020 19:32:52_

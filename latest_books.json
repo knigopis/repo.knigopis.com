@@ -1,4 +1,16 @@
 {
+    "gWfdIc6y0H": {
+        "id": "gWfdIc6y0H",
+        "title": "Старинная девочка, которая влюбилась в мозг",
+        "author": "Венди Сузуки",
+        "notes": "",
+        "createdAt": "2020-06-09 19:32:52",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 71
+        }
+    },
     "XUSSGpuE_-": {
         "id": "XUSSGpuE_-",
         "title": "Вон собака бежит",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 155
-        }
-    },
-    "lJqpoZ0lPb": {
-        "id": "lJqpoZ0lPb",
-        "title": "Попаданка и король",
-        "author": "Матильда Старр",
-        "notes": "",
-        "createdAt": "2020-06-03 08:30:40",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Laila",
-            "booksCount": 315
         }
     }
 }

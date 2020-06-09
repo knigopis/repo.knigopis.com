@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>70</sup>
+# List of books read by inna.besprozvannykh<sup>71</sup>
 ---
 
 ## 2020
+
+### Старинная девочка, которая влюбилась в мозг
+Венди Сузуки
+> [2020-05] 
+
 
 ### Вон собака бежит
 Казаков Юрий Павлович
