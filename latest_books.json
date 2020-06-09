@@ -1,4 +1,16 @@
 {
+    "-ySCXiFa_9": {
+        "id": "-ySCXiFa_9",
+        "title": "Остров пингвинов",
+        "author": "Анатоль Франс",
+        "notes": "",
+        "createdAt": "2020-06-09 14:06:42",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 808
+        }
+    },
     "hCvKNm7HCh": {
         "id": "hCvKNm7HCh",
         "title": "Америка",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 313
-        }
-    },
-    "_qFfg2fgNB": {
-        "id": "_qFfg2fgNB",
-        "title": "Советница Его Темнейшества",
-        "author": "Ирмата Арьяр",
-        "notes": "",
-        "createdAt": "2020-06-02 16:56:37",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 312
         }
     }
 }
