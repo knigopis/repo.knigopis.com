@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В поисках потока ~ [Елена](users/115/115826717712507836033-google)<sup>142</sup>
 * Экспедиция Оюнсу ~ [En](users/333/333646551-vkontakte)<sup>112</sup>
 * Путь джедая ~ [dmiro](users/571/5714115-vkontakte)<sup>27</sup>
 * Вторая жизнь Уве ~ [dmiro](users/571/5714115-vkontakte)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Темна вежа 4 (продовження). Вітер крізь замкову шпарину. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup>
 * Рассуждение о методе, чтобы верно направлять свой разум и отыскивать истину в науках ~ [Rainbow](users/109/109787328219839805802-google)<sup>53</sup>
 * Темна вежа 4. Чаклун та кристал. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>109</sup>
-* Гильдия ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>64</sup>
 
 
-_09.06.2020 16:57:41_
+_09.06.2020 17:13:25_
