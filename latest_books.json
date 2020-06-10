@@ -1,4 +1,16 @@
 {
+    "tjwIutlAwh": {
+        "id": "tjwIutlAwh",
+        "title": "Шелкопряд",
+        "author": "Роберт Гэлбрейт",
+        "notes": "7/10 пасквильный писатель убит так, как описал в своем последнем романе.",
+        "createdAt": "2020-06-10 18:43:00",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 115
+        }
+    },
     "gWfdIc6y0H": {
         "id": "gWfdIc6y0H",
         "title": "Старинная девочка, которая влюбилась в мозг",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 109
-        }
-    },
-    "9W4TJbNks1": {
-        "id": "9W4TJbNks1",
-        "title": "Краткие ответы, на большие вопросы",
-        "author": "Стивен Хокинг",
-        "notes": "",
-        "createdAt": "2020-06-03 15:02:15",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 155
         }
     }
 }

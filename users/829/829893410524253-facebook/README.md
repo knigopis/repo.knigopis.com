@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>114</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>115</sup>
 ---
 
 ## 2020
+
+### Шелкопряд
+Роберт Гэлбрейт
+> [2020-06-11] 7/10 пасквильный писатель убит так, как описал в своем последнем романе.
+
 
 ### Выбор. Мировое господство или глобальная доминация.
 Збигнев Бжезинский

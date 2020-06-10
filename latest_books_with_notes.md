@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шелкопряд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>115</sup>
 * Вон собака бежит ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>70</sup>
 * В поисках потока ~ [Елена](users/115/115826717712507836033-google)<sup>142</sup>
 * Экспедиция Оюнсу ~ [En](users/333/333646551-vkontakte)<sup>112</sup>
@@ -30,7 +31,6 @@
 * Спот-кадр ~ [En](users/333/333646551-vkontakte)<sup>106</sup>
 * Зов Ктулху ~ [En](users/333/333646551-vkontakte)<sup>105</sup>
 * Темна вежа 4 (продовження). Вітер крізь замкову шпарину. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup>
-* Рассуждение о методе, чтобы верно направлять свой разум и отыскивать истину в науках ~ [Rainbow](users/109/109787328219839805802-google)<sup>53</sup>
 
 
-_09.06.2020 19:31:47_
+_10.06.2020 18:43:00_
