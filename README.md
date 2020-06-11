@@ -51,7 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/113/1130000004300166-yandex)<sup>0</sup> 
+[](users/113/1130000004300166-yandex)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>116</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>28</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>55</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [fond.uglei](users/108/108648895381755785207-google)<sup>0</sup> 
 
 
-_11.06.2020 17:51:20_
+_11.06.2020 17:58:58_

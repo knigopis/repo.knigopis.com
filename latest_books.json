@@ -1,4 +1,16 @@
 {
+    "0kWx_HjSmO": {
+        "id": "0kWx_HjSmO",
+        "title": "Մեծապատիվ մուրացկանները",
+        "author": "Հակոբ Պարոնյան",
+        "notes": "Վերհիշենք հայ գրողներին իրենց տաղանդով \"հարուստ մարդկանց\" հարուստ հոգեբանությունը բացահայտելով։",
+        "createdAt": "2020-06-11 17:58:58",
+        "user": {
+            "id": "1130000004300166-yandex",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "0AVUzesK7u": {
         "id": "0AVUzesK7u",
         "title": "Как работает мир, в котором я живу",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 105
-        }
-    },
-    "9dAW3VLV9d": {
-        "id": "9dAW3VLV9d",
-        "title": "ПлоХорошо",
-        "author": "Ольга Савельева",
-        "notes": "",
-        "createdAt": "2020-06-04 20:40:28",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 81
         }
     }
 }
