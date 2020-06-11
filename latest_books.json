@@ -1,4 +1,16 @@
 {
+    "0AVUzesK7u": {
+        "id": "0AVUzesK7u",
+        "title": "Как работает мир, в котором я живу",
+        "author": "Вячеслав Неклюдов",
+        "notes": "8/10 Простое объяснения мироустройства, оставляет неприятный осадок.",
+        "createdAt": "2020-06-11 17:37:48",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 116
+        }
+    },
     "VUolZn6bNL": {
         "id": "VUolZn6bNL",
         "title": "Бабушка велела кланяться и передать, что просит прощения",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 81
-        }
-    },
-    "dUoCuKHQWr": {
-        "id": "dUoCuKHQWr",
-        "title": "Страсти по Марии",
-        "author": "Бенцони Жюльетта",
-        "notes": "вторая книга.",
-        "createdAt": "2020-06-04 19:38:58",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 192
         }
     }
 }

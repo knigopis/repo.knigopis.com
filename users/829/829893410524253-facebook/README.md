@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>115</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>116</sup>
 ---
 
 ## 2020
+
+### Как работает мир, в котором я живу
+Вячеслав Неклюдов
+> [2020-06-11] 8/10 Простое объяснения мироустройства, оставляет неприятный осадок.
+
 
 ### Шелкопряд
 Роберт Гэлбрейт

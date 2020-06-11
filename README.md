@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как работает мир, в котором я живу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>116</sup>
+    > 8/10 Простое объяснения мироустройства, оставляет неприятный осадок.
+
 * Бабушка велела кланяться и передать, что просит прощения ~ [dmiro](users/571/5714115-vkontakte)<sup>28</sup>
     > Каждая жертва развода имеет право на эксцентричные поступки.
     > 
@@ -30,7 +33,6 @@ Do not use pull requests to make changes here.
     > 7/10 пасквильный писатель убит так, как описал в своем последнем романе.
 
 * Вон собака бежит ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>70</sup>
-    > 🎧Аудиокнига
 
 * В поисках потока ~ [Елена](users/115/115826717712507836033-google)<sup>142</sup>
 
@@ -44,16 +46,14 @@ Do not use pull requests to make changes here.
 
 * ДНК – не приговор ~ [Garka](users/115/115753719718250012620-google)<sup>253</sup>
 
-* Апофения ~ [En](users/333/333646551-vkontakte)<sup>111</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>116</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>28</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>55</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>115</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>71</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>106</sup> 
 [Елена](users/115/115826717712507836033-google)<sup>142</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>386</sup> 
 
 
-_11.06.2020 08:32:29_
+_11.06.2020 17:37:48_
