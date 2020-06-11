@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бабушка велела кланяться и передать, что просит прощения ~ [dmiro](users/571/5714115-vkontakte)<sup>28</sup>
 * Шелкопряд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>115</sup>
 * Вон собака бежит ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>70</sup>
 * В поисках потока ~ [Елена](users/115/115826717712507836033-google)<sup>142</sup>
@@ -30,7 +31,6 @@
 * Техподдержка. Мертвая зона ~ [Chiffi](users/105/105831994080785626680-google)<sup>190</sup>
 * Спот-кадр ~ [En](users/333/333646551-vkontakte)<sup>106</sup>
 * Зов Ктулху ~ [En](users/333/333646551-vkontakte)<sup>105</sup>
-* Темна вежа 4 (продовження). Вітер крізь замкову шпарину. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>110</sup>
 
 
-_10.06.2020 18:43:00_
+_11.06.2020 08:32:29_
