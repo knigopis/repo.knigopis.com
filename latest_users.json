@@ -1,4 +1,10 @@
 {
+    "1130000004300166-yandex": {
+        "id": "1130000004300166-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-06-11 17:51:18"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "fond.uglei",
         "booksCount": 0,
         "updatedAt": "2020-05-30 10:05:10"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 386,
-        "updatedAt": "2020-05-30 07:16:37"
     }
 }
