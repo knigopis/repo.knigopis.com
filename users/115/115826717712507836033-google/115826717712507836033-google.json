@@ -1,7 +1,7 @@
 {
     "id": "115826717712507836033-google",
-    "nickname": "Елена",
-    "profile": false,
+    "nickname": "Elixir",
+    "profile": "false",
     "identity": "https://plus.google.com/u/0/115826717712507836033/",
     "booksCount": 142,
     "subscriptions": {
@@ -21,5 +21,5 @@
         "158304782-vkontakte": 209
     },
     "createdAt": "2018-03-28 19:20:14",
-    "updatedAt": "2020-06-11 18:06:48"
+    "updatedAt": "2020-06-11 18:08:31"
 }
