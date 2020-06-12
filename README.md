@@ -51,6 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>387</sup> 
 [](users/113/1130000004300166-yandex)<sup>1</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>116</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>28</sup> 
@@ -80,7 +81,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup> 
 [yury5iz](users/858/858998239-yandex)<sup>1</sup> 
 [Joxxy](users/109/109128632962928278575-google)<sup>23</sup> 
-[fond.uglei](users/108/108648895381755785207-google)<sup>0</sup> 
 
 
-_11.06.2020 17:58:58_
+_12.06.2020 04:27:30_
