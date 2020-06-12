@@ -1,4 +1,16 @@
 {
+    "lKbouzxh4e": {
+        "id": "lKbouzxh4e",
+        "title": "Книга, которой нет",
+        "author": "Алекс Новак",
+        "notes": "🎧 аудиокнига",
+        "createdAt": "2020-06-12 08:44:30",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 72
+        }
+    },
     "Pvc7vt4mck": {
         "id": "Pvc7vt4mck",
         "title": "Бесплодные земли",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 206
-        }
-    },
-    "PfewZdsqDX": {
-        "id": "PfewZdsqDX",
-        "title": "Homo Deus",
-        "author": "Юваль Ной Харари",
-        "notes": "",
-        "createdAt": "2020-06-05 14:21:34",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 50
         }
     }
 }

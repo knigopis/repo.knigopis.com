@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Книга, которой нет ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>72</sup>
 * Как работает мир, в котором я живу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>116</sup>
 * Бабушка велела кланяться и передать, что просит прощения ~ [dmiro](users/571/5714115-vkontakte)<sup>28</sup>
 * Шелкопряд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>115</sup>
@@ -30,7 +31,6 @@
 * Геном - автобиография вида в 23 главах ~ [Garka](users/115/115753719718250012620-google)<sup>252</sup>
 * Дорога без возврата. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>111</sup>
 * Техподдержка. Мертвая зона ~ [Chiffi](users/105/105831994080785626680-google)<sup>190</sup>
-* Спот-кадр ~ [En](users/333/333646551-vkontakte)<sup>106</sup>
 
 
-_11.06.2020 17:37:48_
+_12.06.2020 08:44:30_
