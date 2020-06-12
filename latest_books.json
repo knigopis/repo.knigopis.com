@@ -1,4 +1,16 @@
 {
+    "gjS8LekLOl": {
+        "id": "gjS8LekLOl",
+        "title": "Приключения Шерлока Холмса",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2020-06-12 16:36:43",
+        "user": {
+            "id": "68439978-vkontakte",
+            "nickname": "kissamasya",
+            "booksCount": 90
+        }
+    },
     "lKbouzxh4e": {
         "id": "lKbouzxh4e",
         "title": "Книга, которой нет",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 207
-        }
-    },
-    "WnB2DFRmtp": {
-        "id": "WnB2DFRmtp",
-        "title": "Дикая Роза",
-        "author": "Айрис Мердок",
-        "notes": "",
-        "createdAt": "2020-06-05 21:10:10",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 206
         }
     }
 }

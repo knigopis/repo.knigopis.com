@@ -51,6 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>90</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>72</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>387</sup> 
 [](users/113/1130000004300166-yandex)<sup>1</sup> 
@@ -80,7 +81,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>102</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup> 
 [yury5iz](users/858/858998239-yandex)<sup>1</sup> 
-[Joxxy](users/109/109128632962928278575-google)<sup>23</sup> 
 
 
-_12.06.2020 08:44:30_
+_12.06.2020 16:36:43_
