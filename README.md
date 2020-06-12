@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Kremnev1](users/109/109398777294736369541-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>51</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>148</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>90</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>37</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>102</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup> 
-[yury5iz](users/858/858998239-yandex)<sup>1</sup> 
 
 
-_12.06.2020 19:50:39_
+_12.06.2020 20:51:15_
