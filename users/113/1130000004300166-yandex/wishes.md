@@ -1,7 +1,9 @@
-# Wish list of books by 
+# Wish list of books by ՎաչՎաղՍիր
 ---
 
-### `88` Մեծապատիվ մուրացկանները
-Հակոբ Պարոնյան
-> Վերհիշենք հայ գրողներին իրենց տաղանդով "հարուստ մարդկանց" հարուստ հոգեբանությունը բացահայտելով։
+### `` Кино Театр Безбожник.  The Godless Movie Theater
+Г. Тер-Габриелян. Gevorg Ter-Gabrielyan
+> Книга содержит прозу и эссе Геворга Тер-Габриеляна, написанные в  2012-2017 г.г. и частично опубликованные в прессе.
+>   
+> The book contains fiction and essays by Gevorg Ter-Gabrielyan, written in 2012-2017 and partially published in the on-line media.
 
