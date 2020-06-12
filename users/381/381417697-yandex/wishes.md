@@ -50,6 +50,9 @@ Joel Spolsky
 Янис Ксенакис
 > 1963
 
+### `` Мертвые души
+Николай Гоголь
+
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
@@ -57,16 +60,13 @@ Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes
 Мильтон Бэббит
 > 1992
 
-### `` Не рычите на собаку
-
 ### `` Permanent Record
 Edward Snowden
 
-### `` Мертвые души
-Николай Гоголь
-
 ### `` Три товарища
 Эрих Мария Ремарк
+
+### `` Не рычите на собаку
 
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
@@ -78,11 +78,10 @@ Edward Snowden
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
 
+### `` asdf
+
 ### `` Искусство программирования
 Дональд Кнут
-
-### `` Agile Estimating and Planning
-Mike Cohn
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
@@ -110,13 +109,14 @@ Dafydd Stuttard, Marcus Pinto
 Jon Erickson
 > ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
+### `` Agile Estimating and Planning
+Mike Cohn
+
 ### `` A Briefer History of Time
 Stephen Hawking
 
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
-
-### `` 1
 
 ### `` Герой нашего времени
 Михаил Лермонтов
