@@ -1,4 +1,10 @@
 {
+    "115826717712507836033-google": {
+        "id": "115826717712507836033-google",
+        "nickname": "Elixir",
+        "booksCount": 143,
+        "updatedAt": "2020-06-12 19:26:57"
+    },
     "68439978-vkontakte": {
         "id": "68439978-vkontakte",
         "nickname": "kissamasya",
@@ -46,12 +52,6 @@
         "nickname": "GvenVivar ",
         "booksCount": 106,
         "updatedAt": "2020-06-09 17:27:18"
-    },
-    "115826717712507836033-google": {
-        "id": "115826717712507836033-google",
-        "nickname": "Елена",
-        "booksCount": 142,
-        "updatedAt": "2020-06-09 17:13:25"
     },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
