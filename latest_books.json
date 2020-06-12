@@ -1,4 +1,16 @@
 {
+    "0GAlPlsGoi": {
+        "id": "0GAlPlsGoi",
+        "title": "Госпожа Бовари",
+        "author": "Гюстав Флобер",
+        "notes": "",
+        "createdAt": "2020-06-12 19:29:43",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 146
+        }
+    },
     "Io_0uOlozS": {
         "id": "Io_0uOlozS",
         "title": "Портрет Дориана Грэя",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 47
-        }
-    },
-    "y0eIqTFP1A": {
-        "id": "y0eIqTFP1A",
-        "title": "Воспоминания биржевого спекулянта",
-        "author": "Эдвин Лефевр",
-        "notes": "",
-        "createdAt": "2020-06-06 09:26:30",
-        "user": {
-            "id": "202248233-vkontakte",
-            "nickname": "zAAz",
-            "booksCount": 58
         }
     }
 }
