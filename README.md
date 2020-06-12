@@ -51,7 +51,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Elixir](users/115/115826717712507836033-google)<sup>146</sup> 
+[Elixir](users/115/115826717712507836033-google)<sup>147</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>90</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>72</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>387</sup> 
@@ -83,4 +83,4 @@ _More notes [here](latest_books_with_notes.md)._
 [yury5iz](users/858/858998239-yandex)<sup>1</sup> 
 
 
-_12.06.2020 19:29:43_
+_12.06.2020 19:30:00_

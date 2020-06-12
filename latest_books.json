@@ -1,4 +1,16 @@
 {
+    "eFPj6rjHAA": {
+        "id": "eFPj6rjHAA",
+        "title": "Голова профессора Доуэля",
+        "author": "Александр Беляев",
+        "notes": "",
+        "createdAt": "2020-06-12 19:30:00",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 147
+        }
+    },
     "0GAlPlsGoi": {
         "id": "0GAlPlsGoi",
         "title": "Госпожа Бовари",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 110
-        }
-    },
-    "YjnVVb4QAV": {
-        "id": "YjnVVb4QAV",
-        "title": "Опасное лето",
-        "author": "Туве Янсон",
-        "notes": "",
-        "createdAt": "2020-06-06 14:47:30",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 47
         }
     }
 }
