@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лев, колдунья и платяной шкаф ~ [Rainbow](users/109/109787328219839805802-google)<sup>51</sup>
 * Книга, которой нет ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>72</sup>
 * Как работает мир, в котором я живу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>116</sup>
 * Бабушка велела кланяться и передать, что просит прощения ~ [dmiro](users/571/5714115-vkontakte)<sup>28</sup>
@@ -30,7 +31,6 @@
 * Клавка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>112</sup>
 * Геном - автобиография вида в 23 главах ~ [Garka](users/115/115753719718250012620-google)<sup>252</sup>
 * Дорога без возврата. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>111</sup>
-* Техподдержка. Мертвая зона ~ [Chiffi](users/105/105831994080785626680-google)<sup>190</sup>
 
 
-_12.06.2020 08:44:30_
+_12.06.2020 19:50:39_
