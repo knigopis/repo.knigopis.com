@@ -1,4 +1,16 @@
 {
+    "Io_0uOlozS": {
+        "id": "Io_0uOlozS",
+        "title": "Портрет Дориана Грэя",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2020-06-12 19:29:17",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 145
+        }
+    },
     "0VT95E25hF": {
         "id": "0VT95E25hF",
         "title": "Красное и черное",
@@ -345,18 +357,6 @@
             "id": "202248233-vkontakte",
             "nickname": "zAAz",
             "booksCount": 58
-        }
-    },
-    "FPHd0STouR": {
-        "id": "FPHd0STouR",
-        "title": "Монах, который продал свой феррари",
-        "author": "Шарма Робин",
-        "notes": "Чушь",
-        "createdAt": "2020-06-05 21:11:13",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 209
         }
     }
 }
