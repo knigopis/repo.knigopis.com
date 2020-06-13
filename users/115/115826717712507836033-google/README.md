@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>168</sup>
+# List of books read by [Elixir](false)<sup>167</sup>
 ---
 
 ## 2020
@@ -648,10 +648,6 @@
 
 ### Джейн Ейр
 Шарлота Бронте
-
-
-### Грозовой перевал
-Эмили Бронте
 
 
 ### Код Да Винчи
