@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>151</sup>
+# List of books read by [Elixir](false)<sup>152</sup>
 ---
 
 ## 2020
@@ -605,6 +605,10 @@
 
 
 ## Other years
+
+### Госпожа Бовари
+Гюстав Флобер
+
 
 ### Портрет Дориана Грэя
 Оскар Уайльд
