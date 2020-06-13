@@ -1,4 +1,4 @@
-# List of books read by ՎաչՎաղՍիր<sup>6</sup>
+# List of books read by ՎաչՎաղՍիր<sup>7</sup>
 ---
 
 ## 2020
@@ -24,6 +24,13 @@
 > Vardananq is an Armenian historical novel. It is about the Armenian-Persian war for the independence of Armenia
 > 
 > Исторический роман "Вардананк" повествует об освободительной войне армянского народа против персидского ига в 450 – 451
+
+
+
+## 1984
+
+### Тро́е в ло́дке, не счита́я соба́ки Three Men in a Boat (To Say Nothing of the Dog)
+Джером К. Джером Jerome Klapka Jerome.
 
 
 
