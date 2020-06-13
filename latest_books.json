@@ -1,4 +1,16 @@
 {
+    "7NgcH1Z6rB": {
+        "id": "7NgcH1Z6rB",
+        "title": "Черная жемчужина раздора",
+        "author": "Д. Донцова",
+        "notes": "",
+        "createdAt": "2020-06-13 15:16:18",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 19
+        }
+    },
     "MdBlNJLvuj": {
         "id": "MdBlNJLvuj",
         "title": "Рассказ Служанки",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 149
-        }
-    },
-    "wR_4pZp15w": {
-        "id": "wR_4pZp15w",
-        "title": "The Moon and Sixpence",
-        "author": "William Somerset Maugham CH; 25 January 1874 – 16 December 1965",
-        "notes": "First published in April 15th, 1919. It is told in episodic form by a first-person narrator, in a series of glimpses into the mind and soul of the central character Charles Strickland, a middle-aged English stockbroker, who abandons his wife and children abruptly to pursue his desire to become an artist. The story is in part based on the life of the painter Paul Gauguin.",
-        "createdAt": "2020-06-13 03:21:08",
-        "user": {
-            "id": "1130000004300166-yandex",
-            "nickname": "ՎաչՎաղՍիր",
-            "booksCount": 2
         }
     }
 }
