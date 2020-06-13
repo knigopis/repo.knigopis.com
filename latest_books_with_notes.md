@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Теория зла ~ [En](users/333/333646551-vkontakte)<sup>113</sup>
 * Конь и его мальчик ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
 * Лев, колдунья и платяной шкаф ~ [Rainbow](users/109/109787328219839805802-google)<sup>51</sup>
 * Книга, которой нет ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>72</sup>
@@ -30,7 +31,6 @@
 * Походы и кони ~ [mfevralev](users/140/140966150-vkontakte)<sup>45</sup>
 * Так берегись ~ [En](users/333/333646551-vkontakte)<sup>107</sup>
 * Клавка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>112</sup>
-* Геном - автобиография вида в 23 главах ~ [Garka](users/115/115753719718250012620-google)<sup>252</sup>
 
 
-_12.06.2020 23:24:37_
+_13.06.2020 17:09:30_
