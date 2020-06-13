@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>149</sup>
+# List of books read by [Elixir](false)<sup>150</sup>
 ---
 
 ## 2020
@@ -605,6 +605,10 @@
 
 
 ## Other years
+
+### Медея и ее дети
+Людмила Улицкая
+
 
 ### Поднятая целина
 Михаил Шолохов
