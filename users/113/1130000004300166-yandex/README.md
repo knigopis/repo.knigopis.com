@@ -1,4 +1,4 @@
-# List of books read by ՎաչՎաղՍիր<sup>4</sup>
+# List of books read by ՎաչՎաղՍիր<sup>5</sup>
 ---
 
 ## 2020
@@ -6,6 +6,14 @@
 ### Մեծապատիվ մուրացկանները
 Հակոբ Պարոնյան
 > [2020-06-11] Վերհիշենք հայ գրողներին իրենց տաղանդով "հարուստ" մարդկանց "հարուստ" հոգեբանությունը բացահայտելով։
+
+
+
+## 1990
+
+### The Diary of a Cross-Stealer Խաչագողի հիշատակարանը
+Րաֆֆի Raffi Раффи
+> The Diary of a Cross-Stealer is an 1890 novel by the Armenian novelist Raffi. It was translated into Russian as Дневник крестокрада
 
 
 
