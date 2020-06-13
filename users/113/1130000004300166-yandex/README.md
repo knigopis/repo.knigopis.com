@@ -43,7 +43,7 @@ Theodore Dreiser
 
 
 
-## 1976
+## 1974
 
 ### Սամվել Samuel Самвел
 Րաֆֆի Raffi
