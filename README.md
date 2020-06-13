@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Elixir](users/115/115826717712507836033-google)<sup>155</sup> 
+[Elixir](users/115/115826717712507836033-google)<sup>156</sup> 
 [ՎաչՎաղՍիր](users/113/1130000004300166-yandex)<sup>7</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 [Kremnev1](users/109/109398777294736369541-google)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup> 
 
 
-_13.06.2020 06:02:02_
+_13.06.2020 06:02:41_
