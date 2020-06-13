@@ -1,4 +1,16 @@
 {
+    "BQtlbQubHa": {
+        "id": "BQtlbQubHa",
+        "title": "Кысь",
+        "author": "Татьяна Толстая",
+        "notes": "",
+        "createdAt": "2020-06-13 12:30:46",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 165
+        }
+    },
     "iOeTG5w43N": {
         "id": "iOeTG5w43N",
         "title": "Просто вместе",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 387
-        }
-    },
-    "0kWx_HjSmO": {
-        "id": "0kWx_HjSmO",
-        "title": "Մեծապատիվ մուրացկանները",
-        "author": "Հակոբ Պարոնյան",
-        "notes": "Վերհիշենք հայ գրողներին իրենց տաղանդով \"հարուստ մարդկանց\" հարուստ հոգեբանությունը բացահայտելով։",
-        "createdAt": "2020-06-11 17:58:58",
-        "user": {
-            "id": "1130000004300166-yandex",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
