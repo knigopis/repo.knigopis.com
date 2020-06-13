@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>148</sup>
+# List of books read by [Elixir](false)<sup>149</sup>
 ---
 
 ## 2020
@@ -605,6 +605,10 @@
 
 
 ## Other years
+
+### Поднятая целина
+Михаил Шолохов
+
 
 ### Изгоняющий дьявола
 Уильям Питер Блэтти
