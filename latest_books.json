@@ -1,4 +1,16 @@
 {
+    "je9buzt_9L": {
+        "id": "je9buzt_9L",
+        "title": "Игра Джералда",
+        "author": "Стивен Кинг",
+        "notes": "Роман вошел в список самых любимых.",
+        "createdAt": "2020-06-13 07:04:07",
+        "user": {
+            "id": "109533635046249857347-google",
+            "nickname": "chaotic_equal",
+            "booksCount": 1
+        }
+    },
     "tA773qCA2r": {
         "id": "tA773qCA2r",
         "title": "Грозовой перевал",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 70
-        }
-    },
-    "PfYLvxSAtk": {
-        "id": "PfYLvxSAtk",
-        "title": "Тайна замка Роксфорд-Холл",
-        "author": "Джон Харвуд",
-        "notes": "",
-        "createdAt": "2020-06-09 17:27:18",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 106
         }
     }
 }
