@@ -1,4 +1,16 @@
 {
+    "wTgV0vLl5A": {
+        "id": "wTgV0vLl5A",
+        "title": "Generation «П»",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2020-06-13 12:39:16",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 169
+        }
+    },
     "h7ct3a2cjC": {
         "id": "h7ct3a2cjC",
         "title": "Раковый корпус",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 52
-        }
-    },
-    "UafH_K0coT": {
-        "id": "UafH_K0coT",
-        "title": "Лев, колдунья и платяной шкаф",
-        "author": "Клайв Стейплз Льюис",
-        "notes": "«когда-нибудь ты дорастешь до такого дня, когда вновь начнешь читать »",
-        "createdAt": "2020-06-12 19:50:39",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 51
         }
     }
 }

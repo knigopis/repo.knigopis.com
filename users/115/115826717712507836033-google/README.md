@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>168</sup>
+# List of books read by [Elixir](false)<sup>169</sup>
 ---
 
 ## 2020
@@ -605,6 +605,10 @@
 
 
 ## Other years
+
+### Generation «П»
+Виктор Пелевин
+
 
 ### Раковый корпус
 Александр Солженицын
