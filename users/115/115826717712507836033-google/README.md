@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>160</sup>
+# List of books read by [Elixir](false)<sup>161</sup>
 ---
 
 ## 2020
@@ -605,6 +605,10 @@
 
 
 ## Other years
+
+### Чайка по имени Джонатан Ливингстон
+Ричард Бах
+
 
 ### Унесенные ветром
 Маргарет Митчелл
