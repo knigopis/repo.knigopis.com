@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>52</sup> 
 [ՎաչՎաղՍիր](users/113/1130000004300166-yandex)<sup>8</sup> 
 [](users/153/1537586159620888-facebook)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>809</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/254/254457124-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>155</sup> 
 [Laila](users/761/76187635-vkontakte)<sup>315</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>37</sup> 
 
 
-_13.06.2020 16:36:23_
+_13.06.2020 16:37:40_

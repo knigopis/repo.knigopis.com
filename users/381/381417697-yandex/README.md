@@ -1,4 +1,4 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>51</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=381417697-yandex)<sup>52</sup>
 ---
 
 ## 2019
@@ -170,6 +170,13 @@ Joshua Bloch
 ### Преступление и наказание
 Федор Достоевский
 > [2010-08] 
+
+
+
+## 1999
+
+### Рассказы Люси Синицыной, ученицы третьего класса
+Ирина Пивоварова
 
 
 

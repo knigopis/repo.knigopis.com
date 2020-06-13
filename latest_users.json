@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 52,
+        "updatedAt": "2020-06-13 16:37:40"
+    },
     "1130000004300166-yandex": {
         "id": "1130000004300166-yandex",
         "nickname": "ՎաչՎաղՍիր",
@@ -172,11 +178,5 @@
         "nickname": "Laila",
         "booksCount": 315,
         "updatedAt": "2020-06-03 08:30:40"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 37,
-        "updatedAt": "2020-06-01 20:52:50"
     }
 }
