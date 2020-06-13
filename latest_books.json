@@ -1,4 +1,16 @@
 {
+    "s0GTledrLT": {
+        "id": "s0GTledrLT",
+        "title": "Портрет Дориана Грэя",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2020-06-13 03:43:43",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 151
+        }
+    },
     "f4tOxVAEzh": {
         "id": "f4tOxVAEzh",
         "title": "Медея и ее дети",
@@ -93,18 +105,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 146
-        }
-    },
-    "Io_0uOlozS": {
-        "id": "Io_0uOlozS",
-        "title": "Портрет Дориана Грэя",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2020-06-12 19:29:17",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 145
         }
     },
     "0VT95E25hF": {
