@@ -78,7 +78,7 @@ Edward Snowden
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
 
-### `` asdf
+### `` фыва
 
 ### `` Искусство программирования
 Дональд Кнут
