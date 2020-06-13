@@ -1,4 +1,16 @@
 {
+    "CkHypzo-Yx": {
+        "id": "CkHypzo-Yx",
+        "title": "Похитители снов",
+        "author": "Мэгги Стивотер",
+        "notes": "",
+        "createdAt": "2020-06-13 17:35:46",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 107
+        }
+    },
     "PF_7aHaWux": {
         "id": "PF_7aHaWux",
         "title": "Теория зла",
@@ -345,18 +357,6 @@
             "id": "1130000004300166-yandex",
             "nickname": "ՎաչՎաղՍիր",
             "booksCount": 3
-        }
-    },
-    "BK7O0TkaDy": {
-        "id": "BK7O0TkaDy",
-        "title": "Хождение по мукам",
-        "author": "Алексей Толстой",
-        "notes": "",
-        "createdAt": "2020-06-13 03:46:06",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 153
         }
     }
 }
