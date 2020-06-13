@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>154</sup>
+# List of books read by [Elixir](false)<sup>155</sup>
 ---
 
 ## 2020
@@ -605,6 +605,10 @@
 
 
 ## Other years
+
+### Молодая гвардия
+Александр Фадеев
+
 
 ### Голова профессора Доуэля
 Александр Беляев
