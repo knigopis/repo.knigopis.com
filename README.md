@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[chaotic_equal](users/109/109533635046249857347-google)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>157</sup> 
 [ՎաչՎաղՍիր](users/113/1130000004300166-yandex)<sup>7</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Laila](users/761/76187635-vkontakte)<sup>315</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>37</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>102</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup> 
 
 
-_13.06.2020 06:03:14_
+_13.06.2020 06:57:06_
