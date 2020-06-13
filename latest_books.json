@@ -1,4 +1,16 @@
 {
+    "oe1MZq0AZ_": {
+        "id": "oe1MZq0AZ_",
+        "title": "Սամվել Samuel Самвел",
+        "author": "Րաֆֆի Raffi",
+        "notes": "Samuel is an 1886 Armenian language novel by the novelist Raffi. Considered by some critics his most successful work, the plot centres on the killing of the fourth-century Prince Vahan Mamikonian and his wife by their son Samuel.",
+        "createdAt": "2020-06-13 05:46:07",
+        "user": {
+            "id": "1130000004300166-yandex",
+            "nickname": "ՎաչՎաղՍիր",
+            "booksCount": 6
+        }
+    },
     "xDWIrU36Y2": {
         "id": "xDWIrU36Y2",
         "title": "The Diary of a Cross-Stealer Խաչագողի հիշատակարանը",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 808
-        }
-    },
-    "hCvKNm7HCh": {
-        "id": "hCvKNm7HCh",
-        "title": "Америка",
-        "author": "Франц Кафка",
-        "notes": "",
-        "createdAt": "2020-06-08 14:47:29",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 48
         }
     }
 }

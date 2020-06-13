@@ -1,4 +1,4 @@
-# List of books read by ՎաչՎաղՍիր<sup>5</sup>
+# List of books read by ՎաչՎաղՍիր<sup>6</sup>
 ---
 
 ## 2020
@@ -40,6 +40,14 @@ William Somerset Maugham CH; 25 January 1874 – 16 December 1965
 ### An American Tragedy
 Theodore Dreiser
 > [1980-01] It was based on the notorious murder of Grace Brown in 1906 and the trial of her lover. In 1923 Dreiser returned to the project, and with the help of his wife Helen and two editor-secretaries, Louise Campbell and Sally Kusell, he completed the massive novel in 1925.[1]
+
+
+
+## 1976
+
+### Սամվել Samuel Самвел
+Րաֆֆի Raffi
+> Samuel is an 1886 Armenian language novel by the novelist Raffi. Considered by some critics his most successful work, the plot centres on the killing of the fourth-century Prince Vahan Mamikonian and his wife by their son Samuel.
 
 
 
