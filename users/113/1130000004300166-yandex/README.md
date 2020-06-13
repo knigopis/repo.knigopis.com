@@ -1,4 +1,4 @@
-# List of books read by ՎաչՎաղՍիր<sup>7</sup>
+# List of books read by ՎաչՎաղՍիր<sup>8</sup>
 ---
 
 ## 2020
@@ -14,6 +14,14 @@
 ### The Diary of a Cross-Stealer Խաչագողի հիշատակարանը
 Րաֆֆի Raffi Раффи
 > The Diary of a Cross-Stealer is an 1890 novel by the Armenian novelist Raffi. It was translated into Russian as Дневник крестокрада
+
+
+
+## 1989
+
+### Martin Eden
+Jack London
+> "Martin Eden" is very long, powerfully written, disturbing and morbidly depressing semi-autobiographical story about the rise and fall of a young writer. The novel was published in 1909, when London was thirty-three and at the height of his celebrity. He had seven years to live.
 
 
 

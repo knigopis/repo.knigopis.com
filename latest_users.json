@@ -1,4 +1,10 @@
 {
+    "1130000004300166-yandex": {
+        "id": "1130000004300166-yandex",
+        "nickname": "ՎաչՎաղՍիր",
+        "booksCount": 8,
+        "updatedAt": "2020-06-13 16:36:23"
+    },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",
         "nickname": null,
@@ -22,12 +28,6 @@
         "nickname": "chaotic_equal",
         "booksCount": 1,
         "updatedAt": "2020-06-13 07:04:07"
-    },
-    "1130000004300166-yandex": {
-        "id": "1130000004300166-yandex",
-        "nickname": "ՎաչՎաղՍիր",
-        "booksCount": 7,
-        "updatedAt": "2020-06-13 05:55:24"
     },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",

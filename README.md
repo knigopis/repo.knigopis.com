@@ -36,11 +36,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ՎաչՎաղՍիր](users/113/1130000004300166-yandex)<sup>8</sup> 
 [](users/153/1537586159620888-facebook)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>809</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>169</sup> 
 [chaotic_equal](users/109/109533635046249857347-google)<sup>1</sup> 
-[ՎաչՎաղՍիր](users/113/1130000004300166-yandex)<sup>7</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 [Kremnev1](users/109/109398777294736369541-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>90</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>37</sup> 
 
 
-_13.06.2020 15:16:18_
+_13.06.2020 16:36:23_
