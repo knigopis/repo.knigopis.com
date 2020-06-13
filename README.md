@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>809</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>169</sup> 
 [chaotic_equal](users/109/109533635046249857347-google)<sup>1</sup> 
 [ՎաչՎաղՍիր](users/113/1130000004300166-yandex)<sup>7</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>28</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>106</sup> 
 [En](users/333/333646551-vkontakte)<sup>112</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>808</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>48</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>82</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>253</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>102</sup> 
 
 
-_13.06.2020 12:39:16_
+_13.06.2020 15:11:28_

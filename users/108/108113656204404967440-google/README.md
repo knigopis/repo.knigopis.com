@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>808</sup>
+# List of books read by Janet<sup>809</sup>
 ---
 
 ## 2020
+
+### Рассказ Служанки
+Маргарет Этвуд
+> [2020-06] 
+
 
 ### Остров пингвинов
 Анатоль Франс
