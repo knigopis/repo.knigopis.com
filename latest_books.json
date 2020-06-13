@@ -1,4 +1,16 @@
 {
+    "h8JtkNLNOE": {
+        "id": "h8JtkNLNOE",
+        "title": "Вероника решает умереть",
+        "author": "Пауло Коэлье",
+        "notes": "",
+        "createdAt": "2020-06-13 12:29:30",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 162
+        }
+    },
     "m-KB8SqrCz": {
         "id": "m-KB8SqrCz",
         "title": "Чайка по имени Джонатан Ливингстон",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 28
-        }
-    },
-    "G9CdYwtUJD": {
-        "id": "G9CdYwtUJD",
-        "title": "Племянник чародея",
-        "author": "Клайв Стейплз  Льюис",
-        "notes": "",
-        "createdAt": "2020-06-10 23:53:04",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 55
         }
     }
 }

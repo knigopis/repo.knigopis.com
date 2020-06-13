@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>161</sup>
+# List of books read by [Elixir](false)<sup>162</sup>
 ---
 
 ## 2020
@@ -605,6 +605,10 @@
 
 
 ## Other years
+
+### Вероника решает умереть
+Пауло Коэлье
+
 
 ### Чайка по имени Джонатан Ливингстон
 Ричард Бах
