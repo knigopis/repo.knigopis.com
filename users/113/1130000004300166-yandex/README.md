@@ -1,4 +1,4 @@
-# List of books read by ՎաչՎաղՍիր<sup>8</sup>
+# List of books read by ՎաչՎաղՍիր<sup>9</sup>
 ---
 
 ## 2020
@@ -43,6 +43,11 @@ Jack London
 
 
 ## 1983
+
+### Theatre
+Somerset Maugham
+> First published in 1937 by William Heinemann and Doubleday Doran. The novel describes a successful actress and her husband, a theatre manager; her life and career is disturbed by a stormy affair with a young accountant.
+
 
 ### The Moon and Sixpence
 William Somerset Maugham CH; 25 January 1874 – 16 December 1965

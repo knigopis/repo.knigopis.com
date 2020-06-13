@@ -1,4 +1,16 @@
 {
+    "IwR5q2W3Hj": {
+        "id": "IwR5q2W3Hj",
+        "title": "Theatre",
+        "author": "Somerset Maugham",
+        "notes": "First published in 1937 by William Heinemann and Doubleday Doran. The novel describes a successful actress and her husband, a theatre manager; her life and career is disturbed by a stormy affair with a young accountant.",
+        "createdAt": "2020-06-13 16:46:45",
+        "user": {
+            "id": "1130000004300166-yandex",
+            "nickname": "ՎաչՎաղՍիր",
+            "booksCount": 9
+        }
+    },
     "XeZLuag5X9": {
         "id": "XeZLuag5X9",
         "title": "Рассказы Люси Синицыной, ученицы третьего класса",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 152
-        }
-    },
-    "s0GTledrLT": {
-        "id": "s0GTledrLT",
-        "title": "Портрет Дориана Грэя",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2020-06-13 03:43:43",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 151
         }
     }
 }

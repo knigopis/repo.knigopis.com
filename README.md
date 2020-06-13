@@ -36,8 +36,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ՎաչՎաղՍիր](users/113/1130000004300166-yandex)<sup>9</sup> 
 [me](users/381/381417697-yandex)<sup>52</sup> 
-[ՎաչՎաղՍիր](users/113/1130000004300166-yandex)<sup>8</sup> 
 [](users/153/1537586159620888-facebook)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>809</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>169</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Laila](users/761/76187635-vkontakte)<sup>315</sup> 
 
 
-_13.06.2020 16:37:40_
+_13.06.2020 16:46:45_
