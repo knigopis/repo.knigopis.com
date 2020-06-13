@@ -1,4 +1,10 @@
 {
+    "109533635046249857347-google": {
+        "id": "109533635046249857347-google",
+        "nickname": "chaotic_equal",
+        "booksCount": 0,
+        "updatedAt": "2020-06-13 06:57:03"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": "Elixir",
@@ -172,11 +178,5 @@
         "nickname": "joan789",
         "booksCount": 102,
         "updatedAt": "2020-06-01 19:37:02"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 156,
-        "updatedAt": "2020-06-01 07:38:34"
     }
 }
