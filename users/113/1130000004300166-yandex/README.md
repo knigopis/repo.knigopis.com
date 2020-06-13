@@ -1,4 +1,4 @@
-# List of books read by ՎաչՎաղՍիր<sup>3</sup>
+# List of books read by ՎաչՎաղՍիր<sup>4</sup>
 ---
 
 ## 2020
@@ -6,6 +6,16 @@
 ### Մեծապատիվ մուրացկանները
 Հակոբ Պարոնյան
 > [2020-06-11] Վերհիշենք հայ գրողներին իրենց տաղանդով "հարուստ" մարդկանց "հարուստ" հոգեբանությունը բացահայտելով։
+
+
+
+## 1987
+
+### Վարդանանք  Vardanank Вардананк
+Դերենիկ Դեմիրճյան Derenik Demirchian  Д. Демирчян
+> Vardananq is an Armenian historical novel. It is about the Armenian-Persian war for the independence of Armenia
+> 
+> Исторический роман "Вардананк" повествует об освободительной войне армянского народа против персидского ига в 450 – 451
 
 
 
