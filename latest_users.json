@@ -1,4 +1,10 @@
 {
+    "1130000004300166-yandex": {
+        "id": "1130000004300166-yandex",
+        "nickname": "ՎաչՎաղՍիր",
+        "booksCount": 2,
+        "updatedAt": "2020-06-13 03:21:08"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -34,12 +40,6 @@
         "nickname": "HXT",
         "booksCount": 387,
         "updatedAt": "2020-06-12 04:27:30"
-    },
-    "1130000004300166-yandex": {
-        "id": "1130000004300166-yandex",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2020-06-11 17:58:58"
     },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
