@@ -1,4 +1,16 @@
 {
+    "SY4_ZOD8R2": {
+        "id": "SY4_ZOD8R2",
+        "title": "Укрощение строптивой",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2020-06-14 05:07:39",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 176
+        }
+    },
     "2bv7MUJx7T": {
         "id": "2bv7MUJx7T",
         "title": "Любовник Леди Чаттерли",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 156
-        }
-    },
-    "v6fMrq6pPK": {
-        "id": "v6fMrq6pPK",
-        "title": "Молодая гвардия",
-        "author": "Александр Фадеев",
-        "notes": "",
-        "createdAt": "2020-06-13 06:02:02",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 155
         }
     }
 }
