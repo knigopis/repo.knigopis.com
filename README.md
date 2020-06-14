@@ -38,12 +38,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>10</sup> 
 [](users/831/8317925041-instagram)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>211</sup> 
 [](users/103/103068578327558685816-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>114</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>107</sup> 
-[ՎաչՎաղՍիր](users/113/1130000004300166-yandex)<sup>9</sup> 
 [me](users/381/381417697-yandex)<sup>52</sup> 
 [](users/153/1537586159620888-facebook)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>809</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/254/254457124-vkontakte)<sup>0</sup> 
 
 
-_14.06.2020 17:48:45_
+_14.06.2020 18:11:06_

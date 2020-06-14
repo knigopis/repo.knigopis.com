@@ -1,4 +1,4 @@
-# List of books read by ՎաչՎաղՍիր<sup>9</sup>
+# List of books read by [ՎաչՎաղՍիր SirVach](false)<sup>10</sup>
 ---
 
 ## 2020
@@ -60,6 +60,14 @@ William Somerset Maugham CH; 25 January 1874 – 16 December 1965
 ### An American Tragedy
 Theodore Dreiser
 > [1980-01] It was based on the notorious murder of Grace Brown in 1906 and the trial of her lover. In 1923 Dreiser returned to the project, and with the help of his wife Helen and two editor-secretaries, Louise Campbell and Sally Kusell, he completed the massive novel in 1925.[1]
+
+
+
+## 1976
+
+### Hamlet
+William Shakespeare
+> The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet, is a tragedy written by the author sometime between 1599 and 1601. It is Shakespeare's longest play with 30,557 words
 
 
 
