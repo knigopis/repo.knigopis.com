@@ -1,4 +1,16 @@
 {
+    "e5NfJNh4mP": {
+        "id": "e5NfJNh4mP",
+        "title": "Пиковая дама",
+        "author": "Александр Пушкин",
+        "notes": "",
+        "createdAt": "2020-06-14 05:14:29",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 195
+        }
+    },
     "F0DTWEk_qe": {
         "id": "F0DTWEk_qe",
         "title": "Братья Карамазовы",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 52
-        }
-    },
-    "EsG1r-SH1k": {
-        "id": "EsG1r-SH1k",
-        "title": "Martin Eden",
-        "author": "Jack London",
-        "notes": "\"Martin Eden\" is very long, powerfully written, disturbing and morbidly depressing semi-autobiographical story about the rise and fall of a young writer. The novel was published in 1909, when London was thirty-three and at the height of his celebrity. He had seven years to live.",
-        "createdAt": "2020-06-13 16:36:23",
-        "user": {
-            "id": "1130000004300166-yandex",
-            "nickname": "ՎաչՎաղՍիր",
-            "booksCount": 8
         }
     }
 }
