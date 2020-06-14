@@ -1,4 +1,16 @@
 {
+    "SkhfuPlbfD": {
+        "id": "SkhfuPlbfD",
+        "title": "Blindness (Слепота)",
+        "author": "José Saramago Жозе Сарамаго",
+        "notes": "It is one of his most famous novels, along with The Gospel According to Jesus Christ and Baltasar and Blimunda. In 1998, Saramago received the Nobel Prize for Literature, and Blindness was one of his works noted by the committee when announcing the award.\n\n.....Можно предположить, что все это произойдет однажды в той вселенной, в которой мы живем, а может и уже происходит......",
+        "createdAt": "2020-06-14 18:31:38",
+        "user": {
+            "id": "1130000004300166-yandex",
+            "nickname": "ՎաչՎաղՍիր SirVach",
+            "booksCount": 11
+        }
+    },
     "goAqjWsNKz": {
         "id": "goAqjWsNKz",
         "title": "Hamlet",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 185
-        }
-    },
-    "R-I4N4Tros": {
-        "id": "R-I4N4Tros",
-        "title": "Капитанская дочка",
-        "author": "Александр Пушкин",
-        "notes": "",
-        "createdAt": "2020-06-14 05:11:07",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 184
         }
     }
 }

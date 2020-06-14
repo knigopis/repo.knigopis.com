@@ -1,4 +1,4 @@
-# List of books read by [ՎաչՎաղՍիր SirVach](false)<sup>10</sup>
+# List of books read by [ՎաչՎաղՍիր SirVach](false)<sup>11</sup>
 ---
 
 ## 2020
@@ -6,6 +6,16 @@
 ### Մեծապատիվ մուրացկանները
 Հակոբ Պարոնյան
 > [2020-06-11] Վերհիշենք հայ գրողներին իրենց տաղանդով "հարուստ" մարդկանց "հարուստ" հոգեբանությունը բացահայտելով։
+
+
+
+## 2014
+
+### Blindness (Слепота)
+José Saramago Жозе Сарамаго
+> [2014-12] It is one of his most famous novels, along with The Gospel According to Jesus Christ and Baltasar and Blimunda. In 1998, Saramago received the Nobel Prize for Literature, and Blindness was one of his works noted by the committee when announcing the award.
+> 
+> .....Можно предположить, что все это произойдет однажды в той вселенной, в которой мы живем, а может и уже происходит......
 
 
 
