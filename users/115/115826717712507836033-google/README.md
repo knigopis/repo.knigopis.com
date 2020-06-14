@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>188</sup>
+# List of books read by [Elixir](false)<sup>189</sup>
 ---
 
 ## 2020
@@ -613,6 +613,10 @@
 
 
 ## Other years
+
+### Любовница французкого лейтенанта
+Джон Фаулз
+
 
 ### Дети Арбата
 Анатолий Рыбаков
