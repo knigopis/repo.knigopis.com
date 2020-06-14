@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/104/104731829794763834502-google)<sup>0</sup> 
+[](users/104/104731829794763834502-google)<sup>1</sup> 
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>11</sup> 
 [](users/831/8317925041-instagram)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>211</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Gosha](users/105/105731119736778227120-google)<sup>0</sup> 
 
 
-_14.06.2020 19:24:57_
+_14.06.2020 21:09:01_
