@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Машина времени ~ [En](users/333/333646551-vkontakte)<sup>114</sup>
 * Теория зла ~ [En](users/333/333646551-vkontakte)<sup>113</sup>
 * Конь и его мальчик ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
 * Лев, колдунья и платяной шкаф ~ [Rainbow](users/109/109787328219839805802-google)<sup>51</sup>
@@ -30,7 +31,6 @@
 * Мария - королева интриг ~ [Chiffi](users/105/105831994080785626680-google)<sup>191</sup>
 * Походы и кони ~ [mfevralev](users/140/140966150-vkontakte)<sup>45</sup>
 * Так берегись ~ [En](users/333/333646551-vkontakte)<sup>107</sup>
-* Клавка ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>112</sup>
 
 
-_13.06.2020 17:09:30_
+_14.06.2020 06:21:13_
