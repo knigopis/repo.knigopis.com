@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>169</sup>
+# List of books read by [Elixir](false)<sup>170</sup>
 ---
 
 ## 2020
@@ -605,6 +605,10 @@
 
 
 ## Other years
+
+### Жизнь
+Ги Де Мопассан
+
 
 ### Generation «П»
 Виктор Пелевин

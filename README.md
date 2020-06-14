@@ -38,13 +38,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>170</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>107</sup> 
 [En](users/333/333646551-vkontakte)<sup>113</sup> 
 [ՎաչՎաղՍիր](users/113/1130000004300166-yandex)<sup>9</sup> 
 [me](users/381/381417697-yandex)<sup>52</sup> 
 [](users/153/1537586159620888-facebook)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>809</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>169</sup> 
 [chaotic_equal](users/109/109533635046249857347-google)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 [Kremnev1](users/109/109398777294736369541-google)<sup>0</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Laila](users/761/76187635-vkontakte)<sup>315</sup> 
 
 
-_13.06.2020 17:35:46_
+_14.06.2020 05:04:08_
