@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>174</sup>
+# List of books read by [Elixir](false)<sup>175</sup>
 ---
 
 ## 2020
@@ -605,6 +605,10 @@
 
 
 ## Other years
+
+### Любовник Леди Чаттерли
+Дэвид Лоуренс
+
 
 ### Отелло
 Уильям Шекспир
