@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>187</sup>
+# List of books read by [Elixir](false)<sup>188</sup>
 ---
 
 ## 2020
@@ -613,6 +613,10 @@
 
 
 ## Other years
+
+### Дети Арбата
+Анатолий Рыбаков
+
 
 ### Отец Горио
 Оноре де Бальзак
