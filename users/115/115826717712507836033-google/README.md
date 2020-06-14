@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>179</sup>
+# List of books read by [Elixir](false)<sup>180</sup>
 ---
 
 ## 2020
@@ -613,6 +613,10 @@
 
 
 ## Other years
+
+### Гобсек
+Оноре де Бальзак
+
 
 ### Отель «У погибшего альпиниста»
 Аркадий и Борис Стругацкие
