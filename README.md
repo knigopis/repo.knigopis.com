@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/831/8317925041-instagram)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>211</sup> 
 [](users/103/103068578327558685816-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>114</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Книголюб](users/111/111762250865880736374-google)<sup>0</sup> 
 [Gosha](users/105/105731119736778227120-google)<sup>0</sup> 
 [](users/254/254457124-vkontakte)<sup>0</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>155</sup> 
 
 
-_14.06.2020 15:16:56_
+_14.06.2020 17:48:45_
