@@ -1,4 +1,16 @@
 {
+    "zt-148i0Nt": {
+        "id": "zt-148i0Nt",
+        "title": "Хижина дяди Тома",
+        "author": "Гарриет Бичер-Стоу",
+        "notes": "",
+        "createdAt": "2020-06-14 05:05:29",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 172
+        }
+    },
     "UAdLga7L2Y": {
         "id": "UAdLga7L2Y",
         "title": "Волхв",
@@ -345,18 +357,6 @@
             "id": "1130000004300166-yandex",
             "nickname": "ՎաչՎաղՍիր",
             "booksCount": 6
-        }
-    },
-    "xDWIrU36Y2": {
-        "id": "xDWIrU36Y2",
-        "title": "The Diary of a Cross-Stealer Խաչագողի հիշատակարանը",
-        "author": "Րաֆֆի Raffi Раффи",
-        "notes": "The Diary of a Cross-Stealer is an 1890 novel by the Armenian novelist Raffi. It was translated into Russian as Дневник крестокрада",
-        "createdAt": "2020-06-13 05:41:41",
-        "user": {
-            "id": "1130000004300166-yandex",
-            "nickname": "ՎաչՎաղՍիր",
-            "booksCount": 5
         }
     }
 }
