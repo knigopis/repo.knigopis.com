@@ -1,4 +1,16 @@
 {
+    "sNiqg3Gibc": {
+        "id": "sNiqg3Gibc",
+        "title": "Поющие в терновнике",
+        "author": "Колин Маккалоу",
+        "notes": "",
+        "createdAt": "2020-06-14 05:13:29",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 192
+        }
+    },
     "WIumqmaRkq": {
         "id": "WIumqmaRkq",
         "title": "Бедные люди",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 809
-        }
-    },
-    "wTgV0vLl5A": {
-        "id": "wTgV0vLl5A",
-        "title": "Generation «П»",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2020-06-13 12:39:16",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 169
         }
     }
 }

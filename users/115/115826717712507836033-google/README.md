@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>191</sup>
+# List of books read by [Elixir](false)<sup>192</sup>
 ---
 
 ## 2020
@@ -613,6 +613,10 @@
 
 
 ## Other years
+
+### Поющие в терновнике
+Колин Маккалоу
+
 
 ### Бедные люди
 Федор Достоевский
