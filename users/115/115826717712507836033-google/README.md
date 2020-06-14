@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>185</sup>
+# List of books read by [Elixir](false)<sup>186</sup>
 ---
 
 ## 2020
@@ -613,6 +613,10 @@
 
 
 ## Other years
+
+### Американская трагедия
+Теодор Драйзер
+
 
 ### Приглашение на казнь
 Владимир Набоков
