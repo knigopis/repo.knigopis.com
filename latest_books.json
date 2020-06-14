@@ -1,4 +1,16 @@
 {
+    "XffmexZM9I": {
+        "id": "XffmexZM9I",
+        "title": "Отель «У погибшего альпиниста»",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2020-06-14 05:09:03",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 179
+        }
+    },
     "sNqHT_mKWl": {
         "id": "sNqHT_mKWl",
         "title": "Мертвые души",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 158
-        }
-    },
-    "je9buzt_9L": {
-        "id": "je9buzt_9L",
-        "title": "Игра Джералда",
-        "author": "Стивен Кинг",
-        "notes": "Роман вошел в список самых любимых.",
-        "createdAt": "2020-06-13 07:04:07",
-        "user": {
-            "id": "109533635046249857347-google",
-            "nickname": "chaotic_equal",
-            "booksCount": 1
         }
     }
 }
