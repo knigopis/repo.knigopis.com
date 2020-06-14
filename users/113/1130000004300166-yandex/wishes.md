@@ -1,4 +1,4 @@
-# Wish list of books by ՎաչՎաղՍիր
+# Wish list of books by [ՎաչՎաղՍիր SirVach](false)
 ---
 
 ### `` Кино Театр Безбожник.  Կինո Թատրոն Անաստված The Godless Movie Theater
@@ -7,7 +7,9 @@
 >   
 > The book contains fiction and essays by Gevorg Ter-Gabrielyan, written in 2012-2017 and partially published in the on-line media.
 
-### `` An American Tragedy
-Theodore Dreiser
-> It was based on the notorious murder of Grace Brown in 1906 and the trial of her lover. In 1923 Dreiser returned to the project, and with the help of his wife Helen and two editor-secretaries, Louise Campbell and Sally Kusell, he completed the massive novel in 1925.[1]
+### `` Blindness (Слепота)
+José Saramago Жозе Сарамаго
+> It is one of his most famous novels, along with The Gospel According to Jesus Christ and Baltasar and Blimunda. In 1998, Saramago received the Nobel Prize for Literature, and Blindness was one of his works noted by the committee when announcing the award.
+> 
+> .....Можно предположить, что все это произойдет однажды в той вселенной, в которой мы живем, а может и уже происходит......
 
