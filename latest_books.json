@@ -1,4 +1,16 @@
 {
+    "fU9dJEBzcA": {
+        "id": "fU9dJEBzcA",
+        "title": "Одной любви недостаточно",
+        "author": "Гари Чепмен",
+        "notes": "",
+        "createdAt": "2020-06-14 21:11:19",
+        "user": {
+            "id": "104731829794763834502-google",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "kVKRPN3hn8": {
         "id": "kVKRPN3hn8",
         "title": "5 языков любви",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 188
-        }
-    },
-    "zIJAb2TH-Y": {
-        "id": "zIJAb2TH-Y",
-        "title": "Отец Горио",
-        "author": "Оноре де Бальзак",
-        "notes": "",
-        "createdAt": "2020-06-14 05:11:57",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 187
         }
     }
 }
