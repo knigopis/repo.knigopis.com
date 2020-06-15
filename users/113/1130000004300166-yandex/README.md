@@ -1,4 +1,4 @@
-# List of books read by [ՎաչՎաղՍիր SirVach](false)<sup>11</sup>
+# List of books read by [ՎաչՎաղՍիր SirVach](false)<sup>12</sup>
 ---
 
 ## 2020
@@ -78,6 +78,13 @@ Theodore Dreiser
 ### Hamlet
 William Shakespeare
 > The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet, is a tragedy written by the author sometime between 1599 and 1601. It is Shakespeare's longest play with 30,557 words
+
+
+
+## 1975
+
+### «Պատուհանի տակ ծղրիդն է երգում
+Գրիգոր Բալասանյան
 
 
 
