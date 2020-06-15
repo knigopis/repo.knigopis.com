@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>116</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>117</sup>
 ---
 
 ## 2020
+
+### Мелкий бес
+Федор Сологуб
+> [2020-06-14] 7/10 Провициальный полусумасшедший учитель и гнилое общество.
+
 
 ### Как работает мир, в котором я живу
 Вячеслав Неклюдов
