@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>268</sup>
+# List of books read by [Elixir](false)<sup>267</sup>
 ---
 
 ## 2020
@@ -972,10 +972,6 @@
 
 ### Хижина дяди Тома
 Гарриет Бичер-Стоу
-
-
-### Волхв
-Джон Фаулз
 
 
 ### Жизнь
