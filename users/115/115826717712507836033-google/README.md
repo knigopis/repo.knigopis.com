@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>231</sup>
+# List of books read by [Elixir](false)<sup>232</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Анна Каренина
+Лев Николаевич Толстой
+
 
 ### Алые паруса
 Александр Грин
