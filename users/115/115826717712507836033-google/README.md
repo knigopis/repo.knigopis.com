@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>259</sup>
+# List of books read by [Elixir](false)<sup>260</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Чайка по имени Джонатан Ливингстон
+Ричард Бах
+
 
 ### Пролетая над гнездом кукушки
 Кизи, Кен
