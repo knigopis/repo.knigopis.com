@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>247</sup>
+# List of books read by [Elixir](false)<sup>248</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Мартин Иден
+Джек Лондон
+
 
 ### Белый клык
 Джек Лондон
