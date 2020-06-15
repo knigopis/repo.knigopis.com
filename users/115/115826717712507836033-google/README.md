@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>258</sup>
+# List of books read by [Elixir](false)<sup>259</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Пролетая над гнездом кукушки
+Кизи, Кен
+
 
 ### Евгений Онегин
 Пушкин, Александр Сергеевич
