@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>225</sup>
+# List of books read by [Elixir](false)<sup>226</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Медея и ее дети
+Людмила Улицкая
+
 
 ### В круге первом
 Александр Солженицын
