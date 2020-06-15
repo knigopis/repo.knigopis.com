@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>234</sup>
+# List of books read by [Elixir](false)<sup>235</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### А зори здесь тихие
+Борис Васильев
+
 
 ### В списках не значился
 Борис Васильев

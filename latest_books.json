@@ -1,4 +1,16 @@
 {
+    "YGYGaQkhlp": {
+        "id": "YGYGaQkhlp",
+        "title": "А зори здесь тихие",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2020-06-15 10:17:27",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 235
+        }
+    },
     "0IOkGV-rfX": {
         "id": "0IOkGV-rfX",
         "title": "В списках не значился",
@@ -345,18 +357,6 @@
             "id": "104731829794763834502-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "SkhfuPlbfD": {
-        "id": "SkhfuPlbfD",
-        "title": "Blindness (Слепота)",
-        "author": "José Saramago Жозе Сарамаго",
-        "notes": "It is one of his most famous novels, along with The Gospel According to Jesus Christ and Baltasar and Blimunda. In 1998, Saramago received the Nobel Prize for Literature, and Blindness was one of his works noted by the committee when announcing the award.\n\n.....Можно предположить, что все это произойдет однажды в той вселенной, в которой мы живем, а может и уже происходит......",
-        "createdAt": "2020-06-14 18:31:38",
-        "user": {
-            "id": "1130000004300166-yandex",
-            "nickname": "ՎաչՎաղՍիր SirVach",
-            "booksCount": 11
         }
     }
 }
