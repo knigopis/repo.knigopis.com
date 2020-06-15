@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>83</sup> 
 [](users/104/104731829794763834502-google)<sup>5</sup> 
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>11</sup> 
 [](users/831/8317925041-instagram)<sup>0</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>116</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>28</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>48</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>82</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>253</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>125</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>58</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Gosha](users/105/105731119736778227120-google)<sup>0</sup> 
 
 
-_14.06.2020 21:25:41_
+_15.06.2020 06:47:41_
