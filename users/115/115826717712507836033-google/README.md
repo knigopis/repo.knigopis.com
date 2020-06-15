@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>230</sup>
+# List of books read by [Elixir](false)<sup>231</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Алые паруса
+Александр Грин
+
 
 ### Собачье сердце
 Михаил Булгаков
