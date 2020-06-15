@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>262</sup>
+# List of books read by [Elixir](false)<sup>261</sup>
 ---
 
 ## 2020
@@ -788,10 +788,6 @@
 
 ### Мастер и Маргарита
 Михаил Булгаков
-
-
-### Дары волхвов
-О'Генри
 
 
 ### Фауст
