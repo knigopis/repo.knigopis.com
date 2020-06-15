@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>266</sup>
+# List of books read by [Elixir](false)<sup>267</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Вероника решает умереть
+Пауло Коэльо
+
 
 ### Макбет
 Шекспир, Уильям
