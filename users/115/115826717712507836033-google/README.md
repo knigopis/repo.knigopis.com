@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>265</sup>
+# List of books read by [Elixir](false)<sup>264</sup>
 ---
 
 ## 2020
@@ -688,10 +688,6 @@
 
 ### Одиночество в Сети
 Януш Леон Вишневский
-
-
-### Герой нашего времени
-Михаил Лермонтов
 
 
 ### Маскарад
