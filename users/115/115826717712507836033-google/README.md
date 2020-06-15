@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>220</sup>
+# List of books read by [Elixir](false)<sup>221</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Судьба человека
+Михаил Шолохов
+
 
 ### Поднятая целина
 Михаил Шолохов
