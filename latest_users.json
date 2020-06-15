@@ -1,4 +1,10 @@
 {
+    "2096581563762610-facebook": {
+        "id": "2096581563762610-facebook",
+        "nickname": "Таньчик",
+        "booksCount": 83,
+        "updatedAt": "2020-06-15 20:29:00"
+    },
     "1130000004300166-yandex": {
         "id": "1130000004300166-yandex",
         "nickname": "ՎաչՎաղՍիր SirVach",
@@ -16,12 +22,6 @@
         "nickname": "Daria Varyvod",
         "booksCount": 118,
         "updatedAt": "2020-06-15 10:58:24"
-    },
-    "2096581563762610-facebook": {
-        "id": "2096581563762610-facebook",
-        "nickname": "Таньчик",
-        "booksCount": 82,
-        "updatedAt": "2020-06-15 06:48:00"
     },
     "104731829794763834502-google": {
         "id": "104731829794763834502-google",
