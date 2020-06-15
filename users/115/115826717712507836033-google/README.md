@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>221</sup>
+# List of books read by [Elixir](false)<sup>222</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Сердца трёх
+Джек Лондон
+
 
 ### Судьба человека
 Михаил Шолохов
