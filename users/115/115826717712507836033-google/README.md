@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>246</sup>
+# List of books read by [Elixir](false)<sup>247</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Белый клык
+Джек Лондон
+
 
 ### Морской волк
 Джек Лондон
