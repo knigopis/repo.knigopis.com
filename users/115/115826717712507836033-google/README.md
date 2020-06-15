@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>260</sup>
+# List of books read by [Elixir](false)<sup>261</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Похороните меня за плинтусом
+Санаев, Павел
+
 
 ### Чайка по имени Джонатан Ливингстон
 Ричард Бах
