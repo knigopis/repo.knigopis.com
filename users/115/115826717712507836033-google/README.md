@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>249</sup>
+# List of books read by [Elixir](false)<sup>250</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Один день Ивана Денисовича
+Александр Исаевич Солженицын
+
 
 ### Война и мир
 Лев Николаевич Толстой
