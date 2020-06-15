@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>264</sup>
+# List of books read by [Elixir](false)<sup>263</sup>
 ---
 
 ## 2020
@@ -844,10 +844,6 @@
 
 ### Хождение по мукам
 Алексей Толстой
-
-
-### Стоик
-Теодор Драйзер
 
 
 ### Белая гвардия
