@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>248</sup>
+# List of books read by [Elixir](false)<sup>249</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Война и мир
+Лев Николаевич Толстой
+
 
 ### Мартин Иден
 Джек Лондон
