@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>263</sup>
+# List of books read by [Elixir](false)<sup>262</sup>
 ---
 
 ## 2020
@@ -884,10 +884,6 @@
 
 ### Макбет
 Уильям Шекспир
-
-
-### Любовница французкого лейтенанта
-Джон Фаулз
 
 
 ### Дети Арбата
