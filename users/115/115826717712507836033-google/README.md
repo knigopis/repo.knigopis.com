@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>267</sup>
+# List of books read by [Elixir](false)<sup>266</sup>
 ---
 
 ## 2020
@@ -752,10 +752,6 @@
 
 ### Митина любовь
 Иван Бунин
-
-
-### Медея и ее дети
-Людмила Улицкая
 
 
 ### В круге первом
