@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>241</sup>
+# List of books read by [Elixir](false)<sup>242</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Герой нашего времени
+Михаил Лермонтов
+
 
 ### Маскарад
 Михаил Юрьевич Лермонтов
