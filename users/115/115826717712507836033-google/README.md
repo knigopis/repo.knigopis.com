@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>228</sup>
+# List of books read by [Elixir](false)<sup>229</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Омон Ра
+Пелевин
+
 
 ### Жизнь Арсеньева
 Иван Бунин
