@@ -1,4 +1,16 @@
 {
+    "BG6YfJU1F4": {
+        "id": "BG6YfJU1F4",
+        "title": "Макбет",
+        "author": "Шекспир, Уильям",
+        "notes": "",
+        "createdAt": "2020-06-15 10:47:31",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 266
+        }
+    },
     "zD9soeMCGM": {
         "id": "zD9soeMCGM",
         "title": "Ромео и Джульетта",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 235
-        }
-    },
-    "0IOkGV-rfX": {
-        "id": "0IOkGV-rfX",
-        "title": "В списках не значился",
-        "author": "Борис Васильев",
-        "notes": "",
-        "createdAt": "2020-06-15 10:17:08",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 234
         }
     }
 }
