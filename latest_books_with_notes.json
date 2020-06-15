@@ -1,4 +1,16 @@
 {
+    "b3AF3UyZE5": {
+        "id": "b3AF3UyZE5",
+        "title": "Заборонений.",
+        "author": "Сергій Дзюба, Арсеній Кірсанов",
+        "notes": "8/10 Останній дні поета в таборі \"Перм-36\".",
+        "createdAt": "2020-06-15 10:58:24",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 118
+        }
+    },
     "6hopn4u5Ea": {
         "id": "6hopn4u5Ea",
         "title": "Мелкий бес",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 191
-        }
-    },
-    "iGURd74Grp": {
-        "id": "iGURd74Grp",
-        "title": "Походы и кони",
-        "author": "С.Мамонтов",
-        "notes": "Описание битвы в Егорлыцкой с другой стороны.",
-        "createdAt": "2020-05-25 09:42:01",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 45
         }
     }
 }

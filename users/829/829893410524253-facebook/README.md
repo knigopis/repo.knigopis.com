@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>117</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>118</sup>
 ---
 
 ## 2020
+
+### Заборонений.
+Сергій Дзюба, Арсеній Кірсанов
+> [2020-06-15] 8/10 Останній дні поета в таборі "Перм-36".
+
 
 ### Мелкий бес
 Федор Сологуб

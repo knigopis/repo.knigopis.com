@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Заборонений. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>118</sup>
 * Мелкий бес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>117</sup>
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>114</sup>
 * Теория зла ~ [En](users/333/333646551-vkontakte)<sup>113</sup>
@@ -30,7 +31,6 @@
 * Темна вежа 5. Вовки Кальї ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>113</sup>
 * Последняя любовь в Константинополе ~ [anvonamore](users/595/5957175-vkontakte)<sup>140</sup>
 * Мария - королева интриг ~ [Chiffi](users/105/105831994080785626680-google)<sup>191</sup>
-* Походы и кони ~ [mfevralev](users/140/140966150-vkontakte)<sup>45</sup>
 
 
-_15.06.2020 10:55:31_
+_15.06.2020 10:58:25_
