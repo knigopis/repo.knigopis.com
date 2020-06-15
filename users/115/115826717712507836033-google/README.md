@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>227</sup>
+# List of books read by [Elixir](false)<sup>228</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Жизнь Арсеньева
+Иван Бунин
+
 
 ### Митина любовь
 Иван Бунин
