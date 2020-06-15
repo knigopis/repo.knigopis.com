@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>219</sup>
+# List of books read by [Elixir](false)<sup>220</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Поднятая целина
+Михаил Шолохов
+
 
 ### Старик и море
 Эрнест Хемингуэй
