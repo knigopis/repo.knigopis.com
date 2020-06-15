@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>212</sup>
+# List of books read by [Elixir](false)<sup>213</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Фауст
+Иоганн Вольфганг Гете
+
 
 ### Повести покойного Ивана Петровича Белкина
 Александр Пушкин
