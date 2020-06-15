@@ -38,11 +38,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>212</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>82</sup> 
 [](users/104/104731829794763834502-google)<sup>5</sup> 
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>11</sup> 
 [](users/831/8317925041-instagram)<sup>0</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>211</sup> 
 [](users/103/103068578327558685816-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>114</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>107</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Gosha](users/105/105731119736778227120-google)<sup>0</sup> 
 
 
-_15.06.2020 06:48:03_
+_15.06.2020 09:57:58_
