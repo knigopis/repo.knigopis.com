@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>232</sup>
+# List of books read by [Elixir](false)<sup>233</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Герой нашего времени
+Михаил Юрьевич Лермонтов
+
 
 ### Анна Каренина
 Лев Николаевич Толстой
