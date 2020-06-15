@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>242</sup>
+# List of books read by [Elixir](false)<sup>243</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Одиночество в Сети
+Януш Леон Вишневский
+
 
 ### Герой нашего времени
 Михаил Лермонтов
