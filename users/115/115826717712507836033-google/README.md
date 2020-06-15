@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>233</sup>
+# List of books read by [Elixir](false)<sup>234</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### В списках не значился
+Борис Васильев
+
 
 ### Герой нашего времени
 Михаил Юрьевич Лермонтов
