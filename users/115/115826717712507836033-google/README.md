@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>239</sup>
+# List of books read by [Elixir](false)<sup>241</sup>
 ---
 
 ## 2020
@@ -581,6 +581,14 @@
 
 
 ## Other years
+
+### Маскарад
+Михаил Юрьевич Лермонтов
+
+
+### "Старуха Изергиль"
+Максим Горький
+
 
 ### Демон
 Михаил Лермонтов
