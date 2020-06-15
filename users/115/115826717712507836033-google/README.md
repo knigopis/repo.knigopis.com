@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>218</sup>
+# List of books read by [Elixir](false)<sup>219</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Старик и море
+Эрнест Хемингуэй
+
 
 ### Песнь о Гайавате
 Генри Лонгфелло
