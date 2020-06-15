@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>235</sup>
+# List of books read by [Elixir](false)<sup>236</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Завтра была война ★★★★★
+Васильев Борис
+
 
 ### А зори здесь тихие
 Борис Васильев
