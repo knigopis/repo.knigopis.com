@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>224</sup>
+# List of books read by [Elixir](false)<sup>225</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### В круге первом
+Александр Солженицын
+
 
 ### Воспитание чувств
 Гюстав Флобер

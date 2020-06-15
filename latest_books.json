@@ -1,4 +1,16 @@
 {
+    "wyuMzhoPwM": {
+        "id": "wyuMzhoPwM",
+        "title": "В круге первом",
+        "author": "Александр Солженицын",
+        "notes": "",
+        "createdAt": "2020-06-15 10:08:25",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 225
+        }
+    },
     "wXWPfI4gGj": {
         "id": "wXWPfI4gGj",
         "title": "Воспитание чувств",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 204
-        }
-    },
-    "HYfHRgCYqD": {
-        "id": "HYfHRgCYqD",
-        "title": "Утраченные иллюзии",
-        "author": "Оноре де Бальзак",
-        "notes": "",
-        "createdAt": "2020-06-14 15:12:17",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 203
         }
     }
 }
