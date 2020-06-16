@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>275</sup>
+# List of books read by [Elixir](false)<sup>276</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Олеся (повесть)
+А. И. Куприн
+
 
 ### Гарри Поттер и философский камень
 Джоан Роулинг
