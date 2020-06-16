@@ -81,18 +81,18 @@ William Shakespeare
 
 
 
-## 1975
-
-### «Պատուհանի տակ ծղրիդն է երգում
-Գրիգոր Բալասանյան
-
-
-
 ## 1974
 
 ### Սամվել Samuel Самвел
 Րաֆֆի Raffi
 > Samuel is an 1886 Armenian language novel by the novelist Raffi. Considered by some critics his most successful work, the plot centres on the killing of the fourth-century Prince Vahan Mamikonian and his wife by their son Samuel.
+
+
+
+## 1973
+
+### «Պատուհանի տակ ծղրիդն է երգում
+Գրիգոր Բալասանյան
 
 
 
