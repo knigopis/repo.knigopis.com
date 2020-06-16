@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>301</sup>
+# List of books read by [Elixir](false)<sup>302</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Архипелаг ГУЛАГ
+Александр Солженицын
+
 
 ### Белая гвардия
 Михаил Булгаков
