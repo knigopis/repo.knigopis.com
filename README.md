@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>260</sup> 
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>16</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>83</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>261</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>118</sup> 
 [](users/104/104731829794763834502-google)<sup>5</sup> 
 [](users/831/8317925041-instagram)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Gosha](users/105/105731119736778227120-google)<sup>0</sup> 
 
 
-_16.06.2020 04:05:41_
+_16.06.2020 15:09:45_
