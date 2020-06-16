@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>286</sup>
+# List of books read by [Elixir](false)<sup>287</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Шагреневая кожа
+Оноре де Бальзак
+
 
 ### Что делать
 Чернышевский Н.Г.
