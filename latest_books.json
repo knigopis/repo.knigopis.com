@@ -1,4 +1,16 @@
 {
+    "lQffmH2Q0k": {
+        "id": "lQffmH2Q0k",
+        "title": "Спартак",
+        "author": "Раффаэлло Джованьолли",
+        "notes": "",
+        "createdAt": "2020-06-16 17:56:33",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 304
+        }
+    },
     "CaNOTxh7bD": {
         "id": "CaNOTxh7bD",
         "title": "Таис Афинская",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 277
-        }
-    },
-    "CjdDN3YpgD": {
-        "id": "CjdDN3YpgD",
-        "title": "Олеся (повесть)",
-        "author": "А. И. Куприн",
-        "notes": "",
-        "createdAt": "2020-06-16 16:29:12",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 276
         }
     }
 }
