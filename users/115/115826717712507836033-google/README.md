@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>299</sup>
+# List of books read by [Elixir](false)<sup>300</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Тихий Дон
+Михаил Шолохов
+
 
 ### Воскресение
 Лев Толстой
