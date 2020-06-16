@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Принц Каспиан ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
+    > «– Ты ведешь род от господина Адама и госпожи Евы, – сказал Аслан. – Это честь, способная возвысить главу беднейшего бедняка, и позор, способный пригнуть плечи величайшего императора. Будь доволен»
+
 * Заборонений. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>118</sup>
     > 8/10 Останній дні поета в таборі "Перм-36".
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Провициальный полусумасшедший учитель и гнилое общество.
 
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>114</sup>
-    > Книга описывает путешествие изобретателя машины времени в будущее. Основа сюжета — увлекательные приключения главного героя в мире, находящемся через 800 тысяч лет, описывая который, автор исходил из негативных тенденций развития современного ему капиталистического общества, что позволило многим критикам называть книгу романом-предупреждением. Кроме этого в романе впервые описано множество идей, относящихся к путешествиям во времени, которые ещё долго не потеряют своей привлекательности для читателей и авторов новых произведений.
 
 * Теория зла ~ [En](users/333/333646551-vkontakte)<sup>113</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Бабушка велела кланяться и передать, что просит прощения ~ [dmiro](users/571/5714115-vkontakte)<sup>28</sup>
 
-* Шелкопряд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>115</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>13</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>83</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>261</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>809</sup> 
 [chaotic_equal](users/109/109533635046249857347-google)<sup>1</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>52</sup> 
 [Kremnev1](users/109/109398777294736369541-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>90</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>72</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Gosha](users/105/105731119736778227120-google)<sup>0</sup> 
 
 
-_16.06.2020 01:48:05_
+_16.06.2020 02:02:22_

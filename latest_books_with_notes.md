@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Принц Каспиан ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
 * Заборонений. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>118</sup>
 * Мелкий бес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>117</sup>
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>114</sup>
@@ -30,7 +31,6 @@
 * Выбор. Мировое господство или глобальная доминация. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>114</sup>
 * Темна вежа 5. Вовки Кальї ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>113</sup>
 * Последняя любовь в Константинополе ~ [anvonamore](users/595/5957175-vkontakte)<sup>140</sup>
-* Мария - королева интриг ~ [Chiffi](users/105/105831994080785626680-google)<sup>191</sup>
 
 
-_15.06.2020 10:58:25_
+_16.06.2020 02:02:22_
