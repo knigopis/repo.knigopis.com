@@ -1,4 +1,16 @@
 {
+    "_WyC_3eeFF": {
+        "id": "_WyC_3eeFF",
+        "title": "Клоп (пьеса)",
+        "author": "В.В. Маяковский",
+        "notes": "",
+        "createdAt": "2020-06-16 17:35:04",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 291
+        }
+    },
     "YwSKS-wm16": {
         "id": "YwSKS-wm16",
         "title": "Сотников",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 264
-        }
-    },
-    "m_PHo_TFUI": {
-        "id": "m_PHo_TFUI",
-        "title": "На берегу Рио-Пьедро...",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2020-06-16 16:16:29",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 263
         }
     }
 }
