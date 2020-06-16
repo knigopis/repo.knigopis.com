@@ -1,4 +1,16 @@
 {
+    "SNRzKCQNcI": {
+        "id": "SNRzKCQNcI",
+        "title": "35 кило надежды",
+        "author": "Анна Гавальда",
+        "notes": "",
+        "createdAt": "2020-06-16 16:28:38",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 274
+        }
+    },
     "5jXd6EyUJN": {
         "id": "5jXd6EyUJN",
         "title": "Как завоевывать друзей и оказывать влияние на людей",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 262
-        }
-    },
-    "MoBHzCQ6-L": {
-        "id": "MoBHzCQ6-L",
-        "title": "Похороните меня за плинтусом",
-        "author": "Санаев, Павел",
-        "notes": "",
-        "createdAt": "2020-06-15 10:45:58",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 261
         }
     }
 }

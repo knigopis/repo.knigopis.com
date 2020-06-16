@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>273</sup>
+# List of books read by [Elixir](false)<sup>274</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### 35 кило надежды
+Анна Гавальда
+
 
 ### Как завоевывать друзей и оказывать влияние на людей
 Дейл Карнеги
