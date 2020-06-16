@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>289</sup>
+# List of books read by [Elixir](false)<sup>290</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Сотников
+В. Быков
+
 
 ### Москва-Петушки
 В. Ерофеев
