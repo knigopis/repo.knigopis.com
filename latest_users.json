@@ -1,4 +1,10 @@
 {
+    "102300366193989005728-google": {
+        "id": "102300366193989005728-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-06-16 21:01:40"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": "Elixir",
@@ -172,11 +178,5 @@
         "nickname": "Книголюб",
         "booksCount": 0,
         "updatedAt": "2020-06-04 16:23:24"
-    },
-    "105731119736778227120-google": {
-        "id": "105731119736778227120-google",
-        "nickname": "Gosha",
-        "booksCount": 0,
-        "updatedAt": "2020-06-03 22:52:34"
     }
 }
