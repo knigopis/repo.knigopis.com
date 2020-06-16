@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>293</sup>
+# List of books read by [Elixir](false)<sup>294</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Гранатовый браслет
+А.И. Куприн
+
 
 ### Вешние воды
 И.С. Тургенев
