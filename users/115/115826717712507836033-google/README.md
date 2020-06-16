@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>261</sup>
+# List of books read by [Elixir](false)<sup>260</sup>
 ---
 
 ## 2020
@@ -876,10 +876,6 @@
 
 ### Бедные люди
 Федор Достоевский
-
-
-### Макбет
-Уильям Шекспир
 
 
 ### Дети Арбата
