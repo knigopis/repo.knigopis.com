@@ -1,4 +1,4 @@
-# List of books read by [ՎաչՎաղՍիր SirVach](false)<sup>14</sup>
+# List of books read by [ՎաչՎաղՍիր SirVach](false)<sup>15</sup>
 ---
 
 ## 2020
@@ -53,6 +53,11 @@ Jack London
 
 
 ## 1983
+
+### The Picture of Dorian Gray (Портрет Дориана Грея)
+Oscar Wilde
+> The Picture of Dorian Gray is a Gothic and philosophical novel by Oscar Wilde, first published complete in the July 1890 issue of Lippincott's Monthly Magazine. Fearing the story was indecent, the magazine's editor deleted roughly five hundred words before publication without Wilde's knowledge
+
 
 ### Theatre
 Somerset Maugham

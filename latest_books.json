@@ -1,4 +1,16 @@
 {
+    "mdV3wf0SH6": {
+        "id": "mdV3wf0SH6",
+        "title": "The Picture of Dorian Gray (Портрет Дориана Грея)",
+        "author": "Oscar Wilde",
+        "notes": "The Picture of Dorian Gray is a Gothic and philosophical novel by Oscar Wilde, first published complete in the July 1890 issue of Lippincott's Monthly Magazine. Fearing the story was indecent, the magazine's editor deleted roughly five hundred words before publication without Wilde's knowledge",
+        "createdAt": "2020-06-16 03:55:39",
+        "user": {
+            "id": "1130000004300166-yandex",
+            "nickname": "ՎաչՎաղՍիր SirVach",
+            "booksCount": 15
+        }
+    },
     "YW0H0UyzAW": {
         "id": "YW0H0UyzAW",
         "title": "Ալպիական մանուշակ АЛЬПИЙСКАЯ ФИАЛКА  5",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 248
-        }
-    },
-    "VYPaWapGwU": {
-        "id": "VYPaWapGwU",
-        "title": "Белый клык",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2020-06-15 10:24:04",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 247
         }
     }
 }
