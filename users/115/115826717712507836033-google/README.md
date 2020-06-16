@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>274</sup>
+# List of books read by [Elixir](false)<sup>275</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Гарри Поттер и философский камень
+Джоан Роулинг
+
 
 ### 35 кило надежды
 Анна Гавальда
