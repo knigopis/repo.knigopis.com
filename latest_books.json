@@ -1,4 +1,16 @@
 {
+    "GoGZfSmG6r": {
+        "id": "GoGZfSmG6r",
+        "title": "Мост через вечность",
+        "author": "Ричард Бах",
+        "notes": "",
+        "createdAt": "2020-06-16 16:16:41",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 264
+        }
+    },
     "m_PHo_TFUI": {
         "id": "m_PHo_TFUI",
         "title": "На берегу Рио-Пьедро...",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 253
-        }
-    },
-    "Fbs5qosQHD": {
-        "id": "Fbs5qosQHD",
-        "title": "Финансист",
-        "author": "Теодор Драйзер",
-        "notes": "",
-        "createdAt": "2020-06-15 10:28:57",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 252
         }
     }
 }
