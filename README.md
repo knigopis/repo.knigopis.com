@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/182/18276342038-instagram)<sup>0</sup> 
 [](users/102/102300366193989005728-google)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>304</sup> 
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>16</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Maga](users/106/106060917304685787728-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>192</sup> 
 [kseniyamatova](users/179/17937184-vkontakte)<sup>0</sup> 
-[Книголюб](users/111/111762250865880736374-google)<sup>0</sup> 
 
 
-_16.06.2020 21:01:43_
+_16.06.2020 21:01:57_
