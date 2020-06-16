@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>269</sup>
+# List of books read by [Elixir](false)<sup>270</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Географ глобус пропил
+Алексей Иванов
+
 
 ### Работа над ошибками
 Поляков Юрий
