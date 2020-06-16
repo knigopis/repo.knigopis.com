@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>272</sup>
+# List of books read by [Elixir](false)<sup>273</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Как завоевывать друзей и оказывать влияние на людей
+Дейл Карнеги
+
 
 ### Алиса в Зазеркалье
 Льюис Кэрролл
