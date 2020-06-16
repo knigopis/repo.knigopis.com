@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>294</sup>
+# List of books read by [Elixir](false)<sup>295</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Рассказы
+А.П. Чехов
+
 
 ### Гранатовый браслет
 А.И. Куприн
