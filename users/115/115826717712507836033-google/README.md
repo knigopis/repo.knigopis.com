@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>268</sup>
+# List of books read by [Elixir](false)<sup>269</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Работа над ошибками
+Поляков Юрий
+
 
 ### Дом, в котором
 Мериам Петросян
