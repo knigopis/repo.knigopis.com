@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>261</sup>
+# List of books read by [Elixir](false)<sup>262</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Маленький принц
+Антуан де Сент-Экзюпери
+
 
 ### Два Капитана
 Вениамин Каверин

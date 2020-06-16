@@ -1,4 +1,16 @@
 {
+    "KclLeKDfZ4": {
+        "id": "KclLeKDfZ4",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2020-06-16 16:16:11",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 262
+        }
+    },
     "_11mJ6LwV3": {
         "id": "_11mJ6LwV3",
         "title": "Два Капитана",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 251
-        }
-    },
-    "N395poGFV1": {
-        "id": "N395poGFV1",
-        "title": "Один день Ивана Денисовича",
-        "author": "Александр Исаевич Солженицын",
-        "notes": "",
-        "createdAt": "2020-06-15 10:27:03",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 250
         }
     }
 }
