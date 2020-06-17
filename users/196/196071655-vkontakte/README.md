@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>156</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>157</sup>
 ---
 
 ## 2020
+
+### BMW. Баварское сердце, Русская душа
+Александр Пикуленко, Денис Орлов
+> [2020-06-17] 
+
 
 ### Скотский бунт
 Николай Костомаров
