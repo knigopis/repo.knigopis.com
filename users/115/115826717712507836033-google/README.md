@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>298</sup>
+# List of books read by [Elixir](false)<sup>297</sup>
 ---
 
 ## 2020
@@ -1172,10 +1172,6 @@
 
 ### Хождение по мукам
 Алексей Толстой
-
-
-### Портрет Дориана Грэя
-Оскар Уайльд
 
 
 ### Медея и ее дети
