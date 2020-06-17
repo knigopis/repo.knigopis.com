@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>294</sup>
+# List of books read by [Elixir](false)<sup>293</sup>
 ---
 
 ## 2020
@@ -676,10 +676,6 @@
 
 ### Дон Кихот
 Михаэль Сервантес
-
-
-### Евгений Онегин
-Пушкин, Александр Сергеевич
 
 
 ### Шинель
