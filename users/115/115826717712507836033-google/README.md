@@ -1,4 +1,4 @@
-# List of books read by <sup>141</sup>
+# List of books read by <sup>142</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Грибной царь
+Юрий Поляков
+
 
 ### Искренне ваш Шурик
 Людмила Улицкая
