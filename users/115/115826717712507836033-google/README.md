@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>297</sup>
+# List of books read by [Elixir](false)<sup>296</sup>
 ---
 
 ## 2020
@@ -752,10 +752,6 @@
 
 ### Мост через вечность
 Ричард Бах
-
-
-### На берегу Рио-Пьедро...
-Пауло Коэльо
 
 
 ### Маленький принц
