@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>295</sup>
+# List of books read by [Elixir](false)<sup>294</sup>
 ---
 
 ## 2020
@@ -776,10 +776,6 @@
 
 ### Ромео и Джульетта
 Шекспир, Уильям
-
-
-### Пятая гора
-Пауло Коэльо
 
 
 ### Код да Винчи
