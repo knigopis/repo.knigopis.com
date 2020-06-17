@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>291</sup>
+# List of books read by [Elixir](false)<sup>292</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Казус Кукоцкого
+Людмила Улицкая
+
 
 ### Зелёный шатер
 Людмила Улицкая
