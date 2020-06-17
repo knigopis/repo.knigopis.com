@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>292</sup>
+# List of books read by [Elixir](false)<sup>291</sup>
 ---
 
 ## 2020
@@ -1128,10 +1128,6 @@
 
 ### Унесенные ветром
 Маргарет Митчелл
-
-
-### Женщина в белом
-Уилки Коллинз
 
 
 ### Джейн Ейр
