@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>296</sup>
+# List of books read by [Elixir](false)<sup>295</sup>
 ---
 
 ## 2020
@@ -768,10 +768,6 @@
 
 ### Ангелы и демоны
 Браун, Дэн
-
-
-### Вероника решает умереть
-Пауло Коэльо
 
 
 ### Макбет
