@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>301</sup>
+# List of books read by [Elixir](false)<sup>300</sup>
 ---
 
 ## 2020
@@ -880,10 +880,6 @@
 
 ### Демон
 Михаил Лермонтов
-
-
-### "Старуха Изергиль"
-Максим Горький
 
 
 ### Завтра была война ★★★★★
