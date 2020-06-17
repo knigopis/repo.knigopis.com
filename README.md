@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/115/115826717712507836033-google)<sup>142</sup> 
+[](users/115/115826717712507836033-google)<sup>143</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>108</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>65</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>157</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Maga](users/106/106060917304685787728-google)<sup>0</sup> 
 
 
-_17.06.2020 18:41:17_
+_17.06.2020 18:42:41_
