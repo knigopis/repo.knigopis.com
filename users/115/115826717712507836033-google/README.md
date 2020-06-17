@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>304</sup>
+# List of books read by [Elixir](false)<sup>303</sup>
 ---
 
 ## 2020
@@ -1016,10 +1016,6 @@
 
 ### 5 языков любви
 Гэри Чепмен
-
-
-### Хождение по мукам
-Алексей Толстой
 
 
 ### Белая гвардия
