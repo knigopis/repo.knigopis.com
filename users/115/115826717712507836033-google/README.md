@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>300</sup>
+# List of books read by [Elixir](false)<sup>299</sup>
 ---
 
 ## 2020
@@ -1008,10 +1008,6 @@
 
 ### 5 языков любви
 Гэри Чепмен
-
-
-### Белая гвардия
-Михаил Булгаков
 
 
 ### Дубровский
