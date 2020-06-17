@@ -1,4 +1,16 @@
 {
+    "ROBO1_N1pO": {
+        "id": "ROBO1_N1pO",
+        "title": "Тёмная сторона сети",
+        "author": "Мария Артемьева",
+        "notes": "",
+        "createdAt": "2020-06-17 19:46:12",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 101
+        }
+    },
     "FLE_dVndMI": {
         "id": "FLE_dVndMI",
         "title": "ЧП районного масштаба",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 290
-        }
-    },
-    "dLy9uvQqDJ": {
-        "id": "dLy9uvQqDJ",
-        "title": "Москва-Петушки",
-        "author": "В. Ерофеев",
-        "notes": "",
-        "createdAt": "2020-06-16 17:34:12",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 289
         }
     }
 }

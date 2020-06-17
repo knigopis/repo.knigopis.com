@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>101</sup> 
 [](users/115/115826717712507836033-google)<sup>144</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>108</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>65</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zAAz](users/202/202248233-vkontakte)<sup>58</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>209</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>50</sup> 
-[Maga](users/106/106060917304685787728-google)<sup>0</sup> 
 
 
-_17.06.2020 18:43:14_
+_17.06.2020 19:46:12_

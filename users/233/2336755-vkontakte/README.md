@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>100</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>101</sup>
 ---
 
 ## 2020
+
+### Тёмная сторона сети
+Мария Артемьева
+> [2020-06-11] 
+
 
 ### Американская трагедия
 Теодор Драйзер
