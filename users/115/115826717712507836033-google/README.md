@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>292</sup>
+# List of books read by [Elixir](false)<sup>291</sup>
 ---
 
 ## 2020
@@ -1104,10 +1104,6 @@
 
 ### Мы
 Евгений Замятин
-
-
-### Анна Каренина
-Лев Толстой
 
 
 ### Алхимик
