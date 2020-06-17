@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Elixir](users/115/115826717712507836033-google)<sup>294</sup> 
+[Elixir](users/115/115826717712507836033-google)<sup>293</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>53</sup> 
 [](users/182/18276342038-instagram)<sup>0</sup> 
 [](users/102/102300366193989005728-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kseniyamatova](users/179/17937184-vkontakte)<sup>0</sup> 
 
 
-_17.06.2020 02:31:48_
+_17.06.2020 02:32:03_
