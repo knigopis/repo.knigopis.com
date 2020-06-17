@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>293</sup>
+# List of books read by [Elixir](false)<sup>292</sup>
 ---
 
 ## 2020
@@ -811,10 +811,6 @@
 
 
 ### Стоик
-Теодор Драйзер
-
-
-### Финансист
 Теодор Драйзер
 
 
