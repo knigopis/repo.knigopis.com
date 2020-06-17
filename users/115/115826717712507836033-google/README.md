@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>303</sup>
+# List of books read by [Elixir](false)<sup>302</sup>
 ---
 
 ## 2020
@@ -1188,10 +1188,6 @@
 
 ### Хождение по мукам
 Алексей Толстой
-
-
-### Госпожа Бовари
-Гюстав Флобер
 
 
 ### Портрет Дориана Грэя
