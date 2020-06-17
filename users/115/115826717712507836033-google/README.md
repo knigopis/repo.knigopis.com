@@ -1,4 +1,4 @@
-# List of books read by [Elixir](false)<sup>292</sup>
+# List of books read by [Elixir](false)<sup>293</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Даниэль Штайн, переводчик
+Людмила Улицкая
+
 
 ### Казус Кукоцкого
 Людмила Улицкая

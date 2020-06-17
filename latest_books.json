@@ -1,4 +1,16 @@
 {
+    "bnOi7H1O4h": {
+        "id": "bnOi7H1O4h",
+        "title": "Даниэль Штайн, переводчик",
+        "author": "Людмила Улицкая",
+        "notes": "",
+        "createdAt": "2020-06-17 07:25:11",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 293
+        }
+    },
     "sRPlkd32TY": {
         "id": "sRPlkd32TY",
         "title": "Казус Кукоцкого",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 285
-        }
-    },
-    "s_fCR9ulAW": {
-        "id": "s_fCR9ulAW",
-        "title": "Горе от ума",
-        "author": "Александр Грибоедов",
-        "notes": "",
-        "createdAt": "2020-06-16 16:31:12",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 284
         }
     }
 }
