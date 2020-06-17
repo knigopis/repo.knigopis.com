@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>155</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>156</sup>
 ---
 
 ## 2020
+
+### Скотский бунт
+Николай Костомаров
+> [2020-06-16] 
+
 
 ### Краткие ответы, на большие вопросы
 Стивен Хокинг
