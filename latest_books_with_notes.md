@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Азазель ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>65</sup>
 * Принц Каспиан ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
 * Заборонений. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>118</sup>
 * Мелкий бес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>117</sup>
@@ -30,7 +31,6 @@
 * Каханне падчас халеры ~ [HXT](users/100/100002563462782-facebook)<sup>386</sup>
 * Выбор. Мировое господство или глобальная доминация. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>114</sup>
 * Темна вежа 5. Вовки Кальї ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>113</sup>
-* Последняя любовь в Константинополе ~ [anvonamore](users/595/5957175-vkontakte)<sup>140</sup>
 
 
-_16.06.2020 02:02:22_
+_17.06.2020 02:54:54_

@@ -1,4 +1,16 @@
 {
+    "KbTcErQup5": {
+        "id": "KbTcErQup5",
+        "title": "Азазель",
+        "author": "Борис Акунин",
+        "notes": "11/10",
+        "createdAt": "2020-06-17 02:54:54",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 65
+        }
+    },
     "0lGzVxH4om": {
         "id": "0lGzVxH4om",
         "title": "Принц Каспиан",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 113
-        }
-    },
-    "6qlB13g7Br": {
-        "id": "6qlB13g7Br",
-        "title": "Последняя любовь в Константинополе",
-        "author": "Милорад Павич",
-        "notes": "8/10",
-        "createdAt": "2020-05-27 14:01:30",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 140
         }
     }
 }

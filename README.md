@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Азазель ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>65</sup>
+    > 11/10
+
 * Принц Каспиан ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
     > «– Ты ведешь род от господина Адама и госпожи Евы, – сказал Аслан. – Это честь, способная возвысить главу беднейшего бедняка, и позор, способный пригнуть плечи величайшего императора. Будь доволен»
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10 Останній дні поета в таборі "Перм-36".
 
 * Мелкий бес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>117</sup>
-    > 7/10 Провициальный полусумасшедший учитель и гнилое общество.
 
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>114</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Как работает мир, в котором я живу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>116</sup>
 
-* Бабушка велела кланяться и передать, что просит прощения ~ [dmiro](users/571/5714115-vkontakte)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stamovashahzada](users/310/310646815-vkontakte)<sup>65</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>157</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>291</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>53</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>209</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>50</sup> 
 [Maga](users/106/106060917304685787728-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>192</sup> 
 
 
-_17.06.2020 02:39:27_
+_17.06.2020 02:54:54_
