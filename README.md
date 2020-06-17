@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Elixir](users/115/115826717712507836033-google)<sup>293</sup> 
+[](users/115/115826717712507836033-google)<sup>142</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>65</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>157</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>53</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Maga](users/106/106060917304685787728-google)<sup>0</sup> 
 
 
-_17.06.2020 07:25:11_
+_17.06.2020 07:27:16_

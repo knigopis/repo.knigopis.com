@@ -1,4 +1,16 @@
 {
+    "oXpDzB9kZn": {
+        "id": "oXpDzB9kZn",
+        "title": "Лестница Якова",
+        "author": "Людмила Улицкая",
+        "notes": "",
+        "createdAt": "2020-06-17 07:27:16",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 142
+        }
+    },
     "bnOi7H1O4h": {
         "id": "bnOi7H1O4h",
         "title": "Даниэль Штайн, переводчик",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 286
-        }
-    },
-    "vptfS-02kB": {
-        "id": "vptfS-02kB",
-        "title": "Человек-амфибия",
-        "author": "Александр Беляев",
-        "notes": "",
-        "createdAt": "2020-06-16 16:31:26",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 285
         }
     }
 }
