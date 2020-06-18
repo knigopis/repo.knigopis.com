@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>158</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>159</sup>
 ---
 
 ## 2020
+
+### Гитлер
+Руперт Колли
+> [2020-06-18] 
+
 
 ### Наедине с собой
 Марк Аврелий

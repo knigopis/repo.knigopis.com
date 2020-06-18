@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[afferens.lucem](users/196/196071655-vkontakte)<sup>158</sup> 
+[afferens.lucem](users/196/196071655-vkontakte)<sup>159</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>54</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>101</sup> 
 [](users/115/115826717712507836033-google)<sup>144</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>50</sup> 
 
 
-_18.06.2020 04:48:27_
+_18.06.2020 04:49:47_
