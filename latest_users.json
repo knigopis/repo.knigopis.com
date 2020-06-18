@@ -1,4 +1,10 @@
 {
+    "58602788-vkontakte": {
+        "id": "58602788-vkontakte",
+        "nickname": "Dandelion_Wine",
+        "booksCount": 38,
+        "updatedAt": "2020-06-18 17:30:12"
+    },
     "56734832-yandex": {
         "id": "56734832-yandex",
         "nickname": "Avery",
@@ -172,11 +178,5 @@
         "nickname": "zAAz",
         "booksCount": 58,
         "updatedAt": "2020-06-06 09:26:30"
-    },
-    "158304782-vkontakte": {
-        "id": "158304782-vkontakte",
-        "nickname": "Madlax",
-        "booksCount": 209,
-        "updatedAt": "2020-06-05 21:11:13"
     }
 }
