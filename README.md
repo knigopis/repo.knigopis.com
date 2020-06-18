@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>158</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>54</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>101</sup> 
 [](users/115/115826717712507836033-google)<sup>144</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>108</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>65</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>157</sup> 
 [](users/182/18276342038-instagram)<sup>0</sup> 
 [](users/102/102300366193989005728-google)<sup>0</sup> 
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>16</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>50</sup> 
 
 
-_18.06.2020 00:00:31_
+_18.06.2020 04:48:27_

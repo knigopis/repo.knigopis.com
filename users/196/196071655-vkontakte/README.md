@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>157</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>158</sup>
 ---
 
 ## 2020
+
+### Наедине с собой
+Марк Аврелий
+> [2020-06-18] 
+
 
 ### BMW. Баварское сердце, Русская душа
 Александр Пикуленко, Денис Орлов
