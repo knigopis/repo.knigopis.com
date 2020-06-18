@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Avery](users/567/56734832-yandex)<sup>30</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>159</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>54</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>101</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>125</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>58</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>209</sup> 
-[4apa](users/117/117392596378069249667-google)<sup>50</sup> 
 
 
-_18.06.2020 04:49:47_
+_18.06.2020 16:04:10_
