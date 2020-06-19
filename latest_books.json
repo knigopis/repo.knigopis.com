@@ -1,4 +1,16 @@
 {
+    "BY3mgouH0k": {
+        "id": "BY3mgouH0k",
+        "title": "Записки юного врача",
+        "author": "Булгаков Михаил Афанасьевич",
+        "notes": "",
+        "createdAt": "2020-06-19 16:15:00",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 13
+        }
+    },
     "4h-kcDNPHu": {
         "id": "4h-kcDNPHu",
         "title": "Великие путешественники",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 292
-        }
-    },
-    "KbTcErQup5": {
-        "id": "KbTcErQup5",
-        "title": "Азазель",
-        "author": "Борис Акунин",
-        "notes": "11/10",
-        "createdAt": "2020-06-17 02:54:54",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 65
         }
     }
 }
