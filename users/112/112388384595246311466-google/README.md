@@ -1,7 +1,11 @@
-# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>2</sup>
+# List of books read by [ЗаяцЛис](https://plus.google.com/u/0/112388384595246311466/)<sup>3</sup>
 ---
 
 ## 2020
+
+### Маленький принц
+Антуан де Сент-Экзюпери
+
 
 ### Мать
 Горький Максим
