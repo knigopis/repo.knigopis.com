@@ -1,4 +1,16 @@
 {
+    "4h-kcDNPHu": {
+        "id": "4h-kcDNPHu",
+        "title": "Великие путешественники",
+        "author": "Зощенко Михаил Михайлович",
+        "notes": "",
+        "createdAt": "2020-06-19 16:14:06",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 12
+        }
+    },
     "3kUUKgRo0E": {
         "id": "3kUUKgRo0E",
         "title": "Майская ночь, или Утопленница",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 65
-        }
-    },
-    "D4o3b2u9zZ": {
-        "id": "D4o3b2u9zZ",
-        "title": "BMW. Баварское сердце, Русская душа",
-        "author": "Александр Пикуленко, Денис Орлов",
-        "notes": "",
-        "createdAt": "2020-06-17 02:39:27",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 157
         }
     }
 }
