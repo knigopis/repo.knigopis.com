@@ -1,4 +1,16 @@
 {
+    "L5imcTTesm": {
+        "id": "L5imcTTesm",
+        "title": "Завтра была война",
+        "author": "Васильев Борис Львович",
+        "notes": "",
+        "createdAt": "2020-06-19 16:09:14",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 7
+        }
+    },
     "r4Ie08d546": {
         "id": "r4Ie08d546",
         "title": "Встречный бой",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 303
-        }
-    },
-    "ICXMMhe-uv": {
-        "id": "ICXMMhe-uv",
-        "title": "Архипелаг ГУЛАГ",
-        "author": "Александр Солженицын",
-        "notes": "",
-        "createdAt": "2020-06-16 17:53:03",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 302
         }
     }
 }
