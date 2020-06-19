@@ -1,4 +1,16 @@
 {
+    "t_0vPmdfX1": {
+        "id": "t_0vPmdfX1",
+        "title": "Василиса Прекрасная",
+        "author": "Русские народные сказки",
+        "notes": "",
+        "createdAt": "2020-06-19 16:10:35",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 8
+        }
+    },
     "L5imcTTesm": {
         "id": "L5imcTTesm",
         "title": "Завтра была война",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 304
-        }
-    },
-    "CaNOTxh7bD": {
-        "id": "CaNOTxh7bD",
-        "title": "Таис Афинская",
-        "author": "Иван Ефремов",
-        "notes": "",
-        "createdAt": "2020-06-16 17:55:00",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 303
         }
     }
 }
