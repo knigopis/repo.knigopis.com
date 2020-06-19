@@ -1,4 +1,16 @@
 {
+    "ofMsGiXYgY": {
+        "id": "ofMsGiXYgY",
+        "title": "Жизнь взаймы",
+        "author": "Ремарк Эрих Мария",
+        "notes": "",
+        "createdAt": "2020-06-19 16:15:32",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 14
+        }
+    },
     "BY3mgouH0k": {
         "id": "BY3mgouH0k",
         "title": "Записки юного врача",
@@ -341,18 +353,6 @@
         "author": "Людмила Улицкая",
         "notes": "",
         "createdAt": "2020-06-17 04:26:11",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 292
-        }
-    },
-    "mJoDV_g9Pi": {
-        "id": "mJoDV_g9Pi",
-        "title": "Бедные люди",
-        "author": "Федор Достоевский",
-        "notes": "",
-        "createdAt": "2020-06-17 04:21:23",
         "user": {
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
