@@ -1,4 +1,16 @@
 {
+    "r4Ie08d546": {
+        "id": "r4Ie08d546",
+        "title": "Встречный бой",
+        "author": "Васильев Борис Львович",
+        "notes": "",
+        "createdAt": "2020-06-19 16:08:31",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 6
+        }
+    },
     "ZUAYbt2RGt": {
         "id": "ZUAYbt2RGt",
         "title": "А зори здесь тихие",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 302
-        }
-    },
-    "dfhQ9PwtvY": {
-        "id": "dfhQ9PwtvY",
-        "title": "Белая гвардия",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2020-06-16 17:46:28",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 301
         }
     }
 }
