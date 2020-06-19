@@ -1,4 +1,16 @@
 {
+    "zZsmI87BtN": {
+        "id": "zZsmI87BtN",
+        "title": "Чудесный доктор",
+        "author": "Куприн Александр Иванович",
+        "notes": "",
+        "createdAt": "2020-06-19 16:12:20",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 10
+        }
+    },
     "eo0_zzB8p3": {
         "id": "eo0_zzB8p3",
         "title": "Васюткино озеро",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 156
-        }
-    },
-    "7nimwqGMQ-": {
-        "id": "7nimwqGMQ-",
-        "title": "\"Покоритель зари\" или Плавание на край света",
-        "author": "Клайв Стейплз Льюис",
-        "notes": "",
-        "createdAt": "2020-06-16 23:49:22",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 58
         }
     }
 }
