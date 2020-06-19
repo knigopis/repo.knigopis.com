@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 55,
+        "updatedAt": "2020-06-19 00:44:56"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -16,12 +22,6 @@
         "nickname": "afferens.lucem",
         "booksCount": 159,
         "updatedAt": "2020-06-18 04:49:47"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 54,
-        "updatedAt": "2020-06-18 00:00:31"
     },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",

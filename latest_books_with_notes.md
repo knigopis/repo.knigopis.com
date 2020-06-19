@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Последняя битва ~ [Rainbow](users/109/109787328219839805802-google)<sup>55</sup>
 * Пустой дом. Карусель ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>38</sup>
 * Серебряное кресло ~ [Rainbow](users/109/109787328219839805802-google)<sup>54</sup>
 * Азазель ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>65</sup>
@@ -30,7 +31,6 @@
 * «Игра престолов», первая книга из серии «Песнь льда и огня» ~ [joan789](users/240/2401650-vkontakte)<sup>102</sup>
 * Почти как Бьюик ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup>
 * Аспект дьявола ~ [En](users/333/333646551-vkontakte)<sup>108</sup>
-* Каханне падчас халеры ~ [HXT](users/100/100002563462782-facebook)<sup>386</sup>
 
 
-_18.06.2020 17:30:12_
+_19.06.2020 00:44:56_
