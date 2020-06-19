@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>55</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>38</sup> 
 [Avery](users/567/56734832-yandex)<sup>30</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>48</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>253</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>125</sup> 
-[zAAz](users/202/202248233-vkontakte)<sup>58</sup> 
 
 
-_19.06.2020 00:44:56_
+_19.06.2020 16:01:26_
