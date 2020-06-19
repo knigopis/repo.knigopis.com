@@ -1,4 +1,16 @@
 {
+    "eo0_zzB8p3": {
+        "id": "eo0_zzB8p3",
+        "title": "Васюткино озеро",
+        "author": "Астафьев Виктор Петрович",
+        "notes": "",
+        "createdAt": "2020-06-19 16:11:24",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 9
+        }
+    },
     "t_0vPmdfX1": {
         "id": "t_0vPmdfX1",
         "title": "Василиса Прекрасная",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 58
-        }
-    },
-    "lQffmH2Q0k": {
-        "id": "lQffmH2Q0k",
-        "title": "Спартак",
-        "author": "Раффаэлло Джованьолли",
-        "notes": "",
-        "createdAt": "2020-06-16 17:56:33",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 304
         }
     }
 }
