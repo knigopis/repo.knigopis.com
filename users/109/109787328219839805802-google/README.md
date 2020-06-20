@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>55</sup>
+# List of books read by Rainbow<sup>56</sup>
 ---
 
 ## 2020
+
+### Сказать жизни – Да!
+Виктор Франкл
+> [2020-06-21] 
+
 
 ### Последняя битва
 Клай Стейплз Льюис
