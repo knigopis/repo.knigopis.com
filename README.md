@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>49</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>119</sup> 
 [ascargb](users/101/10125314-vkontakte)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>39</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>72</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>387</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>28</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>48</sup> 
 
 
-_20.06.2020 17:51:49_
+_20.06.2020 18:19:17_

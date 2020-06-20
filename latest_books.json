@@ -1,4 +1,16 @@
 {
+    "IBYj78QgjR": {
+        "id": "IBYj78QgjR",
+        "title": "Архив буресвета. Путь королей",
+        "author": "Брендон Сандерсон",
+        "notes": "",
+        "createdAt": "2020-06-20 18:19:17",
+        "user": {
+            "id": "118158645037334943900-google",
+            "nickname": "Антенка",
+            "booksCount": 49
+        }
+    },
     "5-m0emnA_T": {
         "id": "5-m0emnA_T",
         "title": "Темна Вежа 6. Пісня Сюзанни.",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 142
-        }
-    },
-    "bnOi7H1O4h": {
-        "id": "bnOi7H1O4h",
-        "title": "Даниэль Штайн, переводчик",
-        "author": "Людмила Улицкая",
-        "notes": "",
-        "createdAt": "2020-06-17 07:25:11",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 293
         }
     }
 }
