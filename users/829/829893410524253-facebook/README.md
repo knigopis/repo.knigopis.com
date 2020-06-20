@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>118</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>119</sup>
 ---
 
 ## 2020
+
+### Темна Вежа 6. Пісня Сюзанни.
+Стівен Кінг
+> [2020-06-21] 10/10 Пологи Мії, зустріч Роланда та Стівена Кінга.
+
 
 ### Заборонений.
 Сергій Дзюба, Арсеній Кірсанов

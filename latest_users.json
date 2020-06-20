@@ -1,4 +1,10 @@
 {
+    "829893410524253-facebook": {
+        "id": "829893410524253-facebook",
+        "nickname": "Daria Varyvod",
+        "booksCount": 119,
+        "updatedAt": "2020-06-20 17:51:49"
+    },
     "10125314-vkontakte": {
         "id": "10125314-vkontakte",
         "nickname": "ascargb",
@@ -88,12 +94,6 @@
         "nickname": "Таньчик",
         "booksCount": 83,
         "updatedAt": "2020-06-15 20:29:00"
-    },
-    "829893410524253-facebook": {
-        "id": "829893410524253-facebook",
-        "nickname": "Daria Varyvod",
-        "booksCount": 118,
-        "updatedAt": "2020-06-15 10:58:24"
     },
     "104731829794763834502-google": {
         "id": "104731829794763834502-google",
