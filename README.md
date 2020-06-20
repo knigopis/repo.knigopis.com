@@ -36,10 +36,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>39</sup> 
 [MariaSelv](users/111/111954412181372496903-google)<sup>0</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>14</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>55</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>38</sup> 
 [Avery](users/567/56734832-yandex)<sup>30</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>159</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>101</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>253</sup> 
 
 
-_20.06.2020 16:09:07_
+_20.06.2020 16:12:46_
