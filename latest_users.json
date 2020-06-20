@@ -1,4 +1,10 @@
 {
+    "10125314-vkontakte": {
+        "id": "10125314-vkontakte",
+        "nickname": "ascargb",
+        "booksCount": 0,
+        "updatedAt": "2020-06-20 16:35:25"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": "Антенка",
         "booksCount": 48,
         "updatedAt": "2020-06-08 14:47:29"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 253,
-        "updatedAt": "2020-06-07 16:56:27"
     }
 }
