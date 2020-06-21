@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Rainbow](users/109/109787328219839805802-google)<sup>57</sup> 
+[Rainbow](users/109/109787328219839805802-google)<sup>56</sup> 
 [](users/104/104731829794763834502-google)<sup>6</sup> 
 [En](users/333/333646551-vkontakte)<sup>115</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>29</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>387</sup> 
 
 
-_21.06.2020 22:37:01_
+_21.06.2020 22:37:38_
