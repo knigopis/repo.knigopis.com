@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бойся, я с тобой ~ [dmiro](users/571/5714115-vkontakte)<sup>29</sup>
+    > Учебное пособие, как себя вести с нарциссами (особый вид моральных извращенцев). Советы жесткие, прямые и в без компромиссов. В то же время говорится, что таких личностей с отклонениями всего 5%, и что их важно распознать в самом начале.
+
 * Daredevils of Sassoun (Давид Сасунский)
 Սասունցի Դավիթ ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>17</sup>
     > Daredevils of Sassoun is an Armenian heroic epic poem in four cycles. In the initial decades following the discovery of the epic in the late nineteenth century a general consensus emerged attributing its theme to the struggle of four generations of Sason's warriors against Muslim rule in the 8th to 10th centuries.
@@ -15,8 +18,6 @@ Do not use pull requests to make changes here.
     > 10/10 Пологи Мії, зустріч Роланда та Стівена Кінга.
 
 * Последняя битва ~ [Rainbow](users/109/109787328219839805802-google)<sup>55</sup>
-    > «Знаешь, Питер, когда Аслан сказал, что вы не вернетесь в Нарнию, oн говорил про ту Нарнию, а она была не настоящая. Понимаешь, у той Нарнии было начало и конец, она была лишь тенью, лишь оттиском настоящей Нарнии, этой, которая была всегда и будет вечно. Ведь и наш мир – Англия и все остальное – тоже тень или оттиск чего-то в настоящем мире. Тебе не было нужды оплакивать Нарнию, Люси. Все самое важное в старой Нарнии, все дорогие создания – все взято через Дверь в настоящую Нарнию. Они, конечно, стали немножко иными; ведь настоящая вещь отличается от своей тени, как жизнь – от сна»
-    > «Все это есть у Платона, все у Платона… Боже мой, чему их только учат в этих школах!»
 
 * Пустой дом. Карусель ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>38</sup>
 
@@ -30,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Мелкий бес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>117</sup>
 
-* Машина времени ~ [En](users/333/333646551-vkontakte)<sup>114</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmiro](users/571/5714115-vkontakte)<sup>29</sup> 
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>17</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>15</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>56</sup> 
@@ -66,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>90</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>72</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>387</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>28</sup> 
 
 
-_21.06.2020 04:23:37_
+_21.06.2020 08:07:22_
