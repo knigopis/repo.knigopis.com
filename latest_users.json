@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 117,
+        "updatedAt": "2020-06-21 23:07:33"
+    },
     "369557556-vkontakte": {
         "id": "369557556-vkontakte",
         "nickname": "longe_coffee",
@@ -172,11 +178,5 @@
         "nickname": "kissamasya",
         "booksCount": 90,
         "updatedAt": "2020-06-12 16:36:43"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 72,
-        "updatedAt": "2020-06-12 08:44:30"
     }
 }

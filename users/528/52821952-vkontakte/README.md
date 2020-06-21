@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>116</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>117</sup>
 ---
 
 ## 2020
+
+### Норвежский лес
+Харуки Мураками
+> [2020-06-21] 
+
 
 ### Океан в конце дороги
 Нил Гейман
