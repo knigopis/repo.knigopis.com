@@ -1,6 +1,8 @@
 # List of the latest books with notes
 ---
 
+* Daredevils of Sassoun (Давид Сасунский)
+Սասունցի Դավիթ ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>17</sup>
 * Темна Вежа 6. Пісня Сюзанни. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>119</sup>
 * Последняя битва ~ [Rainbow](users/109/109787328219839805802-google)<sup>55</sup>
 * Пустой дом. Карусель ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>38</sup>
@@ -30,7 +32,6 @@
 * Страсти по Марии ~ [Chiffi](users/105/105831994080785626680-google)<sup>192</sup>
 * Подсказчик ~ [En](users/333/333646551-vkontakte)<sup>109</sup>
 * «Игра престолов», первая книга из серии «Песнь льда и огня» ~ [joan789](users/240/2401650-vkontakte)<sup>102</sup>
-* Почти как Бьюик ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>156</sup>
 
 
-_20.06.2020 17:51:49_
+_21.06.2020 04:23:37_

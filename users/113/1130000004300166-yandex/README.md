@@ -1,4 +1,4 @@
-# List of books read by [ՎաչՎաղՍիր SirVach](false)<sup>16</sup>
+# List of books read by [ՎաչՎաղՍիր SirVach](false)<sup>17</sup>
 ---
 
 ## 2020
@@ -121,6 +121,16 @@ William Shakespeare
 
 ### «Պատուհանի տակ ծղրիդն է երգում
 Գրիգոր Բալասանյան
+
+
+
+## 1972
+
+### Daredevils of Sassoun (Давид Сасунский)
+Սասունցի Դավիթ
+> Daredevils of Sassoun is an Armenian heroic epic poem in four cycles. In the initial decades following the discovery of the epic in the late nineteenth century a general consensus emerged attributing its theme to the struggle of four generations of Sason's warriors against Muslim rule in the 8th to 10th centuries.
+>  
+> Впервые эпос был записан в 1873 году известным исследователем народной словесности Гарегином Срвандзтянцем
 
 
 

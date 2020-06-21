@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Daredevils of Sassoun (Давид Сасунский)
+Սասունցի Դավիթ ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>17</sup>
+    > Daredevils of Sassoun is an Armenian heroic epic poem in four cycles. In the initial decades following the discovery of the epic in the late nineteenth century a general consensus emerged attributing its theme to the struggle of four generations of Sason's warriors against Muslim rule in the 8th to 10th centuries.
+    >  
+    > Впервые эпос был записан в 1873 году известным исследователем народной словесности Гарегином Срвандзтянцем
+
 * Темна Вежа 6. Пісня Сюзанни. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>119</sup>
     > 10/10 Пологи Мії, зустріч Роланда та Стівена Кінга.
 
@@ -13,9 +19,6 @@ Do not use pull requests to make changes here.
     > «Все это есть у Платона, все у Платона… Боже мой, чему их только учат в этих школах!»
 
 * Пустой дом. Карусель ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>38</sup>
-    > ...И когда ты решишь окончательно связать свою жизнь с каким-нибудь человеком, самое главное, чтобы он заставлял тебя смеяться...
-    > 
-    > ...Письмо Фебы искало меня очень долго, и помню, я тогда подумал, что если никто не скажет вам о смерти любимых людей, они будут жить вечно...
 
 * Серебряное кресло ~ [Rainbow](users/109/109787328219839805802-google)<sup>54</sup>
 
@@ -29,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>114</sup>
 
-* Теория зла ~ [En](users/333/333646551-vkontakte)<sup>113</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>17</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>15</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>56</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>49</sup> 
@@ -51,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>65</sup> 
 [](users/182/18276342038-instagram)<sup>0</sup> 
 [](users/102/102300366193989005728-google)<sup>0</sup> 
-[ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>16</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>83</sup> 
 [](users/104/104731829794763834502-google)<sup>5</sup> 
 [](users/831/8317925041-instagram)<sup>0</sup> 
@@ -68,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>28</sup> 
 
 
-_21.06.2020 03:54:26_
+_21.06.2020 04:23:37_
