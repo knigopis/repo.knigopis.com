@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 15,
+        "updatedAt": "2020-06-21 03:54:26"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -34,12 +40,6 @@
         "nickname": "MariaSelv",
         "booksCount": 0,
         "updatedAt": "2020-06-20 16:09:04"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 14,
-        "updatedAt": "2020-06-19 16:15:32"
     },
     "56734832-yandex": {
         "id": "56734832-yandex",
