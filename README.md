@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[longe_coffee](users/369/369557556-vkontakte)<sup>0</sup> 
+[longe_coffee](users/369/369557556-vkontakte)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>56</sup> 
 [](users/104/104731829794763834502-google)<sup>6</sup> 
 [En](users/333/333646551-vkontakte)<sup>115</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>72</sup> 
 
 
-_21.06.2020 22:49:55_
+_21.06.2020 22:50:52_
