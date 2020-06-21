@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 115,
+        "updatedAt": "2020-06-21 08:21:44"
+    },
     "5714115-vkontakte": {
         "id": "5714115-vkontakte",
         "nickname": "dmiro",
@@ -124,12 +130,6 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-06-14 06:43:30"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 114,
-        "updatedAt": "2020-06-14 06:21:12"
     },
     "381417697-yandex": {
         "id": "381417697-yandex",

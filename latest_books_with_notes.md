@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Девушка в лабиринте ~ [En](users/333/333646551-vkontakte)<sup>115</sup>
 * Бойся, я с тобой ~ [dmiro](users/571/5714115-vkontakte)<sup>29</sup>
 * Daredevils of Sassoun (Давид Сасунский)
 Սասունցի Դավիթ ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>17</sup>
@@ -31,7 +32,6 @@
 * Английский пациент ~ [En](users/333/333646551-vkontakte)<sup>110</sup>
 * Монах, который продал свой феррари ~ [Madlax](users/158/158304782-vkontakte)<sup>209</sup>
 * Страсти по Марии ~ [Chiffi](users/105/105831994080785626680-google)<sup>192</sup>
-* Подсказчик ~ [En](users/333/333646551-vkontakte)<sup>109</sup>
 
 
-_21.06.2020 08:07:22_
+_21.06.2020 08:21:44_
