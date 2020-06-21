@@ -1,4 +1,16 @@
 {
+    "c0MI3UBUFQ": {
+        "id": "c0MI3UBUFQ",
+        "title": "После",
+        "author": "Анна Тодд",
+        "notes": "",
+        "createdAt": "2020-06-21 19:16:26",
+        "user": {
+            "id": "104731829794763834502-google",
+            "nickname": null,
+            "booksCount": 6
+        }
+    },
     "i79smmQo0J": {
         "id": "i79smmQo0J",
         "title": "Девушка в лабиринте",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 101
-        }
-    },
-    "FLE_dVndMI": {
-        "id": "FLE_dVndMI",
-        "title": "ЧП районного масштаба",
-        "author": "Юрий Поляков",
-        "notes": "",
-        "createdAt": "2020-06-17 18:43:14",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 144
         }
     }
 }
