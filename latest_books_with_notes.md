@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Сказать жизни – да! ~ [Rainbow](users/109/109787328219839805802-google)<sup>57</sup>
+* Сказать жизни – да! ~ [Rainbow](users/109/109787328219839805802-google)<sup>56</sup>
 * Девушка в лабиринте ~ [En](users/333/333646551-vkontakte)<sup>115</sup>
 * Бойся, я с тобой ~ [dmiro](users/571/5714115-vkontakte)<sup>29</sup>
 * Daredevils of Sassoun (Давид Сасунский)
@@ -34,4 +34,4 @@
 * Монах, который продал свой феррари ~ [Madlax](users/158/158304782-vkontakte)<sup>209</sup>
 
 
-_21.06.2020 22:37:01_
+_21.06.2020 22:39:27_
