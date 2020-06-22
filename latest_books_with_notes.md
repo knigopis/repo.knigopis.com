@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Остров доктора Моро ~ [En](users/333/333646551-vkontakte)<sup>116</sup>
 * Сказать жизни – да! ~ [Rainbow](users/109/109787328219839805802-google)<sup>56</sup>
 * Девушка в лабиринте ~ [En](users/333/333646551-vkontakte)<sup>115</sup>
 * Бойся, я с тобой ~ [dmiro](users/571/5714115-vkontakte)<sup>29</sup>
@@ -31,7 +32,6 @@
 * ДНК – не приговор ~ [Garka](users/115/115753719718250012620-google)<sup>253</sup>
 * Апофения ~ [En](users/333/333646551-vkontakte)<sup>111</sup>
 * Английский пациент ~ [En](users/333/333646551-vkontakte)<sup>110</sup>
-* Монах, который продал свой феррари ~ [Madlax](users/158/158304782-vkontakte)<sup>209</sup>
 
 
-_21.06.2020 22:39:27_
+_22.06.2020 12:47:32_
