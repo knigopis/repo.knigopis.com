@@ -1,7 +1,12 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>1</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>2</sup>
 ---
 
 ## 2020
+
+### Математик
+Максим Керн
+> [2020-06-21] 7/10
+
 
 ### Другой мир: Попаданец
 Иван Городецкий
