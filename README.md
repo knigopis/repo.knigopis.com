@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>16</sup> 
 [](users/153/1537586159620888-facebook)<sup>20</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>2</sup> 
 [](users/115/115826717712507836033-google)<sup>143</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>115</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>29</sup> 
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>17</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>15</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>49</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>119</sup> 
 [ascargb](users/101/10125314-vkontakte)<sup>0</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Kremnev1](users/109/109398777294736369541-google)<sup>0</sup> 
 
 
-_22.06.2020 10:20:29_
+_22.06.2020 10:33:04_

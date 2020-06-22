@@ -1,4 +1,16 @@
 {
+    "KnJt91gBjn": {
+        "id": "KnJt91gBjn",
+        "title": "Карлик Нос",
+        "author": "Вильгельм Гауф",
+        "notes": "",
+        "createdAt": "2020-06-22 10:33:04",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 16
+        }
+    },
     "u6WX4EkECU": {
         "id": "u6WX4EkECU",
         "title": "А тому ли я дала?",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 2
-        }
-    },
-    "NkEbAh9dZV": {
-        "id": "NkEbAh9dZV",
-        "title": "Раковый корпус",
-        "author": "Солженицын Александр Исаевич",
-        "notes": "",
-        "createdAt": "2020-06-19 16:02:55",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 1
         }
     }
 }
