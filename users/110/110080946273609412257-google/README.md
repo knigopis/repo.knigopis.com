@@ -1,7 +1,12 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>2</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>3</sup>
 ---
 
 ## 2020
+
+### Другой Мир: Артефактор
+Иван Городецкий
+> [2020-06-22] 7/10
+
 
 ### Математик
 Максим Керн
