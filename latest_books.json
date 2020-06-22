@@ -1,4 +1,16 @@
 {
+    "E8tYI-mRCC": {
+        "id": "E8tYI-mRCC",
+        "title": "Обрыв",
+        "author": "Гончаров, Иван",
+        "notes": "",
+        "createdAt": "2020-06-22 13:48:41",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 144
+        }
+    },
     "AqVYSvE9M1": {
         "id": "AqVYSvE9M1",
         "title": "Остров доктора Моро",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 6
-        }
-    },
-    "ZUAYbt2RGt": {
-        "id": "ZUAYbt2RGt",
-        "title": "А зори здесь тихие",
-        "author": "Васильев Борис Львович",
-        "notes": "",
-        "createdAt": "2020-06-19 16:08:00",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 5
         }
     }
 }
