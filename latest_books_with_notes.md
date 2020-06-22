@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Искусство быть невидимым ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup>
 * Остров доктора Моро ~ [En](users/333/333646551-vkontakte)<sup>116</sup>
 * Сказать жизни – да! ~ [Rainbow](users/109/109787328219839805802-google)<sup>56</sup>
 * Девушка в лабиринте ~ [En](users/333/333646551-vkontakte)<sup>115</sup>
@@ -31,7 +32,6 @@
 * Путь к языку ~ [Rainbow](users/109/109787328219839805802-google)<sup>54</sup>
 * ДНК – не приговор ~ [Garka](users/115/115753719718250012620-google)<sup>253</sup>
 * Апофения ~ [En](users/333/333646551-vkontakte)<sup>111</sup>
-* Английский пациент ~ [En](users/333/333646551-vkontakte)<sup>110</sup>
 
 
-_22.06.2020 12:47:32_
+_22.06.2020 16:52:07_
