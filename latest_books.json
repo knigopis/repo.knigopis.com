@@ -1,4 +1,16 @@
 {
+    "g7FnnUcWU8": {
+        "id": "g7FnnUcWU8",
+        "title": "Кот- ворюга",
+        "author": "Константин Георгиевич Паустовский",
+        "notes": "",
+        "createdAt": "2020-06-22 10:34:22",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 17
+        }
+    },
     "KnJt91gBjn": {
         "id": "KnJt91gBjn",
         "title": "Карлик Нос",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 3
-        }
-    },
-    "PbC7ehARXi": {
-        "id": "PbC7ehARXi",
-        "title": "Мать",
-        "author": "Горький Максим",
-        "notes": "",
-        "createdAt": "2020-06-19 16:04:29",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 2
         }
     }
 }
