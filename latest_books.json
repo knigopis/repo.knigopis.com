@@ -1,4 +1,16 @@
 {
+    "K6JwYVE5qJ": {
+        "id": "K6JwYVE5qJ",
+        "title": "Другой мир: Попаданец",
+        "author": "Иван Городецкий",
+        "notes": "8/10",
+        "createdAt": "2020-06-22 07:47:46",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 1
+        }
+    },
     "EqLqz8yUMy": {
         "id": "EqLqz8yUMy",
         "title": "Идиот",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 38
-        }
-    },
-    "oShzdDfZJK": {
-        "id": "oShzdDfZJK",
-        "title": "Холодный дом",
-        "author": "Чарльз Диккенс",
-        "notes": "",
-        "createdAt": "2020-06-18 16:04:10",
-        "user": {
-            "id": "56734832-yandex",
-            "nickname": "Avery",
-            "booksCount": 30
         }
     }
 }
