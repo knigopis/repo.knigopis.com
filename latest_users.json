@@ -1,4 +1,10 @@
 {
+    "110080946273609412257-google": {
+        "id": "110080946273609412257-google",
+        "nickname": "gray7wand",
+        "booksCount": 0,
+        "updatedAt": "2020-06-22 07:32:08"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "Kremnev1",
         "booksCount": 0,
         "updatedAt": "2020-06-12 20:51:13"
-    },
-    "68439978-vkontakte": {
-        "id": "68439978-vkontakte",
-        "nickname": "kissamasya",
-        "booksCount": 90,
-        "updatedAt": "2020-06-12 16:36:43"
     }
 }
