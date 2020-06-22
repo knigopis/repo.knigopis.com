@@ -1,4 +1,16 @@
 {
+    "llUrEALH5g": {
+        "id": "llUrEALH5g",
+        "title": "asdf",
+        "author": "asdf",
+        "notes": "",
+        "createdAt": "2020-06-22 19:10:50",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 153
+        }
+    },
     "1ND2K4Bq5B": {
         "id": "1ND2K4Bq5B",
         "title": "Искусство быть невидимым",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 39
-        }
-    },
-    "ofMsGiXYgY": {
-        "id": "ofMsGiXYgY",
-        "title": "Жизнь взаймы",
-        "author": "Ремарк Эрих Мария",
-        "notes": "",
-        "createdAt": "2020-06-19 16:15:32",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 14
         }
     }
 }
