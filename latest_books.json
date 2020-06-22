@@ -1,4 +1,16 @@
 {
+    "L8J1mE2MWT": {
+        "id": "L8J1mE2MWT",
+        "title": "На дне",
+        "author": "Горький, Максим",
+        "notes": "",
+        "createdAt": "2020-06-22 13:52:30",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 146
+        }
+    },
     "DvuiSqk9y9": {
         "id": "DvuiSqk9y9",
         "title": "Обыкновенная история",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 8
-        }
-    },
-    "L5imcTTesm": {
-        "id": "L5imcTTesm",
-        "title": "Завтра была война",
-        "author": "Васильев Борис Львович",
-        "notes": "",
-        "createdAt": "2020-06-19 16:09:14",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 7
         }
     }
 }
