@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/153/1537586159620888-facebook)<sup>20</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>2</sup> 
 [](users/115/115826717712507836033-google)<sup>143</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>117</sup> 
@@ -65,10 +66,9 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/831/8317925041-instagram)<sup>0</sup> 
 [](users/103/103068578327558685816-google)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>52</sup> 
-[](users/153/1537586159620888-facebook)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>809</sup> 
 [chaotic_equal](users/109/109533635046249857347-google)<sup>1</sup> 
 [Kremnev1](users/109/109398777294736369541-google)<sup>0</sup> 
 
 
-_22.06.2020 07:48:46_
+_22.06.2020 10:20:29_
