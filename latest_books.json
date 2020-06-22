@@ -1,4 +1,16 @@
 {
+    "EqLqz8yUMy": {
+        "id": "EqLqz8yUMy",
+        "title": "Идиот",
+        "author": "Достоевский, Федор",
+        "notes": "",
+        "createdAt": "2020-06-22 07:41:09",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 143
+        }
+    },
     "pIg5XWak-y": {
         "id": "pIg5XWak-y",
         "title": "Норвежский лес",
@@ -345,18 +357,6 @@
             "id": "56734832-yandex",
             "nickname": "Avery",
             "booksCount": 30
-        }
-    },
-    "sV3cWgh5m7": {
-        "id": "sV3cWgh5m7",
-        "title": "Гитлер",
-        "author": "Руперт Колли",
-        "notes": "",
-        "createdAt": "2020-06-18 04:49:47",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 159
         }
     }
 }

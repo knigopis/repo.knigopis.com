@@ -1,30 +1,11 @@
 {
     "id": "115826717712507836033-google",
-    "nickname": "Elixir",
-    "profile": false,
+    "profile": "",
     "identity": "https://plus.google.com/u/0/115826717712507836033/",
-    "booksCount": 144,
+    "booksCount": 143,
     "subscriptions": {
-        "381417697-yandex": 37,
-        "310646815-vkontakte": 65,
-        "73323849-yandex": 72,
-        "5714115-vkontakte": 28,
-        "158304782-vkontakte": 209,
-        "58602788-vkontakte": 38,
-        "111050419861327579964-google": 0,
-        "333646551-vkontakte": 114,
-        "2401650-vkontakte": 102,
-        "94738840-vkontakte": 156,
-        "829893410524253-facebook": 118,
-        "105831994080785626680-google": 192,
-        "100002563462782-facebook": 387,
-        "5957175-vkontakte": 140,
-        "109787328219839805802-google": 55,
-        "115753719718250012620-google": 253,
-        "108113656204404967440-google": 809,
-        "8317925041-instagram": 0,
-        "1130000004300166-yandex": 16
+        "381417697-yandex": 37
     },
     "createdAt": "2018-03-28 19:20:14",
-    "updatedAt": "2020-06-19 10:50:47"
+    "updatedAt": "2020-06-22 07:41:09"
 }
