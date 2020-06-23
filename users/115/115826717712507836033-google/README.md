@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>310</sup>
+# List of books read by Elixir<sup>311</sup>
 ---
 
 ## 2020
@@ -586,6 +586,10 @@
 
 
 ## Other years
+
+### Роковые яйца
+Булгаков, Михаил
+
 
 ### Песня про... купца Калашникова
 Лермонтов, Михаил

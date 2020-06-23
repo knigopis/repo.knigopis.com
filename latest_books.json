@@ -1,4 +1,16 @@
 {
+    "xKP3dZ3X8p": {
+        "id": "xKP3dZ3X8p",
+        "title": "Роковые яйца",
+        "author": "Булгаков, Михаил",
+        "notes": "",
+        "createdAt": "2020-06-23 16:32:55",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 311
+        }
+    },
     "MqRSnMFWve": {
         "id": "MqRSnMFWve",
         "title": "Песня про... купца Калашникова",
@@ -345,18 +357,6 @@
             "id": "1537586159620888-facebook",
             "nickname": null,
             "booksCount": 20
-        }
-    },
-    "aPZD-1KKjy": {
-        "id": "aPZD-1KKjy",
-        "title": "Математик",
-        "author": "Максим Керн",
-        "notes": "7/10",
-        "createdAt": "2020-06-22 07:48:46",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 2
         }
     }
 }
