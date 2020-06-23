@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>308</sup>
+# List of books read by Elixir<sup>309</sup>
 ---
 
 ## 2020
@@ -586,6 +586,10 @@
 
 
 ## Other years
+
+### Мцыри
+Лермонтов, Михаил
+
 
 ### Герой нашего времени
 Лермонтов, Михаил
