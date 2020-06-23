@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>299</sup>
+# List of books read by Elixir<sup>300</sup>
 ---
 
 ## 2020
@@ -586,6 +586,10 @@
 
 
 ## Other years
+
+### Маленькие трагедии
+Пушкин, Александр
+
 
 ### Облако в штанах
 Маяковский, Владимир
