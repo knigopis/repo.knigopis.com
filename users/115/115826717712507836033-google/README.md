@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>312</sup>
+# List of books read by Elixir<sup>313</sup>
 ---
 
 ## 2020
@@ -586,6 +586,10 @@
 
 
 ## Other years
+
+### А зори здесь тихие
+Васильев, Борис
+
 
 ### Ада, или радости страсти
 Набоков, Владимир
