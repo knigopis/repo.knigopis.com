@@ -1,7 +1,12 @@
-# List of books read by 4apa<sup>50</sup>
+# List of books read by 4apa<sup>51</sup>
 ---
 
 ## 2020
+
+### Последний человек на Луне
+Ю. Сернан
+> [2020-06-18] 
+
 
 ### Homo Deus
 Юваль Ной Харари

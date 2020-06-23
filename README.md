@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[4apa](users/117/117392596378069249667-google)<sup>51</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>153</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup> 
 [En](users/333/333646551-vkontakte)<sup>116</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/103068578327558685816-google)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>52</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>809</sup> 
-[chaotic_equal](users/109/109533635046249857347-google)<sup>1</sup> 
 
 
-_23.06.2020 05:12:55_
+_23.06.2020 14:12:38_
