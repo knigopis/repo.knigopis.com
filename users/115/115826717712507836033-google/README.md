@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>311</sup>
+# List of books read by Elixir<sup>312</sup>
 ---
 
 ## 2020
@@ -586,6 +586,10 @@
 
 
 ## Other years
+
+### Ада, или радости страсти
+Набоков, Владимир
+
 
 ### Роковые яйца
 Булгаков, Михаил
