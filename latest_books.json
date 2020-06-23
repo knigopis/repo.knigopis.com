@@ -1,4 +1,16 @@
 {
+    "myNrkkNX__": {
+        "id": "myNrkkNX__",
+        "title": "Демон",
+        "author": "Лермонтов, Михаил",
+        "notes": "",
+        "createdAt": "2020-06-23 16:27:18",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 310
+        }
+    },
     "5xcjiU59SO": {
         "id": "5xcjiU59SO",
         "title": "Мцыри",
@@ -345,18 +357,6 @@
             "id": "110080946273609412257-google",
             "nickname": "gray7wand",
             "booksCount": 1
-        }
-    },
-    "EqLqz8yUMy": {
-        "id": "EqLqz8yUMy",
-        "title": "Идиот",
-        "author": "Достоевский, Федор",
-        "notes": "",
-        "createdAt": "2020-06-22 07:41:09",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 143
         }
     }
 }
