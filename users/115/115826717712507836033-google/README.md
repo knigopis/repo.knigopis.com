@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>304</sup>
+# List of books read by Elixir<sup>305</sup>
 ---
 
 ## 2020
@@ -586,6 +586,10 @@
 
 
 ## Other years
+
+### Медный всадник
+Пушкин, Александр
+
 
 ### Кавказский пленник
 Пушкин, Александр
