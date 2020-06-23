@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>301</sup>
+# List of books read by Elixir<sup>302</sup>
 ---
 
 ## 2020
@@ -586,6 +586,10 @@
 
 
 ## Other years
+
+### Бахчисарайский фонтан
+Пушкин, Александр
+
 
 ### Цыганы
 Пушкин, Александр
