@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>300</sup>
+# List of books read by Elixir<sup>299</sup>
 ---
 
 ## 2020
@@ -872,10 +872,6 @@
 
 
 ### Евгений Онегин
-Пушкин, Александр
-
-
-### Дубровский
 Пушкин, Александр
 
 
