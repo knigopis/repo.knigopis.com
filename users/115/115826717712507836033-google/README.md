@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>313</sup>
+# List of books read by Elixir<sup>314</sup>
 ---
 
 ## 2020
@@ -586,6 +586,10 @@
 
 
 ## Other years
+
+### Баня
+Маяковский, Владимир
+
 
 ### А зори здесь тихие
 Васильев, Борис
