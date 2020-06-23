@@ -1,4 +1,16 @@
 {
+    "M6NGgAwEH7": {
+        "id": "M6NGgAwEH7",
+        "title": "Герой нашего времени",
+        "author": "Лермонтов, Михаил",
+        "notes": "",
+        "createdAt": "2020-06-23 16:26:15",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 308
+        }
+    },
     "sFGwDvWJGb": {
         "id": "sFGwDvWJGb",
         "title": "Домик в коломне",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 117
-        }
-    },
-    "D9JxacneMg": {
-        "id": "D9JxacneMg",
-        "title": ",",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-06-21 22:50:52",
-        "user": {
-            "id": "369557556-vkontakte",
-            "nickname": "longe_coffee",
-            "booksCount": 1
         }
     }
 }

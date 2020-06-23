@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>307</sup>
+# List of books read by Elixir<sup>308</sup>
 ---
 
 ## 2020
@@ -586,6 +586,10 @@
 
 
 ## Other years
+
+### Герой нашего времени
+Лермонтов, Михаил
+
 
 ### Домик в коломне
 Пушкин, Александр
