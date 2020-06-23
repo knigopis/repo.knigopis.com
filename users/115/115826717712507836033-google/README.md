@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>152</sup>
+# List of books read by Elixir<sup>153</sup>
 ---
 
 ## 2020
@@ -581,6 +581,10 @@
 
 
 ## Other years
+
+### Облако в штанах
+Маяковский, Владимир
+
 
 ### На дне
 Островский, Александр

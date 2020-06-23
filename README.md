@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Elixir](users/115/115826717712507836033-google)<sup>152</sup> 
+[Elixir](users/115/115826717712507836033-google)<sup>153</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup> 
 [En](users/333/333646551-vkontakte)<sup>116</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>3</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [chaotic_equal](users/109/109533635046249857347-google)<sup>1</sup> 
 
 
-_22.06.2020 19:16:41_
+_23.06.2020 05:12:55_
