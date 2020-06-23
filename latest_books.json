@@ -1,4 +1,16 @@
 {
+    "KjMY__1efL": {
+        "id": "KjMY__1efL",
+        "title": "Борис Годунов",
+        "author": "Пушкин, Александр",
+        "notes": "",
+        "createdAt": "2020-06-23 16:23:13",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 306
+        }
+    },
     "gwHoOBvP1x": {
         "id": "gwHoOBvP1x",
         "title": "Медный всадник",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 56
-        }
-    },
-    "c0MI3UBUFQ": {
-        "id": "c0MI3UBUFQ",
-        "title": "После",
-        "author": "Анна Тодд",
-        "notes": "",
-        "createdAt": "2020-06-21 19:16:26",
-        "user": {
-            "id": "104731829794763834502-google",
-            "nickname": null,
-            "booksCount": 6
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>305</sup>
+# List of books read by Elixir<sup>306</sup>
 ---
 
 ## 2020
@@ -586,6 +586,10 @@
 
 
 ## Other years
+
+### Борис Годунов
+Пушкин, Александр
+
 
 ### Медный всадник
 Пушкин, Александр
