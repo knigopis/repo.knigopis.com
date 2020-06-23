@@ -1,4 +1,16 @@
 {
+    "MqRSnMFWve": {
+        "id": "MqRSnMFWve",
+        "title": "Песня про... купца Калашникова",
+        "author": "Лермонтов, Михаил",
+        "notes": "",
+        "createdAt": "2020-06-23 16:28:35",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 310
+        }
+    },
     "myNrkkNX__": {
         "id": "myNrkkNX__",
         "title": "Демон",
@@ -345,18 +357,6 @@
             "id": "110080946273609412257-google",
             "nickname": "gray7wand",
             "booksCount": 2
-        }
-    },
-    "K6JwYVE5qJ": {
-        "id": "K6JwYVE5qJ",
-        "title": "Другой мир: Попаданец",
-        "author": "Иван Городецкий",
-        "notes": "8/10",
-        "createdAt": "2020-06-22 07:47:46",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 1
         }
     }
 }
