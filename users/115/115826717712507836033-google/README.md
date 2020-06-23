@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>300</sup>
+# List of books read by Elixir<sup>301</sup>
 ---
 
 ## 2020
@@ -586,6 +586,10 @@
 
 
 ## Other years
+
+### Цынаны
+Пушкин, Александр
+
 
 ### Маленькие трагедии
 Пушкин, Александр
