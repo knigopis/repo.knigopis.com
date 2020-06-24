@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>316</sup>
+# List of books read by Elixir<sup>315</sup>
 ---
 
 ## 2020
@@ -1269,10 +1269,6 @@
 
 ### Джейн Ейр
 Бронте, Шарлота
-
-
-### Код Да Винчи
-Дэн Браун
 
 
 ### Молодая гвардия
