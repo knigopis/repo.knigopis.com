@@ -1,4 +1,4 @@
-# List of books read by <sup>143</sup>
+# List of books read by Elixir<sup>316</sup>
 ---
 
 ## 2020
@@ -920,7 +920,7 @@
 
 
 ### Ромео и Джульетта
-Уильям Шекспир
+Шекспир, Уильям
 
 
 ### Код да Винчи
