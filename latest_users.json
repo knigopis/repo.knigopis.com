@@ -1,4 +1,10 @@
 {
+    "2417202-vkontakte": {
+        "id": "2417202-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2020-06-24 11:57:59"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "me",
         "booksCount": 52,
         "updatedAt": "2020-06-13 16:37:40"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 809,
-        "updatedAt": "2020-06-13 15:11:27"
     }
 }
