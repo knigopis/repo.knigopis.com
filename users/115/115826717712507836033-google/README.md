@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>315</sup>
+# List of books read by Elixir<sup>316</sup>
 ---
 
 ## 2020
@@ -586,6 +586,10 @@
 
 
 ## Other years
+
+### Пышка
+Ги Де Мопассан
+
 
 ### Маленький принц
 Антуан де Сент-Экзюпери
