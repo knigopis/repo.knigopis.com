@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>119</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>120</sup>
 ---
 
 ## 2020
+
+### Коронавірус. Інструкція з виживання
+Анча Баранова
+> [2020-06-23] 7/10 Практичні інструкції та пояснення.
+
 
 ### Темна Вежа 6. Пісня Сюзанни.
 Стівен Кінг

@@ -1,4 +1,16 @@
 {
+    "30E-pTrh5h": {
+        "id": "30E-pTrh5h",
+        "title": "Коронавірус. Інструкція з виживання",
+        "author": "Анча Баранова",
+        "notes": "7/10 Практичні інструкції та пояснення.",
+        "createdAt": "2020-06-24 07:56:49",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 120
+        }
+    },
     "bRPQNW9LKX": {
         "id": "bRPQNW9LKX",
         "title": "Пышка",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 145
-        }
-    },
-    "E8tYI-mRCC": {
-        "id": "E8tYI-mRCC",
-        "title": "Обрыв",
-        "author": "Гончаров, Иван",
-        "notes": "",
-        "createdAt": "2020-06-22 13:48:41",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 144
         }
     }
 }
