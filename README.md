@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/241/2417202-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>120</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>316</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>51</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/831/8317925041-instagram)<sup>0</sup> 
 [](users/103/103068578327558685816-google)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>52</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>809</sup> 
 
 
-_24.06.2020 07:56:49_
+_24.06.2020 11:58:03_
