@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>316</sup>
+# List of books read by <sup>143</sup>
 ---
 
 ## 2020
@@ -77,7 +77,7 @@
 
 
 ### Ветер
-Рэй Брэдбери
+Брэдбери, Рэй
 > [2018-11] 
 
 
