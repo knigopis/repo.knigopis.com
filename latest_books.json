@@ -1,4 +1,16 @@
 {
+    "H6a9h6Zwqs": {
+        "id": "H6a9h6Zwqs",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2020-06-24 07:31:26",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 315
+        }
+    },
     "9ZUqcor1xL": {
         "id": "9ZUqcor1xL",
         "title": "Баня",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 116
-        }
-    },
-    "nQVApo0oK2": {
-        "id": "nQVApo0oK2",
-        "title": "Другой Мир: Артефактор",
-        "author": "Иван Городецкий",
-        "notes": "7/10",
-        "createdAt": "2020-06-22 10:55:31",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 3
         }
     }
 }

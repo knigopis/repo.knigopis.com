@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>314</sup>
+# List of books read by Elixir<sup>315</sup>
 ---
 
 ## 2020
@@ -586,6 +586,10 @@
 
 
 ## Other years
+
+### Маленький принц
+Антуан де Сент-Экзюпери
+
 
 ### Баня
 Маяковский, Владимир
