@@ -1,4 +1,10 @@
 {
+    "139338401-vkontakte": {
+        "id": "139338401-vkontakte",
+        "nickname": "sab_olya",
+        "booksCount": 84,
+        "updatedAt": "2020-06-24 22:16:48"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": "Elixir",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-06-14 06:43:30"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 52,
-        "updatedAt": "2020-06-13 16:37:40"
     }
 }

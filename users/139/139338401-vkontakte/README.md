@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>83</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>84</sup>
 ---
 
 ## 2020
+
+### Девушка из Бруклина
+Гиймо Миссо
+> [2020-06-25] 
+
 
 ### Канун всех святых
 Рэй Брэдбери

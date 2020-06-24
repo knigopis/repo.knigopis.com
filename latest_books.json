@@ -1,4 +1,16 @@
 {
+    "dzUgY1-lJZ": {
+        "id": "dzUgY1-lJZ",
+        "title": "Девушка из Бруклина",
+        "author": "Гиймо Миссо",
+        "notes": "",
+        "createdAt": "2020-06-24 22:16:48",
+        "user": {
+            "id": "139338401-vkontakte",
+            "nickname": "sab_olya",
+            "booksCount": 84
+        }
+    },
     "30E-pTrh5h": {
         "id": "30E-pTrh5h",
         "title": "Коронавірус. Інструкція з виживання",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 147
-        }
-    },
-    "DvuiSqk9y9": {
-        "id": "DvuiSqk9y9",
-        "title": "Обыкновенная история",
-        "author": "Гончаров, Иван",
-        "notes": "",
-        "createdAt": "2020-06-22 13:49:12",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 145
         }
     }
 }
