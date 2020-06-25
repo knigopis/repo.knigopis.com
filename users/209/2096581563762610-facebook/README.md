@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>84</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>85</sup>
 ---
 
 ## 2020
+
+### Как привести дела в порядок
+Дэвид Аллен
+> [2020-06-24] 
+
 
 ### Блокада глазами очевидцев
 Книга седьмая
