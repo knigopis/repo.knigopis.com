@@ -1,4 +1,16 @@
 {
+    "XK3LlO8-ZC": {
+        "id": "XK3LlO8-ZC",
+        "title": "Соловей",
+        "author": "Ганс Христиан Андерсен",
+        "notes": "",
+        "createdAt": "2020-06-25 19:33:07",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 20
+        }
+    },
     "ghajdi2SWq": {
         "id": "ghajdi2SWq",
         "title": "Спящая царевна",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 300
-        }
-    },
-    "MT_Niegvfo": {
-        "id": "MT_Niegvfo",
-        "title": "Последний человек на Луне",
-        "author": "Ю. Сернан",
-        "notes": "",
-        "createdAt": "2020-06-23 14:12:38",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 51
         }
     }
 }

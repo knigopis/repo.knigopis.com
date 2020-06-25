@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>19</sup> 
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>20</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>315</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>85</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>46</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/831/8317925041-instagram)<sup>0</sup> 
 
 
-_25.06.2020 19:32:16_
+_25.06.2020 19:33:07_
