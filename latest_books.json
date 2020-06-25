@@ -1,4 +1,16 @@
 {
+    "vN8x71jLv1": {
+        "id": "vN8x71jLv1",
+        "title": "Соловей и Роза",
+        "author": "Оскар Уайлд",
+        "notes": "",
+        "createdAt": "2020-06-25 19:33:45",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 21
+        }
+    },
     "XK3LlO8-ZC": {
         "id": "XK3LlO8-ZC",
         "title": "Соловей",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 301
-        }
-    },
-    "Ch5IJKEoHg": {
-        "id": "Ch5IJKEoHg",
-        "title": "Маленькие трагедии",
-        "author": "Пушкин, Александр",
-        "notes": "",
-        "createdAt": "2020-06-23 16:14:07",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 300
         }
     }
 }
