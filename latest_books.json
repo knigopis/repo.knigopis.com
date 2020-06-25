@@ -1,4 +1,16 @@
 {
+    "sLlRP-gBqP": {
+        "id": "sLlRP-gBqP",
+        "title": "Кошка, которая гуляла сама по себе",
+        "author": "Редьярд Киплинг",
+        "notes": "",
+        "createdAt": "2020-06-25 19:36:46",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 24
+        }
+    },
     "0dFftKs2D4": {
         "id": "0dFftKs2D4",
         "title": "Финист - ясный сокол",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 304
-        }
-    },
-    "x9PjdgjCdR": {
-        "id": "x9PjdgjCdR",
-        "title": "Братья разбойники",
-        "author": "Пушкин, Александр",
-        "notes": "",
-        "createdAt": "2020-06-23 16:20:56",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 303
         }
     }
 }
