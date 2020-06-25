@@ -1,4 +1,10 @@
 {
+    "112388384595246311466-google": {
+        "id": "112388384595246311466-google",
+        "nickname": "ЗаяцЛис",
+        "booksCount": 18,
+        "updatedAt": "2020-06-25 17:09:02"
+    },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
         "nickname": "mfevralev",
@@ -58,12 +64,6 @@
         "nickname": "gray7wand",
         "booksCount": 3,
         "updatedAt": "2020-06-22 10:55:31"
-    },
-    "112388384595246311466-google": {
-        "id": "112388384595246311466-google",
-        "nickname": "ЗаяцЛис",
-        "booksCount": 17,
-        "updatedAt": "2020-06-22 10:34:22"
     },
     "1537586159620888-facebook": {
         "id": "1537586159620888-facebook",

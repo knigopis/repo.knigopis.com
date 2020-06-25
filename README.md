@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>18</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>46</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>68</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>84</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup> 
 [En](users/333/333646551-vkontakte)<sup>116</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>3</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>17</sup> 
 [](users/153/1537586159620888-facebook)<sup>20</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>117</sup> 
 [longe_coffee](users/369/369557556-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/831/8317925041-instagram)<sup>0</sup> 
 
 
-_25.06.2020 11:59:09_
+_25.06.2020 17:09:03_
