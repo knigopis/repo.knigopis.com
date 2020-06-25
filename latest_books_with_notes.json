@@ -1,4 +1,16 @@
 {
+    "6kgHthZu5_": {
+        "id": "6kgHthZu5_",
+        "title": "Старик и море",
+        "author": "Эрнест Хэмингуэй",
+        "notes": "8/10",
+        "createdAt": "2020-06-25 08:21:45",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 66
+        }
+    },
     "30E-pTrh5h": {
         "id": "30E-pTrh5h",
         "title": "Коронавірус. Інструкція з виживання",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 54
-        }
-    },
-    "zlewuYjPgH": {
-        "id": "zlewuYjPgH",
-        "title": "ДНК – не приговор",
-        "author": "Хэйне, Стивен",
-        "notes": "Много воды, мало фактов и море рассуждений автора не о чём",
-        "createdAt": "2020-06-07 16:56:27",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 253
         }
     }
 }

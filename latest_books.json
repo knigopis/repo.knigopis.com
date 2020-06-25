@@ -1,4 +1,16 @@
 {
+    "6kgHthZu5_": {
+        "id": "6kgHthZu5_",
+        "title": "Старик и море",
+        "author": "Эрнест Хэмингуэй",
+        "notes": "8/10",
+        "createdAt": "2020-06-25 08:21:45",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 66
+        }
+    },
     "dzUgY1-lJZ": {
         "id": "dzUgY1-lJZ",
         "title": "Девушка из Бруклина",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 148
-        }
-    },
-    "UL4rKxQORu": {
-        "id": "UL4rKxQORu",
-        "title": "Вишневый сад",
-        "author": "Чехов, Антон",
-        "notes": "",
-        "createdAt": "2020-06-22 13:55:20",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 147
         }
     }
 }

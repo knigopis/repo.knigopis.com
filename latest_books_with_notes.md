@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Старик и море ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>66</sup>
 * Коронавірус. Інструкція з виживання ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>120</sup>
 * Искусство быть невидимым ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup>
 * Остров доктора Моро ~ [En](users/333/333646551-vkontakte)<sup>116</sup>
@@ -31,7 +32,6 @@
 * Путь джедая ~ [dmiro](users/571/5714115-vkontakte)<sup>27</sup>
 * Вторая жизнь Уве ~ [dmiro](users/571/5714115-vkontakte)<sup>26</sup>
 * Путь к языку ~ [Rainbow](users/109/109787328219839805802-google)<sup>54</sup>
-* ДНК – не приговор ~ [Garka](users/115/115753719718250012620-google)<sup>253</sup>
 
 
-_24.06.2020 07:56:49_
+_25.06.2020 08:21:45_

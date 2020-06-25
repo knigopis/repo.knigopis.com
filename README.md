@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Старик и море ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>66</sup>
+    > 8/10
+
 * Коронавірус. Інструкція з виживання ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>120</sup>
     > 7/10 Практичні інструкції та пояснення.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Использую бессплатные сервисы - вы получаете ровно то, за что заплатили
 
 * Остров доктора Моро ~ [En](users/333/333646551-vkontakte)<sup>116</sup>
-    > История обычного человека, случайно попавшего на маленький остров в Южных морях - остров, оказавшийся царством гениального и полубезумного доктора Моро, дерзнувшего нарушить законы природы и начать творить людей из диких зверей. Его "племя", словно вышедшее из ночных кошмаров, пытается быть людьми, но рано или поздно верх берут звериные инстинкты...
 
 * Сказать жизни – да! ~ [Rainbow](users/109/109787328219839805802-google)<sup>56</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Последняя битва ~ [Rainbow](users/109/109787328219839805802-google)<sup>55</sup>
 
-* Пустой дом. Карусель ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stamovashahzada](users/310/310646815-vkontakte)<sup>66</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>84</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>314</sup> 
 [](users/241/2417202-vkontakte)<sup>0</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>159</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>101</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>108</sup> 
-[stamovashahzada](users/310/310646815-vkontakte)<sup>65</sup> 
 [](users/182/18276342038-instagram)<sup>0</sup> 
 [](users/102/102300366193989005728-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>83</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/103068578327558685816-google)<sup>0</sup> 
 
 
-_24.06.2020 22:16:48_
+_25.06.2020 08:21:45_

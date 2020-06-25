@@ -1,7 +1,12 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>65</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>66</sup>
 ---
 
 ## 2020
+
+### Старик и море
+Эрнест Хэмингуэй
+> [2020-06] 8/10
+
 
 ### Афера
 Елена Звёздная
