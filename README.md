@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>84</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>18</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>46</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>68</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>108</sup> 
 [](users/182/18276342038-instagram)<sup>0</sup> 
 [](users/102/102300366193989005728-google)<sup>0</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>83</sup> 
 [](users/831/8317925041-instagram)<sup>0</sup> 
 
 
-_25.06.2020 17:09:03_
+_25.06.2020 19:09:28_

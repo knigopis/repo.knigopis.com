@@ -1,4 +1,16 @@
 {
+    "3CWTFWi-Az": {
+        "id": "3CWTFWi-Az",
+        "title": "Блокада глазами очевидцев",
+        "author": "Книга седьмая",
+        "notes": "",
+        "createdAt": "2020-06-25 19:09:28",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 84
+        }
+    },
     "aH6KeXNjRr": {
         "id": "aH6KeXNjRr",
         "title": "Приключения Тома Сойера",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 61
-        }
-    },
-    "8bBRx3g8gj": {
-        "id": "8bBRx3g8gj",
-        "title": "На дне",
-        "author": "Островский, Александр",
-        "notes": "",
-        "createdAt": "2020-06-22 13:59:09",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 152
         }
     }
 }
