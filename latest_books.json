@@ -1,4 +1,16 @@
 {
+    "YdEuLb0Lob": {
+        "id": "YdEuLb0Lob",
+        "title": "Тайна проклятого герцога. Книга 1",
+        "author": "Елена Звёздная",
+        "notes": "9/10",
+        "createdAt": "2020-06-25 08:34:34",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 67
+        }
+    },
     "6kgHthZu5_": {
         "id": "6kgHthZu5_",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 149
-        }
-    },
-    "8QGJPs9_jt": {
-        "id": "8QGJPs9_jt",
-        "title": "Чайка",
-        "author": "Чехов, Антон",
-        "notes": "",
-        "createdAt": "2020-06-22 13:55:49",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 148
         }
     }
 }

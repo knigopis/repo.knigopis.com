@@ -1,4 +1,16 @@
 {
+    "YdEuLb0Lob": {
+        "id": "YdEuLb0Lob",
+        "title": "Тайна проклятого герцога. Книга 1",
+        "author": "Елена Звёздная",
+        "notes": "9/10",
+        "createdAt": "2020-06-25 08:34:34",
+        "user": {
+            "id": "310646815-vkontakte",
+            "nickname": "stamovashahzada",
+            "booksCount": 67
+        }
+    },
     "6kgHthZu5_": {
         "id": "6kgHthZu5_",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "5714115-vkontakte",
             "nickname": "dmiro",
             "booksCount": 26
-        }
-    },
-    "1hFgGRAA9a": {
-        "id": "1hFgGRAA9a",
-        "title": "Путь к языку",
-        "author": "Мартин Хайдеггер",
-        "notes": "Я ненавижу философские тексты и дефисы.",
-        "createdAt": "2020-06-08 00:36:29",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 54
         }
     }
 }

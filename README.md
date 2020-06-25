@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайна проклятого герцога. Книга 1 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>67</sup>
+    > 9/10
+
 * Старик и море ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>66</sup>
     > 8/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10 Практичні інструкції та пояснення.
 
 * Искусство быть невидимым ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup>
-    > Использую бессплатные сервисы - вы получаете ровно то, за что заплатили
 
 * Остров доктора Моро ~ [En](users/333/333646551-vkontakte)<sup>116</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Темна Вежа 6. Пісня Сюзанни. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>119</sup>
 
-* Последняя битва ~ [Rainbow](users/109/109787328219839805802-google)<sup>55</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[stamovashahzada](users/310/310646815-vkontakte)<sup>66</sup> 
+[stamovashahzada](users/310/310646815-vkontakte)<sup>67</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>84</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>314</sup> 
 [](users/241/2417202-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/103/103068578327558685816-google)<sup>0</sup> 
 
 
-_25.06.2020 08:21:45_
+_25.06.2020 08:34:34_
