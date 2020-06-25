@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Довелесова книга ~ [mfevralev](users/140/140966150-vkontakte)<sup>46</sup>
+    > Новый взгляд на дохристианскую Русь.
+
 * Тайна проклятого герцога. Книга 2 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>68</sup>
     > 9/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10
 
 * Старик и море ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>66</sup>
-    > 8/10
 
 * Коронавірус. Інструкція з виживання ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>120</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Бойся, я с тобой ~ [dmiro](users/571/5714115-vkontakte)<sup>29</sup>
 
-* Daredevils of Sassoun (Давид Сасунский)
-Սասունցի Դավիթ ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>17</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>46</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>68</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>84</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>314</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102300366193989005728-google)<sup>0</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>83</sup> 
 [](users/831/8317925041-instagram)<sup>0</sup> 
-[](users/103/103068578327558685816-google)<sup>0</sup> 
 
 
-_25.06.2020 08:34:56_
+_25.06.2020 11:59:09_

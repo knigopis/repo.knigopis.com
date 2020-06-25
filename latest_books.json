@@ -1,4 +1,16 @@
 {
+    "wwkFj1MDy-": {
+        "id": "wwkFj1MDy-",
+        "title": "Довелесова книга",
+        "author": "Гнатюк",
+        "notes": "Новый взгляд на дохристианскую Русь.",
+        "createdAt": "2020-06-25 11:59:09",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 46
+        }
+    },
     "fHrdUmgQIA": {
         "id": "fHrdUmgQIA",
         "title": "Тайна проклятого герцога. Книга 2",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 151
-        }
-    },
-    "wLBteoKjDw": {
-        "id": "wLBteoKjDw",
-        "title": "Три сестры",
-        "author": "Чехов, Антон",
-        "notes": "",
-        "createdAt": "2020-06-22 13:57:06",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 150
         }
     }
 }

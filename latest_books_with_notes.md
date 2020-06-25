@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Довелесова книга ~ [mfevralev](users/140/140966150-vkontakte)<sup>46</sup>
 * Тайна проклятого герцога. Книга 2 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>68</sup>
 * Тайна проклятого герцога. Книга 1 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>67</sup>
 * Старик и море ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>66</sup>
@@ -31,7 +32,6 @@
 * Вон собака бежит ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>70</sup>
 * В поисках потока ~ [Елена](users/115/115826717712507836033-google)<sup>142</sup>
 * Экспедиция Оюнсу ~ [En](users/333/333646551-vkontakte)<sup>112</sup>
-* Путь джедая ~ [dmiro](users/571/5714115-vkontakte)<sup>27</sup>
 
 
-_25.06.2020 08:34:55_
+_25.06.2020 11:59:09_
