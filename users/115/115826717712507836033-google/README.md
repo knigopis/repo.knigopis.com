@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>333</sup>
+# List of books read by Elixir<sup>334</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Вечера на хуторе близ Диканьки
+Гоголь, Николай
+
 
 ### Сашка
 Лермонтов, Михаил
