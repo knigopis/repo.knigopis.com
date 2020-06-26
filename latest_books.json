@@ -1,4 +1,16 @@
 {
+    "aw50iYCDp6": {
+        "id": "aw50iYCDp6",
+        "title": "Путешествия Гулливера",
+        "author": "Свифт, Джонатан",
+        "notes": "",
+        "createdAt": "2020-06-26 20:40:19",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 343
+        }
+    },
     "6AMd-CS_35": {
         "id": "6AMd-CS_35",
         "title": "Детство. В людях. Мои университеты",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 160
-        }
-    },
-    "FfeWDeHJMm": {
-        "id": "FfeWDeHJMm",
-        "title": "Аэлита",
-        "author": "Толстой, Алексей",
-        "notes": "",
-        "createdAt": "2020-06-26 03:48:50",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 317
         }
     }
 }
