@@ -1,4 +1,16 @@
 {
+    "24DkU7-J_7": {
+        "id": "24DkU7-J_7",
+        "title": "Братья Карамазовы",
+        "author": "Федор Михайлович Достоевский",
+        "notes": "",
+        "createdAt": "2020-06-26 18:10:54",
+        "user": {
+            "id": "117835844513813219393-google",
+            "nickname": "Aleks",
+            "booksCount": 80
+        }
+    },
     "7r1kfYMrP2": {
         "id": "7r1kfYMrP2",
         "title": "Сашка",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 19
-        }
-    },
-    "koqJgR_JXC": {
-        "id": "koqJgR_JXC",
-        "title": "Шпиль",
-        "author": "Голдинг, Уильям",
-        "notes": "",
-        "createdAt": "2020-06-25 19:22:33",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 315
         }
     }
 }
