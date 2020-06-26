@@ -1,4 +1,16 @@
 {
+    "wJnHJVLLUA": {
+        "id": "wJnHJVLLUA",
+        "title": "Как устроен javascript",
+        "author": "Дуглас Крокфорд",
+        "notes": "",
+        "createdAt": "2020-06-26 07:08:14",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 160
+        }
+    },
     "FfeWDeHJMm": {
         "id": "FfeWDeHJMm",
         "title": "Аэлита",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 309
-        }
-    },
-    "M6NGgAwEH7": {
-        "id": "M6NGgAwEH7",
-        "title": "Герой нашего времени",
-        "author": "Лермонтов, Михаил",
-        "notes": "",
-        "createdAt": "2020-06-23 16:26:15",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 308
         }
     }
 }

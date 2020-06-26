@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>159</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>160</sup>
 ---
 
 ## 2020
+
+### Как устроен javascript
+Дуглас Крокфорд
+> [2020-06-26] 
+
 
 ### Гитлер
 Руперт Колли
