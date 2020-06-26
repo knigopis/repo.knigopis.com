@@ -1,4 +1,16 @@
 {
+    "6AMd-CS_35": {
+        "id": "6AMd-CS_35",
+        "title": "Детство. В людях. Мои университеты",
+        "author": "Горький, Максим",
+        "notes": "",
+        "createdAt": "2020-06-26 20:38:23",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 342
+        }
+    },
     "151PuFso6Z": {
         "id": "151PuFso6Z",
         "title": "Макар Чудра",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 317
-        }
-    },
-    "O464U0vFNM": {
-        "id": "O464U0vFNM",
-        "title": "Гиперболоид инженера Гарина",
-        "author": "Толстой, Алексей",
-        "notes": "",
-        "createdAt": "2020-06-26 03:48:00",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 316
         }
     }
 }

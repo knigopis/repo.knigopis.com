@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>341</sup>
+# List of books read by Elixir<sup>342</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Детство. В людях. Мои университеты
+Горький, Максим
+
 
 ### Макар Чудра
 Горький, Максим
