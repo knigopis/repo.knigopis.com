@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>334</sup>
+# List of books read by Elixir<sup>335</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Вий
+Гоголь, Николай
+
 
 ### Вечера на хуторе близ Диканьки
 Гоголь, Николай
