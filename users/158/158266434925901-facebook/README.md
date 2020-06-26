@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>108</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>109</sup>
 ---
 
 ## 2020
+
+### Страна радости
+Стивен Кинг
+> [2020-06-26] 
+
 
 ### Капкан на четвёртого
 Наталья Жильцова
