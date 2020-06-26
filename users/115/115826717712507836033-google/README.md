@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>340</sup>
+# List of books read by Elixir<sup>341</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Макар Чудра
+Горький, Максим
+
 
 ### Мать
 Горький, Максим
