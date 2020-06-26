@@ -1,4 +1,10 @@
 {
+    "101526240567453573875-google": {
+        "id": "101526240567453573875-google",
+        "nickname": "sodomorgan",
+        "booksCount": 0,
+        "updatedAt": "2020-06-26 10:22:33"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2020-06-16 21:01:40"
-    },
-    "8317925041-instagram": {
-        "id": "8317925041-instagram",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-06-14 17:48:42"
     }
 }
