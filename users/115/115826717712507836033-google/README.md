@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>326</sup>
+# List of books read by Elixir<sup>327</sup>
 ---
 
 ## 2020
@@ -591,6 +591,10 @@
 
 
 ## Other years
+
+### Севастопольские рассказы
+Толстой, Лев
+
 
 ### Смерть Ивана Ильича
 Толстой, Лев
