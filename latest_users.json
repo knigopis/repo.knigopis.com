@@ -1,4 +1,10 @@
 {
+    "173628445-vkontakte": {
+        "id": "173628445-vkontakte",
+        "nickname": "velverie",
+        "booksCount": 0,
+        "updatedAt": "2020-06-26 21:09:22"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": "Elixir",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 101,
         "updatedAt": "2020-06-17 19:46:12"
-    },
-    "18276342038-instagram": {
-        "id": "18276342038-instagram",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2020-06-16 21:01:54"
     }
 }
