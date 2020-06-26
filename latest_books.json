@@ -1,4 +1,16 @@
 {
+    "hUD8X0G7JC": {
+        "id": "hUD8X0G7JC",
+        "title": "Крейцерова соната",
+        "author": "Толстой, Лев",
+        "notes": "",
+        "createdAt": "2020-06-26 17:20:37",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 325
+        }
+    },
     "CS7BdGxikX": {
         "id": "CS7BdGxikX",
         "title": "Казаки",
@@ -345,18 +357,6 @@
             "id": "139338401-vkontakte",
             "nickname": "sab_olya",
             "booksCount": 84
-        }
-    },
-    "30E-pTrh5h": {
-        "id": "30E-pTrh5h",
-        "title": "Коронавірус. Інструкція з виживання",
-        "author": "Анча Баранова",
-        "notes": "7/10 Практичні інструкції та пояснення.",
-        "createdAt": "2020-06-24 07:56:49",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 120
         }
     }
 }
