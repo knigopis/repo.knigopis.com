@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/104731829794763834502/)<sup>6</sup>
+# List of books read by [](https://plus.google.com/u/0/104731829794763834502/)<sup>7</sup>
 ---
 
 ## 2020
+
+### Сексуальный интеллект
+Мартин Кляйн
+> [2020-06-26] 
+
 
 ### После
 Анна Тодд

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/104/104731829794763834502-google)<sup>7</sup> 
 [sodomorgan](users/101/101526240567453573875-google)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>109</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>160</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>117</sup> 
 [longe_coffee](users/369/369557556-vkontakte)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>56</sup> 
-[](users/104/104731829794763834502-google)<sup>6</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>29</sup> 
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>17</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>49</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/102/102300366193989005728-google)<sup>0</sup> 
 
 
-_26.06.2020 10:22:36_
+_26.06.2020 12:22:32_
