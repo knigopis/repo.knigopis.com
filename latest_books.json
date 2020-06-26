@@ -1,4 +1,16 @@
 {
+    "rma493gPOB": {
+        "id": "rma493gPOB",
+        "title": "Мать",
+        "author": "Горький, Максим",
+        "notes": "",
+        "createdAt": "2020-06-26 20:37:03",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 340
+        }
+    },
     "Qydxxg7eW3": {
         "id": "Qydxxg7eW3",
         "title": "Невский проспект",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 26
-        }
-    },
-    "DBQ6yi7eF_": {
-        "id": "DBQ6yi7eF_",
-        "title": "Фиг с ним, с Мавром!",
-        "author": "Екатерина Николаевна Вильмонт",
-        "notes": "",
-        "createdAt": "2020-06-25 20:28:54",
-        "user": {
-            "id": "112388384595246311466-google",
-            "nickname": "ЗаяцЛис",
-            "booksCount": 25
         }
     }
 }
