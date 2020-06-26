@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>332</sup>
+# List of books read by Elixir<sup>333</sup>
 ---
 
 ## 2020
@@ -591,6 +591,10 @@
 
 
 ## Other years
+
+### Сашка
+Лермонтов, Михаил
+
 
 ### Мальчик у Христа на елке
 Достоевский, Федор
