@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>316</sup>
+# List of books read by Elixir<sup>317</sup>
 ---
 
 ## 2020
@@ -591,6 +591,10 @@
 
 
 ## Other years
+
+### Аэлита
+Толстой, Алексей
+
 
 ### Гиперболоид инженера Гарина
 Толстой, Алексей
