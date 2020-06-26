@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>343</sup>
+# List of books read by Elixir<sup>344</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Плаха
+Чынгыз Айтматов
+
 
 ### Путешествия Гулливера
 Свифт, Джонатан
