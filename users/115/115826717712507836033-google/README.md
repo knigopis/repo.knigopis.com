@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>336</sup>
+# List of books read by Elixir<sup>337</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Тарас Бульба
+Гоголь, Николай
+
 
 ### Женитьба
 Гоголь, Николай
