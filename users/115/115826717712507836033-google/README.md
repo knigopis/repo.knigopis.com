@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>318</sup>
+# List of books read by Elixir<sup>319</sup>
 ---
 
 ## 2020
@@ -591,6 +591,10 @@
 
 
 ## Other years
+
+### Новь
+Тургенев, Иван
+
 
 ### Князь Серебряный
 Толстой, Алексей
