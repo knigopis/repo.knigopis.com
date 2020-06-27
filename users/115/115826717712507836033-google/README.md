@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>370</sup>
+# List of books read by Elixir<sup>371</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Труженики моря
+Гюго, Виктор
+
 
 ### Альпийская баллада
 Быков, Василь
