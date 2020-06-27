@@ -1,4 +1,16 @@
 {
+    "Ly1FYMm9S7": {
+        "id": "Ly1FYMm9S7",
+        "title": "Сестра Керри",
+        "author": "Драйзер, Теодор",
+        "notes": "",
+        "createdAt": "2020-06-27 08:38:44",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 373
+        }
+    },
     "RCwk6MnY5O": {
         "id": "RCwk6MnY5O",
         "title": "Чевенгур",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 345
-        }
-    },
-    "tGDhdOq6xm": {
-        "id": "tGDhdOq6xm",
-        "title": "Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер",
-        "author": "Perch Proshyan Перс Прошян",
-        "notes": "“Sos and Varditer” novel, 1860. First step brought popularity for the writer.",
-        "createdAt": "2020-06-27 06:07:38",
-        "user": {
-            "id": "1130000004300166-yandex",
-            "nickname": "ՎաչՎաղՍիր SirVach",
-            "booksCount": 19
         }
     }
 }
