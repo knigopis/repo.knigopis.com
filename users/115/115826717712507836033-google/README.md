@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>366</sup>
+# List of books read by Elixir<sup>367</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Сага о Форсайтах
+Голсуорси, Джон
+
 
 ### Как закалялась сталь
 Островский, Николай
