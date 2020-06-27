@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>362</sup>
+# List of books read by Elixir<sup>363</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Живые и мертвые
+Симонов, Константин
+
 
 ### Жизнь Клима Самгина
 Горький, Максим
