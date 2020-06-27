@@ -1,4 +1,16 @@
 {
+    "DSUB6bF66J": {
+        "id": "DSUB6bF66J",
+        "title": "Яма",
+        "author": "Куприн, Александр",
+        "notes": "",
+        "createdAt": "2020-06-27 08:57:01",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 378
+        }
+    },
     "rTfZR2-p5U": {
         "id": "rTfZR2-p5U",
         "title": "Поединок",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 352
-        }
-    },
-    "3UVSUCJqzC": {
-        "id": "3UVSUCJqzC",
-        "title": "Бронзовая птица",
-        "author": "Рыбаков, Анатолий",
-        "notes": "",
-        "createdAt": "2020-06-27 06:58:50",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 351
         }
     }
 }
