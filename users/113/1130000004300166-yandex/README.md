@@ -97,7 +97,7 @@ William Shakespeare
 ## 1975
 
 ### Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер
-Perch Proshyan Перс Прошян
+Perch Proshyan Перч Прошян
 > “Sos and Varditer” novel, 1860. First step brought popularity for the writer.
 
 
