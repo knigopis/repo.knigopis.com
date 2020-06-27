@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>381</sup>
+# List of books read by Elixir<sup>382</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Левша
+Лесков, Николай
+
 
 ### Очарованный странник
 Лесков, Николай
