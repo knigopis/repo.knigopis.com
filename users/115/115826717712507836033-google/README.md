@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>373</sup>
+# List of books read by Elixir<sup>374</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Альгамбра
+Ирвинг, Вашингтон
+
 
 ### Сестра Керри
 Драйзер, Теодор
