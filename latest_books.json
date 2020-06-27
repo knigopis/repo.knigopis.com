@@ -1,4 +1,16 @@
 {
+    "g_Z9s4vRsV": {
+        "id": "g_Z9s4vRsV",
+        "title": "Отец Горио",
+        "author": "Бальзак, Оноре",
+        "notes": "",
+        "createdAt": "2020-06-27 08:48:30",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 377
+        }
+    },
     "g8I0luG7xM": {
         "id": "g8I0luG7xM",
         "title": "Зубр",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 349
-        }
-    },
-    "de_ViSOcJ9": {
-        "id": "de_ViSOcJ9",
-        "title": "Путешествие из Петербурга в Москву",
-        "author": "Радищев, Александр",
-        "notes": "",
-        "createdAt": "2020-06-27 06:42:57",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 348
         }
     }
 }
