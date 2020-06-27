@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>388</sup>
+# List of books read by Elixir<sup>389</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Двадцать четыре часа из жизни женщины
+Цвейг, Стефан
+
 
 ### Мадемуазель Фифи
 Мопассан, Ги де
