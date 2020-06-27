@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>364</sup>
+# List of books read by Elixir<sup>365</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Шум и ярость
+Фолкнер, Уильям
+
 
 ### Студенты. Инженеры
 Гарин-Михайловский, Николай
