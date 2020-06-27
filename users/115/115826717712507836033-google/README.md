@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>348</sup>
+# List of books read by Elixir<sup>349</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Иллюзии
+Бах, Ричард
+
 
 ### Путешествие из Петербурга в Москву
 Радищев, Александр
