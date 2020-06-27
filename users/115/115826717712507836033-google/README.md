@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>360</sup>
+# List of books read by Elixir<sup>361</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Бегство от безопасности
+Бах, Ричард
+
 
 ### Дело Артамоновых
 Горький, Максим
