@@ -1,4 +1,16 @@
 {
+    "6-lw3y5sBT": {
+        "id": "6-lw3y5sBT",
+        "title": "Generation \"П\"",
+        "author": "Пелевин, Виктор",
+        "notes": "",
+        "createdAt": "2020-06-27 07:03:06",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 353
+        }
+    },
     "B2puevT1DG": {
         "id": "B2puevT1DG",
         "title": "Чапаев и пустота",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 328
-        }
-    },
-    "D8GU2fSsJM": {
-        "id": "D8GU2fSsJM",
-        "title": "Севастопольские рассказы",
-        "author": "Толстой, Лев",
-        "notes": "",
-        "createdAt": "2020-06-26 17:21:44",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 327
         }
     }
 }

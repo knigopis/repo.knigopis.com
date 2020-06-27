@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>352</sup>
+# List of books read by Elixir<sup>353</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Generation "П"
+Пелевин, Виктор
+
 
 ### Чапаев и пустота
 Пелевин, Виктор
