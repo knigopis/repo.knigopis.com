@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>68</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>69</sup>
 ---
 
 ## 2020
+
+### Молот ведьм
+Генрих Крамер и Якоб Шпренгер
+
 
 ### Молчание
 Сюсаку Эндо
