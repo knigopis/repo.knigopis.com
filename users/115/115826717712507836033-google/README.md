@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>351</sup>
+# List of books read by Elixir<sup>352</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Чапаев и пустота
+Пелевин, Виктор
+
 
 ### Бронзовая птица
 Рыбаков, Анатолий
