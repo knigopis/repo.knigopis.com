@@ -38,8 +38,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>379</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>69</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>378</sup> 
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup> 
 [En](users/333/333646551-vkontakte)<sup>117</sup> 
 [velverie](users/173/173628445-vkontakte)<sup>0</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Avery](users/567/56734832-yandex)<sup>30</sup> 
 
 
-_27.06.2020 08:57:13_
+_27.06.2020 08:57:44_

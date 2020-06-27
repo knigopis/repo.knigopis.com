@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>378</sup>
+# List of books read by Elixir<sup>379</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Молох
+Куприн, Александр
+
 
 ### Яма
 Куприн, Александр
