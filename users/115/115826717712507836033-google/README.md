@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>357</sup>
+# List of books read by Elixir<sup>358</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Отверженные
+Гюго, Виктор
+
 
 ### Таинственный остров
 Верн, Жюль

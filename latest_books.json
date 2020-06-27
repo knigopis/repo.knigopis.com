@@ -1,4 +1,16 @@
 {
+    "4FBj6bW74b": {
+        "id": "4FBj6bW74b",
+        "title": "Отверженные",
+        "author": "Гюго, Виктор",
+        "notes": "",
+        "createdAt": "2020-06-27 08:22:10",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 358
+        }
+    },
     "Gre_GiWHEk": {
         "id": "Gre_GiWHEk",
         "title": "Таинственный остров",
@@ -345,18 +357,6 @@
             "id": "117835844513813219393-google",
             "nickname": "Aleks",
             "booksCount": 80
-        }
-    },
-    "7r1kfYMrP2": {
-        "id": "7r1kfYMrP2",
-        "title": "Сашка",
-        "author": "Лермонтов, Михаил",
-        "notes": "",
-        "createdAt": "2020-06-26 17:34:12",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 333
         }
     }
 }
