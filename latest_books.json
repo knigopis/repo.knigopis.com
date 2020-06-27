@@ -1,4 +1,16 @@
 {
+    "JPKipaI_4Z": {
+        "id": "JPKipaI_4Z",
+        "title": "Всадник без головы",
+        "author": "Рид, Майн",
+        "notes": "",
+        "createdAt": "2020-06-27 08:31:31",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 368
+        }
+    },
     "hzqtKTkOjm": {
         "id": "hzqtKTkOjm",
         "title": "Сага о Форсайтах",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 343
-        }
-    },
-    "6AMd-CS_35": {
-        "id": "6AMd-CS_35",
-        "title": "Детство. В людях. Мои университеты",
-        "author": "Горький, Максим",
-        "notes": "",
-        "createdAt": "2020-06-26 20:38:23",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 342
         }
     }
 }
