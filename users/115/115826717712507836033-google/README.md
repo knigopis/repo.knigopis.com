@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>365</sup>
+# List of books read by Elixir<sup>366</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Как закалялась сталь
+Островский, Николай
+
 
 ### Шум и ярость
 Фолкнер, Уильям

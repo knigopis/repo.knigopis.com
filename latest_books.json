@@ -1,4 +1,16 @@
 {
+    "Cr71RG0UTc": {
+        "id": "Cr71RG0UTc",
+        "title": "Как закалялась сталь",
+        "author": "Островский, Николай",
+        "notes": "",
+        "createdAt": "2020-06-27 08:30:13",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 366
+        }
+    },
     "swGTy5Ysor": {
         "id": "swGTy5Ysor",
         "title": "Шум и ярость",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 341
-        }
-    },
-    "rma493gPOB": {
-        "id": "rma493gPOB",
-        "title": "Мать",
-        "author": "Горький, Максим",
-        "notes": "",
-        "createdAt": "2020-06-26 20:37:03",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 340
         }
     }
 }
