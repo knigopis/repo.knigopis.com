@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>369</sup>
+# List of books read by Elixir<sup>370</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Альпийская баллада
+Быков, Василь
+
 
 ### Кристин, дочь Лавранса
 Унсет, Сигрид
