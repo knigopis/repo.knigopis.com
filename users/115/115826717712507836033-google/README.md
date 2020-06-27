@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>347</sup>
+# List of books read by Elixir<sup>348</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Путешествие из Петербурга в Москву
+Радищев, Александр
+
 
 ### Одиссея
 Гомер
