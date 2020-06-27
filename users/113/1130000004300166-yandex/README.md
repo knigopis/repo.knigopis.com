@@ -1,4 +1,4 @@
-# List of books read by [ՎաչՎաղՍիր SirVach](false)<sup>18</sup>
+# List of books read by [ՎաչՎաղՍիր SirVach](false)<sup>19</sup>
 ---
 
 ## 2020
@@ -95,6 +95,11 @@ William Shakespeare
 
 
 ## 1975
+
+### Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер
+Perch Proshyan Перс Прошян
+> “Sos and Varditer” novel, 1860. First step brought popularity for the writer.
+
 
 ### Из-за хлеба Հացի խնդիր Issue of Bread
 Перч Прошян  Պերճ Պռոշյան Pertch Proshian

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup>
+    > “Sos and Varditer” novel, 1860. First step brought popularity for the writer.
+
 * Из-за хлеба Հացի խնդիր Issue of Bread ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>18</sup>
     > Proshyan’s “Issue of Bread” novel was published in 1879, which found its constant place in the history of Armenian realistic novels
 
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > Расследование ведет полиция Чикаго, но ФБР не доверяет местному профайлеру, считая его некомпетентным. Для такого сложного дела у Бюро есть свой специалист – Зои Бентли. Она – лучшая из лучших. Во многом потому, что когда-то, много лет назад, лично столкнулась с серийным убийцей…
 
 * Довелесова книга ~ [mfevralev](users/140/140966150-vkontakte)<sup>46</sup>
-    > Новый взгляд на дохристианскую Русь.
 
 * Тайна проклятого герцога. Книга 2 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>68</sup>
 
@@ -31,14 +33,12 @@ Do not use pull requests to make changes here.
 
 * Остров доктора Моро ~ [En](users/333/333646551-vkontakte)<sup>116</sup>
 
-* Сказать жизни – да! ~ [Rainbow](users/109/109787328219839805802-google)<sup>56</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>18</sup> 
+[ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup> 
 [En](users/333/333646551-vkontakte)<sup>117</sup> 
 [velverie](users/173/173628445-vkontakte)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>344</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>101</sup> 
 
 
-_27.06.2020 06:00:12_
+_27.06.2020 06:07:38_

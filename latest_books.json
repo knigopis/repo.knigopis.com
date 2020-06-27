@@ -1,4 +1,16 @@
 {
+    "tGDhdOq6xm": {
+        "id": "tGDhdOq6xm",
+        "title": "Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер",
+        "author": "Perch Proshyan Перс Прошян",
+        "notes": "“Sos and Varditer” novel, 1860. First step brought popularity for the writer.",
+        "createdAt": "2020-06-27 06:07:38",
+        "user": {
+            "id": "1130000004300166-yandex",
+            "nickname": "ՎաչՎաղՍիր SirVach",
+            "booksCount": 19
+        }
+    },
     "DMlOouX1jN": {
         "id": "DMlOouX1jN",
         "title": "Из-за хлеба Հացի խնդիր Issue of Bread",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 319
-        }
-    },
-    "lzW0SaflTh": {
-        "id": "lzW0SaflTh",
-        "title": "Князь Серебряный",
-        "author": "Толстой, Алексей",
-        "notes": "",
-        "createdAt": "2020-06-26 17:07:05",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 318
         }
     }
 }

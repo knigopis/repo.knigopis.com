@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup>
 * Из-за хлеба Հացի խնդիր Issue of Bread ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>18</sup>
 * Внутри убийцы ~ [En](users/333/333646551-vkontakte)<sup>117</sup>
 * Довелесова книга ~ [mfevralev](users/140/140966150-vkontakte)<sup>46</sup>
@@ -31,7 +32,6 @@
 * Как работает мир, в котором я живу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>116</sup>
 * Бабушка велела кланяться и передать, что просит прощения ~ [dmiro](users/571/5714115-vkontakte)<sup>28</sup>
 * Шелкопряд ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>115</sup>
-* Вон собака бежит ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>70</sup>
 
 
-_27.06.2020 06:00:12_
+_27.06.2020 06:07:38_

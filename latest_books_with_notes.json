@@ -1,4 +1,16 @@
 {
+    "tGDhdOq6xm": {
+        "id": "tGDhdOq6xm",
+        "title": "Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер",
+        "author": "Perch Proshyan Перс Прошян",
+        "notes": "“Sos and Varditer” novel, 1860. First step brought popularity for the writer.",
+        "createdAt": "2020-06-27 06:07:38",
+        "user": {
+            "id": "1130000004300166-yandex",
+            "nickname": "ՎաչՎաղՍիր SirVach",
+            "booksCount": 19
+        }
+    },
     "DMlOouX1jN": {
         "id": "DMlOouX1jN",
         "title": "Из-за хлеба Հացի խնդիր Issue of Bread",
@@ -345,18 +357,6 @@
             "id": "829893410524253-facebook",
             "nickname": "Daria Varyvod",
             "booksCount": 115
-        }
-    },
-    "XUSSGpuE_-": {
-        "id": "XUSSGpuE_-",
-        "title": "Вон собака бежит",
-        "author": "Казаков Юрий Павлович",
-        "notes": "🎧Аудиокнига",
-        "createdAt": "2020-06-09 19:31:47",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 70
         }
     }
 }
