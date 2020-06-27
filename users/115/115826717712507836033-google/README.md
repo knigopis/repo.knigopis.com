@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>384</sup>
+# List of books read by Elixir<sup>385</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### В дурном обществе
+Короленко, Владимир
+
 
 ### Слепой музыкант
 Короленко, Владимир
