@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>371</sup>
+# List of books read by Elixir<sup>372</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Чевенгур
+Платонов, Андрей
+
 
 ### Труженики моря
 Гюго, Виктор
