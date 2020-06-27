@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>353</sup>
+# List of books read by Elixir<sup>352</sup>
 ---
 
 ## 2020
@@ -1395,10 +1395,6 @@
 
 ### Мы
 Замятин, Евгений
-
-
-### Алхимик
-Пауло Коэлье
 
 
 ### Кысь
