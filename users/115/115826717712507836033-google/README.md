@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>354</sup>
+# List of books read by Elixir<sup>355</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Книга воина света
+Коэльо, Пауло
+
 
 ### Заир
 Коэльо, Пауло
