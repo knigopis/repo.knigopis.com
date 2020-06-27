@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>344</sup>
+# List of books read by Elixir<sup>345</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Кто виноват?
+Герцен, Александр
+
 
 ### Плаха
 Чынгыз Айтматов
