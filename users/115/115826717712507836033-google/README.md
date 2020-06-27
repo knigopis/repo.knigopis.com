@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>386</sup>
+# List of books read by Elixir<sup>387</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Пышка
+Мопассан, Ги де
+
 
 ### Милый друг
 Мопассан, Ги де
