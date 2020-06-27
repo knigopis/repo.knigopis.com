@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>379</sup>
+# List of books read by Elixir<sup>380</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Гранатовый браслет
+Куприн, Александр
+
 
 ### Молох
 Куприн, Александр
