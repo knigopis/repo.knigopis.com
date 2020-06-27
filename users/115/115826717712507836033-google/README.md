@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>375</sup>
+# List of books read by Elixir<sup>376</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Зубр
+Гранин, Даниил
+
 
 ### Любовник смерти
 Акунин, Борис
