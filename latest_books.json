@@ -1,4 +1,16 @@
 {
+    "5WuxXivKOO": {
+        "id": "5WuxXivKOO",
+        "title": "Милый друг",
+        "author": "Мопассан, Ги де",
+        "notes": "",
+        "createdAt": "2020-06-27 14:38:54",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 386
+        }
+    },
     "Jfdq_94j7D": {
         "id": "Jfdq_94j7D",
         "title": "В дурном обществе",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 361
-        }
-    },
-    "cvC4W2AXTx": {
-        "id": "cvC4W2AXTx",
-        "title": "Дело Артамоновых",
-        "author": "Горький, Максим",
-        "notes": "",
-        "createdAt": "2020-06-27 08:24:14",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 360
         }
     }
 }

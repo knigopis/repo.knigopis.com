@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>385</sup>
+# List of books read by Elixir<sup>386</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Милый друг
+Мопассан, Ги де
+
 
 ### В дурном обществе
 Короленко, Владимир
