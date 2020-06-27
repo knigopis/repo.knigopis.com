@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>387</sup>
+# List of books read by Elixir<sup>388</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Мадемуазель Фифи
+Мопассан, Ги де
+
 
 ### Пышка
 Мопассан, Ги де
