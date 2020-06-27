@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>383</sup>
+# List of books read by Elixir<sup>384</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Слепой музыкант
+Короленко, Владимир
+
 
 ### Собор Парижской Богоматери
 Гюго, Виктор
