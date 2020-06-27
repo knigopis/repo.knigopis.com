@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>355</sup>
+# List of books read by Elixir<sup>356</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Балтийское небо
+Чуковский, Николай
+
 
 ### Книга воина света
 Коэльо, Пауло
