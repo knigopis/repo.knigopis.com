@@ -3,8 +3,8 @@
     "nickname": "demo",
     "profile": false,
     "identity": "http://openid.yandex.ru/knigopis-demo/",
-    "booksCount": 0,
+    "booksCount": 1,
     "subscriptions": [],
     "createdAt": "2020-04-15 21:32:49",
-    "updatedAt": "2020-06-06 18:16:48"
+    "updatedAt": "2020-06-27 20:55:54"
 }
