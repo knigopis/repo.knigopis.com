@@ -121,7 +121,7 @@ Perch Proshyan Перч Прошян
 
 ## 1974
 
-### Սամվել Samuel Самвел
+### Самвел Սամվել Samuel
 Րաֆֆի Raffi
 > Samuel is an 1886 Armenian language novel by the novelist Raffi. Considered by some critics his most successful work, the plot centres on the killing of the fourth-century Prince Vahan Mamikonian and his wife by their son Samuel.
 
