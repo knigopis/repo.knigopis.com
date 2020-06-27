@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>350</sup>
+# List of books read by Elixir<sup>351</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Бронзовая птица
+Рыбаков, Анатолий
+
 
 ### Кортик
 Рыбаков, Анатолий
