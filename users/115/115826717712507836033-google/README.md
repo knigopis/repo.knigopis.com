@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>376</sup>
+# List of books read by Elixir<sup>377</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Поединок
+Куприн, Александр
+
 
 ### Шагреневая кожа
 Бальзак, Оноре
