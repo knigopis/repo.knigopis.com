@@ -1,4 +1,16 @@
 {
+    "DMlOouX1jN": {
+        "id": "DMlOouX1jN",
+        "title": "Из-за хлеба Հացի խնդիր Issue of Bread",
+        "author": "Перч Прошян  Պերճ Պռոշյան Pertch Proshian",
+        "notes": "Proshyan’s “Issue of Bread” novel was published in 1879, which found its constant place in the history of Armenian realistic novels",
+        "createdAt": "2020-06-27 06:00:12",
+        "user": {
+            "id": "1130000004300166-yandex",
+            "nickname": "ՎաչՎաղՍիր SirVach",
+            "booksCount": 18
+        }
+    },
     "D5dXYuIq3g": {
         "id": "D5dXYuIq3g",
         "title": "Внутри убийцы",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 318
-        }
-    },
-    "oKtIvgy7I2": {
-        "id": "oKtIvgy7I2",
-        "title": "Сексуальный интеллект",
-        "author": "Мартин Кляйн",
-        "notes": "",
-        "createdAt": "2020-06-26 12:22:32",
-        "user": {
-            "id": "104731829794763834502-google",
-            "nickname": null,
-            "booksCount": 7
         }
     }
 }

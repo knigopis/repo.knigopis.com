@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Из-за хлеба Հացի խնդիր Issue of Bread ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>18</sup>
+    > Proshyan’s “Issue of Bread” novel was published in 1879, which found its constant place in the history of Armenian realistic novels
+
 * Внутри убийцы ~ [En](users/333/333646551-vkontakte)<sup>117</sup>
     > Профайлер… Криминальный психолог, буквально по паре незначительных деталей способный воссоздать облик и образ действий самого хитроумного преступника. Эти люди выглядят со стороны как волшебники, как супергерои. Тем более если профайлер – женщина…
     > На мосту в Чикаго, облокотившись на перила, стоит молодая красивая женщина. Очень бледная и очень грустная. Она неподвижно смотрит на темную воду, прикрывая ладонью плачущие глаза. И никому не приходит в голову, что…
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > Новый взгляд на дохристианскую Русь.
 
 * Тайна проклятого герцога. Книга 2 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>68</sup>
-    > 9/10
 
 * Тайна проклятого герцога. Книга 1 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>67</sup>
 
@@ -31,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Сказать жизни – да! ~ [Rainbow](users/109/109787328219839805802-google)<sup>56</sup>
 
-* Девушка в лабиринте ~ [En](users/333/333646551-vkontakte)<sup>115</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>18</sup> 
 [En](users/333/333646551-vkontakte)<sup>117</sup> 
 [velverie](users/173/173628445-vkontakte)<sup>0</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>344</sup> 
@@ -61,7 +62,6 @@ _More notes [here](latest_books_with_notes.md)._
 [longe_coffee](users/369/369557556-vkontakte)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>56</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>29</sup> 
-[ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>17</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>49</sup> 
 [ascargb](users/101/10125314-vkontakte)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>39</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>101</sup> 
 
 
-_27.06.2020 00:49:47_
+_27.06.2020 06:00:12_

@@ -1,4 +1,4 @@
-# List of books read by [ՎաչՎաղՍիր SirVach](false)<sup>17</sup>
+# List of books read by [ՎաչՎաղՍիր SirVach](false)<sup>18</sup>
 ---
 
 ## 2020
@@ -95,6 +95,11 @@ William Shakespeare
 
 
 ## 1975
+
+### Из-за хлеба Հացի խնդիր Issue of Bread
+Перч Прошян  Պերճ Պռոշյան Pertch Proshian
+> Proshyan’s “Issue of Bread” novel was published in 1879, which found its constant place in the history of Armenian realistic novels
+
 
 ### Ալպիական մանուշակ АЛЬПИЙСКАЯ ФИАЛКА  5
 Ակսել Բակունց (Ալեքսանդր Ստեփանի Թևոսյան) 
