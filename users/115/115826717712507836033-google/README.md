@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>380</sup>
+# List of books read by Elixir<sup>381</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Очарованный странник
+Лесков, Николай
+
 
 ### Гранатовый браслет
 Куприн, Александр
