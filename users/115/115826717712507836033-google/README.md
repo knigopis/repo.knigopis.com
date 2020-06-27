@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>361</sup>
+# List of books read by Elixir<sup>362</sup>
 ---
 
 ## 2020
@@ -592,6 +592,10 @@
 
 
 ## Other years
+
+### Жизнь Клима Самгина
+Горький, Максим
+
 
 ### Бегство от безопасности
 Бах, Ричард
