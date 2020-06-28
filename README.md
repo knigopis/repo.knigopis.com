@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Elixir](users/115/115826717712507836033-google)<sup>388</sup> 
+[Elixir](users/115/115826717712507836033-google)<sup>389</sup> 
 [fir137](users/176/176805114-yandex)<sup>39</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>5</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>49</sup> 
 
 
-_28.06.2020 15:16:02_
+_28.06.2020 18:43:42_
