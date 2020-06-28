@@ -1,4 +1,16 @@
 {
+    "FGV8Nw6WLR": {
+        "id": "FGV8Nw6WLR",
+        "title": "Берег удачи",
+        "author": "Кристи Агата",
+        "notes": "",
+        "createdAt": "2020-06-28 12:40:31",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 36
+        }
+    },
     "HZmBVmlw-z": {
         "id": "HZmBVmlw-z",
         "title": "Х или У",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 373
-        }
-    },
-    "RCwk6MnY5O": {
-        "id": "RCwk6MnY5O",
-        "title": "Чевенгур",
-        "author": "Платонов, Андрей",
-        "notes": "",
-        "createdAt": "2020-06-27 08:38:10",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 372
         }
     }
 }
