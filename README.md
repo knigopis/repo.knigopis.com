@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fir137](users/176/176805114-yandex)<sup>34</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>5</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>161</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>56</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>29</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>49</sup> 
-[ascargb](users/101/10125314-vkontakte)<sup>0</sup> 
 
 
-_28.06.2020 09:27:08_
+_28.06.2020 12:39:05_

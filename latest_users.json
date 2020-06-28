@@ -1,4 +1,10 @@
 {
+    "176805114-yandex": {
+        "id": "176805114-yandex",
+        "nickname": "fir137",
+        "booksCount": 34,
+        "updatedAt": "2020-06-28 12:39:05"
+    },
     "111367585493471720963-google": {
         "id": "111367585493471720963-google",
         "nickname": "Fenix",
@@ -172,11 +178,5 @@
         "nickname": "Антенка",
         "booksCount": 49,
         "updatedAt": "2020-06-20 18:19:17"
-    },
-    "10125314-vkontakte": {
-        "id": "10125314-vkontakte",
-        "nickname": "ascargb",
-        "booksCount": 0,
-        "updatedAt": "2020-06-20 16:35:25"
     }
 }

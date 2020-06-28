@@ -1,7 +1,12 @@
-# List of books read by fir137<sup>33</sup>
+# List of books read by fir137<sup>34</sup>
 ---
 
 ## 2019
+
+### Труп в библиотеке
+Кристи Агата
+> [2019-12-11] 
+
 
 ### Смерть на Ниле
 Кристи Агата
