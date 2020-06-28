@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>389</sup>
+# List of books read by <sup>143</sup>
 ---
 
 ## 2020
@@ -483,7 +483,7 @@
 
 
 ### Милые кости
-Элис Сиболд
+Сиболд, Элис
 
 
 ### Томленье духа
