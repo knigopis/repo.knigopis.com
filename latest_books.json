@@ -1,4 +1,16 @@
 {
+    "TlAH9KE1wo": {
+        "id": "TlAH9KE1wo",
+        "title": "Кристи Агата",
+        "author": "Убийство в проходном дворе (сборник)",
+        "notes": "",
+        "createdAt": "2020-06-28 14:46:41",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 39
+        }
+    },
     "Jo1jtcLdS6": {
         "id": "Jo1jtcLdS6",
         "title": "Испытание невиновностью",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 376
-        }
-    },
-    "tdNI1WJ8oM": {
-        "id": "tdNI1WJ8oM",
-        "title": "Любовник смерти",
-        "author": "Акунин, Борис",
-        "notes": "",
-        "createdAt": "2020-06-27 08:43:07",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 375
         }
     }
 }
