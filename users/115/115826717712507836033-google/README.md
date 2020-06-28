@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>390</sup>
+# List of books read by Elixir<sup>389</sup>
 ---
 
 ## 2020
@@ -1531,10 +1531,6 @@
 
 ### Хижина дяди Тома
 Гарриет Бичер-Стоу
-
-
-### Жизнь
-Мопассан, Ги де
 
 
 ### Generation «П»
