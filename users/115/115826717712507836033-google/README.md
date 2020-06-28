@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>389</sup>
+# List of books read by Elixir<sup>390</sup>
 ---
 
 ## 2020
@@ -596,6 +596,10 @@
 
 
 ## Other years
+
+### История одного города
+Салтыков-Щедрин, Михаил
+
 
 ### Письмо незнакомки
 Цвейг, Стефан
