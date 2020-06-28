@@ -34,13 +34,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>389</sup> 
 [fir137](users/176/176805114-yandex)<sup>38</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>5</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>161</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup> 
 [demo](users/106/1067243422-yandex)<sup>1</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>390</sup> 
 [En](users/333/333646551-vkontakte)<sup>118</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>69</sup> 
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>49</sup> 
 
 
-_28.06.2020 13:00:10_
+_28.06.2020 13:43:22_
