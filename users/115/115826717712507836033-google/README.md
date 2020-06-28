@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>392</sup>
+# List of books read by Elixir<sup>391</sup>
 ---
 
 ## 2020
@@ -1543,10 +1543,6 @@
 
 ### Хижина дяди Тома
 Бичер-Стоу, Гарриет
-
-
-### Generation «П»
-Пелевин, Виктор
 
 
 ### Раковый корпус
