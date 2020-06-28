@@ -1,4 +1,16 @@
 {
+    "exCj_41t3l": {
+        "id": "exCj_41t3l",
+        "title": "Омоложение",
+        "author": "Шемшук",
+        "notes": "Книга об очистки организма, масла и их применении",
+        "createdAt": "2020-06-28 09:27:08",
+        "user": {
+            "id": "111367585493471720963-google",
+            "nickname": "Fenix",
+            "booksCount": 5
+        }
+    },
     "bkRwMVdsAa": {
         "id": "bkRwMVdsAa",
         "title": "The Hydrogen Sonata",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 370
-        }
-    },
-    "kdOePKUQmN": {
-        "id": "kdOePKUQmN",
-        "title": "Кристин, дочь Лавранса",
-        "author": "Унсет, Сигрид",
-        "notes": "",
-        "createdAt": "2020-06-27 08:33:12",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 369
         }
     }
 }

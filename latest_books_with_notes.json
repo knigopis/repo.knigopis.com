@@ -1,4 +1,16 @@
 {
+    "exCj_41t3l": {
+        "id": "exCj_41t3l",
+        "title": "Омоложение",
+        "author": "Шемшук",
+        "notes": "Книга об очистки организма, масла и их применении",
+        "createdAt": "2020-06-28 09:27:08",
+        "user": {
+            "id": "111367585493471720963-google",
+            "nickname": "Fenix",
+            "booksCount": 5
+        }
+    },
     "5JJNnkldjP": {
         "id": "5JJNnkldjP",
         "title": "Пять четвертинок апельсина",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 72
-        }
-    },
-    "0AVUzesK7u": {
-        "id": "0AVUzesK7u",
-        "title": "Как работает мир, в котором я живу",
-        "author": "Вячеслав Неклюдов",
-        "notes": "8/10 Простое объяснения мироустройства, оставляет неприятный осадок.",
-        "createdAt": "2020-06-11 17:37:48",
-        "user": {
-            "id": "829893410524253-facebook",
-            "nickname": "Daria Varyvod",
-            "booksCount": 116
         }
     }
 }

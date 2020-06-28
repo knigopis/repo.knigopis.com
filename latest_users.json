@@ -1,4 +1,10 @@
 {
+    "111367585493471720963-google": {
+        "id": "111367585493471720963-google",
+        "nickname": "Fenix",
+        "booksCount": 5,
+        "updatedAt": "2020-06-28 09:27:08"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "ascargb",
         "booksCount": 0,
         "updatedAt": "2020-06-20 16:35:25"
-    },
-    "58602788-vkontakte": {
-        "id": "58602788-vkontakte",
-        "nickname": "Dandelion_Wine",
-        "booksCount": 39,
-        "updatedAt": "2020-06-20 16:12:46"
     }
 }

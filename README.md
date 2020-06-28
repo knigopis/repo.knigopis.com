@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Омоложение ~ [Fenix](users/111/111367585493471720963-google)<sup>5</sup>
+    > Книга об очистки организма, масла и их применении
+
 * Пять четвертинок апельсина ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup>
     > 10/10
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Однажды — никто не знает почему — мальчик взял с собой в школу оружие, и полилась кровь.
 
 * Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup>
-    > “Sos and Varditer” novel, 1860. First step brought popularity for the writer.
 
 * Из-за хлеба Հացի խնդիր Issue of Bread ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>18</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Старик и море ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>66</sup>
 
-* Коронавірус. Інструкція з виживання ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>120</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Fenix](users/111/111367585493471720963-google)<sup>5</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>161</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>29</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>49</sup> 
 [ascargb](users/101/10125314-vkontakte)<sup>0</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>39</sup> 
 
 
-_28.06.2020 08:48:17_
+_28.06.2020 09:27:08_

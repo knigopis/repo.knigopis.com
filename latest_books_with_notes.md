@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Омоложение ~ [Fenix](users/111/111367585493471720963-google)<sup>5</sup>
 * Пять четвертинок апельсина ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup>
 * Ярость ~ [En](users/333/333646551-vkontakte)<sup>118</sup>
 * Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup>
@@ -31,7 +32,6 @@
 * Конь и его мальчик ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
 * Лев, колдунья и платяной шкаф ~ [Rainbow](users/109/109787328219839805802-google)<sup>51</sup>
 * Книга, которой нет ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>72</sup>
-* Как работает мир, в котором я живу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>116</sup>
 
 
-_28.06.2020 05:18:29_
+_28.06.2020 09:27:08_
