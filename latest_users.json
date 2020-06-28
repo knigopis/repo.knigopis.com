@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 126,
+        "updatedAt": "2020-06-28 08:48:17"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 39,
         "updatedAt": "2020-06-20 16:12:46"
-    },
-    "111954412181372496903-google": {
-        "id": "111954412181372496903-google",
-        "nickname": "MariaSelv",
-        "booksCount": 0,
-        "updatedAt": "2020-06-20 16:09:04"
     }
 }

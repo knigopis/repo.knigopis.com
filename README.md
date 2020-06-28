@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>161</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup> 
 [demo](users/106/1067243422-yandex)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>49</sup> 
 [ascargb](users/101/10125314-vkontakte)<sup>0</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>39</sup> 
-[MariaSelv](users/111/111954412181372496903-google)<sup>0</sup> 
 
 
-_28.06.2020 08:44:16_
+_28.06.2020 08:48:17_
