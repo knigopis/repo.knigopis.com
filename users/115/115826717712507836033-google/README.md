@@ -1,4 +1,4 @@
-# List of books read by <sup>143</sup>
+# List of books read by Elixir<sup>389</sup>
 ---
 
 ## 2020
@@ -442,7 +442,7 @@
 
 
 ### Цветы для Элджернона
-Дэниэл Киз
+Киз, Дэниэл
 
 
 ### Смерть Артемио Круса
