@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>160</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>161</sup>
 ---
 
 ## 2020
+
+### Я робот
+Айзек Азимов
+> [2020-06-28] 
+
 
 ### Как устроен javascript
 Дуглас Крокфорд
