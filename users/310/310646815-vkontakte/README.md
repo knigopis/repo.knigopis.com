@@ -1,7 +1,12 @@
-# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>68</sup>
+# List of books read by [stamovashahzada](http://vk.com/id310646815)<sup>69</sup>
 ---
 
 ## 2020
+
+### Пять четвертинок апельсина
+Джоан Харрис
+> [2020-06-28] 10/10
+
 
 ### Старик и море
 Эрнест Хэмингуэй

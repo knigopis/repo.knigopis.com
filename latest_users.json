@@ -1,4 +1,10 @@
 {
+    "310646815-vkontakte": {
+        "id": "310646815-vkontakte",
+        "nickname": "stamovashahzada",
+        "booksCount": 69,
+        "updatedAt": "2020-06-28 05:18:29"
+    },
     "1067243422-yandex": {
         "id": "1067243422-yandex",
         "nickname": "demo",
@@ -82,12 +88,6 @@
         "nickname": "mfevralev",
         "booksCount": 46,
         "updatedAt": "2020-06-25 11:59:09"
-    },
-    "310646815-vkontakte": {
-        "id": "310646815-vkontakte",
-        "nickname": "stamovashahzada",
-        "booksCount": 68,
-        "updatedAt": "2020-06-25 08:34:55"
     },
     "139338401-vkontakte": {
         "id": "139338401-vkontakte",

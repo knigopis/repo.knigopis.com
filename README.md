@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пять четвертинок апельсина ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup>
+    > 10/10
+
 * Ярость ~ [En](users/333/333646551-vkontakte)<sup>118</sup>
     > И было так: в обычном маленьком городке жил обычный мальчик, не слишком прилежно учившийся в обычной средней школе. И была смертная провинциальная тоска, порождавшая жажду сделать хоть что-нибудь — не важно что — взорвать привычную жизнь, убить или умереть.
     > Однажды — никто не знает почему — мальчик взял с собой в школу оружие, и полилась кровь.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > “Sos and Varditer” novel, 1860. First step brought popularity for the writer.
 
 * Из-за хлеба Հացի խնդիր Issue of Bread ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>18</sup>
-    > Proshyan’s “Issue of Bread” novel was published in 1879, which found its constant place in the history of Armenian realistic novels
 
 * Внутри убийцы ~ [En](users/333/333646551-vkontakte)<sup>117</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Коронавірус. Інструкція з виживання ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>120</sup>
 
-* Искусство быть невидимым ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup> 
 [demo](users/106/1067243422-yandex)<sup>1</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>390</sup> 
 [En](users/333/333646551-vkontakte)<sup>118</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>26</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>85</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>46</sup> 
-[stamovashahzada](users/310/310646815-vkontakte)<sup>68</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>84</sup> 
 [](users/241/2417202-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>120</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [MariaSelv](users/111/111954412181372496903-google)<sup>0</sup> 
 
 
-_27.06.2020 20:55:54_
+_28.06.2020 05:18:29_

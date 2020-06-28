@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пять четвертинок апельсина ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup>
 * Ярость ~ [En](users/333/333646551-vkontakte)<sup>118</sup>
 * Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup>
 * Из-за хлеба Հացի խնդիր Issue of Bread ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>18</sup>
@@ -31,7 +32,6 @@
 * Лев, колдунья и платяной шкаф ~ [Rainbow](users/109/109787328219839805802-google)<sup>51</sup>
 * Книга, которой нет ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>72</sup>
 * Как работает мир, в котором я живу ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>116</sup>
-* Бабушка велела кланяться и передать, что просит прощения ~ [dmiro](users/571/5714115-vkontakte)<sup>28</sup>
 
 
-_27.06.2020 09:55:43_
+_28.06.2020 05:18:29_
