@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/104731829794763834502/)<sup>7</sup>
+# List of books read by [](https://plus.google.com/u/0/104731829794763834502/)<sup>8</sup>
 ---
 
 ## 2020
+
+### Триумфальная арка
+Эрих Мария Ремарк
+> [2020-06-29] 
+
 
 ### Сексуальный интеллект
 Мартин Кляйн

@@ -1,4 +1,16 @@
 {
+    "Fu0TGf9RX3": {
+        "id": "Fu0TGf9RX3",
+        "title": "Триумфальная арка",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2020-06-28 20:22:18",
+        "user": {
+            "id": "104731829794763834502-google",
+            "nickname": null,
+            "booksCount": 8
+        }
+    },
     "itvQzAD9Q5": {
         "id": "itvQzAD9Q5",
         "title": "Москва и москвичи",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 379
-        }
-    },
-    "EeOkfavqu7": {
-        "id": "EeOkfavqu7",
-        "title": "Молот ведьм",
-        "author": "Генрих Крамер и Якоб Шпренгер",
-        "notes": "",
-        "createdAt": "2020-06-27 08:57:13",
-        "user": {
-            "id": "57239276-vkontakte",
-            "nickname": "vladkozz",
-            "booksCount": 69
         }
     }
 }
