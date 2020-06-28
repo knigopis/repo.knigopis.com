@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>391</sup>
+# List of books read by Elixir<sup>392</sup>
 ---
 
 ## 2020
@@ -596,6 +596,10 @@
 
 
 ## Other years
+
+### Москва и москвичи
+Гиляровский, Владимир
+
 
 ### Ребенок и уход за ним
 Спок, Бенджамин

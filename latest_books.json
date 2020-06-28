@@ -1,4 +1,16 @@
 {
+    "itvQzAD9Q5": {
+        "id": "itvQzAD9Q5",
+        "title": "Москва и москвичи",
+        "author": "Гиляровский, Владимир",
+        "notes": "",
+        "createdAt": "2020-06-28 19:01:41",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 392
+        }
+    },
     "Wq1m1ZwbNE": {
         "id": "Wq1m1ZwbNE",
         "title": "Ребенок и уход за ним",
@@ -345,18 +357,6 @@
             "id": "57239276-vkontakte",
             "nickname": "vladkozz",
             "booksCount": 69
-        }
-    },
-    "DSUB6bF66J": {
-        "id": "DSUB6bF66J",
-        "title": "Яма",
-        "author": "Куприн, Александр",
-        "notes": "",
-        "createdAt": "2020-06-27 08:57:01",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 378
         }
     }
 }
