@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Золотой телёнок ~ [kissamasya](users/684/68439978-vkontakte)<sup>91</sup>
 * Десять негритят ~ [fir137](users/176/176805114-yandex)<sup>42</sup>
 * Омоложение ~ [Fenix](users/111/111367585493471720963-google)<sup>5</sup>
 * Пять четвертинок апельсина ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup>
@@ -31,7 +32,6 @@
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>114</sup>
 * Теория зла ~ [En](users/333/333646551-vkontakte)<sup>113</sup>
 * Конь и его мальчик ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
-* Лев, колдунья и платяной шкаф ~ [Rainbow](users/109/109787328219839805802-google)<sup>51</sup>
 
 
-_29.06.2020 12:24:05_
+_29.06.2020 17:48:17_

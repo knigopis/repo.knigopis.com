@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Золотой телёнок ~ [kissamasya](users/684/68439978-vkontakte)<sup>91</sup>
+    > Роман - продолжение "Двенадцати стульев". Несмотря на то, что Остапа Бендера пытались убить, он остался жив и нашел подпольного миллионера Корейко, живущего впроголодь, но скопившего огромную сумму. Отнять миллион непросто, сможет ли Бендер, Паниковский и Шура Балаганов завладеть им?
+
 * Десять негритят ~ [fir137](users/176/176805114-yandex)<sup>42</sup>
     > Условный день, точно не помню, читала по порядку
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга об очистки организма, масла и их применении
 
 * Пять четвертинок апельсина ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup>
-    > 10/10
 
 * Ярость ~ [En](users/333/333646551-vkontakte)<sup>118</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тайна проклятого герцога. Книга 2 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>68</sup>
 
-* Тайна проклятого герцога. Книга 1 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>91</sup> 
 [fir137](users/176/176805114-yandex)<sup>42</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>387</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>162</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>117</sup> 
 [longe_coffee](users/369/369557556-vkontakte)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>56</sup> 
-[dmiro](users/571/5714115-vkontakte)<sup>29</sup> 
 
 
-_29.06.2020 12:24:05_
+_29.06.2020 17:48:17_
