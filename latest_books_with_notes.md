@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Десять негритят ~ [fir137](users/176/176805114-yandex)<sup>42</sup>
 * Омоложение ~ [Fenix](users/111/111367585493471720963-google)<sup>5</sup>
 * Пять четвертинок апельсина ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup>
 * Ярость ~ [En](users/333/333646551-vkontakte)<sup>118</sup>
@@ -31,7 +32,6 @@
 * Теория зла ~ [En](users/333/333646551-vkontakte)<sup>113</sup>
 * Конь и его мальчик ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
 * Лев, колдунья и платяной шкаф ~ [Rainbow](users/109/109787328219839805802-google)<sup>51</sup>
-* Книга, которой нет ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>72</sup>
 
 
-_28.06.2020 09:27:08_
+_29.06.2020 12:24:05_

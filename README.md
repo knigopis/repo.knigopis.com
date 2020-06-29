@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Десять негритят ~ [fir137](users/176/176805114-yandex)<sup>42</sup>
+    > Условный день, точно не помню, читала по порядку
+
 * Омоложение ~ [Fenix](users/111/111367585493471720963-google)<sup>5</sup>
     > Книга об очистки организма, масла и их применении
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * Ярость ~ [En](users/333/333646551-vkontakte)<sup>118</sup>
-    > И было так: в обычном маленьком городке жил обычный мальчик, не слишком прилежно учившийся в обычной средней школе. И была смертная провинциальная тоска, порождавшая жажду сделать хоть что-нибудь — не важно что — взорвать привычную жизнь, убить или умереть.
-    > Однажды — никто не знает почему — мальчик взял с собой в школу оружие, и полилась кровь.
 
 * Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тайна проклятого герцога. Книга 1 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>67</sup>
 
-* Старик и море ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>66</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[fir137](users/176/176805114-yandex)<sup>41</sup> 
+[fir137](users/176/176805114-yandex)<sup>42</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>387</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>162</sup> 
 [](users/104/104731829794763834502-google)<sup>8</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>29</sup> 
 
 
-_29.06.2020 12:11:56_
+_29.06.2020 12:24:05_
