@@ -1,14 +1,11 @@
 {
     "id": "115826717712507836033-google",
-    "nickname": "Elixir",
-    "photo": "https://lh6.googleusercontent.com/-qzgNiceLsyo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckG_qp20j0fGpUrDeLaHsXWfxgLYg/photo.jpg",
-    "profile": false,
+    "profile": "",
     "identity": "https://plus.google.com/u/0/115826717712507836033/",
-    "booksCount": 392,
+    "booksCount": 144,
     "subscriptions": {
-        "381417697-yandex": 37,
-        "1130000004300166-yandex": 17
+        "381417697-yandex": 37
     },
     "createdAt": "2018-03-28 19:20:14",
-    "updatedAt": "2020-06-28 19:01:41"
+    "updatedAt": "2020-06-29 19:12:09"
 }

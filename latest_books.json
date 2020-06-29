@@ -1,4 +1,16 @@
 {
+    "jVcBA9wQQa": {
+        "id": "jVcBA9wQQa",
+        "title": "Когда появляются призраки",
+        "author": "Мезенцев, Владимир",
+        "notes": "",
+        "createdAt": "2020-06-29 19:12:09",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 144
+        }
+    },
     "HPl84a3b-V": {
         "id": "HPl84a3b-V",
         "title": "Золотой телёнок",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 385
-        }
-    },
-    "1twCUV0NcE": {
-        "id": "1twCUV0NcE",
-        "title": "Слепой музыкант",
-        "author": "Короленко, Владимир",
-        "notes": "",
-        "createdAt": "2020-06-27 14:35:47",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 384
         }
     }
 }
