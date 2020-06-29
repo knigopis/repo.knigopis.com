@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[fir137](users/176/176805114-yandex)<sup>40</sup> 
+[fir137](users/176/176805114-yandex)<sup>41</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>387</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>162</sup> 
 [](users/104/104731829794763834502-google)<sup>8</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmiro](users/571/5714115-vkontakte)<sup>29</sup> 
 
 
-_29.06.2020 12:03:22_
+_29.06.2020 12:11:56_
