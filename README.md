@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>387</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>162</sup> 
 [](users/104/104731829794763834502-google)<sup>8</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>392</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [longe_coffee](users/369/369557556-vkontakte)<sup>1</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>56</sup> 
 [dmiro](users/571/5714115-vkontakte)<sup>29</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>49</sup> 
 
 
-_29.06.2020 01:31:52_
+_29.06.2020 06:09:22_

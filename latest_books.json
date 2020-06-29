@@ -1,4 +1,16 @@
 {
+    "WPpc4B0Id5": {
+        "id": "WPpc4B0Id5",
+        "title": "Тёмная башня. Колдун и  Кристалл",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2020-06-29 06:09:22",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 387
+        }
+    },
     "JpX4IxZNoZ": {
         "id": "JpX4IxZNoZ",
         "title": "Занимательная физика",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 381
-        }
-    },
-    "ws-xiALg-Q": {
-        "id": "ws-xiALg-Q",
-        "title": "Гранатовый браслет",
-        "author": "Куприн, Александр",
-        "notes": "",
-        "createdAt": "2020-06-27 08:58:14",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 380
         }
     }
 }

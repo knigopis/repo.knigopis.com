@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 387,
+        "updatedAt": "2020-06-29 06:09:22"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "dmiro",
         "booksCount": 29,
         "updatedAt": "2020-06-21 08:07:22"
-    },
-    "118158645037334943900-google": {
-        "id": "118158645037334943900-google",
-        "nickname": "Антенка",
-        "booksCount": 49,
-        "updatedAt": "2020-06-20 18:19:17"
     }
 }
