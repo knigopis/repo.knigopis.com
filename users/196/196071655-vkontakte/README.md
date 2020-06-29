@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>161</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>162</sup>
 ---
 
 ## 2020
+
+### Занимательная физика
+Яков Перельман
+> [2020-06-29] 
+
 
 ### Я робот
 Айзек Азимов

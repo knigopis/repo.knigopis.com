@@ -1,4 +1,16 @@
 {
+    "JpX4IxZNoZ": {
+        "id": "JpX4IxZNoZ",
+        "title": "Занимательная физика",
+        "author": "Яков Перельман",
+        "notes": "",
+        "createdAt": "2020-06-29 01:31:52",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 162
+        }
+    },
     "Fu0TGf9RX3": {
         "id": "Fu0TGf9RX3",
         "title": "Триумфальная арка",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 380
-        }
-    },
-    "9zB8JLuOcP": {
-        "id": "9zB8JLuOcP",
-        "title": "Молох",
-        "author": "Куприн, Александр",
-        "notes": "",
-        "createdAt": "2020-06-27 08:57:44",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 379
         }
     }
 }
