@@ -1,4 +1,10 @@
 {
+    "176805114-yandex": {
+        "id": "176805114-yandex",
+        "nickname": "fir137",
+        "booksCount": 40,
+        "updatedAt": "2020-06-29 12:03:22"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -22,12 +28,6 @@
         "nickname": "Elixir",
         "booksCount": 392,
         "updatedAt": "2020-06-28 19:01:41"
-    },
-    "176805114-yandex": {
-        "id": "176805114-yandex",
-        "nickname": "fir137",
-        "booksCount": 39,
-        "updatedAt": "2020-06-28 14:46:41"
     },
     "111367585493471720963-google": {
         "id": "111367585493471720963-google",
