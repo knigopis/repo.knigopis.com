@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/115/115826717712507836033-google)<sup>145</sup> 
+[](users/115/115826717712507836033-google)<sup>146</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>91</sup> 
 [fir137](users/176/176805114-yandex)<sup>42</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>387</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>56</sup> 
 
 
-_29.06.2020 19:13:33_
+_29.06.2020 21:51:20_
