@@ -1,7 +1,12 @@
-# List of books read by <sup>149</sup>
+# List of books read by Elixir<sup>150</sup>
 ---
 
 ## 2020
+
+### Тропик рака
+Миллер, Генри
+> [2020-06-30] 
+
 
 ### Шпиль
 Голдинг, Уильям
