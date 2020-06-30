@@ -1,4 +1,16 @@
 {
+    "hvh_IQhTN0": {
+        "id": "hvh_IQhTN0",
+        "title": "Слово о полку Игореве",
+        "author": "Неизвестен",
+        "notes": "",
+        "createdAt": "2020-06-30 08:46:13",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 149
+        }
+    },
     "tP5qDcc_4L": {
         "id": "tP5qDcc_4L",
         "title": "Беглец",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 161
-        }
-    },
-    "5JJNnkldjP": {
-        "id": "5JJNnkldjP",
-        "title": "Пять четвертинок апельсина",
-        "author": "Джоан Харрис",
-        "notes": "10/10",
-        "createdAt": "2020-06-28 05:18:29",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 69
         }
     }
 }
