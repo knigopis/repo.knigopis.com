@@ -1,4 +1,16 @@
 {
+    "TKqbxuunC9": {
+        "id": "TKqbxuunC9",
+        "title": "Vue.js в действии",
+        "author": "Эрик Хэнчетт, Бенджамин Листуон",
+        "notes": "",
+        "createdAt": "2020-06-30 07:13:35",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 163
+        }
+    },
     "vcMNgUJfcB": {
         "id": "vcMNgUJfcB",
         "title": "Формула. Универсальные законы успеха.",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 390
-        }
-    },
-    "rKnWdIUtJn": {
-        "id": "rKnWdIUtJn",
-        "title": "Двадцать четыре часа из жизни женщины",
-        "author": "Цвейг, Стефан",
-        "notes": "",
-        "createdAt": "2020-06-27 14:43:08",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 389
         }
     }
 }

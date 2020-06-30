@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>162</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>163</sup>
 ---
 
 ## 2020
+
+### Vue.js в действии
+Эрик Хэнчетт, Бенджамин Листуон
+> [2020-06-30] 
+
 
 ### Занимательная физика
 Яков Перельман
