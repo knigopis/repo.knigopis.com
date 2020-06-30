@@ -7,3 +7,7 @@
 >   
 > The book contains fiction and essays by Gevorg Ter-Gabrielyan, written in 2012-2017 and partially published in the on-line media.
 
+### `` 1984
+Джордж Оруэлл
+> Copied from me
+
