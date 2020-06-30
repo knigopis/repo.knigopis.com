@@ -1,4 +1,16 @@
 {
+    "nRWy78SlvM": {
+        "id": "nRWy78SlvM",
+        "title": "Княгиня Лиговская",
+        "author": "Лермонтов, Михаил",
+        "notes": "",
+        "createdAt": "2020-06-30 08:40:37",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 147
+        }
+    },
     "TKqbxuunC9": {
         "id": "TKqbxuunC9",
         "title": "Vue.js в действии",
@@ -345,18 +357,6 @@
             "id": "1067243422-yandex",
             "nickname": "demo",
             "booksCount": 1
-        }
-    },
-    "QNqkOGTFNT": {
-        "id": "QNqkOGTFNT",
-        "title": "Письмо незнакомки",
-        "author": "Цвейг, Стефан",
-        "notes": "",
-        "createdAt": "2020-06-27 14:45:20",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 390
         }
     }
 }

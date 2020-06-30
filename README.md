@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115826717712507836033-google)<sup>147</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>163</sup> 
 [youno](users/302/302928912-vkontakte)<sup>49</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>40</sup> 
-[](users/115/115826717712507836033-google)<sup>146</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>91</sup> 
 [fir137](users/176/176805114-yandex)<sup>42</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>387</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>117</sup> 
 
 
-_30.06.2020 07:13:35_
+_30.06.2020 08:40:37_
