@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 49,
+        "updatedAt": "2020-06-30 01:18:52"
+    },
     "58602788-vkontakte": {
         "id": "58602788-vkontakte",
         "nickname": "Dandelion_Wine",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 117,
         "updatedAt": "2020-06-21 23:07:33"
-    },
-    "369557556-vkontakte": {
-        "id": "369557556-vkontakte",
-        "nickname": "longe_coffee",
-        "booksCount": 1,
-        "updatedAt": "2020-06-21 22:50:52"
     }
 }
