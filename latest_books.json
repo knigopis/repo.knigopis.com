@@ -1,4 +1,16 @@
 {
+    "fjC_2_f7e7": {
+        "id": "fjC_2_f7e7",
+        "title": "Фаворит",
+        "author": "Пикуль, Валентин",
+        "notes": "",
+        "createdAt": "2020-06-30 08:49:39",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 150
+        }
+    },
     "hvh_IQhTN0": {
         "id": "hvh_IQhTN0",
         "title": "Слово о полку Игореве",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 126
-        }
-    },
-    "dHABBc1hv4": {
-        "id": "dHABBc1hv4",
-        "title": "Я робот",
-        "author": "Айзек Азимов",
-        "notes": "",
-        "createdAt": "2020-06-28 08:44:16",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 161
         }
     }
 }

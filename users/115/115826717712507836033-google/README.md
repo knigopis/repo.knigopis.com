@@ -1,4 +1,4 @@
-# List of books read by <sup>149</sup>
+# List of books read by <sup>150</sup>
 ---
 
 ## 2020
@@ -596,6 +596,10 @@
 
 
 ## Other years
+
+### Фаворит
+Пикуль, Валентин
+
 
 ### Слово о полку Игореве
 Неизвестен
