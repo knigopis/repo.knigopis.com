@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пятый элифант ~ [Garka](users/115/115753719718250012620-google)<sup>254</sup>
+    > Это шедевр. Убервальд и Ваймс отличное сочетание.
+
 * Формула. Универсальные законы успеха. ~ [youno](users/302/302928912-vkontakte)<sup>49</sup>
     > Полезная книга. 8/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Роман - продолжение "Двенадцати стульев". Несмотря на то, что Остапа Бендера пытались убить, он остался жив и нашел подпольного миллионера Корейко, живущего впроголодь, но скопившего огромную сумму. Отнять миллион непросто, сможет ли Бендер, Паниковский и Шура Балаганов завладеть им?
 
 * Десять негритят ~ [fir137](users/176/176805114-yandex)<sup>42</sup>
-    > Условный день, точно не помню, читала по порядку
 
 * Омоложение ~ [Fenix](users/111/111367585493471720963-google)<sup>5</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Внутри убийцы ~ [En](users/333/333646551-vkontakte)<sup>117</sup>
 
-* Довелесова книга ~ [mfevralev](users/140/140966150-vkontakte)<sup>46</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>254</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>153</sup> 
 [](users/104/104731829794763834502-google)<sup>9</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>27</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>3</sup> 
 [](users/153/1537586159620888-facebook)<sup>20</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>117</sup> 
 
 
-_01.07.2020 14:43:52_
+_01.07.2020 17:39:39_

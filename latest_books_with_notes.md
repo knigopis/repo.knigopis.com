@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пятый элифант ~ [Garka](users/115/115753719718250012620-google)<sup>254</sup>
 * Формула. Универсальные законы успеха. ~ [youno](users/302/302928912-vkontakte)<sup>49</sup>
 * Золотой телёнок ~ [kissamasya](users/684/68439978-vkontakte)<sup>91</sup>
 * Десять негритят ~ [fir137](users/176/176805114-yandex)<sup>42</sup>
@@ -31,7 +32,6 @@
 * Заборонений. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>118</sup>
 * Мелкий бес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>117</sup>
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>114</sup>
-* Теория зла ~ [En](users/333/333646551-vkontakte)<sup>113</sup>
 
 
-_30.06.2020 01:18:52_
+_01.07.2020 17:39:39_
