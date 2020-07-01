@@ -1,4 +1,16 @@
 {
+    "kRWVaYYb1J": {
+        "id": "kRWVaYYb1J",
+        "title": "Внутренняя инженерия. Путь к радости. Практическое руководство от йога.",
+        "author": "Садхгуру",
+        "notes": "",
+        "createdAt": "2020-07-01 13:44:10",
+        "user": {
+            "id": "104731829794763834502-google",
+            "nickname": null,
+            "booksCount": 9
+        }
+    },
     "c8KDgCwrTh": {
         "id": "c8KDgCwrTh",
         "title": "Жизнь и удивительные приключения Робинзона Крузо",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 36
-        }
-    },
-    "HZmBVmlw-z": {
-        "id": "HZmBVmlw-z",
-        "title": "Х или У",
-        "author": "Кристи Агата",
-        "notes": "",
-        "createdAt": "2020-06-28 12:40:04",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 35
         }
     }
 }
