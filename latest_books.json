@@ -1,4 +1,16 @@
 {
+    "wlhKMfxuCL": {
+        "id": "wlhKMfxuCL",
+        "title": "Приключения Шерлока Холмса",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2020-07-01 14:43:51",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 153
+        }
+    },
     "PYhBcG1iN4": {
         "id": "PYhBcG1iN4",
         "title": "Исцели свою жизнь",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 389
-        }
-    },
-    "TlAH9KE1wo": {
-        "id": "TlAH9KE1wo",
-        "title": "Кристи Агата",
-        "author": "Убийство в проходном дворе (сборник)",
-        "notes": "",
-        "createdAt": "2020-06-28 14:46:41",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 39
         }
     }
 }
