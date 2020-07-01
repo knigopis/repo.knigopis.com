@@ -1,4 +1,16 @@
 {
+    "PYhBcG1iN4": {
+        "id": "PYhBcG1iN4",
+        "title": "Исцели свою жизнь",
+        "author": "Хей, Луиза",
+        "notes": "",
+        "createdAt": "2020-07-01 14:39:23",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 152
+        }
+    },
     "YQjJnLfc6t": {
         "id": "YQjJnLfc6t",
         "title": "Как перестать беспокоиться и начать жить",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 39
-        }
-    },
-    "Jo1jtcLdS6": {
-        "id": "Jo1jtcLdS6",
-        "title": "Испытание невиновностью",
-        "author": "Кристи Агата",
-        "notes": "",
-        "createdAt": "2020-06-28 13:00:10",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 38
         }
     }
 }
