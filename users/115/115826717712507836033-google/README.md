@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>150</sup>
+# List of books read by Elixir<sup>151</sup>
 ---
 
 ## 2020
@@ -601,6 +601,10 @@
 
 
 ## Other years
+
+### Как перестать беспокоиться и начать жить
+Карнеги, Дейл
+
 
 ### Фаворит
 Пикуль, Валентин
