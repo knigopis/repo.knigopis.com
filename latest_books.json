@@ -1,4 +1,16 @@
 {
+    "HNGFv3PE9m": {
+        "id": "HNGFv3PE9m",
+        "title": "Просто космос. Практикум по Agile-жизни",
+        "author": "Катерина Ленгольд",
+        "notes": "",
+        "createdAt": "2020-07-01 13:45:30",
+        "user": {
+            "id": "104731829794763834502-google",
+            "nickname": null,
+            "booksCount": 10
+        }
+    },
     "kRWVaYYb1J": {
         "id": "kRWVaYYb1J",
         "title": "Внутренняя инженерия. Путь к радости. Практическое руководство от йога.",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 37
-        }
-    },
-    "FGV8Nw6WLR": {
-        "id": "FGV8Nw6WLR",
-        "title": "Берег удачи",
-        "author": "Кристи Агата",
-        "notes": "",
-        "createdAt": "2020-06-28 12:40:31",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 36
         }
     }
 }

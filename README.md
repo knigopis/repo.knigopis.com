@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/104/104731829794763834502-google)<sup>9</sup> 
+[](users/104/104731829794763834502-google)<sup>10</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>27</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>41</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>150</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>117</sup> 
 
 
-_01.07.2020 13:44:10_
+_01.07.2020 13:45:30_
