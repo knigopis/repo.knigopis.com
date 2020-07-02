@@ -1,4 +1,10 @@
 {
+    "217891524-vkontakte": {
+        "id": "217891524-vkontakte",
+        "nickname": "lostinfrost",
+        "booksCount": 170,
+        "updatedAt": "2020-07-02 11:39:29"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "~ARHANGEL~",
         "booksCount": 61,
         "updatedAt": "2020-06-22 16:52:07"
-    },
-    "110080946273609412257-google": {
-        "id": "110080946273609412257-google",
-        "nickname": "gray7wand",
-        "booksCount": 3,
-        "updatedAt": "2020-06-22 10:55:31"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "8X3vKy6Rn3": {
+        "id": "8X3vKy6Rn3",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-07-02 11:39:28",
+        "user": {
+            "id": "217891524-vkontakte",
+            "nickname": "lostinfrost",
+            "booksCount": 170
+        }
+    },
     "ornwnNEZQY": {
         "id": "ornwnNEZQY",
         "title": "Дом из зеленого стекла",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 387
-        }
-    },
-    "JpX4IxZNoZ": {
-        "id": "JpX4IxZNoZ",
-        "title": "Занимательная физика",
-        "author": "Яков Перельман",
-        "notes": "",
-        "createdAt": "2020-06-29 01:31:52",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 162
         }
     }
 }

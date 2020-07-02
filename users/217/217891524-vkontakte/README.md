@@ -1,7 +1,10 @@
-# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>169</sup>
+# List of books read by [lostinfrost](http://vk.com/id217891524)<sup>170</sup>
 ---
 
 ## 2020
+
+> [2020-06-25] 
+
 
 ### Город Праха
 Кассандра Клэр
