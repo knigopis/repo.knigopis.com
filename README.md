@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>168</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>164</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>155</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>254</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>51</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>3</sup> 
-[](users/153/1537586159620888-facebook)<sup>20</sup> 
 
 
-_02.07.2020 09:44:54_
+_02.07.2020 10:55:32_

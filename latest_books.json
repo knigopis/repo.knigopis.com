@@ -1,4 +1,16 @@
 {
+    "ornwnNEZQY": {
+        "id": "ornwnNEZQY",
+        "title": "Дом из зеленого стекла",
+        "author": "Кейт милфорд",
+        "notes": "",
+        "createdAt": "2020-07-02 10:55:32",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 168
+        }
+    },
     "GA3s6YjRn9": {
         "id": "GA3s6YjRn9",
         "title": "Введение в ESMAScript 6 - 2016",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 162
-        }
-    },
-    "Fu0TGf9RX3": {
-        "id": "Fu0TGf9RX3",
-        "title": "Триумфальная арка",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2020-06-28 20:22:18",
-        "user": {
-            "id": "104731829794763834502-google",
-            "nickname": null,
-            "booksCount": 8
         }
     }
 }
