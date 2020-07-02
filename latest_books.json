@@ -1,4 +1,16 @@
 {
+    "iESIabDOD2": {
+        "id": "iESIabDOD2",
+        "title": "Ёбург",
+        "author": "А. Иванов",
+        "notes": "",
+        "createdAt": "2020-07-02 14:19:45",
+        "user": {
+            "id": "117392596378069249667-google",
+            "nickname": "4apa",
+            "booksCount": 52
+        }
+    },
     "8X3vKy6Rn3": {
         "id": "8X3vKy6Rn3",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 40
-        }
-    },
-    "WPpc4B0Id5": {
-        "id": "WPpc4B0Id5",
-        "title": "Тёмная башня. Колдун и  Кристалл",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2020-06-29 06:09:22",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 387
         }
     }
 }
