@@ -1,4 +1,16 @@
 {
+    "GA3s6YjRn9": {
+        "id": "GA3s6YjRn9",
+        "title": "Введение в ESMAScript 6 - 2016",
+        "author": "Нараян Прасти",
+        "notes": "",
+        "createdAt": "2020-07-02 09:44:54",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 164
+        }
+    },
     "73EWwGv7zk": {
         "id": "73EWwGv7zk",
         "title": "Бедная Лиза",
@@ -345,18 +357,6 @@
             "id": "104731829794763834502-google",
             "nickname": null,
             "booksCount": 8
-        }
-    },
-    "itvQzAD9Q5": {
-        "id": "itvQzAD9Q5",
-        "title": "Москва и москвичи",
-        "author": "Гиляровский, Владимир",
-        "notes": "",
-        "createdAt": "2020-06-28 19:01:41",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 392
         }
     }
 }

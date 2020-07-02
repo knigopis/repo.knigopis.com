@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>163</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>164</sup>
 ---
 
 ## 2020
+
+### Введение в ESMAScript 6 - 2016
+Нараян Прасти
+> [2020-07-02] 
+
 
 ### Vue.js в действии
 Эрик Хэнчетт, Бенджамин Листуон

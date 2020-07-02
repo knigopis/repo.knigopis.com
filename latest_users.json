@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 164,
+        "updatedAt": "2020-07-02 09:44:54"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": "Elixir",
@@ -28,12 +34,6 @@
         "nickname": "Dandelion_Wine",
         "booksCount": 41,
         "updatedAt": "2020-06-30 12:58:51"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 163,
-        "updatedAt": "2020-06-30 07:13:35"
     },
     "302928912-vkontakte": {
         "id": "302928912-vkontakte",

@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>164</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>155</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>254</sup> 
 [](users/104/104731829794763834502-google)<sup>9</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>27</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>41</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>163</sup> 
 [youno](users/302/302928912-vkontakte)<sup>49</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>91</sup> 
 [fir137](users/176/176805114-yandex)<sup>42</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>20</sup> 
 
 
-_02.07.2020 09:08:46_
+_02.07.2020 09:44:54_
