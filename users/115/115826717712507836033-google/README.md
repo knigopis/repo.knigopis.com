@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>155</sup>
+# List of books read by Elixir<sup>154</sup>
 ---
 
 ## 2020
@@ -597,10 +597,6 @@
 
 
 ## Other years
-
-### Горе от ума
-Грибоедов, Александр
-
 
 ### Недоросль
 Фонвизин, Дмитрий
