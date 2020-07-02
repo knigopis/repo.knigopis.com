@@ -1,4 +1,16 @@
 {
+    "L7HUt89j2B": {
+        "id": "L7HUt89j2B",
+        "title": "Шаг за шагом к достижению цели. Метод кайдзен",
+        "author": "Роберт Маурер",
+        "notes": "",
+        "createdAt": "2020-07-02 14:36:34",
+        "user": {
+            "id": "2096581563762610-facebook",
+            "nickname": "Таньчик",
+            "booksCount": 86
+        }
+    },
     "iESIabDOD2": {
         "id": "iESIabDOD2",
         "title": "Ёбург",
@@ -345,18 +357,6 @@
             "id": "176805114-yandex",
             "nickname": "fir137",
             "booksCount": 41
-        }
-    },
-    "YcmHv1mPAk": {
-        "id": "YcmHv1mPAk",
-        "title": "Свидание со смертью",
-        "author": "Кристи Агата",
-        "notes": "",
-        "createdAt": "2020-06-29 12:03:22",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 40
         }
     }
 }

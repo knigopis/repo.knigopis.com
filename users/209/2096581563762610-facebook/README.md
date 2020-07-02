@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>85</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>86</sup>
 ---
 
 ## 2020
+
+### Шаг за шагом к достижению цели. Метод кайдзен
+Роберт Маурер
+> [2020-06-28] 
+
 
 ### Как привести дела в порядок
 Дэвид Аллен
