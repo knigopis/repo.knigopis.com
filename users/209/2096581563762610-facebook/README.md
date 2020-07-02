@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>86</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>87</sup>
 ---
 
 ## 2020
+
+### Вы хотите поговорить об этом?
+Лори Готтлиб
+> [2020-07-02] 
+
 
 ### Шаг за шагом к достижению цели. Метод кайдзен
 Роберт Маурер

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Таньчик](users/209/2096581563762610-facebook)<sup>86</sup> 
+[Таньчик](users/209/2096581563762610-facebook)<sup>87</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>52</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>170</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>168</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup> 
 
 
-_02.07.2020 14:36:34_
+_02.07.2020 14:37:17_
