@@ -1,4 +1,16 @@
 {
+    "coUvKoQHdw": {
+        "id": "coUvKoQHdw",
+        "title": "Отступник. Темный эльф - 1",
+        "author": "Роберт Сальваторе",
+        "notes": "",
+        "createdAt": "2020-07-02 15:04:24",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 110
+        }
+    },
     "gP1NKEg1NH": {
         "id": "gP1NKEg1NH",
         "title": "Вы хотите поговорить об этом?",
@@ -345,18 +357,6 @@
             "id": "68439978-vkontakte",
             "nickname": "kissamasya",
             "booksCount": 91
-        }
-    },
-    "-b1_2oTZCT": {
-        "id": "-b1_2oTZCT",
-        "title": "Десять негритят",
-        "author": "Кристи Агата",
-        "notes": "Условный день, точно не помню, читала по порядку",
-        "createdAt": "2020-06-29 12:24:05",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 42
         }
     }
 }

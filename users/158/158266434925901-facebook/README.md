@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>109</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>110</sup>
 ---
 
 ## 2020
+
+### Отступник. Темный эльф - 1
+Роберт Сальваторе
+> [2020-07-02] 
+
 
 ### Страна радости
 Стивен Кинг

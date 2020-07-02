@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>110</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>87</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>52</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>170</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [velverie](users/173/173628445-vkontakte)<sup>0</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>80</sup> 
 [sodomorgan](users/101/101526240567453573875-google)<sup>0</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>109</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>46</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>84</sup> 
 [](users/241/2417202-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup> 
 
 
-_02.07.2020 14:37:17_
+_02.07.2020 15:04:24_
