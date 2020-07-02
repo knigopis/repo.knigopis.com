@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Elixir](users/115/115826717712507836033-google)<sup>155</sup> 
+[Elixir](users/115/115826717712507836033-google)<sup>154</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>254</sup> 
 [](users/104/104731829794763834502-google)<sup>9</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>27</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/153/1537586159620888-facebook)<sup>20</sup> 
 
 
-_02.07.2020 09:06:38_
+_02.07.2020 09:07:12_
