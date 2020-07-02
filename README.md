@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Договориться можно обо всем! ~ [Garka](users/115/115753719718250012620-google)<sup>255</sup>
+    > На удивление хорошая книга. Очень доходчиво указывает на ошибки в переговорах. Причём советы автора будут полезны не только при заключение многомиллиардных сделок, но и при продажи/покупки каких-то б/у вещей.
+
 * Пятый элифант ~ [Garka](users/115/115753719718250012620-google)<sup>254</sup>
     > Это шедевр. Убервальд и Ваймс отличное сочетание.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Полезная книга. 8/10
 
 * Золотой телёнок ~ [kissamasya](users/684/68439978-vkontakte)<sup>91</sup>
-    > Роман - продолжение "Двенадцати стульев". Несмотря на то, что Остапа Бендера пытались убить, он остался жив и нашел подпольного миллионера Корейко, живущего впроголодь, но скопившего огромную сумму. Отнять миллион непросто, сможет ли Бендер, Паниковский и Шура Балаганов завладеть им?
 
 * Десять негритят ~ [fir137](users/176/176805114-yandex)<sup>42</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Из-за хлеба Հացի խնդիր Issue of Bread ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>18</sup>
 
-* Внутри убийцы ~ [En](users/333/333646551-vkontakte)<sup>117</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>255</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>110</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>87</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>52</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>168</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>164</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>155</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>254</sup> 
 [](users/104/104731829794763834502-google)<sup>9</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>27</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>41</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup> 
 
 
-_02.07.2020 15:04:24_
+_02.07.2020 18:25:37_

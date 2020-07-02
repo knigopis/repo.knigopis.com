@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Договориться можно обо всем! ~ [Garka](users/115/115753719718250012620-google)<sup>255</sup>
 * Пятый элифант ~ [Garka](users/115/115753719718250012620-google)<sup>254</sup>
 * Формула. Универсальные законы успеха. ~ [youno](users/302/302928912-vkontakte)<sup>49</sup>
 * Золотой телёнок ~ [kissamasya](users/684/68439978-vkontakte)<sup>91</sup>
@@ -31,7 +32,6 @@
 * Принц Каспиан ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
 * Заборонений. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>118</sup>
 * Мелкий бес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>117</sup>
-* Машина времени ~ [En](users/333/333646551-vkontakte)<sup>114</sup>
 
 
-_01.07.2020 17:39:39_
+_02.07.2020 18:25:37_
