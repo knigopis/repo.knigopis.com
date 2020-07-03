@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>159</sup>
+# List of books read by Elixir<sup>160</sup>
 ---
 
 ## 2020
@@ -597,6 +597,10 @@
 
 
 ## Other years
+
+### Кремлевские жены
+Васильева, Лариса
+
 
 ### Айвенго
 Скотт, Вальтер

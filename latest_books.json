@@ -1,4 +1,16 @@
 {
+    "KeXK4Q9dQt": {
+        "id": "KeXK4Q9dQt",
+        "title": "Кремлевские жены",
+        "author": "Васильева, Лариса",
+        "notes": "",
+        "createdAt": "2020-07-03 10:26:41",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 160
+        }
+    },
     "d2niVXwCGn": {
         "id": "d2niVXwCGn",
         "title": "Айвенго",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 163
-        }
-    },
-    "vcMNgUJfcB": {
-        "id": "vcMNgUJfcB",
-        "title": "Формула. Универсальные законы успеха.",
-        "author": "Альберт-Ласло Барабаши",
-        "notes": "Полезная книга. 8/10",
-        "createdAt": "2020-06-30 01:18:52",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 49
         }
     }
 }
