@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dreamer12](users/103/103531377167120997573-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>193</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>166</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>388</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>46</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>84</sup> 
 [](users/241/2417202-vkontakte)<sup>0</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>120</sup> 
 
 
-_03.07.2020 18:15:48_
+_03.07.2020 19:19:45_
