@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хозяйка лабиринта ~ [Chiffi](users/105/105831994080785626680-google)<sup>193</sup>
+    > книга про шпионов, войну и людей. почему-то очень долго и сложно читалась((
+
 * Записки о Шерлоке Холмсе ~ [Sky](users/118/118049897850017649660-google)<sup>169</sup>
     > Морской договор
     > Голубой карбункул
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > На удивление хорошая книга. Очень доходчиво указывает на ошибки в переговорах. Причём советы автора будут полезны не только при заключение многомиллиардных сделок, но и при продажи/покупки каких-то б/у вещей.
 
 * Пятый элифант ~ [Garka](users/115/115753719718250012620-google)<sup>254</sup>
-    > Это шедевр. Убервальд и Ваймс отличное сочетание.
 
 * Формула. Универсальные законы успеха. ~ [youno](users/302/302928912-vkontakte)<sup>49</sup>
 
@@ -31,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Ярость ~ [En](users/333/333646551-vkontakte)<sup>118</sup>
 
-* Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>193</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>166</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>388</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>169</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>84</sup> 
 [](users/241/2417202-vkontakte)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>120</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup> 
 
 
-_03.07.2020 15:13:34_
+_03.07.2020 18:15:48_

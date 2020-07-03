@@ -1,4 +1,16 @@
 {
+    "ahgiUcJjVz": {
+        "id": "ahgiUcJjVz",
+        "title": "Хозяйка лабиринта",
+        "author": "Аткинсон Кейт",
+        "notes": "книга про шпионов, войну и людей. почему-то очень долго и сложно читалась((",
+        "createdAt": "2020-07-03 18:15:48",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 193
+        }
+    },
     "zt2Phro4LF": {
         "id": "zt2Phro4LF",
         "title": "Вам и не снилось",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 151
-        }
-    },
-    "HNGFv3PE9m": {
-        "id": "HNGFv3PE9m",
-        "title": "Просто космос. Практикум по Agile-жизни",
-        "author": "Катерина Ленгольд",
-        "notes": "",
-        "createdAt": "2020-07-01 13:45:30",
-        "user": {
-            "id": "104731829794763834502-google",
-            "nickname": null,
-            "booksCount": 10
         }
     }
 }
