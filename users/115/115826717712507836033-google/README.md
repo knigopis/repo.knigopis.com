@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>165</sup>
+# List of books read by Elixir<sup>164</sup>
 ---
 
 ## 2020
@@ -1100,10 +1100,6 @@
 
 ### Вишневый сад
 Чехов, Антон
-
-
-### На дне
-Горький, Максим
 
 
 ### Обыкновенная история
