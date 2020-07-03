@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Dreamer12](users/103/103531377167120997573-google)<sup>0</sup> 
+[Dreamer12](users/103/103531377167120997573-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>193</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>166</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>388</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/241/2417202-vkontakte)<sup>0</sup> 
 
 
-_03.07.2020 19:19:45_
+_03.07.2020 19:21:33_

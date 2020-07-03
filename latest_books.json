@@ -1,4 +1,16 @@
 {
+    "vvkR3fZTxx": {
+        "id": "vvkR3fZTxx",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2020-07-03 19:21:33",
+        "user": {
+            "id": "103531377167120997573-google",
+            "nickname": "Dreamer12",
+            "booksCount": 1
+        }
+    },
     "ahgiUcJjVz": {
         "id": "ahgiUcJjVz",
         "title": "Хозяйка лабиринта",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 152
-        }
-    },
-    "YQjJnLfc6t": {
-        "id": "YQjJnLfc6t",
-        "title": "Как перестать беспокоиться и начать жить",
-        "author": "Карнеги, Дейл",
-        "notes": "",
-        "createdAt": "2020-07-01 14:37:30",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 151
         }
     }
 }
