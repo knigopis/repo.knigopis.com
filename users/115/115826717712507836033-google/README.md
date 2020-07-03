@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>160</sup>
+# List of books read by Elixir<sup>161</sup>
 ---
 
 ## 2020
@@ -597,6 +597,10 @@
 
 
 ## Other years
+
+### Весёлый мудрец
+Привалов, Борис
+
 
 ### Кремлевские жены
 Васильева, Лариса
