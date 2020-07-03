@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Записки о Шерлоке Холмсе ~ [Sky](users/118/118049897850017649660-google)<sup>169</sup>
 * Договориться можно обо всем! ~ [Garka](users/115/115753719718250012620-google)<sup>255</sup>
 * Пятый элифант ~ [Garka](users/115/115753719718250012620-google)<sup>254</sup>
 * Формула. Универсальные законы успеха. ~ [youno](users/302/302928912-vkontakte)<sup>49</sup>
@@ -31,7 +32,6 @@
 * Азазель ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>65</sup>
 * Принц Каспиан ~ [Rainbow](users/109/109787328219839805802-google)<sup>52</sup>
 * Заборонений. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>118</sup>
-* Мелкий бес ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>117</sup>
 
 
-_02.07.2020 18:25:37_
+_03.07.2020 07:07:56_

@@ -5,6 +5,14 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Записки о Шерлоке Холмсе ~ [Sky](users/118/118049897850017649660-google)<sup>169</sup>
+    > Морской договор
+    > Голубой карбункул
+    > Медные буки
+    > Последнее дело Холмса
+    > Пустой дом
+    > Черный Питер
+
 * Договориться можно обо всем! ~ [Garka](users/115/115753719718250012620-google)<sup>255</sup>
     > На удивление хорошая книга. Очень доходчиво указывает на ошибки в переговорах. Причём советы автора будут полезны не только при заключение многомиллиардных сделок, но и при продажи/покупки каких-то б/у вещей.
 
@@ -12,7 +20,6 @@ Do not use pull requests to make changes here.
     > Это шедевр. Убервальд и Ваймс отличное сочетание.
 
 * Формула. Универсальные законы успеха. ~ [youno](users/302/302928912-vkontakte)<sup>49</sup>
-    > Полезная книга. 8/10
 
 * Золотой телёнок ~ [kissamasya](users/684/68439978-vkontakte)<sup>91</sup>
 
@@ -26,19 +33,17 @@ Do not use pull requests to make changes here.
 
 * Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup>
 
-* Из-за хлеба Հացի խնդիր Issue of Bread ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>169</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>255</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>110</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>87</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>52</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>170</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>168</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>164</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>155</sup> 
 [](users/104/104731829794763834502-google)<sup>9</sup> 
@@ -65,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup> 
 
 
-_02.07.2020 18:25:37_
+_03.07.2020 07:07:56_
