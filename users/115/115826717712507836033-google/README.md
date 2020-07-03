@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>163</sup>
+# List of books read by Elixir<sup>164</sup>
 ---
 
 ## 2020
@@ -597,6 +597,10 @@
 
 
 ## Other years
+
+### Исповедь любовницы Сталина
+Гендлин, Леонард
+
 
 ### Кюхля
 Тынянов, Юрий

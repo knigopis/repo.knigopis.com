@@ -1,4 +1,16 @@
 {
+    "wJvzeQM5Ye": {
+        "id": "wJvzeQM5Ye",
+        "title": "Исповедь любовницы Сталина",
+        "author": "Гендлин, Леонард",
+        "notes": "",
+        "createdAt": "2020-07-03 10:36:50",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": "Elixir",
+            "booksCount": 164
+        }
+    },
     "ab7_hSFeXl": {
         "id": "ab7_hSFeXl",
         "title": "Кюхля",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 150
-        }
-    },
-    "hvh_IQhTN0": {
-        "id": "hvh_IQhTN0",
-        "title": "Слово о полку Игореве",
-        "author": "Неизвестен",
-        "notes": "",
-        "createdAt": "2020-06-30 08:46:13",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 149
         }
     }
 }
