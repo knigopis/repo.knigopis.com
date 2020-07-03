@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>164</sup>
+# List of books read by Elixir<sup>165</sup>
 ---
 
 ## 2020
@@ -597,6 +597,10 @@
 
 
 ## Other years
+
+### Кремлевские жены
+Васильева, Лариса
+
 
 ### Исповедь любовницы Сталина
 Гендлин, Леонард
