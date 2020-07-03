@@ -1,4 +1,16 @@
 {
+    "XH12DmGzay": {
+        "id": "XH12DmGzay",
+        "title": "Тёмная башня. Ветер сквозь замочную скважину",
+        "author": "Стивен кинг",
+        "notes": "",
+        "createdAt": "2020-07-03 10:43:21",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 388
+        }
+    },
     "wJvzeQM5Ye": {
         "id": "wJvzeQM5Ye",
         "title": "Исповедь любовницы Сталина",
@@ -344,18 +356,6 @@
         "user": {
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
-            "booksCount": 150
-        }
-    },
-    "fjC_2_f7e7": {
-        "id": "fjC_2_f7e7",
-        "title": "Фаворит",
-        "author": "Пикуль, Валентин",
-        "notes": "",
-        "createdAt": "2020-06-30 08:49:39",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
             "booksCount": 150
         }
     }
