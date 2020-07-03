@@ -1,4 +1,4 @@
-# List of books read by Elixir<sup>155</sup>
+# List of books read by Elixir<sup>156</sup>
 ---
 
 ## 2020
@@ -597,6 +597,10 @@
 
 
 ## Other years
+
+### Очерки бурсы
+Помяловский, Николай
+
 
 ### Бедная Лиза
 Карамзин, Николай
