@@ -1,4 +1,16 @@
 {
+    "WkGdmW1xN0": {
+        "id": "WkGdmW1xN0",
+        "title": "Географ глобус пропил",
+        "author": "Алексей Викторович Иванов",
+        "notes": "",
+        "createdAt": "2020-07-04 11:55:35",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 31
+        }
+    },
     "xPtm3Zmgqq": {
         "id": "xPtm3Zmgqq",
         "title": "Хирургия",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 164
-        }
-    },
-    "73EWwGv7zk": {
-        "id": "73EWwGv7zk",
-        "title": "Бедная Лиза",
-        "author": "Карамзин, Николай",
-        "notes": "",
-        "createdAt": "2020-07-02 09:08:45",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 155
         }
     }
 }
