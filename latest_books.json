@@ -1,4 +1,16 @@
 {
+    "qK7Z3Mdb8k": {
+        "id": "qK7Z3Mdb8k",
+        "title": "Просто космос. Практикум по Agile-жизни",
+        "author": "Катерина Ленгольд",
+        "notes": "",
+        "createdAt": "2020-07-04 13:55:58",
+        "user": {
+            "id": "104731829794763834502-google",
+            "nickname": null,
+            "booksCount": 12
+        }
+    },
     "LvPYc2oKq2": {
         "id": "LvPYc2oKq2",
         "title": "Радикальное прощение",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 87
-        }
-    },
-    "L7HUt89j2B": {
-        "id": "L7HUt89j2B",
-        "title": "Шаг за шагом к достижению цели. Метод кайдзен",
-        "author": "Роберт Маурер",
-        "notes": "",
-        "createdAt": "2020-07-02 14:36:34",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 86
         }
     }
 }
