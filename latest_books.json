@@ -1,4 +1,16 @@
 {
+    "21666YKkTL": {
+        "id": "21666YKkTL",
+        "title": "Becoming",
+        "author": "Мишель Обама",
+        "notes": "",
+        "createdAt": "2020-07-04 13:55:27",
+        "user": {
+            "id": "104731829794763834502-google",
+            "nickname": null,
+            "booksCount": 10
+        }
+    },
     "Jll5mn19Ja": {
         "id": "Jll5mn19Ja",
         "title": "Правда о деле Гарри Квеберта",
@@ -345,18 +357,6 @@
             "id": "117392596378069249667-google",
             "nickname": "4apa",
             "booksCount": 52
-        }
-    },
-    "8X3vKy6Rn3": {
-        "id": "8X3vKy6Rn3",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2020-07-02 11:39:28",
-        "user": {
-            "id": "217891524-vkontakte",
-            "nickname": "lostinfrost",
-            "booksCount": 170
         }
     }
 }
