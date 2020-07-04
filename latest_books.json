@@ -1,4 +1,16 @@
 {
+    "PJfvOYgIXq": {
+        "id": "PJfvOYgIXq",
+        "title": "Волшебник Земноморья",
+        "author": "Урсула Ле Гуин",
+        "notes": "Волшебник Земноморья\nГробницы Атуана\nНа последнем берегу\nОсвобождающее заклятие\nПравило имен",
+        "createdAt": "2020-07-04 20:35:54",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 170
+        }
+    },
     "qK7Z3Mdb8k": {
         "id": "qK7Z3Mdb8k",
         "title": "Просто космос. Практикум по Agile-жизни",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 110
-        }
-    },
-    "gP1NKEg1NH": {
-        "id": "gP1NKEg1NH",
-        "title": "Вы хотите поговорить об этом?",
-        "author": "Лори Готтлиб",
-        "notes": "",
-        "createdAt": "2020-07-02 14:37:17",
-        "user": {
-            "id": "2096581563762610-facebook",
-            "nickname": "Таньчик",
-            "booksCount": 87
         }
     }
 }

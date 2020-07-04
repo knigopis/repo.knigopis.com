@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Волшебник Земноморья ~ [Sky](users/118/118049897850017649660-google)<sup>170</sup>
 * Правда о деле Гарри Квеберта ~ [En](users/333/333646551-vkontakte)<sup>119</sup>
 * Хозяйка лабиринта ~ [Chiffi](users/105/105831994080785626680-google)<sup>193</sup>
 * Записки о Шерлоке Холмсе ~ [Sky](users/118/118049897850017649660-google)<sup>169</sup>
@@ -31,7 +32,6 @@
 * Последняя битва ~ [Rainbow](users/109/109787328219839805802-google)<sup>55</sup>
 * Пустой дом. Карусель ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>38</sup>
 * Серебряное кресло ~ [Rainbow](users/109/109787328219839805802-google)<sup>54</sup>
-* Азазель ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>65</sup>
 
 
-_04.07.2020 13:18:34_
+_04.07.2020 20:35:54_

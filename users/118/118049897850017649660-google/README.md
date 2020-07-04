@@ -1,7 +1,16 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>169</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>170</sup>
 ---
 
 ## 2020
+
+### Волшебник Земноморья
+Урсула Ле Гуин
+> [2020-07-04] Волшебник Земноморья
+> Гробницы Атуана
+> На последнем берегу
+> Освобождающее заклятие
+> Правило имен
+
 
 ### Записки о Шерлоке Холмсе
 Артур Конан Дойль
