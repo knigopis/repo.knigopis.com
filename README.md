@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>50</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>154</sup> 
 [Dreamer12](users/103/103531377167120997573-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>193</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sodomorgan](users/101/101526240567453573875-google)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>46</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>84</sup> 
-[](users/241/2417202-vkontakte)<sup>0</sup> 
 
 
-_04.07.2020 04:21:42_
+_04.07.2020 05:51:06_
