@@ -1,4 +1,16 @@
 {
+    "Zk1dkGJU4t": {
+        "id": "Zk1dkGJU4t",
+        "title": "Как быть стоиком",
+        "author": "Массимо Пильюччи",
+        "notes": "",
+        "createdAt": "2020-07-04 04:21:42",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 154
+        }
+    },
     "vvkR3fZTxx": {
         "id": "vvkR3fZTxx",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 153
-        }
-    },
-    "PYhBcG1iN4": {
-        "id": "PYhBcG1iN4",
-        "title": "Исцели свою жизнь",
-        "author": "Хей, Луиза",
-        "notes": "",
-        "createdAt": "2020-07-01 14:39:23",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 152
         }
     }
 }
