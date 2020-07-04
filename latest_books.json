@@ -1,4 +1,16 @@
 {
+    "oievUjXJB3": {
+        "id": "oievUjXJB3",
+        "title": "Чайка по имени Джонатан Ливингстон",
+        "author": "Ричард Бах",
+        "notes": "",
+        "createdAt": "2020-07-04 11:56:18",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 32
+        }
+    },
     "WkGdmW1xN0": {
         "id": "WkGdmW1xN0",
         "title": "Географ глобус пропил",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 168
-        }
-    },
-    "GA3s6YjRn9": {
-        "id": "GA3s6YjRn9",
-        "title": "Введение в ESMAScript 6 - 2016",
-        "author": "Нараян Прасти",
-        "notes": "",
-        "createdAt": "2020-07-02 09:44:54",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 164
         }
     }
 }
