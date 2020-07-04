@@ -1,4 +1,16 @@
 {
+    "LvPYc2oKq2": {
+        "id": "LvPYc2oKq2",
+        "title": "Радикальное прощение",
+        "author": "Колин Типпинг",
+        "notes": "",
+        "createdAt": "2020-07-04 13:55:42",
+        "user": {
+            "id": "104731829794763834502-google",
+            "nickname": null,
+            "booksCount": 11
+        }
+    },
     "21666YKkTL": {
         "id": "21666YKkTL",
         "title": "Becoming",
@@ -345,18 +357,6 @@
             "id": "2096581563762610-facebook",
             "nickname": "Таньчик",
             "booksCount": 86
-        }
-    },
-    "iESIabDOD2": {
-        "id": "iESIabDOD2",
-        "title": "Ёбург",
-        "author": "А. Иванов",
-        "notes": "",
-        "createdAt": "2020-07-02 14:19:45",
-        "user": {
-            "id": "117392596378069249667-google",
-            "nickname": "4apa",
-            "booksCount": 52
         }
     }
 }

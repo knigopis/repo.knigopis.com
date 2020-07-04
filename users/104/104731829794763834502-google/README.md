@@ -1,7 +1,12 @@
-# List of books read by [](https://plus.google.com/u/0/104731829794763834502/)<sup>10</sup>
+# List of books read by [](https://plus.google.com/u/0/104731829794763834502/)<sup>11</sup>
 ---
 
 ## 2020
+
+### Радикальное прощение
+Колин Типпинг
+> [2020-07-04] 
+
 
 ### Becoming
 Мишель Обама
