@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tavor](users/107/107548900280182613163-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>53</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>33</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleks](users/117/117835844513813219393-google)<sup>80</sup> 
 [sodomorgan](users/101/101526240567453573875-google)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>46</sup> 
-[sab_olya](users/139/139338401-vkontakte)<sup>84</sup> 
 
 
-_05.07.2020 15:54:15_
+_05.07.2020 18:51:54_
