@@ -1,7 +1,12 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>4</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>5</sup>
 ---
 
 ## 2020
+
+### Полный набор: Месть темной эльфийки
+Князев Милослав
+> [2020-07-06] 7/10
+
 
 ### Практическая демонология
 Елена Кароль
