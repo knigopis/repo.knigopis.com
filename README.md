@@ -37,10 +37,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>170</sup> 
 [](users/104/104731829794763834502-google)<sup>12</sup> 
 [En](users/333/333646551-vkontakte)<sup>119</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>32</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>50</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>154</sup> 
 [Dreamer12](users/103/103531377167120997573-google)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>84</sup> 
 
 
-_04.07.2020 20:35:54_
+_05.07.2020 12:18:26_

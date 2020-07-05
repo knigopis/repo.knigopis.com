@@ -1,4 +1,16 @@
 {
+    "8rWNB4K4N7": {
+        "id": "8rWNB4K4N7",
+        "title": "Хорь и Калиныч",
+        "author": "Иван Сергеевич Тургенев",
+        "notes": "",
+        "createdAt": "2020-07-05 12:18:26",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 33
+        }
+    },
     "PJfvOYgIXq": {
         "id": "PJfvOYgIXq",
         "title": "Волшебник Земноморья",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 255
-        }
-    },
-    "coUvKoQHdw": {
-        "id": "coUvKoQHdw",
-        "title": "Отступник. Темный эльф - 1",
-        "author": "Роберт Сальваторе",
-        "notes": "",
-        "createdAt": "2020-07-02 15:04:24",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 110
         }
     }
 }
