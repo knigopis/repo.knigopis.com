@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Полный набор: Великая Миссия ~ [gray7wand](users/110/110080946273609412257-google)<sup>6</sup>
+    > 7/10
+
 * Полный набор: Месть темной эльфийки ~ [gray7wand](users/110/110080946273609412257-google)<sup>5</sup>
     > 7/10
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Волшебник Земноморья ~ [Sky](users/118/118049897850017649660-google)<sup>170</sup>
-    > Волшебник Земноморья
-    > Гробницы Атуана
-    > На последнем берегу
-    > Освобождающее заклятие
-    > Правило имен
 
 * Правда о деле Гарри Квеберта ~ [En](users/333/333646551-vkontakte)<sup>119</sup>
 
@@ -30,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Формула. Универсальные законы успеха. ~ [youno](users/302/302928912-vkontakte)<sup>49</sup>
 
-* Золотой телёнок ~ [kissamasya](users/684/68439978-vkontakte)<sup>91</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[gray7wand](users/110/110080946273609412257-google)<sup>5</sup> 
+[gray7wand](users/110/110080946273609412257-google)<sup>6</sup> 
 [Tavor](users/107/107548900280182613163-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>53</sup> 
@@ -69,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sodomorgan](users/101/101526240567453573875-google)<sup>0</sup> 
 
 
-_05.07.2020 21:24:02_
+_05.07.2020 21:24:30_

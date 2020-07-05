@@ -1,4 +1,16 @@
 {
+    "GSSjHKlw7q": {
+        "id": "GSSjHKlw7q",
+        "title": "Полный набор: Великая Миссия",
+        "author": "Князев Милослав",
+        "notes": "7/10",
+        "createdAt": "2020-07-05 21:24:30",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 6
+        }
+    },
     "GoRWx056F2": {
         "id": "GoRWx056F2",
         "title": "Полный набор: Месть темной эльфийки",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 161
-        }
-    },
-    "d2niVXwCGn": {
-        "id": "d2niVXwCGn",
-        "title": "Айвенго",
-        "author": "Скотт, Вальтер",
-        "notes": "",
-        "createdAt": "2020-07-03 10:26:06",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 159
         }
     }
 }
