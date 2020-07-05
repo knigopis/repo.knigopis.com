@@ -5,6 +5,17 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цветы под дождем и другие рассказы ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup>
+    > "Свистом призывая ветер", "Два дня за городом", "Кристабель"
+    > 
+    > Чтобы делать вещи, которых ты не боишься, никакого мужества не требуется. 
+    > 
+    > Она помахала в ответ, а потом бросилась бежать: пускай им предстояло провести остаток жизни вместе, она все равно не хотела терять ни минуты.
+    > 
+    > - Так чем же был твой роман с ней?
+    > Фергюс замолчал. Потом задумчиво ответил:
+    > - Возможно, паузой в нашем с тобой разговоре.
+
 * Полный набор: Великая Миссия ~ [gray7wand](users/110/110080946273609412257-google)<sup>6</sup>
     > 7/10
 
@@ -12,7 +23,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Практическая демонология ~ [gray7wand](users/110/110080946273609412257-google)<sup>4</sup>
-    > 7/10
 
 * Волшебник Земноморья ~ [Sky](users/118/118049897850017649660-google)<sup>170</sup>
 
@@ -26,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Пятый элифант ~ [Garka](users/115/115753719718250012620-google)<sup>254</sup>
 
-* Формула. Универсальные законы успеха. ~ [youno](users/302/302928912-vkontakte)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>6</sup> 
 [Tavor](users/107/107548900280182613163-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>92</sup> 
@@ -51,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>110</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>87</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>170</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>41</sup> 
 [youno](users/302/302928912-vkontakte)<sup>49</sup> 
 [fir137](users/176/176805114-yandex)<sup>42</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>5</sup> 
@@ -65,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sodomorgan](users/101/101526240567453573875-google)<sup>0</sup> 
 
 
-_05.07.2020 21:24:30_
+_05.07.2020 21:48:25_

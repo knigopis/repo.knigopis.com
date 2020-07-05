@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Цветы под дождем и другие рассказы ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup>
 * Полный набор: Великая Миссия ~ [gray7wand](users/110/110080946273609412257-google)<sup>6</sup>
 * Полный набор: Месть темной эльфийки ~ [gray7wand](users/110/110080946273609412257-google)<sup>5</sup>
 * Практическая демонология ~ [gray7wand](users/110/110080946273609412257-google)<sup>4</sup>
@@ -31,7 +32,6 @@
 * Бойся, я с тобой ~ [dmiro](users/571/5714115-vkontakte)<sup>29</sup>
 * Daredevils of Sassoun (Давид Сасунский)
 Սասունցի Դավիթ ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>17</sup>
-* Темна Вежа 6. Пісня Сюзанни. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>119</sup>
 
 
-_05.07.2020 21:24:30_
+_05.07.2020 21:48:25_
