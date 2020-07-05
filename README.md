@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kissamasya](users/684/68439978-vkontakte)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>53</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>170</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lostinfrost](users/217/217891524-vkontakte)<sup>170</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>41</sup> 
 [youno](users/302/302928912-vkontakte)<sup>49</sup> 
-[kissamasya](users/684/68439978-vkontakte)<sup>91</sup> 
 [fir137](users/176/176805114-yandex)<sup>42</sup> 
 [Fenix](users/111/111367585493471720963-google)<sup>5</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sab_olya](users/139/139338401-vkontakte)<sup>84</sup> 
 
 
-_05.07.2020 13:52:02_
+_05.07.2020 15:54:15_
