@@ -1,4 +1,10 @@
 {
+    "110080946273609412257-google": {
+        "id": "110080946273609412257-google",
+        "nickname": "gray7wand",
+        "booksCount": 4,
+        "updatedAt": "2020-07-05 21:22:55"
+    },
     "107548900280182613163-google": {
         "id": "107548900280182613163-google",
         "nickname": "Tavor",
@@ -172,11 +178,5 @@
         "nickname": "sodomorgan",
         "booksCount": 0,
         "updatedAt": "2020-06-26 10:22:33"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 46,
-        "updatedAt": "2020-06-25 11:59:09"
     }
 }

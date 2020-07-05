@@ -1,4 +1,16 @@
 {
+    "khF3NXrc6C": {
+        "id": "khF3NXrc6C",
+        "title": "Практическая демонология",
+        "author": "Елена Кароль",
+        "notes": "7/10",
+        "createdAt": "2020-07-05 21:22:55",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 4
+        }
+    },
     "Cua3ei5v_P": {
         "id": "Cua3ei5v_P",
         "title": "Вечера на хуторе близ Диканьки",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 158
-        }
-    },
-    "JVHPZnXgRo": {
-        "id": "JVHPZnXgRo",
-        "title": "Очерки бурсы",
-        "author": "Помяловский, Николай",
-        "notes": "",
-        "createdAt": "2020-07-03 10:23:31",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 156
         }
     }
 }

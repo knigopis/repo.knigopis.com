@@ -1,7 +1,12 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>3</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>4</sup>
 ---
 
 ## 2020
+
+### Практическая демонология
+Елена Кароль
+> [2020-07-05] 7/10
+
 
 ### Другой Мир: Артефактор
 Иван Городецкий
