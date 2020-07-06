@@ -1,7 +1,12 @@
-# List of books read by [sab_olya](http://vk.com/id139338401)<sup>84</sup>
+# List of books read by [sab_olya](http://vk.com/id139338401)<sup>85</sup>
 ---
 
 ## 2020
+
+### История одного убийства.1793
+Никлас Натт-О-Даг
+> [2020-07-06] 
+
 
 ### Девушка из Бруклина
 Гиймо Миссо
