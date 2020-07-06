@@ -1,4 +1,16 @@
 {
+    "-tB-aQNINu": {
+        "id": "-tB-aQNINu",
+        "title": "Левиафан",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2020-07-06 16:52:46",
+        "user": {
+            "id": "57239276-vkontakte",
+            "nickname": "vladkozz",
+            "booksCount": 70
+        }
+    },
     "h8RbgVa7WH": {
         "id": "h8RbgVa7WH",
         "title": "Вечера на хуторе близ Диканьки",
@@ -345,18 +357,6 @@
             "id": "112388384595246311466-google",
             "nickname": "ЗаяцЛис",
             "booksCount": 28
-        }
-    },
-    "-mem1TtmOI": {
-        "id": "-mem1TtmOI",
-        "title": "Архив буресвета. Слава сияния",
-        "author": "Брендон Сандерсон",
-        "notes": "",
-        "createdAt": "2020-07-04 05:51:06",
-        "user": {
-            "id": "118158645037334943900-google",
-            "nickname": "Антенка",
-            "booksCount": 50
         }
     }
 }

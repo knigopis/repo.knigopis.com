@@ -1,7 +1,11 @@
-# List of books read by [vladkozz](http://vk.com/id57239276)<sup>69</sup>
+# List of books read by [vladkozz](http://vk.com/id57239276)<sup>70</sup>
 ---
 
 ## 2020
+
+### Левиафан
+Борис Акунин
+
 
 ### Молот ведьм
 Генрих Крамер и Якоб Шпренгер
