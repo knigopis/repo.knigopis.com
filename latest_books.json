@@ -1,4 +1,16 @@
 {
+    "XbfVy1QJfk": {
+        "id": "XbfVy1QJfk",
+        "title": "Дім дивних дітей. Пташині збори.",
+        "author": "Ренсом Ріґґз",
+        "notes": ")7/10 Пророцтво сімох, визволення Нур, поверненя Коула з петлі.",
+        "createdAt": "2020-07-06 06:13:11",
+        "user": {
+            "id": "829893410524253-facebook",
+            "nickname": "Daria Varyvod",
+            "booksCount": 123
+        }
+    },
     "Niu3_aYwd4": {
         "id": "Niu3_aYwd4",
         "title": "Шифропанки: свобода и будущее Интернета",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
             "booksCount": 165
-        }
-    },
-    "XH12DmGzay": {
-        "id": "XH12DmGzay",
-        "title": "Тёмная башня. Ветер сквозь замочную скважину",
-        "author": "Стивен кинг",
-        "notes": "",
-        "createdAt": "2020-07-03 10:43:21",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 388
         }
     }
 }

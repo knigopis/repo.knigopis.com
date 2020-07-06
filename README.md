@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дім дивних дітей. Пташині збори. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup>
+    > )7/10 Пророцтво сімох, визволення Нур, поверненя Коула з петлі.
+
 * Шифропанки: свобода и будущее Интернета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>122</sup>
     > 6/10 Рассуждения о будущем свободы в интернете.
 
@@ -12,15 +15,6 @@ Do not use pull requests to make changes here.
     > Закінчення циклу, подальша доля героїв.
 
 * Цветы под дождем и другие рассказы ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup>
-    > "Свистом призывая ветер", "Два дня за городом", "Кристабель"
-    > 
-    > Чтобы делать вещи, которых ты не боишься, никакого мужества не требуется. 
-    > 
-    > Она помахала в ответ, а потом бросилась бежать: пускай им предстояло провести остаток жизни вместе, она все равно не хотела терять ни минуты.
-    > 
-    > - Так чем же был твой роман с ней?
-    > Фергюс замолчал. Потом задумчиво ответил:
-    > - Возможно, паузой в нашем с тобой разговоре.
 
 * Полный набор: Великая Миссия ~ [gray7wand](users/110/110080946273609412257-google)<sup>6</sup>
 
@@ -34,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Хозяйка лабиринта ~ [Chiffi](users/105/105831994080785626680-google)<sup>193</sup>
 
-* Записки о Шерлоке Холмсе ~ [Sky](users/118/118049897850017649660-google)<sup>169</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>122</sup> 
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>168</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>6</sup> 
@@ -73,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleks](users/117/117835844513813219393-google)<sup>80</sup> 
 
 
-_06.07.2020 06:10:59_
+_06.07.2020 06:13:11_

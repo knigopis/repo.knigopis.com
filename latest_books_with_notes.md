@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дім дивних дітей. Пташині збори. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup>
 * Шифропанки: свобода и будущее Интернета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>122</sup>
 * Темна вежа 7. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>121</sup>
 * Цветы под дождем и другие рассказы ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup>
@@ -30,7 +31,6 @@
 * Искусство быть невидимым ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup>
 * Остров доктора Моро ~ [En](users/333/333646551-vkontakte)<sup>116</sup>
 * Сказать жизни – да! ~ [Rainbow](users/109/109787328219839805802-google)<sup>56</sup>
-* Девушка в лабиринте ~ [En](users/333/333646551-vkontakte)<sup>115</sup>
 
 
-_06.07.2020 06:10:59_
+_06.07.2020 06:13:11_
