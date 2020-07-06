@@ -1,4 +1,10 @@
 {
+    "831845204288-odnoklassniki": {
+        "id": "831845204288-odnoklassniki",
+        "nickname": "vladimir76",
+        "booksCount": 0,
+        "updatedAt": "2020-07-06 09:46:30"
+    },
     "22742452-yandex": {
         "id": "22742452-yandex",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": "ՎաչՎաղՍիր SirVach",
         "booksCount": 19,
         "updatedAt": "2020-06-27 06:07:38"
-    },
-    "173628445-vkontakte": {
-        "id": "173628445-vkontakte",
-        "nickname": "velverie",
-        "booksCount": 0,
-        "updatedAt": "2020-06-26 21:09:22"
     }
 }
