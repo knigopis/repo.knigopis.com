@@ -41,7 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Elixir](users/115/115826717712507836033-google)<sup>167</sup> 
+[Elixir](users/115/115826717712507836033-google)<sup>168</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>6</sup> 
 [Tavor](users/107/107548900280182613163-google)<sup>0</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sodomorgan](users/101/101526240567453573875-google)<sup>0</sup> 
 
 
-_06.07.2020 05:39:46_
+_06.07.2020 05:41:50_
