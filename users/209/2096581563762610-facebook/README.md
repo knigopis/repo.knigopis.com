@@ -1,7 +1,12 @@
-# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>87</sup>
+# List of books read by [Таньчик](https://www.facebook.com/profile.php?id=2096581563762610)<sup>88</sup>
 ---
 
 ## 2020
+
+### Выход А
+Евгения Батурина
+> [2020-07-06] 
+
 
 ### Вы хотите поговорить об этом?
 Лори Готтлиб

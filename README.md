@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>88</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>85</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>70</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>34</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>388</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>255</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>110</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>87</sup> 
 [lostinfrost](users/217/217891524-vkontakte)<sup>170</sup> 
 [youno](users/302/302928912-vkontakte)<sup>49</sup> 
 [fir137](users/176/176805114-yandex)<sup>42</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [demo](users/106/1067243422-yandex)<sup>1</sup> 
 
 
-_06.07.2020 20:19:41_
+_06.07.2020 21:51:09_
