@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Полный набор: Свой замок ~ [gray7wand](users/110/110080946273609412257-google)<sup>7</sup>
+    > 8/10
+
 * Дім дивних дітей. Пташині збори. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup>
     > )7/10 Пророцтво сімох, визволення Нур, поверненя Коула з петлі.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10 Рассуждения о будущем свободы в интернете.
 
 * Темна вежа 7. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>121</sup>
-    > Закінчення циклу, подальша доля героїв.
 
 * Цветы под дождем и другие рассказы ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup>
 
@@ -26,20 +28,18 @@ Do not use pull requests to make changes here.
 
 * Правда о деле Гарри Квеберта ~ [En](users/333/333646551-vkontakte)<sup>119</sup>
 
-* Хозяйка лабиринта ~ [Chiffi](users/105/105831994080785626680-google)<sup>193</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gray7wand](users/110/110080946273609412257-google)<sup>7</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>51</sup> 
 [vladimir76](users/831/831845204288-odnoklassniki)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>168</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup> 
-[gray7wand](users/110/110080946273609412257-google)<sup>6</sup> 
 [Tavor](users/107/107548900280182613163-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>53</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup> 
 
 
-_06.07.2020 13:26:16_
+_06.07.2020 15:49:19_

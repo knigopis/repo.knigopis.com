@@ -1,4 +1,16 @@
 {
+    "z8Oh1Q3IzT": {
+        "id": "z8Oh1Q3IzT",
+        "title": "Полный набор: Свой замок",
+        "author": "Милослав Князев",
+        "notes": "8/10",
+        "createdAt": "2020-07-06 15:49:19",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 7
+        }
+    },
     "kXuJAiW-eb": {
         "id": "kXuJAiW-eb",
         "title": "Счастья хватит на всех",
@@ -345,18 +357,6 @@
             "id": "103531377167120997573-google",
             "nickname": "Dreamer12",
             "booksCount": 1
-        }
-    },
-    "ahgiUcJjVz": {
-        "id": "ahgiUcJjVz",
-        "title": "Хозяйка лабиринта",
-        "author": "Аткинсон Кейт",
-        "notes": "книга про шпионов, войну и людей. почему-то очень долго и сложно читалась((",
-        "createdAt": "2020-07-03 18:15:48",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 193
         }
     }
 }
