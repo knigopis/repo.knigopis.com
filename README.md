@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[rNix](users/227/22742452-yandex)<sup>67</sup> 
+[rNix](users/227/22742452-yandex)<sup>66</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>168</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [velverie](users/173/173628445-vkontakte)<sup>0</sup> 
 
 
-_06.07.2020 07:55:23_
+_06.07.2020 07:55:41_
