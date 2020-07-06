@@ -1,4 +1,10 @@
 {
+    "22742452-yandex": {
+        "id": "22742452-yandex",
+        "nickname": "rNix",
+        "booksCount": 67,
+        "updatedAt": "2020-07-06 07:54:03"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "velverie",
         "booksCount": 0,
         "updatedAt": "2020-06-26 21:09:22"
-    },
-    "117835844513813219393-google": {
-        "id": "117835844513813219393-google",
-        "nickname": "Aleks",
-        "booksCount": 80,
-        "updatedAt": "2020-06-26 18:10:54"
     }
 }

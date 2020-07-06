@@ -1,4 +1,16 @@
 {
+    "bWSTOhT65D": {
+        "id": "bWSTOhT65D",
+        "title": "демо",
+        "author": "",
+        "notes": "",
+        "createdAt": "2020-07-06 07:54:03",
+        "user": {
+            "id": "22742452-yandex",
+            "nickname": "rNix",
+            "booksCount": 67
+        }
+    },
     "XbfVy1QJfk": {
         "id": "XbfVy1QJfk",
         "title": "Дім дивних дітей. Пташині збори.",
@@ -341,18 +353,6 @@
         "author": "Гоголь, Николай",
         "notes": "",
         "createdAt": "2020-07-03 15:07:30",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": "Elixir",
-            "booksCount": 165
-        }
-    },
-    "VYQs3I5W0J": {
-        "id": "VYQs3I5W0J",
-        "title": "Кремлевские жены",
-        "author": "Васильева, Лариса",
-        "notes": "",
-        "createdAt": "2020-07-03 15:05:10",
         "user": {
             "id": "115826717712507836033-google",
             "nickname": "Elixir",
