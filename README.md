@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>34</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>8</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>51</sup> 
 [vladimir76](users/831/831845204288-odnoklassniki)<sup>0</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tavor](users/107/107548900280182613163-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>53</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>170</sup> 
 [](users/104/104731829794763834502-google)<sup>12</sup> 
 [En](users/333/333646551-vkontakte)<sup>119</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup> 
 
 
-_06.07.2020 15:49:47_
+_06.07.2020 16:44:20_

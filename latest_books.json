@@ -1,4 +1,16 @@
 {
+    "h8RbgVa7WH": {
+        "id": "h8RbgVa7WH",
+        "title": "Вечера на хуторе близ Диканьки",
+        "author": "Николай Васильевич Гоголь",
+        "notes": "",
+        "createdAt": "2020-07-06 16:44:20",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 34
+        }
+    },
     "QnnU0soENP": {
         "id": "QnnU0soENP",
         "title": "Полный набор: Война с орками",
@@ -345,18 +357,6 @@
             "id": "118158645037334943900-google",
             "nickname": "Антенка",
             "booksCount": 50
-        }
-    },
-    "Zk1dkGJU4t": {
-        "id": "Zk1dkGJU4t",
-        "title": "Как быть стоиком",
-        "author": "Массимо Пильюччи",
-        "notes": "",
-        "createdAt": "2020-07-04 04:21:42",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 154
         }
     }
 }
