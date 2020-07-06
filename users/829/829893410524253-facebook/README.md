@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>121</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>122</sup>
 ---
 
 ## 2020
+
+### Шифропанки: свобода и будущее Интернета
+Джулиан Ассанж, Энди Мюллер-Магун, Джейкоб Аппельбаум, Жереми Циммерман
+> [2020-07-03] 6/10 Рассуждения о будущем свободы в интернете.
+
 
 ### Темна вежа 7.
 Стівен Кінг

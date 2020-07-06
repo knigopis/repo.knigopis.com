@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шифропанки: свобода и будущее Интернета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>122</sup>
 * Темна вежа 7. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>121</sup>
 * Цветы под дождем и другие рассказы ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup>
 * Полный набор: Великая Миссия ~ [gray7wand](users/110/110080946273609412257-google)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Остров доктора Моро ~ [En](users/333/333646551-vkontakte)<sup>116</sup>
 * Сказать жизни – да! ~ [Rainbow](users/109/109787328219839805802-google)<sup>56</sup>
 * Девушка в лабиринте ~ [En](users/333/333646551-vkontakte)<sup>115</sup>
-* Бойся, я с тобой ~ [dmiro](users/571/5714115-vkontakte)<sup>29</sup>
 
 
-_06.07.2020 06:07:15_
+_06.07.2020 06:10:59_
