@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>167</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>6</sup> 
 [Tavor](users/107/107548900280182613163-google)<sup>0</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>154</sup> 
 [Dreamer12](users/103/103531377167120997573-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>193</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>166</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>388</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>255</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>110</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sodomorgan](users/101/101526240567453573875-google)<sup>0</sup> 
 
 
-_05.07.2020 21:48:25_
+_06.07.2020 05:39:46_
