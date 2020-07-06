@@ -1,12 +1,9 @@
-# List of books read by rNix<sup>68</sup>
+# List of books read by rNix<sup>67</sup>
 ---
 
 ## 2020
 
 ### демо3
-
-
-### демо2
 
 
 
