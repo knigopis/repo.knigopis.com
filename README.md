@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Темна вежа 7. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>121</sup>
+    > Закінчення циклу, подальша доля героїв.
+
 * Цветы под дождем и другие рассказы ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup>
     > "Свистом призывая ветер", "Два дня за городом", "Кристабель"
     > 
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Полный набор: Месть темной эльфийки ~ [gray7wand](users/110/110080946273609412257-google)<sup>5</sup>
-    > 7/10
 
 * Практическая демонология ~ [gray7wand](users/110/110080946273609412257-google)<sup>4</sup>
 
@@ -34,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Договориться можно обо всем! ~ [Garka](users/115/115753719718250012620-google)<sup>255</sup>
 
-* Пятый элифант ~ [Garka](users/115/115753719718250012620-google)<sup>254</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>121</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>168</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup> 
 [gray7wand](users/110/110080946273609412257-google)<sup>6</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup> 
 [velverie](users/173/173628445-vkontakte)<sup>0</sup> 
 [Aleks](users/117/117835844513813219393-google)<sup>80</sup> 
-[sodomorgan](users/101/101526240567453573875-google)<sup>0</sup> 
 
 
-_06.07.2020 05:41:50_
+_06.07.2020 06:07:15_

@@ -1,7 +1,12 @@
-# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>120</sup>
+# List of books read by [Daria Varyvod](https://www.facebook.com/profile.php?id=829893410524253)<sup>121</sup>
 ---
 
 ## 2020
+
+### Темна вежа 7.
+Стівен Кінг
+> [2020-07-01] Закінчення циклу, подальша доля героїв.
+
 
 ### Коронавірус. Інструкція з виживання
 Анча Баранова
