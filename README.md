@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антенка](users/118/118158645037334943900-google)<sup>51</sup> 
 [vladimir76](users/831/831845204288-odnoklassniki)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>170</sup> 
 [](users/104/104731829794763834502-google)<sup>12</sup> 
 [En](users/333/333646551-vkontakte)<sup>119</sup> 
-[Антенка](users/118/118158645037334943900-google)<sup>50</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>154</sup> 
 [Dreamer12](users/103/103531377167120997573-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>193</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup> 
 
 
-_06.07.2020 09:46:32_
+_06.07.2020 13:26:16_
