@@ -1,7 +1,12 @@
-# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>7</sup>
+# List of books read by [gray7wand](https://plus.google.com/u/0/110080946273609412257/)<sup>8</sup>
 ---
 
 ## 2020
+
+### Полный набор: Война с орками
+Милослав Князев
+> [2020-07-06] 7/10
+
 
 ### Полный набор: Месть темной эльфийки
 Князев Милослав

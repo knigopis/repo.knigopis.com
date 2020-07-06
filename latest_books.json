@@ -1,4 +1,16 @@
 {
+    "QnnU0soENP": {
+        "id": "QnnU0soENP",
+        "title": "Полный набор: Война с орками",
+        "author": "Милослав Князев",
+        "notes": "7/10",
+        "createdAt": "2020-07-06 15:49:47",
+        "user": {
+            "id": "110080946273609412257-google",
+            "nickname": "gray7wand",
+            "booksCount": 8
+        }
+    },
     "z8Oh1Q3IzT": {
         "id": "z8Oh1Q3IzT",
         "title": "Полный набор: Свой замок",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 154
-        }
-    },
-    "vvkR3fZTxx": {
-        "id": "vvkR3fZTxx",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2020-07-03 19:21:33",
-        "user": {
-            "id": "103531377167120997573-google",
-            "nickname": "Dreamer12",
-            "booksCount": 1
         }
     }
 }

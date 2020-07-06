@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Полный набор: Война с орками ~ [gray7wand](users/110/110080946273609412257-google)<sup>8</sup>
+    > 7/10
+
 * Полный набор: Свой замок ~ [gray7wand](users/110/110080946273609412257-google)<sup>7</sup>
     > 8/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > )7/10 Пророцтво сімох, визволення Нур, поверненя Коула з петлі.
 
 * Шифропанки: свобода и будущее Интернета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>122</sup>
-    > 6/10 Рассуждения о будущем свободы в интернете.
 
 * Темна вежа 7. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>121</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Волшебник Земноморья ~ [Sky](users/118/118049897850017649660-google)<sup>170</sup>
 
-* Правда о деле Гарри Квеберта ~ [En](users/333/333646551-vkontakte)<sup>119</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[gray7wand](users/110/110080946273609412257-google)<sup>7</sup> 
+[gray7wand](users/110/110080946273609412257-google)<sup>8</sup> 
 [Антенка](users/118/118158645037334943900-google)<sup>51</sup> 
 [vladimir76](users/831/831845204288-odnoklassniki)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup> 
 
 
-_06.07.2020 15:49:19_
+_06.07.2020 15:49:47_
