@@ -1,4 +1,4 @@
-# List of books read by rNix<sup>69</sup>
+# List of books read by rNix<sup>68</sup>
 ---
 
 ## 2020
@@ -7,9 +7,6 @@
 
 
 ### демо2
-
-
-### демо
 
 
 
@@ -318,14 +315,14 @@ Andy Weir
 > [2014-10-08] 
 
 
-### Gerald's Game
-Stephen King
-> [2014-10] Не осилил. 40% прочитал и начал пролистывать дальше.
-
-
 ### 1984
 Джордж Оруэлл
 > [2014-10] 
+
+
+### Gerald's Game
+Stephen King
+> [2014-10] Не осилил. 40% прочитал и начал пролистывать дальше.
 
 
 ### The Catcher in the Rye
@@ -333,14 +330,14 @@ J. D. Salinger
 > [2014-09-30] Читал из-за того, что название на слуху. Разочарован.
 
 
-### Animal Farm
-George Orwell
-> [2014-09] "I will work harder"
-
-
 ### The Old Man and the Sea
 Ernest Hemingway
 > [2014-09] 
+
+
+### Animal Farm
+George Orwell
+> [2014-09] "I will work harder"
 
 
 ### Сага "Ведьмак"
