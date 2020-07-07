@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Время в порядке ~ [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup>
+    > Сутки
+
 * Мы живые ~ [zAAz](users/202/202248233-vkontakte)<sup>59</sup>
     > Да, местами примитивно разворачивались события и и сами образы главных героев, так как мое знакомство с Айн Рэнд началось с "Источника", а потом и "Атлант расправил плечи", потому как "Мы живые" это ее первый роман. Однако это не испортило впечатления. Очень трогательно и душераздирающе. Спасибо, Айн, спасибо ещё раз за возможность пережить эти высокие чувства о жизни, о мире, обо всём!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Полный набор: Свой замок ~ [gray7wand](users/110/110080946273609412257-google)<sup>7</sup>
-    > 8/10
 
 * Дім дивних дітей. Пташині збори. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Полный набор: Месть темной эльфийки ~ [gray7wand](users/110/110080946273609412257-google)<sup>5</sup>
 
-* Практическая демонология ~ [gray7wand](users/110/110080946273609412257-google)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Таньчик](users/209/2096581563762610-facebook)<sup>89</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>59</sup> 
-[Таньчик](users/209/2096581563762610-facebook)<sup>88</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>85</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>70</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>34</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup> 
 
 
-_07.07.2020 17:51:27_
+_07.07.2020 18:39:22_
