@@ -1,4 +1,10 @@
 {
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 59,
+        "updatedAt": "2020-07-07 17:51:27"
+    },
     "2096581563762610-facebook": {
         "id": "2096581563762610-facebook",
         "nickname": "Таньчик",
@@ -172,11 +178,5 @@
         "nickname": "stamovashahzada",
         "booksCount": 69,
         "updatedAt": "2020-06-28 05:18:29"
-    },
-    "1067243422-yandex": {
-        "id": "1067243422-yandex",
-        "nickname": "demo",
-        "booksCount": 1,
-        "updatedAt": "2020-06-27 20:55:54"
     }
 }

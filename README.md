@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мы живые ~ [zAAz](users/202/202248233-vkontakte)<sup>59</sup>
+    > Да, местами примитивно разворачивались события и и сами образы главных героев, так как мое знакомство с Айн Рэнд началось с "Источника", а потом и "Атлант расправил плечи", потому как "Мы живые" это ее первый роман. Однако это не испортило впечатления. Очень трогательно и душераздирающе. Спасибо, Айн, спасибо ещё раз за возможность пережить эти высокие чувства о жизни, о мире, обо всём!
+
 * Полный набор: Война с орками ~ [gray7wand](users/110/110080946273609412257-google)<sup>8</sup>
     > 7/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10
 
 * Дім дивних дітей. Пташині збори. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup>
-    > )7/10 Пророцтво сімох, визволення Нур, поверненя Коула з петлі.
 
 * Шифропанки: свобода и будущее Интернета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>122</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Практическая демонология ~ [gray7wand](users/110/110080946273609412257-google)<sup>4</sup>
 
-* Волшебник Земноморья ~ [Sky](users/118/118049897850017649660-google)<sup>170</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zAAz](users/202/202248233-vkontakte)<sup>59</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>88</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>85</sup> 
 [vladkozz](users/572/57239276-vkontakte)<sup>70</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>5</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup> 
-[demo](users/106/1067243422-yandex)<sup>1</sup> 
 
 
-_06.07.2020 21:51:09_
+_07.07.2020 17:51:27_

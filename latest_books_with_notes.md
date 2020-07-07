@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мы живые ~ [zAAz](users/202/202248233-vkontakte)<sup>59</sup>
 * Полный набор: Война с орками ~ [gray7wand](users/110/110080946273609412257-google)<sup>8</sup>
 * Полный набор: Свой замок ~ [gray7wand](users/110/110080946273609412257-google)<sup>7</sup>
 * Дім дивних дітей. Пташині збори. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup>
@@ -30,7 +31,6 @@
 * Тайна проклятого герцога. Книга 1 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>67</sup>
 * Старик и море ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>66</sup>
 * Коронавірус. Інструкція з виживання ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>120</sup>
-* Искусство быть невидимым ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>61</sup>
 
 
-_06.07.2020 15:49:47_
+_07.07.2020 17:51:27_
