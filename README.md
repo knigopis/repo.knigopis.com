@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/104/104731829794763834502-google)<sup>11</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>37</sup> 
 [](users/153/1537586159620888-facebook)<sup>21</sup> 
 [En](users/333/333646551-vkontakte)<sup>120</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kissamasya](users/684/68439978-vkontakte)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>53</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>170</sup> 
-[](users/104/104731829794763834502-google)<sup>12</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>154</sup> 
 [Dreamer12](users/103/103531377167120997573-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>193</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 
 
-_08.07.2020 15:34:00_
+_08.07.2020 17:17:08_
