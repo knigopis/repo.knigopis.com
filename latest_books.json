@@ -1,4 +1,16 @@
 {
+    "0SwUUS0ol0": {
+        "id": "0SwUUS0ol0",
+        "title": "Белое безмолвие",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2020-07-08 13:36:50",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 36
+        }
+    },
     "zidFVCpdcK": {
         "id": "zidFVCpdcK",
         "title": "Всадник без головы",
@@ -345,18 +357,6 @@
             "id": "104731829794763834502-google",
             "nickname": null,
             "booksCount": 11
-        }
-    },
-    "21666YKkTL": {
-        "id": "21666YKkTL",
-        "title": "Becoming",
-        "author": "Мишель Обама",
-        "notes": "",
-        "createdAt": "2020-07-04 13:55:27",
-        "user": {
-            "id": "104731829794763834502-google",
-            "nickname": null,
-            "booksCount": 10
         }
     }
 }
