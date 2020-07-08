@@ -1,4 +1,16 @@
 {
+    "gICD_4Z1hM": {
+        "id": "gICD_4Z1hM",
+        "title": "Мученики сцены",
+        "author": "Фазиль Абдулович Искандер",
+        "notes": "",
+        "createdAt": "2020-07-08 15:34:00",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 37
+        }
+    },
     "iX1CAFZji0": {
         "id": "iX1CAFZji0",
         "title": "Экстрим или Девушка с амбициями",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 170
-        }
-    },
-    "qK7Z3Mdb8k": {
-        "id": "qK7Z3Mdb8k",
-        "title": "Просто космос. Практикум по Agile-жизни",
-        "author": "Катерина Ленгольд",
-        "notes": "",
-        "createdAt": "2020-07-04 13:55:58",
-        "user": {
-            "id": "104731829794763834502-google",
-            "nickname": null,
-            "booksCount": 12
         }
     }
 }
