@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Темные аллеи 2.2 ~ [En](users/333/333646551-vkontakte)<sup>120</sup>
 * Время в порядке ~ [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup>
 * Мы живые ~ [zAAz](users/202/202248233-vkontakte)<sup>59</sup>
 * Полный набор: Война с орками ~ [gray7wand](users/110/110080946273609412257-google)<sup>8</sup>
@@ -30,7 +31,6 @@
 * Довелесова книга ~ [mfevralev](users/140/140966150-vkontakte)<sup>46</sup>
 * Тайна проклятого герцога. Книга 2 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>68</sup>
 * Тайна проклятого герцога. Книга 1 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>67</sup>
-* Старик и море ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>66</sup>
 
 
-_07.07.2020 18:39:22_
+_08.07.2020 00:54:29_

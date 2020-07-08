@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Темные аллеи 2.2 ~ [En](users/333/333646551-vkontakte)<sup>120</sup>
+    > Сборник рассказов Лавкрафта
+
 * Время в порядке ~ [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup>
     > Сутки
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Да, местами примитивно разворачивались события и и сами образы главных героев, так как мое знакомство с Айн Рэнд началось с "Источника", а потом и "Атлант расправил плечи", потому как "Мы живые" это ее первый роман. Однако это не испортило впечатления. Очень трогательно и душераздирающе. Спасибо, Айн, спасибо ещё раз за возможность пережить эти высокие чувства о жизни, о мире, обо всём!
 
 * Полный набор: Война с орками ~ [gray7wand](users/110/110080946273609412257-google)<sup>8</sup>
-    > 7/10
 
 * Полный набор: Свой замок ~ [gray7wand](users/110/110080946273609412257-google)<sup>7</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Полный набор: Великая Миссия ~ [gray7wand](users/110/110080946273609412257-google)<sup>6</sup>
 
-* Полный набор: Месть темной эльфийки ~ [gray7wand](users/110/110080946273609412257-google)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>120</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>59</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>85</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [4apa](users/117/117392596378069249667-google)<sup>53</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>170</sup> 
 [](users/104/104731829794763834502-google)<sup>12</sup> 
-[En](users/333/333646551-vkontakte)<sup>119</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>154</sup> 
 [Dreamer12](users/103/103531377167120997573-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>193</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup> 
 
 
-_07.07.2020 18:39:22_
+_08.07.2020 00:54:29_
