@@ -1,4 +1,16 @@
 {
+    "iX1CAFZji0": {
+        "id": "iX1CAFZji0",
+        "title": "Экстрим или Девушка с амбициями",
+        "author": "Татьяна Веденская",
+        "notes": "",
+        "createdAt": "2020-07-08 13:40:34",
+        "user": {
+            "id": "1537586159620888-facebook",
+            "nickname": null,
+            "booksCount": 21
+        }
+    },
     "0SwUUS0ol0": {
         "id": "0SwUUS0ol0",
         "title": "Белое безмолвие",
@@ -345,18 +357,6 @@
             "id": "104731829794763834502-google",
             "nickname": null,
             "booksCount": 12
-        }
-    },
-    "LvPYc2oKq2": {
-        "id": "LvPYc2oKq2",
-        "title": "Радикальное прощение",
-        "author": "Колин Типпинг",
-        "notes": "",
-        "createdAt": "2020-07-04 13:55:42",
-        "user": {
-            "id": "104731829794763834502-google",
-            "nickname": null,
-            "booksCount": 11
         }
     }
 }

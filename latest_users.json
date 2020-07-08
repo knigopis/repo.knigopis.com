@@ -1,4 +1,10 @@
 {
+    "1537586159620888-facebook": {
+        "id": "1537586159620888-facebook",
+        "nickname": null,
+        "booksCount": 21,
+        "updatedAt": "2020-07-08 13:40:34"
+    },
     "112388384595246311466-google": {
         "id": "112388384595246311466-google",
         "nickname": "ЗаяцЛис",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 126,
         "updatedAt": "2020-06-28 08:48:17"
-    },
-    "310646815-vkontakte": {
-        "id": "310646815-vkontakte",
-        "nickname": "stamovashahzada",
-        "booksCount": 69,
-        "updatedAt": "2020-06-28 05:18:29"
     }
 }
