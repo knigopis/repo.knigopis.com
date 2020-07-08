@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>38</sup> 
 [](users/104/104731829794763834502-google)<sup>11</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>37</sup> 
 [](users/153/1537586159620888-facebook)<sup>21</sup> 
 [En](users/333/333646551-vkontakte)<sup>120</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 
 
-_08.07.2020 17:17:08_
+_08.07.2020 23:10:16_
