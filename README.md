@@ -6,7 +6,7 @@ Do not use pull requests to make changes here.
 
 ## Latest books with notes
 * Темные аллеи 2.2 ~ [En](users/333/333646551-vkontakte)<sup>120</sup>
-    > Сборник рассказов Лавкрафта
+    > сборник рассказов и повестей Говарда Филлипса Лавкрафта. Ктулху и аколиты ждут вас в темноте за ближайшим поворотом, и хоть сегодня они уже не представляются такими ужасающими, как прежде, но не всякий отважится посмотреть в глаза этих чудовищ...
 
 * Время в порядке ~ [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup>
     > Сутки
@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[En](users/333/333646551-vkontakte)<sup>119</sup> 
+[En](users/333/333646551-vkontakte)<sup>120</sup> 
 [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>59</sup> 
 [sab_olya](users/139/139338401-vkontakte)<sup>85</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stamovashahzada](users/310/310646815-vkontakte)<sup>69</sup> 
 
 
-_08.07.2020 00:56:09_
+_08.07.2020 00:56:31_
