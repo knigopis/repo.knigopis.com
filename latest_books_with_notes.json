@@ -1,4 +1,16 @@
 {
+    "LI9PlHwXLz": {
+        "id": "LI9PlHwXLz",
+        "title": "Садовые чары",
+        "author": "Сара Эдисон Аллен",
+        "notes": "ISBN 978-5-389-13431-7\n...какое мороженое выбрать. Шоколадно-мятное, клубнику с ревенем, персик с карамелью или кофе с ванилью. Это была идея деда. Предложи людям то, чего они пока не пробовали, и они никогда тебя не забудут.",
+        "createdAt": "2020-07-09 13:51:29",
+        "user": {
+            "id": "58602788-vkontakte",
+            "nickname": "Dandelion_Wine",
+            "booksCount": 43
+        }
+    },
     "yQaaRY60yC": {
         "id": "yQaaRY60yC",
         "title": "Темные аллеи 2.2",
@@ -345,18 +357,6 @@
             "id": "310646815-vkontakte",
             "nickname": "stamovashahzada",
             "booksCount": 68
-        }
-    },
-    "YdEuLb0Lob": {
-        "id": "YdEuLb0Lob",
-        "title": "Тайна проклятого герцога. Книга 1",
-        "author": "Елена Звёздная",
-        "notes": "9/10",
-        "createdAt": "2020-06-25 08:34:34",
-        "user": {
-            "id": "310646815-vkontakte",
-            "nickname": "stamovashahzada",
-            "booksCount": 67
         }
     }
 }

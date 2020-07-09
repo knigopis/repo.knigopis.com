@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Садовые чары ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>43</sup>
 * Темные аллеи 2.2 ~ [En](users/333/333646551-vkontakte)<sup>120</sup>
 * Время в порядке ~ [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup>
 * Мы живые ~ [zAAz](users/202/202248233-vkontakte)<sup>59</sup>
@@ -30,7 +31,6 @@
 * Внутри убийцы ~ [En](users/333/333646551-vkontakte)<sup>117</sup>
 * Довелесова книга ~ [mfevralev](users/140/140966150-vkontakte)<sup>46</sup>
 * Тайна проклятого герцога. Книга 2 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>68</sup>
-* Тайна проклятого герцога. Книга 1 ~ [stamovashahzada](users/310/310646815-vkontakte)<sup>67</sup>
 
 
-_08.07.2020 00:56:31_
+_09.07.2020 13:51:29_

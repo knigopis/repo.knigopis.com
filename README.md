@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Садовые чары ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>43</sup>
+    > ISBN 978-5-389-13431-7
+    > ...какое мороженое выбрать. Шоколадно-мятное, клубнику с ревенем, персик с карамелью или кофе с ванилью. Это была идея деда. Предложи людям то, чего они пока не пробовали, и они никогда тебя не забудут.
+
 * Темные аллеи 2.2 ~ [En](users/333/333646551-vkontakte)<sup>120</sup>
     > сборник рассказов и повестей Говарда Филлипса Лавкрафта. Ктулху и аколиты ждут вас в темноте за ближайшим поворотом, и хоть сегодня они уже не представляются такими ужасающими, как прежде, но не всякий отважится посмотреть в глаза этих чудовищ...
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Сутки
 
 * Мы живые ~ [zAAz](users/202/202248233-vkontakte)<sup>59</sup>
-    > Да, местами примитивно разворачивались события и и сами образы главных героев, так как мое знакомство с Айн Рэнд началось с "Источника", а потом и "Атлант расправил плечи", потому как "Мы живые" это ее первый роман. Однако это не испортило впечатления. Очень трогательно и душераздирающе. Спасибо, Айн, спасибо ещё раз за возможность пережить эти высокие чувства о жизни, о мире, обо всём!
 
 * Полный набор: Война с орками ~ [gray7wand](users/110/110080946273609412257-google)<sup>8</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Цветы под дождем и другие рассказы ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup>
 
-* Полный набор: Великая Миссия ~ [gray7wand](users/110/110080946273609412257-google)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dandelion_Wine](users/586/58602788-vkontakte)<sup>43</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>40</sup> 
 [](users/104/104731829794763834502-google)<sup>11</sup> 
 [](users/153/1537586159620888-facebook)<sup>21</sup> 
@@ -47,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>168</sup> 
-[Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup> 
 [Tavor](users/107/107548900280182613163-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>53</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 
 
-_09.07.2020 10:54:52_
+_09.07.2020 13:51:29_
