@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я змішаю твою кров із вугіллям ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>124</sup>
+    > 10/10 Культурографічна та історична оповідь про український Донбас, мандрівка на Схід. Дружківка-Добропілля-Костянтинівка-Покровськ-Лисичанськ-Сєвєродонецьк
+
 * Садовые чары ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>43</sup>
     > ISBN 978-5-389-13431-7
     > ...какое мороженое выбрать. Шоколадно-мятное, клубнику с ревенем, персик с карамелью или кофе с ванилью. Это была идея деда. Предложи людям то, чего они пока не пробовали, и они никогда тебя не забудут.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > сборник рассказов и повестей Говарда Филлипса Лавкрафта. Ктулху и аколиты ждут вас в темноте за ближайшим поворотом, и хоть сегодня они уже не представляются такими ужасающими, как прежде, но не всякий отважится посмотреть в глаза этих чудовищ...
 
 * Время в порядке ~ [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup>
-    > Сутки
 
 * Мы живые ~ [zAAz](users/202/202248233-vkontakte)<sup>59</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Темна вежа 7. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>121</sup>
 
-* Цветы под дождем и другие рассказы ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Varyvod](users/829/829893410524253-facebook)<sup>124</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>43</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>40</sup> 
 [](users/104/104731829794763834502-google)<sup>11</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>51</sup> 
 [vladimir76](users/831/831845204288-odnoklassniki)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
-[Daria Varyvod](users/829/829893410524253-facebook)<sup>123</sup> 
 [Elixir](users/115/115826717712507836033-google)<sup>168</sup> 
 [Tavor](users/107/107548900280182613163-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>92</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>126</sup> 
 
 
-_09.07.2020 13:51:29_
+_09.07.2020 13:57:38_
