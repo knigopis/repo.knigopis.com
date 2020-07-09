@@ -1,4 +1,16 @@
 {
+    "bPEnWA-7pb": {
+        "id": "bPEnWA-7pb",
+        "title": "Хаджи-Мурат",
+        "author": "Лев Николаевич Толстой",
+        "notes": "",
+        "createdAt": "2020-07-09 20:32:31",
+        "user": {
+            "id": "112388384595246311466-google",
+            "nickname": "ЗаяцЛис",
+            "booksCount": 41
+        }
+    },
     "8Ec4NQstgy": {
         "id": "8Ec4NQstgy",
         "title": "Эпоха мертвых. Начало",
@@ -345,18 +357,6 @@
             "id": "58602788-vkontakte",
             "nickname": "Dandelion_Wine",
             "booksCount": 42
-        }
-    },
-    "GSSjHKlw7q": {
-        "id": "GSSjHKlw7q",
-        "title": "Полный набор: Великая Миссия",
-        "author": "Князев Милослав",
-        "notes": "7/10",
-        "createdAt": "2020-07-05 21:24:30",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 6
         }
     }
 }

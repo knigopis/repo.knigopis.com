@@ -34,11 +34,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ЗаяцЛис](users/112/112388384595246311466-google)<sup>41</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>155</sup> 
 [stewardessN4](users/108/108304368373474603096-google)<sup>0</sup> 
 [Daria Varyvod](users/829/829893410524253-facebook)<sup>124</sup> 
 [Dandelion_Wine](users/586/58602788-vkontakte)<sup>43</sup> 
-[ЗаяцЛис](users/112/112388384595246311466-google)<sup>40</sup> 
 [](users/104/104731829794763834502-google)<sup>11</sup> 
 [](users/153/1537586159620888-facebook)<sup>21</sup> 
 [En](users/333/333646551-vkontakte)<sup>120</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>5</sup> 
 
 
-_09.07.2020 16:17:17_
+_09.07.2020 20:32:31_
