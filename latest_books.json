@@ -1,4 +1,16 @@
 {
+    "8Ec4NQstgy": {
+        "id": "8Ec4NQstgy",
+        "title": "Эпоха мертвых. Начало",
+        "author": "Андрей Круз",
+        "notes": "",
+        "createdAt": "2020-07-09 16:17:17",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 155
+        }
+    },
     "OiwhZLRhlh": {
         "id": "OiwhZLRhlh",
         "title": "Я змішаю твою кров із вугіллям",
@@ -345,18 +357,6 @@
             "id": "110080946273609412257-google",
             "nickname": "gray7wand",
             "booksCount": 6
-        }
-    },
-    "GoRWx056F2": {
-        "id": "GoRWx056F2",
-        "title": "Полный набор: Месть темной эльфийки",
-        "author": "Князев Милослав",
-        "notes": "7/10",
-        "createdAt": "2020-07-05 21:24:02",
-        "user": {
-            "id": "110080946273609412257-google",
-            "nickname": "gray7wand",
-            "booksCount": 5
         }
     }
 }
