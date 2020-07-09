@@ -1,4 +1,10 @@
 {
+    "108304368373474603096-google": {
+        "id": "108304368373474603096-google",
+        "nickname": "stewardessN4",
+        "booksCount": 0,
+        "updatedAt": "2020-07-09 16:10:11"
+    },
     "829893410524253-facebook": {
         "id": "829893410524253-facebook",
         "nickname": "Daria Varyvod",
@@ -172,11 +178,5 @@
         "nickname": "Fenix",
         "booksCount": 5,
         "updatedAt": "2020-06-28 09:27:08"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 126,
-        "updatedAt": "2020-06-28 08:48:17"
     }
 }
