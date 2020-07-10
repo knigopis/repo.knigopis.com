@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хорошо быть тихоней ~ [Elixir](users/115/115826717712507836033-google)<sup>169</sup>
+    > Жаль, что не прочитала эту книгу лет в 20. Показан удивительно тонко мир  взросления подростка...
+
 * Я змішаю твою кров із вугіллям ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>124</sup>
     > 10/10 Культурографічна та історична оповідь про український Донбас, мандрівка на Схід. Дружківка-Добропілля-Костянтинівка-Покровськ-Лисичанськ-Сєвєродонецьк
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > ...какое мороженое выбрать. Шоколадно-мятное, клубнику с ревенем, персик с карамелью или кофе с ванилью. Это была идея деда. Предложи людям то, чего они пока не пробовали, и они никогда тебя не забудут.
 
 * Темные аллеи 2.2 ~ [En](users/333/333646551-vkontakte)<sup>120</sup>
-    > сборник рассказов и повестей Говарда Филлипса Лавкрафта. Ктулху и аколиты ждут вас в темноте за ближайшим поворотом, и хоть сегодня они уже не представляются такими ужасающими, как прежде, но не всякий отважится посмотреть в глаза этих чудовищ...
 
 * Время в порядке ~ [Таньчик](users/209/2096581563762610-facebook)<sup>89</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Шифропанки: свобода и будущее Интернета ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>122</sup>
 
-* Темна вежа 7. ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>121</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elixir](users/115/115826717712507836033-google)<sup>169</sup> 
 [ЗаяцЛис](users/112/112388384595246311466-google)<sup>41</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>155</sup> 
 [stewardessN4](users/108/108304368373474603096-google)<sup>0</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антенка](users/118/118158645037334943900-google)<sup>51</sup> 
 [vladimir76](users/831/831845204288-odnoklassniki)<sup>0</sup> 
 [rNix](users/227/22742452-yandex)<sup>66</sup> 
-[Elixir](users/115/115826717712507836033-google)<sup>168</sup> 
 [Tavor](users/107/107548900280182613163-google)<sup>0</sup> 
 [kissamasya](users/684/68439978-vkontakte)<sup>92</sup> 
 [4apa](users/117/117392596378069249667-google)<sup>53</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Fenix](users/111/111367585493471720963-google)<sup>5</sup> 
 
 
-_09.07.2020 20:32:31_
+_10.07.2020 10:53:16_

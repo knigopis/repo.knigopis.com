@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хорошо быть тихоней ~ [Elixir](users/115/115826717712507836033-google)<sup>169</sup>
 * Я змішаю твою кров із вугіллям ~ [Daria Varyvod](users/829/829893410524253-facebook)<sup>124</sup>
 * Садовые чары ~ [Dandelion_Wine](users/586/58602788-vkontakte)<sup>43</sup>
 * Темные аллеи 2.2 ~ [En](users/333/333646551-vkontakte)<sup>120</sup>
@@ -30,7 +31,6 @@
 * Sos and Varditer Սոս և Վարդիթեր Сос и Вардитер ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>19</sup>
 * Из-за хлеба Հացի խնդիր Issue of Bread ~ [ՎաչՎաղՍիր SirVach](users/113/1130000004300166-yandex)<sup>18</sup>
 * Внутри убийцы ~ [En](users/333/333646551-vkontakte)<sup>117</sup>
-* Довелесова книга ~ [mfevralev](users/140/140966150-vkontakte)<sup>46</sup>
 
 
-_09.07.2020 13:57:38_
+_10.07.2020 10:53:16_
