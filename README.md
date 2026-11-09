@@ -1,3 +1,9 @@
+> **Устарело.** Первое хранилище записей Книгописи, обновлялось до 2020 года. Продолжение —
+> [repo2.knigopis.com](https://github.com/knigopis/repo2.knigopis.com), новая Книгопись —
+> [knigopis-p2p](https://github.com/knigopis/knigopis-p2p).
+>
+> *Outdated: the first Knigopis storage (until 2020). Continued in repo2.knigopis.com.*
+
 # Hello, reader!
 This is the main storage of [www.knigopis.com](http://www.knigopis.com) - the registry of read books.
 To add your book use www-site. All changes are committed and synchronized with this git repository.
